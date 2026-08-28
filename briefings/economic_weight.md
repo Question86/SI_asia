@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-08-28T21:39:45+00:00`
+Generated: `2026-08-28T22:15:51+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -28,9 +28,9 @@ Generated: `2026-08-28T21:39:45+00:00`
 | Language was never the problem: Inside SEA’s real AI adoption gap | unknown | $113.60K | $11.36M | $1.14B | 0.31 |
 | TeamViewer schließt hochriskante Lücken in Clients | unknown | $113.60K | $11.36M | $1.14B | 0.36 |
 | 開発をシフトレフトせよ――形式仕様でAIと事前に合意する開発のすすめかた | unknown | $112.80K | $11.28M | $1.13B | 0.31 |
+| Claude Codeで開発以外の業務も爆速化しよう！ | unknown | $112.80K | $11.28M | $1.13B | 0.36 |
 | Isabel Schnabel: Central banks on-chain | product_release | $111.20K | $11.12M | $1.11B | 0.31 |
 | curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？ | unknown | $106.40K | $10.64M | $1.06B | 0.31 |
-| 電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題 | unknown | $106.40K | $10.64M | $1.06B | 0.31 |
 
 ## Interpretation
 

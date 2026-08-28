@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-28T21:40:00+00:00",
+  "generated_at": "2026-08-28T22:16:08+00:00",
   "events": [
     {
       "event_id": "evt_088bfa5231048a3752af",
@@ -176,7 +176,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_78f0e57fed5975d5dde6",
@@ -267,6 +267,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_a9168860075ad99c5a0d",
+      "title": "Claude Codeで開発以外の業務も爆速化しよう！",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_e43c9e3077c7255b207a",
       "title": "Ecosystem Roundup: SBI leads US$270M round in Indonesia’s largest tech deal in years",
       "deduplicated_buckets": 0,
@@ -280,12 +291,12 @@
     {
       "event_id": "evt_f57fccff74e206c13a6c",
       "title": "Claude Code から Cloud Run 上の MCP サーバを使うための認可構成 - エムスリーテックブログ",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     }
   ]

@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-08-28T21:40:00+00:00`
+Generated: `2026-08-28T22:16:08+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -19,7 +19,7 @@ Generated: `2026-08-28T21:40:00+00:00`
 | SOYシリーズにおける複数の脆弱性 | $0 | — | 0 | 0 | active |
 | [NEU] [hoch] Linux Kernel: Mehrere Schwachstellen | $0 | — | 0 | 0 | active |
 | 九州大学での Claude Code ハンズオンを、一人でもプロダクトを作れるワークショップキットとして公開しました \| DevelopersIO | $0 | — | 0 | 0 | active |
-| 開発をシフトレフトせよ――形式仕様でAIと事前に合意する開発のすすめかた | $0 | — | 0 | 0 | active |
+| 開発をシフトレフトせよ――形式仕様でAIと事前に合意する開発のすすめかた | $0 | — | 0 | 0 | dormant |
 | OpenAIの暴走AI、1200体が結託 「仲間のため｣とシステムに突撃要求 - 日本経済新聞 | $0 | — | 0 | 0 | active |
 | 【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表 | $0 | — | 0 | 0 | dormant |
 | 綠色運算｜NUMail - OS Command Injection | $0 | — | 0 | 0 | active |
@@ -28,4 +28,4 @@ Generated: `2026-08-28T21:40:00+00:00`
 | Language was never the problem: Inside SEA’s real AI adoption gap | $0 | — | 0 | 0 | active |
 | GROWIにおける複数の脆弱性 | $0 | — | 0 | 0 | active |
 | TeamViewer schließt hochriskante Lücken in Clients | $0 | — | 0 | 0 | dormant |
-| Ecosystem Roundup: SBI leads US$270M round in Indonesia’s largest tech deal in years | $0 | — | 0 | 0 | active |
+| Claude Codeで開発以外の業務も爆速化しよう！ | $0 | — | 0 | 0 | active |
