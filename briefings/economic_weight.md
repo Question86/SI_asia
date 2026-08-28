@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-08-28T18:20:21+00:00`
+Generated: `2026-08-28T21:39:45+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -20,6 +20,7 @@ Generated: `2026-08-28T18:20:21+00:00`
 | K-Dense-AI/scientific-agent-skills | unknown | $122.40K | $12.24M | $1.22B | 0.31 |
 | The deepfake threat and beyond: 3 unconventional security crises every founder-led brand must prepare for | unknown | $119.20K | $11.92M | $1.19B | 0.31 |
 | OpenAIの暴走AI、1200体が結託 「仲間のため｣とシステムに突撃要求 - 日本経済新聞 | unknown | $118.40K | $11.84M | $1.18B | 0.31 |
+| Claude Code から Cloud Run 上の MCP サーバを使うための認可構成 - エムスリーテックブログ | unknown | $117.60K | $11.76M | $1.18B | 0.31 |
 | Supporting Thailand’s next generation of AI startups | unknown | $116.80K | $11.68M | $1.17B | 0.31 |
 | Ecosystem Roundup: SBI leads US$270M round in Indonesia’s largest tech deal in years | unknown | $116.80K | $11.68M | $1.17B | 0.31 |
 | JetBrains/go-modern-guidelines | unknown | $115.20K | $11.52M | $1.15B | 0.31 |
@@ -30,7 +31,6 @@ Generated: `2026-08-28T18:20:21+00:00`
 | Isabel Schnabel: Central banks on-chain | product_release | $111.20K | $11.12M | $1.11B | 0.31 |
 | curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？ | unknown | $106.40K | $10.64M | $1.06B | 0.31 |
 | 電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題 | unknown | $106.40K | $10.64M | $1.06B | 0.31 |
-| 【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表 | unknown | $106.40K | $10.64M | $1.06B | 0.31 |
 
 ## Interpretation
 

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-28T18:20:38+00:00",
+  "generated_at": "2026-08-28T21:40:00+00:00",
   "events": [
     {
       "event_id": "evt_088bfa5231048a3752af",
@@ -60,13 +60,13 @@
     {
       "event_id": "evt_43856848b80264610146",
       "title": "Isabel Schnabel: Central banks on-chain",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_4ce5fd3e6b5f0a672fe3",
@@ -275,6 +275,17 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
+      "status": "active"
+    },
+    {
+      "event_id": "evt_f57fccff74e206c13a6c",
+      "title": "Claude Code から Cloud Run 上の MCP サーバを使うための認可構成 - エムスリーテックブログ",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "status": "active"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-28T18:20:21+00:00",
+  "generated_at": "2026-08-28T21:39:45+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -19,7 +19,7 @@
       "p90_usd": 1224000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-08-28T18:20:05+00:00",
+      "last_seen_at": "2026-08-28T21:39:31+00:00",
       "status": "active"
     },
     {
@@ -36,7 +36,7 @@
       "p90_usd": 1136000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-08-28T18:20:05+00:00",
+      "last_seen_at": "2026-08-28T21:39:31+00:00",
       "status": "active"
     },
     {
@@ -54,7 +54,7 @@
       "p90_usd": 119200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-08-28T18:20:05+00:00",
+      "last_seen_at": "2026-08-28T21:39:31+00:00",
       "status": "active"
     },
     {
@@ -71,7 +71,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-08-28T18:20:05+00:00",
+      "last_seen_at": "2026-08-28T21:39:31+00:00",
       "status": "active"
     },
     {
@@ -88,7 +88,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-08-28T18:20:05+00:00",
+      "last_seen_at": "2026-08-28T21:39:31+00:00",
       "status": "active"
     },
     {
@@ -105,7 +105,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-08-28T18:20:05+00:00",
+      "last_seen_at": "2026-08-28T21:39:31+00:00",
       "status": "active"
     },
     {
@@ -122,7 +122,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-08-28T18:20:05+00:00",
+      "last_seen_at": "2026-08-28T21:39:31+00:00",
       "status": "active"
     },
     {
@@ -139,7 +139,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-08-28T18:20:05+00:00",
+      "last_seen_at": "2026-08-28T21:39:31+00:00",
       "status": "active"
     },
     {
@@ -156,7 +156,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-08-28T18:20:05+00:00",
+      "last_seen_at": "2026-08-28T21:39:31+00:00",
       "status": "active"
     },
     {
@@ -173,7 +173,7 @@
       "p90_usd": 2820000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-08-28T18:20:05+00:00",
+      "last_seen_at": "2026-08-28T21:39:31+00:00",
       "status": "active"
     },
     {
@@ -207,7 +207,7 @@
       "p90_usd": 1224000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-08-28T18:20:05+00:00",
+      "last_seen_at": "2026-08-28T21:39:31+00:00",
       "status": "active"
     },
     {
@@ -224,7 +224,7 @@
       "p90_usd": 1192000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-08-28T18:20:05+00:00",
+      "last_seen_at": "2026-08-28T21:39:31+00:00",
       "status": "active"
     },
     {
@@ -241,7 +241,24 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-08-28T18:20:05+00:00",
+      "last_seen_at": "2026-08-28T21:39:31+00:00",
+      "status": "active"
+    },
+    {
+      "event_id": "evt_f57fccff74e206c13a6c",
+      "title": "Claude Code から Cloud Run 上の MCP サーバを使うための認可構成 - エムスリーテックブログ",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 117600.0,
+      "p50_usd": 11760000.0,
+      "p90_usd": 1176000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-08-28T21:39:31+00:00",
+      "last_seen_at": "2026-08-28T21:39:31+00:00",
       "status": "active"
     },
     {
@@ -258,7 +275,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-08-28T18:20:05+00:00",
+      "last_seen_at": "2026-08-28T21:39:31+00:00",
       "status": "active"
     },
     {
@@ -275,7 +292,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-08-28T18:20:05+00:00",
+      "last_seen_at": "2026-08-28T21:39:31+00:00",
       "status": "active"
     },
     {
@@ -292,7 +309,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-08-28T18:20:05+00:00",
+      "last_seen_at": "2026-08-28T21:39:31+00:00",
       "status": "active"
     },
     {
@@ -309,7 +326,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-08-28T18:20:05+00:00",
+      "last_seen_at": "2026-08-28T21:39:31+00:00",
       "status": "active"
     },
     {
@@ -326,7 +343,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-08-28T18:20:05+00:00",
+      "last_seen_at": "2026-08-28T21:39:31+00:00",
       "status": "active"
     },
     {
@@ -360,7 +377,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-08-28T18:20:05+00:00",
+      "last_seen_at": "2026-08-28T21:39:31+00:00",
       "status": "active"
     },
     {
@@ -378,7 +395,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T18:20:05+00:00",
       "last_seen_at": "2026-08-28T18:20:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_369ed4c57635e2a534e3",

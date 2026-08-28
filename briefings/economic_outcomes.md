@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-08-28T18:20:38+00:00`
+Generated: `2026-08-28T21:40:00+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -9,7 +9,7 @@ Generated: `2026-08-28T18:20:38+00:00`
 | Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される | $0 | — | 0 | 0 | dormant |
 | curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？ | $0 | — | 0 | 0 | dormant |
 | bilawalsidhu/gods-eye-view | $0 | — | 0 | 0 | active |
-| Isabel Schnabel: Central banks on-chain | $0 | — | 0 | 0 | active |
+| Isabel Schnabel: Central banks on-chain | $0 | — | 0 | 0 | dormant |
 | Why every warehouse in Singapore will run on AI safety monitoring within five years | $0 | — | 0 | 0 | active |
 | K-Dense-AI/scientific-agent-skills | $0 | — | 0 | 0 | active |
 | M 5.0 - 19 km NW of Fuji, China | $0 | — | 0 | 0 | active |
