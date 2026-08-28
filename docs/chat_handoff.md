@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-28T22:28:43+00:00_
+_Generated: 2026-08-28T22:38:20+00:00_
 
 ## Status
 - status: `normal`
-- findings: `62`
+- findings: `63`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-08-28T22:28:43+00:00_
 - url: https://e27.co/language-was-never-the-problem-inside-seas-real-ai-adoption-gap-20260827/
 - summary: Ask most people what is holding back AI adoption in Southeast Asia, and the answer usually circles back to language. Bahasa Indonesia, Vietnamese, Thai and Malay are still treated as the great unsolved frontier for global models, the assumption being that onc…
 
-### 7. Claude Codeで開発以外の業務も爆速化しよう！
+### 7. M 4.9 - 124 km N of Aksu, China
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `11`
+- published: `2026-08-28T22:32:02.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcq8
+- summary: Time 2026-08-28 22:07:33 UTC 2026-08-28 22:07:33 UTC at epicenter Location 42.286°N 80.525°E Depth 10.00 km (6.21 mi)
+
+### 8. Claude Codeで開発以外の業務も爆速化しよう！
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-08-28T12:11:02+00:00`
 - url: https://speakerdeck.com/minorun365/claude-code-de-kaihatsu-igai-no-gyoumu-mo-ka-shiyou
 - summary: ［みのるん式］ビジネスパーソンのためのClaude Code仕事術 https://www.amazon.co.jp/dp/4297159392
-
-### 8. M 5.0 - 19 km NW of Fuji, China
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-08-28T05:31:06.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcht
-- summary: Time 2026-08-28 05:13:35 UTC 2026-08-28 05:13:35 UTC at epicenter Location 29.275°N 105.229°E Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT

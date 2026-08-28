@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-28T22:28:47+00:00",
-  "today_file_total": 62,
+  "generated_at": "2026-08-28T22:38:25+00:00",
+  "today_file_total": 63,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -250,6 +250,31 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
+      "key": "earthquake:m 4.9 - 124 km n of aksu, china:4.9",
+      "title": "M 4.9 - 124 km N of Aksu, China",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcq8"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 16.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
       "key": "title:growi",
       "title": "GROWIにおける複数の脆弱性",
       "sources": [
@@ -457,29 +482,6 @@
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "domain:www.twcert.org",
-      "title": "綠色運算｜NUMail - OS Command Injection",
-      "sources": [
-        "TWCERT/CC TVN Vulnerability Notes RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.twcert.org.tw/tw/cp-132-11144-45c6a-1.html"
-      ],
-      "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 13.1,
-      "hot": false,
-      "watchgraph_modules": [],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     }
   ]

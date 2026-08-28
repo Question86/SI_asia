@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-28T22:28:42+00:00_
+_Generiert: 2026-08-28T22:38:20+00:00_
 
 ## Kurzlage
 
-62 neue relevante Treffer. Stärkstes Signal: „Why every warehouse in Singapore will run on AI safety monitoring within five years“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
+63 neue relevante Treffer. Stärkstes Signal: „Why every warehouse in Singapore will run on AI safety monitoring within five years“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -168,6 +168,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia, Vietnam (+2.0)
   - Kurz: Ask most people what is holding back AI adoption in Southeast Asia, and the answer usually circles back to language. Bahasa Indonesia, Vietnamese, Thai and Malay are still treated as the great unsolved frontier for global models, the assumption being that once AI speaks the region fluently, enterprises will follow. Kai Yong Kang, Partner at […] The post Language was never the problem: Inside SEA’s real AI adoption g…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.9 - 124 km N of Aksu, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcq8)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-28T22:32:02.040+00:00`, fetched `2026-08-28T22:37:44+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-28 22:07:33 UTC 2026-08-28 22:07:33 UTC at epicenter Location 42.286°N 80.525°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Claude Codeで開発以外の業務も爆速化しよう！** — Score 11, observation — [Quelle](https://speakerdeck.com/minorun365/claude-code-de-kaihatsu-igai-no-gyoumu-mo-ka-shiyou)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-28T12:11:02+00:00`, fetched `2026-08-28T22:14:59+00:00`
@@ -275,15 +284,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 画像生成 AI は、ドット絵も描けるようになりました。 少なくとも、遠目にはそう見えます。 私はドット絵のイラストが好きで、SNS のアイコンやプロダクト紹介の 1 枚絵に使いたいと思っていました。 絵心はありませんが、いまは AI が描いてくれます。 ところが、生成された画像を拡大してみると話が変わります。 ドッ...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **I went to China to see a different AI future. It looked familiar** — Score 7, observation — [Quelle](https://restofworld.org/2026/china-us-ai-future/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
-  - Quelle: Rest of World Global Tech Feed / `rss`
-  - Zeit: published `2026-08-28T13:00:00+00:00`, fetched `2026-08-28T14:07:58+00:00`
-  - Treffer: AI/KI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); recent (+1.0); watchgraph region china_credible_only: China (+2.0)
-  - Kurz: My trip to China revealed an AI race that looks less like a clash of competing visions, and more like two countries racing toward a similar future.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
