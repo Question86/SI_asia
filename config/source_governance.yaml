@@ -30,6 +30,48 @@ classes:
   broad_sensor: [global_media_monitor, specialist, tier3_specialist, social, tier4_platform_social]
 
 signals:
+  # Runtime bridge used by scripts/monitor.py. These concrete market and
+  # transmission terms receive a bounded context bonus; they do not by
+  # themselves bypass the high-priority confirmation gate.
+  financial_signal_terms:
+    - trading halt
+    - circuit breaker
+    - margin call
+    - liquidity squeeze
+    - funding stress
+    - repo spike
+    - deposit outflow
+    - bank run
+    - profit warning
+    - guidance cut
+    - credit downgrade
+    - credit rating downgrade
+    - rating watch
+    - default notice
+    - sovereign default
+    - covenant breach
+    - fx intervention
+    - capital control
+    - emergency rate
+    - unscheduled meeting
+    - liquidity facility
+    - bank resolution
+    - deposit guarantee
+    - limit down
+    - export control
+    - entity list
+    - chip export restriction
+    - chip ban
+    - fab shutdown
+    - fab outage
+    - foundry halt
+    - wafer shortage
+    - undersea cable
+    - port congestion
+  financial_signal_bonus:
+    points_per_hit: 2.0
+    max_points: 8.0
+
   # high_signal_terms is the exemption path from the dominance penalty in
   # config/resonance_ranking.yaml ("penalty_when: ... no high-signal term ...").
   # Extending this list is how the fork raises finance weight WITHOUT weakening

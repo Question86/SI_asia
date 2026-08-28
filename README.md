@@ -5,7 +5,7 @@ senna-infoflow 是一套供 User Yps / AXI0M 使用的公開來源訊號過濾�
 > **本分支說明**
 > 這是上游 `Question86/senna-infoflow` 的繁體中文分支，並針對**金融市場相關的資訊與新聞型態**提高權重。
 > 變更內容與理由完整記錄於 [`MIGRATION.md`](MIGRATION.md)。
-> 程式邏輯未更動，僅調整設定檔數值與文件語言。
+> `scripts/monitor.py` 會把治理檔中的金融訊號接入即時評分：具體市場壓力取得有上限的 context bonus，高訊號事件沿用既有確認閘門。
 
 本系統**不是**完整的新聞服務，也不宣稱能全面監看世界局勢。它只讀取已設定、公開、獲授權的來源。不使用私人帳號、不登入、不繞過付費牆或資料庫、不對明確禁止抓取的對象進行抓取。
 
@@ -126,9 +126,9 @@ keyword score
 
 ```
 scripts/debias_findings_postprocess.py
+scripts/monitor.py
 scripts/network_hub_postprocess.py
 scripts/resonance_rank_postprocess.py
-scripts/source_quality_guard.py
 config/resonance_ranking.yaml
 config/source_governance.yaml
 ```
@@ -179,11 +179,13 @@ single-source, no cross-source resonance, no high-signal term, momentum_delta <=
 
 其中 **「no high-signal term」** 正是豁免路徑。因此本分支**不削弱 dominance guard**，而是擴充 `high_signal_terms`：實質性的金融事件因此得以脫離上限，而例行性的央行發言仍受限制。這是刻意的設計選擇。
 
+`scripts/monitor.py` 在啟動時讀取 `config/source_governance.yaml`。金融市場與傳導詞彙會得到 capped context bonus（每個命中 2 分，最多 8 分）；它們本身不會繞過 high-priority confirmation gate。治理檔中的 high-signal 詞彙則沿用既有的 high-signal boost 與閘門。每次 Monitor Action 也會執行 `network_hub_postprocess.py` 與 `resonance_rank_postprocess.py`，而 Resonance 層同樣讀取治理檔與本分支的 trigger terms。
+
 ---
 
 ## 來源治理
 
-`config/source_governance.yaml` 定義本專案要避免的退化型態：
+`config/source_governance.yaml` 定義本專案要避免的退化型態，且其中的 signal lists 會被即時 Monitor 與 Resonance 層讀取：
 
 - 過多的一般性主流／大型媒體來源
 - 單一主機或單一類別過度集中

@@ -265,6 +265,34 @@ class MonitorScoringTests(unittest.TestCase):
         self.assertIn("watchgraph high-signal", scored.relevance_reason)
         self.assertIn("Watchgraph hot action", scored.recommended_action)
 
+    def test_runtime_governance_binds_finance_terms_and_official_classes(self):
+        rules = monitor.load_runtime_rules()
+        watchgraph_rules = rules["watchgraph_scoring"]
+
+        self.assertIn("emergency rate", watchgraph_rules["high_signal_boost_terms"])
+        self.assertIn("margin call", watchgraph_rules["financial_signal_terms"])
+        self.assertEqual(watchgraph_rules["financial_signal_bonus"]["max_points"], 8.0)
+        self.assertIn("central_bank_network", watchgraph_rules["official_source_classes"])
+        self.assertIn("market_operator", watchgraph_rules["official_source_classes"])
+
+    def test_financial_context_bonus_is_bounded_without_high_priority_bypass(self):
+        rules = monitor.load_runtime_rules()
+        finding = monitor.Finding(
+            title="Margin call, liquidity squeeze and repo spike",
+            url="https://example.test/market",
+            source="Specialist market report",
+            source_type="rss",
+            published_at=None,
+            fetched_at="2026-08-28T00:00:00+00:00",
+            summary="Funding stress and deposit outflow are reported.",
+        )
+
+        scored = monitor.score_finding(finding, {}, {"keywords": []}, rules)
+
+        self.assertEqual(scored.relevance_score, 8)
+        self.assertIn("financial-market signal", scored.relevance_reason)
+        self.assertLess(scored.relevance_score, rules["scoring"]["high_threshold"])
+
     def test_watchgraph_modules_and_market_context_are_attached(self):
         finding = monitor.Finding(
             title="Major earthquake triggers tsunami warning",

@@ -641,6 +641,55 @@ def unique_keep_order(values: list[Any]) -> list[str]:
     return result
 
 
+def merge_runtime_governance(rules: dict[str, Any], governance: dict[str, Any]) -> dict[str, Any]:
+    """Bind governed signal lists to the live monitor without weakening gates."""
+    merged = dict(rules) if isinstance(rules, dict) else {}
+    watchgraph_rules = dict(merged.get("watchgraph_scoring") or {})
+    signals = governance.get("signals") if isinstance(governance, dict) else {}
+    signals = signals if isinstance(signals, dict) else {}
+
+    configured_high = signals.get("high_signal_terms") or []
+    existing_high = watchgraph_rules.get("high_signal_boost_terms") or []
+    watchgraph_rules["high_signal_boost_terms"] = unique_keep_order(
+        list(existing_high) + list(configured_high)
+    )
+
+    configured_finance = signals.get("financial_signal_terms") or []
+    if configured_finance:
+        watchgraph_rules["financial_signal_terms"] = unique_keep_order(configured_finance)
+        bonus = signals.get("financial_signal_bonus") or {}
+        if isinstance(bonus, dict):
+            try:
+                points_per_hit = max(0.0, float(bonus.get("points_per_hit", 2.0)))
+            except (TypeError, ValueError):
+                points_per_hit = 2.0
+            try:
+                max_points = max(0.0, float(bonus.get("max_points", 8.0)))
+            except (TypeError, ValueError):
+                max_points = 8.0
+            watchgraph_rules["financial_signal_bonus"] = {
+                "points_per_hit": points_per_hit,
+                "max_points": max_points,
+            }
+
+    classes = governance.get("classes") if isinstance(governance, dict) else {}
+    classes = classes if isinstance(classes, dict) else {}
+    institutional = classes.get("institutional") or []
+    existing_official = watchgraph_rules.get("official_source_classes") or []
+    watchgraph_rules["official_source_classes"] = unique_keep_order(
+        list(existing_official) + list(institutional)
+    )
+
+    merged["watchgraph_scoring"] = watchgraph_rules
+    return merged
+
+
+def load_runtime_rules() -> dict[str, Any]:
+    rules = load_yaml(CONFIG_DIR / "rules.yaml", {})
+    governance = load_yaml(CONFIG_DIR / "source_governance.yaml", {})
+    return merge_runtime_governance(rules, governance)
+
+
 def keyword_specs(keywords_config: dict[str, Any], source: dict[str, Any]) -> list[dict[str, Any]]:
     specs: list[dict[str, Any]] = []
     seen_keys: set[str] = set()
@@ -865,6 +914,27 @@ def apply_watchgraph_scoring(
         score += boost
         reasons.append(f"watchgraph high-signal {', '.join(high_signal_hits[:4])} (+{boost:.1f})")
         gate_reasons.append("high_signal")
+
+    financial_signal_hits = matching_terms(combined_text, watchgraph_rules.get("financial_signal_terms", []))
+    high_signal_keys = {keyword_key(hit) for hit in high_signal_hits}
+    financial_signal_hits = [
+        hit for hit in financial_signal_hits if keyword_key(hit) not in high_signal_keys
+    ]
+    if financial_signal_hits:
+        bonus_config = watchgraph_rules.get("financial_signal_bonus") or {}
+        try:
+            points_per_hit = max(0.0, float(bonus_config.get("points_per_hit", 2.0)))
+        except (TypeError, ValueError, AttributeError):
+            points_per_hit = 2.0
+        try:
+            max_points = max(0.0, float(bonus_config.get("max_points", 8.0)))
+        except (TypeError, ValueError, AttributeError):
+            max_points = 8.0
+        bonus = min(max_points, points_per_hit * len(financial_signal_hits))
+        score += bonus
+        reasons.append(
+            f"financial-market signal {', '.join(financial_signal_hits[:5])} (+{bonus:.1f})"
+        )
 
     region_score = 0.0
     china_context = False
@@ -1355,7 +1425,7 @@ def main() -> int:
 
     sources_config = load_yaml(CONFIG_DIR / "sources.yaml", {})
     keywords_config = load_yaml(CONFIG_DIR / "keywords.yaml", {"keywords": []})
-    rules = load_yaml(CONFIG_DIR / "rules.yaml", {})
+    rules = load_runtime_rules()
     watchgraph = load_yaml(CONFIG_DIR / "watchgraph.yaml", {})
     watchgraph_markets = load_yaml(CONFIG_DIR / "watchgraph_markets.yaml", {})
     rules = dict(rules) if isinstance(rules, dict) else {}

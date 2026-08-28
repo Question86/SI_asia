@@ -27,11 +27,13 @@ single-source, no cross-source resonance, no high-signal term, momentum_delta <=
 
 ## Zusammenfassung (DE)
 
-Zwei Dinge: **Dokumentation auf 繁體中文**, und **Finanzmarkt-Muster staerker gewichtet**.
+Zwei Dinge: **Dokumentation auf 繁體中文**, und **Finanzmarkt-Muster staerker gewichtet**. Die Runtime-Anbindung ist im integrierten Fork ebenfalls enthalten.
 
-**Kein Code geaendert.** Nur Werte bestehender Schluessel in Configs, plus Uebersetzung.
+`scripts/monitor.py` bindet die Finanzsignal-Listen aus `source_governance.yaml` an den laufenden Monitor. Konkrete Finanz-/Transmissionsterme erhalten einen gedeckelten Context-Bonus von 2 Punkten pro Treffer, maximal 8 Punkte; sie umgehen allein nicht das High-Priority-Gate. High-Signal-Terme behalten den bestehenden Boost und die bestehende Gate-/Dominance-Logik.
 
 **Zentrale Entscheidung:** Der naheliegende Weg — `central_bank` aus `dominance_guard.dominant_emitters` entfernen — wurde bewusst *nicht* gegangen. Das haette das Anti-Megafon-Prinzip des Originals zerstoert. Stattdessen wurde `high_signal_terms` erweitert, weil die Penalty-Bedingung ohnehin bei einem High-Signal-Term entfaellt. Substanzielle Finanzereignisse entkommen dem Cap, Routine-Geplauder bleibt gedeckelt.
+
+`scripts/resonance_rank_postprocess.py` liest die Trigger- und High-Signal-Listen jetzt aus den Configs; `.github/workflows/monitor.yml` führt Network Hub und Resonance Ranking nach jedem Monitorlauf aus.
 
 ---
 
@@ -67,6 +69,14 @@ Neue Begriffe u.a.: `trading halt`, `circuit breaker`, `margin call`, `liquidity
 
 Taiwan: CBC · FSC · TWSE · TPEx · MOPS · DGBAS · MOEA
 Region: BOJ · BOK · HKMA · MAS · PBoC
+
+### Runtime-Integration
+
+| Datei | Funktion |
+|---|---|
+| `scripts/monitor.py` | bindet Governance-High-Signals und Finanzmarkt-Context-Bonus an den Live-Score |
+| `scripts/resonance_rank_postprocess.py` | liest `resonance_ranking.yaml` und `source_governance.yaml` statt nur hart codierter Listen |
+| `.github/workflows/monitor.yml` | führt Network Hub und Resonance Ranking nach dem Monitor aus |
 
 ### `README.md`
 
@@ -112,7 +122,7 @@ Pro Quelle vor dem Aktivieren:
 
 **A. Keyword-Sprache.** Alle bestehenden Quellen haben **ausschliesslich englische** `keywords`. Taiwanesische, japanische und koreanische Feeds publizieren in Landessprache — reine ASCII-Keywords matchen dort **nie**. Die neuen Quellen tragen deshalb zweisprachige Keywords. Falls die Pipeline Keyword-Matching case-/unicode-empfindlich macht, ist das vor dem ersten produktiven Lauf zu pruefen.
 
-**B. `high_signal_terms` / `early_signal_terms` Matching.** Ich habe **nicht** geprueft, ob `scripts/resonance_rank_postprocess.py` seine High-Signal-Liste tatsaechlich aus `source_governance.yaml` liest oder eine eigene Kopie haelt. Falls letzteres, greift die Dominance-Exemption nicht, und die Finanzgewichtung wirkt nur ueber `early_signal.trigger_terms`. **Vor dem ersten Lauf im Script nachsehen.**
+**B. `high_signal_terms` / `early_signal_terms` Matching.** Im integrierten Fork ist dieser Punkt behoben: `scripts/monitor.py` bindet die High-Signal- und Finanz-Context-Listen an den laufenden Score; `scripts/resonance_rank_postprocess.py` liest die Listen aus den Configs. Die Dominance-Exemption bleibt auf High-Signal-Terme begrenzt, während der kleinere Finanz-Context-Bonus allein kein High-Priority-Gate öffnet.
 
 ### Nicht uebernommene Klassenwerte
 
@@ -120,10 +130,10 @@ Pro Quelle vor dem Aktivieren:
 
 ---
 
-## Nicht geaendert
+## Bewusst nicht geaendert
 
-- Alle `scripts/*.py` — unangetastet
-- `.github/workflows/monitor.yml` — unangetastet
+- Die übrigen `scripts/*.py` — unangetastet
+- `.github/workflows/monitor.yml` — ergänzt nur um Network Hub und Resonance Ranking
 - `config/sources.yaml`, `config/hot_sources.yaml` — unangetastet
 - Budgets, Timeouts, Takt — unangetastet
 - `dominance_guard` — bewusst unangetastet

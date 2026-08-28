@@ -14,6 +14,7 @@ from pathlib import Path
 from typing import Any
 
 import network_hub_postprocess as hub
+import yaml
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -109,6 +110,48 @@ HIGH_SIGNAL_TERMS = [
     "state of emergency", "evacuation order", "red alert", "orange alert",
     "central bank emergency", "export ban", "pipeline outage", "port closure",
 ]
+
+
+def configured_signal_terms() -> tuple[list[str], list[str]]:
+    """Extend legacy defaults with the governed fork configuration."""
+    early = list(EARLY_TERMS)
+    high = list(HIGH_SIGNAL_TERMS)
+
+    resonance_path = ROOT / "config" / "resonance_ranking.yaml"
+    governance_path = ROOT / "config" / "source_governance.yaml"
+    try:
+        resonance = yaml.safe_load(resonance_path.read_text(encoding="utf-8")) or {}
+    except Exception:
+        resonance = {}
+    try:
+        governance = yaml.safe_load(governance_path.read_text(encoding="utf-8")) or {}
+    except Exception:
+        governance = {}
+
+    if isinstance(resonance, dict):
+        early_config = ((resonance.get("early_signal") or {}).get("trigger_terms") or [])
+        early.extend(early_config)
+    if isinstance(governance, dict):
+        signals = governance.get("signals") or {}
+        if isinstance(signals, dict):
+            early.extend(signals.get("early_signal_terms") or [])
+            high.extend(signals.get("high_signal_terms") or [])
+
+    def dedupe(values: list[Any]) -> list[str]:
+        result: list[str] = []
+        seen: set[str] = set()
+        for value in values:
+            term = str(value).strip()
+            key = term.casefold()
+            if term and key not in seen:
+                result.append(term)
+                seen.add(key)
+        return result
+
+    return dedupe(early), dedupe(high)
+
+
+EARLY_TERMS, HIGH_SIGNAL_TERMS = configured_signal_terms()
 
 
 def any_term(text: str, terms: list[str]) -> bool:

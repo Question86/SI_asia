@@ -94,6 +94,15 @@ jobs:
           echo "Running always-on global security/economy watchdog overlay."
           python scripts/global_watchdogs.py
 
+      - name: Build network and resonance ranking
+        if: always()
+        timeout-minutes: 2
+        continue-on-error: true
+        run: |
+          echo "Building governed network and resonance ranking."
+          python scripts/network_hub_postprocess.py
+          python scripts/resonance_rank_postprocess.py
+
       - name: Write compact ChatGPT handoff and memory index
         if: always()
         timeout-minutes: 1
