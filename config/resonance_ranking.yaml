@@ -1,8 +1,9 @@
 {
   "schema_version": 1,
-  "principle": "Authority is capped; early novelty, cross-source breadth, momentum, and baseline deviation carry ranking.",
+  "_fork_note": "zh-TW finance-weighted fork. Only values of existing keys were changed; no new keys were introduced, because scripts/resonance_rank_postprocess.py would silently ignore them.",
+  "principle": "Authority is capped; early novelty, cross-source breadth, momentum, and baseline deviation carry ranking. Financial and semiconductor-supply early signals are treated as first-class early signals, not as institutional megaphone output.",
   "dominance_guard": {
-    "description": "Large emitters such as ECB/Fed/BIS keep credibility but should not dominate solely due to emitter size.",
+    "description": "Large emitters such as ECB/Fed/BIS/CBC keep credibility but should not dominate solely due to emitter size. Unchanged from upstream: the exemption path stays the high-signal term, not a weakened guard.",
     "dominant_emitters": [
       "central_bank",
       "policy_institution",
@@ -13,7 +14,7 @@
     "penalty_points": 3
   },
   "early_signal": {
-    "description": "Small or broad-sensor initial dynamics stay visible if novel, concrete, or above medium score.",
+    "description": "Small or broad-sensor initial dynamics stay visible if novel, concrete, or above medium score. Finance-weighted fork: market-microstructure stress, credit stress, export-control actions and semiconductor supply disruption are added as early signals.",
     "trigger_terms": [
       "wildfire",
       "forest fire",
@@ -28,7 +29,38 @@
       "outage",
       "evacuation",
       "unrest",
-      "shortage"
+      "shortage",
+
+      "trading halt",
+      "circuit breaker",
+      "margin call",
+      "liquidity squeeze",
+      "funding stress",
+      "repo spike",
+      "deposit outflow",
+      "bank run",
+      "profit warning",
+      "guidance cut",
+      "credit downgrade",
+      "rating watch",
+      "default notice",
+      "covenant breach",
+      "fx intervention",
+      "capital control",
+
+      "export control",
+      "entity list",
+      "chip ban",
+      "fab outage",
+      "foundry halt",
+      "wafer shortage",
+      "tariff",
+      "sanction listing",
+
+      "earthquake",
+      "typhoon",
+      "undersea cable",
+      "port congestion"
     ],
     "bonus_points_max": 8
   },
@@ -41,5 +73,5 @@
     "early-signal bonus",
     "dominance penalty"
   ],
-  "goal": "Do not flatten the world into institutional megaphones. Keep early weak signals observable while still respecting credible official emitters."
+  "goal": "Do not flatten the world into institutional megaphones. Keep early weak signals observable while still respecting credible official emitters. In this fork, financial and supply-chain early signals are explicitly part of 'weak signals' rather than being treated as central-bank noise."
 }

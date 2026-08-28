@@ -1,21 +1,40 @@
 schema_version: 1
 principle: "Source credibility is useful; source dominance is dangerous."
 
+# zh-TW finance-weighted fork.
+# Only values of existing keys were changed; no new keys were introduced.
+#
+# BUGFIX carried in this fork (pre-existing upstream issue, not caused by the
+# finance weighting): config/macro_sources.yaml classifies the three BIS feeds
+# as source_class "central_bank_network". That class appears in NO class list
+# below, so those items fall into the unknown-class bucket and are counted
+# against max_unknown_class_share (0.20). "central_bank_network" is added to
+# `institutional` here. Verify against scripts/source_quality_guard.py before
+# relying on it.
+
 limits:
   max_major_media_share: 0.35
   max_single_host_share: 0.25
   max_vendor_or_repo_share: 0.30
   max_unknown_class_share: 0.20
-  min_early_signal_share: 0.08
+  # Raised 0.08 -> 0.12: with a heavier finance/institutional load the early
+  # weak-signal floor has to rise too, otherwise the fork degenerates into the
+  # institutional megaphone the upstream principle warns about.
+  min_early_signal_share: 0.12
   min_cross_source_hot_share: 0.25
 
 classes:
   mainstream: [major_media, tier2_major_news]
   vendor_or_self: [vendor, vendor_feed, repo, tier5_generic_repo, odds_proxy]
-  institutional: [central_bank, policy_institution, emergency_official, tier1_official]
+  institutional: [central_bank, central_bank_network, policy_institution, emergency_official, tier1_official, market_operator, financial_regulator, statistics_office]
   broad_sensor: [global_media_monitor, specialist, tier3_specialist, social, tier4_platform_social]
 
 signals:
+  # high_signal_terms is the exemption path from the dominance penalty in
+  # config/resonance_ranking.yaml ("penalty_when: ... no high-signal term ...").
+  # Extending this list is how the fork raises finance weight WITHOUT weakening
+  # the dominance guard: substantive financial events escape the cap, routine
+  # central-bank chatter stays capped.
   high_signal_terms:
     - actively exploited
     - exploited in the wild
@@ -30,6 +49,22 @@ signals:
     - central bank emergency
     - market halted
     - trading suspended
+    # finance-weighted additions
+    - emergency rate
+    - unscheduled meeting
+    - intervention in fx market
+    - liquidity facility
+    - bank resolution
+    - deposit guarantee
+    - sovereign default
+    - credit rating downgrade
+    - circuit breaker triggered
+    - limit down
+    - export control
+    - entity list
+    - chip export restriction
+    - fab shutdown
+
   early_signal_terms:
     - wildfire
     - forest fire
@@ -47,3 +82,21 @@ signals:
     - shortage
     - local
     - regional
+    # finance-weighted additions: microstructure and credit stress that
+    # normally surfaces before it reaches major media
+    - trading halt
+    - margin call
+    - liquidity squeeze
+    - funding stress
+    - profit warning
+    - guidance cut
+    - rating watch
+    - covenant breach
+    - deposit outflow
+    - port congestion
+    - wafer shortage
+    - foundry halt
+    # Taiwan-specific physical risk with direct market transmission
+    - earthquake
+    - typhoon
+    - undersea cable
