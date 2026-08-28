@@ -100,5 +100,145 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “CISA ICS Advisory / ICS Medical Advisory（2026年08月27日）” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=28.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月27日）",
+        "url": "https://jvn.jp/vu/JVNVU99593741/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-08-28T09:00:00+09:00",
+        "age_days": 0.22,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 28.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "security high-signal: cisa, jvn, security, advisory"
+        ],
+        "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
+      },
+      {
+        "title": "SOYシリーズにおける複数の脆弱性",
+        "url": "https://jvn.jp/jp/JVN04485476/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-08-28T12:00:15+09:00",
+        "age_days": 0.09,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 26.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "security high-signal: jvn, security"
+        ],
+        "summary": "齋藤 毅氏が提供するSOYシリーズには、複数の脆弱性が存在します。"
+      },
+      {
+        "title": "Zabbix agentにおけるDLL読み込みに関する脆弱性",
+        "url": "https://jvn.jp/jp/JVN42011956/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-08-28T12:00:00+09:00",
+        "age_days": 0.09,
+        "topics": [
+          "ai",
+          "security"
+        ],
+        "dynamics_score": 26.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "security high-signal: jvn, security"
+        ],
+        "summary": "Zabbix LLCが提供するZabbix agentにはDLL読み込みに関する脆弱性が存在します。"
+      },
+      {
+        "title": "Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される",
+        "url": "https://gigazine.net/news/20260619-nvidia-enpire-agentic-robot/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-06-19T01:58:32+00:00",
+        "age_days": 70.13,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "extreme",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 2.95,
+        "security_high_signal": true,
+        "single_source_ai_capped": true,
+        "why": [
+          "momentum delta +3",
+          "baseline z_hint 2.95",
+          "high terms: rce, code",
+          "security high-signal: rce, code",
+          "aging penalty -8.0 for 70.1d old signal",
+          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "Why every warehouse in Singapore will run on AI safety monitoring within five years",
+        "url": "https://e27.co/why-every-warehouse-in-singapore-will-run-on-ai-safety-monitoring-within-five-years-20260827/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-28T02:30:15+00:00",
+        "age_days": 0.11,
+        "topics": [
+          "ai",
+          "macro",
+          "disaster"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "extreme",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": true,
+        "why": [
+          "early terms: flood",
+          "high terms: rce",
+          "security high-signal: rce",
+          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        ],
+        "summary": "Ask a warehouse operator in Singapore what keeps them up at night, and forklifts come up before fires, floods, or fraud. They should. Between 2022 and 2023, vehicular incidents were the leading cause of fatal workplace injuries in Singapore, and one in four of those deaths involved a forklift, as per the Ministry of M…"
+      }
+    ]
+  }
 }
