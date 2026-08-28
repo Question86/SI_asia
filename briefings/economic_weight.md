@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-08-28T23:39:06+00:00`
+Generated: `2026-08-28T23:46:06+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -9,6 +9,7 @@ Generated: `2026-08-28T23:39:06+00:00`
 | Why every warehouse in Singapore will run on AI safety monitoring within five years | natural_disaster, conflict | $122.40M | $12.24B | $1.22T | 0.31 |
 | Warsh, In Our Time | conflict | $113.60M | $11.36B | $1.14T | 0.31 |
 | bilawalsidhu/gods-eye-view | regulation, natural_disaster | $11.92M | $1.19B | $119.20B | 0.31 |
+| M 4.8 - 110 km E of Miyako, Japan | natural_disaster | $1.16M | $116.00M | $11.60B | 0.33 |
 | M 5.0 - 19 km NW of Fuji, China | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
 | M 4.9 - 124 km N of Aksu, China | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
 | [NEU] [hoch] Linux Kernel: Mehrere Schwachstellen | vulnerability | $332.00K | $33.20M | $3.32B | 0.51 |
@@ -30,7 +31,6 @@ Generated: `2026-08-28T23:39:06+00:00`
 | TeamViewer schließt hochriskante Lücken in Clients | unknown | $113.60K | $11.36M | $1.14B | 0.36 |
 | 開発をシフトレフトせよ――形式仕様でAIと事前に合意する開発のすすめかた | unknown | $112.80K | $11.28M | $1.13B | 0.31 |
 | Claude Codeで開発以外の業務も爆速化しよう！ | unknown | $112.80K | $11.28M | $1.13B | 0.36 |
-| Isabel Schnabel: Central banks on-chain | product_release | $111.20K | $11.12M | $1.11B | 0.31 |
 
 ## Interpretation
 

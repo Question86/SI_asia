@@ -1,18 +1,19 @@
 # Economic Outcomes
 
-Generated: `2026-08-28T23:39:18+00:00`
+Generated: `2026-08-28T23:46:19+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
 | JetBrains/go-modern-guidelines | $0 | — | 0 | 0 | active |
 | Zabbix agentにおけるDLL読み込みに関する脆弱性 | $0 | — | 0 | 0 | active |
+| M 4.8 - 110 km E of Miyako, Japan | $0 | — | 0 | 0 | active |
 | Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される | $0 | — | 0 | 0 | dormant |
 | curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？ | $0 | — | 0 | 0 | dormant |
 | bilawalsidhu/gods-eye-view | $0 | — | 0 | 0 | active |
 | Isabel Schnabel: Central banks on-chain | $0 | — | 0 | 0 | dormant |
 | Why every warehouse in Singapore will run on AI safety monitoring within five years | $0 | — | 0 | 0 | active |
 | K-Dense-AI/scientific-agent-skills | $0 | — | 0 | 0 | active |
-| M 5.0 - 19 km NW of Fuji, China | $0 | — | 0 | 0 | active |
+| M 5.0 - 19 km NW of Fuji, China | $0 | — | 0 | 0 | dormant |
 | CISA ICS Advisory / ICS Medical Advisory（2026年08月27日） | $0 | — | 0 | 0 | active |
 | Warsh, In Our Time | $0 | — | 0 | 0 | active |
 | 電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題 | $0 | — | 0 | 0 | dormant |
@@ -28,4 +29,3 @@ Generated: `2026-08-28T23:39:18+00:00`
 | Language was never the problem: Inside SEA’s real AI adoption gap | $0 | — | 0 | 0 | active |
 | GROWIにおける複数の脆弱性 | $0 | — | 0 | 0 | active |
 | TeamViewer schließt hochriskante Lücken in Clients | $0 | — | 0 | 0 | dormant |
-| Claude Codeで開発以外の業務も爆速化しよう！ | $0 | — | 0 | 0 | active |
