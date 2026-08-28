@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-28T14:08:33+00:00_
+_Generiert: 2026-08-28T18:20:02+00:00_
 
 ## Kurzlage
 
-53 neue relevante Treffer. Stärkstes Signal: „Why every warehouse in Singapore will run on AI safety monitoring within five years“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
+56 neue relevante Treffer. Stärkstes Signal: „Why every warehouse in Singapore will run on AI safety monitoring within five years“ aus e27 Asia Startup and Tech Feed (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -240,6 +240,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
   - Kurz: De multiples vulnérabilités ont été découvertes dans les produits Citrix. Elles permettent à un attaquant de provoquer un déni de service à distance, un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Isabel Schnabel: Central banks on-chain** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260828~fe9afc86e8.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-08-28T16:00:00+00:00`, fetched `2026-08-28T18:19:29+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Isabel Schnabel: Central banks on-chain
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.0 - northern East Pacific Rise** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tch3)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-28T03:03:05.040+00:00`, fetched `2026-08-28T03:33:09+00:00`
@@ -275,15 +284,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); recent (+1.0); watchgraph region china_credible_only: China (+2.0)
   - Kurz: My trip to China revealed an AI race that looks less like a clash of competing visions, and more like two countries racing toward a similar future.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **TeamViewer schließt hochriskante Lücken in Clients** — Score 7, observation — [Quelle](https://www.heise.de/news/TeamViewer-stopft-Codeschmuggel-Leck-11432840.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-08-28T07:46:00.000+00:00`, fetched `2026-08-28T14:07:58+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Die TeamViewer-Clients können Angreifern das Ausführen von Schadcode ermöglichen. Updates stopfen die hochriskanten Sicherheitslücken.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
