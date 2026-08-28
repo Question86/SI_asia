@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-28T00:42:13+00:00",
-  "run_id": "2026-08-28T00:42:13+00:00",
+  "generated_at": "2026-08-28T03:33:43+00:00",
+  "run_id": "2026-08-28T03:33:43+00:00",
   "date": "2026-08-28",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 6
+      "configured_public_sources_only": 18
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,66 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 6,
-    "today_file_total": 6,
-    "displayed_findings": 6,
+    "new_relevant_findings": 12,
+    "today_file_total": 18,
+    "displayed_findings": 18,
     "high": 0,
-    "medium": 2,
-    "observe": 4,
+    "medium": 5,
+    "observe": 13,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [
+      {
+        "title": "Why every warehouse in Singapore will run on AI safety monitoring within five years",
+        "url": "https://e27.co/why-every-warehouse-in-singapore-will-run-on-ai-safety-monitoring-within-five-years-20260827/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-28T02:30:15+00:00",
+        "fetched_at": "2026-08-28T03:33:09+00:00",
+        "summary": "Ask a warehouse operator in Singapore what keeps them up at night, and forklifts come up before fires, floods, or fraud. They should. Between 2022 and 2023, vehicular incidents were the leading cause of fatal workplace injuries in Singapore, and one in four of those deaths involved a forklift, as per the Ministry of Manpower […] The post Why every warehouse in Singapore will run on AI safety monitoring within five y…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Reputationsrisiko",
+          "Watchgraph:storms_floods_weather"
+        ],
+        "relevance_score": 23,
+        "relevance_reason": "AI/KI (+3.8); Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); Reputationsrisiko (+7.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules storms_floods_weather (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "storms_floods_weather"
+        ],
+        "watchgraph_reasons": [
+          "storms_floods_weather: flood"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW",
+          "XOM",
+          "CVX",
+          "SHEL",
+          "TTE",
+          "BP",
+          "ENB",
+          "SU",
+          "EQNR",
+          "CCJ",
+          "URA"
+        ],
+        "id": "8c68648c66e4303ceb70"
+      },
       {
         "title": "OpenAIの暴走AI、1200体が結託 「仲間のため｣とシステムに突撃要求 - 日本経済新聞",
         "url": "https://www.nikkei.com/article/DGXZQOGN2704N0X20C26A8000000/",
@@ -74,9 +123,197 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "251bfb6cb902b9a3a795"
+      },
+      {
+        "title": "SOYシリーズにおける複数の脆弱性",
+        "url": "https://jvn.jp/jp/JVN04485476/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-08-28T12:00:15+09:00",
+        "fetched_at": "2026-08-28T03:33:09+00:00",
+        "summary": "齋藤 毅氏が提供するSOYシリーズには、複数の脆弱性が存在します。",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "JVN",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "34e0616a2ee480b1ab78"
+      },
+      {
+        "title": "Zabbix agentにおけるDLL読み込みに関する脆弱性",
+        "url": "https://jvn.jp/jp/JVN42011956/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-08-28T12:00:00+09:00",
+        "fetched_at": "2026-08-28T03:33:09+00:00",
+        "summary": "Zabbix LLCが提供するZabbix agentにはDLL読み込みに関する脆弱性が存在します。",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "JVN",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f3e87c13562502615dcd"
       }
     ],
     "observe": [
+      {
+        "title": "Language was never the problem: Inside SEA’s real AI adoption gap",
+        "url": "https://e27.co/language-was-never-the-problem-inside-seas-real-ai-adoption-gap-20260827/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-28T02:30:43+00:00",
+        "fetched_at": "2026-08-28T03:33:09+00:00",
+        "summary": "Ask most people what is holding back AI adoption in Southeast Asia, and the answer usually circles back to language. Bahasa Indonesia, Vietnamese, Thai and Malay are still treated as the great unsolved frontier for global models, the assumption being that once AI speaks the region fluently, enterprises will follow. Kai Yong Kang, Partner at […] The post Language was never the problem: Inside SEA’s real AI adoption g…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Southeast Asia"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia, Vietnam (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b9dc8843456a92d63297"
+      },
+      {
+        "title": "Why Southeast Asian agritech must build for acquisitions, not IPOs",
+        "url": "https://e27.co/why-southeast-asian-agritech-must-build-for-acquisitions-not-ipos-20260828/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-28T03:30:08+00:00",
+        "fetched_at": "2026-08-28T03:33:09+00:00",
+        "summary": "Southeast Asia’s agritech problem is not a lack of ideas. Across Indonesia, Vietnam, the Philippines and Thailand, founders have spent the past decade building tools for farm finance, market access, input distribution, traceability, climate resilience and supply-chain efficiency. Many have proved that technology can work in pockets of rural Asia. Far fewer have shown that […] The post Why Southeast Asian agritech mu…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "founder",
+          "Southeast Asia"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia, Vietnam, Thailand (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "956d3cfc70d3ccbaa905"
+      },
+      {
+        "title": "The case for hybrid microfinance: Combining AI with social accountability",
+        "url": "https://e27.co/the-case-for-hybrid-microfinance-combining-ai-with-social-accountability-20260809/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-28T02:39:05+00:00",
+        "fetched_at": "2026-08-28T03:33:09+00:00",
+        "summary": "Earlier this year I reviewed an AI-driven microfinance product being launched in Indonesia by a regional fintech. The model was elegant. It took transaction data from a payments app, layered in mobile usage patterns and a few social signals, and produced a credit score for each individual applicant within seconds. Approval rates were higher than […] The post The case for hybrid microfinance: Combining AI with social…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "12bbc52f9b8d8590f204"
+      },
+      {
+        "title": "M 5.0 - northern East Pacific Rise",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tch3",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-08-28T03:03:05.040+00:00",
+        "fetched_at": "2026-08-28T03:33:09+00:00",
+        "summary": "Time 2026-08-28 02:39:17 UTC 2026-08-28 02:39:17 UTC at epicenter Location 8.419°N 103.460°W Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "4b4cd16acb88f289116b"
+      },
+      {
+        "title": "AI が作る「ドット絵風」を本物のドット絵に変換する Web ツール「Pixel Refiner」を作りました",
+        "url": "https://zenn.dev/happy_onigiri/articles/1a0601d2afec2c",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-28T00:14:49+00:00",
+        "fetched_at": "2026-08-28T03:33:09+00:00",
+        "summary": "画像生成 AI は、ドット絵も描けるようになりました。 少なくとも、遠目にはそう見えます。 私はドット絵のイラストが好きで、SNS のアイコンやプロダクト紹介の 1 枚絵に使いたいと思っていました。 絵心はありませんが、いまは AI が描いてくれます。 ところが、生成された画像を拡大してみると話が変わります。 ドッ...",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f16d0afdc7da6ed9fb00"
+      },
+      {
+        "title": "You built the brand, the internet gave someone else access to it",
+        "url": "https://e27.co/you-built-the-brand-the-internet-gave-someone-else-access-to-it-20260827/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-28T03:00:11+00:00",
+        "fetched_at": "2026-08-28T03:33:09+00:00",
+        "summary": "Imagine you are the founder. You enter the Philippines with no inherited customer base, no branches and no familiar name. You start with a platform and a promise. Then you spend years doing the unglamorous work required to make both credible: securing the right approvals, building local partnerships, educating customers, answering difficult questions and delivering […] The post You built the brand, the internet gave…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "founder"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7e58b2d173ecb5e857e6"
+      },
       {
         "title": "ローカル AWS エミュレータで Terraform を検証する",
         "url": "https://zenn.dev/edash_tech_blog/articles/0ea5ab1ef9a751",
@@ -122,6 +359,26 @@
         "id": "af81cdbedd5a539591b5"
       },
       {
+        "title": "Compliance is what let the Philippines’ fintech market scale this fast",
+        "url": "https://e27.co/compliance-is-what-let-the-philippines-fintech-market-scale-this-fast-20260827/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-28T03:15:24+00:00",
+        "fetched_at": "2026-08-28T03:33:09+00:00",
+        "summary": "Every piece written about the Philippines’ digital finance boom follows the same shape: user numbers, wallet adoption, an IPO headline. Mynt, GCash’s parent, has filed for a potential 2026 Philippine IPO that would imply a valuation of roughly USD 8 billion at the upper end of the proposed price range. InstaPay’s monthly transaction volume went […] The post Compliance is what let the Philippines’ fintech market scal…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "be9ed6f491a47bf8c318"
+      },
+      {
         "title": "Copilot code review: Resolution reasons and expanded capabilities",
         "url": "https://github.blog/changelog/2026-08-27-copilot-code-review-resolution-reasons-and-expanded-capabilities",
         "source": "GitHub Changelog Atom",
@@ -162,11 +419,101 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "3d8ea47adff4cdf97600"
+      },
+      {
+        "title": "ITエンジニア必読書『徳丸本』が8年ぶりの改訂へ 「第3版」のポイントを筆者が解説",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/28/news018.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-27T22:53:23+00:00",
+        "fetched_at": "2026-08-28T03:33:09+00:00",
+        "summary": "Webアプリケーションの開発やセキュリティに携わるITエンジニア必携の書と言ってもいい『徳丸本』こと、『体系的に学ぶ 安全なWebアプリケーションの作り方』は、2011年に初版が発行され、2018年には、Web API関連を中心に200ページ近く記述が加わった「第2版」が刊行された。 しかし、Web技術の進化と複雑化に伴い、新...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "53ac97d81fa48dcc9ff6"
+      },
+      {
+        "title": "Better label management on issues is generally available",
+        "url": "https://github.blog/changelog/2026-08-27-label-archiving-is-generally-available",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-08-27T23:33:22+00:00",
+        "fetched_at": "2026-08-28T03:33:09+00:00",
+        "summary": "We’re making it easier to keep labels organized and find the right one, especially in repositories with long and growing label lists. Suggested Labels You can now find the right… The post Better label management on issues is generally available appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub"
+        ],
+        "relevance_score": 3,
+        "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0cb229a8aaacd7d99ec0"
       }
     ]
   },
   "findings": [
     {
+      "title": "Why every warehouse in Singapore will run on AI safety monitoring within five years",
+      "url": "https://e27.co/why-every-warehouse-in-singapore-will-run-on-ai-safety-monitoring-within-five-years-20260827/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-28T02:30:15+00:00",
+      "fetched_at": "2026-08-28T03:33:09+00:00",
+      "summary": "Ask a warehouse operator in Singapore what keeps them up at night, and forklifts come up before fires, floods, or fraud. They should. Between 2022 and 2023, vehicular incidents were the leading cause of fatal workplace injuries in Singapore, and one in four of those deaths involved a forklift, as per the Ministry of Manpower […] The post Why every warehouse in Singapore will run on AI safety monitoring within five y…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Reputationsrisiko",
+        "Watchgraph:storms_floods_weather"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "AI/KI (+3.8); Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); Reputationsrisiko (+7.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules storms_floods_weather (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "storms_floods_weather"
+      ],
+      "watchgraph_reasons": [
+        "storms_floods_weather: flood"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW",
+        "XOM",
+        "CVX",
+        "SHEL",
+        "TTE",
+        "BP",
+        "ENB",
+        "SU",
+        "EQNR",
+        "CCJ",
+        "URA"
+      ],
+      "id": "8c68648c66e4303ceb70"
+    },
+    {
       "title": "OpenAIの暴走AI、1200体が結託 「仲間のため｣とシステムに突撃要求 - 日本経済新聞",
       "url": "https://www.nikkei.com/article/DGXZQOGN2704N0X20C26A8000000/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -213,6 +560,194 @@
       "id": "251bfb6cb902b9a3a795"
     },
     {
+      "title": "SOYシリーズにおける複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN04485476/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-08-28T12:00:15+09:00",
+      "fetched_at": "2026-08-28T03:33:09+00:00",
+      "summary": "齋藤 毅氏が提供するSOYシリーズには、複数の脆弱性が存在します。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "34e0616a2ee480b1ab78"
+    },
+    {
+      "title": "Zabbix agentにおけるDLL読み込みに関する脆弱性",
+      "url": "https://jvn.jp/jp/JVN42011956/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-08-28T12:00:00+09:00",
+      "fetched_at": "2026-08-28T03:33:09+00:00",
+      "summary": "Zabbix LLCが提供するZabbix agentにはDLL読み込みに関する脆弱性が存在します。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f3e87c13562502615dcd"
+    },
+    {
+      "title": "Language was never the problem: Inside SEA’s real AI adoption gap",
+      "url": "https://e27.co/language-was-never-the-problem-inside-seas-real-ai-adoption-gap-20260827/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-28T02:30:43+00:00",
+      "fetched_at": "2026-08-28T03:33:09+00:00",
+      "summary": "Ask most people what is holding back AI adoption in Southeast Asia, and the answer usually circles back to language. Bahasa Indonesia, Vietnamese, Thai and Malay are still treated as the great unsolved frontier for global models, the assumption being that once AI speaks the region fluently, enterprises will follow. Kai Yong Kang, Partner at […] The post Language was never the problem: Inside SEA’s real AI adoption g…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia, Vietnam (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b9dc8843456a92d63297"
+    },
+    {
+      "title": "Why Southeast Asian agritech must build for acquisitions, not IPOs",
+      "url": "https://e27.co/why-southeast-asian-agritech-must-build-for-acquisitions-not-ipos-20260828/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-28T03:30:08+00:00",
+      "fetched_at": "2026-08-28T03:33:09+00:00",
+      "summary": "Southeast Asia’s agritech problem is not a lack of ideas. Across Indonesia, Vietnam, the Philippines and Thailand, founders have spent the past decade building tools for farm finance, market access, input distribution, traceability, climate resilience and supply-chain efficiency. Many have proved that technology can work in pockets of rural Asia. Far fewer have shown that […] The post Why Southeast Asian agritech mu…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "founder",
+        "Southeast Asia"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia, Vietnam, Thailand (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "956d3cfc70d3ccbaa905"
+    },
+    {
+      "title": "The case for hybrid microfinance: Combining AI with social accountability",
+      "url": "https://e27.co/the-case-for-hybrid-microfinance-combining-ai-with-social-accountability-20260809/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-28T02:39:05+00:00",
+      "fetched_at": "2026-08-28T03:33:09+00:00",
+      "summary": "Earlier this year I reviewed an AI-driven microfinance product being launched in Indonesia by a regional fintech. The model was elegant. It took transaction data from a payments app, layered in mobile usage patterns and a few social signals, and produced a credit score for each individual applicant within seconds. Approval rates were higher than […] The post The case for hybrid microfinance: Combining AI with social…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "12bbc52f9b8d8590f204"
+    },
+    {
+      "title": "M 5.0 - northern East Pacific Rise",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tch3",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-28T03:03:05.040+00:00",
+      "fetched_at": "2026-08-28T03:33:09+00:00",
+      "summary": "Time 2026-08-28 02:39:17 UTC 2026-08-28 02:39:17 UTC at epicenter Location 8.419°N 103.460°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "4b4cd16acb88f289116b"
+    },
+    {
+      "title": "AI が作る「ドット絵風」を本物のドット絵に変換する Web ツール「Pixel Refiner」を作りました",
+      "url": "https://zenn.dev/happy_onigiri/articles/1a0601d2afec2c",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-28T00:14:49+00:00",
+      "fetched_at": "2026-08-28T03:33:09+00:00",
+      "summary": "画像生成 AI は、ドット絵も描けるようになりました。 少なくとも、遠目にはそう見えます。 私はドット絵のイラストが好きで、SNS のアイコンやプロダクト紹介の 1 枚絵に使いたいと思っていました。 絵心はありませんが、いまは AI が描いてくれます。 ところが、生成された画像を拡大してみると話が変わります。 ドッ...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f16d0afdc7da6ed9fb00"
+    },
+    {
+      "title": "You built the brand, the internet gave someone else access to it",
+      "url": "https://e27.co/you-built-the-brand-the-internet-gave-someone-else-access-to-it-20260827/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-28T03:00:11+00:00",
+      "fetched_at": "2026-08-28T03:33:09+00:00",
+      "summary": "Imagine you are the founder. You enter the Philippines with no inherited customer base, no branches and no familiar name. You start with a platform and a promise. Then you spend years doing the unglamorous work required to make both credible: securing the right approvals, building local partnerships, educating customers, answering difficult questions and delivering […] The post You built the brand, the internet gave…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "founder"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7e58b2d173ecb5e857e6"
+    },
+    {
       "title": "ローカル AWS エミュレータで Terraform を検証する",
       "url": "https://zenn.dev/edash_tech_blog/articles/0ea5ab1ef9a751",
       "source": "Hatena Bookmark Hotentry IT",
@@ -257,6 +792,26 @@
       "id": "af81cdbedd5a539591b5"
     },
     {
+      "title": "Compliance is what let the Philippines’ fintech market scale this fast",
+      "url": "https://e27.co/compliance-is-what-let-the-philippines-fintech-market-scale-this-fast-20260827/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-28T03:15:24+00:00",
+      "fetched_at": "2026-08-28T03:33:09+00:00",
+      "summary": "Every piece written about the Philippines’ digital finance boom follows the same shape: user numbers, wallet adoption, an IPO headline. Mynt, GCash’s parent, has filed for a potential 2026 Philippine IPO that would imply a valuation of roughly USD 8 billion at the upper end of the proposed price range. InstaPay’s monthly transaction volume went […] The post Compliance is what let the Philippines’ fintech market scal…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "be9ed6f491a47bf8c318"
+    },
+    {
       "title": "Copilot code review: Resolution reasons and expanded capabilities",
       "url": "https://github.blog/changelog/2026-08-27-copilot-code-review-resolution-reasons-and-expanded-capabilities",
       "source": "GitHub Changelog Atom",
@@ -297,140 +852,347 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "3d8ea47adff4cdf97600"
+    },
+    {
+      "title": "ITエンジニア必読書『徳丸本』が8年ぶりの改訂へ 「第3版」のポイントを筆者が解説",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/28/news018.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-27T22:53:23+00:00",
+      "fetched_at": "2026-08-28T03:33:09+00:00",
+      "summary": "Webアプリケーションの開発やセキュリティに携わるITエンジニア必携の書と言ってもいい『徳丸本』こと、『体系的に学ぶ 安全なWebアプリケーションの作り方』は、2011年に初版が発行され、2018年には、Web API関連を中心に200ページ近く記述が加わった「第2版」が刊行された。 しかし、Web技術の進化と複雑化に伴い、新...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "53ac97d81fa48dcc9ff6"
+    },
+    {
+      "title": "Better label management on issues is generally available",
+      "url": "https://github.blog/changelog/2026-08-27-label-archiving-is-generally-available",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-08-27T23:33:22+00:00",
+      "fetched_at": "2026-08-28T03:33:09+00:00",
+      "summary": "We’re making it easier to keep labels organized and find the right one, especially in repositories with long and growing label lists. Suggested Labels You can now find the right… The post Better label management on issues is generally available appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0cb229a8aaacd7d99ec0"
     }
   ],
   "new_findings": [
     {
-      "title": "OpenAIの暴走AI、1200体が結託 「仲間のため｣とシステムに突撃要求 - 日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOGN2704N0X20C26A8000000/",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Why every warehouse in Singapore will run on AI safety monitoring within five years",
+      "url": "https://e27.co/why-every-warehouse-in-singapore-will-run-on-ai-safety-monitoring-within-five-years-20260827/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-27T20:58:11+00:00",
-      "fetched_at": "2026-08-28T00:41:38+00:00",
-      "summary": "【シリコンバレー=伴正春】米オープンAIで開発中の人工知能（AI）がサイバー攻撃をした問題で、約1200体のAIが連携して指示役、偵察役などを分担していたことがわかった。失敗リスクが高い作業でも、AI同士で「仲間のためだから参加して」と自己犠牲を強いる場面もあった。7月に起きた事故では、オープンAIで開発中のAI...",
+      "published_at": "2026-08-28T02:30:15+00:00",
+      "fetched_at": "2026-08-28T03:33:09+00:00",
+      "summary": "Ask a warehouse operator in Singapore what keeps them up at night, and forklifts come up before fires, floods, or fraud. They should. Between 2022 and 2023, vehicular incidents were the leading cause of fatal workplace injuries in Singapore, and one in four of those deaths involved a forklift, as per the Ministry of Manpower […] The post Why every warehouse in Singapore will run on AI safety monitoring within five y…",
       "matched_keywords": [
         "AI/KI",
-        "Hatena",
-        "hotentry",
-        "OpenAI"
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Reputationsrisiko",
+        "Watchgraph:storms_floods_weather"
       ],
-      "relevance_score": 18,
-      "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8d651ef4b69c35739a29"
+      "relevance_score": 23,
+      "relevance_reason": "AI/KI (+3.8); Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); Reputationsrisiko (+7.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules storms_floods_weather (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "storms_floods_weather"
+      ],
+      "watchgraph_reasons": [
+        "storms_floods_weather: flood"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW",
+        "XOM",
+        "CVX",
+        "SHEL",
+        "TTE",
+        "BP",
+        "ENB",
+        "SU",
+        "EQNR",
+        "CCJ",
+        "URA"
+      ],
+      "id": "8c68648c66e4303ceb70"
     },
     {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月27日）",
-      "url": "https://jvn.jp/vu/JVNVU99593741/",
+      "title": "SOYシリーズにおける複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN04485476/",
       "source": "JVN Japan Vulnerability Notes",
       "source_type": "rss",
-      "published_at": "2026-08-28T09:00:00+09:00",
-      "fetched_at": "2026-08-28T00:41:38+00:00",
-      "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
+      "published_at": "2026-08-28T12:00:15+09:00",
+      "fetched_at": "2026-08-28T03:33:09+00:00",
+      "summary": "齋藤 毅氏が提供するSOYシリーズには、複数の脆弱性が存在します。",
       "matched_keywords": [
-        "advisory",
         "APAC Trend Radar",
         "JVN",
         "Security"
       ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "251bfb6cb902b9a3a795"
+      "id": "34e0616a2ee480b1ab78"
     },
     {
-      "title": "ローカル AWS エミュレータで Terraform を検証する",
-      "url": "https://zenn.dev/edash_tech_blog/articles/0ea5ab1ef9a751",
+      "title": "Zabbix agentにおけるDLL読み込みに関する脆弱性",
+      "url": "https://jvn.jp/jp/JVN42011956/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-08-28T12:00:00+09:00",
+      "fetched_at": "2026-08-28T03:33:09+00:00",
+      "summary": "Zabbix LLCが提供するZabbix agentにはDLL読み込みに関する脆弱性が存在します。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f3e87c13562502615dcd"
+    },
+    {
+      "title": "Language was never the problem: Inside SEA’s real AI adoption gap",
+      "url": "https://e27.co/language-was-never-the-problem-inside-seas-real-ai-adoption-gap-20260827/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-28T02:30:43+00:00",
+      "fetched_at": "2026-08-28T03:33:09+00:00",
+      "summary": "Ask most people what is holding back AI adoption in Southeast Asia, and the answer usually circles back to language. Bahasa Indonesia, Vietnamese, Thai and Malay are still treated as the great unsolved frontier for global models, the assumption being that once AI speaks the region fluently, enterprises will follow. Kai Yong Kang, Partner at […] The post Language was never the problem: Inside SEA’s real AI adoption g…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia, Vietnam (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b9dc8843456a92d63297"
+    },
+    {
+      "title": "Why Southeast Asian agritech must build for acquisitions, not IPOs",
+      "url": "https://e27.co/why-southeast-asian-agritech-must-build-for-acquisitions-not-ipos-20260828/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-28T03:30:08+00:00",
+      "fetched_at": "2026-08-28T03:33:09+00:00",
+      "summary": "Southeast Asia’s agritech problem is not a lack of ideas. Across Indonesia, Vietnam, the Philippines and Thailand, founders have spent the past decade building tools for farm finance, market access, input distribution, traceability, climate resilience and supply-chain efficiency. Many have proved that technology can work in pockets of rural Asia. Far fewer have shown that […] The post Why Southeast Asian agritech mu…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "founder",
+        "Southeast Asia"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia, Vietnam, Thailand (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "956d3cfc70d3ccbaa905"
+    },
+    {
+      "title": "The case for hybrid microfinance: Combining AI with social accountability",
+      "url": "https://e27.co/the-case-for-hybrid-microfinance-combining-ai-with-social-accountability-20260809/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-28T02:39:05+00:00",
+      "fetched_at": "2026-08-28T03:33:09+00:00",
+      "summary": "Earlier this year I reviewed an AI-driven microfinance product being launched in Indonesia by a regional fintech. The model was elegant. It took transaction data from a payments app, layered in mobile usage patterns and a few social signals, and produced a credit score for each individual applicant within seconds. Approval rates were higher than […] The post The case for hybrid microfinance: Combining AI with social…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "12bbc52f9b8d8590f204"
+    },
+    {
+      "title": "M 5.0 - northern East Pacific Rise",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tch3",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-28T03:03:05.040+00:00",
+      "fetched_at": "2026-08-28T03:33:09+00:00",
+      "summary": "Time 2026-08-28 02:39:17 UTC 2026-08-28 02:39:17 UTC at epicenter Location 8.419°N 103.460°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "4b4cd16acb88f289116b"
+    },
+    {
+      "title": "AI が作る「ドット絵風」を本物のドット絵に変換する Web ツール「Pixel Refiner」を作りました",
+      "url": "https://zenn.dev/happy_onigiri/articles/1a0601d2afec2c",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-27T21:57:18+00:00",
-      "fetched_at": "2026-08-28T00:41:38+00:00",
-      "summary": "はじめに Zenn 読者のみなさん、こんにちは。e-dash VPoE の伊藤です。 e-dash ではアプリケーションインフラとして多くのプロダクトで AWS を採用しており、IaC として Terraform でインフラリソースを全面的に管理しています。 最近はインフラ構築・運用も全面的に AI にお任せするようになってきました。AI 登場前は...",
+      "published_at": "2026-08-28T00:14:49+00:00",
+      "fetched_at": "2026-08-28T03:33:09+00:00",
+      "summary": "画像生成 AI は、ドット絵も描けるようになりました。 少なくとも、遠目にはそう見えます。 私はドット絵のイラストが好きで、SNS のアイコンやプロダクト紹介の 1 枚絵に使いたいと思っていました。 絵心はありませんが、いまは AI が描いてくれます。 ところが、生成された画像を拡大してみると話が変わります。 ドッ...",
       "matched_keywords": [
         "AI/KI",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "b6b6e5e8c9a6efab26be"
+      "id": "f16d0afdc7da6ed9fb00"
     },
     {
-      "title": "AI駆動開発を組織で促すために",
-      "url": "https://speakerdeck.com/lycorptech_jp/aidlc-aidd-workshop",
+      "title": "You built the brand, the internet gave someone else access to it",
+      "url": "https://e27.co/you-built-the-brand-the-internet-gave-someone-else-access-to-it-20260827/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-28T03:00:11+00:00",
+      "fetched_at": "2026-08-28T03:33:09+00:00",
+      "summary": "Imagine you are the founder. You enter the Philippines with no inherited customer base, no branches and no familiar name. You start with a platform and a promise. Then you spend years doing the unglamorous work required to make both credible: securing the right approvals, building local partnerships, educating customers, answering difficult questions and delivering […] The post You built the brand, the internet gave…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "founder"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7e58b2d173ecb5e857e6"
+    },
+    {
+      "title": "Compliance is what let the Philippines’ fintech market scale this fast",
+      "url": "https://e27.co/compliance-is-what-let-the-philippines-fintech-market-scale-this-fast-20260827/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-28T03:15:24+00:00",
+      "fetched_at": "2026-08-28T03:33:09+00:00",
+      "summary": "Every piece written about the Philippines’ digital finance boom follows the same shape: user numbers, wallet adoption, an IPO headline. Mynt, GCash’s parent, has filed for a potential 2026 Philippine IPO that would imply a valuation of roughly USD 8 billion at the upper end of the proposed price range. InstaPay’s monthly transaction volume went […] The post Compliance is what let the Philippines’ fintech market scal…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "be9ed6f491a47bf8c318"
+    },
+    {
+      "title": "ITエンジニア必読書『徳丸本』が8年ぶりの改訂へ 「第3版」のポイントを筆者が解説",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/28/news018.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-27T13:48:47+00:00",
-      "fetched_at": "2026-08-28T00:41:38+00:00",
-      "summary": "JAWS-UG AI-DLC #02 勉強会で「個人のAI活用から組織実践へ移行する際に必要な条件」を、AIDD/ODWワークショップの実践知として共有する。未公開情報は扱わず、TechBlog掲載範囲で発信する。",
+      "published_at": "2026-08-27T22:53:23+00:00",
+      "fetched_at": "2026-08-28T03:33:09+00:00",
+      "summary": "Webアプリケーションの開発やセキュリティに携わるITエンジニア必携の書と言ってもいい『徳丸本』こと、『体系的に学ぶ 安全なWebアプリケーションの作り方』は、2011年に初版が発行され、2018年には、Web API関連を中心に200ページ近く記述が加わった「第2版」が刊行された。 しかし、Web技術の進化と複雑化に伴い、新...",
       "matched_keywords": [
-        "AI/KI",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "af81cdbedd5a539591b5"
+      "id": "53ac97d81fa48dcc9ff6"
     },
     {
-      "title": "Copilot code review: Resolution reasons and expanded capabilities",
-      "url": "https://github.blog/changelog/2026-08-27-copilot-code-review-resolution-reasons-and-expanded-capabilities",
+      "title": "Better label management on issues is generally available",
+      "url": "https://github.blog/changelog/2026-08-27-label-archiving-is-generally-available",
       "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "published_at": "2026-08-27T22:46:04+00:00",
-      "fetched_at": "2026-08-28T00:41:38+00:00",
-      "summary": "Copilot code review can now review two types of pull requests it didn’t cover before: Reviews requested automatically on pull requests authored by bots, including Copilot cloud agent Very large… The post Copilot code review: Resolution reasons and expanded capabilities appeared first on The GitHub Blog .",
+      "published_at": "2026-08-27T23:33:22+00:00",
+      "fetched_at": "2026-08-28T03:33:09+00:00",
+      "summary": "We’re making it easier to keep labels organized and find the right one, especially in repositories with long and growing label lists. Suggested Labels You can now find the right… The post Better label management on issues is generally available appeared first on The GitHub Blog .",
       "matched_keywords": [
-        "Copilot",
         "GitHub"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "92fd8cb0e5a918541837"
-    },
-    {
-      "title": "Actions retention will cover checks, workflow runs, and statuses",
-      "url": "https://github.blog/changelog/2026-08-27-actions-retention-will-cover-checks-workflow-runs-and-statuses",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-08-27T21:50:39+00:00",
-      "fetched_at": "2026-08-28T00:41:38+00:00",
-      "summary": "Starting October 1, 2026, checks, workflow runs, and statuses will be governed by the same Actions retention setting that already controls how long artifacts and logs are kept, with a… The post Actions retention will cover checks, workflow runs, and statuses appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "Actions",
-        "GitHub"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "GitHub (+2.0); Actions (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3d8ea47adff4cdf97600"
+      "id": "0cb229a8aaacd7d99ec0"
     }
   ],
   "source_errors": [],
