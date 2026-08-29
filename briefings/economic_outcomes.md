@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-08-29T06:55:20+00:00`
+Generated: `2026-08-29T07:06:53+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -17,6 +17,7 @@ Generated: `2026-08-29T06:55:20+00:00`
 | Why every warehouse in Singapore will run on AI safety monitoring within five years | $0 | — | 0 | 0 | dormant |
 | M 5.1 - Southwest Indian Ridge | $0 | — | 0 | 0 | active |
 | K-Dense-AI/scientific-agent-skills | $0 | — | 0 | 0 | dormant |
+| AI語に親しむ | $0 | — | 0 | 0 | active |
 | M 5.0 - 19 km NW of Fuji, China | $0 | — | 0 | 0 | dormant |
 | CISA ICS Advisory / ICS Medical Advisory（2026年08月27日） | $0 | — | 0 | 0 | dormant |
 | Warsh, In Our Time | $0 | — | 0 | 0 | dormant |
@@ -28,4 +29,3 @@ Generated: `2026-08-29T06:55:20+00:00`
 | 九州大学での Claude Code ハンズオンを、一人でもプロダクトを作れるワークショップキットとして公開しました \| DevelopersIO | $0 | — | 0 | 0 | dormant |
 | 開発をシフトレフトせよ――形式仕様でAIと事前に合意する開発のすすめかた | $0 | — | 0 | 0 | dormant |
 | OpenAIの暴走AI、1200体が結託 「仲間のため｣とシステムに突撃要求 - 日本経済新聞 | $0 | — | 0 | 0 | dormant |
-| 【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表 | $0 | — | 0 | 0 | dormant |
