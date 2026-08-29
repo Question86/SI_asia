@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-29T12:51:29+00:00",
+  "generated_at": "2026-08-29T12:59:05+00:00",
   "events": [
     {
       "event_id": "evt_058a0e17878f3797ed5c",
@@ -111,6 +111,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_3aabbe1ecdc7bfaba097",
+      "title": "ベテランエンジニアのPRレビュー187件を分類してみたら、バグは5件に1件しか指摘されていなかった - Qiita",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_3cb5980444e3bd7e9296",
@@ -242,7 +253,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_6e1817c1c44fda6c3530",
