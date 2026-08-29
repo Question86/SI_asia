@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-08-29T05:05:02+00:00`
+Generated: `2026-08-29T05:20:16+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -13,6 +13,7 @@ Generated: `2026-08-29T05:05:02+00:00`
 | M 5.0 - 19 km NW of Fuji, China | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
 | M 4.9 - 95 km W of Petrolia, CA | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
 | M 4.9 - 124 km N of Aksu, China | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
+| M 4.6 - 170 km ESE of Kuril’sk, Russia | natural_disaster | $1.11M | $111.20M | $11.12B | 0.33 |
 | [NEU] [hoch] Linux Kernel: Mehrere Schwachstellen | vulnerability | $332.00K | $33.20M | $3.32B | 0.51 |
 | CISA ICS Advisory / ICS Medical Advisory（2026年08月27日） | vulnerability | $292.00K | $29.20M | $2.92B | 0.31 |
 | Zabbix agentにおけるDLL読み込みに関する脆弱性 | vulnerability | $288.00K | $28.80M | $2.88B | 0.31 |
@@ -30,7 +31,6 @@ Generated: `2026-08-29T05:05:02+00:00`
 | 九州大学での Claude Code ハンズオンを、一人でもプロダクトを作れるワークショップキットとして公開しました \| DevelopersIO | unknown | $115.20K | $11.52M | $1.15B | 0.31 |
 | Language was never the problem: Inside SEA’s real AI adoption gap | unknown | $113.60K | $11.36M | $1.14B | 0.31 |
 | TeamViewer schließt hochriskante Lücken in Clients | unknown | $113.60K | $11.36M | $1.14B | 0.36 |
-| 開発をシフトレフトせよ――形式仕様でAIと事前に合意する開発のすすめかた | unknown | $112.80K | $11.28M | $1.13B | 0.31 |
 
 ## Interpretation
 

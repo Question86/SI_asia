@@ -1,11 +1,13 @@
 # Economic Outcomes
 
-Generated: `2026-08-29T05:05:05+00:00`
+Generated: `2026-08-29T05:20:21+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
+| M 4.6 - 170 km ESE of Kuril’sk, Russia | $0 | — | 0 | 0 | active |
 | JetBrains/go-modern-guidelines | $0 | — | 0 | 0 | dormant |
 | Zabbix agentにおけるDLL読み込みに関する脆弱性 | $0 | — | 0 | 0 | dormant |
+| 知人がものの数分で設定したという、高齢のお父さん用iPhone…ここまで潔いのはなかなか見かけない「視覚支援だ～」「これはめっちゃわかりやすい」 | $0 | — | 0 | 0 | active |
 | M 4.8 - 110 km E of Miyako, Japan | $0 | — | 0 | 0 | dormant |
 | Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される | $0 | — | 0 | 0 | active |
 | curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？ | $0 | — | 0 | 0 | dormant |
@@ -27,5 +29,3 @@ Generated: `2026-08-29T05:05:05+00:00`
 | OpenAIの暴走AI、1200体が結託 「仲間のため｣とシステムに突撃要求 - 日本経済新聞 | $0 | — | 0 | 0 | dormant |
 | 【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表 | $0 | — | 0 | 0 | dormant |
 | M 4.9 - 95 km W of Petrolia, CA | $0 | — | 0 | 0 | active |
-| 綠色運算｜NUMail - OS Command Injection | $0 | — | 0 | 0 | dormant |
-| Supporting Thailand’s next generation of AI startups | $0 | — | 0 | 0 | active |
