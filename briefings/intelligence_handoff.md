@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-29T03:40:44Z_
+_Generated: 2026-08-29T03:49:03Z_
 
 ## Lageurteil
 
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - 95 km W of Petrolia, CA” — D
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-08-29T00:00:55+00:00` / age_days `0.15`
+- Published: `2026-08-29T00:00:55+00:00` / age_days `0.16`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - 95 km W of Petrolia, CA” — D
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `11.0`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `71.07`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `71.08`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: 10, aging penalty -8.0 for 71.1d old signal
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - 95 km W of Petrolia, CA” — D
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `6.0`
-- Published: `2026-08-29T02:42:35+00:00` / age_days `0.04`
+- Published: `2026-08-29T02:42:35+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - 95 km W of Petrolia, CA” — D
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `6.0`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `71.07`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `71.08`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, aging penalty -8.0 for 71.1d old signal
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - 95 km W of Petrolia, CA” — D
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `5.0`
-- Published: `2026-08-28T16:24:02+00:00` / age_days `0.47`
+- Published: `2026-08-28T16:24:02+00:00` / age_days `0.48`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
