@@ -1,12 +1,13 @@
 # Economic Outcomes
 
-Generated: `2026-08-29T08:26:29+00:00`
+Generated: `2026-08-29T08:36:55+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
 | M 4.6 - 170 km ESE of Kuril’sk, Russia | $0 | — | 0 | 0 | active |
 | JetBrains/go-modern-guidelines | $0 | — | 0 | 0 | dormant |
 | Zabbix agentにおけるDLL読み込みに関する脆弱性 | $0 | — | 0 | 0 | dormant |
+| M 5.0 - 64 km W of Labuha, Indonesia | $0 | — | 0 | 0 | active |
 | 知人がものの数分で設定したという、高齢のお父さん用iPhone…ここまで潔いのはなかなか見かけない「視覚支援だ～」「これはめっちゃわかりやすい」 | $0 | — | 0 | 0 | active |
 | M 4.8 - 110 km E of Miyako, Japan | $0 | — | 0 | 0 | dormant |
 | Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される | $0 | — | 0 | 0 | active |
@@ -28,4 +29,3 @@ Generated: `2026-08-29T08:26:29+00:00`
 | htmx 4.0.0 has been released! | $0 | — | 0 | 0 | active |
 | [NEU] [hoch] Linux Kernel: Mehrere Schwachstellen | $0 | — | 0 | 0 | dormant |
 | 九州大学での Claude Code ハンズオンを、一人でもプロダクトを作れるワークショップキットとして公開しました \| DevelopersIO | $0 | — | 0 | 0 | dormant |
-| 開発をシフトレフトせよ――形式仕様でAIと事前に合意する開発のすすめかた | $0 | — | 0 | 0 | dormant |

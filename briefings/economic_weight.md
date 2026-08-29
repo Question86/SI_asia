@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-08-29T08:26:18+00:00`
+Generated: `2026-08-29T08:36:43+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -11,6 +11,7 @@ Generated: `2026-08-29T08:26:18+00:00`
 | bilawalsidhu/gods-eye-view | regulation, natural_disaster | $11.92M | $1.19B | $119.20B | 0.31 |
 | M 4.8 - 110 km E of Miyako, Japan | natural_disaster | $1.16M | $116.00M | $11.60B | 0.33 |
 | M 4.8 - 29 km ENE of Pilar, Philippines | natural_disaster | $1.16M | $116.00M | $11.60B | 0.33 |
+| M 5.0 - 64 km W of Labuha, Indonesia | natural_disaster | $1.16M | $116.00M | $11.60B | 0.33 |
 | M 5.1 - Southwest Indian Ridge | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
 | M 5.0 - 19 km NW of Fuji, China | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
 | M 4.9 - 95 km W of Petrolia, CA | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
@@ -30,7 +31,6 @@ Generated: `2026-08-29T08:26:18+00:00`
 | OpenAIの暴走AI、1200体が結託 「仲間のため｣とシステムに突撃要求 - 日本経済新聞 | unknown | $118.40K | $11.84M | $1.18B | 0.31 |
 | Claude Code から Cloud Run 上の MCP サーバを使うための認可構成 - エムスリーテックブログ | unknown | $117.60K | $11.76M | $1.18B | 0.31 |
 | Supporting Thailand’s next generation of AI startups | unknown | $116.80K | $11.68M | $1.17B | 0.31 |
-| Ecosystem Roundup: SBI leads US$270M round in Indonesia’s largest tech deal in years | unknown | $116.80K | $11.68M | $1.17B | 0.31 |
 
 ## Interpretation
 
