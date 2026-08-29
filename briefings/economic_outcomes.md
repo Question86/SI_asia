@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-08-29T15:00:22+00:00`
+Generated: `2026-08-29T15:17:33+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -26,6 +26,6 @@ Generated: `2026-08-29T15:00:22+00:00`
 | M 5.0 - 19 km NW of Fuji, China | $0 | — | 0 | 0 | dormant |
 | CISA ICS Advisory / ICS Medical Advisory（2026年08月27日） | $0 | — | 0 | 0 | dormant |
 | Warsh, In Our Time | $0 | — | 0 | 0 | dormant |
-| 新型「Mac mini」「Mac Studio」の“数字”を読み解く――驚異のAI性能と、日米価格設定のからくり | $0 | — | 0 | 0 | active |
+| 新型「Mac mini」「Mac Studio」の“数字”を読み解く――驚異のAI性能と、日米価格設定のからくり | $0 | — | 0 | 0 | dormant |
 | 電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題 | $0 | — | 0 | 0 | dormant |
 | SOYシリーズにおける複数の脆弱性 | $0 | — | 0 | 0 | dormant |
