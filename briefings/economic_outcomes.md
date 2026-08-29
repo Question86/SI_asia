@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-08-29T20:28:55+00:00`
+Generated: `2026-08-29T20:39:01+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -16,6 +16,7 @@ Generated: `2026-08-29T20:28:55+00:00`
 | ローカルLLMを直接実行できるマイコンボード「Arduino VENTUNO Q」予約販売開始 \| gihyo.jp | $0 | — | 0 | 0 | dormant |
 | ベテランエンジニアのPRレビュー187件を分類してみたら、バグは5件に1件しか指摘されていなかった - Qiita | $0 | — | 0 | 0 | dormant |
 | bilawalsidhu/gods-eye-view | $0 | — | 0 | 0 | dormant |
+| GitHub - iannuttall/barkeep: Manage hidden macOS menu bar items from one place | $0 | — | 0 | 0 | active |
 | Isabel Schnabel: Central banks on-chain | $0 | — | 0 | 0 | dormant |
 | M 4.7 - 25 km ESE of Lospalos, Timor Leste | $0 | — | 0 | 0 | active |
 | Why every warehouse in Singapore will run on AI safety monitoring within five years | $0 | — | 0 | 0 | dormant |
@@ -28,4 +29,3 @@ Generated: `2026-08-29T20:28:55+00:00`
 | Warsh, In Our Time | $0 | — | 0 | 0 | dormant |
 | 新型「Mac mini」「Mac Studio」の“数字”を読み解く――驚異のAI性能と、日米価格設定のからくり | $0 | — | 0 | 0 | dormant |
 | 電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題 | $0 | — | 0 | 0 | dormant |
-| SOYシリーズにおける複数の脆弱性 | $0 | — | 0 | 0 | dormant |
