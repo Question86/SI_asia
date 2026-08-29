@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-29T15:55:41+00:00_
+_Generiert: 2026-08-29T16:09:31+00:00_
 
 ## Kurzlage
 
-38 neue relevante Treffer. Stärkstes Signal: „Claude Codeの体系的な理解と知識のフック“ aus Hatena Bookmark Hotentry IT (Score 16, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+39 neue relevante Treffer. Stärkstes Signal: „Claude Codeの体系的な理解と知識のフック“ aus Hatena Bookmark Hotentry IT (Score 16, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -86,6 +86,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+6.2); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: Claude Code Meetup Japan #7 (Claude Code祭り!): https://aid.connpass.com/event/402949/ 書籍 『Claude Code実践入門［生成AI深掘りガイド］』: https://amzn.asia/d/08P7IEWl
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.7 - 16 km ENE of Hasaki, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcu2)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-29T16:08:54.040+00:00`, fetched `2026-08-29T16:08:59+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-29 15:17:06 UTC 2026-08-29 15:17:06 UTC at epicenter Location 35.803°N 140.994°E Depth 34.78 km (21.61 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.0 - 64 km W of Labuha, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsu)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-29T08:28:19.040+00:00`, fetched `2026-08-29T08:35:58+00:00`

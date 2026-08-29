@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-29T15:55:41+00:00",
+  "generated_at": "2026-08-29T16:09:31+00:00",
   "topics": {
     "ai": [
       {
@@ -77,6 +77,13 @@
     ],
     "general": [
       {
+        "title": "M 4.7 - 16 km ENE of Hasaki, Japan",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-08-29T16:08:54.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcu2"
+      },
+      {
         "title": "M 5.0 - 64 km W of Labuha, Indonesia",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-08-29T08:28:19.040+00:00",
@@ -138,13 +145,6 @@
         "published_at": "2026-08-29T07:27:19.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsm"
-      },
-      {
-        "title": "M 4.6 - 170 km ESE of Kuril’sk, Russia",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-08-29T05:07:39.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcrx"
       }
     ],
     "github": [
