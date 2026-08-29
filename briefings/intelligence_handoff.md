@@ -1,18 +1,28 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-29T05:48:34Z_
+_Generated: 2026-08-29T06:20:07Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “M 4.9 - 95 km W of Petrolia, CA” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=18.5.
+Stärkste Dynamik nach Gate-Recheck: “M 5.1 - Southwest Indian Ridge” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=19.0.
 
 ## Top Dynamics
+
+### M 5.1 - Southwest Indian Ridge
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `19.0`
+- Published: `2026-08-29T05:56:57.040+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcs7
 
 ### M 4.9 - 95 km W of Petrolia, CA
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.5`
-- Published: `2026-08-29T02:50:18+00:00` / age_days `0.12`
+- Published: `2026-08-29T02:50:18+00:00` / age_days `0.15`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -22,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - 95 km W of Petrolia, CA” — D
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-08-29T05:07:39.040+00:00` / age_days `0.03`
+- Published: `2026-08-29T05:07:39.040+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 9.9
@@ -32,17 +42,27 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - 95 km W of Petrolia, CA” — D
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.5`
-- Published: `2026-08-29T05:20:00+00:00` / age_days `0.02`
+- Published: `2026-08-29T05:20:00+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcrx
 
+### M 5.1 - Southwest Indian Ridge
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `15.4`
+- Published: `2026-08-29T06:08:12+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +1
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcs7
+
 ### 問い合わせへの返答をネットに上げるのって駄目だったの！？
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-08-29T03:56:55+00:00` / age_days `0.08`
+- Published: `2026-08-29T03:56:55+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -52,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - 95 km W of Petrolia, CA” — D
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-08-29T00:00:55+00:00` / age_days `0.24`
+- Published: `2026-08-29T00:00:55+00:00` / age_days `0.26`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -62,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - 95 km W of Petrolia, CA” — D
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-08-29T02:48:22.972+00:00` / age_days `0.13`
+- Published: `2026-08-29T02:48:22.972+00:00` / age_days `0.15`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
@@ -72,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - 95 km W of Petrolia, CA” — D
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `13.0`
-- Published: `2026-08-28T13:03:58+00:00` / age_days `0.7`
+- Published: `2026-08-28T13:03:58+00:00` / age_days `0.72`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -82,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - 95 km W of Petrolia, CA” — D
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `11.0`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `71.16`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `71.18`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: 10, aging penalty -8.0 for 71.2d old signal
@@ -92,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - 95 km W of Petrolia, CA” — D
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-08-28T08:34:09+00:00` / age_days `0.89`
+- Published: `2026-08-28T08:34:09+00:00` / age_days `0.91`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
@@ -102,30 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - 95 km W of Petrolia, CA” — D
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `8.0`
-- Published: `2026-06-17T20:44:40+00:00` / age_days `72.38`
+- Published: `2026-06-17T20:44:40+00:00` / age_days `72.4`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, aging penalty -8.0 for 72.4d old signal, single-source AI cap enforced after phrase recheck
 - Quelle: https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex
-
-### 知人がものの数分で設定したという、高齢のお父さん用iPhone…ここまで潔いのはなかなか見かけない「視覚支援だ～」「これはめっちゃわかりやすい」
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `6.0`
-- Published: `2026-06-19T12:31:48+00:00` / age_days `70.72`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, aging penalty -8.0 for 70.7d old signal
-- Quelle: https://togetter.com/li/2738669
-
-### 新型「Mac mini」「Mac Studio」の“数字”を読み解く――驚異のAI性能と、日米価格設定のからくり
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `6.0`
-- Published: `2026-08-29T03:32:05+00:00` / age_days `0.09`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://www.itmedia.co.jp/pcuser/articles/2608/28/news093.html
 
 END OF DOCUMENT
