@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-29T00:01:10+00:00",
+  "generated_at": "2026-08-29T00:49:05+00:00",
   "events": [
     {
       "event_id": "evt_088bfa5231048a3752af",
@@ -159,12 +159,12 @@
     {
       "event_id": "evt_6f36151ccdd6ba257878",
       "title": "htmx 4.0.0 has been released!",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -297,7 +297,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_e43c9e3077c7255b207a",
