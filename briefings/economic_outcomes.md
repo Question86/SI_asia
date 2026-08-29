@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-08-29T01:44:29+00:00`
+Generated: `2026-08-29T01:52:08+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -25,7 +25,7 @@ Generated: `2026-08-29T01:44:29+00:00`
 | OpenAIの暴走AI、1200体が結託 「仲間のため｣とシステムに突撃要求 - 日本経済新聞 | $0 | — | 0 | 0 | dormant |
 | 【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表 | $0 | — | 0 | 0 | dormant |
 | 綠色運算｜NUMail - OS Command Injection | $0 | — | 0 | 0 | dormant |
-| Supporting Thailand’s next generation of AI startups | $0 | — | 0 | 0 | dormant |
+| Supporting Thailand’s next generation of AI startups | $0 | — | 0 | 0 | active |
 | The deepfake threat and beyond: 3 unconventional security crises every founder-led brand must prepare for | $0 | — | 0 | 0 | dormant |
 | Language was never the problem: Inside SEA’s real AI adoption gap | $0 | — | 0 | 0 | dormant |
 | GROWIにおける複数の脆弱性 | $0 | — | 0 | 0 | dormant |
