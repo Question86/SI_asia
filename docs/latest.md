@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-29T12:29:34+00:00_
+_Generiert: 2026-08-29T12:42:56+00:00_
 
 ## Kurzlage
 
-35 neue relevante Treffer. Stärkstes Signal: „Claude Codeの体系的な理解と知識のフック“ aus Hatena Bookmark Hotentry IT (Score 16, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+35 neue relevante Treffer. Stärkstes Signal: „Claude Codeの体系的な理解と知識のフック“ aus Hatena Bookmark Hotentry IT (Score 16, observation). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -171,4 +171,5 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Quellenfehler
 
+- `bsi_cert_bund_csw` (rss): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 - `bis_statistics` (rss): 404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss
