@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-29T00:00:52+00:00_
+_Generiert: 2026-08-29T00:48:43+00:00_
 
 ## Kurzlage
 
-1 neue relevante Treffer. Stärkstes Signal: „htmx 4.0.0 has been released!“ aus Hatena Bookmark Hotentry IT (Score 5, observation).
+2 neue relevante Treffer. Stärkstes Signal: „htmx 4.0.0 has been released!“ aus Hatena Bookmark Hotentry IT (Score 5, observation).
 
 ## Priorität Hoch
 
@@ -24,6 +24,15 @@ Keine neuen mittleren Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: In addition, the following changes were made: Most error events collapse into htmx:error. HTTP error responses fire htmx:response:error. The htmx:xhr:* events are removed. htmx 4 uses fetch(). The htmx:validation:* events are removed in favor of native browser form validation. The full table is i...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **「ミスを許さない手順書」を作ってみた 〜 個人的にはこれ以上できることはあまりなさそう/20260827-ssmjp-operation-procedure-update** — Score 5, observation — [Quelle](https://speakerdeck.com/opelab/20260827-ssmjp-operation-procedure-update)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-27T14:20:32+00:00`, fetched `2026-08-29T00:48:10+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: ssmonline #53 での発表資料です。 (運用設計ラボ合同会社 波田野 裕一)
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

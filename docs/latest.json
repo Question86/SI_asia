@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-29T00:00:52+00:00",
-  "run_id": "2026-08-29T00:00:52+00:00",
+  "generated_at": "2026-08-29T00:48:43+00:00",
+  "run_id": "2026-08-29T00:48:43+00:00",
   "date": "2026-08-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 1
+      "configured_public_sources_only": 2
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 1,
-    "displayed_findings": 1,
+    "today_file_total": 2,
+    "displayed_findings": 2,
     "high": 0,
     "medium": 0,
-    "observe": 1,
+    "observe": 2,
     "source_errors": 0
   },
   "sections": {
@@ -50,6 +50,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "00d94fa0258f32a6de10"
+      },
+      {
+        "title": "「ミスを許さない手順書」を作ってみた 〜 個人的にはこれ以上できることはあまりなさそう/20260827-ssmjp-operation-procedure-update",
+        "url": "https://speakerdeck.com/opelab/20260827-ssmjp-operation-procedure-update",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-27T14:20:32+00:00",
+        "fetched_at": "2026-08-29T00:48:10+00:00",
+        "summary": "ssmonline #53 での発表資料です。 (運用設計ラボ合同会社 波田野 裕一)",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a9422e72baa26ac79741"
       }
     ]
   },
@@ -74,17 +95,15 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "00d94fa0258f32a6de10"
-    }
-  ],
-  "new_findings": [
+    },
     {
-      "title": "htmx 4.0.0 has been released!",
-      "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+      "title": "「ミスを許さない手順書」を作ってみた 〜 個人的にはこれ以上できることはあまりなさそう/20260827-ssmjp-operation-procedure-update",
+      "url": "https://speakerdeck.com/opelab/20260827-ssmjp-operation-procedure-update",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-28T16:24:02+00:00",
-      "fetched_at": "2026-08-29T00:00:19+00:00",
-      "summary": "In addition, the following changes were made: Most error events collapse into htmx:error. HTTP error responses fire htmx:response:error. The htmx:xhr:* events are removed. htmx 4 uses fetch(). The htmx:validation:* events are removed in favor of native browser form validation. The full table is i...",
+      "published_at": "2026-08-27T14:20:32+00:00",
+      "fetched_at": "2026-08-29T00:48:10+00:00",
+      "summary": "ssmonline #53 での発表資料です。 (運用設計ラボ合同会社 波田野 裕一)",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -96,7 +115,30 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "00d94fa0258f32a6de10"
+      "id": "a9422e72baa26ac79741"
+    }
+  ],
+  "new_findings": [
+    {
+      "title": "「ミスを許さない手順書」を作ってみた 〜 個人的にはこれ以上できることはあまりなさそう/20260827-ssmjp-operation-procedure-update",
+      "url": "https://speakerdeck.com/opelab/20260827-ssmjp-operation-procedure-update",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-27T14:20:32+00:00",
+      "fetched_at": "2026-08-29T00:48:10+00:00",
+      "summary": "ssmonline #53 での発表資料です。 (運用設計ラボ合同会社 波田野 裕一)",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a9422e72baa26ac79741"
     }
   ],
   "source_errors": [],

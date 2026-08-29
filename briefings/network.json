@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-08-29T00:00:55+00:00",
+  "generated_at": "2026-08-29T00:48:46+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 1,
-    "clusters": 1,
+    "findings": 2,
+    "clusters": 2,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 0,
@@ -11,8 +11,8 @@
   },
   "clusters": [
     {
-      "key": "domain:four.htmx.org",
-      "title": "htmx 4.0.0 has been released!",
+      "key": "domain:speakerdeck.com",
+      "title": "「ミスを許さない手順書」を作ってみた 〜 個人的にはこれ以上できることはあまりなさそう/20260827-ssmjp-operation-procedure-update",
       "sources": [
         "Hatena Bookmark Hotentry IT"
       ],
@@ -20,7 +20,7 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released"
+        "https://speakerdeck.com/opelab/20260827-ssmjp-operation-procedure-update"
       ],
       "finding_count": 1,
       "max_score": 5,
@@ -46,12 +46,50 @@
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
+      "first_seen_at": "2026-06-19T01:58:32+00:00"
+    },
+    {
+      "key": "domain:four.htmx.org",
+      "title": "htmx 4.0.0 has been released!",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 6.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 7.1,
+      "ranking_score": 6.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
       "first_seen_at": "2026-08-29T00:00:55+00:00"
     }
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-08-29T00:00:55Z",
+    "generated_at": "2026-08-29T00:48:46Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
