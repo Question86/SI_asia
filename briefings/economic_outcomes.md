@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-08-29T02:34:58+00:00`
+Generated: `2026-08-29T02:42:51+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -9,6 +9,7 @@ Generated: `2026-08-29T02:34:58+00:00`
 | M 4.8 - 110 km E of Miyako, Japan | $0 | — | 0 | 0 | dormant |
 | Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される | $0 | — | 0 | 0 | active |
 | curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？ | $0 | — | 0 | 0 | dormant |
+| ローカルLLMを直接実行できるマイコンボード「Arduino VENTUNO Q」予約販売開始 \| gihyo.jp | $0 | — | 0 | 0 | active |
 | bilawalsidhu/gods-eye-view | $0 | — | 0 | 0 | dormant |
 | Isabel Schnabel: Central banks on-chain | $0 | — | 0 | 0 | dormant |
 | Why every warehouse in Singapore will run on AI safety monitoring within five years | $0 | — | 0 | 0 | dormant |
@@ -28,4 +29,3 @@ Generated: `2026-08-29T02:34:58+00:00`
 | Supporting Thailand’s next generation of AI startups | $0 | — | 0 | 0 | active |
 | The deepfake threat and beyond: 3 unconventional security crises every founder-led brand must prepare for | $0 | — | 0 | 0 | dormant |
 | Language was never the problem: Inside SEA’s real AI adoption gap | $0 | — | 0 | 0 | dormant |
-| GROWIにおける複数の脆弱性 | $0 | — | 0 | 0 | dormant |
