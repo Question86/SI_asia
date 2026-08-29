@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-08-29T09:45:55+00:00`
+Generated: `2026-08-29T09:53:37+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -18,6 +18,7 @@ Generated: `2026-08-29T09:45:55+00:00`
 | M 4.9 - 124 km N of Aksu, China | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
 | M 4.6 - 170 km ESE of Kuril’sk, Russia | natural_disaster | $1.11M | $111.20M | $11.12B | 0.33 |
 | M 4.9 - South Sandwich Islands region | natural_disaster | $1.11M | $111.20M | $11.12B | 0.33 |
+| M 4.7 - 25 km ESE of Lospalos, Timor Leste | natural_disaster | $1.11M | $111.20M | $11.12B | 0.33 |
 | [NEU] [hoch] Linux Kernel: Mehrere Schwachstellen | vulnerability | $332.00K | $33.20M | $3.32B | 0.51 |
 | CISA ICS Advisory / ICS Medical Advisory（2026年08月27日） | vulnerability | $292.00K | $29.20M | $2.92B | 0.31 |
 | Zabbix agentにおけるDLL読み込みに関する脆弱性 | vulnerability | $288.00K | $28.80M | $2.88B | 0.31 |
@@ -30,7 +31,6 @@ Generated: `2026-08-29T09:45:55+00:00`
 | The deepfake threat and beyond: 3 unconventional security crises every founder-led brand must prepare for | unknown | $119.20K | $11.92M | $1.19B | 0.31 |
 | OpenAIの暴走AI、1200体が結託 「仲間のため｣とシステムに突撃要求 - 日本経済新聞 | unknown | $118.40K | $11.84M | $1.18B | 0.31 |
 | Claude Code から Cloud Run 上の MCP サーバを使うための認可構成 - エムスリーテックブログ | unknown | $117.60K | $11.76M | $1.18B | 0.31 |
-| Supporting Thailand’s next generation of AI startups | unknown | $116.80K | $11.68M | $1.17B | 0.31 |
 
 ## Interpretation
 

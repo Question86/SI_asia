@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-08-29T09:46:07+00:00`
+Generated: `2026-08-29T09:53:50+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -15,6 +15,7 @@ Generated: `2026-08-29T09:46:07+00:00`
 | ローカルLLMを直接実行できるマイコンボード「Arduino VENTUNO Q」予約販売開始 \| gihyo.jp | $0 | — | 0 | 0 | active |
 | bilawalsidhu/gods-eye-view | $0 | — | 0 | 0 | dormant |
 | Isabel Schnabel: Central banks on-chain | $0 | — | 0 | 0 | dormant |
+| M 4.7 - 25 km ESE of Lospalos, Timor Leste | $0 | — | 0 | 0 | active |
 | Why every warehouse in Singapore will run on AI safety monitoring within five years | $0 | — | 0 | 0 | dormant |
 | M 5.1 - Southwest Indian Ridge | $0 | — | 0 | 0 | active |
 | K-Dense-AI/scientific-agent-skills | $0 | — | 0 | 0 | dormant |
@@ -28,4 +29,3 @@ Generated: `2026-08-29T09:46:07+00:00`
 | SOYシリーズにおける複数の脆弱性 | $0 | — | 0 | 0 | dormant |
 | htmx 4.0.0 has been released! | $0 | — | 0 | 0 | active |
 | [NEU] [hoch] Linux Kernel: Mehrere Schwachstellen | $0 | — | 0 | 0 | dormant |
-| 九州大学での Claude Code ハンズオンを、一人でもプロダクトを作れるワークショップキットとして公開しました \| DevelopersIO | $0 | — | 0 | 0 | dormant |
