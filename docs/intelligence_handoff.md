@@ -1,28 +1,48 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-29T01:01:27Z_
+_Generated: 2026-08-29T01:24:14Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “htmx 4.0.0 has been released!” — Die Dynamik wirkt aktuell wie Hintergrundrauschen. Band=quiet, score=9.0.
+Stärkste Dynamik nach Gate-Recheck: “Cloudflareが1.1.1.1のDNSキャッシュを数十バイト単位で削り込んで100TBのメモリを節約” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=14.28.
 
 ## Top Dynamics
 
+### Cloudflareが1.1.1.1のDNSキャッシュを数十バイト単位で削り込んで100TBのメモリを節約
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `14.28`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `70.98`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3, baseline z_hint 0.71, high terms: 10, aging penalty -8.0 for 71.0d old signal
+- Quelle: https://gigazine.net/news/20260828-cloudflare-dns-cache-optimization/
+
 ### htmx 4.0.0 has been released!
 
+- Band: `watch` (raw `watch`)
+- Dynamics score: `14.0`
+- Published: `2026-08-29T00:00:55+00:00` / age_days `0.06`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3
+- Quelle: https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released
+
+### Cloudflareが1.1.1.1のDNSキャッシュを数十バイト単位で削り込んで100TBのメモリを節約
+
 - Band: `quiet` (raw `quiet`)
-- Dynamics score: `9.0`
-- Published: `2026-08-29T00:00:55+00:00` / age_days `0.04`
+- Dynamics score: `10.0`
+- Published: `2026-08-28T08:34:09+00:00` / age_days `0.7`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1
-- Quelle: https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released
+- Warum: high terms: 10
+- Quelle: https://gigazine.net/news/20260828-cloudflare-dns-cache-optimization/
 
 ### 「ミスを許さない手順書」を作ってみた 〜 個人的にはこれ以上できることはあまりなさそう/20260827-ssmjp-operation-procedure-update
 
 - Band: `quiet` (raw `quiet`)
-- Dynamics score: `8.5`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `70.96`
+- Dynamics score: `6.0`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `70.98`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, aging penalty -8.0 for 71.0d old signal
@@ -32,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “htmx 4.0.0 has been released!” — Die
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `5.0`
-- Published: `2026-08-28T16:24:02+00:00` / age_days `0.36`
+- Published: `2026-08-28T16:24:02+00:00` / age_days `0.38`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
@@ -42,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “htmx 4.0.0 has been released!” — Die
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `5.0`
-- Published: `2026-08-27T14:20:32+00:00` / age_days `1.45`
+- Published: `2026-08-27T14:20:32+00:00` / age_days `1.46`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
