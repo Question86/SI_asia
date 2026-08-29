@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-08-29T07:40:06+00:00`
+Generated: `2026-08-29T07:48:11+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -23,6 +23,7 @@ Generated: `2026-08-29T07:40:06+00:00`
 | SOYシリーズにおける複数の脆弱性 | vulnerability | $288.00K | $28.80M | $2.88B | 0.31 |
 | GROWIにおける複数の脆弱性 | vulnerability | $288.00K | $28.80M | $2.88B | 0.31 |
 | 綠色運算｜NUMail - OS Command Injection | vulnerability | $282.00K | $28.20M | $2.82B | 0.31 |
+| The path to the next-generation monetary and financial system lies in safeguarding trust in money: BIS | product_release | $150.40K | $15.04M | $1.50B | 0.77 |
 | Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される | unknown | $123.20K | $12.32M | $1.23B | 0.36 |
 | K-Dense-AI/scientific-agent-skills | unknown | $122.40K | $12.24M | $1.22B | 0.31 |
 | The deepfake threat and beyond: 3 unconventional security crises every founder-led brand must prepare for | unknown | $119.20K | $11.92M | $1.19B | 0.31 |
@@ -30,7 +31,6 @@ Generated: `2026-08-29T07:40:06+00:00`
 | Claude Code から Cloud Run 上の MCP サーバを使うための認可構成 - エムスリーテックブログ | unknown | $117.60K | $11.76M | $1.18B | 0.31 |
 | Supporting Thailand’s next generation of AI startups | unknown | $116.80K | $11.68M | $1.17B | 0.31 |
 | Ecosystem Roundup: SBI leads US$270M round in Indonesia’s largest tech deal in years | unknown | $116.80K | $11.68M | $1.17B | 0.31 |
-| JetBrains/go-modern-guidelines | unknown | $115.20K | $11.52M | $1.15B | 0.31 |
 
 ## Interpretation
 

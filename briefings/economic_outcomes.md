@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-08-29T07:40:10+00:00`
+Generated: `2026-08-29T07:48:23+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -18,6 +18,7 @@ Generated: `2026-08-29T07:40:10+00:00`
 | M 5.1 - Southwest Indian Ridge | $0 | — | 0 | 0 | active |
 | K-Dense-AI/scientific-agent-skills | $0 | — | 0 | 0 | dormant |
 | AI語に親しむ | $0 | — | 0 | 0 | active |
+| The path to the next-generation monetary and financial system lies in safeguarding trust in money: BIS | $0 | — | 0 | 0 | active |
 | M 5.0 - 19 km NW of Fuji, China | $0 | — | 0 | 0 | dormant |
 | CISA ICS Advisory / ICS Medical Advisory（2026年08月27日） | $0 | — | 0 | 0 | dormant |
 | Warsh, In Our Time | $0 | — | 0 | 0 | dormant |
@@ -28,4 +29,3 @@ Generated: `2026-08-29T07:40:10+00:00`
 | [NEU] [hoch] Linux Kernel: Mehrere Schwachstellen | $0 | — | 0 | 0 | dormant |
 | 九州大学での Claude Code ハンズオンを、一人でもプロダクトを作れるワークショップキットとして公開しました \| DevelopersIO | $0 | — | 0 | 0 | dormant |
 | 開発をシフトレフトせよ――形式仕様でAIと事前に合意する開発のすすめかた | $0 | — | 0 | 0 | dormant |
-| OpenAIの暴走AI、1200体が結託 「仲間のため｣とシステムに突撃要求 - 日本経済新聞 | $0 | — | 0 | 0 | dormant |
