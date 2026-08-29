@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-29T07:22:24+00:00_
+_Generated: 2026-08-29T07:30:43+00:00_
 
 ## Status
 - status: `normal`
-- findings: `13`
+- findings: `14`
 
 ## Top Signals
 
@@ -29,18 +29,18 @@ _Generated: 2026-08-29T07:22:24+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/nc75426637
 - summary: ShakeMap - III DYFI? - III Time 2026-08-29 02:41:09 UTC 2026-08-29 02:41:09 UTC at epicenter Location 40.425°N 125.403°W Depth 2.31 km (1.44 mi)
 
-### 4. M 4.6 - 170 km ESE of Kuril’sk, Russia
+### 4. M 4.9 - South Sandwich Islands region
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-08-29T07:27:19.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsm
+- summary: Time 2026-08-29 07:10:54 UTC 2026-08-29 07:10:54 UTC at epicenter Location 57.459°S 25.789°W Depth 89.89 km (55.85 mi)
+
+### 5. M 4.6 - 170 km ESE of Kuril’sk, Russia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-08-29T05:07:39.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcrx
 - summary: Time 2026-08-29 04:48:42 UTC 2026-08-29 04:48:42 UTC at epicenter Location 44.802°N 149.958°E Depth 44.00 km (27.34 mi)
-
-### 5. AI語に親しむ
-- source: Hatena Bookmark Hotentry IT
-- score: `8`
-- published: `2026-08-29T04:37:36+00:00`
-- url: https://ktrmnm.jp/blog/2026-08-29-what-is-ai-ism-jp/
-- summary: まず以下の文章を見てほしい。 はじめまして。今日から転校してきました、山田スロップ太郎と申します。 まず前提として、前の高校ではバスケ部に入っていました。ここで重要なのは、運動が得意だったかどうかではありません。試合に多く出ていたわけでもない。むしろ、限られた役割の中でどうチームに関わるか、という...
 
 END OF DOCUMENT

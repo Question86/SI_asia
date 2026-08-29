@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-29T07:22:24+00:00_
+_Generiert: 2026-08-29T07:30:43+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „M 4.8 - 29 km ENE of Pilar, Philippines“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+14 neue relevante Treffer. Stärkstes Signal: „M 4.8 - 29 km ENE of Pilar, Philippines“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 ## Priorität Hoch
 
@@ -42,14 +42,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: ShakeMap - III DYFI? - III Time 2026-08-29 02:41:09 UTC 2026-08-29 02:41:09 UTC at epicenter Location 40.425°N 125.403°W Depth 2.31 km (1.44 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.6 - 170 km ESE of Kuril’sk, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcrx)
+- **M 4.9 - South Sandwich Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsm)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-29T05:07:39.040+00:00`, fetched `2026-08-29T05:19:23+00:00`
+  - Zeit: published `2026-08-29T07:27:19.040+00:00`, fetched `2026-08-29T07:30:09+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-29 04:48:42 UTC 2026-08-29 04:48:42 UTC at epicenter Location 44.802°N 149.958°E Depth 44.00 km (27.34 mi)
+  - Kurz: Time 2026-08-29 07:10:54 UTC 2026-08-29 07:10:54 UTC at epicenter Location 57.459°S 25.789°W Depth 89.89 km (55.85 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **AI語に親しむ** — Score 8, observation — [Quelle](https://ktrmnm.jp/blog/2026-08-29-what-is-ai-ism-jp/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
