@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-29T07:06:29+00:00",
-  "run_id": "2026-08-29T07:06:29+00:00",
+  "generated_at": "2026-08-29T07:22:24+00:00",
+  "run_id": "2026-08-29T07:22:24+00:00",
   "date": "2026-08-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 13,
     "displayed_findings": 13,
     "high": 0,
@@ -705,30 +705,7 @@
       "id": "a9422e72baa26ac79741"
     }
   ],
-  "new_findings": [
-    {
-      "title": "AI語に親しむ",
-      "url": "https://ktrmnm.jp/blog/2026-08-29-what-is-ai-ism-jp/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-29T04:37:36+00:00",
-      "fetched_at": "2026-08-29T07:05:55+00:00",
-      "summary": "まず以下の文章を見てほしい。 はじめまして。今日から転校してきました、山田スロップ太郎と申します。 まず前提として、前の高校ではバスケ部に入っていました。ここで重要なのは、運動が得意だったかどうかではありません。試合に多く出ていたわけでもない。むしろ、限られた役割の中でどうチームに関わるか、という...",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "fc05fb08823cb133a0f5"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
