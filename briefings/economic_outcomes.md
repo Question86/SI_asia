@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-08-29T12:59:05+00:00`
+Generated: `2026-08-29T13:16:14+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -14,7 +14,7 @@ Generated: `2026-08-29T12:59:05+00:00`
 | Claude Codeの設計詰めスキル『grilling』の紹介 | $0 | — | 0 | 0 | active |
 | curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？ | $0 | — | 0 | 0 | dormant |
 | ローカルLLMを直接実行できるマイコンボード「Arduino VENTUNO Q」予約販売開始 \| gihyo.jp | $0 | — | 0 | 0 | dormant |
-| ベテランエンジニアのPRレビュー187件を分類してみたら、バグは5件に1件しか指摘されていなかった - Qiita | $0 | — | 0 | 0 | active |
+| ベテランエンジニアのPRレビュー187件を分類してみたら、バグは5件に1件しか指摘されていなかった - Qiita | $0 | — | 0 | 0 | dormant |
 | bilawalsidhu/gods-eye-view | $0 | — | 0 | 0 | dormant |
 | Isabel Schnabel: Central banks on-chain | $0 | — | 0 | 0 | dormant |
 | M 4.7 - 25 km ESE of Lospalos, Timor Leste | $0 | — | 0 | 0 | active |
@@ -26,6 +26,6 @@ Generated: `2026-08-29T12:59:05+00:00`
 | M 5.0 - 19 km NW of Fuji, China | $0 | — | 0 | 0 | dormant |
 | CISA ICS Advisory / ICS Medical Advisory（2026年08月27日） | $0 | — | 0 | 0 | dormant |
 | Warsh, In Our Time | $0 | — | 0 | 0 | dormant |
-| 新型「Mac mini」「Mac Studio」の“数字”を読み解く――驚異のAI性能と、日米価格設定のからくり | $0 | — | 0 | 0 | dormant |
+| 新型「Mac mini」「Mac Studio」の“数字”を読み解く――驚異のAI性能と、日米価格設定のからくり | $0 | — | 0 | 0 | active |
 | 電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題 | $0 | — | 0 | 0 | dormant |
 | SOYシリーズにおける複数の脆弱性 | $0 | — | 0 | 0 | dormant |
