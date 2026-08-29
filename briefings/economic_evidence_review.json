@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-08-29T16:10:06+00:00",
+  "generated_at": "2026-08-29T16:23:13+00:00",
   "fx_as_of": null,
-  "candidate_count": 22,
+  "candidate_count": 23,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 22
+    "pending": 23
   },
   "coverage_warning": null,
   "candidates": [
@@ -422,6 +422,27 @@
       "snippet": "Websites deanohume 310 32k How To Stay Up To Date on Web Technology chriscoyier 790 250k Designing for Timeless Needs cassininazir 1 450 Data-driven link building: lessons from a $708K investment (BrightonSEO talk) szymonslowik 1 1.3k Unsuck your backbone ammeep 672 58k DevOps and Value Stream Thinking: Enabling flow, efficiency and business value helenjbeal 1 3",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://speakerdeck.com/oikon48/cc"
+    },
+    {
+      "amount_native": 708000.0,
+      "amount_usd": 708000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.55,
+      "candidate_id": "cand_3830b1074b0c31868464",
+      "component_suggestion": "capital_allocation",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_a77bf86ad7c289b6fd5e",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-08-29T16:23:06+00:00",
+      "overlap_group_suggestion": "evt_a77bf86ad7c289b6fd5e:capital_allocation:6e6de6c5c476",
+      "review_status": "pending",
+      "snippet": "ng (And the UX Pros Who Still Save the Day) - Dean Schuster uxyall 1 2.5k Joys of Absence: A Defence of Solitary Play codingconduct 1 450 Data-driven link building: lessons from a $708K investment (BrightonSEO talk) szymonslowik 1 1.3k How to train your dragon (web standard) notwaldorf 97 6.8k Measuring Dark Social's Impact On Conversion and Attribution stephenak",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://speakerdeck.com/oikon48/cc",
+      "component_confidence": 0.55,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 270000000.0,
