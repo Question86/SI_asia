@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-29T07:12:34Z_
+_Generated: 2026-08-29T07:25:31Z_
 
 ## Lageurteil
 
@@ -12,17 +12,27 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 29 km ENE of Pilar, Philippines�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-08-29T06:53:38.040+00:00` / age_days `0.01`
+- Published: `2026-08-29T06:53:38.040+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 9.9
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsc
+
+### M 4.8 - 29 km ENE of Pilar, Philippines
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `20.0`
+- Published: `2026-08-29T06:55:03+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +2
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsc
 
 ### M 5.1 - Southwest Indian Ridge
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-08-29T05:56:57.040+00:00` / age_days `0.05`
+- Published: `2026-08-29T05:56:57.040+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -32,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 29 km ENE of Pilar, Philippines�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.5`
-- Published: `2026-08-29T06:08:12+00:00` / age_days `0.04`
+- Published: `2026-08-29T06:08:12+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -42,27 +52,17 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 29 km ENE of Pilar, Philippines�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.5`
-- Published: `2026-08-29T02:50:18+00:00` / age_days `0.18`
+- Published: `2026-08-29T02:50:18+00:00` / age_days `0.19`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/nc75426637
 
-### M 4.8 - 29 km ENE of Pilar, Philippines
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `17.5`
-- Published: `2026-08-29T06:55:03+00:00` / age_days `0.01`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsc
-
 ### M 4.6 - 170 km ESE of Kuril’sk, Russia
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-08-29T05:07:39.040+00:00` / age_days `0.09`
+- Published: `2026-08-29T05:07:39.040+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 9.9
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 29 km ENE of Pilar, Philippines�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.5`
-- Published: `2026-08-29T05:20:00+00:00` / age_days `0.08`
+- Published: `2026-08-29T05:20:00+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 29 km ENE of Pilar, Philippines�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-08-29T00:00:55+00:00` / age_days `0.3`
+- Published: `2026-08-29T00:00:55+00:00` / age_days `0.31`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 29 km ENE of Pilar, Philippines�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-08-29T02:48:22.972+00:00` / age_days `0.18`
+- Published: `2026-08-29T02:48:22.972+00:00` / age_days `0.19`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.8 - 29 km ENE of Pilar, Philippines�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `11.0`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `71.22`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `71.23`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: 10, aging penalty -8.0 for 71.2d old signal
