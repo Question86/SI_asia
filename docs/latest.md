@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-29T14:59:47+00:00_
+_Generiert: 2026-08-29T15:16:58+00:00_
 
 ## Kurzlage
 
-36 neue relevante Treffer. Stärkstes Signal: „Claude Codeの体系的な理解と知識のフック“ aus Hatena Bookmark Hotentry IT (Score 16, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+37 neue relevante Treffer. Stärkstes Signal: „Claude Codeの体系的な理解と知識のフック“ aus Hatena Bookmark Hotentry IT (Score 16, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -96,6 +96,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: ShakeMap - III DYFI? - III Time 2026-08-29 02:41:09 UTC 2026-08-29 02:41:09 UTC at epicenter Location 40.425°N 125.403°W Depth 2.31 km (1.44 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **自衛隊情報基盤にIOWN導入 AI活用へ大容量通信、次期計画に明記 - 日本経済新聞** — Score 10, observation — [Quelle](https://www.nikkei.com/article/DGXZQOUA276CL0X20C26A8000000/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-29T07:23:07+00:00`, fetched `2026-08-29T15:16:22+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
+  - Kurz: 防衛省は自衛隊の部隊や全国の基地をつなぐ通信網にNTTの次世代光通信基盤「IOWN（アイオン）」の中核技術を導入する。大量のデータをすばやく共有できる通信環境を整え、人工知能（AI）を本格活用する「新しい戦い方」に備える。装備品などの導入予定を定める次期防衛力整備計画に明記する。2027年度予算案に関連費を盛...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Remarks on the MAS Annual Report 2025/2026** — Score 10, opportunity — [Quelle](https://www.bis.org/speeches/20260817-remarks-mas-annual-report-20252026)
   - Quelle: BIS Central Bankers Speeches / `rss`
   - Zeit: published `2026-08-17T00:00:00+00:00`, fetched `2026-08-29T07:47:21+00:00`
@@ -113,15 +122,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Macro/Policy (+6.2)
   - Kurz: The sustainability of the AI boom, financial vulnerabilities and strained public finances are among pressure points facing the global economy, along with the return of inflation.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AI語に親しむ** — Score 8, observation — [Quelle](https://ktrmnm.jp/blog/2026-08-29-what-is-ai-ism-jp/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-29T04:37:36+00:00`, fetched `2026-08-29T07:05:55+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: まず以下の文章を見てほしい。 はじめまして。今日から転校してきました、山田スロップ太郎と申します。 まず前提として、前の高校ではバスケ部に入っていました。ここで重要なのは、運動が得意だったかどうかではありません。試合に多く出ていたわけでもない。むしろ、限られた役割の中でどうチームに関わるか、という...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Monetary policy in an era of shocks** — Score 8, observation — [Quelle](https://www.bis.org/speeches/20260817-monetary-policy-era-shocks)
   - Quelle: BIS Central Bankers Speeches / `rss`

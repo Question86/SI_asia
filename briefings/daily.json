@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-29T14:59:50+00:00",
-  "today_file_total": 36,
+  "generated_at": "2026-08-29T15:17:02+00:00",
+  "today_file_total": 37,
   "current_clusters": [
     {
       "key": "domain:www.bis.org",
@@ -145,6 +145,29 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
+      "network_score": 15.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:www.nikkei.com",
+      "title": "自衛隊情報基盤にIOWN導入 AI活用へ大容量通信、次期計画に明記 - 日本経済新聞",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.nikkei.com/article/DGXZQOUA276CL0X20C26A8000000/"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
       "network_score": 15.1,
       "hot": false,
       "watchgraph_modules": [],
@@ -449,29 +472,6 @@
       ],
       "urls": [
         "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 7.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:mac-mini-mac-studio",
-      "title": "新型「Mac mini」「Mac Studio」の“数字”を読み解く――驚異のAI性能と、日米価格設定のからくり",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.itmedia.co.jp/pcuser/articles/2608/28/news093.html"
       ],
       "finding_count": 1,
       "max_score": 5,
