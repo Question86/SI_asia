@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-08-29T05:55:07+00:00`
+Generated: `2026-08-29T06:08:32+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -15,6 +15,7 @@ Generated: `2026-08-29T05:55:07+00:00`
 | bilawalsidhu/gods-eye-view | $0 | — | 0 | 0 | dormant |
 | Isabel Schnabel: Central banks on-chain | $0 | — | 0 | 0 | dormant |
 | Why every warehouse in Singapore will run on AI safety monitoring within five years | $0 | — | 0 | 0 | dormant |
+| M 5.1 - Southwest Indian Ridge | $0 | — | 0 | 0 | active |
 | K-Dense-AI/scientific-agent-skills | $0 | — | 0 | 0 | dormant |
 | M 5.0 - 19 km NW of Fuji, China | $0 | — | 0 | 0 | dormant |
 | CISA ICS Advisory / ICS Medical Advisory（2026年08月27日） | $0 | — | 0 | 0 | dormant |
@@ -28,4 +29,3 @@ Generated: `2026-08-29T05:55:07+00:00`
 | 開発をシフトレフトせよ――形式仕様でAIと事前に合意する開発のすすめかた | $0 | — | 0 | 0 | dormant |
 | OpenAIの暴走AI、1200体が結託 「仲間のため｣とシステムに突撃要求 - 日本経済新聞 | $0 | — | 0 | 0 | dormant |
 | 【やじうまPC Watch】 トランプ大統領、「Apple-Intel米チップ製造合意」を主張。ただし両社は未発表 | $0 | — | 0 | 0 | dormant |
-| M 4.9 - 95 km W of Petrolia, CA | $0 | — | 0 | 0 | active |
