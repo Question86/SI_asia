@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-29T07:22:41+00:00",
+  "generated_at": "2026-08-29T07:31:02+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -88,7 +88,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-29T06:55:03+00:00",
-      "last_seen_at": "2026-08-29T07:22:28+00:00",
+      "last_seen_at": "2026-08-29T07:30:47+00:00",
       "status": "active"
     },
     {
@@ -105,7 +105,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-29T06:08:12+00:00",
-      "last_seen_at": "2026-08-29T07:22:28+00:00",
+      "last_seen_at": "2026-08-29T07:30:47+00:00",
       "status": "active"
     },
     {
@@ -139,7 +139,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-29T02:50:18+00:00",
-      "last_seen_at": "2026-08-29T07:22:28+00:00",
+      "last_seen_at": "2026-08-29T07:30:47+00:00",
       "status": "active"
     },
     {
@@ -173,7 +173,24 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-29T05:20:00+00:00",
-      "last_seen_at": "2026-08-29T07:22:28+00:00",
+      "last_seen_at": "2026-08-29T07:30:47+00:00",
+      "status": "active"
+    },
+    {
+      "event_id": "evt_cbfd052299ee5805884b",
+      "title": "M 4.9 - South Sandwich Islands region",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-08-29T07:30:47+00:00",
+      "last_seen_at": "2026-08-29T07:30:47+00:00",
       "status": "active"
     },
     {
@@ -292,7 +309,7 @@
       "p90_usd": 1232000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
-      "last_seen_at": "2026-08-29T07:22:28+00:00",
+      "last_seen_at": "2026-08-29T07:30:47+00:00",
       "status": "active"
     },
     {
@@ -377,7 +394,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-08-29T07:22:28+00:00",
+      "last_seen_at": "2026-08-29T07:30:47+00:00",
       "status": "active"
     },
     {
@@ -496,7 +513,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T22:15:36+00:00",
-      "last_seen_at": "2026-08-29T07:22:28+00:00",
+      "last_seen_at": "2026-08-29T07:30:47+00:00",
       "status": "active"
     },
     {
@@ -530,7 +547,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T07:06:32+00:00",
-      "last_seen_at": "2026-08-29T07:22:28+00:00",
+      "last_seen_at": "2026-08-29T07:30:47+00:00",
       "status": "active"
     },
     {
@@ -547,7 +564,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T05:20:00+00:00",
-      "last_seen_at": "2026-08-29T07:22:28+00:00",
+      "last_seen_at": "2026-08-29T07:30:47+00:00",
       "status": "active"
     },
     {
@@ -564,7 +581,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T02:42:35+00:00",
-      "last_seen_at": "2026-08-29T07:22:28+00:00",
+      "last_seen_at": "2026-08-29T07:30:47+00:00",
       "status": "active"
     },
     {
@@ -581,7 +598,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T03:32:05+00:00",
-      "last_seen_at": "2026-08-29T07:22:28+00:00",
+      "last_seen_at": "2026-08-29T07:30:47+00:00",
       "status": "active"
     },
     {
@@ -598,7 +615,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T00:00:55+00:00",
-      "last_seen_at": "2026-08-29T07:22:28+00:00",
+      "last_seen_at": "2026-08-29T07:30:47+00:00",
       "status": "active"
     },
     {
@@ -615,7 +632,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T03:56:55+00:00",
-      "last_seen_at": "2026-08-29T07:22:28+00:00",
+      "last_seen_at": "2026-08-29T07:30:47+00:00",
       "status": "active"
     },
     {
