@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-08-28T23:53:56+00:00",
+  "generated_at": "2026-08-29T00:01:10+00:00",
   "fx_as_of": null,
-  "candidate_count": 18,
+  "candidate_count": 19,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 18
+    "pending": 19
   },
   "coverage_warning": null,
   "candidates": [
@@ -380,6 +380,27 @@
       "snippet": "Ecosystem Roundup: SBI leads US$270M round in Indonesia's largest tech deal in years | e27 --> Verify Your Email Address Your account contact email hasn't been verified yet. Please verify your email address Go to Edi",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://e27.co/ecosystem-roundup-sbi-leads-us270m-round-in-indonesias-largest-tech-deal-in-years-20260828/"
+    },
+    {
+      "amount_native": 1.0,
+      "amount_usd": 1.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_ecd60e7aa48d96687e53",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_6f36151ccdd6ba257878",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-08-29T00:01:10+00:00",
+      "overlap_group_suggestion": "evt_6f36151ccdd6ba257878:unknown:268c4c9bb090",
+      "review_status": "pending",
+      "snippet": "ord GitHub @htmx_org Reddit Stack Overflow Resources Interviews Podcasts Memes Book RSS Haiku javascript fatigue: longing for a hypertext already in hand © 2026 · Big Sky Software $1 \" class=\"group/search\"> Search documentation esc No results found Try a different search term ↑ ↓ to navigate to select outside to close",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     }
   ]
 }
