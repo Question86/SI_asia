@@ -1,17 +1,17 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-29T04:39:52Z",
+  "generated_at": "2026-08-29T04:48:44Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 16,
     "bands": {
-      "watch": 4,
-      "quiet": 12
+      "watch": 5,
+      "quiet": 11
     },
     "bands_after_gate_recheck": {
-      "watch": 4,
-      "quiet": 12
+      "watch": 5,
+      "quiet": 11
     }
   },
   "top_dynamics": [
@@ -40,11 +40,35 @@
       "summary": ""
     },
     {
+      "title": "問い合わせへの返答をネットに上げるのって駄目だったの！？",
+      "url": "https://anond.hatelabo.jp/20260829085942",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-29T03:56:55+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "htmx 4.0.0 has been released!",
       "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T00:00:55+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -92,7 +116,7 @@
       "url": "https://www.itmedia.co.jp/pcuser/articles/2608/28/news093.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-28T13:03:58+00:00",
-      "age_days": 0.65,
+      "age_days": 0.66,
       "topics": [
         "ai"
       ],
@@ -114,35 +138,11 @@
       "summary": "新型「Mac mini」「Mac Studio」の“数字”を読み解く――驚異のAI性能と、日米価格設定のからくり：本田雅一のクロスオーバーデジタル（1/2 ページ） 新型の「Mac mini」と「Mac Studio」が、一部構成を除き9月22日に発売される。8月26日のコラムでは、Mac miniでデビューを果たした「M6チップ」、そしてMac Studioでデビュ..."
     },
     {
-      "title": "問い合わせへの返答をネットに上げるのって駄目だったの！？",
-      "url": "https://anond.hatelabo.jp/20260829085942",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-29T03:56:55+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Cloudflareが1.1.1.1のDNSキャッシュを数十バイト単位で削り込んで100TBのメモリを節約",
       "url": "https://gigazine.net/news/20260828-cloudflare-dns-cache-optimization/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 71.11,
+      "age_days": 71.12,
       "topics": [
         "general"
       ],
@@ -192,7 +192,7 @@
       "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 72.33,
+      "age_days": 72.34,
       "topics": [
         "general"
       ],
@@ -244,7 +244,7 @@
       "url": "https://gihyo.jp/article/2026/08/arduino-ventuno-q",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T02:42:35+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -270,7 +270,7 @@
       "url": "https://speakerdeck.com/opelab/20260827-ssmjp-operation-procedure-update",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 71.11,
+      "age_days": 71.12,
       "topics": [
         "general"
       ],
@@ -295,7 +295,7 @@
       "url": "https://anond.hatelabo.jp/20260829085942",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T00:00:51+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -319,7 +319,7 @@
       "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-28T16:24:02+00:00",
-      "age_days": 0.51,
+      "age_days": 0.52,
       "topics": [
         "general"
       ],
@@ -367,7 +367,7 @@
       "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
       "source": "OpenAI News RSS",
       "published_at": "2026-08-28T06:00:00+00:00",
-      "age_days": 0.94,
+      "age_days": 0.95,
       "topics": [
         "ai"
       ],
