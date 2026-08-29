@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-08-29T11:32:00+00:00`
+Generated: `2026-08-29T11:40:26+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -16,6 +16,7 @@ Generated: `2026-08-29T11:32:00+00:00`
 | M 5.0 - 19 km NW of Fuji, China | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
 | M 4.9 - 95 km W of Petrolia, CA | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
 | M 4.9 - 124 km N of Aksu, China | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
+| M 4.5 - 24 km WSW of Sipí, Colombia | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
 | M 4.6 - 170 km ESE of Kuril’sk, Russia | natural_disaster | $1.11M | $111.20M | $11.12B | 0.33 |
 | M 4.7 - 25 km ESE of Lospalos, Timor Leste | natural_disaster | $1.11M | $111.20M | $11.12B | 0.33 |
 | M 4.9 - South Sandwich Islands region | natural_disaster | $1.11M | $111.20M | $11.12B | 0.33 |
@@ -30,7 +31,6 @@ Generated: `2026-08-29T11:32:00+00:00`
 | K-Dense-AI/scientific-agent-skills | unknown | $122.40K | $12.24M | $1.22B | 0.31 |
 | The deepfake threat and beyond: 3 unconventional security crises every founder-led brand must prepare for | unknown | $119.20K | $11.92M | $1.19B | 0.31 |
 | OpenAIの暴走AI、1200体が結託 「仲間のため｣とシステムに突撃要求 - 日本経済新聞 | unknown | $118.40K | $11.84M | $1.18B | 0.31 |
-| Claude Code から Cloud Run 上の MCP サーバを使うための認可構成 - エムスリーテックブログ | unknown | $117.60K | $11.76M | $1.18B | 0.31 |
 
 ## Interpretation
 
