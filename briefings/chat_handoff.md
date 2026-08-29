@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-29T15:16:58+00:00_
+_Generated: 2026-08-29T15:25:09+00:00_
 
 ## Status
 - status: `warning`
-- findings: `37`
+- findings: `38`
 
 ## Top Signals
 
@@ -50,11 +50,11 @@ _Generated: 2026-08-29T15:16:58+00:00_
 - url: https://www.bis.org/media-releases/20260623-path-next-generation-monetary-and-financial-system-lies-safeguarding-trust-money-bis
 - summary: Digital innovation is transforming finance, potentially enabling greater competition and efficiency in payment systems and financial intermediation. However, it also poses new macro-financial challenges and raises the broader question of how to preserve trust…
 
-### 7. M 4.5 - 24 km WSW of Sipí, Colombia
+### 7. M 4.9 - 193 km SE of Perryville, Alaska
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
-- published: `2026-08-29T11:32:54.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcth
-- summary: Time 2026-08-29 10:50:24 UTC 2026-08-29 10:50:24 UTC at epicenter Location 4.569°N 76.850°W Depth 58.15 km (36.13 mi)
+- published: `2026-08-29T15:23:36.668+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rcluqc
+- summary: ShakeMap - III Time 2026-08-29 15:16:55 UTC 2026-08-29 15:16:55 UTC at epicenter Location 54.752°N 156.882°W Depth 16.90 km (10.50 mi)
 
 END OF DOCUMENT
