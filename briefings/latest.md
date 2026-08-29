@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-29T06:32:53+00:00_
+_Generiert: 2026-08-29T06:47:26+00:00_
 
 ## Kurzlage
 
@@ -33,6 +33,10 @@ _Generiert: 2026-08-29T06:32:53+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in New Zealand
+- **GDACS: Green flood alert in Ireland** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104127)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Ireland
 - **GDACS: Orange earthquake (Magnitude 5M, Depth:10km) in China 28/08/2026 05:13 UTC, 15.8 million in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1562260)
   - Quelle: GDACS
   - Zeit: ``
