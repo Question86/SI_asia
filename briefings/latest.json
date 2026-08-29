@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-29T23:43:50+00:00",
-  "run_id": "2026-08-29T23:43:50+00:00",
+  "generated_at": "2026-08-29T23:51:04+00:00",
+  "run_id": "2026-08-29T23:51:04+00:00",
   "date": "2026-08-29",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 43
+      "configured_public_sources_only": 44
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 43,
-    "displayed_findings": 43,
+    "new_relevant_findings": 1,
+    "today_file_total": 44,
+    "displayed_findings": 44,
     "high": 0,
     "medium": 4,
-    "observe": 39,
+    "observe": 40,
     "source_errors": 1
   },
   "sections": {
@@ -901,6 +901,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "00d94fa0258f32a6de10"
+      },
+      {
+        "title": "無料のLM Studio、DFlash/DSpark/MTPで推論を高速化",
+        "url": "https://pc.watch.impress.co.jp/docs/news/2136645.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-28T14:14:51+00:00",
+        "fetched_at": "2026-08-29T23:50:29+00:00",
+        "summary": "無料のLM Studio、DFlash/DSpark/MTPで推論を高速化",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a0408bc8c1d594c38613"
       },
       {
         "title": "新型「Mac mini」「Mac Studio」の“数字”を読み解く――驚異のAI性能と、日米価格設定のからくり",
@@ -1983,6 +2004,27 @@
       "id": "00d94fa0258f32a6de10"
     },
     {
+      "title": "無料のLM Studio、DFlash/DSpark/MTPで推論を高速化",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2136645.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-28T14:14:51+00:00",
+      "fetched_at": "2026-08-29T23:50:29+00:00",
+      "summary": "無料のLM Studio、DFlash/DSpark/MTPで推論を高速化",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a0408bc8c1d594c38613"
+    },
+    {
       "title": "新型「Mac mini」「Mac Studio」の“数字”を読み解く――驚異のAI性能と、日米価格設定のからくり",
       "url": "https://www.itmedia.co.jp/pcuser/articles/2608/28/news093.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2189,7 +2231,29 @@
       "id": "17c30f6bb92f45673867"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "無料のLM Studio、DFlash/DSpark/MTPで推論を高速化",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2136645.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-28T14:14:51+00:00",
+      "fetched_at": "2026-08-29T23:50:29+00:00",
+      "summary": "無料のLM Studio、DFlash/DSpark/MTPで推論を高速化",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a0408bc8c1d594c38613"
+    }
+  ],
   "source_errors": [
     {
       "source_id": "bis_statistics",
