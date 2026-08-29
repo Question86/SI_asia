@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-29T11:31:37+00:00_
+_Generiert: 2026-08-29T11:40:05+00:00_
 
 ## Kurzlage
 
-31 neue relevante Treffer. Stärkstes Signal: „M 5.0 - 64 km W of Labuha, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+33 neue relevante Treffer. Stärkstes Signal: „Claude Codeの体系的な理解と知識のフック“ aus Hatena Bookmark Hotentry IT (Score 16, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -77,6 +77,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Claude Codeの体系的な理解と知識のフック** — Score 16, observation — [Quelle](https://speakerdeck.com/oikon48/cc)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-28T13:30:40+00:00`, fetched `2026-08-29T11:39:32+00:00`
+  - Treffer: AI Agents, APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+6.2); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: Claude Code Meetup Japan #7 (Claude Code祭り!): https://aid.connpass.com/event/402949/ 書籍 『Claude Code実践入門［生成AI深掘りガイド］』: https://amzn.asia/d/08P7IEWl
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.0 - 64 km W of Labuha, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsu)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-29T08:28:19.040+00:00`, fetched `2026-08-29T08:35:58+00:00`
@@ -107,6 +116,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+6.2); Content-Chance (+5.0); macro (+2.0)
   - Kurz: Digital innovation is transforming finance, potentially enabling greater competition and efficiency in payment systems and financial intermediation. However, it also poses new macro-financial challenges and raises the broader question of how to preserve trust in money in the digital age.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.5 - 24 km WSW of Sipí, Colombia** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcth)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-29T11:32:54.040+00:00`, fetched `2026-08-29T11:39:32+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Colombia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-29 10:50:24 UTC 2026-08-29 10:50:24 UTC at epicenter Location 4.569°N 76.850°W Depth 58.15 km (36.13 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.1 - Southwest Indian Ridge** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcs7)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-29T05:56:57.040+00:00`, fetched `2026-08-29T06:07:39+00:00`
@@ -134,15 +152,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); APAC Trend Radar (+3.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Opening address by Mr Chia Der Jiun, Managing Director of the Monetary Authority of Singapore, at the MAS Annual Report 2025/2026 Media Conference, Singapore, 28 July 2026.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **M 4.7 - 25 km ESE of Lospalos, Timor Leste** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tct6)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-29T09:51:31.040+00:00`, fetched `2026-08-29T09:52:42+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-29 09:15:46 UTC 2026-08-29 09:15:46 UTC at epicenter Location 8.588°S 127.222°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Global economic pressure points call for policy discipline: BIS** — Score 9, observation — [Quelle](https://www.bis.org/media-releases/20260628-global-economic-pressure-points-call-policy-discipline-bis)
   - Quelle: BIS Press Releases / `rss`
   - Zeit: published `2026-06-28T00:00:00+00:00`, fetched `2026-08-29T07:47:21+00:00`
@@ -218,6 +227,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten

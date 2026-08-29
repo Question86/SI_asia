@@ -1,15 +1,53 @@
 {
-  "generated_at": "2026-08-29T11:31:41+00:00",
+  "generated_at": "2026-08-29T11:40:09+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 31,
-    "clusters": 19,
+    "findings": 33,
+    "clusters": 21,
     "cross_source_confrmed": 1,
-    "hot": 0,
-    "early_signals": 0,
-    "dominance_penalized": 7
+    "hot": 1,
+    "early_signals": 1,
+    "dominance_penalized": 8
   },
   "clusters": [
+    {
+      "key": "domain:aid.connpass.com",
+      "title": "Claude Codeの体系的な理解と知識のフック",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://speakerdeck.com/oikon48/cc"
+      ],
+      "finding_count": 1,
+      "max_score": 16,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 25.5,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
+      "raw_network_score": 21.1,
+      "ranking_score": 25.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 5.5,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-29T11:40:09+00:00"
+    },
     {
       "key": "domain:www.bis.org",
       "title": "The path to the next-generation monetary and financial system lies in safeguarding trust in money: BIS",
@@ -136,6 +174,47 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-08-29T06:55:03+00:00"
+    },
+    {
+      "key": "earthquake:m 4.5 - 24 km wsw of sipí, colombia:4.5",
+      "title": "M 4.5 - 24 km WSW of Sipí, Colombia",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "emergency_official",
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcth"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 12.9,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 16.7,
+      "ranking_score": 12.9,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-08-29T11:40:09+00:00"
     },
     {
       "key": "earthquake:m 5.1 - southwest indian ridge:5.1",
@@ -763,7 +842,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-08-29T11:31:41Z",
+    "generated_at": "2026-08-29T11:40:09Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
