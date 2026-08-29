@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-29T03:32:02+00:00_
+_Generiert: 2026-08-29T03:56:51+00:00_
 
 ## Kurzlage
 
-7 neue relevante Treffer. Stärkstes Signal: „M 4.9 - 95 km W of Petrolia, CA“ aus USGS M4.5+ Earthquakes Past Hour (Score 11, risk).
+8 neue relevante Treffer. Stärkstes Signal: „M 4.9 - 95 km W of Petrolia, CA“ aus USGS M4.5+ Earthquakes Past Hour (Score 11, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -91,6 +91,15 @@ Keine neuen mittleren Treffer.
   - Warum relevant: OpenAI (+6.0); recent (+1.0)
   - Kurz: Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **問い合わせへの返答をネットに上げるのって駄目だったの！？** — Score 5, observation — [Quelle](https://anond.hatelabo.jp/20260829085942)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-29T00:00:51+00:00`, fetched `2026-08-29T03:56:16+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 担当者の「私信」を晒したという事が問題にされているが、 記事にある文面がそのままなのだとしたら、どう見ても私信ではなく、団体としての公式な返答なんだよね。 こういった返答をネットに上げるのが駄目だとは知らなかった。 当事者団体にも届いた「アニメ化に抗議して」 「みい山」めぐる担当者の「私信」晒されSN...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **htmx 4.0.0 has been released!** — Score 5, observation — [Quelle](https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-28T16:24:02+00:00`, fetched `2026-08-29T00:00:19+00:00`
@@ -108,15 +117,6 @@ Keine neuen mittleren Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 新型「Mac mini」「Mac Studio」の“数字”を読み解く――驚異のAI性能と、日米価格設定のからくり：本田雅一のクロスオーバーデジタル（1/2 ページ） 新型の「Mac mini」と「Mac Studio」が、一部構成を除き9月22日に発売される。8月26日のコラムでは、Mac miniでデビューを果たした「M6チップ」、そしてMac Studioでデビュ...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Cloudflareが1.1.1.1のDNSキャッシュを数十バイト単位で削り込んで100TBのメモリを節約** — Score 5, observation — [Quelle](https://gigazine.net/news/20260828-cloudflare-dns-cache-optimization/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-28T08:34:09+00:00`, fetched `2026-08-29T01:20:55+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: CloudflareがパブリックDNSリゾルバー「1.1.1.1」などで使われているDNSキャッシュのデータ構造を見直し、システム全体で約100TBのメモリを削減したと発表しました。ベンチマークではキャッシュ1件当たりのメモリ使用量が953バイトから420バイトへと56％減少し、メモリを減らしながらキャッシュへの書き込みや読み出しも...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
