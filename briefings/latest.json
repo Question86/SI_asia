@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-29T12:08:11+00:00",
-  "run_id": "2026-08-29T12:08:11+00:00",
+  "generated_at": "2026-08-29T12:29:34+00:00",
+  "run_id": "2026-08-29T12:29:34+00:00",
   "date": "2026-08-29",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 33
+      "configured_public_sources_only": 35
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 33,
-    "displayed_findings": 33,
+    "new_relevant_findings": 2,
+    "today_file_total": 35,
+    "displayed_findings": 35,
     "high": 0,
     "medium": 3,
-    "observe": 30,
+    "observe": 32,
     "source_errors": 1
   },
   "sections": {
@@ -128,6 +128,52 @@
       }
     ],
     "observe": [
+      {
+        "title": "AIに丸投げしないで理解するためのAI開発手法（2026年8月現在）",
+        "url": "https://zenn.dev/avaintelligence/articles/dont-outsource-understanding-to-ai",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-28T09:59:10+00:00",
+        "fetched_at": "2026-08-29T12:28:58+00:00",
+        "summary": "概要 半年前に以下の記事を書きました。 基本的に前回の流れとそこまで変わってないですが一部で新しいスキルを導入したり、新しいツールを導入したりしているのでもう一度記事を書くことにしました。 対象読者 この記事の対象読者は普段の開発業務でAIコーディングツールを活用しているエンジニアです。 Claude CodeやC...",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "33c99c0fe17aefd60932"
+      },
+      {
+        "title": "Claude Codeの設計詰めスキル『grilling』の紹介",
+        "url": "https://zenn.dev/sato_frontend/articles/1a85841505b9bb",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-07-22T03:16:43+00:00",
+        "fetched_at": "2026-08-29T12:28:58+00:00",
+        "summary": "grillingはまだ使い始めたばかりなので、今後より良い使い方や運用が見えてきたら、随時この記事をアップデートしていきます。 はじめに Claude Codeを使っていると、実装そのものよりも「実装前にどこまで設計を詰められているか」のほうが成果物に効く場面が増えてきました。 実装後にQAで「この条件はどうなりますか...",
+        "matched_keywords": [
+          "AI Agents",
+          "Hatena",
+          "hotentry",
+          "Webentwicklung"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "AI Agents (+6.2); Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "09080710d08f3cd15de1"
+      },
       {
         "title": "The path to the next-generation monetary and financial system lies in safeguarding trust in money: BIS",
         "url": "https://www.bis.org/media-releases/20260623-path-next-generation-monetary-and-financial-system-lies-safeguarding-trust-money-bis",
@@ -944,6 +990,52 @@
       "id": "f97504feefe7edc3693c"
     },
     {
+      "title": "AIに丸投げしないで理解するためのAI開発手法（2026年8月現在）",
+      "url": "https://zenn.dev/avaintelligence/articles/dont-outsource-understanding-to-ai",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-28T09:59:10+00:00",
+      "fetched_at": "2026-08-29T12:28:58+00:00",
+      "summary": "概要 半年前に以下の記事を書きました。 基本的に前回の流れとそこまで変わってないですが一部で新しいスキルを導入したり、新しいツールを導入したりしているのでもう一度記事を書くことにしました。 対象読者 この記事の対象読者は普段の開発業務でAIコーディングツールを活用しているエンジニアです。 Claude CodeやC...",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "33c99c0fe17aefd60932"
+    },
+    {
+      "title": "Claude Codeの設計詰めスキル『grilling』の紹介",
+      "url": "https://zenn.dev/sato_frontend/articles/1a85841505b9bb",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-22T03:16:43+00:00",
+      "fetched_at": "2026-08-29T12:28:58+00:00",
+      "summary": "grillingはまだ使い始めたばかりなので、今後より良い使い方や運用が見えてきたら、随時この記事をアップデートしていきます。 はじめに Claude Codeを使っていると、実装そのものよりも「実装前にどこまで設計を詰められているか」のほうが成果物に効く場面が増えてきました。 実装後にQAで「この条件はどうなりますか...",
+      "matched_keywords": [
+        "AI Agents",
+        "Hatena",
+        "hotentry",
+        "Webentwicklung"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "AI Agents (+6.2); Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "09080710d08f3cd15de1"
+    },
+    {
       "title": "The path to the next-generation monetary and financial system lies in safeguarding trust in money: BIS",
       "url": "https://www.bis.org/media-releases/20260623-path-next-generation-monetary-and-financial-system-lies-safeguarding-trust-money-bis",
       "source": "BIS Press Releases",
@@ -1659,7 +1751,54 @@
       "id": "17c30f6bb92f45673867"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "AIに丸投げしないで理解するためのAI開発手法（2026年8月現在）",
+      "url": "https://zenn.dev/avaintelligence/articles/dont-outsource-understanding-to-ai",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-28T09:59:10+00:00",
+      "fetched_at": "2026-08-29T12:28:58+00:00",
+      "summary": "概要 半年前に以下の記事を書きました。 基本的に前回の流れとそこまで変わってないですが一部で新しいスキルを導入したり、新しいツールを導入したりしているのでもう一度記事を書くことにしました。 対象読者 この記事の対象読者は普段の開発業務でAIコーディングツールを活用しているエンジニアです。 Claude CodeやC...",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "33c99c0fe17aefd60932"
+    },
+    {
+      "title": "Claude Codeの設計詰めスキル『grilling』の紹介",
+      "url": "https://zenn.dev/sato_frontend/articles/1a85841505b9bb",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-07-22T03:16:43+00:00",
+      "fetched_at": "2026-08-29T12:28:58+00:00",
+      "summary": "grillingはまだ使い始めたばかりなので、今後より良い使い方や運用が見えてきたら、随時この記事をアップデートしていきます。 はじめに Claude Codeを使っていると、実装そのものよりも「実装前にどこまで設計を詰められているか」のほうが成果物に効く場面が増えてきました。 実装後にQAで「この条件はどうなりますか...",
+      "matched_keywords": [
+        "AI Agents",
+        "Hatena",
+        "hotentry",
+        "Webentwicklung"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "AI Agents (+6.2); Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "09080710d08f3cd15de1"
+    }
+  ],
   "source_errors": [
     {
       "source_id": "bis_statistics",

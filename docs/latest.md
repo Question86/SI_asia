@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-29T12:08:11+00:00_
+_Generiert: 2026-08-29T12:29:34+00:00_
 
 ## Kurzlage
 
-33 neue relevante Treffer. Stärkstes Signal: „Claude Codeの体系的な理解と知識のフック“ aus Hatena Bookmark Hotentry IT (Score 16, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+35 neue relevante Treffer. Stärkstes Signal: „Claude Codeの体系的な理解と知識のフック“ aus Hatena Bookmark Hotentry IT (Score 16, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -42,6 +42,24 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **AIに丸投げしないで理解するためのAI開発手法（2026年8月現在）** — Score 13, observation — [Quelle](https://zenn.dev/avaintelligence/articles/dont-outsource-understanding-to-ai)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-28T09:59:10+00:00`, fetched `2026-08-29T12:28:58+00:00`
+  - Treffer: AI Agents, AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 概要 半年前に以下の記事を書きました。 基本的に前回の流れとそこまで変わってないですが一部で新しいスキルを導入したり、新しいツールを導入したりしているのでもう一度記事を書くことにしました。 対象読者 この記事の対象読者は普段の開発業務でAIコーディングツールを活用しているエンジニアです。 Claude CodeやC...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Claude Codeの設計詰めスキル『grilling』の紹介** — Score 13, observation — [Quelle](https://zenn.dev/sato_frontend/articles/1a85841505b9bb)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-22T03:16:43+00:00`, fetched `2026-08-29T12:28:58+00:00`
+  - Treffer: AI Agents, Hatena, hotentry, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+6.2); Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0)
+  - Kurz: grillingはまだ使い始めたばかりなので、今後より良い使い方や運用が見えてきたら、随時この記事をアップデートしていきます。 はじめに Claude Codeを使っていると、実装そのものよりも「実装前にどこまで設計を詰められているか」のほうが成果物に効く場面が増えてきました。 実装後にQAで「この条件はどうなりますか...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The path to the next-generation monetary and financial system lies in safeguarding trust in money: BIS** — Score 13, observation — [Quelle](https://www.bis.org/media-releases/20260623-path-next-generation-monetary-and-financial-system-lies-safeguarding-trust-money-bis)
   - Quelle: BIS Press Releases / `rss`
   - Zeit: published `2026-06-23T00:00:00+00:00`, fetched `2026-08-29T07:47:21+00:00`
@@ -140,24 +158,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); watchgraph region usa: United States, New York (+2.0)
   - Kurz: Speech by Mr Burkhard Balz, Member of the Executive Board of the Deutsche Bundesbank, at the reception marking 40 years of the Representative Office of the Deutsche Bundesbank in the United States, New York City, 7 July 2026.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **知人がものの数分で設定したという、高齢のお父さん用iPhone…ここまで潔いのはなかなか見かけない「視覚支援だ～」「これはめっちゃわかりやすい」** — Score 5, observation — [Quelle](https://togetter.com/li/2738669)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-29T03:50:41+00:00`, fetched `2026-08-29T05:19:23+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 知人がものの数分で設定したという、高齢のお父さん用iPhone…ここまで潔いのはなかなか見かけない「視覚支援だ～」「これはめっちゃわかりやすい」
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **私が懇親会でぼっちになったらやること - 腹は減る** — Score 5, observation — [Quelle](https://blux.hatenablog.com/entry/2026/08/29/094300)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-29T02:52:35+00:00`, fetched `2026-08-29T07:39:12+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: こんにちは！懇親会ぼっち仲間、あつまれ〜！ 先日懇親会ぼっち対策を見かけた時の気持ちを勢いでポストしたら結構反応をいただき驚いた次第です。 懇親会でぼっちになって困るそこのみんな！！諦めよう！！あのな！！登壇してもぼっちになることはある！！知り合いがいても風邪ひいて来れなくなることもある！！大丈夫...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
