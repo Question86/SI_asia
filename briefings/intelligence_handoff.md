@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-29T04:48:44Z_
+_Generated: 2026-08-29T05:11:28Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - 95 km W of Petrolia, CA” — D
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.5`
-- Published: `2026-08-29T02:50:18+00:00` / age_days `0.08`
+- Published: `2026-08-29T02:50:18+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - 95 km W of Petrolia, CA” — D
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-08-29T03:56:55+00:00` / age_days `0.04`
+- Published: `2026-08-29T03:56:55+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - 95 km W of Petrolia, CA” — D
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-08-29T00:00:55+00:00` / age_days `0.2`
+- Published: `2026-08-29T00:00:55+00:00` / age_days `0.22`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - 95 km W of Petrolia, CA” — D
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-08-29T02:48:22.972+00:00` / age_days `0.08`
+- Published: `2026-08-29T02:48:22.972+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - 95 km W of Petrolia, CA” — D
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `13.0`
-- Published: `2026-08-28T13:03:58+00:00` / age_days `0.66`
+- Published: `2026-08-28T13:03:58+00:00` / age_days `0.67`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - 95 km W of Petrolia, CA” — D
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `11.0`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `71.12`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `71.13`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: 10, aging penalty -8.0 for 71.1d old signal
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - 95 km W of Petrolia, CA” — D
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-08-28T08:34:09+00:00` / age_days `0.84`
+- Published: `2026-08-28T08:34:09+00:00` / age_days `0.86`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
@@ -82,17 +82,17 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - 95 km W of Petrolia, CA” — D
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `8.0`
-- Published: `2026-06-17T20:44:40+00:00` / age_days `72.34`
+- Published: `2026-06-17T20:44:40+00:00` / age_days `72.35`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +3, aging penalty -8.0 for 72.3d old signal, single-source AI cap enforced after phrase recheck
+- Warum: momentum delta +3, aging penalty -8.0 for 72.4d old signal, single-source AI cap enforced after phrase recheck
 - Quelle: https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex
 
 ### 新型「Mac mini」「Mac Studio」の“数字”を読み解く――驚異のAI性能と、日米価格設定のからくり
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `6.0`
-- Published: `2026-08-29T03:32:05+00:00` / age_days `0.05`
+- Published: `2026-08-29T03:32:05+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - 95 km W of Petrolia, CA” — D
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `6.0`
-- Published: `2026-08-29T02:42:35+00:00` / age_days `0.09`
+- Published: `2026-08-29T02:42:35+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - 95 km W of Petrolia, CA” — D
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `6.0`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `71.12`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `71.13`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, aging penalty -8.0 for 71.1d old signal
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - 95 km W of Petrolia, CA” — D
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `5.0`
-- Published: `2026-08-29T00:00:51+00:00` / age_days `0.2`
+- Published: `2026-08-29T00:00:51+00:00` / age_days `0.22`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
