@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-29T16:23:13+00:00",
+  "generated_at": "2026-08-29T16:31:17+00:00",
   "candidate_count": 23,
   "candidates": [
     {
@@ -418,22 +418,25 @@
       "source_url": "https://speakerdeck.com/oikon48/cc"
     },
     {
-      "candidate_id": "cand_3830b1074b0c31868464",
-      "event_id": "evt_a77bf86ad7c289b6fd5e",
-      "source_url": "https://speakerdeck.com/oikon48/cc",
-      "observed_at": "2026-08-29T16:23:06+00:00",
-      "currency": "USD",
       "amount_native": 708000.0,
       "amount_usd": 708000.0,
-      "conversion_status": "not_required",
-      "component_suggestion": "unknown",
-      "overlap_group_suggestion": "evt_a77bf86ad7c289b6fd5e:unclassified",
       "attribution_probability": null,
-      "snippet": "ng (And the UX Pros Who Still Save the Day) - Dean Schuster uxyall 1 2.5k Joys of Absence: A Defence of Solitary Play codingconduct 1 450 Data-driven link building: lessons from a $708K investment (BrightonSEO talk) szymonslowik 1 1.3k How to train your dragon (web standard) notwaldorf 97 6.8k Measuring Dark Social's Impact On Conversion and Attribution stephenak",
-      "extraction_method": "regex_context_v1",
-      "source_priority": "secondary_or_unknown",
       "candidate_confidence": 0.55,
-      "review_status": "pending"
+      "candidate_id": "cand_3830b1074b0c31868464",
+      "component_confidence": 0.55,
+      "component_suggestion": "capital_allocation",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_a77bf86ad7c289b6fd5e",
+      "extraction_method": "regex_context_v1",
+      "fx_as_of": null,
+      "fx_rate_to_usd": 1.0,
+      "observed_at": "2026-08-29T16:23:06+00:00",
+      "overlap_group_suggestion": "evt_a77bf86ad7c289b6fd5e:capital_allocation:6e6de6c5c476",
+      "review_status": "pending",
+      "snippet": "ng (And the UX Pros Who Still Save the Day) - Dean Schuster uxyall 1 2.5k Joys of Absence: A Defence of Solitary Play codingconduct 1 450 Data-driven link building: lessons from a $708K investment (BrightonSEO talk) szymonslowik 1 1.3k How to train your dragon (web standard) notwaldorf 97 6.8k Measuring Dark Social's Impact On Conversion and Attribution stephenak",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://speakerdeck.com/oikon48/cc"
     },
     {
       "amount_native": 270000000.0,
