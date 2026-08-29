@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-29T02:48:08Z_
+_Generated: 2026-08-29T03:14:20Z_
 
 ## Lageurteil
 
@@ -12,27 +12,47 @@ Stärkste Dynamik nach Gate-Recheck: “htmx 4.0.0 has been released!” — Die
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-08-29T00:00:55+00:00` / age_days `0.12`
+- Published: `2026-08-29T00:00:55+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
 - Quelle: https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released
 
+### M 4.9 - 95 km W of Petrolia, CA
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `14.0`
+- Published: `2026-08-29T02:48:22.972+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/nc75426637
+
+### M 4.9 - 95 km W of Petrolia, CA
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `13.5`
+- Published: `2026-08-29T02:50:18+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +1
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/nc75426637
+
 ### Cloudflareが1.1.1.1のDNSキャッシュを数十バイト単位で削り込んで100TBのメモリを節約
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `11.0`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `71.03`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `71.05`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, high terms: 10, aging penalty -8.0 for 71.0d old signal
+- Warum: momentum delta +3, high terms: 10, aging penalty -8.0 for 71.1d old signal
 - Quelle: https://gigazine.net/news/20260828-cloudflare-dns-cache-optimization/
 
 ### Cloudflareが1.1.1.1のDNSキャッシュを数十バイト単位で削り込んで100TBのメモリを節約
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-08-28T08:34:09+00:00` / age_days `0.76`
+- Published: `2026-08-28T08:34:09+00:00` / age_days `0.78`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
@@ -42,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “htmx 4.0.0 has been released!” — Die
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `8.0`
-- Published: `2026-06-17T20:44:40+00:00` / age_days `72.25`
+- Published: `2026-06-17T20:44:40+00:00` / age_days `72.27`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, aging penalty -8.0 for 72.3d old signal, single-source AI cap enforced after phrase recheck
@@ -52,17 +72,17 @@ Stärkste Dynamik nach Gate-Recheck: “htmx 4.0.0 has been released!” — Die
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `6.0`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `71.03`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `71.05`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, aging penalty -8.0 for 71.0d old signal
+- Warum: momentum delta +3, aging penalty -8.0 for 71.1d old signal
 - Quelle: https://speakerdeck.com/opelab/20260827-ssmjp-operation-procedure-update
 
 ### htmx 4.0.0 has been released!
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `5.0`
-- Published: `2026-08-28T16:24:02+00:00` / age_days `0.43`
+- Published: `2026-08-28T16:24:02+00:00` / age_days `0.45`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
@@ -72,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “htmx 4.0.0 has been released!” — Die
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `5.0`
-- Published: `2026-08-27T14:20:32+00:00` / age_days `1.52`
+- Published: `2026-08-27T14:20:32+00:00` / age_days `1.54`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
@@ -82,17 +102,17 @@ Stärkste Dynamik nach Gate-Recheck: “htmx 4.0.0 has been released!” — Die
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `3.5`
-- Published: `2026-08-29T02:42:35+00:00` / age_days `0.0`
+- Published: `2026-08-29T02:42:35+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +1, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Warum: momentum delta +2, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://gihyo.jp/article/2026/08/arduino-ventuno-q
 
 ### Our decision on Cursor following its acquisition by SpaceX
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-08-28T06:00:00+00:00` / age_days `0.87`
+- Published: `2026-08-28T06:00:00+00:00` / age_days `0.88`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -102,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “htmx 4.0.0 has been released!” — Die
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-08-27T23:10:23+00:00` / age_days `1.15`
+- Published: `2026-08-27T23:10:23+00:00` / age_days `1.17`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
