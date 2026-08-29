@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-29T20:38:29+00:00",
-  "run_id": "2026-08-29T20:38:29+00:00",
+  "generated_at": "2026-08-29T20:46:02+00:00",
+  "run_id": "2026-08-29T20:46:02+00:00",
   "date": "2026-08-29",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 40,
     "displayed_findings": 40,
     "high": 0,
@@ -2029,30 +2029,7 @@
       "id": "17c30f6bb92f45673867"
     }
   ],
-  "new_findings": [
-    {
-      "title": "GitHub - iannuttall/barkeep: Manage hidden macOS menu bar items from one place",
-      "url": "https://github.com/iannuttall/barkeep",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-29T08:56:46+00:00",
-      "fetched_at": "2026-08-29T20:37:56+00:00",
-      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert",
-      "matched_keywords": [
-        "GitHub",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6a789f94b7bb178f3c13"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [
     {
       "source_id": "bis_statistics",
