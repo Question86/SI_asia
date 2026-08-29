@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-29T12:08:30+00:00",
+  "generated_at": "2026-08-29T12:29:57+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -71,7 +71,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-29T08:36:29+00:00",
-      "last_seen_at": "2026-08-29T12:08:16+00:00",
+      "last_seen_at": "2026-08-29T12:29:39+00:00",
       "status": "active"
     },
     {
@@ -105,7 +105,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-29T06:55:03+00:00",
-      "last_seen_at": "2026-08-29T12:08:16+00:00",
+      "last_seen_at": "2026-08-29T12:29:39+00:00",
       "status": "active"
     },
     {
@@ -122,7 +122,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-29T06:08:12+00:00",
-      "last_seen_at": "2026-08-29T12:08:16+00:00",
+      "last_seen_at": "2026-08-29T12:29:39+00:00",
       "status": "active"
     },
     {
@@ -156,7 +156,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-29T02:50:18+00:00",
-      "last_seen_at": "2026-08-29T12:08:16+00:00",
+      "last_seen_at": "2026-08-29T12:29:39+00:00",
       "status": "active"
     },
     {
@@ -190,7 +190,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-29T11:40:09+00:00",
-      "last_seen_at": "2026-08-29T12:08:16+00:00",
+      "last_seen_at": "2026-08-29T12:29:39+00:00",
       "status": "active"
     },
     {
@@ -207,7 +207,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-29T05:20:00+00:00",
-      "last_seen_at": "2026-08-29T12:08:16+00:00",
+      "last_seen_at": "2026-08-29T12:29:39+00:00",
       "status": "active"
     },
     {
@@ -224,7 +224,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-29T09:53:22+00:00",
-      "last_seen_at": "2026-08-29T12:08:16+00:00",
+      "last_seen_at": "2026-08-29T12:29:39+00:00",
       "status": "active"
     },
     {
@@ -241,7 +241,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-29T07:30:47+00:00",
-      "last_seen_at": "2026-08-29T12:08:16+00:00",
+      "last_seen_at": "2026-08-29T12:29:39+00:00",
       "status": "active"
     },
     {
@@ -360,7 +360,7 @@
       "p90_usd": 1504000000.0,
       "confidence": 0.77,
       "first_seen_at": "2026-08-29T07:47:53+00:00",
-      "last_seen_at": "2026-08-29T12:08:16+00:00",
+      "last_seen_at": "2026-08-29T12:29:39+00:00",
       "status": "active"
     },
     {
@@ -378,7 +378,7 @@
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
       "last_seen_at": "2026-08-29T12:08:16+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_55bf431fc184f598da38",
@@ -462,7 +462,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-08-29T12:08:16+00:00",
+      "last_seen_at": "2026-08-29T12:29:39+00:00",
       "status": "active"
     },
     {
@@ -479,7 +479,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T11:40:09+00:00",
-      "last_seen_at": "2026-08-29T12:08:16+00:00",
+      "last_seen_at": "2026-08-29T12:29:39+00:00",
       "status": "active"
     },
     {
@@ -532,6 +532,40 @@
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-08-28T23:53:26+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_d2b65476ddd51aa30af6",
+      "title": "AIに丸投げしないで理解するためのAI開発手法（2026年8月現在）",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 114400.0,
+      "p50_usd": 11440000.0,
+      "p90_usd": 1144000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-08-29T12:29:39+00:00",
+      "last_seen_at": "2026-08-29T12:29:39+00:00",
+      "status": "active"
+    },
+    {
+      "event_id": "evt_2c69a25a18b9b812a5b5",
+      "title": "Claude Codeの設計詰めスキル『grilling』の紹介",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 114400.0,
+      "p50_usd": 11440000.0,
+      "p90_usd": 1144000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-08-29T12:29:39+00:00",
+      "last_seen_at": "2026-08-29T12:29:39+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_a5a54b57014a28b3b8cc",
@@ -632,7 +666,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T07:06:32+00:00",
-      "last_seen_at": "2026-08-29T12:08:16+00:00",
+      "last_seen_at": "2026-08-29T12:29:39+00:00",
       "status": "active"
     },
     {
@@ -649,7 +683,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T05:20:00+00:00",
-      "last_seen_at": "2026-08-29T12:08:16+00:00",
+      "last_seen_at": "2026-08-29T12:29:39+00:00",
       "status": "active"
     },
     {
@@ -667,7 +701,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T02:42:35+00:00",
       "last_seen_at": "2026-08-29T12:08:16+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_67c97d7b18f6ee0a0029",
@@ -683,7 +717,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T03:32:05+00:00",
-      "last_seen_at": "2026-08-29T12:08:16+00:00",
+      "last_seen_at": "2026-08-29T12:29:39+00:00",
       "status": "active"
     },
     {
@@ -700,7 +734,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T00:00:55+00:00",
-      "last_seen_at": "2026-08-29T12:08:16+00:00",
+      "last_seen_at": "2026-08-29T12:29:39+00:00",
       "status": "active"
     },
     {
@@ -717,7 +751,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T08:08:10+00:00",
-      "last_seen_at": "2026-08-29T12:08:16+00:00",
+      "last_seen_at": "2026-08-29T12:29:39+00:00",
       "status": "active"
     },
     {
@@ -734,7 +768,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T03:56:55+00:00",
-      "last_seen_at": "2026-08-29T12:08:16+00:00",
+      "last_seen_at": "2026-08-29T12:29:39+00:00",
       "status": "active"
     },
     {
@@ -751,7 +785,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T07:39:51+00:00",
-      "last_seen_at": "2026-08-29T12:08:16+00:00",
+      "last_seen_at": "2026-08-29T12:29:39+00:00",
       "status": "active"
     },
     {

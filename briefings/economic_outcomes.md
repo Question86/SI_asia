@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-08-29T12:08:44+00:00`
+Generated: `2026-08-29T12:30:19+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -10,9 +10,10 @@ Generated: `2026-08-29T12:08:44+00:00`
 | M 5.0 - 64 km W of Labuha, Indonesia | $0 | — | 0 | 0 | active |
 | 知人がものの数分で設定したという、高齢のお父さん用iPhone…ここまで潔いのはなかなか見かけない「視覚支援だ～」「これはめっちゃわかりやすい」 | $0 | — | 0 | 0 | active |
 | M 4.8 - 110 km E of Miyako, Japan | $0 | — | 0 | 0 | dormant |
-| Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される | $0 | — | 0 | 0 | active |
+| Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される | $0 | — | 0 | 0 | dormant |
+| Claude Codeの設計詰めスキル『grilling』の紹介 | $0 | — | 0 | 0 | active |
 | curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？ | $0 | — | 0 | 0 | dormant |
-| ローカルLLMを直接実行できるマイコンボード「Arduino VENTUNO Q」予約販売開始 \| gihyo.jp | $0 | — | 0 | 0 | active |
+| ローカルLLMを直接実行できるマイコンボード「Arduino VENTUNO Q」予約販売開始 \| gihyo.jp | $0 | — | 0 | 0 | dormant |
 | bilawalsidhu/gods-eye-view | $0 | — | 0 | 0 | dormant |
 | Isabel Schnabel: Central banks on-chain | $0 | — | 0 | 0 | dormant |
 | M 4.7 - 25 km ESE of Lospalos, Timor Leste | $0 | — | 0 | 0 | active |
@@ -28,4 +29,3 @@ Generated: `2026-08-29T12:08:44+00:00`
 | 電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題 | $0 | — | 0 | 0 | dormant |
 | SOYシリーズにおける複数の脆弱性 | $0 | — | 0 | 0 | dormant |
 | htmx 4.0.0 has been released! | $0 | — | 0 | 0 | active |
-| [NEU] [hoch] Linux Kernel: Mehrere Schwachstellen | $0 | — | 0 | 0 | dormant |
