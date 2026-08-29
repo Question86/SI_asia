@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-29T02:36:47Z_
+_Generated: 2026-08-29T02:48:08Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “htmx 4.0.0 has been released!” — Die
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-08-29T00:00:55+00:00` / age_days `0.11`
+- Published: `2026-08-29T00:00:55+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “htmx 4.0.0 has been released!” — Die
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-08-28T08:34:09+00:00` / age_days `0.75`
+- Published: `2026-08-28T08:34:09+00:00` / age_days `0.76`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
@@ -42,10 +42,10 @@ Stärkste Dynamik nach Gate-Recheck: “htmx 4.0.0 has been released!” — Die
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `8.0`
-- Published: `2026-06-17T20:44:40+00:00` / age_days `72.24`
+- Published: `2026-06-17T20:44:40+00:00` / age_days `72.25`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +3, aging penalty -8.0 for 72.2d old signal, single-source AI cap enforced after phrase recheck
+- Warum: momentum delta +3, aging penalty -8.0 for 72.3d old signal, single-source AI cap enforced after phrase recheck
 - Quelle: https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex
 
 ### 「ミスを許さない手順書」を作ってみた 〜 個人的にはこれ以上できることはあまりなさそう/20260827-ssmjp-operation-procedure-update
@@ -72,20 +72,40 @@ Stärkste Dynamik nach Gate-Recheck: “htmx 4.0.0 has been released!” — Die
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `5.0`
-- Published: `2026-08-27T14:20:32+00:00` / age_days `1.51`
+- Published: `2026-08-27T14:20:32+00:00` / age_days `1.52`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
 - Quelle: https://speakerdeck.com/opelab/20260827-ssmjp-operation-procedure-update
 
+### ローカルLLMを直接実行できるマイコンボード「Arduino VENTUNO Q」予約販売開始 | gihyo.jp
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `3.5`
+- Published: `2026-08-29T02:42:35+00:00` / age_days `0.0`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: momentum delta +1, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://gihyo.jp/article/2026/08/arduino-ventuno-q
+
 ### Our decision on Cursor following its acquisition by SpaceX
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-08-28T06:00:00+00:00` / age_days `0.86`
+- Published: `2026-08-28T06:00:00+00:00` / age_days `0.87`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex
+
+### ローカルLLMを直接実行できるマイコンボード「Arduino VENTUNO Q」予約販売開始 | gihyo.jp
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `0`
+- Published: `2026-08-27T23:10:23+00:00` / age_days `1.15`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://gihyo.jp/article/2026/08/arduino-ventuno-q
 
 END OF DOCUMENT
