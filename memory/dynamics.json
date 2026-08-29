@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-29T08:49:10Z",
+  "generated_at": "2026-08-29T09:12:21Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 1,
-      "strong": 3,
-      "watch": 13,
+      "strong": 4,
+      "watch": 12,
       "quiet": 23
     },
     "bands_after_gate_recheck": {
-      "strong": 4,
-      "watch": 13,
+      "strong": 5,
+      "watch": 12,
       "quiet": 23
     }
   },
@@ -23,7 +23,7 @@
       "url": "https://www.bis.org/media-releases/20260623-path-next-generation-monetary-and-financial-system-lies-safeguarding-trust-money-bis",
       "source": "BIS Central Bankers Speeches, BIS Press Releases",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 71.76,
+      "age_days": 71.78,
       "topics": [
         "macro"
       ],
@@ -52,7 +52,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T06:53:38.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -77,7 +77,7 @@
       "url": "https://www.bis.org/speeches/20260817-remarks-mas-annual-report-20252026",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 12.37,
+      "age_days": 12.38,
       "topics": [
         "macro"
       ],
@@ -99,11 +99,35 @@
       "summary": "Opening address by Mr Chia Der Jiun, Managing Director of the Monetary Authority of Singapore, at the MAS Annual Report 2025/2026 Media Conference, Singapore, 28 July 2026."
     },
     {
+      "title": "M 5.0 - 64 km W of Labuha, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsu",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-29T08:36:29+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 22.5,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 4.8 - 29 km ENE of Pilar, Philippines",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T06:55:03+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -127,7 +151,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcs7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T05:56:57.040+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -152,7 +176,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcs7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T06:08:12+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -176,7 +200,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75426637",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T02:50:18+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -200,7 +224,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T08:28:19.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -220,35 +244,11 @@
       "summary": "Time 2026-08-29 08:08:45 UTC 2026-08-29 08:08:45 UTC at epicenter Location 0.703°S 126.907°E Depth 41.90 km (26.03 mi)"
     },
     {
-      "title": "M 5.0 - 64 km W of Labuha, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsu",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-29T08:36:29+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 17.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "M 4.9 - South Sandwich Islands region",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T07:27:19.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -273,7 +273,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcrx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T05:07:39.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -298,7 +298,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcrx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T05:20:00+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -322,7 +322,7 @@
       "url": "https://blux.hatenablog.com/entry/2026/08/29/094300",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T07:39:51+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -346,7 +346,7 @@
       "url": "https://anond.hatelabo.jp/20260829085942",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T03:56:55+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -370,7 +370,7 @@
       "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T00:00:55+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "general"
       ],
@@ -394,7 +394,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75426637",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T02:48:22.972+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "disaster"
       ],
@@ -418,7 +418,7 @@
       "url": "https://www.itmedia.co.jp/pcuser/articles/2608/28/news093.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-28T13:03:58+00:00",
-      "age_days": 0.82,
+      "age_days": 0.84,
       "topics": [
         "ai"
       ],
@@ -444,7 +444,7 @@
       "url": "https://gigazine.net/news/20260828-cloudflare-dns-cache-optimization/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 71.29,
+      "age_days": 71.3,
       "topics": [
         "general"
       ],
@@ -470,7 +470,7 @@
       "url": "https://gigazine.net/news/20260828-cloudflare-dns-cache-optimization/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-28T08:34:09+00:00",
-      "age_days": 1.01,
+      "age_days": 1.03,
       "topics": [
         "general"
       ],
@@ -494,7 +494,7 @@
       "url": "https://www.bis.org/speeches/20260817-overview-south-african-economy",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 12.37,
+      "age_days": 12.38,
       "topics": [
         "macro"
       ],
@@ -518,7 +518,7 @@
       "url": "https://ktrmnm.jp/blog/2026-08-29-what-is-ai-ism-jp/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T07:06:32+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -544,7 +544,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-06-17T20:32:17+00:00",
-      "age_days": 72.51,
+      "age_days": 72.53,
       "topics": [
         "general"
       ],
@@ -569,7 +569,7 @@
       "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 72.5,
+      "age_days": 72.52,
       "topics": [
         "general"
       ],
@@ -595,7 +595,7 @@
       "url": "https://togetter.com/li/2738669",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T12:31:48+00:00",
-      "age_days": 70.85,
+      "age_days": 70.86,
       "topics": [
         "general"
       ],
@@ -611,7 +611,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 70.8d old signal"
+        "aging penalty -8.0 for 70.9d old signal"
       ],
       "summary": ""
     },
@@ -620,7 +620,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/28/news020.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T08:08:10+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -646,7 +646,7 @@
       "url": "https://www.itmedia.co.jp/pcuser/articles/2608/28/news093.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T03:32:05+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -672,7 +672,7 @@
       "url": "https://gihyo.jp/article/2026/08/arduino-ventuno-q",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T02:42:35+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "ai"
       ],
@@ -698,7 +698,7 @@
       "url": "https://speakerdeck.com/opelab/20260827-ssmjp-operation-procedure-update",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 71.29,
+      "age_days": 71.3,
       "topics": [
         "general"
       ],
@@ -723,7 +723,7 @@
       "url": "https://togetter.com/li/2738669",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T03:50:41+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -747,7 +747,7 @@
       "url": "https://blux.hatenablog.com/entry/2026/08/29/094300",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T02:52:35+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -771,7 +771,7 @@
       "url": "https://anond.hatelabo.jp/20260829085942",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T00:00:51+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "general"
       ],
@@ -795,7 +795,7 @@
       "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-28T16:24:02+00:00",
-      "age_days": 0.68,
+      "age_days": 0.7,
       "topics": [
         "general"
       ],
@@ -819,7 +819,7 @@
       "url": "https://speakerdeck.com/opelab/20260827-ssmjp-operation-procedure-update",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-27T14:20:32+00:00",
-      "age_days": 1.77,
+      "age_days": 1.79,
       "topics": [
         "general"
       ],
@@ -843,11 +843,11 @@
       "url": "https://www.bis.org/speeches/20260817-cooperative-spirit-heart-digital-euro",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 12.37,
+      "age_days": 12.38,
       "topics": [
         "macro"
       ],
-      "dynamics_score": 3.22,
+      "dynamics_score": 3.21,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -867,11 +867,11 @@
       "url": "https://www.bis.org/speeches/20260817-remarks-annual-dinner-heads-foreign-missions-accredited-south-africa",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 12.37,
+      "age_days": 12.38,
       "topics": [
         "macro"
       ],
-      "dynamics_score": 3.22,
+      "dynamics_score": 3.21,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -891,11 +891,11 @@
       "url": "https://www.bis.org/speeches/20260817-opportunities-and-risks-ccps-and-their-overseers-changing-environment",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 12.37,
+      "age_days": 12.38,
       "topics": [
         "macro"
       ],
-      "dynamics_score": 3.22,
+      "dynamics_score": 3.21,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -915,7 +915,7 @@
       "url": "https://www.bis.org/media-releases/20260623-path-next-generation-monetary-and-financial-system-lies-safeguarding-trust-money-bis",
       "source": "BIS Press Releases",
       "published_at": "2026-06-23T00:00:00+00:00",
-      "age_days": 67.37,
+      "age_days": 67.38,
       "topics": [
         "ai",
         "macro"
@@ -942,7 +942,7 @@
       "url": "https://www.bis.org/media-releases/20260628-global-economic-pressure-points-call-policy-discipline-bis",
       "source": "BIS Press Releases",
       "published_at": "2026-06-28T00:00:00+00:00",
-      "age_days": 62.37,
+      "age_days": 62.38,
       "topics": [
         "ai",
         "macro"
@@ -969,7 +969,7 @@
       "url": "https://ktrmnm.jp/blog/2026-08-29-what-is-ai-ism-jp/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T04:37:36+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -994,7 +994,7 @@
       "url": "https://www.bis.org/speeches/20260817-monetary-policy-era-shocks",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 12.37,
+      "age_days": 12.38,
       "topics": [
         "ai",
         "macro"
