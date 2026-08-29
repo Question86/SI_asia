@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-29T01:38:41Z_
+_Generated: 2026-08-29T01:48:27Z_
 
 ## Lageurteil
 
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “htmx 4.0.0 has been released!” — Die
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-08-28T08:34:09+00:00` / age_days `0.71`
+- Published: `2026-08-28T08:34:09+00:00` / age_days `0.72`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “htmx 4.0.0 has been released!” — Die
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `5.0`
-- Published: `2026-08-27T14:20:32+00:00` / age_days `1.47`
+- Published: `2026-08-27T14:20:32+00:00` / age_days `1.48`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
