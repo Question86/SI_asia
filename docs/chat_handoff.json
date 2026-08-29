@@ -70,5 +70,136 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “M 4.8 - 29 km ENE of Pilar, Philippines” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=23.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "M 4.8 - 29 km ENE of Pilar, Philippines",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsc",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-08-29T06:53:38.040+00:00",
+        "age_days": 0.01,
+        "topics": [
+          "disaster"
+        ],
+        "dynamics_score": 23.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "early terms: earthquake",
+          "high terms: 9.9"
+        ],
+        "summary": "Time 2026-08-29 06:32:54 UTC 2026-08-29 06:32:54 UTC at epicenter Location 9.976°N 126.348°E Depth 60.94 km (37.86 mi)"
+      },
+      {
+        "title": "M 5.1 - Southwest Indian Ridge",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcs7",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-08-29T05:56:57.040+00:00",
+        "age_days": 0.05,
+        "topics": [
+          "disaster"
+        ],
+        "dynamics_score": 19.0,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "early terms: earthquake",
+          "high terms: 10"
+        ],
+        "summary": "Time 2026-08-29 05:40:06 UTC 2026-08-29 05:40:06 UTC at epicenter Location 31.848°S 56.952°E Depth 10.00 km (6.21 mi)"
+      },
+      {
+        "title": "M 5.1 - Southwest Indian Ridge",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcs7",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-08-29T06:08:12+00:00",
+        "age_days": 0.04,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 18.5,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +3"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "M 4.9 - 95 km W of Petrolia, CA",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75426637",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-08-29T02:50:18+00:00",
+        "age_days": 0.18,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 18.5,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +3"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "M 4.8 - 29 km ENE of Pilar, Philippines",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsc",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-08-29T06:55:03+00:00",
+        "age_days": 0.01,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 17.5,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 1,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +1"
+        ],
+        "summary": ""
+      }
+    ]
+  }
 }
