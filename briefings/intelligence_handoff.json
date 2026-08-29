@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-29T00:32:36Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “htmx 4.0.0 has been released!” — Die Dynamik wirkt aktuell wie Hintergrundrauschen. Band=quiet, score=11.5.",
+  "generated_at": "2026-08-29T01:01:27Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “htmx 4.0.0 has been released!” — Die Dynamik wirkt aktuell wie Hintergrundrauschen. Band=quiet, score=9.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -15,11 +15,11 @@
       "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T00:00:55+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
-      "dynamics_score": 11.5,
+      "dynamics_score": 9.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -35,11 +35,36 @@
       "summary": ""
     },
     {
+      "title": "「ミスを許さない手順書」を作ってみた 〜 個人的にはこれ以上できることはあまりなさそう/20260827-ssmjp-operation-procedure-update",
+      "url": "https://speakerdeck.com/opelab/20260827-ssmjp-operation-procedure-update",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T01:58:32+00:00",
+      "age_days": 70.96,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 8.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "aging penalty -8.0 for 71.0d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "htmx 4.0.0 has been released!",
       "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-28T16:24:02+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "general"
       ],
@@ -57,6 +82,30 @@
         "no strong comparative reason"
       ],
       "summary": "In addition, the following changes were made: Most error events collapse into htmx:error. HTTP error responses fire htmx:response:error. The htmx:xhr:* events are removed. htmx 4 uses fetch(). The htmx:validation:* events are removed in favor of native browser form validation. The full table is i..."
+    },
+    {
+      "title": "「ミスを許さない手順書」を作ってみた 〜 個人的にはこれ以上できることはあまりなさそう/20260827-ssmjp-operation-procedure-update",
+      "url": "https://speakerdeck.com/opelab/20260827-ssmjp-operation-procedure-update",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-27T14:20:32+00:00",
+      "age_days": 1.45,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "ssmonline #53 での発表資料です。 (運用設計ラボ合同会社 波田野 裕一)"
     }
   ],
   "read_order": [
@@ -68,7 +117,7 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "quiet": 2
+      "quiet": 4
     }
   }
 }
