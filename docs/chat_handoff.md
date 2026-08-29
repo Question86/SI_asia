@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-29T02:34:37+00:00_
+_Generated: 2026-08-29T02:42:33+00:00_
 
 ## Status
 - status: `normal`
-- findings: `4`
+- findings: `5`
 
 ## Top Signals
 
@@ -29,11 +29,11 @@ _Generated: 2026-08-29T02:34:37+00:00_
 - url: https://gigazine.net/news/20260828-cloudflare-dns-cache-optimization/
 - summary: CloudflareがパブリックDNSリゾルバー「1.1.1.1」などで使われているDNSキャッシュのデータ構造を見直し、システム全体で約100TBのメモリを削減したと発表しました。ベンチマークではキャッシュ1件当たりのメモリ使用量が953バイトから420バイトへと56％減少し、メモリを減らしながらキャッシュへの書き込みや読み出しも...
 
-### 4. 「ミスを許さない手順書」を作ってみた 〜 個人的にはこれ以上できることはあまりなさそう/20260827-ssmjp-operation-procedure-update
+### 4. ローカルLLMを直接実行できるマイコンボード「Arduino VENTUNO Q」予約販売開始 | gihyo.jp
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
-- published: `2026-08-27T14:20:32+00:00`
-- url: https://speakerdeck.com/opelab/20260827-ssmjp-operation-procedure-update
-- summary: ssmonline #53 での発表資料です。 (運用設計ラボ合同会社 波田野 裕一)
+- published: `2026-08-27T23:10:23+00:00`
+- url: https://gihyo.jp/article/2026/08/arduino-ventuno-q
+- summary: Arduinoは2026年8月25日、40TOPSの性能を発揮するNPUを備え、Qwen 3、Gemma 4、Qwen 3 VLMなどのローカルLLMを直接実行できるマイコンボード「Arduino VENTUNO Q」を発表、同社の正規販売店を通じて予約販売を開始した。 Arduino VENTUNO Q https://www.arduino.cc/product-ventuno-q/ The wait is over! Meet Arduino V...
 
 END OF DOCUMENT

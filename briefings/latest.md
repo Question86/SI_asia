@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-29T02:34:37+00:00_
+_Generiert: 2026-08-29T02:42:33+00:00_
 
 ## Kurzlage
 
-4 neue relevante Treffer. Stärkstes Signal: „Our decision on Cursor following its acquisition by SpaceX“ aus OpenAI News RSS (Score 7, observation).
+5 neue relevante Treffer. Stärkstes Signal: „Our decision on Cursor following its acquisition by SpaceX“ aus OpenAI News RSS (Score 7, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -100,14 +100,14 @@ Keine neuen mittleren Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: CloudflareがパブリックDNSリゾルバー「1.1.1.1」などで使われているDNSキャッシュのデータ構造を見直し、システム全体で約100TBのメモリを削減したと発表しました。ベンチマークではキャッシュ1件当たりのメモリ使用量が953バイトから420バイトへと56％減少し、メモリを減らしながらキャッシュへの書き込みや読み出しも...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「ミスを許さない手順書」を作ってみた 〜 個人的にはこれ以上できることはあまりなさそう/20260827-ssmjp-operation-procedure-update** — Score 5, observation — [Quelle](https://speakerdeck.com/opelab/20260827-ssmjp-operation-procedure-update)
+- **ローカルLLMを直接実行できるマイコンボード「Arduino VENTUNO Q」予約販売開始 | gihyo.jp** — Score 5, observation — [Quelle](https://gihyo.jp/article/2026/08/arduino-ventuno-q)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-27T14:20:32+00:00`, fetched `2026-08-29T00:48:10+00:00`
+  - Zeit: published `2026-08-27T23:10:23+00:00`, fetched `2026-08-29T02:42:01+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: ssmonline #53 での発表資料です。 (運用設計ラボ合同会社 波田野 裕一)
+  - Kurz: Arduinoは2026年8月25日、40TOPSの性能を発揮するNPUを備え、Qwen 3、Gemma 4、Qwen 3 VLMなどのローカルLLMを直接実行できるマイコンボード「Arduino VENTUNO Q」を発表、同社の正規販売店を通じて予約販売を開始した。 Arduino VENTUNO Q https://www.arduino.cc/product-ventuno-q/ The wait is over! Meet Arduino V...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

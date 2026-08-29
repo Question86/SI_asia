@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-29T02:34:37+00:00",
+  "generated_at": "2026-08-29T02:42:33+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 4,
-    "displayed_findings": 4,
+    "new_relevant_findings": 1,
+    "today_file_total": 5,
+    "displayed_findings": 5,
     "high": 0,
     "medium": 0,
-    "observe": 4
+    "observe": 5
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -45,13 +45,13 @@
       "section": "observe"
     },
     {
-      "title": "「ミスを許さない手順書」を作ってみた 〜 個人的にはこれ以上できることはあまりなさそう/20260827-ssmjp-operation-procedure-update",
+      "title": "ローカルLLMを直接実行できるマイコンボード「Arduino VENTUNO Q」予約販売開始 | gihyo.jp",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-27T14:20:32+00:00",
+      "published_at": "2026-08-27T23:10:23+00:00",
       "relevance_score": 5,
-      "url": "https://speakerdeck.com/opelab/20260827-ssmjp-operation-procedure-update",
-      "summary": "ssmonline #53 での発表資料です。 (運用設計ラボ合同会社 波田野 裕一)",
+      "url": "https://gihyo.jp/article/2026/08/arduino-ventuno-q",
+      "summary": "Arduinoは2026年8月25日、40TOPSの性能を発揮するNPUを備え、Qwen 3、Gemma 4、Qwen 3 VLMなどのローカルLLMを直接実行できるマイコンボード「Arduino VENTUNO Q」を発表、同社の正規販売店を通じて予約販売を開始した。 Arduino VENTUNO Q https://www.arduino.cc/product-ventuno-q/ The wait is over! Meet Arduino V...",
       "section": "observe"
     }
   ],
@@ -60,138 +60,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “htmx 4.0.0 has been released!” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=14.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "htmx 4.0.0 has been released!",
-        "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-29T00:00:55+00:00",
-        "age_days": 0.11,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 14.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Cloudflareが1.1.1.1のDNSキャッシュを数十バイト単位で削り込んで100TBのメモリを節約",
-        "url": "https://gigazine.net/news/20260828-cloudflare-dns-cache-optimization/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-06-19T01:58:32+00:00",
-        "age_days": 71.03,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 11.0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "high terms: 10",
-          "aging penalty -8.0 for 71.0d old signal"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Cloudflareが1.1.1.1のDNSキャッシュを数十バイト単位で削り込んで100TBのメモリを節約",
-        "url": "https://gigazine.net/news/20260828-cloudflare-dns-cache-optimization/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-28T08:34:09+00:00",
-        "age_days": 0.75,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 10.0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10"
-        ],
-        "summary": "CloudflareがパブリックDNSリゾルバー「1.1.1.1」などで使われているDNSキャッシュのデータ構造を見直し、システム全体で約100TBのメモリを削減したと発表しました。ベンチマークではキャッシュ1件当たりのメモリ使用量が953バイトから420バイトへと56％減少し、メモリを減らしながらキャッシュへの書き込みや読み出しも..."
-      },
-      {
-        "title": "Our decision on Cursor following its acquisition by SpaceX",
-        "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
-        "source": "OpenAI News RSS",
-        "published_at": "2026-06-17T20:44:40+00:00",
-        "age_days": 72.24,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 8.0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "aging penalty -8.0 for 72.2d old signal"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "「ミスを許さない手順書」を作ってみた 〜 個人的にはこれ以上できることはあまりなさそう/20260827-ssmjp-operation-procedure-update",
-        "url": "https://speakerdeck.com/opelab/20260827-ssmjp-operation-procedure-update",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-06-19T01:58:32+00:00",
-        "age_days": 71.03,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 6.0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "aging penalty -8.0 for 71.0d old signal"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }
