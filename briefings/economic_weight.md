@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-08-29T15:25:30+00:00`
+Generated: `2026-08-29T15:33:38+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -14,10 +14,10 @@ Generated: `2026-08-29T15:25:30+00:00`
 | M 4.8 - 29 km ENE of Pilar, Philippines | natural_disaster | $1.16M | $116.00M | $11.60B | 0.33 |
 | M 5.1 - Southwest Indian Ridge | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
 | M 5.0 - 19 km NW of Fuji, China | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
+| M 4.9 - 193 km SE of Perryville, Alaska | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
 | M 4.9 - 95 km W of Petrolia, CA | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
 | M 4.9 - 124 km N of Aksu, China | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
 | M 4.5 - 24 km WSW of Sipí, Colombia | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
-| M 4.9 - 193 km SE of Perryville, Alaska | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
 | M 4.6 - 170 km ESE of Kuril’sk, Russia | natural_disaster | $1.11M | $111.20M | $11.12B | 0.33 |
 | M 4.7 - 25 km ESE of Lospalos, Timor Leste | natural_disaster | $1.11M | $111.20M | $11.12B | 0.33 |
 | M 4.9 - South Sandwich Islands region | natural_disaster | $1.11M | $111.20M | $11.12B | 0.33 |
