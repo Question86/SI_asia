@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-29T08:15:16Z",
+  "generated_at": "2026-08-29T08:49:10Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 1,
       "strong": 3,
-      "watch": 11,
-      "quiet": 25
+      "watch": 13,
+      "quiet": 23
     },
     "bands_after_gate_recheck": {
       "strong": 4,
-      "watch": 11,
-      "quiet": 25
+      "watch": 13,
+      "quiet": 23
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://www.bis.org/media-releases/20260623-path-next-generation-monetary-and-financial-system-lies-safeguarding-trust-money-bis",
       "source": "BIS Central Bankers Speeches, BIS Press Releases",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 71.74,
+      "age_days": 71.76,
       "topics": [
         "macro"
       ],
@@ -42,7 +42,7 @@
         "momentum delta +3",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 71.7d old signal",
+        "aging penalty -8.0 for 71.8d old signal",
         "extreme gate recheck: insufficient independent/current evidence"
       ],
       "summary": ""
@@ -52,7 +52,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T06:53:38.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -77,7 +77,7 @@
       "url": "https://www.bis.org/speeches/20260817-remarks-mas-annual-report-20252026",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 12.34,
+      "age_days": 12.37,
       "topics": [
         "macro"
       ],
@@ -103,7 +103,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T06:55:03+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -127,7 +127,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcs7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T05:56:57.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -152,7 +152,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcs7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T06:08:12+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -176,7 +176,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75426637",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T02:50:18+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -196,11 +196,59 @@
       "summary": ""
     },
     {
+      "title": "M 5.0 - 64 km W of Labuha, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsu",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-29T08:28:19.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 18.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "Time 2026-08-29 08:08:45 UTC 2026-08-29 08:08:45 UTC at epicenter Location 0.703°S 126.907°E Depth 41.90 km (26.03 mi)"
+    },
+    {
+      "title": "M 5.0 - 64 km W of Labuha, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsu",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-29T08:36:29+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 17.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 4.9 - South Sandwich Islands region",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T07:27:19.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -225,7 +273,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcrx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T05:07:39.040+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -250,7 +298,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcrx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T05:20:00+00:00",
-      "age_days": 0.12,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -274,7 +322,7 @@
       "url": "https://blux.hatenablog.com/entry/2026/08/29/094300",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T07:39:51+00:00",
-      "age_days": 0.02,
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
@@ -298,7 +346,7 @@
       "url": "https://anond.hatelabo.jp/20260829085942",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T03:56:55+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -322,7 +370,7 @@
       "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T00:00:55+00:00",
-      "age_days": 0.34,
+      "age_days": 0.37,
       "topics": [
         "general"
       ],
@@ -346,7 +394,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75426637",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T02:48:22.972+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "disaster"
       ],
@@ -370,7 +418,7 @@
       "url": "https://www.itmedia.co.jp/pcuser/articles/2608/28/news093.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-28T13:03:58+00:00",
-      "age_days": 0.8,
+      "age_days": 0.82,
       "topics": [
         "ai"
       ],
@@ -396,7 +444,7 @@
       "url": "https://gigazine.net/news/20260828-cloudflare-dns-cache-optimization/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 71.26,
+      "age_days": 71.29,
       "topics": [
         "general"
       ],
@@ -422,7 +470,7 @@
       "url": "https://gigazine.net/news/20260828-cloudflare-dns-cache-optimization/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-28T08:34:09+00:00",
-      "age_days": 0.99,
+      "age_days": 1.01,
       "topics": [
         "general"
       ],
@@ -446,7 +494,7 @@
       "url": "https://www.bis.org/speeches/20260817-overview-south-african-economy",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 12.34,
+      "age_days": 12.37,
       "topics": [
         "macro"
       ],
@@ -470,7 +518,7 @@
       "url": "https://ktrmnm.jp/blog/2026-08-29-what-is-ai-ism-jp/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T07:06:32+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -496,7 +544,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-06-17T20:32:17+00:00",
-      "age_days": 72.49,
+      "age_days": 72.51,
       "topics": [
         "general"
       ],
@@ -521,7 +569,7 @@
       "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 72.48,
+      "age_days": 72.5,
       "topics": [
         "general"
       ],
@@ -547,7 +595,7 @@
       "url": "https://togetter.com/li/2738669",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T12:31:48+00:00",
-      "age_days": 70.82,
+      "age_days": 70.85,
       "topics": [
         "general"
       ],
@@ -568,11 +616,37 @@
       "summary": ""
     },
     {
+      "title": "ローカルLLMの壁を打ち破る「Unsloth Desktop」登場！ 画像生成・コード実行・API化を1つのアプリに統合",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/28/news020.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-29T08:08:10+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "新型「Mac mini」「Mac Studio」の“数字”を読み解く――驚異のAI性能と、日米価格設定のからくり",
       "url": "https://www.itmedia.co.jp/pcuser/articles/2608/28/news093.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T03:32:05+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -598,7 +672,7 @@
       "url": "https://gihyo.jp/article/2026/08/arduino-ventuno-q",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T02:42:35+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -624,7 +698,7 @@
       "url": "https://speakerdeck.com/opelab/20260827-ssmjp-operation-procedure-update",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 71.26,
+      "age_days": 71.29,
       "topics": [
         "general"
       ],
@@ -649,7 +723,7 @@
       "url": "https://togetter.com/li/2738669",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T03:50:41+00:00",
-      "age_days": 0.18,
+      "age_days": 0.21,
       "topics": [
         "general"
       ],
@@ -673,7 +747,7 @@
       "url": "https://blux.hatenablog.com/entry/2026/08/29/094300",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T02:52:35+00:00",
-      "age_days": 0.22,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -697,7 +771,7 @@
       "url": "https://anond.hatelabo.jp/20260829085942",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T00:00:51+00:00",
-      "age_days": 0.34,
+      "age_days": 0.37,
       "topics": [
         "general"
       ],
@@ -721,7 +795,7 @@
       "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-28T16:24:02+00:00",
-      "age_days": 0.66,
+      "age_days": 0.68,
       "topics": [
         "general"
       ],
@@ -745,7 +819,7 @@
       "url": "https://speakerdeck.com/opelab/20260827-ssmjp-operation-procedure-update",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-27T14:20:32+00:00",
-      "age_days": 1.75,
+      "age_days": 1.77,
       "topics": [
         "general"
       ],
@@ -765,41 +839,15 @@
       "summary": "ssmonline #53 での発表資料です。 (運用設計ラボ合同会社 波田野 裕一)"
     },
     {
-      "title": "ローカルLLMの壁を打ち破る「Unsloth Desktop」登場！ 画像生成・コード実行・API化を1つのアプリに統合",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/28/news020.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-29T08:08:10+00:00",
-      "age_days": 0.0,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 3.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "The cooperative spirit at the heart of the digital euro",
       "url": "https://www.bis.org/speeches/20260817-cooperative-spirit-heart-digital-euro",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 12.34,
+      "age_days": 12.37,
       "topics": [
         "macro"
       ],
-      "dynamics_score": 3.24,
+      "dynamics_score": 3.22,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -810,7 +858,7 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "aging penalty -1.8 for 12.3d old signal"
+        "aging penalty -1.8 for 12.4d old signal"
       ],
       "summary": "Lecture by Mr Piero Cipollone, Member of the Executive Board of the European Central Bank, at the annual meeting of the Federation of Italian Cooperative Credit Banks (Federcasse), Rome, 17 July 2026."
     },
@@ -819,11 +867,11 @@
       "url": "https://www.bis.org/speeches/20260817-remarks-annual-dinner-heads-foreign-missions-accredited-south-africa",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 12.34,
+      "age_days": 12.37,
       "topics": [
         "macro"
       ],
-      "dynamics_score": 3.24,
+      "dynamics_score": 3.22,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -834,7 +882,7 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "aging penalty -1.8 for 12.3d old signal"
+        "aging penalty -1.8 for 12.4d old signal"
       ],
       "summary": "Remarks by Lesetja Kganyago, Governor of the South African Reserve Bank, at the annual dinner for the Heads of Foreign Missions accredited in South Africa, South African Reserve Bank, Pretoria, 9 July 2026."
     },
@@ -843,11 +891,11 @@
       "url": "https://www.bis.org/speeches/20260817-opportunities-and-risks-ccps-and-their-overseers-changing-environment",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 12.34,
+      "age_days": 12.37,
       "topics": [
         "macro"
       ],
-      "dynamics_score": 3.24,
+      "dynamics_score": 3.22,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -858,7 +906,7 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "aging penalty -1.8 for 12.3d old signal"
+        "aging penalty -1.8 for 12.4d old signal"
       ],
       "summary": "Keynote speech by Mr Denis Beau, First Deputy Governor of the Bank of France, at the CCP Global Annual Meeting 2026, Amsterdam, 23 June 2026."
     },
@@ -867,7 +915,7 @@
       "url": "https://www.bis.org/media-releases/20260623-path-next-generation-monetary-and-financial-system-lies-safeguarding-trust-money-bis",
       "source": "BIS Press Releases",
       "published_at": "2026-06-23T00:00:00+00:00",
-      "age_days": 67.34,
+      "age_days": 67.37,
       "topics": [
         "ai",
         "macro"
@@ -884,7 +932,7 @@
       "single_source_ai_capped": true,
       "why": [
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 67.3d old signal",
+        "aging penalty -16.0 for 67.4d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Digital innovation is transforming finance, potentially enabling greater competition and efficiency in payment systems and financial intermediation. However, it also poses new macro-financial challenges and raises the broader question of how to preserve trust in money in the digital age."
@@ -894,7 +942,7 @@
       "url": "https://www.bis.org/media-releases/20260628-global-economic-pressure-points-call-policy-discipline-bis",
       "source": "BIS Press Releases",
       "published_at": "2026-06-28T00:00:00+00:00",
-      "age_days": 62.34,
+      "age_days": 62.37,
       "topics": [
         "ai",
         "macro"
@@ -911,7 +959,7 @@
       "single_source_ai_capped": true,
       "why": [
         "single-source AI hype brake -8.0",
-        "aging penalty -16.0 for 62.3d old signal",
+        "aging penalty -16.0 for 62.4d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "The sustainability of the AI boom, financial vulnerabilities and strained public finances are among pressure points facing the global economy, along with the return of inflation."
@@ -921,7 +969,7 @@
       "url": "https://ktrmnm.jp/blog/2026-08-29-what-is-ai-ism-jp/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T04:37:36+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -946,7 +994,7 @@
       "url": "https://www.bis.org/speeches/20260817-monetary-policy-era-shocks",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-08-17T00:00:00+00:00",
-      "age_days": 12.34,
+      "age_days": 12.37,
       "topics": [
         "ai",
         "macro"
@@ -963,58 +1011,10 @@
       "single_source_ai_capped": true,
       "why": [
         "single-source AI hype brake -8.0",
-        "aging penalty -1.8 for 12.3d old signal",
+        "aging penalty -1.8 for 12.4d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Speech by Ms Michele Bullock, Governor of the Reserve Bank of Australia, at the Anika Foundation Fundraising Lunch, Sydney, 28 July 2026."
-    },
-    {
-      "title": "Basel Committee publishes report on information and communication technology risk management",
-      "url": "https://www.bis.org/media-releases/20260602-basel-committee-publishes-report-information-and-communication-technology-risk-management-0",
-      "source": "BIS Press Releases",
-      "published_at": "2026-06-02T00:00:00+00:00",
-      "age_days": 88.34,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "aging penalty -16.0 for 88.3d old signal"
-      ],
-      "summary": "The Basel Committee has published a report describing a range of observed information and communication technology (ICT) risk management practices across jurisdictions to address non-malicious ICT incidents."
-    },
-    {
-      "title": "Basel Committee agrees to publish report on information and communication technology risk management, progresses cryptoasset targeted review, considers targeted updates on liquidity risk principles",
-      "url": "https://www.bis.org/media-releases/20260520-basel-committee-agrees-publish-report-information-and-communication-technology-risk-0",
-      "source": "BIS Press Releases",
-      "published_at": "2026-05-20T00:00:00+00:00",
-      "age_days": 101.34,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "aging penalty -16.0 for 101.3d old signal"
-      ],
-      "summary": "Agrees to publish range of practices report on information and communication technology risk management. Progresses its targeted review of the prudential standard for banks' cryptoasset exposures. Considers targeted updates of its principles on liquidity risk."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “The path to the next-generation monetary and financial system lies in safeguarding trust in money: BIS” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
