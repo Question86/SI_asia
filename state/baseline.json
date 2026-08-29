@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-29T01:44:12+00:00",
+  "generated_at": "2026-08-29T01:51:51+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -69,8 +69,8 @@
       "z_hint": 0.0
     },
     "domain:openai.com": {
-      "title": "Supporting Thailand’s next generation of AI startups",
-      "updated_at": "2026-08-28T23:53:26+00:00",
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "updated_at": "2026-08-29T01:51:51+00:00",
       "network_scores": [
         19.1,
         21.1,
@@ -90,12 +90,13 @@
         18.1,
         18.1,
         18.1,
-        18.1
+        18.1,
+        12.1
       ],
-      "rolling_average": 18.31,
+      "rolling_average": 18.0,
       "rolling_peak": 21.1,
-      "last_score": 18.1,
-      "z_hint": -0.21
+      "last_score": 12.1,
+      "z_hint": -5.9
     },
     "title:read-remote-repository-content-github-cli": {
       "title": "Read remote repository content with GitHub CLI",
@@ -2507,7 +2508,7 @@
     },
     "domain:gigazine.net": {
       "title": "Cloudflareが1.1.1.1のDNSキャッシュを数十バイト単位で削り込んで100TBのメモリを節約",
-      "updated_at": "2026-08-29T01:44:12+00:00",
+      "updated_at": "2026-08-29T01:51:51+00:00",
       "network_scores": [
         23.3,
         29.2,
@@ -2528,12 +2529,13 @@
         7.1,
         10.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 9.16,
+      "rolling_average": 9.07,
       "rolling_peak": 29.2,
       "last_score": 7.1,
-      "z_hint": -2.06
+      "z_hint": -1.97
     },
     "title:acrab-raises-350m-advance-agentic-compute-infrastructure": {
       "title": "Acrab raises US$350M to advance Agentic AI compute infrastructure",
@@ -3158,7 +3160,7 @@
     },
     "domain:speakerdeck.com": {
       "title": "「ミスを許さない手順書」を作ってみた 〜 個人的にはこれ以上できることはあまりなさそう/20260827-ssmjp-operation-procedure-update",
-      "updated_at": "2026-08-29T01:44:12+00:00",
+      "updated_at": "2026-08-29T01:51:51+00:00",
       "network_scores": [
         10.1,
         13.1,
@@ -3180,12 +3182,13 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 12.73,
+      "rolling_average": 12.47,
       "rolling_peak": 18.2,
       "last_score": 7.1,
-      "z_hint": -5.63
+      "z_hint": -5.37
     },
     "title:web-nginx-cvss": {
       "title": "Webサーバー「nginx」に3件の脆弱性、「CVSS 4.0」の基本値は最高で10点満点中「9.2」／v1.30.3/v1.31.2への更新を",
@@ -6170,19 +6173,20 @@
     },
     "domain:four.htmx.org": {
       "title": "htmx 4.0.0 has been released!",
-      "updated_at": "2026-08-29T01:44:12+00:00",
+      "updated_at": "2026-08-29T01:51:51+00:00",
       "network_scores": [
         10.1,
         7.1,
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.6,
+      "rolling_average": 7.53,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.5
+      "z_hint": -0.43
     }
   }
 }

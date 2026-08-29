@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-29T01:44:10+00:00",
+  "generated_at": "2026-08-29T01:51:46+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 3,
-    "displayed_findings": 3,
+    "new_relevant_findings": 1,
+    "today_file_total": 4,
+    "displayed_findings": 4,
     "high": 0,
     "medium": 0,
-    "observe": 3
+    "observe": 4
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-28T06:00:00+00:00",
+      "relevance_score": 7,
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
+      "summary": "Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.",
+      "section": "observe"
+    },
     {
       "title": "htmx 4.0.0 has been released!",
       "source": "Hatena Bookmark Hotentry IT",
@@ -50,137 +60,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “htmx 4.0.0 has been released!” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=14.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "htmx 4.0.0 has been released!",
-        "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-29T00:00:55+00:00",
-        "age_days": 0.07,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 14.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Cloudflareが1.1.1.1のDNSキャッシュを数十バイト単位で削り込んで100TBのメモリを節約",
-        "url": "https://gigazine.net/news/20260828-cloudflare-dns-cache-optimization/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-06-19T01:58:32+00:00",
-        "age_days": 70.99,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 11.0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "high terms: 10",
-          "aging penalty -8.0 for 71.0d old signal"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Cloudflareが1.1.1.1のDNSキャッシュを数十バイト単位で削り込んで100TBのメモリを節約",
-        "url": "https://gigazine.net/news/20260828-cloudflare-dns-cache-optimization/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-28T08:34:09+00:00",
-        "age_days": 0.72,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 10.0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10"
-        ],
-        "summary": "CloudflareがパブリックDNSリゾルバー「1.1.1.1」などで使われているDNSキャッシュのデータ構造を見直し、システム全体で約100TBのメモリを削減したと発表しました。ベンチマークではキャッシュ1件当たりのメモリ使用量が953バイトから420バイトへと56％減少し、メモリを減らしながらキャッシュへの書き込みや読み出しも..."
-      },
-      {
-        "title": "「ミスを許さない手順書」を作ってみた 〜 個人的にはこれ以上できることはあまりなさそう/20260827-ssmjp-operation-procedure-update",
-        "url": "https://speakerdeck.com/opelab/20260827-ssmjp-operation-procedure-update",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-06-19T01:58:32+00:00",
-        "age_days": 70.99,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 6.0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "aging penalty -8.0 for 71.0d old signal"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "htmx 4.0.0 has been released!",
-        "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-28T16:24:02+00:00",
-        "age_days": 0.39,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 5.0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "no strong comparative reason"
-        ],
-        "summary": "In addition, the following changes were made: Most error events collapse into htmx:error. HTTP error responses fire htmx:response:error. The htmx:xhr:* events are removed. htmx 4 uses fetch(). The htmx:validation:* events are removed in favor of native browser form validation. The full table is i..."
-      }
-    ]
-  }
+  ]
 }

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-29T01:44:10+00:00_
+_Generiert: 2026-08-29T01:51:46+00:00_
 
 ## Kurzlage
 
-3 neue relevante Treffer. Stärkstes Signal: „htmx 4.0.0 has been released!“ aus Hatena Bookmark Hotentry IT (Score 5, observation).
+4 neue relevante Treffer. Stärkstes Signal: „Our decision on Cursor following its acquisition by SpaceX“ aus OpenAI News RSS (Score 7, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -73,6 +73,15 @@ Keine neuen mittleren Treffer.
 
 ## Nur beobachten
 
+- **Our decision on Cursor following its acquisition by SpaceX** — Score 7, observation — [Quelle](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-08-28T06:00:00+00:00`, fetched `2026-08-29T01:51:09+00:00`
+  - Treffer: OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); recent (+1.0)
+  - Kurz: Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **htmx 4.0.0 has been released!** — Score 5, observation — [Quelle](https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-28T16:24:02+00:00`, fetched `2026-08-29T00:00:19+00:00`
