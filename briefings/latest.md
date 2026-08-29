@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-29T07:30:43+00:00_
+_Generiert: 2026-08-29T07:39:47+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „M 4.8 - 29 km ENE of Pilar, Philippines“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+15 neue relevante Treffer. Stärkstes Signal: „M 4.8 - 29 km ENE of Pilar, Philippines“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -143,14 +143,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 知人がものの数分で設定したという、高齢のお父さん用iPhone…ここまで潔いのはなかなか見かけない「視覚支援だ～」「これはめっちゃわかりやすい」
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **問い合わせへの返答をネットに上げるのって駄目だったの！？** — Score 5, observation — [Quelle](https://anond.hatelabo.jp/20260829085942)
+- **私が懇親会でぼっちになったらやること - 腹は減る** — Score 5, observation — [Quelle](https://blux.hatenablog.com/entry/2026/08/29/094300)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-29T00:00:51+00:00`, fetched `2026-08-29T03:56:16+00:00`
+  - Zeit: published `2026-08-29T02:52:35+00:00`, fetched `2026-08-29T07:39:12+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 担当者の「私信」を晒したという事が問題にされているが、 記事にある文面がそのままなのだとしたら、どう見ても私信ではなく、団体としての公式な返答なんだよね。 こういった返答をネットに上げるのが駄目だとは知らなかった。 当事者団体にも届いた「アニメ化に抗議して」 「みい山」めぐる担当者の「私信」晒されSN...
+  - Kurz: こんにちは！懇親会ぼっち仲間、あつまれ〜！ 先日懇親会ぼっち対策を見かけた時の気持ちを勢いでポストしたら結構反応をいただき驚いた次第です。 懇親会でぼっちになって困るそこのみんな！！諦めよう！！あのな！！登壇してもぼっちになることはある！！知り合いがいても風邪ひいて来れなくなることもある！！大丈夫...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
