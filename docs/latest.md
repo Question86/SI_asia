@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-29T09:45:38+00:00_
+_Generiert: 2026-08-29T09:53:18+00:00_
 
 ## Kurzlage
 
-30 neue relevante Treffer. Stärkstes Signal: „M 5.0 - 64 km W of Labuha, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+31 neue relevante Treffer. Stärkstes Signal: „M 5.0 - 64 km W of Labuha, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -69,14 +69,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); APAC Trend Radar (+3.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Opening address by Mr Chia Der Jiun, Managing Director of the Monetary Authority of Singapore, at the MAS Annual Report 2025/2026 Media Conference, Singapore, 28 July 2026.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **M 4.9 - South Sandwich Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsm)
+- **M 4.7 - 25 km ESE of Lospalos, Timor Leste** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tct6)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-29T07:27:19.040+00:00`, fetched `2026-08-29T07:30:09+00:00`
+  - Zeit: published `2026-08-29T09:51:31.040+00:00`, fetched `2026-08-29T09:52:42+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-29 07:10:54 UTC 2026-08-29 07:10:54 UTC at epicenter Location 57.459°S 25.789°W Depth 89.89 km (55.85 mi)
+  - Kurz: Time 2026-08-29 09:15:46 UTC 2026-08-29 09:15:46 UTC at epicenter Location 8.588°S 127.222°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Global economic pressure points call for policy discipline: BIS** — Score 9, observation — [Quelle](https://www.bis.org/media-releases/20260628-global-economic-pressure-points-call-policy-discipline-bis)
   - Quelle: BIS Press Releases / `rss`
