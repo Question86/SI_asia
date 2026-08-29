@@ -30,5 +30,62 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “htmx 4.0.0 has been released!” — Die Dynamik wirkt aktuell wie Hintergrundrauschen. Band=quiet, score=11.5.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "htmx 4.0.0 has been released!",
+        "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-29T00:00:55+00:00",
+        "age_days": 0.02,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 11.5,
+        "raw_band": "quiet",
+        "dynamic_band": "quiet",
+        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 1,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +1"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "htmx 4.0.0 has been released!",
+        "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-28T16:24:02+00:00",
+        "age_days": 0.34,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 5.0,
+        "raw_band": "quiet",
+        "dynamic_band": "quiet",
+        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "no strong comparative reason"
+        ],
+        "summary": "In addition, the following changes were made: Most error events collapse into htmx:error. HTTP error responses fire htmx:response:error. The htmx:xhr:* events are removed. htmx 4 uses fetch(). The htmx:validation:* events are removed in favor of native browser form validation. The full table is i..."
+      }
+    ]
+  }
 }

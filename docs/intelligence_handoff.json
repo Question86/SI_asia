@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-28T23:48:19Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Composer: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
+  "generated_at": "2026-08-29T00:32:36Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “htmx 4.0.0 has been released!” — Die Dynamik wirkt aktuell wie Hintergrundrauschen. Band=quiet, score=11.5.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,302 +11,52 @@
   ],
   "top_dynamics": [
     {
-      "title": "[NEU] [hoch] Composer: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3072",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-28T11:16:05+00:00",
-      "age_days": 0.52,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 31.0,
-      "raw_band": "krass",
-      "dynamic_band": "krass",
-      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": true,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code",
-        "security high-signal: code"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Composer ausnutzen, um Sicherheitsvorkehrungen zu umgehenn und beliebigen Code auszuführen."
-    },
-    {
-      "title": "GROWIにおける複数の脆弱性",
-      "url": "https://jvn.jp/jp/JVN42348352/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-08-28T14:00:00+09:00",
-      "age_days": 0.78,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: jvn, security"
-      ],
-      "summary": "株式会社GROWIが提供するGROWIには、複数の脆弱性が存在します。"
-    },
-    {
-      "title": "SOYシリーズにおける複数の脆弱性",
-      "url": "https://jvn.jp/jp/JVN04485476/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-08-28T12:00:15+09:00",
-      "age_days": 0.87,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: jvn, security"
-      ],
-      "summary": "齋藤 毅氏が提供するSOYシリーズには、複数の脆弱性が存在します。"
-    },
-    {
-      "title": "Zabbix agentにおけるDLL読み込みに関する脆弱性",
-      "url": "https://jvn.jp/jp/JVN42011956/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-08-28T12:00:00+09:00",
-      "age_days": 0.87,
-      "topics": [
-        "ai",
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: jvn, security"
-      ],
-      "summary": "Zabbix LLCが提供するZabbix agentにはDLL読み込みに関する脆弱性が存在します。"
-    },
-    {
-      "title": "[NEU] [hoch] Dovecot: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3076",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-28T11:41:05+00:00",
-      "age_days": 0.51,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cert-bund, bsi, security, advisory"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Dovecot ausnutzen, um Sicherheitsvorkehrungen zu umgehen, sensible Informationen offenzulegen, Daten zu manipulieren oder Denial-of-Service-Zustände herbeizuführen."
-    },
-    {
-      "title": "[NEU] [hoch] CKAN: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3074",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-28T11:21:05+00:00",
-      "age_days": 0.52,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cert-bund, bsi, security, advisory"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in CKAN ausnutzen, um einen SQL-Injection Angriff durchzuführen, um Informationen offenzulegen, um einen Cross-Site Scripting Angriff durchzuführen und um Sicherheitsvorkehrungen zu umgehen."
-    },
-    {
-      "title": "[NEU] [hoch] Rancher: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3073",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-28T11:16:06+00:00",
-      "age_days": 0.52,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cert-bund, bsi, security, advisory"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Rancher ausnutzen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen und um Sicherheitsvorkehrungen zu umgehen."
-    },
-    {
-      "title": "[NEU] [hoch] Redis: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3077",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-28T11:41:05+00:00",
-      "age_days": 0.51,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code",
-        "security high-signal: code",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Redis ausnutzen, um Sicherheitsmechanismen zu umgehen, unberechtigt auf Daten zuzugreifen, einen Denial-of-Service-Zustand herbeizuführen oder Speicherinhalte zu manipulieren. Die Ausführung beliebigen Programmcodes ist potenziell möglich."
-    },
-    {
-      "title": "[UPDATE] [hoch] JFrog Artifactory: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2808",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-28T06:06:05+00:00",
-      "age_days": 0.74,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: auth",
-        "security high-signal: auth",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in JFrog Artifactory ausnutzen, um die Authentifizierung zu umgehen, Berechtigungen zu erweitern, sich als Benutzer auszugeben, vertrauliche Informationen offenzulegen oder geschützte Daten zu manipulieren."
-    },
-    {
-      "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3075",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-28T11:31:05+00:00",
-      "age_days": 0.51,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cert-bund, bsi, security, advisory",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, darunter möglicherweise Speicherbeschädigungen, die Offenlegung oder Manipulation von Daten sowie Denial-of-Service-Zustände."
-    },
-    {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月27日）",
-      "url": "https://jvn.jp/vu/JVNVU99593741/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-08-28T09:00:00+09:00",
-      "age_days": 0.99,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cisa, jvn, security, advisory",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-    },
-    {
-      "title": "開発をシフトレフトせよ――形式仕様でAIと事前に合意する開発のすすめかた",
-      "url": "https://zenn.dev/nrs/articles/93424504f49ce6",
+      "title": "htmx 4.0.0 has been released!",
+      "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-27T22:18:40+00:00",
-      "age_days": 1.06,
+      "published_at": "2026-08-29T00:00:55+00:00",
+      "age_days": 0.02,
       "topics": [
-        "ai"
+        "general"
       ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "dynamics_score": 11.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "htmx 4.0.0 has been released!",
+      "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-28T16:24:02+00:00",
+      "age_days": 0.34,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "high terms: rce",
-        "security high-signal: rce",
-        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+        "no strong comparative reason"
       ],
-      "summary": "AI への指示書は自然言語で書きます。 書いた本人には明確に見えますし、AI も分かったという顔をして実装を始めます。 その結果、できあがったものが思っていたものではないことがあります。 なぜなら、自然言語は解釈が揺れるからです。 私が開発している OSS の TAKT では、この揺れを実行前の対話で潰しています。 ..."
+      "summary": "In addition, the following changes were made: Most error events collapse into htmx:error. HTTP error responses fire htmx:response:error. The htmx:xhr:* events are removed. htmx 4 uses fetch(). The htmx:validation:* events are removed in favor of native browser form validation. The full table is i..."
     }
   ],
   "read_order": [
@@ -318,8 +68,7 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "krass": 1,
-      "strong": 11
+      "quiet": 2
     }
   }
 }
