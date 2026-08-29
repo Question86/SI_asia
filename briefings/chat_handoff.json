@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-29T07:39:47+00:00",
-  "status": "normal",
-  "coverage_confidence": "normal",
+  "generated_at": "2026-08-29T07:47:50+00:00",
+  "status": "warning",
+  "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 15,
-    "displayed_findings": 15,
+    "new_relevant_findings": 12,
+    "today_file_total": 27,
+    "displayed_findings": 27,
     "high": 0,
     "medium": 1,
-    "observe": 14
+    "observe": 26
   },
-  "source_errors_count": 0,
+  "source_errors_count": 1,
   "top_signals": [
     {
       "title": "M 4.8 - 29 km ENE of Pilar, Philippines",
@@ -23,6 +23,16 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsc",
       "summary": "Time 2026-08-29 06:32:54 UTC 2026-08-29 06:32:54 UTC at epicenter Location 9.976°N 126.348°E Depth 60.94 km (37.86 mi)",
       "section": "medium"
+    },
+    {
+      "title": "The path to the next-generation monetary and financial system lies in safeguarding trust in money: BIS",
+      "source": "BIS Press Releases",
+      "source_type": "rss",
+      "published_at": "2026-06-23T00:00:00+00:00",
+      "relevance_score": 13,
+      "url": "https://www.bis.org/media-releases/20260623-path-next-generation-monetary-and-financial-system-lies-safeguarding-trust-money-bis",
+      "summary": "Digital innovation is transforming finance, potentially enabling greater competition and efficiency in payment systems and financial intermediation. However, it also poses new macro-financial challenges and raises the broader question of how to preserve trust…",
+      "section": "observe"
     },
     {
       "title": "M 5.1 - Southwest Indian Ridge",
@@ -45,23 +55,13 @@
       "section": "observe"
     },
     {
-      "title": "M 4.9 - South Sandwich Islands region",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "Remarks on the MAS Annual Report 2025/2026",
+      "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
-      "published_at": "2026-08-29T07:27:19.040+00:00",
-      "relevance_score": 9,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsm",
-      "summary": "Time 2026-08-29 07:10:54 UTC 2026-08-29 07:10:54 UTC at epicenter Location 57.459°S 25.789°W Depth 89.89 km (55.85 mi)",
-      "section": "observe"
-    },
-    {
-      "title": "M 4.6 - 170 km ESE of Kuril’sk, Russia",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-08-29T05:07:39.040+00:00",
-      "relevance_score": 9,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcrx",
-      "summary": "Time 2026-08-29 04:48:42 UTC 2026-08-29 04:48:42 UTC at epicenter Location 44.802°N 149.958°E Depth 44.00 km (27.34 mi)",
+      "published_at": "2026-08-17T00:00:00+00:00",
+      "relevance_score": 10,
+      "url": "https://www.bis.org/speeches/20260817-remarks-mas-annual-report-20252026",
+      "summary": "Opening address by Mr Chia Der Jiun, Managing Director of the Monetary Authority of Singapore, at the MAS Annual Report 2025/2026 Media Conference, Singapore, 28 July 2026.",
       "section": "observe"
     }
   ],
