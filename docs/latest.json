@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-29T12:58:24+00:00",
-  "run_id": "2026-08-29T12:58:24+00:00",
+  "generated_at": "2026-08-29T13:15:42+00:00",
+  "run_id": "2026-08-29T13:15:42+00:00",
   "date": "2026-08-29",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 36,
     "displayed_findings": 36,
     "high": 0,
@@ -1793,29 +1793,7 @@
       "id": "17c30f6bb92f45673867"
     }
   ],
-  "new_findings": [
-    {
-      "title": "ベテランエンジニアのPRレビュー187件を分類してみたら、バグは5件に1件しか指摘されていなかった - Qiita",
-      "url": "https://qiita.com/ktdatascience/items/02b6b45e2ca7d34ad146",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-28T00:13:26+00:00",
-      "fetched_at": "2026-08-29T12:57:49+00:00",
-      "summary": "上位2つで61件、全体の33%。一方、いわゆるバグ相当（3位の「値そのもの」＋7位の「データが壊れないか」）は38件で20%です。5件に1件しかない。 レイヤーが変わると領域も入れ替わる 同じ人のレビューでも、対象がバックエンドかモバイルかWebフロントかで、厚い領域がはっきり違いました。 バックエンドは「値の正しさ...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7851684508c3bbb82427"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [
     {
       "source_id": "bis_statistics",
