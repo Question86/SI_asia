@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-29T03:21:05+00:00_
+_Generated: 2026-08-29T03:32:02+00:00_
 
 ## Status
 - status: `normal`
-- findings: `6`
+- findings: `7`
 
 ## Top Signals
 
@@ -29,11 +29,11 @@ _Generated: 2026-08-29T03:21:05+00:00_
 - url: https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released
 - summary: In addition, the following changes were made: Most error events collapse into htmx:error. HTTP error responses fire htmx:response:error. The htmx:xhr:* events are removed. htmx 4 uses fetch(). The htmx:validation:* events are removed in favor of native browse…
 
-### 4. Cloudflareが1.1.1.1のDNSキャッシュを数十バイト単位で削り込んで100TBのメモリを節約
+### 4. 新型「Mac mini」「Mac Studio」の“数字”を読み解く――驚異のAI性能と、日米価格設定のからくり
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
-- published: `2026-08-28T08:34:09+00:00`
-- url: https://gigazine.net/news/20260828-cloudflare-dns-cache-optimization/
-- summary: CloudflareがパブリックDNSリゾルバー「1.1.1.1」などで使われているDNSキャッシュのデータ構造を見直し、システム全体で約100TBのメモリを削減したと発表しました。ベンチマークではキャッシュ1件当たりのメモリ使用量が953バイトから420バイトへと56％減少し、メモリを減らしながらキャッシュへの書き込みや読み出しも...
+- published: `2026-08-28T13:03:58+00:00`
+- url: https://www.itmedia.co.jp/pcuser/articles/2608/28/news093.html
+- summary: 新型「Mac mini」「Mac Studio」の“数字”を読み解く――驚異のAI性能と、日米価格設定のからくり：本田雅一のクロスオーバーデジタル（1/2 ページ） 新型の「Mac mini」と「Mac Studio」が、一部構成を除き9月22日に発売される。8月26日のコラムでは、Mac miniでデビューを果たした「M6チップ」、そしてMac Studioでデビュ...
 
 END OF DOCUMENT
