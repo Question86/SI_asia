@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-29T05:54:45+00:00_
+_Generiert: 2026-08-29T06:08:09+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „M 4.9 - 95 km W of Petrolia, CA“ aus USGS M4.5+ Earthquakes Past Hour (Score 11, risk).
+11 neue relevante Treffer. Stärkstes Signal: „M 5.1 - Southwest Indian Ridge“ aus USGS M4.5+ Earthquakes Past Hour (Score 11, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,6 +29,10 @@ _Generiert: 2026-08-29T05:54:45+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-26`
   - Kurz: Known exploited vulnerability. Added 2026-08-26. Due 2026-09-09. Red Hat Libuser Race Condition Vulnerability
+- **GDACS: Green flood alert in New Zealand** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104126)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in New Zealand
 - **GDACS: Orange earthquake (Magnitude 5M, Depth:10km) in China 28/08/2026 05:13 UTC, 15.8 million in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1562260)
   - Quelle: GDACS
   - Zeit: ``
@@ -73,6 +77,15 @@ Keine neuen mittleren Treffer.
 
 ## Nur beobachten
 
+- **M 5.1 - Southwest Indian Ridge** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcs7)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-29T05:56:57.040+00:00`, fetched `2026-08-29T06:07:39+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-29 05:40:06 UTC 2026-08-29 05:40:06 UTC at epicenter Location 31.848°S 56.952°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.9 - 95 km W of Petrolia, CA** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/nc75426637)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-29T02:48:22.972+00:00`, fetched `2026-08-29T02:49:42+00:00`
