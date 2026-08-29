@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-29T06:42:52Z_
+_Generated: 2026-08-29T06:51:22Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.1 - Southwest Indian Ridge” — Di
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-08-29T05:56:57.040+00:00` / age_days `0.03`
+- Published: `2026-08-29T05:56:57.040+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.1 - Southwest Indian Ridge” — Di
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.5`
-- Published: `2026-08-29T02:50:18+00:00` / age_days `0.16`
+- Published: `2026-08-29T02:50:18+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -48,6 +48,16 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.1 - Southwest Indian Ridge” — Di
 - Warum: momentum delta +3
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcrx
 
+### M 5.1 - Southwest Indian Ridge
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `16.0`
+- Published: `2026-08-29T06:08:12+00:00` / age_days `0.03`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +2
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcs7
+
 ### 問い合わせへの返答をネットに上げるのって駄目だったの！？
 
 - Band: `watch` (raw `watch`)
@@ -62,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.1 - Southwest Indian Ridge” — Di
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-08-29T00:00:55+00:00` / age_days `0.28`
+- Published: `2026-08-29T00:00:55+00:00` / age_days `0.29`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -72,21 +82,11 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.1 - Southwest Indian Ridge” — Di
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-08-29T02:48:22.972+00:00` / age_days `0.16`
+- Published: `2026-08-29T02:48:22.972+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/nc75426637
-
-### M 5.1 - Southwest Indian Ridge
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `13.5`
-- Published: `2026-08-29T06:08:12+00:00` / age_days `0.02`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcs7
 
 ### 新型「Mac mini」「Mac Studio」の“数字”を読み解く――驚異のAI性能と、日米価格設定のからくり
 
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.1 - Southwest Indian Ridge” — Di
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-08-28T08:34:09+00:00` / age_days `0.92`
+- Published: `2026-08-28T08:34:09+00:00` / age_days `0.93`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
