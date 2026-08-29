@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-29T05:24:19Z_
+_Generated: 2026-08-29T05:35:35Z_
 
 ## Lageurteil
 
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - 95 km W of Petrolia, CA” — D
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-08-29T05:07:39.040+00:00` / age_days `0.01`
+- Published: `2026-08-29T05:07:39.040+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 9.9
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - 95 km W of Petrolia, CA” — D
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-08-29T03:56:55+00:00` / age_days `0.06`
+- Published: `2026-08-29T03:56:55+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - 95 km W of Petrolia, CA” — D
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-08-29T00:00:55+00:00` / age_days `0.22`
+- Published: `2026-08-29T00:00:55+00:00` / age_days `0.23`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -52,77 +52,77 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - 95 km W of Petrolia, CA” — D
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-08-29T02:48:22.972+00:00` / age_days `0.11`
+- Published: `2026-08-29T02:48:22.972+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/nc75426637
 
-### M 4.6 - 170 km ESE of Kuril’sk, Russia
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `13.4`
-- Published: `2026-08-29T05:20:00+00:00` / age_days `0.0`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcrx
-
 ### 新型「Mac mini」「Mac Studio」の“数字”を読み解く――驚異のAI性能と、日米価格設定のからくり
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `13.0`
-- Published: `2026-08-28T13:03:58+00:00` / age_days `0.68`
+- Published: `2026-08-28T13:03:58+00:00` / age_days `0.69`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
 - Quelle: https://www.itmedia.co.jp/pcuser/articles/2608/28/news093.html
 
+### M 4.6 - 170 km ESE of Kuril’sk, Russia
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `11.5`
+- Published: `2026-08-29T05:20:00+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +1
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcrx
+
 ### Cloudflareが1.1.1.1のDNSキャッシュを数十バイト単位で削り込んで100TBのメモリを節約
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `11.0`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `71.14`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `71.15`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, high terms: 10, aging penalty -8.0 for 71.1d old signal
+- Warum: momentum delta +3, high terms: 10, aging penalty -8.0 for 71.2d old signal
 - Quelle: https://gigazine.net/news/20260828-cloudflare-dns-cache-optimization/
 
 ### Cloudflareが1.1.1.1のDNSキャッシュを数十バイト単位で削り込んで100TBのメモリを節約
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-08-28T08:34:09+00:00` / age_days `0.87`
+- Published: `2026-08-28T08:34:09+00:00` / age_days `0.88`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
 - Quelle: https://gigazine.net/news/20260828-cloudflare-dns-cache-optimization/
 
-### 知人がものの数分で設定したという、高齢のお父さん用iPhone…ここまで潔いのはなかなか見かけない「視覚支援だ～」「これはめっちゃわかりやすい」
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `8.5`
-- Published: `2026-06-19T12:31:48+00:00` / age_days `70.7`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, aging penalty -8.0 for 70.7d old signal
-- Quelle: https://togetter.com/li/2738669
-
 ### Our decision on Cursor following its acquisition by SpaceX
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `8.0`
-- Published: `2026-06-17T20:44:40+00:00` / age_days `72.36`
+- Published: `2026-06-17T20:44:40+00:00` / age_days `72.37`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, aging penalty -8.0 for 72.4d old signal, single-source AI cap enforced after phrase recheck
 - Quelle: https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex
 
+### 知人がものの数分で設定したという、高齢のお父さん用iPhone…ここまで潔いのはなかなか見かけない「視覚支援だ～」「これはめっちゃわかりやすい」
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `6.0`
+- Published: `2026-06-19T12:31:48+00:00` / age_days `70.71`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3, aging penalty -8.0 for 70.7d old signal
+- Quelle: https://togetter.com/li/2738669
+
 ### 新型「Mac mini」「Mac Studio」の“数字”を読み解く――驚異のAI性能と、日米価格設定のからくり
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `6.0`
-- Published: `2026-08-29T03:32:05+00:00` / age_days `0.08`
+- Published: `2026-08-29T03:32:05+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
