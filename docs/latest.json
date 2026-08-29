@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-29T21:34:33+00:00",
-  "run_id": "2026-08-29T21:34:33+00:00",
+  "generated_at": "2026-08-29T21:42:02+00:00",
+  "run_id": "2026-08-29T21:42:02+00:00",
   "date": "2026-08-29",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 42,
     "displayed_findings": 42,
     "high": 0,
@@ -2117,29 +2117,7 @@
       "id": "17c30f6bb92f45673867"
     }
   ],
-  "new_findings": [
-    {
-      "title": "「頭脳だけで正解を探したら、AIに大敗する」川邊健太郎が旅と“ヒュー！”に見いだすもの - エンジニアtype | 転職type",
-      "url": "https://type.jp/et/feature/31605/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-29T10:55:13+00:00",
-      "fetched_at": "2026-08-29T21:33:54+00:00",
-      "summary": "NEW! 2026.08.29 働き方 LINEヤフーAI 30年、ネット業界の最前線を走ってきた人は、AI時代にはもう「古い人」なのだろうか。 たぶん、違う。 前LINEヤフー代表の川邊 健太郎さんは今、巨大組織を率いる立場を離れ、AIと自分だけで事業をつくる「AIソロプレナー」として、旅に出ている。 目的は、「次にBetするテーマ」を...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5a9bf7887e624c57d184"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [
     {
       "source_id": "bis_statistics",
