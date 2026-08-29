@@ -1,17 +1,17 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-29T03:29:37Z",
+  "generated_at": "2026-08-29T03:40:44Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 12,
+    "dynamics": 14,
     "bands": {
-      "watch": 3,
-      "quiet": 9
+      "watch": 4,
+      "quiet": 10
     },
     "bands_after_gate_recheck": {
-      "watch": 3,
-      "quiet": 9
+      "watch": 4,
+      "quiet": 10
     }
   },
   "top_dynamics": [
@@ -20,22 +20,22 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75426637",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T02:50:18+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
-      "dynamics_score": 16.0,
+      "dynamics_score": 18.5,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +2"
+        "momentum delta +3"
       ],
       "summary": ""
     },
@@ -44,7 +44,7 @@
       "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T00:00:55+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -68,7 +68,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75426637",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T02:48:22.972+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -88,11 +88,37 @@
       "summary": "ShakeMap - III DYFI? - III Time 2026-08-29 02:41:09 UTC 2026-08-29 02:41:09 UTC at epicenter Location 40.425°N 125.403°W Depth 2.31 km (1.44 mi)"
     },
     {
+      "title": "新型「Mac mini」「Mac Studio」の“数字”を読み解く――驚異のAI性能と、日米価格設定のからくり",
+      "url": "https://www.itmedia.co.jp/pcuser/articles/2608/28/news093.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-28T13:03:58+00:00",
+      "age_days": 0.61,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "新型「Mac mini」「Mac Studio」の“数字”を読み解く――驚異のAI性能と、日米価格設定のからくり：本田雅一のクロスオーバーデジタル（1/2 ページ） 新型の「Mac mini」と「Mac Studio」が、一部構成を除き9月22日に発売される。8月26日のコラムでは、Mac miniでデビューを果たした「M6チップ」、そしてMac Studioでデビュ..."
+    },
+    {
       "title": "Cloudflareが1.1.1.1のDNSキャッシュを数十バイト単位で削り込んで100TBのメモリを節約",
       "url": "https://gigazine.net/news/20260828-cloudflare-dns-cache-optimization/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 71.06,
+      "age_days": 71.07,
       "topics": [
         "general"
       ],
@@ -118,7 +144,7 @@
       "url": "https://gigazine.net/news/20260828-cloudflare-dns-cache-optimization/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-28T08:34:09+00:00",
-      "age_days": 0.79,
+      "age_days": 0.8,
       "topics": [
         "general"
       ],
@@ -142,7 +168,7 @@
       "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 72.28,
+      "age_days": 72.29,
       "topics": [
         "general"
       ],
@@ -168,7 +194,7 @@
       "url": "https://gihyo.jp/article/2026/08/arduino-ventuno-q",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T02:42:35+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -194,7 +220,7 @@
       "url": "https://speakerdeck.com/opelab/20260827-ssmjp-operation-procedure-update",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 71.06,
+      "age_days": 71.07,
       "topics": [
         "general"
       ],
@@ -219,7 +245,7 @@
       "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-28T16:24:02+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "general"
       ],
@@ -243,7 +269,7 @@
       "url": "https://speakerdeck.com/opelab/20260827-ssmjp-operation-procedure-update",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-27T14:20:32+00:00",
-      "age_days": 1.55,
+      "age_days": 1.56,
       "topics": [
         "general"
       ],
@@ -261,6 +287,32 @@
         "no strong comparative reason"
       ],
       "summary": "ssmonline #53 での発表資料です。 (運用設計ラボ合同会社 波田野 裕一)"
+    },
+    {
+      "title": "新型「Mac mini」「Mac Studio」の“数字”を読み解く――驚異のAI性能と、日米価格設定のからくり",
+      "url": "https://www.itmedia.co.jp/pcuser/articles/2608/28/news093.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-29T03:32:05+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 3.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
     },
     {
       "title": "Our decision on Cursor following its acquisition by SpaceX",
@@ -292,7 +344,7 @@
       "url": "https://gihyo.jp/article/2026/08/arduino-ventuno-q",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-27T23:10:23+00:00",
-      "age_days": 1.18,
+      "age_days": 1.19,
       "topics": [
         "ai"
       ],
@@ -313,5 +365,5 @@
       "summary": "Arduinoは2026年8月25日、40TOPSの性能を発揮するNPUを備え、Qwen 3、Gemma 4、Qwen 3 VLMなどのローカルLLMを直接実行できるマイコンボード「Arduino VENTUNO Q」を発表、同社の正規販売店を通じて予約販売を開始した。 Arduino VENTUNO Q https://www.arduino.cc/product-ventuno-q/ The wait is over! Meet Arduino V..."
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 4.9 - 95 km W of Petrolia, CA” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=16.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 4.9 - 95 km W of Petrolia, CA” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=18.5."
 }
