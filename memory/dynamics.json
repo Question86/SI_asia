@@ -1,53 +1,26 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-29T01:24:14Z",
+  "generated_at": "2026-08-29T01:38:41Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 6,
     "bands": {
-      "watch": 2,
-      "quiet": 4
+      "watch": 1,
+      "quiet": 5
     },
     "bands_after_gate_recheck": {
-      "watch": 2,
-      "quiet": 4
+      "watch": 1,
+      "quiet": 5
     }
   },
   "top_dynamics": [
-    {
-      "title": "Cloudflareが1.1.1.1のDNSキャッシュを数十バイト単位で削り込んで100TBのメモリを節約",
-      "url": "https://gigazine.net/news/20260828-cloudflare-dns-cache-optimization/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 70.98,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 14.28,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.71,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 0.71",
-        "high terms: 10",
-        "aging penalty -8.0 for 71.0d old signal"
-      ],
-      "summary": ""
-    },
     {
       "title": "htmx 4.0.0 has been released!",
       "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T00:00:55+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -70,8 +43,34 @@
       "title": "Cloudflareが1.1.1.1のDNSキャッシュを数十バイト単位で削り込んで100TBのメモリを節約",
       "url": "https://gigazine.net/news/20260828-cloudflare-dns-cache-optimization/",
       "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T01:58:32+00:00",
+      "age_days": 70.99,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 11.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "high terms: 10",
+        "aging penalty -8.0 for 71.0d old signal"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Cloudflareが1.1.1.1のDNSキャッシュを数十バイト単位で削り込んで100TBのメモリを節約",
+      "url": "https://gigazine.net/news/20260828-cloudflare-dns-cache-optimization/",
+      "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-28T08:34:09+00:00",
-      "age_days": 0.7,
+      "age_days": 0.71,
       "topics": [
         "general"
       ],
@@ -95,7 +94,7 @@
       "url": "https://speakerdeck.com/opelab/20260827-ssmjp-operation-procedure-update",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 70.98,
+      "age_days": 70.99,
       "topics": [
         "general"
       ],
@@ -120,7 +119,7 @@
       "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-28T16:24:02+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "general"
       ],
@@ -144,7 +143,7 @@
       "url": "https://speakerdeck.com/opelab/20260827-ssmjp-operation-procedure-update",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-27T14:20:32+00:00",
-      "age_days": 1.46,
+      "age_days": 1.47,
       "topics": [
         "general"
       ],
@@ -164,5 +163,5 @@
       "summary": "ssmonline #53 での発表資料です。 (運用設計ラボ合同会社 波田野 裕一)"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Cloudflareが1.1.1.1のDNSキャッシュを数十バイト単位で削り込んで100TBのメモリを節約” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=14.28."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “htmx 4.0.0 has been released!” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=14.0."
 }

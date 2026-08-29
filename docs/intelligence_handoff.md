@@ -1,28 +1,18 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-29T01:24:14Z_
+_Generated: 2026-08-29T01:38:41Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “Cloudflareが1.1.1.1のDNSキャッシュを数十バイト単位で削り込んで100TBのメモリを節約” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=14.28.
+Stärkste Dynamik nach Gate-Recheck: “htmx 4.0.0 has been released!” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=14.0.
 
 ## Top Dynamics
-
-### Cloudflareが1.1.1.1のDNSキャッシュを数十バイト単位で削り込んで100TBのメモリを節約
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `14.28`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `70.98`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, baseline z_hint 0.71, high terms: 10, aging penalty -8.0 for 71.0d old signal
-- Quelle: https://gigazine.net/news/20260828-cloudflare-dns-cache-optimization/
 
 ### htmx 4.0.0 has been released!
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-08-29T00:00:55+00:00` / age_days `0.06`
+- Published: `2026-08-29T00:00:55+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -31,8 +21,18 @@ Stärkste Dynamik nach Gate-Recheck: “Cloudflareが1.1.1.1のDNSキャッシ�
 ### Cloudflareが1.1.1.1のDNSキャッシュを数十バイト単位で削り込んで100TBのメモリを節約
 
 - Band: `quiet` (raw `quiet`)
+- Dynamics score: `11.0`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `70.99`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3, high terms: 10, aging penalty -8.0 for 71.0d old signal
+- Quelle: https://gigazine.net/news/20260828-cloudflare-dns-cache-optimization/
+
+### Cloudflareが1.1.1.1のDNSキャッシュを数十バイト単位で削り込んで100TBのメモリを節約
+
+- Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-08-28T08:34:09+00:00` / age_days `0.7`
+- Published: `2026-08-28T08:34:09+00:00` / age_days `0.71`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “Cloudflareが1.1.1.1のDNSキャッシ�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `6.0`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `70.98`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `70.99`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, aging penalty -8.0 for 71.0d old signal
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “Cloudflareが1.1.1.1のDNSキャッシ�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `5.0`
-- Published: `2026-08-28T16:24:02+00:00` / age_days `0.38`
+- Published: `2026-08-28T16:24:02+00:00` / age_days `0.39`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “Cloudflareが1.1.1.1のDNSキャッシ�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `5.0`
-- Published: `2026-08-27T14:20:32+00:00` / age_days `1.46`
+- Published: `2026-08-27T14:20:32+00:00` / age_days `1.47`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
