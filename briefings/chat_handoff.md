@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-29T06:54:59+00:00_
+_Generated: 2026-08-29T07:06:29+00:00_
 
 ## Status
 - status: `normal`
-- findings: `12`
+- findings: `13`
 
 ## Top Signals
 
@@ -36,11 +36,11 @@ _Generated: 2026-08-29T06:54:59+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcrx
 - summary: Time 2026-08-29 04:48:42 UTC 2026-08-29 04:48:42 UTC at epicenter Location 44.802°N 149.958°E Depth 44.00 km (27.34 mi)
 
-### 5. Our decision on Cursor following its acquisition by SpaceX
-- source: OpenAI News RSS
-- score: `7`
-- published: `2026-08-28T06:00:00+00:00`
-- url: https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex
-- summary: Our decision to wind down our contract providing OpenAI models to Cursor following its acquisition by SpaceX.
+### 5. AI語に親しむ
+- source: Hatena Bookmark Hotentry IT
+- score: `8`
+- published: `2026-08-29T04:37:36+00:00`
+- url: https://ktrmnm.jp/blog/2026-08-29-what-is-ai-ism-jp/
+- summary: まず以下の文章を見てほしい。 はじめまして。今日から転校してきました、山田スロップ太郎と申します。 まず前提として、前の高校ではバスケ部に入っていました。ここで重要なのは、運動が得意だったかどうかではありません。試合に多く出ていたわけでもない。むしろ、限られた役割の中でどうチームに関わるか、という...
 
 END OF DOCUMENT

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-29T06:55:03+00:00",
-  "today_file_total": 12,
+  "generated_at": "2026-08-29T07:06:32+00:00",
+  "today_file_total": 13,
   "current_clusters": [
     {
       "key": "earthquake:philippines:4.8",
@@ -18,9 +18,9 @@
       "max_score": 15,
       "credibility_total": 1.35,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 20.7,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 17.7,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"
@@ -76,6 +76,29 @@
         "earthquakes_tsunami"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "url:https://ktrmnm.jp/blog/2026-08-29-what-is-ai-ism-jp/",
+      "title": "AI語に親しむ",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://ktrmnm.jp/blog/2026-08-29-what-is-ai-ism-jp/"
+      ],
+      "finding_count": 1,
+      "max_score": 8,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 13.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "earthquake:m 4.6 - 170 km ese of kuril’sk, russia:4.6",

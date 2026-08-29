@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-29T06:54:59+00:00_
+_Generiert: 2026-08-29T07:06:29+00:00_
 
 ## Kurzlage
 
-12 neue relevante Treffer. Stärkstes Signal: „M 4.8 - 29 km ENE of Pilar, Philippines“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+13 neue relevante Treffer. Stärkstes Signal: „M 4.8 - 29 km ENE of Pilar, Philippines“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -116,6 +116,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-29 04:48:42 UTC 2026-08-29 04:48:42 UTC at epicenter Location 44.802°N 149.958°E Depth 44.00 km (27.34 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **AI語に親しむ** — Score 8, observation — [Quelle](https://ktrmnm.jp/blog/2026-08-29-what-is-ai-ism-jp/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-29T04:37:36+00:00`, fetched `2026-08-29T07:05:55+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: まず以下の文章を見てほしい。 はじめまして。今日から転校してきました、山田スロップ太郎と申します。 まず前提として、前の高校ではバスケ部に入っていました。ここで重要なのは、運動が得意だったかどうかではありません。試合に多く出ていたわけでもない。むしろ、限られた役割の中でどうチームに関わるか、という...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Our decision on Cursor following its acquisition by SpaceX** — Score 7, observation — [Quelle](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-08-28T06:00:00+00:00`, fetched `2026-08-29T01:51:09+00:00`
@@ -142,15 +151,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 担当者の「私信」を晒したという事が問題にされているが、 記事にある文面がそのままなのだとしたら、どう見ても私信ではなく、団体としての公式な返答なんだよね。 こういった返答をネットに上げるのが駄目だとは知らなかった。 当事者団体にも届いた「アニメ化に抗議して」 「みい山」めぐる担当者の「私信」晒されSN...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **htmx 4.0.0 has been released!** — Score 5, observation — [Quelle](https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-28T16:24:02+00:00`, fetched `2026-08-29T00:00:19+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: In addition, the following changes were made: Most error events collapse into htmx:error. HTTP error responses fire htmx:response:error. The htmx:xhr:* events are removed. htmx 4 uses fetch(). The htmx:validation:* events are removed in favor of native browser form validation. The full table is i...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
