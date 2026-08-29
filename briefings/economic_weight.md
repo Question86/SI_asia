@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-08-29T15:55:58+00:00`
+Generated: `2026-08-29T16:09:50+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -12,6 +12,7 @@ Generated: `2026-08-29T15:55:58+00:00`
 | M 5.0 - 64 km W of Labuha, Indonesia | natural_disaster | $1.16M | $116.00M | $11.60B | 0.33 |
 | M 4.8 - 110 km E of Miyako, Japan | natural_disaster | $1.16M | $116.00M | $11.60B | 0.33 |
 | M 4.8 - 29 km ENE of Pilar, Philippines | natural_disaster | $1.16M | $116.00M | $11.60B | 0.33 |
+| M 4.7 - 16 km ENE of Hasaki, Japan | natural_disaster | $1.16M | $116.00M | $11.60B | 0.33 |
 | M 5.1 - Southwest Indian Ridge | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
 | M 5.0 - 19 km NW of Fuji, China | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
 | M 4.9 - 193 km SE of Perryville, Alaska | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
@@ -30,7 +31,6 @@ Generated: `2026-08-29T15:55:58+00:00`
 | The path to the next-generation monetary and financial system lies in safeguarding trust in money: BIS | product_release | $150.40K | $15.04M | $1.50B | 0.77 |
 | Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される | unknown | $123.20K | $12.32M | $1.23B | 0.36 |
 | K-Dense-AI/scientific-agent-skills | unknown | $122.40K | $12.24M | $1.22B | 0.31 |
-| The deepfake threat and beyond: 3 unconventional security crises every founder-led brand must prepare for | unknown | $119.20K | $11.92M | $1.19B | 0.31 |
 
 ## Interpretation
 
