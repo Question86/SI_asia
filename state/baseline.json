@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-29T01:21:29+00:00",
+  "generated_at": "2026-08-29T01:29:15+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -2507,7 +2507,7 @@
     },
     "domain:gigazine.net": {
       "title": "Cloudflareが1.1.1.1のDNSキャッシュを数十バイト単位で削り込んで100TBのメモリを節約",
-      "updated_at": "2026-08-29T01:21:29+00:00",
+      "updated_at": "2026-08-29T01:29:15+00:00",
       "network_scores": [
         23.3,
         29.2,
@@ -2526,12 +2526,13 @@
         7.1,
         7.1,
         7.1,
-        10.1
+        10.1,
+        7.1
       ],
-      "rolling_average": 9.39,
+      "rolling_average": 9.27,
       "rolling_peak": 29.2,
-      "last_score": 10.1,
-      "z_hint": 0.71
+      "last_score": 7.1,
+      "z_hint": -2.17
     },
     "title:acrab-raises-350m-advance-agentic-compute-infrastructure": {
       "title": "Acrab raises US$350M to advance Agentic AI compute infrastructure",
@@ -3156,7 +3157,7 @@
     },
     "domain:speakerdeck.com": {
       "title": "「ミスを許さない手順書」を作ってみた 〜 個人的にはこれ以上できることはあまりなさそう/20260827-ssmjp-operation-procedure-update",
-      "updated_at": "2026-08-29T01:21:29+00:00",
+      "updated_at": "2026-08-29T01:29:15+00:00",
       "network_scores": [
         10.1,
         13.1,
@@ -3176,12 +3177,13 @@
         15.2,
         10.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 13.32,
+      "rolling_average": 13.01,
       "rolling_peak": 18.2,
       "last_score": 7.1,
-      "z_hint": -6.22
+      "z_hint": -5.91
     },
     "title:web-nginx-cvss": {
       "title": "Webサーバー「nginx」に3件の脆弱性、「CVSS 4.0」の基本値は最高で10点満点中「9.2」／v1.30.3/v1.31.2への更新を",
@@ -6166,17 +6168,18 @@
     },
     "domain:four.htmx.org": {
       "title": "htmx 4.0.0 has been released!",
-      "updated_at": "2026-08-29T01:21:29+00:00",
+      "updated_at": "2026-08-29T01:29:15+00:00",
       "network_scores": [
         10.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.85,
+      "rolling_average": 7.7,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     }
   }
 }

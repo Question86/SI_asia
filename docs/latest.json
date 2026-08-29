@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-29T01:21:26+00:00",
-  "run_id": "2026-08-29T01:21:26+00:00",
+  "generated_at": "2026-08-29T01:29:11+00:00",
+  "run_id": "2026-08-29T01:29:11+00:00",
   "date": "2026-08-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 3,
     "displayed_findings": 3,
     "high": 0,
@@ -160,29 +160,7 @@
       "id": "a9422e72baa26ac79741"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Cloudflareが1.1.1.1のDNSキャッシュを数十バイト単位で削り込んで100TBのメモリを節約",
-      "url": "https://gigazine.net/news/20260828-cloudflare-dns-cache-optimization/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-28T08:34:09+00:00",
-      "fetched_at": "2026-08-29T01:20:55+00:00",
-      "summary": "CloudflareがパブリックDNSリゾルバー「1.1.1.1」などで使われているDNSキャッシュのデータ構造を見直し、システム全体で約100TBのメモリを削減したと発表しました。ベンチマークではキャッシュ1件当たりのメモリ使用量が953バイトから420バイトへと56％減少し、メモリを減らしながらキャッシュへの書き込みや読み出しも...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "eaf5acd9cf503d130119"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
