@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-29T12:38:54Z",
+  "generated_at": "2026-08-29T12:48:39Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 1,
       "krass": 1,
-      "strong": 7,
-      "watch": 16,
+      "strong": 6,
+      "watch": 17,
       "quiet": 15
     },
     "bands_after_gate_recheck": {
-      "strong": 9,
-      "watch": 16,
+      "strong": 8,
+      "watch": 17,
       "quiet": 15
     }
   },
@@ -24,7 +24,7 @@
       "url": "https://www.bis.org/media-releases/20260623-path-next-generation-monetary-and-financial-system-lies-safeguarding-trust-money-bis",
       "source": "BIS Central Bankers Speeches, BIS Press Releases",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 71.92,
+      "age_days": 71.93,
       "topics": [
         "macro"
       ],
@@ -53,7 +53,7 @@
       "url": "https://zenn.dev/avaintelligence/articles/dont-outsource-understanding-to-ai",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-28T09:59:10+00:00",
-      "age_days": 1.11,
+      "age_days": 1.12,
       "topics": [
         "ai"
       ],
@@ -79,7 +79,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T06:53:38.040+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "disaster"
       ],
@@ -130,7 +130,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T08:36:29+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -154,7 +154,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T06:55:03+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -174,38 +174,11 @@
       "summary": ""
     },
     {
-      "title": "Claude Codeの設計詰めスキル『grilling』の紹介",
-      "url": "https://zenn.dev/sato_frontend/articles/1a85841505b9bb",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-29T12:29:39+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 22.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "high terms: code",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Claude Codeの体系的な理解と知識のフック",
       "url": "https://speakerdeck.com/oikon48/cc",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T11:40:09+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -232,7 +205,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tct6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T09:53:22+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -249,6 +222,33 @@
       "why": [
         "momentum delta +3",
         "high terms: palo"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Claude Codeの設計詰めスキル『grilling』の紹介",
+      "url": "https://zenn.dev/sato_frontend/articles/1a85841505b9bb",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-29T12:29:39+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 19.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "high terms: code",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
     },
@@ -282,7 +282,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcs7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T05:56:57.040+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "disaster"
       ],
@@ -307,7 +307,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcth",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T11:40:09+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
@@ -331,7 +331,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcs7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T06:08:12+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -355,7 +355,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75426637",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T02:50:18+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "general"
       ],
@@ -379,7 +379,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T08:28:19.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -453,7 +453,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcrx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T05:07:39.040+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "disaster"
       ],
@@ -478,7 +478,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcrx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T05:20:00+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -526,7 +526,7 @@
       "url": "https://anond.hatelabo.jp/20260829085942",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T03:56:55+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "general"
       ],
@@ -574,7 +574,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75426637",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T02:48:22.972+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "disaster"
       ],
@@ -598,7 +598,7 @@
       "url": "https://speakerdeck.com/oikon48/cc",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-28T13:30:40+00:00",
-      "age_days": 0.96,
+      "age_days": 0.97,
       "topics": [
         "ai"
       ],
@@ -624,7 +624,7 @@
       "url": "https://www.itmedia.co.jp/pcuser/articles/2608/28/news093.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-28T13:03:58+00:00",
-      "age_days": 0.98,
+      "age_days": 0.99,
       "topics": [
         "ai"
       ],
@@ -646,39 +646,11 @@
       "summary": "新型「Mac mini」「Mac Studio」の“数字”を読み解く――驚異のAI性能と、日米価格設定のからくり：本田雅一のクロスオーバーデジタル（1/2 ページ） 新型の「Mac mini」と「Mac Studio」が、一部構成を除き9月22日に発売される。8月26日のコラムでは、Mac miniでデビューを果たした「M6チップ」、そしてMac Studioでデビュ..."
     },
     {
-      "title": "AIに丸投げしないで理解するためのAI開発手法（2026年8月現在）",
-      "url": "https://zenn.dev/avaintelligence/articles/dont-outsource-understanding-to-ai",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 71.05,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 11.8,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 3.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 3.00",
-        "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 71.0d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Cloudflareが1.1.1.1のDNSキャッシュを数十バイト単位で削り込んで100TBのメモリを節約",
       "url": "https://gigazine.net/news/20260828-cloudflare-dns-cache-optimization/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 71.44,
+      "age_days": 71.45,
       "topics": [
         "general"
       ],
@@ -695,7 +667,7 @@
       "why": [
         "momentum delta +3",
         "high terms: 10",
-        "aging penalty -8.0 for 71.4d old signal"
+        "aging penalty -8.0 for 71.5d old signal"
       ],
       "summary": ""
     },
@@ -704,7 +676,7 @@
       "url": "https://gigazine.net/news/20260828-cloudflare-dns-cache-optimization/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-28T08:34:09+00:00",
-      "age_days": 1.17,
+      "age_days": 1.18,
       "topics": [
         "general"
       ],
@@ -752,7 +724,7 @@
       "url": "https://ktrmnm.jp/blog/2026-08-29-what-is-ai-ism-jp/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T07:06:32+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -778,7 +750,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-06-17T20:32:17+00:00",
-      "age_days": 72.67,
+      "age_days": 72.68,
       "topics": [
         "general"
       ],
@@ -803,7 +775,7 @@
       "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 72.66,
+      "age_days": 72.67,
       "topics": [
         "general"
       ],
@@ -825,11 +797,38 @@
       "summary": ""
     },
     {
+      "title": "AIに丸投げしないで理解するためのAI開発手法（2026年8月現在）",
+      "url": "https://zenn.dev/avaintelligence/articles/dont-outsource-understanding-to-ai",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T11:28:55+00:00",
+      "age_days": 71.06,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "aging penalty -8.0 for 71.1d old signal",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "知人がものの数分で設定したという、高齢のお父さん用iPhone…ここまで潔いのはなかなか見かけない「視覚支援だ～」「これはめっちゃわかりやすい」",
       "url": "https://togetter.com/li/2738669",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T12:31:48+00:00",
-      "age_days": 71.0,
+      "age_days": 71.01,
       "topics": [
         "general"
       ],
@@ -880,7 +879,7 @@
       "url": "https://www.itmedia.co.jp/pcuser/articles/2608/28/news093.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T03:32:05+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "ai"
       ],
@@ -906,7 +905,7 @@
       "url": "https://gihyo.jp/article/2026/08/arduino-ventuno-q",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T02:42:35+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "ai"
       ],
@@ -932,7 +931,7 @@
       "url": "https://speakerdeck.com/opelab/20260827-ssmjp-operation-procedure-update",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 71.44,
+      "age_days": 71.45,
       "topics": [
         "general"
       ],
@@ -948,7 +947,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 71.4d old signal"
+        "aging penalty -8.0 for 71.5d old signal"
       ],
       "summary": ""
     },
