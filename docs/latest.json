@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-29T03:56:51+00:00",
-  "run_id": "2026-08-29T03:56:51+00:00",
+  "generated_at": "2026-08-29T04:16:07+00:00",
+  "run_id": "2026-08-29T04:16:07+00:00",
   "date": "2026-08-29",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 8,
     "displayed_findings": 8,
     "high": 0,
@@ -400,29 +400,7 @@
       "id": "a9422e72baa26ac79741"
     }
   ],
-  "new_findings": [
-    {
-      "title": "問い合わせへの返答をネットに上げるのって駄目だったの！？",
-      "url": "https://anond.hatelabo.jp/20260829085942",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-29T00:00:51+00:00",
-      "fetched_at": "2026-08-29T03:56:16+00:00",
-      "summary": "担当者の「私信」を晒したという事が問題にされているが、 記事にある文面がそのままなのだとしたら、どう見ても私信ではなく、団体としての公式な返答なんだよね。 こういった返答をネットに上げるのが駄目だとは知らなかった。 当事者団体にも届いた「アニメ化に抗議して」 「みい山」めぐる担当者の「私信」晒されSN...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6f50e9b4e25334524cf7"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
