@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-29T08:25:59+00:00",
+  "generated_at": "2026-08-29T08:36:27+00:00",
   "status": "warning",
   "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 29,
-    "displayed_findings": 29,
+    "new_relevant_findings": 1,
+    "today_file_total": 30,
+    "displayed_findings": 30,
     "high": 0,
-    "medium": 1,
+    "medium": 2,
     "observe": 28
   },
   "source_errors_count": 1,
   "top_signals": [
+    {
+      "title": "M 5.0 - 64 km W of Labuha, Indonesia",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-29T08:28:19.040+00:00",
+      "relevance_score": 15,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcsu",
+      "summary": "Time 2026-08-29 08:08:45 UTC 2026-08-29 08:08:45 UTC at epicenter Location 0.703°S 126.907°E Depth 41.90 km (26.03 mi)",
+      "section": "medium"
+    },
     {
       "title": "M 4.8 - 29 km ENE of Pilar, Philippines",
       "source": "USGS M4.5+ Earthquakes Past Hour",
