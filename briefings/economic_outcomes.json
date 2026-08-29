@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-29T21:17:53+00:00",
+  "generated_at": "2026-08-29T21:26:07+00:00",
   "events": [
     {
       "event_id": "evt_058a0e17878f3797ed5c",
@@ -232,6 +232,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_5e413be1f7ed3b797641",
+      "title": "GitHub - iKora128/stop-ai-slop-jp: 日本語の文章からAI臭を取り除く Claude Skill",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_620225625978c23a2aaa",
@@ -550,7 +561,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_f57fccff74e206c13a6c",
