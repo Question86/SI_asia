@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-29T01:04:00+00:00",
+  "generated_at": "2026-08-29T01:21:26+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 2,
-    "displayed_findings": 2,
+    "new_relevant_findings": 1,
+    "today_file_total": 3,
+    "displayed_findings": 3,
     "high": 0,
     "medium": 0,
-    "observe": 2
+    "observe": 3
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -22,6 +22,16 @@
       "relevance_score": 5,
       "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
       "summary": "In addition, the following changes were made: Most error events collapse into htmx:error. HTTP error responses fire htmx:response:error. The htmx:xhr:* events are removed. htmx 4 uses fetch(). The htmx:validation:* events are removed in favor of native browse…",
+      "section": "observe"
+    },
+    {
+      "title": "Cloudflareが1.1.1.1のDNSキャッシュを数十バイト単位で削り込んで100TBのメモリを節約",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-28T08:34:09+00:00",
+      "relevance_score": 5,
+      "url": "https://gigazine.net/news/20260828-cloudflare-dns-cache-optimization/",
+      "summary": "CloudflareがパブリックDNSリゾルバー「1.1.1.1」などで使われているDNSキャッシュのデータ構造を見直し、システム全体で約100TBのメモリを削減したと発表しました。ベンチマークではキャッシュ1件当たりのメモリ使用量が953バイトから420バイトへと56％減少し、メモリを減らしながらキャッシュへの書き込みや読み出しも...",
       "section": "observe"
     },
     {
