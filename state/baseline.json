@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-29T05:04:47+00:00",
+  "generated_at": "2026-08-29T05:20:00+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -70,9 +70,8 @@
     },
     "domain:openai.com": {
       "title": "Our decision on Cursor following its acquisition by SpaceX",
-      "updated_at": "2026-08-29T05:04:47+00:00",
+      "updated_at": "2026-08-29T05:20:00+00:00",
       "network_scores": [
-        21.1,
         18.1,
         18.1,
         18.1,
@@ -101,12 +100,13 @@
         9.1,
         9.1,
         9.1,
+        9.1,
         9.1
       ],
-      "rolling_average": 13.8,
-      "rolling_peak": 21.1,
+      "rolling_average": 13.4,
+      "rolling_peak": 18.1,
       "last_score": 9.1,
-      "z_hint": -4.7
+      "z_hint": -4.3
     },
     "title:read-remote-repository-content-github-cli": {
       "title": "Read remote repository content with GitHub CLI",
@@ -2518,7 +2518,7 @@
     },
     "domain:gigazine.net": {
       "title": "Cloudflareが1.1.1.1のDNSキャッシュを数十バイト単位で削り込んで100TBのメモリを節約",
-      "updated_at": "2026-08-29T05:04:47+00:00",
+      "updated_at": "2026-08-29T05:20:00+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -2531,8 +2531,8 @@
         7.1,
         7.1,
         7.1,
-        7.1,
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -3179,9 +3179,8 @@
     },
     "domain:speakerdeck.com": {
       "title": "「ミスを許さない手順書」を作ってみた 〜 個人的にはこれ以上できることはあまりなさそう/20260827-ssmjp-operation-procedure-update",
-      "updated_at": "2026-08-29T05:04:47+00:00",
+      "updated_at": "2026-08-29T05:20:00+00:00",
       "network_scores": [
-        15.2,
         15.2,
         15.2,
         15.2,
@@ -3210,12 +3209,13 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 9.9,
+      "rolling_average": 9.63,
       "rolling_peak": 15.2,
       "last_score": 7.1,
-      "z_hint": -2.8
+      "z_hint": -2.53
     },
     "title:web-nginx-cvss": {
       "title": "Webサーバー「nginx」に3件の脆弱性、「CVSS 4.0」の基本値は最高で10点満点中「9.2」／v1.30.3/v1.31.2への更新を",
@@ -4468,9 +4468,10 @@
       "z_hint": 0.0
     },
     "domain:togetter.com": {
-      "title": "「こりゃどえらいことになったぞ」研究で使っている分析装置のPCがUSB経由でマルウェア感染していることが分かり「感染元の人はなんてことしてくれたんや...」",
-      "updated_at": "2026-06-19T12:31:48+00:00",
+      "title": "知人がものの数分で設定したという、高齢のお父さん用iPhone…ここまで潔いのはなかなか見かけない「視覚支援だ～」「これはめっちゃわかりやすい」",
+      "updated_at": "2026-08-29T05:20:00+00:00",
       "network_scores": [
+        10.1,
         10.1
       ],
       "rolling_average": 10.1,
@@ -6200,9 +6201,10 @@
     },
     "domain:four.htmx.org": {
       "title": "htmx 4.0.0 has been released!",
-      "updated_at": "2026-08-29T05:04:47+00:00",
+      "updated_at": "2026-08-29T05:20:00+00:00",
       "network_scores": [
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -6231,7 +6233,7 @@
     },
     "title:llm-arduino-ventuno-gihyo": {
       "title": "ローカルLLMを直接実行できるマイコンボード「Arduino VENTUNO Q」予約販売開始 | gihyo.jp",
-      "updated_at": "2026-08-29T05:04:47+00:00",
+      "updated_at": "2026-08-29T05:20:00+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -6243,16 +6245,17 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.37,
+      "rolling_average": 7.35,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.27
+      "z_hint": -0.25
     },
     "earthquake:m 4.9 - 95 km w of petrolia, ca:4.9": {
       "title": "M 4.9 - 95 km W of Petrolia, CA",
-      "updated_at": "2026-08-29T05:04:47+00:00",
+      "updated_at": "2026-08-29T05:20:00+00:00",
       "network_scores": [
         16.7,
         13.7,
@@ -6263,16 +6266,35 @@
         13.7,
         13.7,
         13.7,
+        13.7,
         13.7
       ],
-      "rolling_average": 14.0,
+      "rolling_average": 13.97,
       "rolling_peak": 16.7,
       "last_score": 13.7,
-      "z_hint": -0.3
+      "z_hint": -0.27
     },
     "title:mac-mini-mac-studio": {
       "title": "新型「Mac mini」「Mac Studio」の“数字”を読み解く――驚異のAI性能と、日米価格設定のからくり",
-      "updated_at": "2026-08-29T05:04:47+00:00",
+      "updated_at": "2026-08-29T05:20:00+00:00",
+      "network_scores": [
+        10.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1
+      ],
+      "rolling_average": 7.48,
+      "rolling_peak": 10.1,
+      "last_score": 7.1,
+      "z_hint": -0.38
+    },
+    "url:https://anond.hatelabo.jp/20260829085942": {
+      "title": "問い合わせへの返答をネットに上げるのって駄目だったの！？",
+      "updated_at": "2026-08-29T05:20:00+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -6287,21 +6309,16 @@
       "last_score": 7.1,
       "z_hint": -0.43
     },
-    "url:https://anond.hatelabo.jp/20260829085942": {
-      "title": "問い合わせへの返答をネットに上げるのって駄目だったの！？",
-      "updated_at": "2026-08-29T05:04:47+00:00",
+    "earthquake:m 4.6 - 170 km ese of kuril’sk, russia:4.6": {
+      "title": "M 4.6 - 170 km ESE of Kuril’sk, Russia",
+      "updated_at": "2026-08-29T05:20:00+00:00",
       "network_scores": [
-        10.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1
+        14.7
       ],
-      "rolling_average": 7.6,
-      "rolling_peak": 10.1,
-      "last_score": 7.1,
-      "z_hint": -0.5
+      "rolling_average": 14.7,
+      "rolling_peak": 14.7,
+      "last_score": 14.7,
+      "z_hint": 0.0
     }
   }
 }
