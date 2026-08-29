@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T21:49:45+00:00",
+  "generated_at": "2026-08-29T21:57:39+00:00",
   "status": "warning",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
@@ -11,15 +11,9 @@
     "high": 0,
     "medium": 4,
     "observe": 38,
-    "source_errors": 2
+    "source_errors": 1
   },
   "source_errors": [
-    {
-      "source_id": "cert_eu_security_advisories",
-      "source_name": "CERT-EU Security Advisories",
-      "source_type": "rss",
-      "error": "500 Server Error: INTERNAL SERVER ERROR for url: https://cert.europa.eu/publications/security-advisories-rss"
-    },
     {
       "source_id": "bis_statistics",
       "source_name": "BIS Statistical Releases",
