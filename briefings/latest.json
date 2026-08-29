@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-29T07:55:06+00:00",
-  "run_id": "2026-08-29T07:55:06+00:00",
+  "generated_at": "2026-08-29T08:08:07+00:00",
+  "run_id": "2026-08-29T08:08:07+00:00",
   "date": "2026-08-29",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 27
+      "configured_public_sources_only": 29
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 27,
-    "displayed_findings": 27,
+    "new_relevant_findings": 2,
+    "today_file_total": 29,
+    "displayed_findings": 29,
     "high": 0,
     "medium": 1,
-    "observe": 26,
+    "observe": 28,
     "source_errors": 1
   },
   "sections": {
@@ -485,6 +485,27 @@
         "id": "6f50e9b4e25334524cf7"
       },
       {
+        "title": "ローカルLLMの壁を打ち破る「Unsloth Desktop」登場！ 画像生成・コード実行・API化を1つのアプリに統合",
+        "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/28/news020.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-28T23:36:09+00:00",
+        "fetched_at": "2026-08-29T08:07:36+00:00",
+        "summary": "画像生成・コード実行・API化を1つのアプリに統合「Unsloth Desktop」登場 クラウド生成AIの普及が進む一方、情報漏えいを防ぎコストを抑えるローカルLLMへの注目が集まっている。本Tech TIPSでは2026年8月に登場した「Unsloth Desktop」を解説する。チャットだけでなくノーコード学習や画像生成までGUIで完結する本ツー...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ab46a1583867e6fde5ff"
+      },
+      {
         "title": "htmx 4.0.0 has been released!",
         "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
         "source": "Hatena Bookmark Hotentry IT",
@@ -628,6 +649,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "0d7241d65f0d4b1b8346"
+      },
+      {
+        "title": "Overview of the South African economy",
+        "url": "https://www.bis.org/speeches/20260817-overview-south-african-economy",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-08-17T00:00:00+00:00",
+        "fetched_at": "2026-08-29T08:07:36+00:00",
+        "summary": "Address by Lesetja Kganyago, Governor of the South African Reserve Bank, at the 106th Ordinary Annual General Meeting, South African Reserve Bank, Pretoria, 31 July 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Macro/Policy (+5.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ceb8822737b08f46ed29"
       },
       {
         "title": "Opportunities and risks for CCPs and their overseers in a changing environment",
@@ -1127,6 +1168,27 @@
       "id": "6f50e9b4e25334524cf7"
     },
     {
+      "title": "ローカルLLMの壁を打ち破る「Unsloth Desktop」登場！ 画像生成・コード実行・API化を1つのアプリに統合",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/28/news020.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-28T23:36:09+00:00",
+      "fetched_at": "2026-08-29T08:07:36+00:00",
+      "summary": "画像生成・コード実行・API化を1つのアプリに統合「Unsloth Desktop」登場 クラウド生成AIの普及が進む一方、情報漏えいを防ぎコストを抑えるローカルLLMへの注目が集まっている。本Tech TIPSでは2026年8月に登場した「Unsloth Desktop」を解説する。チャットだけでなくノーコード学習や画像生成までGUIで完結する本ツー...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ab46a1583867e6fde5ff"
+    },
+    {
       "title": "htmx 4.0.0 has been released!",
       "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1272,6 +1334,26 @@
       "id": "0d7241d65f0d4b1b8346"
     },
     {
+      "title": "Overview of the South African economy",
+      "url": "https://www.bis.org/speeches/20260817-overview-south-african-economy",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-08-17T00:00:00+00:00",
+      "fetched_at": "2026-08-29T08:07:36+00:00",
+      "summary": "Address by Lesetja Kganyago, Governor of the South African Reserve Bank, at the 106th Ordinary Annual General Meeting, South African Reserve Bank, Pretoria, 31 July 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Macro/Policy (+5.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ceb8822737b08f46ed29"
+    },
+    {
       "title": "Opportunities and risks for CCPs and their overseers in a changing environment",
       "url": "https://www.bis.org/speeches/20260817-opportunities-and-risks-ccps-and-their-overseers-changing-environment",
       "source": "BIS Central Bankers Speeches",
@@ -1313,7 +1395,49 @@
       "id": "17c30f6bb92f45673867"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "ローカルLLMの壁を打ち破る「Unsloth Desktop」登場！ 画像生成・コード実行・API化を1つのアプリに統合",
+      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2608/28/news020.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-28T23:36:09+00:00",
+      "fetched_at": "2026-08-29T08:07:36+00:00",
+      "summary": "画像生成・コード実行・API化を1つのアプリに統合「Unsloth Desktop」登場 クラウド生成AIの普及が進む一方、情報漏えいを防ぎコストを抑えるローカルLLMへの注目が集まっている。本Tech TIPSでは2026年8月に登場した「Unsloth Desktop」を解説する。チャットだけでなくノーコード学習や画像生成までGUIで完結する本ツー...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ab46a1583867e6fde5ff"
+    },
+    {
+      "title": "Overview of the South African economy",
+      "url": "https://www.bis.org/speeches/20260817-overview-south-african-economy",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-08-17T00:00:00+00:00",
+      "fetched_at": "2026-08-29T08:07:36+00:00",
+      "summary": "Address by Lesetja Kganyago, Governor of the South African Reserve Bank, at the 106th Ordinary Annual General Meeting, South African Reserve Bank, Pretoria, 31 July 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Macro/Policy (+5.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ceb8822737b08f46ed29"
+    }
+  ],
   "source_errors": [
     {
       "source_id": "bis_statistics",
