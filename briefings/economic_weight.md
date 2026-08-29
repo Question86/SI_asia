@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-08-29T06:47:44+00:00`
+Generated: `2026-08-29T06:55:17+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -10,6 +10,7 @@ Generated: `2026-08-29T06:47:44+00:00`
 | Warsh, In Our Time | conflict | $113.60M | $11.36B | $1.14T | 0.31 |
 | bilawalsidhu/gods-eye-view | regulation, natural_disaster | $11.92M | $1.19B | $119.20B | 0.31 |
 | M 4.8 - 110 km E of Miyako, Japan | natural_disaster | $1.16M | $116.00M | $11.60B | 0.33 |
+| M 4.8 - 29 km ENE of Pilar, Philippines | natural_disaster | $1.16M | $116.00M | $11.60B | 0.33 |
 | M 5.1 - Southwest Indian Ridge | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
 | M 5.0 - 19 km NW of Fuji, China | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
 | M 4.9 - 95 km W of Petrolia, CA | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
@@ -30,7 +31,6 @@ Generated: `2026-08-29T06:47:44+00:00`
 | Ecosystem Roundup: SBI leads US$270M round in Indonesia’s largest tech deal in years | unknown | $116.80K | $11.68M | $1.17B | 0.31 |
 | JetBrains/go-modern-guidelines | unknown | $115.20K | $11.52M | $1.15B | 0.31 |
 | 九州大学での Claude Code ハンズオンを、一人でもプロダクトを作れるワークショップキットとして公開しました \| DevelopersIO | unknown | $115.20K | $11.52M | $1.15B | 0.31 |
-| Language was never the problem: Inside SEA’s real AI adoption gap | unknown | $113.60K | $11.36M | $1.14B | 0.31 |
 
 ## Interpretation
 
