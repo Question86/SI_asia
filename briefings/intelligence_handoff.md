@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-30T18:28:56Z_
+_Generated: 2026-08-30T18:39:39Z_
 
 ## Lageurteil
 
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “tailscale/tailcat” — Die Dynamik lie
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-08-29T23:47:17+00:00` / age_days `0.78`
+- Published: `2026-08-29T23:47:17+00:00` / age_days `0.79`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “tailscale/tailcat” — Die Dynamik lie
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-08-30T07:54:30.040+00:00` / age_days `0.44`
+- Published: `2026-08-30T07:54:30.040+00:00` / age_days `0.45`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “tailscale/tailcat” — Die Dynamik lie
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.5`
-- Published: `2026-08-30T07:58:33+00:00` / age_days `0.44`
+- Published: `2026-08-30T07:58:33+00:00` / age_days `0.45`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “tailscale/tailcat” — Die Dynamik lie
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.0`
-- Published: `2026-08-30T02:26:46+00:00` / age_days `0.67`
+- Published: `2026-08-30T02:26:46+00:00` / age_days `0.68`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “tailscale/tailcat” — Die Dynamik lie
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.5`
-- Published: `2026-08-30T16:28:37+00:00` / age_days `0.08`
+- Published: `2026-08-30T16:28:37+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
