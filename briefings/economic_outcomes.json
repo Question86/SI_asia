@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-30T13:01:32+00:00",
+  "generated_at": "2026-08-30T13:18:15+00:00",
   "events": [
     {
       "event_id": "evt_058a0e17878f3797ed5c",
@@ -143,7 +143,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_2c69a25a18b9b812a5b5",
@@ -386,6 +386,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_6f6660fed98a0b91454c",
+      "title": "Hugging Face侵害事件、OpenAIとMETRが最終報告書公開──約1200体のAIエージェントが“闇掲示板”で結託し700体が攻撃に参加",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_720c7d526b3baeebcacf",
