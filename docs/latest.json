@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30T13:26:12+00:00",
-  "run_id": "2026-08-30T13:26:12+00:00",
+  "generated_at": "2026-08-30T13:35:33+00:00",
+  "run_id": "2026-08-30T13:35:33+00:00",
   "date": "2026-08-30",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 26
+      "configured_public_sources_only": 27
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 26,
-    "displayed_findings": 26,
+    "new_relevant_findings": 1,
+    "today_file_total": 27,
+    "displayed_findings": 27,
     "high": 0,
     "medium": 3,
-    "observe": 23,
+    "observe": 24,
     "source_errors": 1
   },
   "sections": {
@@ -444,6 +444,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "30014bdd70fcd45b07cf"
+      },
+      {
+        "title": "参議院のホームページがデザインリニューアルされたが、AIで丸ごと作ったか？という出来栄えで困惑する→落札価格が30万を切っている案件だった",
+        "url": "https://togetter.com/li/2739144",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-30T09:41:16+00:00",
+        "fetched_at": "2026-08-30T13:34:56+00:00",
+        "summary": "参議院審議中継 @sangiinwebtv 参議院ホームページ(sangiin.go.jp)のデザインリニューアルを実施しました。 平成21年以来となる17年ぶりのデザインの刷新により、視認性・操作性を向上させ、利用者が目的の情報にたどり着きやすいホームページといたしました。 併せて、国会議事堂内を360 度の映像で体感できる「バーチ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e1016331df3cafa73746"
       },
       {
         "title": "妻のパスワードや暗証番号に「1130（仮）」のような謎の4桁の数字がよく登場する…誕生日や住所ではなく聞いても教えてくれない…怪しい「元カレ関連？」→結構みんな予想できない番号を使ってる",
@@ -1094,6 +1115,27 @@
       "id": "30014bdd70fcd45b07cf"
     },
     {
+      "title": "参議院のホームページがデザインリニューアルされたが、AIで丸ごと作ったか？という出来栄えで困惑する→落札価格が30万を切っている案件だった",
+      "url": "https://togetter.com/li/2739144",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-30T09:41:16+00:00",
+      "fetched_at": "2026-08-30T13:34:56+00:00",
+      "summary": "参議院審議中継 @sangiinwebtv 参議院ホームページ(sangiin.go.jp)のデザインリニューアルを実施しました。 平成21年以来となる17年ぶりのデザインの刷新により、視認性・操作性を向上させ、利用者が目的の情報にたどり着きやすいホームページといたしました。 併せて、国会議事堂内を360 度の映像で体感できる「バーチ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e1016331df3cafa73746"
+    },
+    {
       "title": "妻のパスワードや暗証番号に「1130（仮）」のような謎の4桁の数字がよく登場する…誕生日や住所ではなく聞いても教えてくれない…怪しい「元カレ関連？」→結構みんな予想できない番号を使ってる",
       "url": "https://togetter.com/li/2739036",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1325,7 +1367,29 @@
       "id": "db36b91709f009566cba"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "参議院のホームページがデザインリニューアルされたが、AIで丸ごと作ったか？という出来栄えで困惑する→落札価格が30万を切っている案件だった",
+      "url": "https://togetter.com/li/2739144",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-30T09:41:16+00:00",
+      "fetched_at": "2026-08-30T13:34:56+00:00",
+      "summary": "参議院審議中継 @sangiinwebtv 参議院ホームページ(sangiin.go.jp)のデザインリニューアルを実施しました。 平成21年以来となる17年ぶりのデザインの刷新により、視認性・操作性を向上させ、利用者が目的の情報にたどり着きやすいホームページといたしました。 併せて、国会議事堂内を360 度の映像で体感できる「バーチ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e1016331df3cafa73746"
+    }
+  ],
   "source_errors": [
     {
       "source_id": "bis_statistics",
