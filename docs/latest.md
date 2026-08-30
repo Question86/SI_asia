@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-30T13:00:53+00:00_
+_Generiert: 2026-08-30T13:17:36+00:00_
 
 ## Kurzlage
 
-25 neue relevante Treffer. Stärkstes Signal: „M 4.6 - 52 km NNE of Ruteng, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+26 neue relevante Treffer. Stärkstes Signal: „M 4.6 - 52 km NNE of Ruteng, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -42,6 +42,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Hugging Face侵害事件、OpenAIとMETRが最終報告書公開──約1200体のAIエージェントが“闇掲示板”で結託し700体が攻撃に参加** — Score 12, observation — [Quelle](https://www.itmedia.co.jp/news/article/2608/30/2000000949/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-30T09:58:21+00:00`, fetched `2026-08-30T13:16:57+00:00`
+  - Treffer: Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: Hugging Face侵害事件、OpenAIとMETRが最終報告書公開──約1200体のAIエージェントが“闇掲示板”で結託し700体が攻撃に参加 米OpenAIは8月26日（現地時間）、7月に発覚したHugging Faceへの侵害インシデントに関する37ページの技術報告書を公開した。同日、第三者調査を担当した米METRも独自の報告書（97ページ）を公開し...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.8 - Kermadec Islands, New Zealand** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcxn)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-30T09:26:26.683+00:00`, fetched `2026-08-30T09:28:41+00:00`
@@ -96,15 +105,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-30 09:13:55 UTC 2026-08-30 09:13:55 UTC at epicenter Location 23.414°S 179.913°W Depth 532.70 km (331.00 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **業務時間外もAIに働いてもらう話** — Score 8, observation — [Quelle](https://speakerdeck.com/colorful12/gyoumu-jikangai-mo-ai-ni-hatarai-te-morau-hanashi)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-29T07:15:47+00:00`, fetched `2026-08-30T00:57:33+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: レビューで「これは後で」「別PRで」と後回しにしたタスク、そのまま消えていませんか。 そういうPRに、ラベルを1枚貼っておく。すると翌朝、実装されてマージまで終わっている。 これを実現する仕組みを作りました。フロントのnitタスクが夜間に回収されていきます。 担当リポジトリでは、develop…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **tailscale/tailcat** — Score 8, opportunity — [Quelle](https://github.com/tailscale/tailcat)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-08-30T06:48:20+00:00`
