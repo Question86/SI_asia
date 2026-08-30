@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-30T09:29:13+00:00_
+_Generiert: 2026-08-30T09:38:42+00:00_
 
 ## Kurzlage
 
-21 neue relevante Treffer. Stärkstes Signal: „M 4.9 - 76 km WNW of Bengkulu, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+22 neue relevante Treffer. Stärkstes Signal: „M 4.9 - 76 km WNW of Bengkulu, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -60,7 +60,7 @@ _Generiert: 2026-08-30T09:29:13+00:00_
 - **USGS earthquake M5.8 - Kermadec Islands, New Zealand** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcxn)
   - Quelle: USGS
   - Zeit: `2026-08-30T09:02:09+00:00`
-  - Kurz: M5.8 - Kermadec Islands, New Zealand. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M5.8 - Kermadec Islands, New Zealand. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -134,14 +134,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Fully automatic censorship removal for language models https://heretic-project.org Heretic: Fully automatic censorship removal for language models Heretic is a tool that removes censorship (aka "safety alignment") from transformer-based language models without expensive post-training. It combines an advanced implementation of directional ablation, also known as "abliteration" ( Arditi et al. 2024 , Lai 2025 ( 1 , 2…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.1 - South Sandwich Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcwd)
+- **M 4.5 - south of the Fiji Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcy0)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-08-30T04:10:47.040+00:00`, fetched `2026-08-30T04:22:22+00:00`
+  - Zeit: published `2026-08-30T09:31:42.040+00:00`, fetched `2026-08-30T09:38:05+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-08-30 03:55:28 UTC 2026-08-30 03:55:28 UTC at epicenter Location 56.458°S 27.003°W Depth 135.69 km (84.31 mi)
+  - Kurz: Time 2026-08-30 09:13:55 UTC 2026-08-30 09:13:55 UTC at epicenter Location 23.414°S 179.913°W Depth 532.70 km (331.00 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **業務時間外もAIに働いてもらう話** — Score 8, observation — [Quelle](https://speakerdeck.com/colorful12/gyoumu-jikangai-mo-ai-ni-hatarai-te-morau-hanashi)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
