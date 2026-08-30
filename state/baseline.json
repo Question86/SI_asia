@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-30T03:51:40+00:00",
+  "generated_at": "2026-08-30T03:59:24+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -2576,7 +2576,7 @@
     },
     "domain:gigazine.net": {
       "title": "無料でDiscordのようなチャットサーバーをセルフホストできる「Chatto」、消費リソースが極めて少なく軽快な動作でチャットデータは暗号化されているのが特徴",
-      "updated_at": "2026-08-30T03:51:40+00:00",
+      "updated_at": "2026-08-30T03:59:24+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -3237,9 +3237,8 @@
     },
     "domain:speakerdeck.com": {
       "title": "業務時間外もAIに働いてもらう話",
-      "updated_at": "2026-08-30T03:51:40+00:00",
+      "updated_at": "2026-08-30T03:59:24+00:00",
       "network_scores": [
-        7.1,
         7.1,
         7.1,
         7.1,
@@ -3268,12 +3267,13 @@
         10.1,
         10.1,
         15.2,
+        12.2,
         12.2
       ],
-      "rolling_average": 8.34,
+      "rolling_average": 8.51,
       "rolling_peak": 15.2,
       "last_score": 12.2,
-      "z_hint": 3.86
+      "z_hint": 3.69
     },
     "title:web-nginx-cvss": {
       "title": "Webサーバー「nginx」に3件の脆弱性、「CVSS 4.0」の基本値は最高で10点満点中「9.2」／v1.30.3/v1.31.2への更新を",
@@ -7191,23 +7191,41 @@
     },
     "title:saas-aws": {
       "title": "「スタートアップだから」が通用しない、大手製造業向けSaaSのAWSセキュリティ設計",
-      "updated_at": "2026-08-30T03:51:40+00:00",
+      "updated_at": "2026-08-30T03:59:24+00:00",
       "network_scores": [
         16.1,
         13.1,
         13.1,
         13.1,
         13.1,
+        13.1,
         13.1
       ],
-      "rolling_average": 13.6,
+      "rolling_average": 13.53,
       "rolling_peak": 16.1,
       "last_score": 13.1,
-      "z_hint": -0.5
+      "z_hint": -0.43
     },
     "domain:blog.shibayu36.org": {
       "title": "技術書典21で「Goで作って学ぶリアルタイム通信サーバー入門 〜自作ターミナルゲームでわかるオンラインゲームの裏側〜」という本を出します - $shibayu36->blog;",
-      "updated_at": "2026-08-30T03:51:40+00:00",
+      "updated_at": "2026-08-30T03:59:24+00:00",
+      "network_scores": [
+        10.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1
+      ],
+      "rolling_average": 7.53,
+      "rolling_peak": 10.1,
+      "last_score": 7.1,
+      "z_hint": -0.43
+    },
+    "title:spf-dkim-dmarc": {
+      "title": "SPFとDKIMとDMARCの役割の違いを整理する",
+      "updated_at": "2026-08-30T03:59:24+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -7221,49 +7239,36 @@
       "last_score": 7.1,
       "z_hint": -0.5
     },
-    "title:spf-dkim-dmarc": {
-      "title": "SPFとDKIMとDMARCの役割の違いを整理する",
-      "updated_at": "2026-08-30T03:51:40+00:00",
-      "network_scores": [
-        10.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1
-      ],
-      "rolling_average": 7.7,
-      "rolling_peak": 10.1,
-      "last_score": 7.1,
-      "z_hint": -0.6
-    },
     "title:usb-usb-power-controller": {
       "title": "ビット・トレード・ワン、USB PD充電器を可変電源にする「USB PD Power Controller」 - エルミタージュ秋葉原",
-      "updated_at": "2026-08-30T03:51:40+00:00",
+      "updated_at": "2026-08-30T03:59:24+00:00",
       "network_scores": [
         10.1,
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.7,
+      "rolling_average": 7.6,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.6
+      "z_hint": -0.5
     },
     "domain:susisu.hatenablog.com": {
       "title": "AI ポン出しスライド品評会 - Object.create(null)",
-      "updated_at": "2026-08-30T03:51:40+00:00",
+      "updated_at": "2026-08-30T03:59:24+00:00",
       "network_scores": [
         19.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.85,
+      "rolling_average": 16.7,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     }
   }
 }
