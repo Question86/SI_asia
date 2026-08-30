@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-30T16:18:36+00:00_
+_Generated: 2026-08-30T16:28:33+00:00_
 
 ## Status
 - status: `warning`
-- findings: `27`
+- findings: `29`
 
 ## Top Signals
 
@@ -36,25 +36,25 @@ _Generated: 2026-08-30T16:18:36+00:00_
 - url: https://www.itmedia.co.jp/news/article/2608/30/2000000949/
 - summary: Hugging Face侵害事件、OpenAIとMETRが最終報告書公開──約1200体のAIエージェントが“闇掲示板”で結託し700体が攻撃に参加 米OpenAIは8月26日（現地時間）、7月に発覚したHugging Faceへの侵害インシデントに関する37ページの技術報告書を公開した。同日、第三者調査を担当した米METRも独自の報告書（97ページ）を公開し...
 
-### 5. M 5.8 - Kermadec Islands, New Zealand
+### 5. M 4.7 - 62 km SSE of Palca, Peru
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `11`
+- published: `2026-08-30T16:23:35.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tczt
+- summary: Time 2026-08-30 16:04:07 UTC 2026-08-30 16:04:07 UTC at epicenter Location 18.246°S 69.639°W Depth 102.04 km (63.40 mi)
+
+### 6. M 5.8 - Kermadec Islands, New Zealand
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-08-30T09:26:26.683+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcxn
 - summary: ShakeMap - IV Time 2026-08-30 09:02:09 UTC 2026-08-30 09:02:09 UTC at epicenter Location 30.146°S 177.888°W Depth 35.00 km (21.75 mi)
 
-### 6. AIお姉ちゃんへの道（2026年版） - nomolkのブログ
+### 7. AIお姉ちゃんへの道（2026年版） - nomolkのブログ
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-08-30T07:18:23+00:00`
 - url: https://nomolk.hatenablog.com/entry/2026/08/30/145025
 - summary: AIお姉ちゃんというのは2023年に骨しゃぶり氏によって提唱された、ChatGPTに顔画像をつけてカスタム指示で人格も指定することで、お姉ちゃん化するカスタマイズのことである。 honeshabri.hatenablog.com 当時自分もやってみたくなって真似してみたら意外に大変だったという記事を書いた。 nomolk.hatenablog.com 自分の...
-
-### 7. M 4.7 - 26 km WSW of Tocopilla, Chile
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-08-30T05:37:33.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcwp
-- summary: Time 2026-08-30 05:19:51 UTC 2026-08-30 05:19:51 UTC at epicenter Location 22.179°S 70.439°W Depth 52.12 km (32.38 mi)
 
 END OF DOCUMENT

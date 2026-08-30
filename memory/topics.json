@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-30T16:18:36+00:00",
+  "generated_at": "2026-08-30T16:28:33+00:00",
   "topics": {
     "general": [
       {
@@ -17,6 +17,13 @@
         "published_at": "2026-08-30T07:54:30.040+00:00",
         "relevance_score": 15,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcxc"
+      },
+      {
+        "title": "M 4.7 - 62 km SSE of Palca, Peru",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-08-30T16:23:35.040+00:00",
+        "relevance_score": 11,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tczt"
       },
       {
         "title": "M 5.8 - Kermadec Islands, New Zealand",
@@ -66,13 +73,6 @@
         "published_at": "2026-08-29T23:52:57+00:00",
         "relevance_score": 5,
         "url": "https://eeengineer.com/description-by-wireshark/"
-      },
-      {
-        "title": "なぜ？ Suicaが使えない「クレカ乗車・QR専用改札機」設置の意図 東京メトロに疑問をぶつけてみた",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-29T21:33:47+00:00",
-        "relevance_score": 5,
-        "url": "https://www.itmedia.co.jp/mobile/articles/2608/30/news003.html"
       }
     ],
     "ai": [
@@ -133,18 +133,18 @@
         "url": "https://togetter.com/li/2739144"
       },
       {
+        "title": "「旅する人は全員Vlogを撮ったらいい」AI時代ほど“自分が本当にそこにいた記録”の価値が上がる→アクションカメラやスマートグラスで未来の自分に一次資料を残そう",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-30T07:52:14+00:00",
+        "relevance_score": 5,
+        "url": "https://togetter.com/li/2738057"
+      },
+      {
         "title": "ハーネス設計入門 〜プロンプト、コンテキストの次〜",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-08-29T21:30:35+00:00",
         "relevance_score": 5,
         "url": "https://speakerdeck.com/kinopeee/hanesu-sekkei-nyuumon-kontekisuto-no-tsugi"
-      },
-      {
-        "title": "自宅PCで巨大AIが高速動作？ ノートPCで350億、プロ向けGPU1枚で7530億パラメータのAIモデルを非公式量子化なしで動かす無償ツール「FreeToken」など生成AI技術5つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-29T19:05:00+00:00",
-        "relevance_score": 5,
-        "url": "https://www.techno-edge.net/article/2026/08/29/5442.html"
       }
     ],
     "security": [
