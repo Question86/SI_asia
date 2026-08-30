@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30T06:03:07+00:00",
-  "run_id": "2026-08-30T06:03:07+00:00",
+  "generated_at": "2026-08-30T06:32:46+00:00",
+  "run_id": "2026-08-30T06:32:46+00:00",
   "date": "2026-08-30",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 11,
     "displayed_findings": 11,
     "high": 0,
     "medium": 1,
     "observe": 10,
-    "source_errors": 2
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -565,36 +565,8 @@
       "id": "28a8fd0fda157a30ae96"
     }
   ],
-  "new_findings": [
-    {
-      "title": "妻のパスワードや暗証番号に「1130（仮）」のような謎の4桁の数字がよく登場する…誕生日や住所ではなく聞いても教えてくれない…怪しい「元カレ関連？」→結構みんな予想できない番号を使ってる",
-      "url": "https://togetter.com/li/2739036",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-30T03:47:24+00:00",
-      "fetched_at": "2026-08-30T06:02:36+00:00",
-      "summary": "ゆきむら@30代眼科医 @ganka1212 妻のパスワードとか暗証番号とかに 1130（仮）みたいな謎の4桁の番号がよく登場する 誕生日でも住所でもない謎の数字、でも絶対忘れないであろう４桁 聞いても教えてくれない、、怪しい、 2026-08-29 16:07:59 もーさん @osakemon94010 @ganka1212 教えてくれないとなると、元カレの誕生...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9f8df8dda3fdcf914459"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [
-    {
-      "source_id": "bsi_cert_bund_csw",
-      "source_name": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
-      "source_type": "rss",
-      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
-    },
     {
       "source_id": "bis_statistics",
       "source_name": "BIS Statistical Releases",
