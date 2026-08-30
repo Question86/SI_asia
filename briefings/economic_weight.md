@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-08-30T07:50:59+00:00`
+Generated: `2026-08-30T07:58:56+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -13,6 +13,7 @@ Generated: `2026-08-30T07:50:59+00:00`
 | M 4.8 - 110 km E of Miyako, Japan | natural_disaster | $1.16M | $116.00M | $11.60B | 0.33 |
 | M 4.8 - 29 km ENE of Pilar, Philippines | natural_disaster | $1.16M | $116.00M | $11.60B | 0.33 |
 | M 4.7 - 16 km ENE of Hasaki, Japan | natural_disaster | $1.16M | $116.00M | $11.60B | 0.33 |
+| M 4.9 - 76 km WNW of Bengkulu, Indonesia | natural_disaster | $1.16M | $116.00M | $11.60B | 0.33 |
 | M 5.1 - Southwest Indian Ridge | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
 | M 5.0 - 19 km NW of Fuji, China | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
 | M 4.9 - 193 km SE of Perryville, Alaska | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
@@ -30,7 +31,6 @@ Generated: `2026-08-30T07:50:59+00:00`
 | Zabbix agentにおけるDLL読み込みに関する脆弱性 | vulnerability | $288.00K | $28.80M | $2.88B | 0.31 |
 | SOYシリーズにおける複数の脆弱性 | vulnerability | $288.00K | $28.80M | $2.88B | 0.31 |
 | GROWIにおける複数の脆弱性 | vulnerability | $288.00K | $28.80M | $2.88B | 0.31 |
-| 綠色運算｜NUMail - OS Command Injection | vulnerability | $282.00K | $28.20M | $2.82B | 0.31 |
 
 ## Interpretation
 
