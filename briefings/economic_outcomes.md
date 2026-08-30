@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-08-30T22:56:21+00:00`
+Generated: `2026-08-30T23:08:16+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -16,7 +16,7 @@ Generated: `2026-08-30T22:56:21+00:00`
 | 知人がものの数分で設定したという、高齢のお父さん用iPhone…ここまで潔いのはなかなか見かけない「視覚支援だ～」「これはめっちゃわかりやすい」 | $0 | — | 0 | 0 | active |
 | M 4.8 - 110 km E of Miyako, Japan | $0 | — | 0 | 0 | dormant |
 | AIお姉ちゃんへの道（2026年版） - nomolkのブログ | $0 | — | 0 | 0 | active |
-| Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される | $0 | — | 0 | 0 | dormant |
+| Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される | $0 | — | 0 | 0 | active |
 | Claude Codeの設計詰めスキル『grilling』の紹介 | $0 | — | 0 | 0 | dormant |
 | M 4.7 - 62 km SSE of Palca, Peru | $0 | — | 0 | 0 | active |
 | curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？ | $0 | — | 0 | 0 | dormant |
