@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-30T04:51:31+00:00",
+  "generated_at": "2026-08-30T04:58:50+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -2576,7 +2576,7 @@
     },
     "domain:gigazine.net": {
       "title": "無料でDiscordのようなチャットサーバーをセルフホストできる「Chatto」、消費リソースが極めて少なく軽快な動作でチャットデータは暗号化されているのが特徴",
-      "updated_at": "2026-08-30T04:51:31+00:00",
+      "updated_at": "2026-08-30T04:58:50+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -3237,9 +3237,8 @@
     },
     "domain:speakerdeck.com": {
       "title": "業務時間外もAIに働いてもらう話",
-      "updated_at": "2026-08-30T04:51:31+00:00",
+      "updated_at": "2026-08-30T04:58:50+00:00",
       "network_scores": [
-        7.1,
         7.1,
         7.1,
         7.1,
@@ -3268,12 +3267,13 @@
         12.2,
         12.2,
         12.2,
+        12.2,
         12.2
       ],
-      "rolling_average": 9.19,
+      "rolling_average": 9.36,
       "rolling_peak": 15.2,
       "last_score": 12.2,
-      "z_hint": 3.01
+      "z_hint": 2.84
     },
     "title:web-nginx-cvss": {
       "title": "Webサーバー「nginx」に3件の脆弱性、「CVSS 4.0」の基本値は最高で10点満点中「9.2」／v1.30.3/v1.31.2への更新を",
@@ -5163,18 +5163,19 @@
     },
     "earthquake:m 5.1 - south sandwich islands region:5.1": {
       "title": "M 5.1 - South Sandwich Islands region",
-      "updated_at": "2026-08-30T04:51:31+00:00",
+      "updated_at": "2026-08-30T04:58:50+00:00",
       "network_scores": [
         11.7,
         14.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 12.3,
+      "rolling_average": 12.2,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.6
+      "z_hint": -0.5
     },
     "title:microsoft-mai-code-flash-code-github-copilot": {
       "title": "無料でも利用可、Microsoftの軽量モデル「MAI-Code-1-Flash」が「VS Code」以外にも展開／「GitHub Copilot」個人プランで利用可能、法人向けも間もなく",
@@ -7195,7 +7196,7 @@
     },
     "title:saas-aws": {
       "title": "「スタートアップだから」が通用しない、大手製造業向けSaaSのAWSセキュリティ設計",
-      "updated_at": "2026-08-30T04:51:31+00:00",
+      "updated_at": "2026-08-30T04:58:50+00:00",
       "network_scores": [
         16.1,
         13.1,
@@ -7207,16 +7208,39 @@
         13.1,
         13.1,
         13.1,
+        13.1,
         13.1
       ],
-      "rolling_average": 13.37,
+      "rolling_average": 13.35,
       "rolling_peak": 16.1,
       "last_score": 13.1,
-      "z_hint": -0.27
+      "z_hint": -0.25
     },
     "domain:blog.shibayu36.org": {
       "title": "技術書典21で「Goで作って学ぶリアルタイム通信サーバー入門 〜自作ターミナルゲームでわかるオンラインゲームの裏側〜」という本を出します - $shibayu36->blog;",
-      "updated_at": "2026-08-30T04:51:31+00:00",
+      "updated_at": "2026-08-30T04:58:50+00:00",
+      "network_scores": [
+        10.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1
+      ],
+      "rolling_average": 7.35,
+      "rolling_peak": 10.1,
+      "last_score": 7.1,
+      "z_hint": -0.25
+    },
+    "title:spf-dkim-dmarc": {
+      "title": "SPFとDKIMとDMARCの役割の違いを整理する",
+      "updated_at": "2026-08-30T04:58:50+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -7235,29 +7259,9 @@
       "last_score": 7.1,
       "z_hint": -0.27
     },
-    "title:spf-dkim-dmarc": {
-      "title": "SPFとDKIMとDMARCの役割の違いを整理する",
-      "updated_at": "2026-08-30T04:51:31+00:00",
-      "network_scores": [
-        10.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1
-      ],
-      "rolling_average": 7.4,
-      "rolling_peak": 10.1,
-      "last_score": 7.1,
-      "z_hint": -0.3
-    },
     "title:usb-usb-power-controller": {
       "title": "ビット・トレード・ワン、USB PD充電器を可変電源にする「USB PD Power Controller」 - エルミタージュ秋葉原",
-      "updated_at": "2026-08-30T04:51:31+00:00",
+      "updated_at": "2026-08-30T04:58:50+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -7268,16 +7272,17 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.4,
+      "rolling_average": 7.37,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.3
+      "z_hint": -0.27
     },
     "domain:susisu.hatenablog.com": {
       "title": "AI ポン出しスライド品評会 - Object.create(null)",
-      "updated_at": "2026-08-30T04:51:31+00:00",
+      "updated_at": "2026-08-30T04:58:50+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -7287,12 +7292,13 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.43,
+      "rolling_average": 16.4,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.33
+      "z_hint": -0.3
     }
   }
 }
