@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-30T05:29:02+00:00",
+  "generated_at": "2026-08-30T05:39:18+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -228,6 +228,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_c48f7f2309178bd9f5bf",
+      "title": "M 4.7 - 26 km WSW of Tocopilla, Chile",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1128000.0,
+      "p50_usd": 112800000.0,
+      "p90_usd": 11280000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-08-30T05:39:01+00:00",
+      "last_seen_at": "2026-08-30T05:39:01+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_058a0e17878f3797ed5c",
       "title": "M 4.6 - 170 km ESE of Kuril’sk, Russia",
       "event_classes": [
@@ -309,7 +326,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-30T04:22:59+00:00",
-      "last_seen_at": "2026-08-30T05:28:34+00:00",
+      "last_seen_at": "2026-08-30T05:39:01+00:00",
       "status": "active"
     },
     {
@@ -445,7 +462,7 @@
       "p90_usd": 1232000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
-      "last_seen_at": "2026-08-30T05:28:34+00:00",
+      "last_seen_at": "2026-08-30T05:39:01+00:00",
       "status": "active"
     },
     {
@@ -615,7 +632,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-30T03:17:26+00:00",
-      "last_seen_at": "2026-08-30T05:28:34+00:00",
+      "last_seen_at": "2026-08-30T05:39:01+00:00",
       "status": "active"
     },
     {
@@ -717,7 +734,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-30T02:26:46+00:00",
-      "last_seen_at": "2026-08-30T05:28:34+00:00",
+      "last_seen_at": "2026-08-30T05:39:01+00:00",
       "status": "active"
     },
     {
@@ -734,7 +751,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T22:15:36+00:00",
-      "last_seen_at": "2026-08-30T05:28:34+00:00",
+      "last_seen_at": "2026-08-30T05:39:01+00:00",
       "status": "active"
     },
     {
@@ -836,7 +853,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-30T02:26:46+00:00",
-      "last_seen_at": "2026-08-30T05:28:34+00:00",
+      "last_seen_at": "2026-08-30T05:39:01+00:00",
       "status": "active"
     },
     {
@@ -904,7 +921,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-30T02:56:46+00:00",
-      "last_seen_at": "2026-08-30T05:28:34+00:00",
+      "last_seen_at": "2026-08-30T05:39:01+00:00",
       "status": "active"
     },
     {
@@ -1006,7 +1023,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-30T02:56:46+00:00",
-      "last_seen_at": "2026-08-30T05:28:34+00:00",
+      "last_seen_at": "2026-08-30T05:39:01+00:00",
       "status": "active"
     },
     {
