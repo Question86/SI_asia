@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-08-30T20:46:45+00:00",
+  "generated_at": "2026-08-30T20:54:12+00:00",
   "fx_as_of": null,
-  "candidate_count": 29,
+  "candidate_count": 30,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 29
+    "pending": 30
   },
   "coverage_warning": null,
   "candidates": [
@@ -548,6 +548,27 @@
       "snippet": "olith - Day 2 Keynote - Rails World 2024 eileencodes 28 3.6k Kristin Tynski - Automating Marketing Tasks With AI techseoconnect PRO 0 480 Data-driven link building: lessons from a $708K investment (BrightonSEO talk) szymonslowik 1 1.3k The Invisible Side of Design smashingmag 301 52k Are puppies a ranking factor? jonoalderson 2 3.8k Organizational Design Perspect",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://speakerdeck.com/kinopeee/hanesu-sekkei-nyuumon-kontekisuto-no-tsugi"
+    },
+    {
+      "amount_native": 708000.0,
+      "amount_usd": 708000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.55,
+      "candidate_id": "cand_0592273dbee79d641bd1",
+      "component_suggestion": "capital_allocation",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_a9168860075ad99c5a0d",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-08-30T20:54:04+00:00",
+      "overlap_group_suggestion": "evt_a9168860075ad99c5a0d:capital_allocation:224720995434",
+      "review_status": "pending",
+      "snippet": "13 1.5k Dominate Local Search Results - an insider guide to GBP, reviews, and Local SEO greggifford PRO 0 310 Done Done chrislema 186 16k Data-driven link building: lessons from a $708K investment (BrightonSEO talk) szymonslowik 1 1.3k VelocityConf: Rendering Performance Case Studies addyosmani 331 25k Transcript 業務時間外もAIに働いてもらう話 PRにラベルを1枚貼って、退勤 GMOペパボ株式会社 ロリポップ‧",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://speakerdeck.com/colorful12/gyoumu-jikangai-mo-ai-ni-hatarai-te-morau-hanashi",
+      "component_confidence": 0.55,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 13200000000.0,
