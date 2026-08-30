@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30T03:17:22+00:00",
-  "run_id": "2026-08-30T03:17:22+00:00",
+  "generated_at": "2026-08-30T03:33:26+00:00",
+  "run_id": "2026-08-30T03:33:26+00:00",
   "date": "2026-08-30",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 7,
     "displayed_findings": 7,
     "high": 0,
@@ -337,31 +337,7 @@
       "id": "28a8fd0fda157a30ae96"
     }
   ],
-  "new_findings": [
-    {
-      "title": "AI ポン出しスライド品評会 - Object.create(null)",
-      "url": "https://susisu.hatenablog.com/entry/2026/08/29/235949",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-30T02:30:16+00:00",
-      "fetched_at": "2026-08-30T03:16:48+00:00",
-      "summary": "最近[いつ?]は AI に登壇用のスライドをポン出しさせたという話や, それに対する賛否両論を各所で聞くようになってきました. そこで私も試しに AI にスライドをポン出しさせてみて, 実際に登壇に耐える品質なのかレビューしてみました. 条件設定は以下の通りです: Claude Code を使用 題材は tsc.rip の実装リポジトリ ...",
-      "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "AI/KI (+3.8); AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "cf79e2dbe6f0c9943e55"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [
     {
       "source_id": "bis_statistics",
