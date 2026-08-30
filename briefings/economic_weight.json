@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-30T01:58:09+00:00",
+  "generated_at": "2026-08-30T02:27:02+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -428,7 +428,7 @@
       "p90_usd": 1232000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
-      "last_seen_at": "2026-08-30T01:57:52+00:00",
+      "last_seen_at": "2026-08-30T02:26:46+00:00",
       "status": "active"
     },
     {
@@ -683,7 +683,24 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T22:15:36+00:00",
-      "last_seen_at": "2026-08-30T01:57:52+00:00",
+      "last_seen_at": "2026-08-30T02:26:46+00:00",
+      "status": "active"
+    },
+    {
+      "event_id": "evt_94353d093681310da590",
+      "title": "「スタートアップだから」が通用しない、大手製造業向けSaaSのAWSセキュリティ設計",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112800.0,
+      "p50_usd": 11280000.0,
+      "p90_usd": 1128000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-08-30T02:26:46+00:00",
+      "last_seen_at": "2026-08-30T02:26:46+00:00",
       "status": "active"
     },
     {
@@ -923,6 +940,23 @@
       "first_seen_at": "2026-08-29T07:39:51+00:00",
       "last_seen_at": "2026-08-29T21:17:29+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_1cb9885de974f52ccc85",
+      "title": "技術書典21で「Goで作って学ぶリアルタイム通信サーバー入門 〜自作ターミナルゲームでわかるオンラインゲームの裏側〜」という本を出します - $shibayu36->blog;",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-08-30T02:26:46+00:00",
+      "last_seen_at": "2026-08-30T02:26:46+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_369ed4c57635e2a534e3",
