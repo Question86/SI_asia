@@ -1,10 +1,11 @@
 # Economic Outcomes
 
-Generated: `2026-08-30T09:19:32+00:00`
+Generated: `2026-08-30T09:29:47+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
 | M 4.6 - 170 km ESE of Kuril’sk, Russia | $0 | — | 0 | 0 | dormant |
+| M 5.8 - Kermadec Islands, New Zealand | $0 | — | 0 | 0 | active |
 | JetBrains/go-modern-guidelines | $0 | — | 0 | 0 | dormant |
 | Zabbix agentにおけるDLL読み込みに関する脆弱性 | $0 | — | 0 | 0 | dormant |
 | M 5.0 - 64 km W of Labuha, Indonesia | $0 | — | 0 | 0 | dormant |
@@ -28,4 +29,3 @@ Generated: `2026-08-30T09:19:32+00:00`
 | K-Dense-AI/scientific-agent-skills | $0 | — | 0 | 0 | dormant |
 | AI語に親しむ | $0 | — | 0 | 0 | dormant |
 | The path to the next-generation monetary and financial system lies in safeguarding trust in money: BIS | $0 | — | 0 | 0 | active |
-| M 5.0 - 19 km NW of Fuji, China | $0 | — | 0 | 0 | dormant |
