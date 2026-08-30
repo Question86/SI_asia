@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30T04:22:56+00:00",
-  "run_id": "2026-08-30T04:22:56+00:00",
+  "generated_at": "2026-08-30T04:33:57+00:00",
+  "run_id": "2026-08-30T04:33:57+00:00",
   "date": "2026-08-30",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 9,
     "displayed_findings": 9,
     "high": 0,
@@ -451,44 +451,7 @@
       "id": "28a8fd0fda157a30ae96"
     }
   ],
-  "new_findings": [
-    {
-      "title": "M 5.1 - South Sandwich Islands region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcwd",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-08-30T04:10:47.040+00:00",
-      "fetched_at": "2026-08-30T04:22:22+00:00",
-      "summary": "Time 2026-08-30 03:55:28 UTC 2026-08-30 03:55:28 UTC at epicenter Location 56.458°S 27.003°W Depth 135.69 km (84.31 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "687d63435f572385585e"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [
     {
       "source_id": "bis_statistics",
