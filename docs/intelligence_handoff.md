@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-30T02:49:17Z_
+_Generated: 2026-08-30T03:15:48Z_
 
 ## Lageurteil
 
@@ -12,27 +12,47 @@ Stärkste Dynamik nach Gate-Recheck: “「スタートアップだから」が�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-08-29T23:47:17+00:00` / age_days `0.13`
+- Published: `2026-08-29T23:47:17+00:00` / age_days `0.14`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security
 - Quelle: https://zenn.dev/facraft/articles/aws-org-security-for-enterprise-saas
 
+### ビット・トレード・ワン、USB PD充電器を可変電源にする「USB PD Power Controller」 - エルミタージュ秋葉原
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `16.5`
+- Published: `2026-08-30T02:56:46+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +1, high terms: controller
+- Quelle: https://www.gdm.or.jp/pressrelease/2026/0828/650076
+
 ### 「スタートアップだから」が通用しない、大手製造業向けSaaSのAWSセキュリティ設計
 
 - Band: `watch` (raw `watch`)
-- Dynamics score: `17.5`
-- Published: `2026-08-30T02:26:46+00:00` / age_days `0.02`
+- Dynamics score: `15.0`
+- Published: `2026-08-30T02:26:46+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1
 - Quelle: https://zenn.dev/facraft/articles/aws-org-security-for-enterprise-saas
 
+### ビット・トレード・ワン、USB PD充電器を可変電源にする「USB PD Power Controller」 - エルミタージュ秋葉原
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `10.0`
+- Published: `2026-08-28T09:38:40+00:00` / age_days `1.73`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: high terms: controller
+- Quelle: https://www.gdm.or.jp/pressrelease/2026/0828/650076
+
 ### 技術書典21で「Goで作って学ぶリアルタイム通信サーバー入門 〜自作ターミナルゲームでわかるオンラインゲームの裏側〜」という本を出します - $shibayu36->blog;
 
 - Band: `quiet` (raw `quiet`)
-- Dynamics score: `11.5`
-- Published: `2026-08-30T02:26:46+00:00` / age_days `0.02`
+- Dynamics score: `9.0`
+- Published: `2026-08-30T02:26:46+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1
@@ -42,17 +62,17 @@ Stärkste Dynamik nach Gate-Recheck: “「スタートアップだから」が�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `6.0`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `72.04`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `72.05`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, aging penalty -8.0 for 72.0d old signal
+- Warum: momentum delta +3, aging penalty -8.0 for 72.1d old signal
 - Quelle: https://gigazine.net/news/20260829-chatto/
 
 ### 技術書典21で「Goで作って学ぶリアルタイム通信サーバー入門 〜自作ターミナルゲームでわかるオンラインゲームの裏側〜」という本を出します - $shibayu36->blog;
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `5.0`
-- Published: `2026-08-30T01:28:17+00:00` / age_days `0.06`
+- Published: `2026-08-30T01:28:17+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
@@ -62,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “「スタートアップだから」が�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `5.0`
-- Published: `2026-08-29T14:25:04+00:00` / age_days `0.52`
+- Published: `2026-08-29T14:25:04+00:00` / age_days `0.54`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
@@ -71,21 +91,41 @@ Stärkste Dynamik nach Gate-Recheck: “「スタートアップだから」が�
 ### 業務時間外もAIに働いてもらう話
 
 - Band: `quiet` (raw `quiet`)
-- Dynamics score: `3.75`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `72.04`
+- Dynamics score: `3.64`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `72.05`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +3, baseline z_hint 2.50, single-source AI hype brake -8.0, aging penalty -8.0 for 72.0d old signal, single-source AI cap enforced after phrase recheck
+- Warum: momentum delta +3, baseline z_hint 2.40, single-source AI hype brake -8.0, aging penalty -8.0 for 72.1d old signal, single-source AI cap enforced after phrase recheck
 - Quelle: https://speakerdeck.com/colorful12/gyoumu-jikangai-mo-ai-ni-hatarai-te-morau-hanashi
+
+### SPFとDKIMとDMARCの役割の違いを整理する
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `3.5`
+- Published: `2026-08-30T02:56:46+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: momentum delta +1, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://zenn.dev/rickysb527/articles/spf-dkim-dmarc-roles
 
 ### 業務時間外もAIに働いてもらう話
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-08-29T07:15:47+00:00` / age_days `0.81`
+- Published: `2026-08-29T07:15:47+00:00` / age_days `0.83`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://speakerdeck.com/colorful12/gyoumu-jikangai-mo-ai-ni-hatarai-te-morau-hanashi
+
+### SPFとDKIMとDMARCの役割の違いを整理する
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `0`
+- Published: `2026-08-29T17:07:15+00:00` / age_days `0.42`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://zenn.dev/rickysb527/articles/spf-dkim-dmarc-roles
 
 END OF DOCUMENT
