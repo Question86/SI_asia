@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-08-30T07:43:44+00:00",
-  "candidate_count": 25,
+  "generated_at": "2026-08-30T07:51:12+00:00",
+  "candidate_count": 26,
   "candidates": [
     {
       "amount_native": 100000000000.0,
@@ -185,6 +185,24 @@
       "snippet": "n Agent Skill Against Experiment — rowan compared against RDKit and experimental data: pKa MAE 0.23 (R² 0.986), logD₇.₄ MAE 1.15, and 0.19 Å RMSD docking pose recovery for roughly $0.52 of compute. GPU-Accelerate Your Science: 58x Average Speedup with a Single Skill — optimize-for-gpu rewriting CPU-bound Python across 12 libraries, with speedups ranging from 1.7x",
       "source_priority": "primary_hint",
       "source_url": "https://github.com/K-Dense-AI/scientific-agent-skills"
+    },
+    {
+      "candidate_id": "cand_251fe6d0bd77a18cebf5",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "source_url": "https://www.bis.org/speeches/20260817-global-economy-2026-and-beyond-financing-europe-and-greeces-future",
+      "observed_at": "2026-08-30T07:51:05+00:00",
+      "currency": "EUR",
+      "amount_native": 13200000000.0,
+      "amount_usd": null,
+      "conversion_status": "pending_fx",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unclassified",
+      "attribution_probability": null,
+      "snippet": "from domestic commercial banks and international organisations, leveraging significantly larger volumes of private investment. By the end of May, contracted RRF loans had reached €13.2 billion, with all milestones for the remaining payment claims successfully completed. Furthermore, over 200 milestones and targets have been fulfilled, spanning upgrades to healthcare, th",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "secondary_or_unknown",
+      "candidate_confidence": 0.55,
+      "review_status": "pending"
     },
     {
       "amount_native": 50000000.0,

@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-08-30T07:43:44+00:00`
+Generated: `2026-08-30T07:51:12+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -27,5 +27,5 @@ Generated: `2026-08-30T07:43:44+00:00`
 | M 5.1 - Southwest Indian Ridge | $0 | — | 0 | 0 | dormant |
 | K-Dense-AI/scientific-agent-skills | $0 | — | 0 | 0 | dormant |
 | AI語に親しむ | $0 | — | 0 | 0 | dormant |
-| The path to the next-generation monetary and financial system lies in safeguarding trust in money: BIS | $0 | — | 0 | 0 | dormant |
+| The path to the next-generation monetary and financial system lies in safeguarding trust in money: BIS | $0 | — | 0 | 0 | active |
 | M 5.0 - 19 km NW of Fuji, China | $0 | — | 0 | 0 | dormant |
