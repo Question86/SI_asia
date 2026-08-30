@@ -60,6 +60,43 @@
     "id": "cf79e2dbe6f0c9943e55"
   },
   {
+    "title": "M 5.8 - Kermadec Islands, New Zealand",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcxn",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-08-30T09:26:26.683+00:00",
+    "fetched_at": "2026-08-30T09:28:41+00:00",
+    "summary": "ShakeMap - IV Time 2026-08-30 09:02:09 UTC 2026-08-30 09:02:09 UTC at epicenter Location 30.146°S 177.888°W Depth 35.00 km (21.75 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "ShakeMap",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake, ShakeMap"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "44600d860373cbc04271"
+  },
+  {
     "title": "M 4.7 - 26 km WSW of Tocopilla, Chile",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcwp",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -300,6 +337,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "332f5a42f6dad4deb76a"
+  },
+  {
+    "title": "WiresharkでHTTPS通信を復号する方法｜TLS1.3対応・パケット解析",
+    "url": "https://eeengineer.com/description-by-wireshark/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-29T23:52:57+00:00",
+    "fetched_at": "2026-08-30T09:28:41+00:00",
+    "summary": "はじめに WiresharkでHTTPS通信をキャプチャしても、多くの通信は「Application Data」と表示され、HTTP RequestやResponseの内容をそのまま確認することはできません。これは、HTTPS通信がTLSによって暗号化されているためです。 特にTLS 1.3では、ServerのCertificate Private Keyを取得しただけでは、通常は過去にキ...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6e4f0485d45f87dafe49"
   },
   {
     "title": "ハーネス設計入門 〜プロンプト、コンテキストの次〜",

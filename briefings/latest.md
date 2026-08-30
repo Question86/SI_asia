@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-30T09:18:56+00:00_
+_Generiert: 2026-08-30T09:29:13+00:00_
 
 ## Kurzlage
 
-19 neue relevante Treffer. Stärkstes Signal: „M 4.9 - 76 km WNW of Bengkulu, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+21 neue relevante Treffer. Stärkstes Signal: „M 4.9 - 76 km WNW of Bengkulu, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -57,6 +57,10 @@ _Generiert: 2026-08-30T09:18:56+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone DOLLY-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+- **USGS earthquake M5.8 - Kermadec Islands, New Zealand** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcxn)
+  - Quelle: USGS
+  - Zeit: `2026-08-30T09:02:09+00:00`
+  - Kurz: M5.8 - Kermadec Islands, New Zealand. PAGER alert: none. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -94,6 +98,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 5.8 - Kermadec Islands, New Zealand** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcxn)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-30T09:26:26.683+00:00`, fetched `2026-08-30T09:28:41+00:00`
+  - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: ShakeMap - IV Time 2026-08-30 09:02:09 UTC 2026-08-30 09:02:09 UTC at epicenter Location 30.146°S 177.888°W Depth 35.00 km (21.75 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.7 - 26 km WSW of Tocopilla, Chile** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcwp)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-30T05:37:33.040+00:00`, fetched `2026-08-30T05:38:21+00:00`
