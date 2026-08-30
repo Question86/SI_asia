@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-30T01:13:50Z_
+_Generated: 2026-08-30T01:36:40Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “無料でDiscordのようなチャット
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `6.0`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `71.97`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `71.98`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, aging penalty -8.0 for 72.0d old signal
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “無料でDiscordのようなチャット
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `5.0`
-- Published: `2026-08-29T14:25:04+00:00` / age_days `0.45`
+- Published: `2026-08-29T14:25:04+00:00` / age_days `0.47`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
@@ -31,18 +31,18 @@ Stärkste Dynamik nach Gate-Recheck: “無料でDiscordのようなチャット
 ### 業務時間外もAIに働いてもらう話
 
 - Band: `quiet` (raw `quiet`)
-- Dynamics score: `4.19`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `71.97`
+- Dynamics score: `4.08`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `71.98`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +3, baseline z_hint 2.90, single-source AI hype brake -8.0, aging penalty -8.0 for 72.0d old signal, single-source AI cap enforced after phrase recheck
+- Warum: momentum delta +3, baseline z_hint 2.80, single-source AI hype brake -8.0, aging penalty -8.0 for 72.0d old signal, single-source AI cap enforced after phrase recheck
 - Quelle: https://speakerdeck.com/colorful12/gyoumu-jikangai-mo-ai-ni-hatarai-te-morau-hanashi
 
 ### 業務時間外もAIに働いてもらう話
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-08-29T07:15:47+00:00` / age_days `0.75`
+- Published: `2026-08-29T07:15:47+00:00` / age_days `0.76`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
