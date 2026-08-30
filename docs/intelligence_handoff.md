@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-30T07:37:02Z_
+_Generated: 2026-08-30T07:48:42Z_
 
 ## Lageurteil
 
@@ -12,10 +12,20 @@ Stärkste Dynamik nach Gate-Recheck: “tailscale/tailcat” — Die Dynamik lie
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-30T06:48:20+00:00` / age_days `0.03`
+- Published: `2026-08-30T06:48:20+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, krass gate recheck: needs multi-source, identity, or official high-signal phrase
+- Quelle: https://github.com/tailscale/tailcat
+
+### tailscale/tailcat
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `24.9`
+- Published: `2026-08-30T06:48:59+00:00` / age_days `0.04`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: momentum delta +3, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
 - Quelle: https://github.com/tailscale/tailcat
 
 ### 「スタートアップだから」が通用しない、大手製造業向けSaaSのAWSセキュリティ設計
@@ -28,15 +38,15 @@ Stärkste Dynamik nach Gate-Recheck: “tailscale/tailcat” — Die Dynamik lie
 - Warum: security high-signal: security
 - Quelle: https://zenn.dev/facraft/articles/aws-org-security-for-enterprise-saas
 
-### tailscale/tailcat
+### THU-MAIC/OpenMAIC
 
 - Band: `strong` (raw `strong`)
-- Dynamics score: `22.5`
-- Published: `2026-08-30T06:48:59+00:00` / age_days `0.03`
+- Dynamics score: `22.0`
+- Published: `2026-08-30T06:48:59+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +2, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
-- Quelle: https://github.com/tailscale/tailcat
+- Warum: momentum delta +3, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
+- Quelle: https://github.com/THU-MAIC/OpenMAIC
 
 ### 「スタートアップだから」が通用しない、大手製造業向けSaaSのAWSセキュリティ設計
 
@@ -48,21 +58,21 @@ Stärkste Dynamik nach Gate-Recheck: “tailscale/tailcat” — Die Dynamik lie
 - Warum: momentum delta +3
 - Quelle: https://zenn.dev/facraft/articles/aws-org-security-for-enterprise-saas
 
-### THU-MAIC/OpenMAIC
+### p-e-w/heretic
 
 - Band: `watch` (raw `watch`)
-- Dynamics score: `19.5`
-- Published: `2026-08-30T06:48:59+00:00` / age_days `0.03`
+- Dynamics score: `19.0`
+- Published: `2026-08-30T06:48:59+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +2, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
-- Quelle: https://github.com/THU-MAIC/OpenMAIC
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3
+- Quelle: https://github.com/p-e-w/heretic
 
 ### ビット・トレード・ワン、USB PD充電器を可変電源にする「USB PD Power Controller」 - エルミタージュ秋葉原
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-08-30T02:56:46+00:00` / age_days `0.19`
+- Published: `2026-08-30T02:56:46+00:00` / age_days `0.2`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: controller
@@ -72,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “tailscale/tailcat” — Die Dynamik lie
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.5`
-- Published: `2026-08-30T05:39:01+00:00` / age_days `0.08`
+- Published: `2026-08-30T05:39:01+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -82,27 +92,17 @@ Stärkste Dynamik nach Gate-Recheck: “tailscale/tailcat” — Die Dynamik lie
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.0`
-- Published: `2026-08-30T06:48:20+00:00` / age_days `0.03`
+- Published: `2026-08-30T06:48:20+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: active, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
 - Quelle: https://github.com/THU-MAIC/OpenMAIC
 
-### p-e-w/heretic
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `16.5`
-- Published: `2026-08-30T06:48:59+00:00` / age_days `0.03`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +2
-- Quelle: https://github.com/p-e-w/heretic
-
 ### AI ポン出しスライド品評会 - Object.create(null)
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `15.0`
-- Published: `2026-08-30T03:17:26+00:00` / age_days `0.18`
+- Published: `2026-08-30T03:17:26+00:00` / age_days `0.19`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “tailscale/tailcat” — Die Dynamik lie
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-08-30T05:37:33.040+00:00` / age_days `0.08`
+- Published: `2026-08-30T05:37:33.040+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
