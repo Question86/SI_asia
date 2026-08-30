@@ -1,7 +1,30 @@
 {
-  "generated_at": "2026-08-30T02:56:46+00:00",
-  "today_file_total": 6,
+  "generated_at": "2026-08-30T03:17:26+00:00",
+  "today_file_total": 7,
   "current_clusters": [
+    {
+      "key": "domain:susisu.hatenablog.com",
+      "title": "AI ポン出しスライド品評会 - Object.create(null)",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://susisu.hatenablog.com/entry/2026/08/29/235949"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 19.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
     {
       "key": "title:saas-aws",
       "title": "「スタートアップだから」が通用しない、大手製造業向けSaaSのAWSセキュリティ設計",
@@ -49,52 +72,6 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "title:spf-dkim-dmarc",
-      "title": "SPFとDKIMとDMARCの役割の違いを整理する",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://zenn.dev/rickysb527/articles/spf-dkim-dmarc-roles"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 10.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:usb-usb-power-controller",
-      "title": "ビット・トレード・ワン、USB PD充電器を可変電源にする「USB PD Power Controller」 - エルミタージュ秋葉原",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.gdm.or.jp/pressrelease/2026/0828/650076"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 10.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
       "key": "domain:blog.shibayu36.org",
       "title": "技術書典21で「Goで作って学ぶリアルタイム通信サーバー入門 〜自作ターミナルゲームでわかるオンラインゲームの裏側〜」という本を出します - $shibayu36->blog;",
       "sources": [
@@ -118,6 +95,29 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
+      "key": "title:spf-dkim-dmarc",
+      "title": "SPFとDKIMとDMARCの役割の違いを整理する",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://zenn.dev/rickysb527/articles/spf-dkim-dmarc-roles"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 7.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "domain:gigazine.net",
       "title": "無料でDiscordのようなチャットサーバーをセルフホストできる「Chatto」、消費リソースが極めて少なく軽快な動作でチャットデータは暗号化されているのが特徴",
       "sources": [
@@ -128,6 +128,29 @@
       ],
       "urls": [
         "https://gigazine.net/news/20260829-chatto/"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 7.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:usb-usb-power-controller",
+      "title": "ビット・トレード・ワン、USB PD充電器を可変電源にする「USB PD Power Controller」 - エルミタージュ秋葉原",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.gdm.or.jp/pressrelease/2026/0828/650076"
       ],
       "finding_count": 1,
       "max_score": 5,

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30T02:56:43+00:00",
-  "run_id": "2026-08-30T02:56:43+00:00",
+  "generated_at": "2026-08-30T03:17:22+00:00",
+  "run_id": "2026-08-30T03:17:22+00:00",
   "date": "2026-08-30",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 6
+      "configured_public_sources_only": 7
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,41 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 6,
-    "displayed_findings": 6,
+    "new_relevant_findings": 1,
+    "today_file_total": 7,
+    "displayed_findings": 7,
     "high": 0,
-    "medium": 0,
+    "medium": 1,
     "observe": 6,
     "source_errors": 1
   },
   "sections": {
     "high": [],
-    "medium": [],
+    "medium": [
+      {
+        "title": "AI ポン出しスライド品評会 - Object.create(null)",
+        "url": "https://susisu.hatenablog.com/entry/2026/08/29/235949",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-30T02:30:16+00:00",
+        "fetched_at": "2026-08-30T03:16:48+00:00",
+        "summary": "最近[いつ?]は AI に登壇用のスライドをポン出しさせたという話や, それに対する賛否両論を各所で聞くようになってきました. そこで私も試しに AI にスライドをポン出しさせてみて, 実際に登壇に耐える品質なのかレビューしてみました. 条件設定は以下の通りです: Claude Code を使用 題材は tsc.rip の実装リポジトリ ...",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "AI/KI (+3.8); AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "cf79e2dbe6f0c9943e55"
+      }
+    ],
     "observe": [
       {
         "title": "「スタートアップだから」が通用しない、大手製造業向けSaaSのAWSセキュリティ設計",
@@ -162,6 +186,29 @@
   },
   "findings": [
     {
+      "title": "AI ポン出しスライド品評会 - Object.create(null)",
+      "url": "https://susisu.hatenablog.com/entry/2026/08/29/235949",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-30T02:30:16+00:00",
+      "fetched_at": "2026-08-30T03:16:48+00:00",
+      "summary": "最近[いつ?]は AI に登壇用のスライドをポン出しさせたという話や, それに対する賛否両論を各所で聞くようになってきました. そこで私も試しに AI にスライドをポン出しさせてみて, 実際に登壇に耐える品質なのかレビューしてみました. 条件設定は以下の通りです: Claude Code を使用 題材は tsc.rip の実装リポジトリ ...",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cf79e2dbe6f0c9943e55"
+    },
+    {
       "title": "「スタートアップだから」が通用しない、大手製造業向けSaaSのAWSセキュリティ設計",
       "url": "https://zenn.dev/facraft/articles/aws-org-security-for-enterprise-saas",
       "source": "Hatena Bookmark Hotentry IT",
@@ -292,46 +339,27 @@
   ],
   "new_findings": [
     {
-      "title": "SPFとDKIMとDMARCの役割の違いを整理する",
-      "url": "https://zenn.dev/rickysb527/articles/spf-dkim-dmarc-roles",
+      "title": "AI ポン出しスライド品評会 - Object.create(null)",
+      "url": "https://susisu.hatenablog.com/entry/2026/08/29/235949",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-29T17:07:15+00:00",
-      "fetched_at": "2026-08-30T02:56:12+00:00",
-      "summary": "Introduction 「独自ドメインからメールを送りたい」と思ったとき、SPF・DKIM・DMARCという3つの単語に出会うことがあります。どれも「なりすましメール対策」の文脈で出てきますが、名前が似ているうえに設定もDNSレコードとして書くため、最初は「結局どれが何をしているのか」が非常に分かりにくいです。 この記事で...",
+      "published_at": "2026-08-30T02:30:16+00:00",
+      "fetched_at": "2026-08-30T03:16:48+00:00",
+      "summary": "最近[いつ?]は AI に登壇用のスライドをポン出しさせたという話や, それに対する賛否両論を各所で聞くようになってきました. そこで私も試しに AI にスライドをポン出しさせてみて, 実際に登壇に耐える品質なのかレビューしてみました. 条件設定は以下の通りです: Claude Code を使用 題材は tsc.rip の実装リポジトリ ...",
       "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 14,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a125605b1174089763d7"
-    },
-    {
-      "title": "ビット・トレード・ワン、USB PD充電器を可変電源にする「USB PD Power Controller」 - エルミタージュ秋葉原",
-      "url": "https://www.gdm.or.jp/pressrelease/2026/0828/650076",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-28T09:38:40+00:00",
-      "fetched_at": "2026-08-30T02:56:12+00:00",
-      "summary": "ビット・トレード・ワン、USB PD充電器を可変電源にする「USB PD Power Controller」 2026.08.28 16:07 更新 2026.08.28 配信 出力電圧は0.1V刻みで自由に調整可能 株式会社ビット・トレード・ワン（本社：神奈川県相模原市）は2026年8月28日、USB PD電源を可変電源として活用できる開発・評価支援ボード「ADUPANZ USB P...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "28a8fd0fda157a30ae96"
+      "id": "cf79e2dbe6f0c9943e55"
     }
   ],
   "source_errors": [
