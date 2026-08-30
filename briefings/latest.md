@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-30T05:28:30+00:00_
+_Generiert: 2026-08-30T05:38:52+00:00_
 
 ## Kurzlage
 
-9 neue relevante Treffer. Stärkstes Signal: „AI ポン出しスライド品評会 - Object.create(null)“ aus Hatena Bookmark Hotentry IT (Score 14, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+10 neue relevante Treffer. Stärkstes Signal: „AI ポン出しスライド品評会 - Object.create(null)“ aus Hatena Bookmark Hotentry IT (Score 14, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -89,6 +89,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 4.7 - 26 km WSW of Tocopilla, Chile** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcwp)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-30T05:37:33.040+00:00`, fetched `2026-08-30T05:38:21+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-30 05:19:51 UTC 2026-08-30 05:19:51 UTC at epicenter Location 22.179°S 70.439°W Depth 52.12 km (32.38 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **「スタートアップだから」が通用しない、大手製造業向けSaaSのAWSセキュリティ設計** — Score 11, observation — [Quelle](https://zenn.dev/facraft/articles/aws-org-security-for-enterprise-saas)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-29T23:47:17+00:00`, fetched `2026-08-30T02:26:03+00:00`
