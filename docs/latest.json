@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30T04:43:28+00:00",
-  "run_id": "2026-08-30T04:43:28+00:00",
+  "generated_at": "2026-08-30T04:51:26+00:00",
+  "run_id": "2026-08-30T04:51:26+00:00",
   "date": "2026-08-30",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -24,7 +24,7 @@
     "high": 0,
     "medium": 1,
     "observe": 8,
-    "source_errors": 1
+    "source_errors": 2
   },
   "sections": {
     "high": [],
@@ -453,6 +453,12 @@
   ],
   "new_findings": [],
   "source_errors": [
+    {
+      "source_id": "ecb_press_policy",
+      "source_name": "ECB Press Releases Speeches Interviews",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.ecb.europa.eu', port=443): Max retries exceeded with url: /rss/press.html (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))"
+    },
     {
       "source_id": "bis_statistics",
       "source_name": "BIS Statistical Releases",

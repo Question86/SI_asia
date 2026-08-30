@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-30T04:43:28+00:00",
+  "generated_at": "2026-08-30T04:51:26+00:00",
   "status": "warning",
   "coverage_confidence": "limited",
   "counts": {
@@ -12,7 +12,7 @@
     "medium": 1,
     "observe": 8
   },
-  "source_errors_count": 1,
+  "source_errors_count": 2,
   "top_signals": [
     {
       "title": "AI ポン出しスライド品評会 - Object.create(null)",
@@ -70,136 +70,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “「スタートアップだから」が通用しない、大手製造業向けSaaSのAWSセキュリティ設計” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=23.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "「スタートアップだから」が通用しない、大手製造業向けSaaSのAWSセキュリティ設計",
-        "url": "https://zenn.dev/facraft/articles/aws-org-security-for-enterprise-saas",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-29T23:47:17+00:00",
-        "age_days": 0.21,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 23.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: security"
-        ],
-        "summary": "はじめに 株式会社FAcraftの山本です。 FAcraftは、大手製造業向けのSaaSを開発・運用している小規模なスタートアップです。サービス基盤の一つとして、AWSを利用しています。 SaaSを提供する以上、しっかりとしたセキュリティ対策を行うことは当然ですが、大手製造業向けにサービスを提供していると、顧客からも具体的..."
-      },
-      {
-        "title": "「スタートアップだから」が通用しない、大手製造業向けSaaSのAWSセキュリティ設計",
-        "url": "https://zenn.dev/facraft/articles/aws-org-security-for-enterprise-saas",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-30T02:26:46+00:00",
-        "age_days": 0.1,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 20.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "ビット・トレード・ワン、USB PD充電器を可変電源にする「USB PD Power Controller」 - エルミタージュ秋葉原",
-        "url": "https://www.gdm.or.jp/pressrelease/2026/0828/650076",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-30T02:56:46+00:00",
-        "age_days": 0.08,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 19.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "high terms: controller"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "AI ポン出しスライド品評会 - Object.create(null)",
-        "url": "https://susisu.hatenablog.com/entry/2026/08/29/235949",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-30T03:17:26+00:00",
-        "age_days": 0.06,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 15.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "技術書典21で「Goで作って学ぶリアルタイム通信サーバー入門 〜自作ターミナルゲームでわかるオンラインゲームの裏側〜」という本を出します - $shibayu36->blog;",
-        "url": "https://blog.shibayu36.org/entry/2026/08/29/154324",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-30T02:26:46+00:00",
-        "age_days": 0.1,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 14.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }

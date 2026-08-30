@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-30T04:43:28+00:00_
+_Generiert: 2026-08-30T04:51:26+00:00_
 
 ## Kurzlage
 
-9 neue relevante Treffer. Stärkstes Signal: „AI ポン出しスライド品評会 - Object.create(null)“ aus Hatena Bookmark Hotentry IT (Score 14, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+9 neue relevante Treffer. Stärkstes Signal: „AI ポン出しスライド品評会 - Object.create(null)“ aus Hatena Bookmark Hotentry IT (Score 14, observation). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -132,4 +132,5 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Quellenfehler
 
+- `ecb_press_policy` (rss): HTTPSConnectionPool(host='www.ecb.europa.eu', port=443): Max retries exceeded with url: /rss/press.html (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)')))
 - `bis_statistics` (rss): 404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss
