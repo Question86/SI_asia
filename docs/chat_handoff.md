@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-30T18:25:58+00:00_
+_Generated: 2026-08-30T18:36:15+00:00_
 
 ## Status
 - status: `warning`
-- findings: `29`
+- findings: `30`
 
 ## Top Signals
 
@@ -43,18 +43,18 @@ _Generated: 2026-08-30T18:25:58+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tczt
 - summary: Time 2026-08-30 16:04:07 UTC 2026-08-30 16:04:07 UTC at epicenter Location 18.246°S 69.639°W Depth 102.04 km (63.40 mi)
 
-### 6. M 5.8 - Kermadec Islands, New Zealand
+### 6. ガチ中華の名店「味坊」が茨城になぜか「町中華」、料理人不足解決へロボットシェフ導入 - 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア
+- source: Hatena Bookmark Hotentry IT
+- score: `11`
+- published: `2026-08-30T12:11:32+00:00`
+- url: https://36kr.jp/500714/
+- summary: 茨城県守谷市の国道294号線沿いに今月6日にオープンした「町中華 炒炒」。見た目はよくある中華料理店だが、実はこの店、都内を中心にラム肉を使ったガチ中華を提供する人気チェーン「味坊集団」の新店舗であり、自動調理マシンのロボットが炒め物を作る「ロボット料理店」でもある。ロボットでなぜ町中華なのか味坊集団...
+
+### 7. M 5.8 - Kermadec Islands, New Zealand
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-08-30T09:26:26.683+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcxn
 - summary: ShakeMap - IV Time 2026-08-30 09:02:09 UTC 2026-08-30 09:02:09 UTC at epicenter Location 30.146°S 177.888°W Depth 35.00 km (21.75 mi)
-
-### 7. AIお姉ちゃんへの道（2026年版） - nomolkのブログ
-- source: Hatena Bookmark Hotentry IT
-- score: `11`
-- published: `2026-08-30T07:18:23+00:00`
-- url: https://nomolk.hatenablog.com/entry/2026/08/30/145025
-- summary: AIお姉ちゃんというのは2023年に骨しゃぶり氏によって提唱された、ChatGPTに顔画像をつけてカスタム指示で人格も指定することで、お姉ちゃん化するカスタマイズのことである。 honeshabri.hatenablog.com 当時自分もやってみたくなって真似してみたら意外に大変だったという記事を書いた。 nomolk.hatenablog.com 自分の...
 
 END OF DOCUMENT
