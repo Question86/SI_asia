@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-08-30T16:18:59+00:00`
+Generated: `2026-08-30T16:28:53+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -23,6 +23,7 @@ Generated: `2026-08-30T16:18:59+00:00`
 | M 4.7 - 26 km WSW of Tocopilla, Chile | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
 | M 4.9 - 124 km N of Aksu, China | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
 | M 4.5 - 24 km WSW of Sipí, Colombia | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
+| M 4.7 - 62 km SSE of Palca, Peru | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
 | M 4.6 - 170 km ESE of Kuril’sk, Russia | natural_disaster | $1.11M | $111.20M | $11.12B | 0.33 |
 | M 4.7 - 25 km ESE of Lospalos, Timor Leste | natural_disaster | $1.11M | $111.20M | $11.12B | 0.33 |
 | M 4.8 - 13 km ENE of Himarë, Albania | natural_disaster | $1.11M | $111.20M | $11.12B | 0.33 |
@@ -30,7 +31,6 @@ Generated: `2026-08-30T16:18:59+00:00`
 | M 4.5 - south of the Fiji Islands | natural_disaster | $1.11M | $111.20M | $11.12B | 0.33 |
 | M 5.1 - South Sandwich Islands region | natural_disaster | $1.11M | $111.20M | $11.12B | 0.33 |
 | [NEU] [hoch] Linux Kernel: Mehrere Schwachstellen | vulnerability | $332.00K | $33.20M | $3.32B | 0.51 |
-| CISA ICS Advisory / ICS Medical Advisory（2026年08月27日） | vulnerability | $292.00K | $29.20M | $2.92B | 0.31 |
 
 ## Interpretation
 
