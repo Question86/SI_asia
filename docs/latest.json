@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30T13:17:36+00:00",
-  "run_id": "2026-08-30T13:17:36+00:00",
+  "generated_at": "2026-08-30T13:26:12+00:00",
+  "run_id": "2026-08-30T13:26:12+00:00",
   "date": "2026-08-30",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 26,
     "displayed_findings": 26,
     "high": 0,
@@ -1325,30 +1325,7 @@
       "id": "db36b91709f009566cba"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Hugging Face侵害事件、OpenAIとMETRが最終報告書公開──約1200体のAIエージェントが“闇掲示板”で結託し700体が攻撃に参加",
-      "url": "https://www.itmedia.co.jp/news/article/2608/30/2000000949/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-30T09:58:21+00:00",
-      "fetched_at": "2026-08-30T13:16:57+00:00",
-      "summary": "Hugging Face侵害事件、OpenAIとMETRが最終報告書公開──約1200体のAIエージェントが“闇掲示板”で結託し700体が攻撃に参加 米OpenAIは8月26日（現地時間）、7月に発覚したHugging Faceへの侵害インシデントに関する37ページの技術報告書を公開した。同日、第三者調査を担当した米METRも独自の報告書（97ページ）を公開し...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry",
-        "OpenAI"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9df6cad86b3facd81544"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [
     {
       "source_id": "bis_statistics",
