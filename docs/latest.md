@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-30T07:43:18+00:00_
+_Generiert: 2026-08-30T07:50:41+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „AI ポン出しスライド品評会 - Object.create(null)“ aus Hatena Bookmark Hotentry IT (Score 14, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+17 neue relevante Treffer. Stärkstes Signal: „AI ポン出しスライド品評会 - Object.create(null)“ aus Hatena Bookmark Hotentry IT (Score 14, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -78,6 +78,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: like netcat, but over Tailscale's data plane, without Tailscale's control plane https://tailscale.com/tailcat "Tailscale without Tailscale, by Tailscale" Tailcat Tailcat is a remix of Tailscale open source pieces to act like netcat , but over Tailscale's data plane, without Tailscale's control plane. Tailscale's data plane ( magicsock , internally) gives you point-to-point WireGuard®-encrypted tunnels between two ma…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Outlook for the US and Alaskan economies** — Score 7, observation — [Quelle](https://www.bis.org/speeches/20260817-outlook-us-and-alaskan-economies)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-08-17T00:00:00+00:00`, fetched `2026-08-30T07:50:08+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: Speech by Ms Lisa D Cook, Member of the Board of Governors of the Federal Reserve System, at the 2026 Economic Luncheon of the Anchorage Economic Development Corporation, Anchorage, Alaska, 5 August 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Building deep and resilient financial markets for a Viksit Bharat** — Score 7, opportunity — [Quelle](https://www.bis.org/speeches/20260817-building-deep-and-resilient-financial-markets-viksit-bharat)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-08-17T00:00:00+00:00`, fetched `2026-08-30T07:50:08+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); watchgraph region india: India, Mumbai, Reserve Bank of India (+2.0)
+  - Kurz: Keynote address by Mr Rohit Jain, Deputy Governor of the Reserve Bank of India, at the Financial Institutions Leadership conference, organised by the Standard Chartered Bank, Mumbai, 24 July 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **妻のパスワードや暗証番号に「1130（仮）」のような謎の4桁の数字がよく登場する…誕生日や住所ではなく聞いても教えてくれない…怪しい「元カレ関連？」→結構みんな予想できない番号を使ってる** — Score 5, observation — [Quelle](https://togetter.com/li/2739036)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-30T03:47:24+00:00`, fetched `2026-08-30T06:02:36+00:00`
@@ -86,6 +104,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: ゆきむら@30代眼科医 @ganka1212 妻のパスワードとか暗証番号とかに 1130（仮）みたいな謎の4桁の番号がよく登場する 誕生日でも住所でもない謎の数字、でも絶対忘れないであろう４桁 聞いても教えてくれない、、怪しい、 2026-08-29 16:07:59 もーさん @osakemon94010 @ganka1212 教えてくれないとなると、元カレの誕生...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **The global economy in 2026 and beyond - financing Europe and Greece's future** — Score 5, observation — [Quelle](https://www.bis.org/speeches/20260817-global-economy-2026-and-beyond-financing-europe-and-greeces-future)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-08-17T00:00:00+00:00`, fetched `2026-08-30T07:50:08+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0)
+  - Kurz: Speech by Mr Yannis Stournaras, Governor of the Bank of Greece, at the 30th Annual Economist Government Roundtable "The global economy in 2026 and beyond – financing Europe and Greece's future", Athens, 10 July 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **THU-MAIC/OpenMAIC** — Score 5, opportunity — [Quelle](https://github.com/THU-MAIC/OpenMAIC)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
