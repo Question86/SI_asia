@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-30T02:26:43+00:00_
+_Generiert: 2026-08-30T02:56:43+00:00_
 
 ## Kurzlage
 
-4 neue relevante Treffer. Stärkstes Signal: „「スタートアップだから」が通用しない、大手製造業向けSaaSのAWSセキュリティ設計“ aus Hatena Bookmark Hotentry IT (Score 11, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+6 neue relevante Treffer. Stärkstes Signal: „「スタートアップだから」が通用しない、大手製造業向けSaaSのAWSセキュリティ設計“ aus Hatena Bookmark Hotentry IT (Score 11, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global

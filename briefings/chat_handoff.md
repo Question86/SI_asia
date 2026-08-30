@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-30T02:26:43+00:00_
+_Generated: 2026-08-30T02:56:43+00:00_
 
 ## Status
 - status: `warning`
-- findings: `4`
+- findings: `6`
 
 ## Top Signals
 
@@ -29,11 +29,11 @@ _Generated: 2026-08-30T02:26:43+00:00_
 - url: https://blog.shibayu36.org/entry/2026/08/29/154324
 - summary: 技術書典21で「Goで作って学ぶリアルタイム通信サーバー入門 〜自作ターミナルゲームでわかるオンラインゲームの裏側〜」という本を出します。技術書典21のオンライン開催は2026/11/21(土)〜12/6(日)。オフライン開催は11/23(月・祝)に池袋サンシャインシティで行われ、どちらでも頒布する予定です。 どんな本かというと...
 
-### 4. 無料でDiscordのようなチャットサーバーをセルフホストできる「Chatto」、消費リソースが極めて少なく軽快な動作でチャットデータは暗号化されているのが特徴
+### 4. SPFとDKIMとDMARCの役割の違いを整理する
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
-- published: `2026-08-29T14:25:04+00:00`
-- url: https://gigazine.net/news/20260829-chatto/
-- summary: Discordなどのチャットサービスでは手軽にサーバーを作成してグループ内で会話できますが、メッセージや個人情報を含むチャットデータはサービス提供者のインフラ上で管理されるため、社内の機密情報などを扱う場合はデータの保存先や管理方法が課題になります。そこで、セルフホスト可能で数十MB程度のRAMから軽快に動...
+- published: `2026-08-29T17:07:15+00:00`
+- url: https://zenn.dev/rickysb527/articles/spf-dkim-dmarc-roles
+- summary: Introduction 「独自ドメインからメールを送りたい」と思ったとき、SPF・DKIM・DMARCという3つの単語に出会うことがあります。どれも「なりすましメール対策」の文脈で出てきますが、名前が似ているうえに設定もDNSレコードとして書くため、最初は「結局どれが何をしているのか」が非常に分かりにくいです。 この記事で...
 
 END OF DOCUMENT
