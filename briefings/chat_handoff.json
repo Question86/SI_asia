@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-30T05:54:12+00:00",
+  "generated_at": "2026-08-30T06:03:07+00:00",
   "status": "warning",
   "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 10,
-    "displayed_findings": 10,
+    "new_relevant_findings": 1,
+    "today_file_total": 11,
+    "displayed_findings": 11,
     "high": 0,
     "medium": 1,
-    "observe": 9
+    "observe": 10
   },
-  "source_errors_count": 1,
+  "source_errors_count": 2,
   "top_signals": [
     {
       "title": "AI ポン出しスライド品評会 - Object.create(null)",

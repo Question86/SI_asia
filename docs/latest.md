@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-30T05:54:12+00:00_
+_Generiert: 2026-08-30T06:03:07+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „AI ポン出しスライド品評会 - Object.create(null)“ aus Hatena Bookmark Hotentry IT (Score 14, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+11 neue relevante Treffer. Stärkstes Signal: „AI ポン出しスライド品評会 - Object.create(null)“ aus Hatena Bookmark Hotentry IT (Score 14, observation). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -60,14 +60,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: レビューで「これは後で」「別PRで」と後回しにしたタスク、そのまま消えていませんか。 そういうPRに、ラベルを1枚貼っておく。すると翌朝、実装されてマージまで終わっている。 これを実現する仕組みを作りました。フロントのnitタスクが夜間に回収されていきます。 担当リポジトリでは、develop…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **技術書典21で「Goで作って学ぶリアルタイム通信サーバー入門 〜自作ターミナルゲームでわかるオンラインゲームの裏側〜」という本を出します - $shibayu36->blog;** — Score 5, observation — [Quelle](https://blog.shibayu36.org/entry/2026/08/29/154324)
+- **妻のパスワードや暗証番号に「1130（仮）」のような謎の4桁の数字がよく登場する…誕生日や住所ではなく聞いても教えてくれない…怪しい「元カレ関連？」→結構みんな予想できない番号を使ってる** — Score 5, observation — [Quelle](https://togetter.com/li/2739036)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-30T01:28:17+00:00`, fetched `2026-08-30T02:26:03+00:00`
+  - Zeit: published `2026-08-30T03:47:24+00:00`, fetched `2026-08-30T06:02:36+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 技術書典21で「Goで作って学ぶリアルタイム通信サーバー入門 〜自作ターミナルゲームでわかるオンラインゲームの裏側〜」という本を出します。技術書典21のオンライン開催は2026/11/21(土)〜12/6(日)。オフライン開催は11/23(月・祝)に池袋サンシャインシティで行われ、どちらでも頒布する予定です。 どんな本かというと...
+  - Kurz: ゆきむら@30代眼科医 @ganka1212 妻のパスワードとか暗証番号とかに 1130（仮）みたいな謎の4桁の番号がよく登場する 誕生日でも住所でもない謎の数字、でも絶対忘れないであろう４桁 聞いても教えてくれない、、怪しい、 2026-08-29 16:07:59 もーさん @osakemon94010 @ganka1212 教えてくれないとなると、元カレの誕生...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
@@ -80,4 +80,5 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Quellenfehler
 
+- `bsi_cert_bund_csw` (rss): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 - `bis_statistics` (rss): 404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss
