@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-30T03:15:48Z",
+  "generated_at": "2026-08-30T03:38:50Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 12,
+    "dynamics": 14,
     "bands": {
-      "strong": 1,
-      "watch": 2,
+      "strong": 2,
+      "watch": 3,
       "quiet": 9
     },
     "bands_after_gate_recheck": {
-      "strong": 1,
-      "watch": 2,
+      "strong": 2,
+      "watch": 3,
       "quiet": 9
     }
   },
@@ -22,7 +22,7 @@
       "url": "https://zenn.dev/facraft/articles/aws-org-security-for-enterprise-saas",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T23:47:17+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -42,11 +42,35 @@
       "summary": "はじめに 株式会社FAcraftの山本です。 FAcraftは、大手製造業向けのSaaSを開発・運用している小規模なスタートアップです。サービス基盤の一つとして、AWSを利用しています。 SaaSを提供する以上、しっかりとしたセキュリティ対策を行うことは当然ですが、大手製造業向けにサービスを提供していると、顧客からも具体的..."
     },
     {
+      "title": "「スタートアップだから」が通用しない、大手製造業向けSaaSのAWSセキュリティ設計",
+      "url": "https://zenn.dev/facraft/articles/aws-org-security-for-enterprise-saas",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-30T02:26:46+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 20.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "ビット・トレード・ワン、USB PD充電器を可変電源にする「USB PD Power Controller」 - エルミタージュ秋葉原",
       "url": "https://www.gdm.or.jp/pressrelease/2026/0828/650076",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T02:56:46+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "general"
       ],
@@ -56,46 +80,98 @@
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 2,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1",
+        "momentum delta +2",
         "high terms: controller"
       ],
       "summary": ""
     },
     {
-      "title": "「スタートアップだから」が通用しない、大手製造業向けSaaSのAWSセキュリティ設計",
-      "url": "https://zenn.dev/facraft/articles/aws-org-security-for-enterprise-saas",
+      "title": "AI ポン出しスライド品評会 - Object.create(null)",
+      "url": "https://susisu.hatenablog.com/entry/2026/08/29/235949",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-30T03:17:26+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 15.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "技術書典21で「Goで作って学ぶリアルタイム通信サーバー入門 〜自作ターミナルゲームでわかるオンラインゲームの裏側〜」という本を出します - $shibayu36->blog;",
+      "url": "https://blog.shibayu36.org/entry/2026/08/29/154324",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T02:26:46+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
-      "dynamics_score": 15.0,
+      "dynamics_score": 14.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1"
+        "momentum delta +3"
       ],
       "summary": ""
+    },
+    {
+      "title": "AI ポン出しスライド品評会 - Object.create(null)",
+      "url": "https://susisu.hatenablog.com/entry/2026/08/29/235949",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-30T02:30:16+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 11.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: code",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "最近[いつ?]は AI に登壇用のスライドをポン出しさせたという話や, それに対する賛否両論を各所で聞くようになってきました. そこで私も試しに AI にスライドをポン出しさせてみて, 実際に登壇に耐える品質なのかレビューしてみました. 条件設定は以下の通りです: Claude Code を使用 題材は tsc.rip の実装リポジトリ ..."
     },
     {
       "title": "ビット・トレード・ワン、USB PD充電器を可変電源にする「USB PD Power Controller」 - エルミタージュ秋葉原",
       "url": "https://www.gdm.or.jp/pressrelease/2026/0828/650076",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-28T09:38:40+00:00",
-      "age_days": 1.73,
+      "age_days": 1.75,
       "topics": [
         "general"
       ],
@@ -115,35 +191,11 @@
       "summary": "ビット・トレード・ワン、USB PD充電器を可変電源にする「USB PD Power Controller」 2026.08.28 16:07 更新 2026.08.28 配信 出力電圧は0.1V刻みで自由に調整可能 株式会社ビット・トレード・ワン（本社：神奈川県相模原市）は2026年8月28日、USB PD電源を可変電源として活用できる開発・評価支援ボード「ADUPANZ USB P..."
     },
     {
-      "title": "技術書典21で「Goで作って学ぶリアルタイム通信サーバー入門 〜自作ターミナルゲームでわかるオンラインゲームの裏側〜」という本を出します - $shibayu36->blog;",
-      "url": "https://blog.shibayu36.org/entry/2026/08/29/154324",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-30T02:26:46+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 9.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "無料でDiscordのようなチャットサーバーをセルフホストできる「Chatto」、消費リソースが極めて少なく軽快な動作でチャットデータは暗号化されているのが特徴",
       "url": "https://gigazine.net/news/20260829-chatto/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 72.05,
+      "age_days": 72.07,
       "topics": [
         "general"
       ],
@@ -168,7 +220,7 @@
       "url": "https://blog.shibayu36.org/entry/2026/08/29/154324",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T01:28:17+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -192,7 +244,7 @@
       "url": "https://gigazine.net/news/20260829-chatto/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T14:25:04+00:00",
-      "age_days": 0.54,
+      "age_days": 0.55,
       "topics": [
         "general"
       ],
@@ -212,39 +264,11 @@
       "summary": "Discordなどのチャットサービスでは手軽にサーバーを作成してグループ内で会話できますが、メッセージや個人情報を含むチャットデータはサービス提供者のインフラ上で管理されるため、社内の機密情報などを扱う場合はデータの保存先や管理方法が課題になります。そこで、セルフホスト可能で数十MB程度のRAMから軽快に動..."
     },
     {
-      "title": "業務時間外もAIに働いてもらう話",
-      "url": "https://speakerdeck.com/colorful12/gyoumu-jikangai-mo-ai-ni-hatarai-te-morau-hanashi",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 72.05,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 3.64,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 2.4,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 2.40",
-        "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 72.1d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "SPFとDKIMとDMARCの役割の違いを整理する",
       "url": "https://zenn.dev/rickysb527/articles/spf-dkim-dmarc-roles",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T02:56:46+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
@@ -254,12 +278,12 @@
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 2,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +1",
+        "momentum delta +2",
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],
@@ -269,8 +293,36 @@
       "title": "業務時間外もAIに働いてもらう話",
       "url": "https://speakerdeck.com/colorful12/gyoumu-jikangai-mo-ai-ni-hatarai-te-morau-hanashi",
       "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T01:58:32+00:00",
+      "age_days": 72.07,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 3.42,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 2.2,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 2.20",
+        "single-source AI hype brake -8.0",
+        "aging penalty -8.0 for 72.1d old signal",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "業務時間外もAIに働いてもらう話",
+      "url": "https://speakerdeck.com/colorful12/gyoumu-jikangai-mo-ai-ni-hatarai-te-morau-hanashi",
+      "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T07:15:47+00:00",
-      "age_days": 0.83,
+      "age_days": 0.85,
       "topics": [
         "ai"
       ],
@@ -295,7 +347,7 @@
       "url": "https://zenn.dev/rickysb527/articles/spf-dkim-dmarc-roles",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T17:07:15+00:00",
-      "age_days": 0.42,
+      "age_days": 0.44,
       "topics": [
         "ai"
       ],
