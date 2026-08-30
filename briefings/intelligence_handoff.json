@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-30T11:48:53Z",
+  "generated_at": "2026-08-30T12:17:47Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “tailscale/tailcat” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://github.com/tailscale/tailcat",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-30T06:48:20+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -43,7 +43,7 @@
       "url": "https://github.com/tailscale/tailcat",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-30T06:48:59+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -70,7 +70,7 @@
       "url": "https://zenn.dev/facraft/articles/aws-org-security-for-enterprise-saas",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T23:47:17+00:00",
-      "age_days": 0.5,
+      "age_days": 0.52,
       "topics": [
         "security"
       ],
@@ -90,11 +90,36 @@
       "summary": "はじめに 株式会社FAcraftの山本です。 FAcraftは、大手製造業向けのSaaSを開発・運用している小規模なスタートアップです。サービス基盤の一つとして、AWSを利用しています。 SaaSを提供する以上、しっかりとしたセキュリティ対策を行うことは当然ですが、大手製造業向けにサービスを提供していると、顧客からも具体的..."
     },
     {
+      "title": "M 4.6 - 52 km NNE of Ruteng, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcyr",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-30T11:51:05.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-08-30 11:03:03 UTC 2026-08-30 11:03:03 UTC at epicenter Location 8.163°S 120.627°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 4.9 - 76 km WNW of Bengkulu, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcxc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-30T07:54:30.040+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -119,7 +144,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcxc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-30T07:58:33+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -143,7 +168,7 @@
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-30T06:48:59+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -170,7 +195,7 @@
       "url": "https://zenn.dev/facraft/articles/aws-org-security-for-enterprise-saas",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T02:26:46+00:00",
-      "age_days": 0.39,
+      "age_days": 0.41,
       "topics": [
         "general"
       ],
@@ -194,7 +219,7 @@
       "url": "https://github.com/p-e-w/heretic",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-30T06:48:59+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -218,7 +243,7 @@
       "url": "https://www.gdm.or.jp/pressrelease/2026/0828/650076",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T02:56:46+00:00",
-      "age_days": 0.37,
+      "age_days": 0.39,
       "topics": [
         "general"
       ],
@@ -243,7 +268,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcxn",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-30T09:29:16+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -267,7 +292,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcwp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-30T05:39:01+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -285,33 +310,6 @@
         "momentum delta +3"
       ],
       "summary": ""
-    },
-    {
-      "title": "THU-MAIC/OpenMAIC",
-      "url": "https://github.com/THU-MAIC/OpenMAIC",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-08-30T06:48:20+00:00",
-      "age_days": 0.21,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 18.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: active",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click Get an immersive, multi-agent learning experience in just one click English | Simplified Chinese Live Demo · Quick Start · Lemonade · FunASR · Features · Use Cases · OpenClaw 🎉 OpenMAIC v1.0.0 — Build courses w…"
     }
   ],
   "read_order": [
@@ -323,8 +321,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 7,
-      "watch": 5
+      "strong": 8,
+      "watch": 4
     }
   }
 }
