@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-30T03:33:26+00:00_
+_Generated: 2026-08-30T03:44:08+00:00_
 
 ## Status
 - status: `warning`
-- findings: `7`
+- findings: `8`
 
 ## Top Signals
 
@@ -36,11 +36,11 @@ _Generated: 2026-08-30T03:33:26+00:00_
 - url: https://blog.shibayu36.org/entry/2026/08/29/154324
 - summary: 技術書典21で「Goで作って学ぶリアルタイム通信サーバー入門 〜自作ターミナルゲームでわかるオンラインゲームの裏側〜」という本を出します。技術書典21のオンライン開催は2026/11/21(土)〜12/6(日)。オフライン開催は11/23(月・祝)に池袋サンシャインシティで行われ、どちらでも頒布する予定です。 どんな本かというと...
 
-### 5. SPFとDKIMとDMARCの役割の違いを整理する
+### 5. ハーネス設計入門 〜プロンプト、コンテキストの次〜
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
-- published: `2026-08-29T17:07:15+00:00`
-- url: https://zenn.dev/rickysb527/articles/spf-dkim-dmarc-roles
-- summary: Introduction 「独自ドメインからメールを送りたい」と思ったとき、SPF・DKIM・DMARCという3つの単語に出会うことがあります。どれも「なりすましメール対策」の文脈で出てきますが、名前が似ているうえに設定もDNSレコードとして書くため、最初は「結局どれが何をしているのか」が非常に分かりにくいです。 この記事で...
+- published: `2026-08-29T21:30:35+00:00`
+- url: https://speakerdeck.com/kinopeee/hanesu-sekkei-nyuumon-kontekisuto-no-tsugi
+- summary: AirCle＠AIコミュニティ開催の「ハーネス設計入門」で登壇した際に使用したスライド資料です。
 
 END OF DOCUMENT
