@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30T23:36:41+00:00",
-  "run_id": "2026-08-30T23:36:41+00:00",
+  "generated_at": "2026-08-30T23:44:06+00:00",
+  "run_id": "2026-08-30T23:44:06+00:00",
   "date": "2026-08-30",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 33
+      "configured_public_sources_only": 34
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 33,
-    "displayed_findings": 33,
+    "new_relevant_findings": 1,
+    "today_file_total": 34,
+    "displayed_findings": 34,
     "high": 0,
     "medium": 3,
-    "observe": 30,
+    "observe": 31,
     "source_errors": 1
   },
   "sections": {
@@ -546,6 +546,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "30014bdd70fcd45b07cf"
+      },
+      {
+        "title": "nginxで502が稀に発生する原因はkeepalive接続",
+        "url": "https://zenn.dev/shinagawa_web/articles/transient-502-keepalive-reuse",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-30T14:47:40+00:00",
+        "fetched_at": "2026-08-30T23:43:27+00:00",
+        "summary": "監視アラートが上がる。確認しに行くと502 Bad Gatewayが数件出て、すでに回復している。nginx をリバースプロキシに置いている構成で、同じエンドポイントをリトライすると通る。バックエンドのログには何も出ていない。 nginx の error log には、次の2つの文字列のどちらかが残っている。 upstream prematurely close...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "32adb746f5465f2deed7"
       },
       {
         "title": "JetBrains、Mac上で動作するコーディングエージェント「Junie Local」提供開始。Claude Sonnet 4.5と同等の能力、RTX5909対応も開発中",
@@ -1361,6 +1382,27 @@
       "id": "30014bdd70fcd45b07cf"
     },
     {
+      "title": "nginxで502が稀に発生する原因はkeepalive接続",
+      "url": "https://zenn.dev/shinagawa_web/articles/transient-502-keepalive-reuse",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-30T14:47:40+00:00",
+      "fetched_at": "2026-08-30T23:43:27+00:00",
+      "summary": "監視アラートが上がる。確認しに行くと502 Bad Gatewayが数件出て、すでに回復している。nginx をリバースプロキシに置いている構成で、同じエンドポイントをリトライすると通る。バックエンドのログには何も出ていない。 nginx の error log には、次の2つの文字列のどちらかが残っている。 upstream prematurely close...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "32adb746f5465f2deed7"
+    },
+    {
       "title": "JetBrains、Mac上で動作するコーディングエージェント「Junie Local」提供開始。Claude Sonnet 4.5と同等の能力、RTX5909対応も開発中",
       "url": "https://www.publickey1.jp/blog/26/jetbrainsmacjunie_localclaude_sonnet_45rtx5909.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1655,7 +1697,29 @@
       "id": "db36b91709f009566cba"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "nginxで502が稀に発生する原因はkeepalive接続",
+      "url": "https://zenn.dev/shinagawa_web/articles/transient-502-keepalive-reuse",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-30T14:47:40+00:00",
+      "fetched_at": "2026-08-30T23:43:27+00:00",
+      "summary": "監視アラートが上がる。確認しに行くと502 Bad Gatewayが数件出て、すでに回復している。nginx をリバースプロキシに置いている構成で、同じエンドポイントをリトライすると通る。バックエンドのログには何も出ていない。 nginx の error log には、次の2つの文字列のどちらかが残っている。 upstream prematurely close...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "32adb746f5465f2deed7"
+    }
+  ],
   "source_errors": [
     {
       "source_id": "bis_statistics",
