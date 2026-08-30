@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-08-30T09:39:03+00:00`
+Generated: `2026-08-30T09:46:50+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -26,8 +26,8 @@ Generated: `2026-08-30T09:39:03+00:00`
 | M 4.7 - 25 km ESE of Lospalos, Timor Leste | natural_disaster | $1.11M | $111.20M | $11.12B | 0.33 |
 | M 4.8 - 13 km ENE of Himarë, Albania | natural_disaster | $1.11M | $111.20M | $11.12B | 0.33 |
 | M 4.9 - South Sandwich Islands region | natural_disaster | $1.11M | $111.20M | $11.12B | 0.33 |
-| M 5.1 - South Sandwich Islands region | natural_disaster | $1.11M | $111.20M | $11.12B | 0.33 |
 | M 4.5 - south of the Fiji Islands | natural_disaster | $1.11M | $111.20M | $11.12B | 0.33 |
+| M 5.1 - South Sandwich Islands region | natural_disaster | $1.11M | $111.20M | $11.12B | 0.33 |
 | [NEU] [hoch] Linux Kernel: Mehrere Schwachstellen | vulnerability | $332.00K | $33.20M | $3.32B | 0.51 |
 | CISA ICS Advisory / ICS Medical Advisory（2026年08月27日） | vulnerability | $292.00K | $29.20M | $2.92B | 0.31 |
 | Zabbix agentにおけるDLL読み込みに関する脆弱性 | vulnerability | $288.00K | $28.80M | $2.88B | 0.31 |
