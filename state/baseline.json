@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-30T06:48:59+00:00",
+  "generated_at": "2026-08-30T06:56:33+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -2576,7 +2576,7 @@
     },
     "domain:gigazine.net": {
       "title": "無料でDiscordのようなチャットサーバーをセルフホストできる「Chatto」、消費リソースが極めて少なく軽快な動作でチャットデータは暗号化されているのが特徴",
-      "updated_at": "2026-08-30T06:48:59+00:00",
+      "updated_at": "2026-08-30T06:56:33+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -3237,9 +3237,8 @@
     },
     "domain:speakerdeck.com": {
       "title": "業務時間外もAIに働いてもらう話",
-      "updated_at": "2026-08-30T06:48:59+00:00",
+      "updated_at": "2026-08-30T06:56:33+00:00",
       "network_scores": [
-        7.1,
         7.1,
         7.1,
         7.1,
@@ -3268,12 +3267,13 @@
         12.2,
         12.2,
         12.2,
+        12.2,
         12.2
       ],
-      "rolling_average": 10.72,
+      "rolling_average": 10.89,
       "rolling_peak": 15.2,
       "last_score": 12.2,
-      "z_hint": 1.48
+      "z_hint": 1.31
     },
     "title:web-nginx-cvss": {
       "title": "Webサーバー「nginx」に3件の脆弱性、「CVSS 4.0」の基本値は最高で10点満点中「9.2」／v1.30.3/v1.31.2への更新を",
@@ -4598,7 +4598,7 @@
     },
     "domain:togetter.com": {
       "title": "妻のパスワードや暗証番号に「1130（仮）」のような謎の4桁の数字がよく登場する…誕生日や住所ではなく聞いても教えてくれない…怪しい「元カレ関連？」→結構みんな予想できない番号を使ってる",
-      "updated_at": "2026-08-30T06:48:59+00:00",
+      "updated_at": "2026-08-30T06:56:33+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -4626,8 +4626,8 @@
         7.1,
         7.1,
         7.1,
-        7.1,
         10.1,
+        7.1,
         7.1,
         7.1
       ],
@@ -5163,7 +5163,7 @@
     },
     "earthquake:m 5.1 - south sandwich islands region:5.1": {
       "title": "M 5.1 - South Sandwich Islands region",
-      "updated_at": "2026-08-30T06:48:59+00:00",
+      "updated_at": "2026-08-30T06:56:33+00:00",
       "network_scores": [
         11.7,
         14.7,
@@ -5178,12 +5178,13 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 11.91,
+      "rolling_average": 11.9,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.21
+      "z_hint": -0.2
     },
     "title:microsoft-mai-code-flash-code-github-copilot": {
       "title": "無料でも利用可、Microsoftの軽量モデル「MAI-Code-1-Flash」が「VS Code」以外にも展開／「GitHub Copilot」個人プランで利用可能、法人向けも間もなく",
@@ -7204,7 +7205,7 @@
     },
     "title:saas-aws": {
       "title": "「スタートアップだから」が通用しない、大手製造業向けSaaSのAWSセキュリティ設計",
-      "updated_at": "2026-08-30T06:48:59+00:00",
+      "updated_at": "2026-08-30T06:56:33+00:00",
       "network_scores": [
         16.1,
         13.1,
@@ -7225,16 +7226,48 @@
         13.1,
         13.1,
         13.1,
+        13.1,
         13.1
       ],
-      "rolling_average": 13.25,
+      "rolling_average": 13.24,
       "rolling_peak": 16.1,
       "last_score": 13.1,
-      "z_hint": -0.15
+      "z_hint": -0.14
     },
     "domain:blog.shibayu36.org": {
       "title": "技術書典21で「Goで作って学ぶリアルタイム通信サーバー入門 〜自作ターミナルゲームでわかるオンラインゲームの裏側〜」という本を出します - $shibayu36->blog;",
-      "updated_at": "2026-08-30T06:48:59+00:00",
+      "updated_at": "2026-08-30T06:56:33+00:00",
+      "network_scores": [
+        10.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1
+      ],
+      "rolling_average": 7.24,
+      "rolling_peak": 10.1,
+      "last_score": 7.1,
+      "z_hint": -0.14
+    },
+    "title:spf-dkim-dmarc": {
+      "title": "SPFとDKIMとDMARCの役割の違いを整理する",
+      "updated_at": "2026-08-30T06:56:33+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -7262,38 +7295,9 @@
       "last_score": 7.1,
       "z_hint": -0.15
     },
-    "title:spf-dkim-dmarc": {
-      "title": "SPFとDKIMとDMARCの役割の違いを整理する",
-      "updated_at": "2026-08-30T06:48:59+00:00",
-      "network_scores": [
-        10.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1
-      ],
-      "rolling_average": 7.26,
-      "rolling_peak": 10.1,
-      "last_score": 7.1,
-      "z_hint": -0.16
-    },
     "title:usb-usb-power-controller": {
       "title": "ビット・トレード・ワン、USB PD充電器を可変電源にする「USB PD Power Controller」 - エルミタージュ秋葉原",
-      "updated_at": "2026-08-30T06:48:59+00:00",
+      "updated_at": "2026-08-30T06:56:33+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -7313,16 +7317,17 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.26,
+      "rolling_average": 7.25,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.16
+      "z_hint": -0.15
     },
     "domain:susisu.hatenablog.com": {
       "title": "AI ポン出しスライド品評会 - Object.create(null)",
-      "updated_at": "2026-08-30T06:48:59+00:00",
+      "updated_at": "2026-08-30T06:56:33+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -7341,61 +7346,66 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.27,
+      "rolling_average": 16.26,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.17
+      "z_hint": -0.16
     },
     "earthquake:chile:4.7": {
       "title": "M 4.7 - 26 km WSW of Tocopilla, Chile",
-      "updated_at": "2026-08-30T06:48:59+00:00",
+      "updated_at": "2026-08-30T06:56:33+00:00",
       "network_scores": [
         16.7,
         13.7,
         13.7,
         13.7,
         13.7,
+        13.7,
         13.7
       ],
-      "rolling_average": 14.2,
+      "rolling_average": 14.13,
       "rolling_peak": 16.7,
       "last_score": 13.7,
-      "z_hint": -0.5
+      "z_hint": -0.43
     },
     "github_repo:p-e-w/heretic": {
       "title": "p-e-w/heretic",
-      "updated_at": "2026-08-30T06:48:59+00:00",
+      "updated_at": "2026-08-30T06:56:33+00:00",
       "network_scores": [
-        15.1
+        15.1,
+        12.1
       ],
-      "rolling_average": 15.1,
+      "rolling_average": 13.6,
       "rolling_peak": 15.1,
-      "last_score": 15.1,
-      "z_hint": 0.0
+      "last_score": 12.1,
+      "z_hint": -1.5
     },
     "github_repo:tailscale/tailcat": {
       "title": "tailscale/tailcat",
-      "updated_at": "2026-08-30T06:48:59+00:00",
+      "updated_at": "2026-08-30T06:56:33+00:00",
       "network_scores": [
-        13.1
+        13.1,
+        10.1
       ],
-      "rolling_average": 13.1,
+      "rolling_average": 11.6,
       "rolling_peak": 13.1,
-      "last_score": 13.1,
-      "z_hint": 0.0
+      "last_score": 10.1,
+      "z_hint": -1.5
     },
     "github_repo:thu-maic/openmaic": {
       "title": "THU-MAIC/OpenMAIC",
-      "updated_at": "2026-08-30T06:48:59+00:00",
+      "updated_at": "2026-08-30T06:56:33+00:00",
       "network_scores": [
-        10.1
+        10.1,
+        7.1
       ],
-      "rolling_average": 10.1,
+      "rolling_average": 8.6,
       "rolling_peak": 10.1,
-      "last_score": 10.1,
-      "z_hint": 0.0
+      "last_score": 7.1,
+      "z_hint": -1.5
     }
   }
 }
