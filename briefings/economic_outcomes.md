@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-08-30T02:27:04+00:00`
+Generated: `2026-08-30T02:57:11+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -21,6 +21,7 @@ Generated: `2026-08-30T02:27:04+00:00`
 | GitHub - iannuttall/barkeep: Manage hidden macOS menu bar items from one place | $0 | — | 0 | 0 | dormant |
 | Isabel Schnabel: Central banks on-chain | $0 | — | 0 | 0 | dormant |
 | M 4.7 - 25 km ESE of Lospalos, Timor Leste | $0 | — | 0 | 0 | dormant |
+| SPFとDKIMとDMARCの役割の違いを整理する | $0 | — | 0 | 0 | active |
 | Why every warehouse in Singapore will run on AI safety monitoring within five years | $0 | — | 0 | 0 | dormant |
 | M 5.1 - Southwest Indian Ridge | $0 | — | 0 | 0 | dormant |
 | K-Dense-AI/scientific-agent-skills | $0 | — | 0 | 0 | dormant |
@@ -28,4 +29,3 @@ Generated: `2026-08-30T02:27:04+00:00`
 | The path to the next-generation monetary and financial system lies in safeguarding trust in money: BIS | $0 | — | 0 | 0 | dormant |
 | M 5.0 - 19 km NW of Fuji, China | $0 | — | 0 | 0 | dormant |
 | GitHub - iKora128/stop-ai-slop-jp: 日本語の文章からAI臭を取り除く Claude Skill | $0 | — | 0 | 0 | dormant |
-| CISA ICS Advisory / ICS Medical Advisory（2026年08月27日） | $0 | — | 0 | 0 | dormant |
