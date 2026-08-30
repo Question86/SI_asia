@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-30T03:48:48Z",
+  "generated_at": "2026-08-30T04:15:05Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 15,
@@ -22,7 +22,7 @@
       "url": "https://zenn.dev/facraft/articles/aws-org-security-for-enterprise-saas",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T23:47:17+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -46,7 +46,7 @@
       "url": "https://zenn.dev/facraft/articles/aws-org-security-for-enterprise-saas",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T02:26:46+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -70,7 +70,7 @@
       "url": "https://www.gdm.or.jp/pressrelease/2026/0828/650076",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T02:56:46+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
@@ -95,22 +95,22 @@
       "url": "https://susisu.hatenablog.com/entry/2026/08/29/235949",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T03:17:26+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 18.0,
+      "dynamics_score": 15.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +2",
+        "momentum delta +3",
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],
@@ -121,7 +121,7 @@
       "url": "https://blog.shibayu36.org/entry/2026/08/29/154324",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T02:26:46+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -141,39 +141,11 @@
       "summary": ""
     },
     {
-      "title": "業務時間外もAIに働いてもらう話",
-      "url": "https://speakerdeck.com/colorful12/gyoumu-jikangai-mo-ai-ni-hatarai-te-morau-hanashi",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 72.08,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 11.23,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 7.03,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 7.03",
-        "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 72.1d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "AI ポン出しスライド品評会 - Object.create(null)",
       "url": "https://susisu.hatenablog.com/entry/2026/08/29/235949",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T02:30:16+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -199,7 +171,7 @@
       "url": "https://www.gdm.or.jp/pressrelease/2026/0828/650076",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-28T09:38:40+00:00",
-      "age_days": 1.76,
+      "age_days": 1.78,
       "topics": [
         "general"
       ],
@@ -223,7 +195,7 @@
       "url": "https://zenn.dev/rickysb527/articles/spf-dkim-dmarc-roles",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T02:56:46+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -249,7 +221,7 @@
       "url": "https://gigazine.net/news/20260829-chatto/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 72.08,
+      "age_days": 72.09,
       "topics": [
         "general"
       ],
@@ -270,11 +242,39 @@
       "summary": ""
     },
     {
+      "title": "業務時間外もAIに働いてもらう話",
+      "url": "https://speakerdeck.com/colorful12/gyoumu-jikangai-mo-ai-ni-hatarai-te-morau-hanashi",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T01:58:32+00:00",
+      "age_days": 72.09,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 5.06,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 3.69,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 3.69",
+        "single-source AI hype brake -8.0",
+        "aging penalty -8.0 for 72.1d old signal",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "技術書典21で「Goで作って学ぶリアルタイム通信サーバー入門 〜自作ターミナルゲームでわかるオンラインゲームの裏側〜」という本を出します - $shibayu36->blog;",
       "url": "https://blog.shibayu36.org/entry/2026/08/29/154324",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T01:28:17+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -298,7 +298,7 @@
       "url": "https://gigazine.net/news/20260829-chatto/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T14:25:04+00:00",
-      "age_days": 0.56,
+      "age_days": 0.58,
       "topics": [
         "general"
       ],
@@ -322,7 +322,7 @@
       "url": "https://speakerdeck.com/colorful12/gyoumu-jikangai-mo-ai-ni-hatarai-te-morau-hanashi",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T07:15:47+00:00",
-      "age_days": 0.86,
+      "age_days": 0.87,
       "topics": [
         "ai"
       ],
@@ -347,7 +347,7 @@
       "url": "https://speakerdeck.com/kinopeee/hanesu-sekkei-nyuumon-kontekisuto-no-tsugi",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T21:30:35+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -372,7 +372,7 @@
       "url": "https://zenn.dev/rickysb527/articles/spf-dkim-dmarc-roles",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-29T17:07:15+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "ai"
       ],
