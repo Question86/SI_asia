@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30T22:14:24+00:00",
-  "run_id": "2026-08-30T22:14:24+00:00",
+  "generated_at": "2026-08-30T22:24:47+00:00",
+  "run_id": "2026-08-30T22:24:47+00:00",
   "date": "2026-08-30",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 31,
     "displayed_findings": 31,
     "high": 0,
@@ -1569,30 +1569,7 @@
       "id": "db36b91709f009566cba"
     }
   ],
-  "new_findings": [
-    {
-      "title": "TypeScript ライブラリとして動作する組版エンジン minitype を公開しました",
-      "url": "https://zenn.dev/inaniwaudon/articles/62f1def4bad627",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-30T13:09:39+00:00",
-      "fetched_at": "2026-08-30T22:13:53+00:00",
-      "summary": "2025 年度下期未踏アドバンスト事業[1]にて開発してきた，TypeScript ライブラリとして動作する組版エンジン minitype を公開しました！ 従来は独立したシステムや専用言語として提供されることの多かった組版処理をライブラリとして提供することにより，LLM や外部アプリケーションを含む，様々な文書生成に活用される...",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "21fde5b98ecb62362c5b"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [
     {
       "source_id": "bis_statistics",
