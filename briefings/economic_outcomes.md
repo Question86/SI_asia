@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-08-30T06:33:15+00:00`
+Generated: `2026-08-30T06:49:21+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -9,6 +9,7 @@ Generated: `2026-08-30T06:33:15+00:00`
 | Zabbix agentにおけるDLL読み込みに関する脆弱性 | $0 | — | 0 | 0 | dormant |
 | M 5.0 - 64 km W of Labuha, Indonesia | $0 | — | 0 | 0 | dormant |
 | 無料のLM Studio、DFlash/DSpark/MTPで推論を高速化 | $0 | — | 0 | 0 | dormant |
+| tailscale/tailcat | $0 | — | 0 | 0 | active |
 | 技術書典21で「Goで作って学ぶリアルタイム通信サーバー入門 〜自作ターミナルゲームでわかるオンラインゲームの裏側〜」という本を出します - $shibayu36->blog; | $0 | — | 0 | 0 | active |
 | 知人がものの数分で設定したという、高齢のお父さん用iPhone…ここまで潔いのはなかなか見かけない「視覚支援だ～」「これはめっちゃわかりやすい」 | $0 | — | 0 | 0 | active |
 | M 4.8 - 110 km E of Miyako, Japan | $0 | — | 0 | 0 | dormant |
@@ -28,4 +29,3 @@ Generated: `2026-08-30T06:33:15+00:00`
 | AI語に親しむ | $0 | — | 0 | 0 | dormant |
 | The path to the next-generation monetary and financial system lies in safeguarding trust in money: BIS | $0 | — | 0 | 0 | dormant |
 | M 5.0 - 19 km NW of Fuji, China | $0 | — | 0 | 0 | dormant |
-| GitHub - iKora128/stop-ai-slop-jp: 日本語の文章からAI臭を取り除く Claude Skill | $0 | — | 0 | 0 | dormant |
