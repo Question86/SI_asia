@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-30T09:53:59+00:00_
+_Generiert: 2026-08-30T10:01:56+00:00_
 
 ## Kurzlage
 
-22 neue relevante Treffer. Stärkstes Signal: „M 4.9 - 76 km WNW of Bengkulu, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+23 neue relevante Treffer. Stärkstes Signal: „M 4.9 - 76 km WNW of Bengkulu, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
