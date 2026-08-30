@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-08-30T10:19:37+00:00`
+Generated: `2026-08-30T10:29:35+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -14,6 +14,7 @@ Generated: `2026-08-30T10:19:37+00:00`
 | 技術書典21で「Goで作って学ぶリアルタイム通信サーバー入門 〜自作ターミナルゲームでわかるオンラインゲームの裏側〜」という本を出します - $shibayu36->blog; | $0 | — | 0 | 0 | active |
 | 知人がものの数分で設定したという、高齢のお父さん用iPhone…ここまで潔いのはなかなか見かけない「視覚支援だ～」「これはめっちゃわかりやすい」 | $0 | — | 0 | 0 | active |
 | M 4.8 - 110 km E of Miyako, Japan | $0 | — | 0 | 0 | dormant |
+| AIお姉ちゃんへの道（2026年版） - nomolkのブログ | $0 | — | 0 | 0 | active |
 | Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される | $0 | — | 0 | 0 | active |
 | Claude Codeの設計詰めスキル『grilling』の紹介 | $0 | — | 0 | 0 | dormant |
 | curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？ | $0 | — | 0 | 0 | dormant |
@@ -28,4 +29,3 @@ Generated: `2026-08-30T10:19:37+00:00`
 | M 5.1 - Southwest Indian Ridge | $0 | — | 0 | 0 | dormant |
 | K-Dense-AI/scientific-agent-skills | $0 | — | 0 | 0 | dormant |
 | AI語に親しむ | $0 | — | 0 | 0 | dormant |
-| The path to the next-generation monetary and financial system lies in safeguarding trust in money: BIS | $0 | — | 0 | 0 | active |
