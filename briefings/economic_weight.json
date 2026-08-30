@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-30T02:57:06+00:00",
+  "generated_at": "2026-08-30T03:17:43+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -428,7 +428,7 @@
       "p90_usd": 1232000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
-      "last_seen_at": "2026-08-30T02:56:46+00:00",
+      "last_seen_at": "2026-08-30T03:17:26+00:00",
       "status": "active"
     },
     {
@@ -585,6 +585,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_ca30cb0d905010c65502",
+      "title": "AI ポン出しスライド品評会 - Object.create(null)",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 115200.0,
+      "p50_usd": 11520000.0,
+      "p90_usd": 1152000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-08-30T03:17:26+00:00",
+      "last_seen_at": "2026-08-30T03:17:26+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_2c69a25a18b9b812a5b5",
       "title": "Claude Codeの設計詰めスキル『grilling』の紹介",
       "event_classes": [
@@ -683,7 +700,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-30T02:26:46+00:00",
-      "last_seen_at": "2026-08-30T02:56:46+00:00",
+      "last_seen_at": "2026-08-30T03:17:26+00:00",
       "status": "active"
     },
     {
@@ -700,7 +717,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T22:15:36+00:00",
-      "last_seen_at": "2026-08-30T02:56:46+00:00",
+      "last_seen_at": "2026-08-30T03:17:26+00:00",
       "status": "active"
     },
     {
@@ -802,7 +819,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-30T02:26:46+00:00",
-      "last_seen_at": "2026-08-30T02:56:46+00:00",
+      "last_seen_at": "2026-08-30T03:17:26+00:00",
       "status": "active"
     },
     {
@@ -855,6 +872,23 @@
       "first_seen_at": "2026-08-29T12:58:27+00:00",
       "last_seen_at": "2026-08-29T12:58:27+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_491708df1e8ae0656660",
+      "title": "SPFとDKIMとDMARCの役割の違いを整理する",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-08-30T02:56:46+00:00",
+      "last_seen_at": "2026-08-30T03:17:26+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_67c97d7b18f6ee0a0029",
@@ -942,6 +976,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_e245b1da21ac8997615b",
+      "title": "ビット・トレード・ワン、USB PD充電器を可変電源にする「USB PD Power Controller」 - エルミタージュ秋葉原",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-08-30T02:56:46+00:00",
+      "last_seen_at": "2026-08-30T03:17:26+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_e4e2e0a3ecb06381674e",
       "title": "私が懇親会でぼっちになったらやること - 腹は減る",
       "event_classes": [
@@ -957,40 +1008,6 @@
       "first_seen_at": "2026-08-29T07:39:51+00:00",
       "last_seen_at": "2026-08-29T21:17:29+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_491708df1e8ae0656660",
-      "title": "SPFとDKIMとDMARCの役割の違いを整理する",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108000.0,
-      "p50_usd": 10800000.0,
-      "p90_usd": 1080000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-08-30T02:56:46+00:00",
-      "last_seen_at": "2026-08-30T02:56:46+00:00",
-      "status": "active"
-    },
-    {
-      "event_id": "evt_e245b1da21ac8997615b",
-      "title": "ビット・トレード・ワン、USB PD充電器を可変電源にする「USB PD Power Controller」 - エルミタージュ秋葉原",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108000.0,
-      "p50_usd": 10800000.0,
-      "p90_usd": 1080000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-08-30T02:56:46+00:00",
-      "last_seen_at": "2026-08-30T02:56:46+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_369ed4c57635e2a534e3",
