@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-30T07:58:28+00:00",
-  "run_id": "2026-08-30T07:58:28+00:00",
+  "generated_at": "2026-08-30T08:23:36+00:00",
+  "run_id": "2026-08-30T08:23:36+00:00",
   "date": "2026-08-30",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 18
+      "configured_public_sources_only": 19
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 18,
-    "displayed_findings": 18,
+    "today_file_total": 19,
+    "displayed_findings": 19,
     "high": 0,
     "medium": 2,
-    "observe": 16,
+    "observe": 17,
     "source_errors": 1
   },
   "sections": {
@@ -353,6 +353,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "a7abdfde70946bbc8d5d"
+      },
+      {
+        "title": "自宅PCで巨大AIが高速動作？ ノートPCで350億、プロ向けGPU1枚で7530億パラメータのAIモデルを非公式量子化なしで動かす無償ツール「FreeToken」など生成AI技術5つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge",
+        "url": "https://www.techno-edge.net/article/2026/08/29/5442.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-29T19:05:00+00:00",
+        "fetched_at": "2026-08-30T08:22:58+00:00",
+        "summary": "この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する今回の「生成AIウィークリー」（第157回）は、AIが自ら問題を作って学習する自己改善型モデル「Ornith-1.5」や、スマホで撮った1本の動画から動く人の3D映像を作るAI技術「4DAnyone」を取り上げます。 また、ご家庭のノートPCやゲーミングPCなど...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e54518e4c92bc9f9b870"
       },
       {
         "title": "SPFとDKIMとDMARCの役割の違いを整理する",
@@ -786,6 +807,27 @@
       "id": "a7abdfde70946bbc8d5d"
     },
     {
+      "title": "自宅PCで巨大AIが高速動作？ ノートPCで350億、プロ向けGPU1枚で7530億パラメータのAIモデルを非公式量子化なしで動かす無償ツール「FreeToken」など生成AI技術5つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge",
+      "url": "https://www.techno-edge.net/article/2026/08/29/5442.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-29T19:05:00+00:00",
+      "fetched_at": "2026-08-30T08:22:58+00:00",
+      "summary": "この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する今回の「生成AIウィークリー」（第157回）は、AIが自ら問題を作って学習する自己改善型モデル「Ornith-1.5」や、スマホで撮った1本の動画から動く人の3D映像を作るAI技術「4DAnyone」を取り上げます。 また、ご家庭のノートPCやゲーミングPCなど...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e54518e4c92bc9f9b870"
+    },
+    {
       "title": "SPFとDKIMとDMARCの役割の違いを整理する",
       "url": "https://zenn.dev/rickysb527/articles/spf-dkim-dmarc-roles",
       "source": "Hatena Bookmark Hotentry IT",
@@ -893,41 +935,25 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.9 - 76 km WNW of Bengkulu, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcxc",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "自宅PCで巨大AIが高速動作？ ノートPCで350億、プロ向けGPU1枚で7530億パラメータのAIモデルを非公式量子化なしで動かす無償ツール「FreeToken」など生成AI技術5つを解説（生成AIウィークリー） | テクノエッジ TechnoEdge",
+      "url": "https://www.techno-edge.net/article/2026/08/29/5442.html",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-30T07:54:30.040+00:00",
-      "fetched_at": "2026-08-30T07:57:53+00:00",
-      "summary": "Time 2026-08-30 07:37:53 UTC 2026-08-30 07:37:53 UTC at epicenter Location 3.466°S 101.661°E Depth 78.21 km (48.60 mi)",
+      "published_at": "2026-08-29T19:05:00+00:00",
+      "fetched_at": "2026-08-30T08:22:58+00:00",
+      "summary": "この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する今回の「生成AIウィークリー」（第157回）は、AIが自ら問題を作って学習する自己改善型モデル「Ornith-1.5」や、スマホで撮った1本の動画から動く人の3D映像を作るAI技術「4DAnyone」を取り上げます。 また、ご家庭のノートPCやゲーミングPCなど...",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "0c347faedbd768596628"
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e54518e4c92bc9f9b870"
     }
   ],
   "source_errors": [
