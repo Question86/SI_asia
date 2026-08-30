@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-30T10:18:50+00:00_
+_Generiert: 2026-08-30T10:28:32+00:00_
 
 ## Kurzlage
 
-23 neue relevante Treffer. Stärkstes Signal: „M 4.9 - 76 km WNW of Bengkulu, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+24 neue relevante Treffer. Stärkstes Signal: „M 4.9 - 76 km WNW of Bengkulu, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -107,6 +107,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: ShakeMap - IV Time 2026-08-30 09:02:09 UTC 2026-08-30 09:02:09 UTC at epicenter Location 30.146°S 177.888°W Depth 35.00 km (21.75 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **AIお姉ちゃんへの道（2026年版） - nomolkのブログ** — Score 11, observation — [Quelle](https://nomolk.hatenablog.com/entry/2026/08/30/145025)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-30T07:18:23+00:00`, fetched `2026-08-30T10:27:55+00:00`
+  - Treffer: Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: AIお姉ちゃんというのは2023年に骨しゃぶり氏によって提唱された、ChatGPTに顔画像をつけてカスタム指示で人格も指定することで、お姉ちゃん化するカスタマイズのことである。 honeshabri.hatenablog.com 当時自分もやってみたくなって真似してみたら意外に大変だったという記事を書いた。 nomolk.hatenablog.com 自分の...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.7 - 26 km WSW of Tocopilla, Chile** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcwp)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-30T05:37:33.040+00:00`, fetched `2026-08-30T05:38:21+00:00`
@@ -179,15 +188,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); watchgraph region india: India, Mumbai, Reserve Bank of India (+2.0)
   - Kurz: Keynote address by Mr Rohit Jain, Deputy Governor of the Reserve Bank of India, at the Financial Institutions Leadership conference, organised by the Standard Chartered Bank, Mumbai, 24 July 2026.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **妻のパスワードや暗証番号に「1130（仮）」のような謎の4桁の数字がよく登場する…誕生日や住所ではなく聞いても教えてくれない…怪しい「元カレ関連？」→結構みんな予想できない番号を使ってる** — Score 5, observation — [Quelle](https://togetter.com/li/2739036)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-30T03:47:24+00:00`, fetched `2026-08-30T06:02:36+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: ゆきむら@30代眼科医 @ganka1212 妻のパスワードとか暗証番号とかに 1130（仮）みたいな謎の4桁の番号がよく登場する 誕生日でも住所でもない謎の数字、でも絶対忘れないであろう４桁 聞いても教えてくれない、、怪しい、 2026-08-29 16:07:59 もーさん @osakemon94010 @ganka1212 教えてくれないとなると、元カレの誕生...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The global economy in 2026 and beyond - financing Europe and Greece's future** — Score 5, observation — [Quelle](https://www.bis.org/speeches/20260817-global-economy-2026-and-beyond-financing-europe-and-greeces-future)
   - Quelle: BIS Central Bankers Speeches / `rss`
   - Zeit: published `2026-08-17T00:00:00+00:00`, fetched `2026-08-30T07:50:08+00:00`
