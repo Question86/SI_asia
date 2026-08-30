@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-30T05:35:53Z_
+_Generated: 2026-08-30T05:48:36Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “「スタートアップだから」が�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-08-29T23:47:17+00:00` / age_days `0.24`
+- Published: `2026-08-29T23:47:17+00:00` / age_days `0.25`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “「スタートアップだから」が�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.0`
-- Published: `2026-08-30T02:26:46+00:00` / age_days `0.13`
+- Published: `2026-08-30T02:26:46+00:00` / age_days `0.14`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “「スタートアップだから」が�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-08-30T02:56:46+00:00` / age_days `0.11`
+- Published: `2026-08-30T02:56:46+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: controller
@@ -52,17 +52,37 @@ Stärkste Dynamik nach Gate-Recheck: “「スタートアップだから」が�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-08-30T02:26:46+00:00` / age_days `0.13`
+- Published: `2026-08-30T02:26:46+00:00` / age_days `0.14`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
 - Quelle: https://blog.shibayu36.org/entry/2026/08/29/154324
 
+### M 4.7 - 26 km WSW of Tocopilla, Chile
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `14.0`
+- Published: `2026-08-30T05:37:33.040+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcwp
+
+### M 4.7 - 26 km WSW of Tocopilla, Chile
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `13.5`
+- Published: `2026-08-30T05:39:01+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +1
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcwp
+
 ### M 5.1 - South Sandwich Islands region
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `12.0`
-- Published: `2026-08-30T04:10:47.040+00:00` / age_days `0.06`
+- Published: `2026-08-30T04:10:47.040+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
@@ -72,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “「スタートアップだから」が�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `11.0`
-- Published: `2026-08-30T02:30:16+00:00` / age_days `0.13`
+- Published: `2026-08-30T02:30:16+00:00` / age_days `0.14`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -82,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “「スタートアップだから」が�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-08-28T09:38:40+00:00` / age_days `1.83`
+- Published: `2026-08-28T09:38:40+00:00` / age_days `1.84`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: controller
@@ -92,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “「スタートアップだから」が�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `8.5`
-- Published: `2026-06-19T21:55:12+00:00` / age_days `71.32`
+- Published: `2026-06-19T21:55:12+00:00` / age_days `71.33`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, aging penalty -8.0 for 71.3d old signal
@@ -102,30 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “「スタートアップだから」が�
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `6.0`
-- Published: `2026-08-30T02:56:46+00:00` / age_days `0.11`
+- Published: `2026-08-30T02:56:46+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://zenn.dev/rickysb527/articles/spf-dkim-dmarc-roles
-
-### 無料でDiscordのようなチャットサーバーをセルフホストできる「Chatto」、消費リソースが極めて少なく軽快な動作でチャットデータは暗号化されているのが特徴
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `6.0`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `72.15`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, aging penalty -8.0 for 72.2d old signal
-- Quelle: https://gigazine.net/news/20260829-chatto/
-
-### 技術書典21で「Goで作って学ぶリアルタイム通信サーバー入門 〜自作ターミナルゲームでわかるオンラインゲームの裏側〜」という本を出します - $shibayu36->blog;
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `5.0`
-- Published: `2026-08-30T01:28:17+00:00` / age_days `0.17`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: no strong comparative reason
-- Quelle: https://blog.shibayu36.org/entry/2026/08/29/154324
 
 END OF DOCUMENT
