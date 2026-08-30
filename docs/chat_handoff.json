@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-30T01:57:49+00:00",
+  "generated_at": "2026-08-30T02:26:43+00:00",
   "status": "warning",
   "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 2,
-    "displayed_findings": 2,
+    "new_relevant_findings": 2,
+    "today_file_total": 4,
+    "displayed_findings": 4,
     "high": 0,
     "medium": 0,
-    "observe": 2
+    "observe": 4
   },
   "source_errors_count": 1,
   "top_signals": [
+    {
+      "title": "「スタートアップだから」が通用しない、大手製造業向けSaaSのAWSセキュリティ設計",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-29T23:47:17+00:00",
+      "relevance_score": 11,
+      "url": "https://zenn.dev/facraft/articles/aws-org-security-for-enterprise-saas",
+      "summary": "はじめに 株式会社FAcraftの山本です。 FAcraftは、大手製造業向けのSaaSを開発・運用している小規模なスタートアップです。サービス基盤の一つとして、AWSを利用しています。 SaaSを提供する以上、しっかりとしたセキュリティ対策を行うことは当然ですが、大手製造業向けにサービスを提供していると、顧客からも具体的...",
+      "section": "observe"
+    },
     {
       "title": "業務時間外もAIに働いてもらう話",
       "source": "Hatena Bookmark Hotentry IT",
@@ -22,6 +32,16 @@
       "relevance_score": 8,
       "url": "https://speakerdeck.com/colorful12/gyoumu-jikangai-mo-ai-ni-hatarai-te-morau-hanashi",
       "summary": "レビューで「これは後で」「別PRで」と後回しにしたタスク、そのまま消えていませんか。 そういうPRに、ラベルを1枚貼っておく。すると翌朝、実装されてマージまで終わっている。 これを実現する仕組みを作りました。フロントのnitタスクが夜間に回収されていきます。 担当リポジトリでは、develop…",
+      "section": "observe"
+    },
+    {
+      "title": "技術書典21で「Goで作って学ぶリアルタイム通信サーバー入門 〜自作ターミナルゲームでわかるオンラインゲームの裏側〜」という本を出します - $shibayu36->blog;",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-30T01:28:17+00:00",
+      "relevance_score": 5,
+      "url": "https://blog.shibayu36.org/entry/2026/08/29/154324",
+      "summary": "技術書典21で「Goで作って学ぶリアルタイム通信サーバー入門 〜自作ターミナルゲームでわかるオンラインゲームの裏側〜」という本を出します。技術書典21のオンライン開催は2026/11/21(土)〜12/6(日)。オフライン開催は11/23(月・祝)に池袋サンシャインシティで行われ、どちらでも頒布する予定です。 どんな本かというと...",
       "section": "observe"
     },
     {
@@ -40,114 +60,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “無料でDiscordのようなチャットサーバーをセルフホストできる「Chatto」、消費リソースが極めて少なく軽快な動作でチャットデータは暗号化されているのが特徴” — Die Dynamik wirkt aktuell wie Hintergrundrauschen. Band=quiet, score=6.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "無料でDiscordのようなチャットサーバーをセルフホストできる「Chatto」、消費リソースが極めて少なく軽快な動作でチャットデータは暗号化されているのが特徴",
-        "url": "https://gigazine.net/news/20260829-chatto/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-06-19T01:58:32+00:00",
-        "age_days": 72.01,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 6.0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "aging penalty -8.0 for 72.0d old signal"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "無料でDiscordのようなチャットサーバーをセルフホストできる「Chatto」、消費リソースが極めて少なく軽快な動作でチャットデータは暗号化されているのが特徴",
-        "url": "https://gigazine.net/news/20260829-chatto/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-29T14:25:04+00:00",
-        "age_days": 0.5,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 5.0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "no strong comparative reason"
-        ],
-        "summary": "Discordなどのチャットサービスでは手軽にサーバーを作成してグループ内で会話できますが、メッセージや個人情報を含むチャットデータはサービス提供者のインフラ上で管理されるため、社内の機密情報などを扱う場合はデータの保存先や管理方法が課題になります。そこで、セルフホスト可能で数十MB程度のRAMから軽快に動..."
-      },
-      {
-        "title": "業務時間外もAIに働いてもらう話",
-        "url": "https://speakerdeck.com/colorful12/gyoumu-jikangai-mo-ai-ni-hatarai-te-morau-hanashi",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-06-19T01:58:32+00:00",
-        "age_days": 72.01,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 3.86,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 2.6,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "baseline z_hint 2.60",
-          "single-source AI hype brake -8.0",
-          "aging penalty -8.0 for 72.0d old signal"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "業務時間外もAIに働いてもらう話",
-        "url": "https://speakerdeck.com/colorful12/gyoumu-jikangai-mo-ai-ni-hatarai-te-morau-hanashi",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-29T07:15:47+00:00",
-        "age_days": 0.79,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": "レビューで「これは後で」「別PRで」と後回しにしたタスク、そのまま消えていませんか。 そういうPRに、ラベルを1枚貼っておく。すると翌朝、実装されてマージまで終わっている。 これを実現する仕組みを作りました。フロントのnitタスクが夜間に回収されていきます。 担当リポジトリでは、develop…"
-      }
-    ]
-  }
+  ]
 }

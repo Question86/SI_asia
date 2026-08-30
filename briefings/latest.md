@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-30T01:57:49+00:00_
+_Generiert: 2026-08-30T02:26:43+00:00_
 
 ## Kurzlage
 
-2 neue relevante Treffer. Stärkstes Signal: „業務時間外もAIに働いてもらう話“ aus Hatena Bookmark Hotentry IT (Score 8, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+4 neue relevante Treffer. Stärkstes Signal: „「スタートアップだから」が通用しない、大手製造業向けSaaSのAWSセキュリティ設計“ aus Hatena Bookmark Hotentry IT (Score 11, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -77,6 +77,15 @@ Keine neuen mittleren Treffer.
 
 ## Nur beobachten
 
+- **「スタートアップだから」が通用しない、大手製造業向けSaaSのAWSセキュリティ設計** — Score 11, observation — [Quelle](https://zenn.dev/facraft/articles/aws-org-security-for-enterprise-saas)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-08-29T23:47:17+00:00`, fetched `2026-08-30T02:26:03+00:00`
+  - Treffer: Hatena, hotentry, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: はじめに 株式会社FAcraftの山本です。 FAcraftは、大手製造業向けのSaaSを開発・運用している小規模なスタートアップです。サービス基盤の一つとして、AWSを利用しています。 SaaSを提供する以上、しっかりとしたセキュリティ対策を行うことは当然ですが、大手製造業向けにサービスを提供していると、顧客からも具体的...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **業務時間外もAIに働いてもらう話** — Score 8, observation — [Quelle](https://speakerdeck.com/colorful12/gyoumu-jikangai-mo-ai-ni-hatarai-te-morau-hanashi)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-29T07:15:47+00:00`, fetched `2026-08-30T00:57:33+00:00`
@@ -86,14 +95,14 @@ Keine neuen mittleren Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: レビューで「これは後で」「別PRで」と後回しにしたタスク、そのまま消えていませんか。 そういうPRに、ラベルを1枚貼っておく。すると翌朝、実装されてマージまで終わっている。 これを実現する仕組みを作りました。フロントのnitタスクが夜間に回収されていきます。 担当リポジトリでは、develop…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **無料でDiscordのようなチャットサーバーをセルフホストできる「Chatto」、消費リソースが極めて少なく軽快な動作でチャットデータは暗号化されているのが特徴** — Score 5, observation — [Quelle](https://gigazine.net/news/20260829-chatto/)
+- **技術書典21で「Goで作って学ぶリアルタイム通信サーバー入門 〜自作ターミナルゲームでわかるオンラインゲームの裏側〜」という本を出します - $shibayu36->blog;** — Score 5, observation — [Quelle](https://blog.shibayu36.org/entry/2026/08/29/154324)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-29T14:25:04+00:00`, fetched `2026-08-30T00:57:33+00:00`
+  - Zeit: published `2026-08-30T01:28:17+00:00`, fetched `2026-08-30T02:26:03+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: Discordなどのチャットサービスでは手軽にサーバーを作成してグループ内で会話できますが、メッセージや個人情報を含むチャットデータはサービス提供者のインフラ上で管理されるため、社内の機密情報などを扱う場合はデータの保存先や管理方法が課題になります。そこで、セルフホスト可能で数十MB程度のRAMから軽快に動...
+  - Kurz: 技術書典21で「Goで作って学ぶリアルタイム通信サーバー入門 〜自作ターミナルゲームでわかるオンラインゲームの裏側〜」という本を出します。技術書典21のオンライン開催は2026/11/21(土)〜12/6(日)。オフライン開催は11/23(月・祝)に池袋サンシャインシティで行われ、どちらでも頒布する予定です。 どんな本かというと...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
