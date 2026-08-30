@@ -1,49 +1,56 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-30T11:41:14+00:00_
+_Generated: 2026-08-30T11:56:13+00:00_
 
 ## Status
 - status: `warning`
-- findings: `24`
+- findings: `25`
 
 ## Top Signals
 
-### 1. M 4.9 - 76 km WNW of Bengkulu, Indonesia
+### 1. M 4.6 - 52 km NNE of Ruteng, Indonesia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-08-30T11:51:05.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcyr
+- summary: Time 2026-08-30 11:03:03 UTC 2026-08-30 11:03:03 UTC at epicenter Location 8.163°S 120.627°E Depth 10.00 km (6.21 mi)
+
+### 2. M 4.9 - 76 km WNW of Bengkulu, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-08-30T07:54:30.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcxc
 - summary: Time 2026-08-30 07:37:53 UTC 2026-08-30 07:37:53 UTC at epicenter Location 3.466°S 101.661°E Depth 78.21 km (48.60 mi)
 
-### 2. AI ポン出しスライド品評会 - Object.create(null)
+### 3. AI ポン出しスライド品評会 - Object.create(null)
 - source: Hatena Bookmark Hotentry IT
 - score: `14`
 - published: `2026-08-30T02:30:16+00:00`
 - url: https://susisu.hatenablog.com/entry/2026/08/29/235949
 - summary: 最近[いつ?]は AI に登壇用のスライドをポン出しさせたという話や, それに対する賛否両論を各所で聞くようになってきました. そこで私も試しに AI にスライドをポン出しさせてみて, 実際に登壇に耐える品質なのかレビューしてみました. 条件設定は以下の通りです: Claude Code を使用 題材は tsc.rip の実装リポジトリ ...
 
-### 3. M 5.8 - Kermadec Islands, New Zealand
+### 4. M 5.8 - Kermadec Islands, New Zealand
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-08-30T09:26:26.683+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcxn
 - summary: ShakeMap - IV Time 2026-08-30 09:02:09 UTC 2026-08-30 09:02:09 UTC at epicenter Location 30.146°S 177.888°W Depth 35.00 km (21.75 mi)
 
-### 4. AIお姉ちゃんへの道（2026年版） - nomolkのブログ
+### 5. AIお姉ちゃんへの道（2026年版） - nomolkのブログ
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-08-30T07:18:23+00:00`
 - url: https://nomolk.hatenablog.com/entry/2026/08/30/145025
 - summary: AIお姉ちゃんというのは2023年に骨しゃぶり氏によって提唱された、ChatGPTに顔画像をつけてカスタム指示で人格も指定することで、お姉ちゃん化するカスタマイズのことである。 honeshabri.hatenablog.com 当時自分もやってみたくなって真似してみたら意外に大変だったという記事を書いた。 nomolk.hatenablog.com 自分の...
 
-### 5. M 4.7 - 26 km WSW of Tocopilla, Chile
+### 6. M 4.7 - 26 km WSW of Tocopilla, Chile
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-08-30T05:37:33.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tcwp
 - summary: Time 2026-08-30 05:19:51 UTC 2026-08-30 05:19:51 UTC at epicenter Location 22.179°S 70.439°W Depth 52.12 km (32.38 mi)
 
-### 6. 「スタートアップだから」が通用しない、大手製造業向けSaaSのAWSセキュリティ設計
+### 7. 「スタートアップだから」が通用しない、大手製造業向けSaaSのAWSセキュリティ設計
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-08-29T23:47:17+00:00`
