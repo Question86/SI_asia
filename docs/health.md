@@ -1,6 +1,6 @@
 # Senna Pipeline Health
 
-_Generated: 2026-08-30T16:53:47+00:00_
+_Generated: 2026-08-30T17:01:31+00:00_
 
 Status: `warning`
 
