@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-30T07:26:37Z_
+_Generated: 2026-08-30T07:37:02Z_
 
 ## Lageurteil
 
@@ -22,31 +22,41 @@ Stärkste Dynamik nach Gate-Recheck: “tailscale/tailcat” — Die Dynamik lie
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-08-29T23:47:17+00:00` / age_days `0.32`
+- Published: `2026-08-29T23:47:17+00:00` / age_days `0.33`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security
 - Quelle: https://zenn.dev/facraft/articles/aws-org-security-for-enterprise-saas
 
+### tailscale/tailcat
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `22.5`
+- Published: `2026-08-30T06:48:59+00:00` / age_days `0.03`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: momentum delta +2, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
+- Quelle: https://github.com/tailscale/tailcat
+
 ### 「スタートアップだから」が通用しない、大手製造業向けSaaSのAWSセキュリティ設計
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.0`
-- Published: `2026-08-30T02:26:46+00:00` / age_days `0.21`
+- Published: `2026-08-30T02:26:46+00:00` / age_days `0.22`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
 - Quelle: https://zenn.dev/facraft/articles/aws-org-security-for-enterprise-saas
 
-### tailscale/tailcat
+### THU-MAIC/OpenMAIC
 
-- Band: `strong` (raw `strong`)
-- Dynamics score: `20.0`
+- Band: `watch` (raw `watch`)
+- Dynamics score: `19.5`
 - Published: `2026-08-30T06:48:59+00:00` / age_days `0.03`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +1, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
-- Quelle: https://github.com/tailscale/tailcat
+- Warum: momentum delta +2, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
+- Quelle: https://github.com/THU-MAIC/OpenMAIC
 
 ### ビット・トレード・ワン、USB PD充電器を可変電源にする「USB PD Power Controller」 - エルミタージュ秋葉原
 
@@ -62,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “tailscale/tailcat” — Die Dynamik lie
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.5`
-- Published: `2026-08-30T05:39:01+00:00` / age_days `0.07`
+- Published: `2026-08-30T05:39:01+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -78,41 +88,31 @@ Stärkste Dynamik nach Gate-Recheck: “tailscale/tailcat” — Die Dynamik lie
 - Warum: high terms: active, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
 - Quelle: https://github.com/THU-MAIC/OpenMAIC
 
-### THU-MAIC/OpenMAIC
+### p-e-w/heretic
 
 - Band: `watch` (raw `watch`)
-- Dynamics score: `17.0`
+- Dynamics score: `16.5`
 - Published: `2026-08-30T06:48:59+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +1, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
-- Quelle: https://github.com/THU-MAIC/OpenMAIC
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +2
+- Quelle: https://github.com/p-e-w/heretic
 
 ### AI ポン出しスライド品評会 - Object.create(null)
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `15.0`
-- Published: `2026-08-30T03:17:26+00:00` / age_days `0.17`
+- Published: `2026-08-30T03:17:26+00:00` / age_days `0.18`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://susisu.hatenablog.com/entry/2026/08/29/235949
 
-### p-e-w/heretic
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `14.0`
-- Published: `2026-08-30T06:48:59+00:00` / age_days `0.03`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1
-- Quelle: https://github.com/p-e-w/heretic
-
 ### 技術書典21で「Goで作って学ぶリアルタイム通信サーバー入門 〜自作ターミナルゲームでわかるオンラインゲームの裏側〜」という本を出します - $shibayu36->blog;
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-08-30T02:26:46+00:00` / age_days `0.21`
+- Published: `2026-08-30T02:26:46+00:00` / age_days `0.22`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
