@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-31T12:13:26+00:00",
+  "generated_at": "2026-08-31T12:39:12+00:00",
   "topics": {
     "general": [
       {
@@ -47,6 +47,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2f"
       },
       {
+        "title": "Vulnérabilité dans Python (21 août 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-08-21T00:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1062/"
+      },
+      {
         "title": "松本デジタル大臣が米国を訪問しました",
         "source": "Japan Digital Agency News RSS",
         "published_at": "2026-08-31T06:54:14+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-08-31T06:00:00+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/news/8f0fb90c-f2d2-49d3-a5a4-d2b0f2293e31"
-      },
-      {
-        "title": "アナログ規制の見直し状況に関するダッシュボードおよび資料を更新しました",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-08-31T06:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.digital.go.jp/resources/govdashboard/administrative_research"
       }
     ],
     "security": [
@@ -270,6 +270,13 @@
         "url": "https://itrend.kikkakeagent.co.jp/articles/223"
       },
       {
+        "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (21 août 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-08-21T00:00:00+00:00",
+        "relevance_score": 11,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1064/"
+      },
+      {
         "title": "Southeast Asia does not have one AI advantage – it has 11",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-08-31T03:30:21+00:00",
@@ -282,13 +289,6 @@
         "published_at": "2026-08-31T01:15:59+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/swot-is-not-boring-you-are-just-using-it-too-late-20260821/"
-      },
-      {
-        "title": "AI and monetary policy",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-08-17T00:00:00+00:00",
-        "relevance_score": 10,
-        "url": "https://www.bis.org/speeches/20260817-ai-and-monetary-policy"
       }
     ],
     "github": [
