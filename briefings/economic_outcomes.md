@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-08-31T05:56:36+00:00`
+Generated: `2026-08-31T06:24:15+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -10,10 +10,11 @@ Generated: `2026-08-31T05:56:36+00:00`
 | JetBrains/go-modern-guidelines | $0 | — | 0 | 0 | dormant |
 | Zabbix agentにおけるDLL読み込みに関する脆弱性 | $0 | — | 0 | 0 | dormant |
 | M 5.0 - 64 km W of Labuha, Indonesia | $0 | — | 0 | 0 | dormant |
+| Why Japan’s booming AI market is harder to crack than it looks | $0 | — | 0 | 0 | active |
 | 無料のLM Studio、DFlash/DSpark/MTPで推論を高速化 | $0 | — | 0 | 0 | dormant |
 | tailscale/tailcat | $0 | — | 0 | 0 | dormant |
 | ITエンジニアのためのライフスタイルメディア KIKKAKE ITREND | $0 | — | 0 | 0 | active |
-| 技術書典21で「Goで作って学ぶリアルタイム通信サーバー入門 〜自作ターミナルゲームでわかるオンラインゲームの裏側〜」という本を出します - $shibayu36->blog; | $0 | — | 0 | 0 | active |
+| 技術書典21で「Goで作って学ぶリアルタイム通信サーバー入門 〜自作ターミナルゲームでわかるオンラインゲームの裏側〜」という本を出します - $shibayu36->blog; | $0 | — | 0 | 0 | dormant |
 | M 4.6 - 52 km NNE of Ruteng, Indonesia | $0 | — | 0 | 0 | dormant |
 | 知人がものの数分で設定したという、高齢のお父さん用iPhone…ここまで潔いのはなかなか見かけない「視覚支援だ～」「これはめっちゃわかりやすい」 | $0 | — | 0 | 0 | dormant |
 | M 4.8 - 110 km E of Miyako, Japan | $0 | — | 0 | 0 | dormant |
@@ -24,8 +25,7 @@ Generated: `2026-08-31T05:56:36+00:00`
 | Thailand’s AI startup push gets OpenAI backing through new public-private accelerator | $0 | — | 0 | 0 | active |
 | curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？ | $0 | — | 0 | 0 | dormant |
 | ローカルLLMを直接実行できるマイコンボード「Arduino VENTUNO Q」予約販売開始 \| gihyo.jp | $0 | — | 0 | 0 | dormant |
-| 「数万曲の歌詞を生成ＡＩが無断学習」…ソニーＧ傘下の音楽出版など３５社、アンソロピックとＣＥＯらを提訴（読売新聞オンライン） - Yahoo!ニュース | $0 | — | 0 | 0 | active |
+| 「数万曲の歌詞を生成ＡＩが無断学習」…ソニーＧ傘下の音楽出版など３５社、アンソロピックとＣＥＯらを提訴（読売新聞オンライン） - Yahoo!ニュース | $0 | — | 0 | 0 | dormant |
 | ベテランエンジニアのPRレビュー187件を分類してみたら、バグは5件に1件しか指摘されていなかった - Qiita | $0 | — | 0 | 0 | dormant |
 | AI is changing global expansion, but it cannot standardise local markets | $0 | — | 0 | 0 | active |
 | bilawalsidhu/gods-eye-view | $0 | — | 0 | 0 | dormant |
-| GitHub - iannuttall/barkeep: Manage hidden macOS menu bar items from one place | $0 | — | 0 | 0 | dormant |
