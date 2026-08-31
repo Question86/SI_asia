@@ -1,6 +1,6 @@
 # Economic Evidence Candidates
 
-Generated: `2026-08-31T03:37:21+00:00`
+Generated: `2026-08-31T03:49:27+00:00`
 
 > Candidates are not accepted evidence and carry no causal attribution.
 
@@ -36,12 +36,12 @@ Generated: `2026-08-31T03:37:21+00:00`
 | `evt_5c64d6dc8a71c6d72b83` | 50,000,000 | USD | 0.55 | secondary_or_unknown | pending |
 | `evt_cb96b3b8c44258846f64` | 50,000,000 | USD | 0.55 | secondary_or_unknown | pending |
 | `evt_cb96b3b8c44258846f64` | 50,000,000 | USD | 0.55 | secondary_or_unknown | pending |
+| `evt_04c8c9515e6d6caa68b7` | 50,000,000 | USD | 0.55 | secondary_or_unknown | pending |
+| `evt_04c8c9515e6d6caa68b7` | 50,000,000 | USD | 0.55 | secondary_or_unknown | pending |
 | `evt_a9168860075ad99c5a0d` | 708,000 | USD | 0.55 | secondary_or_unknown | pending |
 | `evt_a9168860075ad99c5a0d` | 708,000 | USD | 0.55 | secondary_or_unknown | pending |
 | `evt_a77bf86ad7c289b6fd5e` | 708,000 | USD | 0.55 | secondary_or_unknown | pending |
 | `evt_a77bf86ad7c289b6fd5e` | 708,000 | USD | 0.55 | secondary_or_unknown | pending |
-| `evt_a9168860075ad99c5a0d` | 708,000 | USD | 0.55 | secondary_or_unknown | pending |
-| `evt_a9168860075ad99c5a0d` | 708,000 | USD | 0.55 | secondary_or_unknown | pending |
 | `evt_a9168860075ad99c5a0d` | 708,000 | USD | 0.55 | secondary_or_unknown | pending |
 | `evt_a9168860075ad99c5a0d` | 708,000 | USD | 0.55 | secondary_or_unknown | pending |
 | `evt_a9168860075ad99c5a0d` | 708,000 | USD | 0.55 | secondary_or_unknown | pending |

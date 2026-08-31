@@ -1,9 +1,10 @@
 # Economic Outcomes
 
-Generated: `2026-08-31T03:37:21+00:00`
+Generated: `2026-08-31T03:49:27+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
+| Southeast Asia’s chip-hub ambition is colliding with its chip-smuggling problem | $0 | — | 0 | 0 | active |
 | M 4.6 - 170 km ESE of Kuril’sk, Russia | $0 | — | 0 | 0 | dormant |
 | M 5.8 - Kermadec Islands, New Zealand | $0 | — | 0 | 0 | dormant |
 | JetBrains/go-modern-guidelines | $0 | — | 0 | 0 | dormant |
@@ -28,4 +29,3 @@ Generated: `2026-08-31T03:37:21+00:00`
 | Isabel Schnabel: Central banks on-chain | $0 | — | 0 | 0 | dormant |
 | M 4.7 - 25 km ESE of Lospalos, Timor Leste | $0 | — | 0 | 0 | dormant |
 | SPFとDKIMとDMARCの役割の違いを整理する | $0 | — | 0 | 0 | dormant |
-| Why every warehouse in Singapore will run on AI safety monitoring within five years | $0 | — | 0 | 0 | dormant |
