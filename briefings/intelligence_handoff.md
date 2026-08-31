@@ -1,28 +1,28 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-31T03:17:19Z_
+_Generated: 2026-08-31T03:41:54Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “Southeast Asia is not one market; it’s five economies moving at different speeds” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.0.
+Stärkste Dynamik nach Gate-Recheck: “Southeast Asia is not one market; it’s five economies moving at different speeds” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=21.0.
 
 ## Top Dynamics
 
 ### Southeast Asia is not one market; it’s five economies moving at different speeds
 
 - Band: `strong` (raw `strong`)
-- Dynamics score: `24.0`
-- Published: `2026-08-31T02:35:07+00:00` / age_days `0.03`
+- Dynamics score: `21.0`
+- Published: `2026-08-31T02:35:07+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +2
+- Warum: momentum delta +3
 - Quelle: https://e27.co/southeast-asia-is-not-one-market-its-five-economies-moving-at-different-speeds-20260828/
 
 ### China’s tax reform matters more to Southeast Asia than Wall Street
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-08-31T02:09:37+00:00` / age_days `0.05`
+- Published: `2026-08-31T02:09:37+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “Southeast Asia is not one market; it’s
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-08-31T01:34:58+00:00` / age_days `0.07`
+- Published: `2026-08-31T01:34:58+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “Southeast Asia is not one market; it’s
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.0`
-- Published: `2026-08-31T01:34:58+00:00` / age_days `0.07`
+- Published: `2026-08-31T01:34:58+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “Southeast Asia is not one market; it’s
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-08-31T00:59:38+00:00` / age_days `0.1`
+- Published: `2026-08-31T00:59:38+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “Southeast Asia is not one market; it’s
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-08-31T01:34:58+00:00` / age_days `0.07`
+- Published: `2026-08-31T01:34:58+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “Southeast Asia is not one market; it’s
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-08-31T02:09:37+00:00` / age_days `0.05`
+- Published: `2026-08-31T02:09:37+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -82,17 +82,37 @@ Stärkste Dynamik nach Gate-Recheck: “Southeast Asia is not one market; it’s
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `12.0`
-- Published: `2026-08-31T02:30:44+00:00` / age_days `0.03`
+- Published: `2026-08-31T02:30:44+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
 - Quelle: https://e27.co/southeast-asia-is-not-one-market-its-five-economies-moving-at-different-speeds-20260828/
 
+### Southeast Asia does not have one AI advantage – it has 11
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `8.5`
+- Published: `2026-08-31T03:36:59+00:00` / age_days `0.0`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: momentum delta +1, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://e27.co/southeast-asia-does-not-have-one-ai-advantage-it-has-11-20260828/
+
+### Building burnout-resistant teams
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `8.0`
+- Published: `2026-08-31T03:18:32+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +1
+- Quelle: https://e27.co/building-burnout-resistant-teams-20260828/
+
 ### The environmental ethics of AI should be a product decision, not a sustainability footnote
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `7.0`
-- Published: `2026-08-31T01:00:41+00:00` / age_days `0.09`
+- Published: `2026-08-31T01:00:41+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -102,30 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “Southeast Asia is not one market; it’s
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `6.0`
-- Published: `2026-08-30T02:26:46+00:00` / age_days `1.04`
+- Published: `2026-08-30T02:26:46+00:00` / age_days `1.05`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://blog.shibayu36.org/entry/2026/08/30/173000
-
-### 「数万曲の歌詞を生成ＡＩが無断学習」…ソニーＧ傘下の音楽出版など３５社、アンソロピックとＣＥＯらを提訴（読売新聞オンライン） - Yahoo!ニュース
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `5.0`
-- Published: `2026-08-30T23:10:19+00:00` / age_days `0.17`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: no strong comparative reason
-- Quelle: https://news.yahoo.co.jp/articles/2490663bdfd440b8083dc2af35532a6817f85681
-
-### 【独自】Jアラート「偽の警報可能」 専門家、発信元保証なし
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `5.0`
-- Published: `2026-08-30T12:11:27+00:00` / age_days `0.63`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: no strong comparative reason
-- Quelle: https://www.47news.jp/14868281.html
 
 END OF DOCUMENT
