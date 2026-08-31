@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T16:55:24+00:00",
-  "run_id": "2026-08-31T16:55:24+00:00",
+  "generated_at": "2026-08-31T17:07:57+00:00",
+  "run_id": "2026-08-31T17:07:57+00:00",
   "date": "2026-08-31",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -24,7 +24,7 @@
     "high": 0,
     "medium": 35,
     "observe": 47,
-    "source_errors": 1
+    "source_errors": 2
   },
   "sections": {
     "high": [],
@@ -3945,6 +3945,12 @@
   ],
   "new_findings": [],
   "source_errors": [
+    {
+      "source_id": "twcert_tvn_vulnerability_notes",
+      "source_name": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f22500837d0>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))"
+    },
     {
       "source_id": "bis_statistics",
       "source_name": "BIS Statistical Releases",

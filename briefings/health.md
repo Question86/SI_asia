@@ -1,6 +1,6 @@
 # Senna Pipeline Health
 
-_Generated: 2026-08-31T16:55:24+00:00_
+_Generated: 2026-08-31T17:07:57+00:00_
 
 Status: `warning`
 
@@ -11,7 +11,7 @@ Status: `warning`
 - coverage confidence: `limited`
 - findings displayed: `82`
 - new findings this run: `0`
-- source errors: `1`
+- source errors: `2`
 
 ---
 END OF DOCUMENT
