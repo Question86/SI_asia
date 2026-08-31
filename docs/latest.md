@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-31T03:18:30+00:00_
+_Generiert: 2026-08-31T03:36:56+00:00_
 
 ## Kurzlage
 
-9 neue relevante Treffer. Stärkstes Signal: „The environmental ethics of AI should be a product decision, not a sustainability footnote“ aus e27 Asia Startup and Tech Feed (Score 15, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+10 neue relevante Treffer. Stärkstes Signal: „The environmental ethics of AI should be a product decision, not a sustainability footnote“ aus e27 Asia Startup and Tech Feed (Score 15, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -42,14 +42,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: China’s effort to strengthen the taxation of overseas assets held by its citizens marks more than a fiscal reform. It signals a shift in how the country views the relationship between private wealth, capital mobility, and national development. While the policy aims to recover unpaid taxes and increase government revenue, its effects may extend well […] The post China’s tax reform matters more to Southeast Asia than…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **SWOT is not boring; you are just using it too late** — Score 10, observation — [Quelle](https://e27.co/swot-is-not-boring-you-are-just-using-it-too-late-20260821/)
+- **Southeast Asia does not have one AI advantage – it has 11** — Score 10, observation — [Quelle](https://e27.co/southeast-asia-does-not-have-one-ai-advantage-it-has-11-20260828/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-08-31T01:15:59+00:00`, fetched `2026-08-31T01:34:26+00:00`
-  - Treffer: APAC Trend Radar, Markets/Capital Structure
+  - Zeit: published `2026-08-31T03:30:21+00:00`, fetched `2026-08-31T03:36:24+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); recent (+1.0)
-  - Kurz: Strengths. Weaknesses. Opportunities. Threats. Someone fills four boxes with familiar phrases, takes a photo, and never looks at it again. That is not a strategy framework. It is office wallpaper. Used at the right time, however, frameworks such as 5W1H, SWOT, and PESTLE can help a person avoid one of the most expensive mistakes in […] The post SWOT is not boring; you are just using it too late appeared first on e27…
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
+  - Kurz: The global AI race is often described as a contest to build the largest models, secure the most advanced chips and attract the biggest data-centre investments. That framing does not fit Southeast Asia. Most countries in the region will not compete directly with American or Chinese frontier laboratories. Their opportunity lies in combining imported models […] The post Southeast Asia does not have one AI advantage – i…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **「数万曲の歌詞を生成ＡＩが無断学習」…ソニーＧ傘下の音楽出版など３５社、アンソロピックとＣＥＯらを提訴（読売新聞オンライン） - Yahoo!ニュース** — Score 5, observation — [Quelle](https://news.yahoo.co.jp/articles/2490663bdfd440b8083dc2af35532a6817f85681)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

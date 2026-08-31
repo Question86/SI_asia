@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-31T03:18:30+00:00_
+_Generated: 2026-08-31T03:36:56+00:00_
 
 ## Status
 - status: `warning`
-- findings: `9`
+- findings: `10`
 
 ## Top Signals
 
@@ -29,18 +29,18 @@ _Generated: 2026-08-31T03:18:30+00:00_
 - url: https://e27.co/chinas-tax-reform-matters-more-to-southeast-asia-than-wall-street-20260828/
 - summary: China’s effort to strengthen the taxation of overseas assets held by its citizens marks more than a fiscal reform. It signals a shift in how the country views the relationship between private wealth, capital mobility, and national development. While the polic…
 
-### 4. SWOT is not boring; you are just using it too late
+### 4. Southeast Asia does not have one AI advantage – it has 11
+- source: e27 Asia Startup and Tech Feed
+- score: `10`
+- published: `2026-08-31T03:30:21+00:00`
+- url: https://e27.co/southeast-asia-does-not-have-one-ai-advantage-it-has-11-20260828/
+- summary: The global AI race is often described as a contest to build the largest models, secure the most advanced chips and attract the biggest data-centre investments. That framing does not fit Southeast Asia. Most countries in the region will not compete directly wi…
+
+### 5. SWOT is not boring; you are just using it too late
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-08-31T01:15:59+00:00`
 - url: https://e27.co/swot-is-not-boring-you-are-just-using-it-too-late-20260821/
 - summary: Strengths. Weaknesses. Opportunities. Threats. Someone fills four boxes with familiar phrases, takes a photo, and never looks at it again. That is not a strategy framework. It is office wallpaper. Used at the right time, however, frameworks such as 5W1H, SWOT…
-
-### 5. 「数万曲の歌詞を生成ＡＩが無断学習」…ソニーＧ傘下の音楽出版など３５社、アンソロピックとＣＥＯらを提訴（読売新聞オンライン） - Yahoo!ニュース
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-08-30T23:10:19+00:00`
-- url: https://news.yahoo.co.jp/articles/2490663bdfd440b8083dc2af35532a6817f85681
-- summary: 【ニューヨーク＝木瀬武】ソニーグループ傘下の音楽出版大手など３５社は、数万曲の歌詞を無断で生成ＡＩ（人工知能）の学習に利用した行為などが著作権侵害にあたるとして、米ＡＩ開発企業アンソロピックと同社のダリオ・アモデイ最高経営責任者（ＣＥＯ）ら創業者２人を米カリフォルニア州の連邦地方裁判所に提訴した...
 
 END OF DOCUMENT
