@@ -1,53 +1,15 @@
 {
-  "generated_at": "2026-08-31T07:18:22+00:00",
+  "generated_at": "2026-08-31T07:39:56+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 37,
-    "clusters": 32,
+    "findings": 39,
+    "clusters": 33,
     "cross_source_confrmed": 0,
     "hot": 0,
-    "early_signals": 2,
+    "early_signals": 1,
     "dominance_penalized": 3
   },
   "clusters": [
-    {
-      "key": "title:why-japan-booming-market-harder-crack-than-looks",
-      "title": "Why Japan’s booming AI market is harder to crack than it looks",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/why-japans-booming-ai-market-is-harder-to-crack-than-it-looks-20260831/"
-      ],
-      "finding_count": 1,
-      "max_score": 14,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 21.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "raw_network_score": 16.1,
-      "ranking_score": 21.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-08-31T06:23:43+00:00"
-    },
     {
       "key": "title:web-image-monitor-mfp",
       "title": "リコー製Web Image Monitorを実装している複数のレーザープリンタおよび複合機（MFP）におけるオープンリダイレクトの脆弱性",
@@ -206,6 +168,45 @@
       "first_seen_at": "2026-08-31T01:34:58+00:00"
     },
     {
+      "key": "domain:www.heise.de",
+      "title": "Root-Sicherheitslücke bedroht cPanel/WHM",
+      "sources": [
+        "heise Security Alerts"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.heise.de/news/Root-Sicherheitsluecke-bedroht-cPanel-WHM-11434895.html",
+        "https://www.heise.de/news/Exchange-Sicherheitsluecke-85-Prozent-der-On-Prem-Server-in-Deutschland-anfaellig-11434785.html"
+      ],
+      "finding_count": 2,
+      "max_score": 10,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 16.21,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 17.2,
+      "ranking_score": 16.21,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 2.21,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T07:39:37+00:00"
+    },
+    {
       "key": "domain:www.twcert.org",
       "title": "惡意npm攻擊再進化！駭客利用區塊鏈隱藏C2位址",
       "sources": [
@@ -225,18 +226,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 15.71,
+      "network_score": 15.7,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "raw_network_score": 20.3,
-      "ranking_score": 15.71,
+      "ranking_score": 15.7,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.21,
+      "baseline_bonus": 0.2,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -244,6 +245,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-06-19T11:28:55+00:00"
+    },
+    {
+      "key": "title:why-japan-booming-market-harder-crack-than-looks",
+      "title": "Why Japan’s booming AI market is harder to crack than it looks",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/why-japans-booming-ai-market-is-harder-to-crack-than-it-looks-20260831/"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 15.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "raw_network_score": 16.1,
+      "ranking_score": 15.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-31T06:23:43+00:00"
     },
     {
       "key": "domain:gigazine.net",
@@ -263,18 +302,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 14.72,
+      "network_score": 14.62,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 14.1,
-      "ranking_score": 14.72,
+      "ranking_score": 14.62,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 1.22,
+      "baseline_bonus": 1.12,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -401,45 +440,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-08-31T02:09:37+00:00"
-    },
-    {
-      "key": "domain:www.bis.org",
-      "title": "AI and monetary policy",
-      "sources": [
-        "BIS Central Bankers Speeches"
-      ],
-      "source_classes": [
-        "central_bank",
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.bis.org/speeches/20260817-ai-and-monetary-policy"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 13.2,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "raw_network_score": 15.1,
-      "ranking_score": 13.2,
-      "initial_reach_tier": "institutional",
-      "source_reach_score": 5.0,
-      "authority_bonus_capped": 3.0,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.7,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 3.0,
-      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
       "key": "title:changing-global-expansion-but-cannot-standardise-local-markets",
@@ -594,6 +594,45 @@
       "first_seen_at": "2026-08-31T01:34:58+00:00"
     },
     {
+      "key": "domain:www.bis.org",
+      "title": "AI and monetary policy",
+      "sources": [
+        "BIS Central Bankers Speeches"
+      ],
+      "source_classes": [
+        "central_bank",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.bis.org/speeches/20260817-ai-and-monetary-policy"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 10.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "raw_network_score": 12.1,
+      "ranking_score": 10.0,
+      "initial_reach_tier": "institutional",
+      "source_reach_score": 5.0,
+      "authority_bonus_capped": 3.0,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
       "key": "title:thailand-startup-push-gets-openai-backing-through-public",
       "title": "Thailand’s AI startup push gets OpenAI backing through new public-private accelerator",
       "sources": [
@@ -708,34 +747,34 @@
       "first_seen_at": "2026-08-31T06:56:08+00:00"
     },
     {
-      "key": "domain:www.heise.de",
-      "title": "Exchange-Sicherheitslücke: 85 Prozent der On-Prem-Server in Deutschland anfällig",
+      "key": "url:https://soiree.blue/",
+      "title": "青空の裏がわ",
       "sources": [
-        "heise Security Alerts"
+        "Hatena Bookmark Hotentry IT"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://www.heise.de/news/Exchange-Sicherheitsluecke-85-Prozent-der-On-Prem-Server-in-Deutschland-anfaellig-11434785.html"
+        "https://soiree.blue/"
       ],
       "finding_count": 1,
-      "max_score": 7,
+      "max_score": 5,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 8.5,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 9.0,
       "hot": false,
       "watchgraph_modules": [],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 9.1,
-      "ranking_score": 8.5,
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 10.1,
+      "ranking_score": 9.0,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
+      "momentum_bonus": 2.5,
       "baseline_bonus": 0.0,
       "early_signal": false,
       "early_signal_bonus": 0.0,
@@ -743,7 +782,7 @@
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-06-19T07:39:37+00:00"
+      "first_seen_at": "2026-08-31T07:39:56+00:00"
     },
     {
       "key": "earthquake:m 4.5 - south of the fiji islands:4.5",
@@ -1245,7 +1284,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-08-31T07:18:22Z",
+    "generated_at": "2026-08-31T07:39:56Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

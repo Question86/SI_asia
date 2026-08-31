@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-31T07:18:18+00:00_
+_Generiert: 2026-08-31T07:39:52+00:00_
 
 ## Kurzlage
 
-37 neue relevante Treffer. Stärkstes Signal: „Southeast Asia’s chip-hub ambition is colliding with its chip-smuggling problem“ aus e27 Asia Startup and Tech Feed (Score 18, risk). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+39 neue relevante Treffer. Stärkstes Signal: „Southeast Asia’s chip-hub ambition is colliding with its chip-smuggling problem“ aus e27 Asia Startup and Tech Feed (Score 18, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -141,6 +141,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)
   - Kurz: ■調査概要調査名称：ITエンジニアの開発メンタル負荷実態調査調査方法：IDEATECHが提供するリサーチマーケティング「リサピー®︎」の企画によるインターネット調査調査期間：2026年5月13日～同年5月20日有効回答：システム開発に携わるITエンジニア321名 ※構成比は小数点以下第2位を四捨五入しているため、合計しても必ず...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Root-Sicherheitslücke bedroht cPanel/WHM** — Score 10, observation — [Quelle](https://www.heise.de/news/Root-Sicherheitsluecke-bedroht-cPanel-WHM-11434895.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-08-31T07:33:00.000+00:00`, fetched `2026-08-31T07:39:11+00:00`
+  - Treffer: Security, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Webentwicklung (+3.0); recent (+1.0)
+  - Kurz: In aktuellen Versionen haben die Entwickler der Webhosting-Control-Panel-Software cPanel/WHM eine Schwachstelle geschlossen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AI and monetary policy** — Score 10, opportunity — [Quelle](https://www.bis.org/speeches/20260817-ai-and-monetary-policy)
   - Quelle: BIS Central Bankers Speeches / `rss`
   - Zeit: published `2026-08-17T00:00:00+00:00`, fetched `2026-08-31T07:17:39+00:00`
@@ -213,15 +222,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 松本デジタル大臣が米国を訪問しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **令和8年熊本地震に関する対応状況について（8月31日）** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/7266f120-48b5-4a2a-a2d6-e1467df7824e)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-08-31T06:10:53+00:00`, fetched `2026-08-31T06:23:01+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 令和8年熊本地震に関する対応状況について（8月31日）
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
@@ -235,5 +235,4 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Quellenfehler
 
-- `e27_asia_startups_feed` (rss): HTTPSConnectionPool(host='e27.co', port=443): Read timed out. (read timeout=8)
 - `bis_statistics` (rss): 404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss
