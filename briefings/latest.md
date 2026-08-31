@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-31T21:12:50+00:00_
+_Generiert: 2026-08-31T21:32:30+00:00_
 
 ## Kurzlage
 
@@ -33,10 +33,10 @@ _Generiert: 2026-08-31T21:12:50+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Lebanon
-- **GDACS: Green flood alert in Türkiye** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104131)
+- **GDACS: Green notification for tropical cyclone FIVE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001316)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green flood alert in Türkiye
+  - Kurz: Green notification for tropical cyclone FIVE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 - **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 31/08/2026 08:03 UTC, 9 thousand in MMI VI.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1562739)
   - Quelle: GDACS
   - Zeit: ``

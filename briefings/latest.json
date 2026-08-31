@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T21:12:50+00:00",
-  "run_id": "2026-08-31T21:12:50+00:00",
+  "generated_at": "2026-08-31T21:32:30+00:00",
+  "run_id": "2026-08-31T21:32:30+00:00",
   "date": "2026-08-31",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 88,
     "displayed_findings": 88,
     "high": 0,
@@ -4255,29 +4255,7 @@
       "id": "fb3933b479a923918e3f"
     }
   ],
-  "new_findings": [
-    {
-      "title": "個人開発のオンライン将棋「飛角」終了 「ほとんどがBOT対局、人同士が成立しない」状況に",
-      "url": "https://www.itmedia.co.jp/news/article/2608/31/2000000982/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-31T08:16:50+00:00",
-      "fetched_at": "2026-08-31T21:12:21+00:00",
-      "summary": "個人開発者による無料のオンライン将棋対局サイト「飛角」が、リリースから約4カ月の8月31日でサービスを終了する。公式Xが29日に発表した。 多い時には1日1000局近い対局があったが、現在は1日100局ほどに減少し、そのほとんどがBOTとの対局になっていた。「人と人との対局を楽しんでもらいたい」という思いで運営して...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a8fbc8ebd74097b1fc9e"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [
     {
       "source_id": "bis_statistics",
