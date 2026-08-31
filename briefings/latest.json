@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T11:30:53+00:00",
-  "run_id": "2026-08-31T11:30:53+00:00",
+  "generated_at": "2026-08-31T11:40:08+00:00",
+  "run_id": "2026-08-31T11:40:08+00:00",
   "date": "2026-08-31",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 69
+      "configured_public_sources_only": 71
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 69,
-    "displayed_findings": 69,
+    "today_file_total": 71,
+    "displayed_findings": 71,
     "high": 0,
-    "medium": 33,
-    "observe": 36,
+    "medium": 34,
+    "observe": 37,
     "source_errors": 1
   },
   "sections": {
@@ -141,6 +141,30 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "4791092ef853e4723300"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] Red Hat Undertow: Schwachstelle ermöglicht Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3099",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-31T11:36:05+00:00",
+        "fetched_at": "2026-08-31T11:39:38+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Undertow ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Patch",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7a50d1fc740c767e5b9f"
       },
       {
         "title": "[NEU] [mittel] Red Hat Enterprise Linux (pipewire,dbus-broker): Mehrere Schwachstellen ermöglichen Denial of Service",
@@ -1437,6 +1461,27 @@
         "id": "14f1a8570fefc9641572"
       },
       {
+        "title": "M5 Max搭載MacBook Proは付属140Wでは足りず毎時12%放電 - iPhone Mania",
+        "url": "https://iphone-mania.jp/mac-605087/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-31T07:14:25+00:00",
+        "fetched_at": "2026-08-31T11:39:38+00:00",
+        "summary": "Appleの最上位ノートPCであるM5 Max搭載のMacBook Pro（16インチ）が、付属する140Wの電源アダプタでは高負荷時に電力をまかないきれないと、海外の検証メディアNotebookCheckが報告しました。CPUとGPUをフルに動かすと本体の消費電力が付属アダプタの供給を上回り、不足分を内蔵バッテリーが補うことになります。 付属1...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "26650f897ee5705b4ee2"
+      },
+      {
         "title": "青空の裏がわ",
         "url": "https://soiree.blue/",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1801,6 +1846,30 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "4791092ef853e4723300"
+    },
+    {
+      "title": "[NEU] [UNGEPATCHT] [mittel] Red Hat Undertow: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3099",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-31T11:36:05+00:00",
+      "fetched_at": "2026-08-31T11:39:38+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Undertow ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Patch",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7a50d1fc740c767e5b9f"
     },
     {
       "title": "[NEU] [mittel] Red Hat Enterprise Linux (pipewire,dbus-broker): Mehrere Schwachstellen ermöglichen Denial of Service",
@@ -3095,6 +3164,27 @@
       "id": "14f1a8570fefc9641572"
     },
     {
+      "title": "M5 Max搭載MacBook Proは付属140Wでは足りず毎時12%放電 - iPhone Mania",
+      "url": "https://iphone-mania.jp/mac-605087/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-31T07:14:25+00:00",
+      "fetched_at": "2026-08-31T11:39:38+00:00",
+      "summary": "Appleの最上位ノートPCであるM5 Max搭載のMacBook Pro（16インチ）が、付属する140Wの電源アダプタでは高負荷時に電力をまかないきれないと、海外の検証メディアNotebookCheckが報告しました。CPUとGPUをフルに動かすと本体の消費電力が付属アダプタの供給を上回り、不足分を内蔵バッテリーが補うことになります。 付属1...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "26650f897ee5705b4ee2"
+    },
+    {
       "title": "青空の裏がわ",
       "url": "https://soiree.blue/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3347,47 +3437,49 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [mittel] IBM DataPower Gateway: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3098",
+      "title": "[NEU] [UNGEPATCHT] [mittel] Red Hat Undertow: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3099",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-31T11:21:05+00:00",
-      "fetched_at": "2026-08-31T11:30:16+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM DataPower Gateway ausnutzen, um Sicherheitsvorkehrungen zu umgehen oder einen Cross Site Scripting Angriff durchzuführen.",
+      "published_at": "2026-08-31T11:36:05+00:00",
+      "fetched_at": "2026-08-31T11:39:38+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Undertow ausnutzen, um einen Denial of Service Angriff durchzuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
+        "Patch",
         "Schwachstelle",
         "Security"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "edcecfd38bc02d5080f5"
+      "id": "7a50d1fc740c767e5b9f"
     },
     {
-      "title": "Lumio Solar raises US$900K to bring plug-and-play solar appliances to Filipino households",
-      "url": "https://e27.co/lumio-solar-raises-us900k-to-bring-plug-and-play-solar-appliances-to-filipino-households-20260831/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "M5 Max搭載MacBook Proは付属140Wでは足りず毎時12%放電 - iPhone Mania",
+      "url": "https://iphone-mania.jp/mac-605087/",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-31T11:28:54+00:00",
-      "fetched_at": "2026-08-31T11:30:16+00:00",
-      "summary": "For many Filipino households and small businesses, solar power still looks like something built for wealthier homeowners: panels on a roof, a sizeable upfront bill, permits, installation work, and the assumption that the customer owns the property in the first place. Lumio Solar is betting that the next wave of adoption will look far more […] The post Lumio Solar raises US$900K to bring plug-and-play solar appliance…",
+      "published_at": "2026-08-31T07:14:25+00:00",
+      "fetched_at": "2026-08-31T11:39:38+00:00",
+      "summary": "Appleの最上位ノートPCであるM5 Max搭載のMacBook Pro（16インチ）が、付属する140Wの電源アダプタでは高負荷時に電力をまかないきれないと、海外の検証メディアNotebookCheckが報告しました。CPUとGPUをフルに動かすと本体の消費電力が付属アダプタの供給を上回り、不足分を内蔵バッテリーが補うことになります。 付属1...",
       "matched_keywords": [
-        "APAC Trend Radar"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "17ee6802bd9c5d7b45c8"
+      "id": "26650f897ee5705b4ee2"
     }
   ],
   "source_errors": [

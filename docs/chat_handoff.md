@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-31T11:30:53+00:00_
+_Generated: 2026-08-31T11:40:08+00:00_
 
 ## Status
 - status: `warning`
-- findings: `69`
+- findings: `71`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-08-31T11:30:53+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3096
 - summary: Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Langflow OSS ausnutzen, um Sicherheitsmaßnahmen zu umgehen, beliebigen Code auszuführen, Server-Side Request Forgery (SSRF) durchzuführen, sensible Daten offenzulegen oder zu manipuliere…
 
-### 4. [NEU] [mittel] Red Hat Enterprise Linux (pipewire,dbus-broker): Mehrere Schwachstellen ermöglichen Denial of Service
+### 4. [NEU] [UNGEPATCHT] [mittel] Red Hat Undertow: Schwachstelle ermöglicht Denial of Service
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-08-31T11:16:06+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3095
-- summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen.
+- published: `2026-08-31T11:36:05+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3099
+- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Undertow ausnutzen, um einen Denial of Service Angriff durchzuführen.
 
 ### 5. Southeast Asia startup funding finds a floor, but not a rebound
 - source: e27 Asia Startup and Tech Feed
