@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-08-31T19:15:40+00:00`
+Generated: `2026-08-31T19:24:08+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -28,9 +28,9 @@ Generated: `2026-08-31T19:15:40+00:00`
 | M 4.9 - 124 km N of Aksu, China | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
 | M 4.5 - 24 km WSW of Sipí, Colombia | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
 | M 4.6 - 170 km ESE of Kuril’sk, Russia | natural_disaster | $1.11M | $111.20M | $11.12B | 0.33 |
+| M 4.6 - 112 km SSW of Chirilagua, El Salvador | natural_disaster | $1.11M | $111.20M | $11.12B | 0.33 |
 | M 4.7 - 25 km ESE of Lospalos, Timor Leste | natural_disaster | $1.11M | $111.20M | $11.12B | 0.33 |
 | M 4.6 - 28 km ESE of Kuril’sk, Russia | natural_disaster | $1.11M | $111.20M | $11.12B | 0.33 |
-| M 4.8 - 13 km ENE of Himarë, Albania | natural_disaster | $1.11M | $111.20M | $11.12B | 0.33 |
 
 ## Interpretation
 
