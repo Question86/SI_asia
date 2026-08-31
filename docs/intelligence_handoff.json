@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-31T02:43:26Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Southeast Asia is not one market; it’s five economies moving at different speeds” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.0.",
+  "generated_at": "2026-08-31T02:53:12Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “China’s tax reform matters more to Southeast Asia than Wall Street” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,13 +11,13 @@
   ],
   "top_dynamics": [
     {
-      "title": "Southeast Asia is not one market; it’s five economies moving at different speeds",
-      "url": "https://e27.co/southeast-asia-is-not-one-market-its-five-economies-moving-at-different-speeds-20260828/",
+      "title": "China’s tax reform matters more to Southeast Asia than Wall Street",
+      "url": "https://e27.co/chinas-tax-reform-matters-more-to-southeast-asia-than-wall-street-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-31T02:35:07+00:00",
-      "age_days": 0.01,
+      "published_at": "2026-08-31T02:09:37+00:00",
+      "age_days": 0.03,
       "topics": [
-        "macro"
+        "general"
       ],
       "dynamics_score": 24.0,
       "raw_band": "strong",
@@ -25,23 +25,23 @@
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 2,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1"
+        "momentum delta +2"
       ],
       "summary": ""
     },
     {
-      "title": "China’s tax reform matters more to Southeast Asia than Wall Street",
-      "url": "https://e27.co/chinas-tax-reform-matters-more-to-southeast-asia-than-wall-street-20260828/",
+      "title": "Southeast Asia is not one market; it’s five economies moving at different speeds",
+      "url": "https://e27.co/southeast-asia-is-not-one-market-its-five-economies-moving-at-different-speeds-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-31T02:09:37+00:00",
-      "age_days": 0.02,
+      "published_at": "2026-08-31T02:35:07+00:00",
+      "age_days": 0.01,
       "topics": [
-        "general"
+        "macro"
       ],
       "dynamics_score": 21.5,
       "raw_band": "strong",
@@ -113,7 +113,7 @@
       "url": "https://news.yahoo.co.jp/articles/2490663bdfd440b8083dc2af35532a6817f85681",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T00:59:38+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -161,7 +161,7 @@
       "url": "https://e27.co/southeast-asia-is-not-one-market-its-five-economies-moving-at-different-speeds-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T02:30:44+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "macro"
       ],
@@ -185,22 +185,22 @@
       "url": "https://note.com/chizutodesign/n/neee5116b95b4",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T02:09:37+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "general"
       ],
-      "dynamics_score": 9.0,
+      "dynamics_score": 11.5,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 2,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1"
+        "momentum delta +2"
       ],
       "summary": ""
     },
@@ -209,7 +209,7 @@
       "url": "https://e27.co/the-environmental-ethics-of-ai-should-be-a-product-decision-not-a-sustainability-footnote-20260809/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T01:00:41+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -234,7 +234,7 @@
       "url": "https://blog.shibayu36.org/entry/2026/08/30/173000",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T02:26:46+00:00",
-      "age_days": 1.01,
+      "age_days": 1.02,
       "topics": [
         "ai"
       ],
