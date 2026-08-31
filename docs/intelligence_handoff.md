@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-31T03:51:12Z_
+_Generated: 2026-08-31T04:17:12Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “Southeast Asia’s chip-hub ambition is 
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-31T03:49:03+00:00` / age_days `0.0`
+- Published: `2026-08-31T03:49:03+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1, krass gate: single-source non-official/non-identity signal capped
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “Southeast Asia’s chip-hub ambition is 
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-08-31T02:35:07+00:00` / age_days `0.05`
+- Published: `2026-08-31T02:35:07+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “Southeast Asia’s chip-hub ambition is 
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-08-31T02:09:37+00:00` / age_days `0.07`
+- Published: `2026-08-31T02:09:37+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “Southeast Asia’s chip-hub ambition is 
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-08-31T01:34:58+00:00` / age_days `0.09`
+- Published: `2026-08-31T01:34:58+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “Southeast Asia’s chip-hub ambition is 
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.0`
-- Published: `2026-08-31T01:34:58+00:00` / age_days `0.09`
+- Published: `2026-08-31T01:34:58+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “Southeast Asia’s chip-hub ambition is 
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-08-31T00:59:38+00:00` / age_days `0.12`
+- Published: `2026-08-31T00:59:38+00:00` / age_days `0.14`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “Southeast Asia’s chip-hub ambition is 
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-08-31T01:34:58+00:00` / age_days `0.09`
+- Published: `2026-08-31T01:34:58+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -82,17 +82,27 @@ Stärkste Dynamik nach Gate-Recheck: “Southeast Asia’s chip-hub ambition is 
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-08-31T02:09:37+00:00` / age_days `0.07`
+- Published: `2026-08-31T02:09:37+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
 - Quelle: https://note.com/chizutodesign/n/neee5116b95b4
 
+### Building burnout-resistant teams
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `13.0`
+- Published: `2026-08-31T03:18:32+00:00` / age_days `0.04`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3
+- Quelle: https://e27.co/building-burnout-resistant-teams-20260828/
+
 ### Southeast Asia’s chip-hub ambition is colliding with its chip-smuggling problem
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `13.0`
-- Published: `2026-08-31T03:46:03+00:00` / age_days `0.0`
+- Published: `2026-08-31T03:46:03+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: early terms: local, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -102,30 +112,20 @@ Stärkste Dynamik nach Gate-Recheck: “Southeast Asia’s chip-hub ambition is 
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `12.0`
-- Published: `2026-08-31T02:30:44+00:00` / age_days `0.06`
+- Published: `2026-08-31T02:30:44+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
 - Quelle: https://e27.co/southeast-asia-is-not-one-market-its-five-economies-moving-at-different-speeds-20260828/
 
-### Building burnout-resistant teams
+### Southeast Asia does not have one AI advantage – it has 11
 
 - Band: `quiet` (raw `quiet`)
-- Dynamics score: `10.5`
-- Published: `2026-08-31T03:18:32+00:00` / age_days `0.02`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +2
-- Quelle: https://e27.co/building-burnout-resistant-teams-20260828/
-
-### The environmental ethics of AI should be a product decision, not a sustainability footnote
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `7.0`
-- Published: `2026-08-31T01:00:41+00:00` / age_days `0.12`
+- Dynamics score: `8.5`
+- Published: `2026-08-31T03:36:59+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://e27.co/the-environmental-ethics-of-ai-should-be-a-product-decision-not-a-sustainability-footnote-20260809/
+- Warum: momentum delta +2, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://e27.co/southeast-asia-does-not-have-one-ai-advantage-it-has-11-20260828/
 
 END OF DOCUMENT
