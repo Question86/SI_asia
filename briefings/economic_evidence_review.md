@@ -1,9 +1,9 @@
 # Economic Evidence Review
 
-Generated: `2026-08-31T03:56:59+00:00`
+Generated: `2026-08-31T04:36:50+00:00`
 FX as of: `None`
 
-- Candidates: **47**
+- Candidates: **51**
 - Promoted: **0**
 
 | Candidate | Event | USD | Component | Status |
@@ -39,12 +39,12 @@ FX as of: `None`
 | `cand_a47ae5b30f9e28778e8b` | `evt_cb96b3b8c44258846f64` | $50,000,000 | capital_allocation | pending |
 | `cand_765c777c66e0882fa299` | `evt_04c8c9515e6d6caa68b7` | $50,000,000 | capital_allocation | pending |
 | `cand_4dbfaefacc32e659a48f` | `evt_04c8c9515e6d6caa68b7` | $50,000,000 | capital_allocation | pending |
+| `cand_d61e9420048e050ebb95` | `evt_3af8f852f301f8c1d551` | $50,000,000 | capital_allocation | pending |
+| `cand_537592b24550c5158d87` | `evt_3af8f852f301f8c1d551` | $50,000,000 | capital_allocation | pending |
+| `cand_60971074513d8d425c10` | `evt_311f0e7f9aa49deddda7` | $50,000,000 | capital_allocation | pending |
+| `cand_c9c6d372c9dcdec33874` | `evt_311f0e7f9aa49deddda7` | $50,000,000 | capital_allocation | pending |
 | `cand_92d2a9a5a53ac4db87d0` | `evt_a9168860075ad99c5a0d` | $708,000 | capital_allocation | pending |
 | `cand_183c22dd66cc8d341d9b` | `evt_a9168860075ad99c5a0d` | $708,000 | capital_allocation | pending |
 | `cand_7aba9e3e11176832a3fb` | `evt_a77bf86ad7c289b6fd5e` | $708,000 | capital_allocation | pending |
 | `cand_3830b1074b0c31868464` | `evt_a77bf86ad7c289b6fd5e` | $708,000 | capital_allocation | pending |
 | `cand_3591b2b55b93ab90299d` | `evt_a9168860075ad99c5a0d` | $708,000 | capital_allocation | pending |
-| `cand_48d29f7d0652f7a5da9a` | `evt_a9168860075ad99c5a0d` | $708,000 | capital_allocation | pending |
-| `cand_0e022254813ec1b0d9c8` | `evt_a9168860075ad99c5a0d` | $708,000 | capital_allocation | pending |
-| `cand_a6638bb05d1dda7e6bce` | `evt_a9168860075ad99c5a0d` | $708,000 | capital_allocation | pending |
-| `cand_ccddff104b97873ee4ef` | `evt_a9168860075ad99c5a0d` | $708,000 | capital_allocation | pending |

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-31T03:56:49+00:00",
+  "generated_at": "2026-08-31T04:36:40+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -158,6 +158,23 @@
       "first_seen_at": "2026-08-30T07:58:33+00:00",
       "last_seen_at": "2026-08-30T23:59:07+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_7118cce672ed485d4bcb",
+      "title": "M 4.9 - 13 km SSE of Union, Philippines",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1160000.0,
+      "p50_usd": 116000000.0,
+      "p90_usd": 11600000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-08-31T04:36:22+00:00",
+      "last_seen_at": "2026-08-31T04:36:22+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_072439522f0506eff01d",
@@ -547,8 +564,8 @@
       "p90_usd": 1232000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
-      "last_seen_at": "2026-08-30T23:59:07+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-08-31T04:36:22+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_55bf431fc184f598da38",
@@ -598,7 +615,7 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-31T03:49:03+00:00",
-      "last_seen_at": "2026-08-31T03:56:30+00:00",
+      "last_seen_at": "2026-08-31T04:36:22+00:00",
       "status": "active"
     },
     {
@@ -700,7 +717,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-31T01:34:58+00:00",
-      "last_seen_at": "2026-08-31T03:56:30+00:00",
+      "last_seen_at": "2026-08-31T04:36:22+00:00",
       "status": "active"
     },
     {
@@ -802,7 +819,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-31T02:35:07+00:00",
-      "last_seen_at": "2026-08-31T03:56:30+00:00",
+      "last_seen_at": "2026-08-31T04:36:22+00:00",
       "status": "active"
     },
     {
@@ -836,7 +853,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-31T02:09:37+00:00",
-      "last_seen_at": "2026-08-31T03:56:30+00:00",
+      "last_seen_at": "2026-08-31T04:36:22+00:00",
       "status": "active"
     },
     {
@@ -959,6 +976,40 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_3af8f852f301f8c1d551",
+      "title": "AI is changing global expansion, but it cannot standardise local markets",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112800.0,
+      "p50_usd": 11280000.0,
+      "p90_usd": 1128000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-08-31T04:36:22+00:00",
+      "last_seen_at": "2026-08-31T04:36:22+00:00",
+      "status": "active"
+    },
+    {
+      "event_id": "evt_19889d988e0d2d018cbf",
+      "title": "ITエンジニアのためのライフスタイルメディア KIKKAKE ITREND",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112800.0,
+      "p50_usd": 11280000.0,
+      "p90_usd": 1128000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-08-31T04:36:22+00:00",
+      "last_seen_at": "2026-08-31T04:36:22+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_5e413be1f7ed3b797641",
       "title": "GitHub - iKora128/stop-ai-slop-jp: 日本語の文章からAI臭を取り除く Claude Skill",
       "event_classes": [
@@ -989,7 +1040,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-31T01:34:58+00:00",
-      "last_seen_at": "2026-08-31T03:56:30+00:00",
+      "last_seen_at": "2026-08-31T04:36:22+00:00",
       "status": "active"
     },
     {
@@ -1023,7 +1074,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-31T03:36:59+00:00",
-      "last_seen_at": "2026-08-31T03:56:30+00:00",
+      "last_seen_at": "2026-08-31T04:36:22+00:00",
       "status": "active"
     },
     {
@@ -1112,6 +1163,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_311f0e7f9aa49deddda7",
+      "title": "Thailand’s AI startup push gets OpenAI backing through new public-private accelerator",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-08-31T04:36:22+00:00",
+      "last_seen_at": "2026-08-31T04:36:22+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_0e9754a4a09813d40b86",
       "title": "無料のLM Studio、DFlash/DSpark/MTPで推論を高速化",
       "event_classes": [
@@ -1142,7 +1210,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-30T02:26:46+00:00",
-      "last_seen_at": "2026-08-31T03:56:30+00:00",
+      "last_seen_at": "2026-08-31T04:36:22+00:00",
       "status": "active"
     },
     {
@@ -1193,7 +1261,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-31T00:59:38+00:00",
-      "last_seen_at": "2026-08-31T03:56:30+00:00",
+      "last_seen_at": "2026-08-31T04:36:22+00:00",
       "status": "active"
     },
     {
@@ -1312,7 +1380,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-31T01:34:58+00:00",
-      "last_seen_at": "2026-08-31T03:56:30+00:00",
+      "last_seen_at": "2026-08-31T04:36:22+00:00",
       "status": "active"
     },
     {
@@ -1363,7 +1431,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-31T02:09:37+00:00",
-      "last_seen_at": "2026-08-31T03:56:30+00:00",
+      "last_seen_at": "2026-08-31T04:36:22+00:00",
       "status": "active"
     },
     {
@@ -1499,7 +1567,7 @@
       "p90_usd": 1072000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-31T03:18:32+00:00",
-      "last_seen_at": "2026-08-31T03:56:30+00:00",
+      "last_seen_at": "2026-08-31T04:36:22+00:00",
       "status": "active"
     },
     {
