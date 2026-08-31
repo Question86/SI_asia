@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T19:48:26+00:00",
-  "run_id": "2026-08-31T19:48:26+00:00",
+  "generated_at": "2026-08-31T19:55:40+00:00",
+  "run_id": "2026-08-31T19:55:40+00:00",
   "date": "2026-08-31",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 85,
     "displayed_findings": 85,
     "high": 0,
@@ -4099,29 +4099,7 @@
       "id": "fb3933b479a923918e3f"
     }
   ],
-  "new_findings": [
-    {
-      "title": "GitHub Copilot in VS Code, August 2026 releases",
-      "url": "https://github.blog/changelog/2026-08-31-github-copilot-in-vs-code-august-2026-releases",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-08-31T08:39:54+00:00",
-      "fetched_at": "2026-08-31T19:47:48+00:00",
-      "summary": "This changelog covers VS Code v1.132 through v1.135, shipped throughout August 2026. These releases make it easier to organize agent sessions, review changes, and navigate long conversations. Agent Host, the… The post GitHub Copilot in VS Code, August 2026 releases appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "Copilot",
-        "GitHub"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "43269bc90764176b1511"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [
     {
       "source_id": "bis_statistics",
