@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-31T02:56:46+00:00_
+_Generiert: 2026-08-31T03:18:30+00:00_
 
 ## Kurzlage
 
-8 neue relevante Treffer. Stärkstes Signal: „The environmental ethics of AI should be a product decision, not a sustainability footnote“ aus e27 Asia Startup and Tech Feed (Score 15, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+9 neue relevante Treffer. Stärkstes Signal: „The environmental ethics of AI should be a product decision, not a sustainability footnote“ aus e27 Asia Startup and Tech Feed (Score 15, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
