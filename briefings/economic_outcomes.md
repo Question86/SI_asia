@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-08-31T20:25:05+00:00`
+Generated: `2026-08-31T20:33:43+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -14,7 +14,7 @@ Generated: `2026-08-31T20:25:05+00:00`
 | 無料のLM Studio、DFlash/DSpark/MTPで推論を高速化 | $0 | — | 0 | 0 | dormant |
 | tailscale/tailcat | $0 | — | 0 | 0 | dormant |
 | ITエンジニアのためのライフスタイルメディア KIKKAKE ITREND | $0 | — | 0 | 0 | active |
-| Multiples vulnérabilités dans le noyau Linux de SUSE (21 août 2026) | $0 | — | 0 | 0 | active |
+| Multiples vulnérabilités dans le noyau Linux de SUSE (21 août 2026) | $0 | — | 0 | 0 | dormant |
 | 技術書典21で「Goで作って学ぶリアルタイム通信サーバー入門 〜自作ターミナルゲームでわかるオンラインゲームの裏側〜」という本を出します - $shibayu36->blog; | $0 | — | 0 | 0 | dormant |
 | M 4.6 - 52 km NNE of Ruteng, Indonesia | $0 | — | 0 | 0 | dormant |
 | 知人がものの数分で設定したという、高齢のお父さん用iPhone…ここまで潔いのはなかなか見かけない「視覚支援だ～」「これはめっちゃわかりやすい」 | $0 | — | 0 | 0 | dormant |
