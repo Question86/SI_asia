@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-31T04:48:41+00:00_
+_Generiert: 2026-08-31T04:56:30+00:00_
 
 ## Kurzlage
 
-16 neue relevante Treffer. Stärkstes Signal: „Southeast Asia’s chip-hub ambition is colliding with its chip-smuggling problem“ aus e27 Asia Startup and Tech Feed (Score 18, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+18 neue relevante Treffer. Stärkstes Signal: „Southeast Asia’s chip-hub ambition is colliding with its chip-smuggling problem“ aus e27 Asia Startup and Tech Feed (Score 18, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -144,14 +144,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)
   - Kurz: ■調査概要調査名称：ITエンジニアの開発メンタル負荷実態調査調査方法：IDEATECHが提供するリサーチマーケティング「リサピー®︎」の企画によるインターネット調査調査期間：2026年5月13日～同年5月20日有効回答：システム開発に携わるITエンジニア321名 ※構成比は小数点以下第2位を四捨五入しているため、合計しても必ず...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「数万曲の歌詞を生成ＡＩが無断学習」…ソニーＧ傘下の音楽出版など３５社、アンソロピックとＣＥＯらを提訴（読売新聞オンライン） - Yahoo!ニュース** — Score 5, observation — [Quelle](https://news.yahoo.co.jp/articles/2490663bdfd440b8083dc2af35532a6817f85681)
+- **M 4.5 - south of the Fiji Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2f)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-31T04:52:25.040+00:00`, fetched `2026-08-31T04:55:54+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-31 04:38:22 UTC 2026-08-31 04:38:22 UTC at epicenter Location 25.207°S 179.802°E Depth 508.31 km (315.85 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **LINEヤフー、全社横断でAIエージェント量産体制 カレンダーなど新「Agent i」** — Score 8, observation — [Quelle](https://www.watch.impress.co.jp/docs/news/2136632.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-30T23:10:19+00:00`, fetched `2026-08-31T00:58:52+00:00`
-  - Treffer: Hatena, hotentry
+  - Zeit: published `2026-08-30T22:48:32+00:00`, fetched `2026-08-31T04:55:54+00:00`
+  - Treffer: agent, Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 【ニューヨーク＝木瀬武】ソニーグループ傘下の音楽出版大手など３５社は、数万曲の歌詞を無断で生成ＡＩ（人工知能）の学習に利用した行為などが著作権侵害にあたるとして、米ＡＩ開発企業アンソロピックと同社のダリオ・アモデイ最高経営責任者（ＣＥＯ）ら創業者２人を米カリフォルニア州の連邦地方裁判所に提訴した...
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)
+  - Kurz: LINEヤフー、全社横断でAIエージェント量産体制 カレンダーなど新「Agent i」
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
