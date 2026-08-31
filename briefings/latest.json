@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T02:09:33+00:00",
-  "run_id": "2026-08-31T02:09:33+00:00",
+  "generated_at": "2026-08-31T02:35:04+00:00",
+  "run_id": "2026-08-31T02:35:04+00:00",
   "date": "2026-08-31",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 7
+      "configured_public_sources_only": 8
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 7,
-    "displayed_findings": 7,
+    "new_relevant_findings": 1,
+    "today_file_total": 8,
+    "displayed_findings": 8,
     "high": 0,
     "medium": 1,
-    "observe": 6,
+    "observe": 7,
     "source_errors": 1
   },
   "sections": {
@@ -53,6 +53,27 @@
       }
     ],
     "observe": [
+      {
+        "title": "Southeast Asia is not one market; it’s five economies moving at different speeds",
+        "url": "https://e27.co/southeast-asia-is-not-one-market-its-five-economies-moving-at-different-speeds-20260828/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-31T02:30:44+00:00",
+        "fetched_at": "2026-08-31T02:34:36+00:00",
+        "summary": "Most market entry decks still open with a single number. Southeast Asia, 680 million people, one giant addressable market. From where we sit, running teams across Singapore, Tokyo, and New York, that framing is where a lot of expansion budgets quietly go to die. The region is not one market. It’s at least five economies […] The post Southeast Asia is not one market; it’s five economies moving at different speeds app…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Southeast Asia"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region usa: New York (+2.0); watchgraph region japan: Tokyo (+2.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5482f028e861feccf618"
+      },
       {
         "title": "China’s tax reform matters more to Southeast Asia than Wall Street",
         "url": "https://e27.co/chinas-tax-reform-matters-more-to-southeast-asia-than-wall-street-20260828/",
@@ -227,6 +248,27 @@
       "id": "ca230daaa41356c30fbe"
     },
     {
+      "title": "Southeast Asia is not one market; it’s five economies moving at different speeds",
+      "url": "https://e27.co/southeast-asia-is-not-one-market-its-five-economies-moving-at-different-speeds-20260828/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-31T02:30:44+00:00",
+      "fetched_at": "2026-08-31T02:34:36+00:00",
+      "summary": "Most market entry decks still open with a single number. Southeast Asia, 680 million people, one giant addressable market. From where we sit, running teams across Singapore, Tokyo, and New York, that framing is where a lot of expansion budgets quietly go to die. The region is not one market. It’s at least five economies […] The post Southeast Asia is not one market; it’s five economies moving at different speeds app…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region usa: New York (+2.0); watchgraph region japan: Tokyo (+2.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5482f028e861feccf618"
+    },
+    {
       "title": "China’s tax reform matters more to Southeast Asia than Wall Street",
       "url": "https://e27.co/chinas-tax-reform-matters-more-to-southeast-asia-than-wall-street-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -377,68 +419,25 @@
   ],
   "new_findings": [
     {
-      "title": "China’s tax reform matters more to Southeast Asia than Wall Street",
-      "url": "https://e27.co/chinas-tax-reform-matters-more-to-southeast-asia-than-wall-street-20260828/",
+      "title": "Southeast Asia is not one market; it’s five economies moving at different speeds",
+      "url": "https://e27.co/southeast-asia-is-not-one-market-its-five-economies-moving-at-different-speeds-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-31T02:00:18+00:00",
-      "fetched_at": "2026-08-31T02:08:56+00:00",
-      "summary": "China’s effort to strengthen the taxation of overseas assets held by its citizens marks more than a fiscal reform. It signals a shift in how the country views the relationship between private wealth, capital mobility, and national development. While the policy aims to recover unpaid taxes and increase government revenue, its effects may extend well […] The post China’s tax reform matters more to Southeast Asia than…",
+      "published_at": "2026-08-31T02:30:44+00:00",
+      "fetched_at": "2026-08-31T02:34:36+00:00",
+      "summary": "Most market entry decks still open with a single number. Southeast Asia, 680 million people, one giant addressable market. From where we sit, running teams across Singapore, Tokyo, and New York, that framing is where a lot of expansion budgets quietly go to die. The region is not one market. It’s at least five economies […] The post Southeast Asia is not one market; it’s five economies moving at different speeds app…",
       "matched_keywords": [
         "APAC Trend Radar",
-        "Southeast Asia",
-        "Watchgraph:capitals_power_centers"
+        "Southeast Asia"
       ],
       "relevance_score": 12,
-      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules capitals_power_centers (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "watchgraph_reasons": [
-        "capitals_power_centers: capital"
-      ],
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "BA",
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ"
-      ],
-      "id": "8c7d94aa4410159a72d6"
-    },
-    {
-      "title": "「江戸時代の経路検索」サイトを作りました｜地図とかデザインとか",
-      "url": "https://note.com/chizutodesign/n/neee5116b95b4",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-30T10:59:58+00:00",
-      "fetched_at": "2026-08-31T02:08:56+00:00",
-      "summary": "Googleマップが新しくなって話題になっていたので、江戸時代（1840年頃）にGoogleマップがあったら…と想像して当時の東京周辺の地図を作ってみました。 pic.twitter.com/7ZSUVBnWT2 — 地図とかデザインとか (@chizutodesign) March 24, 2019 当時は私自身、地理や歴史にそこまで詳しくありませんでした。たくさんの方か...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region usa: New York (+2.0); watchgraph region japan: Tokyo (+2.0); watchgraph region southeast_asia: Singapore (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "940a4a606661681bd251"
+      "id": "5482f028e861feccf618"
     }
   ],
   "source_errors": [

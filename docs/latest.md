@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-31T02:09:33+00:00_
+_Generiert: 2026-08-31T02:35:04+00:00_
 
 ## Kurzlage
 
-7 neue relevante Treffer. Stärkstes Signal: „The environmental ethics of AI should be a product decision, not a sustainability footnote“ aus e27 Asia Startup and Tech Feed (Score 15, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+8 neue relevante Treffer. Stärkstes Signal: „The environmental ethics of AI should be a product decision, not a sustainability footnote“ aus e27 Asia Startup and Tech Feed (Score 15, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -24,6 +24,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Southeast Asia is not one market; it’s five economies moving at different speeds** — Score 12, observation — [Quelle](https://e27.co/southeast-asia-is-not-one-market-its-five-economies-moving-at-different-speeds-20260828/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-31T02:30:44+00:00`, fetched `2026-08-31T02:34:36+00:00`
+  - Treffer: APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region usa: New York (+2.0); watchgraph region japan: Tokyo (+2.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Most market entry decks still open with a single number. Southeast Asia, 680 million people, one giant addressable market. From where we sit, running teams across Singapore, Tokyo, and New York, that framing is where a lot of expansion budgets quietly go to die. The region is not one market. It’s at least five economies […] The post Southeast Asia is not one market; it’s five economies moving at different speeds app…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **China’s tax reform matters more to Southeast Asia than Wall Street** — Score 12, observation — [Quelle](https://e27.co/chinas-tax-reform-matters-more-to-southeast-asia-than-wall-street-20260828/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-31T02:00:18+00:00`, fetched `2026-08-31T02:08:56+00:00`
