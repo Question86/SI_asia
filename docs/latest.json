@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T01:34:55+00:00",
-  "run_id": "2026-08-31T01:34:55+00:00",
+  "generated_at": "2026-08-31T01:54:54+00:00",
+  "run_id": "2026-08-31T01:54:54+00:00",
   "date": "2026-08-31",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
+    "new_relevant_findings": 0,
     "today_file_total": 5,
     "displayed_findings": 5,
     "high": 0,
@@ -247,72 +247,7 @@
       "id": "406c2e78bcf8207630f3"
     }
   ],
-  "new_findings": [
-    {
-      "title": "The environmental ethics of AI should be a product decision, not a sustainability footnote",
-      "url": "https://e27.co/the-environmental-ethics-of-ai-should-be-a-product-decision-not-a-sustainability-footnote-20260809/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-31T01:00:41+00:00",
-      "fetched_at": "2026-08-31T01:34:26+00:00",
-      "summary": "The environmental debate around AI is often placed in the sustainability section of the company, where it becomes a reporting matter, a disclosure matter, or a reputational matter. By the time it gets there, most of the important decisions have already been made. The environmental impact of AI is not shaped mainly by the annual […] The post The environmental ethics of AI should be a product decision, not a sustainab…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Reputationsrisiko"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Reputationsrisiko (+7.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ca230daaa41356c30fbe"
-    },
-    {
-      "title": "SWOT is not boring; you are just using it too late",
-      "url": "https://e27.co/swot-is-not-boring-you-are-just-using-it-too-late-20260821/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-31T01:15:59+00:00",
-      "fetched_at": "2026-08-31T01:34:26+00:00",
-      "summary": "Strengths. Weaknesses. Opportunities. Threats. Someone fills four boxes with familiar phrases, takes a photo, and never looks at it again. That is not a strategy framework. It is office wallpaper. Used at the right time, however, frameworks such as 5W1H, SWOT, and PESTLE can help a person avoid one of the most expensive mistakes in […] The post SWOT is not boring; you are just using it too late appeared first on e27…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Markets/Capital Structure"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "14a3079706689bfa9c36"
-    },
-    {
-      "title": "【独自】Jアラート「偽の警報可能」 専門家、発信元保証なし",
-      "url": "https://www.47news.jp/14868281.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-30T12:11:27+00:00",
-      "fetched_at": "2026-08-31T01:34:26+00:00",
-      "summary": "弾道ミサイル発射や緊急地震速報などの緊急情報を全国の自治体に送信する全国瞬時警報システム（Jアラート）で、人工衛星を経由して送信されるデータの暗号化や発信元を保証する機能がないことが30日、専門家への取材で分かった。総務省関係者も認めた。専門家は「第三者が成り済まして偽の警報を送信することが可能」と...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "edcf952ceb01dfda6e21"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [
     {
       "source_id": "bis_statistics",
