@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-31T19:40:24+00:00_
+_Generiert: 2026-08-31T19:48:26+00:00_
 
 ## Kurzlage
 
-84 neue relevante Treffer. Stärkstes Signal: „M 5.5 - 44 km NNE of Ruteng, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+85 neue relevante Treffer. Stärkstes Signal: „M 5.5 - 44 km NNE of Ruteng, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,10 +33,10 @@ _Generiert: 2026-08-31T19:40:24+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Lebanon
-- **GDACS: Green flood alert in Philippines** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104130)
+- **GDACS: Green flood alert in Türkiye** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104131)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green flood alert in Philippines
+  - Kurz: Green flood alert in Türkiye
 - **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 31/08/2026 08:03 UTC, 9 thousand in MMI VI.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1562739)
   - Quelle: GDACS
   - Zeit: ``
