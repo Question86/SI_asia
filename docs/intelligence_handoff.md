@@ -1,28 +1,38 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-31T04:17:12Z_
+_Generated: 2026-08-31T04:41:38Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “Southeast Asia’s chip-hub ambition is colliding with its chip-smuggling problem” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.
+Stärkste Dynamik nach Gate-Recheck: “Thailand’s AI startup push gets OpenAI backing through new public-private accelerator” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.
 
 ## Top Dynamics
+
+### Thailand’s AI startup push gets OpenAI backing through new public-private accelerator
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-08-31T04:36:22+00:00` / age_days `0.0`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: momentum delta +1, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
+- Quelle: https://e27.co/thailands-ai-startup-push-gets-openai-backing-through-new-public-private-accelerator-20260831/
 
 ### Southeast Asia’s chip-hub ambition is colliding with its chip-smuggling problem
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-31T03:49:03+00:00` / age_days `0.02`
+- Published: `2026-08-31T03:49:03+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1, krass gate: single-source non-official/non-identity signal capped
+- Warum: momentum delta +2, krass gate: single-source non-official/non-identity signal capped
 - Quelle: https://e27.co/southeast-asias-chip-hub-ambition-is-colliding-with-its-chip-smuggling-problem-20260831/
 
 ### Southeast Asia is not one market; it’s five economies moving at different speeds
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-08-31T02:35:07+00:00` / age_days `0.07`
+- Published: `2026-08-31T02:35:07+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -32,27 +42,77 @@ Stärkste Dynamik nach Gate-Recheck: “Southeast Asia’s chip-hub ambition is 
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-08-31T02:09:37+00:00` / age_days `0.09`
+- Published: `2026-08-31T02:09:37+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
 - Quelle: https://e27.co/chinas-tax-reform-matters-more-to-southeast-asia-than-wall-street-20260828/
 
+### M 4.9 - 13 km SSE of Union, Philippines
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `19.4`
+- Published: `2026-08-31T04:36:22+00:00` / age_days `0.0`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +1
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2c
+
 ### SWOT is not boring; you are just using it too late
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-08-31T01:34:58+00:00` / age_days `0.11`
+- Published: `2026-08-31T01:34:58+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
 - Quelle: https://e27.co/swot-is-not-boring-you-are-just-using-it-too-late-20260821/
 
+### Thailand’s AI startup push gets OpenAI backing through new public-private accelerator
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `19.0`
+- Published: `2026-08-31T04:26:52+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: early terms: local, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
+- Quelle: https://e27.co/thailands-ai-startup-push-gets-openai-backing-through-new-public-private-accelerator-20260831/
+
+### AI is changing global expansion, but it cannot standardise local markets
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `18.5`
+- Published: `2026-08-31T04:36:22+00:00` / age_days `0.0`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: momentum delta +1, early terms: local, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://e27.co/ai-is-changing-global-expansion-but-it-cannot-standardise-local-markets-20260828/
+
+### M 4.9 - 13 km SSE of Union, Philippines
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `18.0`
+- Published: `2026-08-31T04:17:34.040+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2c
+
+### OpenAIが数万台のMac miniとMac Studioを買い占め
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `16.72`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `73.11`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: momentum delta +3, baseline z_hint 8.38, single-source AI hype brake -8.0, aging penalty -8.0 for 73.1d old signal, single-source AI cap enforced after phrase recheck
+- Quelle: https://gigazine.net/news/20260831-openai-tens-of-thousands-apple-mac-mini-studio/
+
 ### The environmental ethics of AI should be a product decision, not a sustainability footnote
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.0`
-- Published: `2026-08-31T01:34:58+00:00` / age_days `0.11`
+- Published: `2026-08-31T01:34:58+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -62,70 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “Southeast Asia’s chip-hub ambition is 
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-08-31T00:59:38+00:00` / age_days `0.14`
+- Published: `2026-08-31T00:59:38+00:00` / age_days `0.15`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
 - Quelle: https://news.yahoo.co.jp/articles/2490663bdfd440b8083dc2af35532a6817f85681
-
-### 【独自】Jアラート「偽の警報可能」 専門家、発信元保証なし
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `14.0`
-- Published: `2026-08-31T01:34:58+00:00` / age_days `0.11`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3
-- Quelle: https://www.47news.jp/14868281.html
-
-### 「江戸時代の経路検索」サイトを作りました｜地図とかデザインとか
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `14.0`
-- Published: `2026-08-31T02:09:37+00:00` / age_days `0.09`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3
-- Quelle: https://note.com/chizutodesign/n/neee5116b95b4
-
-### Building burnout-resistant teams
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `13.0`
-- Published: `2026-08-31T03:18:32+00:00` / age_days `0.04`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3
-- Quelle: https://e27.co/building-burnout-resistant-teams-20260828/
-
-### Southeast Asia’s chip-hub ambition is colliding with its chip-smuggling problem
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `13.0`
-- Published: `2026-08-31T03:46:03+00:00` / age_days `0.02`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: early terms: local, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://e27.co/southeast-asias-chip-hub-ambition-is-colliding-with-its-chip-smuggling-problem-20260831/
-
-### Southeast Asia is not one market; it’s five economies moving at different speeds
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `12.0`
-- Published: `2026-08-31T02:30:44+00:00` / age_days `0.07`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: no strong comparative reason
-- Quelle: https://e27.co/southeast-asia-is-not-one-market-its-five-economies-moving-at-different-speeds-20260828/
-
-### Southeast Asia does not have one AI advantage – it has 11
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `8.5`
-- Published: `2026-08-31T03:36:59+00:00` / age_days `0.03`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +2, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://e27.co/southeast-asia-does-not-have-one-ai-advantage-it-has-11-20260828/
 
 END OF DOCUMENT

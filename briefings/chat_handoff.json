@@ -90,5 +90,137 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “Thailand’s AI startup push gets OpenAI backing through new public-private accelerator” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=28.5.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "Thailand’s AI startup push gets OpenAI backing through new public-private accelerator",
+        "url": "https://e27.co/thailands-ai-startup-push-gets-openai-backing-through-new-public-private-accelerator-20260831/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-31T04:36:22+00:00",
+        "age_days": 0.0,
+        "topics": [
+          "axiom",
+          "ai"
+        ],
+        "dynamics_score": 28.5,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 1,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +1",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "Southeast Asia’s chip-hub ambition is colliding with its chip-smuggling problem",
+        "url": "https://e27.co/southeast-asias-chip-hub-ambition-is-colliding-with-its-chip-smuggling-problem-20260831/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-31T03:49:03+00:00",
+        "age_days": 0.04,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "krass",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 2,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": true,
+        "why": [
+          "momentum delta +2",
+          "krass gate: single-source non-official/non-identity signal capped"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "Southeast Asia is not one market; it’s five economies moving at different speeds",
+        "url": "https://e27.co/southeast-asia-is-not-one-market-its-five-economies-moving-at-different-speeds-20260828/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-31T02:35:07+00:00",
+        "age_days": 0.09,
+        "topics": [
+          "macro"
+        ],
+        "dynamics_score": 21.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +3"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "China’s tax reform matters more to Southeast Asia than Wall Street",
+        "url": "https://e27.co/chinas-tax-reform-matters-more-to-southeast-asia-than-wall-street-20260828/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-31T02:09:37+00:00",
+        "age_days": 0.11,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 21.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +3"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "M 4.9 - 13 km SSE of Union, Philippines",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2c",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-08-31T04:36:22+00:00",
+        "age_days": 0.0,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 19.4,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 1,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +1"
+        ],
+        "summary": ""
+      }
+    ]
+  }
 }
