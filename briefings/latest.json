@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T22:47:33+00:00",
-  "run_id": "2026-08-31T22:47:33+00:00",
+  "generated_at": "2026-08-31T22:54:46+00:00",
+  "run_id": "2026-08-31T22:54:46+00:00",
   "date": "2026-08-31",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 91,
     "displayed_findings": 91,
     "high": 0,
@@ -4387,30 +4387,7 @@
       "id": "fb3933b479a923918e3f"
     }
   ],
-  "new_findings": [
-    {
-      "title": "ハーネスエンジニアリングとは何か——\"盛れば効く\"のかを確かめる - 電通総研 テックブログ",
-      "url": "https://tech.dentsusoken.com/entry/2026/08/31/%E3%83%8F%E3%83%BC%E3%83%8D%E3%82%B9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%E2%80%94%E2%80%94%22%E7%9B%9B%E3%82%8C%E3%81%B0%E5%8A%B9",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-31T12:21:11+00:00",
-      "fetched_at": "2026-08-31T22:46:55+00:00",
-      "summary": "はじめまして。 金融IT本部 プロダクトソリューションユニット 融資ソリューション2部の 渡邉 真太郎 です。 現在は 2 年目社員として、地域金融機関向けの CRM / SFA サービス開発に従事しています。 2025 年 11 月、Anthropic がエンジニアリングブログの記事（Effective harnesses for long-running agents）のタイト...",
-      "matched_keywords": [
-        "agent",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "11de854cd8ec03290e01"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [
     {
       "source_id": "bis_statistics",
