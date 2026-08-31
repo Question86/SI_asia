@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-31T10:47:51+00:00",
+  "generated_at": "2026-08-31T10:55:30+00:00",
   "topics": {
     "general": [
       {
@@ -119,6 +119,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3042"
       },
       {
+        "title": "[UPDATE] [mittel] Keycloak: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-31T10:51:07+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3006"
+      },
+      {
         "title": "[NEU] [mittel] Graylog: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-31T10:06:06+00:00",
@@ -138,13 +145,6 @@
         "published_at": "2026-08-31T10:01:06+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3086"
-      },
-      {
-        "title": "[NEU] [mittel] ffmpeg: Schwachstelle ermöglicht Codeausführung und DoS",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-31T09:56:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3084"
       }
     ],
     "geopolitics": [
