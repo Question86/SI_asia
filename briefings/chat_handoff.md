@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-31T05:48:28+00:00_
+_Generated: 2026-08-31T05:56:03+00:00_
 
 ## Status
 - status: `warning`
-- findings: `19`
+- findings: `20`
 
 ## Top Signals
 
@@ -29,28 +29,35 @@ _Generated: 2026-08-31T05:48:28+00:00_
 - url: https://e27.co/the-environmental-ethics-of-ai-should-be-a-product-decision-not-a-sustainability-footnote-20260809/
 - summary: The environmental debate around AI is often placed in the sustainability section of the company, where it becomes a reporting matter, a disclosure matter, or a reputational matter. By the time it gets there, most of the important decisions have already been m…
 
-### 4. OpenAIが数万台のMac miniとMac Studioを買い占め
+### 4. [UPDATE] [hoch] Budibase: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `14`
+- published: `2026-08-31T05:51:06+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2849
+- summary: Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Budibase ausnutzen, um Dateien zu manipulieren, vertrauliche Daten offenzulegen, erweiterte Berechtigungen zu erlangen und Sicherheitsmaßnahmen zu umgehen.
+
+### 5. OpenAIが数万台のMac miniとMac Studioを買い占め
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
 - published: `2026-08-31T03:28:11+00:00`
 - url: https://gigazine.net/news/20260831-openai-tens-of-thousands-apple-mac-mini-studio/
 - summary: メモリ不足によりメモリ価格が高騰しており、一般消費者はほとんど市場から締め出されている状況ですが、AIワークロードに適したマシンは飛ぶように売れています。AI企業のOpenAIは数万台のMac miniやMac Studioを買い占めていることが、報道により明らかになりました。 OpenAI Hoarding Tens Of Thousands Of Apple Mac...
 
-### 5. Southeast Asia is not one market; it’s five economies moving at different speeds
+### 6. Southeast Asia is not one market; it’s five economies moving at different speeds
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-08-31T02:30:44+00:00`
 - url: https://e27.co/southeast-asia-is-not-one-market-its-five-economies-moving-at-different-speeds-20260828/
 - summary: Most market entry decks still open with a single number. Southeast Asia, 680 million people, one giant addressable market. From where we sit, running teams across Singapore, Tokyo, and New York, that framing is where a lot of expansion budgets quietly go to d…
 
-### 6. China’s tax reform matters more to Southeast Asia than Wall Street
+### 7. China’s tax reform matters more to Southeast Asia than Wall Street
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-08-31T02:00:18+00:00`
 - url: https://e27.co/chinas-tax-reform-matters-more-to-southeast-asia-than-wall-street-20260828/
 - summary: China’s effort to strengthen the taxation of overseas assets held by its citizens marks more than a fiscal reform. It signals a shift in how the country views the relationship between private wealth, capital mobility, and national development. While the polic…
 
-### 7. AI is changing global expansion, but it cannot standardise local markets
+### 8. AI is changing global expansion, but it cannot standardise local markets
 - source: e27 Asia Startup and Tech Feed
 - score: `11`
 - published: `2026-08-31T04:00:46+00:00`
