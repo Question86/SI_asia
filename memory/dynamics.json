@@ -1,30 +1,30 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-31T02:19:57Z",
+  "generated_at": "2026-08-31T02:43:26Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 14,
+    "dynamics": 16,
     "bands": {
-      "strong": 1,
-      "watch": 3,
-      "quiet": 10
+      "strong": 2,
+      "watch": 5,
+      "quiet": 9
     },
     "bands_after_gate_recheck": {
-      "strong": 1,
-      "watch": 3,
-      "quiet": 10
+      "strong": 2,
+      "watch": 5,
+      "quiet": 9
     }
   },
   "top_dynamics": [
     {
-      "title": "China’s tax reform matters more to Southeast Asia than Wall Street",
-      "url": "https://e27.co/chinas-tax-reform-matters-more-to-southeast-asia-than-wall-street-20260828/",
+      "title": "Southeast Asia is not one market; it’s five economies moving at different speeds",
+      "url": "https://e27.co/southeast-asia-is-not-one-market-its-five-economies-moving-at-different-speeds-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-31T02:09:37+00:00",
+      "published_at": "2026-08-31T02:35:07+00:00",
       "age_days": 0.01,
       "topics": [
-        "general"
+        "macro"
       ],
       "dynamics_score": 24.0,
       "raw_band": "strong",
@@ -42,28 +42,26 @@
       "summary": ""
     },
     {
-      "title": "The environmental ethics of AI should be a product decision, not a sustainability footnote",
-      "url": "https://e27.co/the-environmental-ethics-of-ai-should-be-a-product-decision-not-a-sustainability-footnote-20260809/",
+      "title": "China’s tax reform matters more to Southeast Asia than Wall Street",
+      "url": "https://e27.co/chinas-tax-reform-matters-more-to-southeast-asia-than-wall-street-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-31T01:34:58+00:00",
-      "age_days": 0.03,
+      "published_at": "2026-08-31T02:09:37+00:00",
+      "age_days": 0.02,
       "topics": [
-        "ai"
+        "general"
       ],
-      "dynamics_score": 19.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "dynamics_score": 21.5,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "momentum delta +2",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
+        "momentum delta +1"
       ],
       "summary": ""
     },
@@ -72,22 +70,48 @@
       "url": "https://e27.co/swot-is-not-boring-you-are-just-using-it-too-late-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T01:34:58+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
-      "dynamics_score": 16.5,
+      "dynamics_score": 19.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +2"
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "The environmental ethics of AI should be a product decision, not a sustainability footnote",
+      "url": "https://e27.co/the-environmental-ethics-of-ai-should-be-a-product-decision-not-a-sustainability-footnote-20260809/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-31T01:34:58+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 16.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
     },
@@ -96,7 +120,7 @@
       "url": "https://news.yahoo.co.jp/articles/2490663bdfd440b8083dc2af35532a6817f85681",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T00:59:38+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -116,15 +140,63 @@
       "summary": ""
     },
     {
+      "title": "【独自】Jアラート「偽の警報可能」 専門家、発信元保証なし",
+      "url": "https://www.47news.jp/14868281.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-31T01:34:58+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Southeast Asia is not one market; it’s five economies moving at different speeds",
+      "url": "https://e27.co/southeast-asia-is-not-one-market-its-five-economies-moving-at-different-speeds-20260828/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-31T02:30:44+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "Most market entry decks still open with a single number. Southeast Asia, 680 million people, one giant addressable market. From where we sit, running teams across Singapore, Tokyo, and New York, that framing is where a lot of expansion budgets quietly go to die. The region is not one market. It’s at least five economi…"
+    },
+    {
       "title": "「江戸時代の経路検索」サイトを作りました｜地図とかデザインとか",
       "url": "https://note.com/chizutodesign/n/neee5116b95b4",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T02:09:37+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "general"
       ],
-      "dynamics_score": 11.5,
+      "dynamics_score": 9.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -140,35 +212,11 @@
       "summary": ""
     },
     {
-      "title": "【独自】Jアラート「偽の警報可能」 専門家、発信元保証なし",
-      "url": "https://www.47news.jp/14868281.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-31T01:34:58+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2"
-      ],
-      "summary": ""
-    },
-    {
       "title": "The environmental ethics of AI should be a product decision, not a sustainability footnote",
       "url": "https://e27.co/the-environmental-ethics-of-ai-should-be-a-product-decision-not-a-sustainability-footnote-20260809/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T01:00:41+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -193,7 +241,7 @@
       "url": "https://blog.shibayu36.org/entry/2026/08/30/173000",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T02:26:46+00:00",
-      "age_days": 1.0,
+      "age_days": 1.01,
       "topics": [
         "ai"
       ],
@@ -219,7 +267,7 @@
       "url": "https://news.yahoo.co.jp/articles/2490663bdfd440b8083dc2af35532a6817f85681",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T23:10:19+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -243,7 +291,7 @@
       "url": "https://www.47news.jp/14868281.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T12:11:27+00:00",
-      "age_days": 0.59,
+      "age_days": 0.61,
       "topics": [
         "general"
       ],
@@ -267,7 +315,7 @@
       "url": "https://note.com/chizutodesign/n/neee5116b95b4",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T10:59:58+00:00",
-      "age_days": 0.64,
+      "age_days": 0.66,
       "topics": [
         "general"
       ],
@@ -291,7 +339,7 @@
       "url": "https://e27.co/chinas-tax-reform-matters-more-to-southeast-asia-than-wall-street-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T02:00:18+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
@@ -316,7 +364,7 @@
       "url": "https://e27.co/swot-is-not-boring-you-are-just-using-it-too-late-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T01:15:59+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "macro"
@@ -342,7 +390,7 @@
       "url": "https://blog.shibayu36.org/entry/2026/08/30/173000",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T10:55:51+00:00",
-      "age_days": 0.64,
+      "age_days": 0.66,
       "topics": [
         "ai"
       ],
@@ -363,5 +411,5 @@
       "summary": "社内業務でAIを使うとき、機密情報をAIに渡してよいか判断に迷うことが多い。世の中では「個人情報だからAI禁止」「学習OFFだから安全」のような単純な線引きも見かけるが、これでは安全側に倒しすぎて活用が進まなかったり、逆に思わぬ穴があったりして違和感があった。 そこで自分なりに判断の軸を整理し、「許可して..."
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “China’s tax reform matters more to Southeast Asia than Wall Street” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Southeast Asia is not one market; it’s five economies moving at different speeds” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.0."
 }
