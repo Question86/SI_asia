@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-31T09:56:09+00:00",
+  "generated_at": "2026-08-31T10:12:42+00:00",
   "topics": {
     "general": [
       {
@@ -24,6 +24,13 @@
         "published_at": "2026-08-31T04:17:34.040+00:00",
         "relevance_score": 15,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2c"
+      },
+      {
+        "title": "M 4.6 - 28 km ESE of Kuril’sk, Russia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-08-31T10:09:43.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td3c"
       },
       {
         "title": "M 4.5 - south of the Fiji Islands",
@@ -66,16 +73,16 @@
         "published_at": "2026-08-31T05:56:16+00:00",
         "relevance_score": 5,
         "url": "https://soiree.blue/"
-      },
-      {
-        "title": "備品のオシロスコープなど持ち出し換金 仙台高専の技術職員を懲戒解雇",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-31T03:52:24+00:00",
-        "relevance_score": 5,
-        "url": "https://www.itmedia.co.jp/news/article/2608/31/2000000957/"
       }
     ],
     "security": [
+      {
+        "title": "[NEU] [hoch] Microsoft Edge: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-31T10:01:05+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3085"
+      },
       {
         "title": "[NEU] [UNGEPATCHT] [mittel] GIMP: Mehrere Schwachstellen ermöglichen Denial of Service und die Offenlegung von Informationen",
         "source": "BSI CERT-Bund Security Advisories",
@@ -112,42 +119,42 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3042"
       },
       {
-        "title": "[NEU] [hoch] Gitea: Mehrere Schwachstellen ermöglichen Ausführen von beliebigem Programmcode",
+        "title": "[NEU] [mittel] Graylog: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-31T09:46:05+00:00",
+        "published_at": "2026-08-31T10:06:06+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3079"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3088"
       },
       {
-        "title": "[UPDATE] [niedrig] libarchive: Schwachstelle ermöglicht Codeausführung and DoS",
+        "title": "[NEU] [niedrig] NetApp StorageGRID: Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-31T09:21:15+00:00",
+        "published_at": "2026-08-31T10:06:05+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2279"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3087"
       },
       {
-        "title": "[UPDATE] [mittel] vim: Mehrere Schwachstellen ermöglichen Codeausführung",
+        "title": "[NEU] [mittel] Flowise: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen und DoS",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-31T09:11:08+00:00",
+        "published_at": "2026-08-31T10:01:06+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1548"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3086"
       },
       {
-        "title": "惡意npm攻擊再進化！駭客利用區塊鏈隱藏C2位址",
-        "source": "TWCERT/CC Security News RSS",
-        "published_at": "2026-08-31T06:23:00+00:00",
-        "relevance_score": 14,
-        "url": "https://www.twcert.org.tw/tw/cp-104-11169-7cb52-1.html"
-      },
-      {
-        "title": "[UPDATE] [hoch] IBM Concert: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] ffmpeg: Schwachstelle ermöglicht Codeausführung und DoS",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-31T06:12:03+00:00",
+        "published_at": "2026-08-31T09:56:06+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3046"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3084"
       }
     ],
     "geopolitics": [
+      {
+        "title": "[NEU] [hoch] Microsoft Edge: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-31T10:01:05+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3085"
+      },
       {
         "title": "[NEU] [UNGEPATCHT] [mittel] GIMP: Mehrere Schwachstellen ermöglichen Denial of Service und die Offenlegung von Informationen",
         "source": "BSI CERT-Bund Security Advisories",
@@ -170,53 +177,46 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3078"
       },
       {
+        "title": "[NEU] [mittel] Graylog: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-31T10:06:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3088"
+      },
+      {
+        "title": "[NEU] [niedrig] NetApp StorageGRID: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-31T10:06:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3087"
+      },
+      {
+        "title": "[NEU] [mittel] Flowise: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen und DoS",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-31T10:01:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3086"
+      },
+      {
+        "title": "[NEU] [mittel] ffmpeg: Schwachstelle ermöglicht Codeausführung und DoS",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-31T09:56:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3084"
+      },
+      {
+        "title": "[NEU] [mittel] vllm: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-31T09:56:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3083"
+      },
+      {
         "title": "[NEU] [hoch] Gitea: Mehrere Schwachstellen ermöglichen Ausführen von beliebigem Programmcode",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-31T09:46:05+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3079"
-      },
-      {
-        "title": "惡意npm攻擊再進化！駭客利用區塊鏈隱藏C2位址",
-        "source": "TWCERT/CC Security News RSS",
-        "published_at": "2026-08-31T06:23:00+00:00",
-        "relevance_score": 14,
-        "url": "https://www.twcert.org.tw/tw/cp-104-11169-7cb52-1.html"
-      },
-      {
-        "title": "Why Japan’s booming AI market is harder to crack than it looks",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-31T05:57:31+00:00",
-        "relevance_score": 14,
-        "url": "https://e27.co/why-japans-booming-ai-market-is-harder-to-crack-than-it-looks-20260831/"
-      },
-      {
-        "title": "China’s tax reform matters more to Southeast Asia than Wall Street",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-31T02:00:18+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/chinas-tax-reform-matters-more-to-southeast-asia-than-wall-street-20260828/"
-      },
-      {
-        "title": "Root-Sicherheitslücke bedroht cPanel/WHM",
-        "source": "heise Security Alerts",
-        "published_at": "2026-08-31T07:33:00.000+00:00",
-        "relevance_score": 10,
-        "url": "https://www.heise.de/news/Root-Sicherheitsluecke-bedroht-cPanel-WHM-11434895.html"
-      },
-      {
-        "title": "AI and monetary policy",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-08-17T00:00:00+00:00",
-        "relevance_score": 10,
-        "url": "https://www.bis.org/speeches/20260817-ai-and-monetary-policy"
-      },
-      {
-        "title": "CRA強化軟體供應鏈安全要求，SBOM成企業重要管理工具",
-        "source": "TWCERT/CC Security News RSS",
-        "published_at": "2026-08-31T06:40:00+00:00",
-        "relevance_score": 9,
-        "url": "https://www.twcert.org.tw/tw/cp-104-11170-448bd-1.html"
       }
     ],
     "ai": [
@@ -226,6 +226,13 @@
         "published_at": "2026-08-31T01:00:41+00:00",
         "relevance_score": 15,
         "url": "https://e27.co/the-environmental-ethics-of-ai-should-be-a-product-decision-not-a-sustainability-footnote-20260809/"
+      },
+      {
+        "title": "[NEU] [mittel] vllm: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-31T09:56:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3083"
       },
       {
         "title": "Why Japan’s booming AI market is harder to crack than it looks",
@@ -282,13 +289,6 @@
         "published_at": "2026-08-17T00:00:00+00:00",
         "relevance_score": 10,
         "url": "https://www.bis.org/speeches/20260817-ai-and-monetary-policy"
-      },
-      {
-        "title": "LLMのカスのコンサル問題 - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-31T08:51:53+00:00",
-        "relevance_score": 8,
-        "url": "https://joisino.hatenablog.com/entry/kasu"
       }
     ],
     "github": [
