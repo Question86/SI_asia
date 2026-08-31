@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-31T11:07:56+00:00",
+  "generated_at": "2026-08-31T11:21:58+00:00",
   "topics": {
     "general": [
       {
@@ -77,6 +77,20 @@
     ],
     "security": [
       {
+        "title": "[NEU] [hoch] Langflow OSS: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-31T11:16:06+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3096"
+      },
+      {
+        "title": "[NEU] [mittel] Red Hat Enterprise Linux (pipewire,dbus-broker): Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-31T11:16:06+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3095"
+      },
+      {
         "title": "[NEU] [hoch] Microsoft Edge: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-31T10:01:05+00:00",
@@ -119,35 +133,35 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3042"
       },
       {
-        "title": "[UPDATE] [mittel] Keycloak: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] HP Computer: Schwachstelle ermöglicht Privilegieneskalation",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-31T11:01:11+00:00",
+        "published_at": "2026-08-31T11:16:06+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2614"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3097"
       },
       {
-        "title": "[UPDATE] [mittel] Keycloak: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
+        "title": "[NEU] [mittel] rsyslog: Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-31T11:01:10+00:00",
+        "published_at": "2026-08-31T11:16:05+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2517"
-      },
-      {
-        "title": "[UPDATE] [mittel] Keycloak: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-31T11:01:09+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2407"
-      },
-      {
-        "title": "[UPDATE] [mittel] Keycloak: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-31T10:51:07+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3006"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3094"
       }
     ],
     "geopolitics": [
+      {
+        "title": "[NEU] [hoch] Langflow OSS: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-31T11:16:06+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3096"
+      },
+      {
+        "title": "[NEU] [mittel] Red Hat Enterprise Linux (pipewire,dbus-broker): Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-31T11:16:06+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3095"
+      },
       {
         "title": "[NEU] [hoch] Microsoft Edge: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
@@ -177,46 +191,32 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3078"
       },
       {
-        "title": "[NEU] [mittel] Graylog: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] HP Computer: Schwachstelle ermöglicht Privilegieneskalation",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-31T10:06:06+00:00",
+        "published_at": "2026-08-31T11:16:06+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3088"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3097"
       },
       {
-        "title": "[NEU] [niedrig] NetApp StorageGRID: Schwachstelle ermöglicht Denial of Service",
+        "title": "[NEU] [mittel] rsyslog: Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-31T10:06:05+00:00",
+        "published_at": "2026-08-31T11:16:05+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3087"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3094"
       },
       {
-        "title": "[NEU] [mittel] Flowise: Mehrere Schwachstellen ermöglichen Umgehen von Sicherheitsvorkehrungen und DoS",
+        "title": "[NEU] [hoch] JFrog Artifactory: Schwachstelle ermöglicht Erlangen von Administratorrechten",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-31T10:01:06+00:00",
+        "published_at": "2026-08-31T11:16:05+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3086"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3093"
       },
       {
-        "title": "[NEU] [mittel] ffmpeg: Schwachstelle ermöglicht Codeausführung und DoS",
+        "title": "[NEU] [mittel] sudo: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-31T09:56:06+00:00",
+        "published_at": "2026-08-31T11:11:06+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3084"
-      },
-      {
-        "title": "[NEU] [mittel] vllm: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-31T09:56:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3083"
-      },
-      {
-        "title": "[NEU] [hoch] Gitea: Mehrere Schwachstellen ermöglichen Ausführen von beliebigem Programmcode",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-31T09:46:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3079"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3092"
       }
     ],
     "ai": [

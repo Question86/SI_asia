@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-31T11:07:59+00:00",
+  "generated_at": "2026-08-31T11:22:01+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 61,
+    "findings": 67,
     "clusters": 39,
     "cross_source_confrmed": 0,
     "hot": 0,
@@ -12,7 +12,7 @@
   "clusters": [
     {
       "key": "domain:wid.cert-bund.de",
-      "title": "[NEU] [hoch] Microsoft Edge: Mehrere Schwachstellen",
+      "title": "[NEU] [hoch] Langflow OSS: Mehrere Schwachstellen",
       "sources": [
         "BSI CERT-Bund Security Advisories"
       ],
@@ -20,30 +20,30 @@
         "tier3_specialist"
       ],
       "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3096",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3095",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3085",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3081",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3080",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3078",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2247",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3042"
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3078"
       ],
-      "finding_count": 20,
-      "max_score": 16,
-      "credibility_total": 21.0,
+      "finding_count": 26,
+      "max_score": 17,
+      "credibility_total": 27.3,
       "cross_source_confirmed": false,
-      "momentum_delta": 3,
+      "momentum_delta": 6,
       "momentum_status": "increasing",
-      "network_score": 30.0,
+      "network_score": 31.5,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 67.0,
-      "ranking_score": 30.0,
+      "raw_network_score": 89.6,
+      "ranking_score": 31.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 7.5,
+      "momentum_bonus": 8.0,
       "baseline_bonus": 5.0,
       "early_signal": false,
       "early_signal_bonus": 0.0,
@@ -135,46 +135,6 @@
       "first_seen_at": "2026-08-31T08:30:56+00:00"
     },
     {
-      "key": "domain:www.twcert.org",
-      "title": "惡意npm攻擊再進化！駭客利用區塊鏈隱藏C2位址",
-      "sources": [
-        "TWCERT/CC Security News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.twcert.org.tw/tw/cp-104-11169-7cb52-1.html",
-        "https://www.twcert.org.tw/tw/cp-104-11170-448bd-1.html",
-        "https://www.twcert.org.tw/tw/cp-104-11168-85a71-1.html"
-      ],
-      "finding_count": 3,
-      "max_score": 14,
-      "credibility_total": 3.15,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 16.56,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 20.3,
-      "ranking_score": 16.56,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 1.06,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-19T11:28:55+00:00"
-    },
-    {
       "key": "title:environmental-ethics-should-product-decision-not-sustainability-footnote",
       "title": "The environmental ethics of AI should be a product decision, not a sustainability footnote",
       "sources": [
@@ -211,6 +171,46 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-08-31T01:34:58+00:00"
+    },
+    {
+      "key": "domain:www.twcert.org",
+      "title": "惡意npm攻擊再進化！駭客利用區塊鏈隱藏C2位址",
+      "sources": [
+        "TWCERT/CC Security News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.twcert.org.tw/tw/cp-104-11169-7cb52-1.html",
+        "https://www.twcert.org.tw/tw/cp-104-11170-448bd-1.html",
+        "https://www.twcert.org.tw/tw/cp-104-11168-85a71-1.html"
+      ],
+      "finding_count": 3,
+      "max_score": 14,
+      "credibility_total": 3.15,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 16.46,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 20.3,
+      "ranking_score": 16.46,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.96,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T11:28:55+00:00"
     },
     {
       "key": "title:why-japan-booming-market-harder-crack-than-looks",
@@ -387,18 +387,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 13.54,
+      "network_score": 13.51,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 14.1,
-      "ranking_score": 13.54,
+      "ranking_score": 13.51,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.04,
+      "baseline_bonus": 0.01,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -580,18 +580,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 12.06,
+      "network_score": 12.02,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 14.2,
-      "ranking_score": 12.06,
+      "ranking_score": 12.02,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.56,
+      "baseline_bonus": 0.52,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1522,7 +1522,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-08-31T11:08:00Z",
+    "generated_at": "2026-08-31T11:22:01Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
