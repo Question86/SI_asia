@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-31T04:51:25Z",
+  "generated_at": "2026-08-31T05:14:10Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 32,
+    "dynamics": 36,
     "bands": {
-      "strong": 4,
-      "watch": 12,
-      "quiet": 16
+      "strong": 5,
+      "watch": 14,
+      "quiet": 17
     },
     "bands_after_gate_recheck": {
-      "strong": 4,
-      "watch": 12,
-      "quiet": 16
+      "strong": 5,
+      "watch": 14,
+      "quiet": 17
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://e27.co/thailands-ai-startup-push-gets-openai-backing-through-new-public-private-accelerator-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T04:36:22+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
@@ -32,12 +32,12 @@
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +1",
+        "momentum delta +3",
         "AXI0M/User-Yps identity hit",
         "identity recheck: no AXI0M/User-Yps phrase hit",
         "single-source AI cap enforced after phrase recheck"
@@ -49,7 +49,7 @@
       "url": "https://e27.co/southeast-asias-chip-hub-ambition-is-colliding-with-its-chip-smuggling-problem-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T03:49:03+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -70,11 +70,35 @@
       "summary": ""
     },
     {
+      "title": "M 4.9 - 13 km SSE of Union, Philippines",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2c",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-31T04:36:22+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 22.5,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Southeast Asia is not one market; it’s five economies moving at different speeds",
       "url": "https://e27.co/southeast-asia-is-not-one-market-its-five-economies-moving-at-different-speeds-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T02:35:07+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "macro"
       ],
@@ -98,7 +122,7 @@
       "url": "https://e27.co/chinas-tax-reform-matters-more-to-southeast-asia-than-wall-street-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T02:09:37+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -122,7 +146,7 @@
       "url": "https://e27.co/swot-is-not-boring-you-are-just-using-it-too-late-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T01:34:58+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -146,7 +170,7 @@
       "url": "https://e27.co/thailands-ai-startup-push-gets-openai-backing-through-new-public-private-accelerator-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T04:26:52+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
@@ -173,7 +197,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2c",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-31T04:17:34.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -193,54 +217,51 @@
       "summary": "Time 2026-08-31 04:04:34 UTC 2026-08-31 04:04:34 UTC at epicenter Location 9.641°N 126.136°E Depth 83.89 km (52.13 mi)"
     },
     {
-      "title": "M 4.9 - 13 km SSE of Union, Philippines",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2c",
+      "title": "M 4.5 - south of the Fiji Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2f",
       "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-31T04:36:22+00:00",
-      "age_days": 0.01,
+      "published_at": "2026-08-31T04:52:25.040+00:00",
+      "age_days": 0.02,
       "topics": [
-        "general"
+        "disaster"
       ],
-      "dynamics_score": 17.5,
+      "dynamics_score": 17.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1"
+        "early terms: earthquake",
+        "high terms: 9.8"
       ],
-      "summary": ""
+      "summary": "Time 2026-08-31 04:38:22 UTC 2026-08-31 04:38:22 UTC at epicenter Location 25.207°S 179.802°E Depth 508.31 km (315.85 mi)"
     },
     {
-      "title": "AI is changing global expansion, but it cannot standardise local markets",
-      "url": "https://e27.co/ai-is-changing-global-expansion-but-it-cannot-standardise-local-markets-20260828/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-31T04:36:22+00:00",
-      "age_days": 0.01,
+      "title": "M 4.5 - south of the Fiji Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2f",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-30T09:38:46+00:00",
+      "age_days": 0.82,
       "topics": [
-        "ai",
-        "macro"
+        "general"
       ],
-      "dynamics_score": 16.0,
+      "dynamics_score": 16.5,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1",
-        "early terms: local",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
+        "momentum delta +3"
       ],
       "summary": ""
     },
@@ -249,7 +270,7 @@
       "url": "https://e27.co/the-environmental-ethics-of-ai-should-be-a-product-decision-not-a-sustainability-footnote-20260809/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T01:34:58+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -271,11 +292,39 @@
       "summary": ""
     },
     {
+      "title": "AI is changing global expansion, but it cannot standardise local markets",
+      "url": "https://e27.co/ai-is-changing-global-expansion-but-it-cannot-standardise-local-markets-20260828/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-31T04:36:22+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 15.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "early terms: local",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "「数万曲の歌詞を生成ＡＩが無断学習」…ソニーＧ傘下の音楽出版など３５社、アンソロピックとＣＥＯらを提訴（読売新聞オンライン） - Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/articles/2490663bdfd440b8083dc2af35532a6817f85681",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T00:59:38+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -299,7 +348,7 @@
       "url": "https://www.47news.jp/14868281.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T01:34:58+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -323,7 +372,7 @@
       "url": "https://note.com/chizutodesign/n/neee5116b95b4",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T02:09:37+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -347,7 +396,7 @@
       "url": "https://e27.co/building-burnout-resistant-teams-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T03:18:32+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -371,7 +420,7 @@
       "url": "https://e27.co/southeast-asias-chip-hub-ambition-is-colliding-with-its-chip-smuggling-problem-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T03:46:03+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -393,11 +442,37 @@
       "summary": "A couple of months ago, Singapore police froze a bungalow worth roughly US$42 million as part of its widening fraud investigation tied to the local server reseller Aperia Group. It is one data point in a pattern that has become impossible to ignore: Southeast Asia keeps turning up as the last stop before advanced Nvid…"
     },
     {
+      "title": "ITエンジニアのためのライフスタイルメディア KIKKAKE ITREND",
+      "url": "https://itrend.kikkakeagent.co.jp/articles/223",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-31T04:36:22+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Southeast Asia is not one market; it’s five economies moving at different speeds",
       "url": "https://e27.co/southeast-asia-is-not-one-market-its-five-economies-moving-at-different-speeds-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T02:30:44+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "macro"
       ],
@@ -421,7 +496,7 @@
       "url": "https://e27.co/southeast-asia-does-not-have-one-ai-advantage-it-has-11-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T03:36:59+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -447,51 +522,25 @@
       "url": "https://gigazine.net/news/20260831-openai-tens-of-thousands-apple-mac-mini-studio/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 73.12,
+      "age_days": 73.14,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 10.66,
+      "dynamics_score": 10.15,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 5.14,
+      "baseline_z_hint": 4.68,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 5.14",
+        "baseline z_hint 4.68",
         "single-source AI hype brake -8.0",
         "aging penalty -8.0 for 73.1d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "ITエンジニアのためのライフスタイルメディア KIKKAKE ITREND",
-      "url": "https://itrend.kikkakeagent.co.jp/articles/223",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-31T04:36:22+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 7.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -501,7 +550,7 @@
       "url": "https://e27.co/the-environmental-ethics-of-ai-should-be-a-product-decision-not-a-sustainability-footnote-20260809/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T01:00:41+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -526,7 +575,7 @@
       "url": "https://blog.shibayu36.org/entry/2026/08/30/173000",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T02:26:46+00:00",
-      "age_days": 1.1,
+      "age_days": 1.12,
       "topics": [
         "ai"
       ],
@@ -552,7 +601,7 @@
       "url": "https://e27.co/ai-is-changing-global-expansion-but-it-cannot-standardise-local-markets-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T04:00:46+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "macro"
@@ -579,7 +628,7 @@
       "url": "https://news.yahoo.co.jp/articles/2490663bdfd440b8083dc2af35532a6817f85681",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T23:10:19+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -603,7 +652,7 @@
       "url": "https://www.47news.jp/14868281.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T12:11:27+00:00",
-      "age_days": 0.69,
+      "age_days": 0.71,
       "topics": [
         "general"
       ],
@@ -627,7 +676,7 @@
       "url": "https://note.com/chizutodesign/n/neee5116b95b4",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T10:59:58+00:00",
-      "age_days": 0.74,
+      "age_days": 0.76,
       "topics": [
         "general"
       ],
@@ -647,11 +696,37 @@
       "summary": "Googleマップが新しくなって話題になっていたので、江戸時代（1840年頃）にGoogleマップがあったら…と想像して当時の東京周辺の地図を作ってみました。 pic.twitter.com/7ZSUVBnWT2 — 地図とかデザインとか (@chizutodesign) March 24, 2019 当時は私自身、地理や歴史にそこまで詳しくありませんでした。たくさんの方か..."
     },
     {
+      "title": "LINEヤフー、全社横断でAIエージェント量産体制 カレンダーなど新「Agent i」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2136632.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-31T04:56:33+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 4.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "OpenAIが数万台のMac miniとMac Studioを買い占め",
       "url": "https://gigazine.net/news/20260831-openai-tens-of-thousands-apple-mac-mini-studio/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T03:28:11+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -676,7 +751,7 @@
       "url": "https://e27.co/chinas-tax-reform-matters-more-to-southeast-asia-than-wall-street-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T02:00:18+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -701,7 +776,7 @@
       "url": "https://itrend.kikkakeagent.co.jp/articles/223",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T02:00:08+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -726,7 +801,7 @@
       "url": "https://e27.co/southeast-asia-does-not-have-one-ai-advantage-it-has-11-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T03:30:21+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -751,7 +826,7 @@
       "url": "https://e27.co/swot-is-not-boring-you-are-just-using-it-too-late-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T01:15:59+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "ai",
         "macro"
@@ -773,11 +848,36 @@
       "summary": "Strengths. Weaknesses. Opportunities. Threats. Someone fills four boxes with familiar phrases, takes a photo, and never looks at it again. That is not a strategy framework. It is office wallpaper. Used at the right time, however, frameworks such as 5W1H, SWOT, and PESTLE can help a person avoid one of the most expensi…"
     },
     {
+      "title": "LINEヤフー、全社横断でAIエージェント量産体制 カレンダーなど新「Agent i」",
+      "url": "https://www.watch.impress.co.jp/docs/news/2136632.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-30T22:48:32+00:00",
+      "age_days": 0.27,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "LINEヤフー、全社横断でAIエージェント量産体制 カレンダーなど新「Agent i」"
+    },
+    {
       "title": "AIに機密情報を渡してよいか、判断の軸を自分なりに整理してみた - $shibayu36->blog;",
       "url": "https://blog.shibayu36.org/entry/2026/08/30/173000",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T10:55:51+00:00",
-      "age_days": 0.75,
+      "age_days": 0.76,
       "topics": [
         "ai"
       ],
@@ -802,7 +902,7 @@
       "url": "https://e27.co/building-burnout-resistant-teams-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T03:00:18+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],

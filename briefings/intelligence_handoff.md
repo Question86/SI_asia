@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-31T04:51:25Z_
+_Generated: 2026-08-31T05:14:10Z_
 
 ## Lageurteil
 
@@ -12,27 +12,37 @@ Stärkste Dynamik nach Gate-Recheck: “Thailand’s AI startup push gets OpenAI
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.9`
-- Published: `2026-08-31T04:36:22+00:00` / age_days `0.01`
+- Published: `2026-08-31T04:36:22+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +1, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
+- Warum: momentum delta +3, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
 - Quelle: https://e27.co/thailands-ai-startup-push-gets-openai-backing-through-new-public-private-accelerator-20260831/
 
 ### Southeast Asia’s chip-hub ambition is colliding with its chip-smuggling problem
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-31T03:49:03+00:00` / age_days `0.04`
+- Published: `2026-08-31T03:49:03+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, krass gate: single-source non-official/non-identity signal capped
 - Quelle: https://e27.co/southeast-asias-chip-hub-ambition-is-colliding-with-its-chip-smuggling-problem-20260831/
 
+### M 4.9 - 13 km SSE of Union, Philippines
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `22.5`
+- Published: `2026-08-31T04:36:22+00:00` / age_days `0.03`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2c
+
 ### Southeast Asia is not one market; it’s five economies moving at different speeds
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-08-31T02:35:07+00:00` / age_days `0.09`
+- Published: `2026-08-31T02:35:07+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -42,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “Thailand’s AI startup push gets OpenAI
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-08-31T02:09:37+00:00` / age_days `0.11`
+- Published: `2026-08-31T02:09:37+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -52,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “Thailand’s AI startup push gets OpenAI
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-08-31T01:34:58+00:00` / age_days `0.14`
+- Published: `2026-08-31T01:34:58+00:00` / age_days `0.15`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -62,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “Thailand’s AI startup push gets OpenAI
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-08-31T04:26:52+00:00` / age_days `0.02`
+- Published: `2026-08-31T04:26:52+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: early terms: local, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -72,60 +82,50 @@ Stärkste Dynamik nach Gate-Recheck: “Thailand’s AI startup push gets OpenAI
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.0`
-- Published: `2026-08-31T04:17:34.040+00:00` / age_days `0.02`
+- Published: `2026-08-31T04:17:34.040+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2c
 
-### M 4.9 - 13 km SSE of Union, Philippines
+### M 4.5 - south of the Fiji Islands
 
 - Band: `watch` (raw `watch`)
-- Dynamics score: `17.5`
-- Published: `2026-08-31T04:36:22+00:00` / age_days `0.01`
+- Dynamics score: `17.0`
+- Published: `2026-08-31T04:52:25.040+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2c
+- Warum: early terms: earthquake, high terms: 9.8
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2f
 
-### AI is changing global expansion, but it cannot standardise local markets
+### M 4.5 - south of the Fiji Islands
 
 - Band: `watch` (raw `watch`)
-- Dynamics score: `16.0`
-- Published: `2026-08-31T04:36:22+00:00` / age_days `0.01`
+- Dynamics score: `16.5`
+- Published: `2026-08-30T09:38:46+00:00` / age_days `0.82`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +1, early terms: local, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://e27.co/ai-is-changing-global-expansion-but-it-cannot-standardise-local-markets-20260828/
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2f
 
 ### The environmental ethics of AI should be a product decision, not a sustainability footnote
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.0`
-- Published: `2026-08-31T01:34:58+00:00` / age_days `0.14`
+- Published: `2026-08-31T01:34:58+00:00` / age_days `0.15`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://e27.co/the-environmental-ethics-of-ai-should-be-a-product-decision-not-a-sustainability-footnote-20260809/
 
-### 「数万曲の歌詞を生成ＡＩが無断学習」…ソニーＧ傘下の音楽出版など３５社、アンソロピックとＣＥＯらを提訴（読売新聞オンライン） - Yahoo!ニュース
+### AI is changing global expansion, but it cannot standardise local markets
 
 - Band: `watch` (raw `watch`)
-- Dynamics score: `14.0`
-- Published: `2026-08-31T00:59:38+00:00` / age_days `0.16`
+- Dynamics score: `15.0`
+- Published: `2026-08-31T04:36:22+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3
-- Quelle: https://news.yahoo.co.jp/articles/2490663bdfd440b8083dc2af35532a6817f85681
-
-### 【独自】Jアラート「偽の警報可能」 専門家、発信元保証なし
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `14.0`
-- Published: `2026-08-31T01:34:58+00:00` / age_days `0.14`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3
-- Quelle: https://www.47news.jp/14868281.html
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: momentum delta +3, early terms: local, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://e27.co/ai-is-changing-global-expansion-but-it-cannot-standardise-local-markets-20260828/
 
 END OF DOCUMENT

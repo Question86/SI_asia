@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-08-31T04:51:25Z",
+  "generated_at": "2026-08-31T05:14:10Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Thailand’s AI startup push gets OpenAI backing through new public-private accelerator” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://e27.co/thailands-ai-startup-push-gets-openai-backing-through-new-public-private-accelerator-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T04:36:22+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
@@ -25,12 +25,12 @@
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +1",
+        "momentum delta +3",
         "AXI0M/User-Yps identity hit",
         "identity recheck: no AXI0M/User-Yps phrase hit",
         "single-source AI cap enforced after phrase recheck"
@@ -42,7 +42,7 @@
       "url": "https://e27.co/southeast-asias-chip-hub-ambition-is-colliding-with-its-chip-smuggling-problem-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T03:49:03+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -63,11 +63,35 @@
       "summary": ""
     },
     {
+      "title": "M 4.9 - 13 km SSE of Union, Philippines",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2c",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-31T04:36:22+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 22.5,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Southeast Asia is not one market; it’s five economies moving at different speeds",
       "url": "https://e27.co/southeast-asia-is-not-one-market-its-five-economies-moving-at-different-speeds-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T02:35:07+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "macro"
       ],
@@ -91,7 +115,7 @@
       "url": "https://e27.co/chinas-tax-reform-matters-more-to-southeast-asia-than-wall-street-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T02:09:37+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -115,7 +139,7 @@
       "url": "https://e27.co/swot-is-not-boring-you-are-just-using-it-too-late-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T01:34:58+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -139,7 +163,7 @@
       "url": "https://e27.co/thailands-ai-startup-push-gets-openai-backing-through-new-public-private-accelerator-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T04:26:52+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
@@ -166,7 +190,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2c",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-31T04:17:34.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -186,54 +210,51 @@
       "summary": "Time 2026-08-31 04:04:34 UTC 2026-08-31 04:04:34 UTC at epicenter Location 9.641°N 126.136°E Depth 83.89 km (52.13 mi)"
     },
     {
-      "title": "M 4.9 - 13 km SSE of Union, Philippines",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2c",
+      "title": "M 4.5 - south of the Fiji Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2f",
       "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-31T04:36:22+00:00",
-      "age_days": 0.01,
+      "published_at": "2026-08-31T04:52:25.040+00:00",
+      "age_days": 0.02,
       "topics": [
-        "general"
+        "disaster"
       ],
-      "dynamics_score": 17.5,
+      "dynamics_score": 17.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1"
+        "early terms: earthquake",
+        "high terms: 9.8"
       ],
-      "summary": ""
+      "summary": "Time 2026-08-31 04:38:22 UTC 2026-08-31 04:38:22 UTC at epicenter Location 25.207°S 179.802°E Depth 508.31 km (315.85 mi)"
     },
     {
-      "title": "AI is changing global expansion, but it cannot standardise local markets",
-      "url": "https://e27.co/ai-is-changing-global-expansion-but-it-cannot-standardise-local-markets-20260828/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-31T04:36:22+00:00",
-      "age_days": 0.01,
+      "title": "M 4.5 - south of the Fiji Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2f",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-08-30T09:38:46+00:00",
+      "age_days": 0.82,
       "topics": [
-        "ai",
-        "macro"
+        "general"
       ],
-      "dynamics_score": 16.0,
+      "dynamics_score": 16.5,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1",
-        "early terms: local",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
+        "momentum delta +3"
       ],
       "summary": ""
     },
@@ -242,7 +263,7 @@
       "url": "https://e27.co/the-environmental-ethics-of-ai-should-be-a-product-decision-not-a-sustainability-footnote-20260809/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T01:34:58+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -264,50 +285,30 @@
       "summary": ""
     },
     {
-      "title": "「数万曲の歌詞を生成ＡＩが無断学習」…ソニーＧ傘下の音楽出版など３５社、アンソロピックとＣＥＯらを提訴（読売新聞オンライン） - Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/2490663bdfd440b8083dc2af35532a6817f85681",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-31T00:59:38+00:00",
-      "age_days": 0.16,
+      "title": "AI is changing global expansion, but it cannot standardise local markets",
+      "url": "https://e27.co/ai-is-changing-global-expansion-but-it-cannot-standardise-local-markets-20260828/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-08-31T04:36:22+00:00",
+      "age_days": 0.03,
       "topics": [
-        "general"
+        "ai",
+        "macro"
       ],
-      "dynamics_score": 14.0,
+      "dynamics_score": 15.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": false,
+      "single_source_ai_capped": true,
       "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "【独自】Jアラート「偽の警報可能」 専門家、発信元保証なし",
-      "url": "https://www.47news.jp/14868281.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-31T01:34:58+00:00",
-      "age_days": 0.14,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
+        "momentum delta +3",
+        "early terms: local",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
     }
@@ -321,8 +322,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 4,
-      "watch": 8
+      "strong": 5,
+      "watch": 7
     }
   }
 }
