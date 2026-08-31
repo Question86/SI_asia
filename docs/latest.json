@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T11:55:29+00:00",
-  "run_id": "2026-08-31T11:55:29+00:00",
+  "generated_at": "2026-08-31T12:13:26+00:00",
+  "run_id": "2026-08-31T12:13:26+00:00",
   "date": "2026-08-31",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 72
+      "configured_public_sources_only": 74
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 72,
-    "displayed_findings": 72,
+    "new_relevant_findings": 2,
+    "today_file_total": 74,
+    "displayed_findings": 74,
     "high": 0,
     "medium": 35,
-    "observe": 37,
+    "observe": 39,
     "source_errors": 1
   },
   "sections": {
@@ -1052,6 +1052,42 @@
         "id": "8c7d94aa4410159a72d6"
       },
       {
+        "title": "M 4.7 - 3 km NW of Yanacancha, Peru",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td3y",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-08-31T12:08:26.040+00:00",
+        "fetched_at": "2026-08-31T12:12:55+00:00",
+        "summary": "Time 2026-08-31 11:53:26 UTC 2026-08-31 11:53:26 UTC at epicenter Location 12.182°S 75.410°W Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "4c4b322516f75b1621cc"
+      },
+      {
         "title": "AI is changing global expansion, but it cannot standardise local markets",
         "url": "https://e27.co/ai-is-changing-global-expansion-but-it-cannot-standardise-local-markets-20260828/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -1294,6 +1330,26 @@
           "LOW"
         ],
         "id": "67672d9148183079489d"
+      },
+      {
+        "title": "WatchGuard Security-Appliances: Schadcode-Lücken in Firebox OS geschlossen",
+        "url": "https://www.heise.de/news/WatchGuard-Security-Appliances-Schadcode-Luecken-in-Firebox-OS-geschlossen-11434937.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-08-31T11:52:00.000+00:00",
+        "fetched_at": "2026-08-31T12:12:55+00:00",
+        "summary": "Firewalls und VPN-Technik von WatchGuard sind attackierbar. Reparierte Versionen von Firebox OS sind verfügbar.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Security (+7.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c6ad6083d8056cef8fc0"
       },
       {
         "title": "LLMのカスのコンサル問題 - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
@@ -2778,6 +2834,42 @@
       "id": "8c7d94aa4410159a72d6"
     },
     {
+      "title": "M 4.7 - 3 km NW of Yanacancha, Peru",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td3y",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-31T12:08:26.040+00:00",
+      "fetched_at": "2026-08-31T12:12:55+00:00",
+      "summary": "Time 2026-08-31 11:53:26 UTC 2026-08-31 11:53:26 UTC at epicenter Location 12.182°S 75.410°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "4c4b322516f75b1621cc"
+    },
+    {
       "title": "AI is changing global expansion, but it cannot standardise local markets",
       "url": "https://e27.co/ai-is-changing-global-expansion-but-it-cannot-standardise-local-markets-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -3020,6 +3112,26 @@
         "LOW"
       ],
       "id": "67672d9148183079489d"
+    },
+    {
+      "title": "WatchGuard Security-Appliances: Schadcode-Lücken in Firebox OS geschlossen",
+      "url": "https://www.heise.de/news/WatchGuard-Security-Appliances-Schadcode-Luecken-in-Firebox-OS-geschlossen-11434937.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-08-31T11:52:00.000+00:00",
+      "fetched_at": "2026-08-31T12:12:55+00:00",
+      "summary": "Firewalls und VPN-Technik von WatchGuard sind attackierbar. Reparierte Versionen von Firebox OS sind verfügbar.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Security (+7.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c6ad6083d8056cef8fc0"
     },
     {
       "title": "LLMのカスのコンサル問題 - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
@@ -3481,7 +3593,64 @@
       "id": "fb3933b479a923918e3f"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "M 4.7 - 3 km NW of Yanacancha, Peru",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td3y",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-31T12:08:26.040+00:00",
+      "fetched_at": "2026-08-31T12:12:55+00:00",
+      "summary": "Time 2026-08-31 11:53:26 UTC 2026-08-31 11:53:26 UTC at epicenter Location 12.182°S 75.410°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "4c4b322516f75b1621cc"
+    },
+    {
+      "title": "WatchGuard Security-Appliances: Schadcode-Lücken in Firebox OS geschlossen",
+      "url": "https://www.heise.de/news/WatchGuard-Security-Appliances-Schadcode-Luecken-in-Firebox-OS-geschlossen-11434937.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-08-31T11:52:00.000+00:00",
+      "fetched_at": "2026-08-31T12:12:55+00:00",
+      "summary": "Firewalls und VPN-Technik von WatchGuard sind attackierbar. Reparierte Versionen von Firebox OS sind verfügbar.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Security (+7.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c6ad6083d8056cef8fc0"
+    }
+  ],
   "source_errors": [
     {
       "source_id": "bis_statistics",
