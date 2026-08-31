@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-08-31T07:58:35+00:00`
+Generated: `2026-08-31T08:31:16+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -9,6 +9,7 @@ Generated: `2026-08-31T07:58:35+00:00`
 | Why every warehouse in Singapore will run on AI safety monitoring within five years | natural_disaster, conflict | $122.40M | $12.24B | $1.22T | 0.31 |
 | Warsh, In Our Time | conflict | $113.60M | $11.36B | $1.14T | 0.31 |
 | bilawalsidhu/gods-eye-view | regulation, natural_disaster | $11.92M | $1.19B | $119.20B | 0.31 |
+| M 5.5 - 44 km NNE of Ruteng, Indonesia | natural_disaster | $1.19M | $119.20M | $11.92B | 0.33 |
 | M 5.0 - 64 km W of Labuha, Indonesia | natural_disaster | $1.16M | $116.00M | $11.60B | 0.33 |
 | M 4.6 - 52 km NNE of Ruteng, Indonesia | natural_disaster | $1.16M | $116.00M | $11.60B | 0.33 |
 | M 4.8 - 110 km E of Miyako, Japan | natural_disaster | $1.16M | $116.00M | $11.60B | 0.33 |
@@ -30,7 +31,6 @@ Generated: `2026-08-31T07:58:35+00:00`
 | M 4.8 - 13 km ENE of Himarë, Albania | natural_disaster | $1.11M | $111.20M | $11.12B | 0.33 |
 | M 4.9 - South Sandwich Islands region | natural_disaster | $1.11M | $111.20M | $11.12B | 0.33 |
 | M 4.5 - south of the Fiji Islands | natural_disaster | $1.11M | $111.20M | $11.12B | 0.33 |
-| M 5.1 - South Sandwich Islands region | natural_disaster | $1.11M | $111.20M | $11.12B | 0.33 |
 
 ## Interpretation
 
