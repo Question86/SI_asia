@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-31T08:30:52+00:00_
+_Generiert: 2026-08-31T08:47:43+00:00_
 
 ## Kurzlage
 
-40 neue relevante Treffer. Stärkstes Signal: „M 5.5 - 44 km NNE of Ruteng, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+42 neue relevante Treffer. Stärkstes Signal: „M 5.5 - 44 km NNE of Ruteng, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -41,6 +41,10 @@ _Generiert: 2026-08-31T08:30:52+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Philippines
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 31/08/2026 08:03 UTC, 9 thousand in MMI VI.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1562739)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 31/08/2026 08:03 UTC, 9 thousand in MMI VI.
 - **GDACS: Green earthquake (Magnitude 5.8M, Depth:35km) in Kermadec Islands, New Zealand 30/08/2026 09:02 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1562607)
   - Quelle: GDACS
   - Zeit: ``
@@ -153,6 +157,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Southeast Asia startup funding finds a floor, but not a rebound** — Score 13, observation — [Quelle](https://e27.co/southeast-asia-startup-funding-finds-a-floor-but-not-a-rebound-20260831/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-31T08:42:46+00:00`, fetched `2026-08-31T08:47:10+00:00`
+  - Treffer: APAC Trend Radar, funding, Southeast Asia, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.5); funding (+2.5); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Southeast Asia’s venture capital market has stopped falling off a cliff. That does not mean it has bounced back. According to the “Southeast Asia Startup Funding Report for 2025” by DealStreetAsia and Kickstart Ventures, the region closed the year with just 461 equity deals, the lowest annual deal count since at least 2018. The headline […] The post Southeast Asia startup funding finds a floor, but not a rebound app…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **リコー製Web Image Monitorを実装している複数のレーザープリンタおよび複合機（MFP）におけるオープンリダイレクトの脆弱性** — Score 13, risk — [Quelle](https://jvn.jp/jp/JVN65118274/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-04-30T14:00:00+09:00`, fetched `2026-08-31T06:55:19+00:00`
@@ -188,15 +201,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: China’s effort to strengthen the taxation of overseas assets held by its citizens marks more than a fiscal reform. It signals a shift in how the country views the relationship between private wealth, capital mobility, and national development. While the policy aims to recover unpaid taxes and increase government revenue, its effects may extend well […] The post China’s tax reform matters more to Southeast Asia than…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AI is changing global expansion, but it cannot standardise local markets** — Score 11, observation — [Quelle](https://e27.co/ai-is-changing-global-expansion-but-it-cannot-standardise-local-markets-20260828/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-08-31T04:00:46+00:00`, fetched `2026-08-31T04:35:40+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Webentwicklung
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); Webentwicklung (+3.0); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: AI can translate a website into 20 languages overnight, summarise competitors in Germany, prepare a first market analysis for France, adapt a campaign for Italy and help a customer support team answer questions from several countries at once. Tasks that once required multiple specialists, significant budgets and weeks of preparation can increasingly be handled by […] The post AI is changing global expansion, but it…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ITエンジニアのためのライフスタイルメディア KIKKAKE ITREND** — Score 11, observation — [Quelle](https://itrend.kikkakeagent.co.jp/articles/223)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
