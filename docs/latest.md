@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-31T18:58:43+00:00_
+_Generiert: 2026-08-31T19:15:22+00:00_
 
 ## Kurzlage
 
-83 neue relevante Treffer. Stärkstes Signal: „M 5.5 - 44 km NNE of Ruteng, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+84 neue relevante Treffer. Stärkstes Signal: „M 5.5 - 44 km NNE of Ruteng, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -213,6 +213,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Macro/Policy (+6.2)
   - Kurz: Dinner speech by Philip R. Lane, Member of the Executive Board of the European Central Bank, at the closing conference of the European System of Central Banks Research Network on Challenges for Monetary Policy Transmission in a Changing World (ChaMP), Rome, 6 July 2026.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **M 4.6 - 112 km SSW of Chirilagua, El Salvador** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000td5l)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-31T19:11:48.040+00:00`, fetched `2026-08-31T19:14:46+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-08-31 18:56:28 UTC 2026-08-31 18:56:28 UTC at epicenter Location 12.244°N 88.443°W Depth 35.00 km (21.75 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.6 - 28 km ESE of Kuril’sk, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000td3c)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-08-31T10:09:43.040+00:00`, fetched `2026-08-31T10:12:12+00:00`
@@ -222,15 +231,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-31 09:19:57 UTC 2026-08-31 09:19:57 UTC at epicenter Location 45.145°N 148.219°E Depth 147.81 km (91.85 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **CRA強化軟體供應鏈安全要求，SBOM成企業重要管理工具** — Score 9, observation — [Quelle](https://www.twcert.org.tw/tw/cp-104-11170-448bd-1.html)
-  - Quelle: TWCERT/CC Security News RSS / `rss`
-  - Zeit: published `2026-08-31T06:40:00+00:00`, fetched `2026-08-31T06:55:19+00:00`
-  - Treffer: Security, TWCERT
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); TWCERT (+2.0); recent (+1.0)
-  - Kurz: 隨著歐盟《網路韌性法》（Cyber Resilience Act, CRA）相關規範陸續上路，SBOM（Software Bill of Materials，軟體物料清單）逐漸從最佳實踐（best practice）成為企業因應法規及市場要求的重要管理措施。對於產品涉及數位元件並銷往歐盟市場的業者而言，如何建立、維護及管理SBOM，已成為軟體供應鏈安全的重要課題。 SBOM實務導入涉及軟體範圍、元件盤點、資料格式、更新機制及維護責任等多項管理議題。企業除應掌握SBOM的基本概念外，亦需建立適當的產製及管理流程，以確保軟體元件資訊具備完整性、可追溯性及可持續維護性。 SBOM是什麼 SBOM是一份正式且機器可讀性的軟體元件清單，用於記錄軟體所使用的元件（component）、函式庫（library）及相依套件（dependency），以及相關版本、供應來源與相依關係等。透過SBOM，企業可掌握軟體產品的組成，並進一步建立軟體元件…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
