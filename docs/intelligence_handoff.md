@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-08-31T09:40:56Z_
+_Generated: 2026-08-31T09:50:15Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [niedrig] libarchive: Schwachst
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `31.0`
-- Published: `2026-08-31T09:21:15+00:00` / age_days `0.01`
+- Published: `2026-08-31T09:21:15+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [niedrig] libarchive: Schwachst
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `31.0`
-- Published: `2026-08-31T09:11:08+00:00` / age_days `0.02`
+- Published: `2026-08-31T09:11:08+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code
@@ -37,16 +37,6 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [niedrig] libarchive: Schwachst
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10
 - Quelle: https://www.twcert.org.tw/tw/cp-104-11170-448bd-1.html
-
-### CISA與多國安全機構聯合發布「Gunra」勒索軟體預警通報
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `26.0`
-- Published: `2026-08-31T06:04:00+00:00` / age_days `0.15`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: ransomware, 10, security high-signal: ransomware, 10
-- Quelle: https://www.twcert.org.tw/tw/cp-104-11168-85a71-1.html
 
 ### Why Japan’s booming AI market is harder to crack than it looks
 
@@ -92,11 +82,21 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [niedrig] libarchive: Schwachst
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-31T05:51:06+00:00` / age_days `0.16`
+- Published: `2026-08-31T05:51:06+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
 - Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2849
+
+### [NEU] [mittel] Red Hat Enterprise Linux (xmlrpc-c): Schwachstelle ermöglicht Cross-Site Scripting
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-08-31T09:36:05+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: security high-signal: cert-bund, bsi, security, advisory, official security but no high-signal phrase: capped at strong
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3078
 
 ### [UPDATE] [mittel] Red Hat Enterprise Linux (libsolv, aardvark-dns): Mehrere Schwachstellen
 
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [niedrig] libarchive: Schwachst
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-31T07:33:00.000+00:00` / age_days `0.09`
+- Published: `2026-08-31T07:33:00.000+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: root, security high-signal: root, krass gate recheck: needs multi-source, identity, or official high-signal phrase
