@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-31T07:58:15+00:00_
+_Generiert: 2026-08-31T08:30:52+00:00_
 
 ## Kurzlage
 
-39 neue relevante Treffer. Stärkstes Signal: „Southeast Asia’s chip-hub ambition is colliding with its chip-smuggling problem“ aus e27 Asia Startup and Tech Feed (Score 18, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+40 neue relevante Treffer. Stärkstes Signal: „M 5.5 - 44 km NNE of Ruteng, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,6 +29,18 @@ _Generiert: 2026-08-31T07:58:15+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-26`
   - Kurz: Known exploited vulnerability. Added 2026-08-26. Due 2026-09-09. Red Hat Libuser Race Condition Vulnerability
+- **GDACS: Green flood alert in Lebanon** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104129)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Lebanon
+- **GDACS: Green flood alert in Türkiye** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104131)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Türkiye
+- **GDACS: Green flood alert in Philippines** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104130)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Philippines
 - **GDACS: Green earthquake (Magnitude 5.8M, Depth:35km) in Kermadec Islands, New Zealand 30/08/2026 09:02 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1562607)
   - Quelle: GDACS
   - Zeit: ``
@@ -37,18 +49,10 @@ _Generiert: 2026-08-31T07:58:15+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Orange earthquake (Magnitude 5M, Depth:10km) in China 28/08/2026 05:13 UTC, 15.8 million in 100km.
-- **GDACS: Green earthquake (Magnitude 6M, Depth:10km) in Yemen 27/08/2026 21:07 UTC, 40 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1562205)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6M, Depth:10km) in Yemen 27/08/2026 21:07 UTC, 40 thousand in MMI IV.
-- **GDACS: Green notification for tropical cyclone KARINA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001314)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green notification for tropical cyclone KARINA-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **GDACS: Green notification for tropical cyclone LOWELL-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001315)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green notification for tropical cyclone LOWELL-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+- **USGS earthquake M5.5 - 44 km NNE of Ruteng, Indonesia** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2z)
+  - Quelle: USGS
+  - Zeit: `2026-08-31T08:03:28+00:00`
+  - Kurz: M5.5 - 44 km NNE of Ruteng, Indonesia. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -65,6 +69,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **M 5.5 - 44 km NNE of Ruteng, Indonesia** — Score 19, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2z)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-31T08:28:21.762+00:00`, fetched `2026-08-31T08:30:17+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - VI Time 2026-08-31 08:03:28 UTC 2026-08-31 08:03:28 UTC at epicenter Location 8.241°S 120.612°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Southeast Asia’s chip-hub ambition is colliding with its chip-smuggling problem** — Score 18, risk — [Quelle](https://e27.co/southeast-asias-chip-hub-ambition-is-colliding-with-its-chip-smuggling-problem-20260831/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-31T03:46:03+00:00`, fetched `2026-08-31T03:48:33+00:00`

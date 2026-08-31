@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-31T07:58:15+00:00",
+  "generated_at": "2026-08-31T08:30:52+00:00",
   "status": "warning",
   "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 39,
-    "displayed_findings": 39,
+    "new_relevant_findings": 1,
+    "today_file_total": 40,
+    "displayed_findings": 40,
     "high": 0,
-    "medium": 9,
+    "medium": 10,
     "observe": 30
   },
   "source_errors_count": 1,
   "top_signals": [
+    {
+      "title": "M 5.5 - 44 km NNE of Ruteng, Indonesia",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-31T08:28:21.762+00:00",
+      "relevance_score": 19,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2z",
+      "summary": "PAGER - GREEN ShakeMap - VI Time 2026-08-31 08:03:28 UTC 2026-08-31 08:03:28 UTC at epicenter Location 8.241°S 120.612°E Depth 10.00 km (6.21 mi)",
+      "section": "medium"
+    },
     {
       "title": "Southeast Asia’s chip-hub ambition is colliding with its chip-smuggling problem",
       "source": "e27 Asia Startup and Tech Feed",
@@ -42,16 +52,6 @@
       "relevance_score": 16,
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3042",
       "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, darunter möglicherweise die Ausführung von beliebigem Code, die Ausweitung von Berechtigungen, die Offenlegung von Informationen, d…",
-      "section": "medium"
-    },
-    {
-      "title": "M 4.9 - 13 km SSE of Union, Philippines",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-08-31T04:17:34.040+00:00",
-      "relevance_score": 15,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2c",
-      "summary": "Time 2026-08-31 04:04:34 UTC 2026-08-31 04:04:34 UTC at epicenter Location 9.641°N 126.136°E Depth 83.89 km (52.13 mi)",
       "section": "medium"
     },
     {
@@ -100,142 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Why Japan’s booming AI market is harder to crack than it looks” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=39.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Why Japan’s booming AI market is harder to crack than it looks",
-        "url": "https://e27.co/why-japans-booming-ai-market-is-harder-to-crack-than-it-looks-20260831/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-31T05:57:31+00:00",
-        "age_days": 0.1,
-        "topics": [
-          "axiom",
-          "ai",
-          "macro"
-        ],
-        "dynamics_score": 39.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce",
-          "security high-signal: rce",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "Japan’s AI market is growing fast. It is valued at approximately US$8.9 billion in 2024 and is projected to nearly triple to US$27.9 billion by 2029, making it one of the most compelling AI opportunities in Asia. An ageing population drives demand for automation. Strong manufacturing and healthcare infrastructure supp…"
-      },
-      {
-        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3042",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-31T06:12:03+00:00",
-        "age_days": 0.09,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, darunter möglicherweise die Ausführung von beliebigem Code, die Ausweitung von Berechtigungen, die Offenlegung von Informationen, die Manipulation von Daten oder Denial-of-Service-Zustände."
-      },
-      {
-        "title": "惡意npm攻擊再進化！駭客利用區塊鏈隱藏C2位址",
-        "url": "https://www.twcert.org.tw/tw/cp-104-11169-7cb52-1.html",
-        "source": "TWCERT/CC Security News RSS",
-        "published_at": "2026-08-31T06:23:00+00:00",
-        "age_days": 0.08,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce, 10",
-          "security high-signal: rce, 10"
-        ],
-        "summary": "資安社群平臺OpenSourceMalware近期發現兩個遭植入木馬的npm套件「bianira-ui」與「fluid-type-ui」，其攻擊流程不同於傳統的EtherHiding資料隱匿方式，研究人員將這項技術命名為 NullReceiver，並認為此次攻擊可能與北韓駭客組織相關。EtherHiding屬於一種Dead Drop Resolver（DDR）技術，是指攻擊者將惡意中繼站（C2）放置在合法的第三方平台（如GitHub、Pastebin等），若攻擊者選擇將C2資訊隱藏於區塊鏈上，則被稱為EtherHiding。 「EtherHiding」一詞最早由Guardio Labs於2023年10月提出，Google也在 20…"
-      },
-      {
-        "title": "[UPDATE] [hoch] IBM Concert: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3046",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-31T06:12:03+00:00",
-        "age_days": 0.09,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM Concert ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren, um einen Cross-Site Scripting Angriff durchzuführen, um einen SQL-Injection Angriff durchzuführen und…"
-      },
-      {
-        "title": "[UPDATE] [hoch] Budibase: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2849",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-31T05:51:06+00:00",
-        "age_days": 0.1,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: auth",
-          "security high-signal: auth"
-        ],
-        "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Budibase ausnutzen, um Dateien zu manipulieren, vertrauliche Daten offenzulegen, erweiterte Berechtigungen zu erlangen und Sicherheitsmaßnahmen zu umgehen."
-      }
-    ]
-  }
+  ]
 }

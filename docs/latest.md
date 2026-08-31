@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-31T07:58:15+00:00_
+_Generiert: 2026-08-31T08:30:52+00:00_
 
 ## Kurzlage
 
-39 neue relevante Treffer. Stärkstes Signal: „Southeast Asia’s chip-hub ambition is colliding with its chip-smuggling problem“ aus e27 Asia Startup and Tech Feed (Score 18, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+40 neue relevante Treffer. Stärkstes Signal: „M 5.5 - 44 km NNE of Ruteng, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **M 5.5 - 44 km NNE of Ruteng, Indonesia** — Score 19, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2z)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-08-31T08:28:21.762+00:00`, fetched `2026-08-31T08:30:17+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - VI Time 2026-08-31 08:03:28 UTC 2026-08-31 08:03:28 UTC at epicenter Location 8.241°S 120.612°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Southeast Asia’s chip-hub ambition is colliding with its chip-smuggling problem** — Score 18, risk — [Quelle](https://e27.co/southeast-asias-chip-hub-ambition-is-colliding-with-its-chip-smuggling-problem-20260831/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-31T03:46:03+00:00`, fetched `2026-08-31T03:48:33+00:00`

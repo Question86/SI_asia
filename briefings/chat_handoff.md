@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-31T07:58:15+00:00_
+_Generated: 2026-08-31T08:30:52+00:00_
 
 ## Status
 - status: `warning`
-- findings: `39`
+- findings: `40`
 
 ## Top Signals
 
-### 1. Southeast Asia’s chip-hub ambition is colliding with its chip-smuggling problem
+### 1. M 5.5 - 44 km NNE of Ruteng, Indonesia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `19`
+- published: `2026-08-31T08:28:21.762+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2z
+- summary: PAGER - GREEN ShakeMap - VI Time 2026-08-31 08:03:28 UTC 2026-08-31 08:03:28 UTC at epicenter Location 8.241°S 120.612°E Depth 10.00 km (6.21 mi)
+
+### 2. Southeast Asia’s chip-hub ambition is colliding with its chip-smuggling problem
 - source: e27 Asia Startup and Tech Feed
 - score: `18`
 - published: `2026-08-31T03:46:03+00:00`
 - url: https://e27.co/southeast-asias-chip-hub-ambition-is-colliding-with-its-chip-smuggling-problem-20260831/
 - summary: A couple of months ago, Singapore police froze a bungalow worth roughly US$42 million as part of its widening fraud investigation tied to the local server reseller Aperia Group. It is one data point in a pattern that has become impossible to ignore: Southeast…
 
-### 2. [UPDATE] [mittel] Red Hat Enterprise Linux (libsolv, aardvark-dns): Mehrere Schwachstellen
+### 3. [UPDATE] [mittel] Red Hat Enterprise Linux (libsolv, aardvark-dns): Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-08-31T06:53:09+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2247
 - summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen, Daten zu manipulieren oder vertrauliche Informationen offenzulegen.
 
-### 3. [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen
+### 4. [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-08-31T06:12:03+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3042
 - summary: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, darunter möglicherweise die Ausführung von beliebigem Code, die Ausweitung von Berechtigungen, die Offenlegung von Informationen, d…
-
-### 4. M 4.9 - 13 km SSE of Union, Philippines
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-08-31T04:17:34.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2c
-- summary: Time 2026-08-31 04:04:34 UTC 2026-08-31 04:04:34 UTC at epicenter Location 9.641°N 126.136°E Depth 83.89 km (52.13 mi)
 
 ### 5. リコー製Web Image Monitorを実装している複数のレーザープリンタおよび複合機（MFP）におけるオープンリダイレクトの脆弱性
 - source: JVN Japan Vulnerability Notes
