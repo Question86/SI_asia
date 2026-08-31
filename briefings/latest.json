@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T07:39:52+00:00",
-  "run_id": "2026-08-31T07:39:52+00:00",
+  "generated_at": "2026-08-31T07:50:41+00:00",
+  "run_id": "2026-08-31T07:50:41+00:00",
   "date": "2026-08-31",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 39,
     "displayed_findings": 39,
     "high": 0,
@@ -1869,50 +1869,7 @@
       "id": "fb3933b479a923918e3f"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Root-Sicherheitslücke bedroht cPanel/WHM",
-      "url": "https://www.heise.de/news/Root-Sicherheitsluecke-bedroht-cPanel-WHM-11434895.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-08-31T07:33:00.000+00:00",
-      "fetched_at": "2026-08-31T07:39:11+00:00",
-      "summary": "In aktuellen Versionen haben die Entwickler der Webhosting-Control-Panel-Software cPanel/WHM eine Schwachstelle geschlossen.",
-      "matched_keywords": [
-        "Security",
-        "Webentwicklung"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "Security (+6.0); Webentwicklung (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "56f7a05f83fd6a4deb36"
-    },
-    {
-      "title": "青空の裏がわ",
-      "url": "https://soiree.blue/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-31T05:56:16+00:00",
-      "fetched_at": "2026-08-31T07:39:11+00:00",
-      "summary": "Bluesky（ブルースカイ）は、みじかい文章を書いて人に見せるアプリだ。見た目はよくあるSNSに似ている。 でも、画面の裏で動いているしくみが、ほかのSNSとはっきり違う。ここではその裏がわを、順番に開けていく。うまくいっていない所も、かくさずに書く。 1 — いちばん大きな違い アカウントを、まるごと持って引っ...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b72a74336b39f9e2bddf"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [
     {
       "source_id": "bis_statistics",
