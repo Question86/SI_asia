@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-31T01:54:54+00:00_
+_Generiert: 2026-08-31T02:09:33+00:00_
 
 ## Kurzlage
 
-5 neue relevante Treffer. Stärkstes Signal: „The environmental ethics of AI should be a product decision, not a sustainability footnote“ aus e27 Asia Startup and Tech Feed (Score 15, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+7 neue relevante Treffer. Stärkstes Signal: „The environmental ethics of AI should be a product decision, not a sustainability footnote“ aus e27 Asia Startup and Tech Feed (Score 15, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -81,6 +81,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **China’s tax reform matters more to Southeast Asia than Wall Street** — Score 12, observation — [Quelle](https://e27.co/chinas-tax-reform-matters-more-to-southeast-asia-than-wall-street-20260828/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-08-31T02:00:18+00:00`, fetched `2026-08-31T02:08:56+00:00`
+  - Treffer: APAC Trend Radar, Southeast Asia, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: China’s effort to strengthen the taxation of overseas assets held by its citizens marks more than a fiscal reform. It signals a shift in how the country views the relationship between private wealth, capital mobility, and national development. While the policy aims to recover unpaid taxes and increase government revenue, its effects may extend well […] The post China’s tax reform matters more to Southeast Asia than…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **SWOT is not boring; you are just using it too late** — Score 10, observation — [Quelle](https://e27.co/swot-is-not-boring-you-are-just-using-it-too-late-20260821/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-31T01:15:59+00:00`, fetched `2026-08-31T01:34:26+00:00`
@@ -108,14 +117,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 弾道ミサイル発射や緊急地震速報などの緊急情報を全国の自治体に送信する全国瞬時警報システム（Jアラート）で、人工衛星を経由して送信されるデータの暗号化や発信元を保証する機能がないことが30日、専門家への取材で分かった。総務省関係者も認めた。専門家は「第三者が成り済まして偽の警報を送信することが可能」と...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AIに機密情報を渡してよいか、判断の軸を自分なりに整理してみた - $shibayu36->blog;** — Score 5, observation — [Quelle](https://blog.shibayu36.org/entry/2026/08/30/173000)
+- **「江戸時代の経路検索」サイトを作りました｜地図とかデザインとか** — Score 5, observation — [Quelle](https://note.com/chizutodesign/n/neee5116b95b4)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-30T10:55:51+00:00`, fetched `2026-08-31T00:58:52+00:00`
+  - Zeit: published `2026-08-30T10:59:58+00:00`, fetched `2026-08-31T02:08:56+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 社内業務でAIを使うとき、機密情報をAIに渡してよいか判断に迷うことが多い。世の中では「個人情報だからAI禁止」「学習OFFだから安全」のような単純な線引きも見かけるが、これでは安全側に倒しすぎて活用が進まなかったり、逆に思わぬ穴があったりして違和感があった。 そこで自分なりに判断の軸を整理し、「許可して...
+  - Kurz: Googleマップが新しくなって話題になっていたので、江戸時代（1840年頃）にGoogleマップがあったら…と想像して当時の東京周辺の地図を作ってみました。 pic.twitter.com/7ZSUVBnWT2 — 地図とかデザインとか (@chizutodesign) March 24, 2019 当時は私自身、地理や歴史にそこまで詳しくありませんでした。たくさんの方か...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
