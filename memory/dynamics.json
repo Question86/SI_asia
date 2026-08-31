@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-08-31T11:11:50Z",
+  "generated_at": "2026-08-31T11:25:21Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 1,
-      "krass": 19,
-      "strong": 19,
+      "krass": 20,
+      "strong": 18,
       "watch": 1
     },
     "bands_after_gate_recheck": {
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3085",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-31T10:01:05+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3084",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-31T09:56:06+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -73,7 +73,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3079",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-31T09:46:05+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -98,7 +98,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2279",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-31T09:21:15+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -123,7 +123,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1548",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-31T09:11:08+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -144,11 +144,37 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in vim ausnutzen, um beliebigen Programmcode auszuführen."
     },
     {
+      "title": "[NEU] [hoch] Langflow OSS: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3096",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-31T11:16:06+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: angriffe, rce, code",
+        "security high-signal: angriffe, rce, code, auth",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Langflow OSS ausnutzen, um Sicherheitsmaßnahmen zu umgehen, beliebigen Code auszuführen, Server-Side Request Forgery (SSRF) durchzuführen, sensible Daten offenzulegen oder zu manipulieren oder Cross-Site-Scripting-Angriffe durchzuführen."
+    },
+    {
       "title": "M 5.5 - 44 km NNE of Ruteng, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2z",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-31T08:30:56+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -168,11 +194,107 @@
       "summary": ""
     },
     {
+      "title": "[NEU] [mittel] HP Computer: Schwachstelle ermöglicht Privilegieneskalation",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3097",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-31T11:16:06+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in HP Computer ausnutzen, um seine Privilegien zu erhöhen."
+    },
+    {
+      "title": "[NEU] [mittel] rsyslog: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3094",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-31T11:16:05+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in rsyslog ausnutzen, um einen Denial of Service Angriff durchzuführen."
+    },
+    {
+      "title": "[NEU] [hoch] JFrog Artifactory: Schwachstelle ermöglicht Erlangen von Administratorrechten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3093",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-31T11:16:05+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in JFrog Artifactory ausnutzen, um Administratorrechte zu erlangen."
+    },
+    {
+      "title": "[NEU] [mittel] sudo: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3092",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-31T11:11:06+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in sudo ausnutzen, um Sicherheitsvorkehrungen zu umgehen."
+    },
+    {
       "title": "[UPDATE] [mittel] Keycloak: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2614",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-31T11:01:11+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -196,7 +318,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2407",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-31T11:01:09+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -220,7 +342,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3088",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-31T10:06:06+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -244,7 +366,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3086",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-31T10:01:06+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -268,7 +390,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11170-448bd-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-08-31T06:40:00+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -293,7 +415,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11168-85a71-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-08-31T06:04:00+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -318,7 +440,7 @@
       "url": "https://github.com/unclecode/crawl4ai",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-08-31T06:55:19+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -343,7 +465,7 @@
       "url": "https://e27.co/why-japans-booming-ai-market-is-harder-to-crack-than-it-looks-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T05:57:31+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "ai",
         "macro"
@@ -372,7 +494,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3042",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-31T06:12:03+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -398,7 +520,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2517",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-31T11:01:10+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -424,7 +546,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3006",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-31T10:51:07+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -450,7 +572,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3087",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-31T10:06:05+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -476,7 +598,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3083",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-31T09:56:05+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "security"
@@ -503,7 +625,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11169-7cb52-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-08-31T06:23:00+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -529,7 +651,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3046",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-31T06:12:03+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -555,7 +677,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2849",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-31T05:51:06+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -577,11 +699,36 @@
       "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Budibase ausnutzen, um Dateien zu manipulieren, vertrauliche Daten offenzulegen, erweiterte Berechtigungen zu erlangen und Sicherheitsmaßnahmen zu umgehen."
     },
     {
+      "title": "[NEU] [mittel] Red Hat Enterprise Linux (pipewire,dbus-broker): Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3095",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-31T11:16:06+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen."
+    },
+    {
       "title": "[NEU] [UNGEPATCHT] [mittel] GIMP: Mehrere Schwachstellen ermöglichen Denial of Service und die Offenlegung von Informationen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3081",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-31T09:51:05+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -606,7 +753,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3080",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-31T09:46:05+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -631,7 +778,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3078",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-31T09:36:05+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -656,7 +803,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2247",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-31T06:53:09+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -681,7 +828,7 @@
       "url": "https://www.heise.de/news/Root-Sicherheitsluecke-bedroht-cPanel-WHM-11434895.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-31T07:33:00.000+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -707,7 +854,7 @@
       "url": "https://e27.co/why-japans-booming-ai-market-is-harder-to-crack-than-it-looks-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T06:23:43+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "ai",
         "macro"
@@ -731,11 +878,11 @@
       "summary": ""
     },
     {
-      "title": "[NEU] [hoch] Microsoft Edge: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3085",
+      "title": "[NEU] [hoch] Langflow OSS: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3096",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 2.88,
+      "age_days": 2.89,
       "topics": [
         "security"
       ],
@@ -745,13 +892,13 @@
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 32.62,
+      "momentum_delta": 6,
+      "baseline_z_hint": 53.25,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +3",
-        "baseline z_hint 32.62",
+        "momentum delta +6",
+        "baseline z_hint 53.25",
         "high terms: rce",
         "security high-signal: rce",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
@@ -763,7 +910,7 @@
       "url": "https://e27.co/thailands-ai-startup-push-gets-openai-backing-through-new-public-private-accelerator-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T04:36:22+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -790,7 +937,7 @@
       "url": "https://e27.co/southeast-asias-chip-hub-ambition-is-colliding-with-its-chip-smuggling-problem-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-08-31T03:49:03+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -811,37 +958,11 @@
       "summary": ""
     },
     {
-      "title": "M 5.5 - 44 km NNE of Ruteng, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2z",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-31T08:28:21.762+00:00",
-      "age_days": 0.11,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10",
-        "krass gate: single-source non-official/non-identity signal capped"
-      ],
-      "summary": "PAGER - GREEN ShakeMap - VI Time 2026-08-31 08:03:28 UTC 2026-08-31 08:03:28 UTC at epicenter Location 8.241°S 120.612°E Depth 10.00 km (6.21 mi)"
-    },
-    {
       "title": "Exchange-Sicherheitslücke: 85 Prozent der On-Prem-Server in Deutschland anfällig",
       "url": "https://www.heise.de/news/Exchange-Sicherheitsluecke-85-Prozent-der-On-Prem-Server-in-Deutschland-anfaellig-11434785.html",
       "source": "heise Security Alerts",
       "published_at": "2026-08-31T06:01:00.000+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "security",
         "infra"
@@ -867,7 +988,7 @@
       "url": "https://www.digital.go.jp/resources/govdashboard/administrative_research",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-08-31T06:00:00+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -888,131 +1009,11 @@
       "summary": "アナログ規制の見直し状況に関するダッシュボードおよび資料を更新しました"
     },
     {
-      "title": "M 4.9 - 13 km SSE of Union, Philippines",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2c",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-31T04:36:22+00:00",
-      "age_days": 0.27,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 22.5,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Southeast Asia startup funding finds a floor, but not a rebound",
-      "url": "https://e27.co/southeast-asia-startup-funding-finds-a-floor-but-not-a-rebound-20260831/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-31T08:47:46+00:00",
-      "age_days": 0.1,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 22.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "リコー製Web Image Monitorを実装している複数のレーザープリンタおよび複合機（MFP）におけるオープンリダイレクトの脆弱性",
-      "url": "https://jvn.jp/jp/JVN65118274/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-08-31T06:56:08+00:00",
-      "age_days": 0.18,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 22.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Southeast Asia is not one market; it’s five economies moving at different speeds",
-      "url": "https://e27.co/southeast-asia-is-not-one-market-its-five-economies-moving-at-different-speeds-20260828/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-31T02:35:07+00:00",
-      "age_days": 0.36,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 21.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "China’s tax reform matters more to Southeast Asia than Wall Street",
-      "url": "https://e27.co/chinas-tax-reform-matters-more-to-southeast-asia-than-wall-street-20260828/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-08-31T02:09:37+00:00",
-      "age_days": 0.38,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 21.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
       "title": "リコー製Web Image Monitorを実装している複数のレーザープリンタおよび複合機（MFP）におけるオープンリダイレクトの脆弱性",
       "url": "https://jvn.jp/jp/JVN65118274/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-04-30T14:00:00+09:00",
-      "age_days": 123.26,
+      "age_days": 123.27,
       "topics": [
         "security"
       ],
