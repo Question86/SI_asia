@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-31T09:37:43+00:00_
+_Generiert: 2026-08-31T09:48:23+00:00_
 
 ## Kurzlage
 
-44 neue relevante Treffer. Stärkstes Signal: „M 5.5 - 44 km NNE of Ruteng, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+46 neue relevante Treffer. Stärkstes Signal: „M 5.5 - 44 km NNE of Ruteng, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -30,6 +30,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Reputationsrisiko (+7.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules elections_unrest (+3.0)
   - Kurz: A couple of months ago, Singapore police froze a bungalow worth roughly US$42 million as part of its widening fraud investigation tied to the local server reseller Aperia Group. It is one data point in a pattern that has become impossible to ignore: Southeast Asia keeps turning up as the last stop before advanced Nvidia […] The post Southeast Asia’s chip-hub ambition is colliding with its chip-smuggling problem appe…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[NEU] [mittel] Red Hat Enterprise Linux (xmlrpc-c): Schwachstelle ermöglicht Cross-Site Scripting** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3078)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-31T09:36:05+00:00`, fetched `2026-08-31T09:47:49+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [mittel] Red Hat Enterprise Linux (libsolv, aardvark-dns): Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2247)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-08-31T06:53:09+00:00`, fetched `2026-08-31T06:55:19+00:00`
@@ -65,15 +74,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Reputationsrisiko (+7.0); recent (+1.0)
   - Kurz: The environmental debate around AI is often placed in the sustainability section of the company, where it becomes a reporting matter, a disclosure matter, or a reputational matter. By the time it gets there, most of the important decisions have already been made. The environmental impact of AI is not shaped mainly by the annual […] The post The environmental ethics of AI should be a product decision, not a sustainab…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [niedrig] libarchive: Schwachstelle ermöglicht Codeausführung and DoS** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2279)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-31T09:21:15+00:00`, fetched `2026-08-31T09:37:06+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein lokaler Angreifer kann eine Schwachstelle in libarchive ausnutzen, um einen Denial-of-Service-Zustand zu verursachen oder möglicherweise beliebigen Code auszuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **惡意npm攻擊再進化！駭客利用區塊鏈隱藏C2位址** — Score 14, risk — [Quelle](https://www.twcert.org.tw/tw/cp-104-11169-7cb52-1.html)
   - Quelle: TWCERT/CC Security News RSS / `rss`
@@ -195,14 +195,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-08-31 04:38:22 UTC 2026-08-31 04:38:22 UTC at epicenter Location 25.207°S 179.802°E Depth 508.31 km (315.85 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **LINEヤフー、全社横断でAIエージェント量産体制 カレンダーなど新「Agent i」** — Score 8, observation — [Quelle](https://www.watch.impress.co.jp/docs/news/2136632.html)
+- **LLMのカスのコンサル問題 - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ** — Score 8, observation — [Quelle](https://joisino.hatenablog.com/entry/kasu)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-30T22:48:32+00:00`, fetched `2026-08-31T04:55:54+00:00`
-  - Treffer: agent, Hatena, hotentry
+  - Zeit: published `2026-08-31T08:51:53+00:00`, fetched `2026-08-31T09:47:49+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)
-  - Kurz: LINEヤフー、全社横断でAIエージェント量産体制 カレンダーなど新「Agent i」
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: LLM は魅力的に見える提案をしてくれますが、実際に提案に従ってみると全然大したことがない結果になり肩透かしを食うことがよくあります。 本稿ではスタンフォード大学のグループによる一連の研究 Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers（LLMは斬新な研究アイ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **unclecode/crawl4ai** — Score 8, observation — [Quelle](https://github.com/unclecode/crawl4ai)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`

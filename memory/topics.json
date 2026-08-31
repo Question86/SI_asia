@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-31T09:37:43+00:00",
+  "generated_at": "2026-08-31T09:48:23+00:00",
   "topics": {
     "general": [
       {
@@ -77,6 +77,13 @@
     ],
     "security": [
       {
+        "title": "[NEU] [mittel] Red Hat Enterprise Linux (xmlrpc-c): Schwachstelle ermöglicht Cross-Site Scripting",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-31T09:36:05+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3078"
+      },
+      {
         "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (libsolv, aardvark-dns): Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-31T06:53:09+00:00",
@@ -138,6 +145,50 @@
         "published_at": "2026-08-31T07:33:00.000+00:00",
         "relevance_score": 10,
         "url": "https://www.heise.de/news/Root-Sicherheitsluecke-bedroht-cPanel-WHM-11434895.html"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "[NEU] [mittel] Red Hat Enterprise Linux (xmlrpc-c): Schwachstelle ermöglicht Cross-Site Scripting",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-31T09:36:05+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3078"
+      },
+      {
+        "title": "惡意npm攻擊再進化！駭客利用區塊鏈隱藏C2位址",
+        "source": "TWCERT/CC Security News RSS",
+        "published_at": "2026-08-31T06:23:00+00:00",
+        "relevance_score": 14,
+        "url": "https://www.twcert.org.tw/tw/cp-104-11169-7cb52-1.html"
+      },
+      {
+        "title": "Why Japan’s booming AI market is harder to crack than it looks",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-31T05:57:31+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/why-japans-booming-ai-market-is-harder-to-crack-than-it-looks-20260831/"
+      },
+      {
+        "title": "China’s tax reform matters more to Southeast Asia than Wall Street",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-31T02:00:18+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/chinas-tax-reform-matters-more-to-southeast-asia-than-wall-street-20260828/"
+      },
+      {
+        "title": "Root-Sicherheitslücke bedroht cPanel/WHM",
+        "source": "heise Security Alerts",
+        "published_at": "2026-08-31T07:33:00.000+00:00",
+        "relevance_score": 10,
+        "url": "https://www.heise.de/news/Root-Sicherheitsluecke-bedroht-cPanel-WHM-11434895.html"
+      },
+      {
+        "title": "AI and monetary policy",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-08-17T00:00:00+00:00",
+        "relevance_score": 10,
+        "url": "https://www.bis.org/speeches/20260817-ai-and-monetary-policy"
       },
       {
         "title": "CRA強化軟體供應鏈安全要求，SBOM成企業重要管理工具",
@@ -145,6 +196,27 @@
         "published_at": "2026-08-31T06:40:00+00:00",
         "relevance_score": 9,
         "url": "https://www.twcert.org.tw/tw/cp-104-11170-448bd-1.html"
+      },
+      {
+        "title": "CISA與多國安全機構聯合發布「Gunra」勒索軟體預警通報",
+        "source": "TWCERT/CC Security News RSS",
+        "published_at": "2026-08-31T06:04:00+00:00",
+        "relevance_score": 9,
+        "url": "https://www.twcert.org.tw/tw/cp-104-11168-85a71-1.html"
+      },
+      {
+        "title": "Exchange-Sicherheitslücke: 85 Prozent der On-Prem-Server in Deutschland anfällig",
+        "source": "heise Security Alerts",
+        "published_at": "2026-08-31T06:01:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Exchange-Sicherheitsluecke-85-Prozent-der-On-Prem-Server-in-Deutschland-anfaellig-11434785.html"
+      },
+      {
+        "title": "Sellers reject Bitcoin at US$81,000 and Asia has not even opened: what the next session will reveal",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-31T06:12:32+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/sellers-reject-bitcoin-at-us81000-and-asia-has-not-even-opened-what-the-next-session-will-reveal-20260831/"
       }
     ],
     "ai": [
@@ -212,11 +284,11 @@
         "url": "https://www.bis.org/speeches/20260817-ai-and-monetary-policy"
       },
       {
-        "title": "Thailand’s AI startup push gets OpenAI backing through new public-private accelerator",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-31T04:26:52+00:00",
+        "title": "LLMのカスのコンサル問題 - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-31T08:51:53+00:00",
         "relevance_score": 8,
-        "url": "https://e27.co/thailands-ai-startup-push-gets-openai-backing-through-new-public-private-accelerator-20260831/"
+        "url": "https://joisino.hatenablog.com/entry/kasu"
       }
     ],
     "github": [
@@ -254,71 +326,6 @@
         "published_at": null,
         "relevance_score": 5,
         "url": "https://github.com/Lakr233/vphone-cli"
-      }
-    ],
-    "geopolitics": [
-      {
-        "title": "惡意npm攻擊再進化！駭客利用區塊鏈隱藏C2位址",
-        "source": "TWCERT/CC Security News RSS",
-        "published_at": "2026-08-31T06:23:00+00:00",
-        "relevance_score": 14,
-        "url": "https://www.twcert.org.tw/tw/cp-104-11169-7cb52-1.html"
-      },
-      {
-        "title": "Why Japan’s booming AI market is harder to crack than it looks",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-31T05:57:31+00:00",
-        "relevance_score": 14,
-        "url": "https://e27.co/why-japans-booming-ai-market-is-harder-to-crack-than-it-looks-20260831/"
-      },
-      {
-        "title": "China’s tax reform matters more to Southeast Asia than Wall Street",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-31T02:00:18+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/chinas-tax-reform-matters-more-to-southeast-asia-than-wall-street-20260828/"
-      },
-      {
-        "title": "Root-Sicherheitslücke bedroht cPanel/WHM",
-        "source": "heise Security Alerts",
-        "published_at": "2026-08-31T07:33:00.000+00:00",
-        "relevance_score": 10,
-        "url": "https://www.heise.de/news/Root-Sicherheitsluecke-bedroht-cPanel-WHM-11434895.html"
-      },
-      {
-        "title": "AI and monetary policy",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-08-17T00:00:00+00:00",
-        "relevance_score": 10,
-        "url": "https://www.bis.org/speeches/20260817-ai-and-monetary-policy"
-      },
-      {
-        "title": "CRA強化軟體供應鏈安全要求，SBOM成企業重要管理工具",
-        "source": "TWCERT/CC Security News RSS",
-        "published_at": "2026-08-31T06:40:00+00:00",
-        "relevance_score": 9,
-        "url": "https://www.twcert.org.tw/tw/cp-104-11170-448bd-1.html"
-      },
-      {
-        "title": "CISA與多國安全機構聯合發布「Gunra」勒索軟體預警通報",
-        "source": "TWCERT/CC Security News RSS",
-        "published_at": "2026-08-31T06:04:00+00:00",
-        "relevance_score": 9,
-        "url": "https://www.twcert.org.tw/tw/cp-104-11168-85a71-1.html"
-      },
-      {
-        "title": "Exchange-Sicherheitslücke: 85 Prozent der On-Prem-Server in Deutschland anfällig",
-        "source": "heise Security Alerts",
-        "published_at": "2026-08-31T06:01:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Exchange-Sicherheitsluecke-85-Prozent-der-On-Prem-Server-in-Deutschland-anfaellig-11434785.html"
-      },
-      {
-        "title": "Sellers reject Bitcoin at US$81,000 and Asia has not even opened: what the next session will reveal",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-31T06:12:32+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/sellers-reject-bitcoin-at-us81000-and-asia-has-not-even-opened-what-the-next-session-will-reveal-20260831/"
       }
     ],
     "economy": [
@@ -363,6 +370,13 @@
         "published_at": "2026-08-17T00:00:00+00:00",
         "relevance_score": 10,
         "url": "https://www.bis.org/speeches/20260817-ai-and-monetary-policy"
+      },
+      {
+        "title": "LLMのカスのコンサル問題 - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-31T08:51:53+00:00",
+        "relevance_score": 8,
+        "url": "https://joisino.hatenablog.com/entry/kasu"
       },
       {
         "title": "Sellers reject Bitcoin at US$81,000 and Asia has not even opened: what the next session will reveal",

@@ -89,6 +89,30 @@
     "id": "c8c2d87918f4c4976fea"
   },
   {
+    "title": "[NEU] [mittel] Red Hat Enterprise Linux (xmlrpc-c): Schwachstelle ermöglicht Cross-Site Scripting",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3078",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-31T09:36:05+00:00",
+    "fetched_at": "2026-08-31T09:47:49+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a054b3c753f10d25f194"
+  },
+  {
     "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (libsolv, aardvark-dns): Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2247",
     "source": "BSI CERT-Bund Security Advisories",
@@ -690,6 +714,28 @@
       "LOW"
     ],
     "id": "67672d9148183079489d"
+  },
+  {
+    "title": "LLMのカスのコンサル問題 - ｼﾞｮｲｼﾞｮｲｼﾞｮｲ",
+    "url": "https://joisino.hatenablog.com/entry/kasu",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-08-31T08:51:53+00:00",
+    "fetched_at": "2026-08-31T09:47:49+00:00",
+    "summary": "LLM は魅力的に見える提案をしてくれますが、実際に提案に従ってみると全然大したことがない結果になり肩透かしを食うことがよくあります。 本稿ではスタンフォード大学のグループによる一連の研究 Can LLMs Generate Novel Research Ideas? A Large-Scale Human Study with 100+ NLP Researchers（LLMは斬新な研究アイ...",
+    "matched_keywords": [
+      "AI/KI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5db579d9954603d1e169"
   },
   {
     "title": "Thailand’s AI startup push gets OpenAI backing through new public-private accelerator",
