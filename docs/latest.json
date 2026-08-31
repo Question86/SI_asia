@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T13:59:07+00:00",
-  "run_id": "2026-08-31T13:59:07+00:00",
+  "generated_at": "2026-08-31T14:23:23+00:00",
+  "run_id": "2026-08-31T14:23:23+00:00",
   "date": "2026-08-31",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 80
+      "configured_public_sources_only": 82
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 80,
-    "displayed_findings": 80,
+    "new_relevant_findings": 2,
+    "today_file_total": 82,
+    "displayed_findings": 82,
     "high": 0,
     "medium": 35,
-    "observe": 45,
+    "observe": 47,
     "source_errors": 1
   },
   "sections": {
@@ -1154,6 +1154,27 @@
         "id": "7ece9fd52342f07f2650"
       },
       {
+        "title": "A milestone in expanding access to AI",
+        "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-08-31T04:00:00+00:00",
+        "fetched_at": "2026-08-31T14:22:44+00:00",
+        "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+        "matched_keywords": [
+          "AI/KI",
+          "OpenAI"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "22a85286764185e99662"
+      },
+      {
         "title": "ITエンジニアのためのライフスタイルメディア KIKKAKE ITREND",
         "url": "https://itrend.kikkakeagent.co.jp/articles/223",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1776,6 +1797,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "e180fb5626fdb4076124"
+      },
+      {
+        "title": "「ページのトップへ戻るボタン」はなぜ非推奨か",
+        "url": "https://zenn.dev/masahiko888/articles/91c9a1e354aacb",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-31T02:09:28+00:00",
+        "fetched_at": "2026-08-31T14:22:44+00:00",
+        "summary": "前提と問い 「ページのトップへ戻るボタン」がデジタル庁デザインシステムでは非推奨にされています。 なぜ非推奨なのでしょう。調べると、さまざまな問題があることが分かりました。 きっかけ なんでスクロールトップボタンが不要な理由を説明してくれないんやデジタル庁〜〜ッ こんな投稿を見て、デジタル庁デザインシ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2a6bd4e3cc25ff4a0da8"
       },
       {
         "title": "「数万曲の歌詞を生成ＡＩが無断学習」…ソニーＧ傘下の音楽出版など３５社、アンソロピックとＣＥＯらを提訴（読売新聞オンライン） - Yahoo!ニュース",
@@ -3069,6 +3111,27 @@
       "id": "7ece9fd52342f07f2650"
     },
     {
+      "title": "A milestone in expanding access to AI",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-31T04:00:00+00:00",
+      "fetched_at": "2026-08-31T14:22:44+00:00",
+      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+      "matched_keywords": [
+        "AI/KI",
+        "OpenAI"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "22a85286764185e99662"
+    },
+    {
       "title": "ITエンジニアのためのライフスタイルメディア KIKKAKE ITREND",
       "url": "https://itrend.kikkakeagent.co.jp/articles/223",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3693,6 +3756,27 @@
       "id": "e180fb5626fdb4076124"
     },
     {
+      "title": "「ページのトップへ戻るボタン」はなぜ非推奨か",
+      "url": "https://zenn.dev/masahiko888/articles/91c9a1e354aacb",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-31T02:09:28+00:00",
+      "fetched_at": "2026-08-31T14:22:44+00:00",
+      "summary": "前提と問い 「ページのトップへ戻るボタン」がデジタル庁デザインシステムでは非推奨にされています。 なぜ非推奨なのでしょう。調べると、さまざまな問題があることが分かりました。 きっかけ なんでスクロールトップボタンが不要な理由を説明してくれないんやデジタル庁〜〜ッ こんな投稿を見て、デジタル庁デザインシ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2a6bd4e3cc25ff4a0da8"
+    },
+    {
       "title": "「数万曲の歌詞を生成ＡＩが無断学習」…ソニーＧ傘下の音楽出版など３５社、アンソロピックとＣＥＯらを提訴（読売新聞オンライン） - Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/articles/2490663bdfd440b8083dc2af35532a6817f85681",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3859,7 +3943,50 @@
       "id": "fb3933b479a923918e3f"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "A milestone in expanding access to AI",
+      "url": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-31T04:00:00+00:00",
+      "fetched_at": "2026-08-31T14:22:44+00:00",
+      "summary": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+      "matched_keywords": [
+        "AI/KI",
+        "OpenAI"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "22a85286764185e99662"
+    },
+    {
+      "title": "「ページのトップへ戻るボタン」はなぜ非推奨か",
+      "url": "https://zenn.dev/masahiko888/articles/91c9a1e354aacb",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-31T02:09:28+00:00",
+      "fetched_at": "2026-08-31T14:22:44+00:00",
+      "summary": "前提と問い 「ページのトップへ戻るボタン」がデジタル庁デザインシステムでは非推奨にされています。 なぜ非推奨なのでしょう。調べると、さまざまな問題があることが分かりました。 きっかけ なんでスクロールトップボタンが不要な理由を説明してくれないんやデジタル庁〜〜ッ こんな投稿を見て、デジタル庁デザインシ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2a6bd4e3cc25ff4a0da8"
+    }
+  ],
   "source_errors": [
     {
       "source_id": "bis_statistics",
