@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T23:20:25+00:00",
-  "today_file_total": 93,
+  "generated_at": "2026-08-31T23:28:57+00:00",
+  "today_file_total": 94,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -28,6 +28,32 @@
       "network_score": 77.9,
       "hot": true,
       "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "domain:openai.com",
+      "title": "Polimill builds Japan's next-generation public AI infrastructure",
+      "sources": [
+        "OpenAI News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://openai.com/index/polimill",
+        "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads"
+      ],
+      "finding_count": 2,
+      "max_score": 20,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 27.2,
+      "hot": true,
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
     },
     {
@@ -250,29 +276,6 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "domain:japan.zdnet.com",
-      "title": "「FydeOS」を使って古いPCを無償で「Chromebook」に変える方法",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://japan.zdnet.com/article/35251931/"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 15.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
       "key": "domain:www.ecb.europa.eu",
       "title": "Announcing 20260077 (MRO,liquidity providing), for 7 days deadline 09:30",
       "sources": [
@@ -438,16 +441,16 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "domain:openai.com",
-      "title": "A milestone in expanding access to AI",
+      "key": "title:kikkake-itrend",
+      "title": "ITエンジニアのためのライフスタイルメディア KIKKAKE ITREND",
       "sources": [
-        "OpenAI News RSS"
+        "Hatena Bookmark Hotentry IT"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads"
+        "https://itrend.kikkakeagent.co.jp/articles/223"
       ],
       "finding_count": 1,
       "max_score": 11,
@@ -461,16 +464,16 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "title:kikkake-itrend",
-      "title": "ITエンジニアのためのライフスタイルメディア KIKKAKE ITREND",
+      "key": "title:multiples-vuln-rabilit-dans-noyau-linux-suse-2026",
+      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (21 août 2026)",
       "sources": [
-        "Hatena Bookmark Hotentry IT"
+        "CERT-FR Avis de sécurité"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://itrend.kikkakeagent.co.jp/articles/223"
+        "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1064/"
       ],
       "finding_count": 1,
       "max_score": 11,
