@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-31T03:56:27+00:00",
+  "generated_at": "2026-08-31T04:36:19+00:00",
   "status": "warning",
   "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 11,
-    "displayed_findings": 11,
+    "new_relevant_findings": 5,
+    "today_file_total": 16,
+    "displayed_findings": 16,
     "high": 0,
-    "medium": 2,
-    "observe": 9
+    "medium": 3,
+    "observe": 13
   },
   "source_errors_count": 1,
   "top_signals": [
@@ -25,6 +25,16 @@
       "section": "medium"
     },
     {
+      "title": "M 4.9 - 13 km SSE of Union, Philippines",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-08-31T04:17:34.040+00:00",
+      "relevance_score": 15,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2c",
+      "summary": "Time 2026-08-31 04:04:34 UTC 2026-08-31 04:04:34 UTC at epicenter Location 9.641°N 126.136°E Depth 83.89 km (52.13 mi)",
+      "section": "medium"
+    },
+    {
       "title": "The environmental ethics of AI should be a product decision, not a sustainability footnote",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -33,6 +43,16 @@
       "url": "https://e27.co/the-environmental-ethics-of-ai-should-be-a-product-decision-not-a-sustainability-footnote-20260809/",
       "summary": "The environmental debate around AI is often placed in the sustainability section of the company, where it becomes a reporting matter, a disclosure matter, or a reputational matter. By the time it gets there, most of the important decisions have already been m…",
       "section": "medium"
+    },
+    {
+      "title": "OpenAIが数万台のMac miniとMac Studioを買い占め",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-31T03:28:11+00:00",
+      "relevance_score": 12,
+      "url": "https://gigazine.net/news/20260831-openai-tens-of-thousands-apple-mac-mini-studio/",
+      "summary": "メモリ不足によりメモリ価格が高騰しており、一般消費者はほとんど市場から締め出されている状況ですが、AIワークロードに適したマシンは飛ぶように売れています。AI企業のOpenAIは数万台のMac miniやMac Studioを買い占めていることが、報道により明らかになりました。 OpenAI Hoarding Tens Of Thousands Of Apple Mac...",
+      "section": "observe"
     },
     {
       "title": "Southeast Asia is not one market; it’s five economies moving at different speeds",
@@ -55,23 +75,13 @@
       "section": "observe"
     },
     {
-      "title": "Southeast Asia does not have one AI advantage – it has 11",
+      "title": "AI is changing global expansion, but it cannot standardise local markets",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-31T03:30:21+00:00",
-      "relevance_score": 10,
-      "url": "https://e27.co/southeast-asia-does-not-have-one-ai-advantage-it-has-11-20260828/",
-      "summary": "The global AI race is often described as a contest to build the largest models, secure the most advanced chips and attract the biggest data-centre investments. That framing does not fit Southeast Asia. Most countries in the region will not compete directly wi…",
-      "section": "observe"
-    },
-    {
-      "title": "SWOT is not boring; you are just using it too late",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-31T01:15:59+00:00",
-      "relevance_score": 10,
-      "url": "https://e27.co/swot-is-not-boring-you-are-just-using-it-too-late-20260821/",
-      "summary": "Strengths. Weaknesses. Opportunities. Threats. Someone fills four boxes with familiar phrases, takes a photo, and never looks at it again. That is not a strategy framework. It is office wallpaper. Used at the right time, however, frameworks such as 5W1H, SWOT…",
+      "published_at": "2026-08-31T04:00:46+00:00",
+      "relevance_score": 11,
+      "url": "https://e27.co/ai-is-changing-global-expansion-but-it-cannot-standardise-local-markets-20260828/",
+      "summary": "AI can translate a website into 20 languages overnight, summarise competitors in Germany, prepare a first market analysis for France, adapt a campaign for Italy and help a customer support team answer questions from several countries at once. Tasks that once…",
       "section": "observe"
     }
   ],
@@ -80,136 +90,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Southeast Asia’s chip-hub ambition is colliding with its chip-smuggling problem” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Southeast Asia’s chip-hub ambition is colliding with its chip-smuggling problem",
-        "url": "https://e27.co/southeast-asias-chip-hub-ambition-is-colliding-with-its-chip-smuggling-problem-20260831/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-31T03:49:03+00:00",
-        "age_days": 0.02,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "krass",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +1",
-          "krass gate: single-source non-official/non-identity signal capped"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Southeast Asia is not one market; it’s five economies moving at different speeds",
-        "url": "https://e27.co/southeast-asia-is-not-one-market-its-five-economies-moving-at-different-speeds-20260828/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-31T02:35:07+00:00",
-        "age_days": 0.07,
-        "topics": [
-          "macro"
-        ],
-        "dynamics_score": 21.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "China’s tax reform matters more to Southeast Asia than Wall Street",
-        "url": "https://e27.co/chinas-tax-reform-matters-more-to-southeast-asia-than-wall-street-20260828/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-31T02:09:37+00:00",
-        "age_days": 0.09,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 21.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "SWOT is not boring; you are just using it too late",
-        "url": "https://e27.co/swot-is-not-boring-you-are-just-using-it-too-late-20260821/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-31T01:34:58+00:00",
-        "age_days": 0.11,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 19.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "The environmental ethics of AI should be a product decision, not a sustainability footnote",
-        "url": "https://e27.co/the-environmental-ethics-of-ai-should-be-a-product-decision-not-a-sustainability-footnote-20260809/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-31T01:34:58+00:00",
-        "age_days": 0.11,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 16.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }
