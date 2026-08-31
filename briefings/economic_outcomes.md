@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-08-31T09:38:23+00:00`
+Generated: `2026-08-31T09:49:10+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -23,7 +23,7 @@ Generated: `2026-08-31T09:38:23+00:00`
 | Claude Codeの設計詰めスキル『grilling』の紹介 | $0 | — | 0 | 0 | dormant |
 | Southeast Asia startup funding finds a floor, but not a rebound | $0 | — | 0 | 0 | active |
 | M 4.7 - 62 km SSE of Palca, Peru | $0 | — | 0 | 0 | dormant |
-| Thailand’s AI startup push gets OpenAI backing through new public-private accelerator | $0 | — | 0 | 0 | active |
+| Thailand’s AI startup push gets OpenAI backing through new public-private accelerator | $0 | — | 0 | 0 | dormant |
 | curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？ | $0 | — | 0 | 0 | dormant |
 | ローカルLLMを直接実行できるマイコンボード「Arduino VENTUNO Q」予約販売開始 \| gihyo.jp | $0 | — | 0 | 0 | dormant |
 | 「数万曲の歌詞を生成ＡＩが無断学習」…ソニーＧ傘下の音楽出版など３５社、アンソロピックとＣＥＯらを提訴（読売新聞オンライン） - Yahoo!ニュース | $0 | — | 0 | 0 | dormant |
