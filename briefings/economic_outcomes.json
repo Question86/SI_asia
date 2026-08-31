@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-31T22:40:43+00:00",
+  "generated_at": "2026-08-31T22:48:19+00:00",
   "events": [
     {
       "event_id": "evt_04c8c9515e6d6caa68b7",
@@ -121,7 +121,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_1cb9885de974f52ccc85",
@@ -995,13 +995,13 @@
     {
       "event_id": "evt_b6d556e3edd229c4b11d",
       "title": "GitHub - getkern/kern: A fast, rootless sandbox and virtual resource runtime for any workload, including untrusted and AI-generated code. Daemonless: a real, kernel-enforced container in ~3.5 ms from an OCI image, no daemon, one 1.52 MB static binary.",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_b8c7059526a8cbc30fae",
