@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-31T18:59:28+00:00",
+  "generated_at": "2026-08-31T19:15:58+00:00",
   "events": [
     {
       "event_id": "evt_04c8c9515e6d6caa68b7",
@@ -121,7 +121,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_1cb9885de974f52ccc85",
@@ -309,6 +309,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_42f61bb5d49f7363f13c",
+      "title": "M 4.6 - 112 km SSW of Chirilagua, El Salvador",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_43856848b80264610146",
