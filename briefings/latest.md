@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-31T14:23:23+00:00_
+_Generiert: 2026-08-31T14:34:20+00:00_
 
 ## Kurzlage
 
@@ -9,6 +9,14 @@ _Generiert: 2026-08-31T14:23:23+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-82078 PaperCut NG/MF** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-08-28`
+  - Kurz: Known exploited vulnerability. Added 2026-08-28. Due 2026-09-11. PaperCut NG/MF Unsafe Reflection Vulnerability
+- **CISA KEV: CVE-2026-81578 PaperCut NG/MF** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-08-28`
+  - Kurz: Known exploited vulnerability. Added 2026-08-28. Due 2026-09-11. PaperCut NG/MF Missing Authentication for Critical Function Vulnerability
 - **CISA KEV: CVE-2023-49105 ownCloud ownCloud** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-08-27`
@@ -21,14 +29,6 @@ _Generiert: 2026-08-31T14:23:23+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-27`
   - Kurz: Known exploited vulnerability. Added 2026-08-27. Due 2026-09-10. JFrog Artifactory Improper Limitation of a Pathname to a Restricted Directory Vulnerability
-- **CISA KEV: CVE-2021-23758 Ajax.NET Professional Ajax.NET Professional** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-08-26`
-  - Kurz: Known exploited vulnerability. Added 2026-08-26. Due 2026-09-09. Ajax.NET Professional Deserialization of Untrusted Data Vulnerability
-- **CISA KEV: CVE-2015-3246 Red Hat Libuser** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-08-26`
-  - Kurz: Known exploited vulnerability. Added 2026-08-26. Due 2026-09-09. Red Hat Libuser Race Condition Vulnerability
 - **GDACS: Green flood alert in Lebanon** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104129)
   - Quelle: GDACS
   - Zeit: ``
