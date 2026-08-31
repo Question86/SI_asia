@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T21:40:26+00:00",
-  "run_id": "2026-08-31T21:40:26+00:00",
+  "generated_at": "2026-08-31T21:48:18+00:00",
+  "run_id": "2026-08-31T21:48:18+00:00",
   "date": "2026-08-31",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 89,
     "displayed_findings": 89,
     "high": 0,
@@ -4297,29 +4297,7 @@
       "id": "fb3933b479a923918e3f"
     }
   ],
-  "new_findings": [
-    {
-      "title": "『OpenTelemetryではじめる テレメトリーサンプリング』という本が出版されました #otelsampling - YAMAGUCHI::weblog",
-      "url": "https://ymotongpoo.hatenablog.com/entry/otel-sampling",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-31T05:44:07+00:00",
-      "fetched_at": "2026-08-31T21:39:51+00:00",
-      "summary": "はじめに こんにちは、Grafana Labsでデベロッパーアドボケイトをしているものです。このたび私が執筆しました『OpenTelemetryではじめる テレメトリーサンプリング ――シグナルデータ膨張に対応しながらオブザーバビリティを確保する』という書籍が技術評論社より出版されました。書店ならびに各社オンラインストアでご...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3255be0a62f4f3b88bec"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [
     {
       "source_id": "bis_statistics",
