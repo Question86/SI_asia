@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T10:39:58+00:00",
-  "run_id": "2026-08-31T10:39:58+00:00",
+  "generated_at": "2026-08-31T10:47:51+00:00",
+  "run_id": "2026-08-31T10:47:51+00:00",
   "date": "2026-08-31",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 57,
     "displayed_findings": 57,
     "high": 0,
@@ -2795,29 +2795,7 @@
       "id": "fb3933b479a923918e3f"
     }
   ],
-  "new_findings": [
-    {
-      "title": "パソコン買うの今は時期が悪いおじさん達が「今買え！」って言ってたあの時期って、本当にあそこしかなかったんだって気づいた",
-      "url": "https://togetter.com/li/2739484",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-31T05:34:22+00:00",
-      "fetched_at": "2026-08-31T10:39:27+00:00",
-      "summary": "まとめ 「買うなら今です……！！」マウスコンピューター公式がパソコン購入を検討中の人に向けて投稿→メモリ高騰でどこのPCメーカーも値上げ寸前？ マウスコンピューター公式がパソコン購入を検討しているなら早めの購入が推奨。PC用メモリの価格が急騰しており、メーカーは近いうちに本体価格を引き上げる可能性が高い。...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "461f7cc853c5ec9cf1a0"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [
     {
       "source_id": "bis_statistics",
