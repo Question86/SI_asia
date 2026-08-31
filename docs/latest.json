@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T23:04:58+00:00",
-  "run_id": "2026-08-31T23:04:58+00:00",
+  "generated_at": "2026-08-31T23:20:20+00:00",
+  "run_id": "2026-08-31T23:20:20+00:00",
   "date": "2026-08-31",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 91
+      "configured_public_sources_only": 93
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 91,
-    "displayed_findings": 91,
+    "new_relevant_findings": 2,
+    "today_file_total": 93,
+    "displayed_findings": 93,
     "high": 0,
     "medium": 35,
-    "observe": 56,
-    "source_errors": 1
+    "observe": 58,
+    "source_errors": 2
   },
   "sections": {
     "high": [],
@@ -1222,6 +1222,28 @@
         "id": "241f138a15c98f2bd690"
       },
       {
+        "title": "「FydeOS」を使って古いPCを無償で「Chromebook」に変える方法",
+        "url": "https://japan.zdnet.com/article/35251931/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-31T12:37:33+00:00",
+        "fetched_at": "2026-08-31T23:19:42+00:00",
+        "summary": "「ChromeOS」は、「Chromebook」に搭載されているOSだ。シンプルで使いやすく、「Windows」では動作に制約を伴うようなマシンでも動作する。一般的なPCでChromeOSを利用できれば、手持ちの古いPCを蘇らせ、新たなChromebookを購入することなくChromebookと同じような体験を楽しめるようになる。 「FydeOS」は「Linux」ベ...",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "897c4503fc7a84a13916"
+      },
+      {
         "title": "Root-Sicherheitslücke bedroht cPanel/WHM",
         "url": "https://www.heise.de/news/Root-Sicherheitsluecke-bedroht-cPanel-WHM-11434895.html",
         "source": "heise Security Alerts",
@@ -1788,6 +1810,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "14f1a8570fefc9641572"
+      },
+      {
+        "title": "ティム・クック氏、Apple CEOとしての最後の日にメッセージ 「一生に一度の特権だった」",
+        "url": "https://www.itmedia.co.jp/news/article/2609/01/2000000996/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-31T22:39:53+00:00",
+        "fetched_at": "2026-08-31T23:19:42+00:00",
+        "summary": "米Appleのティム・クック氏は8月31日（現地時間）、CEOとしての最後の日を迎え、社員宛てにメッセージを送った。米TechCrunchなどが全文を伝えた。9月1日付でジョン・ターナス氏が新CEOに就任し、クック氏はエグゼクティブチェアマン（取締役会長）に就く。 クック氏はメッセージの冒頭で、いつか来ると分かっていた日で...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "34562b54e300f0a7d62a"
       },
       {
         "title": "インターネットにはベンチが必要だ。 - 世界のねじを巻くブログ",
@@ -3401,6 +3444,28 @@
       "id": "241f138a15c98f2bd690"
     },
     {
+      "title": "「FydeOS」を使って古いPCを無償で「Chromebook」に変える方法",
+      "url": "https://japan.zdnet.com/article/35251931/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-31T12:37:33+00:00",
+      "fetched_at": "2026-08-31T23:19:42+00:00",
+      "summary": "「ChromeOS」は、「Chromebook」に搭載されているOSだ。シンプルで使いやすく、「Windows」では動作に制約を伴うようなマシンでも動作する。一般的なPCでChromeOSを利用できれば、手持ちの古いPCを蘇らせ、新たなChromebookを購入することなくChromebookと同じような体験を楽しめるようになる。 「FydeOS」は「Linux」ベ...",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "897c4503fc7a84a13916"
+    },
+    {
       "title": "Root-Sicherheitslücke bedroht cPanel/WHM",
       "url": "https://www.heise.de/news/Root-Sicherheitsluecke-bedroht-cPanel-WHM-11434895.html",
       "source": "heise Security Alerts",
@@ -3969,6 +4034,27 @@
       "id": "14f1a8570fefc9641572"
     },
     {
+      "title": "ティム・クック氏、Apple CEOとしての最後の日にメッセージ 「一生に一度の特権だった」",
+      "url": "https://www.itmedia.co.jp/news/article/2609/01/2000000996/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-31T22:39:53+00:00",
+      "fetched_at": "2026-08-31T23:19:42+00:00",
+      "summary": "米Appleのティム・クック氏は8月31日（現地時間）、CEOとしての最後の日を迎え、社員宛てにメッセージを送った。米TechCrunchなどが全文を伝えた。9月1日付でジョン・ターナス氏が新CEOに就任し、クック氏はエグゼクティブチェアマン（取締役会長）に就く。 クック氏はメッセージの冒頭で、いつか来ると分かっていた日で...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "34562b54e300f0a7d62a"
+    },
+    {
       "title": "インターネットにはベンチが必要だ。 - 世界のねじを巻くブログ",
       "url": "https://www.nejimakiblog.com/entry/internet-has-no-benches-blog-web-future",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4387,8 +4473,58 @@
       "id": "fb3933b479a923918e3f"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "「FydeOS」を使って古いPCを無償で「Chromebook」に変える方法",
+      "url": "https://japan.zdnet.com/article/35251931/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-31T12:37:33+00:00",
+      "fetched_at": "2026-08-31T23:19:42+00:00",
+      "summary": "「ChromeOS」は、「Chromebook」に搭載されているOSだ。シンプルで使いやすく、「Windows」では動作に制約を伴うようなマシンでも動作する。一般的なPCでChromeOSを利用できれば、手持ちの古いPCを蘇らせ、新たなChromebookを購入することなくChromebookと同じような体験を楽しめるようになる。 「FydeOS」は「Linux」ベ...",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "897c4503fc7a84a13916"
+    },
+    {
+      "title": "ティム・クック氏、Apple CEOとしての最後の日にメッセージ 「一生に一度の特権だった」",
+      "url": "https://www.itmedia.co.jp/news/article/2609/01/2000000996/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-31T22:39:53+00:00",
+      "fetched_at": "2026-08-31T23:19:42+00:00",
+      "summary": "米Appleのティム・クック氏は8月31日（現地時間）、CEOとしての最後の日を迎え、社員宛てにメッセージを送った。米TechCrunchなどが全文を伝えた。9月1日付でジョン・ターナス氏が新CEOに就任し、クック氏はエグゼクティブチェアマン（取締役会長）に就く。 クック氏はメッセージの冒頭で、いつか来ると分かっていた日で...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "34562b54e300f0a7d62a"
+    }
+  ],
   "source_errors": [
+    {
+      "source_id": "twcert_security_news",
+      "source_name": "TWCERT/CC Security News RSS",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Read timed out. (read timeout=8)"
+    },
     {
       "source_id": "bis_statistics",
       "source_name": "BIS Statistical Releases",
