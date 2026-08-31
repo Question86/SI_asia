@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-31T06:23:43+00:00",
-  "today_file_total": 28,
+  "generated_at": "2026-08-31T06:56:08+00:00",
+  "today_file_total": 36,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
-      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (libsolv, aardvark-dns): Mehrere Schwachstellen",
       "sources": [
         "BSI CERT-Bund Security Advisories"
       ],
@@ -12,17 +12,43 @@
         "tier3_specialist"
       ],
       "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2247",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3042",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3046",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2849"
       ],
-      "finding_count": 3,
+      "finding_count": 4,
       "max_score": 16,
+      "credibility_total": 4.2,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 27.4,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "domain:www.twcert.org",
+      "title": "惡意npm攻擊再進化！駭客利用區塊鏈隱藏C2位址",
+      "sources": [
+        "TWCERT/CC Security News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.twcert.org.tw/tw/cp-104-11169-7cb52-1.html",
+        "https://www.twcert.org.tw/tw/cp-104-11170-448bd-1.html",
+        "https://www.twcert.org.tw/tw/cp-104-11168-85a71-1.html"
+      ],
+      "finding_count": 3,
+      "max_score": 14,
       "credibility_total": 3.15,
       "cross_source_confirmed": false,
       "momentum_delta": 2,
       "momentum_status": "increasing",
-      "network_score": 28.3,
+      "network_score": 26.3,
       "hot": true,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
@@ -53,27 +79,27 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "title:why-japan-booming-market-harder-crack-than-looks",
-      "title": "Why Japan’s booming AI market is harder to crack than it looks",
+      "key": "title:web-image-monitor-mfp",
+      "title": "リコー製Web Image Monitorを実装している複数のレーザープリンタおよび複合機（MFP）におけるオープンリダイレクトの脆弱性",
       "sources": [
-        "e27 Asia Startup and Tech Feed"
+        "JVN Japan Vulnerability Notes"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://e27.co/why-japans-booming-ai-market-is-harder-to-crack-than-it-looks-20260831/"
+        "https://jvn.jp/jp/JVN65118274/"
       ],
       "finding_count": 1,
-      "max_score": 14,
+      "max_score": 13,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 19.1,
+      "network_score": 18.1,
       "hot": false,
       "watchgraph_modules": [],
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "earthquake:philippines:4.9",
@@ -122,6 +148,29 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:why-japan-booming-market-harder-crack-than-looks",
+      "title": "Why Japan’s booming AI market is harder to crack than it looks",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/why-japans-booming-ai-market-is-harder-to-crack-than-it-looks-20260831/"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 16.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
     },
     {
       "key": "domain:gigazine.net",
@@ -195,29 +244,6 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "domain:www.twcert.org",
-      "title": "CISA與多國安全機構聯合發布「Gunra」勒索軟體預警通報",
-      "sources": [
-        "TWCERT/CC Security News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.twcert.org.tw/tw/cp-104-11168-85a71-1.html"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 14.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
       "key": "title:changing-global-expansion-but-cannot-standardise-local-markets",
       "title": "AI is changing global expansion, but it cannot standardise local markets",
       "sources": [
@@ -258,6 +284,29 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
+      "network_score": 13.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "github_repo:unclecode/crawl4ai",
+      "title": "unclecode/crawl4ai",
+      "sources": [
+        "GitHub Trending RSS All Languages Daily"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.com/unclecode/crawl4ai"
+      ],
+      "finding_count": 1,
+      "max_score": 8,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
       "network_score": 13.1,
       "hot": false,
       "watchgraph_modules": [],
@@ -310,29 +359,6 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "domain:www.heise.de",
-      "title": "Exchange-Sicherheitslücke: 85 Prozent der On-Prem-Server in Deutschland anfällig",
-      "sources": [
-        "heise Security Alerts"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.heise.de/news/Exchange-Sicherheitsluecke-85-Prozent-der-On-Prem-Server-in-Deutschland-anfaellig-11434785.html"
-      ],
-      "finding_count": 1,
-      "max_score": 7,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 12.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
       "key": "earthquake:m 4.5 - south of the fiji islands:4.5",
       "title": "M 4.5 - south of the Fiji Islands",
       "sources": [
@@ -358,8 +384,8 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "url:https://www.digital.go.jp/news/7266f120-48b5-4a2a-a2d6-e1467df7824e",
-      "title": "令和8年熊本地震に関する対応状況について（8月31日）",
+      "key": "url:https://www.digital.go.jp/news/9e39fb6f-c517-4d1b-8ef7-d3b31413fbd2",
+      "title": "松本デジタル大臣が米国を訪問しました",
       "sources": [
         "Japan Digital Agency News RSS"
       ],
@@ -367,7 +393,7 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://www.digital.go.jp/news/7266f120-48b5-4a2a-a2d6-e1467df7824e"
+        "https://www.digital.go.jp/news/9e39fb6f-c517-4d1b-8ef7-d3b31413fbd2"
       ],
       "finding_count": 1,
       "max_score": 6,
@@ -381,8 +407,8 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "url:https://www.digital.go.jp/resources/govdashboard/administrative_research",
-      "title": "アナログ規制の見直し状況に関するダッシュボードおよび資料を更新しました",
+      "key": "url:https://www.digital.go.jp/news/8f0fb90c-f2d2-49d3-a5a4-d2b0f2293e31",
+      "title": "行政手続における特定の個人を識別するための番号の利用等に関する法律に規定する個人番号、個人番号カード、特定個人情報の提供等に関する命令の一部を改正する命令（案）及び個人番号カード等に関する技術的基準の一部を改正する件（案）に係る意見募集を行います",
       "sources": [
         "Japan Digital Agency News RSS"
       ],
@@ -390,7 +416,7 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://www.digital.go.jp/resources/govdashboard/administrative_research"
+        "https://www.digital.go.jp/news/8f0fb90c-f2d2-49d3-a5a4-d2b0f2293e31"
       ],
       "finding_count": 1,
       "max_score": 6,
@@ -445,29 +471,6 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 10.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:sellers-reject-bitcoin-000-asia-has-not-even",
-      "title": "Sellers reject Bitcoin at US$81,000 and Asia has not even opened: what the next session will reveal",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/sellers-reject-bitcoin-at-us81000-and-asia-has-not-even-opened-what-the-next-session-will-reveal-20260831/"
-      ],
-      "finding_count": 1,
-      "max_score": 4,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 9.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."

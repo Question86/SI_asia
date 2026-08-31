@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-31T06:23:39+00:00_
+_Generiert: 2026-08-31T06:56:04+00:00_
 
 ## Kurzlage
 
-28 neue relevante Treffer. Stärkstes Signal: „Southeast Asia’s chip-hub ambition is colliding with its chip-smuggling problem“ aus e27 Asia Startup and Tech Feed (Score 18, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+36 neue relevante Treffer. Stärkstes Signal: „Southeast Asia’s chip-hub ambition is colliding with its chip-smuggling problem“ aus e27 Asia Startup and Tech Feed (Score 18, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -78,6 +78,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Reputationsrisiko (+7.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules elections_unrest (+3.0)
   - Kurz: A couple of months ago, Singapore police froze a bungalow worth roughly US$42 million as part of its widening fraud investigation tied to the local server reseller Aperia Group. It is one data point in a pattern that has become impossible to ignore: Southeast Asia keeps turning up as the last stop before advanced Nvidia […] The post Southeast Asia’s chip-hub ambition is colliding with its chip-smuggling problem appe…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [mittel] Red Hat Enterprise Linux (libsolv, aardvark-dns): Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2247)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-31T06:53:09+00:00`, fetched `2026-08-31T06:55:19+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen, Daten zu manipulieren oder vertrauliche Informationen offenzulegen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3042)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-08-31T06:12:03+00:00`, fetched `2026-08-31T06:23:01+00:00`
@@ -105,6 +114,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Reputationsrisiko (+7.0); recent (+1.0)
   - Kurz: The environmental debate around AI is often placed in the sustainability section of the company, where it becomes a reporting matter, a disclosure matter, or a reputational matter. By the time it gets there, most of the important decisions have already been made. The environmental impact of AI is not shaped mainly by the annual […] The post The environmental ethics of AI should be a product decision, not a sustainab…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **惡意npm攻擊再進化！駭客利用區塊鏈隱藏C2位址** — Score 14, risk — [Quelle](https://www.twcert.org.tw/tw/cp-104-11169-7cb52-1.html)
+  - Quelle: TWCERT/CC Security News RSS / `rss`
+  - Zeit: published `2026-08-31T06:23:00+00:00`, fetched `2026-08-31T06:55:19+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Security, TWCERT
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Climate/Disaster Infrastructure (+5.0); TWCERT (+2.0); recent (+1.0)
+  - Kurz: 資安社群平臺OpenSourceMalware近期發現兩個遭植入木馬的npm套件「bianira-ui」與「fluid-type-ui」，其攻擊流程不同於傳統的EtherHiding資料隱匿方式，研究人員將這項技術命名為 NullReceiver，並認為此次攻擊可能與北韓駭客組織相關。EtherHiding屬於一種Dead Drop Resolver（DDR）技術，是指攻擊者將惡意中繼站（C2）放置在合法的第三方平台（如GitHub、Pastebin等），若攻擊者選擇將C2資訊隱藏於區塊鏈上，則被稱為EtherHiding。 「EtherHiding」一詞最早由Guardio Labs於2023年10月提出，Google也在 2025年10月的官方報告中指出，發現國家級攻擊組織開始採用這項手法，並將相關活動歸因於北韓背景的攻擊者。 傳統的EtherHiding手法，通常是將攻擊者欲隱藏的惡意指令或C2寫入區塊鏈交易的 inpu…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **[UPDATE] [hoch] IBM Concert: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3046)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-08-31T06:12:03+00:00`, fetched `2026-08-31T06:23:01+00:00`
@@ -123,18 +141,18 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Automatisierung (+4.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: Japan’s AI market is growing fast. It is valued at approximately US$8.9 billion in 2024 and is projected to nearly triple to US$27.9 billion by 2029, making it one of the most compelling AI opportunities in Asia. An ageing population drives demand for automation. Strong manufacturing and healthcare infrastructure support adoption. Aggressive government investment reinforces […] The post Why Japan’s booming AI market…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **[UPDATE] [hoch] Budibase: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2849)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-31T05:51:06+00:00`, fetched `2026-08-31T05:55:32+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Budibase ausnutzen, um Dateien zu manipulieren, vertrauliche Daten offenzulegen, erweiterte Berechtigungen zu erlangen und Sicherheitsmaßnahmen zu umgehen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
+- **リコー製Web Image Monitorを実装している複数のレーザープリンタおよび複合機（MFP）におけるオープンリダイレクトの脆弱性** — Score 13, risk — [Quelle](https://jvn.jp/jp/JVN65118274/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-04-30T14:00:00+09:00`, fetched `2026-08-31T06:55:19+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: リコー製Web Image Monitorを実装している複数のレーザープリンタおよび複合機（MFP）には、オープンリダイレクトの脆弱性が存在します。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **OpenAIが数万台のMac miniとMac Studioを買い占め** — Score 12, observation — [Quelle](https://gigazine.net/news/20260831-openai-tens-of-thousands-apple-mac-mini-studio/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-31T03:28:11+00:00`, fetched `2026-08-31T04:35:40+00:00`
@@ -180,6 +198,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0)
   - Kurz: ■調査概要調査名称：ITエンジニアの開発メンタル負荷実態調査調査方法：IDEATECHが提供するリサーチマーケティング「リサピー®︎」の企画によるインターネット調査調査期間：2026年5月13日～同年5月20日有効回答：システム開発に携わるITエンジニア321名 ※構成比は小数点以下第2位を四捨五入しているため、合計しても必ず...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **CRA強化軟體供應鏈安全要求，SBOM成企業重要管理工具** — Score 9, observation — [Quelle](https://www.twcert.org.tw/tw/cp-104-11170-448bd-1.html)
+  - Quelle: TWCERT/CC Security News RSS / `rss`
+  - Zeit: published `2026-08-31T06:40:00+00:00`, fetched `2026-08-31T06:55:19+00:00`
+  - Treffer: Security, TWCERT
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); TWCERT (+2.0); recent (+1.0)
+  - Kurz: 隨著歐盟《網路韌性法》（Cyber Resilience Act, CRA）相關規範陸續上路，SBOM（Software Bill of Materials，軟體物料清單）逐漸從最佳實踐（best practice）成為企業因應法規及市場要求的重要管理措施。對於產品涉及數位元件並銷往歐盟市場的業者而言，如何建立、維護及管理SBOM，已成為軟體供應鏈安全的重要課題。 SBOM實務導入涉及軟體範圍、元件盤點、資料格式、更新機制及維護責任等多項管理議題。企業除應掌握SBOM的基本概念外，亦需建立適當的產製及管理流程，以確保軟體元件資訊具備完整性、可追溯性及可持續維護性。 SBOM是什麼 SBOM是一份正式且機器可讀性的軟體元件清單，用於記錄軟體所使用的元件（component）、函式庫（library）及相依套件（dependency），以及相關版本、供應來源與相依關係等。透過SBOM，企業可掌握軟體產品的組成，並進一步建立軟體元件…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **CISA與多國安全機構聯合發布「Gunra」勒索軟體預警通報** — Score 9, risk — [Quelle](https://www.twcert.org.tw/tw/cp-104-11168-85a71-1.html)
   - Quelle: TWCERT/CC Security News RSS / `rss`
   - Zeit: published `2026-08-31T06:04:00+00:00`, fetched `2026-08-31T06:23:01+00:00`
@@ -207,6 +234,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)
   - Kurz: LINEヤフー、全社横断でAIエージェント量産体制 カレンダーなど新「Agent i」
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **unclecode/crawl4ai** — Score 8, observation — [Quelle](https://github.com/unclecode/crawl4ai)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-08-31T06:55:19+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, GitHub Trending
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
+  - Kurz: 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN https://crawl4ai.com 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. 🚀 Crawl4AI Cloud API — Closed Beta (Launching Soon) Reliable, large-scale web extraction, now built to be drastically more cost-effective than any of the existing solutions. 👉 Apply here for early access We’ll be onboardi…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Exchange-Sicherheitslücke: 85 Prozent der On-Prem-Server in Deutschland anfällig** — Score 7, risk — [Quelle](https://www.heise.de/news/Exchange-Sicherheitsluecke-85-Prozent-der-On-Prem-Server-in-Deutschland-anfaellig-11434785.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-08-31T06:01:00.000+00:00`, fetched `2026-08-31T06:23:01+00:00`
@@ -216,6 +252,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Ein Proof-of-Concept-Exploit für eine hochriskante Exchange-Lücke ist öffentlich. 85 Prozent der On-Premises-Server sind anfällig.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **松本デジタル大臣が米国を訪問しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/9e39fb6f-c517-4d1b-8ef7-d3b31413fbd2)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-08-31T06:54:14+00:00`, fetched `2026-08-31T06:55:19+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 松本デジタル大臣が米国を訪問しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **令和8年熊本地震に関する対応状況について（8月31日）** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/7266f120-48b5-4a2a-a2d6-e1467df7824e)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-08-31T06:10:53+00:00`, fetched `2026-08-31T06:23:01+00:00`
@@ -225,14 +270,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 令和8年熊本地震に関する対応状況について（8月31日）
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **アナログ規制の見直し状況に関するダッシュボードおよび資料を更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/resources/govdashboard/administrative_research)
+- **行政手続における特定の個人を識別するための番号の利用等に関する法律に規定する個人番号、個人番号カード、特定個人情報の提供等に関する命令の一部を改正する命令（案）及び個人番号カード等に関する技術的基準の一部を改正する件（案）に係る意見募集を行います** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/8f0fb90c-f2d2-49d3-a5a4-d2b0f2293e31)
   - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-08-31T06:00:00+00:00`, fetched `2026-08-31T06:23:01+00:00`
+  - Zeit: published `2026-08-31T06:00:00+00:00`, fetched `2026-08-31T06:55:19+00:00`
   - Treffer: APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: アナログ規制の見直し状況に関するダッシュボードおよび資料を更新しました
+  - Kurz: 行政手続における特定の個人を識別するための番号の利用等に関する法律に規定する個人番号、個人番号カード、特定個人情報の提供等に関する命令の一部を改正する命令（案）及び個人番号カード等に関する技術的基準の一部を改正する件（案）に係る意見募集を行います
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
@@ -247,4 +292,4 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Quellenfehler
 
-- `bis_statistics` (rss): 404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss
+- `bis_statistics` (rss): HTTPSConnectionPool(host='www.bis.org', port=443): Read timed out. (read timeout=8)

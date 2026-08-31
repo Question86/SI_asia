@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T06:23:39+00:00",
-  "run_id": "2026-08-31T06:23:39+00:00",
+  "generated_at": "2026-08-31T06:56:04+00:00",
+  "run_id": "2026-08-31T06:56:04+00:00",
   "date": "2026-08-31",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 28
+      "configured_public_sources_only": 36
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 8,
-    "today_file_total": 28,
-    "displayed_findings": 28,
+    "today_file_total": 36,
+    "displayed_findings": 36,
     "high": 0,
-    "medium": 7,
-    "observe": 21,
+    "medium": 9,
+    "observe": 27,
     "source_errors": 1
   },
   "sections": {
@@ -78,6 +78,30 @@
           "EWZ"
         ],
         "id": "c8c2d87918f4c4976fea"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (libsolv, aardvark-dns): Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2247",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-31T06:53:09+00:00",
+        "fetched_at": "2026-08-31T06:55:19+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen, Daten zu manipulieren oder vertrauliche Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5c9c8fe5b7293d4467a4"
       },
       {
         "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
@@ -163,6 +187,28 @@
         "id": "ca230daaa41356c30fbe"
       },
       {
+        "title": "惡意npm攻擊再進化！駭客利用區塊鏈隱藏C2位址",
+        "url": "https://www.twcert.org.tw/tw/cp-104-11169-7cb52-1.html",
+        "source": "TWCERT/CC Security News RSS",
+        "source_type": "rss",
+        "published_at": "2026-08-31T06:23:00+00:00",
+        "fetched_at": "2026-08-31T06:55:19+00:00",
+        "summary": "資安社群平臺OpenSourceMalware近期發現兩個遭植入木馬的npm套件「bianira-ui」與「fluid-type-ui」，其攻擊流程不同於傳統的EtherHiding資料隱匿方式，研究人員將這項技術命名為 NullReceiver，並認為此次攻擊可能與北韓駭客組織相關。EtherHiding屬於一種Dead Drop Resolver（DDR）技術，是指攻擊者將惡意中繼站（C2）放置在合法的第三方平台（如GitHub、Pastebin等），若攻擊者選擇將C2資訊隱藏於區塊鏈上，則被稱為EtherHiding。 「EtherHiding」一詞最早由Guardio Labs於2023年10月提出，Google也在 2025年10月的官方報告中指出，發現國家級攻擊組織開始採用這項手法，並將相關活動歸因於北韓背景的攻擊者。 傳統的EtherHiding手法，通常是將攻擊者欲隱藏的惡意指令或C2寫入區塊鏈交易的 inpu…",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Security",
+          "TWCERT"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); Climate/Disaster Infrastructure (+5.0); TWCERT (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2c4eb830c8dd6d62c2c4"
+      },
+      {
         "title": "[UPDATE] [hoch] IBM Concert: Mehrere Schwachstellen",
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3046",
         "source": "BSI CERT-Bund Security Advisories",
@@ -232,6 +278,28 @@
       }
     ],
     "observe": [
+      {
+        "title": "リコー製Web Image Monitorを実装している複数のレーザープリンタおよび複合機（MFP）におけるオープンリダイレクトの脆弱性",
+        "url": "https://jvn.jp/jp/JVN65118274/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-04-30T14:00:00+09:00",
+        "fetched_at": "2026-08-31T06:55:19+00:00",
+        "summary": "リコー製Web Image Monitorを実装している複数のレーザープリンタおよび複合機（MFP）には、オープンリダイレクトの脆弱性が存在します。",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "JVN",
+          "Security"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "45935cf8dda7749168bd"
+      },
       {
         "title": "OpenAIが数万台のMac miniとMac Studioを買い占め",
         "url": "https://gigazine.net/news/20260831-openai-tens-of-thousands-apple-mac-mini-studio/",
@@ -407,6 +475,27 @@
         "id": "14a3079706689bfa9c36"
       },
       {
+        "title": "CRA強化軟體供應鏈安全要求，SBOM成企業重要管理工具",
+        "url": "https://www.twcert.org.tw/tw/cp-104-11170-448bd-1.html",
+        "source": "TWCERT/CC Security News RSS",
+        "source_type": "rss",
+        "published_at": "2026-08-31T06:40:00+00:00",
+        "fetched_at": "2026-08-31T06:55:19+00:00",
+        "summary": "隨著歐盟《網路韌性法》（Cyber Resilience Act, CRA）相關規範陸續上路，SBOM（Software Bill of Materials，軟體物料清單）逐漸從最佳實踐（best practice）成為企業因應法規及市場要求的重要管理措施。對於產品涉及數位元件並銷往歐盟市場的業者而言，如何建立、維護及管理SBOM，已成為軟體供應鏈安全的重要課題。 SBOM實務導入涉及軟體範圍、元件盤點、資料格式、更新機制及維護責任等多項管理議題。企業除應掌握SBOM的基本概念外，亦需建立適當的產製及管理流程，以確保軟體元件資訊具備完整性、可追溯性及可持續維護性。 SBOM是什麼 SBOM是一份正式且機器可讀性的軟體元件清單，用於記錄軟體所使用的元件（component）、函式庫（library）及相依套件（dependency），以及相關版本、供應來源與相依關係等。透過SBOM，企業可掌握軟體產品的組成，並進一步建立軟體元件…",
+        "matched_keywords": [
+          "Security",
+          "TWCERT"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Security (+6.0); TWCERT (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6fcbe4af919a8b609d31"
+      },
+      {
         "title": "CISA與多國安全機構聯合發布「Gunra」勒索軟體預警通報",
         "url": "https://www.twcert.org.tw/tw/cp-104-11168-85a71-1.html",
         "source": "TWCERT/CC Security News RSS",
@@ -508,6 +597,28 @@
         "id": "050b86d92de62a235b06"
       },
       {
+        "title": "unclecode/crawl4ai",
+        "url": "https://github.com/unclecode/crawl4ai",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-08-31T06:55:19+00:00",
+        "summary": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN https://crawl4ai.com 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. 🚀 Crawl4AI Cloud API — Closed Beta (Launching Soon) Reliable, large-scale web extraction, now built to be drastically more cost-effective than any of the existing solutions. 👉 Apply here for early access We’ll be onboardi…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "GitHub Trending"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b2a51961b25d21ab0a43"
+      },
+      {
         "title": "Exchange-Sicherheitslücke: 85 Prozent der On-Prem-Server in Deutschland anfällig",
         "url": "https://www.heise.de/news/Exchange-Sicherheitsluecke-85-Prozent-der-On-Prem-Server-in-Deutschland-anfaellig-11434785.html",
         "source": "heise Security Alerts",
@@ -528,6 +639,26 @@
         "id": "7ff72b8a801159de6a70"
       },
       {
+        "title": "松本デジタル大臣が米国を訪問しました",
+        "url": "https://www.digital.go.jp/news/9e39fb6f-c517-4d1b-8ef7-d3b31413fbd2",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-08-31T06:54:14+00:00",
+        "fetched_at": "2026-08-31T06:55:19+00:00",
+        "summary": "松本デジタル大臣が米国を訪問しました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b1a6dce7344306f4a7a5"
+      },
+      {
         "title": "令和8年熊本地震に関する対応状況について（8月31日）",
         "url": "https://www.digital.go.jp/news/7266f120-48b5-4a2a-a2d6-e1467df7824e",
         "source": "Japan Digital Agency News RSS",
@@ -546,6 +677,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "4d1cdebe30f2920c32c3"
+      },
+      {
+        "title": "行政手続における特定の個人を識別するための番号の利用等に関する法律に規定する個人番号、個人番号カード、特定個人情報の提供等に関する命令の一部を改正する命令（案）及び個人番号カード等に関する技術的基準の一部を改正する件（案）に係る意見募集を行います",
+        "url": "https://www.digital.go.jp/news/8f0fb90c-f2d2-49d3-a5a4-d2b0f2293e31",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-08-31T06:00:00+00:00",
+        "fetched_at": "2026-08-31T06:55:19+00:00",
+        "summary": "行政手続における特定の個人を識別するための番号の利用等に関する法律に規定する個人番号、個人番号カード、特定個人情報の提供等に関する命令の一部を改正する命令（案）及び個人番号カード等に関する技術的基準の一部を改正する件（案）に係る意見募集を行います",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b9e581191a510260ce5a"
       },
       {
         "title": "アナログ規制の見直し状況に関するダッシュボードおよび資料を更新しました",
@@ -673,6 +824,27 @@
         "id": "406c2e78bcf8207630f3"
       },
       {
+        "title": "Lakr233/vphone-cli",
+        "url": "https://github.com/Lakr233/vphone-cli",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-08-31T06:55:19+00:00",
+        "summary": "🇰🇷한국어 | 🇯🇵日本語 | 🇨🇳中文 | 🇬🇧English vphone-cli Boot a virtual iPhone via Apple's Virtualization.framework using PCC research VM infrastructure. Prerequisites Host: Apple Silicon macOS 15+ (Sequoia) Xcode + iOS SDK (cross-compiles the guest daemon) SIP/AMFI relaxation to allow private PV=3 entitlements with unsigned-binary Dependencies: brew install python@3.13 aria2 wget gnu-tar openssl@3 ldid-procursus sshpass keyston…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "GitHub Trending"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f685492030c2fd903dd0"
+      },
+      {
         "title": "Sellers reject Bitcoin at US$81,000 and Asia has not even opened: what the next session will reveal",
         "url": "https://e27.co/sellers-reject-bitcoin-at-us81000-and-asia-has-not-even-opened-what-the-next-session-will-reveal-20260831/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -767,6 +939,30 @@
       "id": "c8c2d87918f4c4976fea"
     },
     {
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (libsolv, aardvark-dns): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2247",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-31T06:53:09+00:00",
+      "fetched_at": "2026-08-31T06:55:19+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen, Daten zu manipulieren oder vertrauliche Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5c9c8fe5b7293d4467a4"
+    },
+    {
       "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3042",
       "source": "BSI CERT-Bund Security Advisories",
@@ -850,6 +1046,28 @@
       "id": "ca230daaa41356c30fbe"
     },
     {
+      "title": "惡意npm攻擊再進化！駭客利用區塊鏈隱藏C2位址",
+      "url": "https://www.twcert.org.tw/tw/cp-104-11169-7cb52-1.html",
+      "source": "TWCERT/CC Security News RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-31T06:23:00+00:00",
+      "fetched_at": "2026-08-31T06:55:19+00:00",
+      "summary": "資安社群平臺OpenSourceMalware近期發現兩個遭植入木馬的npm套件「bianira-ui」與「fluid-type-ui」，其攻擊流程不同於傳統的EtherHiding資料隱匿方式，研究人員將這項技術命名為 NullReceiver，並認為此次攻擊可能與北韓駭客組織相關。EtherHiding屬於一種Dead Drop Resolver（DDR）技術，是指攻擊者將惡意中繼站（C2）放置在合法的第三方平台（如GitHub、Pastebin等），若攻擊者選擇將C2資訊隱藏於區塊鏈上，則被稱為EtherHiding。 「EtherHiding」一詞最早由Guardio Labs於2023年10月提出，Google也在 2025年10月的官方報告中指出，發現國家級攻擊組織開始採用這項手法，並將相關活動歸因於北韓背景的攻擊者。 傳統的EtherHiding手法，通常是將攻擊者欲隱藏的惡意指令或C2寫入區塊鏈交易的 inpu…",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Security",
+        "TWCERT"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); Climate/Disaster Infrastructure (+5.0); TWCERT (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2c4eb830c8dd6d62c2c4"
+    },
+    {
       "title": "[UPDATE] [hoch] IBM Concert: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3046",
       "source": "BSI CERT-Bund Security Advisories",
@@ -916,6 +1134,28 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "ed583bfbf1822c2180d8"
+    },
+    {
+      "title": "リコー製Web Image Monitorを実装している複数のレーザープリンタおよび複合機（MFP）におけるオープンリダイレクトの脆弱性",
+      "url": "https://jvn.jp/jp/JVN65118274/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-04-30T14:00:00+09:00",
+      "fetched_at": "2026-08-31T06:55:19+00:00",
+      "summary": "リコー製Web Image Monitorを実装している複数のレーザープリンタおよび複合機（MFP）には、オープンリダイレクトの脆弱性が存在します。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "45935cf8dda7749168bd"
     },
     {
       "title": "OpenAIが数万台のMac miniとMac Studioを買い占め",
@@ -1092,6 +1332,27 @@
       "id": "14a3079706689bfa9c36"
     },
     {
+      "title": "CRA強化軟體供應鏈安全要求，SBOM成企業重要管理工具",
+      "url": "https://www.twcert.org.tw/tw/cp-104-11170-448bd-1.html",
+      "source": "TWCERT/CC Security News RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-31T06:40:00+00:00",
+      "fetched_at": "2026-08-31T06:55:19+00:00",
+      "summary": "隨著歐盟《網路韌性法》（Cyber Resilience Act, CRA）相關規範陸續上路，SBOM（Software Bill of Materials，軟體物料清單）逐漸從最佳實踐（best practice）成為企業因應法規及市場要求的重要管理措施。對於產品涉及數位元件並銷往歐盟市場的業者而言，如何建立、維護及管理SBOM，已成為軟體供應鏈安全的重要課題。 SBOM實務導入涉及軟體範圍、元件盤點、資料格式、更新機制及維護責任等多項管理議題。企業除應掌握SBOM的基本概念外，亦需建立適當的產製及管理流程，以確保軟體元件資訊具備完整性、可追溯性及可持續維護性。 SBOM是什麼 SBOM是一份正式且機器可讀性的軟體元件清單，用於記錄軟體所使用的元件（component）、函式庫（library）及相依套件（dependency），以及相關版本、供應來源與相依關係等。透過SBOM，企業可掌握軟體產品的組成，並進一步建立軟體元件…",
+      "matched_keywords": [
+        "Security",
+        "TWCERT"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Security (+6.0); TWCERT (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6fcbe4af919a8b609d31"
+    },
+    {
       "title": "CISA與多國安全機構聯合發布「Gunra」勒索軟體預警通報",
       "url": "https://www.twcert.org.tw/tw/cp-104-11168-85a71-1.html",
       "source": "TWCERT/CC Security News RSS",
@@ -1193,6 +1454,28 @@
       "id": "050b86d92de62a235b06"
     },
     {
+      "title": "unclecode/crawl4ai",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-08-31T06:55:19+00:00",
+      "summary": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN https://crawl4ai.com 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. 🚀 Crawl4AI Cloud API — Closed Beta (Launching Soon) Reliable, large-scale web extraction, now built to be drastically more cost-effective than any of the existing solutions. 👉 Apply here for early access We’ll be onboardi…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "GitHub Trending"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b2a51961b25d21ab0a43"
+    },
+    {
       "title": "Exchange-Sicherheitslücke: 85 Prozent der On-Prem-Server in Deutschland anfällig",
       "url": "https://www.heise.de/news/Exchange-Sicherheitsluecke-85-Prozent-der-On-Prem-Server-in-Deutschland-anfaellig-11434785.html",
       "source": "heise Security Alerts",
@@ -1213,6 +1496,26 @@
       "id": "7ff72b8a801159de6a70"
     },
     {
+      "title": "松本デジタル大臣が米国を訪問しました",
+      "url": "https://www.digital.go.jp/news/9e39fb6f-c517-4d1b-8ef7-d3b31413fbd2",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-31T06:54:14+00:00",
+      "fetched_at": "2026-08-31T06:55:19+00:00",
+      "summary": "松本デジタル大臣が米国を訪問しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b1a6dce7344306f4a7a5"
+    },
+    {
       "title": "令和8年熊本地震に関する対応状況について（8月31日）",
       "url": "https://www.digital.go.jp/news/7266f120-48b5-4a2a-a2d6-e1467df7824e",
       "source": "Japan Digital Agency News RSS",
@@ -1231,6 +1534,26 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "4d1cdebe30f2920c32c3"
+    },
+    {
+      "title": "行政手続における特定の個人を識別するための番号の利用等に関する法律に規定する個人番号、個人番号カード、特定個人情報の提供等に関する命令の一部を改正する命令（案）及び個人番号カード等に関する技術的基準の一部を改正する件（案）に係る意見募集を行います",
+      "url": "https://www.digital.go.jp/news/8f0fb90c-f2d2-49d3-a5a4-d2b0f2293e31",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-31T06:00:00+00:00",
+      "fetched_at": "2026-08-31T06:55:19+00:00",
+      "summary": "行政手続における特定の個人を識別するための番号の利用等に関する法律に規定する個人番号、個人番号カード、特定個人情報の提供等に関する命令の一部を改正する命令（案）及び個人番号カード等に関する技術的基準の一部を改正する件（案）に係る意見募集を行います",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b9e581191a510260ce5a"
     },
     {
       "title": "アナログ規制の見直し状況に関するダッシュボードおよび資料を更新しました",
@@ -1358,6 +1681,27 @@
       "id": "406c2e78bcf8207630f3"
     },
     {
+      "title": "Lakr233/vphone-cli",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-08-31T06:55:19+00:00",
+      "summary": "🇰🇷한국어 | 🇯🇵日本語 | 🇨🇳中文 | 🇬🇧English vphone-cli Boot a virtual iPhone via Apple's Virtualization.framework using PCC research VM infrastructure. Prerequisites Host: Apple Silicon macOS 15+ (Sequoia) Xcode + iOS SDK (cross-compiles the guest daemon) SIP/AMFI relaxation to allow private PV=3 entitlements with unsigned-binary Dependencies: brew install python@3.13 aria2 wget gnu-tar openssl@3 ldid-procursus sshpass keyston…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "GitHub Trending"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f685492030c2fd903dd0"
+    },
+    {
       "title": "Sellers reject Bitcoin at US$81,000 and Asia has not even opened: what the next session will reveal",
       "url": "https://e27.co/sellers-reject-bitcoin-at-us81000-and-asia-has-not-even-opened-what-the-next-session-will-reveal-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -1401,13 +1745,13 @@
   ],
   "new_findings": [
     {
-      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3042",
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (libsolv, aardvark-dns): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2247",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-31T06:12:03+00:00",
-      "fetched_at": "2026-08-31T06:23:01+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, darunter möglicherweise die Ausführung von beliebigem Code, die Ausweitung von Berechtigungen, die Offenlegung von Informationen, die Manipulation von Daten oder Denial-of-Service-Zustände.",
+      "published_at": "2026-08-31T06:53:09+00:00",
+      "fetched_at": "2026-08-31T06:55:19+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen, Daten zu manipulieren oder vertrauliche Informationen offenzulegen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -1422,102 +1766,103 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "0ec640f9f82e5d09b0ca"
+      "id": "5c9c8fe5b7293d4467a4"
     },
     {
-      "title": "[UPDATE] [hoch] IBM Concert: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3046",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-31T06:12:03+00:00",
-      "fetched_at": "2026-08-31T06:23:01+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM Concert ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren, um einen Cross-Site Scripting Angriff durchzuführen, um einen SQL-Injection Angriff durchzuführen und um Sicherheitsvorkehrungen zu umgehen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0f55f216b3e271c408ae"
-    },
-    {
-      "title": "Why Japan’s booming AI market is harder to crack than it looks",
-      "url": "https://e27.co/why-japans-booming-ai-market-is-harder-to-crack-than-it-looks-20260831/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-31T05:57:31+00:00",
-      "fetched_at": "2026-08-31T06:23:01+00:00",
-      "summary": "Japan’s AI market is growing fast. It is valued at approximately US$8.9 billion in 2024 and is projected to nearly triple to US$27.9 billion by 2029, making it one of the most compelling AI opportunities in Asia. An ageing population drives demand for automation. Strong manufacturing and healthcare infrastructure support adoption. Aggressive government investment reinforces […] The post Why Japan’s booming AI market…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Automatisierung"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "AI/KI (+3.8); Automatisierung (+4.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3368603640e27e3578d3"
-    },
-    {
-      "title": "CISA與多國安全機構聯合發布「Gunra」勒索軟體預警通報",
-      "url": "https://www.twcert.org.tw/tw/cp-104-11168-85a71-1.html",
+      "title": "惡意npm攻擊再進化！駭客利用區塊鏈隱藏C2位址",
+      "url": "https://www.twcert.org.tw/tw/cp-104-11169-7cb52-1.html",
       "source": "TWCERT/CC Security News RSS",
       "source_type": "rss",
-      "published_at": "2026-08-31T06:04:00+00:00",
-      "fetched_at": "2026-08-31T06:23:01+00:00",
-      "summary": "網路安全威脅持續升溫，名為「Gunra」的勒索軟體即服務（Ransomware-as-a-Service）自2025 年 4 月首次被發現後，相關攻擊活動持受到國際資安與執法機構關注。Gunra採用「雙重勒索（Double Extortion）」模式，除加密受害組織檔案外，亦會於加密前竊取資料，並以公開或洩露遭竊資料作為談判籌碼，增加受害組織的營運及資料外洩風險。 美國網路安全暨基礎設施安全局（CISA）、聯邦調查局（FBI）及國家安全局（NSA）等多個跨國安全與執法機構聯合發布詳細的資安警報，指出勒索軟體攻擊已持續鎖定醫療、金融、政府、公共設施及學術機構等不同顉域組織。對企業而言，Gunra 所呈現的攻擊模式並非僅限於惡意程式本身，而是結合網路邊界設備漏洞、帳號及憑證濫用、遠端存取服務及內部環境偵察等手法，值得相關單位提高警覺。 從已公開的攻擊活動觀察，Gunra 攻擊者在初始存取階段，除可能透過偽冒微軟安全驗證等內容進行網…",
+      "published_at": "2026-08-31T06:23:00+00:00",
+      "fetched_at": "2026-08-31T06:55:19+00:00",
+      "summary": "資安社群平臺OpenSourceMalware近期發現兩個遭植入木馬的npm套件「bianira-ui」與「fluid-type-ui」，其攻擊流程不同於傳統的EtherHiding資料隱匿方式，研究人員將這項技術命名為 NullReceiver，並認為此次攻擊可能與北韓駭客組織相關。EtherHiding屬於一種Dead Drop Resolver（DDR）技術，是指攻擊者將惡意中繼站（C2）放置在合法的第三方平台（如GitHub、Pastebin等），若攻擊者選擇將C2資訊隱藏於區塊鏈上，則被稱為EtherHiding。 「EtherHiding」一詞最早由Guardio Labs於2023年10月提出，Google也在 2025年10月的官方報告中指出，發現國家級攻擊組織開始採用這項手法，並將相關活動歸因於北韓背景的攻擊者。 傳統的EtherHiding手法，通常是將攻擊者欲隱藏的惡意指令或C2寫入區塊鏈交易的 inpu…",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Security",
+        "TWCERT"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); Climate/Disaster Infrastructure (+5.0); TWCERT (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2c4eb830c8dd6d62c2c4"
+    },
+    {
+      "title": "リコー製Web Image Monitorを実装している複数のレーザープリンタおよび複合機（MFP）におけるオープンリダイレクトの脆弱性",
+      "url": "https://jvn.jp/jp/JVN65118274/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-04-30T14:00:00+09:00",
+      "fetched_at": "2026-08-31T06:55:19+00:00",
+      "summary": "リコー製Web Image Monitorを実装している複数のレーザープリンタおよび複合機（MFP）には、オープンリダイレクトの脆弱性が存在します。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "45935cf8dda7749168bd"
+    },
+    {
+      "title": "CRA強化軟體供應鏈安全要求，SBOM成企業重要管理工具",
+      "url": "https://www.twcert.org.tw/tw/cp-104-11170-448bd-1.html",
+      "source": "TWCERT/CC Security News RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-31T06:40:00+00:00",
+      "fetched_at": "2026-08-31T06:55:19+00:00",
+      "summary": "隨著歐盟《網路韌性法》（Cyber Resilience Act, CRA）相關規範陸續上路，SBOM（Software Bill of Materials，軟體物料清單）逐漸從最佳實踐（best practice）成為企業因應法規及市場要求的重要管理措施。對於產品涉及數位元件並銷往歐盟市場的業者而言，如何建立、維護及管理SBOM，已成為軟體供應鏈安全的重要課題。 SBOM實務導入涉及軟體範圍、元件盤點、資料格式、更新機制及維護責任等多項管理議題。企業除應掌握SBOM的基本概念外，亦需建立適當的產製及管理流程，以確保軟體元件資訊具備完整性、可追溯性及可持續維護性。 SBOM是什麼 SBOM是一份正式且機器可讀性的軟體元件清單，用於記錄軟體所使用的元件（component）、函式庫（library）及相依套件（dependency），以及相關版本、供應來源與相依關係等。透過SBOM，企業可掌握軟體產品的組成，並進一步建立軟體元件…",
       "matched_keywords": [
         "Security",
         "TWCERT"
       ],
       "relevance_score": 9,
       "relevance_reason": "Security (+6.0); TWCERT (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "461c37ef8af6e695b12d"
+      "id": "6fcbe4af919a8b609d31"
     },
     {
-      "title": "Exchange-Sicherheitslücke: 85 Prozent der On-Prem-Server in Deutschland anfällig",
-      "url": "https://www.heise.de/news/Exchange-Sicherheitsluecke-85-Prozent-der-On-Prem-Server-in-Deutschland-anfaellig-11434785.html",
-      "source": "heise Security Alerts",
+      "title": "unclecode/crawl4ai",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "source": "GitHub Trending RSS All Languages Daily",
       "source_type": "rss",
-      "published_at": "2026-08-31T06:01:00.000+00:00",
-      "fetched_at": "2026-08-31T06:23:01+00:00",
-      "summary": "Ein Proof-of-Concept-Exploit für eine hochriskante Exchange-Lücke ist öffentlich. 85 Prozent der On-Premises-Server sind anfällig.",
+      "published_at": null,
+      "fetched_at": "2026-08-31T06:55:19+00:00",
+      "summary": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN https://crawl4ai.com 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. 🚀 Crawl4AI Cloud API — Closed Beta (Launching Soon) Reliable, large-scale web extraction, now built to be drastically more cost-effective than any of the existing solutions. 👉 Apply here for early access We’ll be onboardi…",
       "matched_keywords": [
-        "Security"
+        "AI/KI",
+        "APAC Trend Radar",
+        "GitHub Trending"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "7ff72b8a801159de6a70"
+      "id": "b2a51961b25d21ab0a43"
     },
     {
-      "title": "令和8年熊本地震に関する対応状況について（8月31日）",
-      "url": "https://www.digital.go.jp/news/7266f120-48b5-4a2a-a2d6-e1467df7824e",
+      "title": "松本デジタル大臣が米国を訪問しました",
+      "url": "https://www.digital.go.jp/news/9e39fb6f-c517-4d1b-8ef7-d3b31413fbd2",
       "source": "Japan Digital Agency News RSS",
       "source_type": "rss",
-      "published_at": "2026-08-31T06:10:53+00:00",
-      "fetched_at": "2026-08-31T06:23:01+00:00",
-      "summary": "令和8年熊本地震に関する対応状況について（8月31日）",
+      "published_at": "2026-08-31T06:54:14+00:00",
+      "fetched_at": "2026-08-31T06:55:19+00:00",
+      "summary": "松本デジタル大臣が米国を訪問しました",
       "matched_keywords": [
         "APAC Trend Radar"
       ],
@@ -1528,16 +1873,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "4d1cdebe30f2920c32c3"
+      "id": "b1a6dce7344306f4a7a5"
     },
     {
-      "title": "アナログ規制の見直し状況に関するダッシュボードおよび資料を更新しました",
-      "url": "https://www.digital.go.jp/resources/govdashboard/administrative_research",
+      "title": "行政手続における特定の個人を識別するための番号の利用等に関する法律に規定する個人番号、個人番号カード、特定個人情報の提供等に関する命令の一部を改正する命令（案）及び個人番号カード等に関する技術的基準の一部を改正する件（案）に係る意見募集を行います",
+      "url": "https://www.digital.go.jp/news/8f0fb90c-f2d2-49d3-a5a4-d2b0f2293e31",
       "source": "Japan Digital Agency News RSS",
       "source_type": "rss",
       "published_at": "2026-08-31T06:00:00+00:00",
-      "fetched_at": "2026-08-31T06:23:01+00:00",
-      "summary": "アナログ規制の見直し状況に関するダッシュボードおよび資料を更新しました",
+      "fetched_at": "2026-08-31T06:55:19+00:00",
+      "summary": "行政手続における特定の個人を識別するための番号の利用等に関する法律に規定する個人番号、個人番号カード、特定個人情報の提供等に関する命令の一部を改正する命令（案）及び個人番号カード等に関する技術的基準の一部を改正する件（案）に係る意見募集を行います",
       "matched_keywords": [
         "APAC Trend Radar"
       ],
@@ -1548,28 +1893,28 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "14f1a8570fefc9641572"
+      "id": "b9e581191a510260ce5a"
     },
     {
-      "title": "Sellers reject Bitcoin at US$81,000 and Asia has not even opened: what the next session will reveal",
-      "url": "https://e27.co/sellers-reject-bitcoin-at-us81000-and-asia-has-not-even-opened-what-the-next-session-will-reveal-20260831/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "Lakr233/vphone-cli",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "source": "GitHub Trending RSS All Languages Daily",
       "source_type": "rss",
-      "published_at": "2026-08-31T06:12:32+00:00",
-      "fetched_at": "2026-08-31T06:23:01+00:00",
-      "summary": "Global financial participants are currently facing significant downward pressure as macroeconomic factors shape investor behaviour across digital ecosystems. The total valuation of decentralised networks fell by 0.89 per cent to US$2.61T over the last 24 hours. This broad valuation decline of 1.18 per cent demonstrates how external monetary policy expectations directly influence risk asset pricing. […] The post Sell…",
+      "published_at": null,
+      "fetched_at": "2026-08-31T06:55:19+00:00",
+      "summary": "🇰🇷한국어 | 🇯🇵日本語 | 🇨🇳中文 | 🇬🇧English vphone-cli Boot a virtual iPhone via Apple's Virtualization.framework using PCC research VM infrastructure. Prerequisites Host: Apple Silicon macOS 15+ (Sequoia) Xcode + iOS SDK (cross-compiles the guest daemon) SIP/AMFI relaxation to allow private PV=3 entitlements with unsigned-binary Dependencies: brew install python@3.13 aria2 wget gnu-tar openssl@3 ldid-procursus sshpass keyston…",
       "matched_keywords": [
         "APAC Trend Radar",
-        "Macro/Policy"
+        "GitHub Trending"
       ],
-      "relevance_score": 4,
-      "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph demote demo (x0.45)",
+      "relevance_score": 5,
+      "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a92007aa390f879478bd"
+      "id": "f685492030c2fd903dd0"
     }
   ],
   "source_errors": [
@@ -1577,7 +1922,7 @@
       "source_id": "bis_statistics",
       "source_name": "BIS Statistical Releases",
       "source_type": "rss",
-      "error": "404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss"
+      "error": "HTTPSConnectionPool(host='www.bis.org', port=443): Read timed out. (read timeout=8)"
     }
   ],
   "quality_gate": {

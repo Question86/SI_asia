@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-31T06:23:39+00:00",
+  "generated_at": "2026-08-31T06:56:04+00:00",
   "topics": {
     "general": [
       {
@@ -26,11 +26,25 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2f"
       },
       {
+        "title": "松本デジタル大臣が米国を訪問しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-08-31T06:54:14+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/news/9e39fb6f-c517-4d1b-8ef7-d3b31413fbd2"
+      },
+      {
         "title": "令和8年熊本地震に関する対応状況について（8月31日）",
         "source": "Japan Digital Agency News RSS",
         "published_at": "2026-08-31T06:10:53+00:00",
         "relevance_score": 6,
         "url": "https://www.digital.go.jp/news/7266f120-48b5-4a2a-a2d6-e1467df7824e"
+      },
+      {
+        "title": "行政手続における特定の個人を識別するための番号の利用等に関する法律に規定する個人番号、個人番号カード、特定個人情報の提供等に関する命令の一部を改正する命令（案）及び個人番号カード等に関する技術的基準の一部を改正する件（案）に係る意見募集を行います",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-08-31T06:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/news/8f0fb90c-f2d2-49d3-a5a4-d2b0f2293e31"
       },
       {
         "title": "アナログ規制の見直し状況に関するダッシュボードおよび資料を更新しました",
@@ -59,29 +73,29 @@
         "published_at": "2026-08-30T12:11:27+00:00",
         "relevance_score": 5,
         "url": "https://www.47news.jp/14868281.html"
-      },
-      {
-        "title": "「江戸時代の経路検索」サイトを作りました｜地図とかデザインとか",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-30T10:59:58+00:00",
-        "relevance_score": 5,
-        "url": "https://note.com/chizutodesign/n/neee5116b95b4"
-      },
-      {
-        "title": "Building burnout-resistant teams",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-31T03:00:18+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/building-burnout-resistant-teams-20260828/"
       }
     ],
     "security": [
+      {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (libsolv, aardvark-dns): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-31T06:53:09+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2247"
+      },
       {
         "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-31T06:12:03+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3042"
+      },
+      {
+        "title": "惡意npm攻擊再進化！駭客利用區塊鏈隱藏C2位址",
+        "source": "TWCERT/CC Security News RSS",
+        "published_at": "2026-08-31T06:23:00+00:00",
+        "relevance_score": 14,
+        "url": "https://www.twcert.org.tw/tw/cp-104-11169-7cb52-1.html"
       },
       {
         "title": "[UPDATE] [hoch] IBM Concert: Mehrere Schwachstellen",
@@ -96,6 +110,20 @@
         "published_at": "2026-08-31T05:51:06+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2849"
+      },
+      {
+        "title": "リコー製Web Image Monitorを実装している複数のレーザープリンタおよび複合機（MFP）におけるオープンリダイレクトの脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-04-30T14:00:00+09:00",
+        "relevance_score": 13,
+        "url": "https://jvn.jp/jp/JVN65118274/"
+      },
+      {
+        "title": "CRA強化軟體供應鏈安全要求，SBOM成企業重要管理工具",
+        "source": "TWCERT/CC Security News RSS",
+        "published_at": "2026-08-31T06:40:00+00:00",
+        "relevance_score": 9,
+        "url": "https://www.twcert.org.tw/tw/cp-104-11170-448bd-1.html"
       },
       {
         "title": "CISA與多國安全機構聯合發布「Gunra」勒索軟體預警通報",
@@ -191,6 +219,78 @@
         "published_at": "2026-08-31T01:00:41+00:00",
         "relevance_score": 15,
         "url": "https://e27.co/the-environmental-ethics-of-ai-should-be-a-product-decision-not-a-sustainability-footnote-20260809/"
+      },
+      {
+        "title": "惡意npm攻擊再進化！駭客利用區塊鏈隱藏C2位址",
+        "source": "TWCERT/CC Security News RSS",
+        "published_at": "2026-08-31T06:23:00+00:00",
+        "relevance_score": 14,
+        "url": "https://www.twcert.org.tw/tw/cp-104-11169-7cb52-1.html"
+      },
+      {
+        "title": "unclecode/crawl4ai",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 8,
+        "url": "https://github.com/unclecode/crawl4ai"
+      },
+      {
+        "title": "Lakr233/vphone-cli",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 5,
+        "url": "https://github.com/Lakr233/vphone-cli"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "惡意npm攻擊再進化！駭客利用區塊鏈隱藏C2位址",
+        "source": "TWCERT/CC Security News RSS",
+        "published_at": "2026-08-31T06:23:00+00:00",
+        "relevance_score": 14,
+        "url": "https://www.twcert.org.tw/tw/cp-104-11169-7cb52-1.html"
+      },
+      {
+        "title": "Why Japan’s booming AI market is harder to crack than it looks",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-31T05:57:31+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/why-japans-booming-ai-market-is-harder-to-crack-than-it-looks-20260831/"
+      },
+      {
+        "title": "China’s tax reform matters more to Southeast Asia than Wall Street",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-31T02:00:18+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/chinas-tax-reform-matters-more-to-southeast-asia-than-wall-street-20260828/"
+      },
+      {
+        "title": "CRA強化軟體供應鏈安全要求，SBOM成企業重要管理工具",
+        "source": "TWCERT/CC Security News RSS",
+        "published_at": "2026-08-31T06:40:00+00:00",
+        "relevance_score": 9,
+        "url": "https://www.twcert.org.tw/tw/cp-104-11170-448bd-1.html"
+      },
+      {
+        "title": "CISA與多國安全機構聯合發布「Gunra」勒索軟體預警通報",
+        "source": "TWCERT/CC Security News RSS",
+        "published_at": "2026-08-31T06:04:00+00:00",
+        "relevance_score": 9,
+        "url": "https://www.twcert.org.tw/tw/cp-104-11168-85a71-1.html"
+      },
+      {
+        "title": "Exchange-Sicherheitslücke: 85 Prozent der On-Prem-Server in Deutschland anfällig",
+        "source": "heise Security Alerts",
+        "published_at": "2026-08-31T06:01:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Exchange-Sicherheitsluecke-85-Prozent-der-On-Prem-Server-in-Deutschland-anfaellig-11434785.html"
+      },
+      {
+        "title": "Sellers reject Bitcoin at US$81,000 and Asia has not even opened: what the next session will reveal",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-08-31T06:12:32+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/sellers-reject-bitcoin-at-us81000-and-asia-has-not-even-opened-what-the-next-session-will-reveal-20260831/"
       }
     ],
     "economy": [
@@ -221,43 +321,6 @@
         "published_at": "2026-08-31T01:15:59+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/swot-is-not-boring-you-are-just-using-it-too-late-20260821/"
-      },
-      {
-        "title": "Sellers reject Bitcoin at US$81,000 and Asia has not even opened: what the next session will reveal",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-31T06:12:32+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/sellers-reject-bitcoin-at-us81000-and-asia-has-not-even-opened-what-the-next-session-will-reveal-20260831/"
-      }
-    ],
-    "geopolitics": [
-      {
-        "title": "Why Japan’s booming AI market is harder to crack than it looks",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-31T05:57:31+00:00",
-        "relevance_score": 14,
-        "url": "https://e27.co/why-japans-booming-ai-market-is-harder-to-crack-than-it-looks-20260831/"
-      },
-      {
-        "title": "China’s tax reform matters more to Southeast Asia than Wall Street",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-31T02:00:18+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/chinas-tax-reform-matters-more-to-southeast-asia-than-wall-street-20260828/"
-      },
-      {
-        "title": "CISA與多國安全機構聯合發布「Gunra」勒索軟體預警通報",
-        "source": "TWCERT/CC Security News RSS",
-        "published_at": "2026-08-31T06:04:00+00:00",
-        "relevance_score": 9,
-        "url": "https://www.twcert.org.tw/tw/cp-104-11168-85a71-1.html"
-      },
-      {
-        "title": "Exchange-Sicherheitslücke: 85 Prozent der On-Prem-Server in Deutschland anfällig",
-        "source": "heise Security Alerts",
-        "published_at": "2026-08-31T06:01:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Exchange-Sicherheitsluecke-85-Prozent-der-On-Prem-Server-in-Deutschland-anfaellig-11434785.html"
       },
       {
         "title": "Sellers reject Bitcoin at US$81,000 and Asia has not even opened: what the next session will reveal",
