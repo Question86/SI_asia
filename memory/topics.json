@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-31T09:48:23+00:00",
+  "generated_at": "2026-08-31T09:56:09+00:00",
   "topics": {
     "general": [
       {
@@ -77,6 +77,20 @@
     ],
     "security": [
       {
+        "title": "[NEU] [UNGEPATCHT] [mittel] GIMP: Mehrere Schwachstellen ermöglichen Denial of Service und die Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-31T09:51:05+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3081"
+      },
+      {
+        "title": "[NEU] [mittel] Red Hat Enterprise Linux (iperf3): Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-31T09:46:05+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3080"
+      },
+      {
         "title": "[NEU] [mittel] Red Hat Enterprise Linux (xmlrpc-c): Schwachstelle ermöglicht Cross-Site Scripting",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-31T09:36:05+00:00",
@@ -96,6 +110,13 @@
         "published_at": "2026-08-31T06:12:03+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3042"
+      },
+      {
+        "title": "[NEU] [hoch] Gitea: Mehrere Schwachstellen ermöglichen Ausführen von beliebigem Programmcode",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-31T09:46:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3079"
       },
       {
         "title": "[UPDATE] [niedrig] libarchive: Schwachstelle ermöglicht Codeausführung and DoS",
@@ -124,36 +145,36 @@
         "published_at": "2026-08-31T06:12:03+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3046"
-      },
-      {
-        "title": "[UPDATE] [hoch] Budibase: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-31T05:51:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2849"
-      },
-      {
-        "title": "リコー製Web Image Monitorを実装している複数のレーザープリンタおよび複合機（MFP）におけるオープンリダイレクトの脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-04-30T14:00:00+09:00",
-        "relevance_score": 13,
-        "url": "https://jvn.jp/jp/JVN65118274/"
-      },
-      {
-        "title": "Root-Sicherheitslücke bedroht cPanel/WHM",
-        "source": "heise Security Alerts",
-        "published_at": "2026-08-31T07:33:00.000+00:00",
-        "relevance_score": 10,
-        "url": "https://www.heise.de/news/Root-Sicherheitsluecke-bedroht-cPanel-WHM-11434895.html"
       }
     ],
     "geopolitics": [
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] GIMP: Mehrere Schwachstellen ermöglichen Denial of Service und die Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-31T09:51:05+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3081"
+      },
+      {
+        "title": "[NEU] [mittel] Red Hat Enterprise Linux (iperf3): Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-31T09:46:05+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3080"
+      },
       {
         "title": "[NEU] [mittel] Red Hat Enterprise Linux (xmlrpc-c): Schwachstelle ermöglicht Cross-Site Scripting",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-31T09:36:05+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3078"
+      },
+      {
+        "title": "[NEU] [hoch] Gitea: Mehrere Schwachstellen ermöglichen Ausführen von beliebigem Programmcode",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-31T09:46:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3079"
       },
       {
         "title": "惡意npm攻擊再進化！駭客利用區塊鏈隱藏C2位址",
@@ -196,27 +217,6 @@
         "published_at": "2026-08-31T06:40:00+00:00",
         "relevance_score": 9,
         "url": "https://www.twcert.org.tw/tw/cp-104-11170-448bd-1.html"
-      },
-      {
-        "title": "CISA與多國安全機構聯合發布「Gunra」勒索軟體預警通報",
-        "source": "TWCERT/CC Security News RSS",
-        "published_at": "2026-08-31T06:04:00+00:00",
-        "relevance_score": 9,
-        "url": "https://www.twcert.org.tw/tw/cp-104-11168-85a71-1.html"
-      },
-      {
-        "title": "Exchange-Sicherheitslücke: 85 Prozent der On-Prem-Server in Deutschland anfällig",
-        "source": "heise Security Alerts",
-        "published_at": "2026-08-31T06:01:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Exchange-Sicherheitsluecke-85-Prozent-der-On-Prem-Server-in-Deutschland-anfaellig-11434785.html"
-      },
-      {
-        "title": "Sellers reject Bitcoin at US$81,000 and Asia has not even opened: what the next session will reveal",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-08-31T06:12:32+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/sellers-reject-bitcoin-at-us81000-and-asia-has-not-even-opened-what-the-next-session-will-reveal-20260831/"
       }
     ],
     "ai": [
