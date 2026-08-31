@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-31T05:56:03+00:00_
+_Generated: 2026-08-31T06:23:39+00:00_
 
 ## Status
 - status: `warning`
-- findings: `20`
+- findings: `28`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-08-31T05:56:03+00:00_
 - url: https://e27.co/southeast-asias-chip-hub-ambition-is-colliding-with-its-chip-smuggling-problem-20260831/
 - summary: A couple of months ago, Singapore police froze a bungalow worth roughly US$42 million as part of its widening fraud investigation tied to the local server reseller Aperia Group. It is one data point in a pattern that has become impossible to ignore: Southeast…
 
-### 2. M 4.9 - 13 km SSE of Union, Philippines
+### 2. [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-08-31T06:12:03+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3042
+- summary: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, darunter möglicherweise die Ausführung von beliebigem Code, die Ausweitung von Berechtigungen, die Offenlegung von Informationen, d…
+
+### 3. M 4.9 - 13 km SSE of Union, Philippines
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-08-31T04:17:34.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2c
 - summary: Time 2026-08-31 04:04:34 UTC 2026-08-31 04:04:34 UTC at epicenter Location 9.641°N 126.136°E Depth 83.89 km (52.13 mi)
 
-### 3. The environmental ethics of AI should be a product decision, not a sustainability footnote
+### 4. The environmental ethics of AI should be a product decision, not a sustainability footnote
 - source: e27 Asia Startup and Tech Feed
 - score: `15`
 - published: `2026-08-31T01:00:41+00:00`
 - url: https://e27.co/the-environmental-ethics-of-ai-should-be-a-product-decision-not-a-sustainability-footnote-20260809/
 - summary: The environmental debate around AI is often placed in the sustainability section of the company, where it becomes a reporting matter, a disclosure matter, or a reputational matter. By the time it gets there, most of the important decisions have already been m…
-
-### 4. [UPDATE] [hoch] Budibase: Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `14`
-- published: `2026-08-31T05:51:06+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2849
-- summary: Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Budibase ausnutzen, um Dateien zu manipulieren, vertrauliche Daten offenzulegen, erweiterte Berechtigungen zu erlangen und Sicherheitsmaßnahmen zu umgehen.
 
 ### 5. OpenAIが数万台のMac miniとMac Studioを買い占め
 - source: Hatena Bookmark Hotentry IT

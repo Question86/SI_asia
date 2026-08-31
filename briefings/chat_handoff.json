@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-31T05:56:03+00:00",
+  "generated_at": "2026-08-31T06:23:39+00:00",
   "status": "warning",
   "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 20,
-    "displayed_findings": 20,
+    "new_relevant_findings": 8,
+    "today_file_total": 28,
+    "displayed_findings": 28,
     "high": 0,
-    "medium": 4,
-    "observe": 16
+    "medium": 7,
+    "observe": 21
   },
   "source_errors_count": 1,
   "top_signals": [
@@ -22,6 +22,16 @@
       "relevance_score": 18,
       "url": "https://e27.co/southeast-asias-chip-hub-ambition-is-colliding-with-its-chip-smuggling-problem-20260831/",
       "summary": "A couple of months ago, Singapore police froze a bungalow worth roughly US$42 million as part of its widening fraud investigation tied to the local server reseller Aperia Group. It is one data point in a pattern that has become impossible to ignore: Southeast…",
+      "section": "medium"
+    },
+    {
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-31T06:12:03+00:00",
+      "relevance_score": 16,
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3042",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, darunter möglicherweise die Ausführung von beliebigem Code, die Ausweitung von Berechtigungen, die Offenlegung von Informationen, d…",
       "section": "medium"
     },
     {
@@ -42,16 +52,6 @@
       "relevance_score": 15,
       "url": "https://e27.co/the-environmental-ethics-of-ai-should-be-a-product-decision-not-a-sustainability-footnote-20260809/",
       "summary": "The environmental debate around AI is often placed in the sustainability section of the company, where it becomes a reporting matter, a disclosure matter, or a reputational matter. By the time it gets there, most of the important decisions have already been m…",
-      "section": "medium"
-    },
-    {
-      "title": "[UPDATE] [hoch] Budibase: Mehrere Schwachstellen",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-31T05:51:06+00:00",
-      "relevance_score": 14,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2849",
-      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Budibase ausnutzen, um Dateien zu manipulieren, vertrauliche Daten offenzulegen, erweiterte Berechtigungen zu erlangen und Sicherheitsmaßnahmen zu umgehen.",
       "section": "medium"
     },
     {
