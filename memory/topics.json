@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-31T09:18:12+00:00",
+  "generated_at": "2026-08-31T09:37:43+00:00",
   "topics": {
     "general": [
       {
@@ -91,6 +91,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3042"
       },
       {
+        "title": "[UPDATE] [niedrig] libarchive: Schwachstelle ermöglicht Codeausführung and DoS",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-31T09:21:15+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2279"
+      },
+      {
         "title": "[UPDATE] [mittel] vim: Mehrere Schwachstellen ermöglichen Codeausführung",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-31T09:11:08+00:00",
@@ -138,13 +145,6 @@
         "published_at": "2026-08-31T06:40:00+00:00",
         "relevance_score": 9,
         "url": "https://www.twcert.org.tw/tw/cp-104-11170-448bd-1.html"
-      },
-      {
-        "title": "CISA與多國安全機構聯合發布「Gunra」勒索軟體預警通報",
-        "source": "TWCERT/CC Security News RSS",
-        "published_at": "2026-08-31T06:04:00+00:00",
-        "relevance_score": 9,
-        "url": "https://www.twcert.org.tw/tw/cp-104-11168-85a71-1.html"
       }
     ],
     "ai": [

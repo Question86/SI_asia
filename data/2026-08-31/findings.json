@@ -196,6 +196,29 @@
     "id": "ca230daaa41356c30fbe"
   },
   {
+    "title": "[UPDATE] [niedrig] libarchive: Schwachstelle ermöglicht Codeausführung and DoS",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2279",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-08-31T09:21:15+00:00",
+    "fetched_at": "2026-08-31T09:37:06+00:00",
+    "summary": "Ein lokaler Angreifer kann eine Schwachstelle in libarchive ausnutzen, um einen Denial-of-Service-Zustand zu verursachen oder möglicherweise beliebigen Code auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6ab6fc0de38194bf98f7"
+  },
+  {
     "title": "[UPDATE] [mittel] vim: Mehrere Schwachstellen ermöglichen Codeausführung",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1548",
     "source": "BSI CERT-Bund Security Advisories",
