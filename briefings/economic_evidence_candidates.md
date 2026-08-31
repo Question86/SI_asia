@@ -1,6 +1,6 @@
 # Economic Evidence Candidates
 
-Generated: `2026-08-31T06:24:15+00:00`
+Generated: `2026-08-31T06:56:44+00:00`
 
 > Candidates are not accepted evidence and carry no causal attribution.
 
@@ -9,7 +9,14 @@ Generated: `2026-08-31T06:24:15+00:00`
 | `evt_624a2e3ce3ccd3efe095` | 100,000,000,000 | USD | 0.80 | primary_hint | pending |
 | `evt_3cb5980444e3bd7e9296` | 6 | USD | 0.80 | primary_hint | pending |
 | `evt_3cb5980444e3bd7e9296` | 5 | USD | 0.80 | primary_hint | pending |
+| `evt_8652d6841c3b45de4589` | 2,000 | USD | 0.60 | primary_hint | pending |
+| `evt_8652d6841c3b45de4589` | 500 | USD | 0.60 | primary_hint | pending |
+| `evt_8652d6841c3b45de4589` | 50 | USD | 0.60 | primary_hint | pending |
+| `evt_8652d6841c3b45de4589` | 30 | USD | 0.60 | primary_hint | pending |
+| `evt_8652d6841c3b45de4589` | 16 | USD | 0.60 | primary_hint | pending |
+| `evt_8652d6841c3b45de4589` | 10 | USD | 0.60 | primary_hint | pending |
 | `evt_3cb5980444e3bd7e9296` | 5 | USD | 0.60 | primary_hint | pending |
+| `evt_8652d6841c3b45de4589` | 5 | USD | 0.60 | primary_hint | pending |
 | `evt_3cb5980444e3bd7e9296` | 2 | USD | 0.60 | primary_hint | pending |
 | `evt_43856848b80264610146` | 2 | EUR | 0.60 | primary_hint | pending |
 | `evt_43856848b80264610146` | 2 | EUR | 0.60 | primary_hint | pending |
@@ -39,10 +46,3 @@ Generated: `2026-08-31T06:24:15+00:00`
 | `evt_04c8c9515e6d6caa68b7` | 50,000,000 | USD | 0.55 | secondary_or_unknown | pending |
 | `evt_04c8c9515e6d6caa68b7` | 50,000,000 | USD | 0.55 | secondary_or_unknown | pending |
 | `evt_3af8f852f301f8c1d551` | 50,000,000 | USD | 0.55 | secondary_or_unknown | pending |
-| `evt_3af8f852f301f8c1d551` | 50,000,000 | USD | 0.55 | secondary_or_unknown | pending |
-| `evt_311f0e7f9aa49deddda7` | 50,000,000 | USD | 0.55 | secondary_or_unknown | pending |
-| `evt_311f0e7f9aa49deddda7` | 50,000,000 | USD | 0.55 | secondary_or_unknown | pending |
-| `evt_0e0c503e5b9c36c9e578` | 50,000,000 | USD | 0.55 | secondary_or_unknown | pending |
-| `evt_0e0c503e5b9c36c9e578` | 50,000,000 | USD | 0.55 | secondary_or_unknown | pending |
-| `evt_7e2e089070b055a0a3f1` | 50,000,000 | USD | 0.55 | secondary_or_unknown | pending |
-| `evt_7e2e089070b055a0a3f1` | 50,000,000 | USD | 0.55 | secondary_or_unknown | pending |

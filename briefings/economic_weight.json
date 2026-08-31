@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-31T06:24:02+00:00",
+  "generated_at": "2026-08-31T06:56:24+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -122,7 +122,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-31T04:36:22+00:00",
-      "last_seen_at": "2026-08-31T06:23:43+00:00",
+      "last_seen_at": "2026-08-31T06:56:08+00:00",
       "status": "active"
     },
     {
@@ -411,7 +411,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-30T09:38:46+00:00",
-      "last_seen_at": "2026-08-31T06:23:43+00:00",
+      "last_seen_at": "2026-08-31T06:56:08+00:00",
       "status": "active"
     },
     {
@@ -445,7 +445,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-08-31T06:23:43+00:00",
+      "last_seen_at": "2026-08-31T06:56:08+00:00",
       "status": "active"
     },
     {
@@ -517,6 +517,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_5277f8c9783d6a2db3e7",
+      "title": "リコー製Web Image Monitorを実装している複数のレーザープリンタおよび複合機（MFP）におけるオープンリダイレクトの脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 286000.0,
+      "p50_usd": 28600000.0,
+      "p90_usd": 2860000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-08-31T06:56:08+00:00",
+      "last_seen_at": "2026-08-31T06:56:08+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_991fff0a26e90c5ae0c8",
       "title": "綠色運算｜NUMail - OS Command Injection",
       "event_classes": [
@@ -530,7 +547,7 @@
       "p90_usd": 2820000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-08-31T06:23:43+00:00",
+      "last_seen_at": "2026-08-31T06:56:08+00:00",
       "status": "active"
     },
     {
@@ -564,7 +581,7 @@
       "p90_usd": 1232000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
-      "last_seen_at": "2026-08-31T06:23:43+00:00",
+      "last_seen_at": "2026-08-31T06:56:08+00:00",
       "status": "active"
     },
     {
@@ -615,7 +632,7 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-31T03:49:03+00:00",
-      "last_seen_at": "2026-08-31T06:23:43+00:00",
+      "last_seen_at": "2026-08-31T06:56:08+00:00",
       "status": "active"
     },
     {
@@ -717,7 +734,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-31T01:34:58+00:00",
-      "last_seen_at": "2026-08-31T06:23:43+00:00",
+      "last_seen_at": "2026-08-31T06:56:08+00:00",
       "status": "active"
     },
     {
@@ -736,6 +753,23 @@
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-08-28T23:53:26+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_0e0c503e5b9c36c9e578",
+      "title": "Why Japan’s booming AI market is harder to crack than it looks",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 115200.0,
+      "p50_usd": 11520000.0,
+      "p90_usd": 1152000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-08-31T06:23:43+00:00",
+      "last_seen_at": "2026-08-31T06:56:08+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_757d8af70b6d59ba983f",
@@ -770,23 +804,6 @@
       "first_seen_at": "2026-08-30T03:17:26+00:00",
       "last_seen_at": "2026-08-30T23:59:07+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_0e0c503e5b9c36c9e578",
-      "title": "Why Japan’s booming AI market is harder to crack than it looks",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 115200.0,
-      "p50_usd": 11520000.0,
-      "p90_usd": 1152000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-08-31T06:23:43+00:00",
-      "last_seen_at": "2026-08-31T06:23:43+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_2c69a25a18b9b812a5b5",
@@ -836,7 +853,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-31T02:35:07+00:00",
-      "last_seen_at": "2026-08-31T06:23:43+00:00",
+      "last_seen_at": "2026-08-31T06:56:08+00:00",
       "status": "active"
     },
     {
@@ -870,7 +887,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-31T02:09:37+00:00",
-      "last_seen_at": "2026-08-31T06:23:43+00:00",
+      "last_seen_at": "2026-08-31T06:56:08+00:00",
       "status": "active"
     },
     {
@@ -905,7 +922,7 @@
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-08-31T06:23:43+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_19889d988e0d2d018cbf",
@@ -921,7 +938,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-31T04:36:22+00:00",
-      "last_seen_at": "2026-08-31T06:23:43+00:00",
+      "last_seen_at": "2026-08-31T06:56:08+00:00",
       "status": "active"
     },
     {
@@ -955,7 +972,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-31T04:36:22+00:00",
-      "last_seen_at": "2026-08-31T06:23:43+00:00",
+      "last_seen_at": "2026-08-31T06:56:08+00:00",
       "status": "active"
     },
     {
@@ -1057,7 +1074,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-31T01:34:58+00:00",
-      "last_seen_at": "2026-08-31T06:23:43+00:00",
+      "last_seen_at": "2026-08-31T06:56:08+00:00",
       "status": "active"
     },
     {
@@ -1091,7 +1108,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-31T03:36:59+00:00",
-      "last_seen_at": "2026-08-31T06:23:43+00:00",
+      "last_seen_at": "2026-08-31T06:56:08+00:00",
       "status": "active"
     },
     {
@@ -1142,7 +1159,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-31T04:36:22+00:00",
-      "last_seen_at": "2026-08-31T06:23:43+00:00",
+      "last_seen_at": "2026-08-31T06:56:08+00:00",
       "status": "active"
     },
     {
@@ -1210,7 +1227,24 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-31T04:56:33+00:00",
-      "last_seen_at": "2026-08-31T06:23:43+00:00",
+      "last_seen_at": "2026-08-31T06:56:08+00:00",
+      "status": "active"
+    },
+    {
+      "event_id": "evt_8652d6841c3b45de4589",
+      "title": "unclecode/crawl4ai",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-08-31T06:56:08+00:00",
+      "last_seen_at": "2026-08-31T06:56:08+00:00",
       "status": "active"
     },
     {
@@ -1228,7 +1262,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-31T06:23:43+00:00",
       "last_seen_at": "2026-08-31T06:23:43+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_fdf22df040ccf2aa1416",
@@ -1245,6 +1279,40 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-31T06:23:43+00:00",
       "last_seen_at": "2026-08-31T06:23:43+00:00",
+      "status": "dormant"
+    },
+    {
+      "event_id": "evt_46ad72fcf2259d7d169d",
+      "title": "松本デジタル大臣が米国を訪問しました",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108800.0,
+      "p50_usd": 10880000.0,
+      "p90_usd": 1088000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-08-31T06:56:08+00:00",
+      "last_seen_at": "2026-08-31T06:56:08+00:00",
+      "status": "active"
+    },
+    {
+      "event_id": "evt_84d3f3201f12e5d043dc",
+      "title": "行政手続における特定の個人を識別するための番号の利用等に関する法律に規定する個人番号、個人番号カード、特定個人情報の提供等に関する命令の一部を改正する命令（案）及び個人番号カード等に関する技術的基準の一部を改正する件（案）に係る意見募集を行います",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108800.0,
+      "p50_usd": 10880000.0,
+      "p90_usd": 1088000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-08-31T06:56:08+00:00",
+      "last_seen_at": "2026-08-31T06:56:08+00:00",
       "status": "active"
     },
     {
@@ -1670,7 +1738,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-31T06:23:43+00:00",
       "last_seen_at": "2026-08-31T06:23:43+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_369ed4c57635e2a534e3",
