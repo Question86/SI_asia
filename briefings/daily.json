@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T13:33:21+00:00",
-  "today_file_total": 77,
+  "generated_at": "2026-08-31T13:43:12+00:00",
+  "today_file_total": 79,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -148,6 +148,29 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
+      "network_score": 17.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:www.ecb.europa.eu",
+      "title": "Announcing 20260077 (MRO,liquidity providing), for 7 days deadline 09:30",
+      "sources": [
+        "ECB Open Market Operations and Communication"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "http://www.ecb.europa.eu/mopo/implement/omo/html/20260077.en.html"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
       "network_score": 17.1,
       "hot": false,
       "watchgraph_modules": [],
@@ -415,6 +438,30 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
+      "key": "domain:togetter.com",
+      "title": "暗証番号、わかる気がするッ！！「あっ、あるえ、なぜか分かるぞ桁数や順番まで😇」「4桁だとしたら日本人ならこの24通りも一発で当てられるな」",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://togetter.com/li/2739554",
+        "https://togetter.com/li/2739484"
+      ],
+      "finding_count": 2,
+      "max_score": 5,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 12.2,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "title:southeast-asia-does-not-have-one-advantage-has",
       "title": "Southeast Asia does not have one AI advantage – it has 11",
       "sources": [
@@ -436,52 +483,6 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:swot-not-boring-you-are-just-using-too",
-      "title": "SWOT is not boring; you are just using it too late",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/swot-is-not-boring-you-are-just-using-it-too-late-20260821/"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 12.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "domain:www.bis.org",
-      "title": "AI and monetary policy",
-      "sources": [
-        "BIS Central Bankers Speeches"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.bis.org/speeches/20260817-ai-and-monetary-policy"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 12.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
     }
   ]
 }

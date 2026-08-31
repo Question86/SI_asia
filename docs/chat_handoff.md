@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-08-31T13:33:17+00:00_
+_Generated: 2026-08-31T13:43:09+00:00_
 
 ## Status
 - status: `warning`
-- findings: `77`
+- findings: `79`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-08-31T13:33:17+00:00_
 - url: https://jvn.jp/jp/JVN65118274/
 - summary: リコー製Web Image Monitorを実装している複数のレーザープリンタおよび複合機（MFP）には、オープンリダイレクトの脆弱性が存在します。
 
-### 7. OpenAIが数万台のMac miniとMac Studioを買い占め
+### 7. Announcing 20260077 (MRO,liquidity providing), for 7 days deadline 09:30
+- source: ECB Open Market Operations and Communication
+- score: `12`
+- published: `2026-08-31T14:40:20+00:00`
+- url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260077.en.html
+- summary: Announcing 20260077 (MRO,liquidity providing), for 7 days deadline 09:30
+
+### 8. OpenAIが数万台のMac miniとMac Studioを買い占め
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
 - published: `2026-08-31T03:28:11+00:00`
 - url: https://gigazine.net/news/20260831-openai-tens-of-thousands-apple-mac-mini-studio/
 - summary: メモリ不足によりメモリ価格が高騰しており、一般消費者はほとんど市場から締め出されている状況ですが、AIワークロードに適したマシンは飛ぶように売れています。AI企業のOpenAIは数万台のMac miniやMac Studioを買い占めていることが、報道により明らかになりました。 OpenAI Hoarding Tens Of Thousands Of Apple Mac...
-
-### 8. Southeast Asia is not one market; it’s five economies moving at different speeds
-- source: e27 Asia Startup and Tech Feed
-- score: `12`
-- published: `2026-08-31T02:30:44+00:00`
-- url: https://e27.co/southeast-asia-is-not-one-market-its-five-economies-moving-at-different-speeds-20260828/
-- summary: Most market entry decks still open with a single number. Southeast Asia, 680 million people, one giant addressable market. From where we sit, running teams across Singapore, Tokyo, and New York, that framing is where a lot of expansion budgets quietly go to d…
 
 END OF DOCUMENT

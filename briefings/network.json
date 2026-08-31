@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-08-31T13:33:21+00:00",
+  "generated_at": "2026-08-31T13:43:12+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 77,
-    "clusters": 45,
+    "findings": 79,
+    "clusters": 46,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 0,
-    "dominance_penalized": 6
+    "dominance_penalized": 7
   },
   "clusters": [
     {
@@ -329,6 +329,45 @@
       "first_seen_at": "2026-08-31T06:56:08+00:00"
     },
     {
+      "key": "domain:www.ecb.europa.eu",
+      "title": "Announcing 20260077 (MRO,liquidity providing), for 7 days deadline 09:30",
+      "sources": [
+        "ECB Open Market Operations and Communication"
+      ],
+      "source_classes": [
+        "central_bank",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "http://www.ecb.europa.eu/mopo/implement/omo/html/20260077.en.html"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 14.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 17.1,
+      "ranking_score": 14.5,
+      "initial_reach_tier": "institutional",
+      "source_reach_score": 5.0,
+      "authority_bonus_capped": 3.0,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
       "key": "earthquake:philippines:4.9",
       "title": "M 4.9 - 13 km SSE of Union, Philippines",
       "sources": [
@@ -619,18 +658,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 12.26,
+      "network_score": 12.2,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 16.3,
-      "ranking_score": 12.26,
+      "ranking_score": 12.2,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.76,
+      "baseline_bonus": 0.7,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -755,6 +794,45 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-08-31T12:13:30+00:00"
+    },
+    {
+      "key": "domain:togetter.com",
+      "title": "暗証番号、わかる気がするッ！！「あっ、あるえ、なぜか分かるぞ桁数や順番まで😇」「4桁だとしたら日本人ならこの24通りも一発で当てられるな」",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://togetter.com/li/2739554",
+        "https://togetter.com/li/2739484"
+      ],
+      "finding_count": 2,
+      "max_score": 5,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.15,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 12.2,
+      "ranking_score": 10.15,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 1.15,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T12:31:48+00:00"
     },
     {
       "key": "domain:www.bis.org",
@@ -1296,44 +1374,6 @@
       "first_seen_at": "2026-08-31T07:39:56+00:00"
     },
     {
-      "key": "domain:togetter.com",
-      "title": "パソコン買うの今は時期が悪いおじさん達が「今買え！」って言ってたあの時期って、本当にあそこしかなかったんだって気づいた",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://togetter.com/li/2739484"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 6.5,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 7.1,
-      "ranking_score": 6.5,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-19T12:31:48+00:00"
-    },
-    {
       "key": "domain:techfeed.io",
       "title": "Claudeに「4人のシニアエンジニア」を演じさせてアプリをレビューさせたら、67倍の高速化を達成しながら「この最適化は不要」と結論づけた",
       "sources": [
@@ -1754,7 +1794,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-08-31T13:33:21Z",
+    "generated_at": "2026-08-31T13:43:13Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
