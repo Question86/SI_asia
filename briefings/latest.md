@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-08-31T14:59:16+00:00_
+_Generiert: 2026-08-31T15:20:50+00:00_
 
 ## Kurzlage
 
@@ -11,12 +11,12 @@ _Generiert: 2026-08-31T14:59:16+00:00_
 
 - **CISA KEV: CVE-2026-82078 PaperCut NG/MF** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
-  - Zeit: `2026-08-28`
-  - Kurz: Known exploited vulnerability. Added 2026-08-28. Due 2026-09-11. PaperCut NG/MF Unsafe Reflection Vulnerability
+  - Zeit: `2026-08-31`
+  - Kurz: Known exploited vulnerability. Added 2026-08-31. Due 2026-09-14. PaperCut NG/MF Unsafe Reflection Vulnerability
 - **CISA KEV: CVE-2026-81578 PaperCut NG/MF** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
-  - Zeit: `2026-08-28`
-  - Kurz: Known exploited vulnerability. Added 2026-08-28. Due 2026-09-11. PaperCut NG/MF Missing Authentication for Critical Function Vulnerability
+  - Zeit: `2026-08-31`
+  - Kurz: Known exploited vulnerability. Added 2026-08-31. Due 2026-09-14. PaperCut NG/MF Missing Authentication for Critical Function Vulnerability
 - **CISA KEV: CVE-2023-49105 ownCloud ownCloud** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-08-27`
