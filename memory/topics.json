@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-31T11:40:08+00:00",
+  "generated_at": "2026-08-31T11:48:02+00:00",
   "topics": {
     "general": [
       {
@@ -140,11 +140,11 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3042"
       },
       {
-        "title": "[NEU] [mittel] IBM DataPower Gateway: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] PJSIP: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-31T11:21:05+00:00",
+        "published_at": "2026-08-31T11:41:05+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3098"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3100"
       }
     ],
     "geopolitics": [
@@ -198,6 +198,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3078"
       },
       {
+        "title": "[NEU] [mittel] PJSIP: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-31T11:41:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3100"
+      },
+      {
         "title": "[NEU] [mittel] IBM DataPower Gateway: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-08-31T11:21:05+00:00",
@@ -210,13 +217,6 @@
         "published_at": "2026-08-31T11:16:06+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3097"
-      },
-      {
-        "title": "[NEU] [mittel] rsyslog: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-08-31T11:16:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3094"
       }
     ],
     "ai": [

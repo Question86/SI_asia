@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T11:40:08+00:00",
-  "run_id": "2026-08-31T11:40:08+00:00",
+  "generated_at": "2026-08-31T11:48:02+00:00",
+  "run_id": "2026-08-31T11:48:02+00:00",
   "date": "2026-08-31",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 71
+      "configured_public_sources_only": 72
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 71,
-    "displayed_findings": 71,
+    "new_relevant_findings": 1,
+    "today_file_total": 72,
+    "displayed_findings": 72,
     "high": 0,
-    "medium": 34,
+    "medium": 35,
     "observe": 37,
     "source_errors": 1
   },
@@ -392,6 +392,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "ca230daaa41356c30fbe"
+      },
+      {
+        "title": "[NEU] [mittel] PJSIP: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3100",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-08-31T11:41:05+00:00",
+        "fetched_at": "2026-08-31T11:47:30+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in PJSIP ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "4592d18f3de17cbbefac"
       },
       {
         "title": "[NEU] [mittel] IBM DataPower Gateway: Mehrere Schwachstellen",
@@ -2099,6 +2122,29 @@
       "id": "ca230daaa41356c30fbe"
     },
     {
+      "title": "[NEU] [mittel] PJSIP: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3100",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-08-31T11:41:05+00:00",
+      "fetched_at": "2026-08-31T11:47:30+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in PJSIP ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4592d18f3de17cbbefac"
+    },
+    {
       "title": "[NEU] [mittel] IBM DataPower Gateway: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3098",
       "source": "BSI CERT-Bund Security Advisories",
@@ -3437,49 +3483,27 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [UNGEPATCHT] [mittel] Red Hat Undertow: Schwachstelle ermöglicht Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3099",
+      "title": "[NEU] [mittel] PJSIP: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3100",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-08-31T11:36:05+00:00",
-      "fetched_at": "2026-08-31T11:39:38+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Undertow ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "published_at": "2026-08-31T11:41:05+00:00",
+      "fetched_at": "2026-08-31T11:47:30+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in PJSIP ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
-        "Patch",
         "Schwachstelle",
         "Security"
       ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "7a50d1fc740c767e5b9f"
-    },
-    {
-      "title": "M5 Max搭載MacBook Proは付属140Wでは足りず毎時12%放電 - iPhone Mania",
-      "url": "https://iphone-mania.jp/mac-605087/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-31T07:14:25+00:00",
-      "fetched_at": "2026-08-31T11:39:38+00:00",
-      "summary": "Appleの最上位ノートPCであるM5 Max搭載のMacBook Pro（16インチ）が、付属する140Wの電源アダプタでは高負荷時に電力をまかないきれないと、海外の検証メディアNotebookCheckが報告しました。CPUとGPUをフルに動かすと本体の消費電力が付属アダプタの供給を上回り、不足分を内蔵バッテリーが補うことになります。 付属1...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "26650f897ee5705b4ee2"
+      "id": "4592d18f3de17cbbefac"
     }
   ],
   "source_errors": [
