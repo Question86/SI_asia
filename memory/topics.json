@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-08-31T08:56:29+00:00",
+  "generated_at": "2026-08-31T09:18:12+00:00",
   "topics": {
     "general": [
       {
@@ -91,6 +91,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3042"
       },
       {
+        "title": "[UPDATE] [mittel] vim: Mehrere Schwachstellen ermöglichen Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-08-31T09:11:08+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1548"
+      },
+      {
         "title": "惡意npm攻擊再進化！駭客利用區塊鏈隱藏C2位址",
         "source": "TWCERT/CC Security News RSS",
         "published_at": "2026-08-31T06:23:00+00:00",
@@ -138,13 +145,6 @@
         "published_at": "2026-08-31T06:04:00+00:00",
         "relevance_score": 9,
         "url": "https://www.twcert.org.tw/tw/cp-104-11168-85a71-1.html"
-      },
-      {
-        "title": "Exchange-Sicherheitslücke: 85 Prozent der On-Prem-Server in Deutschland anfällig",
-        "source": "heise Security Alerts",
-        "published_at": "2026-08-31T06:01:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Exchange-Sicherheitsluecke-85-Prozent-der-On-Prem-Server-in-Deutschland-anfaellig-11434785.html"
       }
     ],
     "ai": [

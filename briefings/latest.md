@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-08-31T08:56:29+00:00_
+_Generiert: 2026-08-31T09:18:12+00:00_
 
 ## Kurzlage
 
-42 neue relevante Treffer. Stärkstes Signal: „M 5.5 - 44 km NNE of Ruteng, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+43 neue relevante Treffer. Stärkstes Signal: „M 5.5 - 44 km NNE of Ruteng, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -53,10 +53,6 @@ _Generiert: 2026-08-31T08:56:29+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Orange earthquake (Magnitude 5M, Depth:10km) in China 28/08/2026 05:13 UTC, 15.8 million in 100km.
-- **USGS earthquake M5.5 - 44 km NNE of Ruteng, Indonesia** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2z)
-  - Quelle: USGS
-  - Zeit: `2026-08-31T08:03:28+00:00`
-  - Kurz: M5.5 - 44 km NNE of Ruteng, Indonesia. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -127,6 +123,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Reputationsrisiko (+7.0); recent (+1.0)
   - Kurz: The environmental debate around AI is often placed in the sustainability section of the company, where it becomes a reporting matter, a disclosure matter, or a reputational matter. By the time it gets there, most of the important decisions have already been made. The environmental impact of AI is not shaped mainly by the annual […] The post The environmental ethics of AI should be a product decision, not a sustainab…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [mittel] vim: Mehrere Schwachstellen ermöglichen Codeausführung** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1548)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-08-31T09:11:08+00:00`, fetched `2026-08-31T09:17:36+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in vim ausnutzen, um beliebigen Programmcode auszuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **惡意npm攻擊再進化！駭客利用區塊鏈隱藏C2位址** — Score 14, risk — [Quelle](https://www.twcert.org.tw/tw/cp-104-11169-7cb52-1.html)
   - Quelle: TWCERT/CC Security News RSS / `rss`
   - Zeit: published `2026-08-31T06:23:00+00:00`, fetched `2026-08-31T06:55:19+00:00`
@@ -136,15 +141,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); Climate/Disaster Infrastructure (+5.0); TWCERT (+2.0); recent (+1.0)
   - Kurz: 資安社群平臺OpenSourceMalware近期發現兩個遭植入木馬的npm套件「bianira-ui」與「fluid-type-ui」，其攻擊流程不同於傳統的EtherHiding資料隱匿方式，研究人員將這項技術命名為 NullReceiver，並認為此次攻擊可能與北韓駭客組織相關。EtherHiding屬於一種Dead Drop Resolver（DDR）技術，是指攻擊者將惡意中繼站（C2）放置在合法的第三方平台（如GitHub、Pastebin等），若攻擊者選擇將C2資訊隱藏於區塊鏈上，則被稱為EtherHiding。 「EtherHiding」一詞最早由Guardio Labs於2023年10月提出，Google也在 2025年10月的官方報告中指出，發現國家級攻擊組織開始採用這項手法，並將相關活動歸因於北韓背景的攻擊者。 傳統的EtherHiding手法，通常是將攻擊者欲隱藏的惡意指令或C2寫入區塊鏈交易的 inpu…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [hoch] IBM Concert: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3046)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-08-31T06:12:03+00:00`, fetched `2026-08-31T06:23:01+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in IBM Concert ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren, um einen Cross-Site Scripting Angriff durchzuführen, um einen SQL-Injection Angriff durchzuführen und um Sicherheitsvorkehrungen zu umgehen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Why Japan’s booming AI market is harder to crack than it looks** — Score 14, opportunity — [Quelle](https://e27.co/why-japans-booming-ai-market-is-harder-to-crack-than-it-looks-20260831/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-08-31T05:57:31+00:00`, fetched `2026-08-31T06:23:01+00:00`
