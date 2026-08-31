@@ -40,5 +40,111 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “「数万曲の歌詞を生成ＡＩが無断学習」…ソニーＧ傘下の音楽出版など３５社、アンソロピックとＣＥＯらを提訴（読売新聞オンライン） - Yahoo!ニュース” — Die Dynamik wirkt aktuell wie Hintergrundrauschen. Band=quiet, score=11.5.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "「数万曲の歌詞を生成ＡＩが無断学習」…ソニーＧ傘下の音楽出版など３５社、アンソロピックとＣＥＯらを提訴（読売新聞オンライン） - Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/articles/2490663bdfd440b8083dc2af35532a6817f85681",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-31T00:59:38+00:00",
+        "age_days": 0.01,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 11.5,
+        "raw_band": "quiet",
+        "dynamic_band": "quiet",
+        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 1,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +1"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "AIに機密情報を渡してよいか、判断の軸を自分なりに整理してみた - $shibayu36->blog;",
+        "url": "https://blog.shibayu36.org/entry/2026/08/30/173000",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-30T02:26:46+00:00",
+        "age_days": 0.95,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 6.0,
+        "raw_band": "quiet",
+        "dynamic_band": "quiet",
+        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": true,
+        "why": [
+          "momentum delta +3",
+          "single-source AI hype brake -8.0"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "「数万曲の歌詞を生成ＡＩが無断学習」…ソニーＧ傘下の音楽出版など３５社、アンソロピックとＣＥＯらを提訴（読売新聞オンライン） - Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/articles/2490663bdfd440b8083dc2af35532a6817f85681",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-30T23:10:19+00:00",
+        "age_days": 0.09,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 5.0,
+        "raw_band": "quiet",
+        "dynamic_band": "quiet",
+        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "no strong comparative reason"
+        ],
+        "summary": "【ニューヨーク＝木瀬武】ソニーグループ傘下の音楽出版大手など３５社は、数万曲の歌詞を無断で生成ＡＩ（人工知能）の学習に利用した行為などが著作権侵害にあたるとして、米ＡＩ開発企業アンソロピックと同社のダリオ・アモデイ最高経営責任者（ＣＥＯ）ら創業者２人を米カリフォルニア州の連邦地方裁判所に提訴した..."
+      },
+      {
+        "title": "AIに機密情報を渡してよいか、判断の軸を自分なりに整理してみた - $shibayu36->blog;",
+        "url": "https://blog.shibayu36.org/entry/2026/08/30/173000",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-08-30T10:55:51+00:00",
+        "age_days": 0.6,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 0,
+        "raw_band": "quiet",
+        "dynamic_band": "quiet",
+        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": true,
+        "why": [
+          "single-source AI hype brake -8.0"
+        ],
+        "summary": "社内業務でAIを使うとき、機密情報をAIに渡してよいか判断に迷うことが多い。世の中では「個人情報だからAI禁止」「学習OFFだから安全」のような単純な線引きも見かけるが、これでは安全側に倒しすぎて活用が進まなかったり、逆に思わぬ穴があったりして違和感があった。 そこで自分なりに判断の軸を整理し、「許可して..."
+      }
+    ]
+  }
 }

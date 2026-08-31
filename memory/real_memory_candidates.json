@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-08-31T00:40:20Z",
+  "generated_at": "2026-08-31T01:16:02Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -21,46 +21,5 @@
       "text": "Security terms such as actively exploited, unauthenticated RCE, CVSS 9.8/10, domain controller, firewall, VPN, Ivanti, PAN-OS, Exchange should outrank AI hype when exposure is plausible."
     }
   ],
-  "current_dynamic_memory_candidates": [
-    {
-      "title": "tailscale/tailcat",
-      "band": "krass",
-      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
-    },
-    {
-      "title": "「スタートアップだから」が通用しない、大手製造業向けSaaSのAWSセキュリティ設計",
-      "band": "strong",
-      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
-    },
-    {
-      "title": "tailscale/tailcat",
-      "band": "strong",
-      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
-    },
-    {
-      "title": "M 4.6 - 52 km NNE of Ruteng, Indonesia",
-      "band": "strong",
-      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
-    },
-    {
-      "title": "M 4.9 - 76 km WNW of Bengkulu, Indonesia",
-      "band": "strong",
-      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
-    },
-    {
-      "title": "M 4.9 - 76 km WNW of Bengkulu, Indonesia",
-      "band": "strong",
-      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
-    },
-    {
-      "title": "THU-MAIC/OpenMAIC",
-      "band": "strong",
-      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
-    },
-    {
-      "title": "ガチ中華の名店「味坊」が茨城になぜか「町中華」、料理人不足解決へロボットシェフ導入 - 36Kr Japan | 最大級の中国テック・スタートアップ専門メディア",
-      "band": "strong",
-      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
-    }
-  ]
+  "current_dynamic_memory_candidates": []
 }
