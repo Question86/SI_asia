@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-31T00:59:29+00:00",
-  "run_id": "2026-08-31T00:59:29+00:00",
+  "generated_at": "2026-08-31T01:34:55+00:00",
+  "run_id": "2026-08-31T01:34:55+00:00",
   "date": "2026-08-31",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 2
+      "configured_public_sources_only": 5
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,18 +18,62 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 2,
-    "displayed_findings": 2,
+    "new_relevant_findings": 3,
+    "today_file_total": 5,
+    "displayed_findings": 5,
     "high": 0,
-    "medium": 0,
-    "observe": 2,
-    "source_errors": 2
+    "medium": 1,
+    "observe": 4,
+    "source_errors": 1
   },
   "sections": {
     "high": [],
-    "medium": [],
+    "medium": [
+      {
+        "title": "The environmental ethics of AI should be a product decision, not a sustainability footnote",
+        "url": "https://e27.co/the-environmental-ethics-of-ai-should-be-a-product-decision-not-a-sustainability-footnote-20260809/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-31T01:00:41+00:00",
+        "fetched_at": "2026-08-31T01:34:26+00:00",
+        "summary": "The environmental debate around AI is often placed in the sustainability section of the company, where it becomes a reporting matter, a disclosure matter, or a reputational matter. By the time it gets there, most of the important decisions have already been made. The environmental impact of AI is not shaped mainly by the annual […] The post The environmental ethics of AI should be a product decision, not a sustainab…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Reputationsrisiko"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Reputationsrisiko (+7.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ca230daaa41356c30fbe"
+      }
+    ],
     "observe": [
+      {
+        "title": "SWOT is not boring; you are just using it too late",
+        "url": "https://e27.co/swot-is-not-boring-you-are-just-using-it-too-late-20260821/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-08-31T01:15:59+00:00",
+        "fetched_at": "2026-08-31T01:34:26+00:00",
+        "summary": "Strengths. Weaknesses. Opportunities. Threats. Someone fills four boxes with familiar phrases, takes a photo, and never looks at it again. That is not a strategy framework. It is office wallpaper. Used at the right time, however, frameworks such as 5W1H, SWOT, and PESTLE can help a person avoid one of the most expensive mistakes in […] The post SWOT is not boring; you are just using it too late appeared first on e27…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Markets/Capital Structure"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "14a3079706689bfa9c36"
+      },
       {
         "title": "「数万曲の歌詞を生成ＡＩが無断学習」…ソニーＧ傘下の音楽出版など３５社、アンソロピックとＣＥＯらを提訴（読売新聞オンライン） - Yahoo!ニュース",
         "url": "https://news.yahoo.co.jp/articles/2490663bdfd440b8083dc2af35532a6817f85681",
@@ -50,6 +94,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "e4395c15f88a34380533"
+      },
+      {
+        "title": "【独自】Jアラート「偽の警報可能」 専門家、発信元保証なし",
+        "url": "https://www.47news.jp/14868281.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-08-30T12:11:27+00:00",
+        "fetched_at": "2026-08-31T01:34:26+00:00",
+        "summary": "弾道ミサイル発射や緊急地震速報などの緊急情報を全国の自治体に送信する全国瞬時警報システム（Jアラート）で、人工衛星を経由して送信されるデータの暗号化や発信元を保証する機能がないことが30日、専門家への取材で分かった。総務省関係者も認めた。専門家は「第三者が成り済まして偽の警報を送信することが可能」と...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "edcf952ceb01dfda6e21"
       },
       {
         "title": "AIに機密情報を渡してよいか、判断の軸を自分なりに整理してみた - $shibayu36->blog;",
@@ -76,6 +141,49 @@
   },
   "findings": [
     {
+      "title": "The environmental ethics of AI should be a product decision, not a sustainability footnote",
+      "url": "https://e27.co/the-environmental-ethics-of-ai-should-be-a-product-decision-not-a-sustainability-footnote-20260809/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-31T01:00:41+00:00",
+      "fetched_at": "2026-08-31T01:34:26+00:00",
+      "summary": "The environmental debate around AI is often placed in the sustainability section of the company, where it becomes a reporting matter, a disclosure matter, or a reputational matter. By the time it gets there, most of the important decisions have already been made. The environmental impact of AI is not shaped mainly by the annual […] The post The environmental ethics of AI should be a product decision, not a sustainab…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Reputationsrisiko"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Reputationsrisiko (+7.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ca230daaa41356c30fbe"
+    },
+    {
+      "title": "SWOT is not boring; you are just using it too late",
+      "url": "https://e27.co/swot-is-not-boring-you-are-just-using-it-too-late-20260821/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-31T01:15:59+00:00",
+      "fetched_at": "2026-08-31T01:34:26+00:00",
+      "summary": "Strengths. Weaknesses. Opportunities. Threats. Someone fills four boxes with familiar phrases, takes a photo, and never looks at it again. That is not a strategy framework. It is office wallpaper. Used at the right time, however, frameworks such as 5W1H, SWOT, and PESTLE can help a person avoid one of the most expensive mistakes in […] The post SWOT is not boring; you are just using it too late appeared first on e27…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Markets/Capital Structure"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "14a3079706689bfa9c36"
+    },
+    {
       "title": "「数万曲の歌詞を生成ＡＩが無断学習」…ソニーＧ傘下の音楽出版など３５社、アンソロピックとＣＥＯらを提訴（読売新聞オンライン） - Yahoo!ニュース",
       "url": "https://news.yahoo.co.jp/articles/2490663bdfd440b8083dc2af35532a6817f85681",
       "source": "Hatena Bookmark Hotentry IT",
@@ -95,6 +203,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "e4395c15f88a34380533"
+    },
+    {
+      "title": "【独自】Jアラート「偽の警報可能」 専門家、発信元保証なし",
+      "url": "https://www.47news.jp/14868281.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-08-30T12:11:27+00:00",
+      "fetched_at": "2026-08-31T01:34:26+00:00",
+      "summary": "弾道ミサイル発射や緊急地震速報などの緊急情報を全国の自治体に送信する全国瞬時警報システム（Jアラート）で、人工衛星を経由して送信されるデータの暗号化や発信元を保証する機能がないことが30日、専門家への取材で分かった。総務省関係者も認めた。専門家は「第三者が成り済まして偽の警報を送信することが可能」と...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "edcf952ceb01dfda6e21"
     },
     {
       "title": "AIに機密情報を渡してよいか、判断の軸を自分なりに整理してみた - $shibayu36->blog;",
@@ -120,34 +249,56 @@
   ],
   "new_findings": [
     {
-      "title": "「数万曲の歌詞を生成ＡＩが無断学習」…ソニーＧ傘下の音楽出版など３５社、アンソロピックとＣＥＯらを提訴（読売新聞オンライン） - Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/2490663bdfd440b8083dc2af35532a6817f85681",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "The environmental ethics of AI should be a product decision, not a sustainability footnote",
+      "url": "https://e27.co/the-environmental-ethics-of-ai-should-be-a-product-decision-not-a-sustainability-footnote-20260809/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-08-30T23:10:19+00:00",
-      "fetched_at": "2026-08-31T00:58:52+00:00",
-      "summary": "【ニューヨーク＝木瀬武】ソニーグループ傘下の音楽出版大手など３５社は、数万曲の歌詞を無断で生成ＡＩ（人工知能）の学習に利用した行為などが著作権侵害にあたるとして、米ＡＩ開発企業アンソロピックと同社のダリオ・アモデイ最高経営責任者（ＣＥＯ）ら創業者２人を米カリフォルニア州の連邦地方裁判所に提訴した...",
+      "published_at": "2026-08-31T01:00:41+00:00",
+      "fetched_at": "2026-08-31T01:34:26+00:00",
+      "summary": "The environmental debate around AI is often placed in the sustainability section of the company, where it becomes a reporting matter, a disclosure matter, or a reputational matter. By the time it gets there, most of the important decisions have already been made. The environmental impact of AI is not shaped mainly by the annual […] The post The environmental ethics of AI should be a product decision, not a sustainab…",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "AI/KI",
+        "APAC Trend Radar",
+        "Reputationsrisiko"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 15,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Reputationsrisiko (+7.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "e4395c15f88a34380533"
+      "id": "ca230daaa41356c30fbe"
     },
     {
-      "title": "AIに機密情報を渡してよいか、判断の軸を自分なりに整理してみた - $shibayu36->blog;",
-      "url": "https://blog.shibayu36.org/entry/2026/08/30/173000",
+      "title": "SWOT is not boring; you are just using it too late",
+      "url": "https://e27.co/swot-is-not-boring-you-are-just-using-it-too-late-20260821/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-08-31T01:15:59+00:00",
+      "fetched_at": "2026-08-31T01:34:26+00:00",
+      "summary": "Strengths. Weaknesses. Opportunities. Threats. Someone fills four boxes with familiar phrases, takes a photo, and never looks at it again. That is not a strategy framework. It is office wallpaper. Used at the right time, however, frameworks such as 5W1H, SWOT, and PESTLE can help a person avoid one of the most expensive mistakes in […] The post SWOT is not boring; you are just using it too late appeared first on e27…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Markets/Capital Structure"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "14a3079706689bfa9c36"
+    },
+    {
+      "title": "【独自】Jアラート「偽の警報可能」 専門家、発信元保証なし",
+      "url": "https://www.47news.jp/14868281.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-30T10:55:51+00:00",
-      "fetched_at": "2026-08-31T00:58:52+00:00",
-      "summary": "社内業務でAIを使うとき、機密情報をAIに渡してよいか判断に迷うことが多い。世の中では「個人情報だからAI禁止」「学習OFFだから安全」のような単純な線引きも見かけるが、これでは安全側に倒しすぎて活用が進まなかったり、逆に思わぬ穴があったりして違和感があった。 そこで自分なりに判断の軸を整理し、「許可して...",
+      "published_at": "2026-08-30T12:11:27+00:00",
+      "fetched_at": "2026-08-31T01:34:26+00:00",
+      "summary": "弾道ミサイル発射や緊急地震速報などの緊急情報を全国の自治体に送信する全国瞬時警報システム（Jアラート）で、人工衛星を経由して送信されるデータの暗号化や発信元を保証する機能がないことが30日、専門家への取材で分かった。総務省関係者も認めた。専門家は「第三者が成り済まして偽の警報を送信することが可能」と...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -159,16 +310,10 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "406c2e78bcf8207630f3"
+      "id": "edcf952ceb01dfda6e21"
     }
   ],
   "source_errors": [
-    {
-      "source_id": "google_trends_japan_hot",
-      "source_name": "Google Trends Japan Hot Feed",
-      "source_type": "rss",
-      "error": "500 Server Error: Internal Server Error for url: https://trends.google.co.jp/trending/rss?geo=JP"
-    },
     {
       "source_id": "bis_statistics",
       "source_name": "BIS Statistical Releases",
