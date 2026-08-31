@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-08-31T08:31:38+00:00`
+Generated: `2026-08-31T08:48:26+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -21,6 +21,7 @@ Generated: `2026-08-31T08:31:38+00:00`
 | AIお姉ちゃんへの道（2026年版） - nomolkのブログ | $0 | — | 0 | 0 | dormant |
 | Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される | $0 | — | 0 | 0 | active |
 | Claude Codeの設計詰めスキル『grilling』の紹介 | $0 | — | 0 | 0 | dormant |
+| Southeast Asia startup funding finds a floor, but not a rebound | $0 | — | 0 | 0 | active |
 | M 4.7 - 62 km SSE of Palca, Peru | $0 | — | 0 | 0 | dormant |
 | Thailand’s AI startup push gets OpenAI backing through new public-private accelerator | $0 | — | 0 | 0 | active |
 | curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？ | $0 | — | 0 | 0 | dormant |
@@ -28,4 +29,3 @@ Generated: `2026-08-31T08:31:38+00:00`
 | 「数万曲の歌詞を生成ＡＩが無断学習」…ソニーＧ傘下の音楽出版など３５社、アンソロピックとＣＥＯらを提訴（読売新聞オンライン） - Yahoo!ニュース | $0 | — | 0 | 0 | dormant |
 | ベテランエンジニアのPRレビュー187件を分類してみたら、バグは5件に1件しか指摘されていなかった - Qiita | $0 | — | 0 | 0 | dormant |
 | AI is changing global expansion, but it cannot standardise local markets | $0 | — | 0 | 0 | active |
-| bilawalsidhu/gods-eye-view | $0 | — | 0 | 0 | dormant |
