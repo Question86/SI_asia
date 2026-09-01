@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-09-01T20:58:09+00:00`
+Generated: `2026-09-01T21:16:34+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -23,7 +23,7 @@ Generated: `2026-09-01T20:58:09+00:00`
 | 知人がものの数分で設定したという、高齢のお父さん用iPhone…ここまで潔いのはなかなか見かけない「視覚支援だ～」「これはめっちゃわかりやすい」 | $0 | — | 0 | 0 | dormant |
 | M 4.8 - 110 km E of Miyako, Japan | $0 | — | 0 | 0 | dormant |
 | AIお姉ちゃんへの道（2026年版） - nomolkのブログ | $0 | — | 0 | 0 | dormant |
-| Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される | $0 | — | 0 | 0 | dormant |
+| Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される | $0 | — | 0 | 0 | active |
 | The AI marketing backlash story doesn’t actually fit Southeast Asia | $0 | — | 0 | 0 | dormant |
 | Claude Codeの設計詰めスキル『grilling』の紹介 | $0 | — | 0 | 0 | dormant |
 | Southeast Asia startup funding finds a floor, but not a rebound | $0 | — | 0 | 0 | dormant |
