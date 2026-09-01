@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T23:17:25+00:00",
+  "generated_at": "2026-09-01T23:25:42+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 86,
@@ -109,20 +109,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 20.85,
+      "network_score": 20.82,
       "hot": false,
       "watchgraph_modules": [
         "ai_agents_workflow"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 27.4,
-      "ranking_score": 20.85,
+      "ranking_score": 20.82,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.35,
+      "baseline_bonus": 0.32,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -210,44 +210,6 @@
       "first_seen_at": "2026-09-01T06:37:12+00:00"
     },
     {
-      "key": "domain:gigazine.net",
-      "title": "使い込むほど成長するAIエージェント「Hermes Agent」でタスクを自動実行させてみた、PCを放置していても時間になれば勝手に実行",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://gigazine.net/news/20260901-hermes-agent-cron-automation/"
-      ],
-      "finding_count": 1,
-      "max_score": 16,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 18.42,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "raw_network_score": 18.1,
-      "ranking_score": 18.42,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.92,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-19T01:58:32+00:00"
-    },
-    {
       "key": "earthquake:indonesia:5.6",
       "title": "M 5.6 - 82 km SE of Maba, Indonesia",
       "sources": [
@@ -287,6 +249,44 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-09-01T08:46:46+00:00"
+    },
+    {
+      "key": "domain:gigazine.net",
+      "title": "使い込むほど成長するAIエージェント「Hermes Agent」でタスクを自動実行させてみた、PCを放置していても時間になれば勝手に実行",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://gigazine.net/news/20260901-hermes-agent-cron-automation/"
+      ],
+      "finding_count": 1,
+      "max_score": 16,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 18.37,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "raw_network_score": 18.1,
+      "ranking_score": 18.37,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.87,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T01:58:32+00:00"
     },
     {
       "key": "domain:wid.cert-bund.de",
@@ -2698,7 +2698,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-01T23:17:25Z",
+    "generated_at": "2026-09-01T23:25:43Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
