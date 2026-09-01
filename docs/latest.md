@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-01T04:39:16+00:00_
+_Generiert: 2026-09-01T04:48:05+00:00_
 
 ## Kurzlage
 
-19 neue relevante Treffer. Stärkstes Signal: „How to pitch Southeast Asia’s investors: A founder’s guide“ aus e27 Asia Startup and Tech Feed (Score 21, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+21 neue relevante Treffer. Stärkstes Signal: „How to pitch Southeast Asia’s investors: A founder’s guide“ aus e27 Asia Startup and Tech Feed (Score 21, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -105,6 +105,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-01 01:29:10 UTC 2026-09-01 01:29:10 UTC at epicenter Location 20.407°S 177.994°W Depth 533.04 km (331.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **松本大臣記者会見（令和8年9月1日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-260901-01)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-09-01T04:40:34+00:00`, fetched `2026-09-01T04:47:33+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 松本大臣記者会見（令和8年9月1日）動画を掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **デジタル庁設立5年 ～デジタルで変わる、一人ひとりの暮らし～ デジタル庁がこれまでに積み重ねてきた取組と成果を動画でご紹介します** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/report-2026)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-09-01T00:58:19+00:00`, fetched `2026-09-01T01:07:57+00:00`
@@ -122,15 +131,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 「先進企業に学ぶ！マイナンバーカード友の会ミートアップ！！」を開催しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **令和8年9月1日付デジタル庁人事を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/ccbda486-08ed-4c48-972e-6e779a67fa20)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-09-01T00:48:08+00:00`, fetched `2026-09-01T01:07:57+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 令和8年9月1日付デジタル庁人事を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **J:COMを使っているとPlumeルーターによってDNSブロッキングされる可能性がある 18.204.152.241 問題の顛末 - debiruはてなメモ** — Score 5, observation — [Quelle](https://debiru.hatenablog.com/entry/20260831/jcom-plume-dns-blocking)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
