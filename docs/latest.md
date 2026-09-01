@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-01T20:57:30+00:00_
+_Generiert: 2026-09-01T21:15:56+00:00_
 
 ## Kurzlage
 
-79 neue relevante Treffer. Stärkstes Signal: „How to pitch Southeast Asia’s investors: A founder’s guide“ aus e27 Asia Startup and Tech Feed (Score 21, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+81 neue relevante Treffer. Stärkstes Signal: „How to pitch Southeast Asia’s investors: A founder’s guide“ aus e27 Asia Startup and Tech Feed (Score 21, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -75,6 +75,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+6.2); Markets/Capital Structure (+7.5); recent (+1.0); watchgraph region europe: London (+2.0)
   - Kurz: Keynote address by Mr Rashad Cassim, Deputy Governor of the South African Reserve Bank, at the London Stock Exchange Group (LSEG) Insight Series event, Johannesburg, 24 June 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **使い込むほど成長するAIエージェント「Hermes Agent」でタスクを自動実行させてみた、PCを放置していても時間になれば勝手に実行** — Score 16, opportunity — [Quelle](https://gigazine.net/news/20260901-hermes-agent-cron-automation/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-01T13:42:56+00:00`, fetched `2026-09-01T21:15:26+00:00`
+  - Treffer: agent, Automatisierung, GitHub Actions, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub Actions (+5.0); Automatisierung (+4.0); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)
+  - Kurz: 前回、AIエージェント「Hermes Agent」で「GIGAZINEから記事を探して内容をまとめる」という作業の手順や、途中で発生したトラブルの解決方法を「スキル」として保存してみたところ、新しいセッションでも作成したスキルが自動的に読み込まれ、同じ作業をスムーズに実行できるようになりました。 しかし、毎回人間がHerm...
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **[UPDATE] [mittel] Red Hat Enterprise Linux Ceph Storage: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2584)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-09-01T10:55:36+00:00`, fetched `2026-09-01T10:58:43+00:00`
@@ -137,15 +146,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
   - Kurz: Ein Angreifer kann mehrere Schwachstellen in IBM i ausnutzen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen oder Denial-of-Service-Zustände herbeizuführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [mittel] Rsync: Schwachstelle ermöglicht nicht spezifizierten Angriff** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2637)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-09-01T10:55:37+00:00`, fetched `2026-09-01T10:58:43+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Rsync ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
