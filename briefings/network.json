@@ -1,55 +1,15 @@
 {
-  "generated_at": "2026-09-01T02:47:20+00:00",
+  "generated_at": "2026-09-01T02:55:13+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 15,
     "clusters": 15,
     "cross_source_confrmed": 0,
-    "hot": 2,
-    "early_signals": 2,
+    "hot": 1,
+    "early_signals": 1,
     "dominance_penalized": 1
   },
   "clusters": [
-    {
-      "key": "title:stocks-fear-fed-but-crypto-shrugs-off-rate",
-      "title": "Stocks fear the Fed but crypto shrugs off a 58% rate hike bet: Why the split?",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/stocks-fear-the-fed-but-crypto-shrugs-off-a-58-rate-hike-bet-why-the-split-20260901/"
-      ],
-      "finding_count": 1,
-      "max_score": 19,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 26.0,
-      "hot": true,
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
-      "raw_network_score": 21.1,
-      "ranking_score": 26.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-09-01T02:00:40+00:00"
-    },
     {
       "key": "title:asia-building-network-age-atoms",
       "title": "Asia is building the network for the age of atoms",
@@ -129,6 +89,46 @@
       "first_seen_at": "2026-09-01T01:08:29+00:00"
     },
     {
+      "key": "title:stocks-fear-fed-but-crypto-shrugs-off-rate",
+      "title": "Stocks fear the Fed but crypto shrugs off a 58% rate hike bet: Why the split?",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/stocks-fear-the-fed-but-crypto-shrugs-off-a-58-rate-hike-bet-why-the-split-20260901/"
+      ],
+      "finding_count": 1,
+      "max_score": 19,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 20.5,
+      "hot": false,
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 21.1,
+      "ranking_score": 20.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-01T02:00:40+00:00"
+    },
+    {
       "key": "title:2026",
       "title": "2026年度選考採用試験（課長補佐級・係長級／一般職相当）の第2期募集を開始しました",
       "sources": [
@@ -146,20 +146,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 15.79,
+      "network_score": 15.78,
       "hot": false,
       "watchgraph_modules": [
         "elections_unrest"
       ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 16.1,
-      "ranking_score": 15.79,
+      "ranking_score": 15.78,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.29,
+      "baseline_bonus": 0.28,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -592,7 +592,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-01T02:47:20Z",
+    "generated_at": "2026-09-01T02:55:14Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
