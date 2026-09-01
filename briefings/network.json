@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-01T03:54:21+00:00",
+  "generated_at": "2026-09-01T04:02:55+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 19,
     "clusters": 19,
     "cross_source_confrmed": 0,
     "hot": 0,
-    "early_signals": 1,
+    "early_signals": 0,
     "dominance_penalized": 1
   },
   "clusters": [
@@ -129,46 +129,6 @@
       "first_seen_at": "2026-09-01T02:30:55+00:00"
     },
     {
-      "key": "title:cloud-just-someone-else-computer-sometimes-that-computer",
-      "title": "The cloud is just someone else’s computer. Sometimes that computer gets hit by a drone",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/the-cloud-is-just-someone-elses-computer-sometimes-that-computer-gets-hit-by-a-drone-20260828/"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 16.5,
-      "hot": false,
-      "watchgraph_modules": [
-        "elections_unrest"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 11.1,
-      "ranking_score": 16.5,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 6.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-09-01T03:30:50+00:00"
-    },
-    {
       "key": "title:2026",
       "title": "2026年度選考採用試験（課長補佐級・係長級／一般職相当）の第2期募集を開始しました",
       "sources": [
@@ -186,20 +146,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 15.73,
+      "network_score": 15.71,
       "hot": false,
       "watchgraph_modules": [
         "elections_unrest"
       ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 16.1,
-      "ranking_score": 15.73,
+      "ranking_score": 15.71,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.23,
+      "baseline_bonus": 0.21,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -359,6 +319,46 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-01T01:08:29+00:00"
+    },
+    {
+      "key": "title:cloud-just-someone-else-computer-sometimes-that-computer",
+      "title": "The cloud is just someone else’s computer. Sometimes that computer gets hit by a drone",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/the-cloud-is-just-someone-elses-computer-sometimes-that-computer-gets-hit-by-a-drone-20260828/"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 10.5,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 11.1,
+      "ranking_score": 10.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-01T03:30:50+00:00"
     },
     {
       "key": "title:factories-are-coming-southeast-asia-real-race-build",
@@ -746,7 +746,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-01T03:54:21Z",
+    "generated_at": "2026-09-01T04:02:55Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
