@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-01T08:30:01+00:00_
+_Generated: 2026-09-01T08:46:42+00:00_
 
 ## Status
 - status: `warning`
-- findings: `44`
+- findings: `49`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-09-01T08:30:01+00:00_
 - url: https://www.businessinsider.jp/article/2609-meat-proxy-tech-new-term-ai/
 - summary: ChatGPTが出力したメッセージを、そのまま送り続ける同僚はいないだろうか？ その人は「ミート・プロキシ」かもしれない。Kilito Chan/Getty Images 「ミート・プロキシ」とは、ClaudeやChatGPTの出力を吟味せず、そのまま送る人のことを指す。この言葉を広めたのはドイツのソフトウェアエンジニア、ニクラス・グルーン...
 
-### 3. Stocks fear the Fed but crypto shrugs off a 58% rate hike bet: Why the split?
+### 3. M 5.6 - 82 km SE of Maba, Indonesia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `19`
+- published: `2026-09-01T08:44:18.898+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdav
+- summary: PAGER - GREEN ShakeMap - VI Time 2026-09-01 08:22:20 UTC 2026-09-01 08:22:20 UTC at epicenter Location 0.169°N 128.805°E Depth 10.00 km (6.21 mi)
+
+### 4. Stocks fear the Fed but crypto shrugs off a 58% rate hike bet: Why the split?
 - source: e27 Asia Startup and Tech Feed
 - score: `19`
 - published: `2026-09-01T01:55:25+00:00`
 - url: https://e27.co/stocks-fear-the-fed-but-crypto-shrugs-off-a-58-rate-hike-bet-why-the-split-20260901/
 - summary: The global financial landscape currently displays a truly fascinating divergence between digital reserves and conventional equities. While mainstream stock indices stumbled under the weight of geopolitical anxiety and rising bond yields, the cryptocurrency se…
-
-### 4. jingyaogong/minimind
-- source: GitHub Trending RSS All Languages Daily
-- score: `19`
-- published: `None`
-- url: https://github.com/jingyaogong/minimind
-- summary: 🧠 Train a 64M-parameter LLM from scratch in just 2h! https://jingyaogong.github.io/minimind "大道至简" 中文 | English 此开源项目旨在完全从 0 开始，仅用 3 块钱成本与 2 小时训练时间，即可训练出规模约为 64M 的超小语言模型 MiniMind。 MiniMind 系列极其轻量，主线最小版本体积约为 GPT-3 的 $\frac{1}{2700}$，力求让普通个人 GPU 也能快速完成训练与复现。 项目…
 
 ### 5. The Hidden Cost of Cheap ERP Implementations in a High-Stakes Market
 - source: e27 Asia Startup and Tech Feed

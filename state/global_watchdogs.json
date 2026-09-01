@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T08:30:05+00:00",
+  "generated_at": "2026-09-01T08:46:46+00:00",
   "sections": {
     "global_security": [
       {
@@ -74,11 +74,11 @@
       },
       {
         "domain": "security",
-        "severity": "high",
-        "title": "GDACS: Green flood alert in South Korea",
-        "summary": "Green flood alert in South Korea",
+        "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Indonesia 01/09/2026 08:22 UTC, 8 thousand in MMI VI.",
+        "summary": "Green earthquake (Magnitude 5.6M, Depth:10km) in Indonesia 01/09/2026 08:22 UTC, 8 thousand in MMI VI.",
         "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104133",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1562918",
         "published_at": "",
         "metrics": {}
       },
@@ -111,6 +111,21 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1562607",
         "published_at": "",
         "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "watch",
+        "title": "USGS earthquake M5.6 - 82 km SE of Maba, Indonesia",
+        "summary": "M5.6 - 82 km SE of Maba, Indonesia. PAGER alert: green. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdav",
+        "published_at": "2026-09-01T08:22:20+00:00",
+        "metrics": {
+          "mag": 5.6,
+          "alert": "green",
+          "sig": 482.0,
+          "tsunami": 0
+        }
       }
     ],
     "global_economy": []

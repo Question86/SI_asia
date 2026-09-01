@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-01T08:30:01+00:00_
+_Generiert: 2026-09-01T08:46:42+00:00_
 
 ## Kurzlage
 
-44 neue relevante Treffer. Stärkstes Signal: „How to pitch Southeast Asia’s investors: A founder’s guide“ aus e27 Asia Startup and Tech Feed (Score 21, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+49 neue relevante Treffer. Stärkstes Signal: „How to pitch Southeast Asia’s investors: A founder’s guide“ aus e27 Asia Startup and Tech Feed (Score 21, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,10 +33,10 @@ _Generiert: 2026-09-01T08:30:01+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Lebanon
-- **GDACS: Green flood alert in South Korea** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104133)
+- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Indonesia 01/09/2026 08:22 UTC, 8 thousand in MMI VI.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1562918)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green flood alert in South Korea
+  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Indonesia 01/09/2026 08:22 UTC, 8 thousand in MMI VI.
 - **GDACS: Green notification for tropical cyclone EDOUARD-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001316)
   - Quelle: GDACS
   - Zeit: ``
@@ -49,6 +49,10 @@ _Generiert: 2026-09-01T08:30:01+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.8M, Depth:35km) in Kermadec Islands, New Zealand 30/08/2026 09:02 UTC, [unknown].
+- **USGS earthquake M5.6 - 82 km SE of Maba, Indonesia** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdav)
+  - Quelle: USGS
+  - Zeit: `2026-09-01T08:22:20+00:00`
+  - Kurz: M5.6 - 82 km SE of Maba, Indonesia. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -83,6 +87,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: ChatGPTが出力したメッセージを、そのまま送り続ける同僚はいないだろうか？ その人は「ミート・プロキシ」かもしれない。Kilito Chan/Getty Images 「ミート・プロキシ」とは、ClaudeやChatGPTの出力を吟味せず、そのまま送る人のことを指す。この言葉を広めたのはドイツのソフトウェアエンジニア、ニクラス・グルーン...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.6 - 82 km SE of Maba, Indonesia** — Score 19, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdav)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-01T08:44:18.898+00:00`, fetched `2026-09-01T08:46:07+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - VI Time 2026-09-01 08:22:20 UTC 2026-09-01 08:22:20 UTC at epicenter Location 0.169°N 128.805°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Stocks fear the Fed but crypto shrugs off a 58% rate hike bet: Why the split?** — Score 19, observation — [Quelle](https://e27.co/stocks-fear-the-fed-but-crypto-shrugs-off-a-58-rate-hike-bet-why-the-split-20260901/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-01T01:55:25+00:00`, fetched `2026-09-01T02:00:02+00:00`
@@ -248,6 +261,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); banking (+2.5); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)
   - Kurz: Opening address by Mr Abdul Rasheed Ghaffour, Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the inaugural AICB (Asian Institute of Chartered Bankers) Nexus Conference, Kuala Lumpur, 8 July 2026.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **The restrictive stance of monetary policy** — Score 9, observation — [Quelle](https://www.bis.org/speeches/20260901-restrictive-stance-monetary-policy)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-09-01T00:00:00+00:00`, fetched `2026-09-01T08:46:07+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region australia: Australia, Sydney, Reserve Bank of Australia (+2.0)
+  - Kurz: Fireside chat by Mr Christopher Kent, Assistant Governor (Financial Markets) of the Reserve Bank of Australia, at Reuters NEXT Newsmaker Interview: LSEG Insight Series, Sydney, 13 August 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **majd/ipatool** — Score 8, observation — [Quelle](https://github.com/majd/ipatool)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-09-01T06:36:40+00:00`
@@ -284,15 +306,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: ISMAPクラウドサービスリスト等を更新しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Closing remarks at the Conference on the Spanish Economy** — Score 6, opportunity — [Quelle](https://www.bis.org/speeches/20260901-closing-remarks-conference-spanish-economy)
+- **The everyday work of inclusion** — Score 6, observation — [Quelle](https://www.bis.org/speeches/20260901-everyday-work-inclusion)
   - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-09-01T00:00:00+00:00`, fetched `2026-09-01T08:29:22+00:00`
+  - Zeit: published `2026-09-01T00:00:00+00:00`, fetched `2026-09-01T08:46:07+00:00`
   - Treffer: Macro/Policy
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0)
-  - Kurz: Closing remarks by Ms Soledad Núñez, Deputy Governor of the Bank of Spain, at the 5th Conference on the Spanish Economy, organised by the Bank of Spain together with the Center for Monetary and Financial Studies (CEMFI) and the Menéndez Pelayo International University (UIMP), Madrid, 3 July 2026.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+  - Kurz: Speech by Mr Olaf Sleijpen, President of De Nederlandsche Bank, at Workplace Pride, Amsterdam, 7 August 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **「玄人志向」が「Crowxis」にブランド変更！サングラスもやめてTGSで初披露** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/news/2137155.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-01T04:11:40+00:00`, fetched `2026-09-01T05:37:28+00:00`
@@ -301,15 +323,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 「玄人志向」が「Crowxis」にブランド変更！サングラスもやめてTGSで初披露
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **J:COMを使っているとPlumeルーターによってDNSブロッキングされる可能性がある 18.204.152.241 問題の顛末 - debiruはてなメモ** — Score 5, observation — [Quelle](https://debiru.hatenablog.com/entry/20260831/jcom-plume-dns-blocking)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-31T22:57:16+00:00`, fetched `2026-09-01T01:07:57+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: あるWebサイトにアクセスするとSSLエラーになった DNSの応答がおかしい J:COMの応答 J:COM問い合わせ J:COMの権威ある回答 まとめ J:COM問い合わせ対応について J:COMに改善してほしいこと おわりに 関連情報 あるWebサイトにアクセスするとSSLエラーになった こんにちは。趣味でDNSを研究したりしている @debiru_R です...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
