@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-01T16:08:04+00:00_
+_Generiert: 2026-09-01T16:43:12+00:00_
 
 ## Kurzlage
 
-69 neue relevante Treffer. Stärkstes Signal: „How to pitch Southeast Asia’s investors: A founder’s guide“ aus e27 Asia Startup and Tech Feed (Score 21, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+70 neue relevante Treffer. Stärkstes Signal: „How to pitch Southeast Asia’s investors: A founder’s guide“ aus e27 Asia Startup and Tech Feed (Score 21, observation). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -297,4 +297,5 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Quellenfehler
 
+- `hn_release_security_burst` (hackernews): 500 Server Error: Internal Server Error for url: https://hn.algolia.com/api/v1/search_by_date?query=%28launch+OR+release+OR+outage+OR+security+OR+CVE+OR+OpenAI+OR+AI+agent+OR+Nvidia+OR+MCP+OR+Codex%29&tags=story&hitsPerPage=6
 - `bis_statistics` (rss): 404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss
