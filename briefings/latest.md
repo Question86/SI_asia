@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-01T01:08:27+00:00_
+_Generiert: 2026-09-01T01:41:00+00:00_
 
 ## Kurzlage
 
-8 neue relevante Treffer. Stärkstes Signal: „How to pitch Southeast Asia’s investors: A founder’s guide“ aus e27 Asia Startup and Tech Feed (Score 21, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+11 neue relevante Treffer. Stärkstes Signal: „How to pitch Southeast Asia’s investors: A founder’s guide“ aus e27 Asia Startup and Tech Feed (Score 21, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -82,6 +82,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **India is showing the world what AI will do to jobs and education** — Score 10, observation — [Quelle](https://e27.co/india-is-showing-the-world-what-ai-will-do-to-jobs-and-education-20260831/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-01T01:30:46+00:00`, fetched `2026-09-01T01:40:29+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region india: India (+2.0)
+  - Kurz: The most important change AI is making to employment may not appear first in layoffs. It may appear in the people companies quietly decide not to hire. A survey of 651 Indian technology firms found that 65 per cent said AI had reduced hiring. In Britain, government and LinkedIn data found 30 of 38 tracked […] The post India is showing the world what AI will do to jobs and education appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The AI marketing backlash story doesn’t actually fit Southeast Asia** — Score 10, observation — [Quelle](https://e27.co/the-ai-marketing-backlash-story-doesnt-actually-fit-southeast-asia-20260828/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-01T01:00:44+00:00`, fetched `2026-09-01T01:07:57+00:00`
@@ -90,6 +99,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
   - Kurz: Every trend deck this year has the same slide: consumers are turning against AI-generated marketing, Coca-Cola’s AI holiday ad got mocked as “soulless,” 78 per cent of people say AI makes ads feel less authentic, and the smart move for 2026 is to hide the AI and put humans back in front of the camera. […] The post The AI marketing backlash story doesn’t actually fit Southeast Asia appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **“Not a bank, not a gamble”: Chocolate Finance wants your SME’s spare cash** — Score 6, observation — [Quelle](https://e27.co/not-a-bank-not-a-gamble-chocolate-finance-wants-your-smes-spare-cash-20260831/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-01T01:30:33+00:00`, fetched `2026-09-01T01:40:29+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Two years ago, Chocolate Finance built its name on a simple pitch to Singapore consumers: park your spare cash with us instead of a savings account, and we’ll try to get you a better return. It worked well enough that the fintech now manages roughly US$1.3 billion in assets across more than 150,000 customers. Now […] The post “Not a bank, not a gamble”: Chocolate Finance wants your SME’s spare cash appeared first on…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **デジタル庁設立5年 ～デジタルで変わる、一人ひとりの暮らし～ デジタル庁がこれまでに積み重ねてきた取組と成果を動画でご紹介します** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/report-2026)
   - Quelle: Japan Digital Agency News RSS / `rss`

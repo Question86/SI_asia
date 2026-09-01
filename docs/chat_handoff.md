@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-01T01:08:27+00:00_
+_Generated: 2026-09-01T01:41:00+00:00_
 
 ## Status
 - status: `warning`
-- findings: `8`
+- findings: `11`
 
 ## Top Signals
 
@@ -22,32 +22,32 @@ _Generated: 2026-09-01T01:08:27+00:00_
 - url: https://www.digital.go.jp/recruitment/career-government-official/career-selection-clericalposition-2026
 - summary: 2026年度選考採用試験（課長補佐級・係長級／一般職相当）の第2期募集を開始しました
 
-### 3. The AI marketing backlash story doesn’t actually fit Southeast Asia
+### 3. India is showing the world what AI will do to jobs and education
+- source: e27 Asia Startup and Tech Feed
+- score: `10`
+- published: `2026-09-01T01:30:46+00:00`
+- url: https://e27.co/india-is-showing-the-world-what-ai-will-do-to-jobs-and-education-20260831/
+- summary: The most important change AI is making to employment may not appear first in layoffs. It may appear in the people companies quietly decide not to hire. A survey of 651 Indian technology firms found that 65 per cent said AI had reduced hiring. In Britain, gove…
+
+### 4. The AI marketing backlash story doesn’t actually fit Southeast Asia
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-09-01T01:00:44+00:00`
 - url: https://e27.co/the-ai-marketing-backlash-story-doesnt-actually-fit-southeast-asia-20260828/
 - summary: Every trend deck this year has the same slide: consumers are turning against AI-generated marketing, Coca-Cola’s AI holiday ad got mocked as “soulless,” 78 per cent of people say AI makes ads feel less authentic, and the smart move for 2026 is to hide the AI…
 
-### 4. デジタル庁設立5年 ～デジタルで変わる、一人ひとりの暮らし～ デジタル庁がこれまでに積み重ねてきた取組と成果を動画でご紹介します
-- source: Japan Digital Agency News RSS
+### 5. “Not a bank, not a gamble”: Chocolate Finance wants your SME’s spare cash
+- source: e27 Asia Startup and Tech Feed
 - score: `6`
-- published: `2026-09-01T00:58:19+00:00`
-- url: https://www.digital.go.jp/policies/report-2026
-- summary: デジタル庁設立5年 ～デジタルで変わる、一人ひとりの暮らし～ デジタル庁がこれまでに積み重ねてきた取組と成果を動画でご紹介します
+- published: `2026-09-01T01:30:33+00:00`
+- url: https://e27.co/not-a-bank-not-a-gamble-chocolate-finance-wants-your-smes-spare-cash-20260831/
+- summary: Two years ago, Chocolate Finance built its name on a simple pitch to Singapore consumers: park your spare cash with us instead of a savings account, and we’ll try to get you a better return. It worked well enough that the fintech now manages roughly US$1.3 bi…
 
-### 5. 「先進企業に学ぶ！マイナンバーカード友の会ミートアップ！！」を開催しました
-- source: Japan Digital Agency News RSS
+### 6. Southeast Asia’s quiet FDI manufacturing redistribution
+- source: e27 Asia Startup and Tech Feed
 - score: `6`
-- published: `2026-09-01T00:57:10+00:00`
-- url: https://www.digital.go.jp/news/0f95a36a-87fe-4e04-b232-f1960f63ea96
-- summary: 「先進企業に学ぶ！マイナンバーカード友の会ミートアップ！！」を開催しました
-
-### 6. 令和8年9月1日付デジタル庁人事を掲載しました
-- source: Japan Digital Agency News RSS
-- score: `6`
-- published: `2026-09-01T00:48:08+00:00`
-- url: https://www.digital.go.jp/news/ccbda486-08ed-4c48-972e-6e779a67fa20
-- summary: 令和8年9月1日付デジタル庁人事を掲載しました
+- published: `2026-09-01T01:30:06+00:00`
+- url: https://e27.co/southeast-asias-quiet-fdi-manufacturing-redistribution-20260828/
+- summary: A few years ago, I sat with a Miami-based company that was choosing markets to run part of its expansion, potentially including production of their technology products. On paper, several locations offered comparable incentives, though what tipped the decision…
 
 END OF DOCUMENT

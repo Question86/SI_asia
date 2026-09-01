@@ -1,11 +1,11 @@
 # Senna Breaking
 
-_Generiert: 2026-09-01T01:08:29+00:00_
+_Generiert: 2026-09-01T01:41:03+00:00_
 
 ## How to pitch Southeast Asia’s investors: A founder’s guide
 
-- Ranking Score: `32.5`
-- Raw Network Score: `26.1`
+- Ranking Score: `30.0`
+- Raw Network Score: `23.1`
 - Max Monitor Score: `21`
 - Reichweite: `specialist` / `2.5`
 - Early Signal: `ja`
@@ -13,7 +13,7 @@ _Generiert: 2026-09-01T01:08:29+00:00_
 - Quellen: e27 Asia Startup and Tech Feed
 - Klassen: tier3_specialist
 - Cross-source bestaetigt: nein
-- Momentum: increasing (+1)
+- Momentum: stable (+0)
 - Erste Quelle: https://e27.co/how-to-pitch-southeast-asias-investors-a-founders-guide-20260831/
 - Handlung: HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.
 
