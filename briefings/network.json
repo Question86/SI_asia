@@ -1,131 +1,15 @@
 {
-  "generated_at": "2026-09-01T07:12:59+00:00",
+  "generated_at": "2026-09-01T07:30:36+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 36,
-    "clusters": 34,
+    "findings": 38,
+    "clusters": 36,
     "cross_source_confrmed": 0,
-    "hot": 3,
-    "early_signals": 5,
-    "dominance_penalized": 4
+    "hot": 0,
+    "early_signals": 2,
+    "dominance_penalized": 5
   },
   "clusters": [
-    {
-      "key": "title:business-insider-japan",
-      "title": "「ミート・プロキシ」って何？…AIの出力をそのまま送ってくる人を指す新語が話題 | Business Insider Japan",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.businessinsider.jp/article/2609-meat-proxy-tech-new-term-ai/"
-      ],
-      "finding_count": 1,
-      "max_score": 20,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 27.0,
-      "hot": true,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
-      "raw_network_score": 22.1,
-      "ranking_score": 27.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-09-01T06:37:12+00:00"
-    },
-    {
-      "key": "github_repo:jingyaogong/minimind",
-      "title": "jingyaogong/minimind",
-      "sources": [
-        "GitHub Trending RSS All Languages Daily"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://github.com/jingyaogong/minimind"
-      ],
-      "finding_count": 1,
-      "max_score": 19,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 26.0,
-      "hot": true,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
-      "raw_network_score": 21.1,
-      "ranking_score": 26.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-09-01T06:37:12+00:00"
-    },
-    {
-      "key": "title:end-southeast-asia-unified-startup-funding-story",
-      "title": "The end of Southeast Asia’s unified startup funding story?",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/the-end-of-southeast-asias-unified-startup-funding-story-20260901/"
-      ],
-      "finding_count": 1,
-      "max_score": 15,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 24.0,
-      "hot": true,
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
-      "raw_network_score": 17.1,
-      "ranking_score": 24.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 7.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-09-01T06:37:12+00:00"
-    },
     {
       "key": "title:pitch-southeast-asia-investors-founder-guide",
       "title": "How to pitch Southeast Asia’s investors: A founder’s guide",
@@ -167,6 +51,82 @@
       "first_seen_at": "2026-09-01T01:08:29+00:00"
     },
     {
+      "key": "title:hidden-cost-cheap-erp-implementations-high-stakes-market",
+      "title": "The Hidden Cost of Cheap ERP Implementations in a High-Stakes Market",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/navigating-erp-implementation-challenges-singapore-cost-cutting-market-20260901/"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 21.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 17.1,
+      "ranking_score": 21.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 5.5,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-01T07:30:36+00:00"
+    },
+    {
+      "key": "title:business-insider-japan",
+      "title": "「ミート・プロキシ」って何？…AIの出力をそのまま送ってくる人を指す新語が話題 | Business Insider Japan",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.businessinsider.jp/article/2609-meat-proxy-tech-new-term-ai/"
+      ],
+      "finding_count": 1,
+      "max_score": 20,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 21.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 22.1,
+      "ranking_score": 21.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-01T06:37:12+00:00"
+    },
+    {
       "key": "title:stocks-fear-fed-but-crypto-shrugs-off-rate",
       "title": "Stocks fear the Fed but crypto shrugs off a 58% rate hike bet: Why the split?",
       "sources": [
@@ -205,6 +165,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-01T02:00:40+00:00"
+    },
+    {
+      "key": "github_repo:jingyaogong/minimind",
+      "title": "jingyaogong/minimind",
+      "sources": [
+        "GitHub Trending RSS All Languages Daily"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.com/jingyaogong/minimind"
+      ],
+      "finding_count": 1,
+      "max_score": 19,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 20.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 21.1,
+      "ranking_score": 20.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-01T06:37:12+00:00"
     },
     {
       "key": "title:schools-universities-face-rising-ransomware-costs-attackers-target",
@@ -300,18 +298,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 17.0,
+      "network_score": 16.95,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 17.1,
-      "ranking_score": 17.0,
+      "ranking_score": 16.95,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.5,
+      "baseline_bonus": 0.45,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -319,6 +317,46 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-06-17T20:44:40+00:00"
+    },
+    {
+      "key": "title:end-southeast-asia-unified-startup-funding-story",
+      "title": "The end of Southeast Asia’s unified startup funding story?",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/the-end-of-southeast-asias-unified-startup-funding-story-20260901/"
+      ],
+      "finding_count": 1,
+      "max_score": 15,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 16.5,
+      "hot": false,
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 17.1,
+      "ranking_score": 16.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-01T06:37:12+00:00"
     },
     {
       "key": "title:2026",
@@ -339,20 +377,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 16.26,
+      "network_score": 16.22,
       "hot": false,
       "watchgraph_modules": [
         "elections_unrest"
       ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 18.2,
-      "ranking_score": 16.26,
+      "ranking_score": 16.22,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.76,
+      "baseline_bonus": 0.72,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -441,8 +479,8 @@
       "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
-      "key": "earthquake:alaska:5.2",
-      "title": "M 5.2 - 84 km SSW of Nikolski, Alaska",
+      "key": "earthquake:alaska:4.5",
+      "title": "M 4.5 - 105 km SSW of Nikolski, Alaska",
       "sources": [
         "USGS M4.5+ Earthquakes Past Hour"
       ],
@@ -451,74 +489,35 @@
         "tier1_official"
       ],
       "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdab",
-        "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rhiuzf"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdag"
       ],
-      "finding_count": 2,
+      "finding_count": 1,
       "max_score": 11,
-      "credibility_total": 2.7,
+      "credibility_total": 1.35,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 13.44,
+      "network_score": 12.9,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 19.4,
-      "ranking_score": 13.44,
+      "raw_network_score": 16.7,
+      "ranking_score": 12.9,
       "initial_reach_tier": "official",
       "source_reach_score": 4.0,
       "authority_bonus_capped": 2.4,
       "breadth_bonus": 0.0,
       "momentum_bonus": 2.5,
-      "baseline_bonus": 0.54,
+      "baseline_bonus": 0.0,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
       "dominant_emitter": true,
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-09-01T06:56:30+00:00"
-    },
-    {
-      "key": "github_repo:k1tbyte/wand-enhancer",
-      "title": "k1tbyte/Wand-Enhancer",
-      "sources": [
-        "GitHub Trending RSS All Languages Daily"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://github.com/k1tbyte/Wand-Enhancer"
-      ],
-      "finding_count": 1,
-      "max_score": 4,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 11.5,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 6.1,
-      "ranking_score": 11.5,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 6.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-09-01T06:37:12+00:00"
+      "first_seen_at": "2026-09-01T07:30:36+00:00"
     },
     {
       "key": "url:https://www.itmedia.co.jp/news/article/2609/01/2000001002/",
@@ -673,6 +672,48 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-01T03:30:50+00:00"
+    },
+    {
+      "key": "earthquake:alaska:5.2",
+      "title": "M 5.2 - 84 km SSW of Nikolski, Alaska",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "emergency_official",
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdab",
+        "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rhiuzf"
+      ],
+      "finding_count": 2,
+      "max_score": 11,
+      "credibility_total": 2.7,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 10.4,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 16.4,
+      "ranking_score": 10.4,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-09-01T06:56:30+00:00"
     },
     {
       "key": "title:factories-are-coming-southeast-asia-real-race-build",
@@ -1325,11 +1366,49 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-01T01:08:29+00:00"
+    },
+    {
+      "key": "github_repo:k1tbyte/wand-enhancer",
+      "title": "k1tbyte/Wand-Enhancer",
+      "sources": [
+        "GitHub Trending RSS All Languages Daily"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.com/k1tbyte/Wand-Enhancer"
+      ],
+      "finding_count": 1,
+      "max_score": 4,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 5.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 6.1,
+      "ranking_score": 5.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-01T06:37:12+00:00"
     }
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-01T07:12:59Z",
+    "generated_at": "2026-09-01T07:30:36Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
