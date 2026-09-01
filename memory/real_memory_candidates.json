@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-09-01T14:53:45Z",
+  "generated_at": "2026-09-01T15:13:27Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -26,6 +26,11 @@
       "title": "AI safety is designed in the West, and failing users everywhere",
       "band": "extreme",
       "reason": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil."
+    },
+    {
+      "title": "Monetary policy, the yield curve and financial markets",
+      "band": "krass",
+      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
     },
     {
       "title": "[UPDATE] [mittel] Red Hat Enterprise Linux Ceph Storage: Mehrere Schwachstellen",
@@ -56,11 +61,6 @@
       "title": "Schools and universities face rising ransomware costs as attackers target identities",
       "band": "krass",
       "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
-    },
-    {
-      "title": "PALLET CONTROL製品におけるアクセス制御不備の脆弱性",
-      "band": "strong",
-      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     }
   ]
 }
