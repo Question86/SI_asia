@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-09-01T06:56:30+00:00_
+_Generiert: 2026-09-01T07:12:59+00:00_
 
 ## 「ミート・プロキシ」って何？…AIの出力をそのまま送ってくる人を指す新語が話題 | Business Insider Japan
 

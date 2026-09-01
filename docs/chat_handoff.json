@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-01T06:56:20+00:00",
+  "generated_at": "2026-09-01T07:12:56+00:00",
   "status": "warning",
   "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 35,
-    "displayed_findings": 35,
+    "new_relevant_findings": 1,
+    "today_file_total": 36,
+    "displayed_findings": 36,
     "high": 0,
     "medium": 10,
-    "observe": 25
+    "observe": 26
   },
   "source_errors_count": 1,
   "top_signals": [
@@ -65,6 +65,16 @@
       "section": "observe"
     },
     {
+      "title": "M 5.2 - 84 km SSW of Nikolski, Alaska",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-01T07:11:50.976+00:00",
+      "relevance_score": 11,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdab",
+      "summary": "ShakeMap - III DYFI? - IV Time 2026-09-01 06:44:39 UTC 2026-09-01 06:44:39 UTC at epicenter Location 52.257°N 169.426°W Depth 47.11 km (29.27 mi)",
+      "section": "observe"
+    },
+    {
       "title": "M 5.2 - 93 km SSW of Nikolski, Alaska",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
@@ -82,16 +92,6 @@
       "relevance_score": 10,
       "url": "https://www.itmedia.co.jp/news/article/2609/01/2000001002/",
       "summary": "文部科学省が8月28日に公表した2027年度の国立大学の入学定員予定表に、東京大学の「価値創造学部」新設が掲載されたことが話題になっている。 東大が「UTokyo College of Design」として準備してきた新学部で、すべての授業を英語で実施する。秋入学を採用し、国内外から学生を受け入れるほか。学部の新設は1958年の薬...",
-      "section": "observe"
-    },
-    {
-      "title": "India is showing the world what AI will do to jobs and education",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-01T01:30:46+00:00",
-      "relevance_score": 10,
-      "url": "https://e27.co/india-is-showing-the-world-what-ai-will-do-to-jobs-and-education-20260831/",
-      "summary": "The most important change AI is making to employment may not appear first in layoffs. It may appear in the people companies quietly decide not to hire. A survey of 651 Indian technology firms found that 65 per cent said AI had reduced hiring. In Britain, gove…",
       "section": "observe"
     }
   ],

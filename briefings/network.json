@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-01T06:56:30+00:00",
+  "generated_at": "2026-09-01T07:12:59+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 35,
+    "findings": 36,
     "clusters": 34,
     "cross_source_confrmed": 0,
     "hot": 3,
@@ -167,44 +167,6 @@
       "first_seen_at": "2026-09-01T01:08:29+00:00"
     },
     {
-      "key": "title:schools-universities-face-rising-ransomware-costs-attackers-target",
-      "title": "Schools and universities face rising ransomware costs as attackers target identities",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/schools-and-universities-face-rising-ransomware-costs-as-attackers-target-identities-20260901/"
-      ],
-      "finding_count": 1,
-      "max_score": 12,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 21.5,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 17.1,
-      "ranking_score": 21.5,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-09-01T06:56:30+00:00"
-    },
-    {
       "key": "title:stocks-fear-fed-but-crypto-shrugs-off-rate",
       "title": "Stocks fear the Fed but crypto shrugs off a 58% rate hike bet: Why the split?",
       "sources": [
@@ -243,6 +205,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-01T02:00:40+00:00"
+    },
+    {
+      "key": "title:schools-universities-face-rising-ransomware-costs-attackers-target",
+      "title": "Schools and universities face rising ransomware costs as attackers target identities",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/schools-and-universities-face-rising-ransomware-costs-as-attackers-target-identities-20260901/"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 19.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 14.1,
+      "ranking_score": 19.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 5.5,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-01T06:56:30+00:00"
     },
     {
       "key": "title:asia-building-network-age-atoms",
@@ -300,18 +300,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 17.06,
+      "network_score": 17.0,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 17.1,
-      "ranking_score": 17.06,
+      "ranking_score": 17.0,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.56,
+      "baseline_bonus": 0.5,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -339,20 +339,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 16.3,
+      "network_score": 16.26,
       "hot": false,
       "watchgraph_modules": [
         "elections_unrest"
       ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 18.2,
-      "ranking_score": 16.3,
+      "ranking_score": 16.26,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.8,
+      "baseline_bonus": 0.76,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -442,7 +442,7 @@
     },
     {
       "key": "earthquake:alaska:5.2",
-      "title": "M 5.2 - 93 km SSW of Nikolski, Alaska",
+      "title": "M 5.2 - 84 km SSW of Nikolski, Alaska",
       "sources": [
         "USGS M4.5+ Earthquakes Past Hour"
       ],
@@ -451,28 +451,29 @@
         "tier1_official"
       ],
       "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdab",
         "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rhiuzf"
       ],
-      "finding_count": 1,
+      "finding_count": 2,
       "max_score": 11,
-      "credibility_total": 1.35,
+      "credibility_total": 2.7,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 12.9,
+      "network_score": 13.44,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 16.7,
-      "ranking_score": 12.9,
+      "raw_network_score": 19.4,
+      "ranking_score": 13.44,
       "initial_reach_tier": "official",
       "source_reach_score": 4.0,
       "authority_bonus_capped": 2.4,
       "breadth_bonus": 0.0,
       "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
+      "baseline_bonus": 0.54,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -634,47 +635,6 @@
       "first_seen_at": "2026-09-01T01:08:29+00:00"
     },
     {
-      "key": "earthquake:m 4.5 - 13 km nnw of yasuj, iran:4.5",
-      "title": "M 4.5 - 13 km NNW of Yasuj, Iran",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "emergency_official",
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tda7"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 10.9,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 14.7,
-      "ranking_score": 10.9,
-      "initial_reach_tier": "official",
-      "source_reach_score": 4.0,
-      "authority_bonus_capped": 2.4,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 3.0,
-      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-09-01T06:56:30+00:00"
-    },
-    {
       "key": "title:cloud-just-someone-else-computer-sometimes-that-computer",
       "title": "The cloud is just someone else’s computer. Sometimes that computer gets hit by a drone",
       "sources": [
@@ -827,6 +787,47 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-01T03:46:24+00:00"
+    },
+    {
+      "key": "earthquake:m 4.5 - 13 km nnw of yasuj, iran:4.5",
+      "title": "M 4.5 - 13 km NNW of Yasuj, Iran",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "emergency_official",
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tda7"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 8.4,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 11.7,
+      "ranking_score": 8.4,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-09-01T06:56:30+00:00"
     },
     {
       "key": "earthquake:m 4.8 - 292 km wnw of houma, tonga:4.8",
@@ -1328,7 +1329,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-01T06:56:30Z",
+    "generated_at": "2026-09-01T07:12:59Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

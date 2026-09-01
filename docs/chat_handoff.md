@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-01T06:56:20+00:00_
+_Generated: 2026-09-01T07:12:56+00:00_
 
 ## Status
 - status: `warning`
-- findings: `35`
+- findings: `36`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-09-01T06:56:20+00:00_
 - url: https://e27.co/schools-and-universities-face-rising-ransomware-costs-as-attackers-target-identities-20260901/
 - summary: Ransomware attacks on schools and universities are increasingly beginning not with exotic malware, but with stolen logins, deceptive emails and weak identity controls. A new Sophos report has found that identity-based techniques were used in 85 per cent of ra…
 
-### 6. M 5.2 - 93 km SSW of Nikolski, Alaska
+### 6. M 5.2 - 84 km SSW of Nikolski, Alaska
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `11`
+- published: `2026-09-01T07:11:50.976+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdab
+- summary: ShakeMap - III DYFI? - IV Time 2026-09-01 06:44:39 UTC 2026-09-01 06:44:39 UTC at epicenter Location 52.257°N 169.426°W Depth 47.11 km (29.27 mi)
+
+### 7. M 5.2 - 93 km SSW of Nikolski, Alaska
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-09-01T06:55:50.127+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rhiuzf
 - summary: ShakeMap - III DYFI? - III Time 2026-09-01 06:44:39 UTC 2026-09-01 06:44:39 UTC at epicenter Location 52.154°N 169.368°W Depth 43.80 km (27.22 mi)
 
-### 7. 東大、「価値創造学部」新設へ 27年秋入学、授業はすべて英語
+### 8. 東大、「価値創造学部」新設へ 27年秋入学、授業はすべて英語
 - source: Hatena Bookmark Hotentry IT
 - score: `10`
 - published: `2026-09-01T02:33:33+00:00`
 - url: https://www.itmedia.co.jp/news/article/2609/01/2000001002/
 - summary: 文部科学省が8月28日に公表した2027年度の国立大学の入学定員予定表に、東京大学の「価値創造学部」新設が掲載されたことが話題になっている。 東大が「UTokyo College of Design」として準備してきた新学部で、すべての授業を英語で実施する。秋入学を採用し、国内外から学生を受け入れるほか。学部の新設は1958年の薬...
-
-### 8. India is showing the world what AI will do to jobs and education
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-09-01T01:30:46+00:00`
-- url: https://e27.co/india-is-showing-the-world-what-ai-will-do-to-jobs-and-education-20260831/
-- summary: The most important change AI is making to employment may not appear first in layoffs. It may appear in the people companies quietly decide not to hire. A survey of 651 Indian technology firms found that 65 per cent said AI had reduced hiring. In Britain, gove…
 
 END OF DOCUMENT
