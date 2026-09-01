@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T05:10:23+00:00",
-  "run_id": "2026-09-01T05:10:23+00:00",
+  "generated_at": "2026-09-01T05:26:11+00:00",
+  "run_id": "2026-09-01T05:26:11+00:00",
   "date": "2026-09-01",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 21
+      "configured_public_sources_only": 22
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 21,
-    "displayed_findings": 21,
+    "new_relevant_findings": 1,
+    "today_file_total": 22,
+    "displayed_findings": 22,
     "high": 0,
-    "medium": 5,
+    "medium": 6,
     "observe": 16,
     "source_errors": 1
   },
@@ -140,6 +140,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "b4a54d838567e9dec5c3"
+      },
+      {
+        "title": "OpenAI supports California’s bill to advance youth AI safety",
+        "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-08-31T07:00:00+00:00",
+        "fetched_at": "2026-09-01T05:25:41+00:00",
+        "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+        "matched_keywords": [
+          "AI/KI",
+          "OpenAI",
+          "safety"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "OpenAI (+7.5); AI/KI (+3.8); safety (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ae779cc73b484fc2840c"
       },
       {
         "title": "PALLET CONTROL製品におけるアクセス制御不備の脆弱性",
@@ -703,6 +725,28 @@
       "id": "b4a54d838567e9dec5c3"
     },
     {
+      "title": "OpenAI supports California’s bill to advance youth AI safety",
+      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-31T07:00:00+00:00",
+      "fetched_at": "2026-09-01T05:25:41+00:00",
+      "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+      "matched_keywords": [
+        "AI/KI",
+        "OpenAI",
+        "safety"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "OpenAI (+7.5); AI/KI (+3.8); safety (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ae779cc73b484fc2840c"
+    },
+    {
       "title": "PALLET CONTROL製品におけるアクセス制御不備の脆弱性",
       "url": "https://jvn.jp/jp/JVN84094853/",
       "source": "JVN Japan Vulnerability Notes",
@@ -1147,7 +1191,30 @@
       "id": "5f3ec744c120b2593a70"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "OpenAI supports California’s bill to advance youth AI safety",
+      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-08-31T07:00:00+00:00",
+      "fetched_at": "2026-09-01T05:25:41+00:00",
+      "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+      "matched_keywords": [
+        "AI/KI",
+        "OpenAI",
+        "safety"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "OpenAI (+7.5); AI/KI (+3.8); safety (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ae779cc73b484fc2840c"
+    }
+  ],
   "source_errors": [
     {
       "source_id": "bis_statistics",

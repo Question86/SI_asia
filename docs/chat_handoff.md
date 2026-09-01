@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-01T05:10:23+00:00_
+_Generated: 2026-09-01T05:26:11+00:00_
 
 ## Status
 - status: `warning`
-- findings: `21`
+- findings: `22`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-09-01T05:10:23+00:00_
 - url: https://e27.co/asia-is-building-the-network-for-the-age-of-atoms-20260828/
 - summary: Southeast Asia is building manufacturing capability across a network of increasingly specialised production centres. Vietnam, Malaysia and Thailand are attracting investment across electronics, semiconductors, automotive and related supply chains while Singap…
 
-### 4. PALLET CONTROL製品におけるアクセス制御不備の脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-09-01T12:00:00+09:00`
-- url: https://jvn.jp/jp/JVN84094853/
-- summary: JALデジタル株式会社が提供するPALLET CONTROL製品にはプログラム間通信におけるアクセス制御不備の脆弱性が存在します。
+### 4. OpenAI supports California’s bill to advance youth AI safety
+- source: OpenAI News RSS
+- score: `15`
+- published: `2026-08-31T07:00:00+00:00`
+- url: https://openai.com/index/supporting-california-bill-advance-ai-youth-safety
+- summary: OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.
 
 ### 5. 東大、「価値創造学部」新設へ 27年秋入学、授業はすべて英語
 - source: Hatena Bookmark Hotentry IT

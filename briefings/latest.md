@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-01T05:10:23+00:00_
+_Generiert: 2026-09-01T05:26:11+00:00_
 
 ## Kurzlage
 
-21 neue relevante Treffer. Stärkstes Signal: „How to pitch Southeast Asia’s investors: A founder’s guide“ aus e27 Asia Startup and Tech Feed (Score 21, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+22 neue relevante Treffer. Stärkstes Signal: „How to pitch Southeast Asia’s investors: A founder’s guide“ aus e27 Asia Startup and Tech Feed (Score 21, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -88,6 +88,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Supply Chain Security (+8.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Vietnam, Thailand (+2.0)
   - Kurz: Southeast Asia is building manufacturing capability across a network of increasingly specialised production centres. Vietnam, Malaysia and Thailand are attracting investment across electronics, semiconductors, automotive and related supply chains while Singapore continues to anchor higher value technology and semiconductor activity. Each market is developing a different position within this network. Vietnam has beco…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **OpenAI supports California’s bill to advance youth AI safety** — Score 15, observation — [Quelle](https://openai.com/index/supporting-california-bill-advance-ai-youth-safety)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-08-31T07:00:00+00:00`, fetched `2026-09-01T05:25:41+00:00`
+  - Treffer: AI/KI, OpenAI, safety
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); AI/KI (+3.8); safety (+2.5); recent (+1.0)
+  - Kurz: OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **PALLET CONTROL製品におけるアクセス制御不備の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN84094853/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-09-01T12:00:00+09:00`, fetched `2026-09-01T03:08:39+00:00`
