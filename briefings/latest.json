@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T22:46:12+00:00",
-  "run_id": "2026-09-01T22:46:12+00:00",
+  "generated_at": "2026-09-01T22:53:45+00:00",
+  "run_id": "2026-09-01T22:53:45+00:00",
   "date": "2026-09-01",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 83
+      "configured_public_sources_only": 85
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 83,
-    "displayed_findings": 83,
+    "new_relevant_findings": 2,
+    "today_file_total": 85,
+    "displayed_findings": 85,
     "high": 0,
     "medium": 22,
-    "observe": 61,
+    "observe": 63,
     "source_errors": 1
   },
   "sections": {
@@ -2021,6 +2021,27 @@
         "id": "5a9648ba46edf4cd9d51"
       },
       {
+        "title": "KDDIとOsaka Metro、ヒューマノイド駅員の実証実験 アバターではなく“物理ロボット”を選んだ理由とは",
+        "url": "https://k-tai.watch.impress.co.jp/docs/news/2137103.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-01T02:26:15+00:00",
+        "fetched_at": "2026-09-01T22:53:10+00:00",
+        "summary": "KDDIとOsaka Metro、ヒューマノイド駅員の実証実験 アバターではなく“物理ロボット”を選んだ理由とは",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f50b7aaced5fef14b5f3"
+      },
+      {
         "title": "J:COMを使っているとPlumeルーターによってDNSブロッキングされる可能性がある 18.204.152.241 問題の顛末 - debiruはてなメモ",
         "url": "https://debiru.hatenablog.com/entry/20260831/jcom-plume-dns-blocking",
         "source": "Hatena Bookmark Hotentry IT",
@@ -2103,6 +2124,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "9dba5ebaa9bfe3c09a65"
+      },
+      {
+        "title": "Enterprise Live Migrations from GHES to ghe.com generally available",
+        "url": "https://github.blog/changelog/2026-09-01-enterprise-live-migrations-from-ghes-to-ghe-com-generally-available",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-09-01T22:24:27+00:00",
+        "fetched_at": "2026-09-01T22:53:10+00:00",
+        "summary": "Enterprise Live Migrations (ELM) is now generally available, enabling near-zero-downtime repository migrations from GitHub Enterprise Server (GHES) to GitHub Enterprise Cloud with Data Residency (GHEC DR), so you can move… The post Enterprise Live Migrations from GHES to ghe.com generally available appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub"
+        ],
+        "relevance_score": 3,
+        "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f2cb24a8bf797503382a"
       },
       {
         "title": "Set an expiration date for individual user budgets",
@@ -4137,6 +4178,27 @@
       "id": "5a9648ba46edf4cd9d51"
     },
     {
+      "title": "KDDIとOsaka Metro、ヒューマノイド駅員の実証実験 アバターではなく“物理ロボット”を選んだ理由とは",
+      "url": "https://k-tai.watch.impress.co.jp/docs/news/2137103.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-01T02:26:15+00:00",
+      "fetched_at": "2026-09-01T22:53:10+00:00",
+      "summary": "KDDIとOsaka Metro、ヒューマノイド駅員の実証実験 アバターではなく“物理ロボット”を選んだ理由とは",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f50b7aaced5fef14b5f3"
+    },
+    {
       "title": "J:COMを使っているとPlumeルーターによってDNSブロッキングされる可能性がある 18.204.152.241 問題の顛末 - debiruはてなメモ",
       "url": "https://debiru.hatenablog.com/entry/20260831/jcom-plume-dns-blocking",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4221,6 +4283,26 @@
       "id": "9dba5ebaa9bfe3c09a65"
     },
     {
+      "title": "Enterprise Live Migrations from GHES to ghe.com generally available",
+      "url": "https://github.blog/changelog/2026-09-01-enterprise-live-migrations-from-ghes-to-ghe-com-generally-available",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-09-01T22:24:27+00:00",
+      "fetched_at": "2026-09-01T22:53:10+00:00",
+      "summary": "Enterprise Live Migrations (ELM) is now generally available, enabling near-zero-downtime repository migrations from GitHub Enterprise Server (GHES) to GitHub Enterprise Cloud with Data Residency (GHEC DR), so you can move… The post Enterprise Live Migrations from GHES to ghe.com generally available appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f2cb24a8bf797503382a"
+    },
+    {
       "title": "Set an expiration date for individual user budgets",
       "url": "https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets",
       "source": "GitHub Changelog Atom",
@@ -4263,13 +4345,13 @@
   ],
   "new_findings": [
     {
-      "title": "OS標準日本語入力ソフトが高機能化した今、完全サブスク制に移行したATOKを使っている理由",
-      "url": "https://garumax.com/why-i-use-atok-subscription",
+      "title": "KDDIとOsaka Metro、ヒューマノイド駅員の実証実験 アバターではなく“物理ロボット”を選んだ理由とは",
+      "url": "https://k-tai.watch.impress.co.jp/docs/news/2137103.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-01T05:21:22+00:00",
-      "fetched_at": "2026-09-01T22:45:43+00:00",
-      "summary": "OS標準日本語入力ソフトが高機能化した今、完全サブスク制に移行したATOKを使っている理由 投稿日:2026年09月01日 コラム・解説・知識 執筆者 : かのあゆ ※ 当メディアのリンクにはアフィリエイト広告が含まれています 2021年夏頃よりジャストシステム社のサブスクリプション製日本語入力ソフト「ATOK Passport」を契約...",
+      "published_at": "2026-09-01T02:26:15+00:00",
+      "fetched_at": "2026-09-01T22:53:10+00:00",
+      "summary": "KDDIとOsaka Metro、ヒューマノイド駅員の実証実験 アバターではなく“物理ロボット”を選んだ理由とは",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -4281,7 +4363,27 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "c46e2706453e8bc5467e"
+      "id": "f50b7aaced5fef14b5f3"
+    },
+    {
+      "title": "Enterprise Live Migrations from GHES to ghe.com generally available",
+      "url": "https://github.blog/changelog/2026-09-01-enterprise-live-migrations-from-ghes-to-ghe-com-generally-available",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-09-01T22:24:27+00:00",
+      "fetched_at": "2026-09-01T22:53:10+00:00",
+      "summary": "Enterprise Live Migrations (ELM) is now generally available, enabling near-zero-downtime repository migrations from GitHub Enterprise Server (GHES) to GitHub Enterprise Cloud with Data Residency (GHEC DR), so you can move… The post Enterprise Live Migrations from GHES to ghe.com generally available appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f2cb24a8bf797503382a"
     }
   ],
   "source_errors": [
