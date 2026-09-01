@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T14:55:11+00:00",
-  "run_id": "2026-09-01T14:55:11+00:00",
+  "generated_at": "2026-09-01T15:06:53+00:00",
+  "run_id": "2026-09-01T15:06:53+00:00",
   "date": "2026-09-01",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 67,
     "displayed_findings": 67,
     "high": 0,
@@ -3511,30 +3511,7 @@
       "id": "9dba5ebaa9bfe3c09a65"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Copilot model access update for GitHub Team plans",
-      "url": "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-08-31T21:58:46+00:00",
-      "fetched_at": "2026-09-01T14:54:37+00:00",
-      "summary": "We have updated how model access is determined for Copilot users who hold seats in more than one organization. To keep billing and governance in sync, your model access is… The post Copilot model access update for GitHub Team plans appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "Copilot",
-        "GitHub",
-        "Public Health"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Public Health (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5b1c809c2cbc01f832b8"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [
     {
       "source_id": "bis_statistics",

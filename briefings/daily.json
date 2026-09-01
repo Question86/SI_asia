@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T14:55:15+00:00",
+  "generated_at": "2026-09-01T15:06:58+00:00",
   "today_file_total": 67,
   "current_clusters": [
     {
@@ -427,29 +427,6 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "title:copilot-model-access-update-github-team-plans",
-      "title": "Copilot model access update for GitHub Team plans",
-      "sources": [
-        "GitHub Changelog Atom"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans"
-      ],
-      "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 16.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
       "key": "domain:www.federalreserve.gov",
       "title": "Barr, Unlocking Opportunities for Workers and Entrepreneurs with a Criminal Record",
       "sources": [
@@ -494,6 +471,29 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:schools-universities-face-rising-ransomware-costs-attackers-target",
+      "title": "Schools and universities face rising ransomware costs as attackers target identities",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/schools-and-universities-face-rising-ransomware-costs-as-attackers-target-identities-20260901/"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 14.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     }
   ]
 }
