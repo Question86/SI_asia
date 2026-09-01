@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T21:51:36+00:00",
+  "generated_at": "2026-09-01T21:59:14+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 82,
@@ -71,20 +71,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 21.76,
+      "network_score": 21.62,
       "hot": false,
       "watchgraph_modules": [
         "ai_agents_workflow"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 27.4,
-      "ranking_score": 21.76,
+      "ranking_score": 21.62,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 1.26,
+      "baseline_bonus": 1.12,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -227,18 +227,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 18.85,
+      "network_score": 18.79,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "raw_network_score": 18.1,
-      "ranking_score": 18.85,
+      "ranking_score": 18.79,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 1.35,
+      "baseline_bonus": 1.29,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -960,44 +960,6 @@
       "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
-      "key": "domain:www.anthropic.com",
-      "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.anthropic.com/claude-fable-and-mythos-5-1"
-      ],
-      "finding_count": 1,
-      "max_score": 8,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 12.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 13.1,
-      "ranking_score": 12.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-09-01T21:51:36+00:00"
-    },
-    {
       "key": "url:https://www.itmedia.co.jp/news/article/2609/01/2000001002/",
       "title": "東大、「価値創造学部」新設へ 27年秋入学、授業はすべて英語",
       "sources": [
@@ -1234,6 +1196,44 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-09-01T06:56:30+00:00"
+    },
+    {
+      "key": "domain:www.anthropic.com",
+      "title": "Introducing Claude Fable 5.1 and Claude Mythos 5.1",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.anthropic.com/claude-fable-and-mythos-5-1"
+      ],
+      "finding_count": 1,
+      "max_score": 8,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 9.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 10.1,
+      "ranking_score": 9.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-01T21:51:36+00:00"
     },
     {
       "key": "title:factories-are-coming-southeast-asia-real-race-build",
@@ -2543,7 +2543,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-01T21:51:36Z",
+    "generated_at": "2026-09-01T21:59:14Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
