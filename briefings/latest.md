@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-01T03:30:47+00:00_
+_Generiert: 2026-09-01T03:46:20+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „How to pitch Southeast Asia’s investors: A founder’s guide“ aus e27 Asia Startup and Tech Feed (Score 21, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+19 neue relevante Treffer. Stärkstes Signal: „How to pitch Southeast Asia’s investors: A founder’s guide“ aus e27 Asia Startup and Tech Feed (Score 21, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -109,6 +109,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **東大、「価値創造学部」新設へ 27年秋入学、授業はすべて英語** — Score 10, observation — [Quelle](https://www.itmedia.co.jp/news/article/2609/01/2000001002/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-01T02:33:33+00:00`, fetched `2026-09-01T03:45:46+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Tokyo (+2.0)
+  - Kurz: 文部科学省が8月28日に公表した2027年度の国立大学の入学定員予定表に、東京大学の「価値創造学部」新設が掲載されたことが話題になっている。 東大が「UTokyo College of Design」として準備してきた新学部で、すべての授業を英語で実施する。秋入学を採用し、国内外から学生を受け入れるほか。学部の新設は1958年の薬...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **India is showing the world what AI will do to jobs and education** — Score 10, observation — [Quelle](https://e27.co/india-is-showing-the-world-what-ai-will-do-to-jobs-and-education-20260831/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-01T01:30:46+00:00`, fetched `2026-09-01T01:40:29+00:00`

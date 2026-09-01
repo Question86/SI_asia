@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-01T03:30:47+00:00_
+_Generated: 2026-09-01T03:46:20+00:00_
 
 ## Status
 - status: `warning`
-- findings: `17`
+- findings: `19`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-09-01T03:30:47+00:00_
 - url: https://jvn.jp/jp/JVN84094853/
 - summary: JALデジタル株式会社が提供するPALLET CONTROL製品にはプログラム間通信におけるアクセス制御不備の脆弱性が存在します。
 
-### 5. India is showing the world what AI will do to jobs and education
+### 5. 東大、「価値創造学部」新設へ 27年秋入学、授業はすべて英語
+- source: Hatena Bookmark Hotentry IT
+- score: `10`
+- published: `2026-09-01T02:33:33+00:00`
+- url: https://www.itmedia.co.jp/news/article/2609/01/2000001002/
+- summary: 文部科学省が8月28日に公表した2027年度の国立大学の入学定員予定表に、東京大学の「価値創造学部」新設が掲載されたことが話題になっている。 東大が「UTokyo College of Design」として準備してきた新学部で、すべての授業を英語で実施する。秋入学を採用し、国内外から学生を受け入れるほか。学部の新設は1958年の薬...
+
+### 6. India is showing the world what AI will do to jobs and education
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-09-01T01:30:46+00:00`
 - url: https://e27.co/india-is-showing-the-world-what-ai-will-do-to-jobs-and-education-20260831/
 - summary: The most important change AI is making to employment may not appear first in layoffs. It may appear in the people companies quietly decide not to hire. A survey of 651 Indian technology firms found that 65 per cent said AI had reduced hiring. In Britain, gove…
 
-### 6. The AI marketing backlash story doesn’t actually fit Southeast Asia
+### 7. The AI marketing backlash story doesn’t actually fit Southeast Asia
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-09-01T01:00:44+00:00`
 - url: https://e27.co/the-ai-marketing-backlash-story-doesnt-actually-fit-southeast-asia-20260828/
 - summary: Every trend deck this year has the same slide: consumers are turning against AI-generated marketing, Coca-Cola’s AI holiday ad got mocked as “soulless,” 78 per cent of people say AI makes ads feel less authentic, and the smart move for 2026 is to hide the AI…
 
-### 7. The cloud is just someone else’s computer. Sometimes that computer gets hit by a drone
+### 8. The cloud is just someone else’s computer. Sometimes that computer gets hit by a drone
 - source: e27 Asia Startup and Tech Feed
 - score: `9`
 - published: `2026-09-01T03:15:49+00:00`
 - url: https://e27.co/the-cloud-is-just-someone-elses-computer-sometimes-that-computer-gets-hit-by-a-drone-20260828/
 - summary: So a couple months ago a military drone blew up the AWS data centre where my customer’s platform runs. The platform serves millions of users across seven countries. I had to spend about a week moving everything from Bahrain to Europe. By hand. Because every s…
-
-### 8. M 4.8 - 292 km WNW of Houma, Tonga
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-09-01T01:44:48.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000td8u
-- summary: Time 2026-09-01 01:29:10 UTC 2026-09-01 01:29:10 UTC at epicenter Location 20.407°S 177.994°W Depth 533.04 km (331.21 mi)
 
 END OF DOCUMENT
