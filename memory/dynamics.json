@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-01T20:49:32Z",
+  "generated_at": "2026-09-01T21:12:05Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 1,
       "krass": 9,
-      "strong": 28,
-      "watch": 2
+      "strong": 29,
+      "watch": 1
     },
     "bands_after_gate_recheck": {
       "krass": 1,
-      "strong": 36,
-      "watch": 3
+      "strong": 37,
+      "watch": 2
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3130",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-01T11:11:07+00:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdav",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-01T08:46:46+00:00",
-      "age_days": 0.5,
+      "age_days": 0.52,
       "topics": [
         "general"
       ],
@@ -72,7 +72,7 @@
       "url": "https://jvn.jp/jp/JVN84094853/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-01T12:00:00+09:00",
-      "age_days": 0.74,
+      "age_days": 0.76,
       "topics": [
         "security"
       ],
@@ -96,7 +96,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2645",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-01T10:55:37+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -120,7 +120,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3066",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-01T08:07:35+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "security"
       ],
@@ -144,7 +144,7 @@
       "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
       "source": "OpenAI News RSS",
       "published_at": "2026-09-01T12:00:00+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "ai"
       ],
@@ -169,7 +169,7 @@
       "url": "https://github.com/majd/ipatool",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-01T06:36:40+00:00",
-      "age_days": 0.59,
+      "age_days": 0.61,
       "topics": [
         "ai"
       ],
@@ -194,7 +194,7 @@
       "url": "https://e27.co/asia-is-building-the-network-for-the-age-of-atoms-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T02:30:55+00:00",
-      "age_days": 0.76,
+      "age_days": 0.78,
       "topics": [
         "general"
       ],
@@ -218,7 +218,7 @@
       "url": "https://restofworld.org/2026/ai-safety-bias/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-09-01T10:00:00+00:00",
-      "age_days": 0.45,
+      "age_days": 0.47,
       "topics": [
         "ai"
       ],
@@ -246,7 +246,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2584",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-01T10:55:36+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -272,7 +272,7 @@
       "url": "https://e27.co/asia-is-building-the-network-for-the-age-of-atoms-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T02:30:02+00:00",
-      "age_days": 0.76,
+      "age_days": 0.78,
       "topics": [
         "ai",
         "security",
@@ -301,7 +301,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2637",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-01T10:55:37+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -327,7 +327,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3091",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-01T08:07:57+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "security"
       ],
@@ -353,7 +353,7 @@
       "url": "https://openai.com/index/path-to-astra",
       "source": "OpenAI News RSS",
       "published_at": "2026-09-01T13:00:00+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "ai",
         "security"
@@ -380,7 +380,7 @@
       "url": "https://e27.co/schools-and-universities-face-rising-ransomware-costs-as-attackers-target-identities-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T06:41:10+00:00",
-      "age_days": 0.59,
+      "age_days": 0.6,
       "topics": [
         "ai",
         "security"
@@ -407,7 +407,7 @@
       "url": "https://openai.com/index/ai-native-company-workflows",
       "source": "OpenAI News RSS",
       "published_at": "2026-09-01T17:00:00+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -433,7 +433,7 @@
       "url": "https://openai.com/index/ai-native-company-workflows",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 76.0,
+      "age_days": 76.02,
       "topics": [
         "ai"
       ],
@@ -444,12 +444,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 4.87,
+      "baseline_z_hint": 4.53,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 4.87",
+        "baseline z_hint 4.53",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 76.0d old signal",
@@ -462,7 +462,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2584",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 4.28,
+      "age_days": 4.29,
       "topics": [
         "security"
       ],
@@ -489,7 +489,7 @@
       "url": "https://e27.co/schools-and-universities-face-rising-ransomware-costs-as-attackers-target-identities-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T06:56:30+00:00",
-      "age_days": 0.58,
+      "age_days": 0.59,
       "topics": [
         "security"
       ],
@@ -516,7 +516,7 @@
       "url": "https://e27.co/how-to-pitch-southeast-asias-investors-a-founders-guide-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T01:00:47+00:00",
-      "age_days": 0.83,
+      "age_days": 0.84,
       "topics": [
         "ai"
       ],
@@ -543,7 +543,7 @@
       "url": "https://e27.co/how-to-pitch-southeast-asias-investors-a-founders-guide-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T01:08:29+00:00",
-      "age_days": 0.82,
+      "age_days": 0.84,
       "topics": [
         "general"
       ],
@@ -568,7 +568,7 @@
       "url": "https://e27.co/stocks-fear-the-fed-but-crypto-shrugs-off-a-58-rate-hike-bet-why-the-split-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T02:00:40+00:00",
-      "age_days": 0.78,
+      "age_days": 0.8,
       "topics": [
         "macro"
       ],
@@ -593,7 +593,7 @@
       "url": "https://github.com/jingyaogong/minimind",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-01T06:37:12+00:00",
-      "age_days": 0.59,
+      "age_days": 0.61,
       "topics": [
         "general"
       ],
@@ -618,7 +618,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdav",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-01T08:44:18.898+00:00",
-      "age_days": 0.5,
+      "age_days": 0.52,
       "topics": [
         "disaster"
       ],
@@ -644,7 +644,7 @@
       "url": "https://github.com/k1tbyte/Wand-Enhancer",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-01T06:36:40+00:00",
-      "age_days": 0.59,
+      "age_days": 0.61,
       "topics": [
         "ai"
       ],
@@ -670,7 +670,7 @@
       "url": "https://e27.co/the-end-of-southeast-asias-unified-startup-funding-story-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T06:37:12+00:00",
-      "age_days": 0.59,
+      "age_days": 0.61,
       "topics": [
         "general"
       ],
@@ -694,7 +694,7 @@
       "url": "https://jvn.jp/jp/JVN84094853/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-01T03:09:15+00:00",
-      "age_days": 0.74,
+      "age_days": 0.75,
       "topics": [
         "general"
       ],
@@ -718,7 +718,7 @@
       "url": "https://e27.co/singapore-now-captures-78-per-cent-of-seas-startup-funding-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T09:08:02+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "general"
       ],
@@ -742,7 +742,7 @@
       "url": "https://www.bis.org/speeches/20260901-monetary-policy-yield-curve-and-financial-markets",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-09-01T00:00:00+00:00",
-      "age_days": 0.87,
+      "age_days": 0.88,
       "topics": [
         "infra",
         "macro"
@@ -767,7 +767,7 @@
       "url": "https://www.businessinsider.jp/article/2609-meat-proxy-tech-new-term-ai/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-01T06:37:12+00:00",
-      "age_days": 0.59,
+      "age_days": 0.61,
       "topics": [
         "ai"
       ],
@@ -793,7 +793,7 @@
       "url": "https://e27.co/navigating-erp-implementation-challenges-singapore-cost-cutting-market-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T07:30:36+00:00",
-      "age_days": 0.55,
+      "age_days": 0.57,
       "topics": [
         "macro"
       ],
@@ -817,7 +817,7 @@
       "url": "https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-09-01T14:55:15+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -841,7 +841,7 @@
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1069/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-09-01T13:58:29+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -865,7 +865,7 @@
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1068/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-09-01T13:58:29+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -889,7 +889,7 @@
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1066/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-09-01T13:58:29+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -909,11 +909,36 @@
       "summary": ""
     },
     {
+      "title": "Copilot code review can now approve pull requests",
+      "url": "https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests",
+      "source": "GitHub Changelog Atom",
+      "published_at": "2026-09-01T20:20:53+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 20.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "high terms: code"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Block users from discussion comments in personal repositories",
       "url": "https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-09-01T17:40:24+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [],
       "dynamics_score": 20.0,
       "raw_band": "strong",
@@ -937,7 +962,7 @@
       "url": "https://restofworld.org/2026/ai-safety-bias/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 74.79,
+      "age_days": 74.8,
       "topics": [
         "ai"
       ],
@@ -965,7 +990,7 @@
       "url": "https://www.bis.org/speeches/20260901-monetary-policy-yield-curve-and-financial-markets",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 75.26,
+      "age_days": 75.28,
       "topics": [
         "macro"
       ],
@@ -993,7 +1018,7 @@
       "url": "https://www.heise.de/news/PV-Wechselrichter-Hoymiles-liefert-Sicherheitsupdate-aus-11436579.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-01T09:54:00.000+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "security"
       ],
@@ -1011,30 +1036,6 @@
         "security high-signal: security"
       ],
       "summary": "Hoymiles hatte seine DTU-Funkprotokolle nicht gesichert, was fremden Zugriff ermöglicht. Nun stehen Firmware-Updates bereit."
-    },
-    {
-      "title": "東大、「価値創造学部」新設へ 27年秋入学、授業はすべて英語",
-      "url": "https://www.itmedia.co.jp/news/article/2609/01/2000001002/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-01T03:46:24+00:00",
-      "age_days": 0.71,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 19.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] IBM i: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
