@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-01T06:37:09+00:00_
+_Generated: 2026-09-01T06:56:20+00:00_
 
 ## Status
 - status: `warning`
-- findings: `32`
+- findings: `35`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-09-01T06:37:09+00:00_
 - url: https://github.com/jingyaogong/minimind
 - summary: 🧠 Train a 64M-parameter LLM from scratch in just 2h! https://jingyaogong.github.io/minimind "大道至简" 中文 | English 此开源项目旨在完全从 0 开始，仅用 3 块钱成本与 2 小时训练时间，即可训练出规模约为 64M 的超小语言模型 MiniMind。 MiniMind 系列极其轻量，主线最小版本体积约为 GPT-3 的 $\frac{1}{2700}$，力求让普通个人 GPU 也能快速完成训练与复现。 项目…
 
-### 5. 東大、「価値創造学部」新設へ 27年秋入学、授業はすべて英語
+### 5. Schools and universities face rising ransomware costs as attackers target identities
+- source: e27 Asia Startup and Tech Feed
+- score: `12`
+- published: `2026-09-01T06:41:10+00:00`
+- url: https://e27.co/schools-and-universities-face-rising-ransomware-costs-as-attackers-target-identities-20260901/
+- summary: Ransomware attacks on schools and universities are increasingly beginning not with exotic malware, but with stolen logins, deceptive emails and weak identity controls. A new Sophos report has found that identity-based techniques were used in 85 per cent of ra…
+
+### 6. M 5.2 - 93 km SSW of Nikolski, Alaska
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `11`
+- published: `2026-09-01T06:55:50.127+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rhiuzf
+- summary: ShakeMap - III DYFI? - III Time 2026-09-01 06:44:39 UTC 2026-09-01 06:44:39 UTC at epicenter Location 52.154°N 169.368°W Depth 43.80 km (27.22 mi)
+
+### 7. 東大、「価値創造学部」新設へ 27年秋入学、授業はすべて英語
 - source: Hatena Bookmark Hotentry IT
 - score: `10`
 - published: `2026-09-01T02:33:33+00:00`
 - url: https://www.itmedia.co.jp/news/article/2609/01/2000001002/
 - summary: 文部科学省が8月28日に公表した2027年度の国立大学の入学定員予定表に、東京大学の「価値創造学部」新設が掲載されたことが話題になっている。 東大が「UTokyo College of Design」として準備してきた新学部で、すべての授業を英語で実施する。秋入学を採用し、国内外から学生を受け入れるほか。学部の新設は1958年の薬...
 
-### 6. India is showing the world what AI will do to jobs and education
+### 8. India is showing the world what AI will do to jobs and education
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-09-01T01:30:46+00:00`
 - url: https://e27.co/india-is-showing-the-world-what-ai-will-do-to-jobs-and-education-20260831/
 - summary: The most important change AI is making to employment may not appear first in layoffs. It may appear in the people companies quietly decide not to hire. A survey of 651 Indian technology firms found that 65 per cent said AI had reduced hiring. In Britain, gove…
-
-### 7. The AI marketing backlash story doesn’t actually fit Southeast Asia
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-09-01T01:00:44+00:00`
-- url: https://e27.co/the-ai-marketing-backlash-story-doesnt-actually-fit-southeast-asia-20260828/
-- summary: Every trend deck this year has the same slide: consumers are turning against AI-generated marketing, Coca-Cola’s AI holiday ad got mocked as “soulless,” 78 per cent of people say AI makes ads feel less authentic, and the smart move for 2026 is to hide the AI…
-
-### 8. The cloud is just someone else’s computer. Sometimes that computer gets hit by a drone
-- source: e27 Asia Startup and Tech Feed
-- score: `9`
-- published: `2026-09-01T03:15:49+00:00`
-- url: https://e27.co/the-cloud-is-just-someone-elses-computer-sometimes-that-computer-gets-hit-by-a-drone-20260828/
-- summary: So a couple months ago a military drone blew up the AWS data centre where my customer’s platform runs. The platform serves millions of users across seven countries. I had to spend about a week moving everything from Bahrain to Europe. By hand. Because every s…
 
 END OF DOCUMENT
