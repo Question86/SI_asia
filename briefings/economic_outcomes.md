@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-09-01T08:30:34+00:00`
+Generated: `2026-09-01T08:47:24+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -8,6 +8,7 @@ Generated: `2026-09-01T08:30:34+00:00`
 | M 4.6 - 170 km ESE of Kuril’sk, Russia | $0 | — | 0 | 0 | dormant |
 | M 5.8 - Kermadec Islands, New Zealand | $0 | — | 0 | 0 | dormant |
 | JetBrains/go-modern-guidelines | $0 | — | 0 | 0 | dormant |
+| M 5.6 - 82 km SE of Maba, Indonesia | $0 | — | 0 | 0 | active |
 | Zabbix agentにおけるDLL読み込みに関する脆弱性 | $0 | — | 0 | 0 | dormant |
 | M 5.0 - 64 km W of Labuha, Indonesia | $0 | — | 0 | 0 | dormant |
 | Why Japan’s booming AI market is harder to crack than it looks | $0 | — | 0 | 0 | dormant |
@@ -28,4 +29,3 @@ Generated: `2026-09-01T08:30:34+00:00`
 | Southeast Asia startup funding finds a floor, but not a rebound | $0 | — | 0 | 0 | dormant |
 | M 4.7 - 62 km SSE of Palca, Peru | $0 | — | 0 | 0 | dormant |
 | Thailand’s AI startup push gets OpenAI backing through new public-private accelerator | $0 | — | 0 | 0 | dormant |
-| curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？ | $0 | — | 0 | 0 | dormant |
