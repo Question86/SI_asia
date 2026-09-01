@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-01T06:37:27+00:00",
+  "generated_at": "2026-09-01T06:56:52+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -40,6 +40,24 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_b244f715f95f7b5ca2e1",
+      "title": "Schools and universities face rising ransomware costs as attackers target identities",
+      "event_classes": [
+        "exploit",
+        "conflict"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 113600000.0,
+      "p50_usd": 11360000000.0,
+      "p90_usd": 1136000000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-01T06:56:30+00:00",
+      "last_seen_at": "2026-09-01T06:56:30+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_3cb5980444e3bd7e9296",
       "title": "bilawalsidhu/gods-eye-view",
       "event_classes": [
@@ -71,7 +89,7 @@
       "p90_usd": 112000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T01:08:29+00:00",
-      "last_seen_at": "2026-09-01T06:37:12+00:00",
+      "last_seen_at": "2026-09-01T06:56:30+00:00",
       "status": "active"
     },
     {
@@ -88,7 +106,7 @@
       "p90_usd": 110400000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T02:30:55+00:00",
-      "last_seen_at": "2026-09-01T06:37:12+00:00",
+      "last_seen_at": "2026-09-01T06:56:30+00:00",
       "status": "active"
     },
     {
@@ -156,7 +174,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-30T11:56:17+00:00",
-      "last_seen_at": "2026-09-01T06:37:12+00:00",
+      "last_seen_at": "2026-09-01T06:56:30+00:00",
       "status": "active"
     },
     {
@@ -415,6 +433,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_d4e7a43ab88fd2b7b7a6",
+      "title": "M 5.2 - 93 km SSW of Nikolski, Alaska",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1128000.0,
+      "p50_usd": 112800000.0,
+      "p90_usd": 11280000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-01T06:56:30+00:00",
+      "last_seen_at": "2026-09-01T06:56:30+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_058a0e17878f3797ed5c",
       "title": "M 4.6 - 170 km ESE of Kuril’sk, Russia",
       "event_classes": [
@@ -513,7 +548,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-01T02:00:40+00:00",
-      "last_seen_at": "2026-09-01T06:37:12+00:00",
+      "last_seen_at": "2026-09-01T06:56:30+00:00",
       "status": "active"
     },
     {
@@ -585,6 +620,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_b720afe615a648cd42c2",
+      "title": "M 4.5 - 13 km NNW of Yasuj, Iran",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-01T06:56:30+00:00",
+      "last_seen_at": "2026-09-01T06:56:30+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -632,7 +684,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T06:37:12+00:00",
-      "last_seen_at": "2026-09-01T06:37:12+00:00",
+      "last_seen_at": "2026-09-01T06:56:30+00:00",
       "status": "active"
     },
     {
@@ -666,7 +718,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T03:09:15+00:00",
-      "last_seen_at": "2026-09-01T06:37:12+00:00",
+      "last_seen_at": "2026-09-01T06:56:30+00:00",
       "status": "active"
     },
     {
@@ -819,7 +871,7 @@
       "p90_usd": 1208000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T01:08:29+00:00",
-      "last_seen_at": "2026-09-01T06:37:12+00:00",
+      "last_seen_at": "2026-09-01T06:56:30+00:00",
       "status": "active"
     },
     {
@@ -836,7 +888,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T06:37:12+00:00",
-      "last_seen_at": "2026-09-01T06:37:12+00:00",
+      "last_seen_at": "2026-09-01T06:56:30+00:00",
       "status": "active"
     },
     {
@@ -870,7 +922,7 @@
       "p90_usd": 1192000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T02:00:40+00:00",
-      "last_seen_at": "2026-09-01T06:37:12+00:00",
+      "last_seen_at": "2026-09-01T06:56:30+00:00",
       "status": "active"
     },
     {
@@ -887,7 +939,7 @@
       "p90_usd": 1192000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T06:37:12+00:00",
-      "last_seen_at": "2026-09-01T06:37:12+00:00",
+      "last_seen_at": "2026-09-01T06:56:30+00:00",
       "status": "active"
     },
     {
@@ -955,7 +1007,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-01T06:37:12+00:00",
+      "last_seen_at": "2026-09-01T06:56:30+00:00",
       "status": "active"
     },
     {
@@ -1006,7 +1058,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T02:30:55+00:00",
-      "last_seen_at": "2026-09-01T06:37:12+00:00",
+      "last_seen_at": "2026-09-01T06:56:30+00:00",
       "status": "active"
     },
     {
@@ -1125,7 +1177,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T12:29:39+00:00",
-      "last_seen_at": "2026-09-01T06:37:12+00:00",
+      "last_seen_at": "2026-09-01T06:56:30+00:00",
       "status": "active"
     },
     {
@@ -1431,7 +1483,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T03:46:24+00:00",
-      "last_seen_at": "2026-09-01T06:37:12+00:00",
+      "last_seen_at": "2026-09-01T06:56:30+00:00",
       "status": "active"
     },
     {
@@ -1482,7 +1534,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T01:41:03+00:00",
-      "last_seen_at": "2026-09-01T06:37:12+00:00",
+      "last_seen_at": "2026-09-01T06:56:30+00:00",
       "status": "active"
     },
     {
@@ -1533,7 +1585,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T03:30:50+00:00",
-      "last_seen_at": "2026-09-01T06:37:12+00:00",
+      "last_seen_at": "2026-09-01T06:56:30+00:00",
       "status": "active"
     },
     {
@@ -1639,6 +1691,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_898a0f54d9fb45a2c814",
+      "title": "majd/ipatool",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-01T06:37:12+00:00",
+      "last_seen_at": "2026-09-01T06:56:30+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_9e390686ce17b776038d",
       "title": "Vulnérabilité dans Python (21 août 2026)",
       "event_classes": [
@@ -1690,23 +1759,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_898a0f54d9fb45a2c814",
-      "title": "majd/ipatool",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 110400.0,
-      "p50_usd": 11040000.0,
-      "p90_usd": 1104000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-01T06:37:12+00:00",
-      "last_seen_at": "2026-09-01T06:37:12+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_daeaa9b4d3ac84cf4369",
       "title": "What I’m learning about the second wave of insurance digital transformation in Indonesia",
       "event_classes": [
@@ -1721,7 +1773,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T03:46:24+00:00",
       "last_seen_at": "2026-09-01T06:37:12+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_1f26c5ec6963d43456b7",
@@ -1755,6 +1807,40 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-31T06:56:08+00:00",
       "last_seen_at": "2026-08-31T06:56:08+00:00",
+      "status": "dormant"
+    },
+    {
+      "event_id": "evt_5ad26d1c03ed71fea3a1",
+      "title": "令和8年（2026年）第4回政策評価・行政事業レビュー有識者会議（2026年8月6日（木）開催）の会議資料を掲載しました",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108800.0,
+      "p50_usd": 10880000.0,
+      "p90_usd": 1088000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-01T06:37:12+00:00",
+      "last_seen_at": "2026-09-01T06:37:12+00:00",
+      "status": "dormant"
+    },
+    {
+      "event_id": "evt_6e9f6218762520de22e4",
+      "title": "ISMAPクラウドサービスリスト等を更新しました",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108800.0,
+      "p50_usd": 10880000.0,
+      "p90_usd": 1088000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-01T06:37:12+00:00",
+      "last_seen_at": "2026-09-01T06:37:12+00:00",
       "status": "dormant"
     },
     {
@@ -1892,40 +1978,6 @@
       "first_seen_at": "2026-08-31T06:23:43+00:00",
       "last_seen_at": "2026-08-31T06:23:43+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_5ad26d1c03ed71fea3a1",
-      "title": "令和8年（2026年）第4回政策評価・行政事業レビュー有識者会議（2026年8月6日（木）開催）の会議資料を掲載しました",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108800.0,
-      "p50_usd": 10880000.0,
-      "p90_usd": 1088000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-01T06:37:12+00:00",
-      "last_seen_at": "2026-09-01T06:37:12+00:00",
-      "status": "active"
-    },
-    {
-      "event_id": "evt_6e9f6218762520de22e4",
-      "title": "ISMAPクラウドサービスリスト等を更新しました",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108800.0,
-      "p50_usd": 10880000.0,
-      "p90_usd": 1088000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-01T06:37:12+00:00",
-      "last_seen_at": "2026-09-01T06:37:12+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_0e9754a4a09813d40b86",

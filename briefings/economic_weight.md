@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-09-01T06:37:27+00:00`
+Generated: `2026-09-01T06:56:52+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -8,6 +8,7 @@ Generated: `2026-09-01T06:37:27+00:00`
 |---|---|---:|---:|---:|---:|
 | Why every warehouse in Singapore will run on AI safety monitoring within five years | natural_disaster, conflict | $122.40M | $12.24B | $1.22T | 0.31 |
 | Warsh, In Our Time | conflict | $113.60M | $11.36B | $1.14T | 0.31 |
+| Schools and universities face rising ransomware costs as attackers target identities | exploit, conflict | $113.60M | $11.36B | $1.14T | 0.31 |
 | bilawalsidhu/gods-eye-view | regulation, natural_disaster | $11.92M | $1.19B | $119.20B | 0.31 |
 | The AI marketing backlash story doesn’t actually fit Southeast Asia | regulation | $11.20M | $1.12B | $112.00B | 0.31 |
 | The factories are coming. Southeast Asia’s real race is to build what surrounds them | regulation | $11.04M | $1.10B | $110.40B | 0.31 |
@@ -30,7 +31,6 @@ Generated: `2026-09-01T06:37:27+00:00`
 | M 4.7 - 3 km NW of Yanacancha, Peru | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
 | M 4.9 - 124 km N of Aksu, China | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
 | M 4.5 - 24 km WSW of Sipí, Colombia | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
-| M 4.6 - 170 km ESE of Kuril’sk, Russia | natural_disaster | $1.11M | $111.20M | $11.12B | 0.33 |
 
 ## Interpretation
 
