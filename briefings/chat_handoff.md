@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-01T03:09:10+00:00_
+_Generated: 2026-09-01T03:30:47+00:00_
 
 ## Status
 - status: `warning`
-- findings: `16`
+- findings: `17`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-09-01T03:09:10+00:00_
 - url: https://e27.co/the-ai-marketing-backlash-story-doesnt-actually-fit-southeast-asia-20260828/
 - summary: Every trend deck this year has the same slide: consumers are turning against AI-generated marketing, Coca-Cola’s AI holiday ad got mocked as “soulless,” 78 per cent of people say AI makes ads feel less authentic, and the smart move for 2026 is to hide the AI…
 
-### 7. M 4.8 - 292 km WNW of Houma, Tonga
+### 7. The cloud is just someone else’s computer. Sometimes that computer gets hit by a drone
+- source: e27 Asia Startup and Tech Feed
+- score: `9`
+- published: `2026-09-01T03:15:49+00:00`
+- url: https://e27.co/the-cloud-is-just-someone-elses-computer-sometimes-that-computer-gets-hit-by-a-drone-20260828/
+- summary: So a couple months ago a military drone blew up the AWS data centre where my customer’s platform runs. The platform serves millions of users across seven countries. I had to spend about a week moving everything from Bahrain to Europe. By hand. Because every s…
+
+### 8. M 4.8 - 292 km WNW of Houma, Tonga
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-09-01T01:44:48.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000td8u
 - summary: Time 2026-09-01 01:29:10 UTC 2026-09-01 01:29:10 UTC at epicenter Location 20.407°S 177.994°W Depth 533.04 km (331.21 mi)
-
-### 8. The factories are coming. Southeast Asia’s real race is to build what surrounds them
-- source: e27 Asia Startup and Tech Feed
-- score: `8`
-- published: `2026-09-01T02:00:26+00:00`
-- url: https://e27.co/the-factories-are-coming-southeast-asias-real-race-is-to-build-what-surrounds-them-20260828/
-- summary: For years, Southeast Asia’s manufacturing story has been told largely through factory announcements. A multinational opens another plant in Vietnam. A semiconductor company expands in Malaysia. A battery or metals project lands in Indonesia. Those announcemen…
 
 END OF DOCUMENT

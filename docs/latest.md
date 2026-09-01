@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-01T03:09:10+00:00_
+_Generiert: 2026-09-01T03:30:47+00:00_
 
 ## Kurzlage
 
-16 neue relevante Treffer. Stärkstes Signal: „How to pitch Southeast Asia’s investors: A founder’s guide“ aus e27 Asia Startup and Tech Feed (Score 21, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+17 neue relevante Treffer. Stärkstes Signal: „How to pitch Southeast Asia’s investors: A founder’s guide“ aus e27 Asia Startup and Tech Feed (Score 21, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -78,6 +78,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
   - Kurz: Every trend deck this year has the same slide: consumers are turning against AI-generated marketing, Coca-Cola’s AI holiday ad got mocked as “soulless,” 78 per cent of people say AI makes ads feel less authentic, and the smart move for 2026 is to hide the AI and put humans back in front of the camera. […] The post The AI marketing backlash story doesn’t actually fit Southeast Asia appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **The cloud is just someone else’s computer. Sometimes that computer gets hit by a drone** — Score 9, risk — [Quelle](https://e27.co/the-cloud-is-just-someone-elses-computer-sometimes-that-computer-gets-hit-by-a-drone-20260828/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-01T03:15:49+00:00`, fetched `2026-09-01T03:30:16+00:00`
+  - Treffer: APAC Trend Radar, Watchgraph:elections_unrest
+  - Watchgraph: elections_unrest
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, META, GOOGL, MSFT, RDDT, SNAP, PINS
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: METI (+2.0); watchgraph modules elections_unrest (+3.0)
+  - Kurz: So a couple months ago a military drone blew up the AWS data centre where my customer’s platform runs. The platform serves millions of users across seven countries. I had to spend about a week moving everything from Bahrain to Europe. By hand. Because every single automated migration tool was also broken. Because, you know, […] The post The cloud is just someone else’s computer. Sometimes that computer gets hit by a…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.8 - 292 km WNW of Houma, Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000td8u)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-01T01:44:48.040+00:00`, fetched `2026-09-01T02:00:02+00:00`
@@ -87,15 +96,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-01 01:29:10 UTC 2026-09-01 01:29:10 UTC at epicenter Location 20.407°S 177.994°W Depth 533.04 km (331.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **The factories are coming. Southeast Asia’s real race is to build what surrounds them** — Score 8, observation — [Quelle](https://e27.co/the-factories-are-coming-southeast-asias-real-race-is-to-build-what-surrounds-them-20260828/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-01T02:00:26+00:00`, fetched `2026-09-01T02:30:22+00:00`
-  - Treffer: APAC Trend Radar, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Indonesia, Vietnam, Malaysia (+2.0)
-  - Kurz: For years, Southeast Asia’s manufacturing story has been told largely through factory announcements. A multinational opens another plant in Vietnam. A semiconductor company expands in Malaysia. A battery or metals project lands in Indonesia. Those announcements matter, but they only tell part of the story. As global manufacturers rethink where and how they produce, investment […] The post The factories are coming. S…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **デジタル庁設立5年 ～デジタルで変わる、一人ひとりの暮らし～ デジタル庁がこれまでに積み重ねてきた取組と成果を動画でご紹介します** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/report-2026)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-09-01T00:58:19+00:00`, fetched `2026-09-01T01:07:57+00:00`
