@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-01T11:00:02+00:00",
+  "generated_at": "2026-09-01T11:19:34+00:00",
   "events": [
     {
       "event_id": "evt_04c8c9515e6d6caa68b7",
@@ -979,7 +979,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_991fff0a26e90c5ae0c8",
@@ -1215,13 +1215,13 @@
     {
       "event_id": "evt_b25e1c4e89af56d39744",
       "title": "M 5.0 - 98 km WNW of Pangai, Tonga",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_b4e269f22bed6b0ae043",
