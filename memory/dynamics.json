@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-01T10:48:51Z",
+  "generated_at": "2026-09-01T11:12:26Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 1,
-      "krass": 3,
-      "strong": 21,
-      "watch": 15
+      "krass": 5,
+      "strong": 22,
+      "watch": 12
     },
     "bands_after_gate_recheck": {
-      "strong": 25,
-      "watch": 15
+      "strong": 28,
+      "watch": 12
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdav",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-01T08:46:46+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -46,7 +46,7 @@
       "url": "https://jvn.jp/jp/JVN84094853/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-01T12:00:00+09:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -66,11 +66,35 @@
       "summary": "JALデジタル株式会社が提供するPALLET CONTROL製品にはプログラム間通信におけるアクセス制御不備の脆弱性が存在します。"
     },
     {
+      "title": "[UPDATE] [mittel] Golang Go: Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2645",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-01T10:55:37+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Golang Go ausnutzen, um einen Denial of Service Angriff durchzuführen."
+    },
+    {
       "title": "[UPDATE] [hoch] MongoDB Clients: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3066",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-01T08:07:35+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -94,7 +118,7 @@
       "url": "https://github.com/majd/ipatool",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-01T06:36:40+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -119,7 +143,7 @@
       "url": "https://e27.co/asia-is-building-the-network-for-the-age-of-atoms-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T02:30:55+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "general"
       ],
@@ -143,7 +167,7 @@
       "url": "https://restofworld.org/2026/ai-safety-bias/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-09-01T10:00:00+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -167,11 +191,37 @@
       "summary": "OpenAI’s pause shows the risks of rapid AI development, as safety frameworks fail to account for non-Western languages and contexts where harms are felt most."
     },
     {
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux Ceph Storage: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2584",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-01T10:55:36+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, authentisierter oder anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux Ceph Storage ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen und um einen Denial-of-Service-Zustand zu verursachen."
+    },
+    {
       "title": "Asia is building the network for the age of atoms",
       "url": "https://e27.co/asia-is-building-the-network-for-the-age-of-atoms-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T02:30:02+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "ai",
         "security",
@@ -196,11 +246,37 @@
       "summary": "Southeast Asia is building manufacturing capability across a network of increasingly specialised production centres. Vietnam, Malaysia and Thailand are attracting investment across electronics, semiconductors, automotive and related supply chains while Singapore continues to anchor higher value technology and semicond…"
     },
     {
+      "title": "[UPDATE] [mittel] Rsync: Schwachstelle ermöglicht nicht spezifizierten Angriff",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2637",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-01T10:55:37+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Rsync ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen."
+    },
+    {
       "title": "[UPDATE] [hoch] Apache Wicket: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3091",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-01T08:07:57+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -226,7 +302,7 @@
       "url": "https://e27.co/schools-and-universities-face-rising-ransomware-costs-as-attackers-target-identities-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T06:41:10+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "security"
@@ -249,11 +325,38 @@
       "summary": "Ransomware attacks on schools and universities are increasingly beginning not with exotic malware, but with stolen logins, deceptive emails and weak identity controls. A new Sophos report has found that identity-based techniques were used in 85 per cent of ransomware attacks against education institutions, above the c…"
     },
     {
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux Ceph Storage: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2584",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-28T14:08:37+00:00",
+      "age_days": 3.88,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "high terms: rce",
+        "security high-signal: rce",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Monetary policy, the yield curve and financial markets",
       "url": "https://www.bis.org/speeches/20260901-monetary-policy-yield-curve-and-financial-markets",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 74.84,
+      "age_days": 74.86,
       "topics": [
         "macro"
       ],
@@ -264,15 +367,15 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 12.65,
+      "baseline_z_hint": 11.34,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 12.65",
+        "baseline z_hint 11.34",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 74.8d old signal",
+        "aging penalty -8.0 for 74.9d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -282,7 +385,7 @@
       "url": "https://e27.co/schools-and-universities-face-rising-ransomware-costs-as-attackers-target-identities-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T06:56:30+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -309,7 +412,7 @@
       "url": "https://e27.co/how-to-pitch-southeast-asias-investors-a-founders-guide-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T01:00:47+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "ai"
       ],
@@ -336,7 +439,7 @@
       "url": "https://e27.co/how-to-pitch-southeast-asias-investors-a-founders-guide-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T01:08:29+00:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "general"
       ],
@@ -361,7 +464,7 @@
       "url": "https://e27.co/stocks-fear-the-fed-but-crypto-shrugs-off-a-58-rate-hike-bet-why-the-split-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T02:00:40+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "macro"
       ],
@@ -386,7 +489,7 @@
       "url": "https://github.com/jingyaogong/minimind",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-01T06:37:12+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -411,7 +514,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdav",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-01T08:44:18.898+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -437,7 +540,7 @@
       "url": "https://github.com/k1tbyte/Wand-Enhancer",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-01T06:36:40+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -463,7 +566,7 @@
       "url": "https://e27.co/the-end-of-southeast-asias-unified-startup-funding-story-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T06:37:12+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -483,35 +586,11 @@
       "summary": ""
     },
     {
-      "title": "[UPDATE] [hoch] Apache Wicket: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3091",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 3.86,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
       "title": "PALLET CONTROL製品におけるアクセス制御不備の脆弱性",
       "url": "https://jvn.jp/jp/JVN84094853/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-01T03:09:15+00:00",
-      "age_days": 0.32,
+      "age_days": 0.34,
       "topics": [
         "general"
       ],
@@ -535,7 +614,7 @@
       "url": "https://e27.co/singapore-now-captures-78-per-cent-of-seas-startup-funding-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T09:08:02+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -559,7 +638,7 @@
       "url": "https://www.bis.org/speeches/20260901-monetary-policy-yield-curve-and-financial-markets",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-09-01T00:00:00+00:00",
-      "age_days": 0.45,
+      "age_days": 0.47,
       "topics": [
         "infra",
         "macro"
@@ -584,7 +663,7 @@
       "url": "https://www.businessinsider.jp/article/2609-meat-proxy-tech-new-term-ai/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-01T06:37:12+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -610,7 +689,7 @@
       "url": "https://e27.co/navigating-erp-implementation-challenges-singapore-cost-cutting-market-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T07:30:36+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "macro"
       ],
@@ -634,7 +713,7 @@
       "url": "https://restofworld.org/2026/ai-safety-bias/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 74.37,
+      "age_days": 74.38,
       "topics": [
         "ai"
       ],
@@ -645,12 +724,12 @@
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.87,
+      "baseline_z_hint": 0.79,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 0.87",
+        "baseline z_hint 0.79",
         "AXI0M/User-Yps identity hit",
         "aging penalty -8.0 for 74.4d old signal",
         "identity recheck: no AXI0M/User-Yps phrase hit",
@@ -663,7 +742,7 @@
       "url": "https://www.heise.de/news/PV-Wechselrichter-Hoymiles-liefert-Sicherheitsupdate-aus-11436579.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-01T09:54:00.000+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -687,7 +766,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/01/2000001002/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-01T03:46:24+00:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -711,7 +790,7 @@
       "url": "https://e27.co/the-cloud-is-just-someone-elses-computer-sometimes-that-computer-gets-hit-by-a-drone-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T03:30:50+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -735,7 +814,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td9v",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-01T05:26:29.040+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -759,7 +838,7 @@
       "url": "https://www.bis.org/speeches/20260901-advancing-banking-governance-and-financial-innovation-malaysia-and-asia",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-09-01T00:00:00+00:00",
-      "age_days": 0.45,
+      "age_days": 0.47,
       "topics": [
         "ai",
         "macro"
@@ -786,7 +865,7 @@
       "url": "https://e27.co/the-factories-are-coming-southeast-asias-real-race-is-to-build-what-surrounds-them-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T02:30:55+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "general"
       ],
@@ -810,7 +889,7 @@
       "url": "https://github.com/majd/ipatool",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-01T06:37:12+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -834,7 +913,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tda7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-01T06:48:51.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -859,7 +938,7 @@
       "url": "https://e27.co/the-cloud-is-just-someone-elses-computer-sometimes-that-computer-gets-hit-by-a-drone-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T03:15:49+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "ai"
       ],
@@ -885,7 +964,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td8u",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-01T01:44:48.040+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "disaster"
       ],
@@ -910,7 +989,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tda7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-01T06:56:30+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -934,85 +1013,11 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td8u",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-01T02:00:40+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "general"
       ],
       "dynamics_score": 16.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "What I’m learning about the second wave of insurance digital transformation in Indonesia",
-      "url": "https://e27.co/what-im-learning-about-the-second-wave-of-insurance-digital-transformation-in-indonesia-20260828/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-01T03:46:24+00:00",
-      "age_days": 0.29,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 16.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "2026年度選考採用試験（課長補佐級・係長級／一般職相当）の第2期募集を開始しました",
-      "url": "https://www.digital.go.jp/recruitment/career-government-official/career-selection-clericalposition-2026",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 73.97,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 15.89,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.81,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 0.81",
-        "aging penalty -8.0 for 74.0d old signal"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "令和8年（2026年）第4回政策評価・行政事業レビュー有識者会議（2026年8月6日（木）開催）の会議資料を掲載しました",
-      "url": "https://www.digital.go.jp/policies/assessment/project-review/2026/712e6491-2e7c-426a-a489-191bf4be13a5",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-09-01T06:37:12+00:00",
-      "age_days": 0.17,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 15.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
