@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T20:00:00+00:00",
-  "run_id": "2026-09-01T20:00:00+00:00",
+  "generated_at": "2026-09-01T20:20:48+00:00",
+  "run_id": "2026-09-01T20:20:48+00:00",
   "date": "2026-09-01",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 76
+      "configured_public_sources_only": 78
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 76,
-    "displayed_findings": 76,
+    "new_relevant_findings": 2,
+    "today_file_total": 78,
+    "displayed_findings": 78,
     "high": 0,
     "medium": 21,
-    "observe": 55,
+    "observe": 57,
     "source_errors": 1
   },
   "sections": {
@@ -691,6 +691,27 @@
       }
     ],
     "observe": [
+      {
+        "title": "Path to Astra: critical capabilities and frontier safeguards",
+        "url": "https://openai.com/index/path-to-astra",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-09-01T13:00:00+00:00",
+        "fetched_at": "2026-09-01T20:20:12+00:00",
+        "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+        "matched_keywords": [
+          "OpenAI",
+          "Security"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "OpenAI (+6.0); Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ba780ba5527981d2e234"
+      },
       {
         "title": "Barr, Unlocking Opportunities for Workers and Entrepreneurs with a Criminal Record",
         "url": "https://www.federalreserve.gov/newsevents/speech/barr20260901a.htm",
@@ -1461,6 +1482,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "e25fe148508296765b78"
+      },
+      {
+        "title": "Copilot code review can now approve pull requests",
+        "url": "https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-09-01T19:25:57+00:00",
+        "fetched_at": "2026-09-01T20:20:12+00:00",
+        "summary": "Copilot now tells you when a pull request is ready to approve, and admins can authorize it to sign off on approval. The ability for Copilot to approve is off… The post Copilot code review can now approve pull requests appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "Copilot",
+          "GitHub"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "38ad81a13925b4ade86d"
       },
       {
         "title": "令和8年（2026年）第4回政策評価・行政事業レビュー有識者会議（2026年8月6日（木）開催）の会議資料を掲載しました",
@@ -2659,6 +2701,27 @@
       "id": "d662191cc482f148e996"
     },
     {
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "url": "https://openai.com/index/path-to-astra",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-01T13:00:00+00:00",
+      "fetched_at": "2026-09-01T20:20:12+00:00",
+      "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+      "matched_keywords": [
+        "OpenAI",
+        "Security"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "OpenAI (+6.0); Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ba780ba5527981d2e234"
+    },
+    {
       "title": "Barr, Unlocking Opportunities for Workers and Entrepreneurs with a Criminal Record",
       "url": "https://www.federalreserve.gov/newsevents/speech/barr20260901a.htm",
       "source": "Federal Reserve Speeches and Testimony",
@@ -3430,6 +3493,27 @@
       "id": "e25fe148508296765b78"
     },
     {
+      "title": "Copilot code review can now approve pull requests",
+      "url": "https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-09-01T19:25:57+00:00",
+      "fetched_at": "2026-09-01T20:20:12+00:00",
+      "summary": "Copilot now tells you when a pull request is ready to approve, and admins can authorize it to sign off on approval. The ability for Copilot to approve is off… The post Copilot code review can now approve pull requests appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "38ad81a13925b4ade86d"
+    },
+    {
       "title": "令和8年（2026年）第4回政策評価・行政事業レビュー有識者会議（2026年8月6日（木）開催）の会議資料を掲載しました",
       "url": "https://www.digital.go.jp/policies/assessment/project-review/2026/712e6491-2e7c-426a-a489-191bf4be13a5",
       "source": "Japan Digital Agency News RSS",
@@ -3963,7 +4047,50 @@
       "id": "c3a323d422b7f7f79a3d"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "url": "https://openai.com/index/path-to-astra",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-01T13:00:00+00:00",
+      "fetched_at": "2026-09-01T20:20:12+00:00",
+      "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+      "matched_keywords": [
+        "OpenAI",
+        "Security"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "OpenAI (+6.0); Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ba780ba5527981d2e234"
+    },
+    {
+      "title": "Copilot code review can now approve pull requests",
+      "url": "https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-09-01T19:25:57+00:00",
+      "fetched_at": "2026-09-01T20:20:12+00:00",
+      "summary": "Copilot now tells you when a pull request is ready to approve, and admins can authorize it to sign off on approval. The ability for Copilot to approve is off… The post Copilot code review can now approve pull requests appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "38ad81a13925b4ade86d"
+    }
+  ],
   "source_errors": [
     {
       "source_id": "bis_statistics",

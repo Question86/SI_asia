@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-01T20:00:00+00:00_
+_Generiert: 2026-09-01T20:20:48+00:00_
 
 ## Kurzlage
 
-76 neue relevante Treffer. Stärkstes Signal: „How to pitch Southeast Asia’s investors: A founder’s guide“ aus e27 Asia Startup and Tech Feed (Score 21, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+78 neue relevante Treffer. Stärkstes Signal: „How to pitch Southeast Asia’s investors: A founder’s guide“ aus e27 Asia Startup and Tech Feed (Score 21, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -211,6 +211,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Path to Astra: critical capabilities and frontier safeguards** — Score 13, observation — [Quelle](https://openai.com/index/path-to-astra)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-09-01T13:00:00+00:00`, fetched `2026-09-01T20:20:12+00:00`
+  - Treffer: OpenAI, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); Security (+6.0); recent (+1.0)
+  - Kurz: Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Barr, Unlocking Opportunities for Workers and Entrepreneurs with a Criminal Record** — Score 12, observation — [Quelle](https://www.federalreserve.gov/newsevents/speech/barr20260901a.htm)
   - Quelle: Federal Reserve Speeches and Testimony / `rss`
   - Zeit: published `2026-09-01T13:05:00+00:00`, fetched `2026-09-01T13:20:38+00:00`
@@ -337,15 +346,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); banking (+2.5); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)
   - Kurz: Opening address by Mr Abdul Rasheed Ghaffour, Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the inaugural AICB (Asian Institute of Chartered Bankers) Nexus Conference, Kuala Lumpur, 8 July 2026.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Boris Vujčić: Household expectations and monetary policy: The importance of high-quality surveys and evidence-based research** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260901~bb28f33f54.en.html)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-09-01T16:00:00+00:00`, fetched `2026-09-01T16:07:36+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Boris Vujčić: Household expectations and monetary policy: The importance of high-quality surveys and evidence-based research
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
