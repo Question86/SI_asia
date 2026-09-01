@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-01T07:58:47+00:00_
+_Generiert: 2026-09-01T08:30:01+00:00_
 
 ## Kurzlage
 
-38 neue relevante Treffer. Stärkstes Signal: „How to pitch Southeast Asia’s investors: A founder’s guide“ aus e27 Asia Startup and Tech Feed (Score 21, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+44 neue relevante Treffer. Stärkstes Signal: „How to pitch Southeast Asia’s investors: A founder’s guide“ aus e27 Asia Startup and Tech Feed (Score 21, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -48,6 +48,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: 🧠 Train a 64M-parameter LLM from scratch in just 2h! https://jingyaogong.github.io/minimind "大道至简" 中文 | English 此开源项目旨在完全从 0 开始，仅用 3 块钱成本与 2 小时训练时间，即可训练出规模约为 64M 的超小语言模型 MiniMind。 MiniMind 系列极其轻量，主线最小版本体积约为 GPT-3 的 $\frac{1}{2700}$，力求让普通个人 GPU 也能快速完成训练与复现。 项目同时开源了大模型的极简结构与完整训练链路，覆盖 MoE、数据清洗、预训练（Pretrain）、监督微调（SFT）、LoRA、RLHF（DPO）、RLAIF（PPO / GRPO / CISPO）、Tool Use、Agentic RL、自适应思考与模型蒸馏等全过程代码。 MiniMind 同时拓展了视觉模态模型 Min…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Monetary policy, the yield curve and financial markets** — Score 17, observation — [Quelle](https://www.bis.org/speeches/20260901-monetary-policy-yield-curve-and-financial-markets)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-09-01T00:00:00+00:00`, fetched `2026-09-01T08:29:22+00:00`
+  - Treffer: Macro/Policy, Markets/Capital Structure
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); Markets/Capital Structure (+7.5); recent (+1.0); watchgraph region europe: London (+2.0)
+  - Kurz: Keynote address by Mr Rashad Cassim, Deputy Governor of the South African Reserve Bank, at the London Stock Exchange Group (LSEG) Insight Series event, Johannesburg, 24 June 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Asia is building the network for the age of atoms** — Score 16, risk — [Quelle](https://e27.co/asia-is-building-the-network-for-the-age-of-atoms-20260828/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-01T02:30:02+00:00`, fetched `2026-09-01T02:30:22+00:00`
@@ -84,6 +93,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: JALデジタル株式会社が提供するPALLET CONTROL製品にはプログラム間通信におけるアクセス制御不備の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [hoch] Apache Wicket: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3091)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-09-01T08:07:57+00:00`, fetched `2026-09-01T08:29:22+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Apache Wicket ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen oder Cross-Site-Scripting-Angriffe durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [hoch] MongoDB Clients: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3066)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-09-01T08:07:35+00:00`, fetched `2026-09-01T08:29:22+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in verschiedenen MongoDB Clients ausnutzen, um Sicherheitsvorkehrungen zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren oder Denial-of-Service-Zustände herbeizuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **2026年度選考採用試験（課長補佐級・係長級／一般職相当）の第2期募集を開始しました** — Score 14, observation — [Quelle](https://www.digital.go.jp/recruitment/career-government-official/career-selection-clericalposition-2026)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-09-01T00:56:42+00:00`, fetched `2026-09-01T01:07:57+00:00`
@@ -114,6 +141,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Ransomware attacks on schools and universities are increasingly beginning not with exotic malware, but with stolen logins, deceptive emails and weak identity controls. A new Sophos report has found that identity-based techniques were used in 85 per cent of ransomware attacks against education institutions, above the cross-sector average of 79 per cent. These methods include […] The post Schools and universities face…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 4.5 - 90 km SSW of Nikolski, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdal)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-01T08:08:39.040+00:00`, fetched `2026-09-01T08:29:22+00:00`
+  - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: ShakeMap - III Time 2026-09-01 07:45:38 UTC 2026-09-01 07:45:38 UTC at epicenter Location 52.162°N 169.259°W Depth 37.56 km (23.34 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.5 - 105 km SSW of Nikolski, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdag)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-01T07:21:56.040+00:00`, fetched `2026-09-01T07:29:51+00:00`
@@ -131,15 +167,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: ShakeMap - III DYFI? - IV Time 2026-09-01 06:44:39 UTC 2026-09-01 06:44:39 UTC at epicenter Location 52.257°N 169.426°W Depth 47.11 km (29.27 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.2 - 93 km SSW of Nikolski, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rhiuzf)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-01T06:55:50.127+00:00`, fetched `2026-09-01T06:55:33+00:00`
-  - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: ShakeMap - III DYFI? - III Time 2026-09-01 06:44:39 UTC 2026-09-01 06:44:39 UTC at epicenter Location 52.154°N 169.368°W Depth 43.80 km (27.22 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **東大、「価値創造学部」新設へ 27年秋入学、授業はすべて英語** — Score 10, observation — [Quelle](https://www.itmedia.co.jp/news/article/2609/01/2000001002/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -159,6 +186,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region india: India (+2.0)
   - Kurz: The most important change AI is making to employment may not appear first in layoffs. It may appear in the people companies quietly decide not to hire. A survey of 651 Indian technology firms found that 65 per cent said AI had reduced hiring. In Britain, government and LinkedIn data found 30 of 38 tracked […] The post India is showing the world what AI will do to jobs and education appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Advancing banking, governance and financial innovation in Malaysia and Asia** — Score 10, opportunity — [Quelle](https://www.bis.org/speeches/20260901-advancing-banking-governance-and-financial-innovation-malaysia-and-asia)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-09-01T00:00:00+00:00`, fetched `2026-09-01T08:29:22+00:00`
+  - Treffer: banking, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); banking (+2.5); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)
+  - Kurz: Opening address by Mr Abdul Rasheed Ghaffour, Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the inaugural AICB (Asian Institute of Chartered Bankers) Nexus Conference, Kuala Lumpur, 8 July 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **majd/ipatool** — Score 8, observation — [Quelle](https://github.com/majd/ipatool)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-09-01T06:36:40+00:00`
@@ -195,6 +231,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: ISMAPクラウドサービスリスト等を更新しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Closing remarks at the Conference on the Spanish Economy** — Score 6, opportunity — [Quelle](https://www.bis.org/speeches/20260901-closing-remarks-conference-spanish-economy)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-09-01T00:00:00+00:00`, fetched `2026-09-01T08:29:22+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0)
+  - Kurz: Closing remarks by Ms Soledad Núñez, Deputy Governor of the Bank of Spain, at the 5th Conference on the Spanish Economy, organised by the Bank of Spain together with the Center for Monetary and Financial Studies (CEMFI) and the Menéndez Pelayo International University (UIMP), Madrid, 3 July 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **「玄人志向」が「Crowxis」にブランド変更！サングラスもやめてTGSで初披露** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/news/2137155.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-01T04:11:40+00:00`, fetched `2026-09-01T05:37:28+00:00`
@@ -212,15 +257,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: あるWebサイトにアクセスするとSSLエラーになった DNSの応答がおかしい J:COMの応答 J:COM問い合わせ J:COMの権威ある回答 まとめ J:COM問い合わせ対応について J:COMに改善してほしいこと おわりに 関連情報 あるWebサイトにアクセスするとSSLエラーになった こんにちは。趣味でDNSを研究したりしている @debiru_R です...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **k1tbyte/Wand-Enhancer** — Score 4, observation — [Quelle](https://github.com/k1tbyte/Wand-Enhancer)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-09-01T06:36:40+00:00`
-  - Treffer: APAC Trend Radar, Content-Chance, GitHub Trending
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0); watchgraph demote tutorial (x0.45)
-  - Kurz: Advanced UX and interoperability extension for Wand (WeMod) app https://gitlab.com/kitbyte/wand-enhancer WandEnhancer An open-source interoperability tool designed to extend local client-side configurations and improve the UX of the Wand application. 🚨 IMPORTANT NOTICE: THIS PROJECT HAS NO OFFICIAL YOUTUBE TUTORIALS, GUIDES, OR PREBUILT EXECUTABLE DOWNLOADS. 🚨 There are no official videos showing how to install or u…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
