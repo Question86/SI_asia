@@ -1,19 +1,25 @@
 {
-  "generated_at": "2026-09-01T13:42:23+00:00",
+  "generated_at": "2026-09-01T13:58:24+00:00",
   "status": "warning",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
   "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 60,
-    "displayed_findings": 60,
+    "new_relevant_findings": 5,
+    "today_file_total": 65,
+    "displayed_findings": 65,
     "high": 0,
-    "medium": 19,
-    "observe": 41,
-    "source_errors": 1
+    "medium": 20,
+    "observe": 45,
+    "source_errors": 2
   },
   "source_errors": [
+    {
+      "source_id": "ecb_open_market_operations",
+      "source_name": "ECB Open Market Operations and Communication",
+      "source_type": "rss",
+      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    },
     {
       "source_id": "bis_statistics",
       "source_name": "BIS Statistical Releases",
