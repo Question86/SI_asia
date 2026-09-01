@@ -1,100 +1,19 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-08-31T23:54:19+00:00",
+  "generated_at": "2026-09-01T00:07:29+00:00",
   "status": "warning",
   "coverage_confidence": "limited",
   "counts": {
     "new_relevant_findings": 0,
-    "today_file_total": 95,
-    "displayed_findings": 95,
+    "today_file_total": 0,
+    "displayed_findings": 0,
     "high": 0,
-    "medium": 36,
-    "observe": 59
+    "medium": 0,
+    "observe": 0
   },
   "source_errors_count": 1,
-  "top_signals": [
-    {
-      "title": "Polimill builds Japan's next-generation public AI infrastructure",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-08-31T07:00:00+00:00",
-      "relevance_score": 20,
-      "url": "https://openai.com/index/polimill",
-      "summary": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
-      "section": "medium"
-    },
-    {
-      "title": "M 5.5 - 44 km NNE of Ruteng, Indonesia",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-08-31T08:28:21.762+00:00",
-      "relevance_score": 19,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td2z",
-      "summary": "PAGER - GREEN ShakeMap - VI Time 2026-08-31 08:03:28 UTC 2026-08-31 08:03:28 UTC at epicenter Location 8.241°S 120.612°E Depth 10.00 km (6.21 mi)",
-      "section": "medium"
-    },
-    {
-      "title": "Southeast Asia’s chip-hub ambition is colliding with its chip-smuggling problem",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-31T03:46:03+00:00",
-      "relevance_score": 18,
-      "url": "https://e27.co/southeast-asias-chip-hub-ambition-is-colliding-with-its-chip-smuggling-problem-20260831/",
-      "summary": "A couple of months ago, Singapore police froze a bungalow worth roughly US$42 million as part of its widening fraud investigation tied to the local server reseller Aperia Group. It is one data point in a pattern that has become impossible to ignore: Southeast…",
-      "section": "medium"
-    },
-    {
-      "title": "[NEU] [hoch] Langflow OSS: Mehrere Schwachstellen",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-08-31T11:16:06+00:00",
-      "relevance_score": 17,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3096",
-      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Langflow OSS ausnutzen, um Sicherheitsmaßnahmen zu umgehen, beliebigen Code auszuführen, Server-Side Request Forgery (SSRF) durchzuführen, sensible Daten offenzulegen oder zu manipuliere…",
-      "section": "medium"
-    },
-    {
-      "title": "Southeast Asia startup funding finds a floor, but not a rebound",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-08-31T08:42:46+00:00",
-      "relevance_score": 13,
-      "url": "https://e27.co/southeast-asia-startup-funding-finds-a-floor-but-not-a-rebound-20260831/",
-      "summary": "Southeast Asia’s venture capital market has stopped falling off a cliff. That does not mean it has bounced back. According to the “Southeast Asia Startup Funding Report for 2025” by DealStreetAsia and Kickstart Ventures, the region closed the year with just 4…",
-      "section": "observe"
-    },
-    {
-      "title": "リコー製Web Image Monitorを実装している複数のレーザープリンタおよび複合機（MFP）におけるオープンリダイレクトの脆弱性",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-04-30T14:00:00+09:00",
-      "relevance_score": 13,
-      "url": "https://jvn.jp/jp/JVN65118274/",
-      "summary": "リコー製Web Image Monitorを実装している複数のレーザープリンタおよび複合機（MFP）には、オープンリダイレクトの脆弱性が存在します。",
-      "section": "observe"
-    },
-    {
-      "title": "Announcing 20260077 (MRO,liquidity providing), for 7 days deadline 09:30",
-      "source": "ECB Open Market Operations and Communication",
-      "source_type": "rss",
-      "published_at": "2026-08-31T14:40:20+00:00",
-      "relevance_score": 12,
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260077.en.html",
-      "summary": "Announcing 20260077 (MRO,liquidity providing), for 7 days deadline 09:30",
-      "section": "observe"
-    },
-    {
-      "title": "OpenAIが数万台のMac miniとMac Studioを買い占め",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-31T03:28:11+00:00",
-      "relevance_score": 12,
-      "url": "https://gigazine.net/news/20260831-openai-tens-of-thousands-apple-mac-mini-studio/",
-      "summary": "メモリ不足によりメモリ価格が高騰しており、一般消費者はほとんど市場から締め出されている状況ですが、AIワークロードに適したマシンは飛ぶように売れています。AI企業のOpenAIは数万台のMac miniやMac Studioを買い占めていることが、報道により明らかになりました。 OpenAI Hoarding Tens Of Thousands Of Apple Mac...",
-      "section": "observe"
-    }
-  ],
+  "top_signals": [],
   "next_read_order": [
     "briefings/chat_handoff.json",
     "memory/index.json",
