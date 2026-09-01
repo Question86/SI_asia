@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-09-01T08:47:04+00:00`
+Generated: `2026-09-01T08:55:30+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -13,8 +13,8 @@ Generated: `2026-09-01T08:47:04+00:00`
 | The AI marketing backlash story doesn’t actually fit Southeast Asia | regulation | $11.20M | $1.12B | $112.00B | 0.31 |
 | The factories are coming. Southeast Asia’s real race is to build what surrounds them | regulation | $11.04M | $1.10B | $110.40B | 0.31 |
 | Southeast Asia’s quiet FDI manufacturing redistribution | regulation | $10.88M | $1.09B | $108.80B | 0.31 |
-| M 5.5 - 44 km NNE of Ruteng, Indonesia | natural_disaster | $1.19M | $119.20M | $11.92B | 0.33 |
 | M 5.6 - 82 km SE of Maba, Indonesia | natural_disaster | $1.19M | $119.20M | $11.92B | 0.33 |
+| M 5.5 - 44 km NNE of Ruteng, Indonesia | natural_disaster | $1.19M | $119.20M | $11.92B | 0.33 |
 | M 5.0 - 64 km W of Labuha, Indonesia | natural_disaster | $1.16M | $116.00M | $11.60B | 0.33 |
 | M 4.6 - 52 km NNE of Ruteng, Indonesia | natural_disaster | $1.16M | $116.00M | $11.60B | 0.33 |
 | M 4.8 - 110 km E of Miyako, Japan | natural_disaster | $1.16M | $116.00M | $11.60B | 0.33 |
