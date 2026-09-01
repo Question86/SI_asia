@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-01T05:41:27Z",
+  "generated_at": "2026-09-01T05:49:57Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “PALLET CONTROL製品におけるアクセス制御不備の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/jp/JVN84094853/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-01T12:00:00+09:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://e27.co/asia-is-building-the-network-for-the-age-of-atoms-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T02:30:55+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -63,7 +63,7 @@
       "url": "https://e27.co/asia-is-building-the-network-for-the-age-of-atoms-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T02:30:02+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "ai",
         "security",
@@ -92,7 +92,7 @@
       "url": "https://e27.co/how-to-pitch-southeast-asias-investors-a-founders-guide-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T01:00:47+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -119,7 +119,7 @@
       "url": "https://e27.co/how-to-pitch-southeast-asias-investors-a-founders-guide-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T01:08:29+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -144,7 +144,7 @@
       "url": "https://e27.co/stocks-fear-the-fed-but-crypto-shrugs-off-a-58-rate-hike-bet-why-the-split-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T02:00:40+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "macro"
       ],
@@ -189,37 +189,11 @@
       "summary": ""
     },
     {
-      "title": "M 4.6 - 201 km SW of Fakfak, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td9v",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 74.63,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 19.59,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 2.9,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 2.90",
-        "aging penalty -8.0 for 74.6d old signal"
-      ],
-      "summary": ""
-    },
-    {
       "title": "東大、「価値創造学部」新設へ 27年秋入学、授業はすべて英語",
       "url": "https://www.itmedia.co.jp/news/article/2609/01/2000001002/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-01T03:46:24+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -243,7 +217,7 @@
       "url": "https://e27.co/the-cloud-is-just-someone-elses-computer-sometimes-that-computer-gets-hit-by-a-drone-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T03:30:50+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -267,7 +241,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td9v",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-01T05:26:29.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
@@ -291,7 +265,7 @@
       "url": "https://e27.co/the-factories-are-coming-southeast-asias-real-race-is-to-build-what-surrounds-them-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T02:30:55+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -309,6 +283,32 @@
         "momentum delta +3"
       ],
       "summary": ""
+    },
+    {
+      "title": "The cloud is just someone else’s computer. Sometimes that computer gets hit by a drone",
+      "url": "https://e27.co/the-cloud-is-just-someone-elses-computer-sometimes-that-computer-gets-hit-by-a-drone-20260828/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-01T03:15:49+00:00",
+      "age_days": 0.11,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "So a couple months ago a military drone blew up the AWS data centre where my customer’s platform runs. The platform serves millions of users across seven countries. I had to spend about a week moving everything from Bahrain to Europe. By hand. Because every single automated migration tool was also broken. Because, you…"
     }
   ],
   "read_order": [
