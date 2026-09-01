@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T20:20:48+00:00",
-  "run_id": "2026-09-01T20:20:48+00:00",
+  "generated_at": "2026-09-01T20:30:45+00:00",
+  "run_id": "2026-09-01T20:30:45+00:00",
   "date": "2026-09-01",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 78,
     "displayed_findings": 78,
     "high": 0,
@@ -4047,50 +4047,7 @@
       "id": "c3a323d422b7f7f79a3d"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "url": "https://openai.com/index/path-to-astra",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-09-01T13:00:00+00:00",
-      "fetched_at": "2026-09-01T20:20:12+00:00",
-      "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
-      "matched_keywords": [
-        "OpenAI",
-        "Security"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "OpenAI (+6.0); Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ba780ba5527981d2e234"
-    },
-    {
-      "title": "Copilot code review can now approve pull requests",
-      "url": "https://github.blog/changelog/2026-09-01-copilot-code-review-can-now-approve-pull-requests",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-09-01T19:25:57+00:00",
-      "fetched_at": "2026-09-01T20:20:12+00:00",
-      "summary": "Copilot now tells you when a pull request is ready to approve, and admins can authorize it to sign off on approval. The ability for Copilot to approve is off… The post Copilot code review can now approve pull requests appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "Copilot",
-        "GitHub"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "38ad81a13925b4ade86d"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [
     {
       "source_id": "bis_statistics",
