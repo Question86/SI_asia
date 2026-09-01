@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-01T07:13:17+00:00",
+  "generated_at": "2026-09-01T07:30:52+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -54,7 +54,7 @@
       "p90_usd": 1136000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T06:56:30+00:00",
-      "last_seen_at": "2026-09-01T07:12:59+00:00",
+      "last_seen_at": "2026-09-01T07:30:36+00:00",
       "status": "active"
     },
     {
@@ -89,7 +89,7 @@
       "p90_usd": 112000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T01:08:29+00:00",
-      "last_seen_at": "2026-09-01T07:12:59+00:00",
+      "last_seen_at": "2026-09-01T07:30:36+00:00",
       "status": "active"
     },
     {
@@ -107,7 +107,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T02:30:55+00:00",
       "last_seen_at": "2026-09-01T07:12:59+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_d48e21c7f82486093be6",
@@ -174,7 +174,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-30T11:56:17+00:00",
-      "last_seen_at": "2026-09-01T07:12:59+00:00",
+      "last_seen_at": "2026-09-01T07:30:36+00:00",
       "status": "active"
     },
     {
@@ -395,7 +395,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-01T06:56:30+00:00",
-      "last_seen_at": "2026-09-01T07:12:59+00:00",
+      "last_seen_at": "2026-09-01T07:30:36+00:00",
       "status": "active"
     },
     {
@@ -448,6 +448,23 @@
       "first_seen_at": "2026-08-29T11:40:09+00:00",
       "last_seen_at": "2026-08-29T23:58:25+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_c2576aa6384932262a1f",
+      "title": "M 4.5 - 105 km SSW of Nikolski, Alaska",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1128000.0,
+      "p50_usd": 112800000.0,
+      "p90_usd": 11280000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-01T07:30:36+00:00",
+      "last_seen_at": "2026-09-01T07:30:36+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_058a0e17878f3797ed5c",
@@ -548,7 +565,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-01T02:00:40+00:00",
-      "last_seen_at": "2026-09-01T07:12:59+00:00",
+      "last_seen_at": "2026-09-01T07:30:36+00:00",
       "status": "active"
     },
     {
@@ -565,7 +582,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-01T06:56:30+00:00",
-      "last_seen_at": "2026-09-01T07:12:59+00:00",
+      "last_seen_at": "2026-09-01T07:30:36+00:00",
       "status": "active"
     },
     {
@@ -684,7 +701,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T06:37:12+00:00",
-      "last_seen_at": "2026-09-01T07:12:59+00:00",
+      "last_seen_at": "2026-09-01T07:30:36+00:00",
       "status": "active"
     },
     {
@@ -718,7 +735,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T03:09:15+00:00",
-      "last_seen_at": "2026-09-01T07:12:59+00:00",
+      "last_seen_at": "2026-09-01T07:30:36+00:00",
       "status": "active"
     },
     {
@@ -871,7 +888,7 @@
       "p90_usd": 1208000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T01:08:29+00:00",
-      "last_seen_at": "2026-09-01T07:12:59+00:00",
+      "last_seen_at": "2026-09-01T07:30:36+00:00",
       "status": "active"
     },
     {
@@ -888,7 +905,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T06:37:12+00:00",
-      "last_seen_at": "2026-09-01T07:12:59+00:00",
+      "last_seen_at": "2026-09-01T07:30:36+00:00",
       "status": "active"
     },
     {
@@ -922,7 +939,7 @@
       "p90_usd": 1192000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T02:00:40+00:00",
-      "last_seen_at": "2026-09-01T07:12:59+00:00",
+      "last_seen_at": "2026-09-01T07:30:36+00:00",
       "status": "active"
     },
     {
@@ -939,7 +956,7 @@
       "p90_usd": 1192000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T06:37:12+00:00",
-      "last_seen_at": "2026-09-01T07:12:59+00:00",
+      "last_seen_at": "2026-09-01T07:30:36+00:00",
       "status": "active"
     },
     {
@@ -1007,7 +1024,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-01T07:12:59+00:00",
+      "last_seen_at": "2026-09-01T07:30:36+00:00",
       "status": "active"
     },
     {
@@ -1058,7 +1075,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T02:30:55+00:00",
-      "last_seen_at": "2026-09-01T07:12:59+00:00",
+      "last_seen_at": "2026-09-01T07:30:36+00:00",
       "status": "active"
     },
     {
@@ -1177,7 +1194,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T12:29:39+00:00",
-      "last_seen_at": "2026-09-01T07:12:59+00:00",
+      "last_seen_at": "2026-09-01T07:30:36+00:00",
       "status": "active"
     },
     {
@@ -1264,6 +1281,23 @@
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-08-31T23:54:23+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_eead2fa9253701ead417",
+      "title": "The Hidden Cost of Cheap ERP Implementations in a High-Stakes Market",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 113600.0,
+      "p50_usd": 11360000.0,
+      "p90_usd": 1136000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-01T07:30:36+00:00",
+      "last_seen_at": "2026-09-01T07:30:36+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_19889d988e0d2d018cbf",
@@ -1483,7 +1517,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T03:46:24+00:00",
-      "last_seen_at": "2026-09-01T07:12:59+00:00",
+      "last_seen_at": "2026-09-01T07:30:36+00:00",
       "status": "active"
     },
     {
@@ -1534,7 +1568,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T01:41:03+00:00",
-      "last_seen_at": "2026-09-01T07:12:59+00:00",
+      "last_seen_at": "2026-09-01T07:30:36+00:00",
       "status": "active"
     },
     {
@@ -1585,7 +1619,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T03:30:50+00:00",
-      "last_seen_at": "2026-09-01T07:12:59+00:00",
+      "last_seen_at": "2026-09-01T07:30:36+00:00",
       "status": "active"
     },
     {
@@ -1705,7 +1739,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T06:37:12+00:00",
       "last_seen_at": "2026-09-01T07:12:59+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_9e390686ce17b776038d",
