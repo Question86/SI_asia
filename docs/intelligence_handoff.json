@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-01T10:14:45Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 5.6 - 82 km SE of Maba, Indonesia” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.5.",
+  "generated_at": "2026-09-01T10:32:09Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “PALLET CONTROL製品におけるアクセス制御不備の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,35 +11,11 @@
   ],
   "top_dynamics": [
     {
-      "title": "M 5.6 - 82 km SE of Maba, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdav",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-01T08:46:46+00:00",
-      "age_days": 0.06,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 26.5,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
       "title": "PALLET CONTROL製品におけるアクセス制御不備の脆弱性",
       "url": "https://jvn.jp/jp/JVN84094853/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-01T12:00:00+09:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -63,7 +39,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3066",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-01T08:07:35+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -87,7 +63,7 @@
       "url": "https://github.com/majd/ipatool",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-01T06:36:40+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -108,35 +84,39 @@
       "summary": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store. IPATool ipatool is a command line tool that allows you to search for iOS, iPadOS, tvOS, and visionOS apps on the App Store and download a copy of the app package, known as a…"
     },
     {
-      "title": "Asia is building the network for the age of atoms",
-      "url": "https://e27.co/asia-is-building-the-network-for-the-age-of-atoms-20260828/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-01T02:30:55+00:00",
-      "age_days": 0.32,
+      "title": "AI safety is designed in the West, and failing users everywhere",
+      "url": "https://restofworld.org/2026/ai-safety-bias/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "published_at": "2026-09-01T10:00:00+00:00",
+      "age_days": 0.02,
       "topics": [
-        "general"
+        "ai"
       ],
-      "dynamics_score": 25.0,
-      "raw_band": "strong",
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
-      "momentum_delta": 3,
+      "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3"
+        "high terms: rce",
+        "security high-signal: rce",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "extreme gate recheck: insufficient independent/current evidence"
       ],
-      "summary": ""
+      "summary": "OpenAI’s pause shows the risks of rapid AI development, as safety frameworks fail to account for non-Western languages and contexts where harms are felt most."
     },
     {
       "title": "Asia is building the network for the age of atoms",
       "url": "https://e27.co/asia-is-building-the-network-for-the-age-of-atoms-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T02:30:02+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "ai",
         "security",
@@ -165,7 +145,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3091",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-01T08:07:57+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -191,7 +171,7 @@
       "url": "https://e27.co/schools-and-universities-face-rising-ransomware-costs-as-attackers-target-identities-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T06:41:10+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "security"
@@ -218,7 +198,7 @@
       "url": "https://www.bis.org/speeches/20260901-monetary-policy-yield-curve-and-financial-markets",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 74.82,
+      "age_days": 74.83,
       "topics": [
         "macro"
       ],
@@ -229,12 +209,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 14.61,
+      "baseline_z_hint": 13.95,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 14.61",
+        "baseline z_hint 13.95",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 74.8d old signal",
@@ -247,7 +227,7 @@
       "url": "https://e27.co/schools-and-universities-face-rising-ransomware-costs-as-attackers-target-identities-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T06:56:30+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -274,7 +254,7 @@
       "url": "https://e27.co/how-to-pitch-southeast-asias-investors-a-founders-guide-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T01:00:47+00:00",
-      "age_days": 0.38,
+      "age_days": 0.4,
       "topics": [
         "ai"
       ],
@@ -301,7 +281,7 @@
       "url": "https://github.com/k1tbyte/Wand-Enhancer",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-01T06:36:40+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -321,6 +301,30 @@
         "security high-signal: rce"
       ],
       "summary": "Advanced UX and interoperability extension for Wand (WeMod) app https://gitlab.com/kitbyte/wand-enhancer WandEnhancer An open-source interoperability tool designed to extend local client-side configurations and improve the UX of the Wand application. 🚨 IMPORTANT NOTICE: THIS PROJECT HAS NO OFFICIAL YOUTUBE TUTORIALS,…"
+    },
+    {
+      "title": "PV-Wechselrichter: Hoymiles liefert Sicherheitsupdate aus",
+      "url": "https://www.heise.de/news/PV-Wechselrichter-Hoymiles-liefert-Sicherheitsupdate-aus-11436579.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-09-01T09:54:00.000+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: security"
+      ],
+      "summary": "Hoymiles hatte seine DTU-Funkprotokolle nicht gesichert, was fremden Zugriff ermöglicht. Nun stehen Firmware-Updates bereit."
     }
   ],
   "read_order": [
@@ -332,7 +336,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 12
+      "strong": 11,
+      "watch": 1
     }
   }
 }

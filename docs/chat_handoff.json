@@ -100,5 +100,144 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “AI safety is designed in the West, and failing users everywhere” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=36.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "AI safety is designed in the West, and failing users everywhere",
+        "url": "https://restofworld.org/2026/ai-safety-bias/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "source": "Rest of World Global Tech Feed",
+        "published_at": "2026-09-01T10:00:00+00:00",
+        "age_days": 0.02,
+        "topics": [
+          "axiom",
+          "ai"
+        ],
+        "dynamics_score": 36.0,
+        "raw_band": "extreme",
+        "dynamic_band": "extreme",
+        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: rce",
+          "security high-signal: rce",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "OpenAI’s pause shows the risks of rapid AI development, as safety frameworks fail to account for non-Western languages and contexts where harms are felt most."
+      },
+      {
+        "title": "Asia is building the network for the age of atoms",
+        "url": "https://e27.co/asia-is-building-the-network-for-the-age-of-atoms-20260828/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-01T02:30:02+00:00",
+        "age_days": 0.33,
+        "topics": [
+          "ai",
+          "security",
+          "infra",
+          "macro"
+        ],
+        "dynamics_score": 31.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "early terms: supply, chain",
+          "security high-signal: security"
+        ],
+        "summary": "Southeast Asia is building manufacturing capability across a network of increasingly specialised production centres. Vietnam, Malaysia and Thailand are attracting investment across electronics, semiconductors, automotive and related supply chains while Singapore continues to anchor higher value technology and semicond…"
+      },
+      {
+        "title": "[UPDATE] [hoch] Apache Wicket: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3091",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-01T08:07:57+00:00",
+        "age_days": 0.1,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 31.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: angriffe",
+          "security high-signal: angriffe"
+        ],
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Apache Wicket ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen oder Cross-Site-Scripting-Angriffe durchzuführen."
+      },
+      {
+        "title": "Schools and universities face rising ransomware costs as attackers target identities",
+        "url": "https://e27.co/schools-and-universities-face-rising-ransomware-costs-as-attackers-target-identities-20260901/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-01T06:41:10+00:00",
+        "age_days": 0.16,
+        "topics": [
+          "ai",
+          "security"
+        ],
+        "dynamics_score": 29.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: ransomware",
+          "security high-signal: ransomware"
+        ],
+        "summary": "Ransomware attacks on schools and universities are increasingly beginning not with exotic malware, but with stolen logins, deceptive emails and weak identity controls. A new Sophos report has found that identity-based techniques were used in 85 per cent of ransomware attacks against education institutions, above the c…"
+      },
+      {
+        "title": "PALLET CONTROL製品におけるアクセス制御不備の脆弱性",
+        "url": "https://jvn.jp/jp/JVN84094853/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-01T12:00:00+09:00",
+        "age_days": 0.31,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 26.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "security high-signal: jvn, security"
+        ],
+        "summary": "JALデジタル株式会社が提供するPALLET CONTROL製品にはプログラム間通信におけるアクセス制御不備の脆弱性が存在します。"
+      }
+    ]
+  }
 }
