@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-01T16:43:12+00:00",
+  "generated_at": "2026-09-01T16:56:20+00:00",
   "status": "warning",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
   "coverage_confidence": "limited",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 70,
-    "displayed_findings": 70,
+    "today_file_total": 71,
+    "displayed_findings": 71,
     "high": 0,
     "medium": 20,
-    "observe": 50,
+    "observe": 51,
     "source_errors": 2
   },
   "source_errors": [
@@ -18,7 +18,7 @@
       "source_id": "hn_release_security_burst",
       "source_name": "Hacker News Release/Security Burst",
       "source_type": "hackernews",
-      "error": "500 Server Error: Internal Server Error for url: https://hn.algolia.com/api/v1/search_by_date?query=%28launch+OR+release+OR+outage+OR+security+OR+CVE+OR+OpenAI+OR+AI+agent+OR+Nvidia+OR+MCP+OR+Codex%29&tags=story&hitsPerPage=6"
+      "error": "HTTPSConnectionPool(host='hn.algolia.com', port=443): Read timed out. (read timeout=8)"
     },
     {
       "source_id": "bis_statistics",
