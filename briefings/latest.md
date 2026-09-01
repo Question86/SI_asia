@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-01T02:00:36+00:00_
+_Generiert: 2026-09-01T02:30:52+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „How to pitch Southeast Asia’s investors: A founder’s guide“ aus e27 Asia Startup and Tech Feed (Score 21, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+15 neue relevante Treffer. Stärkstes Signal: „How to pitch Southeast Asia’s investors: A founder’s guide“ aus e27 Asia Startup and Tech Feed (Score 21, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -79,6 +79,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: The global financial landscape currently displays a truly fascinating divergence between digital reserves and conventional equities. While mainstream stock indices stumbled under the weight of geopolitical anxiety and rising bond yields, the cryptocurrency sector forged a completely independent upward path. The total digital asset capitalisation surged 1.09 per cent to reach US$2.64T over the 24-hour […] The post St…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Asia is building the network for the age of atoms** — Score 16, risk — [Quelle](https://e27.co/asia-is-building-the-network-for-the-age-of-atoms-20260828/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-01T02:30:02+00:00`, fetched `2026-09-01T02:30:22+00:00`
+  - Treffer: APAC Trend Radar, Southeast Asia, Supply Chain Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Supply Chain Security (+8.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Vietnam, Thailand (+2.0)
+  - Kurz: Southeast Asia is building manufacturing capability across a network of increasingly specialised production centres. Vietnam, Malaysia and Thailand are attracting investment across electronics, semiconductors, automotive and related supply chains while Singapore continues to anchor higher value technology and semiconductor activity. Each market is developing a different position within this network. Vietnam has beco…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **2026年度選考採用試験（課長補佐級・係長級／一般職相当）の第2期募集を開始しました** — Score 14, observation — [Quelle](https://www.digital.go.jp/recruitment/career-government-official/career-selection-clericalposition-2026)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-09-01T00:56:42+00:00`, fetched `2026-09-01T01:07:57+00:00`
@@ -118,14 +127,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-01 01:29:10 UTC 2026-09-01 01:29:10 UTC at epicenter Location 20.407°S 177.994°W Depth 533.04 km (331.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **“Not a bank, not a gamble”: Chocolate Finance wants your SME’s spare cash** — Score 6, observation — [Quelle](https://e27.co/not-a-bank-not-a-gamble-chocolate-finance-wants-your-smes-spare-cash-20260831/)
+- **The factories are coming. Southeast Asia’s real race is to build what surrounds them** — Score 8, observation — [Quelle](https://e27.co/the-factories-are-coming-southeast-asias-real-race-is-to-build-what-surrounds-them-20260828/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-01T01:30:33+00:00`, fetched `2026-09-01T01:40:29+00:00`
-  - Treffer: APAC Trend Radar
+  - Zeit: published `2026-09-01T02:00:26+00:00`, fetched `2026-09-01T02:30:22+00:00`
+  - Treffer: APAC Trend Radar, Southeast Asia
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: Two years ago, Chocolate Finance built its name on a simple pitch to Singapore consumers: park your spare cash with us instead of a savings account, and we’ll try to get you a better return. It worked well enough that the fintech now manages roughly US$1.3 billion in assets across more than 150,000 customers. Now […] The post “Not a bank, not a gamble”: Chocolate Finance wants your SME’s spare cash appeared first on…
+  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Indonesia, Vietnam, Malaysia (+2.0)
+  - Kurz: For years, Southeast Asia’s manufacturing story has been told largely through factory announcements. A multinational opens another plant in Vietnam. A semiconductor company expands in Malaysia. A battery or metals project lands in Indonesia. Those announcements matter, but they only tell part of the story. As global manufacturers rethink where and how they produce, investment […] The post The factories are coming. S…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **デジタル庁設立5年 ～デジタルで変わる、一人ひとりの暮らし～ デジタル庁がこれまでに積み重ねてきた取組と成果を動画でご紹介します** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/report-2026)
   - Quelle: Japan Digital Agency News RSS / `rss`
@@ -176,6 +185,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Empfehlungen
 
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 
