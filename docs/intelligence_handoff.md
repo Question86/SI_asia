@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-01T14:44:31Z_
+_Generated: 2026-09-01T14:53:45Z_
 
 ## Lageurteil
 
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] IBM i: Mehrere Schwachste
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-01T12:00:00+09:00` / age_days `0.49`
+- Published: `2026-09-01T12:00:00+09:00` / age_days `0.5`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] IBM i: Mehrere Schwachste
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-01T10:55:37+00:00` / age_days `0.16`
+- Published: `2026-09-01T10:55:37+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] IBM i: Mehrere Schwachste
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `25.0`
-- Published: `2026-09-01T06:36:40+00:00` / age_days `0.34`
+- Published: `2026-09-01T06:36:40+00:00` / age_days `0.35`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] IBM i: Mehrere Schwachste
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-01T10:55:36+00:00` / age_days `0.16`
+- Published: `2026-09-01T10:55:36+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] IBM i: Mehrere Schwachste
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-01T02:30:02+00:00` / age_days `0.51`
+- Published: `2026-09-01T02:30:02+00:00` / age_days `0.52`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: supply, chain, security high-signal: security, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] IBM i: Mehrere Schwachste
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-01T10:55:37+00:00` / age_days `0.16`
+- Published: `2026-09-01T10:55:37+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
@@ -118,14 +118,14 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] IBM i: Mehrere Schwachste
 - Warum: high terms: ransomware, security high-signal: ransomware, krass gate recheck: needs multi-source, identity, or official high-signal phrase
 - Quelle: https://e27.co/schools-and-universities-face-rising-ransomware-costs-as-attackers-target-identities-20260901/
 
-### Monetary policy, the yield curve and financial markets
+### [UPDATE] [mittel] Red Hat Enterprise Linux Ceph Storage: Mehrere Schwachstellen
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-18T14:33:45+00:00` / age_days `75.01`
+- Published: `2026-08-28T14:08:37+00:00` / age_days `4.03`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: momentum delta +3, baseline z_hint 1.54, high terms: rce, security high-signal: rce, aging penalty -8.0 for 75.0d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
-- Quelle: https://www.bis.org/speeches/20260901-monetary-policy-yield-curve-and-financial-markets
+- Warum: momentum delta +3, high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2584
 
 END OF DOCUMENT

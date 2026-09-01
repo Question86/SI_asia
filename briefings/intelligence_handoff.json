@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-01T14:44:31Z",
+  "generated_at": "2026-09-01T14:53:45Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] IBM i: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -40,7 +40,7 @@
       "url": "https://jvn.jp/jp/JVN84094853/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-01T12:00:00+09:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "security"
       ],
@@ -64,7 +64,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2645",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-01T10:55:37+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -112,7 +112,7 @@
       "url": "https://github.com/majd/ipatool",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-01T06:36:40+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "ai"
       ],
@@ -165,7 +165,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2584",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-01T10:55:36+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -191,7 +191,7 @@
       "url": "https://e27.co/asia-is-building-the-network-for-the-age-of-atoms-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T02:30:02+00:00",
-      "age_days": 0.51,
+      "age_days": 0.52,
       "topics": [
         "ai",
         "security",
@@ -220,7 +220,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2637",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-01T10:55:37+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -295,13 +295,13 @@
       "summary": "Ransomware attacks on schools and universities are increasingly beginning not with exotic malware, but with stolen logins, deceptive emails and weak identity controls. A new Sophos report has found that identity-based techniques were used in 85 per cent of ransomware attacks against education institutions, above the c…"
     },
     {
-      "title": "Monetary policy, the yield curve and financial markets",
-      "url": "https://www.bis.org/speeches/20260901-monetary-policy-yield-curve-and-financial-markets",
-      "source": "BIS Central Bankers Speeches",
-      "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 75.01,
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux Ceph Storage: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2584",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-28T14:08:37+00:00",
+      "age_days": 4.03,
       "topics": [
-        "macro"
+        "security"
       ],
       "dynamics_score": 24.9,
       "raw_band": "extreme",
@@ -310,15 +310,13 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 1.54,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 1.54",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 75.0d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
