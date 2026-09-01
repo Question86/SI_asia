@@ -80,5 +80,141 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “How to pitch Southeast Asia’s investors: A founder’s guide” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "How to pitch Southeast Asia’s investors: A founder’s guide",
+        "url": "https://e27.co/how-to-pitch-southeast-asias-investors-a-founders-guide-20260831/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-01T01:00:47+00:00",
+        "age_days": 0.01,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "extreme",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": true,
+        "why": [
+          "early terms: local",
+          "high terms: rce",
+          "security high-signal: rce",
+          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        ],
+        "summary": "Southeast Asia has become one of the world’s most closely watched startup ecosystems. From fintech and e-commerce to logistics, SaaS, AI and digital financial infrastructure, the region has produced companies that have grown from local experiments into billion-dollar businesses. But for founders, there is another side…"
+      },
+      {
+        "title": "How to pitch Southeast Asia’s investors: A founder’s guide",
+        "url": "https://e27.co/how-to-pitch-southeast-asias-investors-a-founders-guide-20260831/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-01T01:08:29+00:00",
+        "age_days": 0.01,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "extreme",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 1,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": true,
+        "why": [
+          "momentum delta +1",
+          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "2026年度選考採用試験（課長補佐級・係長級／一般職相当）の第2期募集を開始しました",
+        "url": "https://www.digital.go.jp/recruitment/career-government-official/career-selection-clericalposition-2026",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-06-19T11:28:55+00:00",
+        "age_days": 73.58,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 19.9,
+        "raw_band": "strong",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 3.87,
+        "security_high_signal": false,
+        "single_source_ai_capped": true,
+        "why": [
+          "momentum delta +3",
+          "baseline z_hint 3.87",
+          "aging penalty -8.0 for 73.6d old signal",
+          "stale single-source cap: max watch after 14d without fresh resonance"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "2026年度選考採用試験（課長補佐級・係長級／一般職相当）の第2期募集を開始しました",
+        "url": "https://www.digital.go.jp/recruitment/career-government-official/career-selection-clericalposition-2026",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-09-01T00:56:42+00:00",
+        "age_days": 0.02,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 14.0,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "no strong comparative reason"
+        ],
+        "summary": "2026年度選考採用試験（課長補佐級・係長級／一般職相当）の第2期募集を開始しました"
+      },
+      {
+        "title": "デジタル庁設立5年 ～デジタルで変わる、一人ひとりの暮らし～ デジタル庁がこれまでに積み重ねてきた取組と成果を動画でご紹介します",
+        "url": "https://www.digital.go.jp/policies/report-2026",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-09-01T01:08:29+00:00",
+        "age_days": 0.01,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 12.5,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 1,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +1"
+        ],
+        "summary": ""
+      }
+    ]
+  }
 }
