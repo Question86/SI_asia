@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-01T02:53:35Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Asia is building the network for the age of atoms” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
+  "generated_at": "2026-09-01T03:17:31Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “PALLET CONTROL製品におけるアクセス制御不備の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,83 @@
   ],
   "top_dynamics": [
     {
+      "title": "PALLET CONTROL製品におけるアクセス制御不備の脆弱性",
+      "url": "https://jvn.jp/jp/JVN84094853/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-09-01T12:00:00+09:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security"
+      ],
+      "summary": "JALデジタル株式会社が提供するPALLET CONTROL製品にはプログラム間通信におけるアクセス制御不備の脆弱性が存在します。"
+    },
+    {
+      "title": "PALLET CONTROL製品におけるアクセス制御不備の脆弱性",
+      "url": "https://jvn.jp/jp/JVN84094853/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-09-01T03:09:15+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Asia is building the network for the age of atoms",
+      "url": "https://e27.co/asia-is-building-the-network-for-the-age-of-atoms-20260828/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-01T02:30:55+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 25.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Asia is building the network for the age of atoms",
       "url": "https://e27.co/asia-is-building-the-network-for-the-age-of-atoms-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T02:30:02+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "security",
@@ -44,7 +116,7 @@
       "url": "https://e27.co/how-to-pitch-southeast-asias-investors-a-founders-guide-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T01:00:47+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -67,61 +139,11 @@
       "summary": "Southeast Asia has become one of the world’s most closely watched startup ecosystems. From fintech and e-commerce to logistics, SaaS, AI and digital financial infrastructure, the region has produced companies that have grown from local experiments into billion-dollar businesses. But for founders, there is another side…"
     },
     {
-      "title": "Stocks fear the Fed but crypto shrugs off a 58% rate hike bet: Why the split?",
-      "url": "https://e27.co/stocks-fear-the-fed-but-crypto-shrugs-off-a-58-rate-hike-bet-why-the-split-20260901/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-01T02:00:40+00:00",
-      "age_days": 0.04,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +2",
-        "krass gate: single-source non-official/non-identity signal capped"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Asia is building the network for the age of atoms",
-      "url": "https://e27.co/asia-is-building-the-network-for-the-age-of-atoms-20260828/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-01T02:30:55+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "krass gate: single-source non-official/non-identity signal capped"
-      ],
-      "summary": ""
-    },
-    {
       "title": "How to pitch Southeast Asia’s investors: A founder’s guide",
       "url": "https://e27.co/how-to-pitch-southeast-asias-investors-a-founders-guide-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T01:08:29+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -142,11 +164,60 @@
       "summary": ""
     },
     {
+      "title": "Stocks fear the Fed but crypto shrugs off a 58% rate hike bet: Why the split?",
+      "url": "https://e27.co/stocks-fear-the-fed-but-crypto-shrugs-off-a-58-rate-hike-bet-why-the-split-20260901/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-01T02:00:40+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "krass gate: single-source non-official/non-identity signal capped"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "The factories are coming. Southeast Asia’s real race is to build what surrounds them",
+      "url": "https://e27.co/the-factories-are-coming-southeast-asias-real-race-is-to-build-what-surrounds-them-20260828/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-01T02:30:55+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 4.8 - 292 km WNW of Houma, Tonga",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td8u",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-01T01:44:48.040+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -167,28 +238,52 @@
       "summary": "Time 2026-09-01 01:29:10 UTC 2026-09-01 01:29:10 UTC at epicenter Location 20.407°S 177.994°W Depth 533.04 km (331.21 mi)"
     },
     {
-      "title": "2026年度選考採用試験（課長補佐級・係長級／一般職相当）の第2期募集を開始しました",
-      "url": "https://www.digital.go.jp/recruitment/career-government-official/career-selection-clericalposition-2026",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 73.64,
+      "title": "M 4.8 - 292 km WNW of Houma, Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td8u",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-01T02:00:40+00:00",
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
-      "dynamics_score": 15.8,
+      "dynamics_score": 16.5,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.73,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "2026年度選考採用試験（課長補佐級・係長級／一般職相当）の第2期募集を開始しました",
+      "url": "https://www.digital.go.jp/recruitment/career-government-official/career-selection-clericalposition-2026",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-06-19T11:28:55+00:00",
+      "age_days": 73.66,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 15.74,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.67,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 0.73",
-        "aging penalty -8.0 for 73.6d old signal"
+        "baseline z_hint 0.67",
+        "aging penalty -8.0 for 73.7d old signal"
       ],
       "summary": ""
     },
@@ -197,102 +292,6 @@
       "url": "https://e27.co/not-a-bank-not-a-gamble-chocolate-finance-wants-your-smes-spare-cash-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T01:41:03+00:00",
-      "age_days": 0.05,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 15.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Southeast Asia’s quiet FDI manufacturing redistribution",
-      "url": "https://e27.co/southeast-asias-quiet-fdi-manufacturing-redistribution-20260828/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-01T01:41:03+00:00",
-      "age_days": 0.05,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 15.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "デジタル庁設立5年 ～デジタルで変わる、一人ひとりの暮らし～ デジタル庁がこれまでに積み重ねてきた取組と成果を動画でご紹介します",
-      "url": "https://www.digital.go.jp/policies/report-2026",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-09-01T01:08:29+00:00",
-      "age_days": 0.07,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 15.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "「先進企業に学ぶ！マイナンバーカード友の会ミートアップ！！」を開催しました",
-      "url": "https://www.digital.go.jp/news/0f95a36a-87fe-4e04-b232-f1960f63ea96",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-09-01T01:08:29+00:00",
-      "age_days": 0.07,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 15.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "令和8年9月1日付デジタル庁人事を掲載しました",
-      "url": "https://www.digital.go.jp/news/ccbda486-08ed-4c48-972e-6e779a67fa20",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-09-01T01:08:29+00:00",
       "age_days": 0.07,
       "topics": [
         "general"
@@ -322,8 +321,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 5,
-      "watch": 7
+      "strong": 7,
+      "watch": 5
     }
   }
 }
