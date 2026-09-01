@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-01T08:43:08Z",
+  "generated_at": "2026-09-01T08:53:19Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “PALLET CONTROL製品におけるアクセス制御不備の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/jp/JVN84094853/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-01T12:00:00+09:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3066",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-01T08:07:35+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -88,7 +88,7 @@
       "url": "https://e27.co/asia-is-building-the-network-for-the-age-of-atoms-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T02:30:55+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -112,7 +112,7 @@
       "url": "https://e27.co/asia-is-building-the-network-for-the-age-of-atoms-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T02:30:02+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "ai",
         "security",
@@ -141,7 +141,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3091",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-01T08:07:57+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -167,7 +167,7 @@
       "url": "https://e27.co/schools-and-universities-face-rising-ransomware-costs-as-attackers-target-identities-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T06:41:10+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "security"
@@ -204,13 +204,13 @@
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 19.53,
+      "momentum_delta": 4,
+      "baseline_z_hint": 29.87,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +3",
-        "baseline z_hint 19.53",
+        "momentum delta +4",
+        "baseline z_hint 29.87",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 74.8d old signal",
@@ -219,13 +219,13 @@
       "summary": ""
     },
     {
-      "title": "[UPDATE] [hoch] Apache Wicket: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3091",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 3.77,
+      "title": "M 5.6 - 82 km SE of Maba, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdav",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-01T08:46:46+00:00",
+      "age_days": 0.0,
       "topics": [
-        "security"
+        "general"
       ],
       "dynamics_score": 24.9,
       "raw_band": "extreme",
@@ -233,12 +233,12 @@
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
-      "momentum_delta": 3,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +3",
+        "momentum delta +1",
         "high terms: rce",
         "security high-signal: rce",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
@@ -250,7 +250,7 @@
       "url": "https://e27.co/schools-and-universities-face-rising-ransomware-costs-as-attackers-target-identities-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T06:56:30+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -277,7 +277,7 @@
       "url": "https://e27.co/how-to-pitch-southeast-asias-investors-a-founders-guide-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T01:00:47+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "ai"
       ],
