@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-09-01T12:59:55+00:00",
+  "generated_at": "2026-09-01T13:21:50+00:00",
   "fx_as_of": null,
-  "candidate_count": 98,
+  "candidate_count": 99,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 98
+    "pending": 99
   },
   "coverage_warning": null,
   "candidates": [
@@ -29,6 +29,27 @@
       "snippet": "create the large language models at the heart of AI. Users buy tokens to gain access to the models. Reports put annualized token sales for the two leading labs alone at more than $100 billion—an increase of 500-plus percent from a year ago. The Fed watches all of this attentively. We recognize that AI is a new variable—potentially a new factor of production—that will h",
       "source_priority": "primary_hint",
       "source_url": "https://www.federalreserve.gov/newsevents/speech/warsh20260828a.htm"
+    },
+    {
+      "amount_native": 1000000.0,
+      "amount_usd": 1000000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.8,
+      "candidate_id": "cand_d9f78969526855a19e91",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_624a2e3ce3ccd3efe095",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-01T13:21:46+00:00",
+      "overlap_group_suggestion": "evt_624a2e3ce3ccd3efe095:unknown:8929afc0205b",
+      "review_status": "pending",
+      "snippet": "am (PEP) was established to provide business loans to entrepreneurs with a record. 23 PEP graduates have launched more than 500 businesses, some generating annual revenues of over $1 million. It's one example, but it demonstrates that this approach works when lending is paired with structured, accessible support. Beyond second-chance lending programs, there is a broad",
+      "source_priority": "primary_hint",
+      "source_url": "https://www.federalreserve.gov/newsevents/speech/barr20260901a.htm",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 6.0,
