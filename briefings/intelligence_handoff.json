@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-01T07:32:02Z",
+  "generated_at": "2026-09-01T07:48:49Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “PALLET CONTROL製品におけるアクセス制御不備の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/jp/JVN84094853/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-01T12:00:00+09:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://github.com/majd/ipatool",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-01T06:36:40+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -64,7 +64,7 @@
       "url": "https://e27.co/asia-is-building-the-network-for-the-age-of-atoms-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T02:30:55+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -88,7 +88,7 @@
       "url": "https://e27.co/asia-is-building-the-network-for-the-age-of-atoms-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T02:30:02+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "ai",
         "security",
@@ -117,7 +117,7 @@
       "url": "https://e27.co/schools-and-universities-face-rising-ransomware-costs-as-attackers-target-identities-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T06:41:10+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "security"
@@ -144,7 +144,7 @@
       "url": "https://e27.co/schools-and-universities-face-rising-ransomware-costs-as-attackers-target-identities-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T06:56:30+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -154,12 +154,12 @@
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +2",
+        "momentum delta +3",
         "high terms: ransomware",
         "security high-signal: ransomware",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
@@ -171,7 +171,7 @@
       "url": "https://e27.co/how-to-pitch-southeast-asias-investors-a-founders-guide-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T01:00:47+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -198,7 +198,7 @@
       "url": "https://e27.co/how-to-pitch-southeast-asias-investors-a-founders-guide-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T01:08:29+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -223,7 +223,7 @@
       "url": "https://e27.co/stocks-fear-the-fed-but-crypto-shrugs-off-a-58-rate-hike-bet-why-the-split-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-01T02:00:40+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "macro"
       ],
@@ -248,7 +248,7 @@
       "url": "https://github.com/jingyaogong/minimind",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-01T06:37:12+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
@@ -273,7 +273,7 @@
       "url": "https://github.com/k1tbyte/Wand-Enhancer",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-01T06:36:40+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -295,13 +295,13 @@
       "summary": "Advanced UX and interoperability extension for Wand (WeMod) app https://gitlab.com/kitbyte/wand-enhancer WandEnhancer An open-source interoperability tool designed to extend local client-side configurations and improve the UX of the Wand application. 🚨 IMPORTANT NOTICE: THIS PROJECT HAS NO OFFICIAL YOUTUBE TUTORIALS,…"
     },
     {
-      "title": "The Hidden Cost of Cheap ERP Implementations in a High-Stakes Market",
-      "url": "https://e27.co/navigating-erp-implementation-challenges-singapore-cost-cutting-market-20260901/",
+      "title": "The end of Southeast Asia’s unified startup funding story?",
+      "url": "https://e27.co/the-end-of-southeast-asias-unified-startup-funding-story-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-01T07:30:36+00:00",
-      "age_days": 0.0,
+      "published_at": "2026-09-01T06:37:12+00:00",
+      "age_days": 0.05,
       "topics": [
-        "macro"
+        "general"
       ],
       "dynamics_score": 24.0,
       "raw_band": "strong",
@@ -309,12 +309,12 @@
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1"
+        "momentum delta +3"
       ],
       "summary": ""
     }
