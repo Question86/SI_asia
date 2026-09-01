@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-01T07:59:06+00:00",
+  "generated_at": "2026-09-01T08:30:24+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -54,7 +54,7 @@
       "p90_usd": 1136000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T06:56:30+00:00",
-      "last_seen_at": "2026-09-01T07:58:49+00:00",
+      "last_seen_at": "2026-09-01T08:30:06+00:00",
       "status": "active"
     },
     {
@@ -89,7 +89,7 @@
       "p90_usd": 112000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T01:08:29+00:00",
-      "last_seen_at": "2026-09-01T07:58:49+00:00",
+      "last_seen_at": "2026-09-01T08:30:06+00:00",
       "status": "active"
     },
     {
@@ -174,7 +174,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-30T11:56:17+00:00",
-      "last_seen_at": "2026-09-01T07:58:49+00:00",
+      "last_seen_at": "2026-09-01T08:30:06+00:00",
       "status": "active"
     },
     {
@@ -378,7 +378,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-01T07:30:36+00:00",
-      "last_seen_at": "2026-09-01T07:58:49+00:00",
+      "last_seen_at": "2026-09-01T08:30:06+00:00",
       "status": "active"
     },
     {
@@ -412,7 +412,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-01T06:56:30+00:00",
-      "last_seen_at": "2026-09-01T07:58:49+00:00",
+      "last_seen_at": "2026-09-01T08:30:06+00:00",
       "status": "active"
     },
     {
@@ -566,7 +566,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-01T02:00:40+00:00",
       "last_seen_at": "2026-09-01T07:58:49+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_b720afe615a648cd42c2",
@@ -582,7 +582,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-01T06:56:30+00:00",
-      "last_seen_at": "2026-09-01T07:58:49+00:00",
+      "last_seen_at": "2026-09-01T08:30:06+00:00",
       "status": "active"
     },
     {
@@ -667,8 +667,8 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-08-31T23:54:23+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-09-01T08:30:06+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_620225625978c23a2aaa",
@@ -701,7 +701,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T06:37:12+00:00",
-      "last_seen_at": "2026-09-01T07:58:49+00:00",
+      "last_seen_at": "2026-09-01T08:30:06+00:00",
       "status": "active"
     },
     {
@@ -735,7 +735,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T03:09:15+00:00",
-      "last_seen_at": "2026-09-01T07:58:49+00:00",
+      "last_seen_at": "2026-09-01T08:30:06+00:00",
       "status": "active"
     },
     {
@@ -837,8 +837,8 @@
       "p90_usd": 1504000000.0,
       "confidence": 0.77,
       "first_seen_at": "2026-08-29T07:47:53+00:00",
-      "last_seen_at": "2026-08-31T13:33:21+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-09-01T08:30:06+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_286c3df7e2f2f93926a3",
@@ -888,7 +888,7 @@
       "p90_usd": 1208000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T01:08:29+00:00",
-      "last_seen_at": "2026-09-01T07:58:49+00:00",
+      "last_seen_at": "2026-09-01T08:30:06+00:00",
       "status": "active"
     },
     {
@@ -905,7 +905,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T06:37:12+00:00",
-      "last_seen_at": "2026-09-01T07:58:49+00:00",
+      "last_seen_at": "2026-09-01T08:30:06+00:00",
       "status": "active"
     },
     {
@@ -939,7 +939,7 @@
       "p90_usd": 1192000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T02:00:40+00:00",
-      "last_seen_at": "2026-09-01T07:58:49+00:00",
+      "last_seen_at": "2026-09-01T08:30:06+00:00",
       "status": "active"
     },
     {
@@ -956,7 +956,7 @@
       "p90_usd": 1192000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T06:37:12+00:00",
-      "last_seen_at": "2026-09-01T07:58:49+00:00",
+      "last_seen_at": "2026-09-01T08:30:06+00:00",
       "status": "active"
     },
     {
@@ -1024,7 +1024,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-01T07:58:49+00:00",
+      "last_seen_at": "2026-09-01T08:30:06+00:00",
       "status": "active"
     },
     {
@@ -1075,7 +1075,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T02:30:55+00:00",
-      "last_seen_at": "2026-09-01T07:58:49+00:00",
+      "last_seen_at": "2026-09-01T08:30:06+00:00",
       "status": "active"
     },
     {
@@ -1194,7 +1194,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T12:29:39+00:00",
-      "last_seen_at": "2026-09-01T07:58:49+00:00",
+      "last_seen_at": "2026-09-01T08:30:06+00:00",
       "status": "active"
     },
     {
@@ -1296,7 +1296,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T07:30:36+00:00",
-      "last_seen_at": "2026-09-01T07:58:49+00:00",
+      "last_seen_at": "2026-09-01T08:30:06+00:00",
       "status": "active"
     },
     {
@@ -1517,7 +1517,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T03:46:24+00:00",
-      "last_seen_at": "2026-09-01T07:58:49+00:00",
+      "last_seen_at": "2026-09-01T08:30:06+00:00",
       "status": "active"
     },
     {
@@ -1568,7 +1568,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T01:41:03+00:00",
-      "last_seen_at": "2026-09-01T07:58:49+00:00",
+      "last_seen_at": "2026-09-01T08:30:06+00:00",
       "status": "active"
     },
     {
@@ -1620,7 +1620,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T03:30:50+00:00",
       "last_seen_at": "2026-09-01T07:58:49+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_175e1a5f7356589f9695",
