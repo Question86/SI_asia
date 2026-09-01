@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-01T22:49:09Z_
+_Generated: 2026-09-01T23:11:15Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] IBM i: Mehrere Schwachste
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `31.0`
-- Published: `2026-09-01T11:11:07+00:00` / age_days `0.48`
+- Published: `2026-09-01T11:11:07+00:00` / age_days `0.5`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] IBM i: Mehrere Schwachste
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-01T12:00:00+09:00` / age_days `0.83`
+- Published: `2026-09-01T12:00:00+09:00` / age_days `0.84`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] IBM i: Mehrere Schwachste
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-01T10:00:00+00:00` / age_days `0.53`
+- Published: `2026-09-01T10:00:00+00:00` / age_days `0.55`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] IBM i: Mehrere Schwachste
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-01T10:55:36+00:00` / age_days `0.5`
+- Published: `2026-09-01T10:55:36+00:00` / age_days `0.51`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] IBM i: Mehrere Schwachste
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-01T02:30:02+00:00` / age_days `0.85`
+- Published: `2026-09-01T02:30:02+00:00` / age_days `0.86`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: supply, chain, security high-signal: security, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] IBM i: Mehrere Schwachste
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-01T10:55:37+00:00` / age_days `0.5`
+- Published: `2026-09-01T10:55:37+00:00` / age_days `0.51`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] IBM i: Mehrere Schwachste
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-01T08:07:57+00:00` / age_days `0.61`
+- Published: `2026-09-01T08:07:57+00:00` / age_days `0.63`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: angriffe, security high-signal: angriffe, official security but no high-signal phrase: capped at strong
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] IBM i: Mehrere Schwachste
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-01T13:00:00+00:00` / age_days `0.41`
+- Published: `2026-09-01T13:00:00+00:00` / age_days `0.42`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: critical, security high-signal: critical, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] IBM i: Mehrere Schwachste
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-01T06:41:10+00:00` / age_days `0.67`
+- Published: `2026-09-01T06:41:10+00:00` / age_days `0.69`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: ransomware, security high-signal: ransomware, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] IBM i: Mehrere Schwachste
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-01T17:00:00+00:00` / age_days `0.24`
+- Published: `2026-09-01T17:00:00+00:00` / age_days `0.26`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -112,20 +112,20 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] IBM i: Mehrere Schwachste
 
 - Band: `watch` (raw `krass`)
 - Dynamics score: `19.9`
-- Published: `2026-06-18T14:33:45+00:00` / age_days `75.34`
+- Published: `2026-06-18T14:33:45+00:00` / age_days `75.36`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: momentum delta +3, high terms: rce, security high-signal: rce, aging penalty -8.0 for 75.3d old signal, stale single-source cap after 30d: no current exploitation phrase
+- Warum: momentum delta +3, high terms: rce, security high-signal: rce, aging penalty -8.0 for 75.4d old signal, stale single-source cap after 30d: no current exploitation phrase
 - Quelle: https://www.bis.org/speeches/20260901-monetary-policy-yield-curve-and-financial-markets
 
 ### 使い込むほど成長するAIエージェント「Hermes Agent」でタスクを自動実行させてみた、PCを放置していても時間になれば勝手に実行
 
 - Band: `watch` (raw `krass`)
 - Dynamics score: `19.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `74.87`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `74.88`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +3, baseline z_hint 2.70, AXI0M/User-Yps identity hit, aging penalty -8.0 for 74.9d old signal, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
+- Warum: momentum delta +3, baseline z_hint 2.43, AXI0M/User-Yps identity hit, aging penalty -8.0 for 74.9d old signal, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
 - Quelle: https://gigazine.net/news/20260901-hermes-agent-cron-automation/
 
 END OF DOCUMENT
