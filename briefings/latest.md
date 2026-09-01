@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-01T09:07:58+00:00_
+_Generiert: 2026-09-01T09:27:39+00:00_
 
 ## Kurzlage
 
@@ -29,10 +29,10 @@ _Generiert: 2026-09-01T09:07:58+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-27`
   - Kurz: Known exploited vulnerability. Added 2026-08-27. Due 2026-09-10. JFrog Artifactory Improper Limitation of a Pathname to a Restricted Directory Vulnerability
-- **GDACS: Green flood alert in Lebanon** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104129)
+- **GDACS: Green notification for tropical cyclone MARIE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001317)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green flood alert in Lebanon
+  - Kurz: Green notification for tropical cyclone MARIE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Indonesia 01/09/2026 08:22 UTC, 8 thousand in MMI VI.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1562918)
   - Quelle: GDACS
   - Zeit: ``
@@ -49,10 +49,6 @@ _Generiert: 2026-09-01T09:07:58+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.8M, Depth:35km) in Kermadec Islands, New Zealand 30/08/2026 09:02 UTC, [unknown].
-- **USGS earthquake M5.6 - 82 km SE of Maba, Indonesia** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdav)
-  - Quelle: USGS
-  - Zeit: `2026-09-01T08:22:20+00:00`
-  - Kurz: M5.6 - 82 km SE of Maba, Indonesia. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
