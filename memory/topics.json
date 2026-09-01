@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-01T10:51:51+00:00",
+  "generated_at": "2026-09-01T10:59:15+00:00",
   "topics": {
     "ai": [
       {
@@ -344,11 +344,32 @@
     ],
     "security": [
       {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux Ceph Storage: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-01T10:55:36+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2584"
+      },
+      {
         "title": "PALLET CONTROL製品におけるアクセス制御不備の脆弱性",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-09-01T12:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/jp/JVN84094853/"
+      },
+      {
+        "title": "[UPDATE] [mittel] Rsync: Schwachstelle ermöglicht nicht spezifizierten Angriff",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-01T10:55:37+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2637"
+      },
+      {
+        "title": "[UPDATE] [mittel] Golang Go: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-01T10:55:37+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2645"
       },
       {
         "title": "[UPDATE] [hoch] Apache Wicket: Mehrere Schwachstellen",
