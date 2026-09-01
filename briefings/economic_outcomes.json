@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-01T22:54:22+00:00",
+  "generated_at": "2026-09-01T23:01:46+00:00",
   "events": [
     {
       "event_id": "evt_04c8c9515e6d6caa68b7",
@@ -1026,6 +1026,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_9a6069c3c55f68d6a8cf",
+      "title": "M 4.7 - Mid-Indian Ridge",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_9e390686ce17b776038d",
       "title": "Vulnérabilité dans Python (21 août 2026)",
       "deduplicated_buckets": 0,
@@ -1639,7 +1650,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_f0ac46f40882508b5efa",
