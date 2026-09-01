@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-01T03:46:20+00:00",
+  "generated_at": "2026-09-01T03:54:17+00:00",
   "status": "warning",
   "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 19,
     "displayed_findings": 19,
     "high": 0,
@@ -100,141 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Asia is building the network for the age of atoms” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Asia is building the network for the age of atoms",
-        "url": "https://e27.co/asia-is-building-the-network-for-the-age-of-atoms-20260828/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-01T02:30:02+00:00",
-        "age_days": 0.06,
-        "topics": [
-          "ai",
-          "security",
-          "infra",
-          "macro"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: supply, chain",
-          "security high-signal: security"
-        ],
-        "summary": "Southeast Asia is building manufacturing capability across a network of increasingly specialised production centres. Vietnam, Malaysia and Thailand are attracting investment across electronics, semiconductors, automotive and related supply chains while Singapore continues to anchor higher value technology and semicond…"
-      },
-      {
-        "title": "PALLET CONTROL製品におけるアクセス制御不備の脆弱性",
-        "url": "https://jvn.jp/jp/JVN84094853/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-01T12:00:00+09:00",
-        "age_days": 0.04,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "JALデジタル株式会社が提供するPALLET CONTROL製品にはプログラム間通信におけるアクセス制御不備の脆弱性が存在します。"
-      },
-      {
-        "title": "How to pitch Southeast Asia’s investors: A founder’s guide",
-        "url": "https://e27.co/how-to-pitch-southeast-asias-investors-a-founders-guide-20260831/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-01T01:00:47+00:00",
-        "age_days": 0.12,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "early terms: local",
-          "high terms: rce",
-          "security high-signal: rce",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": "Southeast Asia has become one of the world’s most closely watched startup ecosystems. From fintech and e-commerce to logistics, SaaS, AI and digital financial infrastructure, the region has produced companies that have grown from local experiments into billion-dollar businesses. But for founders, there is another side…"
-      },
-      {
-        "title": "PALLET CONTROL製品におけるアクセス制御不備の脆弱性",
-        "url": "https://jvn.jp/jp/JVN84094853/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-01T03:09:15+00:00",
-        "age_days": 0.03,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 2,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +2"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Asia is building the network for the age of atoms",
-        "url": "https://e27.co/asia-is-building-the-network-for-the-age-of-atoms-20260828/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-01T02:30:55+00:00",
-        "age_days": 0.06,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 25.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }
