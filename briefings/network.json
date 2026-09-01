@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T11:39:48+00:00",
+  "generated_at": "2026-09-01T11:47:52+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 58,
@@ -89,50 +89,6 @@
       "first_seen_at": "2026-09-01T06:37:12+00:00"
     },
     {
-      "key": "domain:www.bis.org",
-      "title": "Monetary policy, the yield curve and financial markets",
-      "sources": [
-        "BIS Central Bankers Speeches"
-      ],
-      "source_classes": [
-        "central_bank",
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.bis.org/speeches/20260901-monetary-policy-yield-curve-and-financial-markets",
-        "https://www.bis.org/speeches/20260901-advancing-banking-governance-and-financial-innovation-malaysia-and-asia",
-        "https://www.bis.org/speeches/20260901-restrictive-stance-monetary-policy",
-        "https://www.bis.org/speeches/20260901-everyday-work-inclusion",
-        "https://www.bis.org/speeches/20260901-recent-economic-and-financial-developments-turkey",
-        "https://www.bis.org/speeches/20260901-policy-rate-kept-unchanged-meeting"
-      ],
-      "finding_count": 7,
-      "max_score": 17,
-      "credibility_total": 7.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 20.75,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 31.7,
-      "ranking_score": 20.75,
-      "initial_reach_tier": "institutional",
-      "source_reach_score": 5.0,
-      "authority_bonus_capped": 3.0,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 3.75,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 3.0,
-      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-06-18T14:33:45+00:00"
-    },
-    {
       "key": "title:stocks-fear-fed-but-crypto-shrugs-off-rate",
       "title": "Stocks fear the Fed but crypto shrugs off a 58% rate hike bet: Why the split?",
       "sources": [
@@ -209,6 +165,50 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-01T06:37:12+00:00"
+    },
+    {
+      "key": "domain:www.bis.org",
+      "title": "Monetary policy, the yield curve and financial markets",
+      "sources": [
+        "BIS Central Bankers Speeches"
+      ],
+      "source_classes": [
+        "central_bank",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.bis.org/speeches/20260901-monetary-policy-yield-curve-and-financial-markets",
+        "https://www.bis.org/speeches/20260901-advancing-banking-governance-and-financial-innovation-malaysia-and-asia",
+        "https://www.bis.org/speeches/20260901-restrictive-stance-monetary-policy",
+        "https://www.bis.org/speeches/20260901-everyday-work-inclusion",
+        "https://www.bis.org/speeches/20260901-recent-economic-and-financial-developments-turkey",
+        "https://www.bis.org/speeches/20260901-policy-rate-kept-unchanged-meeting"
+      ],
+      "finding_count": 7,
+      "max_score": 17,
+      "credibility_total": 7.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 20.49,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 31.7,
+      "ranking_score": 20.49,
+      "initial_reach_tier": "institutional",
+      "source_reach_score": 5.0,
+      "authority_bonus_capped": 3.0,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 3.49,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
       "key": "earthquake:indonesia:5.6",
@@ -429,20 +429,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 15.68,
+      "network_score": 15.66,
       "hot": false,
       "watchgraph_modules": [
         "elections_unrest"
       ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 18.2,
-      "ranking_score": 15.68,
+      "ranking_score": 15.66,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.18,
+      "baseline_bonus": 0.16,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -664,18 +664,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 12.78,
+      "network_score": 12.77,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 13.1,
-      "ranking_score": 12.78,
+      "ranking_score": 12.77,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.28,
+      "baseline_bonus": 0.27,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1732,7 +1732,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-01T11:39:48Z",
+    "generated_at": "2026-09-01T11:47:52Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
