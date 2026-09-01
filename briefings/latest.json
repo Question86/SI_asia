@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T11:55:23+00:00",
-  "run_id": "2026-09-01T11:55:23+00:00",
+  "generated_at": "2026-09-01T12:11:43+00:00",
+  "run_id": "2026-09-01T12:11:43+00:00",
   "date": "2026-09-01",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 58
+      "configured_public_sources_only": 59
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 58,
-    "displayed_findings": 58,
+    "new_relevant_findings": 1,
+    "today_file_total": 59,
+    "displayed_findings": 59,
     "high": 0,
     "medium": 19,
-    "observe": 39,
+    "observe": 40,
     "source_errors": 1
   },
   "sections": {
@@ -1444,6 +1444,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "82db4a001b42ca1365ef"
+      },
+      {
+        "title": "原宿に現れた「歩くゴミ箱」、正体は学生発の広告サービス 「良いアイデア」とSNSで話題",
+        "url": "https://www.itmedia.co.jp/news/article/2609/01/2000001040/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-01T10:01:14+00:00",
+        "fetched_at": "2026-09-01T12:11:10+00:00",
+        "summary": "広告枠付きのゴミ箱を背負ったスタッフが通行人からゴミを回収するサービス「BinGo」（ビンゴ）が、SNS上で注目を集めている。9月1日ごろから活動の様子を収めた動画が拡散しており、「普通にありがたい」「良いビジネスアイデア」といった反応が相次いでいる。動画は原宿・竹下通りでの活動を撮影したとみられ、通行人...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e16643fa1c6f92ada3c9"
       },
       {
         "title": "「玄人志向」が「Crowxis」にブランド変更！サングラスもやめてTGSで初披露",
@@ -2969,6 +2990,27 @@
       "id": "82db4a001b42ca1365ef"
     },
     {
+      "title": "原宿に現れた「歩くゴミ箱」、正体は学生発の広告サービス 「良いアイデア」とSNSで話題",
+      "url": "https://www.itmedia.co.jp/news/article/2609/01/2000001040/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-01T10:01:14+00:00",
+      "fetched_at": "2026-09-01T12:11:10+00:00",
+      "summary": "広告枠付きのゴミ箱を背負ったスタッフが通行人からゴミを回収するサービス「BinGo」（ビンゴ）が、SNS上で注目を集めている。9月1日ごろから活動の様子を収めた動画が拡散しており、「普通にありがたい」「良いビジネスアイデア」といった反応が相次いでいる。動画は原宿・竹下通りでの活動を撮影したとみられ、通行人...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e16643fa1c6f92ada3c9"
+    },
+    {
       "title": "「玄人志向」が「Crowxis」にブランド変更！サングラスもやめてTGSで初披露",
       "url": "https://pc.watch.impress.co.jp/docs/news/2137155.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3075,7 +3117,29 @@
       "id": "9dba5ebaa9bfe3c09a65"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "原宿に現れた「歩くゴミ箱」、正体は学生発の広告サービス 「良いアイデア」とSNSで話題",
+      "url": "https://www.itmedia.co.jp/news/article/2609/01/2000001040/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-01T10:01:14+00:00",
+      "fetched_at": "2026-09-01T12:11:10+00:00",
+      "summary": "広告枠付きのゴミ箱を背負ったスタッフが通行人からゴミを回収するサービス「BinGo」（ビンゴ）が、SNS上で注目を集めている。9月1日ごろから活動の様子を収めた動画が拡散しており、「普通にありがたい」「良いビジネスアイデア」といった反応が相次いでいる。動画は原宿・竹下通りでの活動を撮影したとみられ、通行人...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e16643fa1c6f92ada3c9"
+    }
+  ],
   "source_errors": [
     {
       "source_id": "bis_statistics",
