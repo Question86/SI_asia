@@ -100,5 +100,144 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “Asia is building the network for the age of atoms” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "Asia is building the network for the age of atoms",
+        "url": "https://e27.co/asia-is-building-the-network-for-the-age-of-atoms-20260828/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-01T02:30:02+00:00",
+        "age_days": 0.01,
+        "topics": [
+          "ai",
+          "security",
+          "infra",
+          "macro"
+        ],
+        "dynamics_score": 31.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "early terms: supply, chain",
+          "security high-signal: security"
+        ],
+        "summary": "Southeast Asia is building manufacturing capability across a network of increasingly specialised production centres. Vietnam, Malaysia and Thailand are attracting investment across electronics, semiconductors, automotive and related supply chains while Singapore continues to anchor higher value technology and semicond…"
+      },
+      {
+        "title": "How to pitch Southeast Asia’s investors: A founder’s guide",
+        "url": "https://e27.co/how-to-pitch-southeast-asias-investors-a-founders-guide-20260831/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-01T01:00:47+00:00",
+        "age_days": 0.07,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "extreme",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": true,
+        "why": [
+          "early terms: local",
+          "high terms: rce",
+          "security high-signal: rce",
+          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        ],
+        "summary": "Southeast Asia has become one of the world’s most closely watched startup ecosystems. From fintech and e-commerce to logistics, SaaS, AI and digital financial infrastructure, the region has produced companies that have grown from local experiments into billion-dollar businesses. But for founders, there is another side…"
+      },
+      {
+        "title": "Asia is building the network for the age of atoms",
+        "url": "https://e27.co/asia-is-building-the-network-for-the-age-of-atoms-20260828/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-01T02:30:55+00:00",
+        "age_days": 0.01,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "krass",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 1,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": true,
+        "why": [
+          "momentum delta +1",
+          "krass gate: single-source non-official/non-identity signal capped"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "Stocks fear the Fed but crypto shrugs off a 58% rate hike bet: Why the split?",
+        "url": "https://e27.co/stocks-fear-the-fed-but-crypto-shrugs-off-a-58-rate-hike-bet-why-the-split-20260901/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-01T02:00:40+00:00",
+        "age_days": 0.03,
+        "topics": [
+          "macro"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "krass",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 1,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": true,
+        "why": [
+          "momentum delta +1",
+          "krass gate: single-source non-official/non-identity signal capped"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "How to pitch Southeast Asia’s investors: A founder’s guide",
+        "url": "https://e27.co/how-to-pitch-southeast-asias-investors-a-founders-guide-20260831/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-01T01:08:29+00:00",
+        "age_days": 0.07,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 24.9,
+        "raw_band": "krass",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": true,
+        "why": [
+          "momentum delta +3",
+          "krass gate: single-source non-official/non-identity signal capped"
+        ],
+        "summary": ""
+      }
+    ]
+  }
 }
