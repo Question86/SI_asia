@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T20:41:44+00:00",
+  "generated_at": "2026-09-01T20:57:33+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 79,
@@ -71,20 +71,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 22.45,
+      "network_score": 22.31,
       "hot": false,
       "watchgraph_modules": [
         "ai_agents_workflow"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 27.4,
-      "ranking_score": 22.45,
+      "ranking_score": 22.31,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 1.95,
+      "baseline_bonus": 1.81,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1933,44 +1933,6 @@
       "first_seen_at": "2026-09-01T01:08:29+00:00"
     },
     {
-      "key": "title:set-expiration-date-individual-user-budgets",
-      "title": "Set an expiration date for individual user budgets",
-      "sources": [
-        "GitHub Changelog Atom"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets"
-      ],
-      "finding_count": 1,
-      "max_score": 3,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 7.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 8.1,
-      "ranking_score": 7.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-09-01T20:41:44+00:00"
-    },
-    {
       "key": "title:google-skill-state",
       "title": "Google提唱の「SKILL.state」について。プロンプトに型の概念を導入",
       "sources": [
@@ -2389,6 +2351,44 @@
       "first_seen_at": "2026-09-01T06:37:12+00:00"
     },
     {
+      "key": "title:set-expiration-date-individual-user-budgets",
+      "title": "Set an expiration date for individual user budgets",
+      "sources": [
+        "GitHub Changelog Atom"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.blog/changelog/2026-09-01-set-an-expiration-date-for-individual-user-budgets"
+      ],
+      "finding_count": 1,
+      "max_score": 3,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 4.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 5.1,
+      "ranking_score": 4.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-01T20:41:44+00:00"
+    },
+    {
       "key": "title:block-users-discussion-comments-personal-repositories",
       "title": "Block users from discussion comments in personal repositories",
       "sources": [
@@ -2429,7 +2429,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-01T20:41:44Z",
+    "generated_at": "2026-09-01T20:57:33Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
