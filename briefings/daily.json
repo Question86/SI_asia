@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T23:01:12+00:00",
+  "generated_at": "2026-09-01T23:17:25+00:00",
   "today_file_total": 86,
   "current_clusters": [
     {
@@ -355,31 +355,6 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "earthquake:m 4.7 - mid-indian ridge:4.7",
-      "title": "M 4.7 - Mid-Indian Ridge",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdh3"
-      ],
-      "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 16.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
       "key": "earthquake:alaska:4.5",
       "title": "M 4.5 - 90 km SSW of Nikolski, Alaska",
       "sources": [
@@ -490,6 +465,29 @@
       ],
       "urls": [
         "https://www.federalreserve.gov/newsevents/speech/barr20260901a.htm"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 14.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:hidden-cost-cheap-erp-implementations-high-stakes-market",
+      "title": "The Hidden Cost of Cheap ERP Implementations in a High-Stakes Market",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/navigating-erp-implementation-challenges-singapore-cost-cutting-market-20260901/"
       ],
       "finding_count": 1,
       "max_score": 12,
