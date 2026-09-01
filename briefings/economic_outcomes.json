@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-01T03:09:39+00:00",
+  "generated_at": "2026-09-01T03:31:27+00:00",
   "events": [
     {
       "event_id": "evt_04c8c9515e6d6caa68b7",
@@ -489,12 +489,12 @@
     {
       "event_id": "evt_5c0b2150c6dffa55a770",
       "title": "PALLET CONTROL製品におけるアクセス制御不備の脆弱性",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -573,6 +573,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_6dc9fd22d6ef7f383649",
+      "title": "The cloud is just someone else’s computer. Sometimes that computer gets hit by a drone",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_6e1817c1c44fda6c3530",
