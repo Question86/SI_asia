@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-01T05:26:11+00:00",
+  "generated_at": "2026-09-01T05:38:08+00:00",
   "status": "warning",
   "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 22,
-    "displayed_findings": 22,
+    "new_relevant_findings": 2,
+    "today_file_total": 24,
+    "displayed_findings": 24,
     "high": 0,
-    "medium": 6,
-    "observe": 16
+    "medium": 7,
+    "observe": 17
   },
   "source_errors_count": 1,
   "top_signals": [
@@ -45,13 +45,13 @@
       "section": "medium"
     },
     {
-      "title": "OpenAI supports California’s bill to advance youth AI safety",
-      "source": "OpenAI News RSS",
+      "title": "M 4.6 - 201 km SW of Fakfak, Indonesia",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-08-31T07:00:00+00:00",
+      "published_at": "2026-09-01T05:26:29.040+00:00",
       "relevance_score": 15,
-      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety",
-      "summary": "OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td9v",
+      "summary": "Time 2026-09-01 05:06:33 UTC 2026-09-01 05:06:33 UTC at epicenter Location 4.239°S 131.044°E Depth 35.00 km (21.75 mi)",
       "section": "medium"
     },
     {
@@ -100,142 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Asia is building the network for the age of atoms” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Asia is building the network for the age of atoms",
-        "url": "https://e27.co/asia-is-building-the-network-for-the-age-of-atoms-20260828/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-01T02:30:02+00:00",
-        "age_days": 0.12,
-        "topics": [
-          "ai",
-          "security",
-          "infra",
-          "macro"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: supply, chain",
-          "security high-signal: security"
-        ],
-        "summary": "Southeast Asia is building manufacturing capability across a network of increasingly specialised production centres. Vietnam, Malaysia and Thailand are attracting investment across electronics, semiconductors, automotive and related supply chains while Singapore continues to anchor higher value technology and semicond…"
-      },
-      {
-        "title": "PALLET CONTROL製品におけるアクセス制御不備の脆弱性",
-        "url": "https://jvn.jp/jp/JVN84094853/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-01T12:00:00+09:00",
-        "age_days": 0.1,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "JALデジタル株式会社が提供するPALLET CONTROL製品にはプログラム間通信におけるアクセス制御不備の脆弱性が存在します。"
-      },
-      {
-        "title": "How to pitch Southeast Asia’s investors: A founder’s guide",
-        "url": "https://e27.co/how-to-pitch-southeast-asias-investors-a-founders-guide-20260831/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-01T01:00:47+00:00",
-        "age_days": 0.19,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "early terms: local",
-          "high terms: rce",
-          "security high-signal: rce",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": "Southeast Asia has become one of the world’s most closely watched startup ecosystems. From fintech and e-commerce to logistics, SaaS, AI and digital financial infrastructure, the region has produced companies that have grown from local experiments into billion-dollar businesses. But for founders, there is another side…"
-      },
-      {
-        "title": "Asia is building the network for the age of atoms",
-        "url": "https://e27.co/asia-is-building-the-network-for-the-age-of-atoms-20260828/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-01T02:30:55+00:00",
-        "age_days": 0.12,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 25.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "How to pitch Southeast Asia’s investors: A founder’s guide",
-        "url": "https://e27.co/how-to-pitch-southeast-asias-investors-a-founders-guide-20260831/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-01T01:08:29+00:00",
-        "age_days": 0.18,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "krass",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "krass gate: single-source non-official/non-identity signal capped"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }
