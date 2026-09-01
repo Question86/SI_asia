@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T22:38:48+00:00",
-  "run_id": "2026-09-01T22:38:48+00:00",
+  "generated_at": "2026-09-01T22:46:12+00:00",
+  "run_id": "2026-09-01T22:46:12+00:00",
   "date": "2026-09-01",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 82
+      "configured_public_sources_only": 83
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 82,
-    "displayed_findings": 82,
+    "new_relevant_findings": 1,
+    "today_file_total": 83,
+    "displayed_findings": 83,
     "high": 0,
     "medium": 22,
-    "observe": 60,
+    "observe": 61,
     "source_errors": 1
   },
   "sections": {
@@ -1935,6 +1935,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "af34010bb9c8b6e7fc50"
+      },
+      {
+        "title": "OS標準日本語入力ソフトが高機能化した今、完全サブスク制に移行したATOKを使っている理由",
+        "url": "https://garumax.com/why-i-use-atok-subscription",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-01T05:21:22+00:00",
+        "fetched_at": "2026-09-01T22:45:43+00:00",
+        "summary": "OS標準日本語入力ソフトが高機能化した今、完全サブスク制に移行したATOKを使っている理由 投稿日:2026年09月01日 コラム・解説・知識 執筆者 : かのあゆ ※ 当メディアのリンクにはアフィリエイト広告が含まれています 2021年夏頃よりジャストシステム社のサブスクリプション製日本語入力ソフト「ATOK Passport」を契約...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c46e2706453e8bc5467e"
       },
       {
         "title": "MIDIコントローラー搭載PCキーボード「Keys」。9つのMIDI CC信号操作用ツマミ搭載 | Gadget Gate",
@@ -4032,6 +4053,27 @@
       "id": "af34010bb9c8b6e7fc50"
     },
     {
+      "title": "OS標準日本語入力ソフトが高機能化した今、完全サブスク制に移行したATOKを使っている理由",
+      "url": "https://garumax.com/why-i-use-atok-subscription",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-01T05:21:22+00:00",
+      "fetched_at": "2026-09-01T22:45:43+00:00",
+      "summary": "OS標準日本語入力ソフトが高機能化した今、完全サブスク制に移行したATOKを使っている理由 投稿日:2026年09月01日 コラム・解説・知識 執筆者 : かのあゆ ※ 当メディアのリンクにはアフィリエイト広告が含まれています 2021年夏頃よりジャストシステム社のサブスクリプション製日本語入力ソフト「ATOK Passport」を契約...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c46e2706453e8bc5467e"
+    },
+    {
       "title": "MIDIコントローラー搭載PCキーボード「Keys」。9つのMIDI CC信号操作用ツマミ搭載 | Gadget Gate",
       "url": "https://gadget.phileweb.com/post-132068/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4219,7 +4261,29 @@
       "id": "c3a323d422b7f7f79a3d"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "OS標準日本語入力ソフトが高機能化した今、完全サブスク制に移行したATOKを使っている理由",
+      "url": "https://garumax.com/why-i-use-atok-subscription",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-01T05:21:22+00:00",
+      "fetched_at": "2026-09-01T22:45:43+00:00",
+      "summary": "OS標準日本語入力ソフトが高機能化した今、完全サブスク制に移行したATOKを使っている理由 投稿日:2026年09月01日 コラム・解説・知識 執筆者 : かのあゆ ※ 当メディアのリンクにはアフィリエイト広告が含まれています 2021年夏頃よりジャストシステム社のサブスクリプション製日本語入力ソフト「ATOK Passport」を契約...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c46e2706453e8bc5467e"
+    }
+  ],
   "source_errors": [
     {
       "source_id": "bis_statistics",

@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-01T22:38:52+00:00",
+  "generated_at": "2026-09-01T22:46:17+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 82,
-    "clusters": 65,
+    "findings": 83,
+    "clusters": 66,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 0,
@@ -109,20 +109,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 21.21,
+      "network_score": 21.08,
       "hot": false,
       "watchgraph_modules": [
         "ai_agents_workflow"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 27.4,
-      "ranking_score": 21.21,
+      "ranking_score": 21.08,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.71,
+      "baseline_bonus": 0.58,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -227,18 +227,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 18.63,
+      "network_score": 18.58,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "raw_network_score": 18.1,
-      "ranking_score": 18.63,
+      "ranking_score": 18.58,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 1.13,
+      "baseline_bonus": 1.08,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1387,6 +1387,44 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "domain:garumax.com",
+      "title": "OS標準日本語入力ソフトが高機能化した今、完全サブスク制に移行したATOKを使っている理由",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier4_platform_social"
+      ],
+      "urls": [
+        "https://garumax.com/why-i-use-atok-subscription"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 0.75,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 8.7,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 9.5,
+      "ranking_score": 8.7,
+      "initial_reach_tier": "social",
+      "source_reach_score": 2.0,
+      "authority_bonus_capped": 1.2,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-01T22:46:17+00:00"
     },
     {
       "key": "domain:www.heise.de",
@@ -2543,7 +2581,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-01T22:38:52Z",
+    "generated_at": "2026-09-01T22:46:17Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
