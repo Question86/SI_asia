@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-01T14:47:20+00:00_
+_Generiert: 2026-09-01T14:55:11+00:00_
 
 ## Kurzlage
 
-66 neue relevante Treffer. Stärkstes Signal: „How to pitch Southeast Asia’s investors: A founder’s guide“ aus e27 Asia Startup and Tech Feed (Score 21, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+67 neue relevante Treffer. Stärkstes Signal: „How to pitch Southeast Asia’s investors: A founder’s guide“ aus e27 Asia Startup and Tech Feed (Score 21, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -213,6 +213,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: ShakeMap - III DYFI? - IV Time 2026-09-01 06:44:39 UTC 2026-09-01 06:44:39 UTC at epicenter Location 52.257°N 169.426°W Depth 47.11 km (29.27 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Copilot model access update for GitHub Team plans** — Score 11, observation — [Quelle](https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-08-31T21:58:46+00:00`, fetched `2026-09-01T14:54:37+00:00`
+  - Treffer: Copilot, GitHub, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Public Health (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
+  - Kurz: We have updated how model access is determined for Copilot users who hold seats in more than one organization. To keep billing and governance in sync, your model access is… The post Copilot model access update for GitHub Team plans appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Multiples vulnérabilités dans le noyau Linux de Debian LTS (21 août 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1069/)
   - Quelle: CERT-FR Avis de sécurité / `rss`
   - Zeit: published `2026-08-21T00:00:00+00:00`, fetched `2026-09-01T13:57:53+00:00`
@@ -275,15 +284,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region australia: Australia, Sydney, Reserve Bank of Australia (+2.0)
   - Kurz: Fireside chat by Mr Christopher Kent, Assistant Governor (Financial Markets) of the Reserve Bank of Australia, at Reuters NEXT Newsmaker Interview: LSEG Insight Series, Sydney, 13 August 2026.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **majd/ipatool** — Score 8, observation — [Quelle](https://github.com/majd/ipatool)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-09-01T06:36:40+00:00`
-  - Treffer: APAC Trend Radar, GitHub Trending, Open Source
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store. IPATool ipatool is a command line tool that allows you to search for iOS, iPadOS, tvOS, and visionOS apps on the App Store and download a copy of the app package, known as an ipa file. Requirements Installation Manual Package Manager (macOS) Usage Compiling License Release…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
