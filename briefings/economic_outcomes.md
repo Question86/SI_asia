@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-09-01T04:39:49+00:00`
+Generated: `2026-09-01T04:48:45+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -18,6 +18,7 @@ Generated: `2026-09-01T04:39:49+00:00`
 | Multiples vulnérabilités dans le noyau Linux de SUSE (21 août 2026) | $0 | — | 0 | 0 | dormant |
 | 技術書典21で「Goで作って学ぶリアルタイム通信サーバー入門 〜自作ターミナルゲームでわかるオンラインゲームの裏側〜」という本を出します - $shibayu36->blog; | $0 | — | 0 | 0 | dormant |
 | M 4.6 - 52 km NNE of Ruteng, Indonesia | $0 | — | 0 | 0 | dormant |
+| 松本大臣記者会見（令和8年9月1日）動画を掲載しました | $0 | — | 0 | 0 | active |
 | 知人がものの数分で設定したという、高齢のお父さん用iPhone…ここまで潔いのはなかなか見かけない「視覚支援だ～」「これはめっちゃわかりやすい」 | $0 | — | 0 | 0 | dormant |
 | M 4.8 - 110 km E of Miyako, Japan | $0 | — | 0 | 0 | dormant |
 | AIお姉ちゃんへの道（2026年版） - nomolkのブログ | $0 | — | 0 | 0 | dormant |
@@ -28,4 +29,3 @@ Generated: `2026-09-01T04:39:49+00:00`
 | M 4.7 - 62 km SSE of Palca, Peru | $0 | — | 0 | 0 | dormant |
 | Thailand’s AI startup push gets OpenAI backing through new public-private accelerator | $0 | — | 0 | 0 | dormant |
 | curl作者がクローズドの「Mythos」による17万8000行のコード分析結果を公開 性能をどう評価？ | $0 | — | 0 | 0 | dormant |
-| ローカルLLMを直接実行できるマイコンボード「Arduino VENTUNO Q」予約販売開始 \| gihyo.jp | $0 | — | 0 | 0 | dormant |
