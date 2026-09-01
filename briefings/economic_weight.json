@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-01T01:41:20+00:00",
+  "generated_at": "2026-09-01T02:00:56+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -71,7 +71,7 @@
       "p90_usd": 112000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T01:08:29+00:00",
-      "last_seen_at": "2026-09-01T01:41:03+00:00",
+      "last_seen_at": "2026-09-01T02:00:40+00:00",
       "status": "active"
     },
     {
@@ -88,7 +88,7 @@
       "p90_usd": 108800000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T01:41:03+00:00",
-      "last_seen_at": "2026-09-01T01:41:03+00:00",
+      "last_seen_at": "2026-09-01T02:00:40+00:00",
       "status": "active"
     },
     {
@@ -551,6 +551,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_93cf84ab18e48292c116",
+      "title": "M 4.8 - 292 km WNW of Houma, Tonga",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-01T02:00:40+00:00",
+      "last_seen_at": "2026-09-01T02:00:40+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -751,7 +768,7 @@
       "p90_usd": 1208000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T01:08:29+00:00",
-      "last_seen_at": "2026-09-01T01:41:03+00:00",
+      "last_seen_at": "2026-09-01T02:00:40+00:00",
       "status": "active"
     },
     {
@@ -770,6 +787,23 @@
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-08-28T23:53:26+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_aa690e19368c15fda39f",
+      "title": "Stocks fear the Fed but crypto shrugs off a 58% rate hike bet: Why the split?",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "market_valuation"
+      ],
+      "p10_usd": 119200.0,
+      "p50_usd": 11920000.0,
+      "p90_usd": 1192000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-01T02:00:40+00:00",
+      "last_seen_at": "2026-09-01T02:00:40+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_04c8c9515e6d6caa68b7",
@@ -989,7 +1023,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T12:29:39+00:00",
-      "last_seen_at": "2026-09-01T01:41:03+00:00",
+      "last_seen_at": "2026-09-01T02:00:40+00:00",
       "status": "active"
     },
     {
@@ -1316,6 +1350,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_b7112b89f631ef379cb7",
+      "title": "India is showing the world what AI will do to jobs and education",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112000.0,
+      "p50_usd": 11200000.0,
+      "p90_usd": 1120000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-01T01:41:03+00:00",
+      "last_seen_at": "2026-09-01T02:00:40+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_cb96b3b8c44258846f64",
       "title": "Southeast Asia does not have one AI advantage – it has 11",
       "event_classes": [
@@ -1331,23 +1382,6 @@
       "first_seen_at": "2026-08-31T03:36:59+00:00",
       "last_seen_at": "2026-08-31T13:59:10+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_b7112b89f631ef379cb7",
-      "title": "India is showing the world what AI will do to jobs and education",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 112000.0,
-      "p50_usd": 11200000.0,
-      "p90_usd": 1120000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-01T01:41:03+00:00",
-      "last_seen_at": "2026-09-01T01:41:03+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_43856848b80264610146",
@@ -1550,7 +1584,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T01:08:29+00:00",
-      "last_seen_at": "2026-09-01T01:41:03+00:00",
+      "last_seen_at": "2026-09-01T02:00:40+00:00",
       "status": "active"
     },
     {
@@ -1584,7 +1618,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T01:08:29+00:00",
-      "last_seen_at": "2026-09-01T01:41:03+00:00",
+      "last_seen_at": "2026-09-01T02:00:40+00:00",
       "status": "active"
     },
     {
@@ -1618,7 +1652,24 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T01:08:29+00:00",
-      "last_seen_at": "2026-09-01T01:41:03+00:00",
+      "last_seen_at": "2026-09-01T02:00:40+00:00",
+      "status": "active"
+    },
+    {
+      "event_id": "evt_d65cb835aae643b70b2e",
+      "title": "“Not a bank, not a gamble”: Chocolate Finance wants your SME’s spare cash",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108800.0,
+      "p50_usd": 10880000.0,
+      "p90_usd": 1088000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-01T01:41:03+00:00",
+      "last_seen_at": "2026-09-01T02:00:40+00:00",
       "status": "active"
     },
     {
@@ -1637,23 +1688,6 @@
       "first_seen_at": "2026-08-31T06:23:43+00:00",
       "last_seen_at": "2026-08-31T06:23:43+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_d65cb835aae643b70b2e",
-      "title": "“Not a bank, not a gamble”: Chocolate Finance wants your SME’s spare cash",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108800.0,
-      "p50_usd": 10880000.0,
-      "p90_usd": 1088000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-01T01:41:03+00:00",
-      "last_seen_at": "2026-09-01T01:41:03+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_0e9754a4a09813d40b86",
@@ -1686,7 +1720,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T01:08:29+00:00",
-      "last_seen_at": "2026-09-01T01:41:03+00:00",
+      "last_seen_at": "2026-09-01T02:00:40+00:00",
       "status": "active"
     },
     {
@@ -1975,7 +2009,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T01:08:29+00:00",
-      "last_seen_at": "2026-09-01T01:41:03+00:00",
+      "last_seen_at": "2026-09-01T02:00:40+00:00",
       "status": "active"
     },
     {
