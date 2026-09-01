@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-01T06:56:52+00:00",
+  "generated_at": "2026-09-01T07:13:17+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -54,7 +54,7 @@
       "p90_usd": 1136000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T06:56:30+00:00",
-      "last_seen_at": "2026-09-01T06:56:30+00:00",
+      "last_seen_at": "2026-09-01T07:12:59+00:00",
       "status": "active"
     },
     {
@@ -89,7 +89,7 @@
       "p90_usd": 112000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T01:08:29+00:00",
-      "last_seen_at": "2026-09-01T06:56:30+00:00",
+      "last_seen_at": "2026-09-01T07:12:59+00:00",
       "status": "active"
     },
     {
@@ -106,7 +106,7 @@
       "p90_usd": 110400000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T02:30:55+00:00",
-      "last_seen_at": "2026-09-01T06:56:30+00:00",
+      "last_seen_at": "2026-09-01T07:12:59+00:00",
       "status": "active"
     },
     {
@@ -174,7 +174,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-30T11:56:17+00:00",
-      "last_seen_at": "2026-09-01T06:56:30+00:00",
+      "last_seen_at": "2026-09-01T07:12:59+00:00",
       "status": "active"
     },
     {
@@ -382,6 +382,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_d4e7a43ab88fd2b7b7a6",
+      "title": "M 5.2 - 93 km SSW of Nikolski, Alaska",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1128000.0,
+      "p50_usd": 112800000.0,
+      "p90_usd": 11280000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-01T06:56:30+00:00",
+      "last_seen_at": "2026-09-01T07:12:59+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_f0ac46f40882508b5efa",
       "title": "M 4.7 - 3 km NW of Yanacancha, Peru",
       "event_classes": [
@@ -431,23 +448,6 @@
       "first_seen_at": "2026-08-29T11:40:09+00:00",
       "last_seen_at": "2026-08-29T23:58:25+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_d4e7a43ab88fd2b7b7a6",
-      "title": "M 5.2 - 93 km SSW of Nikolski, Alaska",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1128000.0,
-      "p50_usd": 112800000.0,
-      "p90_usd": 11280000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-09-01T06:56:30+00:00",
-      "last_seen_at": "2026-09-01T06:56:30+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_058a0e17878f3797ed5c",
@@ -548,7 +548,24 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-01T02:00:40+00:00",
-      "last_seen_at": "2026-09-01T06:56:30+00:00",
+      "last_seen_at": "2026-09-01T07:12:59+00:00",
+      "status": "active"
+    },
+    {
+      "event_id": "evt_b720afe615a648cd42c2",
+      "title": "M 4.5 - 13 km NNW of Yasuj, Iran",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-01T06:56:30+00:00",
+      "last_seen_at": "2026-09-01T07:12:59+00:00",
       "status": "active"
     },
     {
@@ -620,23 +637,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_b720afe615a648cd42c2",
-      "title": "M 4.5 - 13 km NNW of Yasuj, Iran",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-09-01T06:56:30+00:00",
-      "last_seen_at": "2026-09-01T06:56:30+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -684,7 +684,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T06:37:12+00:00",
-      "last_seen_at": "2026-09-01T06:56:30+00:00",
+      "last_seen_at": "2026-09-01T07:12:59+00:00",
       "status": "active"
     },
     {
@@ -718,7 +718,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T03:09:15+00:00",
-      "last_seen_at": "2026-09-01T06:56:30+00:00",
+      "last_seen_at": "2026-09-01T07:12:59+00:00",
       "status": "active"
     },
     {
@@ -871,7 +871,7 @@
       "p90_usd": 1208000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T01:08:29+00:00",
-      "last_seen_at": "2026-09-01T06:56:30+00:00",
+      "last_seen_at": "2026-09-01T07:12:59+00:00",
       "status": "active"
     },
     {
@@ -888,7 +888,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T06:37:12+00:00",
-      "last_seen_at": "2026-09-01T06:56:30+00:00",
+      "last_seen_at": "2026-09-01T07:12:59+00:00",
       "status": "active"
     },
     {
@@ -922,7 +922,7 @@
       "p90_usd": 1192000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T02:00:40+00:00",
-      "last_seen_at": "2026-09-01T06:56:30+00:00",
+      "last_seen_at": "2026-09-01T07:12:59+00:00",
       "status": "active"
     },
     {
@@ -939,7 +939,7 @@
       "p90_usd": 1192000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T06:37:12+00:00",
-      "last_seen_at": "2026-09-01T06:56:30+00:00",
+      "last_seen_at": "2026-09-01T07:12:59+00:00",
       "status": "active"
     },
     {
@@ -1007,7 +1007,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-01T06:56:30+00:00",
+      "last_seen_at": "2026-09-01T07:12:59+00:00",
       "status": "active"
     },
     {
@@ -1058,7 +1058,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T02:30:55+00:00",
-      "last_seen_at": "2026-09-01T06:56:30+00:00",
+      "last_seen_at": "2026-09-01T07:12:59+00:00",
       "status": "active"
     },
     {
@@ -1177,7 +1177,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T12:29:39+00:00",
-      "last_seen_at": "2026-09-01T06:56:30+00:00",
+      "last_seen_at": "2026-09-01T07:12:59+00:00",
       "status": "active"
     },
     {
@@ -1483,7 +1483,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T03:46:24+00:00",
-      "last_seen_at": "2026-09-01T06:56:30+00:00",
+      "last_seen_at": "2026-09-01T07:12:59+00:00",
       "status": "active"
     },
     {
@@ -1534,7 +1534,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T01:41:03+00:00",
-      "last_seen_at": "2026-09-01T06:56:30+00:00",
+      "last_seen_at": "2026-09-01T07:12:59+00:00",
       "status": "active"
     },
     {
@@ -1585,7 +1585,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T03:30:50+00:00",
-      "last_seen_at": "2026-09-01T06:56:30+00:00",
+      "last_seen_at": "2026-09-01T07:12:59+00:00",
       "status": "active"
     },
     {
@@ -1704,7 +1704,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T06:37:12+00:00",
-      "last_seen_at": "2026-09-01T06:56:30+00:00",
+      "last_seen_at": "2026-09-01T07:12:59+00:00",
       "status": "active"
     },
     {
