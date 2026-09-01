@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T13:58:29+00:00",
-  "today_file_total": 65,
+  "generated_at": "2026-09-01T14:21:24+00:00",
+  "today_file_total": 66,
   "current_clusters": [
     {
       "key": "domain:www.bis.org",
@@ -180,31 +180,6 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "earthquake:philippines:5.2",
-      "title": "M 5.2 - 35 km SE of Sarangani, Philippines",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdbr"
-      ],
-      "finding_count": 1,
-      "max_score": 15,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 20.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
       "key": "title:2026",
       "title": "2026年度選考採用試験（課長補佐級・係長級／一般職相当）の第2期募集を開始しました",
       "sources": [
@@ -251,6 +226,31 @@
       "network_score": 18.1,
       "hot": false,
       "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "earthquake:philippines:5.2",
+      "title": "M 5.2 - 35 km SE of Sarangani, Philippines",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdbr"
+      ],
+      "finding_count": 1,
+      "max_score": 15,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 17.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
@@ -427,73 +427,73 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "title:multiples-vuln-rabilit-dans-noyau-linux-debian-lts",
-      "title": "Multiples vulnérabilités dans le noyau Linux de Debian LTS (21 août 2026)",
+      "key": "domain:www.federalreserve.gov",
+      "title": "Barr, Unlocking Opportunities for Workers and Entrepreneurs with a Criminal Record",
       "sources": [
-        "CERT-FR Avis de sécurité"
+        "Federal Reserve Speeches and Testimony"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1069/"
+        "https://www.federalreserve.gov/newsevents/speech/barr20260901a.htm"
       ],
       "finding_count": 1,
-      "max_score": 11,
+      "max_score": 12,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 16.1,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 14.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "title:multiples-vuln-rabilit-dans-noyau-linux-debian-2026",
-      "title": "Multiples vulnérabilités dans le noyau Linux de Debian (21 août 2026)",
+      "key": "title:hidden-cost-cheap-erp-implementations-high-stakes-market",
+      "title": "The Hidden Cost of Cheap ERP Implementations in a High-Stakes Market",
       "sources": [
-        "CERT-FR Avis de sécurité"
+        "e27 Asia Startup and Tech Feed"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1068/"
+        "https://e27.co/navigating-erp-implementation-challenges-singapore-cost-cutting-market-20260901/"
       ],
       "finding_count": 1,
-      "max_score": 11,
+      "max_score": 12,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 16.1,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 14.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "title:multiples-vuln-rabilit-dans-noyau-linux-ubuntu-2026",
-      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (21 août 2026)",
+      "key": "title:schools-universities-face-rising-ransomware-costs-attackers-target",
+      "title": "Schools and universities face rising ransomware costs as attackers target identities",
       "sources": [
-        "CERT-FR Avis de sécurité"
+        "e27 Asia Startup and Tech Feed"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1066/"
+        "https://e27.co/schools-and-universities-face-rising-ransomware-costs-as-attackers-target-identities-20260901/"
       ],
       "finding_count": 1,
-      "max_score": 11,
+      "max_score": 12,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 16.1,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 14.1,
       "hot": false,
       "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     }
   ]
 }
