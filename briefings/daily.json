@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T02:55:13+00:00",
-  "today_file_total": 15,
+  "generated_at": "2026-09-01T03:09:15+00:00",
+  "today_file_total": 16,
   "current_clusters": [
     {
       "key": "title:pitch-southeast-asia-investors-founder-guide",
@@ -51,6 +51,29 @@
         "capitals_power_centers"
       ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:pallet-control",
+      "title": "PALLET CONTROL製品におけるアクセス制御不備の脆弱性",
+      "sources": [
+        "JVN Japan Vulnerability Notes"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://jvn.jp/jp/JVN84094853/"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 19.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "title:asia-building-network-age-atoms",

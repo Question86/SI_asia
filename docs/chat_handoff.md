@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-01T02:55:09+00:00_
+_Generated: 2026-09-01T03:09:10+00:00_
 
 ## Status
 - status: `warning`
-- findings: `15`
+- findings: `16`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-09-01T02:55:09+00:00_
 - url: https://e27.co/asia-is-building-the-network-for-the-age-of-atoms-20260828/
 - summary: Southeast Asia is building manufacturing capability across a network of increasingly specialised production centres. Vietnam, Malaysia and Thailand are attracting investment across electronics, semiconductors, automotive and related supply chains while Singap…
 
-### 4. 2026年度選考採用試験（課長補佐級・係長級／一般職相当）の第2期募集を開始しました
-- source: Japan Digital Agency News RSS
+### 4. PALLET CONTROL製品におけるアクセス制御不備の脆弱性
+- source: JVN Japan Vulnerability Notes
 - score: `14`
-- published: `2026-09-01T00:56:42+00:00`
-- url: https://www.digital.go.jp/recruitment/career-government-official/career-selection-clericalposition-2026
-- summary: 2026年度選考採用試験（課長補佐級・係長級／一般職相当）の第2期募集を開始しました
+- published: `2026-09-01T12:00:00+09:00`
+- url: https://jvn.jp/jp/JVN84094853/
+- summary: JALデジタル株式会社が提供するPALLET CONTROL製品にはプログラム間通信におけるアクセス制御不備の脆弱性が存在します。
 
 ### 5. India is showing the world what AI will do to jobs and education
 - source: e27 Asia Startup and Tech Feed
