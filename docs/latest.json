@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T17:30:41+00:00",
-  "run_id": "2026-09-01T17:30:41+00:00",
+  "generated_at": "2026-09-01T17:40:19+00:00",
+  "run_id": "2026-09-01T17:40:19+00:00",
   "date": "2026-09-01",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 73
+      "configured_public_sources_only": 74
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 73,
-    "displayed_findings": 73,
+    "new_relevant_findings": 1,
+    "today_file_total": 74,
+    "displayed_findings": 74,
     "high": 0,
     "medium": 21,
-    "observe": 52,
+    "observe": 53,
     "source_errors": 1
   },
   "sections": {
@@ -1917,6 +1917,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "9dba5ebaa9bfe3c09a65"
+      },
+      {
+        "title": "Block users from discussion comments in personal repositories",
+        "url": "https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-09-01T16:30:01+00:00",
+        "fetched_at": "2026-09-01T17:39:44+00:00",
+        "summary": "You can now block or unblock users directly from discussion comments in repositories owned by personal GitHub accounts, extending the in-context blocking controls already available for issue and pull request… The post Block users from discussion comments in personal repositories appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub"
+        ],
+        "relevance_score": 3,
+        "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c3a323d422b7f7f79a3d"
       }
     ]
   },
@@ -3807,74 +3827,48 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "9dba5ebaa9bfe3c09a65"
-    }
-  ],
-  "new_findings": [
-    {
-      "title": "How AI-native companies turn workflows into operating capability",
-      "url": "https://openai.com/index/ai-native-company-workflows",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-09-01T17:00:00+00:00",
-      "fetched_at": "2026-09-01T17:30:07+00:00",
-      "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
-      "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "OpenAI",
-        "Watchgraph:ai_agents_workflow"
-      ],
-      "relevance_score": 19,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); AI Agents (+5.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: AI agents"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "a3bde1643499c348d20d"
     },
     {
-      "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
-      "url": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
-      "source": "OpenAI News RSS",
+      "title": "Block users from discussion comments in personal repositories",
+      "url": "https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories",
+      "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "published_at": "2026-09-01T12:00:00+00:00",
-      "fetched_at": "2026-09-01T17:30:07+00:00",
-      "summary": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+      "published_at": "2026-09-01T16:30:01+00:00",
+      "fetched_at": "2026-09-01T17:39:44+00:00",
+      "summary": "You can now block or unblock users directly from discussion comments in repositories owned by personal GitHub accounts, extending the in-context blocking controls already available for issue and pull request… The post Block users from discussion comments in personal repositories appeared first on The GitHub Blog .",
       "matched_keywords": [
-        "OpenAI"
+        "GitHub"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "997702f0e9f1403471b5"
+      "id": "c3a323d422b7f7f79a3d"
+    }
+  ],
+  "new_findings": [
+    {
+      "title": "Block users from discussion comments in personal repositories",
+      "url": "https://github.blog/changelog/2026-09-01-block-users-from-discussion-comments-in-personal-repositories",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-09-01T16:30:01+00:00",
+      "fetched_at": "2026-09-01T17:39:44+00:00",
+      "summary": "You can now block or unblock users directly from discussion comments in repositories owned by personal GitHub accounts, extending the in-context blocking controls already available for issue and pull request… The post Block users from discussion comments in personal repositories appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c3a323d422b7f7f79a3d"
     }
   ],
   "source_errors": [
