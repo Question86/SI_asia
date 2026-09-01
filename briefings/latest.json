@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T14:21:21+00:00",
-  "run_id": "2026-09-01T14:21:21+00:00",
+  "generated_at": "2026-09-01T14:32:49+00:00",
+  "run_id": "2026-09-01T14:32:49+00:00",
   "date": "2026-09-01",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 66,
     "displayed_findings": 66,
     "high": 0,
@@ -3467,29 +3467,7 @@
       "id": "9dba5ebaa9bfe3c09a65"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Google提唱の「SKILL.state」について。プロンプトに型の概念を導入",
-      "url": "https://zenn.dev/knowledgesense/articles/ad123283bdea26",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-01T12:07:05+00:00",
-      "fetched_at": "2026-09-01T14:20:47+00:00",
-      "summary": "本記事では、AIエージェントの性能を高めるための「SKILL.state」という手法について、ざっくり理解します。 株式会社ナレッジセンスは、生成AIやRAGを使ったプロダクトを、エンタープライズ企業向けに開発しているスタートアップです。 この記事は何 この記事は、「SKILL.state」の論文について、日本語で簡単にまとめ...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7e25728c493b4ce55c17"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [
     {
       "source_id": "bis_statistics",
