@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-01T17:23:07+00:00",
+  "generated_at": "2026-09-01T17:30:41+00:00",
   "status": "warning",
   "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 71,
-    "displayed_findings": 71,
+    "new_relevant_findings": 2,
+    "today_file_total": 73,
+    "displayed_findings": 73,
     "high": 0,
-    "medium": 20,
-    "observe": 51
+    "medium": 21,
+    "observe": 52
   },
   "source_errors_count": 1,
   "top_signals": [
@@ -35,6 +35,16 @@
       "section": "medium"
     },
     {
+      "title": "How AI-native companies turn workflows into operating capability",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-01T17:00:00+00:00",
+      "relevance_score": 19,
+      "url": "https://openai.com/index/ai-native-company-workflows",
+      "summary": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+      "section": "medium"
+    },
+    {
       "title": "M 5.6 - 82 km SE of Maba, Indonesia",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
@@ -42,16 +52,6 @@
       "relevance_score": 19,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdav",
       "summary": "PAGER - GREEN ShakeMap - VI Time 2026-09-01 08:22:20 UTC 2026-09-01 08:22:20 UTC at epicenter Location 0.169°N 128.805°E Depth 10.00 km (6.21 mi)",
-      "section": "medium"
-    },
-    {
-      "title": "Stocks fear the Fed but crypto shrugs off a 58% rate hike bet: Why the split?",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-01T01:55:25+00:00",
-      "relevance_score": 19,
-      "url": "https://e27.co/stocks-fear-the-fed-but-crypto-shrugs-off-a-58-rate-hike-bet-why-the-split-20260901/",
-      "summary": "The global financial landscape currently displays a truly fascinating divergence between digital reserves and conventional equities. While mainstream stock indices stumbled under the weight of geopolitical anxiety and rising bond yields, the cryptocurrency se…",
       "section": "medium"
     },
     {
@@ -100,146 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “AI safety is designed in the West, and failing users everywhere” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=36.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "AI safety is designed in the West, and failing users everywhere",
-        "url": "https://restofworld.org/2026/ai-safety-bias/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-        "source": "Rest of World Global Tech Feed",
-        "published_at": "2026-09-01T10:00:00+00:00",
-        "age_days": 0.31,
-        "topics": [
-          "axiom",
-          "ai"
-        ],
-        "dynamics_score": 36.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce",
-          "security high-signal: rce",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "OpenAI’s pause shows the risks of rapid AI development, as safety frameworks fail to account for non-Western languages and contexts where harms are felt most."
-      },
-      {
-        "title": "Monetary policy, the yield curve and financial markets",
-        "url": "https://www.bis.org/speeches/20260901-monetary-policy-yield-curve-and-financial-markets",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-06-18T14:33:45+00:00",
-        "age_days": 75.12,
-        "topics": [
-          "macro"
-        ],
-        "dynamics_score": 33.5,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "high terms: rce",
-          "security high-signal: rce",
-          "aging penalty -8.0 for 75.1d old signal"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux Ceph Storage: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2584",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-01T10:55:36+00:00",
-        "age_days": 0.27,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: auth",
-          "security high-signal: auth"
-        ],
-        "summary": "Ein entfernter, authentisierter oder anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux Ceph Storage ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen und um einen Denial-of-Service-Zustand zu verursachen."
-      },
-      {
-        "title": "Asia is building the network for the age of atoms",
-        "url": "https://e27.co/asia-is-building-the-network-for-the-age-of-atoms-20260828/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-01T02:30:02+00:00",
-        "age_days": 0.62,
-        "topics": [
-          "ai",
-          "security",
-          "infra",
-          "macro"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: supply, chain",
-          "security high-signal: security"
-        ],
-        "summary": "Southeast Asia is building manufacturing capability across a network of increasingly specialised production centres. Vietnam, Malaysia and Thailand are attracting investment across electronics, semiconductors, automotive and related supply chains while Singapore continues to anchor higher value technology and semicond…"
-      },
-      {
-        "title": "[NEU] [mittel] IBM i: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3130",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-01T11:11:07+00:00",
-        "age_days": 0.26,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM i ausnutzen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen oder Denial-of-Service-Zustände herbeizuführen."
-      }
-    ]
-  }
+  ]
 }

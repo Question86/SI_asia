@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-01T17:23:07+00:00_
+_Generiert: 2026-09-01T17:30:41+00:00_
 
 ## Kurzlage
 
-71 neue relevante Treffer. Stärkstes Signal: „How to pitch Southeast Asia’s investors: A founder’s guide“ aus e27 Asia Startup and Tech Feed (Score 21, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+73 neue relevante Treffer. Stärkstes Signal: „How to pitch Southeast Asia’s investors: A founder’s guide“ aus e27 Asia Startup and Tech Feed (Score 21, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -30,6 +30,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: ChatGPTが出力したメッセージを、そのまま送り続ける同僚はいないだろうか？ その人は「ミート・プロキシ」かもしれない。Kilito Chan/Getty Images 「ミート・プロキシ」とは、ClaudeやChatGPTの出力を吟味せず、そのまま送る人のことを指す。この言葉を広めたのはドイツのソフトウェアエンジニア、ニクラス・グルーン...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **How AI-native companies turn workflows into operating capability** — Score 19, opportunity — [Quelle](https://openai.com/index/ai-native-company-workflows)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-09-01T17:00:00+00:00`, fetched `2026-09-01T17:30:07+00:00`
+  - Treffer: AI Agents, AI/KI, OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); AI Agents (+5.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **M 5.6 - 82 km SE of Maba, Indonesia** — Score 19, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdav)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-01T08:44:18.898+00:00`, fetched `2026-09-01T08:46:07+00:00`
@@ -137,15 +146,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
   - Kurz: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Rsync ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **2026年度選考採用試験（課長補佐級・係長級／一般職相当）の第2期募集を開始しました** — Score 14, observation — [Quelle](https://www.digital.go.jp/recruitment/career-government-official/career-selection-clericalposition-2026)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-09-01T00:56:42+00:00`, fetched `2026-09-01T01:07:57+00:00`
-  - Treffer: APAC Trend Radar, Macro/Policy, Watchgraph:elections_unrest
-  - Watchgraph: elections_unrest
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, META, GOOGL, MSFT, RDDT, SNAP, PINS
-  - Warum relevant: Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules elections_unrest (+3.0)
-  - Kurz: 2026年度選考採用試験（課長補佐級・係長級／一般職相当）の第2期募集を開始しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
@@ -289,6 +289,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Empfehlungen
 
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
