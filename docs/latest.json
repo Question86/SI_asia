@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T10:44:16+00:00",
-  "run_id": "2026-09-01T10:44:16+00:00",
+  "generated_at": "2026-09-01T10:51:51+00:00",
+  "run_id": "2026-09-01T10:51:51+00:00",
   "date": "2026-09-01",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 52
+      "configured_public_sources_only": 53
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 52,
-    "displayed_findings": 52,
+    "new_relevant_findings": 1,
+    "today_file_total": 53,
+    "displayed_findings": 53,
     "high": 0,
     "medium": 15,
-    "observe": 37,
+    "observe": 38,
     "source_errors": 1
   },
   "sections": {
@@ -1336,6 +1336,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "396e301ae3b6307c4817"
+      },
+      {
+        "title": "生成AI画像はなぜ“キショい”のか 消費者が抱く違和感の正体 広報のプロが解説",
+        "url": "https://www.itmedia.co.jp/news/article/2609/01/2000000743/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-01T03:38:54+00:00",
+        "fetched_at": "2026-09-01T10:51:21+00:00",
+        "summary": "昨今、生成AIで作成した画像を巡る“炎上”が相次いでいる。味の素の公式Xアカウントで生成AIで加工された画像が投稿され炎上した一件や、飲食店のメニューに載ったサンプル画像が生成AI製で物議を醸した一件は記憶に新しい。 一連の騒動の背景には、生成AIの利用に伴う権利問題への懸念や、データの学習元となったクリエ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5a9648ba46edf4cd9d51"
       },
       {
         "title": "J:COMを使っているとPlumeルーターによってDNSブロッキングされる可能性がある 18.204.152.241 問題の顛末 - debiruはてなメモ",
@@ -2711,6 +2732,27 @@
       "id": "396e301ae3b6307c4817"
     },
     {
+      "title": "生成AI画像はなぜ“キショい”のか 消費者が抱く違和感の正体 広報のプロが解説",
+      "url": "https://www.itmedia.co.jp/news/article/2609/01/2000000743/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-01T03:38:54+00:00",
+      "fetched_at": "2026-09-01T10:51:21+00:00",
+      "summary": "昨今、生成AIで作成した画像を巡る“炎上”が相次いでいる。味の素の公式Xアカウントで生成AIで加工された画像が投稿され炎上した一件や、飲食店のメニューに載ったサンプル画像が生成AI製で物議を醸した一件は記憶に新しい。 一連の騒動の背景には、生成AIの利用に伴う権利問題への懸念や、データの学習元となったクリエ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5a9648ba46edf4cd9d51"
+    },
+    {
       "title": "J:COMを使っているとPlumeルーターによってDNSブロッキングされる可能性がある 18.204.152.241 問題の顛末 - debiruはてなメモ",
       "url": "https://debiru.hatenablog.com/entry/20260831/jcom-plume-dns-blocking",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2775,7 +2817,29 @@
       "id": "9dba5ebaa9bfe3c09a65"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "生成AI画像はなぜ“キショい”のか 消費者が抱く違和感の正体 広報のプロが解説",
+      "url": "https://www.itmedia.co.jp/news/article/2609/01/2000000743/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-01T03:38:54+00:00",
+      "fetched_at": "2026-09-01T10:51:21+00:00",
+      "summary": "昨今、生成AIで作成した画像を巡る“炎上”が相次いでいる。味の素の公式Xアカウントで生成AIで加工された画像が投稿され炎上した一件や、飲食店のメニューに載ったサンプル画像が生成AI製で物議を醸した一件は記憶に新しい。 一連の騒動の背景には、生成AIの利用に伴う権利問題への懸念や、データの学習元となったクリエ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5a9648ba46edf4cd9d51"
+    }
+  ],
   "source_errors": [
     {
       "source_id": "bis_statistics",
