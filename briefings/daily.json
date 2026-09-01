@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T08:55:09+00:00",
-  "today_file_total": 49,
+  "generated_at": "2026-09-01T09:08:02+00:00",
+  "today_file_total": 50,
   "current_clusters": [
     {
       "key": "domain:www.bis.org",
@@ -149,6 +149,31 @@
       "network_score": 21.1,
       "hot": false,
       "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:singapore-now-captures-per-cent-sea-startup-funding",
+      "title": "Singapore now captures 78 per cent of SEA’s startup funding",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/singapore-now-captures-78-per-cent-of-seas-startup-funding-20260901/"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 19.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
@@ -452,29 +477,6 @@
       ],
       "urls": [
         "https://e27.co/india-is-showing-the-world-what-ai-will-do-to-jobs-and-education-20260831/"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 12.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:marketing-backlash-story-doesn-actually-fit-southeast-asia",
-      "title": "The AI marketing backlash story doesn’t actually fit Southeast Asia",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/the-ai-marketing-backlash-story-doesnt-actually-fit-southeast-asia-20260828/"
       ],
       "finding_count": 1,
       "max_score": 10,

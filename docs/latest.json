@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T08:55:05+00:00",
-  "run_id": "2026-09-01T08:55:05+00:00",
+  "generated_at": "2026-09-01T09:07:58+00:00",
+  "run_id": "2026-09-01T09:07:58+00:00",
   "date": "2026-09-01",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 49
+      "configured_public_sources_only": 50
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 49,
-    "displayed_findings": 49,
+    "new_relevant_findings": 1,
+    "today_file_total": 50,
+    "displayed_findings": 50,
     "high": 0,
-    "medium": 14,
+    "medium": 15,
     "observe": 35,
     "source_errors": 1
   },
@@ -373,6 +373,50 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "1b6b57b71f5c3dfe0e6a"
+      },
+      {
+        "title": "Singapore now captures 78 per cent of SEA’s startup funding",
+        "url": "https://e27.co/singapore-now-captures-78-per-cent-of-seas-startup-funding-20260901/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-01T08:58:31+00:00",
+        "fetched_at": "2026-09-01T09:07:25+00:00",
+        "summary": "Southeast Asia’s venture capital map fractured further in 2025. Singapore alone accounted for 78.1% of the region’s equity funding value (US$4.2 billion) and 61.4% of deal volume, according to a new DealStreetAsia-Kickstart Ventures report. The city-state’s share intensified in the second half of the year, with funding value jumping 147% and late-stage rounds such as Thunes’ US$150 […] The post Singapore now capture…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "funding",
+          "Southeast Asia",
+          "Watchgraph:capitals_power_centers"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "APAC Trend Radar (+3.8); Southeast Asia (+2.0); funding (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "capitals_power_centers"
+        ],
+        "watchgraph_reasons": [
+          "capitals_power_centers: capital"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ"
+        ],
+        "id": "020b2345b0d121f0f2ef"
       },
       {
         "title": "[UPDATE] [hoch] Apache Wicket: Mehrere Schwachstellen",
@@ -1665,6 +1709,50 @@
       "id": "1b6b57b71f5c3dfe0e6a"
     },
     {
+      "title": "Singapore now captures 78 per cent of SEA’s startup funding",
+      "url": "https://e27.co/singapore-now-captures-78-per-cent-of-seas-startup-funding-20260901/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-01T08:58:31+00:00",
+      "fetched_at": "2026-09-01T09:07:25+00:00",
+      "summary": "Southeast Asia’s venture capital map fractured further in 2025. Singapore alone accounted for 78.1% of the region’s equity funding value (US$4.2 billion) and 61.4% of deal volume, according to a new DealStreetAsia-Kickstart Ventures report. The city-state’s share intensified in the second half of the year, with funding value jumping 147% and late-stage rounds such as Thunes’ US$150 […] The post Singapore now capture…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "funding",
+        "Southeast Asia",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "APAC Trend Radar (+3.8); Southeast Asia (+2.0); funding (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "020b2345b0d121f0f2ef"
+    },
+    {
       "title": "[UPDATE] [hoch] Apache Wicket: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3091",
       "source": "BSI CERT-Bund Security Advisories",
@@ -2605,7 +2693,52 @@
       "id": "9dba5ebaa9bfe3c09a65"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Singapore now captures 78 per cent of SEA’s startup funding",
+      "url": "https://e27.co/singapore-now-captures-78-per-cent-of-seas-startup-funding-20260901/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-01T08:58:31+00:00",
+      "fetched_at": "2026-09-01T09:07:25+00:00",
+      "summary": "Southeast Asia’s venture capital map fractured further in 2025. Singapore alone accounted for 78.1% of the region’s equity funding value (US$4.2 billion) and 61.4% of deal volume, according to a new DealStreetAsia-Kickstart Ventures report. The city-state’s share intensified in the second half of the year, with funding value jumping 147% and late-stage rounds such as Thunes’ US$150 […] The post Singapore now capture…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "funding",
+        "Southeast Asia",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "APAC Trend Radar (+3.8); Southeast Asia (+2.0); funding (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "020b2345b0d121f0f2ef"
+    }
+  ],
   "source_errors": [
     {
       "source_id": "bis_statistics",
