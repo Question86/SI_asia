@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-01T01:41:00+00:00",
-  "run_id": "2026-09-01T01:41:00+00:00",
+  "generated_at": "2026-09-01T02:00:36+00:00",
+  "run_id": "2026-09-01T02:00:36+00:00",
   "date": "2026-09-01",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 11
+      "configured_public_sources_only": 13
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 11,
-    "displayed_findings": 11,
+    "new_relevant_findings": 2,
+    "today_file_total": 13,
+    "displayed_findings": 13,
     "high": 0,
-    "medium": 2,
-    "observe": 9,
+    "medium": 3,
+    "observe": 10,
     "source_errors": 1
   },
   "sections": {
@@ -74,6 +74,50 @@
           "EWZ"
         ],
         "id": "95a3d590e897461d801f"
+      },
+      {
+        "title": "Stocks fear the Fed but crypto shrugs off a 58% rate hike bet: Why the split?",
+        "url": "https://e27.co/stocks-fear-the-fed-but-crypto-shrugs-off-a-58-rate-hike-bet-why-the-split-20260901/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-01T01:55:25+00:00",
+        "fetched_at": "2026-09-01T02:00:02+00:00",
+        "summary": "The global financial landscape currently displays a truly fascinating divergence between digital reserves and conventional equities. While mainstream stock indices stumbled under the weight of geopolitical anxiety and rising bond yields, the cryptocurrency sector forged a completely independent upward path. The total digital asset capitalisation surged 1.09 per cent to reach US$2.64T over the 24-hour […] The post St…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Macro/Policy",
+          "Markets/Capital Structure",
+          "Watchgraph:capitals_power_centers"
+        ],
+        "relevance_score": 19,
+        "relevance_reason": "Macro/Policy (+6.2); APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "capitals_power_centers"
+        ],
+        "watchgraph_reasons": [
+          "capitals_power_centers: capital"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ"
+        ],
+        "id": "260f6eec99ebc3563747"
       },
       {
         "title": "2026年度選考採用試験（課長補佐級・係長級／一般職相当）の第2期募集を開始しました",
@@ -168,6 +212,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "b68ad3d7022c8d8f0ae4"
+      },
+      {
+        "title": "M 4.8 - 292 km WNW of Houma, Tonga",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td8u",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-09-01T01:44:48.040+00:00",
+        "fetched_at": "2026-09-01T02:00:02+00:00",
+        "summary": "Time 2026-09-01 01:29:10 UTC 2026-09-01 01:29:10 UTC at epicenter Location 20.407°S 177.994°W Depth 533.04 km (331.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "cf8e1bb8d3d80a8c4935"
       },
       {
         "title": "“Not a bank, not a gamble”: Chocolate Finance wants your SME’s spare cash",
@@ -362,6 +442,50 @@
       "id": "95a3d590e897461d801f"
     },
     {
+      "title": "Stocks fear the Fed but crypto shrugs off a 58% rate hike bet: Why the split?",
+      "url": "https://e27.co/stocks-fear-the-fed-but-crypto-shrugs-off-a-58-rate-hike-bet-why-the-split-20260901/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-01T01:55:25+00:00",
+      "fetched_at": "2026-09-01T02:00:02+00:00",
+      "summary": "The global financial landscape currently displays a truly fascinating divergence between digital reserves and conventional equities. While mainstream stock indices stumbled under the weight of geopolitical anxiety and rising bond yields, the cryptocurrency sector forged a completely independent upward path. The total digital asset capitalisation surged 1.09 per cent to reach US$2.64T over the 24-hour […] The post St…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Macro/Policy",
+        "Markets/Capital Structure",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 19,
+      "relevance_reason": "Macro/Policy (+6.2); APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "260f6eec99ebc3563747"
+    },
+    {
       "title": "2026年度選考採用試験（課長補佐級・係長級／一般職相当）の第2期募集を開始しました",
       "url": "https://www.digital.go.jp/recruitment/career-government-official/career-selection-clericalposition-2026",
       "source": "Japan Digital Agency News RSS",
@@ -452,6 +576,42 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "b68ad3d7022c8d8f0ae4"
+    },
+    {
+      "title": "M 4.8 - 292 km WNW of Houma, Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td8u",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-01T01:44:48.040+00:00",
+      "fetched_at": "2026-09-01T02:00:02+00:00",
+      "summary": "Time 2026-09-01 01:29:10 UTC 2026-09-01 01:29:10 UTC at epicenter Location 20.407°S 177.994°W Depth 533.04 km (331.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "cf8e1bb8d3d80a8c4935"
     },
     {
       "title": "“Not a bank, not a gamble”: Chocolate Finance wants your SME’s spare cash",
@@ -599,66 +759,84 @@
   ],
   "new_findings": [
     {
-      "title": "India is showing the world what AI will do to jobs and education",
-      "url": "https://e27.co/india-is-showing-the-world-what-ai-will-do-to-jobs-and-education-20260831/",
+      "title": "Stocks fear the Fed but crypto shrugs off a 58% rate hike bet: Why the split?",
+      "url": "https://e27.co/stocks-fear-the-fed-but-crypto-shrugs-off-a-58-rate-hike-bet-why-the-split-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-09-01T01:30:46+00:00",
-      "fetched_at": "2026-09-01T01:40:29+00:00",
-      "summary": "The most important change AI is making to employment may not appear first in layoffs. It may appear in the people companies quietly decide not to hire. A survey of 651 Indian technology firms found that 65 per cent said AI had reduced hiring. In Britain, government and LinkedIn data found 30 of 38 tracked […] The post India is showing the world what AI will do to jobs and education appeared first on e27 .",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region india: India (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "37aa8824f78bc5eccc15"
-    },
-    {
-      "title": "“Not a bank, not a gamble”: Chocolate Finance wants your SME’s spare cash",
-      "url": "https://e27.co/not-a-bank-not-a-gamble-chocolate-finance-wants-your-smes-spare-cash-20260831/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-01T01:30:33+00:00",
-      "fetched_at": "2026-09-01T01:40:29+00:00",
-      "summary": "Two years ago, Chocolate Finance built its name on a simple pitch to Singapore consumers: park your spare cash with us instead of a savings account, and we’ll try to get you a better return. It worked well enough that the fintech now manages roughly US$1.3 billion in assets across more than 150,000 customers. Now […] The post “Not a bank, not a gamble”: Chocolate Finance wants your SME’s spare cash appeared first on…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7a844f607d3b38a67429"
-    },
-    {
-      "title": "Southeast Asia’s quiet FDI manufacturing redistribution",
-      "url": "https://e27.co/southeast-asias-quiet-fdi-manufacturing-redistribution-20260828/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-01T01:30:06+00:00",
-      "fetched_at": "2026-09-01T01:40:29+00:00",
-      "summary": "A few years ago, I sat with a Miami-based company that was choosing markets to run part of its expansion, potentially including production of their technology products. On paper, several locations offered comparable incentives, though what tipped the decision for the chosen country at that time, the UAE, was culture: the team judged the UAE’s […] The post Southeast Asia’s quiet FDI manufacturing redistribution appea…",
+      "published_at": "2026-09-01T01:55:25+00:00",
+      "fetched_at": "2026-09-01T02:00:02+00:00",
+      "summary": "The global financial landscape currently displays a truly fascinating divergence between digital reserves and conventional equities. While mainstream stock indices stumbled under the weight of geopolitical anxiety and rising bond yields, the cryptocurrency sector forged a completely independent upward path. The total digital asset capitalisation surged 1.09 per cent to reach US$2.64T over the 24-hour […] The post St…",
       "matched_keywords": [
         "APAC Trend Radar",
-        "Southeast Asia"
+        "Macro/Policy",
+        "Markets/Capital Structure",
+        "Watchgraph:capitals_power_centers"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)",
+      "relevance_score": 19,
+      "relevance_reason": "Macro/Policy (+6.2); APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "18be1fe34f95facd4b6e"
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "260f6eec99ebc3563747"
+    },
+    {
+      "title": "M 4.8 - 292 km WNW of Houma, Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000td8u",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-01T01:44:48.040+00:00",
+      "fetched_at": "2026-09-01T02:00:02+00:00",
+      "summary": "Time 2026-09-01 01:29:10 UTC 2026-09-01 01:29:10 UTC at epicenter Location 20.407°S 177.994°W Depth 533.04 km (331.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "cf8e1bb8d3d80a8c4935"
     }
   ],
   "source_errors": [
