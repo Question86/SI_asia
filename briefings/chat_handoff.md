@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-01T09:57:55+00:00_
+_Generated: 2026-09-01T10:20:16+00:00_
 
 ## Status
 - status: `warning`
-- findings: `50`
+- findings: `52`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-09-01T09:57:55+00:00_
 - url: https://e27.co/schools-and-universities-face-rising-ransomware-costs-as-attackers-target-identities-20260901/
 - summary: Ransomware attacks on schools and universities are increasingly beginning not with exotic malware, but with stolen logins, deceptive emails and weak identity controls. A new Sophos report has found that identity-based techniques were used in 85 per cent of ra…
 
-### 7. M 4.5 - 90 km SSW of Nikolski, Alaska
+### 7. AI safety is designed in the West, and failing users everywhere
+- source: Rest of World Global Tech Feed
+- score: `11`
+- published: `2026-09-01T10:00:00+00:00`
+- url: https://restofworld.org/2026/ai-safety-bias/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+- summary: OpenAI’s pause shows the risks of rapid AI development, as safety frameworks fail to account for non-Western languages and contexts where harms are felt most.
+
+### 8. M 4.5 - 90 km SSW of Nikolski, Alaska
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-09-01T08:08:39.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdal
 - summary: ShakeMap - III Time 2026-09-01 07:45:38 UTC 2026-09-01 07:45:38 UTC at epicenter Location 52.162°N 169.259°W Depth 37.56 km (23.34 mi)
-
-### 8. M 4.5 - 105 km SSW of Nikolski, Alaska
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-09-01T07:21:56.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdag
-- summary: ShakeMap - II Time 2026-09-01 07:05:57 UTC 2026-09-01 07:05:57 UTC at epicenter Location 52.039°N 169.339°W Depth 42.23 km (26.24 mi)
 
 END OF DOCUMENT

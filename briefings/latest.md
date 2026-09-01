@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-01T09:57:55+00:00_
+_Generiert: 2026-09-01T10:20:16+00:00_
 
 ## Kurzlage
 
-50 neue relevante Treffer. Stärkstes Signal: „How to pitch Southeast Asia’s investors: A founder’s guide“ aus e27 Asia Startup and Tech Feed (Score 21, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+52 neue relevante Treffer. Stärkstes Signal: „How to pitch Southeast Asia’s investors: A founder’s guide“ aus e27 Asia Startup and Tech Feed (Score 21, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -207,6 +207,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Ransomware attacks on schools and universities are increasingly beginning not with exotic malware, but with stolen logins, deceptive emails and weak identity controls. A new Sophos report has found that identity-based techniques were used in 85 per cent of ransomware attacks against education institutions, above the cross-sector average of 79 per cent. These methods include […] The post Schools and universities face…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **AI safety is designed in the West, and failing users everywhere** — Score 11, observation — [Quelle](https://restofworld.org/2026/ai-safety-bias/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-09-01T10:00:00+00:00`, fetched `2026-09-01T10:19:45+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)
+  - Kurz: OpenAI’s pause shows the risks of rapid AI development, as safety frameworks fail to account for non-Western languages and contexts where harms are felt most.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.5 - 90 km SSW of Nikolski, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdal)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-01T08:08:39.040+00:00`, fetched `2026-09-01T08:29:22+00:00`
@@ -279,6 +288,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store. IPATool ipatool is a command line tool that allows you to search for iOS, iPadOS, tvOS, and visionOS apps on the App Store and download a copy of the app package, known as an ipa file. Requirements Installation Manual Package Manager (macOS) Usage Compiling License Release…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **PV-Wechselrichter: Hoymiles liefert Sicherheitsupdate aus** — Score 7, observation — [Quelle](https://www.heise.de/news/PV-Wechselrichter-Hoymiles-liefert-Sicherheitsupdate-aus-11436579.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-09-01T09:54:00.000+00:00`, fetched `2026-09-01T10:19:45+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Hoymiles hatte seine DTU-Funkprotokolle nicht gesichert, was fremden Zugriff ermöglicht. Nun stehen Firmware-Updates bereit.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **令和8年（2026年）第4回政策評価・行政事業レビュー有識者会議（2026年8月6日（木）開催）の会議資料を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/assessment/project-review/2026/712e6491-2e7c-426a-a489-191bf4be13a5)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-09-01T06:00:00+00:00`, fetched `2026-09-01T06:36:40+00:00`
@@ -305,24 +323,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: ISMAPクラウドサービスリスト等を更新しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The everyday work of inclusion** — Score 6, observation — [Quelle](https://www.bis.org/speeches/20260901-everyday-work-inclusion)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-09-01T00:00:00+00:00`, fetched `2026-09-01T08:46:07+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0)
-  - Kurz: Speech by Mr Olaf Sleijpen, President of De Nederlandsche Bank, at Workplace Pride, Amsterdam, 7 August 2026.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「玄人志向」が「Crowxis」にブランド変更！サングラスもやめてTGSで初披露** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/news/2137155.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-01T04:11:40+00:00`, fetched `2026-09-01T05:37:28+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 「玄人志向」が「Crowxis」にブランド変更！サングラスもやめてTGSで初披露
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
