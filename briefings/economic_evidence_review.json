@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-09-02T09:59:45+00:00",
+  "generated_at": "2026-09-02T10:23:02+00:00",
   "fx_as_of": null,
-  "candidate_count": 136,
+  "candidate_count": 138,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 136
+    "pending": 138
   },
   "coverage_warning": null,
   "candidates": [
@@ -2429,6 +2429,27 @@
       "source_url": "https://e27.co/the-eu-called-chatgpt-a-search-engine-seas-ai-startups-should-worry-about-what-comes-next-20260902/"
     },
     {
+      "amount_native": 3100000.0,
+      "amount_usd": 3100000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.55,
+      "candidate_id": "cand_33d1d08514a6d021e904",
+      "component_suggestion": "transfers",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_cc17b4bd401d2aacd3f1",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-02T10:23:02+00:00",
+      "overlap_group_suggestion": "evt_cc17b4bd401d2aacd3f1:transfers:ca7ed8939722",
+      "review_status": "pending",
+      "snippet": "minalizes the theft or unauthorized transfer of “critical technologies,” and carries penalties of up to 12 years in prison and fines of up to 100 million New Taiwan dollars (about $3.1 million). Over the past five years, the Hsinchu District Prosecutors Office has charged around 60 cases involving nearly 190 individuals claiming illegal business operations, more than an",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://restofworld.org/2026/taiwan-china-chip-investigations/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "component_confidence": 0.67,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
+    },
+    {
       "amount_native": 708000.0,
       "amount_usd": 708000.0,
       "attribution_probability": null,
@@ -2677,6 +2698,27 @@
       "snippet": "from domestic commercial banks and international organisations, leveraging significantly larger volumes of private investment. By the end of May, contracted RRF loans had reached €13.2 billion, with all milestones for the remaining payment claims successfully completed. Furthermore, over 200 milestones and targets have been fulfilled, spanning upgrades to healthcare, th",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://www.bis.org/speeches/20260817-global-economy-2026-and-beyond-financing-europe-and-greeces-future"
+    },
+    {
+      "amount_native": 120000.0,
+      "amount_usd": 120000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.43,
+      "candidate_id": "cand_2843f941af94c38995ee",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_cc17b4bd401d2aacd3f1",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-02T10:23:02+00:00",
+      "overlap_group_suggestion": "evt_cc17b4bd401d2aacd3f1:unknown:6ea6f3a668df",
+      "review_status": "pending",
+      "snippet": "erican company based in his hometown Hsinchu, the heart of Taiwan’s semiconductor industry. He said the role gave him a chance to work on an ambitious AI-chip design project and a $120,000 salary, doubling the industry average, which would help pay off his two children’s private elementary education. But several months into his new role, the engineer, who was 32 at t",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://restofworld.org/2026/taiwan-china-chip-investigations/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 270000000.0,
