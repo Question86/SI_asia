@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T23:29:40+00:00",
-  "run_id": "2026-09-02T23:29:40+00:00",
+  "generated_at": "2026-09-02T23:39:58+00:00",
+  "run_id": "2026-09-02T23:39:58+00:00",
   "date": "2026-09-02",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 97,
     "displayed_findings": 97,
     "high": 0,
@@ -4987,29 +4987,7 @@
       "id": "c369da51be1dd1c75de5"
     }
   ],
-  "new_findings": [
-    {
-      "title": "AIにまじなスライド作らせる｜【公式】Jinba",
-      "url": "https://note.com/jinbaflow/n/nc8372b84e572",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-02T16:04:06+00:00",
-      "fetched_at": "2026-09-02T23:29:07+00:00",
-      "summary": "AIでスライドを作ると、それらしい見た目のものは一瞬で出てきます。ところが実際に役員会議や顧客提案に持っていけるかというと、ほとんどの場合そのままでは使えません。角丸のカードが3枚並び、タイトルは「〜のご紹介」、結論はどこにも書いていない——そんな「AIが作った感」のあるスライドになりがちです。 私たちC...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b0b976f7bd727179fda7"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
