@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T20:19:16+00:00",
-  "run_id": "2026-09-02T20:19:16+00:00",
+  "generated_at": "2026-09-02T20:31:07+00:00",
+  "run_id": "2026-09-02T20:31:07+00:00",
   "date": "2026-09-02",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 88
+      "configured_public_sources_only": 90
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 88,
-    "displayed_findings": 88,
+    "new_relevant_findings": 2,
+    "today_file_total": 90,
+    "displayed_findings": 90,
     "high": 0,
     "medium": 35,
-    "observe": 53,
+    "observe": 55,
     "source_errors": 1
   },
   "sections": {
@@ -1630,6 +1630,42 @@
         "id": "7953ac5ec092b6c32b6e"
       },
       {
+        "title": "M 5.4 - 53 km W of Bulolo, Papua New Guinea",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdqc",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-09-02T20:24:35.040+00:00",
+        "fetched_at": "2026-09-02T20:30:38+00:00",
+        "summary": "Time 2026-09-02 20:04:33 UTC 2026-09-02 20:04:33 UTC at epicenter Location 7.182°S 146.154°E Depth 65.16 km (40.49 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "69110c45af4645191003"
+      },
+      {
         "title": "How we make AI coding more cost efficient without sacrificing task quality",
         "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
         "source": "GitHub Blog Atom",
@@ -2056,6 +2092,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "8c4e69742585afc42a20"
+      },
+      {
+        "title": "委託業者が無断でAI利用か――ヨルシカ、ライブ映像上映会のチケットサンプル画像が文字化け デザインにも影響",
+        "url": "https://www.itmedia.co.jp/news/article/2609/02/2000001082/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-02T10:03:49+00:00",
+        "fetched_at": "2026-09-02T20:30:38+00:00",
+        "summary": "音楽ユニット「ヨルシカ」の公式Xは9月1日、ライブ映像作品「ヨルシカ LIVE『盗作』」のプレミアム上映会で配布するメモリアルチケットのサンプル画像に、Xの「AIで生成」ラベルが表示された件について経緯を説明した。告知用画像を提供した業者が「SAMPLE」の文字を加える際に生成AIを使ったことが原因という。チケット...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "98dc13771a79f5c85149"
       },
       {
         "title": "東大の新「価値創造学部」に批判相次ぐ……「他学部は価値を創造していないのか」「空虚な名前」",
@@ -3889,6 +3946,42 @@
       "id": "7953ac5ec092b6c32b6e"
     },
     {
+      "title": "M 5.4 - 53 km W of Bulolo, Papua New Guinea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdqc",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-02T20:24:35.040+00:00",
+      "fetched_at": "2026-09-02T20:30:38+00:00",
+      "summary": "Time 2026-09-02 20:04:33 UTC 2026-09-02 20:04:33 UTC at epicenter Location 7.182°S 146.154°E Depth 65.16 km (40.49 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "69110c45af4645191003"
+    },
+    {
       "title": "How we make AI coding more cost efficient without sacrificing task quality",
       "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
       "source": "GitHub Blog Atom",
@@ -4317,6 +4410,27 @@
       "id": "8c4e69742585afc42a20"
     },
     {
+      "title": "委託業者が無断でAI利用か――ヨルシカ、ライブ映像上映会のチケットサンプル画像が文字化け デザインにも影響",
+      "url": "https://www.itmedia.co.jp/news/article/2609/02/2000001082/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-02T10:03:49+00:00",
+      "fetched_at": "2026-09-02T20:30:38+00:00",
+      "summary": "音楽ユニット「ヨルシカ」の公式Xは9月1日、ライブ映像作品「ヨルシカ LIVE『盗作』」のプレミアム上映会で配布するメモリアルチケットのサンプル画像に、Xの「AIで生成」ラベルが表示された件について経緯を説明した。告知用画像を提供した業者が「SAMPLE」の文字を加える際に生成AIを使ったことが原因という。チケット...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "98dc13771a79f5c85149"
+    },
+    {
       "title": "東大の新「価値創造学部」に批判相次ぐ……「他学部は価値を創造していないのか」「空虚な名前」",
       "url": "https://www.itmedia.co.jp/news/article/2609/02/2000001084/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4549,26 +4663,61 @@
   ],
   "new_findings": [
     {
-      "title": "米NY市、公立校でのAI利用禁止へ 中学生以下対象",
-      "url": "https://www.afpbb.com/articles/-/3651158",
+      "title": "M 5.4 - 53 km W of Bulolo, Papua New Guinea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdqc",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-02T20:24:35.040+00:00",
+      "fetched_at": "2026-09-02T20:30:38+00:00",
+      "summary": "Time 2026-09-02 20:04:33 UTC 2026-09-02 20:04:33 UTC at epicenter Location 7.182°S 146.154°E Depth 65.16 km (40.49 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "69110c45af4645191003"
+    },
+    {
+      "title": "委託業者が無断でAI利用か――ヨルシカ、ライブ映像上映会のチケットサンプル画像が文字化け デザインにも影響",
+      "url": "https://www.itmedia.co.jp/news/article/2609/02/2000001082/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-02T12:10:01+00:00",
-      "fetched_at": "2026-09-02T20:18:42+00:00",
-      "summary": "教室で教師の話を聞く生徒たち（資料写真、2023年9月4日撮影）。(c)JEFF PACHOUD/AFP 【9月2日 AFP】米ニューヨーク市では今後、市内の公立学校に通う中学2年生（第8学年）以下のすべての児童・生徒を対象に、学校での人工知能（AI）の使用を禁じる方針であることが分かった。米メディアの報道を受け、関係者が2日、AFP...",
+      "published_at": "2026-09-02T10:03:49+00:00",
+      "fetched_at": "2026-09-02T20:30:38+00:00",
+      "summary": "音楽ユニット「ヨルシカ」の公式Xは9月1日、ライブ映像作品「ヨルシカ LIVE『盗作』」のプレミアム上映会で配布するメモリアルチケットのサンプル画像に、Xの「AIで生成」ラベルが表示された件について経緯を説明した。告知用画像を提供した業者が「SAMPLE」の文字を加える際に生成AIを使ったことが原因という。チケット...",
       "matched_keywords": [
-        "AI/KI",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "4f189685f39f511b5bd8"
+      "id": "98dc13771a79f5c85149"
     }
   ],
   "source_errors": [
