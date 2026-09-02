@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-02T10:30:24Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “キーエンス製XG VisionTerminalおよびXG-X VisionTerminalにおけるにおけるXML外部エンティティ参照（XXE）の不適切な制限の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
+  "generated_at": "2026-09-02T10:48:41Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Mozilla Firefox und Thunderbird: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,61 @@
   ],
   "top_dynamics": [
     {
+      "title": "[NEU] [hoch] Mozilla Firefox und Thunderbird: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3132",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-02T10:26:06+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe, code",
+        "security high-signal: angriffe, code"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Mozilla Firefox und Thunderbird ausnutzen, um Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, sensible Informationen offenzulegen, Daten zu manipulieren, Spoofing-Angriffe durchzuführen, möglicherweise durch Speicherbeschädigungen beliebigen Code auszuführen o…"
+    },
+    {
+      "title": "[NEU] [hoch] Elasticsearch: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3131",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-02T10:26:05+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Elasticsearch ausnutzen, um einen Denial of Service Angriff durchzuführen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen oder vertrauliche Informationen offenzulegen."
+    },
+    {
       "title": "キーエンス製XG VisionTerminalおよびXG-X VisionTerminalにおけるにおけるXML外部エンティティ参照（XXE）の不適切な制限の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU98062224/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-02T13:00:00+09:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -39,7 +89,7 @@
       "url": "https://jvn.jp/jp/JVN91715694/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-02T12:00:00+09:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -63,7 +113,7 @@
       "url": "https://jvn.jp/vu/JVNVU97909245/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-02T10:15:00+09:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "security"
       ],
@@ -83,36 +133,11 @@
       "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
     },
     {
-      "title": "Taiwan’s six-year hunt for China’s undercover chip labs",
-      "url": "https://restofworld.org/2026/taiwan-china-chip-investigations/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "source": "Rest of World Global Tech Feed",
-      "published_at": "2026-09-02T10:00:00+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: rce",
-        "security high-signal: rce"
-      ],
-      "summary": "Previously unpublished government data reveals the scale of Taiwan’s crackdown on Chinese companies accused of hiding their ties while recruiting chip talent and pursuing sensitive technology."
-    },
-    {
       "title": "Euro area bank interest rate statistics: July 2026",
       "url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir260902~d54675e442.en.html",
       "source": "ECB Open Market Operations and Communication, ECB Statistical Press Releases",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 75.83,
+      "age_days": 75.84,
       "topics": [
         "macro"
       ],
@@ -123,13 +148,13 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 2,
       "momentum_delta": 3,
-      "baseline_z_hint": 7.57,
+      "baseline_z_hint": 6.76,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "source breadth +2",
         "momentum delta +3",
-        "baseline z_hint 7.57",
+        "baseline z_hint 6.76",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 75.8d old signal",
@@ -138,11 +163,37 @@
       "summary": ""
     },
     {
+      "title": "[NEU] [hoch] Google Chrome: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3133",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-02T10:26:06+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe, code",
+        "security high-signal: angriffe, code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome ausnutzen, um beliebigen Programmcode auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, sensible Informationen offenzulegen, Spoofing-Angriffe durchzuführen, Daten zu manipulieren oder Denial-of-Service-Zustände zu verursachen."
+    },
+    {
       "title": "[UPDATE] [mittel] IBM Java SDK: Schwachstelle ermöglicht Denial of Service",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3044",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-02T09:41:05+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -168,7 +219,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0172",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-02T05:31:06+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -194,7 +245,7 @@
       "url": "https://jvn.jp/vu/JVNVU90253159/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-02T09:00:00+09:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
@@ -219,7 +270,7 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-Langflow-Instanzen-mit-Schadcode-11437701.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-02T07:21:00.000+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "ai",
         "security"
@@ -242,66 +293,11 @@
       "summary": "Angreifer nutzen derzeit eine kritische Sicherheitslücke im KI-Tool Langflow aus. Ein Sicherheitspatch ist schon länger verfügbar."
     },
     {
-      "title": "Gitlawb/openclaude",
-      "url": "https://github.com/Gitlawb/openclaude",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-09-02T05:39:30+00:00",
-      "age_days": 0.2,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: local",
-        "high terms: rce, code, auth",
-        "security high-signal: rce, code, auth",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-      ],
-      "summary": "runs anywhere. uses anything https://openclaude.gitlawb.com OpenClaude is an open-source coding-agent CLI for cloud and local model providers. Use OpenAI-compatible APIs, Gemini, GitHub Models, Codex OAuth, Codex, Ollama, Atomic Chat, and other supported backends while keeping one terminal-first workflow: prompts, too…"
-    },
-    {
-      "title": "The MMM barrier didn’t disappear. It moved",
-      "url": "https://e27.co/the-mmm-barrier-didnt-disappear-it-moved-20260831/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-02T03:10:10+00:00",
-      "age_days": 0.31,
-      "topics": [
-        "ai",
-        "infra",
-        "macro"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: rce, exchange",
-        "security high-signal: rce, exchange",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-      ],
-      "summary": "AdExchanger ran a piece recently on open-source marketing mix modelling having its moment, and apologised on the way in for the new acronym. OS-MMM. Nobody asked for it, but here we are. The underlying claim is not hype. Julian Runge at Northwestern’s Medill School makes the point that you can now prompt an AI agent […"
-    },
-    {
       "title": "Jetzt patchen! Angreifer attackieren Langflow-Instanzen mit Schadcode",
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-Langflow-Instanzen-mit-Schadcode-11437701.html",
       "source": "heise Security Alerts",
       "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 75.12,
+      "age_days": 75.13,
       "topics": [
         "ai",
         "security"
@@ -313,12 +309,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 1.7,
+      "baseline_z_hint": 1.5,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 1.70",
+        "baseline z_hint 1.50",
         "high terms: code",
         "security high-signal: code",
         "aging penalty -8.0 for 75.1d old signal",
@@ -336,7 +332,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 11,
+      "krass": 2,
+      "strong": 9,
       "watch": 1
     }
   }

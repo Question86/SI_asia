@@ -100,5 +100,143 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “Euro area bank interest rate statistics: July 2026” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=48.43.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "Euro area bank interest rate statistics: July 2026",
+        "url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir260902~d54675e442.en.html",
+        "source": "ECB Open Market Operations and Communication, ECB Statistical Press Releases",
+        "published_at": "2026-06-18T14:33:45+00:00",
+        "age_days": 75.84,
+        "topics": [
+          "macro"
+        ],
+        "dynamics_score": 48.43,
+        "raw_band": "extreme",
+        "dynamic_band": "extreme",
+        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 2,
+        "momentum_delta": 3,
+        "baseline_z_hint": 6.76,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "source breadth +2",
+          "momentum delta +3",
+          "baseline z_hint 6.76",
+          "high terms: rce",
+          "security high-signal: rce",
+          "aging penalty -8.0 for 75.8d old signal"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "[NEU] [hoch] Mozilla Firefox und Thunderbird: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3132",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-02T10:26:06+00:00",
+        "age_days": 0.02,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 31.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: angriffe, code",
+          "security high-signal: angriffe, code"
+        ],
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Mozilla Firefox und Thunderbird ausnutzen, um Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, sensible Informationen offenzulegen, Daten zu manipulieren, Spoofing-Angriffe durchzuführen, möglicherweise durch Speicherbeschädigungen beliebigen Code auszuführen o…"
+      },
+      {
+        "title": "[NEU] [hoch] Google Chrome: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3133",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-02T10:26:06+00:00",
+        "age_days": 0.02,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 31.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: angriffe, code",
+          "security high-signal: angriffe, code"
+        ],
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome ausnutzen, um beliebigen Programmcode auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, sensible Informationen offenzulegen, Spoofing-Angriffe durchzuführen, Daten zu manipulieren oder Denial-of-Service-Zustände zu verursachen."
+      },
+      {
+        "title": "[NEU] [hoch] Elasticsearch: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3131",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-02T10:26:05+00:00",
+        "age_days": 0.02,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 31.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: code",
+          "security high-signal: code"
+        ],
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Elasticsearch ausnutzen, um einen Denial of Service Angriff durchzuführen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen oder vertrauliche Informationen offenzulegen."
+      },
+      {
+        "title": "[UPDATE] [mittel] IBM Java SDK: Schwachstelle ermöglicht Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3044",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-02T09:41:05+00:00",
+        "age_days": 0.05,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 31.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: auth",
+          "security high-signal: auth"
+        ],
+        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in IBM Java SDK ausnutzen, um einen Denial of Service Angriff durchzuführen."
+      }
+    ]
+  }
 }
