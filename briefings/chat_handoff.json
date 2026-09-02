@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-02T01:10:19+00:00",
+  "generated_at": "2026-09-02T01:33:38+00:00",
   "status": "warning",
   "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 7,
-    "displayed_findings": 7,
+    "new_relevant_findings": 1,
+    "today_file_total": 8,
+    "displayed_findings": 8,
     "high": 0,
-    "medium": 3,
+    "medium": 4,
     "observe": 4
   },
   "source_errors_count": 1,
@@ -42,6 +42,16 @@
       "relevance_score": 15,
       "url": "https://openai.com/index/gilbert-tobin",
       "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
+      "section": "medium"
+    },
+    {
+      "title": "Hugging Face製Transformersにおけるユーザー同意確認前のリモートコード不正キャッシュの脆弱性",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-09-02T10:15:00+09:00",
+      "relevance_score": 14,
+      "url": "https://jvn.jp/vu/JVNVU97909245/",
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
       "section": "medium"
     },
     {
@@ -90,136 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “CISA ICS Advisory / ICS Medical Advisory（2026年09月01日）” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=28.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月01日）",
-        "url": "https://jvn.jp/vu/JVNVU90253159/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-02T09:00:00+09:00",
-        "age_days": 0.05,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: cisa, jvn, security, advisory"
-        ],
-        "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-      },
-      {
-        "title": "M 5.6 - 155 km WSW of Abepura, Indonesia",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdhl",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-01T08:46:46+00:00",
-        "age_days": 0.68,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 26.5,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "M 5.6 - 155 km WSW of Abepura, Indonesia",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdhl",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-02T00:30:22.495+00:00",
-        "age_days": 0.03,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 22.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake"
-        ],
-        "summary": "PAGER - GREEN ShakeMap - IV Time 2026-09-02 00:04:54 UTC 2026-09-02 00:04:54 UTC at epicenter Location 3.213°S 139.373°E Depth 64.64 km (40.17 mi)"
-      },
-      {
-        "title": "読まれる職務経歴書のつくり方｜dora_e_m",
-        "url": "https://note.com/dora_e_m/n/n2888ba7764a2",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-31T18:43:10+00:00",
-        "age_days": 1.27,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 19.58,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 2.8,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "baseline z_hint 2.80"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月01日）",
-        "url": "https://jvn.jp/vu/JVNVU90253159/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-06-19T01:58:32+00:00",
-        "age_days": 74.97,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 17.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "aging penalty -8.0 for 75.0d old signal"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-02T01:10:19+00:00",
+  "generated_at": "2026-09-02T01:33:38+00:00",
   "topics": {
     "general": [
       {
@@ -40,6 +40,13 @@
         "published_at": "2026-09-02T09:00:00+09:00",
         "relevance_score": 16,
         "url": "https://jvn.jp/vu/JVNVU90253159/"
+      },
+      {
+        "title": "Hugging Face製Transformersにおけるユーザー同意確認前のリモートコード不正キャッシュの脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-02T10:15:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU97909245/"
       }
     ],
     "ai": [

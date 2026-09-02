@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T01:10:19+00:00",
-  "run_id": "2026-09-02T01:10:19+00:00",
+  "generated_at": "2026-09-02T01:33:38+00:00",
+  "run_id": "2026-09-02T01:33:38+00:00",
   "date": "2026-09-02",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 7
+      "configured_public_sources_only": 8
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 7,
-    "displayed_findings": 7,
+    "new_relevant_findings": 1,
+    "today_file_total": 8,
+    "displayed_findings": 8,
     "high": 0,
-    "medium": 3,
+    "medium": 4,
     "observe": 4,
     "source_errors": 1
   },
@@ -135,6 +135,28 @@
           "PINS"
         ],
         "id": "bf9b4638156499d8cf56"
+      },
+      {
+        "title": "Hugging Face製Transformersにおけるユーザー同意確認前のリモートコード不正キャッシュの脆弱性",
+        "url": "https://jvn.jp/vu/JVNVU97909245/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-09-02T10:15:00+09:00",
+        "fetched_at": "2026-09-02T01:33:07+00:00",
+        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "JVN",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3ec8cb81ed00423a53e2"
       }
     ],
     "observe": [
@@ -333,6 +355,28 @@
       "id": "bf9b4638156499d8cf56"
     },
     {
+      "title": "Hugging Face製Transformersにおけるユーザー同意確認前のリモートコード不正キャッシュの脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU97909245/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-09-02T10:15:00+09:00",
+      "fetched_at": "2026-09-02T01:33:07+00:00",
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3ec8cb81ed00423a53e2"
+    },
+    {
       "title": "Why most AI driven reorgs are solving the wrong problem",
       "url": "https://e27.co/why-most-ai-driven-reorgs-are-solving-the-wrong-problem-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -419,112 +463,26 @@
   ],
   "new_findings": [
     {
-      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-      "url": "https://openai.com/index/gilbert-tobin",
-      "source": "OpenAI News RSS",
+      "title": "Hugging Face製Transformersにおけるユーザー同意確認前のリモートコード不正キャッシュの脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU97909245/",
+      "source": "JVN Japan Vulnerability Notes",
       "source_type": "rss",
-      "published_at": "2026-09-01T01:00:00+00:00",
-      "fetched_at": "2026-09-02T01:09:46+00:00",
-      "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
+      "published_at": "2026-09-02T10:15:00+09:00",
+      "fetched_at": "2026-09-02T01:33:07+00:00",
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
       "matched_keywords": [
-        "AI/KI",
-        "OpenAI",
-        "Watchgraph:ai_agents_workflow"
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
       ],
-      "relevance_score": 15,
-      "relevance_reason": "OpenAI (+7.5); AI/KI (+3.8); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: Codex"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "bf9b4638156499d8cf56"
-    },
-    {
-      "title": "Why most AI driven reorgs are solving the wrong problem",
-      "url": "https://e27.co/why-most-ai-driven-reorgs-are-solving-the-wrong-problem-20260831/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-02T01:00:52+00:00",
-      "fetched_at": "2026-09-02T01:09:46+00:00",
-      "summary": "In February 2024, Klarna’s CEO Sebastian Siemiatkowski told the world that the company’s AI assistant had taken on the work of 700 customer service agents. Headcount fell from 5,500 to 3,800. The story became the most cited example of AI replacing humans at scale. Boards across Asia, Europe, and the US used it to justify […] The post Why most AI driven reorgs are solving the wrong problem appeared first on e27 .",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "c05fea44bda1b62efd7b"
-    },
-    {
-      "title": "なぜ自殺してはいけないのか？ 殺してはいけないのか？ おれのラーメン理論",
-      "url": "https://blog.tinect.jp/?p=91463",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-01T23:32:59+00:00",
-      "fetched_at": "2026-09-02T01:09:46+00:00",
-      "summary": "おれのブログが引用されました 上田信治さんという方からメールが届いた。著書におれのブログからの引用をしたので、ご恵贈いただけるという話だった。 引用に許可もなにもいらないのでありがたい話だと思った。そしておれの手元に『成分表: 偽マキロン・悲しみについて』が届いた。 申し訳ないが、おれは上田信治さんの...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d4271784150077910b26"
-    },
-    {
-      "title": "読まれる職務経歴書のつくり方｜dora_e_m",
-      "url": "https://note.com/dora_e_m/n/n2888ba7764a2",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-01T16:36:40+00:00",
-      "fetched_at": "2026-09-02T01:09:46+00:00",
-      "summary": "はじめにみなさん、職務経歴書、どうやって書いてますか？ 転職というイベントには必要不可欠な書類、職務経歴書。履歴書と異なりフォーマットが定まっていないため、どのように書けばよいか迷ってしまうことがあります。 いざ職務経歴書を書き始めると、これまで関わってきたプロジェクトを「あれもこれも」と盛り込み...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "96d2e72a8688a92d173a"
+      "id": "3ec8cb81ed00423a53e2"
     }
   ],
   "source_errors": [
