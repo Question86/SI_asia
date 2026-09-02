@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-09-02T12:17:20+00:00`
+Generated: `2026-09-02T12:42:08+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -10,6 +10,7 @@ Generated: `2026-09-02T12:17:20+00:00`
 | JetBrains/go-modern-guidelines | $0 | — | 0 | 0 | dormant |
 | M 5.6 - 82 km SE of Maba, Indonesia | $0 | — | 0 | 0 | active |
 | Zabbix agentにおけるDLL読み込みに関する脆弱性 | $0 | — | 0 | 0 | dormant |
+| [MàJ] Vulnérabilité dans Fortinet FortiOS (09 février 2024) | $0 | — | 0 | 0 | active |
 | M 5.0 - 64 km W of Labuha, Indonesia | $0 | — | 0 | 0 | dormant |
 | Why Japan’s booming AI market is harder to crack than it looks | $0 | — | 0 | 0 | dormant |
 | 無料のLM Studio、DFlash/DSpark/MTPで推論を高速化 | $0 | — | 0 | 0 | dormant |
@@ -28,4 +29,3 @@ Generated: `2026-09-02T12:17:20+00:00`
 | Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される | $0 | — | 0 | 0 | dormant |
 | The AI marketing backlash story doesn’t actually fit Southeast Asia | $0 | — | 0 | 0 | dormant |
 | Claude Codeの設計詰めスキル『grilling』の紹介 | $0 | — | 0 | 0 | dormant |
-| 読まれる職務経歴書のつくり方｜dora_e_m | $0 | — | 0 | 0 | dormant |

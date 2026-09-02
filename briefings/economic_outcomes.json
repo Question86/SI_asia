@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-02T12:17:20+00:00",
+  "generated_at": "2026-09-02T12:42:08+00:00",
   "events": [
     {
       "event_id": "evt_04c8c9515e6d6caa68b7",
@@ -67,6 +67,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_0ce0915efc02654da4f9",
+      "title": "[MàJ] Vulnérabilité dans Fortinet FortiOS (09 février 2024)",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_0dbc2a8e23686f5fe6f7",
@@ -509,6 +520,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_4dbe22b3468391e4bc49",
+      "title": "Vulnérabilité dans Microsoft Office (21 août 2026)",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_4fb5a6c74ad5360d9740",
       "title": "Multiples vulnérabilités dans le noyau Linux de Debian (21 août 2026)",
       "deduplicated_buckets": 0,
@@ -704,7 +726,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_66c9e4ae3d63f4b30383",
@@ -858,7 +880,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_757d8af70b6d59ba983f",
@@ -1034,7 +1056,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_86f41fe2294390412625",
@@ -1254,7 +1276,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a0ed7142da455519b73d",
@@ -1353,7 +1375,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_a9168860075ad99c5a0d",
@@ -1587,6 +1609,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_c269eeb694e7b53bd5ce",
+      "title": "Vulnérabilité dans SPIP (21 août 2026)",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_c39c68387b68393d229a",
       "title": "Hugging Face製Transformersにおけるユーザー同意確認前のリモートコード不正キャッシュの脆弱性",
       "deduplicated_buckets": 0,
@@ -1749,7 +1782,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_d52e61c16fa1407a436a",
@@ -1992,6 +2025,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_f8de791871e85abc0655",
+      "title": "Vulnérabilité dans Microsoft Entra ID (21 août 2026)",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_f9aa70a7450d27852f37",

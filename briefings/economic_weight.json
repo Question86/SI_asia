@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-02T12:17:04+00:00",
+  "generated_at": "2026-09-02T12:41:51+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -88,7 +88,26 @@
       "p90_usd": 120000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T05:40:10+00:00",
-      "last_seen_at": "2026-09-02T12:16:45+00:00",
+      "last_seen_at": "2026-09-02T12:41:35+00:00",
+      "status": "active"
+    },
+    {
+      "event_id": "evt_0ce0915efc02654da4f9",
+      "title": "[MàJ] Vulnérabilité dans Fortinet FortiOS (09 février 2024)",
+      "event_classes": [
+        "vulnerability",
+        "exploit",
+        "regulation"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 12000000.0,
+      "p50_usd": 1200000000.0,
+      "p90_usd": 120000000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-02T12:41:35+00:00",
+      "last_seen_at": "2026-09-02T12:41:35+00:00",
       "status": "active"
     },
     {
@@ -174,7 +193,7 @@
       "p90_usd": 11920000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-01T08:46:46+00:00",
-      "last_seen_at": "2026-09-02T12:16:45+00:00",
+      "last_seen_at": "2026-09-02T12:41:35+00:00",
       "status": "active"
     },
     {
@@ -345,7 +364,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-02T07:26:46+00:00",
       "last_seen_at": "2026-09-02T12:16:45+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a0a48f18e523a40ddacf",
@@ -362,7 +381,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-02T06:49:32+00:00",
       "last_seen_at": "2026-09-02T12:16:45+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_072439522f0506eff01d",
@@ -447,7 +466,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-02T05:26:51+00:00",
       "last_seen_at": "2026-09-02T12:16:45+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_73416769b0026aedfe5c",
@@ -464,7 +483,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-02T05:26:51+00:00",
       "last_seen_at": "2026-09-02T12:16:45+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_81d7388e9d0346587de2",
@@ -480,7 +499,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-29T15:25:13+00:00",
-      "last_seen_at": "2026-09-02T12:16:45+00:00",
+      "last_seen_at": "2026-09-02T12:41:35+00:00",
       "status": "active"
     },
     {
@@ -566,7 +585,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-01T06:56:30+00:00",
       "last_seen_at": "2026-09-02T12:16:45+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_f0ac46f40882508b5efa",
@@ -871,7 +890,24 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-02T12:16:45+00:00",
+      "last_seen_at": "2026-09-02T12:41:35+00:00",
+      "status": "active"
+    },
+    {
+      "event_id": "evt_f8de791871e85abc0655",
+      "title": "Vulnérabilité dans Microsoft Entra ID (21 août 2026)",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 294000.0,
+      "p50_usd": 29400000.0,
+      "p90_usd": 2940000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-02T12:41:35+00:00",
+      "last_seen_at": "2026-09-02T12:41:35+00:00",
       "status": "active"
     },
     {
@@ -888,7 +924,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-02T12:16:45+00:00",
+      "last_seen_at": "2026-09-02T12:41:35+00:00",
       "status": "active"
     },
     {
@@ -939,7 +975,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T04:14:04+00:00",
-      "last_seen_at": "2026-09-02T12:16:45+00:00",
+      "last_seen_at": "2026-09-02T12:41:35+00:00",
       "status": "active"
     },
     {
@@ -1024,7 +1060,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T03:25:43+00:00",
-      "last_seen_at": "2026-09-02T12:16:45+00:00",
+      "last_seen_at": "2026-09-02T12:41:35+00:00",
       "status": "active"
     },
     {
@@ -1041,7 +1077,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:33:41+00:00",
-      "last_seen_at": "2026-09-02T12:16:45+00:00",
+      "last_seen_at": "2026-09-02T12:41:35+00:00",
       "status": "active"
     },
     {
@@ -1177,7 +1213,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T03:25:43+00:00",
-      "last_seen_at": "2026-09-02T12:16:45+00:00",
+      "last_seen_at": "2026-09-02T12:41:35+00:00",
       "status": "active"
     },
     {
@@ -1296,7 +1332,7 @@
       "p90_usd": 1176000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T03:25:43+00:00",
-      "last_seen_at": "2026-09-02T12:16:45+00:00",
+      "last_seen_at": "2026-09-02T12:41:35+00:00",
       "status": "active"
     },
     {
@@ -1330,7 +1366,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-02T12:16:45+00:00",
+      "last_seen_at": "2026-09-02T12:41:35+00:00",
       "status": "active"
     },
     {
@@ -1381,7 +1417,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T05:26:51+00:00",
-      "last_seen_at": "2026-09-02T12:16:45+00:00",
+      "last_seen_at": "2026-09-02T12:41:35+00:00",
       "status": "active"
     },
     {
@@ -1400,6 +1436,23 @@
       "first_seen_at": "2026-09-01T02:30:55+00:00",
       "last_seen_at": "2026-09-01T23:56:16+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_c269eeb694e7b53bd5ce",
+      "title": "Vulnérabilité dans SPIP (21 août 2026)",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 116800.0,
+      "p50_usd": 11680000.0,
+      "p90_usd": 1168000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-02T12:41:35+00:00",
+      "last_seen_at": "2026-09-02T12:41:35+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_ba2633514b7c89d43fb5",
@@ -1466,7 +1519,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T02:44:52+00:00",
-      "last_seen_at": "2026-09-02T12:16:45+00:00",
+      "last_seen_at": "2026-09-02T12:41:35+00:00",
       "status": "active"
     },
     {
@@ -1500,7 +1553,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T04:34:13+00:00",
-      "last_seen_at": "2026-09-02T12:16:45+00:00",
+      "last_seen_at": "2026-09-02T12:41:35+00:00",
       "status": "active"
     },
     {
@@ -1636,8 +1689,8 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-02T07:48:28+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-09-02T12:41:35+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_eead2fa9253701ead417",
@@ -1929,6 +1982,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_4dbe22b3468391e4bc49",
+      "title": "Vulnérabilité dans Microsoft Office (21 août 2026)",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112800.0,
+      "p50_usd": 11280000.0,
+      "p90_usd": 1128000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-02T12:41:35+00:00",
+      "last_seen_at": "2026-09-02T12:41:35+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_45c2c9606374cdc0ec28",
       "title": "「FydeOS」を使って古いPCを無償で「Chromebook」に変える方法",
       "event_classes": [
@@ -2112,7 +2182,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T18:20:05+00:00",
-      "last_seen_at": "2026-09-02T12:16:45+00:00",
+      "last_seen_at": "2026-09-02T12:41:35+00:00",
       "status": "active"
     },
     {
