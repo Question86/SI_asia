@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T02:44:49+00:00",
-  "run_id": "2026-09-02T02:44:49+00:00",
+  "generated_at": "2026-09-02T03:00:29+00:00",
+  "run_id": "2026-09-02T03:00:29+00:00",
   "date": "2026-09-02",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 10,
     "displayed_findings": 10,
     "high": 0,
@@ -589,30 +589,7 @@
       "id": "bec6b5c8e938b05253e9"
     }
   ],
-  "new_findings": [
-    {
-      "title": "I stopped hiring. I’m not sure it’s a strategy yet",
-      "url": "https://e27.co/i-stopped-hiring-im-not-sure-its-a-strategy-yet-20260828/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-02T02:30:50+00:00",
-      "fetched_at": "2026-09-02T02:44:18+00:00",
-      "summary": "I haven’t hired a full-time employee in two years. I still bring on freelancers now and then, but the roles I used to fill with interns, fresh grads, or junior freelancers, research, drafting, first-pass editing, basic reporting, have quietly disappeared. AI does them at a fraction of the cost and none of the coordination overhead. […] The post I stopped hiring. I’m not sure it’s a strategy yet appeared first on e27…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Markets/Capital Structure"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); Markets/Capital Structure (+7.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b9550bc639ddf5cbbede"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [
     {
       "source_id": "bis_statistics",
