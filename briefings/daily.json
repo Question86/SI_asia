@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T09:59:13+00:00",
-  "today_file_total": 44,
+  "generated_at": "2026-09-02T10:22:33+00:00",
+  "today_file_total": 45,
   "current_clusters": [
     {
       "key": "domain:www.ecb.europa.eu",
@@ -414,6 +414,29 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
+      "key": "domain:restofworld.org",
+      "title": "Taiwan’s six-year hunt for China’s undercover chip labs",
+      "sources": [
+        "Rest of World Global Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://restofworld.org/2026/taiwan-china-chip-investigations/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 14.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "earthquake:alaska:5.2",
       "title": "M 5.2 - 95 km SSW of Nikolski, Alaska",
       "sources": [
@@ -449,31 +472,6 @@
       ],
       "urls": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rjbuwk"
-      ],
-      "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 13.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "earthquake:alaska:4.8",
-      "title": "M 4.8 - 92 km SSW of Nikolski, Alaska",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rjbrtv"
       ],
       "finding_count": 1,
       "max_score": 11,

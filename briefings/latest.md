@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-02T09:59:10+00:00_
+_Generiert: 2026-09-02T10:22:30+00:00_
 
 ## Kurzlage
 
-44 neue relevante Treffer. Stärkstes Signal: „NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging“ aus e27 Asia Startup and Tech Feed (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+45 neue relevante Treffer. Stärkstes Signal: „NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging“ aus e27 Asia Startup and Tech Feed (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -261,6 +261,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Vietnam is entering a new phase of growth that is harder, more selective, and more interesting than the one that came before. The country is still drawing manufacturing, foreign direct investment, and high-tech supply-chain activity at scale, but the real story is not the volume of capital. It is the discipline now required to convert […] The post Vietnam’s new growth engine is built on constraint appeared first on…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Taiwan’s six-year hunt for China’s undercover chip labs** — Score 9, observation — [Quelle](https://restofworld.org/2026/taiwan-china-chip-investigations/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-09-02T10:00:00+00:00`, fetched `2026-09-02T10:21:51+00:00`
+  - Treffer: APAC Trend Radar, technology
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); technology (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)
+  - Kurz: Previously unpublished government data reveals the scale of Taiwan’s crackdown on Chinese companies accused of hiding their ties while recruiting chip talent and pursuing sensitive technology.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Forward Deployed Learner: Enabling 22-year-olds to build domain expertise and judgement in the post AI world** — Score 8, observation — [Quelle](https://e27.co/forward-deployed-learner-enabling-22-year-olds-to-build-domain-expertise-and-judgement-in-the-post-ai-world-20260828/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-02T03:30:54+00:00`, fetched `2026-09-02T03:38:16+00:00`
@@ -296,15 +305,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 無償の定番ネットワーク調査ツール「NetEnum」が第3世代へ ～可視化、通信解析までカバー／「NetEnum6」が正式公開
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **楽天にGMO……防衛産業に近づく民間IT企業 反発の声も** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2609/02/2000001041/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-02T03:47:04+00:00`, fetched `2026-09-02T08:34:45+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: AIやドローンを中心とした防衛関連産業の加速に伴い、同様の事業への関与を強める企業が増えている。例えば楽天グループは8月、ドイツの防衛系スタートアップと提携し、迎撃型ドローンの導入支援を手掛けると発表。GMOインターネットグループが9月15日に開催するイベントには、米防衛ソフトウェア企業Palantirがビデオメ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

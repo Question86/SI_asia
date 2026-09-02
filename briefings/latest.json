@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T09:59:10+00:00",
-  "run_id": "2026-09-02T09:59:10+00:00",
+  "generated_at": "2026-09-02T10:22:30+00:00",
+  "run_id": "2026-09-02T10:22:30+00:00",
   "date": "2026-09-02",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 44
+      "configured_public_sources_only": 45
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 44,
-    "displayed_findings": 44,
+    "new_relevant_findings": 1,
+    "today_file_total": 45,
+    "displayed_findings": 45,
     "high": 0,
     "medium": 14,
-    "observe": 30,
+    "observe": 31,
     "source_errors": 1
   },
   "sections": {
@@ -853,6 +853,27 @@
           "EWZ"
         ],
         "id": "7953ac5ec092b6c32b6e"
+      },
+      {
+        "title": "Taiwan’s six-year hunt for China’s undercover chip labs",
+        "url": "https://restofworld.org/2026/taiwan-china-chip-investigations/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "source": "Rest of World Global Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-02T10:00:00+00:00",
+        "fetched_at": "2026-09-02T10:21:51+00:00",
+        "summary": "Previously unpublished government data reveals the scale of Taiwan’s crackdown on Chinese companies accused of hiding their ties while recruiting chip talent and pursuing sensitive technology.",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "technology"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "APAC Trend Radar (+3.8); technology (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "645b4db18346453f59f0"
       },
       {
         "title": "M 4.9 - 85 km SSW of Nikolski, Alaska",
@@ -2050,6 +2071,27 @@
       "id": "7953ac5ec092b6c32b6e"
     },
     {
+      "title": "Taiwan’s six-year hunt for China’s undercover chip labs",
+      "url": "https://restofworld.org/2026/taiwan-china-chip-investigations/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-02T10:00:00+00:00",
+      "fetched_at": "2026-09-02T10:21:51+00:00",
+      "summary": "Previously unpublished government data reveals the scale of Taiwan’s crackdown on Chinese companies accused of hiding their ties while recruiting chip talent and pursuing sensitive technology.",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "technology"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "APAC Trend Radar (+3.8); technology (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "645b4db18346453f59f0"
+    },
+    {
       "title": "M 4.9 - 85 km SSW of Nikolski, Alaska",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rjbwrf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -2419,7 +2461,29 @@
       "id": "c369da51be1dd1c75de5"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Taiwan’s six-year hunt for China’s undercover chip labs",
+      "url": "https://restofworld.org/2026/taiwan-china-chip-investigations/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-02T10:00:00+00:00",
+      "fetched_at": "2026-09-02T10:21:51+00:00",
+      "summary": "Previously unpublished government data reveals the scale of Taiwan’s crackdown on Chinese companies accused of hiding their ties while recruiting chip talent and pursuing sensitive technology.",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "technology"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "APAC Trend Radar (+3.8); technology (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "645b4db18346453f59f0"
+    }
+  ],
   "source_errors": [
     {
       "source_id": "bis_statistics",
