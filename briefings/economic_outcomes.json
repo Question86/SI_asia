@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-02T12:56:22+00:00",
+  "generated_at": "2026-09-02T13:09:32+00:00",
   "events": [
     {
       "event_id": "evt_04c8c9515e6d6caa68b7",
@@ -742,13 +742,13 @@
     {
       "event_id": "evt_66e98c2d2106287bd8fc",
       "title": "M 5.6 - 71 km WSW of Puerto Madero, Mexico",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_67c97d7b18f6ee0a0029",
@@ -1739,6 +1739,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_d0fcbd9d43c8d56fbfb3",
+      "title": "M 5.9 - southern East Pacific Rise",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_d261ec3bccdfcf970e31",

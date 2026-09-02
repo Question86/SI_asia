@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-09-02T12:56:03+00:00`
+Generated: `2026-09-02T13:09:16+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -28,9 +28,9 @@ Generated: `2026-09-02T12:56:03+00:00`
 | M 5.2 - 35 km SE of Sarangani, Philippines | natural_disaster | $1.16M | $116.00M | $11.60B | 0.33 |
 | M 5.2 - 70 km NNW of Arthurs Point, New Zealand | natural_disaster | $1.14M | $114.40M | $11.44B | 0.33 |
 | M 5.3 - 66 km NNW of Arthurs Point, New Zealand | natural_disaster | $1.14M | $114.40M | $11.44B | 0.33 |
+| M 5.9 - southern East Pacific Rise | natural_disaster | $1.14M | $114.40M | $11.44B | 0.33 |
 | M 5.8 - Kermadec Islands, New Zealand | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
 | M 4.7 - 62 km SSE of Palca, Peru | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
-| M 5.1 - Southwest Indian Ridge | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
 
 ## Interpretation
 
