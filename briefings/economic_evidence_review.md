@@ -1,9 +1,9 @@
 # Economic Evidence Review
 
-Generated: `2026-09-02T05:27:19+00:00`
+Generated: `2026-09-02T05:40:37+00:00`
 FX as of: `None`
 
-- Candidates: **121**
+- Candidates: **123**
 - Promoted: **0**
 
 | Candidate | Event | USD | Component | Status |
@@ -12,12 +12,14 @@ FX as of: `None`
 | `cand_d9f78969526855a19e91` | `evt_624a2e3ce3ccd3efe095` | $1,000,000 | unknown | pending |
 | `cand_e936a3d06d83b262399b` | `evt_3cb5980444e3bd7e9296` | $6 | capital_allocation | pending |
 | `cand_dea5e661bfbf3a2af66a` | `evt_3cb5980444e3bd7e9296` | $5 | real_resource | pending |
+| `cand_c65adb0aa4535f528094` | `evt_566b9c70a07073da651c` | $4 | real_resource | pending |
 | `cand_32c3b21fcbc219b5ad2e` | `evt_8652d6841c3b45de4589` | $2,000 | unknown | pending |
 | `cand_c277713a3f575d58dac8` | `evt_8652d6841c3b45de4589` | $500 | unknown | pending |
 | `cand_f92f5bfaab99f4fd2ded` | `evt_8652d6841c3b45de4589` | $50 | unknown | pending |
 | `cand_2a3417ebcd9e80560342` | `evt_8652d6841c3b45de4589` | $30 | unknown | pending |
 | `cand_0917f8a7ebcdd94a6160` | `evt_8652d6841c3b45de4589` | $16 | unknown | pending |
 | `cand_e7f2c67b66c0c7c58a49` | `evt_8652d6841c3b45de4589` | $10 | unknown | pending |
+| `cand_8875327b93964621405b` | `evt_c6dc90057ec5ebdfc7d8` | $10 | unknown | pending |
 | `cand_4b715b6fbdf0a23adaec` | `evt_3cb5980444e3bd7e9296` | $5 | unknown | pending |
 | `cand_f3f9a9471a5e587a4d11` | `evt_8652d6841c3b45de4589` | $5 | unknown | pending |
 | `cand_e4da03625b9cc62e7afc` | `evt_3cb5980444e3bd7e9296` | $2 | unknown | pending |
@@ -46,5 +48,3 @@ FX as of: `None`
 | `cand_43ff92cbe61c57a5fb04` | `evt_58b1d9a0e9d32a8eebb3` | $50,000,000 | capital_allocation | pending |
 | `cand_c718c72d484483b3e2cd` | `evt_5c64d6dc8a71c6d72b83` | $50,000,000 | capital_allocation | pending |
 | `cand_52cb582bedd18cf35eda` | `evt_5c64d6dc8a71c6d72b83` | $50,000,000 | capital_allocation | pending |
-| `cand_cca1bf9355c3fd892c4a` | `evt_cb96b3b8c44258846f64` | $50,000,000 | capital_allocation | pending |
-| `cand_a47ae5b30f9e28778e8b` | `evt_cb96b3b8c44258846f64` | $50,000,000 | capital_allocation | pending |

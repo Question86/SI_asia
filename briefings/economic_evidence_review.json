@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-09-02T05:27:19+00:00",
+  "generated_at": "2026-09-02T05:40:37+00:00",
   "fx_as_of": null,
-  "candidate_count": 121,
+  "candidate_count": 123,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 121
+    "pending": 123
   },
   "coverage_warning": null,
   "candidates": [
@@ -92,6 +92,27 @@
       "snippet": "gle currently gives 1,000 free 3D-tile sessions a month — each good for up to three hours of rendering, which is very hard for one person to exhaust — and voice carries a built-in $5 session cap. Full map in Keys & Costs , full honest breakdown in What it actually costs . The dev server binds to localhost — your keys stay on your machine. Sharing on a LAN safel",
       "source_priority": "primary_hint",
       "source_url": "https://github.com/bilawalsidhu/gods-eye-view"
+    },
+    {
+      "amount_native": 4.0,
+      "amount_usd": 4.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.8,
+      "candidate_id": "cand_c65adb0aa4535f528094",
+      "component_suggestion": "real_resource",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_566b9c70a07073da651c",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-02T05:40:35+00:00",
+      "overlap_group_suggestion": "evt_566b9c70a07073da651c:real_resource:deca19590430",
+      "review_status": "pending",
+      "snippet": "fe posture are stated in GOVERNANCE.md ; security reporting and triage in SECURITY.md . Performance & cost 👉 docs/PERFORMANCE.md — per-mode token budgets, full-pipeline estimate (~$4–6 for a 15k-word paper), and recommended Claude Code settings (Auto mode; Agent Team optional). Guides & articles Academic Writing Shouldn't Be a Solo Act — full pipeline walkthro",
+      "source_priority": "primary_hint",
+      "source_url": "https://github.com/Imbad0202/academic-research-skills",
+      "component_confidence": 0.55,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 2000.0,
@@ -218,6 +239,27 @@
       "snippet": "their fees for input and output tokens. Do not miss any models in the entire content. One extracted model JSON format should look like this: {\"model_name\": \"GPT-4\", \"input_fee\": \"US$10.00 / 1M tokens\", \"output_fee\": \"US$30.00 / 1M tokens\"}.\"\"\" ), cache_mode = CacheMode . BYPASS , ) async with AsyncWebCrawler ( config = browser_config ) as crawler : result = await c",
       "source_priority": "primary_hint",
       "source_url": "https://github.com/unclecode/crawl4ai"
+    },
+    {
+      "amount_native": 10.0,
+      "amount_usd": 10.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.6,
+      "candidate_id": "cand_8875327b93964621405b",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_c6dc90057ec5ebdfc7d8",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-02T05:40:29+00:00",
+      "overlap_group_suggestion": "evt_c6dc90057ec5ebdfc7d8:unknown:662fa9126779",
+      "review_status": "pending",
+      "snippet": "en /provider or env vars Pay-as-you-go AI gateway (48 models); uses OPENCODE_API_KEY via https://opencode.ai/zen/v1 ; shared key with OpenCode Go OpenCode Go /provider or env vars $10/mo subscription for open models (13 models); uses OPENCODE_API_KEY via https://opencode.ai/zen/go/v1 ; shared key with OpenCode Zen Xiaomi MiMo /provider or env vars OpenAI-compat",
+      "source_priority": "primary_hint",
+      "source_url": "https://github.com/Gitlawb/openclaude",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 5.0,
@@ -2103,20 +2145,20 @@
       "attribution_probability": null,
       "candidate_confidence": 0.55,
       "candidate_id": "cand_13bad4909fd025a67f8d",
+      "component_confidence": 0.55,
       "component_suggestion": "capital_allocation",
       "conversion_status": "not_required",
       "currency": "USD",
       "event_id": "evt_f3c29d221e4438f5c96f",
       "extraction_method": "regex_context_v1",
+      "fx_as_of": null,
+      "fx_rate_to_usd": 1.0,
       "observed_at": "2026-09-02T05:27:11+00:00",
       "overlap_group_suggestion": "evt_f3c29d221e4438f5c96f:capital_allocation:16a051a7b684",
       "review_status": "pending",
       "snippet": "data Defi E-Commerce Hardware Retail Artificial Intelligence Cryptocurrency Education Healthtech Software As A Service View all Startups --> POSTS STARTUPS Tech Innovators secured $50 million in funding from Venture Capitalist Alpha, paving the way for groundbreaking advancements in artificial intelligence. Discover the power of AI in transforming your daily tasks! Wit",
       "source_priority": "secondary_or_unknown",
-      "source_url": "https://e27.co/the-eu-called-chatgpt-a-search-engine-seas-ai-startups-should-worry-about-what-comes-next-20260902/",
-      "component_confidence": 0.55,
-      "fx_rate_to_usd": 1.0,
-      "fx_as_of": null
+      "source_url": "https://e27.co/the-eu-called-chatgpt-a-search-engine-seas-ai-startups-should-worry-about-what-comes-next-20260902/"
     },
     {
       "amount_native": 50000000.0,
@@ -2124,20 +2166,20 @@
       "attribution_probability": null,
       "candidate_confidence": 0.55,
       "candidate_id": "cand_017b91ef0fd7280fa8bd",
+      "component_confidence": 0.55,
       "component_suggestion": "capital_allocation",
       "conversion_status": "not_required",
       "currency": "USD",
       "event_id": "evt_f3c29d221e4438f5c96f",
       "extraction_method": "regex_context_v1",
+      "fx_as_of": null,
+      "fx_rate_to_usd": 1.0,
       "observed_at": "2026-09-02T05:27:11+00:00",
       "overlap_group_suggestion": "evt_f3c29d221e4438f5c96f:capital_allocation:f3a8ffe32888",
       "review_status": "pending",
       "snippet": "cial intelligence. Discover the power of AI in transforming your daily tasks! With intelligent algorithms, we enhance productivity and streamline workflows. AI Innovations Secures $50 Million in Funding from Visionary Investor Experience the future with AI-driven solutions that simplify complex processes and boost efficiency in your work environment. View all Posts Xam",
       "source_priority": "secondary_or_unknown",
-      "source_url": "https://e27.co/the-eu-called-chatgpt-a-search-engine-seas-ai-startups-should-worry-about-what-comes-next-20260902/",
-      "component_confidence": 0.55,
-      "fx_rate_to_usd": 1.0,
-      "fx_as_of": null
+      "source_url": "https://e27.co/the-eu-called-chatgpt-a-search-engine-seas-ai-startups-should-worry-about-what-comes-next-20260902/"
     },
     {
       "amount_native": 708000.0,

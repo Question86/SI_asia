@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-02T05:27:10+00:00",
+  "generated_at": "2026-09-02T05:40:28+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -72,6 +72,23 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T03:38:48+00:00",
       "last_seen_at": "2026-09-02T05:26:51+00:00",
+      "status": "dormant"
+    },
+    {
+      "event_id": "evt_c6dc90057ec5ebdfc7d8",
+      "title": "Gitlawb/openclaude",
+      "event_classes": [
+        "regulation"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 12000000.0,
+      "p50_usd": 1200000000.0,
+      "p90_usd": 120000000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-02T05:40:10+00:00",
+      "last_seen_at": "2026-09-02T05:40:10+00:00",
       "status": "active"
     },
     {
@@ -157,7 +174,7 @@
       "p90_usd": 11920000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-01T08:46:46+00:00",
-      "last_seen_at": "2026-09-02T05:26:51+00:00",
+      "last_seen_at": "2026-09-02T05:40:10+00:00",
       "status": "active"
     },
     {
@@ -382,6 +399,40 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_65f6c987ee2baa2935b2",
+      "title": "M 4.8 - 92 km SSW of Nikolski, Alaska",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1128000.0,
+      "p50_usd": 112800000.0,
+      "p90_usd": 11280000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-02T05:26:51+00:00",
+      "last_seen_at": "2026-09-02T05:40:10+00:00",
+      "status": "active"
+    },
+    {
+      "event_id": "evt_73416769b0026aedfe5c",
+      "title": "M 5.1 - 91 km SSW of Nikolski, Alaska",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1128000.0,
+      "p50_usd": 112800000.0,
+      "p90_usd": 11280000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-02T05:26:51+00:00",
+      "last_seen_at": "2026-09-02T05:40:10+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_81d7388e9d0346587de2",
       "title": "M 4.9 - 193 km SE of Perryville, Alaska",
       "event_classes": [
@@ -396,7 +447,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-08-29T15:25:13+00:00",
       "last_seen_at": "2026-09-02T05:26:51+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_91ddc5c7bf195c8dec35",
@@ -480,8 +531,8 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-01T06:56:30+00:00",
-      "last_seen_at": "2026-09-01T23:56:16+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-09-02T05:40:10+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_f0ac46f40882508b5efa",
@@ -533,40 +584,6 @@
       "first_seen_at": "2026-08-29T11:40:09+00:00",
       "last_seen_at": "2026-08-29T23:58:25+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_73416769b0026aedfe5c",
-      "title": "M 5.1 - 91 km SSW of Nikolski, Alaska",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1128000.0,
-      "p50_usd": 112800000.0,
-      "p90_usd": 11280000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-09-02T05:26:51+00:00",
-      "last_seen_at": "2026-09-02T05:26:51+00:00",
-      "status": "active"
-    },
-    {
-      "event_id": "evt_65f6c987ee2baa2935b2",
-      "title": "M 4.8 - 92 km SSW of Nikolski, Alaska",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1128000.0,
-      "p50_usd": 112800000.0,
-      "p90_usd": 11280000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-09-02T05:26:51+00:00",
-      "last_seen_at": "2026-09-02T05:26:51+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_058a0e17878f3797ed5c",
@@ -803,8 +820,8 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-01T23:56:16+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-09-02T05:40:10+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_620225625978c23a2aaa",
@@ -820,7 +837,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-02T05:26:51+00:00",
+      "last_seen_at": "2026-09-02T05:40:10+00:00",
       "status": "active"
     },
     {
@@ -871,7 +888,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T04:14:04+00:00",
-      "last_seen_at": "2026-09-02T05:26:51+00:00",
+      "last_seen_at": "2026-09-02T05:40:10+00:00",
       "status": "active"
     },
     {
@@ -956,7 +973,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T03:25:43+00:00",
-      "last_seen_at": "2026-09-02T05:26:51+00:00",
+      "last_seen_at": "2026-09-02T05:40:10+00:00",
       "status": "active"
     },
     {
@@ -973,7 +990,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:33:41+00:00",
-      "last_seen_at": "2026-09-02T05:26:51+00:00",
+      "last_seen_at": "2026-09-02T05:40:10+00:00",
       "status": "active"
     },
     {
@@ -1109,7 +1126,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T03:25:43+00:00",
-      "last_seen_at": "2026-09-02T05:26:51+00:00",
+      "last_seen_at": "2026-09-02T05:40:10+00:00",
       "status": "active"
     },
     {
@@ -1228,7 +1245,7 @@
       "p90_usd": 1176000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T03:25:43+00:00",
-      "last_seen_at": "2026-09-02T05:26:51+00:00",
+      "last_seen_at": "2026-09-02T05:40:10+00:00",
       "status": "active"
     },
     {
@@ -1262,7 +1279,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-02T05:26:51+00:00",
+      "last_seen_at": "2026-09-02T05:40:10+00:00",
       "status": "active"
     },
     {
@@ -1300,6 +1317,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_f3c29d221e4438f5c96f",
+      "title": "The EU called ChatGPT a search engine. SEA’s AI startups should worry about what comes next",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 116800.0,
+      "p50_usd": 11680000.0,
+      "p90_usd": 1168000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-02T05:26:51+00:00",
+      "last_seen_at": "2026-09-02T05:40:10+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_fc652af7a4ec83ebf862",
       "title": "Asia is building the network for the age of atoms",
       "event_classes": [
@@ -1315,23 +1349,6 @@
       "first_seen_at": "2026-09-01T02:30:55+00:00",
       "last_seen_at": "2026-09-01T23:56:16+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_f3c29d221e4438f5c96f",
-      "title": "The EU called ChatGPT a search engine. SEA’s AI startups should worry about what comes next",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 116800.0,
-      "p50_usd": 11680000.0,
-      "p90_usd": 1168000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-02T05:26:51+00:00",
-      "last_seen_at": "2026-09-02T05:26:51+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_ba2633514b7c89d43fb5",
@@ -1398,7 +1415,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T02:44:52+00:00",
-      "last_seen_at": "2026-09-02T05:26:51+00:00",
+      "last_seen_at": "2026-09-02T05:40:10+00:00",
       "status": "active"
     },
     {
@@ -1432,7 +1449,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T04:34:13+00:00",
-      "last_seen_at": "2026-09-02T05:26:51+00:00",
+      "last_seen_at": "2026-09-02T05:40:10+00:00",
       "status": "active"
     },
     {
@@ -1721,7 +1738,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T03:55:57+00:00",
-      "last_seen_at": "2026-09-02T05:26:51+00:00",
+      "last_seen_at": "2026-09-02T05:40:10+00:00",
       "status": "active"
     },
     {
@@ -1844,6 +1861,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_566b9c70a07073da651c",
+      "title": "Imbad0202/academic-research-skills",
+      "event_classes": [
+        "research"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112800.0,
+      "p50_usd": 11280000.0,
+      "p90_usd": 1128000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-02T05:40:10+00:00",
+      "last_seen_at": "2026-09-02T05:40:10+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_45c2c9606374cdc0ec28",
       "title": "「FydeOS」を使って古いPCを無償で「Chromebook」に変える方法",
       "event_classes": [
@@ -1874,7 +1908,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T02:03:01+00:00",
-      "last_seen_at": "2026-09-02T05:26:51+00:00",
+      "last_seen_at": "2026-09-02T05:40:10+00:00",
       "status": "active"
     },
     {
@@ -1993,7 +2027,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T04:34:13+00:00",
-      "last_seen_at": "2026-09-02T05:26:51+00:00",
+      "last_seen_at": "2026-09-02T05:40:10+00:00",
       "status": "active"
     },
     {
@@ -2096,7 +2130,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:10:24+00:00",
       "last_seen_at": "2026-09-02T05:26:51+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_4276ae39166dfdb87aa3",
@@ -2674,7 +2708,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:10:24+00:00",
       "last_seen_at": "2026-09-02T05:26:51+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_6f36151ccdd6ba257878",

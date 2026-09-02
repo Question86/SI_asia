@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-09-02T05:27:10+00:00`
+Generated: `2026-09-02T05:40:28+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -10,6 +10,7 @@ Generated: `2026-09-02T05:27:10+00:00`
 | Warsh, In Our Time | conflict | $113.60M | $11.36B | $1.14T | 0.31 |
 | Schools and universities face rising ransomware costs as attackers target identities | exploit, conflict | $113.60M | $11.36B | $1.14T | 0.31 |
 | Forward Deployed Learner: Enabling 22-year-olds to build domain expertise and judgement in the post AI world | conflict | $110.40M | $11.04B | $1.10T | 0.31 |
+| Gitlawb/openclaude | regulation | $12.00M | $1.20B | $120.00B | 0.31 |
 | bilawalsidhu/gods-eye-view | regulation, natural_disaster | $11.92M | $1.19B | $119.20B | 0.31 |
 | The AI marketing backlash story doesn’t actually fit Southeast Asia | regulation | $11.20M | $1.12B | $112.00B | 0.31 |
 | The factories are coming. Southeast Asia’s real race is to build what surrounds them | regulation | $11.04M | $1.10B | $110.40B | 0.31 |
@@ -28,9 +29,8 @@ Generated: `2026-09-02T05:27:10+00:00`
 | M 4.7 - 62 km SSE of Palca, Peru | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
 | M 5.1 - Southwest Indian Ridge | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
 | M 5.0 - 19 km NW of Fuji, China | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
-| M 4.9 - 193 km SE of Perryville, Alaska | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
-| M 4.9 - 95 km W of Petrolia, CA | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
-| M 4.7 - Mid-Indian Ridge | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
+| M 4.8 - 92 km SSW of Nikolski, Alaska | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
+| M 5.1 - 91 km SSW of Nikolski, Alaska | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
 
 ## Interpretation
 
