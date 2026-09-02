@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-02T16:50:26+00:00_
+_Generiert: 2026-09-02T16:57:54+00:00_
 
 ## Kurzlage
 
-76 neue relevante Treffer. Stärkstes Signal: „NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging“ aus e27 Asia Startup and Tech Feed (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+82 neue relevante Treffer. Stärkstes Signal: „NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -231,6 +231,33 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)
   - Kurz: De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un déni de service.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Statistical release: BIS international banking statistics and global liquidity indicators at end-March 2026** — Score 11, observation — [Quelle](https://www.bis.org/publications/202607-commentary-ibs-gli)
+  - Quelle: BIS Statistical Releases / `rss`
+  - Zeit: published `2026-07-31T00:00:00+00:00`, fetched `2026-09-02T16:57:24+00:00`
+  - Treffer: banking, Macro/Policy, statistics
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); statistics (+2.5); banking (+2.5)
+  - Kurz: Statistical release: BIS international banking statistics and global liquidity indicators at end-March 2026
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Statistical release: BIS international banking statistics and global liquidity indicators at end-December 2025** — Score 11, observation — [Quelle](https://www.bis.org/publications/202604-commentary-ibs-gli)
+  - Quelle: BIS Statistical Releases / `rss`
+  - Zeit: published `2026-04-30T00:00:00+00:00`, fetched `2026-09-02T16:57:24+00:00`
+  - Treffer: banking, Macro/Policy, statistics
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); statistics (+2.5); banking (+2.5)
+  - Kurz: Statistical release: BIS international banking statistics and global liquidity indicators at end-December 2025
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Statistical release: BIS international banking statistics and global liquidity indicators at end-September 2025** — Score 11, observation — [Quelle](https://www.bis.org/publications/202601-commentary-ibs-gli)
+  - Quelle: BIS Statistical Releases / `rss`
+  - Zeit: published `2026-01-29T00:00:00+00:00`, fetched `2026-09-02T16:57:24+00:00`
+  - Treffer: banking, Macro/Policy, statistics
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); statistics (+2.5); banking (+2.5)
+  - Kurz: Statistical release: BIS international banking statistics and global liquidity indicators at end-September 2025
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Imbad0202/academic-research-skills** — Score 11, observation — [Quelle](https://github.com/Imbad0202/academic-research-skills)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-09-02T05:39:30+00:00`
@@ -258,33 +285,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Security (+6.0); recent (+1.0)
   - Kurz: Angreifer nutzen derzeit eine kritische Sicherheitslücke im KI-Tool Langflow aus. Ein Sicherheitspatch ist schon länger verfügbar.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Can Bitcoin defend the critical US$76,500 foundation zone before the September 11 inflation data triggers another massive liquidation cascade?** — Score 10, observation — [Quelle](https://e27.co/can-bitcoin-defend-the-critical-us76500-foundation-zone-before-the-september-11-inflation-data-triggers-another-massive-liquidation-cascade-20260902/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-02T04:24:29+00:00`, fetched `2026-09-02T04:33:37+00:00`
-  - Treffer: APAC Trend Radar, Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: Bitcoin currently trades at US$77,374.70, down 1.73 per cent over the last 24 hours. Ethereum mirrors this weakness, sitting at US$2,418.53 after a 2.14 per cent decline. I view this synchronised pullback as a necessary sector correction rather than a fundamental breakdown. Institutional demand remains remarkably robust beneath the surface. Traditional financial pressures currently dictate […] The post Can Bitcoin d…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Vietnam’s new growth engine is built on constraint** — Score 10, observation — [Quelle](https://e27.co/vietnams-new-growth-engine-is-built-on-constraint-20260828/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-02T02:00:20+00:00`, fetched `2026-09-02T02:02:26+00:00`
-  - Treffer: APAC Trend Radar, Watchgraph:capitals_power_centers
-  - Watchgraph: capitals_power_centers
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
-  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0); watchgraph modules capitals_power_centers (+3.0)
-  - Kurz: Vietnam is entering a new phase of growth that is harder, more selective, and more interesting than the one that came before. The country is still drawing manufacturing, foreign direct investment, and high-tech supply-chain activity at scale, but the real story is not the volume of capital. It is the discipline now required to convert […] The post Vietnam’s new growth engine is built on constraint appeared first on…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Taiwan’s six-year hunt for China’s undercover chip labs** — Score 9, observation — [Quelle](https://restofworld.org/2026/taiwan-china-chip-investigations/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
-  - Quelle: Rest of World Global Tech Feed / `rss`
-  - Zeit: published `2026-09-02T10:00:00+00:00`, fetched `2026-09-02T10:21:51+00:00`
-  - Treffer: APAC Trend Radar, technology
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); technology (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)
-  - Kurz: Previously unpublished government data reveals the scale of Taiwan’s crackdown on Chinese companies accused of hiding their ties while recruiting chip talent and pursuing sensitive technology.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
@@ -295,7 +295,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `bis_statistics` (rss): 404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss
