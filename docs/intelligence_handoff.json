@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-02T08:42:17Z",
+  "generated_at": "2026-09-02T08:52:23Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 5.6 - 155 km WSW of Abepura, Indonesia” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.5.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -87,7 +87,7 @@
       "url": "https://jvn.jp/vu/JVNVU97909245/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-02T10:15:00+09:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -122,13 +122,13 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 2,
       "momentum_delta": 3,
-      "baseline_z_hint": 10.79,
+      "baseline_z_hint": 10.39,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "source breadth +2",
         "momentum delta +3",
-        "baseline z_hint 10.79",
+        "baseline z_hint 10.39",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 75.8d old signal",
@@ -141,7 +141,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0172",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-02T05:31:06+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -167,7 +167,7 @@
       "url": "https://jvn.jp/vu/JVNVU90253159/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-02T09:00:00+09:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -246,7 +246,7 @@
       "url": "https://e27.co/the-mmm-barrier-didnt-disappear-it-moved-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-02T03:10:10+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai",
         "infra",
@@ -300,7 +300,7 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-Langflow-Instanzen-mit-Schadcode-11437701.html",
       "source": "heise Security Alerts",
       "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 75.04,
+      "age_days": 75.05,
       "topics": [
         "ai",
         "security"
@@ -312,15 +312,15 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 2.5,
+      "baseline_z_hint": 2.4,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 2.50",
+        "baseline z_hint 2.40",
         "high terms: code",
         "security high-signal: code",
-        "aging penalty -8.0 for 75.0d old signal",
+        "aging penalty -8.0 for 75.1d old signal",
         "stale single-source cap after 30d: no current exploitation phrase"
       ],
       "summary": ""
