@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T14:01:05+00:00",
-  "run_id": "2026-09-02T14:01:05+00:00",
+  "generated_at": "2026-09-02T14:22:13+00:00",
+  "run_id": "2026-09-02T14:22:13+00:00",
   "date": "2026-09-02",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 75,
     "displayed_findings": 75,
     "high": 0,
@@ -3983,30 +3983,7 @@
       "id": "c369da51be1dd1c75de5"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Anthropic公式のClaude Code講座で学んだ「4つのD」",
-      "url": "https://zenn.dev/karamage/articles/2ef2c2aea7dfdf",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-02T02:47:58+00:00",
-      "fetched_at": "2026-09-02T14:00:35+00:00",
-      "summary": "Anthropic が公式で出している無料のClaude Codeの講座をちょこちょこ受けてみました。 そこで出てきたのが「4つのD」という考え方です。 「4Dフレームワーク」とも言われています。 最初は「また思考のフレーミングの話か」とげんなりしました。 DだのEだのCだの、頭文字を並べただけの話は、だいたい中身が薄いからで...",
-      "matched_keywords": [
-        "AI Agents",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "72acfee25125b8fe3573"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [
     {
       "source_id": "bis_statistics",
