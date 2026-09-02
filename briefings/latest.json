@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T13:36:54+00:00",
-  "run_id": "2026-09-02T13:36:54+00:00",
+  "generated_at": "2026-09-02T13:45:45+00:00",
+  "run_id": "2026-09-02T13:45:45+00:00",
   "date": "2026-09-02",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 74,
     "displayed_findings": 74,
     "high": 0,
@@ -3939,29 +3939,7 @@
       "id": "c369da51be1dd1c75de5"
     }
   ],
-  "new_findings": [
-    {
-      "title": "東大の新「価値創造学部」に批判相次ぐ……「他学部は価値を創造していないのか」「空虚な名前」",
-      "url": "https://www.itmedia.co.jp/news/article/2609/02/2000001084/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-02T08:17:00+00:00",
-      "fetched_at": "2026-09-02T13:36:13+00:00",
-      "summary": "「価値創造学部」という名称について、Xなどで「他の学部は価値を創造していないということか」「空虚だ」「詐称と思われそう」などと批判的なポストが相次いだ。「価値創造」が創価学会の名称の由来と重なる点を指摘する投稿も目立った。 また「東京大学の学部案内」をうたったジョーク投稿で、「価値創造学部」以外の...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "81da3bf38070ad779852"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [
     {
       "source_id": "bis_statistics",

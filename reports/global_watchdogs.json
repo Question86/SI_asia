@@ -1,7 +1,67 @@
 {
-  "generated_at": "2026-09-02T13:36:58+00:00",
+  "generated_at": "2026-09-02T13:45:49+00:00",
   "sections": {
     "global_security": [
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-82078 PaperCut NG/MF",
+        "summary": "Known exploited vulnerability. Added 2026-08-31. Due 2026-09-14. PaperCut NG/MF Unsafe Reflection Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-08-31",
+        "metrics": {
+          "cve": "CVE-2026-82078"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-81578 PaperCut NG/MF",
+        "summary": "Known exploited vulnerability. Added 2026-08-31. Due 2026-09-14. PaperCut NG/MF Missing Authentication for Critical Function Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-08-31",
+        "metrics": {
+          "cve": "CVE-2026-81578"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2023-49105 ownCloud ownCloud",
+        "summary": "Known exploited vulnerability. Added 2026-08-27. Due 2026-08-30. ownCloud Improper Authentication Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-08-27",
+        "metrics": {
+          "cve": "CVE-2023-49105"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-53362 Linux Kernel",
+        "summary": "Known exploited vulnerability. Added 2026-08-27. Due 2026-08-30. Linux Kernel Unspecified Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-08-27",
+        "metrics": {
+          "cve": "CVE-2026-53362"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-66384 JFrog Artifactory",
+        "summary": "Known exploited vulnerability. Added 2026-08-27. Due 2026-09-10. JFrog Artifactory Improper Limitation of a Pathname to a Restricted Directory Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-08-27",
+        "metrics": {
+          "cve": "CVE-2026-66384"
+        }
+      },
       {
         "domain": "security",
         "severity": "medium",
@@ -86,7 +146,6 @@
     "global_economy": []
   },
   "source_errors": [
-    "CISA KEV failed: 403 Client Error: Forbidden for url: https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json",
     "Yahoo finance failed: 401 Client Error: Unauthorized for url: https://query1.finance.yahoo.com/v7/finance/quote?symbols=BTC-USD,ETH-USD,GC%3DF,SI%3DF,GLD,SLV,SPY,QQQ,%5EGSPC,%5EIXIC,%5EDJI,%5EVIX,DX-Y.NYB,CL%3DF,COIN,MSTR,IBIT"
   ]
 }
