@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-09-02T03:38:48+00:00_
+_Generiert: 2026-09-02T03:48:14+00:00_
 
 ## NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging
 
