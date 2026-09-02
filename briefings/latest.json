@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T11:19:32+00:00",
-  "run_id": "2026-09-02T11:19:32+00:00",
+  "generated_at": "2026-09-02T11:30:09+00:00",
+  "run_id": "2026-09-02T11:30:09+00:00",
   "date": "2026-09-02",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
+    "new_relevant_findings": 0,
     "today_file_total": 63,
     "displayed_findings": 63,
     "high": 0,
@@ -3317,114 +3317,7 @@
       "id": "c369da51be1dd1c75de5"
     }
   ],
-  "new_findings": [
-    {
-      "title": "[NEU] [hoch] Microsoft GitHub Enterprise Server: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3151",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-02T11:16:05+00:00",
-      "fetched_at": "2026-09-02T11:19:02+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Microsoft GitHub Enterprise Server ausnutzen, um Informationen offenzulegen oder beliebigen Code auszuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Microsoft",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "eb40d61c7d7fadf2aecc"
-    },
-    {
-      "title": "[NEU] [kritisch] SonicWall SMA: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3135",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-02T11:16:05+00:00",
-      "fetched_at": "2026-09-02T11:19:02+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in SonicWall SMA ausnutzen, um Sicherheitsvorkehrungen zu umgehen und Code mit Administratorrechten auszuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "770413c7f9cb13b103ae"
-    },
-    {
-      "title": "[NEU] [hoch] Coolify: Schwachstelle ermöglicht Codeausführung",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3150",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-02T11:01:05+00:00",
-      "fetched_at": "2026-09-02T11:19:02+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Coolify ausnutzen, um beliebigen Programmcode auszuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "258f3c3b6504397a059f"
-    },
-    {
-      "title": "M 5.2 - South Sandwich Islands region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdkr",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-09-02T11:12:46.040+00:00",
-      "fetched_at": "2026-09-02T11:19:02+00:00",
-      "summary": "Time 2026-09-02 10:54:02 UTC 2026-09-02 10:54:02 UTC at epicenter Location 56.397°S 26.904°W Depth 84.06 km (52.23 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "80f68cdcb4722458f509"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [
     {
       "source_id": "bis_statistics",
