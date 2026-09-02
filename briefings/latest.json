@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-02T23:20:11+00:00",
-  "run_id": "2026-09-02T23:20:11+00:00",
+  "generated_at": "2026-09-02T23:29:40+00:00",
+  "run_id": "2026-09-02T23:29:40+00:00",
   "date": "2026-09-02",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 96
+      "configured_public_sources_only": 97
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,12 +19,12 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 96,
-    "displayed_findings": 96,
+    "today_file_total": 97,
+    "displayed_findings": 97,
     "high": 0,
     "medium": 35,
-    "observe": 61,
-    "source_errors": 1
+    "observe": 62,
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -2192,6 +2192,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2bfebb67dca3c6b879de"
+      },
+      {
+        "title": "AIにまじなスライド作らせる｜【公式】Jinba",
+        "url": "https://note.com/jinbaflow/n/nc8372b84e572",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-02T16:04:06+00:00",
+        "fetched_at": "2026-09-02T23:29:07+00:00",
+        "summary": "AIでスライドを作ると、それらしい見た目のものは一瞬で出てきます。ところが実際に役員会議や顧客提案に持っていけるかというと、ほとんどの場合そのままでは使えません。角丸のカードが3枚並び、タイトルは「〜のご紹介」、結論はどこにも書いていない——そんな「AIが作った感」のあるスライドになりがちです。 私たちC...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b0b976f7bd727179fda7"
       },
       {
         "title": "Aurora DSQL の現状 2026 (Rails の場合)",
@@ -4652,6 +4673,27 @@
       "id": "2bfebb67dca3c6b879de"
     },
     {
+      "title": "AIにまじなスライド作らせる｜【公式】Jinba",
+      "url": "https://note.com/jinbaflow/n/nc8372b84e572",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-02T16:04:06+00:00",
+      "fetched_at": "2026-09-02T23:29:07+00:00",
+      "summary": "AIでスライドを作ると、それらしい見た目のものは一瞬で出てきます。ところが実際に役員会議や顧客提案に持っていけるかというと、ほとんどの場合そのままでは使えません。角丸のカードが3枚並び、タイトルは「〜のご紹介」、結論はどこにも書いていない——そんな「AIが作った感」のあるスライドになりがちです。 私たちC...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b0b976f7bd727179fda7"
+    },
+    {
       "title": "Aurora DSQL の現状 2026 (Rails の場合)",
       "url": "https://diary.sorah.jp/2026/09/03/dsql-in-action",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4947,35 +4989,28 @@
   ],
   "new_findings": [
     {
-      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
-      "url": "https://openai.com/index/atv-big-air-tour",
-      "source": "OpenAI News RSS",
+      "title": "AIにまじなスライド作らせる｜【公式】Jinba",
+      "url": "https://note.com/jinbaflow/n/nc8372b84e572",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-02T12:00:00+00:00",
-      "fetched_at": "2026-09-02T23:19:41+00:00",
-      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+      "published_at": "2026-09-02T16:04:06+00:00",
+      "fetched_at": "2026-09-02T23:29:07+00:00",
+      "summary": "AIでスライドを作ると、それらしい見た目のものは一瞬で出てきます。ところが実際に役員会議や顧客提案に持っていけるかというと、ほとんどの場合そのままでは使えません。角丸のカードが3枚並び、タイトルは「〜のご紹介」、結論はどこにも書いていない——そんな「AIが作った感」のあるスライドになりがちです。 私たちC...",
       "matched_keywords": [
-        "OpenAI",
-        "Webentwicklung"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 12,
-      "relevance_reason": "OpenAI (+7.5); Webentwicklung (+3.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "c464baa047b196b8b8c3"
+      "id": "b0b976f7bd727179fda7"
     }
   ],
-  "source_errors": [
-    {
-      "source_id": "bis_statistics",
-      "source_name": "BIS Statistical Releases",
-      "source_type": "rss",
-      "error": "404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss"
-    }
-  ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
