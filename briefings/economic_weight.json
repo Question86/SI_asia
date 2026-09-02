@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-02T05:05:36+00:00",
+  "generated_at": "2026-09-02T05:27:10+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -71,7 +71,7 @@
       "p90_usd": 1104000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T03:38:48+00:00",
-      "last_seen_at": "2026-09-02T05:05:19+00:00",
+      "last_seen_at": "2026-09-02T05:26:51+00:00",
       "status": "active"
     },
     {
@@ -157,7 +157,7 @@
       "p90_usd": 11920000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-01T08:46:46+00:00",
-      "last_seen_at": "2026-09-02T05:05:19+00:00",
+      "last_seen_at": "2026-09-02T05:26:51+00:00",
       "status": "active"
     },
     {
@@ -395,8 +395,8 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-29T15:25:13+00:00",
-      "last_seen_at": "2026-08-29T23:58:25+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-09-02T05:26:51+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_91ddc5c7bf195c8dec35",
@@ -533,6 +533,40 @@
       "first_seen_at": "2026-08-29T11:40:09+00:00",
       "last_seen_at": "2026-08-29T23:58:25+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_73416769b0026aedfe5c",
+      "title": "M 5.1 - 91 km SSW of Nikolski, Alaska",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1128000.0,
+      "p50_usd": 112800000.0,
+      "p90_usd": 11280000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-02T05:26:51+00:00",
+      "last_seen_at": "2026-09-02T05:26:51+00:00",
+      "status": "active"
+    },
+    {
+      "event_id": "evt_65f6c987ee2baa2935b2",
+      "title": "M 4.8 - 92 km SSW of Nikolski, Alaska",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1128000.0,
+      "p50_usd": 112800000.0,
+      "p90_usd": 11280000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-02T05:26:51+00:00",
+      "last_seen_at": "2026-09-02T05:26:51+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_058a0e17878f3797ed5c",
@@ -786,7 +820,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-02T05:05:19+00:00",
+      "last_seen_at": "2026-09-02T05:26:51+00:00",
       "status": "active"
     },
     {
@@ -837,7 +871,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T04:14:04+00:00",
-      "last_seen_at": "2026-09-02T05:05:19+00:00",
+      "last_seen_at": "2026-09-02T05:26:51+00:00",
       "status": "active"
     },
     {
@@ -922,7 +956,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T03:25:43+00:00",
-      "last_seen_at": "2026-09-02T05:05:19+00:00",
+      "last_seen_at": "2026-09-02T05:26:51+00:00",
       "status": "active"
     },
     {
@@ -939,7 +973,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:33:41+00:00",
-      "last_seen_at": "2026-09-02T05:05:19+00:00",
+      "last_seen_at": "2026-09-02T05:26:51+00:00",
       "status": "active"
     },
     {
@@ -1075,7 +1109,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T03:25:43+00:00",
-      "last_seen_at": "2026-09-02T05:05:19+00:00",
+      "last_seen_at": "2026-09-02T05:26:51+00:00",
       "status": "active"
     },
     {
@@ -1194,7 +1228,7 @@
       "p90_usd": 1176000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T03:25:43+00:00",
-      "last_seen_at": "2026-09-02T05:05:19+00:00",
+      "last_seen_at": "2026-09-02T05:26:51+00:00",
       "status": "active"
     },
     {
@@ -1228,7 +1262,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-02T05:05:19+00:00",
+      "last_seen_at": "2026-09-02T05:26:51+00:00",
       "status": "active"
     },
     {
@@ -1281,6 +1315,23 @@
       "first_seen_at": "2026-09-01T02:30:55+00:00",
       "last_seen_at": "2026-09-01T23:56:16+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_f3c29d221e4438f5c96f",
+      "title": "The EU called ChatGPT a search engine. SEA’s AI startups should worry about what comes next",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 116800.0,
+      "p50_usd": 11680000.0,
+      "p90_usd": 1168000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-02T05:26:51+00:00",
+      "last_seen_at": "2026-09-02T05:26:51+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_ba2633514b7c89d43fb5",
@@ -1347,7 +1398,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T02:44:52+00:00",
-      "last_seen_at": "2026-09-02T05:05:19+00:00",
+      "last_seen_at": "2026-09-02T05:26:51+00:00",
       "status": "active"
     },
     {
@@ -1381,7 +1432,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T04:34:13+00:00",
-      "last_seen_at": "2026-09-02T05:05:19+00:00",
+      "last_seen_at": "2026-09-02T05:26:51+00:00",
       "status": "active"
     },
     {
@@ -1670,7 +1721,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T03:55:57+00:00",
-      "last_seen_at": "2026-09-02T05:05:19+00:00",
+      "last_seen_at": "2026-09-02T05:26:51+00:00",
       "status": "active"
     },
     {
@@ -1823,7 +1874,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T02:03:01+00:00",
-      "last_seen_at": "2026-09-02T05:05:19+00:00",
+      "last_seen_at": "2026-09-02T05:26:51+00:00",
       "status": "active"
     },
     {
@@ -1942,7 +1993,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T04:34:13+00:00",
-      "last_seen_at": "2026-09-02T05:05:19+00:00",
+      "last_seen_at": "2026-09-02T05:26:51+00:00",
       "status": "active"
     },
     {
@@ -2044,7 +2095,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:10:24+00:00",
-      "last_seen_at": "2026-09-02T05:05:19+00:00",
+      "last_seen_at": "2026-09-02T05:26:51+00:00",
       "status": "active"
     },
     {
@@ -2436,7 +2487,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T04:14:04+00:00",
       "last_seen_at": "2026-09-02T05:05:19+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_1c244b8c1c1e52d36c4a",
@@ -2504,7 +2555,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:10:24+00:00",
       "last_seen_at": "2026-09-02T05:05:19+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_39608083ffef119c35bf",
@@ -2589,7 +2640,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T00:32:59+00:00",
       "last_seen_at": "2026-09-02T05:05:19+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_67c97d7b18f6ee0a0029",
@@ -2622,7 +2673,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:10:24+00:00",
-      "last_seen_at": "2026-09-02T05:05:19+00:00",
+      "last_seen_at": "2026-09-02T05:26:51+00:00",
       "status": "active"
     },
     {
@@ -2963,7 +3014,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T03:25:43+00:00",
       "last_seen_at": "2026-09-02T05:05:19+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_369ed4c57635e2a534e3",
