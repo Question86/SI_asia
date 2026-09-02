@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T15:01:45+00:00",
-  "run_id": "2026-09-02T15:01:45+00:00",
+  "generated_at": "2026-09-02T15:24:11+00:00",
+  "run_id": "2026-09-02T15:24:11+00:00",
   "date": "2026-09-02",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 75
+      "configured_public_sources_only": 76
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 75,
-    "displayed_findings": 75,
+    "new_relevant_findings": 1,
+    "today_file_total": 76,
+    "displayed_findings": 76,
     "high": 0,
     "medium": 34,
-    "observe": 41,
+    "observe": 42,
     "source_errors": 1
   },
   "sections": {
@@ -1432,6 +1432,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "18f5c82788cc61d102bc"
+      },
+      {
+        "title": "Version 1.0: SonicWall SMA1000 - Schwachstellen werden aktiv ausgenutzt",
+        "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-288433-1032_bits.html",
+        "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+        "source_type": "rss",
+        "published_at": "2026-09-02T13:15:00+00:00",
+        "fetched_at": "2026-09-02T15:23:42+00:00",
+        "summary": "Version 1.0: SonicWall SMA1000 - Schwachstellen werden aktiv ausgenutzt",
+        "matched_keywords": [
+          "ausgenutzt",
+          "BSI",
+          "CERT-Bund",
+          "Cyber-Sicherheitswarnung"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); ausgenutzt (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1de3ba98952103b2a0b4"
       },
       {
         "title": "Jetzt patchen! Angreifer attackieren Langflow-Instanzen mit Schadcode",
@@ -3411,6 +3434,29 @@
       "id": "18f5c82788cc61d102bc"
     },
     {
+      "title": "Version 1.0: SonicWall SMA1000 - Schwachstellen werden aktiv ausgenutzt",
+      "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-288433-1032_bits.html",
+      "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+      "source_type": "rss",
+      "published_at": "2026-09-02T13:15:00+00:00",
+      "fetched_at": "2026-09-02T15:23:42+00:00",
+      "summary": "Version 1.0: SonicWall SMA1000 - Schwachstellen werden aktiv ausgenutzt",
+      "matched_keywords": [
+        "ausgenutzt",
+        "BSI",
+        "CERT-Bund",
+        "Cyber-Sicherheitswarnung"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); ausgenutzt (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1de3ba98952103b2a0b4"
+    },
+    {
       "title": "Jetzt patchen! Angreifer attackieren Langflow-Instanzen mit Schadcode",
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-Langflow-Instanzen-mit-Schadcode-11437701.html",
       "source": "heise Security Alerts",
@@ -3983,7 +4029,31 @@
       "id": "c369da51be1dd1c75de5"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Version 1.0: SonicWall SMA1000 - Schwachstellen werden aktiv ausgenutzt",
+      "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-288433-1032_bits.html",
+      "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+      "source_type": "rss",
+      "published_at": "2026-09-02T13:15:00+00:00",
+      "fetched_at": "2026-09-02T15:23:42+00:00",
+      "summary": "Version 1.0: SonicWall SMA1000 - Schwachstellen werden aktiv ausgenutzt",
+      "matched_keywords": [
+        "ausgenutzt",
+        "BSI",
+        "CERT-Bund",
+        "Cyber-Sicherheitswarnung"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); ausgenutzt (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1de3ba98952103b2a0b4"
+    }
+  ],
   "source_errors": [
     {
       "source_id": "bis_statistics",
