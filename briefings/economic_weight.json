@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-02T02:45:08+00:00",
+  "generated_at": "2026-09-02T03:00:51+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -140,7 +140,7 @@
       "p90_usd": 11920000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-01T08:46:46+00:00",
-      "last_seen_at": "2026-09-02T02:44:52+00:00",
+      "last_seen_at": "2026-09-02T03:00:32+00:00",
       "status": "active"
     },
     {
@@ -769,7 +769,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-02T02:44:52+00:00",
+      "last_seen_at": "2026-09-02T03:00:32+00:00",
       "status": "active"
     },
     {
@@ -888,7 +888,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:33:41+00:00",
-      "last_seen_at": "2026-09-02T02:44:52+00:00",
+      "last_seen_at": "2026-09-02T03:00:32+00:00",
       "status": "active"
     },
     {
@@ -1143,7 +1143,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-02T02:44:52+00:00",
+      "last_seen_at": "2026-09-02T03:00:32+00:00",
       "status": "active"
     },
     {
@@ -1249,6 +1249,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_66c9e4ae3d63f4b30383",
+      "title": "I stopped hiring. I’m not sure it’s a strategy yet",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 115200.0,
+      "p50_usd": 11520000.0,
+      "p90_usd": 1152000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-02T02:44:52+00:00",
+      "last_seen_at": "2026-09-02T03:00:32+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_757d8af70b6d59ba983f",
       "title": "九州大学での Claude Code ハンズオンを、一人でもプロダクトを作れるワークショップキットとして公開しました | DevelopersIO",
       "event_classes": [
@@ -1281,23 +1298,6 @@
       "first_seen_at": "2026-08-30T03:17:26+00:00",
       "last_seen_at": "2026-08-30T23:59:07+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_66c9e4ae3d63f4b30383",
-      "title": "I stopped hiring. I’m not sure it’s a strategy yet",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 115200.0,
-      "p50_usd": 11520000.0,
-      "p90_usd": 1152000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-02T02:44:52+00:00",
-      "last_seen_at": "2026-09-02T02:44:52+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_2c69a25a18b9b812a5b5",
@@ -1704,7 +1704,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T02:03:01+00:00",
-      "last_seen_at": "2026-09-02T02:44:52+00:00",
+      "last_seen_at": "2026-09-02T03:00:32+00:00",
       "status": "active"
     },
     {
@@ -1908,7 +1908,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:10:24+00:00",
-      "last_seen_at": "2026-09-02T02:44:52+00:00",
+      "last_seen_at": "2026-09-02T03:00:32+00:00",
       "status": "active"
     },
     {
@@ -2350,7 +2350,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:10:24+00:00",
-      "last_seen_at": "2026-09-02T02:44:52+00:00",
+      "last_seen_at": "2026-09-02T03:00:32+00:00",
       "status": "active"
     },
     {
@@ -2435,7 +2435,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T00:32:59+00:00",
-      "last_seen_at": "2026-09-02T02:44:52+00:00",
+      "last_seen_at": "2026-09-02T03:00:32+00:00",
       "status": "active"
     },
     {
@@ -2469,7 +2469,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:10:24+00:00",
-      "last_seen_at": "2026-09-02T02:44:52+00:00",
+      "last_seen_at": "2026-09-02T03:00:32+00:00",
       "status": "active"
     },
     {
