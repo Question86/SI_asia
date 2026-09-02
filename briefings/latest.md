@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-02T21:34:46+00:00_
+_Generiert: 2026-09-02T21:42:49+00:00_
 
 ## Kurzlage
 
-92 neue relevante Treffer. Stärkstes Signal: „NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
+93 neue relevante Treffer. Stärkstes Signal: „NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
