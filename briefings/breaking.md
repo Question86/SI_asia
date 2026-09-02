@@ -1,10 +1,10 @@
 # Senna Breaking
 
-_Generiert: 2026-09-02T10:51:37+00:00_
+_Generiert: 2026-09-02T10:59:08+00:00_
 
 ## Euro area bank interest rate statistics: July 2026
 
-- Ranking Score: `24.04`
+- Ranking Score: `23.88`
 - Raw Network Score: `23.2`
 - Max Monitor Score: `13`
 - Reichweite: `institutional` / `5.0`

@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.index",
-  "generated_at": "2026-09-02T10:51:32+00:00",
+  "generated_at": "2026-09-02T10:59:05+00:00",
   "purpose": "Compact semantic memory index for LLM-native first-pass access.",
   "source": "briefings/latest.json",
   "counts": {
-    "source_items": 54,
+    "source_items": 59,
     "topics": 6
   },
   "topic_counts": {
-    "ai": 19,
-    "geopolitics": 19,
-    "security": 16,
+    "geopolitics": 23,
+    "ai": 20,
+    "security": 20,
     "general": 15,
     "economy": 9,
     "github": 5
