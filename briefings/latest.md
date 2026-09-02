@@ -1,34 +1,14 @@
 # Senna Briefing
 
-_Generiert: 2026-09-02T13:25:30+00:00_
+_Generiert: 2026-09-02T13:36:54+00:00_
 
 ## Kurzlage
 
-73 neue relevante Treffer. Stärkstes Signal: „NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging“ aus e27 Asia Startup and Tech Feed (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+74 neue relevante Treffer. Stärkstes Signal: „NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging“ aus e27 Asia Startup and Tech Feed (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
-- **CISA KEV: CVE-2026-82078 PaperCut NG/MF** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-08-31`
-  - Kurz: Known exploited vulnerability. Added 2026-08-31. Due 2026-09-14. PaperCut NG/MF Unsafe Reflection Vulnerability
-- **CISA KEV: CVE-2026-81578 PaperCut NG/MF** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-08-31`
-  - Kurz: Known exploited vulnerability. Added 2026-08-31. Due 2026-09-14. PaperCut NG/MF Missing Authentication for Critical Function Vulnerability
-- **CISA KEV: CVE-2023-49105 ownCloud ownCloud** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-08-27`
-  - Kurz: Known exploited vulnerability. Added 2026-08-27. Due 2026-08-30. ownCloud Improper Authentication Vulnerability
-- **CISA KEV: CVE-2026-53362 Linux Kernel** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-08-27`
-  - Kurz: Known exploited vulnerability. Added 2026-08-27. Due 2026-08-30. Linux Kernel Unspecified Vulnerability
-- **CISA KEV: CVE-2026-66384 JFrog Artifactory** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-08-27`
-  - Kurz: Known exploited vulnerability. Added 2026-08-27. Due 2026-09-10. JFrog Artifactory Improper Limitation of a Pathname to a Restricted Directory Vulnerability
 - **GDACS: Green earthquake (Magnitude 5.9M, Depth:10km) in Southern East Pacific Rise 02/09/2026 12:35 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563166)
   - Quelle: GDACS
   - Zeit: ``
@@ -61,14 +41,8 @@ _Generiert: 2026-09-02T13:25:30+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 31/08/2026 08:03 UTC, 9 thousand in MMI VI.
-- **USGS earthquake M5.9 - southern East Pacific Rise** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdms)
-  - Quelle: USGS
-  - Zeit: `2026-09-02T12:35:56+00:00`
-  - Kurz: M5.9 - southern East Pacific Rise. PAGER alert: green. Tsunami flag: 0.
-- **USGS earthquake M5.6 - 71 km WSW of Puerto Madero, Mexico** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdmp)
-  - Quelle: USGS
-  - Zeit: `2026-09-02T12:28:31+00:00`
-  - Kurz: M5.6 - 71 km WSW of Puerto Madero, Mexico. PAGER alert: green. Tsunami flag: 0.
+
+- Sensor-Hinweis: CISA KEV failed: 403 Client Error: Forbidden for url: https://www.cisa.gov/sites/default/files/feeds/known_exploited_vulnerabilities.json
 
 ## Wirtschaft global
 
