@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-02T09:48:53Z",
+  "generated_at": "2026-09-02T10:14:52Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -22,7 +22,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdhl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-01T08:46:46+00:00",
-      "age_days": 1.04,
+      "age_days": 1.06,
       "topics": [
         "general"
       ],
@@ -46,7 +46,7 @@
       "url": "https://jvn.jp/vu/JVNVU98062224/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-02T13:00:00+09:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -70,7 +70,7 @@
       "url": "https://jvn.jp/jp/JVN91715694/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-02T12:00:00+09:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -94,7 +94,7 @@
       "url": "https://jvn.jp/vu/JVNVU97909245/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-02T10:15:00+09:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -118,7 +118,7 @@
       "url": "https://e27.co/the-mmm-barrier-didnt-disappear-it-moved-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-02T03:25:43+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -138,35 +138,11 @@
       "summary": ""
     },
     {
-      "title": "[UPDATE] [mittel] IBM Java SDK: Schwachstelle ermöglicht Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3044",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 4.82,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 25.5,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Euro area bank interest rate statistics: July 2026",
       "url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir260902~d54675e442.en.html",
       "source": "ECB Open Market Operations and Communication, ECB Statistical Press Releases",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 75.8,
+      "age_days": 75.82,
       "topics": [
         "macro"
       ],
@@ -177,13 +153,13 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 2,
       "momentum_delta": 3,
-      "baseline_z_hint": 8.78,
+      "baseline_z_hint": 7.97,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "source breadth +2",
         "momentum delta +3",
-        "baseline z_hint 8.78",
+        "baseline z_hint 7.97",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 75.8d old signal",
@@ -196,7 +172,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3044",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-02T09:41:05+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -222,7 +198,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0172",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-02T05:31:06+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -248,7 +224,7 @@
       "url": "https://jvn.jp/vu/JVNVU90253159/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-02T09:00:00+09:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -273,7 +249,7 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-Langflow-Instanzen-mit-Schadcode-11437701.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-02T07:21:00.000+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "security"
@@ -300,7 +276,7 @@
       "url": "https://github.com/Gitlawb/openclaude",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-02T05:39:30+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -327,7 +303,7 @@
       "url": "https://e27.co/the-mmm-barrier-didnt-disappear-it-moved-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-02T03:10:10+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "ai",
         "infra",
@@ -355,7 +331,7 @@
       "url": "https://e27.co/can-bitcoin-defend-the-critical-us76500-foundation-zone-before-the-september-11-inflation-data-triggers-another-massive-liquidation-cascade-20260902/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-02T04:34:13+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "macro"
       ],
@@ -376,11 +352,35 @@
       "summary": ""
     },
     {
+      "title": "[UPDATE] [mittel] IBM Java SDK: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3044",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-28T14:08:37+00:00",
+      "age_days": 4.84,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "キーエンス製XG VisionTerminalおよびXG-X VisionTerminalにおけるにおけるXML外部エンティティ参照（XXE）の不適切な制限の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU98062224/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-02T04:14:04+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -404,7 +404,7 @@
       "url": "https://jvn.jp/jp/JVN91715694/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-02T03:25:43+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -428,7 +428,7 @@
       "url": "https://jvn.jp/vu/JVNVU97909245/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-02T01:33:41+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "general"
       ],
@@ -452,7 +452,7 @@
       "url": "https://e27.co/i-stopped-hiring-im-not-sure-its-a-strategy-yet-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-02T02:44:52+00:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "macro"
       ],
@@ -476,7 +476,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdhl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-02T00:30:22.495+00:00",
-      "age_days": 0.39,
+      "age_days": 0.41,
       "topics": [
         "disaster"
       ],
@@ -500,7 +500,7 @@
       "url": "https://e27.co/the-creator-economy-is-distribution-not-marketing-most-asian-businesses-are-still-scaling-it-like-a-campaign-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-02T03:00:03+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "ai",
         "macro"
@@ -526,7 +526,7 @@
       "url": "https://e27.co/nasa-linked-mit-trained-founders-nswx-raises-us2m-for-ai-chip-packaging-20260902/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-02T03:25:43+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -552,7 +552,7 @@
       "url": "https://github.com/Gitlawb/openclaude",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-02T05:40:10+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -578,7 +578,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdjg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-02T07:24:38.686+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -603,7 +603,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdj8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-02T06:46:58.622+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -628,7 +628,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdjg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-02T07:26:46+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -652,7 +652,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdj8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-02T06:49:32+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -676,7 +676,7 @@
       "url": "https://togetter.com/li/2740272",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-02T03:55:57+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -700,7 +700,7 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-Langflow-Instanzen-mit-Schadcode-11437701.html",
       "source": "heise Security Alerts",
       "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 75.09,
+      "age_days": 75.11,
       "topics": [
         "ai",
         "security"
@@ -712,12 +712,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 2.0,
+      "baseline_z_hint": 1.8,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 2.00",
+        "baseline z_hint 1.80",
         "high terms: code",
         "security high-signal: code",
         "aging penalty -8.0 for 75.1d old signal",
@@ -730,7 +730,7 @@
       "url": "https://anond.hatelabo.jp/20260901224029",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-02T00:32:59+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "general"
       ],
@@ -755,7 +755,7 @@
       "url": "https://togetter.com/li/2740272",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-02T02:46:49+00:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -781,7 +781,7 @@
       "url": "https://jvn.jp/vu/JVNVU90253159/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 75.33,
+      "age_days": 75.34,
       "topics": [
         "general"
       ],
@@ -806,7 +806,7 @@
       "url": "https://e27.co/the-eu-called-chatgpt-a-search-engine-seas-ai-startups-should-worry-about-what-comes-next-20260902/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-02T05:26:51+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -832,7 +832,7 @@
       "url": "https://github.com/3b1b/manim",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-02T05:40:10+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -856,7 +856,7 @@
       "url": "https://e27.co/late-stage-deals-revive-in-southeast-asia-but-early-stage-founders-remain-under-pressure-20260902/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-02T04:34:13+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -882,7 +882,7 @@
       "url": "https://e27.co/dsgcp-saket-gore-buy-bback-to-build-a-broader-asian-recovery-brand-20260902/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-02T08:12:27+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -906,7 +906,7 @@
       "url": "https://e27.co/hashed-backed-shardlab-invests-in-storehub-to-build-new-merchant-rewards-products-20260902/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-02T07:03:28+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -930,7 +930,7 @@
       "url": "https://e27.co/forward-deployed-learner-enabling-22-year-olds-to-build-domain-expertise-and-judgement-in-the-post-ai-world-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-02T03:38:48+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -957,7 +957,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/02/2000001041/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-02T08:35:24+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -981,7 +981,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/02/2000001057/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-02T08:12:27+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -1005,7 +1005,7 @@
       "url": "https://blog.tinect.jp/?p=91463",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-02T01:10:24+00:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "general"
       ],
