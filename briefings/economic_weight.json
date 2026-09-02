@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-02T03:25:59+00:00",
+  "generated_at": "2026-09-02T03:39:03+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -56,6 +56,23 @@
       "first_seen_at": "2026-09-01T06:56:30+00:00",
       "last_seen_at": "2026-09-01T20:57:33+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_e7accc74314c5b76e589",
+      "title": "Forward Deployed Learner: Enabling 22-year-olds to build domain expertise and judgement in the post AI world",
+      "event_classes": [
+        "conflict"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400000.0,
+      "p50_usd": 11040000000.0,
+      "p90_usd": 1104000000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-02T03:38:48+00:00",
+      "last_seen_at": "2026-09-02T03:38:48+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_3cb5980444e3bd7e9296",
@@ -140,7 +157,7 @@
       "p90_usd": 11920000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-01T08:46:46+00:00",
-      "last_seen_at": "2026-09-02T03:25:43+00:00",
+      "last_seen_at": "2026-09-02T03:38:48+00:00",
       "status": "active"
     },
     {
@@ -769,7 +786,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-02T03:25:43+00:00",
+      "last_seen_at": "2026-09-02T03:38:48+00:00",
       "status": "active"
     },
     {
@@ -875,23 +892,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_c39c68387b68393d229a",
-      "title": "Hugging Face製Transformersにおけるユーザー同意確認前のリモートコード不正キャッシュの脆弱性",
-      "event_classes": [
-        "vulnerability"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 288000.0,
-      "p50_usd": 28800000.0,
-      "p90_usd": 2880000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-02T01:33:41+00:00",
-      "last_seen_at": "2026-09-02T03:25:43+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_b0a954142b6aba44bdb8",
       "title": "ShizenBox2における複数の脆弱性",
       "event_classes": [
@@ -905,7 +905,24 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T03:25:43+00:00",
-      "last_seen_at": "2026-09-02T03:25:43+00:00",
+      "last_seen_at": "2026-09-02T03:38:48+00:00",
+      "status": "active"
+    },
+    {
+      "event_id": "evt_c39c68387b68393d229a",
+      "title": "Hugging Face製Transformersにおけるユーザー同意確認前のリモートコード不正キャッシュの脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-02T01:33:41+00:00",
+      "last_seen_at": "2026-09-02T03:38:48+00:00",
       "status": "active"
     },
     {
@@ -1028,6 +1045,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_43d91c6b0a97611c8e6c",
+      "title": "NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "infrastructure"
+      ],
+      "p10_usd": 120000.0,
+      "p50_usd": 12000000.0,
+      "p90_usd": 1200000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-02T03:25:43+00:00",
+      "last_seen_at": "2026-09-02T03:38:48+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_599c941385c78d90af8c",
       "title": "「ミート・プロキシ」って何？…AIの出力をそのまま送ってくる人を指す新語が話題 | Business Insider Japan",
       "event_classes": [
@@ -1043,23 +1077,6 @@
       "first_seen_at": "2026-09-01T06:37:12+00:00",
       "last_seen_at": "2026-09-01T23:56:16+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_43d91c6b0a97611c8e6c",
-      "title": "NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "infrastructure"
-      ],
-      "p10_usd": 120000.0,
-      "p50_usd": 12000000.0,
-      "p90_usd": 1200000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-02T03:25:43+00:00",
-      "last_seen_at": "2026-09-02T03:25:43+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_a134d0070a5406ad163f",
@@ -1147,6 +1164,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_944d61924133bc9f7758",
+      "title": "The MMM barrier didn’t disappear. It moved",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 117600.0,
+      "p50_usd": 11760000.0,
+      "p90_usd": 1176000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-02T03:25:43+00:00",
+      "last_seen_at": "2026-09-02T03:38:48+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_f57fccff74e206c13a6c",
       "title": "Claude Code から Cloud Run 上の MCP サーバを使うための認可構成 - エムスリーテックブログ",
       "event_classes": [
@@ -1164,23 +1198,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_944d61924133bc9f7758",
-      "title": "The MMM barrier didn’t disappear. It moved",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 117600.0,
-      "p50_usd": 11760000.0,
-      "p90_usd": 1176000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-02T03:25:43+00:00",
-      "last_seen_at": "2026-09-02T03:25:43+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_9ed1bb780b2101265c00",
       "title": "Supporting Thailand’s next generation of AI startups",
       "event_classes": [
@@ -1194,7 +1211,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-02T03:25:43+00:00",
+      "last_seen_at": "2026-09-02T03:38:48+00:00",
       "status": "active"
     },
     {
@@ -1313,7 +1330,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T02:44:52+00:00",
-      "last_seen_at": "2026-09-02T03:25:43+00:00",
+      "last_seen_at": "2026-09-02T03:38:48+00:00",
       "status": "active"
     },
     {
@@ -1755,7 +1772,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T02:03:01+00:00",
-      "last_seen_at": "2026-09-02T03:25:43+00:00",
+      "last_seen_at": "2026-09-02T03:38:48+00:00",
       "status": "active"
     },
     {
@@ -1959,7 +1976,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:10:24+00:00",
-      "last_seen_at": "2026-09-02T03:25:43+00:00",
+      "last_seen_at": "2026-09-02T03:38:48+00:00",
       "status": "active"
     },
     {
@@ -2401,7 +2418,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:10:24+00:00",
-      "last_seen_at": "2026-09-02T03:25:43+00:00",
+      "last_seen_at": "2026-09-02T03:38:48+00:00",
       "status": "active"
     },
     {
@@ -2486,7 +2503,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T00:32:59+00:00",
-      "last_seen_at": "2026-09-02T03:25:43+00:00",
+      "last_seen_at": "2026-09-02T03:38:48+00:00",
       "status": "active"
     },
     {
@@ -2520,7 +2537,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:10:24+00:00",
-      "last_seen_at": "2026-09-02T03:25:43+00:00",
+      "last_seen_at": "2026-09-02T03:38:48+00:00",
       "status": "active"
     },
     {
@@ -2860,7 +2877,7 @@
       "p90_usd": 1072000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T03:25:43+00:00",
-      "last_seen_at": "2026-09-02T03:25:43+00:00",
+      "last_seen_at": "2026-09-02T03:38:48+00:00",
       "status": "active"
     },
     {

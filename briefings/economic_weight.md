@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-09-02T03:25:59+00:00`
+Generated: `2026-09-02T03:39:03+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -9,6 +9,7 @@ Generated: `2026-09-02T03:25:59+00:00`
 | Why every warehouse in Singapore will run on AI safety monitoring within five years | natural_disaster, conflict | $122.40M | $12.24B | $1.22T | 0.31 |
 | Warsh, In Our Time | conflict | $113.60M | $11.36B | $1.14T | 0.31 |
 | Schools and universities face rising ransomware costs as attackers target identities | exploit, conflict | $113.60M | $11.36B | $1.14T | 0.31 |
+| Forward Deployed Learner: Enabling 22-year-olds to build domain expertise and judgement in the post AI world | conflict | $110.40M | $11.04B | $1.10T | 0.31 |
 | bilawalsidhu/gods-eye-view | regulation, natural_disaster | $11.92M | $1.19B | $119.20B | 0.31 |
 | The AI marketing backlash story doesn’t actually fit Southeast Asia | regulation | $11.20M | $1.12B | $112.00B | 0.31 |
 | The factories are coming. Southeast Asia’s real race is to build what surrounds them | regulation | $11.04M | $1.10B | $110.40B | 0.31 |
@@ -30,7 +31,6 @@ Generated: `2026-09-02T03:25:59+00:00`
 | M 4.9 - 193 km SE of Perryville, Alaska | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
 | M 4.9 - 95 km W of Petrolia, CA | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
 | M 4.7 - Mid-Indian Ridge | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
-| M 4.5 - 105 km SSW of Nikolski, Alaska | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
 
 ## Interpretation
 
