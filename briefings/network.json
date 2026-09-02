@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-02T17:54:39+00:00",
+  "generated_at": "2026-09-02T18:05:16+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 83,
-    "clusters": 56,
+    "findings": 84,
+    "clusters": 57,
     "cross_source_confrmed": 1,
     "hot": 0,
     "early_signals": 0,
@@ -543,18 +543,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 15.99,
+      "network_score": 15.88,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 20.3,
-      "ranking_score": 15.99,
+      "ranking_score": 15.88,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.49,
+      "baseline_bonus": 0.38,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -754,6 +754,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-02T02:44:52+00:00"
+    },
+    {
+      "key": "title:make-coding-more-cost-efficient-without-sacrificing-task",
+      "title": "How we make AI coding more cost efficient without sacrificing task quality",
+      "sources": [
+        "GitHub Blog Atom"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 13.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 14.1,
+      "ranking_score": 13.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-02T18:05:16+00:00"
     },
     {
       "key": "title:anthropic-claude-code",
@@ -1229,48 +1267,6 @@
       "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
-      "key": "earthquake:alaska:5.2",
-      "title": "M 5.2 - 78 km SSW of Nikolski, Alaska",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "emergency_official",
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdmm",
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdin"
-      ],
-      "finding_count": 2,
-      "max_score": 11,
-      "credibility_total": 2.7,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 10.5,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 16.4,
-      "ranking_score": 10.5,
-      "initial_reach_tier": "official",
-      "source_reach_score": 4.0,
-      "authority_bonus_capped": 2.4,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.1,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 3.0,
-      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-09-01T06:56:30+00:00"
-    },
-    {
       "key": "domain:restofworld.org",
       "title": "Taiwan’s six-year hunt for China’s undercover chip labs",
       "sources": [
@@ -1307,6 +1303,48 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-06-19T01:58:32+00:00"
+    },
+    {
+      "key": "earthquake:alaska:5.2",
+      "title": "M 5.2 - 78 km SSW of Nikolski, Alaska",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "emergency_official",
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdmm",
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdin"
+      ],
+      "finding_count": 2,
+      "max_score": 11,
+      "credibility_total": 2.7,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 10.47,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 16.4,
+      "ranking_score": 10.47,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.07,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-09-01T06:56:30+00:00"
     },
     {
       "key": "earthquake:alaska:4.9",
@@ -2201,7 +2239,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-02T17:54:40Z",
+    "generated_at": "2026-09-02T18:05:16Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
