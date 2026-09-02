@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-01T23:56:16+00:00",
+  "generated_at": "2026-09-02T00:32:59+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -2724,8 +2724,8 @@
       "z_hint": 0.0
     },
     "title:cisa-ics-advisory-ics-medical-advisory-2026": {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年08月27日）",
-      "updated_at": "2026-08-28T23:53:26+00:00",
+      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月01日）",
+      "updated_at": "2026-09-02T00:32:59+00:00",
       "network_scores": [
         19.1,
         18.1,
@@ -2743,12 +2743,13 @@
         18.1,
         18.1,
         18.1,
-        18.1
+        18.1,
+        21.1
       ],
-      "rolling_average": 18.34,
+      "rolling_average": 18.49,
       "rolling_peak": 21.1,
-      "last_score": 18.1,
-      "z_hint": -0.24
+      "last_score": 21.1,
+      "z_hint": 2.61
     },
     "github_repo:universal-debloater-alliance/universal-android-debloater-next-generation": {
       "title": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
@@ -11343,8 +11344,8 @@
       "z_hint": 0.0
     },
     "earthquake:indonesia:5.6": {
-      "title": "M 5.6 - 82 km SE of Maba, Indonesia",
-      "updated_at": "2026-09-01T23:56:16+00:00",
+      "title": "M 5.6 - 155 km WSW of Abepura, Indonesia",
+      "updated_at": "2026-09-02T00:32:59+00:00",
       "network_scores": [
         21.7,
         21.7,
@@ -12163,6 +12164,17 @@
       "rolling_average": 11.1,
       "rolling_peak": 11.1,
       "last_score": 11.1,
+      "z_hint": 0.0
+    },
+    "title:1000": {
+      "title": "増田が1000万インプレッションを超える時代",
+      "updated_at": "2026-09-02T00:32:59+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
       "z_hint": 0.0
     }
   }

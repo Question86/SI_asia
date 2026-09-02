@@ -1,67 +1,32 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-01T23:56:13+00:00_
+_Generated: 2026-09-02T00:32:55+00:00_
 
 ## Status
 - status: `warning`
-- findings: `87`
+- findings: `3`
 
 ## Top Signals
 
-### 1. How to pitch Southeast Asia’s investors: A founder’s guide
-- source: e27 Asia Startup and Tech Feed
-- score: `21`
-- published: `2026-09-01T01:00:47+00:00`
-- url: https://e27.co/how-to-pitch-southeast-asias-investors-a-founders-guide-20260831/
-- summary: Southeast Asia has become one of the world’s most closely watched startup ecosystems. From fintech and e-commerce to logistics, SaaS, AI and digital financial infrastructure, the region has produced companies that have grown from local experiments into billio…
-
-### 2. 「ミート・プロキシ」って何？…AIの出力をそのまま送ってくる人を指す新語が話題 | Business Insider Japan
-- source: Hatena Bookmark Hotentry IT
-- score: `20`
-- published: `2026-08-31T23:48:48+00:00`
-- url: https://www.businessinsider.jp/article/2609-meat-proxy-tech-new-term-ai/
-- summary: ChatGPTが出力したメッセージを、そのまま送り続ける同僚はいないだろうか？ その人は「ミート・プロキシ」かもしれない。Kilito Chan/Getty Images 「ミート・プロキシ」とは、ClaudeやChatGPTの出力を吟味せず、そのまま送る人のことを指す。この言葉を広めたのはドイツのソフトウェアエンジニア、ニクラス・グルーン...
-
-### 3. How AI-native companies turn workflows into operating capability
-- source: OpenAI News RSS
-- score: `19`
-- published: `2026-09-01T17:00:00+00:00`
-- url: https://openai.com/index/ai-native-company-workflows
-- summary: Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.
-
-### 4. M 5.6 - 82 km SE of Maba, Indonesia
+### 1. M 5.6 - 155 km WSW of Abepura, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `19`
-- published: `2026-09-01T08:44:18.898+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdav
-- summary: PAGER - GREEN ShakeMap - VI Time 2026-09-01 08:22:20 UTC 2026-09-01 08:22:20 UTC at epicenter Location 0.169°N 128.805°E Depth 10.00 km (6.21 mi)
+- published: `2026-09-02T00:30:22.495+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdhl
+- summary: PAGER - GREEN ShakeMap - IV Time 2026-09-02 00:04:54 UTC 2026-09-02 00:04:54 UTC at epicenter Location 3.213°S 139.373°E Depth 64.64 km (40.17 mi)
 
-### 5. Path to Astra: critical capabilities and frontier safeguards
-- source: OpenAI News RSS
-- score: `13`
-- published: `2026-09-01T13:00:00+00:00`
-- url: https://openai.com/index/path-to-astra
-- summary: Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.
+### 2. CISA ICS Advisory / ICS Medical Advisory（2026年09月01日）
+- source: JVN Japan Vulnerability Notes
+- score: `16`
+- published: `2026-09-02T09:00:00+09:00`
+- url: https://jvn.jp/vu/JVNVU90253159/
+- summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 6. Barr, Unlocking Opportunities for Workers and Entrepreneurs with a Criminal Record
-- source: Federal Reserve Speeches and Testimony
-- score: `12`
-- published: `2026-09-01T13:05:00+00:00`
-- url: https://www.federalreserve.gov/newsevents/speech/barr20260901a.htm
-- summary: Speech At the Second-Chance Lending Forum, Developing Evidence-Based Policy on Creditworthiness and Criminal History, Washington, D.C.
-
-### 7. The Hidden Cost of Cheap ERP Implementations in a High-Stakes Market
-- source: e27 Asia Startup and Tech Feed
-- score: `12`
-- published: `2026-09-01T07:25:20+00:00`
-- url: https://e27.co/navigating-erp-implementation-challenges-singapore-cost-cutting-market-20260901/
-- summary: The global economic landscape faces numerous structural challenges. Apart from specialized sectors like education, finance, and government, most mainstream industries are experiencing significant headwinds. In corporate boardrooms across the region, “cost cut…
-
-### 8. Schools and universities face rising ransomware costs as attackers target identities
-- source: e27 Asia Startup and Tech Feed
-- score: `12`
-- published: `2026-09-01T06:41:10+00:00`
-- url: https://e27.co/schools-and-universities-face-rising-ransomware-costs-as-attackers-target-identities-20260901/
-- summary: Ransomware attacks on schools and universities are increasingly beginning not with exotic malware, but with stolen logins, deceptive emails and weak identity controls. A new Sophos report has found that identity-based techniques were used in 85 per cent of ra…
+### 3. 増田が1000万インプレッションを超える時代
+- source: Hatena Bookmark Hotentry IT
+- score: `5`
+- published: `2026-09-01T13:44:33+00:00`
+- url: https://anond.hatelabo.jp/20260901224029
+- summary: はてなしか見てないと知らんと思うけど、増田は外部サイトで普通にバズっとるんやで。 Xでも、増田の感想をポストしただけで、100万から1000万単位のインプレッションを集めることも珍しくなくなっとる。 例えば、こんな流れももうある種の定番や。 増田に男女ネタや政治ネタ、対立を煽るネタ、その他耳目を集めそうなネ...
 
 END OF DOCUMENT

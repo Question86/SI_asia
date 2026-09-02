@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-01T23:56:13+00:00_
+_Generiert: 2026-09-02T00:32:55+00:00_
 
 ## Kurzlage
 
-87 neue relevante Treffer. Stärkstes Signal: „How to pitch Southeast Asia’s investors: A founder’s guide“ aus e27 Asia Startup and Tech Feed (Score 21, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+3 neue relevante Treffer. Stärkstes Signal: „M 5.6 - 155 km WSW of Abepura, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -12,284 +12,39 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
-- **How to pitch Southeast Asia’s investors: A founder’s guide** — Score 21, observation — [Quelle](https://e27.co/how-to-pitch-southeast-asias-investors-a-founders-guide-20260831/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-01T01:00:47+00:00`, fetched `2026-09-01T01:07:57+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Content-Chance, founder, Southeast Asia, Watchgraph:capitals_power_centers
-  - Watchgraph: capitals_power_centers
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
-  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); Content-Chance (+6.2); Southeast Asia (+2.5); founder (+2.5); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
-  - Kurz: Southeast Asia has become one of the world’s most closely watched startup ecosystems. From fintech and e-commerce to logistics, SaaS, AI and digital financial infrastructure, the region has produced companies that have grown from local experiments into billion-dollar businesses. But for founders, there is another side to the story. Raising venture capital in Southeast Asia […] The post How to pitch Southeast Asia’s…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「ミート・プロキシ」って何？…AIの出力をそのまま送ってくる人を指す新語が話題 | Business Insider Japan** — Score 20, observation — [Quelle](https://www.businessinsider.jp/article/2609-meat-proxy-tech-new-term-ai/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-08-31T23:48:48+00:00`, fetched `2026-09-01T06:36:40+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Hatena, hotentry, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: ChatGPTが出力したメッセージを、そのまま送り続ける同僚はいないだろうか？ その人は「ミート・プロキシ」かもしれない。Kilito Chan/Getty Images 「ミート・プロキシ」とは、ClaudeやChatGPTの出力を吟味せず、そのまま送る人のことを指す。この言葉を広めたのはドイツのソフトウェアエンジニア、ニクラス・グルーン...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **How AI-native companies turn workflows into operating capability** — Score 19, opportunity — [Quelle](https://openai.com/index/ai-native-company-workflows)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-09-01T17:00:00+00:00`, fetched `2026-09-01T17:30:07+00:00`
-  - Treffer: AI Agents, AI/KI, OpenAI, Watchgraph:ai_agents_workflow
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); AI Agents (+5.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
-  - Kurz: Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **M 5.6 - 82 km SE of Maba, Indonesia** — Score 19, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdav)
+- **M 5.6 - 155 km WSW of Abepura, Indonesia** — Score 19, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdhl)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-01T08:44:18.898+00:00`, fetched `2026-09-01T08:46:07+00:00`
+  - Zeit: published `2026-09-02T00:30:22.495+00:00`, fetched `2026-09-02T00:32:22+00:00`
   - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: PAGER - GREEN ShakeMap - VI Time 2026-09-01 08:22:20 UTC 2026-09-01 08:22:20 UTC at epicenter Location 0.169°N 128.805°E Depth 10.00 km (6.21 mi)
+  - Kurz: PAGER - GREEN ShakeMap - IV Time 2026-09-02 00:04:54 UTC 2026-09-02 00:04:54 UTC at epicenter Location 3.213°S 139.373°E Depth 64.64 km (40.17 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Stocks fear the Fed but crypto shrugs off a 58% rate hike bet: Why the split?** — Score 19, observation — [Quelle](https://e27.co/stocks-fear-the-fed-but-crypto-shrugs-off-a-58-rate-hike-bet-why-the-split-20260901/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-01T01:55:25+00:00`, fetched `2026-09-01T02:00:02+00:00`
-  - Treffer: APAC Trend Radar, Macro/Policy, Markets/Capital Structure, Watchgraph:capitals_power_centers
-  - Watchgraph: capitals_power_centers
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
-  - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
-  - Kurz: The global financial landscape currently displays a truly fascinating divergence between digital reserves and conventional equities. While mainstream stock indices stumbled under the weight of geopolitical anxiety and rising bond yields, the cryptocurrency sector forged a completely independent upward path. The total digital asset capitalisation surged 1.09 per cent to reach US$2.64T over the 24-hour […] The post St…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **jingyaogong/minimind** — Score 19, observation — [Quelle](https://github.com/jingyaogong/minimind)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-09-01T06:36:40+00:00`
-  - Treffer: AI Agents, AI/KI, APAC Trend Radar, GitHub Trending, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: 🧠 Train a 64M-parameter LLM from scratch in just 2h! https://jingyaogong.github.io/minimind "大道至简" 中文 | English 此开源项目旨在完全从 0 开始，仅用 3 块钱成本与 2 小时训练时间，即可训练出规模约为 64M 的超小语言模型 MiniMind。 MiniMind 系列极其轻量，主线最小版本体积约为 GPT-3 的 $\frac{1}{2700}$，力求让普通个人 GPU 也能快速完成训练与复现。 项目同时开源了大模型的极简结构与完整训练链路，覆盖 MoE、数据清洗、预训练（Pretrain）、监督微调（SFT）、LoRA、RLHF（DPO）、RLAIF（PPO / GRPO / CISPO）、Tool Use、Agentic RL、自适应思考与模型蒸馏等全过程代码。 MiniMind 同时拓展了视觉模态模型 Min…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Monetary policy, the yield curve and financial markets** — Score 17, observation — [Quelle](https://www.bis.org/speeches/20260901-monetary-policy-yield-curve-and-financial-markets)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-09-01T00:00:00+00:00`, fetched `2026-09-01T08:29:22+00:00`
-  - Treffer: Macro/Policy, Markets/Capital Structure
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+6.2); Markets/Capital Structure (+7.5); recent (+1.0); watchgraph region europe: London (+2.0)
-  - Kurz: Keynote address by Mr Rashad Cassim, Deputy Governor of the South African Reserve Bank, at the London Stock Exchange Group (LSEG) Insight Series event, Johannesburg, 24 June 2026.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **使い込むほど成長するAIエージェント「Hermes Agent」でタスクを自動実行させてみた、PCを放置していても時間になれば勝手に実行** — Score 16, opportunity — [Quelle](https://gigazine.net/news/20260901-hermes-agent-cron-automation/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-01T13:42:56+00:00`, fetched `2026-09-01T21:15:26+00:00`
-  - Treffer: agent, Automatisierung, GitHub Actions, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub Actions (+5.0); Automatisierung (+4.0); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)
-  - Kurz: 前回、AIエージェント「Hermes Agent」で「GIGAZINEから記事を探して内容をまとめる」という作業の手順や、途中で発生したトラブルの解決方法を「スキル」として保存してみたところ、新しいセッションでも作成したスキルが自動的に読み込まれ、同じ作業をスムーズに実行できるようになりました。 しかし、毎回人間がHerm...
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **[UPDATE] [mittel] Red Hat Enterprise Linux Ceph Storage: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2584)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-09-01T10:55:36+00:00`, fetched `2026-09-01T10:58:43+00:00`
-  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, authentisierter oder anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux Ceph Storage ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen und um einen Denial-of-Service-Zustand zu verursachen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Asia is building the network for the age of atoms** — Score 16, risk — [Quelle](https://e27.co/asia-is-building-the-network-for-the-age-of-atoms-20260828/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-01T02:30:02+00:00`, fetched `2026-09-01T02:30:22+00:00`
-  - Treffer: APAC Trend Radar, Southeast Asia, Supply Chain Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Supply Chain Security (+8.0); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Vietnam, Thailand (+2.0)
-  - Kurz: Southeast Asia is building manufacturing capability across a network of increasingly specialised production centres. Vietnam, Malaysia and Thailand are attracting investment across electronics, semiconductors, automotive and related supply chains while Singapore continues to anchor higher value technology and semiconductor activity. Each market is developing a different position within this network. Vietnam has beco…
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.2 - 35 km SE of Sarangani, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdbr)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-01T13:56:39.538+00:00`, fetched `2026-09-01T13:57:53+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: DYFI? - IV Time 2026-09-01 13:22:30 UTC 2026-09-01 13:22:30 UTC at epicenter Location 5.162°N 125.672°E Depth 120.78 km (75.05 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.6 - 201 km SW of Fakfak, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000td9v)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-01T05:26:29.040+00:00`, fetched `2026-09-01T05:37:28+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-01 05:06:33 UTC 2026-09-01 05:06:33 UTC at epicenter Location 4.239°S 131.044°E Depth 35.00 km (21.75 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **OpenAI supports California’s bill to advance youth AI safety** — Score 15, observation — [Quelle](https://openai.com/index/supporting-california-bill-advance-ai-youth-safety)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-08-31T07:00:00+00:00`, fetched `2026-09-01T05:25:41+00:00`
-  - Treffer: AI/KI, OpenAI, safety
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+7.5); AI/KI (+3.8); safety (+2.5); recent (+1.0)
-  - Kurz: OpenAI supports California SB 1119, advancing strong, age-appropriate AI safeguards for teens while preserving opportunities to learn, create, and explore.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **PALLET CONTROL製品におけるアクセス制御不備の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN84094853/)
+- **CISA ICS Advisory / ICS Medical Advisory（2026年09月01日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU90253159/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-09-01T12:00:00+09:00`, fetched `2026-09-01T03:08:39+00:00`
-  - Treffer: APAC Trend Radar, JVN, Security
+  - Zeit: published `2026-09-02T09:00:00+09:00`, fetched `2026-09-02T00:32:22+00:00`
+  - Treffer: advisory, APAC Trend Radar, JVN, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: JALデジタル株式会社が提供するPALLET CONTROL製品にはプログラム間通信におけるアクセス制御不備の脆弱性が存在します。
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[NEU] [mittel] IBM i: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3130)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-09-01T11:11:07+00:00`, fetched `2026-09-01T11:18:26+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in IBM i ausnutzen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen oder Denial-of-Service-Zustände herbeizuführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
-- **Path to Astra: critical capabilities and frontier safeguards** — Score 13, observation — [Quelle](https://openai.com/index/path-to-astra)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-09-01T13:00:00+00:00`, fetched `2026-09-01T20:20:12+00:00`
-  - Treffer: OpenAI, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+6.0); Security (+6.0); recent (+1.0)
-  - Kurz: Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Barr, Unlocking Opportunities for Workers and Entrepreneurs with a Criminal Record** — Score 12, observation — [Quelle](https://www.federalreserve.gov/newsevents/speech/barr20260901a.htm)
-  - Quelle: Federal Reserve Speeches and Testimony / `rss`
-  - Zeit: published `2026-09-01T13:05:00+00:00`, fetched `2026-09-01T13:20:38+00:00`
-  - Treffer: Macro/Policy, speech, testimony
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
-  - Kurz: Speech At the Second-Chance Lending Forum, Developing Evidence-Based Policy on Creditworthiness and Criminal History, Washington, D.C.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The Hidden Cost of Cheap ERP Implementations in a High-Stakes Market** — Score 12, observation — [Quelle](https://e27.co/navigating-erp-implementation-challenges-singapore-cost-cutting-market-20260901/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-01T07:25:20+00:00`, fetched `2026-09-01T07:29:51+00:00`
-  - Treffer: APAC Trend Radar, Markets/Capital Structure
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: The global economic landscape faces numerous structural challenges. Apart from specialized sectors like education, finance, and government, most mainstream industries are experiencing significant headwinds. In corporate boardrooms across the region, “cost cutting” has transitioned from a seasonal strategy to a daily operating baseline. As a result, once deep-pocketed businesses are striving to find cheaper alternati…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Schools and universities face rising ransomware costs as attackers target identities** — Score 12, risk — [Quelle](https://e27.co/schools-and-universities-face-rising-ransomware-costs-as-attackers-target-identities-20260901/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-01T06:41:10+00:00`, fetched `2026-09-01T06:55:33+00:00`
-  - Treffer: APAC Trend Radar, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+7.5); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: Ransomware attacks on schools and universities are increasingly beginning not with exotic malware, but with stolen logins, deceptive emails and weak identity controls. A new Sophos report has found that identity-based techniques were used in 85 per cent of ransomware attacks against education institutions, above the cross-sector average of 79 per cent. These methods include […] The post Schools and universities face…
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.7 - Mid-Indian Ridge** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdh3)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-01T22:53:58.040+00:00`, fetched `2026-09-01T23:00:36+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-01 22:37:43 UTC 2026-09-01 22:37:43 UTC at epicenter Location 13.258°S 66.557°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **AI safety is designed in the West, and failing users everywhere** — Score 11, observation — [Quelle](https://restofworld.org/2026/ai-safety-bias/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
-  - Quelle: Rest of World Global Tech Feed / `rss`
-  - Zeit: published `2026-09-01T10:00:00+00:00`, fetched `2026-09-01T10:19:45+00:00`
-  - Treffer: AI/KI, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)
-  - Kurz: OpenAI’s pause shows the risks of rapid AI development, as safety frameworks fail to account for non-Western languages and contexts where harms are felt most.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.5 - 90 km SSW of Nikolski, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdal)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-01T08:08:39.040+00:00`, fetched `2026-09-01T08:29:22+00:00`
-  - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: ShakeMap - III Time 2026-09-01 07:45:38 UTC 2026-09-01 07:45:38 UTC at epicenter Location 52.162°N 169.259°W Depth 37.56 km (23.34 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.5 - 105 km SSW of Nikolski, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdag)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-01T07:21:56.040+00:00`, fetched `2026-09-01T07:29:51+00:00`
-  - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: ShakeMap - II Time 2026-09-01 07:05:57 UTC 2026-09-01 07:05:57 UTC at epicenter Location 52.039°N 169.339°W Depth 42.23 km (26.24 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Copilot model access update for GitHub Team plans** — Score 11, observation — [Quelle](https://github.blog/changelog/2026-08-31-copilot-model-access-update-for-github-team-plans)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-08-31T21:58:46+00:00`, fetched `2026-09-01T14:54:37+00:00`
-  - Treffer: Copilot, GitHub, Public Health
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Public Health (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
-  - Kurz: We have updated how model access is determined for Copilot users who hold seats in more than one organization. To keep billing and governance in sync, your model access is… The post Copilot model access update for GitHub Team plans appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Multiples vulnérabilités dans le noyau Linux de Debian LTS (21 août 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1069/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-08-21T00:00:00+00:00`, fetched `2026-09-01T13:57:53+00:00`
-  - Treffer: avis, CERT-FR, Linux, sécurité, vulnérabilité
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)
-  - Kurz: De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Multiples vulnérabilités dans le noyau Linux de Debian (21 août 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1068/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-08-21T00:00:00+00:00`, fetched `2026-09-01T13:57:53+00:00`
-  - Treffer: avis, CERT-FR, Linux, sécurité, vulnérabilité
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)
-  - Kurz: De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer une élévation de privilèges.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Multiples vulnérabilités dans le noyau Linux d'Ubuntu (21 août 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1066/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-08-21T00:00:00+00:00`, fetched `2026-09-01T13:57:53+00:00`
-  - Treffer: avis, CERT-FR, Linux, sécurité, vulnérabilité
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)
-  - Kurz: De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **東大、「価値創造学部」新設へ 27年秋入学、授業はすべて英語** — Score 10, observation — [Quelle](https://www.itmedia.co.jp/news/article/2609/01/2000001002/)
+- **増田が1000万インプレッションを超える時代** — Score 5, observation — [Quelle](https://anond.hatelabo.jp/20260901224029)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-01T02:33:33+00:00`, fetched `2026-09-01T03:45:46+00:00`
-  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Zeit: published `2026-09-01T13:44:33+00:00`, fetched `2026-09-02T00:32:22+00:00`
+  - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Tokyo (+2.0)
-  - Kurz: 文部科学省が8月28日に公表した2027年度の国立大学の入学定員予定表に、東京大学の「価値創造学部」新設が掲載されたことが話題になっている。 東大が「UTokyo College of Design」として準備してきた新学部で、すべての授業を英語で実施する。秋入学を採用し、国内外から学生を受け入れるほか。学部の新設は1958年の薬...
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: はてなしか見てないと知らんと思うけど、増田は外部サイトで普通にバズっとるんやで。 Xでも、増田の感想をポストしただけで、100万から1000万単位のインプレッションを集めることも珍しくなくなっとる。 例えば、こんな流れももうある種の定番や。 増田に男女ネタや政治ネタ、対立を煽るネタ、その他耳目を集めそうなネ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **India is showing the world what AI will do to jobs and education** — Score 10, observation — [Quelle](https://e27.co/india-is-showing-the-world-what-ai-will-do-to-jobs-and-education-20260831/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-01T01:30:46+00:00`, fetched `2026-09-01T01:40:29+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region india: India (+2.0)
-  - Kurz: The most important change AI is making to employment may not appear first in layoffs. It may appear in the people companies quietly decide not to hire. A survey of 651 Indian technology firms found that 65 per cent said AI had reduced hiring. In Britain, government and LinkedIn data found 30 of 38 tracked […] The post India is showing the world what AI will do to jobs and education appeared first on e27 .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Advancing banking, governance and financial innovation in Malaysia and Asia** — Score 10, opportunity — [Quelle](https://www.bis.org/speeches/20260901-advancing-banking-governance-and-financial-innovation-malaysia-and-asia)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-09-01T00:00:00+00:00`, fetched `2026-09-01T08:29:22+00:00`
-  - Treffer: banking, Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); banking (+2.5); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)
-  - Kurz: Opening address by Mr Abdul Rasheed Ghaffour, Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the inaugural AICB (Asian Institute of Chartered Bankers) Nexus Conference, Kuala Lumpur, 8 July 2026.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Empfehlungen
 
-- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
