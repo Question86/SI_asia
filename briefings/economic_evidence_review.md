@@ -1,9 +1,9 @@
 # Economic Evidence Review
 
-Generated: `2026-09-02T07:56:03+00:00`
+Generated: `2026-09-02T08:13:01+00:00`
 FX as of: `None`
 
-- Candidates: **126**
+- Candidates: **136**
 - Promoted: **0**
 
 | Candidate | Event | USD | Component | Status |
@@ -13,6 +13,9 @@ FX as of: `None`
 | `cand_e936a3d06d83b262399b` | `evt_3cb5980444e3bd7e9296` | $6 | capital_allocation | pending |
 | `cand_dea5e661bfbf3a2af66a` | `evt_3cb5980444e3bd7e9296` | $5 | real_resource | pending |
 | `cand_c65adb0aa4535f528094` | `evt_566b9c70a07073da651c` | $4 | real_resource | pending |
+| `cand_63c6a7171699251c79ba` | `evt_43856848b80264610146` | — | real_resource | pending |
+| `cand_38ab428e8b3c9d2a9246` | `evt_43856848b80264610146` | — | real_resource | pending |
+| `cand_8e1904514a3487d1f889` | `evt_43856848b80264610146` | — | real_resource | pending |
 | `cand_32c3b21fcbc219b5ad2e` | `evt_8652d6841c3b45de4589` | $2,000 | unknown | pending |
 | `cand_c277713a3f575d58dac8` | `evt_8652d6841c3b45de4589` | $500 | unknown | pending |
 | `cand_f92f5bfaab99f4fd2ded` | `evt_8652d6841c3b45de4589` | $50 | unknown | pending |
@@ -33,18 +36,15 @@ FX as of: `None`
 | `cand_ebe05629eddf5dc08d27` | `evt_43856848b80264610146` | — | unknown | pending |
 | `cand_7e23c33e3308e27e6a45` | `evt_43856848b80264610146` | — | unknown | pending |
 | `cand_a3a215291d51707ccfb8` | `evt_43856848b80264610146` | — | unknown | pending |
+| `cand_5e7c410f7cdb47133cf8` | `evt_43856848b80264610146` | — | unknown | pending |
+| `cand_353e13177dbc22038c6a` | `evt_43856848b80264610146` | — | unknown | pending |
+| `cand_be59d7bafa944f6a6c58` | `evt_43856848b80264610146` | — | unknown | pending |
+| `cand_9d156325aa212bd090af` | `evt_43856848b80264610146` | — | unknown | pending |
+| `cand_4d92bc41cbd823a304b3` | `evt_43856848b80264610146` | — | unknown | pending |
+| `cand_2878d80110751a17fd1a` | `evt_43856848b80264610146` | — | unknown | pending |
+| `cand_b5b9708bffe372d6b4e8` | `evt_43856848b80264610146` | — | unknown | pending |
 | `cand_1c22d3cbedbcc3c4b6eb` | `evt_4ce5fd3e6b5f0a672fe3` | $50,000,000 | capital_allocation | pending |
 | `cand_17700273678d5ce50168` | `evt_4ce5fd3e6b5f0a672fe3` | $50,000,000 | capital_allocation | pending |
 | `cand_65d610b39ca494dd6630` | `evt_a134d0070a5406ad163f` | $50,000,000 | capital_allocation | pending |
 | `cand_ff77b32e5cc456754188` | `evt_a134d0070a5406ad163f` | $50,000,000 | capital_allocation | pending |
 | `cand_1e34af249b48371eecaf` | `evt_e43c9e3077c7255b207a` | $50,000,000 | capital_allocation | pending |
-| `cand_947459aa10e76ef88131` | `evt_e43c9e3077c7255b207a` | $50,000,000 | capital_allocation | pending |
-| `cand_b22b0b528ac39aeb58b0` | `evt_a5a54b57014a28b3b8cc` | $50,000,000 | capital_allocation | pending |
-| `cand_40de24d0098fd9fefa84` | `evt_a5a54b57014a28b3b8cc` | $50,000,000 | capital_allocation | pending |
-| `cand_581c99d2fd7da1924dd5` | `evt_ba2633514b7c89d43fb5` | $50,000,000 | capital_allocation | pending |
-| `cand_27dd9c53d47ad68e93fa` | `evt_ba2633514b7c89d43fb5` | $50,000,000 | capital_allocation | pending |
-| `cand_64c9e1ef0badef068c36` | `evt_6a0ec87bcb8f8c576184` | $50,000,000 | capital_allocation | pending |
-| `cand_d86bfba0bdaae5ae40f8` | `evt_6a0ec87bcb8f8c576184` | $50,000,000 | capital_allocation | pending |
-| `cand_2873177666122eb4df38` | `evt_83d565fc838495a8dbed` | $50,000,000 | capital_allocation | pending |
-| `cand_c9576485f1592f0db198` | `evt_83d565fc838495a8dbed` | $50,000,000 | capital_allocation | pending |
-| `cand_241f57ca1dd6f436639c` | `evt_58b1d9a0e9d32a8eebb3` | $50,000,000 | capital_allocation | pending |
