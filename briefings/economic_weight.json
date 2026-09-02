@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-02T01:10:41+00:00",
+  "generated_at": "2026-09-02T01:33:56+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -140,7 +140,7 @@
       "p90_usd": 11920000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-01T08:46:46+00:00",
-      "last_seen_at": "2026-09-02T01:10:24+00:00",
+      "last_seen_at": "2026-09-02T01:33:41+00:00",
       "status": "active"
     },
     {
@@ -769,7 +769,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-02T01:10:24+00:00",
+      "last_seen_at": "2026-09-02T01:33:41+00:00",
       "status": "active"
     },
     {
@@ -873,6 +873,23 @@
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-08-28T23:53:26+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_c39c68387b68393d229a",
+      "title": "Hugging Face製Transformersにおけるユーザー同意確認前のリモートコード不正キャッシュの脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-02T01:33:41+00:00",
+      "last_seen_at": "2026-09-02T01:33:41+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_2f5c3cffbb9951edd868",
@@ -1126,7 +1143,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-02T01:10:24+00:00",
+      "last_seen_at": "2026-09-02T01:33:41+00:00",
       "status": "active"
     },
     {
@@ -1844,6 +1861,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_40d459fccc4cf607efdf",
+      "title": "Why most AI driven reorgs are solving the wrong problem",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-02T01:10:24+00:00",
+      "last_seen_at": "2026-09-02T01:33:41+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_4276ae39166dfdb87aa3",
       "title": "GitHub - iannuttall/barkeep: Manage hidden macOS menu bar items from one place",
       "event_classes": [
@@ -1978,23 +2012,6 @@
       "first_seen_at": "2026-08-31T09:48:26+00:00",
       "last_seen_at": "2026-08-31T09:56:11+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_40d459fccc4cf607efdf",
-      "title": "Why most AI driven reorgs are solving the wrong problem",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 110400.0,
-      "p50_usd": 11040000.0,
-      "p90_usd": 1104000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-02T01:10:24+00:00",
-      "last_seen_at": "2026-09-02T01:10:24+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_daeaa9b4d3ac84cf4369",
@@ -2286,6 +2303,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_2e9d9ec03302056d3575",
+      "title": "読まれる職務経歴書のつくり方｜dora_e_m",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-02T01:10:24+00:00",
+      "last_seen_at": "2026-09-02T01:33:41+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_39608083ffef119c35bf",
       "title": "ローカルLLMを直接実行できるマイコンボード「Arduino VENTUNO Q」予約販売開始 | gihyo.jp",
       "event_classes": [
@@ -2367,7 +2401,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T00:32:59+00:00",
-      "last_seen_at": "2026-09-02T01:10:24+00:00",
+      "last_seen_at": "2026-09-02T01:33:41+00:00",
       "status": "active"
     },
     {
@@ -2386,6 +2420,23 @@
       "first_seen_at": "2026-08-29T03:32:05+00:00",
       "last_seen_at": "2026-08-29T14:59:50+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_6f1e639e01723a796b95",
+      "title": "なぜ自殺してはいけないのか？ 殺してはいけないのか？ おれのラーメン理論",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-02T01:10:24+00:00",
+      "last_seen_at": "2026-09-02T01:33:41+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_6f36151ccdd6ba257878",
@@ -2675,40 +2726,6 @@
       "first_seen_at": "2026-08-31T05:28:51+00:00",
       "last_seen_at": "2026-08-31T05:56:06+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_6f1e639e01723a796b95",
-      "title": "なぜ自殺してはいけないのか？ 殺してはいけないのか？ おれのラーメン理論",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108000.0,
-      "p50_usd": 10800000.0,
-      "p90_usd": 1080000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-02T01:10:24+00:00",
-      "last_seen_at": "2026-09-02T01:10:24+00:00",
-      "status": "active"
-    },
-    {
-      "event_id": "evt_2e9d9ec03302056d3575",
-      "title": "読まれる職務経歴書のつくり方｜dora_e_m",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108000.0,
-      "p50_usd": 10800000.0,
-      "p90_usd": 1080000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-02T01:10:24+00:00",
-      "last_seen_at": "2026-09-02T01:10:24+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_5c64d6dc8a71c6d72b83",
