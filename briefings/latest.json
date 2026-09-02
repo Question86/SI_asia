@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T05:55:26+00:00",
-  "run_id": "2026-09-02T05:55:26+00:00",
+  "generated_at": "2026-09-02T06:18:44+00:00",
+  "run_id": "2026-09-02T06:18:44+00:00",
   "date": "2026-09-02",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 30
+      "configured_public_sources_only": 31
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 30,
-    "displayed_findings": 30,
+    "new_relevant_findings": 1,
+    "today_file_total": 31,
+    "displayed_findings": 31,
     "high": 0,
     "medium": 13,
-    "observe": 17,
+    "observe": 18,
     "source_errors": 1
   },
   "sections": {
@@ -788,6 +788,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "9967e07f11a6293fffa1"
+      },
+      {
+        "title": "2026年度 一般職（高卒者）官庁訪問の情報を掲載しました",
+        "url": "https://www.digital.go.jp/recruitment/newgraduates/2026-governmentofficevisit-clericalposition-highschoolgraduate",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-09-02T06:00:00+00:00",
+        "fetched_at": "2026-09-02T06:18:06+00:00",
+        "summary": "2026年度 一般職（高卒者）官庁訪問の情報を掲載しました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3f0914881e25a4b421f7"
       },
       {
         "title": "なぜ自殺してはいけないのか？ 殺してはいけないのか？ おれのラーメン理論",
@@ -1655,6 +1675,26 @@
       "id": "9967e07f11a6293fffa1"
     },
     {
+      "title": "2026年度 一般職（高卒者）官庁訪問の情報を掲載しました",
+      "url": "https://www.digital.go.jp/recruitment/newgraduates/2026-governmentofficevisit-clericalposition-highschoolgraduate",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-02T06:00:00+00:00",
+      "fetched_at": "2026-09-02T06:18:06+00:00",
+      "summary": "2026年度 一般職（高卒者）官庁訪問の情報を掲載しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3f0914881e25a4b421f7"
+    },
+    {
       "title": "なぜ自殺してはいけないのか？ 殺してはいけないのか？ おれのラーメン理論",
       "url": "https://blog.tinect.jp/?p=91463",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1759,7 +1799,28 @@
       "id": "c369da51be1dd1c75de5"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "2026年度 一般職（高卒者）官庁訪問の情報を掲載しました",
+      "url": "https://www.digital.go.jp/recruitment/newgraduates/2026-governmentofficevisit-clericalposition-highschoolgraduate",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-02T06:00:00+00:00",
+      "fetched_at": "2026-09-02T06:18:06+00:00",
+      "summary": "2026年度 一般職（高卒者）官庁訪問の情報を掲載しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3f0914881e25a4b421f7"
+    }
+  ],
   "source_errors": [
     {
       "source_id": "bis_statistics",
