@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T21:14:46+00:00",
-  "run_id": "2026-09-02T21:14:46+00:00",
+  "generated_at": "2026-09-02T21:25:42+00:00",
+  "run_id": "2026-09-02T21:25:42+00:00",
   "date": "2026-09-02",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 92,
     "displayed_findings": 92,
     "high": 0,
@@ -4747,30 +4747,7 @@
       "id": "c369da51be1dd1c75de5"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
-      "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/",
-      "source": "GitHub Blog Atom",
-      "source_type": "rss",
-      "published_at": "2026-09-02T21:00:00+00:00",
-      "fetched_at": "2026-09-02T21:14:13+00:00",
-      "summary": "From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. The post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "AI/KI",
-        "Automatisierung",
-        "GitHub"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "AI/KI (+3.8); Automatisierung (+4.0); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9e3005198ab87d34a0ba"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [
     {
       "source_id": "bis_statistics",
