@@ -48,6 +48,44 @@
     "id": "419af930ae1544291f95"
   },
   {
+    "title": "[MàJ] Vulnérabilité dans Fortinet FortiOS (09 février 2024)",
+    "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-004/",
+    "source": "CERT-FR Alertes",
+    "source_type": "rss",
+    "published_at": "2024-02-09T00:00:00+00:00",
+    "fetched_at": "2026-09-02T12:41:04+00:00",
+    "summary": "\\[Mise à jour du 19 mars 2024\\] Le CERT-FR a connaissance de codes d'exploitation publics et de nouvelles tentatives d'exploitation. Le 8 février 2024, Fortinet a publié l'avis de sécurité concernant la vulnérabilité critique CVE-2024-21762 affectant le VPN SSL de FortiOS. Cette vulnérabilité...",
+    "matched_keywords": [
+      "alerte",
+      "CERT-FR",
+      "Fortinet",
+      "Security",
+      "VPN",
+      "vulnérabilité",
+      "Watchgraph:cyber_active_exploitation"
+    ],
+    "relevance_score": 20,
+    "relevance_reason": "Security (+6.0); CERT-FR (+2.0); alerte (+2.0); vulnérabilité (+2.5); Fortinet (+2.5); VPN (+2.0); watchgraph modules cyber_active_exploitation (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "cyber_active_exploitation"
+    ],
+    "watchgraph_reasons": [
+      "cyber_active_exploitation: Fortinet"
+    ],
+    "market_context": [
+      "CRWD",
+      "PANW",
+      "FTNT",
+      "ZS",
+      "OKTA",
+      "NET",
+      "S"
+    ],
+    "id": "654cddf3dfe7b3b43cd7"
+  },
+  {
     "title": "Gitlawb/openclaude",
     "url": "https://github.com/Gitlawb/openclaude",
     "source": "GitHub Trending RSS All Languages Daily",
@@ -206,6 +244,31 @@
     "id": "84bea27dff0bf2eba9db"
   },
   {
+    "title": "Vulnérabilité dans Microsoft Entra ID (21 août 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1074/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-08-21T00:00:00+00:00",
+    "fetched_at": "2026-09-02T12:41:04+00:00",
+    "summary": "**[Mise à jour du 24 août 2026]** Microsoft a modifié son bulletin de sécurité pour préciser que la vulnérabilité CVE-2026-69836 n'est pas activement exploitée. **[Publication initiale]** Une vulnérabilité a été découverte dans Microsoft Entra ID. Elle permet à un attaquant de provoquer une...",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "Microsoft",
+      "Security",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 17,
+    "relevance_reason": "Security (+6.0); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "254a9d052f147bdb5b87"
+  },
+  {
     "title": "[NEU] [hoch] Microsoft GitHub Enterprise Server: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3151",
     "source": "BSI CERT-Bund Security Advisories",
@@ -273,6 +336,31 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "d0a070b0a38832a6e76b"
+  },
+  {
+    "title": "Vulnérabilité dans SPIP (21 août 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1063/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-08-21T00:00:00+00:00",
+    "fetched_at": "2026-09-02T12:41:04+00:00",
+    "summary": "Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. L'éditeur indique que cette vulnérabilité est activement exploitée.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "Security",
+      "sécurité",
+      "vulnérabilité",
+      "éditeur"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "40656b06695e787b0566"
   },
   {
     "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
@@ -1088,6 +1176,54 @@
     "id": "81b00d59944d3f7b0ed9"
   },
   {
+    "title": "Vulnérabilité dans Microsoft Office (21 août 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1072/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-08-21T00:00:00+00:00",
+    "fetched_at": "2026-09-02T12:41:04+00:00",
+    "summary": "Une vulnérabilité a été découverte dans Microsoft Office. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "Microsoft",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a68d06db7b1643db1a1b"
+  },
+  {
+    "title": "Multiples vulnérabilités dans les produits Microsoft (21 août 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1073/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-08-21T00:00:00+00:00",
+    "fetched_at": "2026-09-02T12:41:04+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un déni de service.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "Microsoft",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9007839110daa8d0bca9"
+  },
+  {
     "title": "Imbad0202/academic-research-skills",
     "url": "https://github.com/Imbad0202/academic-research-skills",
     "source": "GitHub Trending RSS All Languages Daily",
@@ -1327,6 +1463,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "c05fea44bda1b62efd7b"
+  },
+  {
+    "title": "Remotezugriff Sonicwall SMA1000: Angreifer verbiegen interne Dienste",
+    "url": "https://www.heise.de/news/Remotezugriff-Sonicwall-SMA1000-Angreifer-verbiegen-interne-Dienste-11438326.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-09-02T12:24:00.000+00:00",
+    "fetched_at": "2026-09-02T12:41:04+00:00",
+    "summary": "Angreifer nutzen derzeit zwei Sicherheitslücken in Sonicwall SMA1000 aus. Mittlerweile haben die Entwickler die Lücken geschlossen.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "49225e6b20ecef07070c"
   },
   {
     "title": "3b1b/manim",

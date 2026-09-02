@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-02T12:16:41+00:00_
+_Generiert: 2026-09-02T12:41:33+00:00_
 
 ## Kurzlage
 
-63 neue relevante Treffer. Stärkstes Signal: „NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging“ aus e27 Asia Startup and Tech Feed (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+69 neue relevante Treffer. Stärkstes Signal: „NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging“ aus e27 Asia Startup and Tech Feed (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -21,6 +21,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Content-Chance (+5.0); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0); watchgraph modules chips_compute_datacenters (+3.0)
   - Kurz: The race to build larger AI models has created a less glamorous but increasingly urgent problem: how to move heat and power through ever-denser chip packages without driving up cost, energy use and complexity. A Malaysian startup now wants to solve part of that problem at the material boundary level. Kuala Lumpur-based nanoSkunkWorkX (nSWX) has […] The post NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[MàJ] Vulnérabilité dans Fortinet FortiOS (09 février 2024)** — Score 20, risk — [Quelle](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-004/)
+  - Quelle: CERT-FR Alertes / `rss`
+  - Zeit: published `2024-02-09T00:00:00+00:00`, fetched `2026-09-02T12:41:04+00:00`
+  - Treffer: alerte, CERT-FR, Fortinet, Security, VPN, vulnérabilité, Watchgraph:cyber_active_exploitation
+  - Watchgraph: cyber_active_exploitation
+  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: Security (+6.0); CERT-FR (+2.0); alerte (+2.0); vulnérabilité (+2.5); Fortinet (+2.5); VPN (+2.0); watchgraph modules cyber_active_exploitation (+3.0)
+  - Kurz: \[Mise à jour du 19 mars 2024\] Le CERT-FR a connaissance de codes d'exploitation publics et de nouvelles tentatives d'exploitation. Le 8 février 2024, Fortinet a publié l'avis de sécurité concernant la vulnérabilité critique CVE-2024-21762 affectant le VPN SSL de FortiOS. Cette vulnérabilité...
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Gitlawb/openclaude** — Score 20, observation — [Quelle](https://github.com/Gitlawb/openclaude)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-09-02T05:39:30+00:00`
@@ -66,6 +75,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: GitHub Actions (+5.0); AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: AdExchanger ran a piece recently on open-source marketing mix modelling having its moment, and apologised on the way in for the new acronym. OS-MMM. Nobody asked for it, but here we are. The underlying claim is not hype. Julian Runge at Northwestern’s Medill School makes the point that you can now prompt an AI agent […] The post The MMM barrier didn’t disappear. It moved appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Vulnérabilité dans Microsoft Entra ID (21 août 2026)** — Score 17, risk — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1074/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-08-21T00:00:00+00:00`, fetched `2026-09-02T12:41:04+00:00`
+  - Treffer: avis, CERT-FR, Microsoft, Security, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)
+  - Kurz: **[Mise à jour du 24 août 2026]** Microsoft a modifié son bulletin de sécurité pour préciser que la vulnérabilité CVE-2026-69836 n'est pas activement exploitée. **[Publication initiale]** Une vulnérabilité a été découverte dans Microsoft Entra ID. Elle permet à un attaquant de provoquer une...
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **[NEU] [hoch] Microsoft GitHub Enterprise Server: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3151)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-09-02T11:16:05+00:00`, fetched `2026-09-02T11:19:02+00:00`
@@ -93,6 +111,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0)
   - Kurz: On 31 August, the European Commission did something no regulator had done before: it looked at a generative AI chatbot and decided it was, legally speaking, a search engine. ChatGPT was designated a “Very Large Online Search Engine” under the EU’s Digital Services Act (DSA), placing OpenAI’s flagship product in the same supervisory tier as […] The post The EU called ChatGPT a search engine. SEA’s AI startups should…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Vulnérabilité dans SPIP (21 août 2026)** — Score 16, risk — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1063/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-08-21T00:00:00+00:00`, fetched `2026-09-02T12:41:04+00:00`
+  - Treffer: avis, CERT-FR, Security, sécurité, vulnérabilité, éditeur
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
+  - Kurz: Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. L'éditeur indique que cette vulnérabilité est activement exploitée.
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **How law firm Gilbert + Tobin governs and scales AI with OpenAI** — Score 15, observation — [Quelle](https://openai.com/index/gilbert-tobin)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-09-01T01:00:00+00:00`, fetched `2026-09-02T01:09:46+00:00`
@@ -177,6 +204,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: ところてん @tokoroten 株式会社NextInt 代表 著書「ChatGPT攻略」「仕事に役立つ新・必修科目『情報Ⅰ』」 共著「仕事ではじめる機械学習」他 データ分析、コンサル、ゲームディレクター、技術顧問、企業での研修・講演などで出稼ぎ労働中。 お仕事相談はDMからどうぞ。 nextint.co.jp docswell.com/user/tokoroten 「下...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Vulnérabilité dans Microsoft Office (21 août 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1072/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-08-21T00:00:00+00:00`, fetched `2026-09-02T12:41:04+00:00`
+  - Treffer: avis, CERT-FR, Microsoft, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)
+  - Kurz: Une vulnérabilité a été découverte dans Microsoft Office. Elle permet à un attaquant de provoquer une atteinte à la confidentialité des données.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans les produits Microsoft (21 août 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1073/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-08-21T00:00:00+00:00`, fetched `2026-09-02T12:41:04+00:00`
+  - Treffer: avis, CERT-FR, Microsoft, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans les produits Microsoft. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un déni de service.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Imbad0202/academic-research-skills** — Score 11, observation — [Quelle](https://github.com/Imbad0202/academic-research-skills)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-09-02T05:39:30+00:00`
@@ -231,32 +276,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: There is a contradiction emerging in the way we talk about AI and the future of work. As AI gets better at execution, human judgment, critical thinking, context and domain expertise become more valuable. But where exactly is a 22-year-old supposed to get domain expertise and judgment? Historically, the answer was work. You joined a […] The post Forward Deployed Learner: Enabling 22-year-olds to build domain expertis…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **3b1b/manim** — Score 7, observation — [Quelle](https://github.com/3b1b/manim)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-09-02T05:39:30+00:00`
-  - Treffer: APAC Trend Radar, GitHub Trending
+- **Remotezugriff Sonicwall SMA1000: Angreifer verbiegen interne Dienste** — Score 7, observation — [Quelle](https://www.heise.de/news/Remotezugriff-Sonicwall-SMA1000-Angreifer-verbiegen-interne-Dienste-11438326.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-09-02T12:24:00.000+00:00`, fetched `2026-09-02T12:41:04+00:00`
+  - Treffer: Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph region europe: NATO (+2.0)
-  - Kurz: Animation engine for explanatory math videos Manim is an engine for precise programmatic animations, designed for creating explanatory math videos. Note, there are two versions of manim. This repository began as a personal project by the author of 3Blue1Brown for the purpose of animating those videos, with video-specific code available here . In 2020 a group of developers forked it into what is now the community edi…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **2026年度 一般職（高卒者）官庁訪問の情報を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/recruitment/newgraduates/2026-governmentofficevisit-clericalposition-highschoolgraduate)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-09-02T06:00:00+00:00`, fetched `2026-09-02T06:18:06+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 2026年度 一般職（高卒者）官庁訪問の情報を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **FREE-Wi.Fi: 無料Wi-Fiの登録に使える捨てメアド** — Score 5, observation — [Quelle](https://free-wi.fi/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-02T10:10:30+00:00`, fetched `2026-09-02T10:58:31+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 受信箱は誰でも閲覧でき、メールは24時間で消えます。 登録は不要です。送信はできません。 メール本文だけでなく、メールヘッダーやSMTPのハンドシェイクログも見れます。 Simple (Simpleとは言っていない) なMail Transfer Protocolのお勉強に使えるかも…！ Contact us at abuse@{domain} / (c) 2026 ActiveTK.
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Angreifer nutzen derzeit zwei Sicherheitslücken in Sonicwall SMA1000 aus. Mittlerweile haben die Entwickler die Lücken geschlossen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

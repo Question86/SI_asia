@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-02T12:16:41+00:00_
+_Generated: 2026-09-02T12:41:33+00:00_
 
 ## Status
 - status: `warning`
-- findings: `63`
+- findings: `69`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-09-02T12:16:41+00:00_
 - url: https://e27.co/nasa-linked-mit-trained-founders-nswx-raises-us2m-for-ai-chip-packaging-20260902/
 - summary: The race to build larger AI models has created a less glamorous but increasingly urgent problem: how to move heat and power through ever-denser chip packages without driving up cost, energy use and complexity. A Malaysian startup now wants to solve part of th…
 
-### 2. Gitlawb/openclaude
+### 2. [MàJ] Vulnérabilité dans Fortinet FortiOS (09 février 2024)
+- source: CERT-FR Alertes
+- score: `20`
+- published: `2024-02-09T00:00:00+00:00`
+- url: https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-004/
+- summary: \[Mise à jour du 19 mars 2024\] Le CERT-FR a connaissance de codes d'exploitation publics et de nouvelles tentatives d'exploitation. Le 8 février 2024, Fortinet a publié l'avis de sécurité concernant la vulnérabilité critique CVE-2024-21762 affectant le VPN S…
+
+### 3. Gitlawb/openclaude
 - source: GitHub Trending RSS All Languages Daily
 - score: `20`
 - published: `None`
 - url: https://github.com/Gitlawb/openclaude
 - summary: runs anywhere. uses anything https://openclaude.gitlawb.com OpenClaude is an open-source coding-agent CLI for cloud and local model providers. Use OpenAI-compatible APIs, Gemini, GitHub Models, Codex OAuth, Codex, Ollama, Atomic Chat, and other supported back…
 
-### 3. M 5.6 - 155 km WSW of Abepura, Indonesia
+### 4. M 5.6 - 155 km WSW of Abepura, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `19`
 - published: `2026-09-02T00:30:22.495+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdhl
 - summary: PAGER - GREEN ShakeMap - IV Time 2026-09-02 00:04:54 UTC 2026-09-02 00:04:54 UTC at epicenter Location 3.213°S 139.373°E Depth 64.64 km (40.17 mi)
-
-### 4. [NEU] [hoch] Rockwell Automation FactoryTalk Activation Manager und Historian Machine Edition: Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `18`
-- published: `2026-09-02T10:46:09+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3143
-- summary: Ein Angreifer aus einem angrenzenden Netzwerk kann mehrere Schwachstellen in Rockwell Automation FactoryTalk ausnutzen, um beliebigen Programmcode auszuführen, Administratorrechte zu erlangen oder einen Denial-of-Service-Zustand auszulösen.
 
 ### 5. Euro area bank interest rate statistics: July 2026
 - source: ECB Statistical Press Releases
