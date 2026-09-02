@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-02T04:34:30+00:00",
+  "generated_at": "2026-09-02T04:47:34+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -71,7 +71,7 @@
       "p90_usd": 1104000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T03:38:48+00:00",
-      "last_seen_at": "2026-09-02T04:34:13+00:00",
+      "last_seen_at": "2026-09-02T04:47:16+00:00",
       "status": "active"
     },
     {
@@ -157,7 +157,7 @@
       "p90_usd": 11920000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-01T08:46:46+00:00",
-      "last_seen_at": "2026-09-02T04:34:13+00:00",
+      "last_seen_at": "2026-09-02T04:47:16+00:00",
       "status": "active"
     },
     {
@@ -786,7 +786,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-02T04:34:13+00:00",
+      "last_seen_at": "2026-09-02T04:47:16+00:00",
       "status": "active"
     },
     {
@@ -837,7 +837,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T04:14:04+00:00",
-      "last_seen_at": "2026-09-02T04:34:13+00:00",
+      "last_seen_at": "2026-09-02T04:47:16+00:00",
       "status": "active"
     },
     {
@@ -922,7 +922,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T03:25:43+00:00",
-      "last_seen_at": "2026-09-02T04:34:13+00:00",
+      "last_seen_at": "2026-09-02T04:47:16+00:00",
       "status": "active"
     },
     {
@@ -939,7 +939,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:33:41+00:00",
-      "last_seen_at": "2026-09-02T04:34:13+00:00",
+      "last_seen_at": "2026-09-02T04:47:16+00:00",
       "status": "active"
     },
     {
@@ -1075,7 +1075,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T03:25:43+00:00",
-      "last_seen_at": "2026-09-02T04:34:13+00:00",
+      "last_seen_at": "2026-09-02T04:47:16+00:00",
       "status": "active"
     },
     {
@@ -1194,7 +1194,7 @@
       "p90_usd": 1176000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T03:25:43+00:00",
-      "last_seen_at": "2026-09-02T04:34:13+00:00",
+      "last_seen_at": "2026-09-02T04:47:16+00:00",
       "status": "active"
     },
     {
@@ -1228,7 +1228,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-02T04:34:13+00:00",
+      "last_seen_at": "2026-09-02T04:47:16+00:00",
       "status": "active"
     },
     {
@@ -1347,7 +1347,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T02:44:52+00:00",
-      "last_seen_at": "2026-09-02T04:34:13+00:00",
+      "last_seen_at": "2026-09-02T04:47:16+00:00",
       "status": "active"
     },
     {
@@ -1368,6 +1368,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_a24921af2d237a0a5a08",
+      "title": "Late-stage deals revive in Southeast Asia, but early-stage founders remain under pressure",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 115200.0,
+      "p50_usd": 11520000.0,
+      "p90_usd": 1152000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-02T04:34:13+00:00",
+      "last_seen_at": "2026-09-02T04:47:16+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_ca30cb0d905010c65502",
       "title": "AI ポン出しスライド品評会 - Object.create(null)",
       "event_classes": [
@@ -1383,23 +1400,6 @@
       "first_seen_at": "2026-08-30T03:17:26+00:00",
       "last_seen_at": "2026-08-30T23:59:07+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_a24921af2d237a0a5a08",
-      "title": "Late-stage deals revive in Southeast Asia, but early-stage founders remain under pressure",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 115200.0,
-      "p50_usd": 11520000.0,
-      "p90_usd": 1152000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-02T04:34:13+00:00",
-      "last_seen_at": "2026-09-02T04:34:13+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_2c69a25a18b9b812a5b5",
@@ -1670,7 +1670,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T03:55:57+00:00",
-      "last_seen_at": "2026-09-02T04:34:13+00:00",
+      "last_seen_at": "2026-09-02T04:47:16+00:00",
       "status": "active"
     },
     {
@@ -1823,7 +1823,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T02:03:01+00:00",
-      "last_seen_at": "2026-09-02T04:34:13+00:00",
+      "last_seen_at": "2026-09-02T04:47:16+00:00",
       "status": "active"
     },
     {
@@ -1929,6 +1929,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_c1e510aa3c1eddc64868",
+      "title": "Can Bitcoin defend the critical US$76,500 foundation zone before the September 11 inflation data triggers another massive liquidation cascade?",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112000.0,
+      "p50_usd": 11200000.0,
+      "p90_usd": 1120000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-02T04:34:13+00:00",
+      "last_seen_at": "2026-09-02T04:47:16+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_cb96b3b8c44258846f64",
       "title": "Southeast Asia does not have one AI advantage – it has 11",
       "event_classes": [
@@ -1944,23 +1961,6 @@
       "first_seen_at": "2026-08-31T03:36:59+00:00",
       "last_seen_at": "2026-08-31T13:59:10+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_c1e510aa3c1eddc64868",
-      "title": "Can Bitcoin defend the critical US$76,500 foundation zone before the September 11 inflation data triggers another massive liquidation cascade?",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 112000.0,
-      "p50_usd": 11200000.0,
-      "p90_usd": 1120000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-02T04:34:13+00:00",
-      "last_seen_at": "2026-09-02T04:34:13+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_43856848b80264610146",
@@ -2044,7 +2044,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:10:24+00:00",
-      "last_seen_at": "2026-09-02T04:34:13+00:00",
+      "last_seen_at": "2026-09-02T04:47:16+00:00",
       "status": "active"
     },
     {
@@ -2435,7 +2435,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T04:14:04+00:00",
-      "last_seen_at": "2026-09-02T04:34:13+00:00",
+      "last_seen_at": "2026-09-02T04:47:16+00:00",
       "status": "active"
     },
     {
@@ -2503,7 +2503,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:10:24+00:00",
-      "last_seen_at": "2026-09-02T04:34:13+00:00",
+      "last_seen_at": "2026-09-02T04:47:16+00:00",
       "status": "active"
     },
     {
@@ -2588,7 +2588,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T00:32:59+00:00",
-      "last_seen_at": "2026-09-02T04:34:13+00:00",
+      "last_seen_at": "2026-09-02T04:47:16+00:00",
       "status": "active"
     },
     {
@@ -2622,7 +2622,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:10:24+00:00",
-      "last_seen_at": "2026-09-02T04:34:13+00:00",
+      "last_seen_at": "2026-09-02T04:47:16+00:00",
       "status": "active"
     },
     {
@@ -2962,7 +2962,7 @@
       "p90_usd": 1072000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T03:25:43+00:00",
-      "last_seen_at": "2026-09-02T04:34:13+00:00",
+      "last_seen_at": "2026-09-02T04:47:16+00:00",
       "status": "active"
     },
     {
