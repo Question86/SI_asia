@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-02T07:03:54+00:00",
+  "generated_at": "2026-09-02T07:27:13+00:00",
   "events": [
     {
       "event_id": "evt_04c8c9515e6d6caa68b7",
@@ -418,7 +418,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_43d91c6b0a97611c8e6c",
@@ -572,7 +572,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_58b1d9a0e9d32a8eebb3",
@@ -1026,6 +1026,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_865b5f1f43613c795151",
+      "title": "M 5.2 - 70 km NNW of Arthurs Point, New Zealand",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_86f41fe2294390412625",
       "title": "【独自】Jアラート「偽の警報可能」 専門家、発信元保証なし",
       "deduplicated_buckets": 0,
@@ -1078,7 +1089,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_8f5cca323cd7eb17cae7",
