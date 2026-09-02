@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-02T14:52:20+00:00_
+_Generiert: 2026-09-02T15:01:45+00:00_
 
 ## Kurzlage
 
@@ -29,38 +29,8 @@ _Generiert: 2026-09-02T14:52:20+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-08-27`
   - Kurz: Known exploited vulnerability. Added 2026-08-27. Due 2026-09-10. JFrog Artifactory Improper Limitation of a Pathname to a Restricted Directory Vulnerability
-- **GDACS: Green earthquake (Magnitude 5.9M, Depth:10km) in Southern East Pacific Rise 02/09/2026 12:35 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563166)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.9M, Depth:10km) in Southern East Pacific Rise 02/09/2026 12:35 UTC, [unknown].
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Mexico 02/09/2026 12:28 UTC, 550 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563163)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Mexico 02/09/2026 12:28 UTC, 550 thousand in MMI IV.
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:64.644km) in Indonesia 02/09/2026 00:04 UTC, 400 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563052)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:64.644km) in Indonesia 02/09/2026 00:04 UTC, 400 thousand in MMI IV.
-- **GDACS: Green notification for tropical cyclone MARIE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001317)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green notification for tropical cyclone MARIE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Indonesia 01/09/2026 08:22 UTC, 8 thousand in MMI VI.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1562918)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Indonesia 01/09/2026 08:22 UTC, 8 thousand in MMI VI.
-- **GDACS: Green notification for tropical cyclone KROVANH-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001318)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green notification for tropical cyclone KROVANH-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **GDACS: Green notification for tropical cyclone EDOUARD-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001316)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green notification for tropical cyclone EDOUARD-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 31/08/2026 08:03 UTC, 9 thousand in MMI VI.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1562739)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 31/08/2026 08:03 UTC, 9 thousand in MMI VI.
+
+- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7fb15d868650>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
 
 ## Wirtschaft global
 
