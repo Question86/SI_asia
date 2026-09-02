@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T18:51:39+00:00",
-  "run_id": "2026-09-02T18:51:39+00:00",
+  "generated_at": "2026-09-02T18:59:07+00:00",
+  "run_id": "2026-09-02T18:59:07+00:00",
   "date": "2026-09-02",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 86,
     "displayed_findings": 86,
     "high": 0,
@@ -4461,50 +4461,7 @@
       "id": "c369da51be1dd1c75de5"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Basel Committee publishes report on information and communication technology risk management",
-      "url": "https://www.bis.org/media-releases/20260602-basel-committee-publishes-report-information-and-communication-technology-risk-management",
-      "source": "BIS Press Releases",
-      "source_type": "rss",
-      "published_at": "2026-06-02T00:00:00+00:00",
-      "fetched_at": "2026-09-02T18:51:08+00:00",
-      "summary": "The Basel Committee has published a report describing a range of observed information and communication technology (ICT) risk management practices across jurisdictions to address non-malicious ICT incidents.",
-      "matched_keywords": [
-        "Basel",
-        "Macro/Policy"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); Basel (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2e6024c797530712fa30"
-    },
-    {
-      "title": "Basel Committee agrees to publish report on information and communication technology risk management, progresses cryptoasset targeted review, considers targeted updates on liquidity risk principles",
-      "url": "https://www.bis.org/media-releases/20260520-basel-committee-agrees-publish-report-information-and-communication-technology-risk-management",
-      "source": "BIS Press Releases",
-      "source_type": "rss",
-      "published_at": "2026-05-20T00:00:00+00:00",
-      "fetched_at": "2026-09-02T18:51:08+00:00",
-      "summary": "Agrees to publish range of practices report on information and communication technology risk management. Progresses its targeted review of the prudential standard for banks' cryptoasset exposures. Considers targeted updates of its principles on liquidity risk.",
-      "matched_keywords": [
-        "Basel",
-        "Macro/Policy"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); Basel (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e4da12c2e1e77dbc7581"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [
     {
       "source_id": "bis_statistics",
