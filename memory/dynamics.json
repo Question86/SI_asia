@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-02T07:16:41Z",
+  "generated_at": "2026-09-02T07:39:06Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "krass": 2,
-      "strong": 19,
-      "watch": 15,
-      "quiet": 4
+      "strong": 20,
+      "watch": 17,
+      "quiet": 1
     },
     "bands_after_gate_recheck": {
-      "strong": 21,
-      "watch": 15,
-      "quiet": 4
+      "strong": 22,
+      "watch": 17,
+      "quiet": 1
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdhl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-01T08:46:46+00:00",
-      "age_days": 0.94,
+      "age_days": 0.95,
       "topics": [
         "general"
       ],
@@ -47,7 +47,7 @@
       "url": "https://jvn.jp/vu/JVNVU98062224/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-02T13:00:00+09:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -71,7 +71,7 @@
       "url": "https://jvn.jp/jp/JVN91715694/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-02T12:00:00+09:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -95,7 +95,7 @@
       "url": "https://jvn.jp/vu/JVNVU97909245/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-02T10:15:00+09:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "security"
       ],
@@ -119,7 +119,7 @@
       "url": "https://e27.co/the-mmm-barrier-didnt-disappear-it-moved-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-02T03:25:43+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -143,7 +143,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0172",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-02T05:31:06+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -169,7 +169,7 @@
       "url": "https://jvn.jp/vu/JVNVU90253159/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-02T09:00:00+09:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -194,7 +194,7 @@
       "url": "https://github.com/Gitlawb/openclaude",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-02T05:39:30+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -221,7 +221,7 @@
       "url": "https://e27.co/the-mmm-barrier-didnt-disappear-it-moved-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-02T03:10:10+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "infra",
@@ -249,7 +249,7 @@
       "url": "https://e27.co/can-bitcoin-defend-the-critical-us76500-foundation-zone-before-the-september-11-inflation-data-triggers-another-massive-liquidation-cascade-20260902/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-02T04:34:13+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "macro"
       ],
@@ -274,7 +274,7 @@
       "url": "https://jvn.jp/vu/JVNVU98062224/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-02T04:14:04+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -298,7 +298,7 @@
       "url": "https://jvn.jp/jp/JVN91715694/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-02T03:25:43+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -322,7 +322,7 @@
       "url": "https://jvn.jp/vu/JVNVU97909245/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-02T01:33:41+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -346,7 +346,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0172",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 4.71,
+      "age_days": 4.73,
       "topics": [
         "security"
       ],
@@ -370,7 +370,7 @@
       "url": "https://e27.co/i-stopped-hiring-im-not-sure-its-a-strategy-yet-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-02T02:44:52+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "macro"
       ],
@@ -394,7 +394,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdhl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-02T00:30:22.495+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "disaster"
       ],
@@ -418,7 +418,7 @@
       "url": "https://e27.co/the-creator-economy-is-distribution-not-marketing-most-asian-businesses-are-still-scaling-it-like-a-campaign-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-02T03:00:03+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "macro"
@@ -444,7 +444,7 @@
       "url": "https://e27.co/nasa-linked-mit-trained-founders-nswx-raises-us2m-for-ai-chip-packaging-20260902/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-02T03:25:43+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -470,7 +470,7 @@
       "url": "https://github.com/Gitlawb/openclaude",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-02T05:40:10+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -492,11 +492,36 @@
       "summary": ""
     },
     {
+      "title": "M 5.2 - 70 km NNW of Arthurs Point, New Zealand",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdjg",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-02T07:24:38.686+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 21.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "PAGER - GREEN ShakeMap - VI DYFI? - IV Time 2026-09-02 06:57:12 UTC 2026-09-02 06:57:12 UTC at epicenter Location 44.428°S 168.250°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 5.3 - 66 km NNW of Arthurs Point, New Zealand",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdj8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-02T06:46:58.622+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -521,7 +546,7 @@
       "url": "https://togetter.com/li/2740272",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-02T03:55:57+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -541,11 +566,38 @@
       "summary": ""
     },
     {
+      "title": "Announcing 20260078 (OT,liquidity providing), for 7 days deadline 09:45",
+      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260078.en.html",
+      "source": "ECB Open Market Operations and Communication",
+      "published_at": "2026-06-18T14:33:45+00:00",
+      "age_days": 75.71,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 19.9,
+      "raw_band": "strong",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 5.8,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 5.80",
+        "aging penalty -8.0 for 75.7d old signal",
+        "stale single-source cap: max watch after 14d without fresh resonance"
+      ],
+      "summary": ""
+    },
+    {
       "title": "増田が1000万インプレッションを超える時代",
       "url": "https://anond.hatelabo.jp/20260901224029",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-02T00:32:59+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -570,7 +622,7 @@
       "url": "https://togetter.com/li/2740272",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-02T02:46:49+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -592,11 +644,59 @@
       "summary": "ところてん @tokoroten 株式会社NextInt 代表 著書「ChatGPT攻略」「仕事に役立つ新・必修科目『情報Ⅰ』」 共著「仕事ではじめる機械学習」他 データ分析、コンサル、ゲームディレクター、技術顧問、企業での研修・講演などで出稼ぎ労働中。 お仕事相談はDMからどうぞ。 nextint.co.jp docswell.com/user/tokoroten 「下..."
     },
     {
+      "title": "M 5.3 - 66 km NNW of Arthurs Point, New Zealand",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdj8",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-02T06:49:32+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 18.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "M 5.2 - 70 km NNW of Arthurs Point, New Zealand",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdjg",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-02T07:26:46+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 17.4,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月01日）",
       "url": "https://jvn.jp/vu/JVNVU90253159/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 75.22,
+      "age_days": 75.24,
       "topics": [
         "general"
       ],
@@ -621,7 +721,7 @@
       "url": "https://e27.co/the-eu-called-chatgpt-a-search-engine-seas-ai-startups-should-worry-about-what-comes-next-20260902/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-02T05:26:51+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -647,7 +747,7 @@
       "url": "https://github.com/3b1b/manim",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-02T05:40:10+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -667,35 +767,11 @@
       "summary": ""
     },
     {
-      "title": "M 5.3 - 66 km NNW of Arthurs Point, New Zealand",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdj8",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-02T06:49:32+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 15.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Late-stage deals revive in Southeast Asia, but early-stage founders remain under pressure",
       "url": "https://e27.co/late-stage-deals-revive-in-southeast-asia-but-early-stage-founders-remain-under-pressure-20260902/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-02T04:34:13+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -721,7 +797,7 @@
       "url": "https://e27.co/forward-deployed-learner-enabling-22-year-olds-to-build-domain-expertise-and-judgement-in-the-post-ai-world-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-02T03:38:48+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -748,7 +824,7 @@
       "url": "https://blog.tinect.jp/?p=91463",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-02T01:10:24+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -772,7 +848,7 @@
       "url": "https://note.com/dora_e_m/n/n2888ba7764a2",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 1.52,
+      "age_days": 1.54,
       "topics": [
         "general"
       ],
@@ -792,51 +868,27 @@
       "summary": ""
     },
     {
-      "title": "Hashed-backed ShardLab invests in StoreHub to build new merchant rewards products",
-      "url": "https://e27.co/hashed-backed-shardlab-invests-in-storehub-to-build-new-merchant-rewards-products-20260902/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-02T07:03:28+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 12.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "M 4.9 - 98 km SSW of Nikolski, Alaska",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdim",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T15:25:13+00:00",
-      "age_days": 3.66,
+      "age_days": 3.68,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 12.3,
+      "dynamics_score": 12.2,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 2.18,
+      "baseline_z_hint": 2.09,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 2.18",
+        "baseline z_hint 2.09",
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],
@@ -847,7 +899,7 @@
       "url": "https://github.com/Imbad0202/academic-research-skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-02T05:40:10+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -873,7 +925,7 @@
       "url": "https://e27.co/nasa-linked-mit-trained-founders-nswx-raises-us2m-for-ai-chip-packaging-20260902/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-02T03:16:05+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -898,7 +950,7 @@
       "url": "https://openai.com/index/gilbert-tobin",
       "source": "OpenAI News RSS",
       "published_at": "2026-09-01T01:00:00+00:00",
-      "age_days": 1.26,
+      "age_days": 1.28,
       "topics": [
         "ai"
       ],
@@ -920,11 +972,35 @@
       "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm."
     },
     {
+      "title": "Announcing 20260078 (OT,liquidity providing), for 7 days deadline 09:45",
+      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260078.en.html",
+      "source": "ECB Open Market Operations and Communication",
+      "published_at": "2026-09-02T08:15:18+00:00",
+      "age_days": 0,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "Announcing 20260078 (OT,liquidity providing), for 7 days deadline 09:45"
+    },
+    {
       "title": "Vietnam’s new growth engine is built on constraint",
       "url": "https://e27.co/vietnams-new-growth-engine-is-built-on-constraint-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-02T02:03:01+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -944,91 +1020,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
-    },
-    {
-      "title": "M 4.9 - 98 km SSW of Nikolski, Alaska",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdim",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-02T05:44:26.040+00:00",
-      "age_days": 0.06,
-      "topics": [
-        "ai",
-        "disaster"
-      ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "ShakeMap - III Time 2026-09-02 05:10:27 UTC 2026-09-02 05:10:27 UTC at epicenter Location 52.107°N 169.369°W Depth 38.52 km (23.93 mi)"
-    },
-    {
-      "title": "M 4.8 - 92 km SSW of Nikolski, Alaska",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rjbrtv",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-02T05:22:32.665+00:00",
-      "age_days": 0.08,
-      "topics": [
-        "ai",
-        "disaster"
-      ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "ShakeMap - III Time 2026-09-02 05:10:27 UTC 2026-09-02 05:10:27 UTC at epicenter Location 52.150°N 169.309°W Depth 19.00 km (11.81 mi)"
-    },
-    {
-      "title": "Imbad0202/academic-research-skills",
-      "url": "https://github.com/Imbad0202/academic-research-skills",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-09-02T05:39:30+00:00",
-      "age_days": 0.07,
-      "topics": [
-        "ai",
-        "infra",
-        "macro"
-      ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: pipeline",
-        "high terms: code",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Academic Research Skills for Claude Code: research → write → review → revise → finalize https://buymeacoffee.com/crucify020v Academic Research Skills for Claude Code 简体中文版 | 繁體中文版 | 日本語版 | 한국어 A comprehensive suite of Claude Code skills for academic research, covering the full pipeline from research to publication. In…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 5.6 - 155 km WSW of Abepura, Indonesia” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.5."
