@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-02T04:13:59+00:00_
+_Generiert: 2026-09-02T04:34:09+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging“ aus e27 Asia Startup and Tech Feed (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+20 neue relevante Treffer. Stärkstes Signal: „NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging“ aus e27 Asia Startup and Tech Feed (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -132,14 +132,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 株式会社Shizen Connectが提供するShizenBox2には、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **I stopped hiring. I’m not sure it’s a strategy yet** — Score 14, observation — [Quelle](https://e27.co/i-stopped-hiring-im-not-sure-its-a-strategy-yet-20260828/)
+- **Late-stage deals revive in Southeast Asia, but early-stage founders remain under pressure** — Score 14, observation — [Quelle](https://e27.co/late-stage-deals-revive-in-southeast-asia-but-early-stage-founders-remain-under-pressure-20260902/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-02T02:30:50+00:00`, fetched `2026-09-02T02:44:18+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Markets/Capital Structure
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); Markets/Capital Structure (+7.5); recent (+1.0)
-  - Kurz: I haven’t hired a full-time employee in two years. I still bring on freelancers now and then, but the roles I used to fill with interns, fresh grads, or junior freelancers, research, drafting, first-pass editing, basic reporting, have quietly disappeared. AI does them at a fraction of the cost and none of the coordination overhead. […] The post I stopped hiring. I’m not sure it’s a strategy yet appeared first on e27…
+  - Zeit: published `2026-09-02T04:28:15+00:00`, fetched `2026-09-02T04:33:37+00:00`
+  - Treffer: APAC Trend Radar, founder, funding, Southeast Asia, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); founder (+2.5); funding (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Southeast Asia’s venture capital market is no longer in freefall. But calling it a recovery would miss the more important story. The region’s startup funding landscape in 2025 has split into two very different markets, according to the “Southeast Asia Startup Funding Report for 2025” by DealStreetAsia and Kickstart Ventures. At the top end, mature […] The post Late-stage deals revive in Southeast Asia, but early-sta…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
@@ -152,6 +152,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: ところてん @tokoroten 株式会社NextInt 代表 著書「ChatGPT攻略」「仕事に役立つ新・必修科目『情報Ⅰ』」 共著「仕事ではじめる機械学習」他 データ分析、コンサル、ゲームディレクター、技術顧問、企業での研修・講演などで出稼ぎ労働中。 お仕事相談はDMからどうぞ。 nextint.co.jp docswell.com/user/tokoroten 「下...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Can Bitcoin defend the critical US$76,500 foundation zone before the September 11 inflation data triggers another massive liquidation cascade?** — Score 10, observation — [Quelle](https://e27.co/can-bitcoin-defend-the-critical-us76500-foundation-zone-before-the-september-11-inflation-data-triggers-another-massive-liquidation-cascade-20260902/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-02T04:24:29+00:00`, fetched `2026-09-02T04:33:37+00:00`
+  - Treffer: APAC Trend Radar, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: Bitcoin currently trades at US$77,374.70, down 1.73 per cent over the last 24 hours. Ethereum mirrors this weakness, sitting at US$2,418.53 after a 2.14 per cent decline. I view this synchronised pullback as a necessary sector correction rather than a fundamental breakdown. Institutional demand remains remarkably robust beneath the surface. Traditional financial pressures currently dictate […] The post Can Bitcoin d…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Vietnam’s new growth engine is built on constraint** — Score 10, observation — [Quelle](https://e27.co/vietnams-new-growth-engine-is-built-on-constraint-20260828/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -170,15 +179,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: There is a contradiction emerging in the way we talk about AI and the future of work. As AI gets better at execution, human judgment, critical thinking, context and domain expertise become more valuable. But where exactly is a 22-year-old supposed to get domain expertise and judgment? Historically, the answer was work. You joined a […] The post Forward Deployed Learner: Enabling 22-year-olds to build domain expertis…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Why most AI driven reorgs are solving the wrong problem** — Score 8, observation — [Quelle](https://e27.co/why-most-ai-driven-reorgs-are-solving-the-wrong-problem-20260831/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-02T01:00:52+00:00`, fetched `2026-09-02T01:09:46+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: In February 2024, Klarna’s CEO Sebastian Siemiatkowski told the world that the company’s AI assistant had taken on the work of 700 customer service agents. Headcount fell from 5,500 to 3,800. The story became the most cited example of AI replacing humans at scale. Boards across Asia, Europe, and the US used it to justify […] The post Why most AI driven reorgs are solving the wrong problem appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **なぜ自殺してはいけないのか？ 殺してはいけないのか？ おれのラーメン理論** — Score 5, observation — [Quelle](https://blog.tinect.jp/?p=91463)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

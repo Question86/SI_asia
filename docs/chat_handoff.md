@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-02T04:13:59+00:00_
+_Generated: 2026-09-02T04:34:09+00:00_
 
 ## Status
 - status: `warning`
-- findings: `18`
+- findings: `20`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-09-02T04:13:59+00:00_
 - url: https://togetter.com/li/2740272
 - summary: ところてん @tokoroten 株式会社NextInt 代表 著書「ChatGPT攻略」「仕事に役立つ新・必修科目『情報Ⅰ』」 共著「仕事ではじめる機械学習」他 データ分析、コンサル、ゲームディレクター、技術顧問、企業での研修・講演などで出稼ぎ労働中。 お仕事相談はDMからどうぞ。 nextint.co.jp docswell.com/user/tokoroten 「下...
 
-### 6. Vietnam’s new growth engine is built on constraint
+### 6. Can Bitcoin defend the critical US$76,500 foundation zone before the September 11 inflation data triggers another massive liquidation cascade?
+- source: e27 Asia Startup and Tech Feed
+- score: `10`
+- published: `2026-09-02T04:24:29+00:00`
+- url: https://e27.co/can-bitcoin-defend-the-critical-us76500-foundation-zone-before-the-september-11-inflation-data-triggers-another-massive-liquidation-cascade-20260902/
+- summary: Bitcoin currently trades at US$77,374.70, down 1.73 per cent over the last 24 hours. Ethereum mirrors this weakness, sitting at US$2,418.53 after a 2.14 per cent decline. I view this synchronised pullback as a necessary sector correction rather than a fundame…
+
+### 7. Vietnam’s new growth engine is built on constraint
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-09-02T02:00:20+00:00`
 - url: https://e27.co/vietnams-new-growth-engine-is-built-on-constraint-20260828/
 - summary: Vietnam is entering a new phase of growth that is harder, more selective, and more interesting than the one that came before. The country is still drawing manufacturing, foreign direct investment, and high-tech supply-chain activity at scale, but the real sto…
 
-### 7. Forward Deployed Learner: Enabling 22-year-olds to build domain expertise and judgement in the post AI world
+### 8. Forward Deployed Learner: Enabling 22-year-olds to build domain expertise and judgement in the post AI world
 - source: e27 Asia Startup and Tech Feed
 - score: `8`
 - published: `2026-09-02T03:30:54+00:00`
 - url: https://e27.co/forward-deployed-learner-enabling-22-year-olds-to-build-domain-expertise-and-judgement-in-the-post-ai-world-20260828/
 - summary: There is a contradiction emerging in the way we talk about AI and the future of work. As AI gets better at execution, human judgment, critical thinking, context and domain expertise become more valuable. But where exactly is a 22-year-old supposed to get doma…
-
-### 8. Why most AI driven reorgs are solving the wrong problem
-- source: e27 Asia Startup and Tech Feed
-- score: `8`
-- published: `2026-09-02T01:00:52+00:00`
-- url: https://e27.co/why-most-ai-driven-reorgs-are-solving-the-wrong-problem-20260831/
-- summary: In February 2024, Klarna’s CEO Sebastian Siemiatkowski told the world that the company’s AI assistant had taken on the work of 700 customer service agents. Headcount fell from 5,500 to 3,800. The story became the most cited example of AI replacing humans at s…
 
 END OF DOCUMENT
