@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T14:22:16+00:00",
+  "generated_at": "2026-09-02T14:33:21+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 75,
@@ -52,47 +52,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-08-28T14:08:37+00:00"
-    },
-    {
-      "key": "domain:www.ecb.europa.eu",
-      "title": "Euro area bank interest rate statistics: July 2026",
-      "sources": [
-        "ECB Open Market Operations and Communication",
-        "ECB Statistical Press Releases"
-      ],
-      "source_classes": [
-        "central_bank",
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir260902~d54675e442.en.html",
-        "http://www.ecb.europa.eu/mopo/implement/omo/html/20260078.en.html"
-      ],
-      "finding_count": 2,
-      "max_score": 13,
-      "credibility_total": 2.1,
-      "cross_source_confirmed": true,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 21.58,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 23.2,
-      "ranking_score": 21.58,
-      "initial_reach_tier": "institutional",
-      "source_reach_score": 5.0,
-      "authority_bonus_capped": 3.0,
-      "breadth_bonus": 5.5,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.08,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
       "key": "title:nasa-linked-mit-trained-founders-nswx-raises-chip",
@@ -213,6 +172,47 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-02T05:40:10+00:00"
+    },
+    {
+      "key": "domain:www.ecb.europa.eu",
+      "title": "Euro area bank interest rate statistics: July 2026",
+      "sources": [
+        "ECB Open Market Operations and Communication",
+        "ECB Statistical Press Releases"
+      ],
+      "source_classes": [
+        "central_bank",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir260902~d54675e442.en.html",
+        "http://www.ecb.europa.eu/mopo/implement/omo/html/20260078.en.html"
+      ],
+      "finding_count": 2,
+      "max_score": 13,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": true,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 21.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 23.2,
+      "ranking_score": 21.5,
+      "initial_reach_tier": "institutional",
+      "source_reach_score": 5.0,
+      "authority_bonus_capped": 3.0,
+      "breadth_bonus": 5.5,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
       "key": "title:mmm-barrier-didn-disappear-moved",
@@ -351,18 +351,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 17.96,
+      "network_score": 17.85,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 20.3,
-      "ranking_score": 17.96,
+      "ranking_score": 17.85,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 2.46,
+      "baseline_bonus": 2.35,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1128,20 +1128,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 11.15,
+      "network_score": 11.12,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "raw_network_score": 16.4,
-      "ranking_score": 11.15,
+      "ranking_score": 11.12,
       "initial_reach_tier": "official",
       "source_reach_score": 4.0,
       "authority_bonus_capped": 2.4,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.75,
+      "baseline_bonus": 0.72,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -2081,7 +2081,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-02T14:22:16Z",
+    "generated_at": "2026-09-02T14:33:21Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
