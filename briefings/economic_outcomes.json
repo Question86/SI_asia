@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-02T10:59:44+00:00",
+  "generated_at": "2026-09-02T11:20:14+00:00",
   "events": [
     {
       "event_id": "evt_04c8c9515e6d6caa68b7",
@@ -704,7 +704,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_66c9e4ae3d63f4b30383",
@@ -1772,6 +1772,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_d76109abb491ed3c1db4",
+      "title": "M 5.2 - South Sandwich Islands region",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_d9899e8430d40a11eb85",
