@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T07:48:23+00:00",
-  "run_id": "2026-09-02T07:48:23+00:00",
+  "generated_at": "2026-09-02T07:55:36+00:00",
+  "run_id": "2026-09-02T07:55:36+00:00",
   "date": "2026-09-02",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 36,
     "displayed_findings": 36,
     "high": 0,
@@ -2079,29 +2079,7 @@
       "id": "c369da51be1dd1c75de5"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Jetzt patchen! Angreifer attackieren Langflow-Instanzen mit Schadcode",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-Langflow-Instanzen-mit-Schadcode-11437701.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-09-02T07:21:00.000+00:00",
-      "fetched_at": "2026-09-02T07:47:50+00:00",
-      "summary": "Angreifer nutzen derzeit eine kritische Sicherheitslücke im KI-Tool Langflow aus. Ein Sicherheitspatch ist schon länger verfügbar.",
-      "matched_keywords": [
-        "AI/KI",
-        "Security"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.0); Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "522910e82374c5b87cdd"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [
     {
       "source_id": "bis_statistics",

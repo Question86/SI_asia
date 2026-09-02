@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T07:48:28+00:00",
+  "generated_at": "2026-09-02T07:55:39+00:00",
   "today_file_total": 36,
   "current_clusters": [
     {
@@ -388,29 +388,6 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "domain:www.heise.de",
-      "title": "Jetzt patchen! Angreifer attackieren Langflow-Instanzen mit Schadcode",
-      "sources": [
-        "heise Security Alerts"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-Langflow-Instanzen-mit-Schadcode-11437701.html"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 15.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
       "key": "domain:www.ecb.europa.eu",
       "title": "Announcing 20260078 (OT,liquidity providing), for 7 days deadline 09:45",
       "sources": [
@@ -469,6 +446,31 @@
       ],
       "urls": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rjbuwk"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 13.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "earthquake:alaska:4.8",
+      "title": "M 4.8 - 92 km SSW of Nikolski, Alaska",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rjbrtv"
       ],
       "finding_count": 1,
       "max_score": 11,
