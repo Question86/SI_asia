@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-02T00:32:59+00:00",
+  "generated_at": "2026-09-02T01:10:24+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 3,
-    "clusters": 3,
+    "findings": 7,
+    "clusters": 7,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 0,
@@ -11,42 +11,44 @@
   },
   "clusters": [
     {
-      "key": "title:cisa-ics-advisory-ics-medical-advisory-2026",
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月01日）",
+      "key": "domain:openai.com",
+      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
       "sources": [
-        "JVN Japan Vulnerability Notes"
+        "OpenAI News RSS"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://jvn.jp/vu/JVNVU90253159/"
+        "https://openai.com/index/gilbert-tobin"
       ],
       "finding_count": 1,
-      "max_score": 16,
+      "max_score": 15,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 21.04,
+      "network_score": 19.0,
       "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 21.1,
-      "ranking_score": 21.04,
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 20.1,
+      "ranking_score": 19.0,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 2.5,
-      "baseline_bonus": 1.04,
+      "baseline_bonus": 0.0,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-06-19T01:58:32+00:00"
+      "first_seen_at": "2026-06-17T20:44:40+00:00"
     },
     {
       "key": "earthquake:indonesia:5.6",
@@ -90,8 +92,84 @@
       "first_seen_at": "2026-09-01T08:46:46+00:00"
     },
     {
-      "key": "title:1000",
-      "title": "増田が1000万インプレッションを超える時代",
+      "key": "title:cisa-ics-advisory-ics-medical-advisory-2026",
+      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月01日）",
+      "sources": [
+        "JVN Japan Vulnerability Notes"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://jvn.jp/vu/JVNVU90253159/"
+      ],
+      "finding_count": 1,
+      "max_score": 16,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 17.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 18.1,
+      "ranking_score": 17.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T01:58:32+00:00"
+    },
+    {
+      "key": "title:why-most-driven-reorgs-are-solving-wrong-problem",
+      "title": "Why most AI driven reorgs are solving the wrong problem",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/why-most-ai-driven-reorgs-are-solving-the-wrong-problem-20260831/"
+      ],
+      "finding_count": 1,
+      "max_score": 8,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 12.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 13.1,
+      "ranking_score": 12.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-02T01:10:24+00:00"
+    },
+    {
+      "key": "domain:note.com",
+      "title": "読まれる職務経歴書のつくり方｜dora_e_m",
       "sources": [
         "Hatena Bookmark Hotentry IT"
       ],
@@ -99,7 +177,45 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://anond.hatelabo.jp/20260901224029"
+        "https://note.com/dora_e_m/n/n2888ba7764a2"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.12,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 10.1,
+      "ranking_score": 10.12,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 1.12,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-31T18:43:10+00:00"
+    },
+    {
+      "key": "url:https://blog.tinect.jp/?p=91463",
+      "title": "なぜ自殺してはいけないのか？ 殺してはいけないのか？ おれのラーメン理論",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://blog.tinect.jp/?p=91463"
       ],
       "finding_count": 1,
       "max_score": 5,
@@ -125,12 +241,50 @@
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
+      "first_seen_at": "2026-09-02T01:10:24+00:00"
+    },
+    {
+      "key": "title:1000",
+      "title": "増田が1000万インプレッションを超える時代",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://anond.hatelabo.jp/20260901224029"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 6.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 7.1,
+      "ranking_score": 6.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
       "first_seen_at": "2026-09-02T00:32:59+00:00"
     }
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-02T00:32:59Z",
+    "generated_at": "2026-09-02T01:10:24Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

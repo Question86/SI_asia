@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-02T00:32:55+00:00",
+  "generated_at": "2026-09-02T01:10:19+00:00",
   "status": "warning",
   "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 3,
-    "displayed_findings": 3,
+    "new_relevant_findings": 4,
+    "today_file_total": 7,
+    "displayed_findings": 7,
     "high": 0,
-    "medium": 2,
-    "observe": 1
+    "medium": 3,
+    "observe": 4
   },
   "source_errors_count": 1,
   "top_signals": [
@@ -35,6 +35,46 @@
       "section": "medium"
     },
     {
+      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-01T01:00:00+00:00",
+      "relevance_score": 15,
+      "url": "https://openai.com/index/gilbert-tobin",
+      "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.",
+      "section": "medium"
+    },
+    {
+      "title": "Why most AI driven reorgs are solving the wrong problem",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-02T01:00:52+00:00",
+      "relevance_score": 8,
+      "url": "https://e27.co/why-most-ai-driven-reorgs-are-solving-the-wrong-problem-20260831/",
+      "summary": "In February 2024, Klarna’s CEO Sebastian Siemiatkowski told the world that the company’s AI assistant had taken on the work of 700 customer service agents. Headcount fell from 5,500 to 3,800. The story became the most cited example of AI replacing humans at s…",
+      "section": "observe"
+    },
+    {
+      "title": "なぜ自殺してはいけないのか？ 殺してはいけないのか？ おれのラーメン理論",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-01T23:32:59+00:00",
+      "relevance_score": 5,
+      "url": "https://blog.tinect.jp/?p=91463",
+      "summary": "おれのブログが引用されました 上田信治さんという方からメールが届いた。著書におれのブログからの引用をしたので、ご恵贈いただけるという話だった。 引用に許可もなにもいらないのでありがたい話だと思った。そしておれの手元に『成分表: 偽マキロン・悲しみについて』が届いた。 申し訳ないが、おれは上田信治さんの...",
+      "section": "observe"
+    },
+    {
+      "title": "読まれる職務経歴書のつくり方｜dora_e_m",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-01T16:36:40+00:00",
+      "relevance_score": 5,
+      "url": "https://note.com/dora_e_m/n/n2888ba7764a2",
+      "summary": "はじめにみなさん、職務経歴書、どうやって書いてますか？ 転職というイベントには必要不可欠な書類、職務経歴書。履歴書と異なりフォーマットが定まっていないため、どのように書けばよいか迷ってしまうことがあります。 いざ職務経歴書を書き始めると、これまで関わってきたプロジェクトを「あれもこれも」と盛り込み...",
+      "section": "observe"
+    },
+    {
       "title": "増田が1000万インプレッションを超える時代",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
@@ -50,138 +90,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “CISA ICS Advisory / ICS Medical Advisory（2026年09月01日）” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=28.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月01日）",
-        "url": "https://jvn.jp/vu/JVNVU90253159/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-02T09:00:00+09:00",
-        "age_days": 0.03,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: cisa, jvn, security, advisory"
-        ],
-        "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-      },
-      {
-        "title": "M 5.6 - 155 km WSW of Abepura, Indonesia",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdhl",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-01T08:46:46+00:00",
-        "age_days": 0.66,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 26.5,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "M 5.6 - 155 km WSW of Abepura, Indonesia",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdhl",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-02T00:30:22.495+00:00",
-        "age_days": 0.0,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 22.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake"
-        ],
-        "summary": "PAGER - GREEN ShakeMap - IV Time 2026-09-02 00:04:54 UTC 2026-09-02 00:04:54 UTC at epicenter Location 3.213°S 139.373°E Depth 64.64 km (40.17 mi)"
-      },
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月01日）",
-        "url": "https://jvn.jp/vu/JVNVU90253159/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-06-19T01:58:32+00:00",
-        "age_days": 74.94,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 19.9,
-        "raw_band": "strong",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 2.61,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "baseline z_hint 2.61",
-          "aging penalty -8.0 for 74.9d old signal",
-          "stale single-source cap: max watch after 14d without fresh resonance"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "増田が1000万インプレッションを超える時代",
-        "url": "https://anond.hatelabo.jp/20260901224029",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-02T00:32:59+00:00",
-        "age_days": 0.0,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 16.5,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +1",
-          "high terms: 10"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }
