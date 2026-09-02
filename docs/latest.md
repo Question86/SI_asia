@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-02T05:26:48+00:00_
+_Generiert: 2026-09-02T05:40:05+00:00_
 
 ## Kurzlage
 
-24 neue relevante Treffer. Stärkstes Signal: „NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging“ aus e27 Asia Startup and Tech Feed (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+29 neue relevante Treffer. Stärkstes Signal: „NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging“ aus e27 Asia Startup and Tech Feed (Score 20, observation). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -20,6 +20,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, XOM, CVX, SHEL
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Content-Chance (+5.0); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0); watchgraph modules chips_compute_datacenters (+3.0)
   - Kurz: The race to build larger AI models has created a less glamorous but increasingly urgent problem: how to move heat and power through ever-denser chip packages without driving up cost, energy use and complexity. A Malaysian startup now wants to solve part of that problem at the material boundary level. Kuala Lumpur-based nanoSkunkWorkX (nSWX) has […] The post NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Gitlawb/openclaude** — Score 20, observation — [Quelle](https://github.com/Gitlawb/openclaude)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-09-02T05:39:30+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, GitHub Trending, OpenAI, Watchgraph:ai_agents_workflow, Webentwicklung
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: runs anywhere. uses anything https://openclaude.gitlawb.com OpenClaude is an open-source coding-agent CLI for cloud and local model providers. Use OpenAI-compatible APIs, Gemini, GitHub Models, Codex OAuth, Codex, Ollama, Atomic Chat, and other supported backends while keeping one terminal-first workflow: prompts, tools, agents, MCP, slash commands, and streaming output. OpenClaude is also mirrored to GitLawb: gitla…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.6 - 155 km WSW of Abepura, Indonesia** — Score 19, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdhl)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
@@ -84,9 +93,27 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 株式会社Shizen Connectが提供するShizenBox2には、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [hoch] Oracle Virtualization: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0172)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-09-02T05:31:06+00:00`, fetched `2026-09-02T05:39:30+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Virtualization ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
+- **M 5.2 - 95 km SSW of Nikolski, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdin)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-02T05:37:24.243+00:00`, fetched `2026-09-02T05:39:30+00:00`
+  - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: ShakeMap - III Time 2026-09-02 05:14:00 UTC 2026-09-02 05:14:00 UTC at epicenter Location 52.119°N 169.295°W Depth 35.00 km (21.75 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.1 - 91 km SSW of Nikolski, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rjbuwk)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-02T05:26:20.612+00:00`, fetched `2026-09-02T05:26:16+00:00`
@@ -114,6 +141,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: ところてん @tokoroten 株式会社NextInt 代表 著書「ChatGPT攻略」「仕事に役立つ新・必修科目『情報Ⅰ』」 共著「仕事ではじめる機械学習」他 データ分析、コンサル、ゲームディレクター、技術顧問、企業での研修・講演などで出稼ぎ労働中。 お仕事相談はDMからどうぞ。 nextint.co.jp docswell.com/user/tokoroten 「下...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Imbad0202/academic-research-skills** — Score 11, observation — [Quelle](https://github.com/Imbad0202/academic-research-skills)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-09-02T05:39:30+00:00`
+  - Treffer: AI Agents, APAC Trend Radar, GitHub Trending
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+6.2); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
+  - Kurz: Academic Research Skills for Claude Code: research → write → review → revise → finalize https://buymeacoffee.com/crucify020v Academic Research Skills for Claude Code 简体中文版 | 繁體中文版 | 日本語版 | 한국어 A comprehensive suite of Claude Code skills for academic research, covering the full pipeline from research to publication. Install in 30 seconds (Claude Code CLI / VS Code / JetBrains, v3.7.0+): /plugin marketplace add Imbad0…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Can Bitcoin defend the critical US$76,500 foundation zone before the September 11 inflation data triggers another massive liquidation cascade?** — Score 10, observation — [Quelle](https://e27.co/can-bitcoin-defend-the-critical-us76500-foundation-zone-before-the-september-11-inflation-data-triggers-another-massive-liquidation-cascade-20260902/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-02T04:24:29+00:00`, fetched `2026-09-02T04:33:37+00:00`
@@ -132,15 +168,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Vietnam is entering a new phase of growth that is harder, more selective, and more interesting than the one that came before. The country is still drawing manufacturing, foreign direct investment, and high-tech supply-chain activity at scale, but the real story is not the volume of capital. It is the discipline now required to convert […] The post Vietnam’s new growth engine is built on constraint appeared first on…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.9 - 85 km SSW of Nikolski, Alaska** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rjbwrf)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-02T05:24:47.586+00:00`, fetched `2026-09-02T05:26:16+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-02 05:16:05 UTC 2026-09-02 05:16:05 UTC at epicenter Location 52.218°N 169.316°W Depth 18.80 km (11.68 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Forward Deployed Learner: Enabling 22-year-olds to build domain expertise and judgement in the post AI world** — Score 8, observation — [Quelle](https://e27.co/forward-deployed-learner-enabling-22-year-olds-to-build-domain-expertise-and-judgement-in-the-post-ai-world-20260828/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-02T03:30:54+00:00`, fetched `2026-09-02T03:38:16+00:00`
@@ -149,6 +176,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: There is a contradiction emerging in the way we talk about AI and the future of work. As AI gets better at execution, human judgment, critical thinking, context and domain expertise become more valuable. But where exactly is a 22-year-old supposed to get domain expertise and judgment? Historically, the answer was work. You joined a […] The post Forward Deployed Learner: Enabling 22-year-olds to build domain expertis…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **3b1b/manim** — Score 7, observation — [Quelle](https://github.com/3b1b/manim)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-09-02T05:39:30+00:00`
+  - Treffer: APAC Trend Radar, GitHub Trending
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph region europe: NATO (+2.0)
+  - Kurz: Animation engine for explanatory math videos Manim is an engine for precise programmatic animations, designed for creating explanatory math videos. Note, there are two versions of manim. This repository began as a personal project by the author of 3Blue1Brown for the purpose of animating those videos, with video-specific code available here . In 2020 a group of developers forked it into what is now the community edi…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **なぜ自殺してはいけないのか？ 殺してはいけないのか？ おれのラーメン理論** — Score 5, observation — [Quelle](https://blog.tinect.jp/?p=91463)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -180,4 +216,5 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Quellenfehler
 
+- `japan_digital_agency_news` (rss): 404 Client Error: Not Found for url: https://www.digital.go.jp/rss/news.xml
 - `bis_statistics` (rss): 404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss
