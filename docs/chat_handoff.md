@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-02T10:43:32+00:00_
+_Generated: 2026-09-02T10:51:32+00:00_
 
 ## Status
 - status: `warning`
-- findings: `48`
+- findings: `54`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-09-02T10:43:32+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdhl
 - summary: PAGER - GREEN ShakeMap - IV Time 2026-09-02 00:04:54 UTC 2026-09-02 00:04:54 UTC at epicenter Location 3.213°S 139.373°E Depth 64.64 km (40.17 mi)
 
-### 4. The MMM barrier didn’t disappear. It moved
-- source: e27 Asia Startup and Tech Feed
-- score: `17`
-- published: `2026-09-02T03:10:10+00:00`
-- url: https://e27.co/the-mmm-barrier-didnt-disappear-it-moved-20260831/
-- summary: AdExchanger ran a piece recently on open-source marketing mix modelling having its moment, and apologised on the way in for the new acronym. OS-MMM. Nobody asked for it, but here we are. The underlying claim is not hype. Julian Runge at Northwestern’s Medill…
+### 4. [NEU] [hoch] Rockwell Automation FactoryTalk Activation Manager und Historian Machine Edition: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `18`
+- published: `2026-09-02T10:46:09+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3143
+- summary: Ein Angreifer aus einem angrenzenden Netzwerk kann mehrere Schwachstellen in Rockwell Automation FactoryTalk ausnutzen, um beliebigen Programmcode auszuführen, Administratorrechte zu erlangen oder einen Denial-of-Service-Zustand auszulösen.
 
 ### 5. Euro area bank interest rate statistics: July 2026
 - source: ECB Statistical Press Releases
