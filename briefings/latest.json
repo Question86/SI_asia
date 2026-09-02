@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T20:41:39+00:00",
-  "run_id": "2026-09-02T20:41:39+00:00",
+  "generated_at": "2026-09-02T20:57:24+00:00",
+  "run_id": "2026-09-02T20:57:24+00:00",
   "date": "2026-09-02",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 90
+      "configured_public_sources_only": 91
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 90,
-    "displayed_findings": 90,
+    "new_relevant_findings": 1,
+    "today_file_total": 91,
+    "displayed_findings": 91,
     "high": 0,
     "medium": 35,
-    "observe": 55,
+    "observe": 56,
     "source_errors": 1
   },
   "sections": {
@@ -2071,6 +2071,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "89410ab4dc0134ad15ad"
+      },
+      {
+        "title": "Aurora DSQL の現状 2026 (Rails の場合)",
+        "url": "https://diary.sorah.jp/2026/09/03/dsql-in-action",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-02T16:00:07+00:00",
+        "fetched_at": "2026-09-02T20:56:49+00:00",
+        "summary": "Also available in: English Aurora DSQL が re:Invent 2024 で披露されてから 1.5 年程度たちました。DynamoDB 程度の手軽さで SQL を喋る RDBMS が利用できる上に、DynamoDB を含む purpose-built databases にありがちな設計の難しさがない、という点でかなり便利なデータベースサービスになっています。ただ、それだ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b1f96faa9dc28bc967dc"
       },
       {
         "title": "FREE-Wi.Fi: 無料Wi-Fiの登録に使える捨てメアド",
@@ -4389,6 +4410,27 @@
       "id": "89410ab4dc0134ad15ad"
     },
     {
+      "title": "Aurora DSQL の現状 2026 (Rails の場合)",
+      "url": "https://diary.sorah.jp/2026/09/03/dsql-in-action",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-02T16:00:07+00:00",
+      "fetched_at": "2026-09-02T20:56:49+00:00",
+      "summary": "Also available in: English Aurora DSQL が re:Invent 2024 で披露されてから 1.5 年程度たちました。DynamoDB 程度の手軽さで SQL を喋る RDBMS が利用できる上に、DynamoDB を含む purpose-built databases にありがちな設計の難しさがない、という点でかなり便利なデータベースサービスになっています。ただ、それだ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b1f96faa9dc28bc967dc"
+    },
+    {
       "title": "FREE-Wi.Fi: 無料Wi-Fiの登録に使える捨てメアド",
       "url": "https://free-wi.fi/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4661,7 +4703,29 @@
       "id": "c369da51be1dd1c75de5"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Aurora DSQL の現状 2026 (Rails の場合)",
+      "url": "https://diary.sorah.jp/2026/09/03/dsql-in-action",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-02T16:00:07+00:00",
+      "fetched_at": "2026-09-02T20:56:49+00:00",
+      "summary": "Also available in: English Aurora DSQL が re:Invent 2024 で披露されてから 1.5 年程度たちました。DynamoDB 程度の手軽さで SQL を喋る RDBMS が利用できる上に、DynamoDB を含む purpose-built databases にありがちな設計の難しさがない、という点でかなり便利なデータベースサービスになっています。ただ、それだ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b1f96faa9dc28bc967dc"
+    }
+  ],
   "source_errors": [
     {
       "source_id": "bis_statistics",
