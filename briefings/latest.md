@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-02T12:41:33+00:00_
+_Generiert: 2026-09-02T12:55:40+00:00_
 
 ## Kurzlage
 
-69 neue relevante Treffer. Stärkstes Signal: „NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging“ aus e27 Asia Startup and Tech Feed (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+71 neue relevante Treffer. Stärkstes Signal: „NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging“ aus e27 Asia Startup and Tech Feed (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -53,6 +53,14 @@ _Generiert: 2026-09-02T12:41:33+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 31/08/2026 08:03 UTC, 9 thousand in MMI VI.
+- **USGS earthquake M5.9 - southern East Pacific Rise** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdms)
+  - Quelle: USGS
+  - Zeit: `2026-09-02T12:35:56+00:00`
+  - Kurz: M5.9 - southern East Pacific Rise. PAGER alert: none. Tsunami flag: 0.
+- **USGS earthquake M5.6 - 71 km WSW of Puerto Madero, Mexico** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdmp)
+  - Quelle: USGS
+  - Zeit: `2026-09-02T12:28:31+00:00`
+  - Kurz: M5.6 - 71 km WSW of Puerto Madero, Mexico. PAGER alert: none. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -243,14 +251,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)
   - Kurz: Announcing 20260078 (OT,liquidity providing), for 7 days deadline 09:45
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.9 - 98 km SSW of Nikolski, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdim)
+- **M 5.2 - 78 km SSW of Nikolski, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdmm)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-02T05:44:26.040+00:00`, fetched `2026-09-02T05:47:34+00:00`
+  - Zeit: published `2026-09-02T12:54:40.637+00:00`, fetched `2026-09-02T12:55:04+00:00`
   - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: ShakeMap - III Time 2026-09-02 05:10:27 UTC 2026-09-02 05:10:27 UTC at epicenter Location 52.107°N 169.369°W Depth 38.52 km (23.93 mi)
+  - Kurz: ShakeMap - III Time 2026-09-02 12:32:01 UTC 2026-09-02 12:32:01 UTC at epicenter Location 52.354°N 169.499°W Depth 35.00 km (21.75 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **「面白い着眼点」上達したいプレイヤーと、楽しみたいプレイヤーがなぜぶつかってしまうのかを指摘した投稿が注目を集める、「楽しんでいる時間軸が異なる」** — Score 11, observation — [Quelle](https://togetter.com/li/2740272)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
