@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-02T03:49:13Z",
+  "generated_at": "2026-09-02T04:18:01Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 30,
+    "dynamics": 36,
     "bands": {
       "krass": 1,
-      "strong": 11,
-      "watch": 6,
-      "quiet": 12
+      "strong": 13,
+      "watch": 9,
+      "quiet": 13
     },
     "bands_after_gate_recheck": {
-      "strong": 12,
-      "watch": 6,
-      "quiet": 12
+      "strong": 14,
+      "watch": 9,
+      "quiet": 13
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdhl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-01T08:46:46+00:00",
-      "age_days": 0.79,
+      "age_days": 0.81,
       "topics": [
         "general"
       ],
@@ -43,11 +43,35 @@
       "summary": ""
     },
     {
+      "title": "キーエンス製XG VisionTerminalおよびXG-X VisionTerminalにおけるにおけるXML外部エンティティ参照（XXE）の不適切な制限の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU98062224/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-09-02T13:00:00+09:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security"
+      ],
+      "summary": "株式会社キーエンスが提供するXG VisionTerminalおよびXG-X VisionTerminalには、におけるXML外部エンティティ参照（XXE）の不適切な制限の脆弱性が存在します。"
+    },
+    {
       "title": "ShizenBox2における複数の脆弱性",
       "url": "https://jvn.jp/jp/JVN91715694/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-02T12:00:00+09:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -71,7 +95,7 @@
       "url": "https://jvn.jp/vu/JVNVU97909245/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-02T10:15:00+09:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -91,11 +115,11 @@
       "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
     },
     {
-      "title": "ShizenBox2における複数の脆弱性",
-      "url": "https://jvn.jp/jp/JVN91715694/",
+      "title": "キーエンス製XG VisionTerminalおよびXG-X VisionTerminalにおけるにおけるXML外部エンティティ参照（XXE）の不適切な制限の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU98062224/",
       "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-09-02T03:25:43+00:00",
-      "age_days": 0.02,
+      "published_at": "2026-09-02T04:14:04+00:00",
+      "age_days": 0.0,
       "topics": [
         "general"
       ],
@@ -105,12 +129,36 @@
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +2"
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "The MMM barrier didn’t disappear. It moved",
+      "url": "https://e27.co/the-mmm-barrier-didnt-disappear-it-moved-20260831/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-02T03:25:43+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
       ],
       "summary": ""
     },
@@ -119,7 +167,7 @@
       "url": "https://jvn.jp/vu/JVNVU90253159/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-02T09:00:00+09:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -144,7 +192,7 @@
       "url": "https://e27.co/the-mmm-barrier-didnt-disappear-it-moved-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-02T03:10:10+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "infra",
@@ -168,53 +216,26 @@
       "summary": "AdExchanger ran a piece recently on open-source marketing mix modelling having its moment, and apologised on the way in for the new acronym. OS-MMM. Nobody asked for it, but here we are. The underlying claim is not hype. Julian Runge at Northwestern’s Medill School makes the point that you can now prompt an AI agent […"
     },
     {
-      "title": "The MMM barrier didn’t disappear. It moved",
-      "url": "https://e27.co/the-mmm-barrier-didnt-disappear-it-moved-20260831/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "ShizenBox2における複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN91715694/",
+      "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-02T03:25:43+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "momentum delta +2",
-        "krass gate: single-source non-official/non-identity signal capped"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging",
-      "url": "https://e27.co/nasa-linked-mit-trained-founders-nswx-raises-us2m-for-ai-chip-packaging-20260902/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-02T03:25:43+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 24.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +2",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
+        "momentum delta +3"
       ],
       "summary": ""
     },
@@ -223,7 +244,7 @@
       "url": "https://jvn.jp/vu/JVNVU97909245/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-02T01:33:41+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -247,7 +268,7 @@
       "url": "https://e27.co/i-stopped-hiring-im-not-sure-its-a-strategy-yet-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-02T02:44:52+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "macro"
       ],
@@ -271,7 +292,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdhl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-02T00:30:22.495+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -295,7 +316,7 @@
       "url": "https://e27.co/the-creator-economy-is-distribution-not-marketing-most-asian-businesses-are-still-scaling-it-like-a-campaign-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-02T03:00:03+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "macro"
@@ -317,11 +338,37 @@
       "summary": "Last quarter I sat in a review with a consumer brand team going through their best month on record. Live commerce had carried it. The gross merchandise value chart, the total value of everything sold, was close to vertical, and the room could feel it. Then the operations lead opened the second file. Delivery outcomes.…"
     },
     {
+      "title": "NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging",
+      "url": "https://e27.co/nasa-linked-mit-trained-founders-nswx-raises-us2m-for-ai-chip-packaging-20260902/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-02T03:25:43+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 21.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "増田が1000万インプレッションを超える時代",
       "url": "https://anond.hatelabo.jp/20260901224029",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-02T00:32:59+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -342,11 +389,37 @@
       "summary": ""
     },
     {
+      "title": "「面白い着眼点」上達したいプレイヤーと、楽しみたいプレイヤーがなぜぶつかってしまうのかを指摘した投稿が注目を集める、「楽しんでいる時間軸が異なる」",
+      "url": "https://togetter.com/li/2740272",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-02T02:46:49+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "ところてん @tokoroten 株式会社NextInt 代表 著書「ChatGPT攻略」「仕事に役立つ新・必修科目『情報Ⅰ』」 共著「仕事ではじめる機械学習」他 データ分析、コンサル、ゲームディレクター、技術顧問、企業での研修・講演などで出稼ぎ労働中。 お仕事相談はDMからどうぞ。 nextint.co.jp docswell.com/user/tokoroten 「下..."
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月01日）",
       "url": "https://jvn.jp/vu/JVNVU90253159/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 75.08,
+      "age_days": 75.1,
       "topics": [
         "general"
       ],
@@ -367,11 +440,62 @@
       "summary": ""
     },
     {
+      "title": "「面白い着眼点」上達したいプレイヤーと、楽しみたいプレイヤーがなぜぶつかってしまうのかを指摘した投稿が注目を集める、「楽しんでいる時間軸が異なる」",
+      "url": "https://togetter.com/li/2740272",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-02T03:55:57+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 15.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Forward Deployed Learner: Enabling 22-year-olds to build domain expertise and judgement in the post AI world",
+      "url": "https://e27.co/forward-deployed-learner-enabling-22-year-olds-to-build-domain-expertise-and-judgement-in-the-post-ai-world-20260828/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-02T03:38:48+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "high terms: domain",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "なぜ自殺してはいけないのか？ 殺してはいけないのか？ おれのラーメン理論",
       "url": "https://blog.tinect.jp/?p=91463",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-02T01:10:24+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -395,7 +519,7 @@
       "url": "https://note.com/dora_e_m/n/n2888ba7764a2",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 1.38,
+      "age_days": 1.4,
       "topics": [
         "general"
       ],
@@ -419,7 +543,7 @@
       "url": "https://e27.co/nasa-linked-mit-trained-founders-nswx-raises-us2m-for-ai-chip-packaging-20260902/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-02T03:16:05+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -444,7 +568,7 @@
       "url": "https://openai.com/index/gilbert-tobin",
       "source": "OpenAI News RSS",
       "published_at": "2026-09-01T01:00:00+00:00",
-      "age_days": 1.12,
+      "age_days": 1.14,
       "topics": [
         "ai"
       ],
@@ -470,7 +594,7 @@
       "url": "https://e27.co/vietnams-new-growth-engine-is-built-on-constraint-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-02T02:03:01+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -496,7 +620,7 @@
       "url": "https://anond.hatelabo.jp/20260901224029",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-01T13:44:33+00:00",
-      "age_days": 0.59,
+      "age_days": 0.61,
       "topics": [
         "general"
       ],
@@ -516,38 +640,11 @@
       "summary": "はてなしか見てないと知らんと思うけど、増田は外部サイトで普通にバズっとるんやで。 Xでも、増田の感想をポストしただけで、100万から1000万単位のインプレッションを集めることも珍しくなくなっとる。 例えば、こんな流れももうある種の定番や。 増田に男女ネタや政治ネタ、対立を煽るネタ、その他耳目を集めそうなネ..."
     },
     {
-      "title": "Forward Deployed Learner: Enabling 22-year-olds to build domain expertise and judgement in the post AI world",
-      "url": "https://e27.co/forward-deployed-learner-enabling-22-year-olds-to-build-domain-expertise-and-judgement-in-the-post-ai-world-20260828/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-02T03:38:48+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 9.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "high terms: domain",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Why most AI driven reorgs are solving the wrong problem",
       "url": "https://e27.co/why-most-ai-driven-reorgs-are-solving-the-wrong-problem-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-02T01:10:24+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -573,7 +670,7 @@
       "url": "https://openai.com/index/gilbert-tobin",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 76.29,
+      "age_days": 76.31,
       "topics": [
         "ai"
       ],
@@ -600,7 +697,7 @@
       "url": "https://e27.co/i-stopped-hiring-im-not-sure-its-a-strategy-yet-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-02T02:30:50+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "macro"
@@ -622,11 +719,38 @@
       "summary": "I haven’t hired a full-time employee in two years. I still bring on freelancers now and then, but the roles I used to fill with interns, fresh grads, or junior freelancers, research, drafting, first-pass editing, basic reporting, have quietly disappeared. AI does them at a fraction of the cost and none of the coordina…"
     },
     {
+      "title": "The creator economy is distribution, not marketing. Most Asian businesses are still scaling it like a campaign",
+      "url": "https://e27.co/the-creator-economy-is-distribution-not-marketing-most-asian-businesses-are-still-scaling-it-like-a-campaign-20260828/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-02T03:25:43+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Vietnam’s new growth engine is built on constraint",
       "url": "https://e27.co/vietnams-new-growth-engine-is-built-on-constraint-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-02T02:00:20+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -652,7 +776,7 @@
       "url": "https://e27.co/forward-deployed-learner-enabling-22-year-olds-to-build-domain-expertise-and-judgement-in-the-post-ai-world-20260828/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-02T03:30:54+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
@@ -678,7 +802,7 @@
       "url": "https://blog.tinect.jp/?p=91463",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-01T23:32:59+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -702,7 +826,7 @@
       "url": "https://note.com/dora_e_m/n/n2888ba7764a2",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-01T16:36:40+00:00",
-      "age_days": 0.47,
+      "age_days": 0.49,
       "topics": [
         "general"
       ],
@@ -722,27 +846,26 @@
       "summary": "はじめにみなさん、職務経歴書、どうやって書いてますか？ 転職というイベントには必要不可欠な書類、職務経歴書。履歴書と異なりフォーマットが定まっていないため、どのように書けばよいか迷ってしまうことがあります。 いざ職務経歴書を書き始めると、これまで関わってきたプロジェクトを「あれもこれも」と盛り込み..."
     },
     {
-      "title": "The creator economy is distribution, not marketing. Most Asian businesses are still scaling it like a campaign",
-      "url": "https://e27.co/the-creator-economy-is-distribution-not-marketing-most-asian-businesses-are-still-scaling-it-like-a-campaign-20260828/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-02T03:25:43+00:00",
-      "age_days": 0.02,
+      "title": "AIショートドラマ『非妖哉』たった2話で1億回再生を記録 中国の映像クリエイターがほぼ1人で制作",
+      "url": "https://kai-you.net/article/96416",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-02T04:14:04+00:00",
+      "age_days": 0.0,
       "topics": [
-        "ai",
-        "macro"
+        "ai"
       ],
-      "dynamics_score": 2.5,
+      "dynamics_score": 3.5,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +2",
+        "momentum delta +1",
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],
@@ -753,7 +876,7 @@
       "url": "https://e27.co/why-most-ai-driven-reorgs-are-solving-the-wrong-problem-20260831/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-02T01:00:52+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -772,6 +895,31 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "In February 2024, Klarna’s CEO Sebastian Siemiatkowski told the world that the company’s AI assistant had taken on the work of 700 customer service agents. Headcount fell from 5,500 to 3,800. The story became the most cited example of AI replacing humans at scale. Boards across Asia, Europe, and the US used it to just…"
+    },
+    {
+      "title": "AIショートドラマ『非妖哉』たった2話で1億回再生を記録 中国の映像クリエイターがほぼ1人で制作",
+      "url": "https://kai-you.net/article/96416",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-01T04:37:50+00:00",
+      "age_days": 0.99,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "AIを活用して制作されたショートドラマ『非妖哉』が、大きな注目を集めている。制作者は中国の個人クリエイター・不吃榨菜（意：ザーサイは食べない）さん。 公開されている2話の累計再生数が1億回を突破。中国のメディア「深圳新闻网」の報道によれば、いいね数は400万件超。さらに不吃榨菜さんのDouyin（中国版TikTok..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 5.6 - 155 km WSW of Abepura, Indonesia” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.5."
