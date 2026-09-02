@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-09-02T03:56:24+00:00`
+Generated: `2026-09-02T04:14:32+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -14,7 +14,9 @@ Generated: `2026-09-02T03:56:24+00:00`
 | Why Japan’s booming AI market is harder to crack than it looks | $0 | — | 0 | 0 | dormant |
 | 無料のLM Studio、DFlash/DSpark/MTPで推論を高速化 | $0 | — | 0 | 0 | dormant |
 | tailscale/tailcat | $0 | — | 0 | 0 | dormant |
+| AIショートドラマ『非妖哉』たった2話で1億回再生を記録 中国の映像クリエイターがほぼ1人で制作 | $0 | — | 0 | 0 | active |
 | ITエンジニアのためのライフスタイルメディア KIKKAKE ITREND | $0 | — | 0 | 0 | dormant |
+| キーエンス製XG VisionTerminalおよびXG-X VisionTerminalにおけるにおけるXML外部エンティティ参照（XXE）の不適切な制限の脆弱性 | $0 | — | 0 | 0 | active |
 | J:COMを使っているとPlumeルーターによってDNSブロッキングされる可能性がある 18.204.152.241 問題の顛末 - debiruはてなメモ | $0 | — | 0 | 0 | dormant |
 | Multiples vulnérabilités dans le noyau Linux de SUSE (21 août 2026) | $0 | — | 0 | 0 | dormant |
 | 技術書典21で「Goで作って学ぶリアルタイム通信サーバー入門 〜自作ターミナルゲームでわかるオンラインゲームの裏側〜」という本を出します - $shibayu36->blog; | $0 | — | 0 | 0 | dormant |
@@ -27,5 +29,3 @@ Generated: `2026-09-02T03:56:24+00:00`
 | The AI marketing backlash story doesn’t actually fit Southeast Asia | $0 | — | 0 | 0 | dormant |
 | Claude Codeの設計詰めスキル『grilling』の紹介 | $0 | — | 0 | 0 | dormant |
 | 読まれる職務経歴書のつくり方｜dora_e_m | $0 | — | 0 | 0 | active |
-| Southeast Asia startup funding finds a floor, but not a rebound | $0 | — | 0 | 0 | dormant |
-| M 4.7 - 62 km SSE of Palca, Peru | $0 | — | 0 | 0 | dormant |
