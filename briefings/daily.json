@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T18:43:37+00:00",
-  "today_file_total": 84,
+  "generated_at": "2026-09-02T18:51:42+00:00",
+  "today_file_total": 86,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -34,6 +34,7 @@
       "key": "domain:www.bis.org",
       "title": "Statistical release: BIS international banking statistics and global liquidity indicators at end-March 2026",
       "sources": [
+        "BIS Press Releases",
         "BIS Statistical Releases"
       ],
       "source_classes": [
@@ -47,16 +48,16 @@
         "https://www.bis.org/publications/202605-commentary-residential-property-prices",
         "https://www.bis.org/publications/202602-commentary-residential-property-prices"
       ],
-      "finding_count": 6,
+      "finding_count": 8,
       "max_score": 11,
-      "credibility_total": 6.3,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 23.6,
-      "hot": false,
+      "credibility_total": 8.4,
+      "cross_source_confirmed": true,
+      "momentum_delta": 2,
+      "momentum_status": "increasing",
+      "network_score": 39.8,
+      "hot": true,
       "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
     },
     {
       "key": "domain:www.ecb.europa.eu",

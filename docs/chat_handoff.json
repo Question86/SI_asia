@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-02T18:43:34+00:00",
+  "generated_at": "2026-09-02T18:51:39+00:00",
   "status": "warning",
   "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 84,
-    "displayed_findings": 84,
+    "new_relevant_findings": 2,
+    "today_file_total": 86,
+    "displayed_findings": 86,
     "high": 0,
     "medium": 35,
-    "observe": 49
+    "observe": 51
   },
   "source_errors_count": 1,
   "top_signals": [
@@ -100,146 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “[NEU] [hoch] Rockwell Automation FactoryTalk Activation Manager und Historian Machine Edition: Mehrere Schwachstellen” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=43.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "[NEU] [hoch] Rockwell Automation FactoryTalk Activation Manager und Historian Machine Edition: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3143",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-02T10:46:09+00:00",
-        "age_days": 0.34,
-        "topics": [
-          "axiom",
-          "security"
-        ],
-        "dynamics_score": 43.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "Ein Angreifer aus einem angrenzenden Netzwerk kann mehrere Schwachstellen in Rockwell Automation FactoryTalk ausnutzen, um beliebigen Programmcode auszuführen, Administratorrechte zu erlangen oder einen Denial-of-Service-Zustand auszulösen."
-      },
-      {
-        "title": "Euro area bank interest rate statistics: July 2026",
-        "url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir260902~d54675e442.en.html",
-        "source": "ECB Open Market Operations and Communication, ECB Statistical Press Releases",
-        "published_at": "2026-06-18T14:33:45+00:00",
-        "age_days": 76.18,
-        "topics": [
-          "macro"
-        ],
-        "dynamics_score": 41.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 2,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "source breadth +2",
-          "momentum delta +3",
-          "high terms: rce",
-          "security high-signal: rce",
-          "aging penalty -8.0 for 76.2d old signal"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "[NEU] [mittel] Rockwell Automation ControlLogix 5580, CompactLogix 5380, und CompactLogix 5480: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3142",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-02T10:46:08+00:00",
-        "age_days": 0.34,
-        "topics": [
-          "axiom",
-          "security"
-        ],
-        "dynamics_score": 38.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: cert-bund, bsi, security, advisory",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Rockwell Automation ControlLogix und Rockwell Automation CompactLogix ausnutzen, um einen Denial of Service Angriff durchzuführen."
-      },
-      {
-        "title": "[NEU] [hoch] Microsoft GitHub Enterprise Server: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3151",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-02T11:16:05+00:00",
-        "age_days": 0.31,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Microsoft GitHub Enterprise Server ausnutzen, um Informationen offenzulegen oder beliebigen Code auszuführen."
-      },
-      {
-        "title": "Vulnérabilité dans SPIP (21 août 2026)",
-        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1063/",
-        "source": "CERT-FR Avis de sécurité",
-        "published_at": "2026-08-21T00:00:00+00:00",
-        "age_days": 12.78,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: active, code, 10",
-          "security high-signal: active, code, 10"
-        ],
-        "summary": "Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. L'éditeur indique que cette vulnérabilité est activement exploitée."
-      }
-    ]
-  }
+  ]
 }
