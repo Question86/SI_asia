@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-02T17:17:58+00:00_
+_Generiert: 2026-09-02T17:28:05+00:00_
 
 ## Kurzlage
 
@@ -298,4 +298,4 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Quellenfehler
 
-- `bis_statistics` (rss): 404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss
+- `ecb_open_market_operations` (rss): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
