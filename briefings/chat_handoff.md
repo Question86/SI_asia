@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-02T07:55:36+00:00_
+_Generated: 2026-09-02T08:12:24+00:00_
 
 ## Status
 - status: `warning`
-- findings: `36`
+- findings: `39`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-09-02T07:55:36+00:00_
 - url: https://e27.co/the-mmm-barrier-didnt-disappear-it-moved-20260831/
 - summary: AdExchanger ran a piece recently on open-source marketing mix modelling having its moment, and apologised on the way in for the new acronym. OS-MMM. Nobody asked for it, but here we are. The underlying claim is not hype. Julian Runge at Northwestern’s Medill…
 
-### 5. M 5.2 - 70 km NNW of Arthurs Point, New Zealand
+### 5. Euro area bank interest rate statistics: July 2026
+- source: ECB Statistical Press Releases
+- score: `13`
+- published: `2026-09-02T08:00:00+00:00`
+- url: https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir260902~d54675e442.en.html
+- summary: Euro area bank interest rate statistics: July 2026
+
+### 6. M 5.2 - 70 km NNW of Arthurs Point, New Zealand
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-09-02T07:24:38.686+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdjg
 - summary: PAGER - GREEN ShakeMap - VI DYFI? - IV Time 2026-09-02 06:57:12 UTC 2026-09-02 06:57:12 UTC at epicenter Location 44.428°S 168.250°E Depth 10.00 km (6.21 mi)
 
-### 6. M 5.3 - 66 km NNW of Arthurs Point, New Zealand
+### 7. M 5.3 - 66 km NNW of Arthurs Point, New Zealand
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-09-02T06:46:58.622+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdj8
 - summary: PAGER - GREEN ShakeMap - VI DYFI? - IV Time 2026-09-02 06:13:33 UTC 2026-09-02 06:13:33 UTC at epicenter Location 44.443°S 168.303°E Depth 10.00 km (6.21 mi)
 
-### 7. Announcing 20260078 (OT,liquidity providing), for 7 days deadline 09:45
+### 8. Announcing 20260078 (OT,liquidity providing), for 7 days deadline 09:45
 - source: ECB Open Market Operations and Communication
 - score: `12`
 - published: `2026-09-02T08:15:18+00:00`
 - url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260078.en.html
 - summary: Announcing 20260078 (OT,liquidity providing), for 7 days deadline 09:45
-
-### 8. M 4.9 - 98 km SSW of Nikolski, Alaska
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-09-02T05:44:26.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdim
-- summary: ShakeMap - III Time 2026-09-02 05:10:27 UTC 2026-09-02 05:10:27 UTC at epicenter Location 52.107°N 169.369°W Depth 38.52 km (23.93 mi)
 
 END OF DOCUMENT
