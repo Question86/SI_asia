@@ -1,40 +1,10 @@
 # Senna Breaking
 
-_Generiert: 2026-09-02T13:08:59+00:00_
-
-## [MàJ] Vulnérabilité dans Fortinet FortiOS (09 février 2024)
-
-- Ranking Score: `27.0`
-- Raw Network Score: `22.1`
-- Max Monitor Score: `20`
-- Reichweite: `specialist` / `2.5`
-- Early Signal: `ja`
-- Dominanter Emitter: `nein`
-- Quellen: CERT-FR Alertes
-- Klassen: tier3_specialist
-- Cross-source bestaetigt: nein
-- Momentum: stable (+0)
-- Erste Quelle: https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-004/
-- Handlung: HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.
-
-## Vulnérabilité dans Microsoft Entra ID (21 août 2026)
-
-- Ranking Score: `24.0`
-- Raw Network Score: `19.1`
-- Max Monitor Score: `17`
-- Reichweite: `specialist` / `2.5`
-- Early Signal: `ja`
-- Dominanter Emitter: `nein`
-- Quellen: CERT-FR Avis de sécurité
-- Klassen: tier3_specialist
-- Cross-source bestaetigt: nein
-- Momentum: stable (+0)
-- Erste Quelle: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1074/
-- Handlung: HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.
+_Generiert: 2026-09-02T13:25:33+00:00_
 
 ## Euro area bank interest rate statistics: July 2026
 
-- Ranking Score: `22.43`
+- Ranking Score: `22.27`
 - Raw Network Score: `23.2`
 - Max Monitor Score: `13`
 - Reichweite: `institutional` / `5.0`
