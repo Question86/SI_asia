@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-02T01:33:38+00:00_
+_Generated: 2026-09-02T02:02:56+00:00_
 
 ## Status
 - status: `warning`
-- findings: `8`
+- findings: `9`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-09-02T01:33:38+00:00_
 - url: https://jvn.jp/vu/JVNVU97909245/
 - summary: CERT/CCから本件に関するアドバイザリが公表されました。
 
-### 5. Why most AI driven reorgs are solving the wrong problem
+### 5. Vietnam’s new growth engine is built on constraint
+- source: e27 Asia Startup and Tech Feed
+- score: `10`
+- published: `2026-09-02T02:00:20+00:00`
+- url: https://e27.co/vietnams-new-growth-engine-is-built-on-constraint-20260828/
+- summary: Vietnam is entering a new phase of growth that is harder, more selective, and more interesting than the one that came before. The country is still drawing manufacturing, foreign direct investment, and high-tech supply-chain activity at scale, but the real sto…
+
+### 6. Why most AI driven reorgs are solving the wrong problem
 - source: e27 Asia Startup and Tech Feed
 - score: `8`
 - published: `2026-09-02T01:00:52+00:00`
 - url: https://e27.co/why-most-ai-driven-reorgs-are-solving-the-wrong-problem-20260831/
 - summary: In February 2024, Klarna’s CEO Sebastian Siemiatkowski told the world that the company’s AI assistant had taken on the work of 700 customer service agents. Headcount fell from 5,500 to 3,800. The story became the most cited example of AI replacing humans at s…
 
-### 6. なぜ自殺してはいけないのか？ 殺してはいけないのか？ おれのラーメン理論
+### 7. なぜ自殺してはいけないのか？ 殺してはいけないのか？ おれのラーメン理論
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-09-01T23:32:59+00:00`
 - url: https://blog.tinect.jp/?p=91463
 - summary: おれのブログが引用されました 上田信治さんという方からメールが届いた。著書におれのブログからの引用をしたので、ご恵贈いただけるという話だった。 引用に許可もなにもいらないのでありがたい話だと思った。そしておれの手元に『成分表: 偽マキロン・悲しみについて』が届いた。 申し訳ないが、おれは上田信治さんの...
 
-### 7. 読まれる職務経歴書のつくり方｜dora_e_m
+### 8. 読まれる職務経歴書のつくり方｜dora_e_m
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-09-01T16:36:40+00:00`
 - url: https://note.com/dora_e_m/n/n2888ba7764a2
 - summary: はじめにみなさん、職務経歴書、どうやって書いてますか？ 転職というイベントには必要不可欠な書類、職務経歴書。履歴書と異なりフォーマットが定まっていないため、どのように書けばよいか迷ってしまうことがあります。 いざ職務経歴書を書き始めると、これまで関わってきたプロジェクトを「あれもこれも」と盛り込み...
-
-### 8. 増田が1000万インプレッションを超える時代
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-09-01T13:44:33+00:00`
-- url: https://anond.hatelabo.jp/20260901224029
-- summary: はてなしか見てないと知らんと思うけど、増田は外部サイトで普通にバズっとるんやで。 Xでも、増田の感想をポストしただけで、100万から1000万単位のインプレッションを集めることも珍しくなくなっとる。 例えば、こんな流れももうある種の定番や。 増田に男女ネタや政治ネタ、対立を煽るネタ、その他耳目を集めそうなネ...
 
 END OF DOCUMENT

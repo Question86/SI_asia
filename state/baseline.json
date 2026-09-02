@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-02T01:33:41+00:00",
+  "generated_at": "2026-09-02T02:03:01+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -99,9 +99,8 @@
     },
     "domain:openai.com": {
       "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-      "updated_at": "2026-09-02T01:33:41+00:00",
+      "updated_at": "2026-09-02T02:03:01+00:00",
       "network_scores": [
-        25.3,
         25.3,
         25.3,
         25.3,
@@ -130,12 +129,13 @@
         27.4,
         27.4,
         20.1,
+        17.1,
         17.1
       ],
-      "rolling_average": 26.35,
+      "rolling_average": 26.08,
       "rolling_peak": 30.4,
       "last_score": 17.1,
-      "z_hint": -9.25
+      "z_hint": -8.98
     },
     "title:read-remote-repository-content-github-cli": {
       "title": "Read remote repository content with GitHub CLI",
@@ -2725,7 +2725,7 @@
     },
     "title:cisa-ics-advisory-ics-medical-advisory-2026": {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月01日）",
-      "updated_at": "2026-09-02T01:33:41+00:00",
+      "updated_at": "2026-09-02T02:03:01+00:00",
       "network_scores": [
         19.1,
         18.1,
@@ -2746,12 +2746,13 @@
         18.1,
         21.1,
         18.1,
+        18.1,
         18.1
       ],
-      "rolling_average": 18.45,
+      "rolling_average": 18.43,
       "rolling_peak": 21.1,
       "last_score": 18.1,
-      "z_hint": -0.35
+      "z_hint": -0.33
     },
     "github_repo:universal-debloater-alliance/universal-android-debloater-next-generation": {
       "title": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
@@ -9739,10 +9740,9 @@
     },
     "domain:note.com": {
       "title": "読まれる職務経歴書のつくり方｜dora_e_m",
-      "updated_at": "2026-09-02T01:33:41+00:00",
+      "updated_at": "2026-09-02T02:03:01+00:00",
       "network_scores": [
         7.1,
-        7.1,
         10.1,
         7.1,
         7.1,
@@ -9770,6 +9770,7 @@
         7.1,
         7.1,
         10.1,
+        7.1,
         7.1
       ],
       "rolling_average": 7.3,
@@ -11347,7 +11348,7 @@
     },
     "earthquake:indonesia:5.6": {
       "title": "M 5.6 - 155 km WSW of Abepura, Indonesia",
-      "updated_at": "2026-09-02T01:33:41+00:00",
+      "updated_at": "2026-09-02T02:03:01+00:00",
       "network_scores": [
         21.7,
         21.7,
@@ -12170,7 +12171,34 @@
     },
     "title:1000": {
       "title": "増田が1000万インプレッションを超える時代",
-      "updated_at": "2026-09-02T01:33:41+00:00",
+      "updated_at": "2026-09-02T02:03:01+00:00",
+      "network_scores": [
+        10.1,
+        7.1,
+        7.1,
+        7.1
+      ],
+      "rolling_average": 7.85,
+      "rolling_peak": 10.1,
+      "last_score": 7.1,
+      "z_hint": -0.75
+    },
+    "title:why-most-driven-reorgs-are-solving-wrong-problem": {
+      "title": "Why most AI driven reorgs are solving the wrong problem",
+      "updated_at": "2026-09-02T02:03:01+00:00",
+      "network_scores": [
+        13.1,
+        10.1,
+        10.1
+      ],
+      "rolling_average": 11.1,
+      "rolling_peak": 13.1,
+      "last_score": 10.1,
+      "z_hint": -1.0
+    },
+    "url:https://blog.tinect.jp/?p=91463": {
+      "title": "なぜ自殺してはいけないのか？ 殺してはいけないのか？ おれのラーメン理論",
+      "updated_at": "2026-09-02T02:03:01+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -12181,39 +12209,27 @@
       "last_score": 7.1,
       "z_hint": -1.0
     },
-    "title:why-most-driven-reorgs-are-solving-wrong-problem": {
-      "title": "Why most AI driven reorgs are solving the wrong problem",
-      "updated_at": "2026-09-02T01:33:41+00:00",
-      "network_scores": [
-        13.1,
-        10.1
-      ],
-      "rolling_average": 11.6,
-      "rolling_peak": 13.1,
-      "last_score": 10.1,
-      "z_hint": -1.5
-    },
-    "url:https://blog.tinect.jp/?p=91463": {
-      "title": "なぜ自殺してはいけないのか？ 殺してはいけないのか？ おれのラーメン理論",
-      "updated_at": "2026-09-02T01:33:41+00:00",
-      "network_scores": [
-        10.1,
-        7.1
-      ],
-      "rolling_average": 8.6,
-      "rolling_peak": 10.1,
-      "last_score": 7.1,
-      "z_hint": -1.5
-    },
     "title:hugging-face-transformers": {
       "title": "Hugging Face製Transformersにおけるユーザー同意確認前のリモートコード不正キャッシュの脆弱性",
-      "updated_at": "2026-09-02T01:33:41+00:00",
+      "updated_at": "2026-09-02T02:03:01+00:00",
       "network_scores": [
-        19.1
+        19.1,
+        16.1
       ],
-      "rolling_average": 19.1,
+      "rolling_average": 17.6,
       "rolling_peak": 19.1,
-      "last_score": 19.1,
+      "last_score": 16.1,
+      "z_hint": -1.5
+    },
+    "title:vietnam-growth-engine-built-constraint": {
+      "title": "Vietnam’s new growth engine is built on constraint",
+      "updated_at": "2026-09-02T02:03:01+00:00",
+      "network_scores": [
+        15.1
+      ],
+      "rolling_average": 15.1,
+      "rolling_peak": 15.1,
+      "last_score": 15.1,
       "z_hint": 0.0
     }
   }
