@@ -1,65 +1,65 @@
 {
-  "generated_at": "2026-09-02T17:28:08+00:00",
+  "generated_at": "2026-09-02T17:39:18+00:00",
   "sections": {
     "global_security": [
       {
         "domain": "security",
         "severity": "high",
-        "title": "CISA KEV: CVE-2026-82078 PaperCut NG/MF",
-        "summary": "Known exploited vulnerability. Added 2026-08-31. Due 2026-09-14. PaperCut NG/MF Unsafe Reflection Vulnerability",
+        "title": "CISA KEV: CVE-2026-59822 BerriAI LiteLLM",
+        "summary": "Known exploited vulnerability. Added 2026-09-02. Due 2026-09-16. BerriAI LiteLLM Improper Authentication Vulnerability",
         "source": "CISA KEV",
         "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-08-31",
+        "published_at": "2026-09-02",
         "metrics": {
-          "cve": "CVE-2026-82078"
+          "cve": "CVE-2026-59822"
         }
       },
       {
         "domain": "security",
         "severity": "high",
-        "title": "CISA KEV: CVE-2026-81578 PaperCut NG/MF",
-        "summary": "Known exploited vulnerability. Added 2026-08-31. Due 2026-09-14. PaperCut NG/MF Missing Authentication for Critical Function Vulnerability",
+        "title": "CISA KEV: CVE-2026-48710 Kludex Starlette",
+        "summary": "Known exploited vulnerability. Added 2026-09-02. Due 2026-09-16. Kludex Starlette HTTP Request/Response Smuggling Vulnerability",
         "source": "CISA KEV",
         "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-08-31",
+        "published_at": "2026-09-02",
         "metrics": {
-          "cve": "CVE-2026-81578"
+          "cve": "CVE-2026-48710"
         }
       },
       {
         "domain": "security",
         "severity": "high",
-        "title": "CISA KEV: CVE-2023-49105 ownCloud ownCloud",
-        "summary": "Known exploited vulnerability. Added 2026-08-27. Due 2026-08-30. ownCloud Improper Authentication Vulnerability",
+        "title": "CISA KEV: CVE-2026-49869 Kestra Kestra OSS",
+        "summary": "Known exploited vulnerability. Added 2026-09-02. Due 2026-09-05. Kestra OSS OS Command Injection Vulnerability",
         "source": "CISA KEV",
         "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-08-27",
+        "published_at": "2026-09-02",
         "metrics": {
-          "cve": "CVE-2023-49105"
+          "cve": "CVE-2026-49869"
         }
       },
       {
         "domain": "security",
         "severity": "high",
-        "title": "CISA KEV: CVE-2026-53362 Linux Kernel",
-        "summary": "Known exploited vulnerability. Added 2026-08-27. Due 2026-08-30. Linux Kernel Unspecified Vulnerability",
+        "title": "CISA KEV: CVE-2026-82329 JFrog Artifactory",
+        "summary": "Known exploited vulnerability. Added 2026-09-02. Due 2026-09-05. JFrog Artifactory Improper Authentication Vulnerability",
         "source": "CISA KEV",
         "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-08-27",
+        "published_at": "2026-09-02",
         "metrics": {
-          "cve": "CVE-2026-53362"
+          "cve": "CVE-2026-82329"
         }
       },
       {
         "domain": "security",
         "severity": "high",
-        "title": "CISA KEV: CVE-2026-66384 JFrog Artifactory",
-        "summary": "Known exploited vulnerability. Added 2026-08-27. Due 2026-09-10. JFrog Artifactory Improper Limitation of a Pathname to a Restricted Directory Vulnerability",
+        "title": "CISA KEV: CVE-2026-9586 Sangoma Switchvox",
+        "summary": "Known exploited vulnerability. Added 2026-09-02. Due 2026-09-05. Sangoma Switchvox SQL Injection Vulnerability",
         "source": "CISA KEV",
         "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-08-27",
+        "published_at": "2026-09-02",
         "metrics": {
-          "cve": "CVE-2026-66384"
+          "cve": "CVE-2026-9586"
         }
       },
       {

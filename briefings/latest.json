@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T17:28:05+00:00",
-  "run_id": "2026-09-02T17:28:05+00:00",
+  "generated_at": "2026-09-02T17:39:14+00:00",
+  "run_id": "2026-09-02T17:39:14+00:00",
   "date": "2026-09-02",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -24,7 +24,7 @@
     "high": 0,
     "medium": 35,
     "observe": 48,
-    "source_errors": 1
+    "source_errors": 2
   },
   "sections": {
     "high": [],
@@ -4336,10 +4336,16 @@
   "new_findings": [],
   "source_errors": [
     {
-      "source_id": "ecb_open_market_operations",
-      "source_name": "ECB Open Market Operations and Communication",
+      "source_id": "japan_digital_agency_news",
+      "source_name": "Japan Digital Agency News RSS",
       "source_type": "rss",
-      "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+      "error": "404 Client Error: Not Found for url: https://www.digital.go.jp/rss/news.xml"
+    },
+    {
+      "source_id": "bis_statistics",
+      "source_name": "BIS Statistical Releases",
+      "source_type": "rss",
+      "error": "404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss"
     }
   ],
   "quality_gate": {

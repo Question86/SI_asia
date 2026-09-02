@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-09-02T17:28:08+00:00_
+_Generiert: 2026-09-02T17:39:18+00:00_
 
 ## ローカルLLMでどこまでコードが書けるか -LLM基礎知識 / How much code can be written on a local LLM - fundamental knowledge
 

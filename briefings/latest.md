@@ -1,34 +1,34 @@
 # Senna Briefing
 
-_Generiert: 2026-09-02T17:28:05+00:00_
+_Generiert: 2026-09-02T17:39:14+00:00_
 
 ## Kurzlage
 
-83 neue relevante Treffer. Stärkstes Signal: „NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging“ aus e27 Asia Startup and Tech Feed (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+83 neue relevante Treffer. Stärkstes Signal: „NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging“ aus e27 Asia Startup and Tech Feed (Score 20, observation). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
-- **CISA KEV: CVE-2026-82078 PaperCut NG/MF** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+- **CISA KEV: CVE-2026-59822 BerriAI LiteLLM** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
-  - Zeit: `2026-08-31`
-  - Kurz: Known exploited vulnerability. Added 2026-08-31. Due 2026-09-14. PaperCut NG/MF Unsafe Reflection Vulnerability
-- **CISA KEV: CVE-2026-81578 PaperCut NG/MF** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Zeit: `2026-09-02`
+  - Kurz: Known exploited vulnerability. Added 2026-09-02. Due 2026-09-16. BerriAI LiteLLM Improper Authentication Vulnerability
+- **CISA KEV: CVE-2026-48710 Kludex Starlette** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
-  - Zeit: `2026-08-31`
-  - Kurz: Known exploited vulnerability. Added 2026-08-31. Due 2026-09-14. PaperCut NG/MF Missing Authentication for Critical Function Vulnerability
-- **CISA KEV: CVE-2023-49105 ownCloud ownCloud** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Zeit: `2026-09-02`
+  - Kurz: Known exploited vulnerability. Added 2026-09-02. Due 2026-09-16. Kludex Starlette HTTP Request/Response Smuggling Vulnerability
+- **CISA KEV: CVE-2026-49869 Kestra Kestra OSS** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
-  - Zeit: `2026-08-27`
-  - Kurz: Known exploited vulnerability. Added 2026-08-27. Due 2026-08-30. ownCloud Improper Authentication Vulnerability
-- **CISA KEV: CVE-2026-53362 Linux Kernel** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Zeit: `2026-09-02`
+  - Kurz: Known exploited vulnerability. Added 2026-09-02. Due 2026-09-05. Kestra OSS OS Command Injection Vulnerability
+- **CISA KEV: CVE-2026-82329 JFrog Artifactory** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
-  - Zeit: `2026-08-27`
-  - Kurz: Known exploited vulnerability. Added 2026-08-27. Due 2026-08-30. Linux Kernel Unspecified Vulnerability
-- **CISA KEV: CVE-2026-66384 JFrog Artifactory** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Zeit: `2026-09-02`
+  - Kurz: Known exploited vulnerability. Added 2026-09-02. Due 2026-09-05. JFrog Artifactory Improper Authentication Vulnerability
+- **CISA KEV: CVE-2026-9586 Sangoma Switchvox** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
-  - Zeit: `2026-08-27`
-  - Kurz: Known exploited vulnerability. Added 2026-08-27. Due 2026-09-10. JFrog Artifactory Improper Limitation of a Pathname to a Restricted Directory Vulnerability
+  - Zeit: `2026-09-02`
+  - Kurz: Known exploited vulnerability. Added 2026-09-02. Due 2026-09-05. Sangoma Switchvox SQL Injection Vulnerability
 - **GDACS: Green earthquake (Magnitude 5.9M, Depth:10km) in Southern East Pacific Rise 02/09/2026 12:35 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563166)
   - Quelle: GDACS
   - Zeit: ``
@@ -363,4 +363,5 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Quellenfehler
 
-- `ecb_open_market_operations` (rss): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+- `japan_digital_agency_news` (rss): 404 Client Error: Not Found for url: https://www.digital.go.jp/rss/news.xml
+- `bis_statistics` (rss): 404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss
