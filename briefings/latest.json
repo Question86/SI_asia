@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T07:03:24+00:00",
-  "run_id": "2026-09-02T07:03:24+00:00",
+  "generated_at": "2026-09-02T07:26:44+00:00",
+  "run_id": "2026-09-02T07:26:44+00:00",
   "date": "2026-09-02",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 33
+      "configured_public_sources_only": 35
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 33,
-    "displayed_findings": 33,
+    "new_relevant_findings": 2,
+    "today_file_total": 35,
+    "displayed_findings": 35,
     "high": 0,
     "medium": 13,
-    "observe": 20,
+    "observe": 22,
     "source_errors": 1
   },
   "sections": {
@@ -436,6 +436,44 @@
     ],
     "observe": [
       {
+        "title": "M 5.2 - 70 km NNW of Arthurs Point, New Zealand",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdjg",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-09-02T07:24:38.686+00:00",
+        "fetched_at": "2026-09-02T07:26:13+00:00",
+        "summary": "PAGER - GREEN ShakeMap - VI DYFI? - IV Time 2026-09-02 06:57:12 UTC 2026-09-02 06:57:12 UTC at epicenter Location 44.428°S 168.250°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "PAGER",
+          "ShakeMap",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "f15aefaccc6ff8fe45a7"
+      },
+      {
         "title": "M 5.3 - 66 km NNW of Arthurs Point, New Zealand",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdj8",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -472,6 +510,28 @@
           "LOW"
         ],
         "id": "03820c31780a9889941f"
+      },
+      {
+        "title": "Announcing 20260078 (OT,liquidity providing), for 7 days deadline 09:45",
+        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260078.en.html",
+        "source": "ECB Open Market Operations and Communication",
+        "source_type": "rss",
+        "published_at": "2026-09-02T08:15:18+00:00",
+        "fetched_at": "2026-09-02T07:26:13+00:00",
+        "summary": "Announcing 20260078 (OT,liquidity providing), for 7 days deadline 09:45",
+        "matched_keywords": [
+          "liquidity",
+          "Macro/Policy",
+          "open market operations"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8c999495926a25c09068"
       },
       {
         "title": "M 4.9 - 98 km SSW of Nikolski, Alaska",
@@ -1380,6 +1440,44 @@
       "id": "b9550bc639ddf5cbbede"
     },
     {
+      "title": "M 5.2 - 70 km NNW of Arthurs Point, New Zealand",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdjg",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-02T07:24:38.686+00:00",
+      "fetched_at": "2026-09-02T07:26:13+00:00",
+      "summary": "PAGER - GREEN ShakeMap - VI DYFI? - IV Time 2026-09-02 06:57:12 UTC 2026-09-02 06:57:12 UTC at epicenter Location 44.428°S 168.250°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "f15aefaccc6ff8fe45a7"
+    },
+    {
       "title": "M 5.3 - 66 km NNW of Arthurs Point, New Zealand",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdj8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1416,6 +1514,28 @@
         "LOW"
       ],
       "id": "03820c31780a9889941f"
+    },
+    {
+      "title": "Announcing 20260078 (OT,liquidity providing), for 7 days deadline 09:45",
+      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260078.en.html",
+      "source": "ECB Open Market Operations and Communication",
+      "source_type": "rss",
+      "published_at": "2026-09-02T08:15:18+00:00",
+      "fetched_at": "2026-09-02T07:26:13+00:00",
+      "summary": "Announcing 20260078 (OT,liquidity providing), for 7 days deadline 09:45",
+      "matched_keywords": [
+        "liquidity",
+        "Macro/Policy",
+        "open market operations"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8c999495926a25c09068"
     },
     {
       "title": "M 4.9 - 98 km SSW of Nikolski, Alaska",
@@ -1919,25 +2039,64 @@
   ],
   "new_findings": [
     {
-      "title": "Hashed-backed ShardLab invests in StoreHub to build new merchant rewards products",
-      "url": "https://e27.co/hashed-backed-shardlab-invests-in-storehub-to-build-new-merchant-rewards-products-20260902/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "M 5.2 - 70 km NNW of Arthurs Point, New Zealand",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdjg",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-09-02T07:00:01+00:00",
-      "fetched_at": "2026-09-02T07:02:49+00:00",
-      "summary": "For many small merchants in Southeast Asia, payments and loyalty are still treated as separate problems. One system records the sale, another handles digital payments, and a third, if it exists at all, tries to bring the customer back. StoreHub and ShardLab now want to see whether those layers can be stitched together more tightly. […] The post Hashed-backed ShardLab invests in StoreHub to build new merchant rewards…",
+      "published_at": "2026-09-02T07:24:38.686+00:00",
+      "fetched_at": "2026-09-02T07:26:13+00:00",
+      "summary": "PAGER - GREEN ShakeMap - VI DYFI? - IV Time 2026-09-02 06:57:12 UTC 2026-09-02 06:57:12 UTC at epicenter Location 44.428°S 168.250°E Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Southeast Asia"
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0)",
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "f15aefaccc6ff8fe45a7"
+    },
+    {
+      "title": "Announcing 20260078 (OT,liquidity providing), for 7 days deadline 09:45",
+      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260078.en.html",
+      "source": "ECB Open Market Operations and Communication",
+      "source_type": "rss",
+      "published_at": "2026-09-02T08:15:18+00:00",
+      "fetched_at": "2026-09-02T07:26:13+00:00",
+      "summary": "Announcing 20260078 (OT,liquidity providing), for 7 days deadline 09:45",
+      "matched_keywords": [
+        "liquidity",
+        "Macro/Policy",
+        "open market operations"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "7a449872d45323fb0a7a"
+      "id": "8c999495926a25c09068"
     }
   ],
   "source_errors": [

@@ -404,6 +404,44 @@
     "id": "b9550bc639ddf5cbbede"
   },
   {
+    "title": "M 5.2 - 70 km NNW of Arthurs Point, New Zealand",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdjg",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-09-02T07:24:38.686+00:00",
+    "fetched_at": "2026-09-02T07:26:13+00:00",
+    "summary": "PAGER - GREEN ShakeMap - VI DYFI? - IV Time 2026-09-02 06:57:12 UTC 2026-09-02 06:57:12 UTC at epicenter Location 44.428°S 168.250°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "PAGER",
+      "ShakeMap",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 13,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "f15aefaccc6ff8fe45a7"
+  },
+  {
     "title": "M 5.3 - 66 km NNW of Arthurs Point, New Zealand",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdj8",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -440,6 +478,28 @@
       "LOW"
     ],
     "id": "03820c31780a9889941f"
+  },
+  {
+    "title": "Announcing 20260078 (OT,liquidity providing), for 7 days deadline 09:45",
+    "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260078.en.html",
+    "source": "ECB Open Market Operations and Communication",
+    "source_type": "rss",
+    "published_at": "2026-09-02T08:15:18+00:00",
+    "fetched_at": "2026-09-02T07:26:13+00:00",
+    "summary": "Announcing 20260078 (OT,liquidity providing), for 7 days deadline 09:45",
+    "matched_keywords": [
+      "liquidity",
+      "Macro/Policy",
+      "open market operations"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8c999495926a25c09068"
   },
   {
     "title": "M 4.9 - 98 km SSW of Nikolski, Alaska",
