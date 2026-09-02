@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-09-02T12:55:44+00:00_
+_Generiert: 2026-09-02T13:08:59+00:00_
 
 ## [MàJ] Vulnérabilité dans Fortinet FortiOS (09 février 2024)
 
@@ -34,7 +34,7 @@ _Generiert: 2026-09-02T12:55:44+00:00_
 
 ## Euro area bank interest rate statistics: July 2026
 
-- Ranking Score: `22.59`
+- Ranking Score: `22.43`
 - Raw Network Score: `23.2`
 - Max Monitor Score: `13`
 - Reichweite: `institutional` / `5.0`
