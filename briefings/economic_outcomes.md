@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-09-02T00:33:16+00:00`
+Generated: `2026-09-02T01:10:46+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -26,6 +26,6 @@ Generated: `2026-09-02T00:33:16+00:00`
 | Claude CodeなどのAIエージェントでロボットを自律的に改善する仕組み「ENPIRE」がNVIDIAによって開発される | $0 | — | 0 | 0 | dormant |
 | The AI marketing backlash story doesn’t actually fit Southeast Asia | $0 | — | 0 | 0 | dormant |
 | Claude Codeの設計詰めスキル『grilling』の紹介 | $0 | — | 0 | 0 | dormant |
+| 読まれる職務経歴書のつくり方｜dora_e_m | $0 | — | 0 | 0 | active |
 | Southeast Asia startup funding finds a floor, but not a rebound | $0 | — | 0 | 0 | dormant |
 | M 4.7 - 62 km SSE of Palca, Peru | $0 | — | 0 | 0 | dormant |
-| Thailand’s AI startup push gets OpenAI backing through new public-private accelerator | $0 | — | 0 | 0 | dormant |
