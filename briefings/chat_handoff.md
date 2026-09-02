@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-02T03:00:29+00:00_
+_Generated: 2026-09-02T03:25:39+00:00_
 
 ## Status
 - status: `warning`
-- findings: `10`
+- findings: `14`
 
 ## Top Signals
 
-### 1. M 5.6 - 155 km WSW of Abepura, Indonesia
+### 1. NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging
+- source: e27 Asia Startup and Tech Feed
+- score: `20`
+- published: `2026-09-02T03:16:05+00:00`
+- url: https://e27.co/nasa-linked-mit-trained-founders-nswx-raises-us2m-for-ai-chip-packaging-20260902/
+- summary: The race to build larger AI models has created a less glamorous but increasingly urgent problem: how to move heat and power through ever-denser chip packages without driving up cost, energy use and complexity. A Malaysian startup now wants to solve part of th…
+
+### 2. M 5.6 - 155 km WSW of Abepura, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `19`
 - published: `2026-09-02T00:30:22.495+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdhl
 - summary: PAGER - GREEN ShakeMap - IV Time 2026-09-02 00:04:54 UTC 2026-09-02 00:04:54 UTC at epicenter Location 3.213°S 139.373°E Depth 64.64 km (40.17 mi)
 
-### 2. CISA ICS Advisory / ICS Medical Advisory（2026年09月01日）
+### 3. The MMM barrier didn’t disappear. It moved
+- source: e27 Asia Startup and Tech Feed
+- score: `17`
+- published: `2026-09-02T03:10:10+00:00`
+- url: https://e27.co/the-mmm-barrier-didnt-disappear-it-moved-20260831/
+- summary: AdExchanger ran a piece recently on open-source marketing mix modelling having its moment, and apologised on the way in for the new acronym. OS-MMM. Nobody asked for it, but here we are. The underlying claim is not hype. Julian Runge at Northwestern’s Medill…
+
+### 4. CISA ICS Advisory / ICS Medical Advisory（2026年09月01日）
 - source: JVN Japan Vulnerability Notes
 - score: `16`
 - published: `2026-09-02T09:00:00+09:00`
 - url: https://jvn.jp/vu/JVNVU90253159/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
-
-### 3. How law firm Gilbert + Tobin governs and scales AI with OpenAI
-- source: OpenAI News RSS
-- score: `15`
-- published: `2026-09-01T01:00:00+00:00`
-- url: https://openai.com/index/gilbert-tobin
-- summary: See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.
-
-### 4. Hugging Face製Transformersにおけるユーザー同意確認前のリモートコード不正キャッシュの脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-09-02T10:15:00+09:00`
-- url: https://jvn.jp/vu/JVNVU97909245/
-- summary: CERT/CCから本件に関するアドバイザリが公表されました。
 
 ### 5. Vietnam’s new growth engine is built on constraint
 - source: e27 Asia Startup and Tech Feed

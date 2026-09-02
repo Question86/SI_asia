@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T03:00:29+00:00",
-  "run_id": "2026-09-02T03:00:29+00:00",
+  "generated_at": "2026-09-02T03:25:39+00:00",
+  "run_id": "2026-09-02T03:25:39+00:00",
   "date": "2026-09-02",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 10
+      "configured_public_sources_only": 14
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,65 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 10,
-    "displayed_findings": 10,
+    "new_relevant_findings": 4,
+    "today_file_total": 14,
+    "displayed_findings": 14,
     "high": 0,
-    "medium": 5,
-    "observe": 5,
+    "medium": 8,
+    "observe": 6,
     "source_errors": 1
   },
   "sections": {
     "high": [],
     "medium": [
+      {
+        "title": "NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging",
+        "url": "https://e27.co/nasa-linked-mit-trained-founders-nswx-raises-us2m-for-ai-chip-packaging-20260902/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-02T03:16:05+00:00",
+        "fetched_at": "2026-09-02T03:25:01+00:00",
+        "summary": "The race to build larger AI models has created a less glamorous but increasingly urgent problem: how to move heat and power through ever-denser chip packages without driving up cost, energy use and complexity. A Malaysian startup now wants to solve part of that problem at the material boundary level. Kuala Lumpur-based nanoSkunkWorkX (nSWX) has […] The post NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Content-Chance",
+          "founder",
+          "Watchgraph:chips_compute_datacenters"
+        ],
+        "relevance_score": 20,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Content-Chance (+5.0); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0); watchgraph modules chips_compute_datacenters (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "chips_compute_datacenters"
+        ],
+        "watchgraph_reasons": [
+          "chips_compute_datacenters: AI chip"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "XOM",
+          "CVX",
+          "SHEL",
+          "TTE",
+          "BP",
+          "ENB",
+          "SU",
+          "EQNR",
+          "CCJ",
+          "URA"
+        ],
+        "id": "419af930ae1544291f95"
+      },
       {
         "title": "M 5.6 - 155 km WSW of Abepura, Indonesia",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdhl",
@@ -67,6 +115,29 @@
           "LOW"
         ],
         "id": "2e518ba8fdc5c754cef3"
+      },
+      {
+        "title": "The MMM barrier didn’t disappear. It moved",
+        "url": "https://e27.co/the-mmm-barrier-didnt-disappear-it-moved-20260831/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-02T03:10:10+00:00",
+        "fetched_at": "2026-09-02T03:25:01+00:00",
+        "summary": "AdExchanger ran a piece recently on open-source marketing mix modelling having its moment, and apologised on the way in for the new acronym. OS-MMM. Nobody asked for it, but here we are. The underlying claim is not hype. Julian Runge at Northwestern’s Medill School makes the point that you can now prompt an AI agent […] The post The MMM barrier didn’t disappear. It moved appeared first on e27 .",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "APAC Trend Radar",
+          "GitHub Actions"
+        ],
+        "relevance_score": 17,
+        "relevance_reason": "GitHub Actions (+5.0); AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "84bea27dff0bf2eba9db"
       },
       {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月01日）",
@@ -135,6 +206,28 @@
           "PINS"
         ],
         "id": "bf9b4638156499d8cf56"
+      },
+      {
+        "title": "ShizenBox2における複数の脆弱性",
+        "url": "https://jvn.jp/jp/JVN91715694/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-09-02T12:00:00+09:00",
+        "fetched_at": "2026-09-02T03:25:01+00:00",
+        "summary": "株式会社Shizen Connectが提供するShizenBox2には、複数の脆弱性が存在します。",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "JVN",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ca83133900973bd8ef89"
       },
       {
         "title": "Hugging Face製Transformersにおけるユーザー同意確認前のリモートコード不正キャッシュの脆弱性",
@@ -307,10 +400,78 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "bec6b5c8e938b05253e9"
+      },
+      {
+        "title": "The creator economy is distribution, not marketing. Most Asian businesses are still scaling it like a campaign",
+        "url": "https://e27.co/the-creator-economy-is-distribution-not-marketing-most-asian-businesses-are-still-scaling-it-like-a-campaign-20260828/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-02T03:00:03+00:00",
+        "fetched_at": "2026-09-02T03:25:01+00:00",
+        "summary": "Last quarter I sat in a review with a consumer brand team going through their best month on record. Live commerce had carried it. The gross merchandise value chart, the total value of everything sold, was close to vertical, and the room could feel it. Then the operations lead opened the second file. Delivery outcomes. […] The post The creator economy is distribution, not marketing. Most Asian businesses are still sc…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c369da51be1dd1c75de5"
       }
     ]
   },
   "findings": [
+    {
+      "title": "NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging",
+      "url": "https://e27.co/nasa-linked-mit-trained-founders-nswx-raises-us2m-for-ai-chip-packaging-20260902/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-02T03:16:05+00:00",
+      "fetched_at": "2026-09-02T03:25:01+00:00",
+      "summary": "The race to build larger AI models has created a less glamorous but increasingly urgent problem: how to move heat and power through ever-denser chip packages without driving up cost, energy use and complexity. A Malaysian startup now wants to solve part of that problem at the material boundary level. Kuala Lumpur-based nanoSkunkWorkX (nSWX) has […] The post NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Content-Chance",
+        "founder",
+        "Watchgraph:chips_compute_datacenters"
+      ],
+      "relevance_score": 20,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Content-Chance (+5.0); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0); watchgraph modules chips_compute_datacenters (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "chips_compute_datacenters"
+      ],
+      "watchgraph_reasons": [
+        "chips_compute_datacenters: AI chip"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "XOM",
+        "CVX",
+        "SHEL",
+        "TTE",
+        "BP",
+        "ENB",
+        "SU",
+        "EQNR",
+        "CCJ",
+        "URA"
+      ],
+      "id": "419af930ae1544291f95"
+    },
     {
       "title": "M 5.6 - 155 km WSW of Abepura, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdhl",
@@ -349,6 +510,29 @@
         "LOW"
       ],
       "id": "2e518ba8fdc5c754cef3"
+    },
+    {
+      "title": "The MMM barrier didn’t disappear. It moved",
+      "url": "https://e27.co/the-mmm-barrier-didnt-disappear-it-moved-20260831/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-02T03:10:10+00:00",
+      "fetched_at": "2026-09-02T03:25:01+00:00",
+      "summary": "AdExchanger ran a piece recently on open-source marketing mix modelling having its moment, and apologised on the way in for the new acronym. OS-MMM. Nobody asked for it, but here we are. The underlying claim is not hype. Julian Runge at Northwestern’s Medill School makes the point that you can now prompt an AI agent […] The post The MMM barrier didn’t disappear. It moved appeared first on e27 .",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "GitHub Actions"
+      ],
+      "relevance_score": 17,
+      "relevance_reason": "GitHub Actions (+5.0); AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "84bea27dff0bf2eba9db"
     },
     {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月01日）",
@@ -417,6 +601,28 @@
         "PINS"
       ],
       "id": "bf9b4638156499d8cf56"
+    },
+    {
+      "title": "ShizenBox2における複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN91715694/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-09-02T12:00:00+09:00",
+      "fetched_at": "2026-09-02T03:25:01+00:00",
+      "summary": "株式会社Shizen Connectが提供するShizenBox2には、複数の脆弱性が存在します。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ca83133900973bd8ef89"
     },
     {
       "title": "Hugging Face製Transformersにおけるユーザー同意確認前のリモートコード不正キャッシュの脆弱性",
@@ -587,9 +793,143 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "bec6b5c8e938b05253e9"
+    },
+    {
+      "title": "The creator economy is distribution, not marketing. Most Asian businesses are still scaling it like a campaign",
+      "url": "https://e27.co/the-creator-economy-is-distribution-not-marketing-most-asian-businesses-are-still-scaling-it-like-a-campaign-20260828/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-02T03:00:03+00:00",
+      "fetched_at": "2026-09-02T03:25:01+00:00",
+      "summary": "Last quarter I sat in a review with a consumer brand team going through their best month on record. Live commerce had carried it. The gross merchandise value chart, the total value of everything sold, was close to vertical, and the room could feel it. Then the operations lead opened the second file. Delivery outcomes. […] The post The creator economy is distribution, not marketing. Most Asian businesses are still sc…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c369da51be1dd1c75de5"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging",
+      "url": "https://e27.co/nasa-linked-mit-trained-founders-nswx-raises-us2m-for-ai-chip-packaging-20260902/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-02T03:16:05+00:00",
+      "fetched_at": "2026-09-02T03:25:01+00:00",
+      "summary": "The race to build larger AI models has created a less glamorous but increasingly urgent problem: how to move heat and power through ever-denser chip packages without driving up cost, energy use and complexity. A Malaysian startup now wants to solve part of that problem at the material boundary level. Kuala Lumpur-based nanoSkunkWorkX (nSWX) has […] The post NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Content-Chance",
+        "founder",
+        "Watchgraph:chips_compute_datacenters"
+      ],
+      "relevance_score": 20,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Content-Chance (+5.0); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0); watchgraph modules chips_compute_datacenters (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "chips_compute_datacenters"
+      ],
+      "watchgraph_reasons": [
+        "chips_compute_datacenters: AI chip"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "XOM",
+        "CVX",
+        "SHEL",
+        "TTE",
+        "BP",
+        "ENB",
+        "SU",
+        "EQNR",
+        "CCJ",
+        "URA"
+      ],
+      "id": "419af930ae1544291f95"
+    },
+    {
+      "title": "The MMM barrier didn’t disappear. It moved",
+      "url": "https://e27.co/the-mmm-barrier-didnt-disappear-it-moved-20260831/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-02T03:10:10+00:00",
+      "fetched_at": "2026-09-02T03:25:01+00:00",
+      "summary": "AdExchanger ran a piece recently on open-source marketing mix modelling having its moment, and apologised on the way in for the new acronym. OS-MMM. Nobody asked for it, but here we are. The underlying claim is not hype. Julian Runge at Northwestern’s Medill School makes the point that you can now prompt an AI agent […] The post The MMM barrier didn’t disappear. It moved appeared first on e27 .",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "GitHub Actions"
+      ],
+      "relevance_score": 17,
+      "relevance_reason": "GitHub Actions (+5.0); AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "84bea27dff0bf2eba9db"
+    },
+    {
+      "title": "ShizenBox2における複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN91715694/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-09-02T12:00:00+09:00",
+      "fetched_at": "2026-09-02T03:25:01+00:00",
+      "summary": "株式会社Shizen Connectが提供するShizenBox2には、複数の脆弱性が存在します。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ca83133900973bd8ef89"
+    },
+    {
+      "title": "The creator economy is distribution, not marketing. Most Asian businesses are still scaling it like a campaign",
+      "url": "https://e27.co/the-creator-economy-is-distribution-not-marketing-most-asian-businesses-are-still-scaling-it-like-a-campaign-20260828/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-02T03:00:03+00:00",
+      "fetched_at": "2026-09-02T03:25:01+00:00",
+      "summary": "Last quarter I sat in a review with a consumer brand team going through their best month on record. Live commerce had carried it. The gross merchandise value chart, the total value of everything sold, was close to vertical, and the room could feel it. Then the operations lead opened the second file. Delivery outcomes. […] The post The creator economy is distribution, not marketing. Most Asian businesses are still sc…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c369da51be1dd1c75de5"
+    }
+  ],
   "source_errors": [
     {
       "source_id": "bis_statistics",

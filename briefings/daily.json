@@ -1,7 +1,55 @@
 {
-  "generated_at": "2026-09-02T03:00:32+00:00",
-  "today_file_total": 10,
+  "generated_at": "2026-09-02T03:25:43+00:00",
+  "today_file_total": 14,
   "current_clusters": [
+    {
+      "key": "title:nasa-linked-mit-trained-founders-nswx-raises-chip",
+      "title": "NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/nasa-linked-mit-trained-founders-nswx-raises-us2m-for-ai-chip-packaging-20260902/"
+      ],
+      "finding_count": 1,
+      "max_score": 20,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 25.1,
+      "hot": true,
+      "watchgraph_modules": [
+        "chips_compute_datacenters"
+      ],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "title:mmm-barrier-didn-disappear-moved",
+      "title": "The MMM barrier didn’t disappear. It moved",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/the-mmm-barrier-didnt-disappear-it-moved-20260831/"
+      ],
+      "finding_count": 1,
+      "max_score": 17,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 22.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
     {
       "key": "earthquake:indonesia:5.6",
       "title": "M 5.6 - 155 km WSW of Abepura, Indonesia",
@@ -25,6 +73,29 @@
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "title:shizenbox2",
+      "title": "ShizenBox2における複数の脆弱性",
+      "sources": [
+        "JVN Japan Vulnerability Notes"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://jvn.jp/jp/JVN91715694/"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 19.1,
+      "hot": false,
+      "watchgraph_modules": [],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
@@ -165,6 +236,29 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 10.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:creator-economy-distribution-not-marketing-most-asian-businesses",
+      "title": "The creator economy is distribution, not marketing. Most Asian businesses are still scaling it like a campaign",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/the-creator-economy-is-distribution-not-marketing-most-asian-businesses-are-still-scaling-it-like-a-campaign-20260828/"
+      ],
+      "finding_count": 1,
+      "max_score": 4,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 9.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."

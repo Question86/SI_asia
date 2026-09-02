@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-02T03:00:29+00:00_
+_Generiert: 2026-09-02T03:25:39+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „M 5.6 - 155 km WSW of Abepura, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+14 neue relevante Treffer. Stärkstes Signal: „NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging“ aus e27 Asia Startup and Tech Feed (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -69,6 +69,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging** — Score 20, observation — [Quelle](https://e27.co/nasa-linked-mit-trained-founders-nswx-raises-us2m-for-ai-chip-packaging-20260902/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-02T03:16:05+00:00`, fetched `2026-09-02T03:25:01+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Content-Chance, founder, Watchgraph:chips_compute_datacenters
+  - Watchgraph: chips_compute_datacenters
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, XOM, CVX, SHEL
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Content-Chance (+5.0); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0); watchgraph modules chips_compute_datacenters (+3.0)
+  - Kurz: The race to build larger AI models has created a less glamorous but increasingly urgent problem: how to move heat and power through ever-denser chip packages without driving up cost, energy use and complexity. A Malaysian startup now wants to solve part of that problem at the material boundary level. Kuala Lumpur-based nanoSkunkWorkX (nSWX) has […] The post NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.6 - 155 km WSW of Abepura, Indonesia** — Score 19, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdhl)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-02T00:30:22.495+00:00`, fetched `2026-09-02T00:32:22+00:00`
@@ -78,6 +87,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - IV Time 2026-09-02 00:04:54 UTC 2026-09-02 00:04:54 UTC at epicenter Location 3.213°S 139.373°E Depth 64.64 km (40.17 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **The MMM barrier didn’t disappear. It moved** — Score 17, observation — [Quelle](https://e27.co/the-mmm-barrier-didnt-disappear-it-moved-20260831/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-02T03:10:10+00:00`, fetched `2026-09-02T03:25:01+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar, GitHub Actions
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub Actions (+5.0); AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: AdExchanger ran a piece recently on open-source marketing mix modelling having its moment, and apologised on the way in for the new acronym. OS-MMM. Nobody asked for it, but here we are. The underlying claim is not hype. Julian Runge at Northwestern’s Medill School makes the point that you can now prompt an AI agent […] The post The MMM barrier didn’t disappear. It moved appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **CISA ICS Advisory / ICS Medical Advisory（2026年09月01日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU90253159/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-09-02T09:00:00+09:00`, fetched `2026-09-02T00:32:22+00:00`
@@ -96,6 +114,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); AI/KI (+3.8); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ShizenBox2における複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN91715694/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-09-02T12:00:00+09:00`, fetched `2026-09-02T03:25:01+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 株式会社Shizen Connectが提供するShizenBox2には、複数の脆弱性が存在します。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Hugging Face製Transformersにおけるユーザー同意確認前のリモートコード不正キャッシュの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU97909245/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-09-02T10:15:00+09:00`, fetched `2026-09-02T01:33:07+00:00`
@@ -162,11 +189,20 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: はてなしか見てないと知らんと思うけど、増田は外部サイトで普通にバズっとるんやで。 Xでも、増田の感想をポストしただけで、100万から1000万単位のインプレッションを集めることも珍しくなくなっとる。 例えば、こんな流れももうある種の定番や。 増田に男女ネタや政治ネタ、対立を煽るネタ、その他耳目を集めそうなネ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **The creator economy is distribution, not marketing. Most Asian businesses are still scaling it like a campaign** — Score 4, observation — [Quelle](https://e27.co/the-creator-economy-is-distribution-not-marketing-most-asian-businesses-are-still-scaling-it-like-a-campaign-20260828/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-02T03:00:03+00:00`, fetched `2026-09-02T03:25:01+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: Last quarter I sat in a review with a consumer brand team going through their best month on record. Live commerce had carried it. The gross merchandise value chart, the total value of everything sold, was close to vertical, and the room could feel it. Then the operations lead opened the second file. Delivery outcomes. […] The post The creator economy is distribution, not marketing. Most Asian businesses are still sc…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
-- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 
