@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-02T22:47:40+00:00",
-  "run_id": "2026-09-02T22:47:40+00:00",
+  "generated_at": "2026-09-02T22:55:34+00:00",
+  "run_id": "2026-09-02T22:55:34+00:00",
   "date": "2026-09-02",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
       "configured_public_sources_only": 95
     },
@@ -24,7 +24,7 @@
     "high": 0,
     "medium": 35,
     "observe": 60,
-    "source_errors": 0
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -4904,7 +4904,14 @@
     }
   ],
   "new_findings": [],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "bis_statistics",
+      "source_name": "BIS Statistical Releases",
+      "source_type": "rss",
+      "error": "404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,
