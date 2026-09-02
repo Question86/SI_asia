@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-02T03:25:39+00:00_
+_Generated: 2026-09-02T03:38:45+00:00_
 
 ## Status
 - status: `warning`
-- findings: `14`
+- findings: `15`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-09-02T03:25:39+00:00_
 - url: https://e27.co/vietnams-new-growth-engine-is-built-on-constraint-20260828/
 - summary: Vietnam is entering a new phase of growth that is harder, more selective, and more interesting than the one that came before. The country is still drawing manufacturing, foreign direct investment, and high-tech supply-chain activity at scale, but the real sto…
 
-### 6. Why most AI driven reorgs are solving the wrong problem
+### 6. Forward Deployed Learner: Enabling 22-year-olds to build domain expertise and judgement in the post AI world
+- source: e27 Asia Startup and Tech Feed
+- score: `8`
+- published: `2026-09-02T03:30:54+00:00`
+- url: https://e27.co/forward-deployed-learner-enabling-22-year-olds-to-build-domain-expertise-and-judgement-in-the-post-ai-world-20260828/
+- summary: There is a contradiction emerging in the way we talk about AI and the future of work. As AI gets better at execution, human judgment, critical thinking, context and domain expertise become more valuable. But where exactly is a 22-year-old supposed to get doma…
+
+### 7. Why most AI driven reorgs are solving the wrong problem
 - source: e27 Asia Startup and Tech Feed
 - score: `8`
 - published: `2026-09-02T01:00:52+00:00`
 - url: https://e27.co/why-most-ai-driven-reorgs-are-solving-the-wrong-problem-20260831/
 - summary: In February 2024, Klarna’s CEO Sebastian Siemiatkowski told the world that the company’s AI assistant had taken on the work of 700 customer service agents. Headcount fell from 5,500 to 3,800. The story became the most cited example of AI replacing humans at s…
 
-### 7. なぜ自殺してはいけないのか？ 殺してはいけないのか？ おれのラーメン理論
+### 8. なぜ自殺してはいけないのか？ 殺してはいけないのか？ おれのラーメン理論
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-09-01T23:32:59+00:00`
 - url: https://blog.tinect.jp/?p=91463
 - summary: おれのブログが引用されました 上田信治さんという方からメールが届いた。著書におれのブログからの引用をしたので、ご恵贈いただけるという話だった。 引用に許可もなにもいらないのでありがたい話だと思った。そしておれの手元に『成分表: 偽マキロン・悲しみについて』が届いた。 申し訳ないが、おれは上田信治さんの...
-
-### 8. 読まれる職務経歴書のつくり方｜dora_e_m
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-09-01T16:36:40+00:00`
-- url: https://note.com/dora_e_m/n/n2888ba7764a2
-- summary: はじめにみなさん、職務経歴書、どうやって書いてますか？ 転職というイベントには必要不可欠な書類、職務経歴書。履歴書と異なりフォーマットが定まっていないため、どのように書けばよいか迷ってしまうことがあります。 いざ職務経歴書を書き始めると、これまで関わってきたプロジェクトを「あれもこれも」と盛り込み...
 
 END OF DOCUMENT

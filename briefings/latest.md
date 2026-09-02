@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-02T03:25:39+00:00_
+_Generiert: 2026-09-02T03:38:45+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging“ aus e27 Asia Startup and Tech Feed (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+15 neue relevante Treffer. Stärkstes Signal: „NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging“ aus e27 Asia Startup and Tech Feed (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -153,6 +153,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Vietnam is entering a new phase of growth that is harder, more selective, and more interesting than the one that came before. The country is still drawing manufacturing, foreign direct investment, and high-tech supply-chain activity at scale, but the real story is not the volume of capital. It is the discipline now required to convert […] The post Vietnam’s new growth engine is built on constraint appeared first on…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Forward Deployed Learner: Enabling 22-year-olds to build domain expertise and judgement in the post AI world** — Score 8, observation — [Quelle](https://e27.co/forward-deployed-learner-enabling-22-year-olds-to-build-domain-expertise-and-judgement-in-the-post-ai-world-20260828/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-02T03:30:54+00:00`, fetched `2026-09-02T03:38:16+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: There is a contradiction emerging in the way we talk about AI and the future of work. As AI gets better at execution, human judgment, critical thinking, context and domain expertise become more valuable. But where exactly is a 22-year-old supposed to get domain expertise and judgment? Historically, the answer was work. You joined a […] The post Forward Deployed Learner: Enabling 22-year-olds to build domain expertis…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Why most AI driven reorgs are solving the wrong problem** — Score 8, observation — [Quelle](https://e27.co/why-most-ai-driven-reorgs-are-solving-the-wrong-problem-20260831/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-02T01:00:52+00:00`, fetched `2026-09-02T01:09:46+00:00`
@@ -188,15 +197,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: はてなしか見てないと知らんと思うけど、増田は外部サイトで普通にバズっとるんやで。 Xでも、増田の感想をポストしただけで、100万から1000万単位のインプレッションを集めることも珍しくなくなっとる。 例えば、こんな流れももうある種の定番や。 増田に男女ネタや政治ネタ、対立を煽るネタ、その他耳目を集めそうなネ...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The creator economy is distribution, not marketing. Most Asian businesses are still scaling it like a campaign** — Score 4, observation — [Quelle](https://e27.co/the-creator-economy-is-distribution-not-marketing-most-asian-businesses-are-still-scaling-it-like-a-campaign-20260828/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-02T03:00:03+00:00`, fetched `2026-09-02T03:25:01+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: Last quarter I sat in a review with a consumer brand team going through their best month on record. Live commerce had carried it. The gross merchandise value chart, the total value of everything sold, was close to vertical, and the room could feel it. Then the operations lead opened the second file. Delivery outcomes. […] The post The creator economy is distribution, not marketing. Most Asian businesses are still sc…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

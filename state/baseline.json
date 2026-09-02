@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-02T03:25:43+00:00",
+  "generated_at": "2026-09-02T03:38:48+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -99,9 +99,8 @@
     },
     "domain:openai.com": {
       "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-      "updated_at": "2026-09-02T03:25:43+00:00",
+      "updated_at": "2026-09-02T03:38:48+00:00",
       "network_scores": [
-        25.3,
         25.3,
         25.3,
         25.3,
@@ -130,12 +129,13 @@
         17.1,
         17.1,
         17.1,
+        17.1,
         17.1
       ],
-      "rolling_average": 25.26,
+      "rolling_average": 24.99,
       "rolling_peak": 30.4,
       "last_score": 17.1,
-      "z_hint": -8.16
+      "z_hint": -7.89
     },
     "title:read-remote-repository-content-github-cli": {
       "title": "Read remote repository content with GitHub CLI",
@@ -2725,7 +2725,7 @@
     },
     "title:cisa-ics-advisory-ics-medical-advisory-2026": {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月01日）",
-      "updated_at": "2026-09-02T03:25:43+00:00",
+      "updated_at": "2026-09-02T03:38:48+00:00",
       "network_scores": [
         19.1,
         18.1,
@@ -2750,12 +2750,13 @@
         18.1,
         18.1,
         18.1,
+        18.1,
         18.1
       ],
-      "rolling_average": 18.39,
+      "rolling_average": 18.38,
       "rolling_peak": 21.1,
       "last_score": 18.1,
-      "z_hint": -0.29
+      "z_hint": -0.28
     },
     "github_repo:universal-debloater-alliance/universal-android-debloater-next-generation": {
       "title": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
@@ -9743,7 +9744,7 @@
     },
     "domain:note.com": {
       "title": "読まれる職務経歴書のつくり方｜dora_e_m",
-      "updated_at": "2026-09-02T03:25:43+00:00",
+      "updated_at": "2026-09-02T03:38:48+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -9768,8 +9769,8 @@
         7.1,
         7.1,
         7.1,
-        7.1,
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -11351,7 +11352,7 @@
     },
     "earthquake:indonesia:5.6": {
       "title": "M 5.6 - 155 km WSW of Abepura, Indonesia",
-      "updated_at": "2026-09-02T03:25:43+00:00",
+      "updated_at": "2026-09-02T03:38:48+00:00",
       "network_scores": [
         21.7,
         21.7,
@@ -12174,7 +12175,42 @@
     },
     "title:1000": {
       "title": "増田が1000万インプレッションを超える時代",
-      "updated_at": "2026-09-02T03:25:43+00:00",
+      "updated_at": "2026-09-02T03:38:48+00:00",
+      "network_scores": [
+        10.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1
+      ],
+      "rolling_average": 7.48,
+      "rolling_peak": 10.1,
+      "last_score": 7.1,
+      "z_hint": -0.38
+    },
+    "title:why-most-driven-reorgs-are-solving-wrong-problem": {
+      "title": "Why most AI driven reorgs are solving the wrong problem",
+      "updated_at": "2026-09-02T03:38:48+00:00",
+      "network_scores": [
+        13.1,
+        10.1,
+        10.1,
+        10.1,
+        10.1,
+        10.1,
+        10.1
+      ],
+      "rolling_average": 10.53,
+      "rolling_peak": 13.1,
+      "last_score": 10.1,
+      "z_hint": -0.43
+    },
+    "url:https://blog.tinect.jp/?p=91463": {
+      "title": "なぜ自殺してはいけないのか？ 殺してはいけないのか？ おれのラーメン理論",
+      "updated_at": "2026-09-02T03:38:48+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -12189,122 +12225,108 @@
       "last_score": 7.1,
       "z_hint": -0.43
     },
-    "title:why-most-driven-reorgs-are-solving-wrong-problem": {
-      "title": "Why most AI driven reorgs are solving the wrong problem",
-      "updated_at": "2026-09-02T03:25:43+00:00",
-      "network_scores": [
-        13.1,
-        10.1,
-        10.1,
-        10.1,
-        10.1,
-        10.1
-      ],
-      "rolling_average": 10.6,
-      "rolling_peak": 13.1,
-      "last_score": 10.1,
-      "z_hint": -0.5
-    },
-    "url:https://blog.tinect.jp/?p=91463": {
-      "title": "なぜ自殺してはいけないのか？ 殺してはいけないのか？ おれのラーメン理論",
-      "updated_at": "2026-09-02T03:25:43+00:00",
-      "network_scores": [
-        10.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1
-      ],
-      "rolling_average": 7.6,
-      "rolling_peak": 10.1,
-      "last_score": 7.1,
-      "z_hint": -0.5
-    },
     "title:hugging-face-transformers": {
       "title": "Hugging Face製Transformersにおけるユーザー同意確認前のリモートコード不正キャッシュの脆弱性",
-      "updated_at": "2026-09-02T03:25:43+00:00",
+      "updated_at": "2026-09-02T03:38:48+00:00",
       "network_scores": [
         19.1,
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.7,
+      "rolling_average": 16.6,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.6
+      "z_hint": -0.5
     },
     "title:vietnam-growth-engine-built-constraint": {
       "title": "Vietnam’s new growth engine is built on constraint",
-      "updated_at": "2026-09-02T03:25:43+00:00",
+      "updated_at": "2026-09-02T03:38:48+00:00",
       "network_scores": [
         15.1,
         12.1,
         12.1,
+        12.1,
         12.1
       ],
-      "rolling_average": 12.85,
+      "rolling_average": 12.7,
       "rolling_peak": 15.1,
       "last_score": 12.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "title:stopped-hiring-not-sure-strategy-yet": {
       "title": "I stopped hiring. I’m not sure it’s a strategy yet",
-      "updated_at": "2026-09-02T03:25:43+00:00",
+      "updated_at": "2026-09-02T03:38:48+00:00",
       "network_scores": [
         19.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 17.1,
+      "rolling_average": 16.85,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -1.0
+      "z_hint": -0.75
     },
     "title:nasa-linked-mit-trained-founders-nswx-raises-chip": {
       "title": "NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging",
-      "updated_at": "2026-09-02T03:25:43+00:00",
+      "updated_at": "2026-09-02T03:38:48+00:00",
       "network_scores": [
-        25.1
+        25.1,
+        22.1
       ],
-      "rolling_average": 25.1,
+      "rolling_average": 23.6,
       "rolling_peak": 25.1,
-      "last_score": 25.1,
-      "z_hint": 0.0
+      "last_score": 22.1,
+      "z_hint": -1.5
     },
     "title:mmm-barrier-didn-disappear-moved": {
       "title": "The MMM barrier didn’t disappear. It moved",
-      "updated_at": "2026-09-02T03:25:43+00:00",
+      "updated_at": "2026-09-02T03:38:48+00:00",
       "network_scores": [
-        22.1
+        22.1,
+        19.1
       ],
-      "rolling_average": 22.1,
+      "rolling_average": 20.6,
       "rolling_peak": 22.1,
-      "last_score": 22.1,
-      "z_hint": 0.0
+      "last_score": 19.1,
+      "z_hint": -1.5
     },
     "title:shizenbox2": {
       "title": "ShizenBox2における複数の脆弱性",
-      "updated_at": "2026-09-02T03:25:43+00:00",
+      "updated_at": "2026-09-02T03:38:48+00:00",
       "network_scores": [
-        19.1
+        19.1,
+        16.1
       ],
-      "rolling_average": 19.1,
+      "rolling_average": 17.6,
       "rolling_peak": 19.1,
-      "last_score": 19.1,
-      "z_hint": 0.0
+      "last_score": 16.1,
+      "z_hint": -1.5
     },
     "title:creator-economy-distribution-not-marketing-most-asian-businesses": {
       "title": "The creator economy is distribution, not marketing. Most Asian businesses are still scaling it like a campaign",
-      "updated_at": "2026-09-02T03:25:43+00:00",
+      "updated_at": "2026-09-02T03:38:48+00:00",
       "network_scores": [
-        9.1
+        9.1,
+        6.1
       ],
-      "rolling_average": 9.1,
+      "rolling_average": 7.6,
       "rolling_peak": 9.1,
-      "last_score": 9.1,
+      "last_score": 6.1,
+      "z_hint": -1.5
+    },
+    "title:forward-deployed-learner-enabling-year-olds-build-domain": {
+      "title": "Forward Deployed Learner: Enabling 22-year-olds to build domain expertise and judgement in the post AI world",
+      "updated_at": "2026-09-02T03:38:48+00:00",
+      "network_scores": [
+        13.1
+      ],
+      "rolling_average": 13.1,
+      "rolling_peak": 13.1,
+      "last_score": 13.1,
       "z_hint": 0.0
     }
   }
