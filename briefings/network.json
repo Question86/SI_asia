@@ -1,58 +1,52 @@
 {
-  "generated_at": "2026-09-02T16:57:59+00:00",
+  "generated_at": "2026-09-02T17:18:01+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 82,
-    "clusters": 55,
+    "findings": 83,
+    "clusters": 56,
     "cross_source_confrmed": 1,
-    "hot": 0,
-    "early_signals": 0,
-    "dominance_penalized": 10
+    "hot": 1,
+    "early_signals": 1,
+    "dominance_penalized": 11
   },
   "clusters": [
     {
-      "key": "domain:www.bis.org",
-      "title": "Statistical release: BIS international banking statistics and global liquidity indicators at end-March 2026",
+      "key": "domain:lycorptech-jp.connpass.com",
+      "title": "ローカルLLMでどこまでコードが書けるか -LLM基礎知識 / How much code can be written on a local LLM - fundamental knowledge",
       "sources": [
-        "BIS Statistical Releases"
+        "Hatena Bookmark Hotentry IT"
       ],
       "source_classes": [
-        "central_bank",
         "tier3_specialist"
       ],
       "urls": [
-        "https://www.bis.org/publications/202607-commentary-ibs-gli",
-        "https://www.bis.org/publications/202604-commentary-ibs-gli",
-        "https://www.bis.org/publications/202601-commentary-ibs-gli",
-        "https://www.bis.org/publications/202608-commentary-residential-property-prices",
-        "https://www.bis.org/publications/202605-commentary-residential-property-prices",
-        "https://www.bis.org/publications/202602-commentary-residential-property-prices"
+        "https://speakerdeck.com/kishida/how-much-code-can-be-written-on-a-local-llm-fundamental-knowledge"
       ],
-      "finding_count": 6,
-      "max_score": 11,
-      "credibility_total": 6.3,
+      "finding_count": 1,
+      "max_score": 16,
+      "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 6,
+      "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 25.83,
-      "hot": false,
+      "network_score": 27.5,
+      "hot": true,
       "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 41.6,
-      "ranking_score": 25.83,
-      "initial_reach_tier": "institutional",
-      "source_reach_score": 5.0,
-      "authority_bonus_capped": 3.0,
+      "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
+      "raw_network_score": 21.1,
+      "ranking_score": 27.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 8.0,
-      "baseline_bonus": 3.83,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 7.5,
       "high_signal": false,
-      "dominant_emitter": true,
+      "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-06-18T14:33:45+00:00"
+      "first_seen_at": "2026-09-02T17:18:01+00:00"
     },
     {
       "key": "title:nasa-linked-mit-trained-founders-nswx-raises-chip",
@@ -490,46 +484,6 @@
       "first_seen_at": "2026-09-02T12:41:35+00:00"
     },
     {
-      "key": "domain:www.heise.de",
-      "title": "ServiceNow AI Platform: Angreifer können aus Sandbox ausbrechen",
-      "sources": [
-        "heise Security Alerts"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.heise.de/news/ServiceNow-AI-Platform-Angreifer-koennen-aus-Sandbox-ausbrechen-11438540.html",
-        "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-Langflow-Instanzen-mit-Schadcode-11437701.html",
-        "https://www.heise.de/news/Remotezugriff-Sonicwall-SMA1000-Angreifer-verbiegen-interne-Dienste-11438326.html"
-      ],
-      "finding_count": 3,
-      "max_score": 14,
-      "credibility_total": 3.15,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 16.54,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 20.3,
-      "ranking_score": 16.54,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 1.04,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-19T07:39:37+00:00"
-    },
-    {
       "key": "domain:openai.com",
       "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
       "sources": [
@@ -568,6 +522,46 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-06-17T20:44:40+00:00"
+    },
+    {
+      "key": "domain:www.heise.de",
+      "title": "ServiceNow AI Platform: Angreifer können aus Sandbox ausbrechen",
+      "sources": [
+        "heise Security Alerts"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.heise.de/news/ServiceNow-AI-Platform-Angreifer-koennen-aus-Sandbox-ausbrechen-11438540.html",
+        "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-Langflow-Instanzen-mit-Schadcode-11437701.html",
+        "https://www.heise.de/news/Remotezugriff-Sonicwall-SMA1000-Angreifer-verbiegen-interne-Dienste-11438326.html"
+      ],
+      "finding_count": 3,
+      "max_score": 14,
+      "credibility_total": 3.15,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 16.43,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 20.3,
+      "ranking_score": 16.43,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.93,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T07:39:37+00:00"
     },
     {
       "key": "title:visionterminal-visionterminal-xml-xxe",
@@ -1191,6 +1185,50 @@
       "first_seen_at": "2026-09-02T02:03:01+00:00"
     },
     {
+      "key": "domain:www.bis.org",
+      "title": "Statistical release: BIS international banking statistics and global liquidity indicators at end-March 2026",
+      "sources": [
+        "BIS Statistical Releases"
+      ],
+      "source_classes": [
+        "central_bank",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.bis.org/publications/202607-commentary-ibs-gli",
+        "https://www.bis.org/publications/202604-commentary-ibs-gli",
+        "https://www.bis.org/publications/202601-commentary-ibs-gli",
+        "https://www.bis.org/publications/202608-commentary-residential-property-prices",
+        "https://www.bis.org/publications/202605-commentary-residential-property-prices",
+        "https://www.bis.org/publications/202602-commentary-residential-property-prices"
+      ],
+      "finding_count": 6,
+      "max_score": 11,
+      "credibility_total": 6.3,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 11.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 23.6,
+      "ranking_score": 11.0,
+      "initial_reach_tier": "institutional",
+      "source_reach_score": 5.0,
+      "authority_bonus_capped": 3.0,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
       "key": "earthquake:alaska:5.2",
       "title": "M 5.2 - 78 km SSW of Nikolski, Alaska",
       "sources": [
@@ -1210,20 +1248,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 10.68,
+      "network_score": 10.65,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "raw_network_score": 16.4,
-      "ranking_score": 10.68,
+      "ranking_score": 10.65,
       "initial_reach_tier": "official",
       "source_reach_score": 4.0,
       "authority_bonus_capped": 2.4,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.28,
+      "baseline_bonus": 0.25,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -2163,7 +2201,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-02T16:57:59Z",
+    "generated_at": "2026-09-02T17:18:01Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
