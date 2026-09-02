@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-02T01:11:42Z",
+  "generated_at": "2026-09-02T01:37:23Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 5.6 - 155 km WSW of Abepura, Indonesia” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.5.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdhl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-01T08:46:46+00:00",
-      "age_days": 0.68,
+      "age_days": 0.7,
       "topics": [
         "general"
       ],
@@ -35,11 +35,59 @@
       "summary": ""
     },
     {
+      "title": "Hugging Face製Transformersにおけるユーザー同意確認前のリモートコード不正キャッシュの脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU97909245/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-09-02T10:15:00+09:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: jvn, security"
+      ],
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
+    },
+    {
+      "title": "Hugging Face製Transformersにおけるユーザー同意確認前のリモートコード不正キャッシュの脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU97909245/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-09-02T01:33:41+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月01日）",
       "url": "https://jvn.jp/vu/JVNVU90253159/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-02T09:00:00+09:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -64,7 +112,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdhl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-02T00:30:22.495+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -84,36 +132,11 @@
       "summary": "PAGER - GREEN ShakeMap - IV Time 2026-09-02 00:04:54 UTC 2026-09-02 00:04:54 UTC at epicenter Location 3.213°S 139.373°E Depth 64.64 km (40.17 mi)"
     },
     {
-      "title": "読まれる職務経歴書のつくり方｜dora_e_m",
-      "url": "https://note.com/dora_e_m/n/n2888ba7764a2",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 1.27,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 19.58,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 2.8,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 2.80"
-      ],
-      "summary": ""
-    },
-    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月01日）",
       "url": "https://jvn.jp/vu/JVNVU90253159/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 74.97,
+      "age_days": 74.99,
       "topics": [
         "general"
       ],
@@ -138,7 +161,32 @@
       "url": "https://anond.hatelabo.jp/20260901224029",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-02T00:32:59+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2",
+        "high terms: 10"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "読まれる職務経歴書のつくり方｜dora_e_m",
+      "url": "https://note.com/dora_e_m/n/n2888ba7764a2",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-31T18:43:10+00:00",
+      "age_days": 1.29,
       "topics": [
         "general"
       ],
@@ -148,13 +196,12 @@
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1",
-        "high terms: 10"
+        "momentum delta +3"
       ],
       "summary": ""
     },
@@ -163,7 +210,7 @@
       "url": "https://openai.com/index/gilbert-tobin",
       "source": "OpenAI News RSS",
       "published_at": "2026-09-01T01:00:00+00:00",
-      "age_days": 1.01,
+      "age_days": 1.03,
       "topics": [
         "ai"
       ],
@@ -185,62 +232,11 @@
       "summary": "See how Gilbert + Tobin combines CEO-led commitment, rigorous governance, and human accountability to scale ChatGPT Enterprise and Codex across the firm."
     },
     {
-      "title": "なぜ自殺してはいけないのか？ 殺してはいけないのか？ おれのラーメン理論",
-      "url": "https://blog.tinect.jp/?p=91463",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-02T01:10:24+00:00",
-      "age_days": 0.0,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
-      "url": "https://openai.com/index/gilbert-tobin",
-      "source": "OpenAI News RSS",
-      "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 76.19,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 10.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 76.2d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "増田が1000万インプレッションを超える時代",
       "url": "https://anond.hatelabo.jp/20260901224029",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-01T13:44:33+00:00",
-      "age_days": 0.48,
+      "age_days": 0.5,
       "topics": [
         "general"
       ],
@@ -260,54 +256,55 @@
       "summary": "はてなしか見てないと知らんと思うけど、増田は外部サイトで普通にバズっとるんやで。 Xでも、増田の感想をポストしただけで、100万から1000万単位のインプレッションを集めることも珍しくなくなっとる。 例えば、こんな流れももうある種の定番や。 増田に男女ネタや政治ネタ、対立を煽るネタ、その他耳目を集めそうなネ..."
     },
     {
-      "title": "Why most AI driven reorgs are solving the wrong problem",
-      "url": "https://e27.co/why-most-ai-driven-reorgs-are-solving-the-wrong-problem-20260831/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-02T01:10:24+00:00",
-      "age_days": 0.0,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 6.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "なぜ自殺してはいけないのか？ 殺してはいけないのか？ おれのラーメン理論",
       "url": "https://blog.tinect.jp/?p=91463",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-01T23:32:59+00:00",
-      "age_days": 0.07,
+      "published_at": "2026-09-02T01:10:24+00:00",
+      "age_days": 0.02,
       "topics": [
         "general"
       ],
-      "dynamics_score": 5.0,
+      "dynamics_score": 9.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 0,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "no strong comparative reason"
+        "momentum delta +1"
       ],
-      "summary": "おれのブログが引用されました 上田信治さんという方からメールが届いた。著書におれのブログからの引用をしたので、ご恵贈いただけるという話だった。 引用に許可もなにもいらないのでありがたい話だと思った。そしておれの手元に『成分表: 偽マキロン・悲しみについて』が届いた。 申し訳ないが、おれは上田信治さんの..."
+      "summary": ""
+    },
+    {
+      "title": "How law firm Gilbert + Tobin governs and scales AI with OpenAI",
+      "url": "https://openai.com/index/gilbert-tobin",
+      "source": "OpenAI News RSS",
+      "published_at": "2026-06-17T20:44:40+00:00",
+      "age_days": 76.2,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 8.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "aging penalty -8.0 for 76.2d old signal",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
     }
   ],
   "read_order": [
@@ -319,9 +316,9 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 3,
+      "strong": 5,
       "watch": 4,
-      "quiet": 5
+      "quiet": 3
     }
   }
 }
