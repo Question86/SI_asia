@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T23:07:10+00:00",
-  "run_id": "2026-09-02T23:07:10+00:00",
+  "generated_at": "2026-09-02T23:20:11+00:00",
+  "run_id": "2026-09-02T23:20:11+00:00",
   "date": "2026-09-02",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 95
+      "configured_public_sources_only": 96
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 95,
-    "displayed_findings": 95,
+    "new_relevant_findings": 1,
+    "today_file_total": 96,
+    "displayed_findings": 96,
     "high": 0,
     "medium": 35,
-    "observe": 60,
+    "observe": 61,
     "source_errors": 1
   },
   "sections": {
@@ -1097,6 +1097,27 @@
           "LOW"
         ],
         "id": "03820c31780a9889941f"
+      },
+      {
+        "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+        "url": "https://openai.com/index/atv-big-air-tour",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-09-02T12:00:00+00:00",
+        "fetched_at": "2026-09-02T23:19:41+00:00",
+        "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+        "matched_keywords": [
+          "OpenAI",
+          "Webentwicklung"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "OpenAI (+7.5); Webentwicklung (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c464baa047b196b8b8c3"
       },
       {
         "title": "Announcing 20260078 (OT,liquidity providing), for 7 days deadline 09:45",
@@ -3536,6 +3557,27 @@
       "id": "03820c31780a9889941f"
     },
     {
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "url": "https://openai.com/index/atv-big-air-tour",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-02T12:00:00+00:00",
+      "fetched_at": "2026-09-02T23:19:41+00:00",
+      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+      "matched_keywords": [
+        "OpenAI",
+        "Webentwicklung"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "OpenAI (+7.5); Webentwicklung (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c464baa047b196b8b8c3"
+    },
+    {
       "title": "Announcing 20260078 (OT,liquidity providing), for 7 days deadline 09:45",
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260078.en.html",
       "source": "ECB Open Market Operations and Communication",
@@ -4903,7 +4945,29 @@
       "id": "c369da51be1dd1c75de5"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT",
+      "url": "https://openai.com/index/atv-big-air-tour",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-02T12:00:00+00:00",
+      "fetched_at": "2026-09-02T23:19:41+00:00",
+      "summary": "ATV Big Air Tour uses ChatGPT Work to speed up marketing, merchandising, and more. It even turned merchandise photos into an inventory website in 15 minutes.",
+      "matched_keywords": [
+        "OpenAI",
+        "Webentwicklung"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "OpenAI (+7.5); Webentwicklung (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c464baa047b196b8b8c3"
+    }
+  ],
   "source_errors": [
     {
       "source_id": "bis_statistics",
