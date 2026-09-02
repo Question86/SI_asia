@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-02T20:57:24+00:00_
+_Generiert: 2026-09-02T21:14:46+00:00_
 
 ## Kurzlage
 
-91 neue relevante Treffer. Stärkstes Signal: „NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging“ aus e27 Asia Startup and Tech Feed (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+92 neue relevante Treffer. Stärkstes Signal: „NASA-linked, MIT-trained founders’ nSWX raises US$2M for AI chip packaging“ aus e27 Asia Startup and Tech Feed (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -195,6 +195,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)
   - Kurz: Announcing 20260078 (OT,liquidity providing), for 7 days deadline 09:45
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!** — Score 11, observation — [Quelle](https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/)
+  - Quelle: GitHub Blog Atom / `rss`
+  - Zeit: published `2026-09-02T21:00:00+00:00`, fetched `2026-09-02T21:14:13+00:00`
+  - Treffer: AI/KI, Automatisierung, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Automatisierung (+4.0); GitHub (+2.0); recent (+1.0)
+  - Kurz: From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. The post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Anthropic公式のClaude Code講座で学んだ「4つのD」** — Score 11, observation — [Quelle](https://zenn.dev/karamage/articles/2ef2c2aea7dfdf)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-02T02:47:58+00:00`, fetched `2026-09-02T14:00:35+00:00`
@@ -275,15 +284,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); ausgenutzt (+2.5); recent (+1.0)
   - Kurz: Version 1.0: SonicWall SMA1000 - Schwachstellen werden aktiv ausgenutzt
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Jetzt patchen! Angreifer attackieren Langflow-Instanzen mit Schadcode** — Score 10, observation — [Quelle](https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-Langflow-Instanzen-mit-Schadcode-11437701.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-09-02T07:21:00.000+00:00`, fetched `2026-09-02T07:47:50+00:00`
-  - Treffer: AI/KI, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Security (+6.0); recent (+1.0)
-  - Kurz: Angreifer nutzen derzeit eine kritische Sicherheitslücke im KI-Tool Langflow aus. Ein Sicherheitspatch ist schon länger verfügbar.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

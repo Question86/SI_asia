@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T20:57:24+00:00",
-  "run_id": "2026-09-02T20:57:24+00:00",
+  "generated_at": "2026-09-02T21:14:46+00:00",
+  "run_id": "2026-09-02T21:14:46+00:00",
   "date": "2026-09-02",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 91
+      "configured_public_sources_only": 92
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 91,
-    "displayed_findings": 91,
+    "today_file_total": 92,
+    "displayed_findings": 92,
     "high": 0,
     "medium": 35,
-    "observe": 56,
+    "observe": 57,
     "source_errors": 1
   },
   "sections": {
@@ -1119,6 +1119,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "8c999495926a25c09068"
+      },
+      {
+        "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+        "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/",
+        "source": "GitHub Blog Atom",
+        "source_type": "rss",
+        "published_at": "2026-09-02T21:00:00+00:00",
+        "fetched_at": "2026-09-02T21:14:13+00:00",
+        "summary": "From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. The post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "AI/KI",
+          "Automatisierung",
+          "GitHub"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "AI/KI (+3.8); Automatisierung (+4.0); GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9e3005198ab87d34a0ba"
       },
       {
         "title": "M 5.2 - 78 km SSW of Nikolski, Alaska",
@@ -3458,6 +3480,28 @@
       "id": "8c999495926a25c09068"
     },
     {
+      "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+      "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/",
+      "source": "GitHub Blog Atom",
+      "source_type": "rss",
+      "published_at": "2026-09-02T21:00:00+00:00",
+      "fetched_at": "2026-09-02T21:14:13+00:00",
+      "summary": "From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. The post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "AI/KI",
+        "Automatisierung",
+        "GitHub"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "AI/KI (+3.8); Automatisierung (+4.0); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9e3005198ab87d34a0ba"
+    },
+    {
       "title": "M 5.2 - 78 km SSW of Nikolski, Alaska",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdmm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -4705,25 +4749,26 @@
   ],
   "new_findings": [
     {
-      "title": "Aurora DSQL の現状 2026 (Rails の場合)",
-      "url": "https://diary.sorah.jp/2026/09/03/dsql-in-action",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+      "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/",
+      "source": "GitHub Blog Atom",
       "source_type": "rss",
-      "published_at": "2026-09-02T16:00:07+00:00",
-      "fetched_at": "2026-09-02T20:56:49+00:00",
-      "summary": "Also available in: English Aurora DSQL が re:Invent 2024 で披露されてから 1.5 年程度たちました。DynamoDB 程度の手軽さで SQL を喋る RDBMS が利用できる上に、DynamoDB を含む purpose-built databases にありがちな設計の難しさがない、という点でかなり便利なデータベースサービスになっています。ただ、それだ...",
+      "published_at": "2026-09-02T21:00:00+00:00",
+      "fetched_at": "2026-09-02T21:14:13+00:00",
+      "summary": "From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. The post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! appeared first on The GitHub Blog .",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "AI/KI",
+        "Automatisierung",
+        "GitHub"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 11,
+      "relevance_reason": "AI/KI (+3.8); Automatisierung (+4.0); GitHub (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "b1f96faa9dc28bc967dc"
+      "id": "9e3005198ab87d34a0ba"
     }
   ],
   "source_errors": [
