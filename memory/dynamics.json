@@ -1,1055 +1,119 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-02T23:48:57Z",
+  "generated_at": "2026-09-03T00:37:39Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 40,
+    "dynamics": 4,
     "bands": {
-      "extreme": 4,
-      "krass": 16,
-      "strong": 20
+      "watch": 2,
+      "quiet": 2
     },
     "bands_after_gate_recheck": {
-      "krass": 5,
-      "strong": 34,
-      "watch": 1
+      "watch": 2,
+      "quiet": 2
     }
   },
   "top_dynamics": [
     {
-      "title": "[NEU] [hoch] Microsoft GitHub Enterprise Server: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3151",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-09-02T11:16:05+00:00",
-      "age_days": 0.52,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 33.0,
-      "raw_band": "krass",
-      "dynamic_band": "krass",
-      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": true,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code",
-        "security high-signal: code"
-      ],
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Microsoft GitHub Enterprise Server ausnutzen, um Informationen offenzulegen oder beliebigen Code auszuführen."
-    },
-    {
-      "title": "[NEU] [hoch] Coolify: Schwachstelle ermöglicht Codeausführung",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3150",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-09-02T11:01:05+00:00",
-      "age_days": 0.53,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 31.0,
-      "raw_band": "krass",
-      "dynamic_band": "krass",
-      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": true,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code, auth",
-        "security high-signal: code, auth"
-      ],
-      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Coolify ausnutzen, um beliebigen Programmcode auszuführen."
-    },
-    {
-      "title": "[NEU] [hoch] Aruba ArubaOS-CX: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3140",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-09-02T10:46:07+00:00",
-      "age_days": 0.54,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 31.0,
-      "raw_band": "krass",
-      "dynamic_band": "krass",
-      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": true,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code, root",
-        "security high-signal: code, root"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Aruba ArubaOS-CX ausnutzen, um beliebigen Code mit erhöhten/Root-Rechten auszuführen, Sicherheitsmaßnahmen zu umgehen, erhöhte Rechte – einschließlich Administratorzugriff – zu erlangen, Daten offenzulegen oder zu manipulieren, Cross-Site-Scripting durchzuführen oder Denial…"
-    },
-    {
-      "title": "[NEU] [hoch] Mozilla Firefox und Thunderbird: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3132",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-09-02T10:26:06+00:00",
-      "age_days": 0.56,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 31.0,
-      "raw_band": "krass",
-      "dynamic_band": "krass",
-      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": true,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: angriffe, code",
-        "security high-signal: angriffe, code"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Mozilla Firefox und Thunderbird ausnutzen, um Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, sensible Informationen offenzulegen, Daten zu manipulieren, Spoofing-Angriffe durchzuführen, möglicherweise durch Speicherbeschädigungen beliebigen Code auszuführen o…"
-    },
-    {
-      "title": "[NEU] [hoch] Elasticsearch: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3131",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-09-02T10:26:05+00:00",
-      "age_days": 0.56,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 31.0,
-      "raw_band": "krass",
-      "dynamic_band": "krass",
-      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": true,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code",
-        "security high-signal: code"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Elasticsearch ausnutzen, um einen Denial of Service Angriff durchzuführen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen oder vertrauliche Informationen offenzulegen."
-    },
-    {
-      "title": "[MàJ] Vulnérabilité dans Fortinet FortiOS (09 février 2024)",
-      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-004/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2026-09-02T12:41:35+00:00",
-      "age_days": 0.46,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 26.5,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: fortinet"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 5.6 - 155 km WSW of Abepura, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdhl",
+      "title": "M 6.2 - South Sandwich Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdrv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-01T08:46:46+00:00",
-      "age_days": 1.63,
+      "published_at": "2026-09-03T00:15:45+00:00",
+      "age_days": 0.02,
       "topics": [
         "general"
       ],
-      "dynamics_score": 26.5,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "ServiceNow AI Platform: Angreifer können aus Sandbox ausbrechen",
-      "url": "https://www.heise.de/news/ServiceNow-AI-Platform-Angreifer-koennen-aus-Sandbox-ausbrechen-11438540.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-09-02T13:17:00.000+00:00",
-      "age_days": 0.44,
-      "topics": [
-        "ai",
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: security"
-      ],
-      "summary": "Die Software zum Automatisieren und Optimieren von Geschäftsprozessen ServiceNow AI Platform ist verwundbar."
-    },
-    {
-      "title": "キーエンス製XG VisionTerminalおよびXG-X VisionTerminalにおけるにおけるXML外部エンティティ参照（XXE）の不適切な制限の脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU98062224/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-09-02T13:00:00+09:00",
-      "age_days": 0.83,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: jvn, security"
-      ],
-      "summary": "株式会社キーエンスが提供するXG VisionTerminalおよびXG-X VisionTerminalには、におけるXML外部エンティティ参照（XXE）の不適切な制限の脆弱性が存在します。"
-    },
-    {
-      "title": "ShizenBox2における複数の脆弱性",
-      "url": "https://jvn.jp/jp/JVN91715694/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-09-02T12:00:00+09:00",
-      "age_days": 0.87,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: jvn, security"
-      ],
-      "summary": "株式会社Shizen Connectが提供するShizenBox2には、複数の脆弱性が存在します。"
-    },
-    {
-      "title": "[NEU] [mittel] cURL: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3149",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-09-02T10:56:05+00:00",
-      "age_days": 0.54,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cert-bund, bsi, security, advisory"
-      ],
-      "summary": "Ein entfernter Angreifer kann mehrere Schwachstellen in cURL ausnutzen, um Sicherheitsmechanismen zu umgehen, Informationen offenzulegen und einen Denial-of-Service-Zustand herbeizuführen."
-    },
-    {
-      "title": "[NEU] [mittel] FasterXML Jackson: Schwachstelle ermöglicht nicht spezifizierten Angriff",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3147",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-09-02T10:56:05+00:00",
-      "age_days": 0.54,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cert-bund, bsi, security, advisory"
-      ],
-      "summary": "Ein Angreifer kann eine Schwachstelle in FasterXML Jackson ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen."
-    },
-    {
-      "title": "[NEU] [hoch] Jolokia: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3148",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-09-02T10:56:05+00:00",
-      "age_days": 0.54,
-      "topics": [
-        "ai",
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cert-bund, bsi, security, advisory"
-      ],
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Jolokia ausnutzen, um Sicherheitsvorkehrungen zu umgehen."
-    },
-    {
-      "title": "[NEU] [mittel] Erlang/OTP: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3146",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-09-02T10:51:05+00:00",
-      "age_days": 0.54,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cert-bund, bsi, security, advisory"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Erlang/OTP ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren oder offenzulegen oder einen Denial-of-Service-Zustand auszulösen."
-    },
-    {
-      "title": "[NEU] [mittel] IBM i: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3141",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-09-02T10:46:07+00:00",
-      "age_days": 0.54,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cert-bund, bsi, security, advisory"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM i ausnutzen, um einen Denial of Service Angriff durchzuführen oder Informationen offenzulegen."
-    },
-    {
-      "title": "Hugging Face製Transformersにおけるユーザー同意確認前のリモートコード不正キャッシュの脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU97909245/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-09-02T10:15:00+09:00",
-      "age_days": 0.94,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: jvn, security"
-      ],
-      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-    },
-    {
-      "title": "Taiwan’s six-year hunt for China’s undercover chip labs",
-      "url": "https://restofworld.org/2026/taiwan-china-chip-investigations/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "source": "Rest of World Global Tech Feed",
-      "published_at": "2026-09-02T10:00:00+00:00",
-      "age_days": 0.58,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: rce",
-        "security high-signal: rce"
-      ],
-      "summary": "Previously unpublished government data reveals the scale of Taiwan’s crackdown on Chinese companies accused of hiding their ties while recruiting chip talent and pursuing sensitive technology."
-    },
-    {
-      "title": "Euro area bank interest rate statistics: July 2026",
-      "url": "https://www.ecb.europa.eu//press/stats/mfi/html/ecb.mir260902~d54675e442.en.html",
-      "source": "ECB Open Market Operations and Communication, ECB Statistical Press Releases",
-      "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 76.39,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 2,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "source breadth +2",
-        "momentum delta +3",
-        "high terms: rce",
-        "security high-signal: rce",
-        "aging penalty -8.0 for 76.4d old signal",
-        "extreme gate recheck: insufficient independent/current evidence"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Statistical release: BIS international banking statistics and global liquidity indicators at end-March 2026",
-      "url": "https://www.bis.org/publications/202607-commentary-ibs-gli",
-      "source": "BIS Press Releases, BIS Statistical Releases",
-      "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 76.39,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 2,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.48,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "source breadth +2",
-        "momentum delta +3",
-        "baseline z_hint 0.48",
-        "high terms: rce",
-        "security high-signal: rce",
-        "aging penalty -8.0 for 76.4d old signal",
-        "extreme gate recheck: insufficient independent/current evidence"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "[NEU] [hoch] Rockwell Automation FactoryTalk Activation Manager und Historian Machine Edition: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3143",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-09-02T10:46:09+00:00",
-      "age_days": 0.54,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code",
-        "security high-signal: code",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein Angreifer aus einem angrenzenden Netzwerk kann mehrere Schwachstellen in Rockwell Automation FactoryTalk ausnutzen, um beliebigen Programmcode auszuführen, Administratorrechte zu erlangen oder einen Denial-of-Service-Zustand auszulösen."
-    },
-    {
-      "title": "[NEU] [mittel] Rockwell Automation ControlLogix 5580, CompactLogix 5380, und CompactLogix 5480: Mehrere Schwachstellen ermöglichen Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3142",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-09-02T10:46:08+00:00",
-      "age_days": 0.54,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cert-bund, bsi, security, advisory",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Rockwell Automation ControlLogix und Rockwell Automation CompactLogix ausnutzen, um einen Denial of Service Angriff durchzuführen."
-    },
-    {
-      "title": "Vulnérabilité dans SPIP (21 août 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1063/",
-      "source": "CERT-FR Avis de sécurité",
-      "published_at": "2026-08-21T00:00:00+00:00",
-      "age_days": 12.99,
-      "topics": [
-        "ai",
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: active, code, 10",
-        "security high-signal: active, code, 10",
-        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
-      ],
-      "summary": "Une vulnérabilité a été découverte dans SPIP. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. L'éditeur indique que cette vulnérabilité est activement exploitée."
-    },
-    {
-      "title": "[NEU] [kritisch] SonicWall SMA: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3135",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-09-02T11:16:05+00:00",
-      "age_days": 0.52,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: kritisch, code",
-        "security high-signal: kritisch, code",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in SonicWall SMA ausnutzen, um Sicherheitsvorkehrungen zu umgehen und Code mit Administratorrechten auszuführen."
-    },
-    {
-      "title": "[NEU] [kritisch] Proxmox Virtual Environment: Schwachstelle ermöglicht Erlangen von Administratorrechten",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3144",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-09-02T10:46:09+00:00",
-      "age_days": 0.54,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: kritisch",
-        "security high-signal: kritisch",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Proxmox Virtual Environment ausnutzen, um Administratorrechte zu erlangen."
-    },
-    {
-      "title": "[NEU] [hoch] Kibana: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3145",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-09-02T10:46:09+00:00",
-      "age_days": 0.54,
-      "topics": [
-        "ai",
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: auth",
-        "security high-signal: auth",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Kibana ausnutzen, um seine Privilegien zu erhöhen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen oder einen Denial-of-Service-Zustand auszulösen."
-    },
-    {
-      "title": "[NEU] [hoch] Google Chrome: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3133",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-09-02T10:26:06+00:00",
-      "age_days": 0.56,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: angriffe, code",
-        "security high-signal: angriffe, code",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome ausnutzen, um beliebigen Programmcode auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, sensible Informationen offenzulegen, Spoofing-Angriffe durchzuführen, Daten zu manipulieren oder Denial-of-Service-Zustände zu verursachen."
-    },
-    {
-      "title": "[UPDATE] [mittel] IBM Java SDK: Schwachstelle ermöglicht Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3044",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-09-02T09:41:05+00:00",
-      "age_days": 0.59,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: auth",
-        "security high-signal: auth",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in IBM Java SDK ausnutzen, um einen Denial of Service Angriff durchzuführen."
-    },
-    {
-      "title": "[UPDATE] [hoch] Oracle Virtualization: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0172",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-09-02T05:31:06+00:00",
-      "age_days": 0.76,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: auth",
-        "security high-signal: auth",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Virtualization ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden."
-    },
-    {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月01日）",
-      "url": "https://jvn.jp/vu/JVNVU90253159/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-09-02T09:00:00+09:00",
-      "age_days": 0.99,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cisa, jvn, security, advisory",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-    },
-    {
-      "title": "Version 1.0: SonicWall SMA1000 - Schwachstellen werden aktiv ausgenutzt",
-      "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-288433-1032_bits.html",
-      "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
-      "published_at": "2026-09-02T13:15:00+00:00",
-      "age_days": 0.44,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: ausgenutzt, 10",
-        "security high-signal: ausgenutzt, 10",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Version 1.0: SonicWall SMA1000 - Schwachstellen werden aktiv ausgenutzt"
-    },
-    {
-      "title": "Jetzt patchen! Angreifer attackieren Langflow-Instanzen mit Schadcode",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-Langflow-Instanzen-mit-Schadcode-11437701.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-09-02T07:21:00.000+00:00",
-      "age_days": 0.69,
-      "topics": [
-        "ai",
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: kritisch, code",
-        "security high-signal: kritisch, code",
-        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
-      ],
-      "summary": "Angreifer nutzen derzeit eine kritische Sicherheitslücke im KI-Tool Langflow aus. Ein Sicherheitspatch ist schon länger verfügbar."
-    },
-    {
-      "title": "[NEU] [hoch] Rockwell Automation FactoryTalk Activation Manager und Historian Machine Edition: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3143",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 5.4,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "high terms: rce",
-        "security high-signal: rce",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Version 1.0: SonicWall SMA1000 - Schwachstellen werden aktiv ausgenutzt",
-      "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-288433-1032_bits.html",
-      "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
-      "published_at": "2026-09-02T15:24:15+00:00",
-      "age_days": 0.35,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "high terms: ausgenutzt, 10",
-        "security high-signal: ausgenutzt, 10",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Gitlawb/openclaude",
-      "url": "https://github.com/Gitlawb/openclaude",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-09-02T05:39:30+00:00",
-      "age_days": 0.76,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "early terms: local",
-        "high terms: rce, code, auth",
-        "security high-signal: rce, code, auth",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-      ],
-      "summary": "runs anywhere. uses anything https://openclaude.gitlawb.com OpenClaude is an open-source coding-agent CLI for cloud and local model providers. Use OpenAI-compatible APIs, Gemini, GitHub Models, Codex OAuth, Codex, Ollama, Atomic Chat, and other supported backends while keeping one terminal-first workflow: prompts, too…"
-    },
-    {
-      "title": "The MMM barrier didn’t disappear. It moved",
-      "url": "https://e27.co/the-mmm-barrier-didnt-disappear-it-moved-20260831/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-02T03:10:10+00:00",
-      "age_days": 0.86,
-      "topics": [
-        "ai",
-        "infra",
-        "macro"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: rce, exchange",
-        "security high-signal: rce, exchange",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-      ],
-      "summary": "AdExchanger ran a piece recently on open-source marketing mix modelling having its moment, and apologised on the way in for the new acronym. OS-MMM. Nobody asked for it, but here we are. The underlying claim is not hype. Julian Runge at Northwestern’s Medill School makes the point that you can now prompt an AI agent […"
-    },
-    {
-      "title": "Vulnérabilité dans Microsoft Entra ID (21 août 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1074/",
-      "source": "CERT-FR Avis de sécurité",
-      "published_at": "2026-08-21T00:00:00+00:00",
-      "age_days": 12.99,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: active, 10",
-        "security high-signal: active, 10",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-      ],
-      "summary": "**[Mise à jour du 24 août 2026]** Microsoft a modifié son bulletin de sécurité pour préciser que la vulnérabilité CVE-2026-69836 n'est pas activement exploitée. **[Publication initiale]** Une vulnérabilité a été découverte dans Microsoft Entra ID. Elle permet à un attaquant de provoquer une..."
-    },
-    {
-      "title": "Remotezugriff Sonicwall SMA1000: Angreifer verbiegen interne Dienste",
-      "url": "https://www.heise.de/news/Remotezugriff-Sonicwall-SMA1000-Angreifer-verbiegen-interne-Dienste-11438326.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-09-02T12:24:00.000+00:00",
-      "age_days": 0.48,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: remote, 10",
-        "security high-signal: remote, 10"
-      ],
-      "summary": "Angreifer nutzen derzeit zwei Sicherheitslücken in Sonicwall SMA1000 aus. Mittlerweile haben die Entwickler die Lücken geschlossen."
-    },
-    {
-      "title": "信頼できるAI基盤の実証 — オフライン閉域環境でAIは組織の右腕になれるか — | デジタル人材の育成 | IPA 独立行政法人 情報処理推進機構",
-      "url": "https://www.ipa.go.jp/jinzai/ics/core_human_resource/final_project/2026/pm_ai.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-02T18:08:00+00:00",
-      "age_days": 0.24,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 22.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: rce",
-        "security high-signal: rce"
-      ],
-      "summary": "プロジェクトの背景 近年、多くの企業で生成AIの業務利用が広がる一方、情報漏えいや誤情報などへの懸念から、利用を制限・禁止する動きが見られます。しかし、業務効率化への期待は大きく、組織の管理が及ばない「シャドーAI」の発生を招くなど、別の管理上の課題も生じています。 こうした状況は、組織がAIのリスクや..."
-    },
-    {
-      "title": "The creator economy is distribution, not marketing. Most Asian businesses are still scaling it like a campaign",
-      "url": "https://e27.co/the-creator-economy-is-distribution-not-marketing-most-asian-businesses-are-still-scaling-it-like-a-campaign-20260828/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-02T03:00:03+00:00",
-      "age_days": 0.87,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 21.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: rce",
-        "security high-signal: rce"
-      ],
-      "summary": "Last quarter I sat in a review with a consumer brand team going through their best month on record. Live commerce had carried it. The gross merchandise value chart, the total value of everything sold, was close to vertical, and the room could feel it. Then the operations lead opened the second file. Delivery outcomes.…"
-    },
-    {
-      "title": "[MàJ] Vulnérabilité dans Fortinet FortiOS (09 février 2024)",
-      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-004/",
-      "source": "CERT-FR Alertes",
-      "published_at": "2024-02-09T00:00:00+00:00",
-      "age_days": 936.99,
-      "topics": [
-        "ai",
-        "security",
-        "infra"
-      ],
-      "dynamics_score": 19.9,
-      "raw_band": "krass",
+      "dynamics_score": 17.4,
+      "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "M 6.2 - South Sandwich Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdrv",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-03T00:11:47.533+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 16.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "high terms: active, exploitation, code",
-        "security high-signal: active, exploitation, code, vpn",
-        "aging penalty -8.0 for 937.0d old signal",
-        "stale single-source cap after 30d: no current exploitation phrase"
+        "early terms: earthquake"
       ],
-      "summary": "\\[Mise à jour du 19 mars 2024\\] Le CERT-FR a connaissance de codes d'exploitation publics et de nouvelles tentatives d'exploitation. Le 8 février 2024, Fortinet a publié l'avis de sécurité concernant la vulnérabilité critique CVE-2024-21762 affectant le VPN SSL de FortiOS. Cette vulnérabilité..."
+      "summary": "PAGER - GREEN ShakeMap - IV Time 2026-09-02 23:46:57 UTC 2026-09-02 23:46:57 UTC at epicenter Location 56.206°S 27.909°W Depth 125.91 km (78.23 mi)"
+    },
+    {
+      "title": "自分で出した本を、国会図書館に納本してきた - Nothing ventured, nothing gained.",
+      "url": "https://takoratta.hatenablog.com/entry/2026/08/31/181136",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-03T00:15:45+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 2.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "自分で出した本を、国会図書館に納本してきた - Nothing ventured, nothing gained.",
+      "url": "https://takoratta.hatenablog.com/entry/2026/08/31/181136",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-31T23:40:28+00:00",
+      "age_days": 2.04,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "自分で出した本を、国会図書館に納本してきた 突然だが、本を出したら国立国会図書館に納本しなければならない、というのをご存じだろうか。 私は知らなかった。正確に言うと、納本という制度があること自体は知っていた。ただ、それが自分に関係のある話だとは思っていなかった。 これまで何冊か本を書いてきたが、すべ..."
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Microsoft GitHub Enterprise Server: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 6.2 - South Sandwich Islands region” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=17.4."
 }
