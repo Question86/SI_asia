@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-03T14:23:41+00:00",
+  "generated_at": "2026-09-03T14:34:12+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 71,
-    "clusters": 50,
+    "findings": 72,
+    "clusters": 51,
     "cross_source_confrmed": 0,
     "hot": 0,
-    "early_signals": 1,
-    "dominance_penalized": 14
+    "early_signals": 0,
+    "dominance_penalized": 15
   },
   "clusters": [
     {
@@ -33,18 +33,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 23.04,
+      "network_score": 23.07,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 53.7,
-      "ranking_score": 23.04,
+      "ranking_score": 23.07,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 3.54,
+      "baseline_bonus": 3.57,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -52,46 +52,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-08-28T14:08:37+00:00"
-    },
-    {
-      "key": "title:cloudflare",
-      "title": "気づいたら Cloudflare OS と同じ答えにたどり着いていた",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://aiji42.dev/blog/cloudflare-os-agent-workspace/"
-      ],
-      "finding_count": 1,
-      "max_score": 16,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 23.0,
-      "hot": false,
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 18.1,
-      "ranking_score": 23.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-09-03T13:53:27+00:00"
     },
     {
       "key": "title:staying-secure-era-habits-need-rethink",
@@ -170,8 +130,8 @@
       "first_seen_at": "2026-09-03T02:46:59+00:00"
     },
     {
-      "key": "domain:speakerdeck.com",
-      "title": "Bet AI Day 2026丨LayerXの採用を支える組織AIの現在地と、Agentに任せる未来",
+      "key": "title:cloudflare",
+      "title": "気づいたら Cloudflare OS と同じ答えにたどり着いていた",
       "sources": [
         "Hatena Bookmark Hotentry IT"
       ],
@@ -179,33 +139,35 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://speakerdeck.com/layerx/bet-ai-day-2026-session09"
+        "https://aiji42.dev/blog/cloudflare-os-agent-workspace/"
       ],
       "finding_count": 1,
-      "max_score": 11,
+      "max_score": 16,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 16.51,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 17.5,
       "hot": false,
-      "watchgraph_modules": [],
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 16.1,
-      "ranking_score": 16.51,
+      "raw_network_score": 18.1,
+      "ranking_score": 17.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 1.51,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-06-19T01:58:32+00:00"
+      "first_seen_at": "2026-09-03T13:53:27+00:00"
     },
     {
       "key": "title:fintech-defi-applied-define-southeast-asia-venture-discipline",
@@ -345,18 +307,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 13.76,
+      "network_score": 13.8,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 17.3,
-      "ranking_score": 13.76,
+      "ranking_score": 13.8,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 1.26,
+      "baseline_bonus": 1.3,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -404,6 +366,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-03T13:45:58+00:00"
+    },
+    {
+      "key": "domain:speakerdeck.com",
+      "title": "Bet AI Day 2026丨LayerXの採用を支える組織AIの現在地と、Agentに任せる未来",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://speakerdeck.com/layerx/bet-ai-day-2026-session09"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 12.8,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 13.1,
+      "ranking_score": 12.8,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.3,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T01:58:32+00:00"
     },
     {
       "key": "title:2000-claude-code",
@@ -676,8 +676,8 @@
       "first_seen_at": "2026-09-03T13:45:58+00:00"
     },
     {
-      "key": "earthquake:m 4.8 - 65 km s of isangel, vanuatu:4.8",
-      "title": "M 4.8 - 65 km S of Isangel, Vanuatu",
+      "key": "earthquake:m 5.1 - owen fracture zone region:5.1",
+      "title": "M 5.1 - Owen Fracture Zone region",
       "sources": [
         "USGS M4.5+ Earthquakes Past Hour"
       ],
@@ -686,7 +686,7 @@
         "tier1_official"
       ],
       "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdz8"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdzk"
       ],
       "finding_count": 1,
       "max_score": 9,
@@ -714,7 +714,7 @@
       "dominant_emitter": true,
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-09-03T14:23:41+00:00"
+      "first_seen_at": "2026-09-03T14:34:12+00:00"
     },
     {
       "key": "earthquake:alaska:4.9",
@@ -1106,18 +1106,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 10.12,
+      "network_score": 10.06,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 14.3,
-      "ranking_score": 10.12,
+      "ranking_score": 10.06,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.62,
+      "baseline_bonus": 0.56,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1353,6 +1353,47 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-03T01:37:36+00:00"
+    },
+    {
+      "key": "earthquake:m 4.8 - 65 km s of isangel, vanuatu:4.8",
+      "title": "M 4.8 - 65 km S of Isangel, Vanuatu",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "emergency_official",
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdz8"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 8.4,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 11.7,
+      "ranking_score": 8.4,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-09-03T14:23:41+00:00"
     },
     {
       "key": "earthquake:m 4.8 - 12 km e of venustiano carranza (peña blanca), mexico:4.8",
@@ -1971,7 +2012,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-03T14:23:41Z",
+    "generated_at": "2026-09-03T14:34:12Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
