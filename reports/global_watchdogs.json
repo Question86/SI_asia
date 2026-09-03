@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T00:15:45+00:00",
+  "generated_at": "2026-09-03T01:04:18+00:00",
   "sections": {
     "global_security": [
       {
@@ -64,18 +64,13 @@
       },
       {
         "domain": "security",
-        "severity": "medium",
-        "title": "USGS earthquake M6.2 - South Sandwich Islands region",
-        "summary": "M6.2 - South Sandwich Islands region. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdrv",
-        "published_at": "2026-09-02T23:46:57+00:00",
-        "metrics": {
-          "mag": 6.2,
-          "alert": "green",
-          "sig": 591.0,
-          "tsunami": 0
-        }
+        "severity": "high",
+        "title": "GDACS: Green earthquake (Magnitude 6.2M, Depth:125.905km) in South Sandwich Islands Region 02/09/2026 23:46 UTC, [unknown].",
+        "summary": "Green earthquake (Magnitude 6.2M, Depth:125.905km) in South Sandwich Islands Region 02/09/2026 23:46 UTC, [unknown].",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563254",
+        "published_at": "",
+        "metrics": {}
       },
       {
         "domain": "security",
@@ -134,16 +129,6 @@
         "summary": "Green notification for tropical cyclone KROVANH-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001318",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green notification for tropical cyclone EDOUARD-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-        "summary": "Green notification for tropical cyclone EDOUARD-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001316",
         "published_at": "",
         "metrics": {}
       }

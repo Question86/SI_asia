@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-03T00:15:42+00:00_
+_Generiert: 2026-09-03T01:04:16+00:00_
 
 ## Kurzlage
 
-2 neue relevante Treffer. Stärkstes Signal: „M 6.2 - South Sandwich Islands region“ aus USGS M4.5+ Earthquakes Past Hour (Score 13, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+3 neue relevante Treffer. Stärkstes Signal: „M 6.2 - South Sandwich Islands region“ aus USGS M4.5+ Earthquakes Past Hour (Score 13, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,10 +29,10 @@ _Generiert: 2026-09-03T00:15:42+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-02`
   - Kurz: Known exploited vulnerability. Added 2026-09-02. Due 2026-09-05. Sangoma Switchvox SQL Injection Vulnerability
-- **USGS earthquake M6.2 - South Sandwich Islands region** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdrv)
-  - Quelle: USGS
-  - Zeit: `2026-09-02T23:46:57+00:00`
-  - Kurz: M6.2 - South Sandwich Islands region. PAGER alert: green. Tsunami flag: 0.
+- **GDACS: Green earthquake (Magnitude 6.2M, Depth:125.905km) in South Sandwich Islands Region 02/09/2026 23:46 UTC, [unknown].** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563254)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6.2M, Depth:125.905km) in South Sandwich Islands Region 02/09/2026 23:46 UTC, [unknown].
 - **GDACS: Green earthquake (Magnitude 5.9M, Depth:10km) in Southern East Pacific Rise 02/09/2026 12:35 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563166)
   - Quelle: GDACS
   - Zeit: ``
@@ -57,10 +57,6 @@ _Generiert: 2026-09-03T00:15:42+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone KROVANH-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **GDACS: Green notification for tropical cyclone EDOUARD-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001316)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green notification for tropical cyclone EDOUARD-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 
 ## Wirtschaft global
 
@@ -90,6 +86,15 @@ Keine neuen mittleren Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - IV Time 2026-09-02 23:46:57 UTC 2026-09-02 23:46:57 UTC at epicenter Location 56.206°S 27.909°W Depth 125.91 km (78.23 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **You spent fifteen years building guanxi, and then nobody picked up** — Score 6, opportunity — [Quelle](https://e27.co/you-spent-fifteen-years-building-guanxi-and-then-nobody-picked-up-20260901/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-03T01:00:54+00:00`, fetched `2026-09-03T01:03:48+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region china_credible_only: Shanghai (+2.0)
+  - Kurz: A few years ago, in a Shanghai conference room, a Korean executive stood up and made a phone call. His joint-venture partner of more than a decade had gone quiet as their factory dispute escalated. Years of holiday gifts. A seat at the man’s daughter’s wedding. Countless dinners across two economic cycles. Surely that bought […] The post You spent fifteen years building guanxi, and then nobody picked up appeared fir…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **自分で出した本を、国会図書館に納本してきた - Nothing ventured, nothing gained.** — Score 4, observation — [Quelle](https://takoratta.hatenablog.com/entry/2026/08/31/181136)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-08-31T23:40:28+00:00`, fetched `2026-09-03T00:15:13+00:00`
@@ -107,7 +112,3 @@ Keine neuen mittleren Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `bis_statistics` (rss): 404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss
