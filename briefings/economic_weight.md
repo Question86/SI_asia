@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-09-03T14:23:59+00:00`
+Generated: `2026-09-03T14:34:33+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -15,6 +15,7 @@ Generated: `2026-09-03T14:23:59+00:00`
 | bilawalsidhu/gods-eye-view | regulation, natural_disaster | $11.92M | $1.19B | $119.20B | 0.31 |
 | Who’s building AI for the way Southeast Asia actually speaks? | regulation | $11.84M | $1.18B | $118.40B | 0.31 |
 | The AI marketing backlash story doesn’t actually fit Southeast Asia | regulation | $11.20M | $1.12B | $112.00B | 0.31 |
+| M 5.1 - Owen Fracture Zone region | regulation, natural_disaster | $11.12M | $1.11B | $111.20B | 0.33 |
 | The factories are coming. Southeast Asia’s real race is to build what surrounds them | regulation | $11.04M | $1.10B | $110.40B | 0.31 |
 | Southeast Asia’s quiet FDI manufacturing redistribution | regulation | $10.88M | $1.09B | $108.80B | 0.31 |
 | M 5.6 - 82 km SE of Maba, Indonesia | natural_disaster | $1.19M | $119.20M | $11.92B | 0.33 |
@@ -30,7 +31,6 @@ Generated: `2026-09-03T14:23:59+00:00`
 | M 6.2 - South Sandwich Islands region | natural_disaster | $1.14M | $114.40M | $11.44B | 0.33 |
 | M 5.2 - 70 km NNW of Arthurs Point, New Zealand | natural_disaster | $1.14M | $114.40M | $11.44B | 0.33 |
 | M 5.3 - 66 km NNW of Arthurs Point, New Zealand | natural_disaster | $1.14M | $114.40M | $11.44B | 0.33 |
-| M 5.9 - southern East Pacific Rise | natural_disaster | $1.14M | $114.40M | $11.44B | 0.33 |
 
 ## Interpretation
 
