@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-09-03T21:48:02+00:00`
+Generated: `2026-09-03T21:55:27+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -28,9 +28,9 @@ Generated: `2026-09-03T21:48:02+00:00`
 | M 4.6 - 52 km NNE of Ruteng, Indonesia | natural_disaster | $1.16M | $116.00M | $11.60B | 0.33 |
 | M 4.8 - 110 km E of Miyako, Japan | natural_disaster | $1.16M | $116.00M | $11.60B | 0.33 |
 | M 4.9 - 13 km SSE of Union, Philippines | natural_disaster | $1.16M | $116.00M | $11.60B | 0.33 |
+| M 4.8 - 57 km N of Ende, Indonesia | natural_disaster | $1.16M | $116.00M | $11.60B | 0.33 |
 | M 4.8 - 29 km ENE of Pilar, Philippines | natural_disaster | $1.16M | $116.00M | $11.60B | 0.33 |
 | M 4.7 - 16 km ENE of Hasaki, Japan | natural_disaster | $1.16M | $116.00M | $11.60B | 0.33 |
-| M 4.9 - 76 km WNW of Bengkulu, Indonesia | natural_disaster | $1.16M | $116.00M | $11.60B | 0.33 |
 
 ## Interpretation
 
