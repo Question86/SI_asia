@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-03T13:46:39+00:00",
+  "generated_at": "2026-09-03T13:54:07+00:00",
   "events": [
     {
       "event_id": "evt_04c8c9515e6d6caa68b7",
@@ -423,12 +423,12 @@
     {
       "event_id": "evt_33f17c9d023e2256cff7",
       "title": "放置していたWordPressが乗っ取られてWebShellだらけになっていた話",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -949,6 +949,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_6ca9894cd36428aabb33",
+      "title": "気づいたら Cloudflare OS と同じ答えにたどり着いていた",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_6dc9fd22d6ef7f383649",
       "title": "The cloud is just someone else’s computer. Sometimes that computer gets hit by a drone",
       "deduplicated_buckets": 0,
@@ -1138,13 +1149,13 @@
     {
       "event_id": "evt_7a1785d51dc511810ea5",
       "title": "Multiples vulnérabilités dans Metabase (24 août 2026)",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_7a99beb05e16c75382d4",
@@ -1336,13 +1347,13 @@
     {
       "event_id": "evt_8a635ea563c437527142",
       "title": "Multiples vulnérabilités dans Cisco IOS XE (25 août 2026)",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_8c7c3f3ea645209ebeb4",
@@ -1815,7 +1826,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_b6d556e3edd229c4b11d",

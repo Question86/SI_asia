@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-03T13:46:23+00:00",
+  "generated_at": "2026-09-03T13:53:52+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -36,7 +36,7 @@
       "p90_usd": 1136000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-03T13:45:58+00:00",
+      "last_seen_at": "2026-09-03T13:53:27+00:00",
       "status": "active"
     },
     {
@@ -142,7 +142,7 @@
       "p90_usd": 118400000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T02:46:59+00:00",
-      "last_seen_at": "2026-09-03T13:45:58+00:00",
+      "last_seen_at": "2026-09-03T13:53:27+00:00",
       "status": "active"
     },
     {
@@ -380,7 +380,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T00:15:45+00:00",
-      "last_seen_at": "2026-09-03T13:45:58+00:00",
+      "last_seen_at": "2026-09-03T13:53:27+00:00",
       "status": "active"
     },
     {
@@ -482,7 +482,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T11:40:37+00:00",
-      "last_seen_at": "2026-09-03T13:45:58+00:00",
+      "last_seen_at": "2026-09-03T13:53:27+00:00",
       "status": "active"
     },
     {
@@ -516,7 +516,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T11:30:10+00:00",
-      "last_seen_at": "2026-09-03T13:45:58+00:00",
+      "last_seen_at": "2026-09-03T13:53:27+00:00",
       "status": "active"
     },
     {
@@ -567,7 +567,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-02T05:26:51+00:00",
-      "last_seen_at": "2026-09-03T13:45:58+00:00",
+      "last_seen_at": "2026-09-03T13:53:27+00:00",
       "status": "active"
     },
     {
@@ -618,7 +618,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-29T15:25:13+00:00",
-      "last_seen_at": "2026-09-03T13:45:58+00:00",
+      "last_seen_at": "2026-09-03T13:53:27+00:00",
       "status": "active"
     },
     {
@@ -635,7 +635,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T11:56:18+00:00",
-      "last_seen_at": "2026-09-03T13:45:58+00:00",
+      "last_seen_at": "2026-09-03T13:53:27+00:00",
       "status": "active"
     },
     {
@@ -686,8 +686,8 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T08:46:29+00:00",
-      "last_seen_at": "2026-09-03T13:38:06+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-09-03T13:53:27+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_c2576aa6384932262a1f",
@@ -737,7 +737,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-01T06:56:30+00:00",
-      "last_seen_at": "2026-09-03T13:45:58+00:00",
+      "last_seen_at": "2026-09-03T13:53:27+00:00",
       "status": "active"
     },
     {
@@ -754,7 +754,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T12:55:56+00:00",
-      "last_seen_at": "2026-09-03T13:45:58+00:00",
+      "last_seen_at": "2026-09-03T13:53:27+00:00",
       "status": "active"
     },
     {
@@ -1094,7 +1094,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-03T13:45:58+00:00",
+      "last_seen_at": "2026-09-03T13:53:27+00:00",
       "status": "active"
     },
     {
@@ -1451,7 +1451,7 @@
       "p90_usd": 1192000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T04:02:10+00:00",
-      "last_seen_at": "2026-09-03T13:45:58+00:00",
+      "last_seen_at": "2026-09-03T13:53:27+00:00",
       "status": "active"
     },
     {
@@ -1693,6 +1693,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_6ca9894cd36428aabb33",
+      "title": "気づいたら Cloudflare OS と同じ答えにたどり着いていた",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 116800.0,
+      "p50_usd": 11680000.0,
+      "p90_usd": 1168000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-03T13:53:27+00:00",
+      "last_seen_at": "2026-09-03T13:53:27+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_3820889c838ad91aba02",
       "title": "Fintech, DeFi and applied AI define Southeast Asia’s new venture discipline",
       "event_classes": [
@@ -1706,7 +1723,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T05:21:59+00:00",
-      "last_seen_at": "2026-09-03T13:45:58+00:00",
+      "last_seen_at": "2026-09-03T13:53:27+00:00",
       "status": "active"
     },
     {
@@ -1842,7 +1859,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T05:51:29+00:00",
-      "last_seen_at": "2026-09-03T13:45:58+00:00",
+      "last_seen_at": "2026-09-03T13:53:27+00:00",
       "status": "active"
     },
     {
@@ -1859,7 +1876,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T05:51:29+00:00",
-      "last_seen_at": "2026-09-03T13:45:58+00:00",
+      "last_seen_at": "2026-09-03T13:53:27+00:00",
       "status": "active"
     },
     {
@@ -1895,6 +1912,23 @@
       "first_seen_at": "2026-08-29T12:29:39+00:00",
       "last_seen_at": "2026-09-01T23:56:16+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_33f17c9d023e2256cff7",
+      "title": "放置していたWordPressが乗っ取られてWebShellだらけになっていた話",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 113600.0,
+      "p50_usd": 11360000.0,
+      "p90_usd": 1136000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-03T13:45:58+00:00",
+      "last_seen_at": "2026-09-03T13:53:27+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_58b1d9a0e9d32a8eebb3",
@@ -1978,7 +2012,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-03T13:45:58+00:00",
+      "last_seen_at": "2026-09-03T13:53:27+00:00",
       "status": "active"
     },
     {
@@ -1997,23 +2031,6 @@
       "first_seen_at": "2026-09-01T07:30:36+00:00",
       "last_seen_at": "2026-09-01T23:56:16+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_33f17c9d023e2256cff7",
-      "title": "放置していたWordPressが乗っ取られてWebShellだらけになっていた話",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 113600.0,
-      "p50_usd": 11360000.0,
-      "p90_usd": 1136000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-03T13:45:58+00:00",
-      "last_seen_at": "2026-09-03T13:45:58+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_19889d988e0d2d018cbf",
@@ -2390,6 +2407,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_7a1785d51dc511810ea5",
+      "title": "Multiples vulnérabilités dans Metabase (24 août 2026)",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112000.0,
+      "p50_usd": 11200000.0,
+      "p90_usd": 1120000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-03T13:45:58+00:00",
+      "last_seen_at": "2026-09-03T13:45:58+00:00",
+      "status": "dormant"
+    },
+    {
       "event_id": "evt_7d816fd22f545b5c5591",
       "title": "From Sweden to Southeast Asia: What building logistics technology taught me about emerging markets",
       "event_classes": [
@@ -2404,6 +2438,23 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T02:46:59+00:00",
       "last_seen_at": "2026-09-03T13:10:20+00:00",
+      "status": "dormant"
+    },
+    {
+      "event_id": "evt_8a635ea563c437527142",
+      "title": "Multiples vulnérabilités dans Cisco IOS XE (25 août 2026)",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112000.0,
+      "p50_usd": 11200000.0,
+      "p90_usd": 1120000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-03T13:45:58+00:00",
+      "last_seen_at": "2026-09-03T13:45:58+00:00",
       "status": "dormant"
     },
     {
@@ -2524,40 +2575,6 @@
       "first_seen_at": "2026-08-31T03:36:59+00:00",
       "last_seen_at": "2026-08-31T13:59:10+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_8a635ea563c437527142",
-      "title": "Multiples vulnérabilités dans Cisco IOS XE (25 août 2026)",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 112000.0,
-      "p50_usd": 11200000.0,
-      "p90_usd": 1120000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-03T13:45:58+00:00",
-      "last_seen_at": "2026-09-03T13:45:58+00:00",
-      "status": "active"
-    },
-    {
-      "event_id": "evt_7a1785d51dc511810ea5",
-      "title": "Multiples vulnérabilités dans Metabase (24 août 2026)",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 112000.0,
-      "p50_usd": 11200000.0,
-      "p90_usd": 1120000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-03T13:45:58+00:00",
-      "last_seen_at": "2026-09-03T13:45:58+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_43856848b80264610146",
@@ -3236,7 +3253,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T05:20:00+00:00",
-      "last_seen_at": "2026-09-03T13:45:58+00:00",
+      "last_seen_at": "2026-09-03T13:53:27+00:00",
       "status": "active"
     },
     {
