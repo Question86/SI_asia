@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T21:55:06+00:00",
-  "run_id": "2026-09-03T21:55:06+00:00",
+  "generated_at": "2026-09-03T22:06:56+00:00",
+  "run_id": "2026-09-03T22:06:56+00:00",
   "date": "2026-09-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 100
+      "configured_public_sources_only": 101
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 100,
-    "displayed_findings": 100,
+    "today_file_total": 101,
+    "displayed_findings": 101,
     "high": 1,
     "medium": 25,
-    "observe": 74,
+    "observe": 75,
     "source_errors": 0
   },
   "sections": {
@@ -2126,6 +2126,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "4653597b2e2af69d01c4"
+      },
+      {
+        "title": "Microsoft Officeの責任者が「AIが生成した質の低い文書」に対して苦言",
+        "url": "https://gigazine.net/news/20260903-microsofts-office-ai/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-03T10:51:41+00:00",
+        "fetched_at": "2026-09-03T22:06:22+00:00",
+        "summary": "Microsoftは2026年6月にAIエージェントを中心に動作する新しいデバイス向けプラットフォーム「Project Solara」を発表していたり、画像生成AI「MAI-Image」シリーズをリリースしていたりするほか、AnthropicのAI・ClaudeをOffice製品で活用する「Claude for Word」などの拡張機能も展開されており、AIの導入に力を入れて...",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ea56537447da99b71f1f"
       },
       {
         "title": "北朝鮮のバンド、あまりにもイメージ通り過ぎて思わず保存してしまっている「あまりにもできすぎてて生成AIかと疑うレベル」「機材がしっかり敵国製」",
@@ -4849,6 +4871,28 @@
       "id": "4653597b2e2af69d01c4"
     },
     {
+      "title": "Microsoft Officeの責任者が「AIが生成した質の低い文書」に対して苦言",
+      "url": "https://gigazine.net/news/20260903-microsofts-office-ai/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-03T10:51:41+00:00",
+      "fetched_at": "2026-09-03T22:06:22+00:00",
+      "summary": "Microsoftは2026年6月にAIエージェントを中心に動作する新しいデバイス向けプラットフォーム「Project Solara」を発表していたり、画像生成AI「MAI-Image」シリーズをリリースしていたりするほか、AnthropicのAI・ClaudeをOffice製品で活用する「Claude for Word」などの拡張機能も展開されており、AIの導入に力を入れて...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ea56537447da99b71f1f"
+    },
+    {
       "title": "北朝鮮のバンド、あまりにもイメージ通り過ぎて思わず保存してしまっている「あまりにもできすぎてて生成AIかと疑うレベル」「機材がしっかり敵国製」",
       "url": "https://togetter.com/li/2740719",
       "source": "Hatena Bookmark Hotentry IT",
@@ -5474,25 +5518,26 @@
   ],
   "new_findings": [
     {
-      "title": "なのにあなたはKindleで買うの？ Google Play Booksで買った本をGemini Notebookにぶち込めてAI対話できる新機能登場（生成AIクローズアップ） | テクノエッジ TechnoEdge",
-      "url": "https://www.techno-edge.net/article/2026/08/31/5446.html",
+      "title": "Microsoft Officeの責任者が「AIが生成した質の低い文書」に対して苦言",
+      "url": "https://gigazine.net/news/20260903-microsofts-office-ai/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-08-31T04:28:26+00:00",
-      "fetched_at": "2026-09-03T21:54:39+00:00",
-      "summary": "1週間の気になる生成AI技術・研究をいくつかピックアップして解説する連載「生成AIウィークリー」から、特に興味深いAI技術や研究にスポットライトを当てる生成AIクローズアップ。 今回は、Googleが発表した、購入した電子書籍をGemini Notebookに取り込み、直接対話できる機能「Expert Intelligence」を取り上げます。 ...",
+      "published_at": "2026-09-03T10:51:41+00:00",
+      "fetched_at": "2026-09-03T22:06:22+00:00",
+      "summary": "Microsoftは2026年6月にAIエージェントを中心に動作する新しいデバイス向けプラットフォーム「Project Solara」を発表していたり、画像生成AI「MAI-Image」シリーズをリリースしていたりするほか、AnthropicのAI・ClaudeをOffice製品で活用する「Claude for Word」などの拡張機能も展開されており、AIの導入に力を入れて...",
       "matched_keywords": [
+        "AI/KI",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 4,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "5523347d32dbb604ec92"
+      "id": "ea56537447da99b71f1f"
     }
   ],
   "source_errors": [],
