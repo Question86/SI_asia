@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-09-03T20:49:11+00:00`
+Generated: `2026-09-03T20:56:46+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -28,4 +28,4 @@ Generated: `2026-09-03T20:49:11+00:00`
 | M 5.1 - 42 km NW of Coquimbo, Chile | $0 | — | 0 | 0 | dormant |
 | J:COMを使っているとPlumeルーターによってDNSブロッキングされる可能性がある 18.204.152.241 問題の顛末 - debiruはてなメモ | $0 | — | 0 | 0 | dormant |
 | Multiples vulnérabilités dans le noyau Linux de SUSE (21 août 2026) | $0 | — | 0 | 0 | dormant |
-| 技術書典21で「Goで作って学ぶリアルタイム通信サーバー入門 〜自作ターミナルゲームでわかるオンラインゲームの裏側〜」という本を出します - $shibayu36->blog; | $0 | — | 0 | 0 | dormant |
+| Multiple trusted publishing configurations for npm | $0 | — | 0 | 0 | active |

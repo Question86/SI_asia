@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-03T20:48:49+00:00",
+  "generated_at": "2026-09-03T20:56:29+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -58,6 +58,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_1c81e98065054e6db7b2",
+      "title": "Multiple trusted publishing configurations for npm",
+      "event_classes": [
+        "conflict"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112800000.0,
+      "p50_usd": 11280000000.0,
+      "p90_usd": 1128000000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-03T20:56:14+00:00",
+      "last_seen_at": "2026-09-03T20:56:14+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_e7accc74314c5b76e589",
       "title": "Forward Deployed Learner: Enabling 22-year-olds to build domain expertise and judgement in the post AI world",
       "event_classes": [
@@ -88,7 +105,7 @@
       "p90_usd": 124000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T14:43:13+00:00",
-      "last_seen_at": "2026-09-03T20:48:30+00:00",
+      "last_seen_at": "2026-09-03T20:56:14+00:00",
       "status": "active"
     },
     {
@@ -159,7 +176,7 @@
       "p90_usd": 118400000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T02:46:59+00:00",
-      "last_seen_at": "2026-09-03T20:48:30+00:00",
+      "last_seen_at": "2026-09-03T20:56:14+00:00",
       "status": "active"
     },
     {
@@ -245,7 +262,7 @@
       "p90_usd": 28600000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T18:35:08+00:00",
-      "last_seen_at": "2026-09-03T20:48:30+00:00",
+      "last_seen_at": "2026-09-03T20:56:14+00:00",
       "status": "active"
     },
     {
@@ -432,7 +449,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T00:15:45+00:00",
-      "last_seen_at": "2026-09-03T20:48:30+00:00",
+      "last_seen_at": "2026-09-03T20:56:14+00:00",
       "status": "active"
     },
     {
@@ -619,7 +636,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-02T05:26:51+00:00",
-      "last_seen_at": "2026-09-03T20:48:30+00:00",
+      "last_seen_at": "2026-09-03T20:56:14+00:00",
       "status": "active"
     },
     {
@@ -670,7 +687,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-29T15:25:13+00:00",
-      "last_seen_at": "2026-09-03T20:48:30+00:00",
+      "last_seen_at": "2026-09-03T20:56:14+00:00",
       "status": "active"
     },
     {
@@ -806,7 +823,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-01T06:56:30+00:00",
-      "last_seen_at": "2026-09-03T20:48:30+00:00",
+      "last_seen_at": "2026-09-03T20:56:14+00:00",
       "status": "active"
     },
     {
@@ -823,8 +840,25 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T12:55:56+00:00",
-      "last_seen_at": "2026-09-03T20:48:30+00:00",
+      "last_seen_at": "2026-09-03T20:56:14+00:00",
       "status": "active"
+    },
+    {
+      "event_id": "evt_eea6dac4a74e9a5909a2",
+      "title": "M 5.5 - 100 km S of Nikolski, Alaska",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1128000.0,
+      "p50_usd": 112800000.0,
+      "p90_usd": 11280000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-03T20:48:30+00:00",
+      "last_seen_at": "2026-09-03T20:48:30+00:00",
+      "status": "dormant"
     },
     {
       "event_id": "evt_f0ac46f40882508b5efa",
@@ -876,23 +910,6 @@
       "first_seen_at": "2026-08-29T11:40:09+00:00",
       "last_seen_at": "2026-08-29T23:58:25+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_eea6dac4a74e9a5909a2",
-      "title": "M 5.5 - 100 km S of Nikolski, Alaska",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1128000.0,
-      "p50_usd": 112800000.0,
-      "p90_usd": 11280000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-09-03T20:48:30+00:00",
-      "last_seen_at": "2026-09-03T20:48:30+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_058a0e17878f3797ed5c",
@@ -1214,7 +1231,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-03T20:48:30+00:00",
+      "last_seen_at": "2026-09-03T20:56:14+00:00",
       "status": "active"
     },
     {
@@ -1571,7 +1588,7 @@
       "p90_usd": 1192000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T04:02:10+00:00",
-      "last_seen_at": "2026-09-03T20:48:30+00:00",
+      "last_seen_at": "2026-09-03T20:56:14+00:00",
       "status": "active"
     },
     {
@@ -1707,7 +1724,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T17:40:44+00:00",
-      "last_seen_at": "2026-09-03T20:48:30+00:00",
+      "last_seen_at": "2026-09-03T20:56:14+00:00",
       "status": "active"
     },
     {
@@ -1724,7 +1741,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T13:53:27+00:00",
-      "last_seen_at": "2026-09-03T20:48:30+00:00",
+      "last_seen_at": "2026-09-03T20:56:14+00:00",
       "status": "active"
     },
     {
@@ -1758,7 +1775,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-03T20:48:30+00:00",
+      "last_seen_at": "2026-09-03T20:56:14+00:00",
       "status": "active"
     },
     {
@@ -1860,7 +1877,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T05:21:59+00:00",
-      "last_seen_at": "2026-09-03T20:48:30+00:00",
+      "last_seen_at": "2026-09-03T20:56:14+00:00",
       "status": "active"
     },
     {
@@ -1928,7 +1945,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T16:22:05+00:00",
-      "last_seen_at": "2026-09-03T20:48:30+00:00",
+      "last_seen_at": "2026-09-03T20:56:14+00:00",
       "status": "active"
     },
     {
@@ -2013,7 +2030,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T05:51:29+00:00",
-      "last_seen_at": "2026-09-03T20:48:30+00:00",
+      "last_seen_at": "2026-09-03T20:56:14+00:00",
       "status": "active"
     },
     {
@@ -2030,7 +2047,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T05:51:29+00:00",
-      "last_seen_at": "2026-09-03T20:48:30+00:00",
+      "last_seen_at": "2026-09-03T20:56:14+00:00",
       "status": "active"
     },
     {
@@ -2166,7 +2183,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-03T20:48:30+00:00",
+      "last_seen_at": "2026-09-03T20:56:14+00:00",
       "status": "active"
     },
     {
@@ -3424,7 +3441,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T05:20:00+00:00",
-      "last_seen_at": "2026-09-03T20:48:30+00:00",
+      "last_seen_at": "2026-09-03T20:56:14+00:00",
       "status": "active"
     },
     {
