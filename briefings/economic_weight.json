@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-03T17:57:05+00:00",
+  "generated_at": "2026-09-03T18:35:25+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -36,7 +36,7 @@
       "p90_usd": 1136000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-03T17:56:43+00:00",
+      "last_seen_at": "2026-09-03T18:35:08+00:00",
       "status": "active"
     },
     {
@@ -88,7 +88,7 @@
       "p90_usd": 124000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T14:43:13+00:00",
-      "last_seen_at": "2026-09-03T17:56:43+00:00",
+      "last_seen_at": "2026-09-03T18:35:08+00:00",
       "status": "active"
     },
     {
@@ -159,7 +159,7 @@
       "p90_usd": 118400000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T02:46:59+00:00",
-      "last_seen_at": "2026-09-03T17:56:43+00:00",
+      "last_seen_at": "2026-09-03T18:35:08+00:00",
       "status": "active"
     },
     {
@@ -230,6 +230,23 @@
       "first_seen_at": "2026-09-01T01:41:03+00:00",
       "last_seen_at": "2026-09-01T06:01:06+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_90d6a2b78e9795b05829",
+      "title": "NVIDIA to Acquire Hugging Face",
+      "event_classes": [
+        "acquisition"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 11440000.0,
+      "p50_usd": 572000000.0,
+      "p90_usd": 28600000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-03T18:35:08+00:00",
+      "last_seen_at": "2026-09-03T18:35:08+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_0a6b859024e45098b05e",
@@ -415,7 +432,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T00:15:45+00:00",
-      "last_seen_at": "2026-09-03T17:56:43+00:00",
+      "last_seen_at": "2026-09-03T18:35:08+00:00",
       "status": "active"
     },
     {
@@ -602,7 +619,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-02T05:26:51+00:00",
-      "last_seen_at": "2026-09-03T17:56:43+00:00",
+      "last_seen_at": "2026-09-03T18:35:08+00:00",
       "status": "active"
     },
     {
@@ -653,7 +670,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-29T15:25:13+00:00",
-      "last_seen_at": "2026-09-03T17:56:43+00:00",
+      "last_seen_at": "2026-09-03T18:35:08+00:00",
       "status": "active"
     },
     {
@@ -721,7 +738,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T17:29:23+00:00",
-      "last_seen_at": "2026-09-03T17:56:43+00:00",
+      "last_seen_at": "2026-09-03T18:35:08+00:00",
       "status": "active"
     },
     {
@@ -790,7 +807,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-01T06:56:30+00:00",
       "last_seen_at": "2026-09-03T17:56:43+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_ec0aeef3e45a0530029f",
@@ -1163,7 +1180,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-03T17:56:43+00:00",
+      "last_seen_at": "2026-09-03T18:35:08+00:00",
       "status": "active"
     },
     {
@@ -1520,7 +1537,7 @@
       "p90_usd": 1192000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T04:02:10+00:00",
-      "last_seen_at": "2026-09-03T17:56:43+00:00",
+      "last_seen_at": "2026-09-03T18:35:08+00:00",
       "status": "active"
     },
     {
@@ -1656,7 +1673,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T17:40:44+00:00",
-      "last_seen_at": "2026-09-03T17:56:43+00:00",
+      "last_seen_at": "2026-09-03T18:35:08+00:00",
       "status": "active"
     },
     {
@@ -1673,7 +1690,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T13:53:27+00:00",
-      "last_seen_at": "2026-09-03T17:56:43+00:00",
+      "last_seen_at": "2026-09-03T18:35:08+00:00",
       "status": "active"
     },
     {
@@ -1809,7 +1826,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T05:21:59+00:00",
-      "last_seen_at": "2026-09-03T17:56:43+00:00",
+      "last_seen_at": "2026-09-03T18:35:08+00:00",
       "status": "active"
     },
     {
@@ -1877,7 +1894,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T16:22:05+00:00",
-      "last_seen_at": "2026-09-03T17:56:43+00:00",
+      "last_seen_at": "2026-09-03T18:35:08+00:00",
       "status": "active"
     },
     {
@@ -1962,7 +1979,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T05:51:29+00:00",
-      "last_seen_at": "2026-09-03T17:56:43+00:00",
+      "last_seen_at": "2026-09-03T18:35:08+00:00",
       "status": "active"
     },
     {
@@ -1979,7 +1996,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T05:51:29+00:00",
-      "last_seen_at": "2026-09-03T17:56:43+00:00",
+      "last_seen_at": "2026-09-03T18:35:08+00:00",
       "status": "active"
     },
     {
@@ -2030,7 +2047,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T13:45:58+00:00",
-      "last_seen_at": "2026-09-03T17:56:43+00:00",
+      "last_seen_at": "2026-09-03T18:35:08+00:00",
       "status": "active"
     },
     {
@@ -2115,7 +2132,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-03T17:56:43+00:00",
+      "last_seen_at": "2026-09-03T18:35:08+00:00",
       "status": "active"
     },
     {
@@ -2132,7 +2149,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T16:52:02+00:00",
-      "last_seen_at": "2026-09-03T17:56:43+00:00",
+      "last_seen_at": "2026-09-03T18:35:08+00:00",
       "status": "active"
     },
     {
@@ -3373,7 +3390,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T05:20:00+00:00",
-      "last_seen_at": "2026-09-03T17:56:43+00:00",
+      "last_seen_at": "2026-09-03T18:35:08+00:00",
       "status": "active"
     },
     {

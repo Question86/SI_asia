@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-09-03T17:57:05+00:00`
+Generated: `2026-09-03T18:35:25+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -19,6 +19,7 @@ Generated: `2026-09-03T17:57:05+00:00`
 | M 5.1 - Owen Fracture Zone region | regulation, natural_disaster | $11.12M | $1.11B | $111.20B | 0.33 |
 | The factories are coming. Southeast Asia’s real race is to build what surrounds them | regulation | $11.04M | $1.10B | $110.40B | 0.31 |
 | Southeast Asia’s quiet FDI manufacturing redistribution | regulation | $10.88M | $1.09B | $108.80B | 0.31 |
+| NVIDIA to Acquire Hugging Face | acquisition | $11.44M | $572.00M | $28.60B | 0.31 |
 | M 5.6 - 82 km SE of Maba, Indonesia | natural_disaster | $1.19M | $119.20M | $11.92B | 0.33 |
 | M 5.5 - 44 km NNE of Ruteng, Indonesia | natural_disaster | $1.19M | $119.20M | $11.92B | 0.33 |
 | M 5.0 - 64 km W of Labuha, Indonesia | natural_disaster | $1.16M | $116.00M | $11.60B | 0.33 |
@@ -30,7 +31,6 @@ Generated: `2026-09-03T17:57:05+00:00`
 | M 4.9 - 76 km WNW of Bengkulu, Indonesia | natural_disaster | $1.16M | $116.00M | $11.60B | 0.33 |
 | M 5.2 - 35 km SE of Sarangani, Philippines | natural_disaster | $1.16M | $116.00M | $11.60B | 0.33 |
 | M 6.2 - South Sandwich Islands region | natural_disaster | $1.14M | $114.40M | $11.44B | 0.33 |
-| M 5.2 - 70 km NNW of Arthurs Point, New Zealand | natural_disaster | $1.14M | $114.40M | $11.44B | 0.33 |
 
 ## Interpretation
 

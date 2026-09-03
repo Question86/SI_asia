@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-09-03T17:57:27+00:00",
+  "generated_at": "2026-09-03T18:35:44+00:00",
   "fx_as_of": null,
-  "candidate_count": 251,
+  "candidate_count": 252,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 251
+    "pending": 252
   },
   "coverage_warning": null,
   "candidates": [
@@ -4693,6 +4693,27 @@
       "snippet": "and the Caribbean also saw robust growth, with an annual increase of 12%. Among individual EMDE countries, the largest cross-border bank credit inflows in Q4 2025 went to Brazil ($14 billion), Saudi Arabia ($7.5 billion), Türkiye ($6 billion) and Poland ($5 billion). In contrast, cross-border credit to China contracted by 15% yoy. Graph 3 Click for an interactive vers",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://www.bis.org/publications/202604-commentary-ibs-gli"
+    },
+    {
+      "amount_native": 12930300000.0,
+      "amount_usd": 12930300000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_5cbb13e1402c6e33f01a",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_90d6a2b78e9795b05829",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-03T18:35:33+00:00",
+      "overlap_group_suggestion": "evt_90d6a2b78e9795b05829:unknown:7201b50d7d59",
+      "review_status": "pending",
+      "snippet": "r 3, 2026 by Jensen Huang 0 Comments Share Share This Article X Facebook LinkedIn Copy link Link copied! I’m excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Together, we will scale Hugging Face’s platform, strengthen its infrastructure and expand access to AI for developers and institutions worldwide. Over the past decade, Clem, Juli",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 12000000000.0,
