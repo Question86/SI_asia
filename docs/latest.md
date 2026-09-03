@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-03T17:56:38+00:00_
+_Generiert: 2026-09-03T18:16:13+00:00_
 
 ## Kurzlage
 
-80 neue relevante Treffer. Stärkstes Signal: „CodeQL 2.26.4 improves GitHub actions security detections“ aus GitHub Changelog Atom (Score 28, observation).
+82 neue relevante Treffer. Stärkstes Signal: „CodeQL 2.26.4 improves GitHub actions security detections“ aus GitHub Changelog Atom (Score 28, observation).
 
 ## Priorität Hoch
 
@@ -230,14 +230,14 @@ _Generiert: 2026-09-03T17:56:38+00:00_
   - Warum relevant: GitHub (+2.0); Copilot (+2.5); recent (+1.0); watchgraph modules elections_unrest (+3.0)
   - Kurz: We’re gradually reopening sign-ups for Copilot Business and Copilot Enterprise customers paying by credit card or PayPal over the next couple of weeks. If you’ve been waiting to get started… The post Reopening Copilot Business and Enterprise signups appeared first on The GitHub Blog .
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Carsome posts tenth profitable quarter as SEA’s used-car race matures** — Score 8, observation — [Quelle](https://e27.co/carsome-posts-tenth-profitable-quarter-as-seas-used-car-race-matures-20260903/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-03T11:33:59+00:00`, fetched `2026-09-03T11:40:01+00:00`
-  - Treffer: APAC Trend Radar, Southeast Asia
+- **Playco cut manual fixes 50% prototyping games with GPT-6 Astra** — Score 8, observation — [Quelle](https://openai.com/index/playco-game-prototyping-with-astra)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-09-03T12:00:00+00:00`, fetched `2026-09-03T18:15:38+00:00`
+  - Treffer: OpenAI
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)
-  - Kurz: For years, Southeast Asia’s online used-car platforms were judged mainly by how fast they could expand: more inspection centres, more listings, more buyers, more cities. Carsome’s latest numbers suggest the sector has entered a different phase, one where scale still matters, but profitability is becoming the sharper test. The Malaysia-headquartered used-car e-commerce group reported record […] The post Carsome posts…
+  - Warum relevant: OpenAI (+7.5); recent (+1.0)
+  - Kurz: Using GPT-6 Astra, Playco built three themed game prototypes from one grey box foundation and reported 50% fewer manual fixes than with the previous model.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
