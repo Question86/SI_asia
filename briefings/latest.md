@@ -1,14 +1,18 @@
 # Senna Briefing
 
-_Generiert: 2026-09-03T13:10:18+00:00_
+_Generiert: 2026-09-03T13:26:34+00:00_
 
 ## Kurzlage
 
-61 neue relevante Treffer. Stärkstes Signal: „Staying secure in the AI era: The habits we need to rethink“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
+62 neue relevante Treffer. Stärkstes Signal: „Staying secure in the AI era: The habits we need to rethink“ aus e27 Asia Startup and Tech Feed (Score 19, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **USGS earthquake M5.2 - 100 km SSW of Nikolski, Alaska** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdys)
+  - Quelle: USGS
+  - Zeit: `2026-09-03T13:03:18+00:00`
+  - Kurz: M5.2 - 100 km SSW of Nikolski, Alaska. PAGER alert: none. Tsunami flag: 1.
 - **USGS earthquake M6.3 - 84 km SSW of Nikolski, Alaska** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdvt)
   - Quelle: USGS
   - Zeit: `2026-09-03T11:17:24+00:00`
@@ -33,42 +37,8 @@ _Generiert: 2026-09-03T13:10:18+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-02`
   - Kurz: Known exploited vulnerability. Added 2026-09-02. Due 2026-09-05. Sangoma Switchvox SQL Injection Vulnerability
-- **GDACS: Green earthquake (Magnitude 6.3M, Depth:35km) in United States 03/09/2026 11:17 UTC, 4 thousand in MMI&gt;=III.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563341)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.3M, Depth:35km) in United States 03/09/2026 11:17 UTC, 4 thousand in MMI&gt;=III.
-- **GDACS: Green earthquake (Magnitude 6.2M, Depth:125.905km) in South Sandwich Islands Region 02/09/2026 23:46 UTC, [unknown].** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563254)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.2M, Depth:125.905km) in South Sandwich Islands Region 02/09/2026 23:46 UTC, [unknown].
-- **GDACS: Volcanic eruption is on going for Sinabung in Indonesia** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000147)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Volcanic eruption is on going for Sinabung in Indonesia
-- **GDACS: Green earthquake (Magnitude 5.9M, Depth:10km) in Southern East Pacific Rise 02/09/2026 12:35 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563166)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.9M, Depth:10km) in Southern East Pacific Rise 02/09/2026 12:35 UTC, [unknown].
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Mexico 02/09/2026 12:28 UTC, 550 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563163)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Mexico 02/09/2026 12:28 UTC, 550 thousand in MMI IV.
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:64.644km) in Indonesia 02/09/2026 00:04 UTC, 400 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563052)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:64.644km) in Indonesia 02/09/2026 00:04 UTC, 400 thousand in MMI IV.
-- **GDACS: Green notification for tropical cyclone MARIE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001317)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green notification for tropical cyclone MARIE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Indonesia 01/09/2026 08:22 UTC, 8 thousand in MMI VI.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1562918)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Indonesia 01/09/2026 08:22 UTC, 8 thousand in MMI VI.
-- **GDACS: Green notification for tropical cyclone KROVANH-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001318)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green notification for tropical cyclone KROVANH-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+
+- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f75dbe45cd0>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
 
 ## Wirtschaft global
 
@@ -178,6 +148,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
   - Kurz: Speech At Reuters NEXT Newsmaker Interview, Washington, D.C.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.2 - 100 km SSW of Nikolski, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdys)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-03T13:25:57.040+00:00`, fetched `2026-09-03T13:25:59+00:00`
+  - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: ShakeMap - III Time 2026-09-03 13:03:18 UTC 2026-09-03 13:03:18 UTC at epicenter Location 52.056°N 169.199°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.9 - 90 km SSW of Nikolski, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdyi)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-03T12:57:25.201+00:00`, fetched `2026-09-03T13:09:45+00:00`
@@ -186,15 +165,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: ShakeMap - III DYFI? - II Time 2026-09-03 12:39:34 UTC 2026-09-03 12:39:34 UTC at epicenter Location 52.253°N 169.579°W Depth 44.44 km (27.62 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.3 - 84 km SSW of Nikolski, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rlmrvm)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-03T12:54:18.536+00:00`, fetched `2026-09-03T12:55:21+00:00`
-  - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: ShakeMap - III DYFI? - II Time 2026-09-03 12:39:35 UTC 2026-09-03 12:39:35 UTC at epicenter Location 52.307°N 169.544°W Depth 26.80 km (16.65 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **WordPress All-in-One WP Migration: Angreifer können Admin-Falle auslegen** — Score 11, observation — [Quelle](https://www.heise.de/news/WordPress-All-in-One-WP-Migration-Angreifer-koennen-Admin-Falle-auslegen-11439787.html)
   - Quelle: heise Security Alerts / `rss`
@@ -285,3 +255,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `bis_statistics` (rss): 404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss
