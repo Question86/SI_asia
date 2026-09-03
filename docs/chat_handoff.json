@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-03T18:55:30+00:00",
-  "status": "normal",
-  "coverage_confidence": "normal",
+  "generated_at": "2026-09-03T19:07:22+00:00",
+  "status": "warning",
+  "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 85,
-    "displayed_findings": 85,
+    "new_relevant_findings": 1,
+    "today_file_total": 86,
+    "displayed_findings": 86,
     "high": 1,
     "medium": 23,
-    "observe": 61
+    "observe": 62
   },
-  "source_errors_count": 0,
+  "source_errors_count": 2,
   "top_signals": [
     {
       "title": "CodeQL 2.26.4 improves GitHub actions security detections",
