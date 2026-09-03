@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-03T09:07:13+00:00_
+_Generated: 2026-09-03T09:27:23+00:00_
 
 ## Status
 - status: `normal`
-- findings: `34`
+- findings: `36`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-09-03T09:07:13+00:00_
 - url: https://e27.co/fintech-defi-and-applied-ai-define-southeast-asias-new-venture-discipline-20260903/
 - summary: Southeast Asia’s startup market did not bounce back in 2025. It reorganised. After years in which capital chased super-app ambitions, consumer land grabs and speculative technology narratives, the region’s venture ecosystem has settled into a more sober phase…
 
-### 4. [UPDATE] [mittel] Filebeat: Schwachstelle ermöglicht Denial of Service
+### 4. [UPDATE] [mittel] FasterXML Jackson: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `14`
-- published: `2026-09-03T08:42:00+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3134
-- summary: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Filebeat ausnutzen, um einen Denial of Service Angriff durchzuführen.
+- published: `2026-09-03T09:22:38+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2350
+- summary: Ein Angreifer kann mehrere Schwachstellen in FasterXML Jackson ausnutzen, um Daten zu manipulieren und Sicherheitsvorkehrungen zu umgehen.
 
 ### 5. M 6.2 - South Sandwich Islands region
 - source: USGS M4.5+ Earthquakes Past Hour
