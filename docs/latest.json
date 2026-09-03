@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T15:58:54+00:00",
-  "run_id": "2026-09-03T15:58:54+00:00",
+  "generated_at": "2026-09-03T16:22:01+00:00",
+  "run_id": "2026-09-03T16:22:01+00:00",
   "date": "2026-09-03",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 73
+      "configured_public_sources_only": 74
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 73,
-    "displayed_findings": 73,
+    "new_relevant_findings": 1,
+    "today_file_total": 74,
+    "displayed_findings": 74,
     "high": 1,
-    "medium": 21,
+    "medium": 22,
     "observe": 51,
     "source_errors": 1
   },
@@ -239,6 +239,29 @@
           "EWZ"
         ],
         "id": "8f7d01a8a11695e94a17"
+      },
+      {
+        "title": "GitHub Copilot app for Beginners: Run several agents at once",
+        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/",
+        "source": "GitHub Blog Atom",
+        "source_type": "rss",
+        "published_at": "2026-09-03T16:00:00+00:00",
+        "fetched_at": "2026-09-03T16:21:22+00:00",
+        "summary": "Learn how to run parallel agents in the GitHub Copilot app, and experience the moment it stops feeling scary and starts feeling powerful. The post GitHub Copilot app for Beginners: Run several agents at once appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "AI/KI",
+          "Content-Chance",
+          "Copilot",
+          "GitHub"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "AI/KI (+3.0); Content-Chance (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "42ced2e215465259479e"
       },
       {
         "title": "[NEU] [mittel] Sonatype Nexus Repository Manager: Mehrere Schwachstellen ermöglichen Denial of Service",
@@ -2173,6 +2196,29 @@
       "id": "8f7d01a8a11695e94a17"
     },
     {
+      "title": "GitHub Copilot app for Beginners: Run several agents at once",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/",
+      "source": "GitHub Blog Atom",
+      "source_type": "rss",
+      "published_at": "2026-09-03T16:00:00+00:00",
+      "fetched_at": "2026-09-03T16:21:22+00:00",
+      "summary": "Learn how to run parallel agents in the GitHub Copilot app, and experience the moment it stops feeling scary and starts feeling powerful. The post GitHub Copilot app for Beginners: Run several agents at once appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "AI/KI",
+        "Content-Chance",
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "AI/KI (+3.0); Content-Chance (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "42ced2e215465259479e"
+    },
+    {
       "title": "[NEU] [mittel] Sonatype Nexus Repository Manager: Mehrere Schwachstellen ermöglichen Denial of Service",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3171",
       "source": "BSI CERT-Bund Security Advisories",
@@ -3890,7 +3936,31 @@
       "id": "4c62227f3353d056a0dd"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "GitHub Copilot app for Beginners: Run several agents at once",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/",
+      "source": "GitHub Blog Atom",
+      "source_type": "rss",
+      "published_at": "2026-09-03T16:00:00+00:00",
+      "fetched_at": "2026-09-03T16:21:22+00:00",
+      "summary": "Learn how to run parallel agents in the GitHub Copilot app, and experience the moment it stops feeling scary and starts feeling powerful. The post GitHub Copilot app for Beginners: Run several agents at once appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "AI/KI",
+        "Content-Chance",
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "AI/KI (+3.0); Content-Chance (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "42ced2e215465259479e"
+    }
+  ],
   "source_errors": [
     {
       "source_id": "bis_statistics",
