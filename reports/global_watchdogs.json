@@ -1,22 +1,7 @@
 {
-  "generated_at": "2026-09-03T14:01:11+00:00",
+  "generated_at": "2026-09-03T14:23:41+00:00",
   "sections": {
     "global_security": [
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "USGS earthquake M5.2 - 100 km SSW of Nikolski, Alaska",
-        "summary": "M5.2 - 100 km SSW of Nikolski, Alaska. PAGER alert: none. Tsunami flag: 1.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdys",
-        "published_at": "2026-09-03T13:03:18+00:00",
-        "metrics": {
-          "mag": 5.2,
-          "alert": "",
-          "sig": 416.0,
-          "tsunami": 1
-        }
-      },
       {
         "domain": "security",
         "severity": "high",
@@ -169,6 +154,16 @@
         "summary": "Green earthquake (Magnitude 5.6M, Depth:10km) in Indonesia 01/09/2026 08:22 UTC, 8 thousand in MMI VI.",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1562918",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "GDACS: Green notification for tropical cyclone KROVANH-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+        "summary": "Green notification for tropical cyclone KROVANH-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001318",
         "published_at": "",
         "metrics": {}
       }
