@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T17:40:41+00:00",
-  "run_id": "2026-09-03T17:40:41+00:00",
+  "generated_at": "2026-09-03T17:48:33+00:00",
+  "run_id": "2026-09-03T17:48:33+00:00",
   "date": "2026-09-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 80,
     "displayed_findings": 80,
     "high": 1,
@@ -4360,55 +4360,7 @@
       "id": "4c62227f3353d056a0dd"
     }
   ],
-  "new_findings": [
-    {
-      "title": "WebMCPがアツいので見てほしい | DevelopersIO",
-      "url": "https://dev.classmethod.jp/articles/webmcp-introduction/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-03T11:43:12+00:00",
-      "fetched_at": "2026-09-03T17:40:04+00:00",
-      "summary": "リテールアプリ共創部の末永です。 みなさん、WebMCPをご存じでしょうか？ WebMCPは、Webサイトの機能をAIエージェントが扱いやすくするためのWeb標準案です。WebMCP発表当時は「またMCP関連の何かが出たのね」くらいでスルーしていました。 MCPは便利ですが、開発者がMCP Serverを用意するだけでなく、ユーザー側でも接...",
-      "matched_keywords": [
-        "AI Agents",
-        "developer",
-        "Hatena",
-        "hotentry",
-        "Watchgraph:ai_agents_workflow"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); developer (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: MCP server"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "a94f06dfd15a6aeeefb5"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
