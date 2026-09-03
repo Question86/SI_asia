@@ -1,14 +1,22 @@
 # Senna Briefing
 
-_Generiert: 2026-09-03T14:34:03+00:00_
+_Generiert: 2026-09-03T14:43:10+00:00_
 
 ## Kurzlage
 
-72 neue relevante Treffer. Stärkstes Signal: „Staying secure in the AI era: The habits we need to rethink“ aus e27 Asia Startup and Tech Feed (Score 19, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+73 neue relevante Treffer. Stärkstes Signal: „CodeQL 2.26.4 improves GitHub actions security detections“ aus GitHub Changelog Atom (Score 28, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
-Keine neuen Hochprioritäts-Treffer.
+- **CodeQL 2.26.4 improves GitHub actions security detections** — Score 28, observation — [Quelle](https://github.blog/changelog/2026-09-03-codeql-2-26-4-improves-github-actions-security-detections)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-09-03T14:04:59+00:00`, fetched `2026-09-03T14:42:37+00:00`
+  - Treffer: Actions, CodeQL/Dependabot, GitHub, GitHub Actions, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub Actions (+6.2); CodeQL/Dependabot (+8.8); Security (+7.5); GitHub (+2.5); Actions (+2.5); recent (+1.0)
+  - Kurz: CodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We’ve recently released CodeQL 2.26.4, which adds support for Go 1.27,… The post CodeQL 2.26.4 improves GitHub actions security detections appeared first on The GitHub Blog .
+  - Handlung: Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Priorität Mittel
 
@@ -216,6 +224,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
+- Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten

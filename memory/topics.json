@@ -1,8 +1,131 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-03T14:34:03+00:00",
+  "generated_at": "2026-09-03T14:43:10+00:00",
   "topics": {
+    "security": [
+      {
+        "title": "CodeQL 2.26.4 improves GitHub actions security detections",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-09-03T14:04:59+00:00",
+        "relevance_score": 28,
+        "url": "https://github.blog/changelog/2026-09-03-codeql-2-26-4-improves-github-actions-security-detections"
+      },
+      {
+        "title": "Staying secure in the AI era: The habits we need to rethink",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-03T03:00:35+00:00",
+        "relevance_score": 19,
+        "url": "https://e27.co/staying-secure-in-the-ai-era-the-habits-we-need-to-rethink-20260901/"
+      },
+      {
+        "title": "[NEU] [hoch] n8n: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-03T11:26:09+00:00",
+        "relevance_score": 18,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3165"
+      },
+      {
+        "title": "[NEU] [hoch] util-linux: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-03T11:26:07+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3160"
+      },
+      {
+        "title": "[NEU] [mittel] Sonatype Nexus Repository Manager: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-03T11:26:58+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3171"
+      },
+      {
+        "title": "[NEU] [hoch] IBM i: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-03T11:26:58+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3172"
+      },
+      {
+        "title": "[NEU] [hoch] BigBlueButton: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-03T11:26:58+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3170"
+      },
+      {
+        "title": "[NEU] [mittel] Grafana: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-03T11:26:08+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3163"
+      },
+      {
+        "title": "[NEU] [kritisch] Langflow: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-03T11:26:08+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3164"
+      },
+      {
+        "title": "[NEU] [mittel] LiteLLM: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-03T11:26:07+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3162"
+      }
+    ],
+    "github": [
+      {
+        "title": "CodeQL 2.26.4 improves GitHub actions security detections",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-09-03T14:04:59+00:00",
+        "relevance_score": 28,
+        "url": "https://github.blog/changelog/2026-09-03-codeql-2-26-4-improves-github-actions-security-detections"
+      },
+      {
+        "title": "Who’s building AI for the way Southeast Asia actually speaks?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-03T02:00:25+00:00",
+        "relevance_score": 18,
+        "url": "https://e27.co/whos-building-ai-for-the-way-southeast-asia-actually-speaks-20260901/"
+      },
+      {
+        "title": "[NEU] [mittel] Sonatype Nexus Repository Manager: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-03T11:26:58+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3171"
+      },
+      {
+        "title": "sngyai/Sequoia-X",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 13,
+        "url": "https://github.com/sngyai/Sequoia-X"
+      },
+      {
+        "title": "DietrichGebert/ponytail",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 13,
+        "url": "https://github.com/DietrichGebert/ponytail"
+      },
+      {
+        "title": "Carsome posts tenth profitable quarter as SEA’s used-car race matures",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-03T11:33:59+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/carsome-posts-tenth-profitable-quarter-as-seas-used-car-race-matures-20260903/"
+      },
+      {
+        "title": "fmtlib/fmt",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 5,
+        "url": "https://github.com/fmtlib/fmt"
+      }
+    ],
     "ai": [
       {
         "title": "Staying secure in the AI era: The habits we need to rethink",
@@ -75,78 +198,6 @@
         "url": "https://e27.co/carsome-posts-tenth-profitable-quarter-as-seas-used-car-race-matures-20260903/"
       }
     ],
-    "security": [
-      {
-        "title": "Staying secure in the AI era: The habits we need to rethink",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-03T03:00:35+00:00",
-        "relevance_score": 19,
-        "url": "https://e27.co/staying-secure-in-the-ai-era-the-habits-we-need-to-rethink-20260901/"
-      },
-      {
-        "title": "[NEU] [hoch] n8n: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-03T11:26:09+00:00",
-        "relevance_score": 18,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3165"
-      },
-      {
-        "title": "[NEU] [hoch] util-linux: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-03T11:26:07+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3160"
-      },
-      {
-        "title": "[NEU] [mittel] Sonatype Nexus Repository Manager: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-03T11:26:58+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3171"
-      },
-      {
-        "title": "[NEU] [hoch] IBM i: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-03T11:26:58+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3172"
-      },
-      {
-        "title": "[NEU] [hoch] BigBlueButton: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-03T11:26:58+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3170"
-      },
-      {
-        "title": "[NEU] [mittel] Grafana: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-03T11:26:08+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3163"
-      },
-      {
-        "title": "[NEU] [kritisch] Langflow: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-03T11:26:08+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3164"
-      },
-      {
-        "title": "[NEU] [mittel] LiteLLM: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-03T11:26:07+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3162"
-      },
-      {
-        "title": "[NEU] [mittel] Autodesk Produkte: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-03T11:26:07+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3161"
-      }
-    ],
     "geopolitics": [
       {
         "title": "[NEU] [hoch] n8n: Mehrere Schwachstellen",
@@ -217,50 +268,6 @@
         "published_at": null,
         "relevance_score": 13,
         "url": "https://github.com/sngyai/Sequoia-X"
-      }
-    ],
-    "github": [
-      {
-        "title": "Who’s building AI for the way Southeast Asia actually speaks?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-03T02:00:25+00:00",
-        "relevance_score": 18,
-        "url": "https://e27.co/whos-building-ai-for-the-way-southeast-asia-actually-speaks-20260901/"
-      },
-      {
-        "title": "[NEU] [mittel] Sonatype Nexus Repository Manager: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-03T11:26:58+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3171"
-      },
-      {
-        "title": "sngyai/Sequoia-X",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 13,
-        "url": "https://github.com/sngyai/Sequoia-X"
-      },
-      {
-        "title": "DietrichGebert/ponytail",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 13,
-        "url": "https://github.com/DietrichGebert/ponytail"
-      },
-      {
-        "title": "Carsome posts tenth profitable quarter as SEA’s used-car race matures",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-03T11:33:59+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/carsome-posts-tenth-profitable-quarter-as-seas-used-car-race-matures-20260903/"
-      },
-      {
-        "title": "fmtlib/fmt",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 5,
-        "url": "https://github.com/fmtlib/fmt"
       }
     ],
     "economy": [
