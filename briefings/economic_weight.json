@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-03T11:30:34+00:00",
+  "generated_at": "2026-09-03T11:40:53+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -142,7 +142,7 @@
       "p90_usd": 118400000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T02:46:59+00:00",
-      "last_seen_at": "2026-09-03T11:30:10+00:00",
+      "last_seen_at": "2026-09-03T11:40:37+00:00",
       "status": "active"
     },
     {
@@ -380,7 +380,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T00:15:45+00:00",
-      "last_seen_at": "2026-09-03T11:30:10+00:00",
+      "last_seen_at": "2026-09-03T11:40:37+00:00",
       "status": "active"
     },
     {
@@ -465,7 +465,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T06:37:14+00:00",
-      "last_seen_at": "2026-09-03T11:30:10+00:00",
+      "last_seen_at": "2026-09-03T11:40:37+00:00",
       "status": "active"
     },
     {
@@ -484,6 +484,23 @@
       "first_seen_at": "2026-08-30T16:28:37+00:00",
       "last_seen_at": "2026-08-30T23:59:07+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_4a7457bf9b16a0fedf58",
+      "title": "M 6.2 - 105 km SSW of Nikolski, Alaska",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1128000.0,
+      "p50_usd": 112800000.0,
+      "p90_usd": 11280000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-03T11:30:10+00:00",
+      "last_seen_at": "2026-09-03T11:40:37+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_520271ba49e65f780820",
@@ -635,7 +652,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T08:46:29+00:00",
-      "last_seen_at": "2026-09-03T11:30:10+00:00",
+      "last_seen_at": "2026-09-03T11:40:37+00:00",
       "status": "active"
     },
     {
@@ -741,8 +758,8 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_4a7457bf9b16a0fedf58",
-      "title": "M 6.2 - 105 km SSW of Nikolski, Alaska",
+      "event_id": "evt_1d96702b9c68a08a2c51",
+      "title": "M 6.3 - 84 km SSW of Nikolski, Alaska",
       "event_classes": [
         "natural_disaster"
       ],
@@ -753,8 +770,8 @@
       "p50_usd": 112800000.0,
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
-      "first_seen_at": "2026-09-03T11:30:10+00:00",
-      "last_seen_at": "2026-09-03T11:30:10+00:00",
+      "first_seen_at": "2026-09-03T11:40:37+00:00",
+      "last_seen_at": "2026-09-03T11:40:37+00:00",
       "status": "active"
     },
     {
@@ -839,7 +856,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T08:28:23+00:00",
-      "last_seen_at": "2026-09-03T11:30:10+00:00",
+      "last_seen_at": "2026-09-03T11:40:37+00:00",
       "status": "active"
     },
     {
@@ -1026,7 +1043,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-03T11:30:10+00:00",
+      "last_seen_at": "2026-09-03T11:40:37+00:00",
       "status": "active"
     },
     {
@@ -1298,7 +1315,7 @@
       "p90_usd": 1232000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
-      "last_seen_at": "2026-09-03T11:30:10+00:00",
+      "last_seen_at": "2026-09-03T11:40:37+00:00",
       "status": "active"
     },
     {
@@ -1383,7 +1400,7 @@
       "p90_usd": 1192000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T04:02:10+00:00",
-      "last_seen_at": "2026-09-03T11:30:10+00:00",
+      "last_seen_at": "2026-09-03T11:40:37+00:00",
       "status": "active"
     },
     {
@@ -1638,7 +1655,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T05:21:59+00:00",
-      "last_seen_at": "2026-09-03T11:30:10+00:00",
+      "last_seen_at": "2026-09-03T11:40:37+00:00",
       "status": "active"
     },
     {
@@ -1774,7 +1791,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T05:51:29+00:00",
-      "last_seen_at": "2026-09-03T11:30:10+00:00",
+      "last_seen_at": "2026-09-03T11:40:37+00:00",
       "status": "active"
     },
     {
@@ -1791,7 +1808,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T05:51:29+00:00",
-      "last_seen_at": "2026-09-03T11:30:10+00:00",
+      "last_seen_at": "2026-09-03T11:40:37+00:00",
       "status": "active"
     },
     {
@@ -1910,7 +1927,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-03T11:30:10+00:00",
+      "last_seen_at": "2026-09-03T11:40:37+00:00",
       "status": "active"
     },
     {
@@ -2233,7 +2250,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T07:42:38+00:00",
-      "last_seen_at": "2026-09-03T11:30:10+00:00",
+      "last_seen_at": "2026-09-03T11:40:37+00:00",
       "status": "active"
     },
     {
@@ -2318,7 +2335,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T02:46:59+00:00",
-      "last_seen_at": "2026-09-03T11:30:10+00:00",
+      "last_seen_at": "2026-09-03T11:40:37+00:00",
       "status": "active"
     },
     {
@@ -2505,7 +2522,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T02:46:59+00:00",
-      "last_seen_at": "2026-09-03T11:30:10+00:00",
+      "last_seen_at": "2026-09-03T11:40:37+00:00",
       "status": "active"
     },
     {
@@ -2662,6 +2679,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_73919c7906fd5bd6f66f",
+      "title": "Carsome posts tenth profitable quarter as SEA’s used-car race matures",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-03T11:40:37+00:00",
+      "last_seen_at": "2026-09-03T11:40:37+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_9a2361687c9a12c7708c",
       "title": "For Southeast Asian startups, distress may show up before the cash runs out",
       "event_classes": [
@@ -2675,7 +2709,7 @@
       "p90_usd": 1096000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T05:51:29+00:00",
-      "last_seen_at": "2026-09-03T11:30:10+00:00",
+      "last_seen_at": "2026-09-03T11:40:37+00:00",
       "status": "active"
     },
     {
@@ -2693,7 +2727,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T01:37:36+00:00",
       "last_seen_at": "2026-09-03T11:30:10+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_daeaa9b4d3ac84cf4369",
@@ -2727,7 +2761,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T06:37:14+00:00",
       "last_seen_at": "2026-09-03T11:30:10+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_1f26c5ec6963d43456b7",
@@ -3083,7 +3117,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T05:20:00+00:00",
-      "last_seen_at": "2026-09-03T11:30:10+00:00",
+      "last_seen_at": "2026-09-03T11:40:37+00:00",
       "status": "active"
     },
     {
