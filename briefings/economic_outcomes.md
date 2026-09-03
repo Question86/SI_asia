@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-09-03T02:47:26+00:00`
+Generated: `2026-09-03T04:02:41+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -26,6 +26,6 @@ Generated: `2026-09-03T02:47:26+00:00`
 | 技術書典21で「Goで作って学ぶリアルタイム通信サーバー入門 〜自作ターミナルゲームでわかるオンラインゲームの裏側〜」という本を出します - $shibayu36->blog; | $0 | — | 0 | 0 | dormant |
 | M 4.6 - 52 km NNE of Ruteng, Indonesia | $0 | — | 0 | 0 | dormant |
 | 松本大臣記者会見（令和8年9月1日）動画を掲載しました | $0 | — | 0 | 0 | dormant |
-| 知人がものの数分で設定したという、高齢のお父さん用iPhone…ここまで潔いのはなかなか見かけない「視覚支援だ～」「これはめっちゃわかりやすい」 | $0 | — | 0 | 0 | dormant |
+| 知人がものの数分で設定したという、高齢のお父さん用iPhone…ここまで潔いのはなかなか見かけない「視覚支援だ～」「これはめっちゃわかりやすい」 | $0 | — | 0 | 0 | active |
+| Staying secure in the AI era: The habits we need to rethink | $0 | — | 0 | 0 | active |
 | M 4.8 - 110 km E of Miyako, Japan | $0 | — | 0 | 0 | dormant |
-| AIお姉ちゃんへの道（2026年版） - nomolkのブログ | $0 | — | 0 | 0 | dormant |
