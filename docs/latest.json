@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-03T19:52:04+00:00",
-  "run_id": "2026-09-03T19:52:04+00:00",
+  "generated_at": "2026-09-03T19:59:44+00:00",
+  "run_id": "2026-09-03T19:59:44+00:00",
   "date": "2026-09-03",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 89
+      "configured_public_sources_only": 90
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 89,
-    "displayed_findings": 89,
+    "new_relevant_findings": 1,
+    "today_file_total": 90,
+    "displayed_findings": 90,
     "high": 1,
     "medium": 23,
-    "observe": 65,
-    "source_errors": 1
+    "observe": 66,
+    "source_errors": 0
   },
   "sections": {
     "high": [
@@ -2016,6 +2016,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "62b044d9b922976ca397"
+      },
+      {
+        "title": "Upcoming deprecation of selected GitHub Copilot models",
+        "url": "https://github.blog/changelog/2026-09-03-upcoming-deprecation-of-selected-github-copilot-models",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-09-03T19:40:14+00:00",
+        "fetched_at": "2026-09-03T19:59:14+00:00",
+        "summary": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on October 2nd, 2026: Model Deprecation date… The post Upcoming deprecation of selected GitHub Copilot models appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "Copilot",
+          "GitHub"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c9bc1cc53b93fa38b7b0"
       },
       {
         "title": "民間事業者（アイフル株式会社）に対して公的個人認証サービスの利用に関する主務大臣認定を行いました",
@@ -4419,6 +4440,27 @@
       "id": "62b044d9b922976ca397"
     },
     {
+      "title": "Upcoming deprecation of selected GitHub Copilot models",
+      "url": "https://github.blog/changelog/2026-09-03-upcoming-deprecation-of-selected-github-copilot-models",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-09-03T19:40:14+00:00",
+      "fetched_at": "2026-09-03T19:59:14+00:00",
+      "summary": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on October 2nd, 2026: Model Deprecation date… The post Upcoming deprecation of selected GitHub Copilot models appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c9bc1cc53b93fa38b7b0"
+    },
+    {
       "title": "民間事業者（アイフル株式会社）に対して公的個人認証サービスの利用に関する主務大臣認定を行いました",
       "url": "https://www.digital.go.jp/news/15f28ab3-17b6-40a9-8ef9-170eeafecda5",
       "source": "Japan Digital Agency News RSS",
@@ -4832,15 +4874,30 @@
       "id": "aa69a664613bb7eb4e82"
     }
   ],
-  "new_findings": [],
-  "source_errors": [
+  "new_findings": [
     {
-      "source_id": "twcert_tvn_vulnerability_notes",
-      "source_name": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "title": "Upcoming deprecation of selected GitHub Copilot models",
+      "url": "https://github.blog/changelog/2026-09-03-upcoming-deprecation-of-selected-github-copilot-models",
+      "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7fdbbfc03310>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))"
+      "published_at": "2026-09-03T19:40:14+00:00",
+      "fetched_at": "2026-09-03T19:59:14+00:00",
+      "summary": "We will deprecate the following models across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) on October 2nd, 2026: Model Deprecation date… The post Upcoming deprecation of selected GitHub Copilot models appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c9bc1cc53b93fa38b7b0"
     }
   ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
