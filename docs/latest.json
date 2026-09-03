@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T22:46:35+00:00",
-  "run_id": "2026-09-03T22:46:35+00:00",
+  "generated_at": "2026-09-03T22:54:21+00:00",
+  "run_id": "2026-09-03T22:54:21+00:00",
   "date": "2026-09-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 101
+      "configured_public_sources_only": 102
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 101,
-    "displayed_findings": 101,
+    "new_relevant_findings": 1,
+    "today_file_total": 102,
+    "displayed_findings": 102,
     "high": 1,
     "medium": 25,
-    "observe": 75,
+    "observe": 76,
     "source_errors": 0
   },
   "sections": {
@@ -1743,6 +1743,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "45852e161d2f9550ca05"
+      },
+      {
+        "title": "変形してPCになる携帯型ゲーム機、エイサーがコンセプトモデルを公開",
+        "url": "https://japan.cnet.com/article/35252244/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-03T04:51:38+00:00",
+        "fetched_at": "2026-09-03T22:53:49+00:00",
+        "summary": "「Windows」搭載の携帯ゲーム機は、主にゲームを楽しむための端末と捉えられがちだ。しかし実際には、薄型軽量ノートPCとの共通点が多い。Windowsで動作し、ディスプレイを搭載し、GPUを備えたモバイル向けプロセッサーによって同等の性能を発揮する。以前からメインPCとして使う人はいたが、携帯ゲーム機もPCも高価な現...",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3fc54b3e3e08e8c20a68"
       },
       {
         "title": "AIを使いこなす技術チームの育て方、GitLab社内の実践から",
@@ -4488,6 +4510,28 @@
       "id": "45852e161d2f9550ca05"
     },
     {
+      "title": "変形してPCになる携帯型ゲーム機、エイサーがコンセプトモデルを公開",
+      "url": "https://japan.cnet.com/article/35252244/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-03T04:51:38+00:00",
+      "fetched_at": "2026-09-03T22:53:49+00:00",
+      "summary": "「Windows」搭載の携帯ゲーム機は、主にゲームを楽しむための端末と捉えられがちだ。しかし実際には、薄型軽量ノートPCとの共通点が多い。Windowsで動作し、ディスプレイを搭載し、GPUを備えたモバイル向けプロセッサーによって同等の性能を発揮する。以前からメインPCとして使う人はいたが、携帯ゲーム機もPCも高価な現...",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3fc54b3e3e08e8c20a68"
+    },
+    {
       "title": "AIを使いこなす技術チームの育て方、GitLab社内の実践から",
       "url": "https://about.gitlab.com/ja-jp/blog/how-gitlab-fosters-ai-fluent-teams/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -5516,7 +5560,30 @@
       "id": "aa69a664613bb7eb4e82"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "変形してPCになる携帯型ゲーム機、エイサーがコンセプトモデルを公開",
+      "url": "https://japan.cnet.com/article/35252244/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-03T04:51:38+00:00",
+      "fetched_at": "2026-09-03T22:53:49+00:00",
+      "summary": "「Windows」搭載の携帯ゲーム機は、主にゲームを楽しむための端末と捉えられがちだ。しかし実際には、薄型軽量ノートPCとの共通点が多い。Windowsで動作し、ディスプレイを搭載し、GPUを備えたモバイル向けプロセッサーによって同等の性能を発揮する。以前からメインPCとして使う人はいたが、携帯ゲーム機もPCも高価な現...",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3fc54b3e3e08e8c20a68"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
