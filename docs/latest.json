@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T21:39:54+00:00",
-  "run_id": "2026-09-03T21:39:54+00:00",
+  "generated_at": "2026-09-03T21:47:39+00:00",
+  "run_id": "2026-09-03T21:47:39+00:00",
   "date": "2026-09-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 98
+      "configured_public_sources_only": 99
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,10 +19,10 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 98,
-    "displayed_findings": 98,
+    "today_file_total": 99,
+    "displayed_findings": 99,
     "high": 1,
-    "medium": 24,
+    "medium": 25,
     "observe": 73,
     "source_errors": 0
   },
@@ -263,6 +263,43 @@
           "PINS"
         ],
         "id": "580bc28ac3095455bed9"
+      },
+      {
+        "title": "M 4.8 - 57 km N of Ende, Indonesia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te51",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-09-03T21:41:26.040+00:00",
+        "fetched_at": "2026-09-03T21:47:08+00:00",
+        "summary": "Time 2026-09-03 21:00:10 UTC 2026-09-03 21:00:10 UTC at epicenter Location 8.321°S 121.666°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "67247571fc6358f713f5"
       },
       {
         "title": "Fintech, DeFi and applied AI define Southeast Asia’s new venture discipline",
@@ -2930,6 +2967,43 @@
       "id": "580bc28ac3095455bed9"
     },
     {
+      "title": "M 4.8 - 57 km N of Ende, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te51",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-03T21:41:26.040+00:00",
+      "fetched_at": "2026-09-03T21:47:08+00:00",
+      "summary": "Time 2026-09-03 21:00:10 UTC 2026-09-03 21:00:10 UTC at epicenter Location 8.321°S 121.666°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "67247571fc6358f713f5"
+    },
+    {
       "title": "Fintech, DeFi and applied AI define Southeast Asia’s new venture discipline",
       "url": "https://e27.co/fintech-defi-and-applied-ai-define-southeast-asias-new-venture-discipline-20260903/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -5358,19 +5432,20 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.8 - 29 km WSW of Salamanca, Chile",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te5e",
+      "title": "M 4.8 - 57 km N of Ende, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te51",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-09-03T21:35:42.040+00:00",
-      "fetched_at": "2026-09-03T21:39:24+00:00",
-      "summary": "Time 2026-09-03 21:18:21 UTC 2026-09-03 21:18:21 UTC at epicenter Location 31.897°S 71.240°W Depth 81.85 km (50.86 mi)",
+      "published_at": "2026-09-03T21:41:26.040+00:00",
+      "fetched_at": "2026-09-03T21:47:08+00:00",
+      "summary": "Time 2026-09-03 21:00:10 UTC 2026-09-03 21:00:10 UTC at epicenter Location 8.321°S 121.666°E Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
+        "APAC Trend Radar",
         "Climate/Disaster Infrastructure",
         "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
@@ -5391,7 +5466,7 @@
         "HD",
         "LOW"
       ],
-      "id": "c46cb77210bd63642b0e"
+      "id": "67247571fc6358f713f5"
     }
   ],
   "source_errors": [],
