@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-03T19:18:34+00:00_
+_Generiert: 2026-09-03T19:26:53+00:00_
 
 ## Kurzlage
 
-86 neue relevante Treffer. Stärkstes Signal: „CodeQL 2.26.4 improves GitHub actions security detections“ aus GitHub Changelog Atom (Score 28, observation).
+87 neue relevante Treffer. Stärkstes Signal: „CodeQL 2.26.4 improves GitHub actions security detections“ aus GitHub Changelog Atom (Score 28, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global

@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.index",
-  "generated_at": "2026-09-03T19:18:34+00:00",
+  "generated_at": "2026-09-03T19:26:53+00:00",
   "purpose": "Compact semantic memory index for LLM-native first-pass access.",
   "source": "briefings/latest.json",
   "counts": {
-    "source_items": 86,
+    "source_items": 87,
     "topics": 6
   },
   "topic_counts": {
+    "ai": 31,
     "general": 31,
-    "ai": 30,
     "security": 22,
     "geopolitics": 14,
     "github": 10,
@@ -18,31 +18,12 @@
   },
   "files": {
     "topics": "memory/topics.json",
-    "index_md": "memory/index.md",
-    "dynamics": "memory/dynamics.json",
-    "intelligence_handoff": "briefings/intelligence_handoff.json",
-    "repo_memory_candidates": "memory/real_memory_candidates.json"
+    "index_md": "memory/index.md"
   },
   "read_order": [
     "briefings/chat_handoff.json",
     "memory/index.json",
     "memory/topics.json",
     "briefings/latest.json only if deeper inspection is required"
-  ],
-  "intelligence_layer": {
-    "schema_version": 2,
-    "generated_at": "2026-09-03T19:20:58Z",
-    "dynamic_band_counts": {
-      "extreme": 1,
-      "krass": 12,
-      "strong": 20,
-      "watch": 7
-    },
-    "gates": [
-      "krass requires cross-source/identity/official high-signal",
-      "stale single-source non-official max watch after 14d",
-      "single-source AI hype brake",
-      "official security high-signal boost"
-    ]
-  }
+  ]
 }
