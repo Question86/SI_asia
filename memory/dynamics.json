@@ -1,28 +1,82 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-03T03:24:19Z",
+  "generated_at": "2026-09-03T04:58:34Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 20,
+    "dynamics": 28,
     "bands": {
-      "strong": 3,
+      "krass": 1,
+      "strong": 4,
       "watch": 6,
-      "quiet": 11
+      "quiet": 17
     },
     "bands_after_gate_recheck": {
-      "strong": 3,
+      "strong": 5,
       "watch": 6,
-      "quiet": 11
+      "quiet": 17
     }
   },
   "top_dynamics": [
+    {
+      "title": "Staying secure in the AI era: The habits we need to rethink",
+      "url": "https://e27.co/staying-secure-in-the-ai-era-the-habits-we-need-to-rethink-20260901/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-03T03:00:35+00:00",
+      "age_days": 0.08,
+      "topics": [
+        "ai",
+        "security",
+        "disaster"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: security, google",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "AI has quietly become part of how many of us work. We use it to write emails, summarise documents, brainstorm ideas, analyse data, create presentations, and even help us make decisions. For many people, using AI now feels as normal as opening Google or checking Slack. And that is exactly why security deserves a second…"
+    },
+    {
+      "title": "Staying secure in the AI era: The habits we need to rethink",
+      "url": "https://e27.co/staying-secure-in-the-ai-era-the-habits-we-need-to-rethink-20260901/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-03T04:02:10+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
     {
       "title": "You spent fifteen years building guanxi, and then nobody picked up",
       "url": "https://e27.co/you-spent-fifteen-years-building-guanxi-and-then-nobody-picked-up-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T01:04:19+00:00",
-      "age_days": 0.1,
+      "age_days": 0.16,
       "topics": [],
       "dynamics_score": 23.0,
       "raw_band": "strong",
@@ -42,28 +96,26 @@
       "summary": ""
     },
     {
-      "title": "Who’s building AI for the way Southeast Asia actually speaks?",
-      "url": "https://e27.co/whos-building-ai-for-the-way-southeast-asia-actually-speaks-20260901/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-03T02:46:59+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "ai"
-      ],
+      "title": "マーティン・ファウラー氏来日登壇！アーキテクチャConference 2026｜11月26・27日開催",
+      "url": "https://architecture-con.findy-tools.io/2026",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-03T01:37:36+00:00",
+      "age_days": 0.14,
+      "topics": [],
       "dynamics_score": 22.0,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
+        "momentum delta +3",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit"
       ],
       "summary": ""
     },
@@ -72,7 +124,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdrv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T00:15:45+00:00",
-      "age_days": 0.13,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -92,50 +144,52 @@
       "summary": ""
     },
     {
-      "title": "マーティン・ファウラー氏来日登壇！アーキテクチャConference 2026｜11月26・27日開催",
-      "url": "https://architecture-con.findy-tools.io/2026",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-03T01:37:36+00:00",
-      "age_days": 0.07,
-      "topics": [],
+      "title": "Who’s building AI for the way Southeast Asia actually speaks?",
+      "url": "https://e27.co/whos-building-ai-for-the-way-southeast-asia-actually-speaks-20260901/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-03T02:46:59+00:00",
+      "age_days": 0.09,
+      "topics": [
+        "ai"
+      ],
       "dynamics_score": 19.5,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": false,
+      "single_source_ai_capped": true,
       "why": [
-        "momentum delta +2",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit"
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
     },
     {
-      "title": "From Sweden to Southeast Asia: What building logistics technology taught me about emerging markets",
-      "url": "https://e27.co/from-sweden-to-southeast-asia-what-building-logistics-technology-taught-me-about-emerging-markets-20260901/",
+      "title": "Malaysia fines, Singapore funds: How two governments are forcing SEA’s second digital wave",
+      "url": "https://e27.co/malaysia-fines-singapore-funds-how-two-governments-are-forcing-seas-second-digital-wave-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-03T02:46:59+00:00",
-      "age_days": 0.03,
+      "published_at": "2026-09-03T01:37:36+00:00",
+      "age_days": 0.14,
       "topics": [
-        "macro"
+        "general"
       ],
-      "dynamics_score": 16.5,
+      "dynamics_score": 16.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1"
+        "momentum delta +3"
       ],
       "summary": ""
     },
@@ -144,7 +198,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdrv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T00:11:47.533+00:00",
-      "age_days": 0.13,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -164,11 +218,35 @@
       "summary": "PAGER - GREEN ShakeMap - IV Time 2026-09-02 23:46:57 UTC 2026-09-02 23:46:57 UTC at epicenter Location 56.206°S 27.909°W Depth 125.91 km (78.23 mi)"
     },
     {
+      "title": "From Sweden to Southeast Asia: What building logistics technology taught me about emerging markets",
+      "url": "https://e27.co/from-sweden-to-southeast-asia-what-building-logistics-technology-taught-me-about-emerging-markets-20260901/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-03T02:46:59+00:00",
+      "age_days": 0.09,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "You spent fifteen years building guanxi, and then nobody picked up",
       "url": "https://e27.co/you-spent-fifteen-years-building-guanxi-and-then-nobody-picked-up-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T01:00:54+00:00",
-      "age_days": 0.1,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -190,35 +268,11 @@
       "summary": "A few years ago, in a Shanghai conference room, a Korean executive stood up and made a phone call. His joint-venture partner of more than a decade had gone quiet as their factory dispute escalated. Years of holiday gifts. A seat at the man’s daughter’s wedding. Countless dinners across two economic cycles. Surely that…"
     },
     {
-      "title": "Malaysia fines, Singapore funds: How two governments are forcing SEA’s second digital wave",
-      "url": "https://e27.co/malaysia-fines-singapore-funds-how-two-governments-are-forcing-seas-second-digital-wave-20260901/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-03T01:37:36+00:00",
-      "age_days": 0.07,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 13.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2"
-      ],
-      "summary": ""
-    },
-    {
       "title": "マーティン・ファウラー氏来日登壇！アーキテクチャConference 2026｜11月26・27日開催",
       "url": "https://architecture-con.findy-tools.io/2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T01:01:05+00:00",
-      "age_days": 0.1,
+      "age_days": 0.16,
       "topics": [],
       "dynamics_score": 13.0,
       "raw_band": "watch",
@@ -237,15 +291,15 @@
       "summary": "マーティン・ファウラー氏来日登壇決定/Findy主催"
     },
     {
-      "title": "技術は「勉強するもの」ではなくなった。居酒屋でPCを広げる大人たちを見て決めた\"やらないこと\" - Findy Media",
-      "url": "https://findy-code.io/media/articles/list-yuma_prog?fr=media_20260902",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-03T02:46:59+00:00",
-      "age_days": 0.03,
+      "title": "The travel eSIM market is moving beyond price per GB",
+      "url": "https://e27.co/the-travel-esim-market-is-moving-beyond-price-per-gb-20260901/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-03T04:02:10+00:00",
+      "age_days": 0.04,
       "topics": [
-        "general"
+        "macro"
       ],
-      "dynamics_score": 11.5,
+      "dynamics_score": 10.5,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -265,7 +319,7 @@
       "url": "https://e27.co/whos-building-ai-for-the-way-southeast-asia-actually-speaks-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T02:00:25+00:00",
-      "age_days": 0.06,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -286,11 +340,63 @@
       "summary": "Something has shifted in Southeast Asia over the past year and nobody announced it. According to Google’s first Gemini Southeast Asia report, published in July, nearly 70 per cent of prompts in the region are now submitted in native languages — 89 per cent in Vietnam, 87 per cent in Thailand, 84 per cent in […] The po…"
     },
     {
+      "title": "技術は「勉強するもの」ではなくなった。居酒屋でPCを広げる大人たちを見て決めた\"やらないこと\" - Findy Media",
+      "url": "https://findy-code.io/media/articles/list-yuma_prog?fr=media_20260902",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-03T02:46:59+00:00",
+      "age_days": 0.09,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 9.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "北朝鮮のバンド、あまりにもイメージ通り過ぎて思わず保存してしまっている「あまりにもできすぎてて生成AIかと疑うレベル」「機材がしっかり敵国製」",
+      "url": "https://togetter.com/li/2740719",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T12:31:48+00:00",
+      "age_days": 75.69,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 7.65,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 3.77,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 3.77",
+        "single-source AI hype brake -8.0",
+        "aging penalty -8.0 for 75.7d old signal",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Malaysia fines, Singapore funds: How two governments are forcing SEA’s second digital wave",
       "url": "https://e27.co/malaysia-fines-singapore-funds-how-two-governments-are-forcing-seas-second-digital-wave-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T01:30:51+00:00",
-      "age_days": 0.08,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -310,37 +416,11 @@
       "summary": "In January 2026, 2Stallions’ Malaysian entity came into scope for Phase 4 of LHDN’s e-invoicing mandate. Compliance took days. We run Xero across the group, and Xero already connects to MyInvois, Malaysia’s e-invoicing system, through a registered intermediary. We had picked cloud accounting years earlier for our own…"
     },
     {
-      "title": "Healthcare’s infrastructure: Why vertical AI will define medicine’s next century",
-      "url": "https://e27.co/vertical-ai-will-define-medicines-next-century-20260730/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-03T02:46:59+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 6.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "自分で出した本を、国会図書館に納本してきた - Nothing ventured, nothing gained.",
       "url": "https://takoratta.hatenablog.com/entry/2026/08/31/181136",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T00:15:45+00:00",
-      "age_days": 0.13,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -362,15 +442,41 @@
       "summary": ""
     },
     {
-      "title": "AWSをゲームで学べる「AWS Cloud Quest」に新バージョン「AWS Cloud Quest 2.0」登場！ AIによるバーチャル顧客と対話し、要件を聞き出して正しくソリューションに落とし込め",
-      "url": "https://www.publickey1.jp/blog/26/awsaws_cloud_questaws_cloud_quest_20_ai.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-03T02:46:59+00:00",
-      "age_days": 0.03,
+      "title": "Laters.com raises US$1.5M to expand flexible flight payments",
+      "url": "https://e27.co/laters-com-raises-us1-5m-to-expand-flexible-flight-payments-20260903/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-03T04:02:10+00:00",
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 3.5,
+      "dynamics_score": 4.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Healthcare’s infrastructure: Why vertical AI will define medicine’s next century",
+      "url": "https://e27.co/vertical-ai-will-define-medicines-next-century-20260730/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-03T02:46:59+00:00",
+      "age_days": 0.09,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 4.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -392,7 +498,7 @@
       "url": "https://e27.co/from-sweden-to-southeast-asia-what-building-logistics-technology-taught-me-about-emerging-markets-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T02:00:33+00:00",
-      "age_days": 0.06,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "macro"
@@ -418,7 +524,7 @@
       "url": "https://findy-code.io/media/articles/list-yuma_prog?fr=media_20260902",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-02T23:01:23+00:00",
-      "age_days": 0.18,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -440,11 +546,62 @@
       "summary": "初めまして、Maki（@yuma_prog）です。 突然ですが、業務時間外に技術の勉強をするのはつらいと思っていませんか。でも、やらないと他の人との差が出てしまうから勉強をしないと…と日々ストレスを感じていませんか。周りの強いエンジニアを見るとずっと最新の情報を学び続けていて、自分にはああなるのは絶対に無理だ、..."
     },
     {
+      "title": "AWSをゲームで学べる「AWS Cloud Quest」に新バージョン「AWS Cloud Quest 2.0」登場！ AIによるバーチャル顧客と対話し、要件を聞き出して正しくソリューションに落とし込め",
+      "url": "https://www.publickey1.jp/blog/26/awsaws_cloud_questaws_cloud_quest_20_ai.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-03T02:46:59+00:00",
+      "age_days": 0.09,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 1.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "北朝鮮のバンド、あまりにもイメージ通り過ぎて思わず保存してしまっている「あまりにもできすぎてて生成AIかと疑うレベル」「機材がしっかり敵国製」",
+      "url": "https://togetter.com/li/2740719",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-03T03:27:29+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "north korea | North Korea - Pyongyang - On National Day (9 s… | Flickr North Korea - Pyongyang - On National Day (9 september) is a lot of animation in town. Flickr Streetperformers on the National Day | Pyongyang - North Kor… | Flickr Pyongyang - North Korea, 2011/09/09 National day Op 9 septemb..."
+    },
+    {
       "title": "Healthcare’s infrastructure: Why vertical AI will define medicine’s next century",
       "url": "https://e27.co/vertical-ai-will-define-medicines-next-century-20260730/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T02:15:31+00:00",
-      "age_days": 0.05,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -465,11 +622,36 @@
       "summary": "When historians assess the 2020s, they’ll likely identify this as the decade when healthcare shifted from episodic intervention to continuous, data-driven care, much as electricity evolved from novelty to essential infrastructure in the early 20th century. Healthcare is undergoing a similar transformation, from episod…"
     },
     {
+      "title": "Laters.com raises US$1.5M to expand flexible flight payments",
+      "url": "https://e27.co/laters-com-raises-us1-5m-to-expand-flexible-flight-payments-20260903/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-03T03:49:21+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "For most travellers, the anxiety of booking a flight starts before the airport. A fare appears, the dates work, and then comes the harder question: can it be paid for today? Laters.com, the Singapore-founded online travel agency previously known as Fly Fairly, is trying to build a business around that moment. The comp…"
+    },
+    {
       "title": "AWSをゲームで学べる「AWS Cloud Quest」に新バージョン「AWS Cloud Quest 2.0」登場！ AIによるバーチャル顧客と対話し、要件を聞き出して正しくソリューションに落とし込め",
       "url": "https://www.publickey1.jp/blog/26/awsaws_cloud_questaws_cloud_quest_20_ai.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-02T21:46:37+00:00",
-      "age_days": 0.23,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -490,11 +672,37 @@
       "summary": "AWSをゲームで学べる「AWS Cloud Quest」に新バージョン「AWS Cloud Quest 2.0」登場！ AIによるバーチャル顧客と対話し、要件を聞き出して正しくソリューションに落とし込め Amazon Web Services（AWS）は、3DオープンワールドでAWSを学べるオンラインゲーム「AWS Cloud Quest」の新バージョン「AWS Cloud Quest 2.0」..."
     },
     {
+      "title": "The travel eSIM market is moving beyond price per GB",
+      "url": "https://e27.co/the-travel-esim-market-is-moving-beyond-price-per-gb-20260901/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-03T03:30:18+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "For many years, the eSIM service sector had one simple benefit: it provided travellers with a cheaper and more convenient option than traditional roaming. The message was effective since the problem was clear-cut: international roaming was costly, airport SIM kiosks were inconvenient, and a lot of travellers didn’t wa…"
+    },
+    {
       "title": "自分で出した本を、国会図書館に納本してきた - Nothing ventured, nothing gained.",
       "url": "https://takoratta.hatenablog.com/entry/2026/08/31/181136",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T23:40:28+00:00",
-      "age_days": 2.16,
+      "age_days": 2.22,
       "topics": [
         "ai"
       ],
@@ -515,5 +723,5 @@
       "summary": "自分で出した本を、国会図書館に納本してきた 突然だが、本を出したら国立国会図書館に納本しなければならない、というのをご存じだろうか。 私は知らなかった。正確に言うと、納本という制度があること自体は知っていた。ただ、それが自分に関係のある話だとは思っていなかった。 これまで何冊か本を書いてきたが、すべ..."
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “You spent fifteen years building guanxi, and then nobody picked up” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=23.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Staying secure in the AI era: The habits we need to rethink” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
 }
