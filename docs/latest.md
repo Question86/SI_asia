@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-03T05:21:55+00:00_
+_Generiert: 2026-09-03T05:51:25+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „Staying secure in the AI era: The habits we need to rethink“ aus e27 Asia Startup and Tech Feed (Score 19, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+20 neue relevante Treffer. Stärkstes Signal: „Staying secure in the AI era: The habits we need to rethink“ aus e27 Asia Startup and Tech Feed (Score 19, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -51,6 +51,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - IV Time 2026-09-02 23:46:57 UTC 2026-09-02 23:46:57 UTC at epicenter Location 56.206°S 27.909°W Depth 125.91 km (78.23 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **sngyai/Sequoia-X** — Score 13, observation — [Quelle](https://github.com/sngyai/Sequoia-X)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-09-03T05:50:53+00:00`
+  - Treffer: APAC Trend Radar, GitHub Trending, Macro/Policy, Watchgraph:elections_unrest
+  - Watchgraph: elections_unrest
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, META, GOOGL, MSFT, RDDT, SNAP, PINS
+  - Warum relevant: Macro/Policy (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules elections_unrest (+3.0)
+  - Kurz: A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书 Sequoia-X: 王者回归 | The King Returns A 股量化选股系统 V2 | A-Share Quantitative Stock Selection System V2 简介 | Introduction Sequoia-X V2 是面向 A 股市场的量化选股系统，基于现代 Python 工程化标准从零重构。 系统以 OOP 架构、向量化计算和增量数据更新为核心设计原则，每日收盘后自动选股并推送至飞书群。 数据层使用 baostock （免费、无需注册、无限流）拉取历史及增量日 K 数据（后复权）， 存储于本地 SQLite，彻底规避东方财富反爬问题。 两种运行模式 python main.py # 日常模式：8进程增量补数据 + 跑策略 + 飞书推送（2~3分钟） python main.py --backfill # 回填模式：全…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **DietrichGebert/ponytail** — Score 13, observation — [Quelle](https://github.com/DietrichGebert/ponytail)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-09-03T05:50:53+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar, GitHub Trending
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
+  - Kurz: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. https://ponytail.dev Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) · ~20% cheaper · ~27% faster · 100% safe Measured on real Claude Code sessions editing a real open-source repo (FastAPI + React), against the same agent with no skill. ~54% is the mean across 12 feature ta…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **From Sweden to Southeast Asia: What building logistics technology taught me about emerging markets** — Score 10, observation — [Quelle](https://e27.co/from-sweden-to-southeast-asia-what-building-logistics-technology-taught-me-about-emerging-markets-20260901/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-03T02:00:33+00:00`, fetched `2026-09-03T02:46:24+00:00`
@@ -78,14 +96,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: When historians assess the 2020s, they’ll likely identify this as the decade when healthcare shifted from episodic intervention to continuous, data-driven care, much as electricity evolved from novelty to essential infrastructure in the early 20th century. Healthcare is undergoing a similar transformation, from episodic intervention to continuous, intelligence-led care that follows the patient, not the […] The post…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Malaysia fines, Singapore funds: How two governments are forcing SEA’s second digital wave** — Score 7, observation — [Quelle](https://e27.co/malaysia-fines-singapore-funds-how-two-governments-are-forcing-seas-second-digital-wave-20260901/)
+- **For Southeast Asian startups, distress may show up before the cash runs out** — Score 7, observation — [Quelle](https://e27.co/for-southeast-asian-startups-distress-may-show-up-before-the-cash-runs-out-20260903/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-03T01:30:51+00:00`, fetched `2026-09-03T01:37:04+00:00`
-  - Treffer: APAC Trend Radar
+  - Zeit: published `2026-09-03T05:49:09+00:00`, fetched `2026-09-03T05:50:53+00:00`
+  - Treffer: APAC Trend Radar, Southeast Asia
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore, Malaysia (+2.0)
-  - Kurz: In January 2026, 2Stallions’ Malaysian entity came into scope for Phase 4 of LHDN’s e-invoicing mandate. Compliance took days. We run Xero across the group, and Xero already connects to MyInvois, Malaysia’s e-invoicing system, through a registered intermediary. We had picked cloud accounting years earlier for our own reasons. The mandate arrived to find us […] The post Malaysia fines, Singapore funds: How two govern…
+  - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0)
+  - Kurz: For many companies in Asia, distress rarely arrives as a single dramatic event. It tends to build quietly: a more expensive lender replacing a bank, a missed fundraising target explained away as timing, profits that look healthy on paper but do not turn into cash, or a trusted senior executive leaving without a clear successor. […] The post For Southeast Asian startups, distress may show up before the cash runs out…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **マーティン・ファウラー氏来日登壇！アーキテクチャConference 2026｜11月26・27日開催** — Score 5, opportunity — [Quelle](https://architecture-con.findy-tools.io/2026)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -104,6 +122,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 初めまして、Maki（@yuma_prog）です。 突然ですが、業務時間外に技術の勉強をするのはつらいと思っていませんか。でも、やらないと他の人との差が出てしまうから勉強をしないと…と日々ストレスを感じていませんか。周りの強いエンジニアを見るとずっと最新の情報を学び続けていて、自分にはああなるのは絶対に無理だ、...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **fmtlib/fmt** — Score 5, observation — [Quelle](https://github.com/fmtlib/fmt)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-09-03T05:50:53+00:00`
+  - Treffer: APAC Trend Radar, GitHub Trending
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
+  - Kurz: A modern formatting library https://fmt.dev {fmt} is an open-source formatting library providing a fast and safe alternative to C stdio and C++ iostreams. Documentation Cheat Sheets Q&A: ask questions on StackOverflow with the tag fmt . Try {fmt} in Compiler Explorer . Features Simple format API with positional arguments for localization Implementation of C++20 std::format and C++23 std::print Format string syntax s…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

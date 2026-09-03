@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-09-03T05:21:59+00:00_
+_Generiert: 2026-09-03T05:51:29+00:00_
 
 ## Staying secure in the AI era: The habits we need to rethink
 
@@ -17,33 +17,18 @@ _Generiert: 2026-09-03T05:21:59+00:00_
 - Erste Quelle: https://e27.co/staying-secure-in-the-ai-era-the-habits-we-need-to-rethink-20260901/
 - Handlung: HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.
 
-## Who’s building AI for the way Southeast Asia actually speaks?
-
-- Ranking Score: `25.0`
-- Raw Network Score: `20.1`
-- Max Monitor Score: `18`
-- Reichweite: `specialist` / `2.5`
-- Early Signal: `ja`
-- Dominanter Emitter: `nein`
-- Quellen: e27 Asia Startup and Tech Feed
-- Klassen: tier3_specialist
-- Cross-source bestaetigt: nein
-- Momentum: stable (+0)
-- Erste Quelle: https://e27.co/whos-building-ai-for-the-way-southeast-asia-actually-speaks-20260901/
-- Handlung: HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.
-
-## Fintech, DeFi and applied AI define Southeast Asia’s new venture discipline
+## sngyai/Sequoia-X
 
 - Ranking Score: `24.5`
-- Raw Network Score: `20.1`
-- Max Monitor Score: `15`
+- Raw Network Score: `18.1`
+- Max Monitor Score: `13`
 - Reichweite: `specialist` / `2.5`
 - Early Signal: `ja`
 - Dominanter Emitter: `nein`
-- Quellen: e27 Asia Startup and Tech Feed
+- Quellen: GitHub Trending RSS All Languages Daily
 - Klassen: tier3_specialist
 - Cross-source bestaetigt: nein
 - Momentum: increasing (+1)
-- Erste Quelle: https://e27.co/fintech-defi-and-applied-ai-define-southeast-asias-new-venture-discipline-20260903/
+- Erste Quelle: https://github.com/sngyai/Sequoia-X
 - Handlung: HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.
 

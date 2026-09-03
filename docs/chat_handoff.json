@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-03T05:21:55+00:00",
+  "generated_at": "2026-09-03T05:51:25+00:00",
   "status": "warning",
   "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 15,
-    "displayed_findings": 15,
+    "new_relevant_findings": 5,
+    "today_file_total": 20,
+    "displayed_findings": 20,
     "high": 0,
     "medium": 3,
-    "observe": 12
+    "observe": 17
   },
   "source_errors_count": 1,
   "top_signals": [
@@ -55,6 +55,26 @@
       "section": "observe"
     },
     {
+      "title": "sngyai/Sequoia-X",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "relevance_score": 13,
+      "url": "https://github.com/sngyai/Sequoia-X",
+      "summary": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书 Sequoia-X: 王者回归 | The King Returns A 股量化选股系统 V2 | A-Share Quantitative Stock Selection System V2 简介 | Introduction Sequoia-X V2 是面向 A 股市场的量化选股系统，基于现代 Python 工程化标准从零重构。 系统以 OOP 架构、向量化计算和增量数据更新为核心设计原则，每日收盘后自动选股并推送至飞书群。 数据层使用 b…",
+      "section": "observe"
+    },
+    {
+      "title": "DietrichGebert/ponytail",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "relevance_score": 13,
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. https://ponytail.dev Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) · ~20% cheaper · ~27% faster · 100% safe Meas…",
+      "section": "observe"
+    },
+    {
       "title": "From Sweden to Southeast Asia: What building logistics technology taught me about emerging markets",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -63,26 +83,6 @@
       "url": "https://e27.co/from-sweden-to-southeast-asia-what-building-logistics-technology-taught-me-about-emerging-markets-20260901/",
       "summary": "Since early 2024, I have been working closely with MOVZ, a Swedish digital logistics platform, while leading the technology work from Bangladesh. As CTO, I work across the customer and driver applications, administration tools, backend systems and integration…",
       "section": "observe"
-    },
-    {
-      "title": "北朝鮮のバンド、あまりにもイメージ通り過ぎて思わず保存してしまっている「あまりにもできすぎてて生成AIかと疑うレベル」「機材がしっかり敵国製」",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-03T03:27:29+00:00",
-      "relevance_score": 8,
-      "url": "https://togetter.com/li/2740719",
-      "summary": "north korea | North Korea - Pyongyang - On National Day (9 s… | Flickr North Korea - Pyongyang - On National Day (9 september) is a lot of animation in town. Flickr Streetperformers on the National Day | Pyongyang - North Kor… | Flickr Pyongyang - North Korea…",
-      "section": "observe"
-    },
-    {
-      "title": "Healthcare’s infrastructure: Why vertical AI will define medicine’s next century",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-03T02:15:31+00:00",
-      "relevance_score": 8,
-      "url": "https://e27.co/vertical-ai-will-define-medicines-next-century-20260730/",
-      "summary": "When historians assess the 2020s, they’ll likely identify this as the decade when healthcare shifted from episodic intervention to continuous, data-driven care, much as electricity evolved from novelty to essential infrastructure in the early 20th century. He…",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -90,140 +90,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Staying secure in the AI era: The habits we need to rethink” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Staying secure in the AI era: The habits we need to rethink",
-        "url": "https://e27.co/staying-secure-in-the-ai-era-the-habits-we-need-to-rethink-20260901/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-03T03:00:35+00:00",
-        "age_days": 0.11,
-        "topics": [
-          "ai",
-          "security",
-          "disaster"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: security, google"
-        ],
-        "summary": "AI has quietly become part of how many of us work. We use it to write emails, summarise documents, brainstorm ideas, analyse data, create presentations, and even help us make decisions. For many people, using AI now feels as normal as opening Google or checking Slack. And that is exactly why security deserves a second…"
-      },
-      {
-        "title": "You spent fifteen years building guanxi, and then nobody picked up",
-        "url": "https://e27.co/you-spent-fifteen-years-building-guanxi-and-then-nobody-picked-up-20260901/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-03T01:04:19+00:00",
-        "age_days": 0.2,
-        "topics": [
-          "axiom"
-        ],
-        "dynamics_score": 23.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Who’s building AI for the way Southeast Asia actually speaks?",
-        "url": "https://e27.co/whos-building-ai-for-the-way-southeast-asia-actually-speaks-20260901/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-03T02:46:59+00:00",
-        "age_days": 0.12,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 22.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 2,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +2",
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "マーティン・ファウラー氏来日登壇！アーキテクチャConference 2026｜11月26・27日開催",
-        "url": "https://architecture-con.findy-tools.io/2026",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-03T01:37:36+00:00",
-        "age_days": 0.17,
-        "topics": [
-          "axiom"
-        ],
-        "dynamics_score": 22.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Staying secure in the AI era: The habits we need to rethink",
-        "url": "https://e27.co/staying-secure-in-the-ai-era-the-habits-we-need-to-rethink-20260901/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-03T04:02:10+00:00",
-        "age_days": 0.07,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 20.5,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +1",
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }
