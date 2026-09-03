@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-03T21:09:29+00:00_
+_Generiert: 2026-09-03T21:22:27+00:00_
 
 ## Kurzlage
 
-95 neue relevante Treffer. Stärkstes Signal: „CodeQL 2.26.4 improves GitHub actions security detections“ aus GitHub Changelog Atom (Score 28, observation).
+97 neue relevante Treffer. Stärkstes Signal: „CodeQL 2.26.4 improves GitHub actions security detections“ aus GitHub Changelog Atom (Score 28, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -222,6 +222,15 @@ _Generiert: 2026-09-03T21:09:29+00:00_
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. https://ponytail.dev Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) · ~20% cheaper · ~27% faster · 100% safe Measured on real Claude Code sessions editing a real open-source repo (FastAPI + React), against the same agent with no skill. ~54% is the mean across 12 feature ta…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **GitHub Actions: Early September 2026 updates** — Score 12, observation — [Quelle](https://github.blog/changelog/2026-09-03-github-actions-early-september-2026-updates)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-09-03T20:30:53+00:00`, fetched `2026-09-03T21:21:53+00:00`
+  - Treffer: Actions, GitHub, GitHub Actions
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub Actions (+6.2); GitHub (+2.5); Actions (+2.5); recent (+1.0)
+  - Kurz: GitHub Actions now includes three updates that give you clearer visibility and finer-grained control over your workflows. New REST API for runner version deprecations A new REST API returns when… The post GitHub Actions: Early September 2026 updates appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **複数のAIサービスで障害発生 ChatGPT／Claude／Grok** — Score 12, observation — [Quelle](https://www.itmedia.co.jp/aiplus/article/2609/04/2000001152/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-03T16:15:44+00:00`, fetched `2026-09-03T16:51:26+00:00`
@@ -230,6 +239,15 @@ _Generiert: 2026-09-03T21:09:29+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 日本時間の2026年9月4日午前0時40分現在、複数のAIサービスで障害が発生しており、接続しにくい、もしくは接続できない状態となっている。少なくとも、米OpenAIの「ChatGPT」、米Anthropicの「Claude」、米SpaceXAIの「Grok」で障害が報告されている。 ClaudeとGrokは3日午後10時30分ごろから、ChatGPTは4日午前0時前ご...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Announcing Vitest 5.0** — Score 12, observation — [Quelle](https://vitest.dev/blog/vitest-5.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-03T15:41:22+00:00`, fetched `2026-09-03T21:21:53+00:00`
+  - Treffer: Content-Chance, GitHub, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Content-Chance (+5.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
+  - Kurz: Vitest 5.0 is out! ​September 3d, 2026 The next Vitest major is here ​Today, we are thrilled to announce Vitest 5! Quick links: DocsTranslations: 简体中文Migration GuideGitHub ChangelogIf you've not used Vitest before, we suggest reading the Getting Started and Features guides first. We extend ou...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Waller, The Economic Outlook and Some Comments on My Policy Communication** — Score 12, observation — [Quelle](https://www.federalreserve.gov/newsevents/speech/waller20260903a.htm)
   - Quelle: Federal Reserve Speeches and Testimony / `rss`
@@ -240,15 +258,6 @@ _Generiert: 2026-09-03T21:09:29+00:00_
   - Warum relevant: Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
   - Kurz: Speech At Reuters NEXT Newsmaker Interview, Washington, D.C.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **放置していたWordPressが乗っ取られてWebShellだらけになっていた話** — Score 12, risk — [Quelle](https://satoweb.net/2026/09/p-18390/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-03T06:52:56+00:00`, fetched `2026-09-03T13:45:23+00:00`
-  - Treffer: Hatena, hotentry, Watchgraph:elections_unrest, Webentwicklung
-  - Watchgraph: elections_unrest
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, META, GOOGL, MSFT, RDDT, SNAP, PINS
-  - Warum relevant: Webentwicklung (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules elections_unrest (+3.0)
-  - Kurz: とりあえずWordPressを設置していた某ドメイン 特に重要な記事が入っているわけでもなく、ほぼ放置状態。 時たまSSL生きてるかみているだけだったもの 月が替わったので確認したときにやられていることに気づく。 「Hacked by CoupDeGrace」は、2026年8月中旬頃から日本の複数のWordPressサイトなどで相次いで確認されて...
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.5 - 100 km S of Nikolski, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000te4b)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-03T20:42:22.040+00:00`, fetched `2026-09-03T20:47:56+00:00`
@@ -311,15 +320,6 @@ _Generiert: 2026-09-03T21:09:29+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
   - Kurz: De multiples vulnérabilités ont été découvertes dans Cisco IOS XE. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Multiples vulnérabilités dans Metabase (24 août 2026)** — Score 10, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1075/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-08-24T00:00:00+00:00`, fetched `2026-09-03T13:45:23+00:00`
-  - Treffer: avis, CERT-FR, sécurité, vulnérabilité, éditeur
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
-  - Kurz: De multiples vulnérabilités ont été découvertes dans Metabase. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection SQL (SQLi) et un problème de sécurité non spécifié par l'éditeur.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
