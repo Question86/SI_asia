@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-09-03T05:22:30+00:00`
+Generated: `2026-09-03T05:52:05+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -17,6 +17,8 @@ Generated: `2026-09-03T05:22:30+00:00`
 | M 5.0 - 64 km W of Labuha, Indonesia | $0 | — | 0 | 0 | dormant |
 | Why Japan’s booming AI market is harder to crack than it looks | $0 | — | 0 | 0 | dormant |
 | 無料のLM Studio、DFlash/DSpark/MTPで推論を高速化 | $0 | — | 0 | 0 | dormant |
+| DietrichGebert/ponytail | $0 | — | 0 | 0 | active |
+| sngyai/Sequoia-X | $0 | — | 0 | 0 | active |
 | tailscale/tailcat | $0 | — | 0 | 0 | dormant |
 | AIショートドラマ『非妖哉』たった2話で1億回再生を記録 中国の映像クリエイターがほぼ1人で制作 | $0 | — | 0 | 0 | dormant |
 | ITエンジニアのためのライフスタイルメディア KIKKAKE ITREND | $0 | — | 0 | 0 | dormant |
@@ -27,5 +29,3 @@ Generated: `2026-09-03T05:22:30+00:00`
 | M 4.6 - 52 km NNE of Ruteng, Indonesia | $0 | — | 0 | 0 | dormant |
 | 松本大臣記者会見（令和8年9月1日）動画を掲載しました | $0 | — | 0 | 0 | dormant |
 | 知人がものの数分で設定したという、高齢のお父さん用iPhone…ここまで潔いのはなかなか見かけない「視覚支援だ～」「これはめっちゃわかりやすい」 | $0 | — | 0 | 0 | active |
-| Staying secure in the AI era: The habits we need to rethink | $0 | — | 0 | 0 | active |
-| M 4.8 - 110 km E of Miyako, Japan | $0 | — | 0 | 0 | dormant |
