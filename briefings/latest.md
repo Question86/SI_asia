@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-03T06:01:52+00:00_
+_Generiert: 2026-09-03T06:37:11+00:00_
 
 ## Kurzlage
 
-20 neue relevante Treffer. Stärkstes Signal: „Staying secure in the AI era: The habits we need to rethink“ aus e27 Asia Startup and Tech Feed (Score 19, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+23 neue relevante Treffer. Stärkstes Signal: „Staying secure in the AI era: The habits we need to rethink“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -130,6 +130,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. https://ponytail.dev Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) · ~20% cheaper · ~27% faster · 100% safe Measured on real Claude Code sessions editing a real open-source repo (FastAPI + React), against the same agent with no skill. ~54% is the mean across 12 feature ta…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.1 - 42 km NW of Coquimbo, Chile** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tduc)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-03T06:32:17.044+00:00`, fetched `2026-09-03T06:36:40+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: DYFI? - I Time 2026-09-03 06:04:02 UTC 2026-09-03 06:04:02 UTC at epicenter Location 29.735°S 71.698°W Depth 55.16 km (34.28 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **From Sweden to Southeast Asia: What building logistics technology taught me about emerging markets** — Score 10, observation — [Quelle](https://e27.co/from-sweden-to-southeast-asia-what-building-logistics-technology-taught-me-about-emerging-markets-20260901/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-03T02:00:33+00:00`, fetched `2026-09-03T02:46:24+00:00`
@@ -166,6 +175,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0)
   - Kurz: For many companies in Asia, distress rarely arrives as a single dramatic event. It tends to build quietly: a more expensive lender replacing a bank, a missed fundraising target explained away as timing, profits that look healthy on paper but do not turn into cash, or a trusted senior executive leaving without a clear successor. […] The post For Southeast Asian startups, distress may show up before the cash runs out…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **民間事業者（アイフル株式会社）に対して公的個人認証サービスの利用に関する主務大臣認定を行いました** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/15f28ab3-17b6-40a9-8ef9-170eeafecda5)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-09-03T06:00:00+00:00`, fetched `2026-09-03T06:36:40+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 民間事業者（アイフル株式会社）に対して公的個人認証サービスの利用に関する主務大臣認定を行いました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **「三層構造はもう古い」は本当か。AI時代におけるバックエンドシステムのアーキテクチャ - レバテックLAB** — Score 5, observation — [Quelle](https://levtech.jp/media/detail_920/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-03T01:37:54+00:00`, fetched `2026-09-03T06:36:40+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: エンバインド株式会社 代表取締役 小林昌弘 有限会社 WINGSプロジェクトが運営する、テクニカル執筆コミュニティ（代表：山田祥寛）に所属するテクニカルライター。 Javaでのアプリケーションサーバ開発や社内フレームワーク開発、SaaS提供企業などの技術基盤の設計・開発を経験。サーバーサイドからスマホアプリ、P2Pを...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **マーティン・ファウラー氏来日登壇！アーキテクチャConference 2026｜11月26・27日開催** — Score 5, opportunity — [Quelle](https://architecture-con.findy-tools.io/2026)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-03T01:01:05+00:00`, fetched `2026-09-03T01:37:04+00:00`
@@ -175,15 +202,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: マーティン・ファウラー氏来日登壇決定/Findy主催
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **技術は「勉強するもの」ではなくなった。居酒屋でPCを広げる大人たちを見て決めた"やらないこと" - Findy Media** — Score 5, observation — [Quelle](https://findy-code.io/media/articles/list-yuma_prog?fr=media_20260902)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-02T23:01:23+00:00`, fetched `2026-09-03T02:46:24+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 初めまして、Maki（@yuma_prog）です。 突然ですが、業務時間外に技術の勉強をするのはつらいと思っていませんか。でも、やらないと他の人との差が出てしまうから勉強をしないと…と日々ストレスを感じていませんか。周りの強いエンジニアを見るとずっと最新の情報を学び続けていて、自分にはああなるのは絶対に無理だ、...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **fmtlib/fmt** — Score 5, observation — [Quelle](https://github.com/fmtlib/fmt)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-09-03T05:50:53+00:00`
@@ -201,7 +219,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `bis_statistics` (rss): 404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss

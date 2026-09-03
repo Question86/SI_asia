@@ -1,55 +1,15 @@
 {
-  "generated_at": "2026-09-03T06:01:56+00:00",
+  "generated_at": "2026-09-03T06:37:14+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 20,
-    "clusters": 20,
+    "findings": 23,
+    "clusters": 23,
     "cross_source_confrmed": 0,
     "hot": 0,
-    "early_signals": 4,
-    "dominance_penalized": 1
+    "early_signals": 3,
+    "dominance_penalized": 2
   },
   "clusters": [
-    {
-      "key": "title:fintech-defi-applied-define-southeast-asia-venture-discipline",
-      "title": "Fintech, DeFi and applied AI define Southeast Asia’s new venture discipline",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/fintech-defi-and-applied-ai-define-southeast-asias-new-venture-discipline-20260903/"
-      ],
-      "finding_count": 1,
-      "max_score": 15,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 22.0,
-      "hot": false,
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 17.1,
-      "ranking_score": 22.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-09-03T05:21:59+00:00"
-    },
     {
       "key": "github_repo:sngyai/sequoia-x",
       "title": "sngyai/Sequoia-X",
@@ -205,6 +165,87 @@
       "first_seen_at": "2026-09-03T02:46:59+00:00"
     },
     {
+      "key": "title:fintech-defi-applied-define-southeast-asia-venture-discipline",
+      "title": "Fintech, DeFi and applied AI define Southeast Asia’s new venture discipline",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/fintech-defi-and-applied-ai-define-southeast-asias-new-venture-discipline-20260903/"
+      ],
+      "finding_count": 1,
+      "max_score": 15,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 16.5,
+      "hot": false,
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 17.1,
+      "ranking_score": 16.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-03T05:21:59+00:00"
+    },
+    {
+      "key": "earthquake:chile:5.1",
+      "title": "M 5.1 - 42 km NW of Coquimbo, Chile",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "emergency_official",
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tduc"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 12.9,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 16.7,
+      "ranking_score": 12.9,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-09-03T06:37:14+00:00"
+    },
+    {
       "key": "github_repo:fmtlib/fmt",
       "title": "fmtlib/fmt",
       "sources": [
@@ -322,6 +363,44 @@
       "first_seen_at": "2026-09-03T02:46:59+00:00"
     },
     {
+      "key": "url:https://www.digital.go.jp/news/15f28ab3-17b6-40a9-8ef9-170eeafecda5",
+      "title": "民間事業者（アイフル株式会社）に対して公的個人認証サービスの利用に関する主務大臣認定を行いました",
+      "sources": [
+        "Japan Digital Agency News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.digital.go.jp/news/15f28ab3-17b6-40a9-8ef9-170eeafecda5"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 11.1,
+      "ranking_score": 10.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-03T06:37:14+00:00"
+    },
+    {
       "key": "domain:togetter.com",
       "title": "北朝鮮のバンド、あまりにもイメージ通り過ぎて思わず保存してしまっている「あまりにもできすぎてて生成AIかと疑うレベル」「機材がしっかり敵国製」",
       "sources": [
@@ -339,18 +418,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 9.77,
+      "network_score": 9.76,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 10.1,
-      "ranking_score": 9.77,
+      "ranking_score": 9.76,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.27,
+      "baseline_bonus": 0.26,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -396,6 +475,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-03T02:46:59+00:00"
+    },
+    {
+      "key": "title:lab",
+      "title": "「三層構造はもう古い」は本当か。AI時代におけるバックエンドシステムのアーキテクチャ - レバテックLAB",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://levtech.jp/media/detail_920/"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 9.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 10.1,
+      "ranking_score": 9.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-03T06:37:14+00:00"
     },
     {
       "key": "title:southeast-asian-startups-distress-may-show-before-cash",
@@ -780,7 +897,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-03T06:01:56Z",
+    "generated_at": "2026-09-03T06:37:14Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
