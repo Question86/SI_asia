@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-03T18:16:13+00:00_
+_Generiert: 2026-09-03T18:35:05+00:00_
 
 ## Kurzlage
 
-82 neue relevante Treffer. Stärkstes Signal: „CodeQL 2.26.4 improves GitHub actions security detections“ aus GitHub Changelog Atom (Score 28, observation).
+83 neue relevante Treffer. Stärkstes Signal: „CodeQL 2.26.4 improves GitHub actions security detections“ aus GitHub Changelog Atom (Score 28, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -177,6 +177,15 @@ _Generiert: 2026-09-03T18:16:13+00:00_
 
 ## Nur beobachten
 
+- **NVIDIA to Acquire Hugging Face** — Score 13, observation — [Quelle](https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-03T12:56:57+00:00`, fetched `2026-09-03T18:34:36+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, developer, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); developer (+2.0); recent (+1.0)
+  - Kurz: I’m excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Together, we will scale Hugging Face’s platform, strengthen its infrastructure and expand access to AI for developers and institutions worldwide. Over the past decade, Clem, Julien, Thomas and the team at ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 6.2 - South Sandwich Islands region** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdrv)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-03T00:11:47.533+00:00`, fetched `2026-09-03T00:15:13+00:00`
@@ -257,15 +266,6 @@ _Generiert: 2026-09-03T18:16:13+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); Webentwicklung (+3.8); recent (+1.0)
   - Kurz: Eine Sicherheitslücke im WordPress-Plug-in All-in-One WP Migration and Backup gefährdet potenziell 5 Millionen Websites. Ein Update löst das Problem.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Bet AI Day 2026丨LayerXの採用を支える組織AIの現在地と、Agentに任せる未来** — Score 11, observation — [Quelle](https://speakerdeck.com/layerx/bet-ai-day-2026-session09)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-03T08:30:34+00:00`, fetched `2026-09-03T14:23:04+00:00`
-  - Treffer: agent, AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)
-  - Kurz: 2026年9月3日に開催されたイベント「Bet AI Day 2026」における登壇資料です。 ■ 概要 LayerXはこの数年で多くの仲間を迎え入れてきました。その裏側には、膨大な数の採用プロセスが存在しています。一方で、採用という業務の特性上、一足飛びに全てをAIに任せることはできません。 …
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **From Sweden to Southeast Asia: What building logistics technology taught me about emerging markets** — Score 10, observation — [Quelle](https://e27.co/from-sweden-to-southeast-asia-what-building-logistics-technology-taught-me-about-emerging-markets-20260901/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
