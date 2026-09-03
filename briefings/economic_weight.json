@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-03T00:16:00+00:00",
+  "generated_at": "2026-09-03T01:04:34+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -350,6 +350,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_051cfa972487c1e10518",
+      "title": "M 6.2 - South Sandwich Islands region",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1144000.0,
+      "p50_usd": 114400000.0,
+      "p90_usd": 11440000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-03T00:15:45+00:00",
+      "last_seen_at": "2026-09-03T01:04:19+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_865b5f1f43613c795151",
       "title": "M 5.2 - 70 km NNW of Arthurs Point, New Zealand",
       "event_classes": [
@@ -399,23 +416,6 @@
       "first_seen_at": "2026-09-02T13:08:59+00:00",
       "last_seen_at": "2026-09-02T13:08:59+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_051cfa972487c1e10518",
-      "title": "M 6.2 - South Sandwich Islands region",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1144000.0,
-      "p50_usd": 114400000.0,
-      "p90_usd": 11440000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-09-03T00:15:45+00:00",
-      "last_seen_at": "2026-09-03T00:15:45+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_072439522f0506eff01d",
@@ -2679,6 +2679,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_fd0b9c08e1808a5e62db",
+      "title": "You spent fifteen years building guanxi, and then nobody picked up",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108800.0,
+      "p50_usd": 10880000.0,
+      "p90_usd": 1088000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-03T01:04:19+00:00",
+      "last_seen_at": "2026-09-03T01:04:19+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_0e9754a4a09813d40b86",
       "title": "無料のLM Studio、DFlash/DSpark/MTPで推論を高速化",
       "event_classes": [
@@ -3223,6 +3240,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_c12c6091f93d3a684fbe",
+      "title": "自分で出した本を、国会図書館に納本してきた - Nothing ventured, nothing gained.",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "investment"
+      ],
+      "p10_usd": 107200.0,
+      "p50_usd": 10720000.0,
+      "p90_usd": 1072000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-03T00:15:45+00:00",
+      "last_seen_at": "2026-09-03T01:04:19+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_c1ff23fc15143d3c8411",
       "title": "The creator economy is distribution, not marketing. Most Asian businesses are still scaling it like a campaign",
       "event_classes": [
@@ -3238,23 +3272,6 @@
       "first_seen_at": "2026-09-02T03:25:43+00:00",
       "last_seen_at": "2026-09-02T05:05:19+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_c12c6091f93d3a684fbe",
-      "title": "自分で出した本を、国会図書館に納本してきた - Nothing ventured, nothing gained.",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "investment"
-      ],
-      "p10_usd": 107200.0,
-      "p50_usd": 10720000.0,
-      "p90_usd": 1072000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-03T00:15:45+00:00",
-      "last_seen_at": "2026-09-03T00:15:45+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_369ed4c57635e2a534e3",
