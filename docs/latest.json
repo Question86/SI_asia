@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-03T19:44:25+00:00",
-  "run_id": "2026-09-03T19:44:25+00:00",
+  "generated_at": "2026-09-03T19:52:04+00:00",
+  "run_id": "2026-09-03T19:52:04+00:00",
   "date": "2026-09-03",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
       "configured_public_sources_only": 89
     },
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 89,
     "displayed_findings": 89,
     "high": 1,
     "medium": 23,
     "observe": 65,
-    "source_errors": 0
+    "source_errors": 1
   },
   "sections": {
     "high": [
@@ -4832,50 +4832,15 @@
       "id": "aa69a664613bb7eb4e82"
     }
   ],
-  "new_findings": [
+  "new_findings": [],
+  "source_errors": [
     {
-      "title": "GitHub CLI Linux package signing key expires September 5",
-      "url": "https://github.blog/changelog/2026-09-03-github-cli-linux-package-signing-key-expires-september-5",
-      "source": "GitHub Changelog Atom",
+      "source_id": "twcert_tvn_vulnerability_notes",
+      "source_name": "TWCERT/CC TVN Vulnerability Notes RSS",
       "source_type": "rss",
-      "published_at": "2026-09-03T19:05:40+00:00",
-      "fetched_at": "2026-09-03T19:43:54+00:00",
-      "summary": "The current PGP key for the GitHub CLI Linux package repositories expires on Saturday, September 5, 2026. Beginning with the first release after that date, APT and RPM repository metadata… The post GitHub CLI Linux package signing key expires September 5 appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "GitHub"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "GitHub (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "670fee68186fef769f2c"
-    },
-    {
-      "title": "Gemini 3.8 Flash is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-09-03-gemini-3-8-flash-is-now-available-in-github-copilot",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-09-03T18:50:38+00:00",
-      "fetched_at": "2026-09-03T19:43:54+00:00",
-      "summary": "Gemini 3.8 Flash, Google’s latest Flash model, is now available in GitHub Copilot. In our early testing, Gemini 3.8 Flash performed strongly on complex terminal-based coding tasks and demonstrated rigorous… The post Gemini 3.8 Flash is now available in GitHub Copilot appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "Copilot",
-        "GitHub"
-      ],
-      "relevance_score": 3,
-      "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0); watchgraph demote demo (x0.45)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "aa69a664613bb7eb4e82"
+      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7fdbbfc03310>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))"
     }
   ],
-  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
