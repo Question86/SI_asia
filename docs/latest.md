@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-03T19:07:22+00:00_
+_Generiert: 2026-09-03T19:18:34+00:00_
 
 ## Kurzlage
 
-86 neue relevante Treffer. Stärkstes Signal: „CodeQL 2.26.4 improves GitHub actions security detections“ aus GitHub Changelog Atom (Score 28, observation). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+86 neue relevante Treffer. Stärkstes Signal: „CodeQL 2.26.4 improves GitHub actions security detections“ aus GitHub Changelog Atom (Score 28, observation).
 
 ## Priorität Hoch
 
@@ -248,8 +248,3 @@ _Generiert: 2026-09-03T19:07:22+00:00_
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `twcert_security_news` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-104-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7fcd2481bcd0>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))
-- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7fcd24db0610>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))
