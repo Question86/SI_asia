@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-03T08:19:05Z",
+  "generated_at": "2026-09-03T08:43:12Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "krass": 2,
       "strong": 5,
-      "watch": 19,
-      "quiet": 14
+      "watch": 22,
+      "quiet": 11
     },
     "bands_after_gate_recheck": {
       "strong": 7,
-      "watch": 19,
-      "quiet": 14
+      "watch": 22,
+      "quiet": 11
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://github.com/fmtlib/fmt",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-03T05:50:53+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -49,7 +49,7 @@
       "url": "https://e27.co/staying-secure-in-the-ai-era-the-habits-we-need-to-rethink-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T03:00:35+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "ai",
         "security",
@@ -76,7 +76,7 @@
       "url": "https://github.com/DietrichGebert/ponytail",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-03T05:50:53+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -102,7 +102,7 @@
       "url": "https://e27.co/you-spent-fifteen-years-building-guanxi-and-then-nobody-picked-up-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T01:04:19+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [],
       "dynamics_score": 23.0,
       "raw_band": "strong",
@@ -126,7 +126,7 @@
       "url": "https://architecture-con.findy-tools.io/2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T01:37:36+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [],
       "dynamics_score": 22.0,
       "raw_band": "strong",
@@ -150,7 +150,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdrv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T00:15:45+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "general"
       ],
@@ -174,7 +174,7 @@
       "url": "https://e27.co/staying-secure-in-the-ai-era-the-habits-we-need-to-rethink-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T04:02:10+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -196,11 +196,36 @@
       "summary": ""
     },
     {
+      "title": "Jetzt patchen! Angreifer attackieren JFrog Artifactory und machen sich zu Admins",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-JFrog-Artifactory-und-machen-sich-zu-Admins-11439271.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-09-03T07:56:00.000+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: security"
+      ],
+      "summary": "JFrog Artifactory ist über zahlreiche Sicherheitslücken angreifbar. Eine Schwachstelle nutzen Angreifer bereits aus."
+    },
+    {
       "title": "Who’s building AI for the way Southeast Asia actually speaks?",
       "url": "https://e27.co/whos-building-ai-for-the-way-southeast-asia-actually-speaks-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T02:46:59+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -226,7 +251,7 @@
       "url": "https://e27.co/from-sweden-to-southeast-asia-what-building-logistics-technology-taught-me-about-emerging-markets-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T02:46:59+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "macro"
       ],
@@ -250,7 +275,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tduc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T06:37:14+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -270,11 +295,38 @@
       "summary": ""
     },
     {
+      "title": "トークン2000分の1——オントロジー×ナレッジグラフでClaude Codeの推測を消す",
+      "url": "https://zenn.dev/helloworld/articles/bcaea69f58eae5",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-03T07:42:38+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "high terms: code",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Fintech, DeFi and applied AI define Southeast Asia’s new venture discipline",
       "url": "https://e27.co/fintech-defi-and-applied-ai-define-southeast-asias-new-venture-discipline-20260903/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T05:21:59+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -300,7 +352,7 @@
       "url": "https://e27.co/for-southeast-asian-startups-distress-may-show-up-before-the-cash-runs-out-20260903/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T05:51:29+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -324,7 +376,7 @@
       "url": "https://e27.co/malaysia-fines-singapore-funds-how-two-governments-are-forcing-seas-second-digital-wave-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T01:37:36+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -348,7 +400,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdrv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T00:11:47.533+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "disaster"
       ],
@@ -372,7 +424,7 @@
       "url": "https://www.digital.go.jp/news/15f28ab3-17b6-40a9-8ef9-170eeafecda5",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-03T06:37:14+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -392,38 +444,11 @@
       "summary": ""
     },
     {
-      "title": "トークン2000分の1——オントロジー×ナレッジグラフでClaude Codeの推測を消す",
-      "url": "https://zenn.dev/helloworld/articles/bcaea69f58eae5",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-03T07:42:38+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 14.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +2",
-        "high terms: code",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "sngyai/Sequoia-X",
       "url": "https://github.com/sngyai/Sequoia-X",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-03T05:51:29+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -449,7 +474,7 @@
       "url": "https://github.com/DietrichGebert/ponytail",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-03T05:51:29+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -475,7 +500,7 @@
       "url": "https://www.techno-edge.net/article/2026/09/03/5459.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-30T08:23:39+00:00",
-      "age_days": 4.0,
+      "age_days": 4.01,
       "topics": [
         "general"
       ],
@@ -499,7 +524,7 @@
       "url": "https://findy-code.io/media/articles/list-yuma_prog?fr=media_20260902",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T02:46:59+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -523,7 +548,7 @@
       "url": "https://github.com/fmtlib/fmt",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-03T05:51:29+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -547,7 +572,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tduc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T06:32:17.044+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -571,7 +596,7 @@
       "url": "https://e27.co/you-spent-fifteen-years-building-guanxi-and-then-nobody-picked-up-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T01:00:54+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "ai"
       ],
@@ -593,11 +618,35 @@
       "summary": "A few years ago, in a Shanghai conference room, a Korean executive stood up and made a phone call. His joint-venture partner of more than a decade had gone quiet as their factory dispute escalated. Years of holiday gifts. A seat at the man’s daughter’s wedding. Countless dinners across two economic cycles. Surely that…"
     },
     {
+      "title": "M 4.5 - 122 km WNW of Houma, Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdv1",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-03T08:28:23+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 13.4,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Bitcoin slipped below US$80,000, so why are traders still betting on US$82,000?",
       "url": "https://e27.co/bitcoin-slipped-below-us80000-so-why-are-traders-still-betting-on-us82000-20260903/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T05:51:29+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -621,7 +670,7 @@
       "url": "https://e27.co/the-travel-esim-market-is-moving-beyond-price-per-gb-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T04:02:10+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "macro"
       ],
@@ -645,7 +694,7 @@
       "url": "https://architecture-con.findy-tools.io/2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T01:01:05+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [],
       "dynamics_score": 13.0,
       "raw_band": "watch",
@@ -664,11 +713,61 @@
       "summary": "マーティン・ファウラー氏来日登壇決定/Findy主催"
     },
     {
+      "title": "M 4.5 - 122 km WNW of Houma, Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdv1",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-03T08:04:52.040+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "Time 2026-09-03 07:46:19 UTC 2026-09-03 07:46:19 UTC at epicenter Location 20.789°S 176.407°W Depth 217.98 km (135.44 mi)"
+    },
+    {
+      "title": "Jetzt patchen! Angreifer attackieren JFrog Artifactory und machen sich zu Admins",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-JFrog-Artifactory-und-machen-sich-zu-Admins-11439271.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-06-19T07:39:37+00:00",
+      "age_days": 76.04,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 10.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "aging penalty -8.0 for 76.0d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Who’s building AI for the way Southeast Asia actually speaks?",
       "url": "https://e27.co/whos-building-ai-for-the-way-southeast-asia-actually-speaks-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T02:00:25+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -693,7 +792,7 @@
       "url": "https://e27.co/vertical-ai-will-define-medicines-next-century-20260730/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T02:46:59+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -719,7 +818,7 @@
       "url": "https://zenn.dev/helloworld/articles/bcaea69f58eae5",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-02T11:53:15+00:00",
-      "age_days": 0.85,
+      "age_days": 0.87,
       "topics": [
         "ai"
       ],
@@ -745,7 +844,7 @@
       "url": "https://e27.co/laters-com-raises-us1-5m-to-expand-flexible-flight-payments-20260903/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T04:02:10+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -771,7 +870,7 @@
       "url": "https://e27.co/fintech-defi-and-applied-ai-define-southeast-asias-new-venture-discipline-20260903/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T05:09:45+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "ai",
         "macro"
@@ -797,7 +896,7 @@
       "url": "https://e27.co/malaysia-fines-singapore-funds-how-two-governments-are-forcing-seas-second-digital-wave-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T01:30:51+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -821,7 +920,7 @@
       "url": "https://levtech.jp/media/detail_920/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T06:37:14+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -847,7 +946,7 @@
       "url": "https://www.publickey1.jp/blog/26/awsaws_cloud_questaws_cloud_quest_20_ai.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T02:46:59+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -873,7 +972,7 @@
       "url": "https://www.digital.go.jp/news/15f28ab3-17b6-40a9-8ef9-170eeafecda5",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-03T06:00:00+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -897,7 +996,7 @@
       "url": "https://takoratta.hatenablog.com/entry/2026/08/31/181136",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T00:15:45+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "ai"
       ],
@@ -917,107 +1016,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
-    },
-    {
-      "title": "sngyai/Sequoia-X",
-      "url": "https://github.com/sngyai/Sequoia-X",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-09-03T05:50:53+00:00",
-      "age_days": 0.1,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书 Sequoia-X: 王者回归 | The King Returns A 股量化选股系统 V2 | A-Share Quantitative Stock Selection System V2 简介 | Introduction Sequoia-X V2 是面向 A 股市场的量化选股系统，基于现代 Python 工程化标准从零重构。 系统以 OOP 架构、向量化计算和增量数据更新为核心设计原则，每日收盘后自动选股并推送至飞书群。 数据层使用 baostock （免费、无需注册、无限流）拉取历史及增量日 K 数据（后复权）， 存储于本地 SQLite，彻底规避东方…"
-    },
-    {
-      "title": "Macアプリ開発者に「インテル対応終了可能」通知。Appleシリコン未対応には「すぐ移行開始」呼びかけも | テクノエッジ TechnoEdge",
-      "url": "https://www.techno-edge.net/article/2026/09/03/5459.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-03T03:09:23+00:00",
-      "age_days": 0.22,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "アップルは2026年9月2日、Mac App Storeに登録するアプリ開発者に対し、インテルMacへの対応を終了可能になったことを告知しました。 あわせて公開されたサポート資料では、macOS 28以降はインテル向けのアプリが起動できなくなることが明記されており、2020年に始まったAppleシリコンへの移行も大詰めとなりつつありま..."
-    },
-    {
-      "title": "From Sweden to Southeast Asia: What building logistics technology taught me about emerging markets",
-      "url": "https://e27.co/from-sweden-to-southeast-asia-what-building-logistics-technology-taught-me-about-emerging-markets-20260901/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-03T02:00:33+00:00",
-      "age_days": 0.26,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 2.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Since early 2024, I have been working closely with MOVZ, a Swedish digital logistics platform, while leading the technology work from Bangladesh. As CTO, I work across the customer and driver applications, administration tools, backend systems and integrations behind the transport journey. Building for Sweden from Ban…"
-    },
-    {
-      "title": "技術は「勉強するもの」ではなくなった。居酒屋でPCを広げる大人たちを見て決めた\"やらないこと\" - Findy Media",
-      "url": "https://findy-code.io/media/articles/list-yuma_prog?fr=media_20260902",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-02T23:01:23+00:00",
-      "age_days": 0.39,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 2.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: code",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "初めまして、Maki（@yuma_prog）です。 突然ですが、業務時間外に技術の勉強をするのはつらいと思っていませんか。でも、やらないと他の人との差が出てしまうから勉強をしないと…と日々ストレスを感じていませんか。周りの強いエンジニアを見るとずっと最新の情報を学び続けていて、自分にはああなるのは絶対に無理だ、..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “fmtlib/fmt” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0."
