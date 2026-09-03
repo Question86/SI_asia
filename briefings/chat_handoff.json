@@ -100,5 +100,140 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “Staying secure in the AI era: The habits we need to rethink” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "Staying secure in the AI era: The habits we need to rethink",
+        "url": "https://e27.co/staying-secure-in-the-ai-era-the-habits-we-need-to-rethink-20260901/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-03T03:00:35+00:00",
+        "age_days": 0.47,
+        "topics": [
+          "ai",
+          "security",
+          "disaster"
+        ],
+        "dynamics_score": 31.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "security high-signal: security, google"
+        ],
+        "summary": "AI has quietly become part of how many of us work. We use it to write emails, summarise documents, brainstorm ideas, analyse data, create presentations, and even help us make decisions. For many people, using AI now feels as normal as opening Google or checking Slack. And that is exactly why security deserves a second…"
+      },
+      {
+        "title": "[NEU] [mittel] Sonatype Nexus Repository Manager: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3171",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-03T11:26:58+00:00",
+        "age_days": 0.12,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 31.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: code",
+          "security high-signal: code"
+        ],
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Sonatype Nexus Repository Manager ausnutzen, um einen Denial of Service Angriff durchzuführen, Informationen offenzulegen, Code auszuführen oder Sicherheitsmaßnahmen zu umgehen."
+      },
+      {
+        "title": "[NEU] [hoch] BigBlueButton: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3170",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-03T11:26:58+00:00",
+        "age_days": 0.12,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 31.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: auth",
+          "security high-signal: auth"
+        ],
+        "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in BigBlueButton ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen, Sicherheitsmaßnahmen zu umgehen oder Informationen offenzulegen."
+      },
+      {
+        "title": "[NEU] [mittel] Grafana: Schwachstelle ermöglicht Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3163",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-03T11:26:08+00:00",
+        "age_days": 0.12,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 31.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: auth",
+          "security high-signal: auth"
+        ],
+        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Grafana Plugins für SQL Datenquellen ausnutzen, um einen Denial of Service Angriff durchzuführen."
+      },
+      {
+        "title": "[NEU] [kritisch] Langflow: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3164",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-03T11:26:08+00:00",
+        "age_days": 0.12,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 31.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: kritisch, code",
+          "security high-signal: kritisch, code"
+        ],
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Langflow ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen."
+      }
+    ]
+  }
 }
