@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-03T16:44:06+00:00",
-  "run_id": "2026-09-03T16:44:06+00:00",
+  "generated_at": "2026-09-03T16:51:58+00:00",
+  "run_id": "2026-09-03T16:51:58+00:00",
   "date": "2026-09-03",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 75
+      "configured_public_sources_only": 77
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 75,
-    "displayed_findings": 75,
+    "new_relevant_findings": 2,
+    "today_file_total": 77,
+    "displayed_findings": 77,
     "high": 1,
     "medium": 22,
-    "observe": 52,
-    "source_errors": 0
+    "observe": 54,
+    "source_errors": 1
   },
   "sections": {
     "high": [
@@ -722,6 +722,28 @@
         "id": "73beae68c00c6760cd47"
       },
       {
+        "title": "複数のAIサービスで障害発生 ChatGPT／Claude／Grok",
+        "url": "https://www.itmedia.co.jp/aiplus/article/2609/04/2000001152/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-03T16:15:44+00:00",
+        "fetched_at": "2026-09-03T16:51:26+00:00",
+        "summary": "日本時間の2026年9月4日午前0時40分現在、複数のAIサービスで障害が発生しており、接続しにくい、もしくは接続できない状態となっている。少なくとも、米OpenAIの「ChatGPT」、米Anthropicの「Claude」、米SpaceXAIの「Grok」で障害が報告されている。 ClaudeとGrokは3日午後10時30分ごろから、ChatGPTは4日午前0時前ご...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry",
+          "OpenAI"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1a5dae03c34406a770d4"
+      },
+      {
         "title": "Waller, The Economic Outlook and Some Comments on My Policy Communication",
         "url": "https://www.federalreserve.gov/newsevents/speech/waller20260903a.htm",
         "source": "Federal Reserve Speeches and Testimony",
@@ -792,6 +814,43 @@
           "EWZ"
         ],
         "id": "441bb12cb6787690ba88"
+      },
+      {
+        "title": "M 4.8 - 81 km SSW of Nikolski, Alaska",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te09",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-09-03T16:46:02.040+00:00",
+        "fetched_at": "2026-09-03T16:51:26+00:00",
+        "summary": "ShakeMap - III Time 2026-09-03 16:11:25 UTC 2026-09-03 16:11:25 UTC at epicenter Location 52.289°N 169.419°W Depth 35.00 km (21.75 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "ShakeMap",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake, ShakeMap"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "6e28e163190c21542d12"
       },
       {
         "title": "M 5.2 - 100 km SSW of Nikolski, Alaska",
@@ -2696,6 +2755,28 @@
       "id": "73beae68c00c6760cd47"
     },
     {
+      "title": "複数のAIサービスで障害発生 ChatGPT／Claude／Grok",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2609/04/2000001152/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-03T16:15:44+00:00",
+      "fetched_at": "2026-09-03T16:51:26+00:00",
+      "summary": "日本時間の2026年9月4日午前0時40分現在、複数のAIサービスで障害が発生しており、接続しにくい、もしくは接続できない状態となっている。少なくとも、米OpenAIの「ChatGPT」、米Anthropicの「Claude」、米SpaceXAIの「Grok」で障害が報告されている。 ClaudeとGrokは3日午後10時30分ごろから、ChatGPTは4日午前0時前ご...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "OpenAI"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1a5dae03c34406a770d4"
+    },
+    {
       "title": "Waller, The Economic Outlook and Some Comments on My Policy Communication",
       "url": "https://www.federalreserve.gov/newsevents/speech/waller20260903a.htm",
       "source": "Federal Reserve Speeches and Testimony",
@@ -2766,6 +2847,43 @@
         "EWZ"
       ],
       "id": "441bb12cb6787690ba88"
+    },
+    {
+      "title": "M 4.8 - 81 km SSW of Nikolski, Alaska",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te09",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-03T16:46:02.040+00:00",
+      "fetched_at": "2026-09-03T16:51:26+00:00",
+      "summary": "ShakeMap - III Time 2026-09-03 16:11:25 UTC 2026-09-03 16:11:25 UTC at epicenter Location 52.289°N 169.419°W Depth 35.00 km (21.75 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "6e28e163190c21542d12"
     },
     {
       "title": "M 5.2 - 100 km SSW of Nikolski, Alaska",
@@ -3980,28 +4098,73 @@
   ],
   "new_findings": [
     {
-      "title": "NVIDIA、AIモデル共有サイト「Hugging Face」を約2兆円で買収へ",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2138142.html",
+      "title": "複数のAIサービスで障害発生 ChatGPT／Claude／Grok",
+      "url": "https://www.itmedia.co.jp/aiplus/article/2609/04/2000001152/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-03T14:39:08+00:00",
-      "fetched_at": "2026-09-03T16:43:34+00:00",
-      "summary": "NVIDIA、AIモデル共有サイト「Hugging Face」を約2兆円で買収へ",
+      "published_at": "2026-09-03T16:15:44+00:00",
+      "fetched_at": "2026-09-03T16:51:26+00:00",
+      "summary": "日本時間の2026年9月4日午前0時40分現在、複数のAIサービスで障害が発生しており、接続しにくい、もしくは接続できない状態となっている。少なくとも、米OpenAIの「ChatGPT」、米Anthropicの「Claude」、米SpaceXAIの「Grok」で障害が報告されている。 ClaudeとGrokは3日午後10時30分ごろから、ChatGPTは4日午前0時前ご...",
       "matched_keywords": [
         "Hatena",
-        "hotentry"
+        "hotentry",
+        "OpenAI"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 12,
+      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "142e2c22c14166d862db"
+      "id": "1a5dae03c34406a770d4"
+    },
+    {
+      "title": "M 4.8 - 81 km SSW of Nikolski, Alaska",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te09",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-03T16:46:02.040+00:00",
+      "fetched_at": "2026-09-03T16:51:26+00:00",
+      "summary": "ShakeMap - III Time 2026-09-03 16:11:25 UTC 2026-09-03 16:11:25 UTC at epicenter Location 52.289°N 169.419°W Depth 35.00 km (21.75 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "6e28e163190c21542d12"
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "bis_statistics",
+      "source_name": "BIS Statistical Releases",
+      "source_type": "rss",
+      "error": "404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,

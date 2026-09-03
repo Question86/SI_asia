@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-03T16:44:06+00:00_
+_Generiert: 2026-09-03T16:51:58+00:00_
 
 ## Kurzlage
 
-75 neue relevante Treffer. Stärkstes Signal: „CodeQL 2.26.4 improves GitHub actions security detections“ aus GitHub Changelog Atom (Score 28, observation).
+77 neue relevante Treffer. Stärkstes Signal: „CodeQL 2.26.4 improves GitHub actions security detections“ aus GitHub Changelog Atom (Score 28, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -195,6 +195,15 @@ _Generiert: 2026-09-03T16:44:06+00:00_
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. https://ponytail.dev Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) · ~20% cheaper · ~27% faster · 100% safe Measured on real Claude Code sessions editing a real open-source repo (FastAPI + React), against the same agent with no skill. ~54% is the mean across 12 feature ta…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **複数のAIサービスで障害発生 ChatGPT／Claude／Grok** — Score 12, observation — [Quelle](https://www.itmedia.co.jp/aiplus/article/2609/04/2000001152/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-03T16:15:44+00:00`, fetched `2026-09-03T16:51:26+00:00`
+  - Treffer: Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 日本時間の2026年9月4日午前0時40分現在、複数のAIサービスで障害が発生しており、接続しにくい、もしくは接続できない状態となっている。少なくとも、米OpenAIの「ChatGPT」、米Anthropicの「Claude」、米SpaceXAIの「Grok」で障害が報告されている。 ClaudeとGrokは3日午後10時30分ごろから、ChatGPTは4日午前0時前ご...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Waller, The Economic Outlook and Some Comments on My Policy Communication** — Score 12, observation — [Quelle](https://www.federalreserve.gov/newsevents/speech/waller20260903a.htm)
   - Quelle: Federal Reserve Speeches and Testimony / `rss`
   - Zeit: published `2026-09-03T12:30:00+00:00`, fetched `2026-09-03T12:41:42+00:00`
@@ -213,6 +222,15 @@ _Generiert: 2026-09-03T16:44:06+00:00_
   - Warum relevant: Webentwicklung (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules elections_unrest (+3.0)
   - Kurz: とりあえずWordPressを設置していた某ドメイン 特に重要な記事が入っているわけでもなく、ほぼ放置状態。 時たまSSL生きてるかみているだけだったもの 月が替わったので確認したときにやられていることに気づく。 「Hacked by CoupDeGrace」は、2026年8月中旬頃から日本の複数のWordPressサイトなどで相次いで確認されて...
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 4.8 - 81 km SSW of Nikolski, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000te09)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-03T16:46:02.040+00:00`, fetched `2026-09-03T16:51:26+00:00`
+  - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: ShakeMap - III Time 2026-09-03 16:11:25 UTC 2026-09-03 16:11:25 UTC at epicenter Location 52.289°N 169.419°W Depth 35.00 km (21.75 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.2 - 100 km SSW of Nikolski, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdys)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-03T13:25:57.040+00:00`, fetched `2026-09-03T13:25:59+00:00`
@@ -221,15 +239,6 @@ _Generiert: 2026-09-03T16:44:06+00:00_
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: ShakeMap - III Time 2026-09-03 13:03:18 UTC 2026-09-03 13:03:18 UTC at epicenter Location 52.056°N 169.199°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.9 - 90 km SSW of Nikolski, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdyi)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-03T12:57:25.201+00:00`, fetched `2026-09-03T13:09:45+00:00`
-  - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: ShakeMap - III DYFI? - II Time 2026-09-03 12:39:34 UTC 2026-09-03 12:39:34 UTC at epicenter Location 52.253°N 169.579°W Depth 44.44 km (27.62 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **WordPress All-in-One WP Migration: Angreifer können Admin-Falle auslegen** — Score 11, observation — [Quelle](https://www.heise.de/news/WordPress-All-in-One-WP-Migration-Angreifer-koennen-Admin-Falle-auslegen-11439787.html)
   - Quelle: heise Security Alerts / `rss`
@@ -248,15 +257,6 @@ _Generiert: 2026-09-03T16:44:06+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)
   - Kurz: 2026年9月3日に開催されたイベント「Bet AI Day 2026」における登壇資料です。 ■ 概要 LayerXはこの数年で多くの仲間を迎え入れてきました。その裏側には、膨大な数の採用プロセスが存在しています。一方で、採用という業務の特性上、一足飛びに全てをAIに任せることはできません。 …
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **トークン2000分の1——オントロジー×ナレッジグラフでClaude Codeの推測を消す** — Score 11, observation — [Quelle](https://zenn.dev/helloworld/articles/bcaea69f58eae5)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-02T11:53:15+00:00`, fetched `2026-09-03T07:41:59+00:00`
-  - Treffer: AI Agents, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: ナレッジグラフ方式の Graphify（94k stars）・code-review-graph（26k）・better-code-review-graph（66）と、言語サーバー（LSP）方式の Serena（26.8k）。Stars数は2026年7月時点。 code-review-graphとbetter-code-review-graphはフォーク関係。code-review-graphはpre-commitでコンテキスト供給だけ、質問はbetter...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **From Sweden to Southeast Asia: What building logistics technology taught me about emerging markets** — Score 10, observation — [Quelle](https://e27.co/from-sweden-to-southeast-asia-what-building-logistics-technology-taught-me-about-emerging-markets-20260901/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -312,3 +312,7 @@ _Generiert: 2026-09-03T16:44:06+00:00_
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `bis_statistics` (rss): 404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss
