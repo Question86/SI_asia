@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T05:51:25+00:00",
-  "run_id": "2026-09-03T05:51:25+00:00",
+  "generated_at": "2026-09-03T06:01:52+00:00",
+  "run_id": "2026-09-03T06:01:52+00:00",
   "date": "2026-09-03",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 5,
+    "new_relevant_findings": 0,
     "today_file_total": 20,
     "displayed_findings": 20,
     "high": 0,
@@ -1021,143 +1021,7 @@
       "id": "4c62227f3353d056a0dd"
     }
   ],
-  "new_findings": [
-    {
-      "title": "DietrichGebert/ponytail",
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-09-03T05:50:53+00:00",
-      "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. https://ponytail.dev Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) · ~20% cheaper · ~27% faster · 100% safe Measured on real Claude Code sessions editing a real open-source repo (FastAPI + React), against the same agent with no skill. ~54% is the mean across 12 feature ta…",
-      "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "APAC Trend Radar",
-        "GitHub Trending"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "73beae68c00c6760cd47"
-    },
-    {
-      "title": "sngyai/Sequoia-X",
-      "url": "https://github.com/sngyai/Sequoia-X",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-09-03T05:50:53+00:00",
-      "summary": "A股自动选股系统 — 多种技术形态自动扫描，收盘后自动运行并推送飞书 Sequoia-X: 王者回归 | The King Returns A 股量化选股系统 V2 | A-Share Quantitative Stock Selection System V2 简介 | Introduction Sequoia-X V2 是面向 A 股市场的量化选股系统，基于现代 Python 工程化标准从零重构。 系统以 OOP 架构、向量化计算和增量数据更新为核心设计原则，每日收盘后自动选股并推送至飞书群。 数据层使用 baostock （免费、无需注册、无限流）拉取历史及增量日 K 数据（后复权）， 存储于本地 SQLite，彻底规避东方财富反爬问题。 两种运行模式 python main.py # 日常模式：8进程增量补数据 + 跑策略 + 飞书推送（2~3分钟） python main.py --backfill # 回填模式：全…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "GitHub Trending",
-        "Macro/Policy",
-        "Watchgraph:elections_unrest"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules elections_unrest (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "elections_unrest"
-      ],
-      "watchgraph_reasons": [
-        "elections_unrest: election"
-      ],
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "BA",
-        "META",
-        "GOOGL",
-        "MSFT",
-        "RDDT",
-        "SNAP",
-        "PINS",
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ"
-      ],
-      "id": "fdadbe498687c34ac08e"
-    },
-    {
-      "title": "For Southeast Asian startups, distress may show up before the cash runs out",
-      "url": "https://e27.co/for-southeast-asian-startups-distress-may-show-up-before-the-cash-runs-out-20260903/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-03T05:49:09+00:00",
-      "fetched_at": "2026-09-03T05:50:53+00:00",
-      "summary": "For many companies in Asia, distress rarely arrives as a single dramatic event. It tends to build quietly: a more expensive lender replacing a bank, a missed fundraising target explained away as timing, profits that look healthy on paper but do not turn into cash, or a trusted senior executive leaving without a clear successor. […] The post For Southeast Asian startups, distress may show up before the cash runs out…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Southeast Asia"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2aeb030bf49371273dc9"
-    },
-    {
-      "title": "fmtlib/fmt",
-      "url": "https://github.com/fmtlib/fmt",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-09-03T05:50:53+00:00",
-      "summary": "A modern formatting library https://fmt.dev {fmt} is an open-source formatting library providing a fast and safe alternative to C stdio and C++ iostreams. Documentation Cheat Sheets Q&A: ask questions on StackOverflow with the tag fmt . Try {fmt} in Compiler Explorer . Features Simple format API with positional arguments for localization Implementation of C++20 std::format and C++23 std::print Format string syntax s…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "GitHub Trending"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9e7489109a9936d5b74e"
-    },
-    {
-      "title": "Bitcoin slipped below US$80,000, so why are traders still betting on US$82,000?",
-      "url": "https://e27.co/bitcoin-slipped-below-us80000-so-why-are-traders-still-betting-on-us82000-20260903/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-03T05:35:41+00:00",
-      "fetched_at": "2026-09-03T05:50:53+00:00",
-      "summary": "Bitcoin trades at US$77,260.09 today, with a 24-hour trading volume of US$26,479,119,535. The premier digital asset gained 0.22 per cent over the last day. The asset briefly climbed above US$80,000 before sellers dragged the valuation back to US$76,000. Kalshi participants currently favour an US$82,000 target for September. Market participants betting on this outcome expect the […] The post Bitcoin slipped below US$…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3e22066b70d9ba7bd1ed"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [
     {
       "source_id": "bis_statistics",
