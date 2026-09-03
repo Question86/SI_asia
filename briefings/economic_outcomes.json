@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-03T08:28:53+00:00",
+  "generated_at": "2026-09-03T08:47:00+00:00",
   "events": [
     {
       "event_id": "evt_04c8c9515e6d6caa68b7",
@@ -693,7 +693,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_55bf431fc184f598da38",
@@ -819,12 +819,12 @@
     {
       "event_id": "evt_5ecfe3d11dbe7ef7157d",
       "title": "M 4.5 - 122 km WNW of Houma, Tonga",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -1023,7 +1023,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_73416769b0026aedfe5c",
@@ -1719,6 +1719,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_b5416a816250a44d97a0",
+      "title": "M 5.1 - 115 km NE of Joshīmath, India",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_b6d556e3edd229c4b11d",
       "title": "GitHub - getkern/kern: A fast, rootless sandbox and virtual resource runtime for any workload, including untrusted and AI-generated code. Daemonless: a real, kernel-enforced container in ~3.5 ms from an OCI image, no daemon, one 1.52 MB static binary.",
       "deduplicated_buckets": 0,
@@ -1980,7 +1991,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_d2b65476ddd51aa30af6",
