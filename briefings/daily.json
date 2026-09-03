@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T13:53:27+00:00",
-  "today_file_total": 68,
+  "generated_at": "2026-09-03T14:01:11+00:00",
+  "today_file_total": 69,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -54,28 +54,28 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "title:cloudflare",
-      "title": "気づいたら Cloudflare OS と同じ答えにたどり着いていた",
+      "key": "domain:www.heise.de",
+      "title": "WordPress All-in-One WP Migration: Angreifer können Admin-Falle auslegen",
       "sources": [
-        "Hatena Bookmark Hotentry IT"
+        "heise Security Alerts"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://aiji42.dev/blog/cloudflare-os-agent-workspace/"
+        "https://www.heise.de/news/WordPress-All-in-One-WP-Migration-Angreifer-koennen-Admin-Falle-auslegen-11439787.html",
+        "https://www.heise.de/news/Sicherheitspatches-Attacken-auf-Switches-mit-ArubaOS-CX-moeglich-11440322.html",
+        "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-JFrog-Artifactory-und-machen-sich-zu-Admins-11439271.html"
       ],
-      "finding_count": 1,
-      "max_score": 16,
-      "credibility_total": 1.05,
+      "finding_count": 3,
+      "max_score": 11,
+      "credibility_total": 3.15,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 21.1,
+      "network_score": 20.3,
       "hot": false,
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
+      "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
@@ -99,6 +99,31 @@
       "network_score": 20.1,
       "hot": false,
       "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:cloudflare",
+      "title": "気づいたら Cloudflare OS と同じ答えにたどり着いていた",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://aiji42.dev/blog/cloudflare-os-agent-workspace/"
+      ],
+      "finding_count": 1,
+      "max_score": 16,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 18.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
@@ -176,30 +201,6 @@
         "earthquakes_tsunami"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "domain:www.heise.de",
-      "title": "WordPress All-in-One WP Migration: Angreifer können Admin-Falle auslegen",
-      "sources": [
-        "heise Security Alerts"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.heise.de/news/WordPress-All-in-One-WP-Migration-Angreifer-koennen-Admin-Falle-auslegen-11439787.html",
-        "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-JFrog-Artifactory-und-machen-sich-zu-Admins-11439271.html"
-      ],
-      "finding_count": 2,
-      "max_score": 11,
-      "credibility_total": 2.1,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 15.2,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "github_repo:sngyai/sequoia-x",

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-03T13:53:25+00:00_
+_Generiert: 2026-09-03T14:01:07+00:00_
 
 ## Kurzlage
 
-68 neue relevante Treffer. Stärkstes Signal: „Staying secure in the AI era: The habits we need to rethink“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
+69 neue relevante Treffer. Stärkstes Signal: „Staying secure in the AI era: The habits we need to rethink“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
 
 ## Priorität Hoch
 

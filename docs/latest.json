@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T13:53:25+00:00",
-  "run_id": "2026-09-03T13:53:25+00:00",
+  "generated_at": "2026-09-03T14:01:07+00:00",
+  "run_id": "2026-09-03T14:01:07+00:00",
   "date": "2026-09-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 68
+      "configured_public_sources_only": 69
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 68,
-    "displayed_findings": 68,
+    "today_file_total": 69,
+    "displayed_findings": 69,
     "high": 0,
     "medium": 21,
-    "observe": 47,
+    "observe": 48,
     "source_errors": 0
   },
   "sections": {
@@ -1406,6 +1406,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "93d42ec10514b701cb87"
+      },
+      {
+        "title": "Sicherheitspatches: Attacken auf Switches mit ArubaOS-CX möglich",
+        "url": "https://www.heise.de/news/Sicherheitspatches-Attacken-auf-Switches-mit-ArubaOS-CX-moeglich-11440322.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-09-03T13:49:00.000+00:00",
+        "fetched_at": "2026-09-03T14:00:35+00:00",
+        "summary": "Die Entwickler von HPE Aruba Networking haben 34 Sicherheitslücken in ArubaOS-CX geschlossen.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "cda0ee7820d46c734e73"
       },
       {
         "title": "Jetzt patchen! Angreifer attackieren JFrog Artifactory und machen sich zu Admins",
@@ -3199,6 +3219,26 @@
       "id": "93d42ec10514b701cb87"
     },
     {
+      "title": "Sicherheitspatches: Attacken auf Switches mit ArubaOS-CX möglich",
+      "url": "https://www.heise.de/news/Sicherheitspatches-Attacken-auf-Switches-mit-ArubaOS-CX-moeglich-11440322.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-09-03T13:49:00.000+00:00",
+      "fetched_at": "2026-09-03T14:00:35+00:00",
+      "summary": "Die Entwickler von HPE Aruba Networking haben 34 Sicherheitslücken in ArubaOS-CX geschlossen.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cda0ee7820d46c734e73"
+    },
+    {
       "title": "Jetzt patchen! Angreifer attackieren JFrog Artifactory und machen sich zu Admins",
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-JFrog-Artifactory-und-machen-sich-zu-Admins-11439271.html",
       "source": "heise Security Alerts",
@@ -3613,51 +3653,24 @@
   ],
   "new_findings": [
     {
-      "title": "気づいたら Cloudflare OS と同じ答えにたどり着いていた",
-      "url": "https://aiji42.dev/blog/cloudflare-os-agent-workspace/",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Sicherheitspatches: Attacken auf Switches mit ArubaOS-CX möglich",
+      "url": "https://www.heise.de/news/Sicherheitspatches-Attacken-auf-Switches-mit-ArubaOS-CX-moeglich-11440322.html",
+      "source": "heise Security Alerts",
       "source_type": "rss",
-      "published_at": "2026-09-03T06:13:38+00:00",
-      "fetched_at": "2026-09-03T13:52:54+00:00",
-      "summary": "これが社員の数だけ必要でした。 Cloudflare は Cloudflare OS の記事で、社内知識を集めた「Engineering Codex」への投資が不可欠だったと書いています。順序が同じだったのが印象的でした。文脈の共有が先で、アプリは後。文脈がないままアプリだけ作れるようにすると、何のために何が作られているのか誰も追えなくな...",
+      "published_at": "2026-09-03T13:49:00.000+00:00",
+      "fetched_at": "2026-09-03T14:00:35+00:00",
+      "summary": "Die Entwickler von HPE Aruba Networking haben 34 Sicherheitslücken in ArubaOS-CX geschlossen.",
       "matched_keywords": [
-        "agent",
-        "Hatena",
-        "hotentry",
-        "OpenAI",
-        "Watchgraph:ai_agents_workflow"
+        "Security"
       ],
-      "relevance_score": 16,
-      "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: Codex"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "580bc28ac3095455bed9"
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cda0ee7820d46c734e73"
     }
   ],
   "source_errors": [],

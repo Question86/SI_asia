@@ -1,55 +1,15 @@
 {
-  "generated_at": "2026-09-03T13:53:27+00:00",
+  "generated_at": "2026-09-03T14:01:11+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 68,
+    "findings": 69,
     "clusters": 48,
     "cross_source_confrmed": 0,
-    "hot": 1,
+    "hot": 0,
     "early_signals": 2,
     "dominance_penalized": 13
   },
   "clusters": [
-    {
-      "key": "title:cloudflare",
-      "title": "気づいたら Cloudflare OS と同じ答えにたどり着いていた",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://aiji42.dev/blog/cloudflare-os-agent-workspace/"
-      ],
-      "finding_count": 1,
-      "max_score": 16,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 25.5,
-      "hot": true,
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
-      "raw_network_score": 21.1,
-      "ranking_score": 25.5,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-09-03T13:53:27+00:00"
-    },
     {
       "key": "domain:wid.cert-bund.de",
       "title": "[NEU] [hoch] n8n: Mehrere Schwachstellen",
@@ -73,18 +33,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 22.98,
+      "network_score": 23.01,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 53.7,
-      "ranking_score": 22.98,
+      "ranking_score": 23.01,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 3.48,
+      "baseline_bonus": 3.51,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -92,6 +52,46 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-08-28T14:08:37+00:00"
+    },
+    {
+      "key": "title:cloudflare",
+      "title": "気づいたら Cloudflare OS と同じ答えにたどり着いていた",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://aiji42.dev/blog/cloudflare-os-agent-workspace/"
+      ],
+      "finding_count": 1,
+      "max_score": 16,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 23.0,
+      "hot": false,
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 18.1,
+      "ranking_score": 23.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 5.5,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-03T13:53:27+00:00"
     },
     {
       "key": "domain:satoweb.net",
@@ -210,6 +210,46 @@
       "first_seen_at": "2026-09-03T02:46:59+00:00"
     },
     {
+      "key": "domain:www.heise.de",
+      "title": "WordPress All-in-One WP Migration: Angreifer können Admin-Falle auslegen",
+      "sources": [
+        "heise Security Alerts"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.heise.de/news/WordPress-All-in-One-WP-Migration-Angreifer-koennen-Admin-Falle-auslegen-11439787.html",
+        "https://www.heise.de/news/Sicherheitspatches-Attacken-auf-Switches-mit-ArubaOS-CX-moeglich-11440322.html",
+        "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-JFrog-Artifactory-und-machen-sich-zu-Admins-11439271.html"
+      ],
+      "finding_count": 3,
+      "max_score": 11,
+      "credibility_total": 3.15,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 17.42,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 20.3,
+      "ranking_score": 17.42,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 2.42,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T07:39:37+00:00"
+    },
+    {
       "key": "title:fintech-defi-applied-define-southeast-asia-venture-discipline",
       "title": "Fintech, DeFi and applied AI define Southeast Asia’s new venture discipline",
       "sources": [
@@ -326,45 +366,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-03T05:51:29+00:00"
-    },
-    {
-      "key": "domain:www.heise.de",
-      "title": "WordPress All-in-One WP Migration: Angreifer können Admin-Falle auslegen",
-      "sources": [
-        "heise Security Alerts"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.heise.de/news/WordPress-All-in-One-WP-Migration-Angreifer-koennen-Admin-Falle-auslegen-11439787.html",
-        "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-JFrog-Artifactory-und-machen-sich-zu-Admins-11439271.html"
-      ],
-      "finding_count": 2,
-      "max_score": 11,
-      "credibility_total": 2.1,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 12.88,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 15.2,
-      "ranking_score": 12.88,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.38,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-19T07:39:37+00:00"
     },
     {
       "key": "title:2000-claude-code",
@@ -1026,18 +1027,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 10.23,
+      "network_score": 10.18,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 14.3,
-      "ranking_score": 10.23,
+      "ranking_score": 10.18,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.73,
+      "baseline_bonus": 0.68,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1891,7 +1892,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-03T13:53:28Z",
+    "generated_at": "2026-09-03T14:01:12Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
