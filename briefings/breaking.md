@@ -1,6 +1,19 @@
 # Senna Breaking
 
-_Generiert: 2026-09-03T01:57:01+00:00_
+_Generiert: 2026-09-03T02:46:59+00:00_
 
-Keine Breaking-Signale. Kleine Signale bleiben im Network Hub sichtbar.
+## Who’s building AI for the way Southeast Asia actually speaks?
+
+- Ranking Score: `27.5`
+- Raw Network Score: `23.1`
+- Max Monitor Score: `18`
+- Reichweite: `specialist` / `2.5`
+- Early Signal: `ja`
+- Dominanter Emitter: `nein`
+- Quellen: e27 Asia Startup and Tech Feed
+- Klassen: tier3_specialist
+- Cross-source bestaetigt: nein
+- Momentum: increasing (+1)
+- Erste Quelle: https://e27.co/whos-building-ai-for-the-way-southeast-asia-actually-speaks-20260901/
+- Handlung: HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.
 
