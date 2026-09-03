@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-03T05:45:56Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Staying secure in the AI era: The habits we need to rethink” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
+  "generated_at": "2026-09-03T06:23:12Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “fmtlib/fmt” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,37 @@
   ],
   "top_dynamics": [
     {
+      "title": "fmtlib/fmt",
+      "url": "https://github.com/fmtlib/fmt",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-09-03T05:50:53+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 25.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: local",
+        "high terms: rce",
+        "security high-signal: rce"
+      ],
+      "summary": "A modern formatting library https://fmt.dev {fmt} is an open-source formatting library providing a fast and safe alternative to C stdio and C++ iostreams. Documentation Cheat Sheets Q&A: ask questions on StackOverflow with the tag fmt . Try {fmt} in Compiler Explorer . Features Simple format API with positional argume…"
+    },
+    {
       "title": "Staying secure in the AI era: The habits we need to rethink",
       "url": "https://e27.co/staying-secure-in-the-ai-era-the-habits-we-need-to-rethink-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T03:00:35+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "ai",
         "security",
@@ -38,11 +64,37 @@
       "summary": "AI has quietly become part of how many of us work. We use it to write emails, summarise documents, brainstorm ideas, analyse data, create presentations, and even help us make decisions. For many people, using AI now feels as normal as opening Google or checking Slack. And that is exactly why security deserves a second…"
     },
     {
+      "title": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-09-03T05:50:53+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce, code, 10",
+        "security high-signal: rce, code, 10",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. https://ponytail.dev Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) · ~20% cheaper · ~27% faster · 100% safe Measured on real Claude Code sessions editing a real open-source…"
+    },
+    {
       "title": "You spent fifteen years building guanxi, and then nobody picked up",
       "url": "https://e27.co/you-spent-fifteen-years-building-guanxi-and-then-nobody-picked-up-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T01:04:19+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [],
       "dynamics_score": 23.0,
       "raw_band": "strong",
@@ -62,37 +114,11 @@
       "summary": ""
     },
     {
-      "title": "Who’s building AI for the way Southeast Asia actually speaks?",
-      "url": "https://e27.co/whos-building-ai-for-the-way-southeast-asia-actually-speaks-20260901/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-03T02:46:59+00:00",
-      "age_days": 0.12,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 22.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +2",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "マーティン・ファウラー氏来日登壇！アーキテクチャConference 2026｜11月26・27日開催",
       "url": "https://architecture-con.findy-tools.io/2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T01:37:36+00:00",
-      "age_days": 0.17,
+      "age_days": 0.2,
       "topics": [],
       "dynamics_score": 22.0,
       "raw_band": "strong",
@@ -112,37 +138,11 @@
       "summary": ""
     },
     {
-      "title": "Staying secure in the AI era: The habits we need to rethink",
-      "url": "https://e27.co/staying-secure-in-the-ai-era-the-habits-we-need-to-rethink-20260901/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-03T04:02:10+00:00",
-      "age_days": 0.07,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 20.5,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "M 6.2 - South Sandwich Islands region",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdrv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T00:15:45+00:00",
-      "age_days": 0.23,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -162,11 +162,37 @@
       "summary": ""
     },
     {
+      "title": "Staying secure in the AI era: The habits we need to rethink",
+      "url": "https://e27.co/staying-secure-in-the-ai-era-the-habits-we-need-to-rethink-20260901/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-03T04:02:10+00:00",
+      "age_days": 0.1,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 20.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Fintech, DeFi and applied AI define Southeast Asia’s new venture discipline",
       "url": "https://e27.co/fintech-defi-and-applied-ai-define-southeast-asias-new-venture-discipline-20260903/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T05:21:59+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -176,12 +202,38 @@
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 2,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +1",
+        "momentum delta +2",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Who’s building AI for the way Southeast Asia actually speaks?",
+      "url": "https://e27.co/whos-building-ai-for-the-way-southeast-asia-actually-speaks-20260901/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-03T02:46:59+00:00",
+      "age_days": 0.15,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],
@@ -192,22 +244,48 @@
       "url": "https://e27.co/from-sweden-to-southeast-asia-what-building-logistics-technology-taught-me-about-emerging-markets-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T02:46:59+00:00",
-      "age_days": 0.12,
+      "age_days": 0.15,
       "topics": [
         "macro"
       ],
-      "dynamics_score": 16.5,
+      "dynamics_score": 19.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +2"
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "sngyai/Sequoia-X",
+      "url": "https://github.com/sngyai/Sequoia-X",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-09-03T05:51:29+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
     },
@@ -216,7 +294,7 @@
       "url": "https://e27.co/malaysia-fines-singapore-funds-how-two-governments-are-forcing-seas-second-digital-wave-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T01:37:36+00:00",
-      "age_days": 0.17,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -234,79 +312,6 @@
         "momentum delta +3"
       ],
       "summary": ""
-    },
-    {
-      "title": "M 6.2 - South Sandwich Islands region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdrv",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-03T00:11:47.533+00:00",
-      "age_days": 0.23,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 16.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake"
-      ],
-      "summary": "PAGER - GREEN ShakeMap - IV Time 2026-09-02 23:46:57 UTC 2026-09-02 23:46:57 UTC at epicenter Location 56.206°S 27.909°W Depth 125.91 km (78.23 mi)"
-    },
-    {
-      "title": "You spent fifteen years building guanxi, and then nobody picked up",
-      "url": "https://e27.co/you-spent-fifteen-years-building-guanxi-and-then-nobody-picked-up-20260901/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-03T01:00:54+00:00",
-      "age_days": 0.2,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "A few years ago, in a Shanghai conference room, a Korean executive stood up and made a phone call. His joint-venture partner of more than a decade had gone quiet as their factory dispute escalated. Years of holiday gifts. A seat at the man’s daughter’s wedding. Countless dinners across two economic cycles. Surely that…"
-    },
-    {
-      "title": "マーティン・ファウラー氏来日登壇！アーキテクチャConference 2026｜11月26・27日開催",
-      "url": "https://architecture-con.findy-tools.io/2026",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-03T01:01:05+00:00",
-      "age_days": 0.2,
-      "topics": [],
-      "dynamics_score": 13.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit"
-      ],
-      "summary": "マーティン・ファウラー氏来日登壇決定/Findy主催"
     }
   ],
   "read_order": [
@@ -318,8 +323,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 6,
-      "watch": 6
+      "strong": 7,
+      "watch": 5
     }
   }
 }
