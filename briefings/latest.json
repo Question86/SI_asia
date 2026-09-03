@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T18:35:05+00:00",
-  "run_id": "2026-09-03T18:35:05+00:00",
+  "generated_at": "2026-09-03T18:47:58+00:00",
+  "run_id": "2026-09-03T18:47:58+00:00",
   "date": "2026-09-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 83,
     "displayed_findings": 83,
     "high": 1,
@@ -4488,32 +4488,7 @@
       "id": "4c62227f3353d056a0dd"
     }
   ],
-  "new_findings": [
-    {
-      "title": "NVIDIA to Acquire Hugging Face",
-      "url": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-03T12:56:57+00:00",
-      "fetched_at": "2026-09-03T18:34:36+00:00",
-      "summary": "I’m excited to announce that NVIDIA has agreed to acquire Hugging Face for $12,930,300,000. Together, we will scale Hugging Face’s platform, strengthen its infrastructure and expand access to AI for developers and institutions worldwide. Over the past decade, Clem, Julien, Thomas and the team at ...",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "developer",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); developer (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ffbc180a88d4bdadb2c6"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
