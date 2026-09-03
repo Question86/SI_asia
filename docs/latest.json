@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T16:33:17+00:00",
-  "run_id": "2026-09-03T16:33:17+00:00",
+  "generated_at": "2026-09-03T16:44:06+00:00",
+  "run_id": "2026-09-03T16:44:06+00:00",
   "date": "2026-09-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 74
+      "configured_public_sources_only": 75
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 74,
-    "displayed_findings": 74,
+    "new_relevant_findings": 1,
+    "today_file_total": 75,
+    "displayed_findings": 75,
     "high": 1,
     "medium": 22,
-    "observe": 51,
+    "observe": 52,
     "source_errors": 0
   },
   "sections": {
@@ -1711,6 +1711,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "eb42101b9755eb89efad"
+      },
+      {
+        "title": "NVIDIA、AIモデル共有サイト「Hugging Face」を約2兆円で買収へ",
+        "url": "https://pc.watch.impress.co.jp/docs/news/2138142.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-03T14:39:08+00:00",
+        "fetched_at": "2026-09-03T16:43:34+00:00",
+        "summary": "NVIDIA、AIモデル共有サイト「Hugging Face」を約2兆円で買収へ",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "142e2c22c14166d862db"
       },
       {
         "title": "I refused to train the AI that could replace me",
@@ -3666,6 +3687,27 @@
       "id": "eb42101b9755eb89efad"
     },
     {
+      "title": "NVIDIA、AIモデル共有サイト「Hugging Face」を約2兆円で買収へ",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2138142.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-03T14:39:08+00:00",
+      "fetched_at": "2026-09-03T16:43:34+00:00",
+      "summary": "NVIDIA、AIモデル共有サイト「Hugging Face」を約2兆円で買収へ",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "142e2c22c14166d862db"
+    },
+    {
       "title": "I refused to train the AI that could replace me",
       "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
@@ -3936,7 +3978,29 @@
       "id": "4c62227f3353d056a0dd"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "NVIDIA、AIモデル共有サイト「Hugging Face」を約2兆円で買収へ",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2138142.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-03T14:39:08+00:00",
+      "fetched_at": "2026-09-03T16:43:34+00:00",
+      "summary": "NVIDIA、AIモデル共有サイト「Hugging Face」を約2兆円で買収へ",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "142e2c22c14166d862db"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
