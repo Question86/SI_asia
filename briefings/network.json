@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-03T07:28:29+00:00",
+  "generated_at": "2026-09-03T07:42:38+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 24,
-    "clusters": 24,
+    "findings": 25,
+    "clusters": 25,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 0,
@@ -125,6 +125,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-03T05:21:59+00:00"
+    },
+    {
+      "key": "title:2000-claude-code",
+      "title": "トークン2000分の1——オントロジー×ナレッジグラフでClaude Codeの推測を消す",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://zenn.dev/helloworld/articles/bcaea69f58eae5"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 15.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 16.1,
+      "ranking_score": 15.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-03T07:42:38+00:00"
     },
     {
       "key": "github_repo:sngyai/sequoia-x",
@@ -342,18 +380,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 9.72,
+      "network_score": 9.71,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 10.1,
-      "ranking_score": 9.72,
+      "ranking_score": 9.71,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.22,
+      "baseline_bonus": 0.21,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -935,7 +973,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-03T07:28:30Z",
+    "generated_at": "2026-09-03T07:42:38Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

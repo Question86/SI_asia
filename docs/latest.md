@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-03T07:28:25+00:00_
+_Generiert: 2026-09-03T07:42:33+00:00_
 
 ## Kurzlage
 
-24 neue relevante Treffer. Stärkstes Signal: „Staying secure in the AI era: The habits we need to rethink“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
+25 neue relevante Treffer. Stärkstes Signal: „Staying secure in the AI era: The habits we need to rethink“ aus e27 Asia Startup and Tech Feed (Score 19, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -78,6 +78,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - I Time 2026-09-03 06:04:02 UTC 2026-09-03 06:04:02 UTC at epicenter Location 29.735°S 71.698°W Depth 55.16 km (34.28 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **トークン2000分の1——オントロジー×ナレッジグラフでClaude Codeの推測を消す** — Score 11, observation — [Quelle](https://zenn.dev/helloworld/articles/bcaea69f58eae5)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-02T11:53:15+00:00`, fetched `2026-09-03T07:41:59+00:00`
+  - Treffer: AI Agents, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: ナレッジグラフ方式の Graphify（94k stars）・code-review-graph（26k）・better-code-review-graph（66）と、言語サーバー（LSP）方式の Serena（26.8k）。Stars数は2026年7月時点。 code-review-graphとbetter-code-review-graphはフォーク関係。code-review-graphはpre-commitでコンテキスト供給だけ、質問はbetter...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **From Sweden to Southeast Asia: What building logistics technology taught me about emerging markets** — Score 10, observation — [Quelle](https://e27.co/from-sweden-to-southeast-asia-what-building-logistics-technology-taught-me-about-emerging-markets-20260901/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-03T02:00:33+00:00`, fetched `2026-09-03T02:46:24+00:00`
@@ -132,15 +141,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: アップルは2026年9月2日、Mac App Storeに登録するアプリ開発者に対し、インテルMacへの対応を終了可能になったことを告知しました。 あわせて公開されたサポート資料では、macOS 28以降はインテル向けのアプリが起動できなくなることが明記されており、2020年に始まったAppleシリコンへの移行も大詰めとなりつつありま...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「三層構造はもう古い」は本当か。AI時代におけるバックエンドシステムのアーキテクチャ - レバテックLAB** — Score 5, observation — [Quelle](https://levtech.jp/media/detail_920/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-03T01:37:54+00:00`, fetched `2026-09-03T06:36:40+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: エンバインド株式会社 代表取締役 小林昌弘 有限会社 WINGSプロジェクトが運営する、テクニカル執筆コミュニティ（代表：山田祥寛）に所属するテクニカルライター。 Javaでのアプリケーションサーバ開発や社内フレームワーク開発、SaaS提供企業などの技術基盤の設計・開発を経験。サーバーサイドからスマホアプリ、P2Pを...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **fmtlib/fmt** — Score 5, observation — [Quelle](https://github.com/fmtlib/fmt)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-09-03T05:50:53+00:00`
@@ -158,3 +158,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `bis_statistics` (rss): 404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss
