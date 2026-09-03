@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T04:02:05+00:00",
-  "run_id": "2026-09-03T04:02:05+00:00",
+  "generated_at": "2026-09-03T05:21:55+00:00",
+  "run_id": "2026-09-03T05:21:55+00:00",
   "date": "2026-09-03",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 14
+      "configured_public_sources_only": 15
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 14,
-    "displayed_findings": 14,
+    "new_relevant_findings": 1,
+    "today_file_total": 15,
+    "displayed_findings": 15,
     "high": 0,
-    "medium": 2,
+    "medium": 3,
     "observe": 12,
     "source_errors": 1
   },
@@ -74,6 +74,51 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "6fe46d48acb482a7aa2d"
+      },
+      {
+        "title": "Fintech, DeFi and applied AI define Southeast Asia’s new venture discipline",
+        "url": "https://e27.co/fintech-defi-and-applied-ai-define-southeast-asias-new-venture-discipline-20260903/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-03T05:09:45+00:00",
+        "fetched_at": "2026-09-03T05:21:22+00:00",
+        "summary": "Southeast Asia’s startup market did not bounce back in 2025. It reorganised. After years in which capital chased super-app ambitions, consumer land grabs and speculative technology narratives, the region’s venture ecosystem has settled into a more sober phase. Funding has stabilised at a lower base, and investors are now looking for businesses that can prove […] The post Fintech, DeFi and applied AI define Southeast…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "funding",
+          "Southeast Asia",
+          "Watchgraph:capitals_power_centers"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); funding (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "capitals_power_centers"
+        ],
+        "watchgraph_reasons": [
+          "capitals_power_centers: capital"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ"
+        ],
+        "id": "8f7d01a8a11695e94a17"
       }
     ],
     "observe": [
@@ -394,6 +439,51 @@
       "id": "6fe46d48acb482a7aa2d"
     },
     {
+      "title": "Fintech, DeFi and applied AI define Southeast Asia’s new venture discipline",
+      "url": "https://e27.co/fintech-defi-and-applied-ai-define-southeast-asias-new-venture-discipline-20260903/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-03T05:09:45+00:00",
+      "fetched_at": "2026-09-03T05:21:22+00:00",
+      "summary": "Southeast Asia’s startup market did not bounce back in 2025. It reorganised. After years in which capital chased super-app ambitions, consumer land grabs and speculative technology narratives, the region’s venture ecosystem has settled into a more sober phase. Funding has stabilised at a lower base, and investors are now looking for businesses that can prove […] The post Fintech, DeFi and applied AI define Southeast…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "funding",
+        "Southeast Asia",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); funding (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "8f7d01a8a11695e94a17"
+    },
+    {
       "title": "M 6.2 - South Sandwich Islands region",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdrv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -663,89 +753,49 @@
   ],
   "new_findings": [
     {
-      "title": "Staying secure in the AI era: The habits we need to rethink",
-      "url": "https://e27.co/staying-secure-in-the-ai-era-the-habits-we-need-to-rethink-20260901/",
+      "title": "Fintech, DeFi and applied AI define Southeast Asia’s new venture discipline",
+      "url": "https://e27.co/fintech-defi-and-applied-ai-define-southeast-asias-new-venture-discipline-20260903/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-09-03T03:00:35+00:00",
-      "fetched_at": "2026-09-03T04:01:30+00:00",
-      "summary": "AI has quietly become part of how many of us work. We use it to write emails, summarise documents, brainstorm ideas, analyse data, create presentations, and even help us make decisions. For many people, using AI now feels as normal as opening Google or checking Slack. And that is exactly why security deserves a second […] The post Staying secure in the AI era: The habits we need to rethink appeared first on e27 .",
+      "published_at": "2026-09-03T05:09:45+00:00",
+      "fetched_at": "2026-09-03T05:21:22+00:00",
+      "summary": "Southeast Asia’s startup market did not bounce back in 2025. It reorganised. After years in which capital chased super-app ambitions, consumer land grabs and speculative technology narratives, the region’s venture ecosystem has settled into a more sober phase. Funding has stabilised at a lower base, and investors are now looking for businesses that can prove […] The post Fintech, DeFi and applied AI define Southeast…",
       "matched_keywords": [
         "AI/KI",
         "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "Security"
+        "funding",
+        "Southeast Asia",
+        "Watchgraph:capitals_power_centers"
       ],
-      "relevance_score": 19,
-      "relevance_reason": "AI/KI (+3.8); Security (+6.0); Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); recent (+1.0)",
+      "relevance_score": 15,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); funding (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b85d33a2b7fac47d4285"
-    },
-    {
-      "title": "北朝鮮のバンド、あまりにもイメージ通り過ぎて思わず保存してしまっている「あまりにもできすぎてて生成AIかと疑うレベル」「機材がしっかり敵国製」",
-      "url": "https://togetter.com/li/2740719",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-03T03:27:29+00:00",
-      "fetched_at": "2026-09-03T04:01:30+00:00",
-      "summary": "north korea | North Korea - Pyongyang - On National Day (9 s… | Flickr North Korea - Pyongyang - On National Day (9 september) is a lot of animation in town. Flickr Streetperformers on the National Day | Pyongyang - North Kor… | Flickr Pyongyang - North Korea, 2011/09/09 National day Op 9 septemb...",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Hatena",
-        "hotentry"
+      "watchgraph_modules": [
+        "capitals_power_centers"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "51b052edec87befedf66"
-    },
-    {
-      "title": "Laters.com raises US$1.5M to expand flexible flight payments",
-      "url": "https://e27.co/laters-com-raises-us1-5m-to-expand-flexible-flight-payments-20260903/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-03T03:49:21+00:00",
-      "fetched_at": "2026-09-03T04:01:30+00:00",
-      "summary": "For most travellers, the anxiety of booking a flight starts before the airport. A fare appears, the dates work, and then comes the harder question: can it be paid for today? Laters.com, the Singapore-founded online travel agency previously known as Fly Fairly, is trying to build a business around that moment. The company has raised […] The post Laters.com raises US$1.5M to expand flexible flight payments appeared fi…",
-      "matched_keywords": [
-        "APAC Trend Radar"
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "05396f7623da99690682"
-    },
-    {
-      "title": "The travel eSIM market is moving beyond price per GB",
-      "url": "https://e27.co/the-travel-esim-market-is-moving-beyond-price-per-gb-20260901/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-03T03:30:18+00:00",
-      "fetched_at": "2026-09-03T04:01:30+00:00",
-      "summary": "For many years, the eSIM service sector had one simple benefit: it provided travellers with a cheaper and more convenient option than traditional roaming. The message was effective since the problem was clear-cut: international roaming was costly, airport SIM kiosks were inconvenient, and a lot of travellers didn’t want to go home and face confusing […] The post The travel eSIM market is moving beyond price per GB a…",
-      "matched_keywords": [
-        "APAC Trend Radar"
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
       ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e02c8a9a7f33fc7a4268"
+      "id": "8f7d01a8a11695e94a17"
     }
   ],
   "source_errors": [

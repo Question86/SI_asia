@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-03T04:02:05+00:00_
+_Generiert: 2026-09-03T05:21:55+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „Staying secure in the AI era: The habits we need to rethink“ aus e27 Asia Startup and Tech Feed (Score 19, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+15 neue relevante Treffer. Stärkstes Signal: „Staying secure in the AI era: The habits we need to rethink“ aus e27 Asia Startup and Tech Feed (Score 19, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -90,6 +90,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+6.2); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Vietnam, Thailand (+2.0)
   - Kurz: Something has shifted in Southeast Asia over the past year and nobody announced it. According to Google’s first Gemini Southeast Asia report, published in July, nearly 70 per cent of prompts in the region are now submitted in native languages — 89 per cent in Vietnam, 87 per cent in Thailand, 84 per cent in […] The post Who’s building AI for the way Southeast Asia actually speaks? appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Fintech, DeFi and applied AI define Southeast Asia’s new venture discipline** — Score 15, observation — [Quelle](https://e27.co/fintech-defi-and-applied-ai-define-southeast-asias-new-venture-discipline-20260903/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-03T05:09:45+00:00`, fetched `2026-09-03T05:21:22+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, funding, Southeast Asia, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); funding (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Southeast Asia’s startup market did not bounce back in 2025. It reorganised. After years in which capital chased super-app ambitions, consumer land grabs and speculative technology narratives, the region’s venture ecosystem has settled into a more sober phase. Funding has stabilised at a lower base, and investors are now looking for businesses that can prove […] The post Fintech, DeFi and applied AI define Southeast…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten

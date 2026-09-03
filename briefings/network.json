@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-03T04:02:10+00:00",
+  "generated_at": "2026-09-03T05:21:59+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 14,
-    "clusters": 14,
+    "findings": 15,
+    "clusters": 15,
     "cross_source_confrmed": 0,
-    "hot": 2,
-    "early_signals": 2,
+    "hot": 3,
+    "early_signals": 3,
     "dominance_penalized": 1
   },
   "clusters": [
@@ -26,19 +26,19 @@
       "max_score": 19,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 28.5,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 26.0,
       "hot": true,
       "watchgraph_modules": [],
       "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
-      "raw_network_score": 24.1,
-      "ranking_score": 28.5,
+      "raw_network_score": 21.1,
+      "ranking_score": 26.0,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
+      "momentum_bonus": 0.0,
       "baseline_bonus": 0.0,
       "early_signal": true,
       "early_signal_bonus": 5.5,
@@ -87,42 +87,44 @@
       "first_seen_at": "2026-09-03T02:46:59+00:00"
     },
     {
-      "key": "domain:togetter.com",
-      "title": "北朝鮮のバンド、あまりにもイメージ通り過ぎて思わず保存してしまっている「あまりにもできすぎてて生成AIかと疑うレベル」「機材がしっかり敵国製」",
+      "key": "title:fintech-defi-applied-define-southeast-asia-venture-discipline",
+      "title": "Fintech, DeFi and applied AI define Southeast Asia’s new venture discipline",
       "sources": [
-        "Hatena Bookmark Hotentry IT"
+        "e27 Asia Startup and Tech Feed"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://togetter.com/li/2740719"
+        "https://e27.co/fintech-defi-and-applied-ai-define-southeast-asias-new-venture-discipline-20260903/"
       ],
       "finding_count": 1,
-      "max_score": 8,
+      "max_score": 15,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 13.51,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 13.1,
-      "ranking_score": 13.51,
+      "network_score": 24.5,
+      "hot": true,
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
+      "raw_network_score": 20.1,
+      "ranking_score": 24.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 2.5,
-      "baseline_bonus": 1.51,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 5.5,
       "high_signal": false,
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-06-19T12:31:48+00:00"
+      "first_seen_at": "2026-09-03T05:21:59+00:00"
     },
     {
       "key": "earthquake:m 6.2 - south sandwich islands region:6.2",
@@ -204,42 +206,42 @@
       "first_seen_at": "2026-09-03T02:46:59+00:00"
     },
     {
-      "key": "domain:laters.com",
-      "title": "Laters.com raises US$1.5M to expand flexible flight payments",
+      "key": "domain:togetter.com",
+      "title": "北朝鮮のバンド、あまりにもイメージ通り過ぎて思わず保存してしまっている「あまりにもできすぎてて生成AIかと疑うレベル」「機材がしっかり敵国製」",
       "sources": [
-        "e27 Asia Startup and Tech Feed"
+        "Hatena Bookmark Hotentry IT"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://e27.co/laters-com-raises-us1-5m-to-expand-flexible-flight-payments-20260903/"
+        "https://togetter.com/li/2740719"
       ],
       "finding_count": 1,
-      "max_score": 6,
+      "max_score": 8,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 10.0,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 9.8,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 11.1,
-      "ranking_score": 10.0,
+      "raw_network_score": 10.1,
+      "ranking_score": 9.8,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.3,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-09-03T04:02:10+00:00"
+      "first_seen_at": "2026-06-19T12:31:48+00:00"
     },
     {
       "key": "title:healthcare-infrastructure-why-vertical-will-define-medicine-next",
@@ -318,8 +320,8 @@
       "first_seen_at": "2026-09-03T01:37:36+00:00"
     },
     {
-      "key": "title:travel-esim-market-moving-beyond-price-per",
-      "title": "The travel eSIM market is moving beyond price per GB",
+      "key": "domain:laters.com",
+      "title": "Laters.com raises US$1.5M to expand flexible flight payments",
       "sources": [
         "e27 Asia Startup and Tech Feed"
       ],
@@ -327,25 +329,25 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://e27.co/the-travel-esim-market-is-moving-beyond-price-per-gb-20260901/"
+        "https://e27.co/laters-com-raises-us1-5m-to-expand-flexible-flight-payments-20260903/"
       ],
       "finding_count": 1,
-      "max_score": 4,
+      "max_score": 6,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 8.0,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 7.5,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 9.1,
-      "ranking_score": 8.0,
+      "raw_network_score": 8.1,
+      "ranking_score": 7.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
+      "momentum_bonus": 0.0,
       "baseline_bonus": 0.0,
       "early_signal": false,
       "early_signal_bonus": 0.0,
@@ -508,6 +510,44 @@
       "first_seen_at": "2026-09-03T02:46:59+00:00"
     },
     {
+      "key": "title:travel-esim-market-moving-beyond-price-per",
+      "title": "The travel eSIM market is moving beyond price per GB",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/the-travel-esim-market-is-moving-beyond-price-per-gb-20260901/"
+      ],
+      "finding_count": 1,
+      "max_score": 4,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 5.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 6.1,
+      "ranking_score": 5.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-03T04:02:10+00:00"
+    },
+    {
       "key": "domain:takoratta.hatenablog.com",
       "title": "自分で出した本を、国会図書館に納本してきた - Nothing ventured, nothing gained.",
       "sources": [
@@ -548,7 +588,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-03T04:02:10Z",
+    "generated_at": "2026-09-03T05:21:59Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
