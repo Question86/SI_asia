@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T10:40:06+00:00",
-  "run_id": "2026-09-03T10:40:06+00:00",
+  "generated_at": "2026-09-03T10:48:15+00:00",
+  "run_id": "2026-09-03T10:48:15+00:00",
   "date": "2026-09-03",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 39,
     "displayed_findings": 39,
     "high": 0,
@@ -1937,29 +1937,7 @@
       "id": "4c62227f3353d056a0dd"
     }
   ],
-  "new_findings": [
-    {
-      "title": "WordPress All-in-One WP Migration: Angreifer können Admin-Falle auslegen",
-      "url": "https://www.heise.de/news/WordPress-All-in-One-WP-Migration-Angreifer-koennen-Admin-Falle-auslegen-11439787.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-09-03T10:32:00.000+00:00",
-      "fetched_at": "2026-09-03T10:39:36+00:00",
-      "summary": "Eine Sicherheitslücke im WordPress-Plug-in All-in-One WP Migration and Backup gefährdet potenziell 5 Millionen Websites. Ein Update löst das Problem.",
-      "matched_keywords": [
-        "Security",
-        "Webentwicklung"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Security (+6.0); Webentwicklung (+3.8); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b5dee4c8e2c162d1c67f"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [
     {
       "source_id": "bis_statistics",
