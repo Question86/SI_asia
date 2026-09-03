@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T22:30:20+00:00",
+  "generated_at": "2026-09-03T22:38:58+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 101,
@@ -69,18 +69,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 21.11,
+      "network_score": 21.0,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 25.4,
-      "ranking_score": 21.11,
+      "ranking_score": 21.0,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 2.61,
+      "baseline_bonus": 2.5,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1066,6 +1066,48 @@
       "first_seen_at": "2026-09-03T13:45:58+00:00"
     },
     {
+      "key": "earthquake:alaska:5.2",
+      "title": "M 5.2 - 93 km SSW of Nikolski, Alaska",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "emergency_official",
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rmcccm",
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdys"
+      ],
+      "finding_count": 2,
+      "max_score": 11,
+      "credibility_total": 2.7,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 10.94,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 16.4,
+      "ranking_score": 10.94,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.54,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-09-01T06:56:30+00:00"
+    },
+    {
       "key": "earthquake:alaska:5.3",
       "title": "M 5.3 - 104 km SSW of Nikolski, Alaska",
       "sources": [
@@ -1086,20 +1128,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 11.0,
+      "network_score": 10.93,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "raw_network_score": 19.1,
-      "ranking_score": 11.0,
+      "ranking_score": 10.93,
       "initial_reach_tier": "official",
       "source_reach_score": 4.0,
       "authority_bonus_capped": 2.4,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.6,
+      "baseline_bonus": 0.53,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1107,48 +1149,6 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-09-03T12:55:56+00:00"
-    },
-    {
-      "key": "earthquake:alaska:5.2",
-      "title": "M 5.2 - 93 km SSW of Nikolski, Alaska",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "emergency_official",
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rmcccm",
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdys"
-      ],
-      "finding_count": 2,
-      "max_score": 11,
-      "credibility_total": 2.7,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 10.97,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 16.4,
-      "ranking_score": 10.97,
-      "initial_reach_tier": "official",
-      "source_reach_score": 4.0,
-      "authority_bonus_capped": 2.4,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.57,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 3.0,
-      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-09-01T06:56:30+00:00"
     },
     {
       "key": "domain:gigazine.net",
@@ -1169,18 +1169,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 10.58,
+      "network_score": 10.54,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 12.2,
-      "ranking_score": 10.58,
+      "ranking_score": 10.54,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 1.08,
+      "baseline_bonus": 1.04,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -2247,18 +2247,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 7.19,
+      "network_score": 7.16,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 9.2,
-      "ranking_score": 7.19,
+      "ranking_score": 7.16,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.69,
+      "baseline_bonus": 0.66,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -2802,7 +2802,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-03T22:30:20Z",
+    "generated_at": "2026-09-03T22:38:58Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
