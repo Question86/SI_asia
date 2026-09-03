@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-03T13:38:03+00:00_
+_Generiert: 2026-09-03T13:45:52+00:00_
 
 ## Kurzlage
 
-63 neue relevante Treffer. Stärkstes Signal: „Staying secure in the AI era: The habits we need to rethink“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
+67 neue relevante Treffer. Stärkstes Signal: „Staying secure in the AI era: The habits we need to rethink“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
 
 ## Priorität Hoch
 
@@ -105,6 +105,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
   - Kurz: Speech At Reuters NEXT Newsmaker Interview, Washington, D.C.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **放置していたWordPressが乗っ取られてWebShellだらけになっていた話** — Score 12, risk — [Quelle](https://satoweb.net/2026/09/p-18390/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-03T06:52:56+00:00`, fetched `2026-09-03T13:45:23+00:00`
+  - Treffer: Hatena, hotentry, Watchgraph:elections_unrest, Webentwicklung
+  - Watchgraph: elections_unrest
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, META, GOOGL, MSFT, RDDT, SNAP, PINS
+  - Warum relevant: Webentwicklung (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph modules elections_unrest (+3.0)
+  - Kurz: とりあえずWordPressを設置していた某ドメイン 特に重要な記事が入っているわけでもなく、ほぼ放置状態。 時たまSSL生きてるかみているだけだったもの 月が替わったので確認したときにやられていることに気づく。 「Hacked by CoupDeGrace」は、2026年8月中旬頃から日本の複数のWordPressサイトなどで相次いで確認されて...
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.2 - 100 km SSW of Nikolski, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdys)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-03T13:25:57.040+00:00`, fetched `2026-09-03T13:25:59+00:00`
@@ -159,6 +168,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Webentwicklung (+3.0); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
   - Kurz: Since early 2024, I have been working closely with MOVZ, a Swedish digital logistics platform, while leading the technology work from Bangladesh. As CTO, I work across the customer and driver applications, administration tools, backend systems and integrations behind the transport journey. Building for Sweden from Bangladesh has given me a practical view of two […] The post From Sweden to Southeast Asia: What buildi…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans Cisco IOS XE (25 août 2026)** — Score 10, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1077/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-08-25T00:00:00+00:00`, fetched `2026-09-03T13:45:23+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité, éditeur
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Cisco IOS XE. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans Metabase (24 août 2026)** — Score 10, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1075/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-08-24T00:00:00+00:00`, fetched `2026-09-03T13:45:23+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité, éditeur
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Metabase. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection SQL (SQLi) et un problème de sécurité non spécifié par l'éditeur.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Carsome posts tenth profitable quarter as SEA’s used-car race matures** — Score 8, observation — [Quelle](https://e27.co/carsome-posts-tenth-profitable-quarter-as-seas-used-car-race-matures-20260903/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-03T11:33:59+00:00`, fetched `2026-09-03T11:40:01+00:00`
@@ -168,15 +195,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)
   - Kurz: For years, Southeast Asia’s online used-car platforms were judged mainly by how fast they could expand: more inspection centres, more listings, more buyers, more cities. Carsome’s latest numbers suggest the sector has entered a different phase, one where scale still matters, but profitability is becoming the sharper test. The Malaysia-headquartered used-car e-commerce group reported record […] The post Carsome posts…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **北朝鮮のバンド、あまりにもイメージ通り過ぎて思わず保存してしまっている「あまりにもできすぎてて生成AIかと疑うレベル」「機材がしっかり敵国製」** — Score 8, observation — [Quelle](https://togetter.com/li/2740719)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-03T03:27:29+00:00`, fetched `2026-09-03T04:01:30+00:00`
-  - Treffer: APAC Trend Radar, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: north korea | North Korea - Pyongyang - On National Day (9 s… | Flickr North Korea - Pyongyang - On National Day (9 september) is a lot of animation in town. Flickr Streetperformers on the National Day | Pyongyang - North Kor… | Flickr Pyongyang - North Korea, 2011/09/09 National day Op 9 septemb...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Healthcare’s infrastructure: Why vertical AI will define medicine’s next century** — Score 8, observation — [Quelle](https://e27.co/vertical-ai-will-define-medicines-next-century-20260730/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-03T02:15:31+00:00`, fetched `2026-09-03T02:46:24+00:00`
@@ -185,24 +203,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: When historians assess the 2020s, they’ll likely identify this as the decade when healthcare shifted from episodic intervention to continuous, data-driven care, much as electricity evolved from novelty to essential infrastructure in the early 20th century. Healthcare is undergoing a similar transformation, from episodic intervention to continuous, intelligence-led care that follows the patient, not the […] The post…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Jetzt patchen! Angreifer attackieren JFrog Artifactory und machen sich zu Admins** — Score 7, observation — [Quelle](https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-JFrog-Artifactory-und-machen-sich-zu-Admins-11439271.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-09-03T07:56:00.000+00:00`, fetched `2026-09-03T08:27:47+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: JFrog Artifactory ist über zahlreiche Sicherheitslücken angreifbar. Eine Schwachstelle nutzen Angreifer bereits aus.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **民間事業者（アイフル株式会社）に対して公的個人認証サービスの利用に関する主務大臣認定を行いました** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/15f28ab3-17b6-40a9-8ef9-170eeafecda5)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-09-03T06:00:00+00:00`, fetched `2026-09-03T06:36:40+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 民間事業者（アイフル株式会社）に対して公的個人認証サービスの利用に関する主務大臣認定を行いました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

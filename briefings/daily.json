@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T13:38:06+00:00",
-  "today_file_total": 63,
+  "generated_at": "2026-09-03T13:45:58+00:00",
+  "today_file_total": 67,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -100,6 +100,31 @@
         "capitals_power_centers"
       ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:satoweb.net",
+      "title": "放置していたWordPressが乗っ取られてWebShellだらけになっていた話",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://satoweb.net/2026/09/p-18390/"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 17.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "earthquake:alaska:4.9",
@@ -225,16 +250,39 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "domain:about.gitlab.com",
-      "title": "AIを使いこなす技術チームの育て方、GitLab社内の実践から",
+      "key": "title:multiples-vuln-rabilit-dans-cisco-ios-2026",
+      "title": "Multiples vulnérabilités dans Cisco IOS XE (25 août 2026)",
       "sources": [
-        "Hatena Bookmark Hotentry IT"
+        "CERT-FR Avis de sécurité"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://about.gitlab.com/ja-jp/blog/how-gitlab-fosters-ai-fluent-teams/"
+        "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1077/"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 15.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:multiples-vuln-rabilit-dans-metabase-2026",
+      "title": "Multiples vulnérabilités dans Metabase (24 août 2026)",
+      "sources": [
+        "CERT-FR Avis de sécurité"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1075/"
       ],
       "finding_count": 1,
       "max_score": 10,
@@ -431,56 +479,6 @@
       ],
       "urls": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/attkscoz"
-      ],
-      "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 13.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "earthquake:m 5.1 - 115 km ne of joshīmath, india:5.1",
-      "title": "M 5.1 - 115 km NE of Joshīmath, India",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdv4"
-      ],
-      "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 13.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "earthquake:chile:5.1",
-      "title": "M 5.1 - 42 km NW of Coquimbo, Chile",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tduc"
       ],
       "finding_count": 1,
       "max_score": 11,

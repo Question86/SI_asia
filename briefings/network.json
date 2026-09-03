@@ -1,15 +1,55 @@
 {
-  "generated_at": "2026-09-03T13:38:06+00:00",
+  "generated_at": "2026-09-03T13:45:58+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 63,
-    "clusters": 43,
+    "findings": 67,
+    "clusters": 47,
     "cross_source_confrmed": 0,
     "hot": 0,
-    "early_signals": 0,
+    "early_signals": 1,
     "dominance_penalized": 13
   },
   "clusters": [
+    {
+      "key": "domain:satoweb.net",
+      "title": "放置していたWordPressが乗っ取られてWebShellだらけになっていた話",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://satoweb.net/2026/09/p-18390/"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 23.5,
+      "hot": false,
+      "watchgraph_modules": [
+        "elections_unrest"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 17.1,
+      "ranking_score": 23.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 7.5,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-03T13:45:58+00:00"
+    },
     {
       "key": "domain:wid.cert-bund.de",
       "title": "[NEU] [hoch] n8n: Mehrere Schwachstellen",
@@ -33,18 +73,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 22.93,
+      "network_score": 22.96,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 53.7,
-      "ranking_score": 22.93,
+      "ranking_score": 22.96,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 3.43,
+      "baseline_bonus": 3.46,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -248,16 +288,16 @@
       "first_seen_at": "2026-09-03T05:51:29+00:00"
     },
     {
-      "key": "domain:about.gitlab.com",
-      "title": "AIを使いこなす技術チームの育て方、GitLab社内の実践から",
+      "key": "title:multiples-vuln-rabilit-dans-cisco-ios-2026",
+      "title": "Multiples vulnérabilités dans Cisco IOS XE (25 août 2026)",
       "sources": [
-        "Hatena Bookmark Hotentry IT"
+        "CERT-FR Avis de sécurité"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://about.gitlab.com/ja-jp/blog/how-gitlab-fosters-ai-fluent-teams/"
+        "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1077/"
       ],
       "finding_count": 1,
       "max_score": 10,
@@ -283,7 +323,45 @@
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-09-03T13:38:06+00:00"
+      "first_seen_at": "2026-09-03T13:45:58+00:00"
+    },
+    {
+      "key": "title:multiples-vuln-rabilit-dans-metabase-2026",
+      "title": "Multiples vulnérabilités dans Metabase (24 août 2026)",
+      "sources": [
+        "CERT-FR Avis de sécurité"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1075/"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 14.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 15.1,
+      "ranking_score": 14.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-03T13:45:58+00:00"
     },
     {
       "key": "domain:www.heise.de",
@@ -304,18 +382,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 12.74,
+      "network_score": 12.81,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 15.2,
-      "ranking_score": 12.74,
+      "ranking_score": 12.81,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.24,
+      "baseline_bonus": 0.31,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -441,6 +519,82 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "title:multiples-vuln-rabilit-dans-librenms-2026",
+      "title": "Multiples vulnérabilités dans LibreNMS (24 août 2026)",
+      "sources": [
+        "CERT-FR Avis de sécurité"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1076/"
+      ],
+      "finding_count": 1,
+      "max_score": 8,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 12.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 13.1,
+      "ranking_score": 12.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-03T13:45:58+00:00"
+    },
+    {
+      "key": "domain:about.gitlab.com",
+      "title": "AIを使いこなす技術チームの育て方、GitLab社内の実践から",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://about.gitlab.com/ja-jp/blog/how-gitlab-fosters-ai-fluent-teams/"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 11.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 12.1,
+      "ranking_score": 11.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-03T13:38:06+00:00"
     },
     {
       "key": "title:sweden-southeast-asia-what-building-logistics-technology-taught",
@@ -870,18 +1024,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 10.34,
+      "network_score": 10.29,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 14.3,
-      "ranking_score": 10.34,
+      "ranking_score": 10.29,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.84,
+      "baseline_bonus": 0.79,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1697,7 +1851,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-03T13:38:06Z",
+    "generated_at": "2026-09-03T13:45:59Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
