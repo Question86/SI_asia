@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T20:56:10+00:00",
-  "run_id": "2026-09-03T20:56:10+00:00",
+  "generated_at": "2026-09-03T21:09:29+00:00",
+  "run_id": "2026-09-03T21:09:29+00:00",
   "date": "2026-09-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 95,
     "displayed_findings": 95,
     "high": 1,
@@ -5194,51 +5194,7 @@
       "id": "aa69a664613bb7eb4e82"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Multiple trusted publishing configurations for npm",
-      "url": "https://github.blog/changelog/2026-09-03-multiple-trusted-publishing-configurations-for-npm",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-09-03T20:34:34+00:00",
-      "fetched_at": "2026-09-03T20:55:37+00:00",
-      "summary": "We’re continuing to make trusted publishing smoother for npm publishers, guided by maintainers feedback. Three updates to npm publishing are now generally available: Multiple trusted publishing configurations per package Staged… The post Multiple trusted publishing configurations for npm appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "Content-Chance",
-        "GitHub",
-        "Watchgraph:software_supply_chain"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Content-Chance (+5.0); GitHub (+2.0); recent (+1.0); watchgraph modules software_supply_chain (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "software_supply_chain"
-      ],
-      "watchgraph_reasons": [
-        "software_supply_chain: npm"
-      ],
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "CRWD",
-        "PANW",
-        "FTNT",
-        "ZS",
-        "OKTA",
-        "NET",
-        "S",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM"
-      ],
-      "id": "15ef2f806d0fc3e29066"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
