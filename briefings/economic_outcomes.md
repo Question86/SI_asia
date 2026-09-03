@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-09-03T07:29:02+00:00`
+Generated: `2026-09-03T07:43:09+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -8,7 +8,7 @@ Generated: `2026-09-03T07:29:02+00:00`
 | M 6.2 - South Sandwich Islands region | $0 | — | 0 | 0 | active |
 | M 4.6 - 170 km ESE of Kuril’sk, Russia | $0 | — | 0 | 0 | dormant |
 | M 5.8 - Kermadec Islands, New Zealand | $0 | — | 0 | 0 | dormant |
-| AWSをゲームで学べる「AWS Cloud Quest」に新バージョン「AWS Cloud Quest 2.0」登場！ AIによるバーチャル顧客と対話し、要件を聞き出して正しくソリューションに落とし込め | $0 | — | 0 | 0 | active |
+| AWSをゲームで学べる「AWS Cloud Quest」に新バージョン「AWS Cloud Quest 2.0」登場！ AIによるバーチャル顧客と対話し、要件を聞き出して正しくソリューションに落とし込め | $0 | — | 0 | 0 | dormant |
 | JetBrains/go-modern-guidelines | $0 | — | 0 | 0 | dormant |
 | M 5.6 - 82 km SE of Maba, Indonesia | $0 | — | 0 | 0 | dormant |
 | Zabbix agentにおけるDLL読み込みに関する脆弱性 | $0 | — | 0 | 0 | dormant |
