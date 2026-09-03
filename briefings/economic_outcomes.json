@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-03T11:22:26+00:00",
+  "generated_at": "2026-09-03T11:30:50+00:00",
   "events": [
     {
       "event_id": "evt_04c8c9515e6d6caa68b7",
@@ -606,6 +606,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_4a7457bf9b16a0fedf58",
+      "title": "M 6.2 - 105 km SSW of Nikolski, Alaska",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_4ce5fd3e6b5f0a672fe3",
@@ -2178,7 +2189,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_e7accc74314c5b76e589",
