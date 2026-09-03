@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-09-03T21:40:26+00:00`
+Generated: `2026-09-03T21:48:22+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -26,6 +26,6 @@ Generated: `2026-09-03T21:40:26+00:00`
 | ITエンジニアのためのライフスタイルメディア KIKKAKE ITREND | $0 | — | 0 | 0 | dormant |
 | キーエンス製XG VisionTerminalおよびXG-X VisionTerminalにおけるにおけるXML外部エンティティ参照（XXE）の不適切な制限の脆弱性 | $0 | — | 0 | 0 | dormant |
 | M 5.1 - 42 km NW of Coquimbo, Chile | $0 | — | 0 | 0 | dormant |
-| M 4.8 - 29 km WSW of Salamanca, Chile | $0 | — | 0 | 0 | active |
+| M 4.8 - 29 km WSW of Salamanca, Chile | $0 | — | 0 | 0 | dormant |
 | J:COMを使っているとPlumeルーターによってDNSブロッキングされる可能性がある 18.204.152.241 問題の顛末 - debiruはてなメモ | $0 | — | 0 | 0 | dormant |
 | Multiples vulnérabilités dans le noyau Linux de SUSE (21 août 2026) | $0 | — | 0 | 0 | dormant |
