@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-03T17:19:22+00:00",
+  "generated_at": "2026-09-03T17:30:04+00:00",
   "events": [
     {
       "event_id": "evt_04c8c9515e6d6caa68b7",
@@ -1386,7 +1386,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_8c98c19c7974a9893109",
@@ -1761,6 +1761,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_adb252945edb1fa40335",
+      "title": "M 5.2 - 271 km SSE of Dunhuang, China",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_afb1070a2882202d2354",
