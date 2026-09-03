@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-03T11:09:05+00:00_
+_Generiert: 2026-09-03T11:21:45+00:00_
 
 ## Kurzlage
 
-39 neue relevante Treffer. Stärkstes Signal: „Staying secure in the AI era: The habits we need to rethink“ aus e27 Asia Startup and Tech Feed (Score 19, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+41 neue relevante Treffer. Stärkstes Signal: „Staying secure in the AI era: The habits we need to rethink“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
 
 ## Priorität Hoch
 
@@ -177,6 +177,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0)
   - Kurz: For many companies in Asia, distress rarely arrives as a single dramatic event. It tends to build quietly: a more expensive lender replacing a bank, a missed fundraising target explained away as timing, profits that look healthy on paper but do not turn into cash, or a trusted senior executive leaving without a clear successor. […] The post For Southeast Asian startups, distress may show up before the cash runs out…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **スマートウォッチを調べた研究でどれも消費カロリーを過大評価していたことが判明、最も正確だったのはAppleでGarminとSamsungがオーバー気味** — Score 7, observation — [Quelle](https://gigazine.net/news/20260903-smartwatch-lying-calories/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-03T03:19:54+00:00`, fetched `2026-09-03T11:21:14+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region south_korea: Samsung (+2.0)
+  - Kurz: 最新世代のスマートウォッチは運動中の消費カロリーを計算する機能を搭載しています。この数値を研究機関の最新鋭機器で得られた数値と比較したところ、多くのスマートウォッチが消費カロリーを盛っていたことが分かりました。 Body fat, skin tone, and the accuracy of smartwatch caloric expenditure estimates | PL...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **民間事業者（アイフル株式会社）に対して公的個人認証サービスの利用に関する主務大臣認定を行いました** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/15f28ab3-17b6-40a9-8ef9-170eeafecda5)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-09-03T06:00:00+00:00`, fetched `2026-09-03T06:36:40+00:00`
@@ -195,15 +204,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); recent (+1.0)
   - Kurz: AI companies are paying highly educated workers to teach machines the judgment they spent years developing — even when those systems could eventually replace them.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Macアプリ開発者に「インテル対応終了可能」通知。Appleシリコン未対応には「すぐ移行開始」呼びかけも | テクノエッジ TechnoEdge** — Score 5, observation — [Quelle](https://www.techno-edge.net/article/2026/09/03/5459.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-03T03:09:23+00:00`, fetched `2026-09-03T06:54:58+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: アップルは2026年9月2日、Mac App Storeに登録するアプリ開発者に対し、インテルMacへの対応を終了可能になったことを告知しました。 あわせて公開されたサポート資料では、macOS 28以降はインテル向けのアプリが起動できなくなることが明記されており、2020年に始まったAppleシリコンへの移行も大詰めとなりつつありま...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
@@ -212,7 +212,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `bis_statistics` (rss): 404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss

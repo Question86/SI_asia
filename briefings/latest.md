@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-03T11:09:05+00:00_
+_Generiert: 2026-09-03T11:21:45+00:00_
 
 ## Kurzlage
 
-39 neue relevante Treffer. Stärkstes Signal: „Staying secure in the AI era: The habits we need to rethink“ aus e27 Asia Startup and Tech Feed (Score 19, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+41 neue relevante Treffer. Stärkstes Signal: „Staying secure in the AI era: The habits we need to rethink“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,8 +29,42 @@ _Generiert: 2026-09-03T11:09:05+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-02`
   - Kurz: Known exploited vulnerability. Added 2026-09-02. Due 2026-09-05. Sangoma Switchvox SQL Injection Vulnerability
-
-- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7f12b7dbd350>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
+- **GDACS: Green earthquake (Magnitude 6.2M, Depth:125.905km) in South Sandwich Islands Region 02/09/2026 23:46 UTC, [unknown].** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563254)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6.2M, Depth:125.905km) in South Sandwich Islands Region 02/09/2026 23:46 UTC, [unknown].
+- **GDACS: Green flood alert in Lithuania** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104138)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Lithuania
+- **GDACS: Volcanic eruption is on going for Sinabung in Indonesia** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000147)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Volcanic eruption is on going for Sinabung in Indonesia
+- **GDACS: Green earthquake (Magnitude 5.9M, Depth:10km) in Southern East Pacific Rise 02/09/2026 12:35 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563166)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.9M, Depth:10km) in Southern East Pacific Rise 02/09/2026 12:35 UTC, [unknown].
+- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Mexico 02/09/2026 12:28 UTC, 550 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563163)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Mexico 02/09/2026 12:28 UTC, 550 thousand in MMI IV.
+- **GDACS: Green earthquake (Magnitude 5.6M, Depth:64.644km) in Indonesia 02/09/2026 00:04 UTC, 400 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563052)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.6M, Depth:64.644km) in Indonesia 02/09/2026 00:04 UTC, 400 thousand in MMI IV.
+- **GDACS: Green notification for tropical cyclone MARIE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001317)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green notification for tropical cyclone MARIE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Indonesia 01/09/2026 08:22 UTC, 8 thousand in MMI VI.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1562918)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Indonesia 01/09/2026 08:22 UTC, 8 thousand in MMI VI.
+- **GDACS: Green notification for tropical cyclone KROVANH-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001318)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green notification for tropical cyclone KROVANH-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 
 ## Wirtschaft global
 
@@ -212,6 +246,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0)
   - Kurz: For many companies in Asia, distress rarely arrives as a single dramatic event. It tends to build quietly: a more expensive lender replacing a bank, a missed fundraising target explained away as timing, profits that look healthy on paper but do not turn into cash, or a trusted senior executive leaving without a clear successor. […] The post For Southeast Asian startups, distress may show up before the cash runs out…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **スマートウォッチを調べた研究でどれも消費カロリーを過大評価していたことが判明、最も正確だったのはAppleでGarminとSamsungがオーバー気味** — Score 7, observation — [Quelle](https://gigazine.net/news/20260903-smartwatch-lying-calories/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-03T03:19:54+00:00`, fetched `2026-09-03T11:21:14+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region south_korea: Samsung (+2.0)
+  - Kurz: 最新世代のスマートウォッチは運動中の消費カロリーを計算する機能を搭載しています。この数値を研究機関の最新鋭機器で得られた数値と比較したところ、多くのスマートウォッチが消費カロリーを盛っていたことが分かりました。 Body fat, skin tone, and the accuracy of smartwatch caloric expenditure estimates | PL...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **民間事業者（アイフル株式会社）に対して公的個人認証サービスの利用に関する主務大臣認定を行いました** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/15f28ab3-17b6-40a9-8ef9-170eeafecda5)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-09-03T06:00:00+00:00`, fetched `2026-09-03T06:36:40+00:00`
@@ -230,15 +273,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); recent (+1.0)
   - Kurz: AI companies are paying highly educated workers to teach machines the judgment they spent years developing — even when those systems could eventually replace them.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Macアプリ開発者に「インテル対応終了可能」通知。Appleシリコン未対応には「すぐ移行開始」呼びかけも | テクノエッジ TechnoEdge** — Score 5, observation — [Quelle](https://www.techno-edge.net/article/2026/09/03/5459.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-03T03:09:23+00:00`, fetched `2026-09-03T06:54:58+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: アップルは2026年9月2日、Mac App Storeに登録するアプリ開発者に対し、インテルMacへの対応を終了可能になったことを告知しました。 あわせて公開されたサポート資料では、macOS 28以降はインテル向けのアプリが起動できなくなることが明記されており、2020年に始まったAppleシリコンへの移行も大詰めとなりつつありま...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
@@ -247,7 +281,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `bis_statistics` (rss): 404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss
