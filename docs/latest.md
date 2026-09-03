@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-03T16:51:58+00:00_
+_Generiert: 2026-09-03T16:59:23+00:00_
 
 ## Kurzlage
 
-77 neue relevante Treffer. Stärkstes Signal: „CodeQL 2.26.4 improves GitHub actions security detections“ aus GitHub Changelog Atom (Score 28, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+78 neue relevante Treffer. Stärkstes Signal: „CodeQL 2.26.4 improves GitHub actions security detections“ aus GitHub Changelog Atom (Score 28, observation).
 
 ## Priorität Hoch
 
@@ -212,6 +212,15 @@ _Generiert: 2026-09-03T16:51:58+00:00_
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
   - Kurz: De multiples vulnérabilités ont été découvertes dans Metabase. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection SQL (SQLi) et un problème de sécurité non spécifié par l'éditeur.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Reopening Copilot Business and Enterprise signups** — Score 8, risk — [Quelle](https://github.blog/changelog/2026-09-03-reopening-copilot-business-and-enterprise-signups)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-09-03T14:40:43+00:00`, fetched `2026-09-03T16:58:55+00:00`
+  - Treffer: Copilot, GitHub, Watchgraph:elections_unrest
+  - Watchgraph: elections_unrest
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, META, GOOGL, MSFT, RDDT, SNAP, PINS
+  - Warum relevant: GitHub (+2.0); Copilot (+2.5); recent (+1.0); watchgraph modules elections_unrest (+3.0)
+  - Kurz: We’re gradually reopening sign-ups for Copilot Business and Copilot Enterprise customers paying by credit card or PayPal over the next couple of weeks. If you’ve been waiting to get started… The post Reopening Copilot Business and Enterprise signups appeared first on The GitHub Blog .
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Carsome posts tenth profitable quarter as SEA’s used-car race matures** — Score 8, observation — [Quelle](https://e27.co/carsome-posts-tenth-profitable-quarter-as-seas-used-car-race-matures-20260903/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-03T11:33:59+00:00`, fetched `2026-09-03T11:40:01+00:00`
@@ -220,15 +229,6 @@ _Generiert: 2026-09-03T16:51:58+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)
   - Kurz: For years, Southeast Asia’s online used-car platforms were judged mainly by how fast they could expand: more inspection centres, more listings, more buyers, more cities. Carsome’s latest numbers suggest the sector has entered a different phase, one where scale still matters, but profitability is becoming the sharper test. The Malaysia-headquartered used-car e-commerce group reported record […] The post Carsome posts…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Healthcare’s infrastructure: Why vertical AI will define medicine’s next century** — Score 8, observation — [Quelle](https://e27.co/vertical-ai-will-define-medicines-next-century-20260730/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-03T02:15:31+00:00`, fetched `2026-09-03T02:46:24+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: When historians assess the 2020s, they’ll likely identify this as the decade when healthcare shifted from episodic intervention to continuous, data-driven care, much as electricity evolved from novelty to essential infrastructure in the early 20th century. Healthcare is undergoing a similar transformation, from episodic intervention to continuous, intelligence-led care that follows the patient, not the […] The post…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
@@ -239,7 +239,3 @@ _Generiert: 2026-09-03T16:51:58+00:00_
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `bis_statistics` (rss): 404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss
