@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-09-03T01:57:15+00:00`
+Generated: `2026-09-03T02:47:15+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -13,6 +13,7 @@ Generated: `2026-09-03T01:57:15+00:00`
 | [MàJ] Vulnérabilité dans Fortinet FortiOS (09 février 2024) | vulnerability, exploit, regulation | $12.00M | $1.20B | $120.00B | 0.31 |
 | Gitlawb/openclaude | regulation | $12.00M | $1.20B | $120.00B | 0.31 |
 | bilawalsidhu/gods-eye-view | regulation, natural_disaster | $11.92M | $1.19B | $119.20B | 0.31 |
+| Who’s building AI for the way Southeast Asia actually speaks? | regulation | $11.84M | $1.18B | $118.40B | 0.31 |
 | The AI marketing backlash story doesn’t actually fit Southeast Asia | regulation | $11.20M | $1.12B | $112.00B | 0.31 |
 | The factories are coming. Southeast Asia’s real race is to build what surrounds them | regulation | $11.04M | $1.10B | $110.40B | 0.31 |
 | Southeast Asia’s quiet FDI manufacturing redistribution | regulation | $10.88M | $1.09B | $108.80B | 0.31 |
@@ -30,7 +31,6 @@ Generated: `2026-09-03T01:57:15+00:00`
 | M 5.2 - 70 km NNW of Arthurs Point, New Zealand | natural_disaster | $1.14M | $114.40M | $11.44B | 0.33 |
 | M 5.3 - 66 km NNW of Arthurs Point, New Zealand | natural_disaster | $1.14M | $114.40M | $11.44B | 0.33 |
 | M 5.9 - southern East Pacific Rise | natural_disaster | $1.14M | $114.40M | $11.44B | 0.33 |
-| M 5.8 - Kermadec Islands, New Zealand | natural_disaster | $1.13M | $112.80M | $11.28B | 0.33 |
 
 ## Interpretation
 
