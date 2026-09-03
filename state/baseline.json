@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-02T23:55:05+00:00",
+  "generated_at": "2026-09-03T00:15:45+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -14196,6 +14196,28 @@
       "rolling_peak": 10.1,
       "last_score": 7.1,
       "z_hint": -0.27
+    },
+    "earthquake:m 6.2 - south sandwich islands region:6.2": {
+      "title": "M 6.2 - South Sandwich Islands region",
+      "updated_at": "2026-09-03T00:15:45+00:00",
+      "network_scores": [
+        18.7
+      ],
+      "rolling_average": 18.7,
+      "rolling_peak": 18.7,
+      "last_score": 18.7,
+      "z_hint": 0.0
+    },
+    "domain:takoratta.hatenablog.com": {
+      "title": "自分で出した本を、国会図書館に納本してきた - Nothing ventured, nothing gained.",
+      "updated_at": "2026-09-03T00:15:45+00:00",
+      "network_scores": [
+        9.1
+      ],
+      "rolling_average": 9.1,
+      "rolling_peak": 9.1,
+      "last_score": 9.1,
+      "z_hint": 0.0
     }
   }
 }

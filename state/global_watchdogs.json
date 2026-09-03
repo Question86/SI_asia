@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T23:55:05+00:00",
+  "generated_at": "2026-09-03T00:15:45+00:00",
   "sections": {
     "global_security": [
       {
@@ -60,6 +60,21 @@
         "published_at": "2026-09-02",
         "metrics": {
           "cve": "CVE-2026-9586"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
+        "title": "USGS earthquake M6.2 - South Sandwich Islands region",
+        "summary": "M6.2 - South Sandwich Islands region. PAGER alert: green. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdrv",
+        "published_at": "2026-09-02T23:46:57+00:00",
+        "metrics": {
+          "mag": 6.2,
+          "alert": "green",
+          "sig": 591.0,
+          "tsunami": 0
         }
       },
       {
