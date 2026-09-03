@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-03T17:29:19+00:00_
+_Generated: 2026-09-03T17:40:41+00:00_
 
 ## Status
 - status: `normal`
-- findings: `79`
+- findings: `80`
 
 ## Top Signals
 
@@ -36,12 +36,12 @@ _Generated: 2026-09-03T17:29:19+00:00_
 - url: https://e27.co/whos-building-ai-for-the-way-southeast-asia-actually-speaks-20260901/
 - summary: Something has shifted in Southeast Asia over the past year and nobody announced it. According to Google’s first Gemini Southeast Asia report, published in July, nearly 70 per cent of prompts in the region are now submitted in native languages — 89 per cent in…
 
-### 5. [NEU] [hoch] util-linux: Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
+### 5. WebMCPがアツいので見てほしい | DevelopersIO
+- source: Hatena Bookmark Hotentry IT
 - score: `16`
-- published: `2026-09-03T11:26:07+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3160
-- summary: Ein lokaler Angreifer kann mehrere Schwachstellen in util-linux ausnutzen, um Sicherheitsvorkehrungen zu umgehen und um Administrative Aktionen an Zugriffsrechten vollziehen.
+- published: `2026-09-03T11:43:12+00:00`
+- url: https://dev.classmethod.jp/articles/webmcp-introduction/
+- summary: リテールアプリ共創部の末永です。 みなさん、WebMCPをご存じでしょうか？ WebMCPは、Webサイトの機能をAIエージェントが扱いやすくするためのWeb標準案です。WebMCP発表当時は「またMCP関連の何かが出たのね」くらいでスルーしていました。 MCPは便利ですが、開発者がMCP Serverを用意するだけでなく、ユーザー側でも接...
 
 ### 6. M 6.2 - South Sandwich Islands region
 - source: USGS M4.5+ Earthquakes Past Hour

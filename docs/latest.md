@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-03T17:29:19+00:00_
+_Generiert: 2026-09-03T17:40:41+00:00_
 
 ## Kurzlage
 
-79 neue relevante Treffer. Stärkstes Signal: „CodeQL 2.26.4 improves GitHub actions security detections“ aus GitHub Changelog Atom (Score 28, observation).
+80 neue relevante Treffer. Stärkstes Signal: „CodeQL 2.26.4 improves GitHub actions security detections“ aus GitHub Changelog Atom (Score 28, observation).
 
 ## Priorität Hoch
 
@@ -46,6 +46,15 @@ _Generiert: 2026-09-03T17:29:19+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+6.2); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Vietnam, Thailand (+2.0)
   - Kurz: Something has shifted in Southeast Asia over the past year and nobody announced it. According to Google’s first Gemini Southeast Asia report, published in July, nearly 70 per cent of prompts in the region are now submitted in native languages — 89 per cent in Vietnam, 87 per cent in Thailand, 84 per cent in […] The post Who’s building AI for the way Southeast Asia actually speaks? appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **WebMCPがアツいので見てほしい | DevelopersIO** — Score 16, observation — [Quelle](https://dev.classmethod.jp/articles/webmcp-introduction/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-03T11:43:12+00:00`, fetched `2026-09-03T17:40:04+00:00`
+  - Treffer: AI Agents, developer, Hatena, hotentry, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); developer (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: リテールアプリ共創部の末永です。 みなさん、WebMCPをご存じでしょうか？ WebMCPは、Webサイトの機能をAIエージェントが扱いやすくするためのWeb標準案です。WebMCP発表当時は「またMCP関連の何かが出たのね」くらいでスルーしていました。 MCPは便利ですが、開発者がMCP Serverを用意するだけでなく、ユーザー側でも接...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[NEU] [hoch] util-linux: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3160)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
