@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-02T23:55:31+00:00",
+  "generated_at": "2026-09-03T00:16:00+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -91,7 +91,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T12:41:35+00:00",
       "last_seen_at": "2026-09-02T23:55:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_c6dc90057ec5ebdfc7d8",
@@ -108,7 +108,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T05:40:10+00:00",
       "last_seen_at": "2026-09-02T23:55:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_3cb5980444e3bd7e9296",
@@ -194,7 +194,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-01T08:46:46+00:00",
       "last_seen_at": "2026-09-02T23:55:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_9f68b3545d6f2ad0a3c0",
@@ -401,6 +401,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_051cfa972487c1e10518",
+      "title": "M 6.2 - South Sandwich Islands region",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1144000.0,
+      "p50_usd": 114400000.0,
+      "p90_usd": 11440000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-03T00:15:45+00:00",
+      "last_seen_at": "2026-09-03T00:15:45+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_072439522f0506eff01d",
       "title": "M 5.8 - Kermadec Islands, New Zealand",
       "event_classes": [
@@ -534,7 +551,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-08-29T15:25:13+00:00",
       "last_seen_at": "2026-09-02T23:55:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_91ddc5c7bf195c8dec35",
@@ -619,7 +636,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-01T06:56:30+00:00",
       "last_seen_at": "2026-09-02T23:55:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_f0ac46f40882508b5efa",
@@ -925,7 +942,7 @@
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-09-02T23:55:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_f8de791871e85abc0655",
@@ -942,7 +959,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T12:41:35+00:00",
       "last_seen_at": "2026-09-02T23:55:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_620225625978c23a2aaa",
@@ -959,7 +976,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-09-02T23:55:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_f9aa70a7450d27852f37",
@@ -1010,7 +1027,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T04:14:04+00:00",
       "last_seen_at": "2026-09-02T23:55:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_5c0b2150c6dffa55a770",
@@ -1095,7 +1112,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T03:25:43+00:00",
       "last_seen_at": "2026-09-02T23:55:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_c39c68387b68393d229a",
@@ -1112,7 +1129,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:33:41+00:00",
       "last_seen_at": "2026-09-02T23:55:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_2f5c3cffbb9951edd868",
@@ -1180,7 +1197,7 @@
       "confidence": 0.77,
       "first_seen_at": "2026-08-29T07:47:53+00:00",
       "last_seen_at": "2026-09-02T23:55:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_286c3df7e2f2f93926a3",
@@ -1248,7 +1265,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T03:25:43+00:00",
       "last_seen_at": "2026-09-02T23:55:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_599c941385c78d90af8c",
@@ -1367,7 +1384,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T03:25:43+00:00",
       "last_seen_at": "2026-09-02T23:55:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_f57fccff74e206c13a6c",
@@ -1401,7 +1418,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T17:18:01+00:00",
       "last_seen_at": "2026-09-02T23:55:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_9ed1bb780b2101265c00",
@@ -1418,7 +1435,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-09-02T23:55:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a77bf86ad7c289b6fd5e",
@@ -1452,7 +1469,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T12:41:35+00:00",
       "last_seen_at": "2026-09-02T23:55:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_e43c9e3077c7255b207a",
@@ -1486,7 +1503,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T05:26:51+00:00",
       "last_seen_at": "2026-09-02T23:55:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_fc652af7a4ec83ebf862",
@@ -1741,7 +1758,7 @@
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-09-02T23:55:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_eead2fa9253701ead417",
@@ -2234,7 +2251,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T18:20:05+00:00",
       "last_seen_at": "2026-09-02T23:55:05+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_6dc9fd22d6ef7f383649",
@@ -3221,6 +3238,23 @@
       "first_seen_at": "2026-09-02T03:25:43+00:00",
       "last_seen_at": "2026-09-02T05:05:19+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_c12c6091f93d3a684fbe",
+      "title": "自分で出した本を、国会図書館に納本してきた - Nothing ventured, nothing gained.",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "investment"
+      ],
+      "p10_usd": 107200.0,
+      "p50_usd": 10720000.0,
+      "p90_usd": 1072000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-03T00:15:45+00:00",
+      "last_seen_at": "2026-09-03T00:15:45+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_369ed4c57635e2a534e3",
