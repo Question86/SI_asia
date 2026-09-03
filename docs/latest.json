@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T14:43:10+00:00",
-  "run_id": "2026-09-03T14:43:10+00:00",
+  "generated_at": "2026-09-03T14:51:22+00:00",
+  "run_id": "2026-09-03T14:51:22+00:00",
   "date": "2026-09-03",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 73,
     "displayed_findings": 73,
     "high": 1,
@@ -3890,32 +3890,7 @@
       "id": "4c62227f3353d056a0dd"
     }
   ],
-  "new_findings": [
-    {
-      "title": "CodeQL 2.26.4 improves GitHub actions security detections",
-      "url": "https://github.blog/changelog/2026-09-03-codeql-2-26-4-improves-github-actions-security-detections",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-09-03T14:04:59+00:00",
-      "fetched_at": "2026-09-03T14:42:37+00:00",
-      "summary": "CodeQL is the static analysis engine behind GitHub code scanning, which finds and remediates security issues in your code. We’ve recently released CodeQL 2.26.4, which adds support for Go 1.27,… The post CodeQL 2.26.4 improves GitHub actions security detections appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "Actions",
-        "CodeQL/Dependabot",
-        "GitHub",
-        "GitHub Actions",
-        "Security"
-      ],
-      "relevance_score": 28,
-      "relevance_reason": "GitHub Actions (+6.2); CodeQL/Dependabot (+8.8); Security (+7.5); GitHub (+2.5); Actions (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "85fcb3dd7598639e89d8"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [
     {
       "source_id": "bis_statistics",
