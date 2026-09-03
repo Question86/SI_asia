@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-03T20:40:32+00:00",
+  "generated_at": "2026-09-03T20:48:26+00:00",
   "topics": {
     "security": [
       {
@@ -24,6 +24,13 @@
         "published_at": "2026-09-03T11:26:09+00:00",
         "relevance_score": 18,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3165"
+      },
+      {
+        "title": "Safety overview: GPT-6 Astra",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-09-03T00:00:00+00:00",
+        "relevance_score": 17,
+        "url": "https://openai.com/index/safety-overview-gpt-6-astra"
       },
       {
         "title": "[NEU] [hoch] util-linux: Mehrere Schwachstellen",
@@ -66,13 +73,6 @@
         "published_at": "2026-09-03T11:26:08+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3164"
-      },
-      {
-        "title": "[NEU] [mittel] LiteLLM: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-03T11:26:07+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3162"
       }
     ],
     "github": [
@@ -163,6 +163,13 @@
         "url": "https://e27.co/whos-building-ai-for-the-way-southeast-asia-actually-speaks-20260901/"
       },
       {
+        "title": "Safety overview: GPT-6 Astra",
+        "source": "OpenAI News RSS",
+        "published_at": "2026-09-03T00:00:00+00:00",
+        "relevance_score": 17,
+        "url": "https://openai.com/index/safety-overview-gpt-6-astra"
+      },
+      {
         "title": "WebMCPがアツいので見てほしい | DevelopersIO",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-09-03T11:43:12+00:00",
@@ -210,13 +217,6 @@
         "published_at": null,
         "relevance_score": 13,
         "url": "https://github.com/sngyai/Sequoia-X"
-      },
-      {
-        "title": "DietrichGebert/ponytail",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 13,
-        "url": "https://github.com/DietrichGebert/ponytail"
       }
     ],
     "geopolitics": [
@@ -358,6 +358,13 @@
         "url": "https://satoweb.net/2026/09/p-18390/"
       },
       {
+        "title": "M 5.5 - 100 km S of Nikolski, Alaska",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-03T20:42:22.040+00:00",
+        "relevance_score": 11,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te4b"
+      },
+      {
         "title": "M 5.2 - 93 km SSW of Nikolski, Alaska",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-09-03T20:29:40.752+00:00",
@@ -405,13 +412,6 @@
         "published_at": "2026-09-03T12:57:25.201+00:00",
         "relevance_score": 11,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdyi"
-      },
-      {
-        "title": "M 5.3 - 84 km SSW of Nikolski, Alaska",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-03T12:54:18.536+00:00",
-        "relevance_score": 11,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rlmrvm"
       }
     ]
   }

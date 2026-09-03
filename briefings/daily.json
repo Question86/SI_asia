@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T20:40:37+00:00",
-  "today_file_total": 91,
+  "generated_at": "2026-09-03T20:48:30+00:00",
+  "today_file_total": 94,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -26,6 +26,32 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 53.7,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "domain:openai.com",
+      "title": "Safety overview: GPT-6 Astra",
+      "sources": [
+        "OpenAI News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://openai.com/index/safety-overview-gpt-6-astra",
+        "https://openai.com/index/daybreak-for-frontline-defenders",
+        "https://openai.com/index/playco-game-prototyping-with-astra",
+        "https://openai.com/index/legora-financial-statement-review-with-astra"
+      ],
+      "finding_count": 4,
+      "max_score": 17,
+      "credibility_total": 4.2,
+      "cross_source_confirmed": false,
+      "momentum_delta": 2,
+      "momentum_status": "increasing",
+      "network_score": 31.4,
       "hot": true,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
@@ -225,6 +251,31 @@
         "capitals_power_centers"
       ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "earthquake:alaska:5.5",
+      "title": "M 5.5 - 100 km S of Nikolski, Alaska",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te4b"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 16.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "earthquake:alaska:5.2",
@@ -444,52 +495,6 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 14.3,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:chatgpt-claude-grok",
-      "title": "複数のAIサービスで障害発生 ChatGPT／Claude／Grok",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.itmedia.co.jp/aiplus/article/2609/04/2000001152/"
-      ],
-      "finding_count": 1,
-      "max_score": 12,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 14.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "domain:www.federalreserve.gov",
-      "title": "Waller, The Economic Outlook and Some Comments on My Policy Communication",
-      "sources": [
-        "Federal Reserve Speeches and Testimony"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.federalreserve.gov/newsevents/speech/waller20260903a.htm"
-      ],
-      "finding_count": 1,
-      "max_score": 12,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 14.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."

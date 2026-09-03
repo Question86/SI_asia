@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-03T20:40:32+00:00",
+  "generated_at": "2026-09-03T20:48:26+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 91,
-    "displayed_findings": 91,
+    "new_relevant_findings": 3,
+    "today_file_total": 94,
+    "displayed_findings": 94,
     "high": 1,
-    "medium": 23,
-    "observe": 67
+    "medium": 24,
+    "observe": 69
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -55,13 +55,13 @@
       "section": "medium"
     },
     {
-      "title": "WebMCPがアツいので見てほしい | DevelopersIO",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Safety overview: GPT-6 Astra",
+      "source": "OpenAI News RSS",
       "source_type": "rss",
-      "published_at": "2026-09-03T11:43:12+00:00",
-      "relevance_score": 16,
-      "url": "https://dev.classmethod.jp/articles/webmcp-introduction/",
-      "summary": "リテールアプリ共創部の末永です。 みなさん、WebMCPをご存じでしょうか？ WebMCPは、Webサイトの機能をAIエージェントが扱いやすくするためのWeb標準案です。WebMCP発表当時は「またMCP関連の何かが出たのね」くらいでスルーしていました。 MCPは便利ですが、開発者がMCP Serverを用意するだけでなく、ユーザー側でも接...",
+      "published_at": "2026-09-03T00:00:00+00:00",
+      "relevance_score": 17,
+      "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+      "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
       "section": "medium"
     },
     {

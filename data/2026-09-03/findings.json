@@ -94,6 +94,28 @@
     "id": "6fe46d48acb482a7aa2d"
   },
   {
+    "title": "Safety overview: GPT-6 Astra",
+    "url": "https://openai.com/index/safety-overview-gpt-6-astra",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-09-03T00:00:00+00:00",
+    "fetched_at": "2026-09-03T20:47:56+00:00",
+    "summary": "GPT-6 Astra is our most capable broadly deployed model and our first to reach the Critical level of cybersecurity capability under our Preparedness Framework.",
+    "matched_keywords": [
+      "OpenAI",
+      "safety",
+      "Security"
+    ],
+    "relevance_score": 17,
+    "relevance_reason": "OpenAI (+7.5); Security (+6.0); safety (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7faf5bb5b4d335ee7291"
+  },
+  {
     "title": "WebMCPがアツいので見てほしい | DevelopersIO",
     "url": "https://dev.classmethod.jp/articles/webmcp-introduction/",
     "source": "Hatena Bookmark Hotentry IT",
@@ -854,6 +876,43 @@
     "id": "441bb12cb6787690ba88"
   },
   {
+    "title": "M 5.5 - 100 km S of Nikolski, Alaska",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te4b",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-09-03T20:42:22.040+00:00",
+    "fetched_at": "2026-09-03T20:47:56+00:00",
+    "summary": "ShakeMap - III Time 2026-09-03 20:21:15 UTC 2026-09-03 20:21:15 UTC at epicenter Location 52.051°N 169.139°W Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "ShakeMap",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake, ShakeMap"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "fed74b417154d0daabaf"
+  },
+  {
     "title": "M 5.2 - 93 km SSW of Nikolski, Alaska",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rmcccm",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1469,6 +1528,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "cac20beb1ab398eacda1"
+  },
+  {
+    "title": "Daybreak for Frontline Defenders: $1B to protect essential services",
+    "url": "https://openai.com/index/daybreak-for-frontline-defenders",
+    "source": "OpenAI News RSS",
+    "source_type": "rss",
+    "published_at": "2026-09-03T13:15:00+00:00",
+    "fetched_at": "2026-09-03T20:47:56+00:00",
+    "summary": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+    "matched_keywords": [
+      "AI/KI",
+      "OpenAI"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "45852e161d2f9550ca05"
   },
   {
     "title": "AIを使いこなす技術チームの育て方、GitLab社内の実践から",
