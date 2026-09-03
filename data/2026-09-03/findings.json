@@ -139,6 +139,75 @@
     "id": "8f7d01a8a11695e94a17"
   },
   {
+    "title": "[NEU] [mittel] Sonatype Nexus Repository Manager: Mehrere Schwachstellen ermöglichen Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3171",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-03T11:26:58+00:00",
+    "fetched_at": "2026-09-03T11:40:01+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Sonatype Nexus Repository Manager ausnutzen, um einen Denial of Service Angriff durchzuführen, Informationen offenzulegen, Code auszuführen oder Sicherheitsmaßnahmen zu umgehen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a323cf2df3848c78bdd8"
+  },
+  {
+    "title": "[NEU] [hoch] IBM i: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3172",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-03T11:26:58+00:00",
+    "fetched_at": "2026-09-03T11:40:01+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM i ausnutzen, um einen Denial of Service zu verursachen, Sicherheitsmaßnahmen zu umgehen und um Datenbanktransaktionen oder Speicher zu manipulieren.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7d8250ffd32012b59538"
+  },
+  {
+    "title": "[NEU] [hoch] BigBlueButton: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3170",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-03T11:26:58+00:00",
+    "fetched_at": "2026-09-03T11:40:01+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in BigBlueButton ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen, Sicherheitsmaßnahmen zu umgehen oder Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8ac9def892ceade9a5ed"
+  },
+  {
     "title": "[NEU] [mittel] Grafana: Schwachstelle ermöglicht Denial of Service",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3163",
     "source": "BSI CERT-Bund Security Advisories",
@@ -526,6 +595,43 @@
     "id": "73beae68c00c6760cd47"
   },
   {
+    "title": "M 6.3 - 84 km SSW of Nikolski, Alaska",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdvt",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-09-03T11:38:48.886+00:00",
+    "fetched_at": "2026-09-03T11:40:01+00:00",
+    "summary": "ShakeMap - IV DYFI? - V Time 2026-09-03 11:17:24 UTC 2026-09-03 11:17:24 UTC at epicenter Location 52.258°N 169.409°W Depth 35.00 km (21.75 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "ShakeMap",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake, ShakeMap"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "0b635154f140fda912f3"
+  },
+  {
     "title": "M 6.2 - 105 km SSW of Nikolski, Alaska",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/attkscoz",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -734,6 +840,27 @@
       "LOW"
     ],
     "id": "32185283a4b0008fa3a1"
+  },
+  {
+    "title": "Carsome posts tenth profitable quarter as SEA’s used-car race matures",
+    "url": "https://e27.co/carsome-posts-tenth-profitable-quarter-as-seas-used-car-race-matures-20260903/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-09-03T11:33:59+00:00",
+    "fetched_at": "2026-09-03T11:40:01+00:00",
+    "summary": "For years, Southeast Asia’s online used-car platforms were judged mainly by how fast they could expand: more inspection centres, more listings, more buyers, more cities. Carsome’s latest numbers suggest the sector has entered a different phase, one where scale still matters, but profitability is becoming the sharper test. The Malaysia-headquartered used-car e-commerce group reported record […] The post Carsome posts…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Southeast Asia"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4653597b2e2af69d01c4"
   },
   {
     "title": "北朝鮮のバンド、あまりにもイメージ通り過ぎて思わず保存してしまっている「あまりにもできすぎてて生成AIかと疑うレベル」「機材がしっかり敵国製」",

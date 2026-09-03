@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-03T11:30:06+00:00_
+_Generated: 2026-09-03T11:40:31+00:00_
 
 ## Status
 - status: `warning`
-- findings: `48`
+- findings: `53`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-09-03T11:30:06+00:00_
 - url: https://github.com/DietrichGebert/ponytail
 - summary: Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. https://ponytail.dev Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) · ~20% cheaper · ~27% faster · 100% safe Meas…
 
-### 8. M 6.2 - 105 km SSW of Nikolski, Alaska
+### 8. M 6.3 - 84 km SSW of Nikolski, Alaska
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
-- published: `2026-09-03T11:26:41.923+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/attkscoz
-- summary: ShakeMap - IV DYFI? - V Time 2026-09-03 11:17:23 UTC 2026-09-03 11:17:23 UTC at epicenter Location 52.015°N 169.221°W Depth 78.00 km (48.47 mi)
+- published: `2026-09-03T11:38:48.886+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdvt
+- summary: ShakeMap - IV DYFI? - V Time 2026-09-03 11:17:24 UTC 2026-09-03 11:17:24 UTC at epicenter Location 52.258°N 169.409°W Depth 35.00 km (21.75 mi)
 
 END OF DOCUMENT

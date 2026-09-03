@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T11:30:10+00:00",
-  "today_file_total": 48,
+  "generated_at": "2026-09-03T11:40:37+00:00",
+  "today_file_total": 53,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -14,18 +14,18 @@
       "urls": [
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3165",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3160",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3163",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3164",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3162",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3161"
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3171",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3172",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3170",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3163"
       ],
-      "finding_count": 14,
+      "finding_count": 17,
       "max_score": 18,
-      "credibility_total": 14.7,
+      "credibility_total": 17.85,
       "cross_source_confirmed": false,
-      "momentum_delta": 6,
+      "momentum_delta": 3,
       "momentum_status": "increasing",
-      "network_score": 65.4,
+      "network_score": 62.7,
       "hot": true,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
@@ -102,8 +102,8 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "earthquake:alaska:6.2",
-      "title": "M 6.2 - 105 km SSW of Nikolski, Alaska",
+      "key": "earthquake:alaska:6.3",
+      "title": "M 6.3 - 84 km SSW of Nikolski, Alaska",
       "sources": [
         "USGS M4.5+ Earthquakes Past Hour"
       ],
@@ -111,7 +111,7 @@
         "tier1_official"
       ],
       "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/attkscoz"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdvt"
       ],
       "finding_count": 1,
       "max_score": 11,
@@ -249,6 +249,31 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
+      "key": "earthquake:alaska:6.2",
+      "title": "M 6.2 - 105 km SSW of Nikolski, Alaska",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/attkscoz"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 13.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
       "key": "earthquake:m 5.1 - 115 km ne of joshīmath, india:5.1",
       "title": "M 5.1 - 115 km NE of Joshīmath, India",
       "sources": [
@@ -316,6 +341,29 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
+      "network_score": 13.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:carsome-posts-tenth-profitable-quarter-sea-used-car",
+      "title": "Carsome posts tenth profitable quarter as SEA’s used-car race matures",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/carsome-posts-tenth-profitable-quarter-as-seas-used-car-race-matures-20260903/"
+      ],
+      "finding_count": 1,
+      "max_score": 8,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
       "network_score": 13.1,
       "hot": false,
       "watchgraph_modules": [],
@@ -434,52 +482,6 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 9.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:malaysia-fines-singapore-funds-two-governments-are-forcing",
-      "title": "Malaysia fines, Singapore funds: How two governments are forcing SEA’s second digital wave",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/malaysia-fines-singapore-funds-how-two-governments-are-forcing-seas-second-digital-wave-20260901/"
-      ],
-      "finding_count": 1,
-      "max_score": 7,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 9.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "url:https://www.digital.go.jp/news/15f28ab3-17b6-40a9-8ef9-170eeafecda5",
-      "title": "民間事業者（アイフル株式会社）に対して公的個人認証サービスの利用に関する主務大臣認定を行いました",
-      "sources": [
-        "Japan Digital Agency News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.digital.go.jp/news/15f28ab3-17b6-40a9-8ef9-170eeafecda5"
-      ],
-      "finding_count": 1,
-      "max_score": 6,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 8.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
