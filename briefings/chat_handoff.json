@@ -90,5 +90,141 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “Staying secure in the AI era: The habits we need to rethink” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "Staying secure in the AI era: The habits we need to rethink",
+        "url": "https://e27.co/staying-secure-in-the-ai-era-the-habits-we-need-to-rethink-20260901/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-03T03:00:35+00:00",
+        "age_days": 0.18,
+        "topics": [
+          "ai",
+          "security",
+          "disaster"
+        ],
+        "dynamics_score": 31.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "security high-signal: security, google"
+        ],
+        "summary": "AI has quietly become part of how many of us work. We use it to write emails, summarise documents, brainstorm ideas, analyse data, create presentations, and even help us make decisions. For many people, using AI now feels as normal as opening Google or checking Slack. And that is exactly why security deserves a second…"
+      },
+      {
+        "title": "DietrichGebert/ponytail",
+        "url": "https://github.com/DietrichGebert/ponytail",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": "2026-09-03T05:50:53+00:00",
+        "age_days": 0.06,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 30.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: rce, code, 10",
+          "security high-signal: rce, code, 10"
+        ],
+        "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. https://ponytail.dev Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) · ~20% cheaper · ~27% faster · 100% safe Measured on real Claude Code sessions editing a real open-source…"
+      },
+      {
+        "title": "fmtlib/fmt",
+        "url": "https://github.com/fmtlib/fmt",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": "2026-09-03T05:50:53+00:00",
+        "age_days": 0.06,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 25.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "early terms: local",
+          "high terms: rce",
+          "security high-signal: rce"
+        ],
+        "summary": "A modern formatting library https://fmt.dev {fmt} is an open-source formatting library providing a fast and safe alternative to C stdio and C++ iostreams. Documentation Cheat Sheets Q&A: ask questions on StackOverflow with the tag fmt . Try {fmt} in Compiler Explorer . Features Simple format API with positional argume…"
+      },
+      {
+        "title": "You spent fifteen years building guanxi, and then nobody picked up",
+        "url": "https://e27.co/you-spent-fifteen-years-building-guanxi-and-then-nobody-picked-up-20260901/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-03T01:04:19+00:00",
+        "age_days": 0.26,
+        "topics": [
+          "axiom"
+        ],
+        "dynamics_score": 23.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +3",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "マーティン・ファウラー氏来日登壇！アーキテクチャConference 2026｜11月26・27日開催",
+        "url": "https://architecture-con.findy-tools.io/2026",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-03T01:37:36+00:00",
+        "age_days": 0.23,
+        "topics": [
+          "axiom"
+        ],
+        "dynamics_score": 22.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +3",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": ""
+      }
+    ]
+  }
 }
