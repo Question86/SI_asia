@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-09-03T14:34:33+00:00`
+Generated: `2026-09-03T14:43:34+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -10,6 +10,7 @@ Generated: `2026-09-03T14:34:33+00:00`
 | Warsh, In Our Time | conflict | $113.60M | $11.36B | $1.14T | 0.31 |
 | Schools and universities face rising ransomware costs as attackers target identities | exploit, conflict | $113.60M | $11.36B | $1.14T | 0.31 |
 | Forward Deployed Learner: Enabling 22-year-olds to build domain expertise and judgement in the post AI world | conflict | $110.40M | $11.04B | $1.10T | 0.31 |
+| CodeQL 2.26.4 improves GitHub actions security detections | regulation | $12.40M | $1.24B | $124.00B | 0.31 |
 | [MàJ] Vulnérabilité dans Fortinet FortiOS (09 février 2024) | vulnerability, exploit, regulation | $12.00M | $1.20B | $120.00B | 0.31 |
 | Gitlawb/openclaude | regulation | $12.00M | $1.20B | $120.00B | 0.31 |
 | bilawalsidhu/gods-eye-view | regulation, natural_disaster | $11.92M | $1.19B | $119.20B | 0.31 |
@@ -30,7 +31,6 @@ Generated: `2026-09-03T14:34:33+00:00`
 | M 5.2 - 35 km SE of Sarangani, Philippines | natural_disaster | $1.16M | $116.00M | $11.60B | 0.33 |
 | M 6.2 - South Sandwich Islands region | natural_disaster | $1.14M | $114.40M | $11.44B | 0.33 |
 | M 5.2 - 70 km NNW of Arthurs Point, New Zealand | natural_disaster | $1.14M | $114.40M | $11.44B | 0.33 |
-| M 5.3 - 66 km NNW of Arthurs Point, New Zealand | natural_disaster | $1.14M | $114.40M | $11.44B | 0.33 |
 
 ## Interpretation
 

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-03T14:34:49+00:00",
+  "generated_at": "2026-09-03T14:43:49+00:00",
   "events": [
     {
       "event_id": "evt_04c8c9515e6d6caa68b7",
@@ -291,13 +291,13 @@
     {
       "event_id": "evt_1edb48f338a455b86e3f",
       "title": "M 5.1 - Owen Fracture Zone region",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_1f26c5ec6963d43456b7",
@@ -1882,6 +1882,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_ba08d4bd315956d1d3e3",
+      "title": "CodeQL 2.26.4 improves GitHub actions security detections",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_ba2633514b7c89d43fb5",
