@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T09:56:13+00:00",
-  "today_file_total": 36,
+  "generated_at": "2026-09-03T10:12:41+00:00",
+  "today_file_total": 37,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -342,6 +342,29 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
+      "key": "domain:restofworld.org",
+      "title": "I refused to train the AI that could replace me",
+      "sources": [
+        "Rest of World Global Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://restofworld.org/2026/ai-training-jobs-expert-replacement/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "domain:www.heise.de",
       "title": "Jetzt patchen! Angreifer attackieren JFrog Artifactory und machen sich zu Admins",
       "sources": [
@@ -455,29 +478,6 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:you-spent-fifteen-years-building-guanxi-then-nobody",
-      "title": "You spent fifteen years building guanxi, and then nobody picked up",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/you-spent-fifteen-years-building-guanxi-and-then-nobody-picked-up-20260901/"
-      ],
-      "finding_count": 1,
-      "max_score": 6,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 8.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
     }
   ]
 }
