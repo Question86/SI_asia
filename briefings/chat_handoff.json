@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-03T11:56:15+00:00",
-  "status": "normal",
-  "coverage_confidence": "normal",
+  "generated_at": "2026-09-03T12:18:32+00:00",
+  "status": "warning",
+  "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 55,
-    "displayed_findings": 55,
+    "new_relevant_findings": 3,
+    "today_file_total": 58,
+    "displayed_findings": 58,
     "high": 0,
     "medium": 20,
-    "observe": 35
+    "observe": 38
   },
-  "source_errors_count": 0,
+  "source_errors_count": 1,
   "top_signals": [
     {
       "title": "Staying secure in the AI era: The habits we need to rethink",
@@ -85,13 +85,13 @@
       "section": "observe"
     },
     {
-      "title": "M 5.4 - 21 km WNW of Jiangyou, China",
+      "title": "M 4.8 - 92 km SSW of Nikolski, Alaska",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-09-03T11:53:48.040+00:00",
+      "published_at": "2026-09-03T12:13:09.196+00:00",
       "relevance_score": 11,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdw6",
-      "summary": "Time 2026-09-03 11:39:41 UTC 2026-09-03 11:39:41 UTC at epicenter Location 31.846°N 104.507°E Depth 10.00 km (6.21 mi)",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026rlkfau",
+      "summary": "ShakeMap - III Time 2026-09-03 11:24:54 UTC 2026-09-03 11:24:54 UTC at epicenter Location 52.158°N 169.309°W Depth 22.40 km (13.92 mi)",
       "section": "observe"
     }
   ],
