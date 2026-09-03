@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-03T11:40:31+00:00_
+_Generiert: 2026-09-03T11:48:28+00:00_
 
 ## Kurzlage
 
-53 neue relevante Treffer. Stärkstes Signal: „Staying secure in the AI era: The habits we need to rethink“ aus e27 Asia Startup and Tech Feed (Score 19, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+54 neue relevante Treffer. Stärkstes Signal: „Staying secure in the AI era: The habits we need to rethink“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -12,7 +12,7 @@ _Generiert: 2026-09-03T11:40:31+00:00_
 - **USGS earthquake M6.3 - 84 km SSW of Nikolski, Alaska** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdvt)
   - Quelle: USGS
   - Zeit: `2026-09-03T11:17:24+00:00`
-  - Kurz: M6.3 - 84 km SSW of Nikolski, Alaska. PAGER alert: none. Tsunami flag: 1.
+  - Kurz: M6.3 - 84 km SSW of Nikolski, Alaska. PAGER alert: green. Tsunami flag: 1.
 - **CISA KEV: CVE-2026-59822 BerriAI LiteLLM** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-09-02`
@@ -33,14 +33,14 @@ _Generiert: 2026-09-03T11:40:31+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-02`
   - Kurz: Known exploited vulnerability. Added 2026-09-02. Due 2026-09-05. Sangoma Switchvox SQL Injection Vulnerability
+- **GDACS: Green earthquake (Magnitude 6.3M, Depth:35km) in United States 03/09/2026 11:17 UTC, 4 thousand in MMI&gt;=III.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563341)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6.3M, Depth:35km) in United States 03/09/2026 11:17 UTC, 4 thousand in MMI&gt;=III.
 - **GDACS: Green earthquake (Magnitude 6.2M, Depth:125.905km) in South Sandwich Islands Region 02/09/2026 23:46 UTC, [unknown].** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563254)
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.2M, Depth:125.905km) in South Sandwich Islands Region 02/09/2026 23:46 UTC, [unknown].
-- **GDACS: Green flood alert in Lithuania** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104138)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Lithuania
 - **GDACS: Volcanic eruption is on going for Sinabung in Indonesia** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000147)
   - Quelle: GDACS
   - Zeit: ``
@@ -285,7 +285,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `bis_statistics` (rss): 404 Client Error: Not Found for url: https://www.bis.org/doclist/all_statistics.rss
