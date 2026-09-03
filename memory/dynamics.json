@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-03T13:41:16Z",
+  "generated_at": "2026-09-03T13:49:57Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "krass": 12,
-      "strong": 16,
-      "watch": 12
+      "strong": 17,
+      "watch": 11
     },
     "bands_after_gate_recheck": {
       "krass": 1,
-      "strong": 27,
-      "watch": 12
+      "strong": 28,
+      "watch": 11
     }
   },
   "top_dynamics": [
@@ -47,7 +47,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3165",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T11:26:09+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -73,7 +73,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3172",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T11:26:58+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -97,7 +97,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3161",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T11:26:07+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -121,7 +121,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2350",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T09:22:38+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -145,7 +145,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2292",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T09:22:37+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -213,6 +213,30 @@
       "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Apache HttpComponents ausnutzen, um einen Denial of Service Angriff durchzuführen."
     },
     {
+      "title": "放置していたWordPressが乗っ取られてWebShellだらけになっていた話",
+      "url": "https://satoweb.net/2026/09/p-18390/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-03T13:45:58+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Carsome posts tenth profitable quarter as SEA’s used-car race matures",
       "url": "https://e27.co/carsome-posts-tenth-profitable-quarter-as-seas-used-car-race-matures-20260903/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -268,7 +292,7 @@
       "url": "https://e27.co/staying-secure-in-the-ai-era-the-habits-we-need-to-rethink-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T03:00:35+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "ai",
         "security",
@@ -295,7 +319,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3171",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T11:26:58+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -321,7 +345,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3170",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T11:26:58+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -347,7 +371,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3163",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T11:26:08+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -373,7 +397,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3164",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T11:26:08+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -399,7 +423,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3162",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T11:26:07+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "security"
@@ -530,7 +554,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3160",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T11:26:07+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -555,7 +579,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3165",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 5.98,
+      "age_days": 5.99,
       "topics": [
         "security"
       ],
@@ -566,12 +590,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 8.57,
+      "baseline_z_hint": 8.64,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 8.57",
+        "baseline z_hint 8.64",
         "high terms: rce",
         "security high-signal: rce",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
@@ -583,7 +607,7 @@
       "url": "https://www.heise.de/news/WordPress-All-in-One-WP-Migration-Angreifer-koennen-Admin-Falle-auslegen-11439787.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-03T10:32:00.000+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -631,7 +655,7 @@
       "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-09-03T10:00:00+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -656,7 +680,7 @@
       "url": "https://architecture-con.findy-tools.io/2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T01:37:36+00:00",
-      "age_days": 0.5,
+      "age_days": 0.51,
       "topics": [],
       "dynamics_score": 22.0,
       "raw_band": "strong",
@@ -680,7 +704,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdrv",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T00:15:45+00:00",
-      "age_days": 0.56,
+      "age_days": 0.57,
       "topics": [
         "general"
       ],
@@ -704,7 +728,7 @@
       "url": "https://e27.co/staying-secure-in-the-ai-era-the-habits-we-need-to-rethink-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T04:02:10+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "ai"
       ],
@@ -730,7 +754,7 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-JFrog-Artifactory-und-machen-sich-zu-Admins-11439271.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-03T07:56:00.000+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "ai",
         "security"
@@ -755,7 +779,7 @@
       "url": "https://e27.co/whos-building-ai-for-the-way-southeast-asia-actually-speaks-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T02:46:59+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "ai"
       ],
@@ -781,7 +805,7 @@
       "url": "https://e27.co/from-sweden-to-southeast-asia-what-building-logistics-technology-taught-me-about-emerging-markets-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T02:46:59+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "macro"
       ],
@@ -805,7 +829,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdw6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T11:53:48.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -830,7 +854,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdv4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T08:31:44.040+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "disaster"
       ],
@@ -855,7 +879,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdw6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T11:56:18+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -879,7 +903,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdv4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T08:46:29+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "general"
       ],
@@ -903,7 +927,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tduc",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T06:37:14+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -927,7 +951,7 @@
       "url": "https://zenn.dev/helloworld/articles/bcaea69f58eae5",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T07:42:38+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -954,7 +978,7 @@
       "url": "https://e27.co/carsome-posts-tenth-profitable-quarter-as-seas-used-car-race-matures-20260903/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T11:40:37+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -974,11 +998,11 @@
       "summary": ""
     },
     {
-      "title": "M 4.8 - 12 km E of Venustiano Carranza (Peña Blanca), Mexico",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdw2",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-03T11:48:32+00:00",
-      "age_days": 0.08,
+      "title": "Multiples vulnérabilités dans Cisco IOS XE (25 août 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1077/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-09-03T13:45:58+00:00",
+      "age_days": 0.0,
       "topics": [
         "general"
       ],
@@ -988,36 +1012,12 @@
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 3,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 4.5 - 122 km WNW of Houma, Tonga",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdv1",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-03T08:28:23+00:00",
-      "age_days": 0.22,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 16.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
+        "momentum delta +1"
       ],
       "summary": ""
     }
