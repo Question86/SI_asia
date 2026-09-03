@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-03T09:15:42Z",
+  "generated_at": "2026-09-03T09:39:21Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] GIMP Plugins: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2539",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T08:41:09+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -36,11 +36,59 @@
       "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in GIMP ausnutzen, um einen Denial of Service Angriff durchzuführen, beliebigen Code auszuführen oder vertrauliche Informationen offenzulegen."
     },
     {
+      "title": "[UPDATE] [mittel] FasterXML Jackson: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2350",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-03T09:22:38+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in FasterXML Jackson ausnutzen, um Daten zu manipulieren und Sicherheitsvorkehrungen zu umgehen."
+    },
+    {
+      "title": "[UPDATE] [mittel] Apache log4j und Log4cxx: Mehrere Schwachstellen ermöglichen Manipulation von Dateien",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2292",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-03T09:22:37+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Apache log4j und Apache Log4cxx ausnutzen, um Dateien zu manipulieren."
+    },
+    {
       "title": "[UPDATE] [mittel] FreeRDP: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3057",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T08:41:58+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -64,7 +112,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2615",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T08:41:11+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -88,7 +136,7 @@
       "url": "https://github.com/fmtlib/fmt",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-03T05:50:53+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -114,7 +162,7 @@
       "url": "https://e27.co/staying-secure-in-the-ai-era-the-habits-we-need-to-rethink-20260901/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-03T03:00:35+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "ai",
         "security",
@@ -141,7 +189,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3134",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T08:42:00+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -167,7 +215,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3041",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T08:41:58+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -193,7 +241,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2686",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-03T08:41:12+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -219,7 +267,7 @@
       "url": "https://github.com/DietrichGebert/ponytail",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-03T05:50:53+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -241,11 +289,11 @@
       "summary": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. https://ponytail.dev Ponytail He says nothing. He writes one line. It works. ~54% less code (up to 94%) · ~20% cheaper · ~27% faster · 100% safe Measured on real Claude Code sessions editing a real open-source…"
     },
     {
-      "title": "[UPDATE] [mittel] Filebeat: Schwachstelle ermöglicht Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3134",
+      "title": "[UPDATE] [mittel] FasterXML Jackson: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2350",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 5.8,
+      "age_days": 5.81,
       "topics": [
         "security"
       ],
@@ -266,55 +314,6 @@
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
-    },
-    {
-      "title": "You spent fifteen years building guanxi, and then nobody picked up",
-      "url": "https://e27.co/you-spent-fifteen-years-building-guanxi-and-then-nobody-picked-up-20260901/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-03T01:04:19+00:00",
-      "age_days": 0.34,
-      "topics": [],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Jetzt patchen! Angreifer attackieren JFrog Artifactory und machen sich zu Admins",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-JFrog-Artifactory-und-machen-sich-zu-Admins-11439271.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-09-03T07:56:00.000+00:00",
-      "age_days": 0.06,
-      "topics": [
-        "ai",
-        "security"
-      ],
-      "dynamics_score": 19.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: security"
-      ],
-      "summary": "JFrog Artifactory ist über zahlreiche Sicherheitslücken angreifbar. Eine Schwachstelle nutzen Angreifer bereits aus."
     }
   ],
   "read_order": [
@@ -327,8 +326,7 @@
   "counts": {
     "bands_after_gate_recheck": {
       "krass": 1,
-      "strong": 10,
-      "watch": 1
+      "strong": 11
     }
   }
 }
