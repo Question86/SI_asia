@@ -1,7 +1,22 @@
 {
-  "generated_at": "2026-09-03T11:21:48+00:00",
+  "generated_at": "2026-09-03T11:30:10+00:00",
   "sections": {
     "global_security": [
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "USGS earthquake M6.2 - 105 km SSW of Nikolski, Alaska",
+        "summary": "M6.2 - 105 km SSW of Nikolski, Alaska. PAGER alert: none. Tsunami flag: 1.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/attkscoz",
+        "published_at": "2026-09-03T11:17:23+00:00",
+        "metrics": {
+          "mag": 6.2,
+          "alert": "",
+          "sig": 592.0,
+          "tsunami": 1
+        }
+      },
       {
         "domain": "security",
         "severity": "high",
