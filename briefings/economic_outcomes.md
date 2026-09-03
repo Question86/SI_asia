@@ -1,10 +1,11 @@
 # Economic Outcomes
 
-Generated: `2026-09-03T17:30:04+00:00`
+Generated: `2026-09-03T17:41:23+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
 | Southeast Asia’s chip-hub ambition is colliding with its chip-smuggling problem | $0 | — | 0 | 0 | dormant |
+| WebMCPがアツいので見てほしい \| DevelopersIO | $0 | — | 0 | 0 | active |
 | M 6.2 - South Sandwich Islands region | $0 | — | 0 | 0 | active |
 | M 4.6 - 170 km ESE of Kuril’sk, Russia | $0 | — | 0 | 0 | dormant |
 | M 5.8 - Kermadec Islands, New Zealand | $0 | — | 0 | 0 | dormant |
@@ -28,4 +29,3 @@ Generated: `2026-09-03T17:30:04+00:00`
 | J:COMを使っているとPlumeルーターによってDNSブロッキングされる可能性がある 18.204.152.241 問題の顛末 - debiruはてなメモ | $0 | — | 0 | 0 | dormant |
 | Multiples vulnérabilités dans le noyau Linux de SUSE (21 août 2026) | $0 | — | 0 | 0 | dormant |
 | 技術書典21で「Goで作って学ぶリアルタイム通信サーバー入門 〜自作ターミナルゲームでわかるオンラインゲームの裏側〜」という本を出します - $shibayu36->blog; | $0 | — | 0 | 0 | dormant |
-| M 6.3 - 84 km SSW of Nikolski, Alaska | $0 | — | 0 | 0 | dormant |
