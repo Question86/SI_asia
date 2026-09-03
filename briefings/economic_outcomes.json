@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-03T21:30:56+00:00",
+  "generated_at": "2026-09-03T21:40:26+00:00",
   "events": [
     {
       "event_id": "evt_04c8c9515e6d6caa68b7",
@@ -243,6 +243,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_1b4f723a0ec7cbdc7e9d",
+      "title": "M 4.8 - 29 km WSW of Salamanca, Chile",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_1c244b8c1c1e52d36c4a",
@@ -2332,7 +2343,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_e1977ace65ebf1864c3b",
