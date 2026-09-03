@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-09-03T06:02:25+00:00`
+Generated: `2026-09-03T06:37:46+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -21,11 +21,11 @@ Generated: `2026-09-03T06:02:25+00:00`
 | sngyai/Sequoia-X | $0 | — | 0 | 0 | active |
 | tailscale/tailcat | $0 | — | 0 | 0 | dormant |
 | AIショートドラマ『非妖哉』たった2話で1億回再生を記録 中国の映像クリエイターがほぼ1人で制作 | $0 | — | 0 | 0 | dormant |
+| 民間事業者（アイフル株式会社）に対して公的個人認証サービスの利用に関する主務大臣認定を行いました | $0 | — | 0 | 0 | active |
 | ITエンジニアのためのライフスタイルメディア KIKKAKE ITREND | $0 | — | 0 | 0 | dormant |
 | キーエンス製XG VisionTerminalおよびXG-X VisionTerminalにおけるにおけるXML外部エンティティ参照（XXE）の不適切な制限の脆弱性 | $0 | — | 0 | 0 | dormant |
+| M 5.1 - 42 km NW of Coquimbo, Chile | $0 | — | 0 | 0 | active |
 | J:COMを使っているとPlumeルーターによってDNSブロッキングされる可能性がある 18.204.152.241 問題の顛末 - debiruはてなメモ | $0 | — | 0 | 0 | dormant |
 | Multiples vulnérabilités dans le noyau Linux de SUSE (21 août 2026) | $0 | — | 0 | 0 | dormant |
 | 技術書典21で「Goで作って学ぶリアルタイム通信サーバー入門 〜自作ターミナルゲームでわかるオンラインゲームの裏側〜」という本を出します - $shibayu36->blog; | $0 | — | 0 | 0 | dormant |
 | M 4.6 - 52 km NNE of Ruteng, Indonesia | $0 | — | 0 | 0 | dormant |
-| 松本大臣記者会見（令和8年9月1日）動画を掲載しました | $0 | — | 0 | 0 | dormant |
-| 知人がものの数分で設定したという、高齢のお父さん用iPhone…ここまで潔いのはなかなか見かけない「視覚支援だ～」「これはめっちゃわかりやすい」 | $0 | — | 0 | 0 | active |
