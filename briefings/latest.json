@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T21:22:27+00:00",
-  "run_id": "2026-09-03T21:22:27+00:00",
+  "generated_at": "2026-09-03T21:30:19+00:00",
+  "run_id": "2026-09-03T21:30:19+00:00",
   "date": "2026-09-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 97,
     "displayed_findings": 97,
     "high": 1,
@@ -5284,53 +5284,7 @@
       "id": "aa69a664613bb7eb4e82"
     }
   ],
-  "new_findings": [
-    {
-      "title": "GitHub Actions: Early September 2026 updates",
-      "url": "https://github.blog/changelog/2026-09-03-github-actions-early-september-2026-updates",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-09-03T20:30:53+00:00",
-      "fetched_at": "2026-09-03T21:21:53+00:00",
-      "summary": "GitHub Actions now includes three updates that give you clearer visibility and finer-grained control over your workflows. New REST API for runner version deprecations A new REST API returns when… The post GitHub Actions: Early September 2026 updates appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "Actions",
-        "GitHub",
-        "GitHub Actions"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "GitHub Actions (+6.2); GitHub (+2.5); Actions (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3f7f4caedeefff24a3c8"
-    },
-    {
-      "title": "Announcing Vitest 5.0",
-      "url": "https://vitest.dev/blog/vitest-5.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-03T15:41:22+00:00",
-      "fetched_at": "2026-09-03T21:21:53+00:00",
-      "summary": "Vitest 5.0 is out! ​September 3d, 2026 The next Vitest major is here ​Today, we are thrilled to announce Vitest 5! Quick links: DocsTranslations: 简体中文Migration GuideGitHub ChangelogIf you've not used Vitest before, we suggest reading the Getting Started and Features guides first. We extend ou...",
-      "matched_keywords": [
-        "Content-Chance",
-        "GitHub",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "Content-Chance (+5.0); Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c0fbebeaf58b61db17a1"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
