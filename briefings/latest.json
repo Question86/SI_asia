@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T22:06:56+00:00",
-  "run_id": "2026-09-03T22:06:56+00:00",
+  "generated_at": "2026-09-03T22:22:01+00:00",
+  "run_id": "2026-09-03T22:22:01+00:00",
   "date": "2026-09-03",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 101,
     "displayed_findings": 101,
     "high": 1,
@@ -5516,30 +5516,7 @@
       "id": "aa69a664613bb7eb4e82"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Microsoft Officeの責任者が「AIが生成した質の低い文書」に対して苦言",
-      "url": "https://gigazine.net/news/20260903-microsofts-office-ai/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-03T10:51:41+00:00",
-      "fetched_at": "2026-09-03T22:06:22+00:00",
-      "summary": "Microsoftは2026年6月にAIエージェントを中心に動作する新しいデバイス向けプラットフォーム「Project Solara」を発表していたり、画像生成AI「MAI-Image」シリーズをリリースしていたりするほか、AnthropicのAI・ClaudeをOffice製品で活用する「Claude for Word」などの拡張機能も展開されており、AIの導入に力を入れて...",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ea56537447da99b71f1f"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
