@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-09-04T06:29:53+00:00`
+Generated: `2026-09-04T06:52:53+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -27,5 +27,5 @@ Generated: `2026-09-04T06:29:53+00:00`
 | キーエンス製XG VisionTerminalおよびXG-X VisionTerminalにおけるにおけるXML外部エンティティ参照（XXE）の不適切な制限の脆弱性 | $0 | — | 0 | 0 | dormant |
 | M 5.1 - 42 km NW of Coquimbo, Chile | $0 | — | 0 | 0 | dormant |
 | M 4.8 - 29 km WSW of Salamanca, Chile | $0 | — | 0 | 0 | dormant |
+| RIZAP社員、私用AIに顧客の個人情報入力 氏名や疾患、保険証番号など……同社が謝罪 | $0 | — | 0 | 0 | active |
 | J:COMを使っているとPlumeルーターによってDNSブロッキングされる可能性がある 18.204.152.241 問題の顛末 - debiruはてなメモ | $0 | — | 0 | 0 | dormant |
-| Multiples vulnérabilités dans le noyau Linux de SUSE (21 août 2026) | $0 | — | 0 | 0 | dormant |
