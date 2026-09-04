@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-04T08:28:27+00:00_
+_Generiert: 2026-09-04T08:45:34+00:00_
 
 ## Kurzlage
 
-32 neue relevante Treffer. Stärkstes Signal: „AI and human creativity: How ChatGPT Canvas bridges the gap“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
+33 neue relevante Treffer. Stärkstes Signal: „AI and human creativity: How ChatGPT Canvas bridges the gap“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -66,6 +66,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [mittel] Puppet: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1401)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-09-04T08:41:05+00:00`, fetched `2026-09-04T08:45:05+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Puppet ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
