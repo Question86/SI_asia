@@ -218,6 +218,29 @@
     "id": "480a58363116d6814252"
   },
   {
+    "title": "[UPDATE] [mittel] GIMP: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2219",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-04T09:57:15+00:00",
+    "fetched_at": "2026-09-04T10:00:14+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in GIMP ausnutzen, um beliebigen Programmcode auszuführen, und um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "024eb16f90276df3142e"
+  },
+  {
     "title": "[UPDATE] [mittel] Puppet: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1401",
     "source": "BSI CERT-Bund Security Advisories",
