@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-04T05:13:25Z",
+  "generated_at": "2026-09-04T05:28:14Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "krass": 3,
       "strong": 9,
-      "watch": 18,
-      "quiet": 10
+      "watch": 20,
+      "quiet": 8
     },
     "bands_after_gate_recheck": {
       "strong": 12,
-      "watch": 18,
-      "quiet": 10
+      "watch": 20,
+      "quiet": 8
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/jp/JVN32505330/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-04T12:00:00+09:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://jvn.jp/vu/JVNVU96680494/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-04T10:15:15+09:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -71,7 +71,7 @@
       "url": "https://jvn.jp/vu/JVNVU97027767/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-04T10:15:00+09:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -95,7 +95,7 @@
       "url": "https://e27.co/should-cybersecurity-be-nationalised-20260904/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T04:28:30+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -121,7 +121,7 @@
       "url": "https://jvn.jp/vu/JVNVU94249914/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-04T10:15:30+09:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -146,7 +146,7 @@
       "url": "https://e27.co/the-podular-future-why-ai-demands-a-new-organisational-architecture-20260903/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T01:50:38+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -173,7 +173,7 @@
       "url": "https://e27.co/should-cybersecurity-be-nationalised-20260904/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T04:15:31+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -197,7 +197,7 @@
       "url": "https://jvn.jp/jp/JVN32505330/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-04T03:24:43+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -221,7 +221,7 @@
       "url": "https://jvn.jp/vu/JVNVU96680494/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-04T01:50:38+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -245,7 +245,7 @@
       "url": "https://jvn.jp/vu/JVNVU97027767/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-04T01:50:38+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -269,7 +269,7 @@
       "url": "https://e27.co/ai-and-human-creativity-how-chatgpt-canvas-bridges-the-gap-20260904/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T03:47:45+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -295,7 +295,7 @@
       "url": "https://e27.co/the-podular-future-why-ai-demands-a-new-organisational-architecture-20260903/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T01:30:49+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -321,7 +321,7 @@
       "url": "https://e27.co/the-decision-discipline-how-to-turn-insights-into-action-20260904/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T04:08:59+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -345,7 +345,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te7l",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-04T02:43:38.689+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -366,11 +366,38 @@
       "summary": "ShakeMap - III Time 2026-09-04 02:28:38 UTC 2026-09-04 02:28:38 UTC at epicenter Location 51.956°N 176.348°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "In Southeast Asia’s VC reset, governance becomes the new growth story",
+      "url": "https://e27.co/in-southeast-asias-vc-reset-governance-becomes-the-new-growth-story-20260904/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-04T05:11:35+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 18.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "In Southeast Asia’s tougher VC market, governance is no longer boring For much of the past decade, Southeast Asia’s startup story was told through speed: faster user growth, faster market entry, faster fundraising, faster expansion. In 2025, that narrative met its limits. The region’s venture capital market has entere…"
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月03日）",
       "url": "https://jvn.jp/vu/JVNVU94249914/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 77.14,
+      "age_days": 77.15,
       "topics": [
         "general"
       ],
@@ -395,7 +422,7 @@
       "url": "https://e27.co/ai-and-human-creativity-how-chatgpt-canvas-bridges-the-gap-20260904/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T03:45:27+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -417,11 +444,35 @@
       "summary": "In the world of AI-powered content creation, ChatGPT Canvas is a game-changer. Unlike traditional ChatGPT interactions, where multiple prompts and re-prompts are necessary to fine-tune content, ChatGPT Canvas introduces a new, interactive interface that allows direct text manipulation, structured editing, and enhanced…"
     },
     {
+      "title": "In Southeast Asia’s VC reset, governance becomes the new growth story",
+      "url": "https://e27.co/in-southeast-asias-vc-reset-governance-becomes-the-new-growth-story-20260904/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-04T05:20:17+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "The AI dashboard gold rush: Beyond the pretty charts",
       "url": "https://e27.co/the-ai-dashboard-gold-rush-beyond-the-pretty-charts-20260904/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T04:08:59+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -447,7 +498,7 @@
       "url": "https://e27.co/bitcoin-just-broke-us81000-the-real-reason-is-not-what-you-think-20260904/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T03:37:26+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -471,7 +522,7 @@
       "url": "https://www.digital.go.jp/speech/minister-260904-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-04T03:24:43+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -495,7 +546,7 @@
       "url": "https://techblog.zozo.com/entry/wear-web-fe-adjust-workflow",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-04T01:50:38+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -521,7 +572,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001157/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-04T03:47:45+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -545,7 +596,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001118/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-04T02:28:18+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -569,7 +620,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2137797.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-04T02:28:18+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -593,7 +644,7 @@
       "url": "https://www.publickey1.jp/blog/26/webgitclivimwebterm_learn.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-04T01:58:26+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -617,7 +668,7 @@
       "url": "https://e27.co/the-ai-wrapper-reckoning-has-reached-seas-funding-tables-20260903/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T01:50:38+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -643,7 +694,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2138156.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-04T01:11:32+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -669,7 +720,7 @@
       "url": "https://github.com/humanlayer/skills/blob/main/plugins/show-me/skills/show-me/SKILL.md",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-04T00:53:25+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -695,7 +746,7 @@
       "url": "https://e27.co/why-podcasts-are-the-next-big-data-revolution-20260904/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T04:28:30+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
@@ -719,7 +770,7 @@
       "url": "https://e27.co/the-ai-dashboard-gold-rush-beyond-the-pretty-charts-20260904/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T04:00:31+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "macro"
@@ -746,7 +797,7 @@
       "url": "https://e27.co/bitcoin-just-broke-us81000-the-real-reason-is-not-what-you-think-20260904/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T03:26:53+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "macro"
       ],
@@ -770,7 +821,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te7l",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 77.61,
+      "age_days": 77.62,
       "topics": [
         "general"
       ],
@@ -795,7 +846,7 @@
       "url": "https://e27.co/the-decision-discipline-how-to-turn-insights-into-action-20260904/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T03:55:22+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -819,7 +870,7 @@
       "url": "https://e27.co/hivebotics-nets-us6m-to-take-restroom-cleaning-robot-abluo-into-volume-production-20260904/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T04:28:30+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -845,7 +896,7 @@
       "url": "https://e27.co/the-yellow-flag-problem-most-risk-functions-fail-at-culture-before-they-fail-at-technique-20260903/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T01:11:32+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -871,7 +922,7 @@
       "url": "https://www.digital.go.jp/speech/minister-260904-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-04T03:20:57+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -895,7 +946,7 @@
       "url": "https://techblog.zozo.com/entry/wear-web-fe-adjust-workflow",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-01T14:04:25+00:00",
-      "age_days": 2.63,
+      "age_days": 2.64,
       "topics": [
         "ai"
       ],
@@ -920,7 +971,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001157/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-04T01:45:25+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -944,7 +995,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001118/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-04T00:38:18+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -962,54 +1013,6 @@
         "no strong comparative reason"
       ],
       "summary": "筆者は最近、めちゃめちゃおっぱいの話をしている。ライターの仕事が終われば家で妻とおっぱいの話をしているし、知人ともおっぱいの話をしているし、SNSでもおっぱいの話をしている。 なんでこんなにおっぱいの話をしているかというと、筆者がライターとは別の仕事として、とあるコンテンツの宣伝を手伝っていることに..."
-    },
-    {
-      "title": "【特集】 既製品はしっくりこないから自分らで作った。バッファロー製トラックボールが生まれたワケ",
-      "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2137797.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-03T21:13:55+00:00",
-      "age_days": 0.33,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "【特集】 既製品はしっくりこないから自分らで作った。バッファロー製トラックボールが生まれたワケ"
-    },
-    {
-      "title": "Webブラウザ上でターミナルのシミュレータを実行、GitやCLI、Vimなどを無料で学べる「WebTerm Learn」が公開",
-      "url": "https://www.publickey1.jp/blog/26/webgitclivimwebterm_learn.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-03T18:13:28+00:00",
-      "age_days": 0.46,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "Webブラウザ上でまるで本物のように振る舞うターミナルのシミュレータを実行し、そこでGitやLinuxのコマンドライン、Vimなどの操作を無料で学べる学習プラットフォーム「WebTerm Learn」を、株式会社initが公開しました。 WebTerm Learnの入口は上記画面のようにゲーム仕立てになっており、進路によってGitやターミナル..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “エクシングCPTrans-ME-Xにおける複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
