@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-04T11:28:40+00:00_
+_Generated: 2026-09-04T11:39:18+00:00_
 
 ## Status
 - status: `normal`
-- findings: `46`
+- findings: `52`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-09-04T11:28:40+00:00_
 - url: https://e27.co/ai-and-human-creativity-how-chatgpt-canvas-bridges-the-gap-20260904/
 - summary: In the world of AI-powered content creation, ChatGPT Canvas is a game-changer. Unlike traditional ChatGPT interactions, where multiple prompts and re-prompts are necessary to fine-tune content, ChatGPT Canvas introduces a new, interactive interface that allow…
 
-### 2. CISA ICS Advisory / ICS Medical Advisory（2026年09月03日）
-- source: JVN Japan Vulnerability Notes
-- score: `16`
-- published: `2026-09-04T10:15:30+09:00`
-- url: https://jvn.jp/vu/JVNVU94249914/
-- summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
-
-### 3. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen
+### 2. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-09-04T09:06:05+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3152
-- summary: Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder nicht näher beschriebene Auswirkungen zu erzielen.
+- published: `2026-09-04T11:37:08+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1008
+- summary: Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder sonstige Auswirkungen zu verursachen.
 
-### 4. OpenAI’s Astra aims to turn AI from chatbot into digital worker
-- source: e27 Asia Startup and Tech Feed
-- score: `15`
-- published: `2026-09-04T09:49:04+00:00`
-- url: https://e27.co/openais-astra-aims-to-turn-ai-from-chatbot-into-digital-worker-20260904/
-- summary: OpenAI has launched GPT-6 Astra, its newest flagship model, pitching it as a step-change in artificial intelligence systems that can not only answer questions, but also operate software, browse the web, write code, analyse data, and complete multi-step profes…
+### 3. [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-09-04T11:37:07+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0879
+- summary: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Zustand herbeizuführen oder einen nicht näher spezifizierten Angriff durchzuführen.
+
+### 4. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-09-04T11:37:06+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0920
+- summary: Ein lokaler Angreifer kann mehrere Schwachstellen im Linux-Kernel ausnutzen, um einen Denial-of-Service-Zustand herbeizuführen oder einen nicht spezifizierten Angriff durchzuführen.
 
 ### 5. チームの人数が減っても仕事を回す ── AIとGitHub Actionsによる開発ワークフロー改善 - ZOZO TECH BLOG
 - source: Hatena Bookmark Hotentry IT

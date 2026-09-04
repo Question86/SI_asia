@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-04T11:28:40+00:00",
+  "generated_at": "2026-09-04T11:39:18+00:00",
   "topics": {
     "ai": [
       {
@@ -77,6 +77,27 @@
     ],
     "security": [
       {
+        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-04T11:37:08+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1008"
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-04T11:37:07+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0879"
+      },
+      {
+        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-04T11:37:06+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0920"
+      },
+      {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月03日）",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-09-04T10:15:30+09:00",
@@ -98,53 +119,32 @@
         "url": "https://jvn.jp/jp/JVN32505330/"
       },
       {
+        "title": "[UPDATE] [hoch] vim: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-04T11:37:08+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0904"
+      },
+      {
+        "title": "[UPDATE] [mittel] Internet Systems Consortium BIND: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-04T11:37:07+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0863"
+      },
+      {
+        "title": "[UPDATE] [mittel] Grafana: Schwachstelle ermöglicht Privilegieneskalation",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-04T11:37:05+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0585"
+      },
+      {
         "title": "Casdoorにおける認可回避の脆弱性",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-09-04T10:15:15+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU96680494/"
-      },
-      {
-        "title": "Siemens製品に対するアップデート（2026年9月）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-04T10:15:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU97027767/"
-      },
-      {
-        "title": "[UPDATE] [hoch] Apache Tomcat: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-04T09:59:21+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3007"
-      },
-      {
-        "title": "[UPDATE] [mittel] GIMP: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-04T09:57:15+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2219"
-      },
-      {
-        "title": "[UPDATE] [mittel] Puppet: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-04T08:41:05+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1401"
-      },
-      {
-        "title": "Should cybersecurity be nationalised?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-04T04:15:31+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/should-cybersecurity-be-nationalised-20260904/"
-      },
-      {
-        "title": "旭辰資訊｜SmartIT Desktop Manager - 存在4個漏洞",
-        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-        "published_at": "2026-09-04T02:24:00+00:00",
-        "relevance_score": 11,
-        "url": "https://www.twcert.org.tw/tw/cp-132-11176-a4cc2-1.html"
       }
     ],
     "economy": [
