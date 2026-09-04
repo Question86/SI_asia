@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-04T00:53:21+00:00",
+  "generated_at": "2026-09-04T01:11:28+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 1,
-    "displayed_findings": 1,
+    "new_relevant_findings": 2,
+    "today_file_total": 3,
+    "displayed_findings": 3,
     "high": 0,
     "medium": 0,
-    "observe": 1
+    "observe": 3
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "OpenAI、次世代モデル「GPT-6 Astra」を発表 ～「PCでできることは、すべて代行できる」／科学研究、ビジネス業務、高度な数学、コンピューター操作などの分野で新境地を拓く",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-03T21:43:45+00:00",
+      "relevance_score": 12,
+      "url": "https://forest.watch.impress.co.jp/docs/news/2138156.html",
+      "summary": "OpenAI、次世代モデル「GPT-6 Astra」を発表 ～「PCでできることは、すべて代行できる」／科学研究、ビジネス業務、高度な数学、コンピューター操作などの分野で新境地を拓く",
+      "section": "observe"
+    },
     {
       "title": "skills/plugins/show-me/skills/show-me/SKILL.md at main · humanlayer/skills",
       "source": "Hatena Bookmark Hotentry IT",
@@ -23,6 +33,16 @@
       "url": "https://github.com/humanlayer/skills/blob/main/plugins/show-me/skills/show-me/SKILL.md",
       "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert",
       "section": "observe"
+    },
+    {
+      "title": "The yellow flag problem: Most risk functions fail at culture before they fail at technique",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-04T01:00:11+00:00",
+      "relevance_score": 6,
+      "url": "https://e27.co/the-yellow-flag-problem-most-risk-functions-fail-at-culture-before-they-fail-at-technique-20260903/",
+      "summary": "In the second year of my country risk role at an Indonesian insurer, I sat in a senior management meeting where a proposed product was on the table. The credit risk was material, the operational risk was novel, and the regulatory positioning was ambiguous. I…",
+      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -30,64 +50,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “skills/plugins/show-me/skills/show-me/SKILL.md at main · humanlayer/skills” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=16.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "skills/plugins/show-me/skills/show-me/SKILL.md at main · humanlayer/skills",
-        "url": "https://github.com/humanlayer/skills/blob/main/plugins/show-me/skills/show-me/SKILL.md",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-04T00:53:25+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 16.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +1",
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "skills/plugins/show-me/skills/show-me/SKILL.md at main · humanlayer/skills",
-        "url": "https://github.com/humanlayer/skills/blob/main/plugins/show-me/skills/show-me/SKILL.md",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-14T12:19:54+00:00",
-        "age_days": 20.53,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "single-source AI hype brake -8.0",
-          "aging penalty -7.9 for 20.5d old signal"
-        ],
-        "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert"
-      }
-    ]
-  }
+  ]
 }

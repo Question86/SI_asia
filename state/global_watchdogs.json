@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T00:53:25+00:00",
+  "generated_at": "2026-09-04T01:11:32+00:00",
   "sections": {
     "global_security": [
       {
@@ -100,6 +100,16 @@
       {
         "domain": "security",
         "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in United States 03/09/2026 20:21 UTC, Few people affected in MMI III.",
+        "summary": "Green earthquake (Magnitude 5.5M, Depth:10km) in United States 03/09/2026 20:21 UTC, Few people affected in MMI III.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563451",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
         "title": "GDACS: Volcanic eruption is on going for Sinabung in Indonesia",
         "summary": "Volcanic eruption is on going for Sinabung in Indonesia",
         "source": "GDACS",
@@ -134,36 +144,6 @@
         "summary": "Green earthquake (Magnitude 5.6M, Depth:64.644km) in Indonesia 02/09/2026 00:04 UTC, 400 thousand in MMI IV.",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563052",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green notification for tropical cyclone MARIE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-        "summary": "Green notification for tropical cyclone MARIE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001317",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Indonesia 01/09/2026 08:22 UTC, 8 thousand in MMI VI.",
-        "summary": "Green earthquake (Magnitude 5.6M, Depth:10km) in Indonesia 01/09/2026 08:22 UTC, 8 thousand in MMI VI.",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1562918",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green notification for tropical cyclone KROVANH-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-        "summary": "Green notification for tropical cyclone KROVANH-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001318",
         "published_at": "",
         "metrics": {}
       }
