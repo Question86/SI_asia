@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-04T01:11:52+00:00",
+  "generated_at": "2026-09-04T01:50:55+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -178,6 +178,23 @@
       "first_seen_at": "2026-09-03T02:46:59+00:00",
       "last_seen_at": "2026-09-03T23:52:47+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_6560353f24c6e4702ceb",
+      "title": "チームの人数が減っても仕事を回す ── AIとGitHub Actionsによる開発ワークフロー改善 - ZOZO TECH BLOG",
+      "event_classes": [
+        "regulation"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 11440000.0,
+      "p50_usd": 1144000000.0,
+      "p90_usd": 114400000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-04T01:50:38+00:00",
+      "last_seen_at": "2026-09-04T01:50:38+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_e0d921293e217132c22d",
@@ -1316,8 +1333,8 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-02T23:55:05+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-09-04T01:50:38+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_f9aa70a7450d27852f37",
@@ -1473,6 +1490,40 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_b0e8d19632a277197551",
+      "title": "Casdoorにおける認可回避の脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-04T01:50:38+00:00",
+      "last_seen_at": "2026-09-04T01:50:38+00:00",
+      "status": "active"
+    },
+    {
+      "event_id": "evt_e829cfd9fccf2b0ceb16",
+      "title": "Siemens製品に対するアップデート（2026年9月）",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-04T01:50:38+00:00",
+      "last_seen_at": "2026-09-04T01:50:38+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_2f5c3cffbb9951edd868",
       "title": "Southeast Asia startup funding finds a floor, but not a rebound",
       "event_classes": [
@@ -1505,6 +1556,23 @@
       "first_seen_at": "2026-08-31T06:56:08+00:00",
       "last_seen_at": "2026-08-31T23:54:23+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_716b92d9f99d233a8892",
+      "title": "The AI wrapper reckoning has reached SEA’s funding tables",
+      "event_classes": [
+        "funding"
+      ],
+      "capital_channels": [
+        "investment"
+      ],
+      "p10_usd": 1136000.0,
+      "p50_usd": 28400000.0,
+      "p90_usd": 1136000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-04T01:50:38+00:00",
+      "last_seen_at": "2026-09-04T01:50:38+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_991fff0a26e90c5ae0c8",
@@ -2183,7 +2251,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-04T00:53:25+00:00",
-      "last_seen_at": "2026-09-04T01:11:32+00:00",
+      "last_seen_at": "2026-09-04T01:50:38+00:00",
       "status": "active"
     },
     {
@@ -2236,6 +2304,23 @@
       "first_seen_at": "2026-08-31T02:09:37+00:00",
       "last_seen_at": "2026-08-31T23:54:23+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_9621801164f24dea86ea",
+      "title": "OpenAI、次世代モデル「GPT-6 Astra」を発表 ～「PCでできることは、すべて代行できる」／科学研究、ビジネス業務、高度な数学、コンピューター操作などの分野で新境地を拓く",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 113600.0,
+      "p50_usd": 11360000.0,
+      "p90_usd": 1136000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-04T01:11:32+00:00",
+      "last_seen_at": "2026-09-04T01:50:38+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_a5a54b57014a28b3b8cc",
@@ -2306,8 +2391,8 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_9621801164f24dea86ea",
-      "title": "OpenAI、次世代モデル「GPT-6 Astra」を発表 ～「PCでできることは、すべて代行できる」／科学研究、ビジネス業務、高度な数学、コンピューター操作などの分野で新境地を拓く",
+      "event_id": "evt_bfddd68964286a495eee",
+      "title": "The Podular future: Why AI demands a new organisational architecture",
       "event_classes": [
         "unknown"
       ],
@@ -2318,8 +2403,8 @@
       "p50_usd": 11360000.0,
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
-      "first_seen_at": "2026-09-04T01:11:32+00:00",
-      "last_seen_at": "2026-09-04T01:11:32+00:00",
+      "first_seen_at": "2026-09-04T01:50:38+00:00",
+      "last_seen_at": "2026-09-04T01:50:38+00:00",
       "status": "active"
     },
     {
@@ -3241,6 +3326,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_4a104f3be147ee0920ed",
+      "title": "The yellow flag problem: Most risk functions fail at culture before they fail at technique",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108800.0,
+      "p50_usd": 10880000.0,
+      "p90_usd": 1088000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-04T01:11:32+00:00",
+      "last_seen_at": "2026-09-04T01:50:38+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_5ad26d1c03ed71fea3a1",
       "title": "令和8年（2026年）第4回政策評価・行政事業レビュー有識者会議（2026年8月6日（木）開催）の会議資料を掲載しました",
       "event_classes": [
@@ -3443,23 +3545,6 @@
       "first_seen_at": "2026-08-31T06:23:43+00:00",
       "last_seen_at": "2026-08-31T06:23:43+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_4a104f3be147ee0920ed",
-      "title": "The yellow flag problem: Most risk functions fail at culture before they fail at technique",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108800.0,
-      "p50_usd": 10880000.0,
-      "p90_usd": 1088000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-04T01:11:32+00:00",
-      "last_seen_at": "2026-09-04T01:11:32+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_083b6220391ba3da1832",
