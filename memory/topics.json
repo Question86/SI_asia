@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-04T16:31:13+00:00",
+  "generated_at": "2026-09-04T16:56:21+00:00",
   "topics": {
     "ai": [
       {
@@ -147,6 +147,78 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3189"
       }
     ],
+    "general": [
+      {
+        "title": "M 5.1 - 25 km W of Padangsidempuan, Indonesia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-04T16:42:00.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teck"
+      },
+      {
+        "title": "M 5.2 - 28 km S of Cilacap, Indonesia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-04T05:24:21.871+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te82"
+      },
+      {
+        "title": "M 5.4 - Kermadec Islands region",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-04T12:32:45.535+00:00",
+        "relevance_score": 13,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te9t"
+      },
+      {
+        "title": "M 5.0 - 236 km ESE of Attu Station, Alaska",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-04T02:43:38.689+00:00",
+        "relevance_score": 11,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te7l"
+      },
+      {
+        "title": "エンジニア面接で「開発力」を見るために聞いていること",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-04T04:12:31+00:00",
+        "relevance_score": 10,
+        "url": "https://tech.anotherball.com/ja/2026-09-04-interview-product-development-skills/"
+      },
+      {
+        "title": "The decision discipline: How to turn insights into action",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-04T03:55:22+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/the-decision-discipline-how-to-turn-insights-into-action-20260904/"
+      },
+      {
+        "title": "ルールではなくskillに指示を書くことで、Claudeのコメントを減らせた",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-03T05:15:15+00:00",
+        "relevance_score": 10,
+        "url": "https://zenn.dev/uzu_tech/articles/58a84a9346b910"
+      },
+      {
+        "title": "M 4.9 - south of the Fiji Islands",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-04T14:06:39.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tea7"
+      },
+      {
+        "title": "M 5.0 - South Sandwich Islands region",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-04T07:05:19.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te8r"
+      },
+      {
+        "title": "Vulnérabilité dans CPython (27 août 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-08-27T00:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1087/"
+      }
+    ],
     "economy": [
       {
         "title": "OpenAI’s Astra aims to turn AI from chatbot into digital worker",
@@ -254,78 +326,6 @@
         "published_at": "2026-09-04T09:21:46+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/ecosystem-roundup-governance-is-southeast-asias-new-venture-currency-20260904/"
-      }
-    ],
-    "general": [
-      {
-        "title": "M 5.2 - 28 km S of Cilacap, Indonesia",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-04T05:24:21.871+00:00",
-        "relevance_score": 15,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te82"
-      },
-      {
-        "title": "M 5.4 - Kermadec Islands region",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-04T12:32:45.535+00:00",
-        "relevance_score": 13,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te9t"
-      },
-      {
-        "title": "M 5.0 - 236 km ESE of Attu Station, Alaska",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-04T02:43:38.689+00:00",
-        "relevance_score": 11,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te7l"
-      },
-      {
-        "title": "エンジニア面接で「開発力」を見るために聞いていること",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-04T04:12:31+00:00",
-        "relevance_score": 10,
-        "url": "https://tech.anotherball.com/ja/2026-09-04-interview-product-development-skills/"
-      },
-      {
-        "title": "The decision discipline: How to turn insights into action",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-04T03:55:22+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/the-decision-discipline-how-to-turn-insights-into-action-20260904/"
-      },
-      {
-        "title": "ルールではなくskillに指示を書くことで、Claudeのコメントを減らせた",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-03T05:15:15+00:00",
-        "relevance_score": 10,
-        "url": "https://zenn.dev/uzu_tech/articles/58a84a9346b910"
-      },
-      {
-        "title": "M 4.9 - south of the Fiji Islands",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-04T14:06:39.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tea7"
-      },
-      {
-        "title": "M 5.0 - South Sandwich Islands region",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-04T07:05:19.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te8r"
-      },
-      {
-        "title": "Vulnérabilité dans CPython (27 août 2026)",
-        "source": "CERT-FR Avis de sécurité",
-        "published_at": "2026-08-27T00:00:00+00:00",
-        "relevance_score": 8,
-        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1087/"
-      },
-      {
-        "title": "Multiples vulnérabilités dans SonicWall NetExtender (26 août 2026)",
-        "source": "CERT-FR Avis de sécurité",
-        "published_at": "2026-08-26T00:00:00+00:00",
-        "relevance_score": 8,
-        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1084/"
       }
     ],
     "github": [
