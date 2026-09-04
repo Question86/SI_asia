@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-04T07:44:59+00:00",
+  "generated_at": "2026-09-04T07:52:42+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -1225,7 +1225,7 @@
     },
     "earthquake:alaska:5.0": {
       "title": "M 5.0 - 236 km ESE of Attu Station, Alaska",
-      "updated_at": "2026-09-04T07:44:59+00:00",
+      "updated_at": "2026-09-04T07:52:42+00:00",
       "network_scores": [
         16.7,
         16.7,
@@ -1250,12 +1250,13 @@
         13.7,
         13.7,
         13.7,
+        13.7,
         13.7
       ],
-      "rolling_average": 13.95,
+      "rolling_average": 13.94,
       "rolling_peak": 16.7,
       "last_score": 13.7,
-      "z_hint": -0.25
+      "z_hint": -0.24
     },
     "domain:regional.kompas.com": {
       "title": "Semarang Dilanda Pemadaman Listrik Berjam - jam , Warga Mulai Borong Power Bank dan Lampu Darurat",
@@ -2748,13 +2749,13 @@
     },
     "title:cisa-ics-advisory-ics-medical-advisory-2026": {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月03日）",
-      "updated_at": "2026-09-04T07:44:59+00:00",
+      "updated_at": "2026-09-04T07:52:42+00:00",
       "network_scores": [
         18.1,
         18.1,
         18.1,
-        18.1,
         21.1,
+        18.1,
         18.1,
         18.1,
         18.1,
@@ -4090,9 +4091,8 @@
     },
     "domain:www.heise.de": {
       "title": "Jetzt patchen! Angreifer führen Schadcode in der Sandbox von Chrome aus",
-      "updated_at": "2026-09-04T07:44:59+00:00",
+      "updated_at": "2026-09-04T07:52:42+00:00",
       "network_scores": [
-        17.3,
         17.3,
         17.3,
         17.3,
@@ -4121,12 +4121,13 @@
         12.1,
         9.1,
         9.1,
+        9.1,
         9.1
       ],
-      "rolling_average": 16.31,
+      "rolling_average": 16.03,
       "rolling_peak": 17.3,
       "last_score": 9.1,
-      "z_hint": -7.21
+      "z_hint": -6.93
     },
     "earthquake:m 4.9 - 169 km e of petropavlovsk-kamchatsky, russia:4.9": {
       "title": "M 4.9 - 169 km E of Petropavlovsk-Kamchatsky, Russia",
@@ -16482,9 +16483,10 @@
     },
     "github_repo:humanlayer/skills": {
       "title": "skills/plugins/show-me/skills/show-me/SKILL.md at main · humanlayer/skills",
-      "updated_at": "2026-09-04T07:44:59+00:00",
+      "updated_at": "2026-09-04T07:52:42+00:00",
       "network_scores": [
         17.1,
+        14.1,
         14.1,
         14.1,
         14.1,
@@ -16513,16 +16515,17 @@
         14.1,
         14.1
       ],
-      "rolling_average": 14.21,
+      "rolling_average": 14.2,
       "rolling_peak": 17.1,
       "last_score": 14.1,
-      "z_hint": -0.11
+      "z_hint": -0.1
     },
     "title:openai-gpt-astra": {
       "title": "OpenAI、次世代モデル「GPT-6 Astra」を発表 ～「PCでできることは、すべて代行できる」／科学研究、ビジネス業務、高度な数学、コンピューター操作などの分野で新境地を拓く",
-      "updated_at": "2026-09-04T07:44:59+00:00",
+      "updated_at": "2026-09-04T07:52:42+00:00",
       "network_scores": [
         17.1,
+        14.1,
         14.1,
         14.1,
         14.1,
@@ -16557,9 +16560,10 @@
     },
     "title:yellow-flag-problem-most-risk-functions-fail-culture": {
       "title": "The yellow flag problem: Most risk functions fail at culture before they fail at technique",
-      "updated_at": "2026-09-04T07:44:59+00:00",
+      "updated_at": "2026-09-04T07:52:42+00:00",
       "network_scores": [
         11.1,
+        8.1,
         8.1,
         8.1,
         8.1,
@@ -16594,7 +16598,7 @@
     },
     "title:casdoor": {
       "title": "Casdoorにおける認可回避の脆弱性",
-      "updated_at": "2026-09-04T07:44:59+00:00",
+      "updated_at": "2026-09-04T07:52:42+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -16621,16 +16625,17 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.22,
+      "rolling_average": 16.21,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.12
+      "z_hint": -0.11
     },
     "title:siemens-2026": {
       "title": "Siemens製品に対するアップデート（2026年9月）",
-      "updated_at": "2026-09-04T07:44:59+00:00",
+      "updated_at": "2026-09-04T07:52:42+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -16657,16 +16662,17 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.22,
+      "rolling_average": 16.21,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.12
+      "z_hint": -0.11
     },
     "domain:techblog.zozo.com": {
       "title": "チームの人数が減っても仕事を回す ── AIとGitHub Actionsによる開発ワークフロー改善 - ZOZO TECH BLOG",
-      "updated_at": "2026-09-04T07:44:59+00:00",
+      "updated_at": "2026-09-04T07:52:42+00:00",
       "network_scores": [
         18.1,
         15.1,
@@ -16693,16 +16699,17 @@
         15.1,
         15.1,
         15.1,
+        15.1,
         15.1
       ],
-      "rolling_average": 15.22,
+      "rolling_average": 15.21,
       "rolling_peak": 18.1,
       "last_score": 15.1,
-      "z_hint": -0.12
+      "z_hint": -0.11
     },
     "title:podular-future-why-demands-organisational-architecture": {
       "title": "The Podular future: Why AI demands a new organisational architecture",
-      "updated_at": "2026-09-04T07:44:59+00:00",
+      "updated_at": "2026-09-04T07:52:42+00:00",
       "network_scores": [
         17.1,
         14.1,
@@ -16729,16 +16736,17 @@
         14.1,
         14.1,
         14.1,
+        14.1,
         14.1
       ],
-      "rolling_average": 14.22,
+      "rolling_average": 14.21,
       "rolling_peak": 17.1,
       "last_score": 14.1,
-      "z_hint": -0.12
+      "z_hint": -0.11
     },
     "title:wrapper-reckoning-has-reached-sea-funding-tables": {
       "title": "The AI wrapper reckoning has reached SEA’s funding tables",
-      "updated_at": "2026-09-04T07:44:59+00:00",
+      "updated_at": "2026-09-04T07:52:42+00:00",
       "network_scores": [
         17.1,
         14.1,
@@ -16765,18 +16773,20 @@
         14.1,
         14.1,
         14.1,
+        14.1,
         14.1
       ],
-      "rolling_average": 14.22,
+      "rolling_average": 14.21,
       "rolling_peak": 17.1,
       "last_score": 14.1,
-      "z_hint": -0.12
+      "z_hint": -0.11
     },
     "title:web-git-cli-vim-webterm-learn": {
       "title": "Webブラウザ上でターミナルのシミュレータを実行、GitやCLI、Vimなどを無料で学べる「WebTerm Learn」が公開",
-      "updated_at": "2026-09-04T07:44:59+00:00",
+      "updated_at": "2026-09-04T07:52:42+00:00",
       "network_scores": [
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -16809,9 +16819,10 @@
     },
     "title:sns-sns": {
       "title": "「おっぱい」の話ができるSNSと、できないSNS",
-      "updated_at": "2026-09-04T07:44:59+00:00",
+      "updated_at": "2026-09-04T07:52:42+00:00",
       "network_scores": [
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -16843,9 +16854,10 @@
     },
     "url:https://pc.watch.impress.co.jp/docs/topic/feature/2137797.html": {
       "title": "【特集】 既製品はしっくりこないから自分らで作った。バッファロー製トラックボールが生まれたワケ",
-      "updated_at": "2026-09-04T07:44:59+00:00",
+      "updated_at": "2026-09-04T07:52:42+00:00",
       "network_scores": [
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -16877,7 +16889,7 @@
     },
     "title:cptrans": {
       "title": "エクシングCPTrans-ME-Xにおける複数の脆弱性",
-      "updated_at": "2026-09-04T07:44:59+00:00",
+      "updated_at": "2026-09-04T07:52:42+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -16898,16 +16910,17 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.25,
+      "rolling_average": 16.24,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.15
+      "z_hint": -0.14
     },
     "url:https://www.digital.go.jp/speech/minister-260904-01": {
       "title": "松本大臣記者会見（令和8年9月4日）動画を掲載しました",
-      "updated_at": "2026-09-04T07:44:59+00:00",
+      "updated_at": "2026-09-04T07:52:42+00:00",
       "network_scores": [
         11.1,
         8.1,
@@ -16928,18 +16941,20 @@
         8.1,
         8.1,
         8.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 8.25,
+      "rolling_average": 8.24,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -0.15
+      "z_hint": -0.14
     },
     "title:bitcoin-just-broke-000-real-reason-not-what": {
       "title": "Bitcoin just broke US$81,000: The real reason is not what you think",
-      "updated_at": "2026-09-04T07:44:59+00:00",
+      "updated_at": "2026-09-04T07:52:42+00:00",
       "network_scores": [
         12.1,
+        9.1,
         9.1,
         9.1,
         9.1,
@@ -16959,14 +16974,14 @@
         9.1,
         9.1
       ],
-      "rolling_average": 9.26,
+      "rolling_average": 9.25,
       "rolling_peak": 12.1,
       "last_score": 9.1,
-      "z_hint": -0.16
+      "z_hint": -0.15
     },
     "title:human-creativity-chatgpt-canvas-bridges-gap": {
       "title": "AI and human creativity: How ChatGPT Canvas bridges the gap",
-      "updated_at": "2026-09-04T07:44:59+00:00",
+      "updated_at": "2026-09-04T07:52:42+00:00",
       "network_scores": [
         25.1,
         22.1,
@@ -16985,16 +17000,17 @@
         22.1,
         22.1,
         22.1,
+        22.1,
         22.1
       ],
-      "rolling_average": 22.27,
+      "rolling_average": 22.26,
       "rolling_peak": 25.1,
       "last_score": 22.1,
-      "z_hint": -0.17
+      "z_hint": -0.16
     },
     "title:rsa-260-130": {
       "title": "「RSA-260」ついに解けた Xに“130ケタの数字”投稿、世界が注目 マスク氏「文字数増やしてよかった」",
-      "updated_at": "2026-09-04T07:44:59+00:00",
+      "updated_at": "2026-09-04T07:52:42+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -17013,16 +17029,17 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.27,
+      "rolling_average": 7.26,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.17
+      "z_hint": -0.16
     },
     "title:dashboard-gold-rush-beyond-pretty-charts": {
       "title": "The AI dashboard gold rush: Beyond the pretty charts",
-      "updated_at": "2026-09-04T07:44:59+00:00",
+      "updated_at": "2026-09-04T07:52:42+00:00",
       "network_scores": [
         20.1,
         17.1,
@@ -17039,16 +17056,17 @@
         17.1,
         17.1,
         17.1,
+        17.1,
         17.1
       ],
-      "rolling_average": 17.29,
+      "rolling_average": 17.28,
       "rolling_peak": 20.1,
       "last_score": 17.1,
-      "z_hint": -0.19
+      "z_hint": -0.18
     },
     "title:decision-discipline-turn-insights-action": {
       "title": "The decision discipline: How to turn insights into action",
-      "updated_at": "2026-09-04T07:44:59+00:00",
+      "updated_at": "2026-09-04T07:52:42+00:00",
       "network_scores": [
         15.1,
         12.1,
@@ -17065,16 +17083,17 @@
         12.1,
         12.1,
         12.1,
+        12.1,
         12.1
       ],
-      "rolling_average": 12.29,
+      "rolling_average": 12.28,
       "rolling_peak": 15.1,
       "last_score": 12.1,
-      "z_hint": -0.19
+      "z_hint": -0.18
     },
     "title:should-cybersecurity-nationalised": {
       "title": "Should cybersecurity be nationalised?",
-      "updated_at": "2026-09-04T07:44:59+00:00",
+      "updated_at": "2026-09-04T07:52:42+00:00",
       "network_scores": [
         17.1,
         14.1,
@@ -17090,16 +17109,17 @@
         14.1,
         14.1,
         14.1,
+        14.1,
         14.1
       ],
-      "rolling_average": 14.3,
+      "rolling_average": 14.29,
       "rolling_peak": 17.1,
       "last_score": 14.1,
-      "z_hint": -0.2
+      "z_hint": -0.19
     },
     "title:hivebotics-nets-take-restroom-cleaning-robot-abluo-volume": {
       "title": "Hivebotics nets US$6M to take restroom-cleaning robot Abluo into volume production",
-      "updated_at": "2026-09-04T07:44:59+00:00",
+      "updated_at": "2026-09-04T07:52:42+00:00",
       "network_scores": [
         11.1,
         8.1,
@@ -17115,16 +17135,17 @@
         8.1,
         8.1,
         8.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 8.3,
+      "rolling_average": 8.29,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -0.2
+      "z_hint": -0.19
     },
     "title:why-podcasts-are-next-big-data-revolution": {
       "title": "Why podcasts are the next big data revolution",
-      "updated_at": "2026-09-04T07:44:59+00:00",
+      "updated_at": "2026-09-04T07:52:42+00:00",
       "network_scores": [
         9.1,
         6.1,
@@ -17140,16 +17161,17 @@
         6.1,
         6.1,
         6.1,
+        6.1,
         6.1
       ],
-      "rolling_average": 6.3,
+      "rolling_average": 6.29,
       "rolling_peak": 9.1,
       "last_score": 6.1,
-      "z_hint": -0.2
+      "z_hint": -0.19
     },
     "title:southeast-asia-reset-governance-becomes-growth-story": {
       "title": "In Southeast Asia’s VC reset, governance becomes the new growth story",
-      "updated_at": "2026-09-04T07:44:59+00:00",
+      "updated_at": "2026-09-04T07:52:42+00:00",
       "network_scores": [
         15.1,
         12.1,
@@ -17161,16 +17183,17 @@
         12.1,
         12.1,
         12.1,
+        12.1,
         12.1
       ],
-      "rolling_average": 12.37,
+      "rolling_average": 12.35,
       "rolling_peak": 15.1,
       "last_score": 12.1,
-      "z_hint": -0.27
+      "z_hint": -0.25
     },
     "earthquake:indonesia:5.2": {
       "title": "M 5.2 - 28 km S of Cilacap, Indonesia",
-      "updated_at": "2026-09-04T07:44:59+00:00",
+      "updated_at": "2026-09-04T07:52:42+00:00",
       "network_scores": [
         20.7,
         17.7,
@@ -17181,72 +17204,88 @@
         17.7,
         17.7,
         17.7,
+        17.7,
         17.7
       ],
-      "rolling_average": 18.0,
+      "rolling_average": 17.97,
       "rolling_peak": 20.7,
       "last_score": 17.7,
-      "z_hint": -0.3
+      "z_hint": -0.27
     },
     "url:https://www.digital.go.jp/budget/r9request": {
       "title": "令和9年度「概算要求書」及び「政策評価調書」を掲載しました",
-      "updated_at": "2026-09-04T07:44:59+00:00",
+      "updated_at": "2026-09-04T07:52:42+00:00",
       "network_scores": [
         11.1,
         8.1,
         8.1,
         8.1,
         8.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 8.6,
+      "rolling_average": 8.53,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -0.5
+      "z_hint": -0.43
     },
     "title:appendix": {
       "title": "エリアデータ連携基盤共同利用ガイドブック第3.0版（本編／Appendix）等を公開しました。",
-      "updated_at": "2026-09-04T07:44:59+00:00",
+      "updated_at": "2026-09-04T07:52:42+00:00",
       "network_scores": [
         11.1,
         8.1,
         8.1,
         8.1,
         8.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 8.6,
+      "rolling_average": 8.53,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -0.5
+      "z_hint": -0.43
     },
     "title:rizap": {
       "title": "RIZAP社員、私用AIに顧客の個人情報入力 氏名や疾患、保険証番号など……同社が謝罪",
-      "updated_at": "2026-09-04T07:44:59+00:00",
+      "updated_at": "2026-09-04T07:52:42+00:00",
       "network_scores": [
         10.1,
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.7,
+      "rolling_average": 7.6,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.6
+      "z_hint": -0.5
     },
     "earthquake:m 5.0 - south sandwich islands region:5.0": {
       "title": "M 5.0 - South Sandwich Islands region",
-      "updated_at": "2026-09-04T07:44:59+00:00",
+      "updated_at": "2026-09-04T07:52:42+00:00",
       "network_scores": [
         14.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 12.7,
+      "rolling_average": 12.45,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -1.0
+      "z_hint": -0.75
+    },
+    "url:https://www.itmedia.co.jp/news/article/2609/04/2000001163/": {
+      "title": "「三省堂書店池袋本店」閉店へ 11年の歴史に幕、惜しむ声続々",
+      "updated_at": "2026-09-04T07:52:42+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
     }
   }
 }
