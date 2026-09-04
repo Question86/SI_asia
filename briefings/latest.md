@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-04T15:57:28+00:00_
+_Generiert: 2026-09-04T16:18:05+00:00_
 
 ## Kurzlage
 
-74 neue relevante Treffer. Stärkstes Signal: „AI and human creativity: How ChatGPT Canvas bridges the gap“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
+75 neue relevante Treffer. Stärkstes Signal: „AI and human creativity: How ChatGPT Canvas bridges the gap“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -282,6 +282,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Philip R. Lane: Diversity at the European Central Bank
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Project HydraFusion: Frontier quality via multi-model orchestration** — Score 8, observation — [Quelle](https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/)
+  - Quelle: GitHub Blog Atom / `rss`
+  - Zeit: published `2026-09-04T16:04:14+00:00`, fetched `2026-09-04T16:17:30+00:00`
+  - Treffer: AI/KI, Copilot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); GitHub (+2.0); Copilot (+2.0); recent (+1.0)
+  - Kurz: In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research preview in GitHub Copilot. The post Project HydraFusion: Frontier quality via multi-model orchestration appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Vulnérabilité dans CPython (27 août 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1087/)
   - Quelle: CERT-FR Avis de sécurité / `rss`
   - Zeit: published `2026-08-27T00:00:00+00:00`, fetched `2026-09-04T12:33:17+00:00`
@@ -299,15 +308,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
   - Kurz: De multiples vulnérabilités ont été découvertes dans SonicWall NetExtender. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Chinese businesses are giving away AI tokens with coffee, credit cards, and dumplings** — Score 7, observation — [Quelle](https://restofworld.org/2026/china-ai-tokens-consumer-rewards-credit-cards-telcos-deepseek/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
-  - Quelle: Rest of World Global Tech Feed / `rss`
-  - Zeit: published `2026-09-04T10:00:00+00:00`, fetched `2026-09-04T10:21:07+00:00`
-  - Treffer: AI/KI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); recent (+1.0); watchgraph region china_credible_only: China (+2.0)
-  - Kurz: Five unexpected ways computing power is entering everyday life in the country.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
