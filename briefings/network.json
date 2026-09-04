@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-04T10:00:47+00:00",
+  "generated_at": "2026-09-04T10:21:39+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 42,
-    "clusters": 39,
+    "findings": 45,
+    "clusters": 41,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 1,
@@ -97,12 +97,13 @@
       ],
       "urls": [
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3152",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3007",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2219",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1401"
       ],
-      "finding_count": 3,
+      "finding_count": 4,
       "max_score": 16,
-      "credibility_total": 3.15,
+      "credibility_total": 4.2,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
@@ -110,7 +111,7 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 25.3,
+      "raw_network_score": 27.4,
       "ranking_score": 20.0,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
@@ -396,6 +397,44 @@
       "first_seen_at": "2026-09-04T05:31:26+00:00"
     },
     {
+      "key": "domain:tech.anotherball.com",
+      "title": "エンジニア面接で「開発力」を見るために聞いていること",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://tech.anotherball.com/ja/2026-09-04-interview-product-development-skills/"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 14.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 15.1,
+      "ranking_score": 14.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-04T10:21:39+00:00"
+    },
+    {
       "key": "title:should-cybersecurity-nationalised",
       "title": "Should cybersecurity be nationalised?",
       "sources": [
@@ -584,6 +623,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-04T00:53:25+00:00"
+    },
+    {
+      "key": "domain:restofworld.org",
+      "title": "Chinese businesses are giving away AI tokens with coffee, credit cards, and dumplings",
+      "sources": [
+        "Rest of World Global Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://restofworld.org/2026/china-ai-tokens-consumer-rewards-credit-cards-telcos-deepseek/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+      ],
+      "finding_count": 1,
+      "max_score": 7,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 12.93,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 12.1,
+      "ranking_score": 12.93,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 1.93,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T01:58:32+00:00"
     },
     {
       "key": "domain:www.twcert.org",
@@ -1512,7 +1589,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-04T10:00:48Z",
+    "generated_at": "2026-09-04T10:21:40Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

@@ -218,6 +218,29 @@
     "id": "480a58363116d6814252"
   },
   {
+    "title": "[UPDATE] [hoch] Apache Tomcat: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3007",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-04T09:59:21+00:00",
+    "fetched_at": "2026-09-04T10:21:07+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Apache Tomcat ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Berechtigungen zu erweitern, Daten zu manipulieren oder offenzulegen oder Denial-of-Service-Zustände zu verursachen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a64eca3c559af5227f20"
+  },
+  {
     "title": "[UPDATE] [mittel] GIMP: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2219",
     "source": "BSI CERT-Bund Security Advisories",
@@ -500,6 +523,28 @@
     "id": "6affe793a40e0b19c602"
   },
   {
+    "title": "エンジニア面接で「開発力」を見るために聞いていること",
+    "url": "https://tech.anotherball.com/ja/2026-09-04-interview-product-development-skills/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-09-04T04:12:31+00:00",
+    "fetched_at": "2026-09-04T10:21:07+00:00",
+    "summary": "こんにちは！AnotherBall Avvy事業部でテックリード 兼 技術責任者をやっている @fortkle です。普段はプロダクト開発をしつつ、サーバーサイドエンジニアの一次面接も担当しています。 最近、その面接で使っている質問の聞き方を少し変えました。大きく面接プロセスを変えたわけではなく、これまで一つの設計に関する質...",
+    "matched_keywords": [
+      "AI Agents",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ea8b04e2ce1d011aa8ed"
+  },
+  {
     "title": "The decision discipline: How to turn insights into action",
     "url": "https://e27.co/the-decision-discipline-how-to-turn-insights-into-action-20260904/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -597,6 +642,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "760120d59db037a0c066"
+  },
+  {
+    "title": "Chinese businesses are giving away AI tokens with coffee, credit cards, and dumplings",
+    "url": "https://restofworld.org/2026/china-ai-tokens-consumer-rewards-credit-cards-telcos-deepseek/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "source": "Rest of World Global Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-09-04T10:00:00+00:00",
+    "fetched_at": "2026-09-04T10:21:07+00:00",
+    "summary": "Five unexpected ways computing power is entering everyday life in the country.",
+    "matched_keywords": [
+      "AI/KI"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "AI/KI (+3.8); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3ada72697712d32553fc"
   },
   {
     "title": "Root-Attacken auf Nexus-9000-Switches von Cisco möglich",
