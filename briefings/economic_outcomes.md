@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-09-04T07:45:35+00:00`
+Generated: `2026-09-04T07:53:15+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -8,6 +8,7 @@ Generated: `2026-09-04T07:45:35+00:00`
 | WebMCPがアツいので見てほしい \| DevelopersIO | $0 | — | 0 | 0 | dormant |
 | M 6.2 - South Sandwich Islands region | $0 | — | 0 | 0 | dormant |
 | M 4.6 - 170 km ESE of Kuril’sk, Russia | $0 | — | 0 | 0 | dormant |
+| 「三省堂書店池袋本店」閉店へ 11年の歴史に幕、惜しむ声続々 | $0 | — | 0 | 0 | active |
 | M 5.8 - Kermadec Islands, New Zealand | $0 | — | 0 | 0 | dormant |
 | AWSをゲームで学べる「AWS Cloud Quest」に新バージョン「AWS Cloud Quest 2.0」登場！ AIによるバーチャル顧客と対話し、要件を聞き出して正しくソリューションに落とし込め | $0 | — | 0 | 0 | dormant |
 | JetBrains/go-modern-guidelines | $0 | — | 0 | 0 | dormant |
@@ -28,4 +29,3 @@ Generated: `2026-09-04T07:45:35+00:00`
 | M 5.1 - 42 km NW of Coquimbo, Chile | $0 | — | 0 | 0 | dormant |
 | M 4.8 - 29 km WSW of Salamanca, Chile | $0 | — | 0 | 0 | dormant |
 | RIZAP社員、私用AIに顧客の個人情報入力 氏名や疾患、保険証番号など……同社が謝罪 | $0 | — | 0 | 0 | dormant |
-| J:COMを使っているとPlumeルーターによってDNSブロッキングされる可能性がある 18.204.152.241 問題の顛末 - debiruはてなメモ | $0 | — | 0 | 0 | dormant |
