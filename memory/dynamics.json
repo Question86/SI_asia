@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-04T03:39:51Z",
+  "generated_at": "2026-09-04T03:49:26Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 32,
+    "dynamics": 36,
     "bands": {
       "krass": 2,
-      "strong": 7,
-      "watch": 11,
-      "quiet": 12
+      "strong": 8,
+      "watch": 12,
+      "quiet": 14
     },
     "bands_after_gate_recheck": {
-      "strong": 9,
-      "watch": 11,
-      "quiet": 12
+      "strong": 10,
+      "watch": 12,
+      "quiet": 14
     }
   },
   "top_dynamics": [
@@ -47,7 +47,7 @@
       "url": "https://jvn.jp/vu/JVNVU96680494/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-04T10:15:15+09:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -71,7 +71,7 @@
       "url": "https://jvn.jp/vu/JVNVU97027767/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-04T10:15:00+09:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -91,11 +91,35 @@
       "summary": "Siemensから各製品向けのアドバイザリが公表されました。"
     },
     {
+      "title": "エクシングCPTrans-ME-Xにおける複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN32505330/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-09-04T03:24:43+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2"
+      ],
+      "summary": ""
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月03日）",
       "url": "https://jvn.jp/vu/JVNVU94249914/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-04T10:15:30+09:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -143,26 +167,28 @@
       "summary": ""
     },
     {
-      "title": "エクシングCPTrans-ME-Xにおける複数の脆弱性",
-      "url": "https://jvn.jp/jp/JVN32505330/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-09-04T03:24:43+00:00",
-      "age_days": 0.01,
+      "title": "AI and human creativity: How ChatGPT Canvas bridges the gap",
+      "url": "https://e27.co/ai-and-human-creativity-how-chatgpt-canvas-bridges-the-gap-20260904/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-04T03:47:45+00:00",
+      "age_days": 0.0,
       "topics": [
-        "general"
+        "ai"
       ],
-      "dynamics_score": 23.5,
+      "dynamics_score": 24.0,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": false,
+      "single_source_ai_capped": true,
       "why": [
-        "momentum delta +1"
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
     },
@@ -219,7 +245,7 @@
       "url": "https://e27.co/the-podular-future-why-ai-demands-a-new-organisational-architecture-20260903/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T01:30:49+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -245,7 +271,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te7l",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-04T02:43:38.689+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -270,7 +296,7 @@
       "url": "https://jvn.jp/vu/JVNVU94249914/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 77.07,
+      "age_days": 77.08,
       "topics": [
         "general"
       ],
@@ -289,6 +315,32 @@
         "aging penalty -8.0 for 77.1d old signal"
       ],
       "summary": ""
+    },
+    {
+      "title": "AI and human creativity: How ChatGPT Canvas bridges the gap",
+      "url": "https://e27.co/ai-and-human-creativity-how-chatgpt-canvas-bridges-the-gap-20260904/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-04T03:45:27+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: active",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "In the world of AI-powered content creation, ChatGPT Canvas is a game-changer. Unlike traditional ChatGPT interactions, where multiple prompts and re-prompts are necessary to fine-tune content, ChatGPT Canvas introduces a new, interactive interface that allows direct text manipulation, structured editing, and enhanced…"
     },
     {
       "title": "チームの人数が減っても仕事を回す ── AIとGitHub Actionsによる開発ワークフロー改善 - ZOZO TECH BLOG",
@@ -321,7 +373,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001118/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-04T02:28:18+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -345,7 +397,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2137797.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-04T02:28:18+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -369,7 +421,7 @@
       "url": "https://www.publickey1.jp/blog/26/webgitclivimwebterm_learn.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-04T01:58:26+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -385,30 +437,6 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Bitcoin just broke US$81,000: The real reason is not what you think",
-      "url": "https://e27.co/bitcoin-just-broke-us81000-the-real-reason-is-not-what-you-think-20260904/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-04T03:37:26+00:00",
-      "age_days": 0.0,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 13.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
       ],
       "summary": ""
     },
@@ -443,7 +471,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2138156.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-04T01:11:32+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -491,11 +519,35 @@
       "summary": ""
     },
     {
+      "title": "松本大臣記者会見（令和8年9月4日）動画を掲載しました",
+      "url": "https://www.digital.go.jp/speech/minister-260904-01",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-09-04T03:24:43+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 12.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Bitcoin just broke US$81,000: The real reason is not what you think",
       "url": "https://e27.co/bitcoin-just-broke-us81000-the-real-reason-is-not-what-you-think-20260904/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T03:26:53+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "macro"
       ],
@@ -513,6 +565,54 @@
         "high terms: 10"
       ],
       "summary": "Bitcoin climbed 5.08 per cent over 24 hours to US$81,106.29, outpacing the broader crypto market’s 4.83 per cent advance to a US$2.72 trillion total capitalisation. The move did not happen in a vacuum. Bitcoin now trades with a 97 per cent correlation to the S&P 500 and an 86 per cent correlation to gold. Those […] Th…"
+    },
+    {
+      "title": "「RSA-260」ついに解けた Xに“130ケタの数字”投稿、世界が注目 マスク氏「文字数増やしてよかった」",
+      "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001157/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-04T03:47:45+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 11.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Bitcoin just broke US$81,000: The real reason is not what you think",
+      "url": "https://e27.co/bitcoin-just-broke-us81000-the-real-reason-is-not-what-you-think-20260904/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-04T03:37:26+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 11.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
     },
     {
       "title": "M 5.0 - 236 km ESE of Attu Station, Alaska",
@@ -535,31 +635,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 77.5d old signal"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "松本大臣記者会見（令和8年9月4日）動画を掲載しました",
-      "url": "https://www.digital.go.jp/speech/minister-260904-01",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-09-04T03:24:43+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
+        "aging penalty -8.0 for 77.6d old signal"
       ],
       "summary": ""
     },
@@ -568,7 +644,7 @@
       "url": "https://e27.co/the-yellow-flag-problem-most-risk-functions-fail-at-culture-before-they-fail-at-technique-20260903/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T01:11:32+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -594,7 +670,7 @@
       "url": "https://www.digital.go.jp/speech/minister-260904-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-04T03:20:57+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "general"
       ],
@@ -637,6 +713,30 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "はじめに こんにちは、WEAR開発部Webブロックの吉田です。普段はWEARの新機能開発や運用改善を担当しています。 Webブロックでは、異動によりメンバーが減ったことで、開発ワークフローのさまざまな工程で効率化が求められていました。本記事では、AIエージェントとGitHub Actionsによるワークフローの改善を取り入れ、..."
+    },
+    {
+      "title": "「RSA-260」ついに解けた Xに“130ケタの数字”投稿、世界が注目 マスク氏「文字数増やしてよかった」",
+      "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001157/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-04T01:45:25+00:00",
+      "age_days": 0.09,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "35年間未解決だった「RSA-260」の素因数分解に成功した――Xに130ケタの数と「divides RSA-260」（RSA-260を割り切る）の一言だけを添えた9月3日付の投稿に、世界中から注目が集まっている。 論文や記者会見ではなく、Xの1つのポストで、第三者も検証可能な形で発表されたことに世界中から称賛が上がった。Xオーナーのイー..."
     },
     {
       "title": "「おっぱい」の話ができるSNSと、できないSNS",
@@ -691,7 +791,7 @@
       "url": "https://www.publickey1.jp/blog/26/webgitclivimwebterm_learn.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T18:13:28+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "general"
       ],
@@ -715,7 +815,7 @@
       "url": "https://e27.co/the-ai-wrapper-reckoning-has-reached-seas-funding-tables-20260903/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T01:30:15+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -765,7 +865,7 @@
       "url": "https://github.com/humanlayer/skills/blob/main/plugins/show-me/skills/show-me/SKILL.md",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-14T12:19:54+00:00",
-      "age_days": 20.64,
+      "age_days": 20.65,
       "topics": [
         "ai"
       ],
@@ -791,7 +891,7 @@
       "url": "https://e27.co/the-yellow-flag-problem-most-risk-functions-fail-at-culture-before-they-fail-at-technique-20260903/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-04T01:00:11+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
