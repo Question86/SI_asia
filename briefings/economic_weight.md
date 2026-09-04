@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-09-04T03:55:33+00:00`
+Generated: `2026-09-04T04:09:17+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -19,6 +19,7 @@ Generated: `2026-09-04T03:55:33+00:00`
 | チームの人数が減っても仕事を回す ── AIとGitHub Actionsによる開発ワークフロー改善 - ZOZO TECH BLOG | regulation | $11.44M | $1.14B | $114.40B | 0.31 |
 | GitHub Actions: Early September 2026 updates | regulation | $11.36M | $1.14B | $113.60B | 0.31 |
 | The AI marketing backlash story doesn’t actually fit Southeast Asia | regulation | $11.20M | $1.12B | $112.00B | 0.31 |
+| The decision discipline: How to turn insights into action | regulation | $11.20M | $1.12B | $112.00B | 0.31 |
 | M 5.1 - Owen Fracture Zone region | regulation, natural_disaster | $11.12M | $1.11B | $111.20B | 0.33 |
 | The factories are coming. Southeast Asia’s real race is to build what surrounds them | regulation | $11.04M | $1.10B | $110.40B | 0.31 |
 | Southeast Asia’s quiet FDI manufacturing redistribution | regulation | $10.88M | $1.09B | $108.80B | 0.31 |
@@ -30,7 +31,6 @@ Generated: `2026-09-04T03:55:33+00:00`
 | M 4.8 - 110 km E of Miyako, Japan | natural_disaster | $1.16M | $116.00M | $11.60B | 0.33 |
 | M 4.9 - 13 km SSE of Union, Philippines | natural_disaster | $1.16M | $116.00M | $11.60B | 0.33 |
 | M 4.8 - 57 km N of Ende, Indonesia | natural_disaster | $1.16M | $116.00M | $11.60B | 0.33 |
-| M 4.8 - 29 km ENE of Pilar, Philippines | natural_disaster | $1.16M | $116.00M | $11.60B | 0.33 |
 
 ## Interpretation
 
