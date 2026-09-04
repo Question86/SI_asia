@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T09:34:53+00:00",
-  "run_id": "2026-09-04T09:34:53+00:00",
+  "generated_at": "2026-09-04T09:45:21+00:00",
+  "run_id": "2026-09-04T09:45:21+00:00",
   "date": "2026-09-04",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 38
+      "configured_public_sources_only": 39
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 38,
-    "displayed_findings": 38,
+    "new_relevant_findings": 1,
+    "today_file_total": 39,
+    "displayed_findings": 39,
     "high": 0,
     "medium": 9,
-    "observe": 29,
+    "observe": 30,
     "source_errors": 0
   },
   "sections": {
@@ -562,6 +562,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "760120d59db037a0c066"
+      },
+      {
+        "title": "Root-Attacken auf Nexus-9000-Switches von Cisco möglich",
+        "url": "https://www.heise.de/news/Root-Attacken-auf-Nexus-9000-Switches-von-Cisco-moeglich-11441090.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-09-04T09:28:00.000+00:00",
+        "fetched_at": "2026-09-04T09:44:50+00:00",
+        "summary": "IP-Telefone, Switches und Secure Email von Cisco sind angreifbar. Sicherheitspatches schließen zum Teil kritische Sicherheitslücken.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7963fd39083a878abd1a"
       },
       {
         "title": "Version 1.0: Deutsche Institutionen über TerminalFix-Kampagne kompromittiert",
@@ -1471,6 +1491,26 @@
       "id": "760120d59db037a0c066"
     },
     {
+      "title": "Root-Attacken auf Nexus-9000-Switches von Cisco möglich",
+      "url": "https://www.heise.de/news/Root-Attacken-auf-Nexus-9000-Switches-von-Cisco-moeglich-11441090.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-09-04T09:28:00.000+00:00",
+      "fetched_at": "2026-09-04T09:44:50+00:00",
+      "summary": "IP-Telefone, Switches und Secure Email von Cisco sind angreifbar. Sicherheitspatches schließen zum Teil kritische Sicherheitslücken.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7963fd39083a878abd1a"
+    },
+    {
       "title": "Version 1.0: Deutsche Institutionen über TerminalFix-Kampagne kompromittiert",
       "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-287419-1032_bits.html",
       "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
@@ -1843,7 +1883,28 @@
       "id": "9faaa3362fbe21fa6121"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Root-Attacken auf Nexus-9000-Switches von Cisco möglich",
+      "url": "https://www.heise.de/news/Root-Attacken-auf-Nexus-9000-Switches-von-Cisco-moeglich-11441090.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-09-04T09:28:00.000+00:00",
+      "fetched_at": "2026-09-04T09:44:50+00:00",
+      "summary": "IP-Telefone, Switches und Secure Email von Cisco sind angreifbar. Sicherheitspatches schließen zum Teil kritische Sicherheitslücken.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7963fd39083a878abd1a"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

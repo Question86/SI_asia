@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T09:34:58+00:00",
-  "today_file_total": 38,
+  "generated_at": "2026-09-04T09:45:25+00:00",
+  "today_file_total": 39,
   "current_clusters": [
     {
       "key": "title:human-creativity-chatgpt-canvas-bridges-gap",
@@ -208,6 +208,30 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 15.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:www.heise.de",
+      "title": "Root-Attacken auf Nexus-9000-Switches von Cisco möglich",
+      "sources": [
+        "heise Security Alerts"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.heise.de/news/Root-Attacken-auf-Nexus-9000-Switches-von-Cisco-moeglich-11441090.html",
+        "https://www.heise.de/news/Jetzt-patchen-Angreifer-fuehren-Schadcode-in-der-Sandbox-von-Chrome-aus-11441030.html"
+      ],
+      "finding_count": 2,
+      "max_score": 7,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 14.2,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
@@ -444,29 +468,6 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 11.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:ecosystem-roundup-governance-southeast-asia-venture-currency",
-      "title": "Ecosystem Roundup: Governance is Southeast Asia’s new venture currency",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/ecosystem-roundup-governance-is-southeast-asias-new-venture-currency-20260904/"
-      ],
-      "finding_count": 1,
-      "max_score": 8,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 10.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
