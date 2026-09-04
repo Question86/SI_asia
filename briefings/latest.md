@@ -1,18 +1,14 @@
 # Senna Briefing
 
-_Generiert: 2026-09-04T03:24:41+00:00_
+_Generiert: 2026-09-04T03:37:22+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月03日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+16 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月03日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
-- **USGS earthquake M5.0 - 236 km ESE of Attu Station, Alaska** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000te7l)
-  - Quelle: USGS
-  - Zeit: `2026-09-04T02:28:38+00:00`
-  - Kurz: M5.0 - 236 km ESE of Attu Station, Alaska. PAGER alert: none. Tsunami flag: 1.
 - **USGS earthquake M6.3 - 84 km SSW of Nikolski, Alaska** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdvt)
   - Quelle: USGS
   - Zeit: `2026-09-03T11:17:24+00:00`
@@ -165,6 +161,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: ShakeMap - III Time 2026-09-04 02:28:38 UTC 2026-09-04 02:28:38 UTC at epicenter Location 51.956°N 176.348°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Bitcoin just broke US$81,000: The real reason is not what you think** — Score 7, observation — [Quelle](https://e27.co/bitcoin-just-broke-us81000-the-real-reason-is-not-what-you-think-20260904/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-04T03:26:53+00:00`, fetched `2026-09-04T03:36:46+00:00`
+  - Treffer: APAC Trend Radar, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Bitcoin climbed 5.08 per cent over 24 hours to US$81,106.29, outpacing the broader crypto market’s 4.83 per cent advance to a US$2.72 trillion total capitalisation. The move did not happen in a vacuum. Bitcoin now trades with a 97 per cent correlation to the S&P 500 and an 86 per cent correlation to gold. Those […] The post Bitcoin just broke US$81,000: The real reason is not what you think appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **松本大臣記者会見（令和8年9月4日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-260904-01)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-09-04T03:20:57+00:00`, fetched `2026-09-04T03:24:12+00:00`
@@ -173,15 +178,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 松本大臣記者会見（令和8年9月4日）動画を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The yellow flag problem: Most risk functions fail at culture before they fail at technique** — Score 6, observation — [Quelle](https://e27.co/the-yellow-flag-problem-most-risk-functions-fail-at-culture-before-they-fail-at-technique-20260903/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-04T01:00:11+00:00`, fetched `2026-09-04T01:10:57+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)
-  - Kurz: In the second year of my country risk role at an Indonesian insurer, I sat in a senior management meeting where a proposed product was on the table. The credit risk was material, the operational risk was novel, and the regulatory positioning was ambiguous. I raised three specific concerns. The chief executive listened, nodded, thanked […] The post The yellow flag problem: Most risk functions fail at culture before t…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
