@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-04T20:26:28+00:00_
+_Generiert: 2026-09-04T20:36:48+00:00_
 
 ## Kurzlage
 
-78 neue relevante Treffer. Stärkstes Signal: „AI and human creativity: How ChatGPT Canvas bridges the gap“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
+79 neue relevante Treffer. Stärkstes Signal: „AI and human creativity: How ChatGPT Canvas bridges the gap“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -89,6 +89,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+7.5); AI/KI (+3.8); APAC Trend Radar (+3.0); Content-Chance (+5.0); recent (+1.0)
   - Kurz: In the world of AI-powered content creation, ChatGPT Canvas is a game-changer. Unlike traditional ChatGPT interactions, where multiple prompts and re-prompts are necessary to fine-tune content, ChatGPT Canvas introduces a new, interactive interface that allows direct text manipulation, structured editing, and enhanced formatting options. This guide explores the benefits, key features, and practical applications of […
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **GPT-6 Astra is generally available in GitHub Copilot** — Score 18, observation — [Quelle](https://github.blog/changelog/2026-09-04-gpt-6-astra-is-generally-available-in-github-copilot)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-09-04T18:59:51+00:00`, fetched `2026-09-04T20:36:18+00:00`
+  - Treffer: AI Agents, Copilot, GitHub, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); AI Agents (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
+  - Kurz: GPT-6 Astra from OpenAI is now available in GitHub Copilot. OpenAI’s latest general-purpose model, GPT-6 Astra, is designed for long-horizon, autonomous coding and agentic tasks. In our internal testing, GPT-6… The post GPT-6 Astra is generally available in GitHub Copilot appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1008)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
