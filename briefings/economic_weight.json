@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-04T02:44:34+00:00",
+  "generated_at": "2026-09-04T02:53:07+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -193,7 +193,7 @@
       "p90_usd": 114400000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-04T01:50:38+00:00",
-      "last_seen_at": "2026-09-04T02:44:16+00:00",
+      "last_seen_at": "2026-09-04T02:52:49+00:00",
       "status": "active"
     },
     {
@@ -742,6 +742,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_780ca253652843412cbf",
+      "title": "M 5.0 - 236 km ESE of Attu Station, Alaska",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1128000.0,
+      "p50_usd": 112800000.0,
+      "p90_usd": 11280000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-04T02:44:16+00:00",
+      "last_seen_at": "2026-09-04T02:52:49+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_81d7388e9d0346587de2",
       "title": "M 4.9 - 193 km SE of Perryville, Alaska",
       "event_classes": [
@@ -978,23 +995,6 @@
       "first_seen_at": "2026-08-29T11:40:09+00:00",
       "last_seen_at": "2026-08-29T23:58:25+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_780ca253652843412cbf",
-      "title": "M 5.0 - 236 km ESE of Attu Station, Alaska",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1128000.0,
-      "p50_usd": 112800000.0,
-      "p90_usd": 11280000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-09-04T02:44:16+00:00",
-      "last_seen_at": "2026-09-04T02:44:16+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_058a0e17878f3797ed5c",
@@ -1350,7 +1350,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-04T02:44:16+00:00",
+      "last_seen_at": "2026-09-04T02:52:49+00:00",
       "status": "active"
     },
     {
@@ -1503,7 +1503,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-04T01:50:38+00:00",
-      "last_seen_at": "2026-09-04T02:44:16+00:00",
+      "last_seen_at": "2026-09-04T02:52:49+00:00",
       "status": "active"
     },
     {
@@ -1537,7 +1537,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-04T01:50:38+00:00",
-      "last_seen_at": "2026-09-04T02:44:16+00:00",
+      "last_seen_at": "2026-09-04T02:52:49+00:00",
       "status": "active"
     },
     {
@@ -1588,7 +1588,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-04T01:50:38+00:00",
-      "last_seen_at": "2026-09-04T02:44:16+00:00",
+      "last_seen_at": "2026-09-04T02:52:49+00:00",
       "status": "active"
     },
     {
@@ -2268,7 +2268,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-04T00:53:25+00:00",
-      "last_seen_at": "2026-09-04T02:44:16+00:00",
+      "last_seen_at": "2026-09-04T02:52:49+00:00",
       "status": "active"
     },
     {
@@ -2336,7 +2336,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-04T01:11:32+00:00",
-      "last_seen_at": "2026-09-04T02:44:16+00:00",
+      "last_seen_at": "2026-09-04T02:52:49+00:00",
       "status": "active"
     },
     {
@@ -2387,7 +2387,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-04T01:50:38+00:00",
-      "last_seen_at": "2026-09-04T02:44:16+00:00",
+      "last_seen_at": "2026-09-04T02:52:49+00:00",
       "status": "active"
     },
     {
@@ -3356,7 +3356,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-04T01:11:32+00:00",
-      "last_seen_at": "2026-09-04T02:44:16+00:00",
+      "last_seen_at": "2026-09-04T02:52:49+00:00",
       "status": "active"
     },
     {
@@ -3798,7 +3798,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-04T02:28:18+00:00",
-      "last_seen_at": "2026-09-04T02:44:16+00:00",
+      "last_seen_at": "2026-09-04T02:52:49+00:00",
       "status": "active"
     },
     {
@@ -3968,7 +3968,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-04T01:58:26+00:00",
-      "last_seen_at": "2026-09-04T02:44:16+00:00",
+      "last_seen_at": "2026-09-04T02:52:49+00:00",
       "status": "active"
     },
     {
@@ -4138,7 +4138,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-04T02:28:18+00:00",
-      "last_seen_at": "2026-09-04T02:44:16+00:00",
+      "last_seen_at": "2026-09-04T02:52:49+00:00",
       "status": "active"
     },
     {
