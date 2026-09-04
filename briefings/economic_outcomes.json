@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-04T09:46:00+00:00",
+  "generated_at": "2026-09-04T09:53:31+00:00",
   "events": [
     {
       "event_id": "evt_04c8c9515e6d6caa68b7",
@@ -704,7 +704,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_43d91c6b0a97611c8e6c",
@@ -1642,6 +1642,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_8afee7943b6e0258f840",
+      "title": "OpenAI’s Astra aims to turn AI from chatbot into digital worker",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_8c7c3f3ea645209ebeb4",
       "title": "M 5.4 - 21 km WNW of Jiangyou, China",
       "deduplicated_buckets": 0,
@@ -1848,7 +1859,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_9a2361687c9a12c7708c",
@@ -2046,7 +2057,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a9168860075ad99c5a0d",
