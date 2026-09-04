@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-04T09:45:21+00:00_
+_Generated: 2026-09-04T09:52:55+00:00_
 
 ## Status
 - status: `normal`
-- findings: `39`
+- findings: `41`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-09-04T09:45:21+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3152
 - summary: Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder nicht näher beschriebene Auswirkungen zu erzielen.
 
-### 4. M 5.2 - 28 km S of Cilacap, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
+### 4. OpenAI’s Astra aims to turn AI from chatbot into digital worker
+- source: e27 Asia Startup and Tech Feed
 - score: `15`
-- published: `2026-09-04T05:24:21.871+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000te82
-- summary: DYFI? - IV Time 2026-09-04 05:04:54 UTC 2026-09-04 05:04:54 UTC at epicenter Location 7.987°S 109.041°E Depth 10.00 km (6.21 mi)
+- published: `2026-09-04T09:49:04+00:00`
+- url: https://e27.co/openais-astra-aims-to-turn-ai-from-chatbot-into-digital-worker-20260904/
+- summary: OpenAI has launched GPT-6 Astra, its newest flagship model, pitching it as a step-change in artificial intelligence systems that can not only answer questions, but also operate software, browse the web, write code, analyse data, and complete multi-step profes…
 
 ### 5. チームの人数が減っても仕事を回す ── AIとGitHub Actionsによる開発ワークフロー改善 - ZOZO TECH BLOG
 - source: Hatena Bookmark Hotentry IT
