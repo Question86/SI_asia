@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T10:50:54+00:00",
-  "run_id": "2026-09-04T10:50:54+00:00",
+  "generated_at": "2026-09-04T10:58:30+00:00",
+  "run_id": "2026-09-04T10:58:30+00:00",
   "date": "2026-09-04",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 45
+      "configured_public_sources_only": 46
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 45,
-    "displayed_findings": 45,
+    "new_relevant_findings": 1,
+    "today_file_total": 46,
+    "displayed_findings": 46,
     "high": 0,
     "medium": 12,
-    "observe": 33,
+    "observe": 34,
     "source_errors": 0
   },
   "sections": {
@@ -898,6 +898,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "66d817179085a879fd5e"
+      },
+      {
+        "title": "生成AIで作成された古謝玄太に対する応援ポスターは共産党支持者の自作自演ではないよ - 電脳塵芥",
+        "url": "https://nou-yunyun.hatenablog.com/entry/2026/09/04/140000",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-04T05:47:33+00:00",
+        "fetched_at": "2026-09-04T10:58:00+00:00",
+        "summary": "https://x.com/Only1Yori/status/2093633519801258278 「川上芳明 #日本共産党推し@Only1Yori」というアカウントが投稿した古謝玄太応援ポスターという投稿が拡散してて、ただこの投稿自体には「ソース」が提示されていないという欠点があった。そしたら「NewsNews.Today@newsnews_today」というアカウントがGrokが「こ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e076a448d5bea9bfd317"
       },
       {
         "title": "いいかげんJRPGは「戦闘システム」から脱却しろよ",
@@ -1959,6 +1980,27 @@
       "id": "66d817179085a879fd5e"
     },
     {
+      "title": "生成AIで作成された古謝玄太に対する応援ポスターは共産党支持者の自作自演ではないよ - 電脳塵芥",
+      "url": "https://nou-yunyun.hatenablog.com/entry/2026/09/04/140000",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-04T05:47:33+00:00",
+      "fetched_at": "2026-09-04T10:58:00+00:00",
+      "summary": "https://x.com/Only1Yori/status/2093633519801258278 「川上芳明 #日本共産党推し@Only1Yori」というアカウントが投稿した古謝玄太応援ポスターという投稿が拡散してて、ただこの投稿自体には「ソース」が提示されていないという欠点があった。そしたら「NewsNews.Today@newsnews_today」というアカウントがGrokが「こ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e076a448d5bea9bfd317"
+    },
+    {
       "title": "いいかげんJRPGは「戦闘システム」から脱却しろよ",
       "url": "https://anond.hatelabo.jp/20260904132526",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2147,7 +2189,29 @@
       "id": "9faaa3362fbe21fa6121"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "生成AIで作成された古謝玄太に対する応援ポスターは共産党支持者の自作自演ではないよ - 電脳塵芥",
+      "url": "https://nou-yunyun.hatenablog.com/entry/2026/09/04/140000",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-04T05:47:33+00:00",
+      "fetched_at": "2026-09-04T10:58:00+00:00",
+      "summary": "https://x.com/Only1Yori/status/2093633519801258278 「川上芳明 #日本共産党推し@Only1Yori」というアカウントが投稿した古謝玄太応援ポスターという投稿が拡散してて、ただこの投稿自体には「ソース」が提示されていないという欠点があった。そしたら「NewsNews.Today@newsnews_today」というアカウントがGrokが「こ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e076a448d5bea9bfd317"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
