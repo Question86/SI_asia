@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-04T20:27:05+00:00",
+  "generated_at": "2026-09-04T20:37:28+00:00",
   "events": [
     {
       "event_id": "evt_04c8c9515e6d6caa68b7",
@@ -88,7 +88,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_088bfa5231048a3752af",
@@ -1386,6 +1386,17 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
+      "status": "active"
+    },
+    {
+      "event_id": "evt_734158952ce25236a5e2",
+      "title": "GPT-6 Astra is generally available in GitHub Copilot",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "status": "active"
     },
     {

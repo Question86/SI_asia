@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-09-04T20:27:05+00:00`
+Generated: `2026-09-04T20:37:28+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -11,7 +11,7 @@ Generated: `2026-09-04T20:27:05+00:00`
 | 「三省堂書店池袋本店」閉店へ 11年の歴史に幕、惜しむ声続々 | $0 | — | 0 | 0 | dormant |
 | M 5.8 - Kermadec Islands, New Zealand | $0 | — | 0 | 0 | dormant |
 | AWSをゲームで学べる「AWS Cloud Quest」に新バージョン「AWS Cloud Quest 2.0」登場！ AIによるバーチャル顧客と対話し、要件を聞き出して正しくソリューションに落とし込め | $0 | — | 0 | 0 | dormant |
-| New API endpoint provides privacy-safe star history data | $0 | — | 0 | 0 | active |
+| New API endpoint provides privacy-safe star history data | $0 | — | 0 | 0 | dormant |
 | JetBrains/go-modern-guidelines | $0 | — | 0 | 0 | dormant |
 | M 5.6 - 82 km SE of Maba, Indonesia | $0 | — | 0 | 0 | dormant |
 | Zabbix agentにおけるDLL読み込みに関する脆弱性 | $0 | — | 0 | 0 | dormant |
