@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-04T01:50:38+00:00",
+  "generated_at": "2026-09-04T01:58:26+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -2725,7 +2725,7 @@
     },
     "title:cisa-ics-advisory-ics-medical-advisory-2026": {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月03日）",
-      "updated_at": "2026-09-04T01:50:38+00:00",
+      "updated_at": "2026-09-04T01:58:26+00:00",
       "network_scores": [
         18.1,
         18.1,
@@ -2755,13 +2755,13 @@
         18.1,
         18.1,
         18.1,
-        18.1,
-        21.1
+        21.1,
+        18.1
       ],
       "rolling_average": 18.2,
       "rolling_peak": 21.1,
-      "last_score": 21.1,
-      "z_hint": 2.9
+      "last_score": 18.1,
+      "z_hint": -0.1
     },
     "github_repo:universal-debloater-alliance/universal-android-debloater-next-generation": {
       "title": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
@@ -16459,7 +16459,21 @@
     },
     "github_repo:humanlayer/skills": {
       "title": "skills/plugins/show-me/skills/show-me/SKILL.md at main · humanlayer/skills",
-      "updated_at": "2026-09-04T01:50:38+00:00",
+      "updated_at": "2026-09-04T01:58:26+00:00",
+      "network_scores": [
+        17.1,
+        14.1,
+        14.1,
+        14.1
+      ],
+      "rolling_average": 14.85,
+      "rolling_peak": 17.1,
+      "last_score": 14.1,
+      "z_hint": -0.75
+    },
+    "title:openai-gpt-astra": {
+      "title": "OpenAI、次世代モデル「GPT-6 Astra」を発表 ～「PCでできることは、すべて代行できる」／科学研究、ビジネス業務、高度な数学、コンピューター操作などの分野で新境地を拓く",
+      "updated_at": "2026-09-04T01:58:26+00:00",
       "network_scores": [
         17.1,
         14.1,
@@ -16470,9 +16484,58 @@
       "last_score": 14.1,
       "z_hint": -1.0
     },
-    "title:openai-gpt-astra": {
-      "title": "OpenAI、次世代モデル「GPT-6 Astra」を発表 ～「PCでできることは、すべて代行できる」／科学研究、ビジネス業務、高度な数学、コンピューター操作などの分野で新境地を拓く",
-      "updated_at": "2026-09-04T01:50:38+00:00",
+    "title:yellow-flag-problem-most-risk-functions-fail-culture": {
+      "title": "The yellow flag problem: Most risk functions fail at culture before they fail at technique",
+      "updated_at": "2026-09-04T01:58:26+00:00",
+      "network_scores": [
+        11.1,
+        8.1,
+        8.1
+      ],
+      "rolling_average": 9.1,
+      "rolling_peak": 11.1,
+      "last_score": 8.1,
+      "z_hint": -1.0
+    },
+    "title:casdoor": {
+      "title": "Casdoorにおける認可回避の脆弱性",
+      "updated_at": "2026-09-04T01:58:26+00:00",
+      "network_scores": [
+        19.1,
+        16.1
+      ],
+      "rolling_average": 17.6,
+      "rolling_peak": 19.1,
+      "last_score": 16.1,
+      "z_hint": -1.5
+    },
+    "title:siemens-2026": {
+      "title": "Siemens製品に対するアップデート（2026年9月）",
+      "updated_at": "2026-09-04T01:58:26+00:00",
+      "network_scores": [
+        19.1,
+        16.1
+      ],
+      "rolling_average": 17.6,
+      "rolling_peak": 19.1,
+      "last_score": 16.1,
+      "z_hint": -1.5
+    },
+    "domain:techblog.zozo.com": {
+      "title": "チームの人数が減っても仕事を回す ── AIとGitHub Actionsによる開発ワークフロー改善 - ZOZO TECH BLOG",
+      "updated_at": "2026-09-04T01:58:26+00:00",
+      "network_scores": [
+        18.1,
+        15.1
+      ],
+      "rolling_average": 16.6,
+      "rolling_peak": 18.1,
+      "last_score": 15.1,
+      "z_hint": -1.5
+    },
+    "title:podular-future-why-demands-organisational-architecture": {
+      "title": "The Podular future: Why AI demands a new organisational architecture",
+      "updated_at": "2026-09-04T01:58:26+00:00",
       "network_scores": [
         17.1,
         14.1
@@ -16482,71 +16545,27 @@
       "last_score": 14.1,
       "z_hint": -1.5
     },
-    "title:yellow-flag-problem-most-risk-functions-fail-culture": {
-      "title": "The yellow flag problem: Most risk functions fail at culture before they fail at technique",
-      "updated_at": "2026-09-04T01:50:38+00:00",
-      "network_scores": [
-        11.1,
-        8.1
-      ],
-      "rolling_average": 9.6,
-      "rolling_peak": 11.1,
-      "last_score": 8.1,
-      "z_hint": -1.5
-    },
-    "title:casdoor": {
-      "title": "Casdoorにおける認可回避の脆弱性",
-      "updated_at": "2026-09-04T01:50:38+00:00",
-      "network_scores": [
-        19.1
-      ],
-      "rolling_average": 19.1,
-      "rolling_peak": 19.1,
-      "last_score": 19.1,
-      "z_hint": 0.0
-    },
-    "title:siemens-2026": {
-      "title": "Siemens製品に対するアップデート（2026年9月）",
-      "updated_at": "2026-09-04T01:50:38+00:00",
-      "network_scores": [
-        19.1
-      ],
-      "rolling_average": 19.1,
-      "rolling_peak": 19.1,
-      "last_score": 19.1,
-      "z_hint": 0.0
-    },
-    "domain:techblog.zozo.com": {
-      "title": "チームの人数が減っても仕事を回す ── AIとGitHub Actionsによる開発ワークフロー改善 - ZOZO TECH BLOG",
-      "updated_at": "2026-09-04T01:50:38+00:00",
-      "network_scores": [
-        18.1
-      ],
-      "rolling_average": 18.1,
-      "rolling_peak": 18.1,
-      "last_score": 18.1,
-      "z_hint": 0.0
-    },
-    "title:podular-future-why-demands-organisational-architecture": {
-      "title": "The Podular future: Why AI demands a new organisational architecture",
-      "updated_at": "2026-09-04T01:50:38+00:00",
-      "network_scores": [
-        17.1
-      ],
-      "rolling_average": 17.1,
-      "rolling_peak": 17.1,
-      "last_score": 17.1,
-      "z_hint": 0.0
-    },
     "title:wrapper-reckoning-has-reached-sea-funding-tables": {
       "title": "The AI wrapper reckoning has reached SEA’s funding tables",
-      "updated_at": "2026-09-04T01:50:38+00:00",
+      "updated_at": "2026-09-04T01:58:26+00:00",
       "network_scores": [
-        17.1
+        17.1,
+        14.1
       ],
-      "rolling_average": 17.1,
+      "rolling_average": 15.6,
       "rolling_peak": 17.1,
-      "last_score": 17.1,
+      "last_score": 14.1,
+      "z_hint": -1.5
+    },
+    "title:web-git-cli-vim-webterm-learn": {
+      "title": "Webブラウザ上でターミナルのシミュレータを実行、GitやCLI、Vimなどを無料で学べる「WebTerm Learn」が公開",
+      "updated_at": "2026-09-04T01:58:26+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
       "z_hint": 0.0
     }
   }

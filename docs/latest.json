@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T01:50:35+00:00",
-  "run_id": "2026-09-04T01:50:35+00:00",
+  "generated_at": "2026-09-04T01:58:22+00:00",
+  "run_id": "2026-09-04T01:58:22+00:00",
   "date": "2026-09-04",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 9
+      "configured_public_sources_only": 10
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 6,
-    "today_file_total": 9,
-    "displayed_findings": 9,
+    "new_relevant_findings": 1,
+    "today_file_total": 10,
+    "displayed_findings": 10,
     "high": 0,
     "medium": 3,
-    "observe": 6,
+    "observe": 7,
     "source_errors": 0
   },
   "sections": {
@@ -230,6 +230,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "66d817179085a879fd5e"
+      },
+      {
+        "title": "Webブラウザ上でターミナルのシミュレータを実行、GitやCLI、Vimなどを無料で学べる「WebTerm Learn」が公開",
+        "url": "https://www.publickey1.jp/blog/26/webgitclivimwebterm_learn.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-03T18:13:28+00:00",
+        "fetched_at": "2026-09-04T01:57:47+00:00",
+        "summary": "Webブラウザ上でまるで本物のように振る舞うターミナルのシミュレータを実行し、そこでGitやLinuxのコマンドライン、Vimなどの操作を無料で学べる学習プラットフォーム「WebTerm Learn」を、株式会社initが公開しました。 WebTerm Learnの入口は上記画面のようにゲーム仕立てになっており、進路によってGitやターミナル...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e2299f3e16f77b8134fd"
       }
     ]
   },
@@ -433,143 +454,50 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "66d817179085a879fd5e"
+    },
+    {
+      "title": "Webブラウザ上でターミナルのシミュレータを実行、GitやCLI、Vimなどを無料で学べる「WebTerm Learn」が公開",
+      "url": "https://www.publickey1.jp/blog/26/webgitclivimwebterm_learn.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-03T18:13:28+00:00",
+      "fetched_at": "2026-09-04T01:57:47+00:00",
+      "summary": "Webブラウザ上でまるで本物のように振る舞うターミナルのシミュレータを実行し、そこでGitやLinuxのコマンドライン、Vimなどの操作を無料で学べる学習プラットフォーム「WebTerm Learn」を、株式会社initが公開しました。 WebTerm Learnの入口は上記画面のようにゲーム仕立てになっており、進路によってGitやターミナル...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e2299f3e16f77b8134fd"
     }
   ],
   "new_findings": [
     {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月03日）",
-      "url": "https://jvn.jp/vu/JVNVU94249914/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-09-04T10:15:30+09:00",
-      "fetched_at": "2026-09-04T01:50:06+00:00",
-      "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
-      "matched_keywords": [
-        "advisory",
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1387e1fde70661f3f1fe"
-    },
-    {
-      "title": "Casdoorにおける認可回避の脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU96680494/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-09-04T10:15:15+09:00",
-      "fetched_at": "2026-09-04T01:50:06+00:00",
-      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "41e015451917ff3b4820"
-    },
-    {
-      "title": "Siemens製品に対するアップデート（2026年9月）",
-      "url": "https://jvn.jp/vu/JVNVU97027767/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-09-04T10:15:00+09:00",
-      "fetched_at": "2026-09-04T01:50:06+00:00",
-      "summary": "Siemensから各製品向けのアドバイザリが公表されました。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "480a58363116d6814252"
-    },
-    {
-      "title": "チームの人数が減っても仕事を回す ── AIとGitHub Actionsによる開発ワークフロー改善 - ZOZO TECH BLOG",
-      "url": "https://techblog.zozo.com/entry/wear-web-fe-adjust-workflow",
+      "title": "Webブラウザ上でターミナルのシミュレータを実行、GitやCLI、Vimなどを無料で学べる「WebTerm Learn」が公開",
+      "url": "https://www.publickey1.jp/blog/26/webgitclivimwebterm_learn.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-01T14:04:25+00:00",
-      "fetched_at": "2026-09-04T01:50:06+00:00",
-      "summary": "はじめに こんにちは、WEAR開発部Webブロックの吉田です。普段はWEARの新機能開発や運用改善を担当しています。 Webブロックでは、異動によりメンバーが減ったことで、開発ワークフローのさまざまな工程で効率化が求められていました。本記事では、AIエージェントとGitHub Actionsによるワークフローの改善を取り入れ、...",
+      "published_at": "2026-09-03T18:13:28+00:00",
+      "fetched_at": "2026-09-04T01:57:47+00:00",
+      "summary": "Webブラウザ上でまるで本物のように振る舞うターミナルのシミュレータを実行し、そこでGitやLinuxのコマンドライン、Vimなどの操作を無料で学べる学習プラットフォーム「WebTerm Learn」を、株式会社initが公開しました。 WebTerm Learnの入口は上記画面のようにゲーム仕立てになっており、進路によってGitやターミナル...",
       "matched_keywords": [
-        "GitHub",
-        "GitHub Actions",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 13,
-      "relevance_reason": "GitHub Actions (+6.2); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "e50c9ce64c4936f22e0e"
-    },
-    {
-      "title": "The Podular future: Why AI demands a new organisational architecture",
-      "url": "https://e27.co/the-podular-future-why-ai-demands-a-new-organisational-architecture-20260903/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-04T01:30:49+00:00",
-      "fetched_at": "2026-09-04T01:50:06+00:00",
-      "summary": "Over the past year, I have become increasingly convinced that most people are looking at AI through the wrong lens. The dominant conversation is still about tools, productivity, automation, and replacement. But I think the deeper shift is structural. AI is not just changing how work gets done. It is changing what kind of organisational […] The post The Podular future: Why AI demands a new organisational architecture…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Automatisierung"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "AI/KI (+3.8); Automatisierung (+4.0); APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c4b23ec607c63a1ec4e7"
-    },
-    {
-      "title": "The AI wrapper reckoning has reached SEA’s funding tables",
-      "url": "https://e27.co/the-ai-wrapper-reckoning-has-reached-seas-funding-tables-20260903/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-04T01:30:15+00:00",
-      "fetched_at": "2026-09-04T01:50:06+00:00",
-      "summary": "Southeast Asia’s Native AI companies raised US$4.1 billion in the first seven months of 2026, more than double 2025’s full-year total, according to Tracxn’s Southeast Asia AI Startup Landscape report. On a headline chart, that looks like a region riding the same AI wave as everyone else. Strip out a single transaction and the picture […] The post The AI wrapper reckoning has reached SEA’s funding tables appeared fir…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "funding",
-        "Southeast Asia"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); funding (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "09ea20758e70bfa2a9bb"
+      "id": "e2299f3e16f77b8134fd"
     }
   ],
   "source_errors": [],
