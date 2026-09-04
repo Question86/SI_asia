@@ -1,19 +1,79 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-04T01:11:28+00:00",
+  "generated_at": "2026-09-04T01:50:35+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 3,
-    "displayed_findings": 3,
+    "new_relevant_findings": 6,
+    "today_file_total": 9,
+    "displayed_findings": 9,
     "high": 0,
-    "medium": 0,
-    "observe": 3
+    "medium": 3,
+    "observe": 6
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月03日）",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-09-04T10:15:30+09:00",
+      "relevance_score": 16,
+      "url": "https://jvn.jp/vu/JVNVU94249914/",
+      "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
+      "section": "medium"
+    },
+    {
+      "title": "Casdoorにおける認可回避の脆弱性",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-09-04T10:15:15+09:00",
+      "relevance_score": 14,
+      "url": "https://jvn.jp/vu/JVNVU96680494/",
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+      "section": "medium"
+    },
+    {
+      "title": "Siemens製品に対するアップデート（2026年9月）",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-09-04T10:15:00+09:00",
+      "relevance_score": 14,
+      "url": "https://jvn.jp/vu/JVNVU97027767/",
+      "summary": "Siemensから各製品向けのアドバイザリが公表されました。",
+      "section": "medium"
+    },
+    {
+      "title": "チームの人数が減っても仕事を回す ── AIとGitHub Actionsによる開発ワークフロー改善 - ZOZO TECH BLOG",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-01T14:04:25+00:00",
+      "relevance_score": 13,
+      "url": "https://techblog.zozo.com/entry/wear-web-fe-adjust-workflow",
+      "summary": "はじめに こんにちは、WEAR開発部Webブロックの吉田です。普段はWEARの新機能開発や運用改善を担当しています。 Webブロックでは、異動によりメンバーが減ったことで、開発ワークフローのさまざまな工程で効率化が求められていました。本記事では、AIエージェントとGitHub Actionsによるワークフローの改善を取り入れ、...",
+      "section": "observe"
+    },
+    {
+      "title": "The Podular future: Why AI demands a new organisational architecture",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-04T01:30:49+00:00",
+      "relevance_score": 12,
+      "url": "https://e27.co/the-podular-future-why-ai-demands-a-new-organisational-architecture-20260903/",
+      "summary": "Over the past year, I have become increasingly convinced that most people are looking at AI through the wrong lens. The dominant conversation is still about tools, productivity, automation, and replacement. But I think the deeper shift is structural. AI is no…",
+      "section": "observe"
+    },
+    {
+      "title": "The AI wrapper reckoning has reached SEA’s funding tables",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-04T01:30:15+00:00",
+      "relevance_score": 12,
+      "url": "https://e27.co/the-ai-wrapper-reckoning-has-reached-seas-funding-tables-20260903/",
+      "summary": "Southeast Asia’s Native AI companies raised US$4.1 billion in the first seven months of 2026, more than double 2025’s full-year total, according to Tracxn’s Southeast Asia AI Startup Landscape report. On a headline chart, that looks like a region riding the s…",
+      "section": "observe"
+    },
     {
       "title": "OpenAI、次世代モデル「GPT-6 Astra」を発表 ～「PCでできることは、すべて代行できる」／科学研究、ビジネス業務、高度な数学、コンピューター操作などの分野で新境地を拓く",
       "source": "Hatena Bookmark Hotentry IT",
@@ -23,26 +83,6 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2138156.html",
       "summary": "OpenAI、次世代モデル「GPT-6 Astra」を発表 ～「PCでできることは、すべて代行できる」／科学研究、ビジネス業務、高度な数学、コンピューター操作などの分野で新境地を拓く",
       "section": "observe"
-    },
-    {
-      "title": "skills/plugins/show-me/skills/show-me/SKILL.md at main · humanlayer/skills",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-08-14T12:19:54+00:00",
-      "relevance_score": 12,
-      "url": "https://github.com/humanlayer/skills/blob/main/plugins/show-me/skills/show-me/SKILL.md",
-      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert",
-      "section": "observe"
-    },
-    {
-      "title": "The yellow flag problem: Most risk functions fail at culture before they fail at technique",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-04T01:00:11+00:00",
-      "relevance_score": 6,
-      "url": "https://e27.co/the-yellow-flag-problem-most-risk-functions-fail-at-culture-before-they-fail-at-technique-20260903/",
-      "summary": "In the second year of my country risk role at an Indonesian insurer, I sat in a senior management meeting where a proposed product was on the table. The credit risk was material, the operational risk was novel, and the regulatory positioning was ambiguous. I…",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -50,138 +90,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “OpenAI、次世代モデル「GPT-6 Astra」を発表 ～「PCでできることは、すべて代行できる」／科学研究、ビジネス業務、高度な数学、コンピューター操作などの分野で新境地を拓く” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=16.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "OpenAI、次世代モデル「GPT-6 Astra」を発表 ～「PCでできることは、すべて代行できる」／科学研究、ビジネス業務、高度な数学、コンピューター操作などの分野で新境地を拓く",
-        "url": "https://forest.watch.impress.co.jp/docs/news/2138156.html",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-04T01:11:32+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 16.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +1",
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "skills/plugins/show-me/skills/show-me/SKILL.md at main · humanlayer/skills",
-        "url": "https://github.com/humanlayer/skills/blob/main/plugins/show-me/skills/show-me/SKILL.md",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-04T00:53:25+00:00",
-        "age_days": 0.03,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 13.5,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +1",
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "The yellow flag problem: Most risk functions fail at culture before they fail at technique",
-        "url": "https://e27.co/the-yellow-flag-problem-most-risk-functions-fail-at-culture-before-they-fail-at-technique-20260903/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-04T01:11:32+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 4.5,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +1",
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "OpenAI、次世代モデル「GPT-6 Astra」を発表 ～「PCでできることは、すべて代行できる」／科学研究、ビジネス業務、高度な数学、コンピューター操作などの分野で新境地を拓く",
-        "url": "https://forest.watch.impress.co.jp/docs/news/2138156.html",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-03T21:43:45+00:00",
-        "age_days": 0.16,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 4.0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": "OpenAI、次世代モデル「GPT-6 Astra」を発表 ～「PCでできることは、すべて代行できる」／科学研究、ビジネス業務、高度な数学、コンピューター操作などの分野で新境地を拓く"
-      },
-      {
-        "title": "skills/plugins/show-me/skills/show-me/SKILL.md at main · humanlayer/skills",
-        "url": "https://github.com/humanlayer/skills/blob/main/plugins/show-me/skills/show-me/SKILL.md",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-14T12:19:54+00:00",
-        "age_days": 20.55,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "single-source AI hype brake -8.0",
-          "aging penalty -7.9 for 20.5d old signal"
-        ],
-        "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert"
-      }
-    ]
-  }
+  ]
 }

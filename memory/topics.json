@@ -1,9 +1,53 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-04T01:11:28+00:00",
+  "generated_at": "2026-09-04T01:50:35+00:00",
   "topics": {
+    "security": [
+      {
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月03日）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-04T10:15:30+09:00",
+        "relevance_score": 16,
+        "url": "https://jvn.jp/vu/JVNVU94249914/"
+      },
+      {
+        "title": "Casdoorにおける認可回避の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-04T10:15:15+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU96680494/"
+      },
+      {
+        "title": "Siemens製品に対するアップデート（2026年9月）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-04T10:15:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU97027767/"
+      }
+    ],
     "ai": [
+      {
+        "title": "チームの人数が減っても仕事を回す ── AIとGitHub Actionsによる開発ワークフロー改善 - ZOZO TECH BLOG",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-01T14:04:25+00:00",
+        "relevance_score": 13,
+        "url": "https://techblog.zozo.com/entry/wear-web-fe-adjust-workflow"
+      },
+      {
+        "title": "The Podular future: Why AI demands a new organisational architecture",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-04T01:30:49+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/the-podular-future-why-ai-demands-a-new-organisational-architecture-20260903/"
+      },
+      {
+        "title": "The AI wrapper reckoning has reached SEA’s funding tables",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-04T01:30:15+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/the-ai-wrapper-reckoning-has-reached-seas-funding-tables-20260903/"
+      },
       {
         "title": "OpenAI、次世代モデル「GPT-6 Astra」を発表 ～「PCでできることは、すべて代行できる」／科学研究、ビジネス業務、高度な数学、コンピューター操作などの分野で新境地を拓く",
         "source": "Hatena Bookmark Hotentry IT",
@@ -27,6 +71,20 @@
       }
     ],
     "github": [
+      {
+        "title": "チームの人数が減っても仕事を回す ── AIとGitHub Actionsによる開発ワークフロー改善 - ZOZO TECH BLOG",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-01T14:04:25+00:00",
+        "relevance_score": 13,
+        "url": "https://techblog.zozo.com/entry/wear-web-fe-adjust-workflow"
+      },
+      {
+        "title": "The AI wrapper reckoning has reached SEA’s funding tables",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-04T01:30:15+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/the-ai-wrapper-reckoning-has-reached-seas-funding-tables-20260903/"
+      },
       {
         "title": "skills/plugins/show-me/skills/show-me/SKILL.md at main · humanlayer/skills",
         "source": "Hatena Bookmark Hotentry IT",
