@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-04T07:53:15+00:00",
+  "generated_at": "2026-09-04T08:00:28+00:00",
   "events": [
     {
       "event_id": "evt_04c8c9515e6d6caa68b7",
@@ -49,13 +49,13 @@
     {
       "event_id": "evt_05e942d062d6ba3c45b9",
       "title": "「三省堂書店池袋本店」閉店へ 11年の歴史に幕、惜しむ声続々",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_072439522f0506eff01d",
@@ -1849,6 +1849,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_9d505816b2bc3fdce359",
+      "title": "Version 1.0: Deutsche Institutionen über TerminalFix-Kampagne kompromittiert",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_9e390686ce17b776038d",
