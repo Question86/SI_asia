@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T06:29:19+00:00",
-  "run_id": "2026-09-04T06:29:19+00:00",
+  "generated_at": "2026-09-04T06:52:18+00:00",
+  "run_id": "2026-09-04T06:52:18+00:00",
   "date": "2026-09-04",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 27
+      "configured_public_sources_only": 28
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 27,
-    "displayed_findings": 27,
+    "new_relevant_findings": 1,
+    "today_file_total": 28,
+    "displayed_findings": 28,
     "high": 0,
     "medium": 7,
-    "observe": 20,
+    "observe": 21,
     "source_errors": 0
   },
   "sections": {
@@ -579,6 +579,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "66d817179085a879fd5e"
+      },
+      {
+        "title": "RIZAP社員、私用AIに顧客の個人情報入力 氏名や疾患、保険証番号など……同社が謝罪",
+        "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001161/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-04T03:04:47+00:00",
+        "fetched_at": "2026-09-04T06:51:48+00:00",
+        "summary": "RIZAPグループは9月3日、子会社RIZAPの社員が、個人で使用している外部の生成AIサービスに、顧客の氏名や疾患などの個人情報・要配慮個人情報を誤ってアップロードしたとして謝罪した。件数は明らかにしていない。 AI運営事業者に照会したところ、個人を特定できる情報を含むファイルはモデルのトレーニングに使われない...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "fd4bd55ffd2c6c69624b"
       },
       {
         "title": "「RSA-260」ついに解けた Xに“130ケタの数字”投稿、世界が注目 マスク氏「文字数増やしてよかった」",
@@ -1237,6 +1258,27 @@
       "id": "66d817179085a879fd5e"
     },
     {
+      "title": "RIZAP社員、私用AIに顧客の個人情報入力 氏名や疾患、保険証番号など……同社が謝罪",
+      "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001161/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-04T03:04:47+00:00",
+      "fetched_at": "2026-09-04T06:51:48+00:00",
+      "summary": "RIZAPグループは9月3日、子会社RIZAPの社員が、個人で使用している外部の生成AIサービスに、顧客の氏名や疾患などの個人情報・要配慮個人情報を誤ってアップロードしたとして謝罪した。件数は明らかにしていない。 AI運営事業者に照会したところ、個人を特定できる情報を含むファイルはモデルのトレーニングに使われない...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fd4bd55ffd2c6c69624b"
+    },
+    {
       "title": "「RSA-260」ついに解けた Xに“130ケタの数字”投稿、世界が注目 マスク氏「文字数増やしてよかった」",
       "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001157/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1343,44 +1385,25 @@
   ],
   "new_findings": [
     {
-      "title": "エリアデータ連携基盤共同利用ガイドブック第3.0版（本編／Appendix）等を公開しました。",
-      "url": "https://www.digital.go.jp/policies/digital_garden_city_nation/area-data-coordination-platform",
-      "source": "Japan Digital Agency News RSS",
+      "title": "RIZAP社員、私用AIに顧客の個人情報入力 氏名や疾患、保険証番号など……同社が謝罪",
+      "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001161/",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-04T06:00:00+00:00",
-      "fetched_at": "2026-09-04T06:28:50+00:00",
-      "summary": "エリアデータ連携基盤共同利用ガイドブック第3.0版（本編／Appendix）等を公開しました。",
+      "published_at": "2026-09-04T03:04:47+00:00",
+      "fetched_at": "2026-09-04T06:51:48+00:00",
+      "summary": "RIZAPグループは9月3日、子会社RIZAPの社員が、個人で使用している外部の生成AIサービスに、顧客の氏名や疾患などの個人情報・要配慮個人情報を誤ってアップロードしたとして謝罪した。件数は明らかにしていない。 AI運営事業者に照会したところ、個人を特定できる情報を含むファイルはモデルのトレーニングに使われない...",
       "matched_keywords": [
-        "APAC Trend Radar"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a74254766ad49fe79dd5"
-    },
-    {
-      "title": "令和9年度「概算要求書」及び「政策評価調書」を掲載しました",
-      "url": "https://www.digital.go.jp/budget/r9request",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-09-04T06:00:00+00:00",
-      "fetched_at": "2026-09-04T06:28:50+00:00",
-      "summary": "令和9年度「概算要求書」及び「政策評価調書」を掲載しました",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "85160c59713062292c47"
+      "id": "fd4bd55ffd2c6c69624b"
     }
   ],
   "source_errors": [],

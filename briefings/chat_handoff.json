@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-04T06:29:19+00:00",
+  "generated_at": "2026-09-04T06:52:18+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 27,
-    "displayed_findings": 27,
+    "new_relevant_findings": 1,
+    "today_file_total": 28,
+    "displayed_findings": 28,
     "high": 0,
     "medium": 7,
-    "observe": 20
+    "observe": 21
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -100,137 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Should cybersecurity be nationalised?” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Should cybersecurity be nationalised?",
-        "url": "https://e27.co/should-cybersecurity-be-nationalised-20260904/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-04T04:28:30+00:00",
-        "age_days": 0.1,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "security high-signal: security"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月03日）",
-        "url": "https://jvn.jp/vu/JVNVU94249914/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-04T10:15:30+09:00",
-        "age_days": 0.23,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: cisa, jvn, security, advisory"
-        ],
-        "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-      },
-      {
-        "title": "The Podular future: Why AI demands a new organisational architecture",
-        "url": "https://e27.co/the-podular-future-why-ai-demands-a-new-organisational-architecture-20260903/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-04T01:50:38+00:00",
-        "age_days": 0.21,
-        "topics": [
-          "axiom",
-          "ai"
-        ],
-        "dynamics_score": 29.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "エクシングCPTrans-ME-Xにおける複数の脆弱性",
-        "url": "https://jvn.jp/jp/JVN32505330/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-04T12:00:00+09:00",
-        "age_days": 0.16,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "株式会社エクシングが提供するCPTrans-ME-Xには、複数の脆弱性が存在します。"
-      },
-      {
-        "title": "Casdoorにおける認可回避の脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU96680494/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-04T10:15:15+09:00",
-        "age_days": 0.23,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-      }
-    ]
-  }
+  ]
 }

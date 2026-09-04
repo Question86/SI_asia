@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-04T06:29:23+00:00",
+  "generated_at": "2026-09-04T06:52:22+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 27,
-    "clusters": 27,
+    "findings": 28,
+    "clusters": 28,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 0,
@@ -627,29 +627,29 @@
       "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
-      "key": "url:https://www.digital.go.jp/budget/r9request",
-      "title": "令和9年度「概算要求書」及び「政策評価調書」を掲載しました",
+      "key": "title:rizap",
+      "title": "RIZAP社員、私用AIに顧客の個人情報入力 氏名や疾患、保険証番号など……同社が謝罪",
       "sources": [
-        "Japan Digital Agency News RSS"
+        "Hatena Bookmark Hotentry IT"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://www.digital.go.jp/budget/r9request"
+        "https://www.itmedia.co.jp/news/article/2609/04/2000001161/"
       ],
       "finding_count": 1,
-      "max_score": 6,
+      "max_score": 5,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 10.0,
+      "network_score": 9.0,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 11.1,
-      "ranking_score": 10.0,
+      "raw_network_score": 10.1,
+      "ranking_score": 9.0,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
@@ -662,45 +662,7 @@
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-09-04T06:29:23+00:00"
-    },
-    {
-      "key": "title:appendix",
-      "title": "エリアデータ連携基盤共同利用ガイドブック第3.0版（本編／Appendix）等を公開しました。",
-      "sources": [
-        "Japan Digital Agency News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.digital.go.jp/policies/digital_garden_city_nation/area-data-coordination-platform"
-      ],
-      "finding_count": 1,
-      "max_score": 6,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 10.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 11.1,
-      "ranking_score": 10.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-09-04T06:29:23+00:00"
+      "first_seen_at": "2026-09-04T06:52:22+00:00"
     },
     {
       "key": "title:bitcoin-just-broke-000-real-reason-not-what",
@@ -741,6 +703,82 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-04T03:37:26+00:00"
+    },
+    {
+      "key": "url:https://www.digital.go.jp/budget/r9request",
+      "title": "令和9年度「概算要求書」及び「政策評価調書」を掲載しました",
+      "sources": [
+        "Japan Digital Agency News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.digital.go.jp/budget/r9request"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 7.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 8.1,
+      "ranking_score": 7.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-04T06:29:23+00:00"
+    },
+    {
+      "key": "title:appendix",
+      "title": "エリアデータ連携基盤共同利用ガイドブック第3.0版（本編／Appendix）等を公開しました。",
+      "sources": [
+        "Japan Digital Agency News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.digital.go.jp/policies/digital_garden_city_nation/area-data-coordination-platform"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 7.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 8.1,
+      "ranking_score": 7.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-04T06:29:23+00:00"
     },
     {
       "key": "title:hivebotics-nets-take-restroom-cleaning-robot-abluo-volume",
@@ -1049,7 +1087,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-04T06:29:23Z",
+    "generated_at": "2026-09-04T06:52:22Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
