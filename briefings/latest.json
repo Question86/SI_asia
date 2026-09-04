@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T19:25:04+00:00",
-  "run_id": "2026-09-04T19:25:04+00:00",
+  "generated_at": "2026-09-04T19:33:33+00:00",
+  "run_id": "2026-09-04T19:33:33+00:00",
   "date": "2026-09-04",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 78,
     "displayed_findings": 78,
     "high": 0,
@@ -3755,29 +3755,7 @@
       "id": "9faaa3362fbe21fa6121"
     }
   ],
-  "new_findings": [
-    {
-      "title": "New API endpoint provides privacy-safe star history data",
-      "url": "https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-09-04T16:43:56+00:00",
-      "fetched_at": "2026-09-04T19:24:29+00:00",
-      "summary": "Track repository star growth over time with the new star history REST API endpoint without exposing stargazer identities. Earlier this year, stargazer listing endpoints were restricted to admins and collaborators… The post New API endpoint provides privacy-safe star history data appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "Datenschutz",
-        "GitHub"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "Datenschutz (+7.5); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a97490e24bbf0cc9b777"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
