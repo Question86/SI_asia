@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-04T10:58:30+00:00_
+_Generiert: 2026-09-04T11:18:08+00:00_
 
 ## Kurzlage
 
@@ -9,10 +9,6 @@ _Generiert: 2026-09-04T10:58:30+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
-- **USGS earthquake M6.3 - 84 km SSW of Nikolski, Alaska** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdvt)
-  - Quelle: USGS
-  - Zeit: `2026-09-03T11:17:24+00:00`
-  - Kurz: M6.3 - 84 km SSW of Nikolski, Alaska. PAGER alert: green. Tsunami flag: 1.
 - **CISA KEV: CVE-2026-59822 BerriAI LiteLLM** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-09-02`

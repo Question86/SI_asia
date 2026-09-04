@@ -1,22 +1,7 @@
 {
-  "generated_at": "2026-09-04T10:58:35+00:00",
+  "generated_at": "2026-09-04T11:18:12+00:00",
   "sections": {
     "global_security": [
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "USGS earthquake M6.3 - 84 km SSW of Nikolski, Alaska",
-        "summary": "M6.3 - 84 km SSW of Nikolski, Alaska. PAGER alert: green. Tsunami flag: 1.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tdvt",
-        "published_at": "2026-09-03T11:17:24+00:00",
-        "metrics": {
-          "mag": 6.3,
-          "alert": "green",
-          "sig": 612.0,
-          "tsunami": 1
-        }
-      },
       {
         "domain": "security",
         "severity": "high",
