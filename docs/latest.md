@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-04T05:57:27+00:00_
+_Generiert: 2026-09-04T06:29:19+00:00_
 
 ## Kurzlage
 
-25 neue relevante Treffer. Stärkstes Signal: „AI and human creativity: How ChatGPT Canvas bridges the gap“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
+27 neue relevante Treffer. Stärkstes Signal: „AI and human creativity: How ChatGPT Canvas bridges the gap“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -132,6 +132,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: ShakeMap - III Time 2026-09-04 02:28:38 UTC 2026-09-04 02:28:38 UTC at epicenter Location 51.956°N 176.348°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **令和9年度「概算要求書」及び「政策評価調書」を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/budget/r9request)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-09-04T06:00:00+00:00`, fetched `2026-09-04T06:28:50+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 令和9年度「概算要求書」及び「政策評価調書」を掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **エリアデータ連携基盤共同利用ガイドブック第3.0版（本編／Appendix）等を公開しました。** — Score 6, observation — [Quelle](https://www.digital.go.jp/policies/digital_garden_city_nation/area-data-coordination-platform)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-09-04T06:00:00+00:00`, fetched `2026-09-04T06:28:50+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: エリアデータ連携基盤共同利用ガイドブック第3.0版（本編／Appendix）等を公開しました。
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **松本大臣記者会見（令和8年9月4日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-260904-01)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-09-04T03:20:57+00:00`, fetched `2026-09-04T03:24:12+00:00`
