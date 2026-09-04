@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T07:52:38+00:00",
-  "run_id": "2026-09-04T07:52:38+00:00",
+  "generated_at": "2026-09-04T07:59:56+00:00",
+  "run_id": "2026-09-04T07:59:56+00:00",
   "date": "2026-09-04",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 31
+      "configured_public_sources_only": 32
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 31,
-    "displayed_findings": 31,
+    "today_file_total": 32,
+    "displayed_findings": 32,
     "high": 0,
     "medium": 7,
-    "observe": 24,
+    "observe": 25,
     "source_errors": 0
   },
   "sections": {
@@ -473,6 +473,28 @@
           "LOW"
         ],
         "id": "3070ef4dbe571a9531ec"
+      },
+      {
+        "title": "Version 1.0: Deutsche Institutionen über TerminalFix-Kampagne kompromittiert",
+        "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-287419-1032_bits.html",
+        "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+        "source_type": "rss",
+        "published_at": "2026-09-04T07:55:00+00:00",
+        "fetched_at": "2026-09-04T07:59:27+00:00",
+        "summary": "Version 1.0: Deutsche Institutionen über TerminalFix-Kampagne kompromittiert",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Cyber-Sicherheitswarnung"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d8df7adb52795c713a62"
       },
       {
         "title": "Jetzt patchen! Angreifer führen Schadcode in der Sandbox von Chrome aus",
@@ -1229,6 +1251,28 @@
       "id": "3070ef4dbe571a9531ec"
     },
     {
+      "title": "Version 1.0: Deutsche Institutionen über TerminalFix-Kampagne kompromittiert",
+      "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-287419-1032_bits.html",
+      "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+      "source_type": "rss",
+      "published_at": "2026-09-04T07:55:00+00:00",
+      "fetched_at": "2026-09-04T07:59:27+00:00",
+      "summary": "Version 1.0: Deutsche Institutionen über TerminalFix-Kampagne kompromittiert",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Cyber-Sicherheitswarnung"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d8df7adb52795c713a62"
+    },
+    {
       "title": "Jetzt patchen! Angreifer führen Schadcode in der Sandbox von Chrome aus",
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-fuehren-Schadcode-in-der-Sandbox-von-Chrome-aus-11441030.html",
       "source": "heise Security Alerts",
@@ -1539,25 +1583,26 @@
   ],
   "new_findings": [
     {
-      "title": "「三省堂書店池袋本店」閉店へ 11年の歴史に幕、惜しむ声続々",
-      "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001163/",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Version 1.0: Deutsche Institutionen über TerminalFix-Kampagne kompromittiert",
+      "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-287419-1032_bits.html",
+      "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
       "source_type": "rss",
-      "published_at": "2026-09-04T03:13:28+00:00",
-      "fetched_at": "2026-09-04T07:52:02+00:00",
-      "summary": "三省堂書店池袋本店は9月4日、2026年12月31日に閉店すると発表した。全館の閉店に先立ち、10月4日に地下1階と1階の「書籍館」を閉鎖する。Xには作家や利用者から惜しむ声が多数投稿されている。 池袋本店は、西武池袋本店にあったリブロ池袋本店の閉店に伴い、2015年に同じ場所で開店。現在は別館地下1階と書籍館地下1階...",
+      "published_at": "2026-09-04T07:55:00+00:00",
+      "fetched_at": "2026-09-04T07:59:27+00:00",
+      "summary": "Version 1.0: Deutsche Institutionen über TerminalFix-Kampagne kompromittiert",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "BSI",
+        "CERT-Bund",
+        "Cyber-Sicherheitswarnung"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 7,
+      "relevance_reason": "BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "008ed19098295da79de6"
+      "id": "d8df7adb52795c713a62"
     }
   ],
   "source_errors": [],

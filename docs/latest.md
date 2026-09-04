@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-04T07:52:38+00:00_
+_Generiert: 2026-09-04T07:59:56+00:00_
 
 ## Kurzlage
 
-31 neue relevante Treffer. Stärkstes Signal: „AI and human creativity: How ChatGPT Canvas bridges the gap“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
+32 neue relevante Treffer. Stärkstes Signal: „AI and human creativity: How ChatGPT Canvas bridges the gap“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -141,6 +141,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-04 06:45:54 UTC 2026-09-04 06:45:54 UTC at epicenter Location 56.154°S 26.163°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Version 1.0: Deutsche Institutionen über TerminalFix-Kampagne kompromittiert** — Score 7, observation — [Quelle](https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-287419-1032_bits.html)
+  - Quelle: BSI CERT-Bund Cyber-Sicherheitswarnungen / `rss`
+  - Zeit: published `2026-09-04T07:55:00+00:00`, fetched `2026-09-04T07:59:27+00:00`
+  - Treffer: BSI, CERT-Bund, Cyber-Sicherheitswarnung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); recent (+1.0)
+  - Kurz: Version 1.0: Deutsche Institutionen über TerminalFix-Kampagne kompromittiert
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Jetzt patchen! Angreifer führen Schadcode in der Sandbox von Chrome aus** — Score 7, observation — [Quelle](https://www.heise.de/news/Jetzt-patchen-Angreifer-fuehren-Schadcode-in-der-Sandbox-von-Chrome-aus-11441030.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-09-04T06:48:00.000+00:00`, fetched `2026-09-04T07:00:22+00:00`
