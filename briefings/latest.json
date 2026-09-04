@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T21:51:40+00:00",
-  "run_id": "2026-09-04T21:51:40+00:00",
+  "generated_at": "2026-09-04T21:58:54+00:00",
+  "run_id": "2026-09-04T21:58:54+00:00",
   "date": "2026-09-04",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 83,
     "displayed_findings": 83,
     "high": 0,
@@ -3971,29 +3971,7 @@
       "id": "9faaa3362fbe21fa6121"
     }
   ],
-  "new_findings": [
-    {
-      "title": "副作用の影響範囲を型で示したい — Scala 3 が模索する「Capture Checking」 - エムスリーテックブログ",
-      "url": "https://www.m3tech.blog/entry/2026/09/03/200000",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-04T18:45:45+00:00",
-      "fetched_at": "2026-09-04T21:51:08+00:00",
-      "summary": "本記事は、コンシューマーチームブログリレー 1日目です。 はじめに 関数型まつりで触れてから、再び自分の中の Scala 熱が高まっています。エンジニアリンググループ、コンシューマーチーム 兼 WHITEJACK チームの松本です。 Scalaでは従来、Effのようなライブラリを使うことでEffect Systemのようなものを実現できまし...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9985b94a8cb2ab830f74"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
