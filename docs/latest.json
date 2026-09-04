@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T20:36:48+00:00",
-  "run_id": "2026-09-04T20:36:48+00:00",
+  "generated_at": "2026-09-04T20:44:17+00:00",
+  "run_id": "2026-09-04T20:44:17+00:00",
   "date": "2026-09-04",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 79
+      "configured_public_sources_only": 80
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 79,
-    "displayed_findings": 79,
+    "today_file_total": 80,
+    "displayed_findings": 80,
     "high": 0,
     "medium": 29,
-    "observe": 50,
+    "observe": 51,
     "source_errors": 0
   },
   "sections": {
@@ -1704,6 +1704,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "9203e8f76eabb350f7b5"
+      },
+      {
+        "title": "WSL 用ターミナルは noctty が良いぞ — PR を 4 本マージしてもらって分かったこと",
+        "url": "https://zenn.dev/nanasess/articles/noctty-wsl-terminal-contribution",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-04T09:19:05+00:00",
+        "fetched_at": "2026-09-04T20:43:47+00:00",
+        "summary": "結論 Windows から WSL2 を常用しているなら、ターミナルは noctty を勧めます。 Windows ネイティブとしての作り込みが厚い。既定ターミナル登録、エクスプローラのコンテキストメニュー、ジャンプリスト、セッション復元、名前付きレイアウト、Quick select、省電力レンダリング 速い。ただし同梱 ConPTY を配置しない...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1fafcd6cf755fe41f065"
       },
       {
         "title": "生成AIで作成された古謝玄太に対する応援ポスターは共産党支持者の自作自演ではないよ - 電脳塵芥",
@@ -3592,6 +3613,27 @@
       "id": "9203e8f76eabb350f7b5"
     },
     {
+      "title": "WSL 用ターミナルは noctty が良いぞ — PR を 4 本マージしてもらって分かったこと",
+      "url": "https://zenn.dev/nanasess/articles/noctty-wsl-terminal-contribution",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-04T09:19:05+00:00",
+      "fetched_at": "2026-09-04T20:43:47+00:00",
+      "summary": "結論 Windows から WSL2 を常用しているなら、ターミナルは noctty を勧めます。 Windows ネイティブとしての作り込みが厚い。既定ターミナル登録、エクスプローラのコンテキストメニュー、ジャンプリスト、セッション復元、名前付きレイアウト、Quick select、省電力レンダリング 速い。ただし同梱 ConPTY を配置しない...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1fafcd6cf755fe41f065"
+    },
+    {
       "title": "生成AIで作成された古謝玄太に対する応援ポスターは共産党支持者の自作自演ではないよ - 電脳塵芥",
       "url": "https://nou-yunyun.hatenablog.com/entry/2026/09/04/140000",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3803,27 +3845,25 @@
   ],
   "new_findings": [
     {
-      "title": "GPT-6 Astra is generally available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-09-04-gpt-6-astra-is-generally-available-in-github-copilot",
-      "source": "GitHub Changelog Atom",
+      "title": "WSL 用ターミナルは noctty が良いぞ — PR を 4 本マージしてもらって分かったこと",
+      "url": "https://zenn.dev/nanasess/articles/noctty-wsl-terminal-contribution",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-04T18:59:51+00:00",
-      "fetched_at": "2026-09-04T20:36:18+00:00",
-      "summary": "GPT-6 Astra from OpenAI is now available in GitHub Copilot. OpenAI’s latest general-purpose model, GPT-6 Astra, is designed for long-horizon, autonomous coding and agentic tasks. In our internal testing, GPT-6… The post GPT-6 Astra is generally available in GitHub Copilot appeared first on The GitHub Blog .",
+      "published_at": "2026-09-04T09:19:05+00:00",
+      "fetched_at": "2026-09-04T20:43:47+00:00",
+      "summary": "結論 Windows から WSL2 を常用しているなら、ターミナルは noctty を勧めます。 Windows ネイティブとしての作り込みが厚い。既定ターミナル登録、エクスプローラのコンテキストメニュー、ジャンプリスト、セッション復元、名前付きレイアウト、Quick select、省電力レンダリング 速い。ただし同梱 ConPTY を配置しない...",
       "matched_keywords": [
-        "AI Agents",
-        "Copilot",
-        "GitHub",
-        "OpenAI"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 18,
-      "relevance_reason": "OpenAI (+7.5); AI Agents (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "deaf20736bd467132a11"
+      "id": "1fafcd6cf755fe41f065"
     }
   ],
   "source_errors": [],
