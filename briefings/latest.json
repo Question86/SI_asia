@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T04:28:27+00:00",
-  "run_id": "2026-09-04T04:28:27+00:00",
+  "generated_at": "2026-09-04T04:43:04+00:00",
+  "run_id": "2026-09-04T04:43:04+00:00",
   "date": "2026-09-04",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
+    "new_relevant_findings": 0,
     "today_file_total": 23,
     "displayed_findings": 23,
     "high": 0,
@@ -1101,69 +1101,7 @@
       "id": "9faaa3362fbe21fa6121"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Should cybersecurity be nationalised?",
-      "url": "https://e27.co/should-cybersecurity-be-nationalised-20260904/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-04T04:15:31+00:00",
-      "fetched_at": "2026-09-04T04:27:52+00:00",
-      "summary": "Up front: the honest answer is, I don’t think anybody is proposing that. Yet. I don’t know of any plan to put cybersecurity under state ownership, and I am misleading you if I suggest otherwise. But at a recent industry discussion, an argument surfaced that gets you surprisingly close to that territory. Furthermore, Bill Gates […] The post Should cybersecurity be nationalised? appeared first on e27 .",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Security"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "Security (+7.5); APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3ae20b419195896b2de1"
-    },
-    {
-      "title": "Hivebotics nets US$6M to take restroom-cleaning robot Abluo into volume production",
-      "url": "https://e27.co/hivebotics-nets-us6m-to-take-restroom-cleaning-robot-abluo-into-volume-production-20260904/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-04T04:27:09+00:00",
-      "fetched_at": "2026-09-04T04:27:52+00:00",
-      "summary": "Restrooms may not be the most glamorous frontier for robotics, but they are among the most revealing. In malls, airports, hospitals and office towers, they sit at the intersection of hygiene expectations, labour shortages and operational cost pressures. For facilities managers, they are also one of the hardest spaces to keep consistently clean. Singapore-based Hivebotics […] The post Hivebotics nets US$6M to take re…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b98ca7fe1e82734de2a6"
-    },
-    {
-      "title": "Why podcasts are the next big data revolution",
-      "url": "https://e27.co/why-podcasts-are-the-next-big-data-revolution-20260904/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-04T04:10:57+00:00",
-      "fetched_at": "2026-09-04T04:27:52+00:00",
-      "summary": "Podcast production has exploded. The number of episodes published annually grew from roughly 3.9 million in 2015 to around 29 million in 2023. Hours of valuable information are shared every day through this long-form audio. Yet despite how much useful information is buried inside podcasts, there still isn’t a comprehensive way to index them. We […] The post Why podcasts are the next big data revolution appeared firs…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9faaa3362fbe21fa6121"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
