@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T23:42:24+00:00",
-  "run_id": "2026-09-04T23:42:24+00:00",
+  "generated_at": "2026-09-04T23:49:55+00:00",
+  "run_id": "2026-09-04T23:49:55+00:00",
   "date": "2026-09-04",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 84,
     "displayed_findings": 84,
     "high": 0,
@@ -4013,29 +4013,7 @@
       "id": "9faaa3362fbe21fa6121"
     }
   ],
-  "new_findings": [
-    {
-      "title": "AI監視カメラを欺け！派手な柄のデジタル迷彩シャツで検出を回避",
-      "url": "https://karapaia.com/archives/626046.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-04T09:19:52+00:00",
-      "fetched_at": "2026-09-04T23:41:55+00:00",
-      "summary": "AI監視カメラを混乱させる迷彩シャツ パッと見では、真っ先に目に飛び込んでくるほどカラフルなシャツ。むしろ地味とは対極にある、いささか派手なデザイン。 この画像を大きなサイズで見るimage credit:Simon Weckert しかしこのシャツ「デジタル・カモフラージュ（Digital Camouflage）」は、単なるシャツではなく、人...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e6315d0b4a5fadb01a8f"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
