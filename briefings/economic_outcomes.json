@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-04T13:57:49+00:00",
+  "generated_at": "2026-09-04T14:15:47+00:00",
   "events": [
     {
       "event_id": "evt_04c8c9515e6d6caa68b7",
@@ -1727,7 +1727,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_8e6601de88b8e0ae4672",
@@ -2366,6 +2366,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_be7621f48abf4eb729e7",
+      "title": "M 4.9 - south of the Fiji Islands",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_bf863935d833ccdc0efd",
