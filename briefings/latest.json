@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T16:18:05+00:00",
-  "run_id": "2026-09-04T16:18:05+00:00",
+  "generated_at": "2026-09-04T16:31:13+00:00",
+  "run_id": "2026-09-04T16:31:13+00:00",
   "date": "2026-09-04",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 75,
     "displayed_findings": 75,
     "high": 0,
@@ -3567,30 +3567,7 @@
       "id": "9faaa3362fbe21fa6121"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
-      "url": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
-      "source": "GitHub Blog Atom",
-      "source_type": "rss",
-      "published_at": "2026-09-04T16:04:14+00:00",
-      "fetched_at": "2026-09-04T16:17:30+00:00",
-      "summary": "In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research preview in GitHub Copilot. The post Project HydraFusion: Frontier quality via multi-model orchestration appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "AI/KI",
-        "Copilot",
-        "GitHub"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); GitHub (+2.0); Copilot (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8986faf68bf975f81241"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
