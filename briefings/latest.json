@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T01:58:22+00:00",
-  "run_id": "2026-09-04T01:58:22+00:00",
+  "generated_at": "2026-09-04T02:28:15+00:00",
+  "run_id": "2026-09-04T02:28:15+00:00",
   "date": "2026-09-04",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 10
+      "configured_public_sources_only": 12
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 10,
-    "displayed_findings": 10,
+    "new_relevant_findings": 2,
+    "today_file_total": 12,
+    "displayed_findings": 12,
     "high": 0,
     "medium": 3,
-    "observe": 7,
+    "observe": 9,
     "source_errors": 0
   },
   "sections": {
@@ -230,6 +230,48 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "66d817179085a879fd5e"
+      },
+      {
+        "title": "「おっぱい」の話ができるSNSと、できないSNS",
+        "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001118/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-04T00:38:18+00:00",
+        "fetched_at": "2026-09-04T02:27:39+00:00",
+        "summary": "筆者は最近、めちゃめちゃおっぱいの話をしている。ライターの仕事が終われば家で妻とおっぱいの話をしているし、知人ともおっぱいの話をしているし、SNSでもおっぱいの話をしている。 なんでこんなにおっぱいの話をしているかというと、筆者がライターとは別の仕事として、とあるコンテンツの宣伝を手伝っていることに...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "03a880eac963fda9a8fe"
+      },
+      {
+        "title": "【特集】 既製品はしっくりこないから自分らで作った。バッファロー製トラックボールが生まれたワケ",
+        "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2137797.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-03T21:13:55+00:00",
+        "fetched_at": "2026-09-04T02:27:39+00:00",
+        "summary": "【特集】 既製品はしっくりこないから自分らで作った。バッファロー製トラックボールが生まれたワケ",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b09f65e6c59cda24524f"
       },
       {
         "title": "Webブラウザ上でターミナルのシミュレータを実行、GitやCLI、Vimなどを無料で学べる「WebTerm Learn」が公開",
@@ -456,6 +498,48 @@
       "id": "66d817179085a879fd5e"
     },
     {
+      "title": "「おっぱい」の話ができるSNSと、できないSNS",
+      "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001118/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-04T00:38:18+00:00",
+      "fetched_at": "2026-09-04T02:27:39+00:00",
+      "summary": "筆者は最近、めちゃめちゃおっぱいの話をしている。ライターの仕事が終われば家で妻とおっぱいの話をしているし、知人ともおっぱいの話をしているし、SNSでもおっぱいの話をしている。 なんでこんなにおっぱいの話をしているかというと、筆者がライターとは別の仕事として、とあるコンテンツの宣伝を手伝っていることに...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "03a880eac963fda9a8fe"
+    },
+    {
+      "title": "【特集】 既製品はしっくりこないから自分らで作った。バッファロー製トラックボールが生まれたワケ",
+      "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2137797.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-03T21:13:55+00:00",
+      "fetched_at": "2026-09-04T02:27:39+00:00",
+      "summary": "【特集】 既製品はしっくりこないから自分らで作った。バッファロー製トラックボールが生まれたワケ",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b09f65e6c59cda24524f"
+    },
+    {
       "title": "Webブラウザ上でターミナルのシミュレータを実行、GitやCLI、Vimなどを無料で学べる「WebTerm Learn」が公開",
       "url": "https://www.publickey1.jp/blog/26/webgitclivimwebterm_learn.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -479,13 +563,13 @@
   ],
   "new_findings": [
     {
-      "title": "Webブラウザ上でターミナルのシミュレータを実行、GitやCLI、Vimなどを無料で学べる「WebTerm Learn」が公開",
-      "url": "https://www.publickey1.jp/blog/26/webgitclivimwebterm_learn.html",
+      "title": "「おっぱい」の話ができるSNSと、できないSNS",
+      "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001118/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-03T18:13:28+00:00",
-      "fetched_at": "2026-09-04T01:57:47+00:00",
-      "summary": "Webブラウザ上でまるで本物のように振る舞うターミナルのシミュレータを実行し、そこでGitやLinuxのコマンドライン、Vimなどの操作を無料で学べる学習プラットフォーム「WebTerm Learn」を、株式会社initが公開しました。 WebTerm Learnの入口は上記画面のようにゲーム仕立てになっており、進路によってGitやターミナル...",
+      "published_at": "2026-09-04T00:38:18+00:00",
+      "fetched_at": "2026-09-04T02:27:39+00:00",
+      "summary": "筆者は最近、めちゃめちゃおっぱいの話をしている。ライターの仕事が終われば家で妻とおっぱいの話をしているし、知人ともおっぱいの話をしているし、SNSでもおっぱいの話をしている。 なんでこんなにおっぱいの話をしているかというと、筆者がライターとは別の仕事として、とあるコンテンツの宣伝を手伝っていることに...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -497,7 +581,28 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "e2299f3e16f77b8134fd"
+      "id": "03a880eac963fda9a8fe"
+    },
+    {
+      "title": "【特集】 既製品はしっくりこないから自分らで作った。バッファロー製トラックボールが生まれたワケ",
+      "url": "https://pc.watch.impress.co.jp/docs/topic/feature/2137797.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-03T21:13:55+00:00",
+      "fetched_at": "2026-09-04T02:27:39+00:00",
+      "summary": "【特集】 既製品はしっくりこないから自分らで作った。バッファロー製トラックボールが生まれたワケ",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b09f65e6c59cda24524f"
     }
   ],
   "source_errors": [],
