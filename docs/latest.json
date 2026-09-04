@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T04:08:55+00:00",
-  "run_id": "2026-09-04T04:08:55+00:00",
+  "generated_at": "2026-09-04T04:28:27+00:00",
+  "run_id": "2026-09-04T04:28:27+00:00",
   "date": "2026-09-04",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 20
+      "configured_public_sources_only": 23
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 20,
-    "displayed_findings": 20,
+    "new_relevant_findings": 3,
+    "today_file_total": 23,
+    "displayed_findings": 23,
     "high": 0,
     "medium": 6,
-    "observe": 14,
+    "observe": 17,
     "source_errors": 0
   },
   "sections": {
@@ -188,6 +188,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "e50c9ce64c4936f22e0e"
+      },
+      {
+        "title": "Should cybersecurity be nationalised?",
+        "url": "https://e27.co/should-cybersecurity-be-nationalised-20260904/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-04T04:15:31+00:00",
+        "fetched_at": "2026-09-04T04:27:52+00:00",
+        "summary": "Up front: the honest answer is, I don’t think anybody is proposing that. Yet. I don’t know of any plan to put cybersecurity under state ownership, and I am misleading you if I suggest otherwise. But at a recent industry discussion, an argument surfaced that gets you surprisingly close to that territory. Furthermore, Bill Gates […] The post Should cybersecurity be nationalised? appeared first on e27 .",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Security"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "Security (+7.5); APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3ae20b419195896b2de1"
       },
       {
         "title": "The Podular future: Why AI demands a new organisational architecture",
@@ -380,6 +401,26 @@
         "id": "2744c8a4af6ce3ee93f6"
       },
       {
+        "title": "Hivebotics nets US$6M to take restroom-cleaning robot Abluo into volume production",
+        "url": "https://e27.co/hivebotics-nets-us6m-to-take-restroom-cleaning-robot-abluo-into-volume-production-20260904/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-04T04:27:09+00:00",
+        "fetched_at": "2026-09-04T04:27:52+00:00",
+        "summary": "Restrooms may not be the most glamorous frontier for robotics, but they are among the most revealing. In malls, airports, hospitals and office towers, they sit at the intersection of hygiene expectations, labour shortages and operational cost pressures. For facilities managers, they are also one of the hardest spaces to keep consistently clean. Singapore-based Hivebotics […] The post Hivebotics nets US$6M to take re…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b98ca7fe1e82734de2a6"
+      },
+      {
         "title": "松本大臣記者会見（令和8年9月4日）動画を掲載しました",
         "url": "https://www.digital.go.jp/speech/minister-260904-01",
         "source": "Japan Digital Agency News RSS",
@@ -502,6 +543,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "e2299f3e16f77b8134fd"
+      },
+      {
+        "title": "Why podcasts are the next big data revolution",
+        "url": "https://e27.co/why-podcasts-are-the-next-big-data-revolution-20260904/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-04T04:10:57+00:00",
+        "fetched_at": "2026-09-04T04:27:52+00:00",
+        "summary": "Podcast production has exploded. The number of episodes published annually grew from roughly 3.9 million in 2015 to around 29 million in 2023. Hours of valuable information are shared every day through this long-form audio. Yet despite how much useful information is buried inside podcasts, there still isn’t a comprehensive way to index them. We […] The post Why podcasts are the next big data revolution appeared firs…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9faaa3362fbe21fa6121"
       }
     ]
   },
@@ -663,6 +724,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "e50c9ce64c4936f22e0e"
+    },
+    {
+      "title": "Should cybersecurity be nationalised?",
+      "url": "https://e27.co/should-cybersecurity-be-nationalised-20260904/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-04T04:15:31+00:00",
+      "fetched_at": "2026-09-04T04:27:52+00:00",
+      "summary": "Up front: the honest answer is, I don’t think anybody is proposing that. Yet. I don’t know of any plan to put cybersecurity under state ownership, and I am misleading you if I suggest otherwise. But at a recent industry discussion, an argument surfaced that gets you surprisingly close to that territory. Furthermore, Bill Gates […] The post Should cybersecurity be nationalised? appeared first on e27 .",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Security"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Security (+7.5); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3ae20b419195896b2de1"
     },
     {
       "title": "The Podular future: Why AI demands a new organisational architecture",
@@ -855,6 +937,26 @@
       "id": "2744c8a4af6ce3ee93f6"
     },
     {
+      "title": "Hivebotics nets US$6M to take restroom-cleaning robot Abluo into volume production",
+      "url": "https://e27.co/hivebotics-nets-us6m-to-take-restroom-cleaning-robot-abluo-into-volume-production-20260904/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-04T04:27:09+00:00",
+      "fetched_at": "2026-09-04T04:27:52+00:00",
+      "summary": "Restrooms may not be the most glamorous frontier for robotics, but they are among the most revealing. In malls, airports, hospitals and office towers, they sit at the intersection of hygiene expectations, labour shortages and operational cost pressures. For facilities managers, they are also one of the hardest spaces to keep consistently clean. Singapore-based Hivebotics […] The post Hivebotics nets US$6M to take re…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b98ca7fe1e82734de2a6"
+    },
+    {
       "title": "松本大臣記者会見（令和8年9月4日）動画を掲載しました",
       "url": "https://www.digital.go.jp/speech/minister-260904-01",
       "source": "Japan Digital Agency News RSS",
@@ -977,52 +1079,89 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "e2299f3e16f77b8134fd"
+    },
+    {
+      "title": "Why podcasts are the next big data revolution",
+      "url": "https://e27.co/why-podcasts-are-the-next-big-data-revolution-20260904/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-04T04:10:57+00:00",
+      "fetched_at": "2026-09-04T04:27:52+00:00",
+      "summary": "Podcast production has exploded. The number of episodes published annually grew from roughly 3.9 million in 2015 to around 29 million in 2023. Hours of valuable information are shared every day through this long-form audio. Yet despite how much useful information is buried inside podcasts, there still isn’t a comprehensive way to index them. We […] The post Why podcasts are the next big data revolution appeared firs…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9faaa3362fbe21fa6121"
     }
   ],
   "new_findings": [
     {
-      "title": "The AI dashboard gold rush: Beyond the pretty charts",
-      "url": "https://e27.co/the-ai-dashboard-gold-rush-beyond-the-pretty-charts-20260904/",
+      "title": "Should cybersecurity be nationalised?",
+      "url": "https://e27.co/should-cybersecurity-be-nationalised-20260904/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-09-04T04:00:31+00:00",
-      "fetched_at": "2026-09-04T04:08:25+00:00",
-      "summary": "Claude dashboards have become a kind of “AI flex” on Instagram recently, especially among founders, marketers, finance people and operators. The biggest reason is that dashboards suddenly became very easy to make and very easy to share. Claude Code can now turn data or work from a session into an interactive Artifact: charts, tables, filters, […] The post The AI dashboard gold rush: Beyond the pretty charts appeared…",
+      "published_at": "2026-09-04T04:15:31+00:00",
+      "fetched_at": "2026-09-04T04:27:52+00:00",
+      "summary": "Up front: the honest answer is, I don’t think anybody is proposing that. Yet. I don’t know of any plan to put cybersecurity under state ownership, and I am misleading you if I suggest otherwise. But at a recent industry discussion, an argument surfaced that gets you surprisingly close to that territory. Furthermore, Bill Gates […] The post Should cybersecurity be nationalised? appeared first on e27 .",
       "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
         "APAC Trend Radar",
-        "founder"
+        "Security"
       ],
-      "relevance_score": 15,
-      "relevance_reason": "AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0)",
+      "relevance_score": 12,
+      "relevance_reason": "Security (+7.5); APAC Trend Radar (+3.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "cbcc2c5abaa7b598f18d"
+      "id": "3ae20b419195896b2de1"
     },
     {
-      "title": "The decision discipline: How to turn insights into action",
-      "url": "https://e27.co/the-decision-discipline-how-to-turn-insights-into-action-20260904/",
+      "title": "Hivebotics nets US$6M to take restroom-cleaning robot Abluo into volume production",
+      "url": "https://e27.co/hivebotics-nets-us6m-to-take-restroom-cleaning-robot-abluo-into-volume-production-20260904/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-09-04T03:55:22+00:00",
-      "fetched_at": "2026-09-04T04:08:25+00:00",
-      "summary": "Here’s a test you can run on your own organisation. Think of the last genuinely important decision your team made. Now ask: did the data shape that decision, or did someone make the call and then reach for the data to justify it? If you’re honest, it’s usually the second one. And that tells you […] The post The decision discipline: How to turn insights into action appeared first on e27 .",
+      "published_at": "2026-09-04T04:27:09+00:00",
+      "fetched_at": "2026-09-04T04:27:52+00:00",
+      "summary": "Restrooms may not be the most glamorous frontier for robotics, but they are among the most revealing. In malls, airports, hospitals and office towers, they sit at the intersection of hygiene expectations, labour shortages and operational cost pressures. For facilities managers, they are also one of the hardest spaces to keep consistently clean. Singapore-based Hivebotics […] The post Hivebotics nets US$6M to take re…",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Content-Chance"
+        "APAC Trend Radar"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0)",
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "6b37bd1fdfce9667294b"
+      "id": "b98ca7fe1e82734de2a6"
+    },
+    {
+      "title": "Why podcasts are the next big data revolution",
+      "url": "https://e27.co/why-podcasts-are-the-next-big-data-revolution-20260904/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-04T04:10:57+00:00",
+      "fetched_at": "2026-09-04T04:27:52+00:00",
+      "summary": "Podcast production has exploded. The number of episodes published annually grew from roughly 3.9 million in 2015 to around 29 million in 2023. Hours of valuable information are shared every day through this long-form audio. Yet despite how much useful information is buried inside podcasts, there still isn’t a comprehensive way to index them. We […] The post Why podcasts are the next big data revolution appeared firs…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9faaa3362fbe21fa6121"
     }
   ],
   "source_errors": [],
