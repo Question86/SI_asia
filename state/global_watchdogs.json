@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-09-04T17:10:51+00:00",
+  "generated_at": "2026-09-04T17:22:38+00:00",
   "sections": {
     "global_security": [
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-85046 Google Chromium V8",
+        "summary": "Known exploited vulnerability. Added 2026-09-04. Due 2026-09-18. Google Chromium V8 Type Confusion Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-09-04",
+        "metrics": {
+          "cve": "CVE-2026-85046"
+        }
+      },
       {
         "domain": "security",
         "severity": "high",
@@ -48,18 +60,6 @@
         "published_at": "2026-09-02",
         "metrics": {
           "cve": "CVE-2026-82329"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-9586 Sangoma Switchvox",
-        "summary": "Known exploited vulnerability. Added 2026-09-02. Due 2026-09-05. Sangoma Switchvox SQL Injection Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-09-02",
-        "metrics": {
-          "cve": "CVE-2026-9586"
         }
       },
       {
