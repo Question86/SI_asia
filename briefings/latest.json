@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T08:54:02+00:00",
-  "run_id": "2026-09-04T08:54:02+00:00",
+  "generated_at": "2026-09-04T09:02:08+00:00",
+  "run_id": "2026-09-04T09:02:08+00:00",
   "date": "2026-09-04",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 34,
     "displayed_findings": 34,
     "high": 0,
@@ -1669,29 +1669,7 @@
       "id": "9faaa3362fbe21fa6121"
     }
   ],
-  "new_findings": [
-    {
-      "title": "ELYZAの「業務AIアプリをAIで作成」特許、「新規性ない」と批判殺到→謝罪後も収まらず",
-      "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001167/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-04T04:16:16+00:00",
-      "fetched_at": "2026-09-04T08:53:31+00:00",
-      "summary": "東大・松尾研発のAIスタートアップELYZAが9月3日に発表した特許取得のプレスリリースについて、「AIでアプリを作る仕組みそのものを権利化したのか」「新規性がないのでは」などとX上で批判が相次いだ。 これを受けて同社はその後、リリースを修正し、Xで謝罪した。「生成AIによるプロンプト作成やAIアプリ開発一般を独...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c30d388b38d43090aba9"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
