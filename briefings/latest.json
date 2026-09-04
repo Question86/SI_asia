@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T11:54:40+00:00",
-  "run_id": "2026-09-04T11:54:40+00:00",
+  "generated_at": "2026-09-04T12:06:06+00:00",
+  "run_id": "2026-09-04T12:06:06+00:00",
   "date": "2026-09-04",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 56,
     "displayed_findings": 56,
     "high": 0,
@@ -2651,29 +2651,7 @@
       "id": "9faaa3362fbe21fa6121"
     }
   ],
-  "new_findings": [
-    {
-      "title": "新宿駅に「ごみ箱ロボット」出現 改札内を自動巡回 JR東が実証実験",
-      "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001199/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-04T10:17:10+00:00",
-      "fetched_at": "2026-09-04T11:54:07+00:00",
-      "summary": "JR東日本は9月4日、新宿駅の地下1階改札内コンコースで「移動式ごみ箱ロボット」の実証実験を行うと発表した。期間は9月8日から11月20日までの平日で、午前10時から午後5時までロボットが自動走行し、コンコースの巡回とごみの収集を担う。",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9203e8f76eabb350f7b5"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
