@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-04T11:18:08+00:00_
+_Generiert: 2026-09-04T11:28:40+00:00_
 
 ## Kurzlage
 
@@ -33,6 +33,10 @@ _Generiert: 2026-09-04T11:18:08+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.3M, Depth:35km) in United States 03/09/2026 11:17 UTC, 4 thousand in MMI&gt;=III.
+- **GDACS: Green flood alert in Japan** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104140)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Japan
 - **GDACS: Green earthquake (Magnitude 6.2M, Depth:125.905km) in South Sandwich Islands Region 02/09/2026 23:46 UTC, [unknown].** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563254)
   - Quelle: GDACS
   - Zeit: ``
