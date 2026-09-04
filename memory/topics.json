@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-04T12:06:06+00:00",
+  "generated_at": "2026-09-04T12:33:53+00:00",
   "topics": {
     "ai": [
       {
@@ -24,6 +24,20 @@
         "published_at": "2026-09-04T04:00:31+00:00",
         "relevance_score": 15,
         "url": "https://e27.co/the-ai-dashboard-gold-rush-beyond-the-pretty-charts-20260904/"
+      },
+      {
+        "title": "[NEU] [niedrig] Checkmk: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-04T12:16:30+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3192"
+      },
+      {
+        "title": "[NEU] [mittel] vllm: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-04T12:16:09+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3187"
       },
       {
         "title": "チームの人数が減っても仕事を回す ── AIとGitHub Actionsによる開発ワークフロー改善 - ZOZO TECH BLOG",
@@ -59,20 +73,6 @@
         "published_at": "2026-08-14T12:19:54+00:00",
         "relevance_score": 12,
         "url": "https://github.com/humanlayer/skills/blob/main/plugins/show-me/skills/show-me/SKILL.md"
-      },
-      {
-        "title": "In Southeast Asia’s VC reset, governance becomes the new growth story",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-04T05:11:35+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/in-southeast-asias-vc-reset-governance-becomes-the-new-growth-story-20260904/"
-      },
-      {
-        "title": "Ecosystem Roundup: Governance is Southeast Asia’s new venture currency",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-04T09:21:46+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/ecosystem-roundup-governance-is-southeast-asias-new-venture-currency-20260904/"
       }
     ],
     "security": [
@@ -112,39 +112,39 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3152"
       },
       {
-        "title": "エクシングCPTrans-ME-Xにおける複数の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-04T12:00:00+09:00",
+        "title": "[NEU] [niedrig] Checkmk: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-04T12:16:30+00:00",
         "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN32505330/"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3192"
       },
       {
-        "title": "[UPDATE] [mittel] vim (NetBeans): Schwachstelle ermöglicht Codeausführung",
+        "title": "[NEU] [mittel] Langflow: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-04T11:41:07+00:00",
+        "published_at": "2026-09-04T12:16:30+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0419"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3191"
       },
       {
-        "title": "[UPDATE] [hoch] PostgreSQL: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] Grafana Enterprise: Mehrere Schwachstellen ermöglichen Erlangen von Benutzer- oder Administratorrechten",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-04T11:41:06+00:00",
+        "published_at": "2026-09-04T12:16:30+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0409"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3190"
       },
       {
-        "title": "[UPDATE] [hoch] Intel Prozessoren: Mehrere Schwachstellen",
+        "title": "[NEU] [niedrig] ImageMagick: Mehrere Schwachstellen ermöglichen Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-04T11:41:05+00:00",
+        "published_at": "2026-09-04T12:16:29+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0379"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3188"
       },
       {
-        "title": "[UPDATE] [hoch] vim: Schwachstelle ermöglicht Codeausführung",
+        "title": "[NEU] [kritisch] vm2: Mehrere Schwachstellen ermöglichen Codeausführung",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-04T11:37:08+00:00",
+        "published_at": "2026-09-04T12:16:29+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0904"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3189"
       }
     ],
     "economy": [
@@ -193,6 +193,55 @@
         "url": "https://e27.co/openais-astra-aims-to-turn-ai-from-chatbot-into-digital-worker-20260904/"
       },
       {
+        "title": "[NEU] [niedrig] Checkmk: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-04T12:16:30+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3192"
+      },
+      {
+        "title": "[NEU] [mittel] Langflow: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-04T12:16:30+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3191"
+      },
+      {
+        "title": "[NEU] [mittel] Grafana Enterprise: Mehrere Schwachstellen ermöglichen Erlangen von Benutzer- oder Administratorrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-04T12:16:30+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3190"
+      },
+      {
+        "title": "[NEU] [niedrig] ImageMagick: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-04T12:16:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3188"
+      },
+      {
+        "title": "[NEU] [kritisch] vm2: Mehrere Schwachstellen ermöglichen Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-04T12:16:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3189"
+      },
+      {
+        "title": "[NEU] [mittel] vllm: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-04T12:16:09+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3187"
+      },
+      {
+        "title": "Vulnérabilité dans Apereo CAS (26 août 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-08-26T00:00:00+00:00",
+        "relevance_score": 10,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1082/"
+      },
+      {
         "title": "Philip R. Lane: Diversity at the European Central Bank",
         "source": "ECB Press Releases Speeches Interviews",
         "published_at": "2026-09-04T09:10:00+00:00",
@@ -205,20 +254,6 @@
         "published_at": "2026-09-04T09:21:46+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/ecosystem-roundup-governance-is-southeast-asias-new-venture-currency-20260904/"
-      },
-      {
-        "title": "Chinese businesses are giving away AI tokens with coffee, credit cards, and dumplings",
-        "source": "Rest of World Global Tech Feed",
-        "published_at": "2026-09-04T10:00:00+00:00",
-        "relevance_score": 7,
-        "url": "https://restofworld.org/2026/china-ai-tokens-consumer-rewards-credit-cards-telcos-deepseek/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
-      },
-      {
-        "title": "Version 1.0: Deutsche Institutionen über TerminalFix-Kampagne kompromittiert",
-        "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
-        "published_at": "2026-09-04T07:55:00+00:00",
-        "relevance_score": 7,
-        "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-287419-1032_bits.html"
       }
     ],
     "general": [
@@ -228,6 +263,13 @@
         "published_at": "2026-09-04T05:24:21.871+00:00",
         "relevance_score": 15,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te82"
+      },
+      {
+        "title": "M 5.4 - Kermadec Islands region",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-04T12:32:45.535+00:00",
+        "relevance_score": 13,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te9t"
       },
       {
         "title": "M 5.0 - 236 km ESE of Attu Station, Alaska",
@@ -258,39 +300,32 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000te8r"
       },
       {
-        "title": "令和9年度「概算要求書」及び「政策評価調書」を掲載しました",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-09-04T06:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.digital.go.jp/budget/r9request"
+        "title": "Vulnérabilité dans CPython (27 août 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-08-27T00:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1087/"
       },
       {
-        "title": "エリアデータ連携基盤共同利用ガイドブック第3.0版（本編／Appendix）等を公開しました。",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-09-04T06:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.digital.go.jp/policies/digital_garden_city_nation/area-data-coordination-platform"
+        "title": "Multiples vulnérabilités dans SonicWall NetExtender (26 août 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-08-26T00:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1084/"
       },
       {
-        "title": "松本大臣記者会見（令和8年9月4日）動画を掲載しました",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-09-04T03:20:57+00:00",
-        "relevance_score": 6,
-        "url": "https://www.digital.go.jp/speech/minister-260904-01"
+        "title": "Multiples vulnérabilités dans Redmine (26 août 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-08-26T00:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1085/"
       },
       {
-        "title": "新宿駅に「ごみ箱ロボット」出現 改札内を自動巡回 JR東が実証実験",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-04T10:17:10+00:00",
-        "relevance_score": 5,
-        "url": "https://www.itmedia.co.jp/news/article/2609/04/2000001199/"
-      },
-      {
-        "title": "いいかげんJRPGは「戦闘システム」から脱却しろよ",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-04T04:31:44+00:00",
-        "relevance_score": 5,
-        "url": "https://anond.hatelabo.jp/20260904132526"
+        "title": "Multiples vulnérabilités dans Apache Tomcat (26 août 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-08-26T00:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1083/"
       }
     ],
     "github": [
