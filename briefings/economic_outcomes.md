@@ -1,12 +1,12 @@
 # Economic Outcomes
 
-Generated: `2026-09-03T23:53:20+00:00`
+Generated: `2026-09-04T00:00:54+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
 | Southeast Asia’s chip-hub ambition is colliding with its chip-smuggling problem | $0 | — | 0 | 0 | dormant |
-| WebMCPがアツいので見てほしい \| DevelopersIO | $0 | — | 0 | 0 | active |
-| M 6.2 - South Sandwich Islands region | $0 | — | 0 | 0 | active |
+| WebMCPがアツいので見てほしい \| DevelopersIO | $0 | — | 0 | 0 | dormant |
+| M 6.2 - South Sandwich Islands region | $0 | — | 0 | 0 | dormant |
 | M 4.6 - 170 km ESE of Kuril’sk, Russia | $0 | — | 0 | 0 | dormant |
 | M 5.8 - Kermadec Islands, New Zealand | $0 | — | 0 | 0 | dormant |
 | AWSをゲームで学べる「AWS Cloud Quest」に新バージョン「AWS Cloud Quest 2.0」登場！ AIによるバーチャル顧客と対話し、要件を聞き出して正しくソリューションに落とし込め | $0 | — | 0 | 0 | dormant |
@@ -18,8 +18,8 @@ Generated: `2026-09-03T23:53:20+00:00`
 | M 5.0 - 64 km W of Labuha, Indonesia | $0 | — | 0 | 0 | dormant |
 | Why Japan’s booming AI market is harder to crack than it looks | $0 | — | 0 | 0 | dormant |
 | 無料のLM Studio、DFlash/DSpark/MTPで推論を高速化 | $0 | — | 0 | 0 | dormant |
-| DietrichGebert/ponytail | $0 | — | 0 | 0 | active |
-| sngyai/Sequoia-X | $0 | — | 0 | 0 | active |
+| DietrichGebert/ponytail | $0 | — | 0 | 0 | dormant |
+| sngyai/Sequoia-X | $0 | — | 0 | 0 | dormant |
 | tailscale/tailcat | $0 | — | 0 | 0 | dormant |
 | AIショートドラマ『非妖哉』たった2話で1億回再生を記録 中国の映像クリエイターがほぼ1人で制作 | $0 | — | 0 | 0 | dormant |
 | 民間事業者（アイフル株式会社）に対して公的個人認証サービスの利用に関する主務大臣認定を行いました | $0 | — | 0 | 0 | dormant |
