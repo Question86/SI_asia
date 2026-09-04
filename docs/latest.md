@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-04T19:17:28+00:00_
+_Generiert: 2026-09-04T19:25:04+00:00_
 
 ## Kurzlage
 
-77 neue relevante Treffer. Stärkstes Signal: „AI and human creativity: How ChatGPT Canvas bridges the gap“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
+78 neue relevante Treffer. Stärkstes Signal: „AI and human creativity: How ChatGPT Canvas bridges the gap“ aus e27 Asia Startup and Tech Feed (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -195,6 +195,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)
   - Kurz: 旭辰資訊｜SmartIT Desktop Manager - 存在4個漏洞
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **New API endpoint provides privacy-safe star history data** — Score 10, observation — [Quelle](https://github.blog/changelog/2026-09-04-new-api-endpoint-provides-privacy-safe-star-history-data)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-09-04T16:43:56+00:00`, fetched `2026-09-04T19:24:29+00:00`
+  - Treffer: Datenschutz, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Datenschutz (+7.5); GitHub (+2.0); recent (+1.0)
+  - Kurz: Track repository star growth over time with the new star history REST API endpoint without exposing stargazer identities. Earlier this year, stargazer listing endpoints were restricted to admins and collaborators… The post New API endpoint provides privacy-safe star history data appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Vulnérabilité dans Apereo CAS (26 août 2026)** — Score 10, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1082/)
   - Quelle: CERT-FR Avis de sécurité / `rss`
   - Zeit: published `2026-08-26T00:00:00+00:00`, fetched `2026-09-04T12:33:17+00:00`
@@ -239,15 +248,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
   - Kurz: Une vulnérabilité a été découverte dans CPython. Elle permet à un attaquant de provoquer un déni de service à distance.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Multiples vulnérabilités dans SonicWall NetExtender (26 août 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1084/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-08-26T00:00:00+00:00`, fetched `2026-09-04T12:33:17+00:00`
-  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
-  - Kurz: De multiples vulnérabilités ont été découvertes dans SonicWall NetExtender. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
