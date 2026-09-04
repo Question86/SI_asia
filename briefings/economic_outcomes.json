@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-04T06:52:53+00:00",
+  "generated_at": "2026-09-04T07:01:38+00:00",
   "events": [
     {
       "event_id": "evt_04c8c9515e6d6caa68b7",
@@ -258,13 +258,13 @@
     {
       "event_id": "evt_1b774f156a3e9c6d84be",
       "title": "RIZAP社員、私用AIに顧客の個人情報入力 氏名や疾患、保険証番号など……同社が謝罪",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_1c244b8c1c1e52d36c4a",
@@ -1991,7 +1991,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_a9168860075ad99c5a0d",
