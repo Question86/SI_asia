@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T09:24:24+00:00",
+  "generated_at": "2026-09-04T09:34:58+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 38,
@@ -65,19 +65,19 @@
       "max_score": 16,
       "credibility_total": 2.1,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 20.0,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 17.5,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 23.2,
-      "ranking_score": 20.0,
+      "raw_network_score": 20.2,
+      "ranking_score": 17.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
+      "momentum_bonus": 0.0,
       "baseline_bonus": 0.0,
       "early_signal": false,
       "early_signal_bonus": 0.0,
@@ -86,44 +86,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-08-28T14:08:37+00:00"
-    },
-    {
-      "key": "title:ecosystem-roundup-governance-southeast-asia-venture-currency",
-      "title": "Ecosystem Roundup: Governance is Southeast Asia’s new venture currency",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/ecosystem-roundup-governance-is-southeast-asias-new-venture-currency-20260904/"
-      ],
-      "finding_count": 1,
-      "max_score": 8,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 18.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 13.1,
-      "ranking_score": 18.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 6.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-09-04T09:24:24+00:00"
     },
     {
       "key": "title:cisa-ics-advisory-ics-medical-advisory-2026",
@@ -200,6 +162,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-04T04:08:59+00:00"
+    },
+    {
+      "key": "title:ecosystem-roundup-governance-southeast-asia-venture-currency",
+      "title": "Ecosystem Roundup: Governance is Southeast Asia’s new venture currency",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/ecosystem-roundup-governance-is-southeast-asias-new-venture-currency-20260904/"
+      ],
+      "finding_count": 1,
+      "max_score": 8,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 15.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 10.1,
+      "ranking_score": 15.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 6.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-04T09:24:24+00:00"
     },
     {
       "key": "title:cptrans",
@@ -663,45 +663,6 @@
       "first_seen_at": "2026-09-04T04:08:59+00:00"
     },
     {
-      "key": "domain:www.ecb.europa.eu",
-      "title": "Philip R. Lane: Diversity at the European Central Bank",
-      "sources": [
-        "ECB Press Releases Speeches Interviews"
-      ],
-      "source_classes": [
-        "central_bank",
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260904~7b9257099b.en.pdf"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 11.5,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 14.1,
-      "ranking_score": 11.5,
-      "initial_reach_tier": "institutional",
-      "source_reach_score": 5.0,
-      "authority_bonus_capped": 3.0,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 3.0,
-      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-06-18T14:33:45+00:00"
-    },
-    {
       "key": "earthquake:alaska:5.0",
       "title": "M 5.0 - 236 km ESE of Attu Station, Alaska",
       "sources": [
@@ -743,42 +704,43 @@
       "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
-      "key": "title:jrpg",
-      "title": "いいかげんJRPGは「戦闘システム」から脱却しろよ",
+      "key": "domain:www.ecb.europa.eu",
+      "title": "Philip R. Lane: Diversity at the European Central Bank",
       "sources": [
-        "Hatena Bookmark Hotentry IT"
+        "ECB Press Releases Speeches Interviews"
       ],
       "source_classes": [
+        "central_bank",
         "tier3_specialist"
       ],
       "urls": [
-        "https://anond.hatelabo.jp/20260904132526"
+        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260904~7b9257099b.en.pdf"
       ],
       "finding_count": 1,
-      "max_score": 5,
+      "max_score": 9,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "momentum_delta": 0,
+      "momentum_status": "stable",
       "network_score": 9.0,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 10.1,
+      "raw_network_score": 11.1,
       "ranking_score": 9.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
+      "initial_reach_tier": "institutional",
+      "source_reach_score": 5.0,
+      "authority_bonus_capped": 3.0,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
+      "momentum_bonus": 0.0,
       "baseline_bonus": 0.0,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-09-04T09:24:24+00:00"
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
       "key": "domain:www.bsi.bund.de",
@@ -1128,6 +1090,44 @@
       "first_seen_at": "2026-09-04T01:11:32+00:00"
     },
     {
+      "key": "title:jrpg",
+      "title": "いいかげんJRPGは「戦闘システム」から脱却しろよ",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://anond.hatelabo.jp/20260904132526"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 6.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 7.1,
+      "ranking_score": 6.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-04T09:24:24+00:00"
+    },
+    {
       "key": "title:elyza",
       "title": "ELYZAの「業務AIアプリをAIで作成」特許、「新規性ない」と批判殺到→謝罪後も収まらず",
       "sources": [
@@ -1434,7 +1434,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-04T09:24:24Z",
+    "generated_at": "2026-09-04T09:34:58Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
