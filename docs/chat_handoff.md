@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-04T03:55:10+00:00_
+_Generated: 2026-09-04T04:08:55+00:00_
 
 ## Status
 - status: `normal`
-- findings: `18`
+- findings: `20`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-09-04T03:55:10+00:00_
 - url: https://jvn.jp/vu/JVNVU94249914/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 3. エクシングCPTrans-ME-Xにおける複数の脆弱性
+### 3. The AI dashboard gold rush: Beyond the pretty charts
+- source: e27 Asia Startup and Tech Feed
+- score: `15`
+- published: `2026-09-04T04:00:31+00:00`
+- url: https://e27.co/the-ai-dashboard-gold-rush-beyond-the-pretty-charts-20260904/
+- summary: Claude dashboards have become a kind of “AI flex” on Instagram recently, especially among founders, marketers, finance people and operators. The biggest reason is that dashboards suddenly became very easy to make and very easy to share. Claude Code can now tu…
+
+### 4. エクシングCPTrans-ME-Xにおける複数の脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-09-04T12:00:00+09:00`
 - url: https://jvn.jp/jp/JVN32505330/
 - summary: 株式会社エクシングが提供するCPTrans-ME-Xには、複数の脆弱性が存在します。
-
-### 4. Casdoorにおける認可回避の脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-09-04T10:15:15+09:00`
-- url: https://jvn.jp/vu/JVNVU96680494/
-- summary: CERT/CCから本件に関するアドバイザリが公表されました。
 
 ### 5. チームの人数が減っても仕事を回す ── AIとGitHub Actionsによる開発ワークフロー改善 - ZOZO TECH BLOG
 - source: Hatena Bookmark Hotentry IT
