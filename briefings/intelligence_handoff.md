@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-04T08:42:18Z_
+_Generated: 2026-09-04T08:52:05Z_
 
 ## Lageurteil
 
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “エクシングCPTrans-ME-Xにおける�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-04T10:15:15+09:00` / age_days `0.31`
+- Published: `2026-09-04T10:15:15+09:00` / age_days `0.32`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “エクシングCPTrans-ME-Xにおける�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-04T10:15:00+09:00` / age_days `0.31`
+- Published: `2026-09-04T10:15:00+09:00` / age_days `0.32`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -42,10 +42,10 @@ Stärkste Dynamik nach Gate-Recheck: “エクシングCPTrans-ME-Xにおける�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `25.0`
-- Published: `2026-06-19T07:39:37+00:00` / age_days `77.04`
+- Published: `2026-06-19T07:39:37+00:00` / age_days `77.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: momentum delta +3, high terms: code, security high-signal: code, aging penalty -8.0 for 77.0d old signal
+- Warum: momentum delta +3, high terms: code, security high-signal: code, aging penalty -8.0 for 77.1d old signal
 - Quelle: https://www.heise.de/news/Jetzt-patchen-Angreifer-fuehren-Schadcode-in-der-Sandbox-von-Chrome-aus-11441030.html
 
 ### Should cybersecurity be nationalised?
@@ -58,11 +58,21 @@ Stärkste Dynamik nach Gate-Recheck: “エクシングCPTrans-ME-Xにおける�
 - Warum: momentum delta +3, security high-signal: security, krass gate recheck: needs multi-source, identity, or official high-signal phrase
 - Quelle: https://e27.co/should-cybersecurity-be-nationalised-20260904/
 
+### [UPDATE] [mittel] Puppet: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-09-04T08:41:05+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: code, auth, security high-signal: code, auth, official security but no high-signal phrase: capped at strong
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1401
+
 ### CISA ICS Advisory / ICS Medical Advisory（2026年09月03日）
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-04T10:15:30+09:00` / age_days `0.31`
+- Published: `2026-09-04T10:15:30+09:00` / age_days `0.32`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cisa, jvn, security, advisory, official security but no high-signal phrase: capped at strong
@@ -78,6 +88,16 @@ Stärkste Dynamik nach Gate-Recheck: “エクシングCPTrans-ME-Xにおける�
 - Warum: momentum delta +3, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
 - Quelle: https://e27.co/the-podular-future-why-ai-demands-a-new-organisational-architecture-20260903/
 
+### [UPDATE] [mittel] Puppet: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten
+
+- Band: `strong` (raw `extreme`)
+- Dynamics score: `24.9`
+- Published: `2026-08-28T14:08:37+00:00` / age_days `6.78`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: momentum delta +3, high terms: code, security high-signal: code, extreme gate: needs multi-source high-signal, official security, or identity relevance
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1401
+
 ### Should cybersecurity be nationalised?
 
 - Band: `strong` (raw `strong`)
@@ -92,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “エクシングCPTrans-ME-Xにおける�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.0`
-- Published: `2026-09-04T07:55:00+00:00` / age_days `0.03`
+- Published: `2026-09-04T07:55:00+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10
@@ -102,30 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “エクシングCPTrans-ME-Xにおける�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.0`
-- Published: `2026-09-04T06:48:00.000+00:00` / age_days `0.08`
+- Published: `2026-09-04T06:48:00.000+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, 10, security high-signal: code, 10
 - Quelle: https://www.heise.de/news/Jetzt-patchen-Angreifer-fuehren-Schadcode-in-der-Sandbox-von-Chrome-aus-11441030.html
-
-### エクシングCPTrans-ME-Xにおける複数の脆弱性
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `23.0`
-- Published: `2026-09-04T03:24:43+00:00` / age_days `0.22`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3
-- Quelle: https://jvn.jp/jp/JVN32505330/
-
-### Casdoorにおける認可回避の脆弱性
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `23.0`
-- Published: `2026-09-04T01:50:38+00:00` / age_days `0.29`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3
-- Quelle: https://jvn.jp/vu/JVNVU96680494/
 
 END OF DOCUMENT
