@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T21:44:17+00:00",
-  "run_id": "2026-09-04T21:44:17+00:00",
+  "generated_at": "2026-09-04T21:51:40+00:00",
+  "run_id": "2026-09-04T21:51:40+00:00",
   "date": "2026-09-04",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 82
+      "configured_public_sources_only": 83
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 82,
-    "displayed_findings": 82,
+    "today_file_total": 83,
+    "displayed_findings": 83,
     "high": 0,
     "medium": 29,
-    "observe": 53,
+    "observe": 54,
     "source_errors": 0
   },
   "sections": {
@@ -1705,6 +1705,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "66d817179085a879fd5e"
+      },
+      {
+        "title": "副作用の影響範囲を型で示したい — Scala 3 が模索する「Capture Checking」 - エムスリーテックブログ",
+        "url": "https://www.m3tech.blog/entry/2026/09/03/200000",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-04T18:45:45+00:00",
+        "fetched_at": "2026-09-04T21:51:08+00:00",
+        "summary": "本記事は、コンシューマーチームブログリレー 1日目です。 はじめに 関数型まつりで触れてから、再び自分の中の Scala 熱が高まっています。エンジニアリンググループ、コンシューマーチーム 兼 WHITEJACK チームの松本です。 Scalaでは従来、Effのようなライブラリを使うことでEffect Systemのようなものを実現できまし...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9985b94a8cb2ab830f74"
       },
       {
         "title": "AIに過剰に肯定された人の予後 - orangestar2",
@@ -3657,6 +3678,27 @@
       "id": "66d817179085a879fd5e"
     },
     {
+      "title": "副作用の影響範囲を型で示したい — Scala 3 が模索する「Capture Checking」 - エムスリーテックブログ",
+      "url": "https://www.m3tech.blog/entry/2026/09/03/200000",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-04T18:45:45+00:00",
+      "fetched_at": "2026-09-04T21:51:08+00:00",
+      "summary": "本記事は、コンシューマーチームブログリレー 1日目です。 はじめに 関数型まつりで触れてから、再び自分の中の Scala 熱が高まっています。エンジニアリンググループ、コンシューマーチーム 兼 WHITEJACK チームの松本です。 Scalaでは従来、Effのようなライブラリを使うことでEffect Systemのようなものを実現できまし...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9985b94a8cb2ab830f74"
+    },
+    {
       "title": "AIに過剰に肯定された人の予後 - orangestar2",
       "url": "https://orangestar2.hatenadiary.com/entry/2026/09/04/210407",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3931,25 +3973,25 @@
   ],
   "new_findings": [
     {
-      "title": "GitHub Copilot weekly releases — August 31",
-      "url": "https://github.blog/changelog/2026-09-04-github-copilot-weekly-releases-august-31",
-      "source": "GitHub Changelog Atom",
+      "title": "副作用の影響範囲を型で示したい — Scala 3 が模索する「Capture Checking」 - エムスリーテックブログ",
+      "url": "https://www.m3tech.blog/entry/2026/09/03/200000",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-04T21:05:01+00:00",
-      "fetched_at": "2026-09-04T21:43:46+00:00",
-      "summary": "This week, GitHub Copilot expands model choice and content protections, while VS Code adds new ways to manage agent sessions and get pull requests merge-ready. GitHub Copilot, general Claude Fable… The post GitHub Copilot weekly releases — August 31 appeared first on The GitHub Blog .",
+      "published_at": "2026-09-04T18:45:45+00:00",
+      "fetched_at": "2026-09-04T21:51:08+00:00",
+      "summary": "本記事は、コンシューマーチームブログリレー 1日目です。 はじめに 関数型まつりで触れてから、再び自分の中の Scala 熱が高まっています。エンジニアリンググループ、コンシューマーチーム 兼 WHITEJACK チームの松本です。 Scalaでは従来、Effのようなライブラリを使うことでEffect Systemのようなものを実現できまし...",
       "matched_keywords": [
-        "Copilot",
-        "GitHub"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a3262f2bf35386dc1ee9"
+      "id": "9985b94a8cb2ab830f74"
     }
   ],
   "source_errors": [],
