@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-04T23:57:38+00:00",
+  "generated_at": "2026-09-05T00:43:48+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -211,7 +211,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-04T01:50:38+00:00",
       "last_seen_at": "2026-09-04T23:57:22+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_e0d921293e217132c22d",
@@ -467,7 +467,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-04T05:31:26+00:00",
       "last_seen_at": "2026-09-04T23:57:22+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_c41f3a47ce9fbfd190fe",
@@ -518,7 +518,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-04T16:56:25+00:00",
       "last_seen_at": "2026-09-04T23:57:22+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_e1977ace65ebf1864c3b",
@@ -586,7 +586,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-04T12:33:57+00:00",
       "last_seen_at": "2026-09-04T23:57:22+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_865b5f1f43613c795151",
@@ -638,6 +638,23 @@
       "first_seen_at": "2026-09-02T13:08:59+00:00",
       "last_seen_at": "2026-09-02T13:08:59+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_2dbf41789a4da455f136",
+      "title": "M 5.5 - 156 km E of Kuril’sk, Russia",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1144000.0,
+      "p50_usd": 114400000.0,
+      "p90_usd": 11440000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-05T00:43:33+00:00",
+      "last_seen_at": "2026-09-05T00:43:33+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_072439522f0506eff01d",
@@ -841,7 +858,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-04T02:44:16+00:00",
       "last_seen_at": "2026-09-04T23:57:22+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_81d7388e9d0346587de2",
@@ -1453,7 +1470,7 @@
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-09-04T23:57:22+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_f8de791871e85abc0655",
@@ -1487,7 +1504,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-09-04T23:57:22+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_f9aa70a7450d27852f37",
@@ -1555,7 +1572,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-04T03:24:43+00:00",
       "last_seen_at": "2026-09-04T23:57:22+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_5c0b2150c6dffa55a770",
@@ -1657,7 +1674,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-04T01:50:38+00:00",
       "last_seen_at": "2026-09-04T23:57:22+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_c39c68387b68393d229a",
@@ -1691,7 +1708,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-04T01:50:38+00:00",
       "last_seen_at": "2026-09-04T23:57:22+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_2f5c3cffbb9951edd868",
@@ -1742,7 +1759,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-04T01:50:38+00:00",
       "last_seen_at": "2026-09-04T23:57:22+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_991fff0a26e90c5ae0c8",
@@ -1759,7 +1776,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-09-04T23:57:22+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_5a8609c38e0d544999d3",
@@ -1792,8 +1809,8 @@
       "p90_usd": 1232000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
-      "last_seen_at": "2026-09-03T22:07:00+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-09-05T00:43:33+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_55bf431fc184f598da38",
@@ -1878,7 +1895,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-04T03:47:45+00:00",
       "last_seen_at": "2026-09-04T23:57:22+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_2170780765320e429d3b",
@@ -1980,7 +1997,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-04T20:36:50+00:00",
       "last_seen_at": "2026-09-04T23:57:22+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_78f0e57fed5975d5dde6",
@@ -2218,7 +2235,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-04T04:08:59+00:00",
       "last_seen_at": "2026-09-04T23:57:22+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_8afee7943b6e0258f840",
@@ -2235,7 +2252,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-04T09:52:58+00:00",
       "last_seen_at": "2026-09-04T23:57:22+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_ba2633514b7c89d43fb5",
@@ -2456,7 +2473,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-04T04:28:30+00:00",
       "last_seen_at": "2026-09-04T23:57:22+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_2b10a246f0aad1ef3366",
@@ -2507,7 +2524,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-04T00:53:25+00:00",
       "last_seen_at": "2026-09-04T23:57:22+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_58b1d9a0e9d32a8eebb3",
@@ -2575,7 +2592,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-04T01:11:32+00:00",
       "last_seen_at": "2026-09-04T23:57:22+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a5a54b57014a28b3b8cc",
@@ -2626,7 +2643,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-04T01:50:38+00:00",
       "last_seen_at": "2026-09-04T23:57:22+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_d1d8580e99b913df4698",
