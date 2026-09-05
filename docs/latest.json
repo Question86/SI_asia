@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T01:47:51+00:00",
-  "run_id": "2026-09-05T01:47:51+00:00",
+  "generated_at": "2026-09-05T01:55:29+00:00",
+  "run_id": "2026-09-05T01:55:29+00:00",
   "date": "2026-09-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 4,
     "displayed_findings": 4,
     "high": 0,
@@ -271,30 +271,7 @@
       "id": "9d31e71945fe9996577c"
     }
   ],
-  "new_findings": [
-    {
-      "title": "誰でも簡単にVPNを構築できる「Tailscale」--安全なリモート接続を無料で",
-      "url": "https://japan.zdnet.com/article/35252243/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-03T23:16:53+00:00",
-      "fetched_at": "2026-09-05T01:47:18+00:00",
-      "summary": "「Tailscale」は、「WireGuard」ベースの安全なVPNを手軽に構築できるサービスだ。ポート開放や複雑なネットワーク設定は必要なく、外出先からでもPCやモバイルデバイスへ安全に接続できる。無料プランでも多くの個人利用に対応する。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8243262359948cbe640e"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
