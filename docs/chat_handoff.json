@@ -50,5 +50,137 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “M 5.5 - 156 km E of Kuril’sk, Russia” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=21.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "M 5.5 - 156 km E of Kuril’sk, Russia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tefx",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-05T00:19:26.018+00:00",
+        "age_days": 0.05,
+        "topics": [
+          "disaster"
+        ],
+        "dynamics_score": 21.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "early terms: earthquake",
+          "high terms: 9.8"
+        ],
+        "summary": "PAGER - GREEN ShakeMap - IV Time 2026-09-04 23:52:30 UTC 2026-09-04 23:52:30 UTC at epicenter Location 44.979°N 149.835°E Depth 36.43 km (22.64 mi)"
+      },
+      {
+        "title": "M 5.5 - 156 km E of Kuril’sk, Russia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tefx",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-05T00:43:33+00:00",
+        "age_days": 0.03,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 18.0,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 2,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +2"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "M 4.5 - 159 km ENE of Noda, Japan",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teg7",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-05T00:50:28.040+00:00",
+        "age_days": 0.03,
+        "topics": [
+          "disaster"
+        ],
+        "dynamics_score": 18.0,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "early terms: earthquake"
+        ],
+        "summary": "Time 2026-09-05 00:22:45 UTC 2026-09-05 00:22:45 UTC at epicenter Location 40.643°N 143.564°E Depth 33.86 km (21.04 mi)"
+      },
+      {
+        "title": "M 4.5 - 159 km ENE of Noda, Japan",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teg7",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-05T01:09:44+00:00",
+        "age_days": 0.01,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 17.5,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 1,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +1"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "Microsoftが明かした「AIでチーム全体を速くする」開発術、重要なのはコード生成より「仕様書」",
+        "url": "https://gigazine.net/news/20260904-microsoft-spec-driven-development/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-06-19T01:58:32+00:00",
+        "age_days": 77.98,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 0,
+        "raw_band": "quiet",
+        "dynamic_band": "quiet",
+        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": true,
+        "why": [
+          "momentum delta +3",
+          "single-source AI hype brake -8.0",
+          "aging penalty -8.0 for 78.0d old signal"
+        ],
+        "summary": ""
+      }
+    ]
+  }
 }
