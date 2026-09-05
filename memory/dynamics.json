@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-05T10:35:06Z",
+  "generated_at": "2026-09-05T10:48:58Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 30,
+    "dynamics": 32,
     "bands": {
       "krass": 1,
       "strong": 7,
-      "watch": 9,
-      "quiet": 13
+      "watch": 10,
+      "quiet": 14
     },
     "bands_after_gate_recheck": {
       "strong": 8,
-      "watch": 9,
-      "quiet": 13
+      "watch": 10,
+      "quiet": 14
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://openai.com/index/gpt-6-astra",
       "source": "OpenAI News RSS",
       "published_at": "2026-09-03T11:00:00+00:00",
-      "age_days": 1.98,
+      "age_days": 1.99,
       "topics": [
         "ai",
         "security"
@@ -49,7 +49,7 @@
       "url": "https://www.global.toshiba/jp/cybersecurity/corporate/report.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-05T06:08:47+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security",
         "macro"
@@ -74,7 +74,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tehs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T07:22:32+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -98,7 +98,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teg7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T01:09:44+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "general"
       ],
@@ -122,7 +122,7 @@
       "url": "https://github.com/blader/humanizer",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-05T06:31:31+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -146,7 +146,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tefx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T00:19:26.018+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "disaster"
       ],
@@ -171,7 +171,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tefx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T00:43:33+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "general"
       ],
@@ -195,7 +195,7 @@
       "url": "https://www.global.toshiba/jp/cybersecurity/corporate/report.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-05T09:29:42+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -219,7 +219,7 @@
       "url": "https://openai.com/index/gpt-6-astra",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 79.58,
+      "age_days": 79.59,
       "topics": [
         "general"
       ],
@@ -246,7 +246,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tehs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T07:17:57.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -270,7 +270,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teg7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T00:50:28.040+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "disaster"
       ],
@@ -294,7 +294,7 @@
       "url": "https://kawasin73.hatenablog.com/entry/2026/09/05/092056",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-05T06:31:31+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -321,7 +321,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tehe",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T05:22:26.040+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "disaster"
       ],
@@ -346,7 +346,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tehe",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T05:29:03+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -370,7 +370,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tegg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T02:11:05+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "general"
       ],
@@ -390,11 +390,37 @@
       "summary": ""
     },
     {
+      "title": "OpenAIのAIエージェント、休眠サイトを掲示板化してタスク回答を共有か 研究団体が報告書公開",
+      "url": "https://www.itmedia.co.jp/news/article/2609/05/2000001200/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-05T10:46:03+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 16.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "リモートチームなら通話の音質に命をかけて欲しい - モヒカン技術ブログ",
       "url": "https://blog.pinkumohikan.com/entry/2026/09/05/150757",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-05T09:54:14+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
@@ -418,7 +444,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tegg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T02:02:30.040+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "disaster"
       ],
@@ -442,7 +468,7 @@
       "url": "https://zenn.dev/yesodco/articles/ed0eb2f6b7621a",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-05T03:23:45+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -468,7 +494,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOUC03CDT0T00C26A7000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T02:10:07+00:00",
-      "age_days": 78.35,
+      "age_days": 78.36,
       "topics": [
         "ai"
       ],
@@ -496,7 +522,7 @@
       "url": "https://japan.zdnet.com/article/35252243/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T03:57:18+00:00",
-      "age_days": 78.28,
+      "age_days": 78.29,
       "topics": [
         "ai",
         "infra"
@@ -525,7 +551,7 @@
       "url": "https://kawasin73.hatenablog.com/entry/2026/09/05/092056",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-05T03:06:41+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "ai"
       ],
@@ -551,7 +577,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOUC03CDT0T00C26A7000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-04T23:34:04+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "ai"
       ],
@@ -577,7 +603,7 @@
       "url": "https://zenn.dev/yesodco/articles/ed0eb2f6b7621a",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-04T04:42:49+00:00",
-      "age_days": 1.24,
+      "age_days": 1.25,
       "topics": [
         "ai"
       ],
@@ -603,7 +629,7 @@
       "url": "https://japan.zdnet.com/article/35252243/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T23:16:53+00:00",
-      "age_days": 1.47,
+      "age_days": 1.48,
       "topics": [
         "ai",
         "infra"
@@ -630,7 +656,7 @@
       "url": "https://github.com/blader/humanizer",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-05T06:30:54+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "macro"
@@ -676,11 +702,36 @@
       "summary": "タイトルの「命をかけて」は当然冗談だが、リモートチームなのに通話時の音質に無頓着な人が多すぎる。 思っているよりも、あなたの声は聞き取りにくい オンラインミーティングで相手に「声が小さい」「隣や周りの音を拾っている」「聞き取りにくい」と言われたことはないだろうか？ それは音質への投資が不十分なサイン..."
     },
     {
+      "title": "OpenAIのAIエージェント、休眠サイトを掲示板化してタスク回答を共有か 研究団体が報告書公開",
+      "url": "https://www.itmedia.co.jp/news/article/2609/05/2000001200/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-05T04:25:07+00:00",
+      "age_days": 0.27,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 4.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "米AI安全性研究の非営利団体Nightingale Collectiveのシドニー・フォン・アルクスCEOらは9月4日（現地時間）、米OpenAIの社内AIエージェントとみられる集団が、5月から6月にかけてドイツ語圏の小規模ウィキサイトを事実上の掲示板として使い、評価タスクの答えや実行環境の制限を回避する手法を共有していたとする報告書..."
+    },
+    {
       "title": "この写真をよいという人も失敗という人もいて面白いからThreadsに上げたら、影をAIで消して「この方が主題が引き立つでしょ？」とドヤ顔するやつがいて修羅場",
       "url": "https://togetter.com/li/2741594",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T14:52:13+00:00",
-      "age_days": 77.82,
+      "age_days": 77.83,
       "topics": [
         "ai"
       ],
@@ -707,7 +758,7 @@
       "url": "https://gigazine.net/news/20260904-microsoft-spec-driven-development/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 78.36,
+      "age_days": 78.37,
       "topics": [
         "ai"
       ],
@@ -734,7 +785,7 @@
       "url": "https://togetter.com/li/2741594",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-05T03:49:23+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
@@ -759,7 +810,7 @@
       "url": "https://gigazine.net/news/20260904-microsoft-spec-driven-development/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-04T07:07:18+00:00",
-      "age_days": 1.14,
+      "age_days": 1.15,
       "topics": [
         "ai"
       ],
