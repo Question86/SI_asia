@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-05T02:32:21+00:00_
+_Generiert: 2026-09-05T02:45:24+00:00_
 
 ## Kurzlage
 
-5 neue relevante Treffer. Stärkstes Signal: „M 4.5 - 159 km ENE of Noda, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+6 neue relevante Treffer. Stärkstes Signal: „M 4.5 - 159 km ENE of Noda, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -94,6 +94,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - IV Time 2026-09-04 23:52:30 UTC 2026-09-04 23:52:30 UTC at epicenter Location 44.979°N 149.835°E Depth 36.43 km (22.64 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **日本のデータセンター4倍へ、8年で10兆円投資 AI向けで米中に次ぐ - 日本経済新聞** — Score 10, observation — [Quelle](https://www.nikkei.com/article/DGXZQOUC03CDT0T00C26A7000000/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-04T23:34:04+00:00`, fetched `2026-09-05T02:44:55+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
+  - Kurz: 国内の人工知能（AI）向けデータセンターの規模が2030年代半ばまでに25年末に比べ4倍超に増えることが分かった。自国内でAIのデータや技術を管理する「AI主権」の確立に向け、基盤となるデータセンターの整備が米中に次ぐ規模で進む。国内でデータセンターを運営する主要26社の新設計画を日本経済新聞が調べた。各社に計...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **誰でも簡単にVPNを構築できる「Tailscale」--安全なリモート接続を無料で** — Score 10, observation — [Quelle](https://japan.zdnet.com/article/35252243/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-03T23:16:53+00:00`, fetched `2026-09-05T01:47:18+00:00`
