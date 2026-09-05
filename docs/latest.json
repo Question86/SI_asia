@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T06:55:27+00:00",
-  "run_id": "2026-09-05T06:55:27+00:00",
+  "generated_at": "2026-09-05T07:07:57+00:00",
+  "run_id": "2026-09-05T07:07:57+00:00",
   "date": "2026-09-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 12,
     "displayed_findings": 12,
     "high": 0,
@@ -679,29 +679,7 @@
       "id": "9d31e71945fe9996577c"
     }
   ],
-  "new_findings": [
-    {
-      "title": "この写真をよいという人も失敗という人もいて面白いからThreadsに上げたら、影をAIで消して「この方が主題が引き立つでしょ？」とドヤ顔するやつがいて修羅場",
-      "url": "https://togetter.com/li/2741594",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-05T03:49:23+00:00",
-      "fetched_at": "2026-09-05T06:54:57+00:00",
-      "summary": "福井 達也 | Tatsuya Fukui / 福井写真事務所 @f_tatsuya_ph この写真をよいと捉える人もいれば 失敗と捉える人もいるから写真は面白い というキャプションと共にこの写真をThreadsに載せたら僕の影をAIで消されて 「わかります？こっちの方が主題が引き立つでしょ？」って言われました。 修羅場です pic.x.com/T5pVmhEc...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "75ea58e7699e6409053f"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
