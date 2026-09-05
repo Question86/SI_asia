@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-05T14:27:01+00:00_
+_Generated: 2026-09-05T14:43:49+00:00_
 
 ## Status
 - status: `normal`
-- findings: `19`
+- findings: `20`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-09-05T14:27:01+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000teg7
 - summary: Time 2026-09-05 00:22:45 UTC 2026-09-05 00:22:45 UTC at epicenter Location 40.643°N 143.564°E Depth 33.86 km (21.04 mi)
 
-### 5. M 5.5 - 156 km E of Kuril’sk, Russia
+### 5. M 5.5 - 157 km E of Kokopo, Papua New Guinea
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `13`
+- published: `2026-09-05T14:39:51.847+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000teji
+- summary: PAGER - GREEN ShakeMap - IV Time 2026-09-05 14:12:07 UTC 2026-09-05 14:12:07 UTC at epicenter Location 4.547°S 153.677°E Depth 114.36 km (71.06 mi)
+
+### 6. M 5.5 - 156 km E of Kuril’sk, Russia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-09-05T00:19:26.018+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tefx
 - summary: PAGER - GREEN ShakeMap - IV Time 2026-09-04 23:52:30 UTC 2026-09-04 23:52:30 UTC at epicenter Location 44.979°N 149.835°E Depth 36.43 km (22.64 mi)
 
-### 6. blader/humanizer
+### 7. blader/humanizer
 - source: GitHub Trending RSS All Languages Daily
 - score: `13`
 - published: `None`
 - url: https://github.com/blader/humanizer
 - summary: Agent skill that removes signs of AI-generated writing from text https://skills.sh/blader/humanizer Humanizer Humanizer rewrites AI-sounding text so it reads like a person wrote it, without changing what it says. Because it is just Markdown, it works with any…
 
-### 7. OpenAIのAIエージェント、休眠サイトを掲示板化してタスク回答を共有か 研究団体が報告書公開
+### 8. OpenAIのAIエージェント、休眠サイトを掲示板化してタスク回答を共有か 研究団体が報告書公開
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
 - published: `2026-09-05T04:25:07+00:00`
 - url: https://www.itmedia.co.jp/news/article/2609/05/2000001200/
 - summary: 米AI安全性研究の非営利団体Nightingale Collectiveのシドニー・フォン・アルクスCEOらは9月4日（現地時間）、米OpenAIの社内AIエージェントとみられる集団が、5月から6月にかけてドイツ語圏の小規模ウィキサイトを事実上の掲示板として使い、評価タスクの答えや実行環境の制限を回避する手法を共有していたとする報告書...
-
-### 8. M 5.1 - 69 km E of Antofagasta de la Sierra, Argentina
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-09-05T11:58:52.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tej2
-- summary: Time 2026-09-05 11:37:12 UTC 2026-09-05 11:37:12 UTC at epicenter Location 26.108°S 66.718°W Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT

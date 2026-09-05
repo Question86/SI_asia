@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T14:27:06+00:00",
+  "generated_at": "2026-09-05T14:43:52+00:00",
   "sections": {
     "global_security": [
       {
@@ -121,6 +121,21 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563451",
         "published_at": "",
         "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "watch",
+        "title": "USGS earthquake M5.5 - 157 km E of Kokopo, Papua New Guinea",
+        "summary": "M5.5 - 157 km E of Kokopo, Papua New Guinea. PAGER alert: green. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teji",
+        "published_at": "2026-09-05T14:12:07+00:00",
+        "metrics": {
+          "mag": 5.5,
+          "alert": "green",
+          "sig": 465.0,
+          "tsunami": 0
+        }
       }
     ],
     "global_economy": []
