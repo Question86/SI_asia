@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T17:14:05+00:00",
+  "generated_at": "2026-09-05T17:22:15+00:00",
   "sections": {
     "global_security": [
       {
@@ -121,6 +121,21 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563451",
         "published_at": "",
         "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "watch",
+        "title": "USGS earthquake M5.6 - 96 km ESE of Isangel, Vanuatu",
+        "summary": "M5.6 - 96 km ESE of Isangel, Vanuatu. PAGER alert: none. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tek0",
+        "published_at": "2026-09-05T17:02:11+00:00",
+        "metrics": {
+          "mag": 5.6,
+          "alert": "",
+          "sig": 482.0,
+          "tsunami": 0
+        }
       }
     ],
     "global_economy": []

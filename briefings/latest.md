@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-05T17:14:00+00:00_
+_Generiert: 2026-09-05T17:22:11+00:00_
 
 ## Kurzlage
 
-20 neue relevante Treffer. Stärkstes Signal: „GPT-6 Astra: A new generation of intelligence“ aus OpenAI News RSS (Score 20, observation).
+21 neue relevante Treffer. Stärkstes Signal: „GPT-6 Astra: A new generation of intelligence“ aus OpenAI News RSS (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -53,6 +53,10 @@ _Generiert: 2026-09-05T17:14:00+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in United States 03/09/2026 20:21 UTC, Few people affected in MMI III.
+- **USGS earthquake M5.6 - 96 km ESE of Isangel, Vanuatu** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tek0)
+  - Quelle: USGS
+  - Zeit: `2026-09-05T17:02:11+00:00`
+  - Kurz: M5.6 - 96 km ESE of Isangel, Vanuatu. PAGER alert: none. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -144,14 +148,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 米AI安全性研究の非営利団体Nightingale Collectiveのシドニー・フォン・アルクスCEOらは9月4日（現地時間）、米OpenAIの社内AIエージェントとみられる集団が、5月から6月にかけてドイツ語圏の小規模ウィキサイトを事実上の掲示板として使い、評価タスクの答えや実行環境の制限を回避する手法を共有していたとする報告書...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.1 - 69 km E of Antofagasta de la Sierra, Argentina** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tej2)
+- **M 5.6 - 96 km ESE of Isangel, Vanuatu** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tek0)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-05T11:58:52.040+00:00`, fetched `2026-09-05T12:19:01+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Zeit: published `2026-09-05T17:21:31.537+00:00`, fetched `2026-09-05T17:21:39+00:00`
+  - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Argentina (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-05 11:37:12 UTC 2026-09-05 11:37:12 UTC at epicenter Location 26.108°S 66.718°W Depth 10.00 km (6.21 mi)
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: ShakeMap - IV Time 2026-09-05 17:02:11 UTC 2026-09-05 17:02:11 UTC at epicenter Location 19.807°S 170.158°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **サイバーセキュリティ報告書 | 東芝 サイバーセキュリティ | 東芝** — Score 11, observation — [Quelle](https://www.global.toshiba/jp/cybersecurity/corporate/report.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
