@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-05T08:53:59+00:00",
+  "generated_at": "2026-09-05T09:01:07+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -99,10 +99,10 @@
     },
     "domain:openai.com": {
       "title": "GPT-6 Astra: A new generation of intelligence",
-      "updated_at": "2026-09-05T08:53:59+00:00",
+      "updated_at": "2026-09-05T09:01:07+00:00",
       "network_scores": [
-        25.4,
         25.1,
+        22.1,
         22.1,
         22.1,
         22.1,
@@ -132,10 +132,10 @@
         22.1,
         22.1
       ],
-      "rolling_average": 22.31,
-      "rolling_peak": 25.4,
+      "rolling_average": 22.2,
+      "rolling_peak": 25.1,
       "last_score": 22.1,
-      "z_hint": -0.21
+      "z_hint": -0.1
     },
     "title:read-remote-repository-content-github-cli": {
       "title": "Read remote repository content with GitHub CLI",
@@ -2703,7 +2703,7 @@
     },
     "domain:gigazine.net": {
       "title": "Microsoftが明かした「AIでチーム全体を速くする」開発術、重要なのはコード生成より「仕様書」",
-      "updated_at": "2026-09-05T08:53:59+00:00",
+      "updated_at": "2026-09-05T09:01:07+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -3743,7 +3743,7 @@
     },
     "domain:www.nikkei.com": {
       "title": "日本のデータセンター4倍へ、8年で10兆円投資 AI向けで米中に次ぐ - 日本経済新聞",
-      "updated_at": "2026-09-05T08:53:59+00:00",
+      "updated_at": "2026-09-05T09:01:07+00:00",
       "network_scores": [
         12.1,
         12.1,
@@ -3959,7 +3959,7 @@
     },
     "domain:japan.zdnet.com": {
       "title": "誰でも簡単にVPNを構築できる「Tailscale」--安全なリモート接続を無料で",
-      "updated_at": "2026-09-05T08:53:59+00:00",
+      "updated_at": "2026-09-05T09:01:07+00:00",
       "network_scores": [
         12.1,
         12.1,
@@ -4876,7 +4876,7 @@
     },
     "domain:pic.x.com": {
       "title": "この写真をよいという人も失敗という人もいて面白いからThreadsに上げたら、影をAIで消して「この方が主題が引き立つでしょ？」とドヤ顔するやつがいて修羅場",
-      "updated_at": "2026-09-05T08:53:59+00:00",
+      "updated_at": "2026-09-05T09:01:07+00:00",
       "network_scores": [
         10.1,
         10.1,
@@ -4889,12 +4889,13 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.6,
+      "rolling_average": 7.56,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.5
+      "z_hint": -0.46
     },
     "earthquake:m 4.7 - fiji region:4.7": {
       "title": "M 4.7 - Fiji region",
@@ -18639,7 +18640,7 @@
     },
     "earthquake:m 5.5 - 156 km e of kuril’sk, russia:5.5": {
       "title": "M 5.5 - 156 km E of Kuril’sk, Russia",
-      "updated_at": "2026-09-05T08:53:59+00:00",
+      "updated_at": "2026-09-05T09:01:07+00:00",
       "network_scores": [
         15.7,
         15.7,
@@ -18679,7 +18680,7 @@
     },
     "earthquake:japan:4.5": {
       "title": "M 4.5 - 159 km ENE of Noda, Japan",
-      "updated_at": "2026-09-05T08:53:59+00:00",
+      "updated_at": "2026-09-05T09:01:07+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -18719,7 +18720,7 @@
     },
     "earthquake:m 4.8 - kermadec islands, new zealand:4.8": {
       "title": "M 4.8 - Kermadec Islands, New Zealand",
-      "updated_at": "2026-09-05T08:53:59+00:00",
+      "updated_at": "2026-09-05T09:01:07+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -18759,9 +18760,10 @@
     },
     "title:html": {
       "title": "AIに「中学生でもわかるように1枚のHTMLで図解して」が、複雑なコードを読む前の最良の準備運動かも",
-      "updated_at": "2026-09-05T08:53:59+00:00",
+      "updated_at": "2026-09-05T09:01:07+00:00",
       "network_scores": [
         15.1,
+        12.1,
         12.1,
         12.1,
         12.1,
@@ -18798,7 +18800,7 @@
     },
     "earthquake:m 5.0 - off the coast of central america:5.0": {
       "title": "M 5.0 - off the coast of Central America",
-      "updated_at": "2026-09-05T08:53:59+00:00",
+      "updated_at": "2026-09-05T09:01:07+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -18817,16 +18819,17 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 11.87,
+      "rolling_average": 11.86,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.17
+      "z_hint": -0.16
     },
     "github_repo:blader/humanizer": {
       "title": "blader/humanizer",
-      "updated_at": "2026-09-05T08:53:59+00:00",
+      "updated_at": "2026-09-05T09:01:07+00:00",
       "network_scores": [
         18.1,
         15.1,
@@ -18840,16 +18843,17 @@
         15.1,
         15.1,
         15.1,
+        15.1,
         15.1
       ],
-      "rolling_average": 15.33,
+      "rolling_average": 15.31,
       "rolling_peak": 18.1,
       "last_score": 15.1,
-      "z_hint": -0.23
+      "z_hint": -0.21
     },
     "domain:kawasin73.hatenablog.com": {
       "title": "Claude Code の Rules はもう死んでいる - kawasin73のブログ",
-      "updated_at": "2026-09-05T08:53:59+00:00",
+      "updated_at": "2026-09-05T09:01:07+00:00",
       "network_scores": [
         16.1,
         13.1,
@@ -18863,16 +18867,17 @@
         13.1,
         13.1,
         13.1,
+        13.1,
         13.1
       ],
-      "rolling_average": 13.33,
+      "rolling_average": 13.31,
       "rolling_peak": 16.1,
       "last_score": 13.1,
-      "z_hint": -0.23
+      "z_hint": -0.21
     },
     "earthquake:indonesia:4.5": {
       "title": "M 4.5 - 76 km S of Gorontalo, Indonesia",
-      "updated_at": "2026-09-05T08:53:59+00:00",
+      "updated_at": "2026-09-05T09:01:07+00:00",
       "network_scores": [
         20.7,
         17.7,
@@ -18882,12 +18887,13 @@
         17.7,
         17.7,
         17.7,
+        17.7,
         17.7
       ],
-      "rolling_average": 18.03,
+      "rolling_average": 18.0,
       "rolling_peak": 20.7,
       "last_score": 17.7,
-      "z_hint": -0.33
+      "z_hint": -0.3
     }
   }
 }
