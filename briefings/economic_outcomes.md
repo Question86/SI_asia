@@ -1,10 +1,10 @@
 # Economic Outcomes
 
-Generated: `2026-09-05T21:17:20+00:00`
+Generated: `2026-09-05T21:25:32+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
-| .gitignore everything by default | $0 | — | 0 | 0 | active |
+| .gitignore everything by default | $0 | — | 0 | 0 | dormant |
 | Southeast Asia’s chip-hub ambition is colliding with its chip-smuggling problem | $0 | — | 0 | 0 | dormant |
 | WebMCPがアツいので見てほしい \| DevelopersIO | $0 | — | 0 | 0 | dormant |
 | M 6.2 - South Sandwich Islands region | $0 | — | 0 | 0 | dormant |
