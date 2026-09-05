@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-05T01:09:44+00:00",
+  "generated_at": "2026-09-05T01:29:31+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -2703,9 +2703,8 @@
     },
     "domain:gigazine.net": {
       "title": "Microsoftが明かした「AIでチーム全体を速くする」開発術、重要なのはコード生成より「仕様書」",
-      "updated_at": "2026-09-05T01:09:44+00:00",
+      "updated_at": "2026-09-05T01:29:31+00:00",
       "network_scores": [
-        9.1,
         9.1,
         9.1,
         9.1,
@@ -2734,12 +2733,13 @@
         12.2,
         12.2,
         10.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 10.3,
+      "rolling_average": 10.24,
       "rolling_peak": 15.2,
       "last_score": 7.1,
-      "z_hint": -3.2
+      "z_hint": -3.14
     },
     "title:acrab-raises-350m-advance-agentic-compute-infrastructure": {
       "title": "Acrab raises US$350M to advance Agentic AI compute infrastructure",
@@ -18604,26 +18604,28 @@
     },
     "earthquake:m 5.5 - 156 km e of kuril’sk, russia:5.5": {
       "title": "M 5.5 - 156 km E of Kuril’sk, Russia",
-      "updated_at": "2026-09-05T01:09:44+00:00",
+      "updated_at": "2026-09-05T01:29:31+00:00",
       "network_scores": [
         18.7,
+        15.7,
         15.7
       ],
-      "rolling_average": 17.2,
+      "rolling_average": 16.7,
       "rolling_peak": 18.7,
       "last_score": 15.7,
-      "z_hint": -1.5
+      "z_hint": -1.0
     },
     "earthquake:japan:4.5": {
       "title": "M 4.5 - 159 km ENE of Noda, Japan",
-      "updated_at": "2026-09-05T01:09:44+00:00",
+      "updated_at": "2026-09-05T01:29:31+00:00",
       "network_scores": [
-        20.7
+        20.7,
+        17.7
       ],
-      "rolling_average": 20.7,
+      "rolling_average": 19.2,
       "rolling_peak": 20.7,
-      "last_score": 20.7,
-      "z_hint": 0.0
+      "last_score": 17.7,
+      "z_hint": -1.5
     }
   }
 }
