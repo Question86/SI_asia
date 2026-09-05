@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T00:43:33+00:00",
+  "generated_at": "2026-09-05T01:09:44+00:00",
   "sections": {
     "global_security": [
       {
@@ -131,21 +131,6 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000147",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.5 - 156 km E of Kuril’sk, Russia",
-        "summary": "M5.5 - 156 km E of Kuril’sk, Russia. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tefx",
-        "published_at": "2026-09-04T23:52:30+00:00",
-        "metrics": {
-          "mag": 5.5,
-          "alert": "green",
-          "sig": 465.0,
-          "tsunami": 0
-        }
       }
     ],
     "global_economy": []

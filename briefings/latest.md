@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-05T00:43:29+00:00_
+_Generiert: 2026-09-05T01:09:41+00:00_
 
 ## Kurzlage
 
-2 neue relevante Treffer. Stärkstes Signal: „M 5.5 - 156 km E of Kuril’sk, Russia“ aus USGS M4.5+ Earthquakes Past Hour (Score 13, risk).
+3 neue relevante Treffer. Stärkstes Signal: „M 4.5 - 159 km ENE of Noda, Japan“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -57,10 +57,6 @@ _Generiert: 2026-09-05T00:43:29+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Volcanic eruption is on going for Sinabung in Indonesia
-- **USGS earthquake M5.5 - 156 km E of Kuril’sk, Russia** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tefx)
-  - Quelle: USGS
-  - Zeit: `2026-09-04T23:52:30+00:00`
-  - Kurz: M5.5 - 156 km E of Kuril’sk, Russia. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -77,7 +73,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
-Keine neuen mittleren Treffer.
+- **M 4.5 - 159 km ENE of Noda, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000teg7)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-05T00:50:28.040+00:00`, fetched `2026-09-05T01:09:10+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-05 00:22:45 UTC 2026-09-05 00:22:45 UTC at epicenter Location 40.643°N 143.564°E Depth 33.86 km (21.04 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
@@ -102,7 +106,7 @@ Keine neuen mittleren Treffer.
 
 ## Empfehlungen
 
-- Keine direkte Handlung. Konfigurierte Quellen weiter prüfen.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 
