@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-09-05T23:25:14+00:00`
+Generated: `2026-09-05T23:33:11+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -22,7 +22,7 @@ Generated: `2026-09-05T23:25:14+00:00`
 | Why Japan’s booming AI market is harder to crack than it looks | $0 | — | 0 | 0 | dormant |
 | 無料のLM Studio、DFlash/DSpark/MTPで推論を高速化 | $0 | — | 0 | 0 | dormant |
 | DietrichGebert/ponytail | $0 | — | 0 | 0 | dormant |
-| M 4.8 - Kermadec Islands, New Zealand | $0 | — | 0 | 0 | active |
+| M 4.8 - Kermadec Islands, New Zealand | $0 | — | 0 | 0 | dormant |
 | sngyai/Sequoia-X | $0 | — | 0 | 0 | dormant |
 | tailscale/tailcat | $0 | — | 0 | 0 | dormant |
 | AIショートドラマ『非妖哉』たった2話で1億回再生を記録 中国の映像クリエイターがほぼ1人で制作 | $0 | — | 0 | 0 | dormant |
