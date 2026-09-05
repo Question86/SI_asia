@@ -1,67 +1,25 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-04T23:57:17+00:00_
+_Generated: 2026-09-05T00:43:29+00:00_
 
 ## Status
 - status: `normal`
-- findings: `84`
+- findings: `2`
 
 ## Top Signals
 
-### 1. AI and human creativity: How ChatGPT Canvas bridges the gap
-- source: e27 Asia Startup and Tech Feed
-- score: `20`
-- published: `2026-09-04T03:45:27+00:00`
-- url: https://e27.co/ai-and-human-creativity-how-chatgpt-canvas-bridges-the-gap-20260904/
-- summary: In the world of AI-powered content creation, ChatGPT Canvas is a game-changer. Unlike traditional ChatGPT interactions, where multiple prompts and re-prompts are necessary to fine-tune content, ChatGPT Canvas introduces a new, interactive interface that allow…
-
-### 2. GPT-6 Astra is generally available in GitHub Copilot
-- source: GitHub Changelog Atom
-- score: `18`
-- published: `2026-09-04T18:59:51+00:00`
-- url: https://github.blog/changelog/2026-09-04-gpt-6-astra-is-generally-available-in-github-copilot
-- summary: GPT-6 Astra from OpenAI is now available in GitHub Copilot. OpenAI’s latest general-purpose model, GPT-6 Astra, is designed for long-horizon, autonomous coding and agentic tasks. In our internal testing, GPT-6… The post GPT-6 Astra is generally available in G…
-
-### 3. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-09-04T11:37:08+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1008
-- summary: Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder sonstige Auswirkungen zu verursachen.
-
-### 4. [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-09-04T11:37:07+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0879
-- summary: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Zustand herbeizuführen oder einen nicht näher spezifizierten Angriff durchzuführen.
-
-### 5. M 5.4 - Kermadec Islands region
+### 1. M 5.5 - 156 km E of Kuril’sk, Russia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
-- published: `2026-09-04T12:32:45.535+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000te9t
-- summary: PAGER - GREEN ShakeMap - III Time 2026-09-04 11:59:58 UTC 2026-09-04 11:59:58 UTC at epicenter Location 28.562°S 176.645°W Depth 10.00 km (6.21 mi)
+- published: `2026-09-05T00:19:26.018+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tefx
+- summary: PAGER - GREEN ShakeMap - IV Time 2026-09-04 23:52:30 UTC 2026-09-04 23:52:30 UTC at epicenter Location 44.979°N 149.835°E Depth 36.43 km (22.64 mi)
 
-### 6. チームの人数が減っても仕事を回す ── AIとGitHub Actionsによる開発ワークフロー改善 - ZOZO TECH BLOG
+### 2. Microsoftが明かした「AIでチーム全体を速くする」開発術、重要なのはコード生成より「仕様書」
 - source: Hatena Bookmark Hotentry IT
-- score: `13`
-- published: `2026-09-01T14:04:25+00:00`
-- url: https://techblog.zozo.com/entry/wear-web-fe-adjust-workflow
-- summary: はじめに こんにちは、WEAR開発部Webブロックの吉田です。普段はWEARの新機能開発や運用改善を担当しています。 Webブロックでは、異動によりメンバーが減ったことで、開発ワークフローのさまざまな工程で効率化が求められていました。本記事では、AIエージェントとGitHub Actionsによるワークフローの改善を取り入れ、...
-
-### 7. Should cybersecurity be nationalised?
-- source: e27 Asia Startup and Tech Feed
-- score: `12`
-- published: `2026-09-04T04:15:31+00:00`
-- url: https://e27.co/should-cybersecurity-be-nationalised-20260904/
-- summary: Up front: the honest answer is, I don’t think anybody is proposing that. Yet. I don’t know of any plan to put cybersecurity under state ownership, and I am misleading you if I suggest otherwise. But at a recent industry discussion, an argument surfaced that g…
-
-### 8. The Podular future: Why AI demands a new organisational architecture
-- source: e27 Asia Startup and Tech Feed
-- score: `12`
-- published: `2026-09-04T01:30:49+00:00`
-- url: https://e27.co/the-podular-future-why-ai-demands-a-new-organisational-architecture-20260903/
-- summary: Over the past year, I have become increasingly convinced that most people are looking at AI through the wrong lens. The dominant conversation is still about tools, productivity, automation, and replacement. But I think the deeper shift is structural. AI is no…
+- score: `5`
+- published: `2026-09-04T07:07:18+00:00`
+- url: https://gigazine.net/news/20260904-microsoft-spec-driven-development/
+- summary: Microsoftの社内IT組織Microsoft Digitalは、AIを使ったソフトウェア開発で個人の作業速度だけを高めてもチーム全体の生産性向上にはつながりにくいとして、仕様を開発全体の共通基準にする「仕様駆動開発(SDD)」の取り組みを公開しました。AIにコードを書かせる前に「何を作るのか」を明確にすることが重要だと説明して...
 
 END OF DOCUMENT

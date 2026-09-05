@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-04T23:57:22+00:00",
+  "generated_at": "2026-09-05T00:43:33+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -2702,10 +2702,9 @@
       "z_hint": 0.0
     },
     "domain:gigazine.net": {
-      "title": "Microsoft Officeの責任者が「AIが生成した質の低い文書」に対して苦言",
-      "updated_at": "2026-09-03T23:52:47+00:00",
+      "title": "Microsoftが明かした「AIでチーム全体を速くする」開発術、重要なのはコード生成より「仕様書」",
+      "updated_at": "2026-09-05T00:43:33+00:00",
       "network_scores": [
-        9.1,
         9.1,
         9.1,
         9.1,
@@ -2734,12 +2733,13 @@
         12.2,
         12.2,
         12.2,
-        12.2
+        12.2,
+        10.1
       ],
-      "rolling_average": 10.34,
+      "rolling_average": 10.37,
       "rolling_peak": 15.2,
-      "last_score": 12.2,
-      "z_hint": 1.86
+      "last_score": 10.1,
+      "z_hint": -0.27
     },
     "title:acrab-raises-350m-advance-agentic-compute-infrastructure": {
       "title": "Acrab raises US$350M to advance Agentic AI compute infrastructure",
@@ -18601,6 +18601,17 @@
       "rolling_peak": 10.1,
       "last_score": 7.1,
       "z_hint": -1.0
+    },
+    "earthquake:m 5.5 - 156 km e of kuril’sk, russia:5.5": {
+      "title": "M 5.5 - 156 km E of Kuril’sk, Russia",
+      "updated_at": "2026-09-05T00:43:33+00:00",
+      "network_scores": [
+        18.7
+      ],
+      "rolling_average": 18.7,
+      "rolling_peak": 18.7,
+      "last_score": 18.7,
+      "z_hint": 0.0
     }
   }
 }
