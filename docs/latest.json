@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T02:45:24+00:00",
-  "run_id": "2026-09-05T02:45:24+00:00",
+  "generated_at": "2026-09-05T02:53:03+00:00",
+  "run_id": "2026-09-05T02:53:03+00:00",
   "date": "2026-09-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 6,
     "displayed_findings": 6,
     "high": 0,
@@ -387,30 +387,7 @@
       "id": "9d31e71945fe9996577c"
     }
   ],
-  "new_findings": [
-    {
-      "title": "日本のデータセンター4倍へ、8年で10兆円投資 AI向けで米中に次ぐ - 日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUC03CDT0T00C26A7000000/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-04T23:34:04+00:00",
-      "fetched_at": "2026-09-05T02:44:55+00:00",
-      "summary": "国内の人工知能（AI）向けデータセンターの規模が2030年代半ばまでに25年末に比べ4倍超に増えることが分かった。自国内でAIのデータや技術を管理する「AI主権」の確立に向け、基盤となるデータセンターの整備が米中に次ぐ規模で進む。国内でデータセンターを運営する主要26社の新設計画を日本経済新聞が調べた。各社に計...",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4459ec1fb4fd156c480d"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
