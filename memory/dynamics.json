@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-05T23:20:52Z",
+  "generated_at": "2026-09-05T23:35:35Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "krass": 1,
       "strong": 10,
-      "watch": 21,
-      "quiet": 8
+      "watch": 22,
+      "quiet": 7
     },
     "bands_after_gate_recheck": {
       "strong": 11,
-      "watch": 21,
-      "quiet": 8
+      "watch": 22,
+      "quiet": 7
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://openai.com/index/gpt-6-astra",
       "source": "OpenAI News RSS",
       "published_at": "2026-09-03T11:00:00+00:00",
-      "age_days": 2.51,
+      "age_days": 2.52,
       "topics": [
         "ai",
         "security"
@@ -49,7 +49,7 @@
       "url": "https://www.global.toshiba/jp/cybersecurity/corporate/report.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-05T06:08:47+00:00",
-      "age_days": 0.72,
+      "age_days": 0.73,
       "topics": [
         "security",
         "macro"
@@ -74,7 +74,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teiy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T11:18:17.040+00:00",
-      "age_days": 0.5,
+      "age_days": 0.51,
       "topics": [
         "disaster"
       ],
@@ -99,7 +99,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teiy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T08:36:29+00:00",
-      "age_days": 7.61,
+      "age_days": 7.62,
       "topics": [
         "general"
       ],
@@ -123,7 +123,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tehs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T07:22:32+00:00",
-      "age_days": 0.67,
+      "age_days": 0.68,
       "topics": [
         "general"
       ],
@@ -147,7 +147,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teg7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T01:09:44+00:00",
-      "age_days": 0.92,
+      "age_days": 0.93,
       "topics": [
         "general"
       ],
@@ -171,7 +171,7 @@
       "url": "https://github.com/blader/humanizer",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-05T06:31:31+00:00",
-      "age_days": 0.7,
+      "age_days": 0.71,
       "topics": [
         "general"
       ],
@@ -195,7 +195,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tefx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T00:19:26.018+00:00",
-      "age_days": 0.96,
+      "age_days": 0.97,
       "topics": [
         "disaster"
       ],
@@ -220,7 +220,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teji",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T14:43:52+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "general"
       ],
@@ -244,7 +244,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tefx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T00:43:33+00:00",
-      "age_days": 0.94,
+      "age_days": 0.95,
       "topics": [
         "general"
       ],
@@ -268,7 +268,7 @@
       "url": "https://www.global.toshiba/jp/cybersecurity/corporate/report.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-05T09:29:42+00:00",
-      "age_days": 0.58,
+      "age_days": 0.59,
       "topics": [
         "general"
       ],
@@ -288,38 +288,11 @@
       "summary": ""
     },
     {
-      "title": "人型ロボットがさまざまな競技に挑む「ヒューマノイドロボット競技大会」は技術的にどのような意味があるのか？",
-      "url": "https://gigazine.net/news/20260905-robot-olympics/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 78.89,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 19.9,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 7.72,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 7.72",
-        "aging penalty -8.0 for 78.9d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "GPT-6 Astra: A new generation of intelligence",
       "url": "https://openai.com/index/gpt-6-astra",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 80.11,
+      "age_days": 80.12,
       "topics": [
         "general"
       ],
@@ -346,7 +319,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tek0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T17:21:31.537+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "disaster"
       ],
@@ -371,7 +344,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tej2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T11:58:52.040+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "disaster"
       ],
@@ -396,7 +369,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tek0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T17:22:15+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -420,7 +393,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tej2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T12:19:48+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "general"
       ],
@@ -444,7 +417,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tehs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T07:17:57.040+00:00",
-      "age_days": 0.67,
+      "age_days": 0.68,
       "topics": [
         "disaster"
       ],
@@ -468,7 +441,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teg7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T00:50:28.040+00:00",
-      "age_days": 0.94,
+      "age_days": 0.95,
       "topics": [
         "disaster"
       ],
@@ -492,7 +465,7 @@
       "url": "https://kawasin73.hatenablog.com/entry/2026/09/05/092056",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-05T06:31:31+00:00",
-      "age_days": 0.7,
+      "age_days": 0.71,
       "topics": [
         "ai"
       ],
@@ -519,7 +492,7 @@
       "url": "https://speakerdeck.com/nwiizo/ai-de-jissou-ha-hayaku-nata-nanoni-purodakuto-ha-hayaku-naranai-shokunou-no-kabe-o-koe-te-kachi-no-furo-o-sekkei-suru",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 78.89,
+      "age_days": 78.9,
       "topics": [
         "ai"
       ],
@@ -547,7 +520,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tel1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T21:39:02.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -572,7 +545,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tehe",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T05:22:26.040+00:00",
-      "age_days": 0.75,
+      "age_days": 0.76,
       "topics": [
         "disaster"
       ],
@@ -593,11 +566,35 @@
       "summary": "Time 2026-09-05 05:00:06 UTC 2026-09-05 05:00:06 UTC at epicenter Location 3.507°N 83.151°W Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "ループエンジニアリング（ralph loop）で業務システムのUIを一新してみた",
+      "url": "https://zenn.dev/sompojapan_dx/articles/846c6038fee45d",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-05T23:32:49+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 4.7 - 95 km ESE of Isangel, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tel1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T21:40:53+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -621,7 +618,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tehe",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T05:29:03+00:00",
-      "age_days": 0.74,
+      "age_days": 0.75,
       "topics": [
         "general"
       ],
@@ -645,7 +642,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tegg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T02:11:05+00:00",
-      "age_days": 0.88,
+      "age_days": 0.89,
       "topics": [
         "general"
       ],
@@ -669,7 +666,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teji",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T14:39:51.847+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "disaster"
       ],
@@ -693,7 +690,7 @@
       "url": "https://speakerdeck.com/nwiizo/ai-de-jissou-ha-hayaku-nata-nanoni-purodakuto-ha-hayaku-naranai-shokunou-no-kabe-o-koe-te-kachi-no-furo-o-sekkei-suru",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-05T06:29:01+00:00",
-      "age_days": 0.7,
+      "age_days": 0.71,
       "topics": [
         "ai"
       ],
@@ -719,7 +716,7 @@
       "url": "https://packagemain.tech/p/gitignore-everything-by-default",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-05T19:14:00+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -743,7 +740,7 @@
       "url": "https://blog.pinkumohikan.com/entry/2026/09/05/150757",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-05T09:54:14+00:00",
-      "age_days": 0.56,
+      "age_days": 0.57,
       "topics": [
         "general"
       ],
@@ -763,11 +760,38 @@
       "summary": ""
     },
     {
+      "title": "人型ロボットがさまざまな競技に挑む「ヒューマノイドロボット競技大会」は技術的にどのような意味があるのか？",
+      "url": "https://gigazine.net/news/20260905-robot-olympics/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T01:58:32+00:00",
+      "age_days": 78.9,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 13.67,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 4.24,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 4.24",
+        "aging penalty -8.0 for 78.9d old signal",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "OpenAIのAIエージェント、休眠サイトを掲示板化してタスク回答を共有か 研究団体が報告書公開",
       "url": "https://www.itmedia.co.jp/news/article/2609/05/2000001200/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-05T10:46:03+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "ai"
       ],
@@ -793,7 +817,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tegg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T02:02:30.040+00:00",
-      "age_days": 0.89,
+      "age_days": 0.9,
       "topics": [
         "disaster"
       ],
@@ -817,7 +841,7 @@
       "url": "https://ashunar0.dev/posts/orm-responsibilities/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-05T23:16:42+00:00",
-      "age_days": 0.0,
+      "age_days": 0.01,
       "topics": [
         "general"
       ],
@@ -827,12 +851,12 @@
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 2,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1"
+        "momentum delta +2"
       ],
       "summary": ""
     },
@@ -841,7 +865,7 @@
       "url": "https://zenn.dev/yesodco/articles/ed0eb2f6b7621a",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-05T03:23:45+00:00",
-      "age_days": 0.83,
+      "age_days": 0.84,
       "topics": [
         "ai"
       ],
@@ -867,7 +891,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tek7",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-29T15:25:13+00:00",
-      "age_days": 7.33,
+      "age_days": 7.34,
       "topics": [
         "ai"
       ],
@@ -889,11 +913,35 @@
       "summary": ""
     },
     {
+      "title": "ループエンジニアリング（ralph loop）で業務システムのUIを一新してみた",
+      "url": "https://zenn.dev/sompojapan_dx/articles/846c6038fee45d",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-05T13:23:09+00:00",
+      "age_days": 0.43,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "Sompo Digital Lab アプリケーションエンジニアの浪山健亮です。 今回は巷で話題になっているループエンジニアリングを実際にやってみての、気づきなどを記載しようと思います。 きっかけ とある自社システムの管理機能は、Vibe Coding が普及する前にエンジニアがその場しのぎでデザインを当てたものでした。デザインル..."
+    },
+    {
       "title": "日本のデータセンター4倍へ、8年で10兆円投資 AI向けで米中に次ぐ - 日本経済新聞",
       "url": "https://www.nikkei.com/article/DGXZQOUC03CDT0T00C26A7000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T02:10:07+00:00",
-      "age_days": 78.88,
+      "age_days": 78.89,
       "topics": [
         "ai"
       ],
@@ -921,7 +969,7 @@
       "url": "https://japan.zdnet.com/article/35252243/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T03:57:18+00:00",
-      "age_days": 78.81,
+      "age_days": 78.82,
       "topics": [
         "ai",
         "infra"
@@ -950,7 +998,7 @@
       "url": "https://kawasin73.hatenablog.com/entry/2026/09/05/092056",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-05T03:06:41+00:00",
-      "age_days": 0.84,
+      "age_days": 0.85,
       "topics": [
         "ai"
       ],
@@ -970,58 +1018,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "あちらを立てればこちらが立たず。どうもかわしんです。注意喚起です。 2026-08-18 以降、皆さんの Claude Code の Rules は動いていません。残念でした。解決策は環境変数 CLAUDE_CODE_THRIFTY_SONIC を無効にするように .claude/settings.json を設定してください。 ちなみに死んでいるのは Rules だけではないです。R..."
-    },
-    {
-      "title": "日本のデータセンター4倍へ、8年で10兆円投資 AI向けで米中に次ぐ - 日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUC03CDT0T00C26A7000000/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-04T23:34:04+00:00",
-      "age_days": 0.99,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 7.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "国内の人工知能（AI）向けデータセンターの規模が2030年代半ばまでに25年末に比べ4倍超に増えることが分かった。自国内でAIのデータや技術を管理する「AI主権」の確立に向け、基盤となるデータセンターの整備が米中に次ぐ規模で進む。国内でデータセンターを運営する主要26社の新設計画を日本経済新聞が調べた。各社に計..."
-    },
-    {
-      "title": "AIに「中学生でもわかるように1枚のHTMLで図解して」が、複雑なコードを読む前の最良の準備運動かも",
-      "url": "https://zenn.dev/yesodco/articles/ed0eb2f6b7621a",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-04T04:42:49+00:00",
-      "age_days": 1.78,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 7.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: code",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "はじめに 株式会社イエソドの竹内(@chimerast)です。 今回は、軽いお話しで、Claude CodeなどのAIに複雑なロジックを解説させるときの豆知識です。 きっかけは「5才児向けの絵本」だった この話の始まりは、コードとは関係のない雑談でした。 弊社のメンバーがClaudeに「Fable 5 と Fable 5.1 の違いを、5才児でもわかる..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “GPT-6 Astra: A new generation of intelligence” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
