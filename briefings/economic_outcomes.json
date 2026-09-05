@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-05T17:15:05+00:00",
+  "generated_at": "2026-09-05T17:22:40+00:00",
   "events": [
     {
       "event_id": "evt_04c8c9515e6d6caa68b7",
@@ -473,7 +473,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_2a7631f0e872d9aad503",
@@ -881,6 +881,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_4ce9c0b3e4513f9169ac",
+      "title": "M 5.6 - 96 km ESE of Isangel, Vanuatu",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_4d28306243ebb97c0b7b",
