@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-05T22:10:57Z_
+_Generated: 2026-09-05T22:22:06Z_
 
 ## Lageurteil
 
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “GPT-6 Astra: A new generation of intelli
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-05T06:08:47+00:00` / age_days `0.67`
+- Published: `2026-09-05T06:08:47+00:00` / age_days `0.68`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “GPT-6 Astra: A new generation of intelli
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-05T11:18:17.040+00:00` / age_days `0.45`
+- Published: `2026-09-05T11:18:17.040+00:00` / age_days `0.46`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “GPT-6 Astra: A new generation of intelli
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.0`
-- Published: `2026-09-05T06:31:31+00:00` / age_days `0.65`
+- Published: `2026-09-05T06:31:31+00:00` / age_days `0.66`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “GPT-6 Astra: A new generation of intelli
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-09-05T00:19:26.018+00:00` / age_days `0.91`
+- Published: `2026-09-05T00:19:26.018+00:00` / age_days `0.92`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 9.8
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “GPT-6 Astra: A new generation of intelli
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.5`
-- Published: `2026-09-05T14:43:52+00:00` / age_days `0.31`
+- Published: `2026-09-05T14:43:52+00:00` / age_days `0.32`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “GPT-6 Astra: A new generation of intelli
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.5`
-- Published: `2026-09-05T00:43:33+00:00` / age_days `0.89`
+- Published: `2026-09-05T00:43:33+00:00` / age_days `0.9`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “GPT-6 Astra: A new generation of intelli
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.0`
-- Published: `2026-09-05T09:29:42+00:00` / age_days `0.53`
+- Published: `2026-09-05T09:29:42+00:00` / age_days `0.54`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “GPT-6 Astra: A new generation of intelli
 
 - Band: `watch` (raw `strong`)
 - Dynamics score: `19.9`
-- Published: `2026-06-17T20:44:40+00:00` / age_days `80.06`
+- Published: `2026-06-17T20:44:40+00:00` / age_days `80.07`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, aging penalty -8.0 for 80.1d old signal, stale single-source cap: max watch after 14d without fresh resonance, single-source AI cap enforced after phrase recheck
