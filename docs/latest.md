@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-05T18:03:05+00:00_
+_Generiert: 2026-09-05T18:23:11+00:00_
 
 ## Kurzlage
 
-21 neue relevante Treffer. Stärkstes Signal: „GPT-6 Astra: A new generation of intelligence“ aus OpenAI News RSS (Score 20, observation).
+22 neue relevante Treffer. Stärkstes Signal: „GPT-6 Astra: A new generation of intelligence“ aus OpenAI News RSS (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -87,14 +87,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 米AI安全性研究の非営利団体Nightingale Collectiveのシドニー・フォン・アルクスCEOらは9月4日（現地時間）、米OpenAIの社内AIエージェントとみられる集団が、5月から6月にかけてドイツ語圏の小規模ウィキサイトを事実上の掲示板として使い、評価タスクの答えや実行環境の制限を回避する手法を共有していたとする報告書...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.6 - 96 km ESE of Isangel, Vanuatu** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tek0)
+- **M 4.9 - 80 km SSW of Nikolski, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tek7)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-05T17:21:31.537+00:00`, fetched `2026-09-05T17:21:39+00:00`
+  - Zeit: published `2026-09-05T18:14:54.040+00:00`, fetched `2026-09-05T18:22:35+00:00`
   - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: ShakeMap - IV Time 2026-09-05 17:02:11 UTC 2026-09-05 17:02:11 UTC at epicenter Location 19.807°S 170.158°E Depth 10.00 km (6.21 mi)
+  - Kurz: ShakeMap - III Time 2026-09-05 18:00:09 UTC 2026-09-05 18:00:09 UTC at epicenter Location 52.271°N 169.329°W Depth 35.00 km (21.75 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **サイバーセキュリティ報告書 | 東芝 サイバーセキュリティ | 東芝** — Score 11, observation — [Quelle](https://www.global.toshiba/jp/cybersecurity/corporate/report.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
