@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-05T06:31:49+00:00",
+  "generated_at": "2026-09-05T06:48:13+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -449,7 +449,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-05T01:09:44+00:00",
-      "last_seen_at": "2026-09-05T06:31:31+00:00",
+      "last_seen_at": "2026-09-05T06:47:56+00:00",
       "status": "active"
     },
     {
@@ -602,7 +602,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-05T00:43:33+00:00",
-      "last_seen_at": "2026-09-05T06:31:31+00:00",
+      "last_seen_at": "2026-09-05T06:47:56+00:00",
       "status": "active"
     },
     {
@@ -1146,7 +1146,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-05T02:11:05+00:00",
-      "last_seen_at": "2026-09-05T06:31:31+00:00",
+      "last_seen_at": "2026-09-05T06:47:56+00:00",
       "status": "active"
     },
     {
@@ -1265,7 +1265,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-05T05:29:03+00:00",
-      "last_seen_at": "2026-09-05T06:31:31+00:00",
+      "last_seen_at": "2026-09-05T06:47:56+00:00",
       "status": "active"
     },
     {
@@ -1860,7 +1860,7 @@
       "p90_usd": 1232000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
-      "last_seen_at": "2026-09-05T06:31:31+00:00",
+      "last_seen_at": "2026-09-05T06:47:56+00:00",
       "status": "active"
     },
     {
@@ -2064,7 +2064,7 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-05T06:31:31+00:00",
+      "last_seen_at": "2026-09-05T06:47:56+00:00",
       "status": "active"
     },
     {
@@ -2166,7 +2166,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-05T06:31:31+00:00",
+      "last_seen_at": "2026-09-05T06:47:56+00:00",
       "status": "active"
     },
     {
@@ -2493,6 +2493,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_402e7f622a6ab4b9a85a",
+      "title": "blader/humanizer",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 114400.0,
+      "p50_usd": 11440000.0,
+      "p90_usd": 1144000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-05T06:31:31+00:00",
+      "last_seen_at": "2026-09-05T06:47:56+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_d2b65476ddd51aa30af6",
       "title": "AIに丸投げしないで理解するためのAI開発手法（2026年8月現在）",
       "event_classes": [
@@ -2508,23 +2525,6 @@
       "first_seen_at": "2026-08-29T12:29:39+00:00",
       "last_seen_at": "2026-09-04T15:32:40+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_402e7f622a6ab4b9a85a",
-      "title": "blader/humanizer",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 114400.0,
-      "p50_usd": 11440000.0,
-      "p90_usd": 1144000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-05T06:31:31+00:00",
-      "last_seen_at": "2026-09-05T06:31:31+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_2a7631f0e872d9aad503",
@@ -2763,6 +2763,23 @@
       "first_seen_at": "2026-08-31T04:36:22+00:00",
       "last_seen_at": "2026-08-31T23:54:23+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_1b100221d5ee856e4f7b",
+      "title": "Claude Code の Rules はもう死んでいる - kawasin73のブログ",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112800.0,
+      "p50_usd": 11280000.0,
+      "p90_usd": 1128000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-05T06:31:31+00:00",
+      "last_seen_at": "2026-09-05T06:47:56+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_1c4780153747f750679c",
@@ -3054,23 +3071,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_1b100221d5ee856e4f7b",
-      "title": "Claude Code の Rules はもう死んでいる - kawasin73のブログ",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 112800.0,
-      "p50_usd": 11280000.0,
-      "p90_usd": 1128000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-05T06:31:31+00:00",
-      "last_seen_at": "2026-09-05T06:31:31+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_085ae9c5f434f17156ff",
       "title": "New API endpoint provides privacy-safe star history data",
       "event_classes": [
@@ -3101,7 +3101,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-31T23:20:25+00:00",
-      "last_seen_at": "2026-09-05T06:31:31+00:00",
+      "last_seen_at": "2026-09-05T06:47:56+00:00",
       "status": "active"
     },
     {
@@ -3424,7 +3424,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-05T03:23:45+00:00",
-      "last_seen_at": "2026-09-05T06:31:31+00:00",
+      "last_seen_at": "2026-09-05T06:47:56+00:00",
       "status": "active"
     },
     {
