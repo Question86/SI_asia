@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-05T00:43:48+00:00",
+  "generated_at": "2026-09-05T01:10:00+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -555,6 +555,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_8791ef1d70e8b95e43a7",
+      "title": "M 4.5 - 159 km ENE of Noda, Japan",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1160000.0,
+      "p50_usd": 116000000.0,
+      "p90_usd": 11600000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-05T01:09:44+00:00",
+      "last_seen_at": "2026-09-05T01:09:44+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_051cfa972487c1e10518",
       "title": "M 6.2 - South Sandwich Islands region",
       "event_classes": [
@@ -570,6 +587,23 @@
       "first_seen_at": "2026-09-03T00:15:45+00:00",
       "last_seen_at": "2026-09-03T23:52:47+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_2dbf41789a4da455f136",
+      "title": "M 5.5 - 156 km E of Kuril’sk, Russia",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1144000.0,
+      "p50_usd": 114400000.0,
+      "p90_usd": 11440000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-05T00:43:33+00:00",
+      "last_seen_at": "2026-09-05T01:09:44+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_50b3c3060f979d361e39",
@@ -638,23 +672,6 @@
       "first_seen_at": "2026-09-02T13:08:59+00:00",
       "last_seen_at": "2026-09-02T13:08:59+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_2dbf41789a4da455f136",
-      "title": "M 5.5 - 156 km E of Kuril’sk, Russia",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1144000.0,
-      "p50_usd": 114400000.0,
-      "p90_usd": 11440000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-09-05T00:43:33+00:00",
-      "last_seen_at": "2026-09-05T00:43:33+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_072439522f0506eff01d",
@@ -1809,7 +1826,7 @@
       "p90_usd": 1232000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
-      "last_seen_at": "2026-09-05T00:43:33+00:00",
+      "last_seen_at": "2026-09-05T01:09:44+00:00",
       "status": "active"
     },
     {
