@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T23:16:42+00:00",
+  "generated_at": "2026-09-05T23:24:43+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 28,
@@ -47,48 +47,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-06-17T20:44:40+00:00"
-    },
-    {
-      "key": "domain:gigazine.net",
-      "title": "人型ロボットがさまざまな競技に挑む「ヒューマノイドロボット競技大会」は技術的にどのような意味があるのか？",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://gigazine.net/news/20260905-robot-olympics/",
-        "https://gigazine.net/news/20260905-docubrowser/",
-        "https://gigazine.net/news/20260904-microsoft-spec-driven-development/"
-      ],
-      "finding_count": 3,
-      "max_score": 8,
-      "credibility_total": 3.15,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 15.09,
-      "hot": false,
-      "watchgraph_modules": [
-        "sports_sf_tech_events"
-      ],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 17.3,
-      "ranking_score": 15.09,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 3.09,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-19T01:58:32+00:00"
     },
     {
       "key": "github_repo:blader/humanizer",
@@ -562,6 +520,48 @@
       "first_seen_at": "2026-06-19T03:57:18+00:00"
     },
     {
+      "key": "domain:gigazine.net",
+      "title": "人型ロボットがさまざまな競技に挑む「ヒューマノイドロボット競技大会」は技術的にどのような意味があるのか？",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://gigazine.net/news/20260905-robot-olympics/",
+        "https://gigazine.net/news/20260905-docubrowser/",
+        "https://gigazine.net/news/20260904-microsoft-spec-driven-development/"
+      ],
+      "finding_count": 3,
+      "max_score": 8,
+      "credibility_total": 3.15,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 11.29,
+      "hot": false,
+      "watchgraph_modules": [
+        "sports_sf_tech_events"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 14.3,
+      "ranking_score": 11.29,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 1.79,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T01:58:32+00:00"
+    },
+    {
       "key": "earthquake:alaska:4.9",
       "title": "M 4.9 - 80 km SSW of Nikolski, Alaska",
       "sources": [
@@ -721,44 +721,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-06-19T01:58:32+00:00"
-    },
-    {
-      "key": "title:orm-ashunar0",
-      "title": "ORM が引き受けている責務を分解してみる | ashunar0",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://ashunar0.dev/posts/orm-responsibilities/"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 9.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 10.1,
-      "ranking_score": 9.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-09-05T23:16:42+00:00"
     },
     {
       "key": "earthquake:m 4.7 - 95 km ese of isangel, vanuatu:4.7",
@@ -960,6 +922,44 @@
       "first_seen_at": "2026-09-05T19:14:00+00:00"
     },
     {
+      "key": "title:orm-ashunar0",
+      "title": "ORM が引き受けている責務を分解してみる | ashunar0",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://ashunar0.dev/posts/orm-responsibilities/"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 6.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 7.1,
+      "ranking_score": 6.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-05T23:16:42+00:00"
+    },
+    {
       "key": "domain:blog.pinkumohikan.com",
       "title": "リモートチームなら通話の音質に命をかけて欲しい - モヒカン技術ブログ",
       "sources": [
@@ -1038,7 +1038,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-05T23:16:42Z",
+    "generated_at": "2026-09-05T23:24:44Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
