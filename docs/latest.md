@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-05T10:38:32+00:00_
+_Generiert: 2026-09-05T10:45:59+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „GPT-6 Astra: A new generation of intelligence“ aus OpenAI News RSS (Score 20, observation).
+16 neue relevante Treffer. Stärkstes Signal: „GPT-6 Astra: A new generation of intelligence“ aus OpenAI News RSS (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -60,6 +60,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Agent skill that removes signs of AI-generated writing from text https://skills.sh/blader/humanizer Humanizer Humanizer rewrites AI-sounding text so it reads like a person wrote it, without changing what it says. Because it is just Markdown, it works with any agent that supports skills. How it works Humanizer uses 35 patterns from Wikipedia's "Signs of AI writing" , maintained by WikiProject AI Cleanup. It makes a f…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **OpenAIのAIエージェント、休眠サイトを掲示板化してタスク回答を共有か 研究団体が報告書公開** — Score 12, observation — [Quelle](https://www.itmedia.co.jp/news/article/2609/05/2000001200/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-05T04:25:07+00:00`, fetched `2026-09-05T10:45:28+00:00`
+  - Treffer: Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 米AI安全性研究の非営利団体Nightingale Collectiveのシドニー・フォン・アルクスCEOらは9月4日（現地時間）、米OpenAIの社内AIエージェントとみられる集団が、5月から6月にかけてドイツ語圏の小規模ウィキサイトを事実上の掲示板として使い、評価タスクの答えや実行環境の制限を回避する手法を共有していたとする報告書...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **サイバーセキュリティ報告書 | 東芝 サイバーセキュリティ | 東芝** — Score 11, observation — [Quelle](https://www.global.toshiba/jp/cybersecurity/corporate/report.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-05T06:08:47+00:00`, fetched `2026-09-05T09:29:08+00:00`
@@ -77,15 +86,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: あちらを立てればこちらが立たず。どうもかわしんです。注意喚起です。 2026-08-18 以降、皆さんの Claude Code の Rules は動いていません。残念でした。解決策は環境変数 CLAUDE_CODE_THRIFTY_SONIC を無効にするように .claude/settings.json を設定してください。 ちなみに死んでいるのは Rules だけではないです。R...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **日本のデータセンター4倍へ、8年で10兆円投資 AI向けで米中に次ぐ - 日本経済新聞** — Score 10, observation — [Quelle](https://www.nikkei.com/article/DGXZQOUC03CDT0T00C26A7000000/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-04T23:34:04+00:00`, fetched `2026-09-05T02:44:55+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
-  - Kurz: 国内の人工知能（AI）向けデータセンターの規模が2030年代半ばまでに25年末に比べ4倍超に増えることが分かった。自国内でAIのデータや技術を管理する「AI主権」の確立に向け、基盤となるデータセンターの整備が米中に次ぐ規模で進む。国内でデータセンターを運営する主要26社の新設計画を日本経済新聞が調べた。各社に計...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.0 - off the coast of Central America** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tehe)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`

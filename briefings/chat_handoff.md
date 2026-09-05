@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-05T10:38:32+00:00_
+_Generated: 2026-09-05T10:45:59+00:00_
 
 ## Status
 - status: `normal`
-- findings: `15`
+- findings: `16`
 
 ## Top Signals
 
@@ -43,18 +43,18 @@ _Generated: 2026-09-05T10:38:32+00:00_
 - url: https://github.com/blader/humanizer
 - summary: Agent skill that removes signs of AI-generated writing from text https://skills.sh/blader/humanizer Humanizer Humanizer rewrites AI-sounding text so it reads like a person wrote it, without changing what it says. Because it is just Markdown, it works with any…
 
-### 6. サイバーセキュリティ報告書 | 東芝 サイバーセキュリティ | 東芝
+### 6. OpenAIのAIエージェント、休眠サイトを掲示板化してタスク回答を共有か 研究団体が報告書公開
+- source: Hatena Bookmark Hotentry IT
+- score: `12`
+- published: `2026-09-05T04:25:07+00:00`
+- url: https://www.itmedia.co.jp/news/article/2609/05/2000001200/
+- summary: 米AI安全性研究の非営利団体Nightingale Collectiveのシドニー・フォン・アルクスCEOらは9月4日（現地時間）、米OpenAIの社内AIエージェントとみられる集団が、5月から6月にかけてドイツ語圏の小規模ウィキサイトを事実上の掲示板として使い、評価タスクの答えや実行環境の制限を回避する手法を共有していたとする報告書...
+
+### 7. サイバーセキュリティ報告書 | 東芝 サイバーセキュリティ | 東芝
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-09-05T06:08:47+00:00`
 - url: https://www.global.toshiba/jp/cybersecurity/corporate/report.html
 - summary: 東芝グループにおけるサイバーセキュリティに対する取り組みについて、2025年度の活動報告を「サイバーセキュリティ報告書 2026」としてPDFで提供しています。
-
-### 7. Claude Code の Rules はもう死んでいる - kawasin73のブログ
-- source: Hatena Bookmark Hotentry IT
-- score: `11`
-- published: `2026-09-05T03:06:41+00:00`
-- url: https://kawasin73.hatenablog.com/entry/2026/09/05/092056
-- summary: あちらを立てればこちらが立たず。どうもかわしんです。注意喚起です。 2026-08-18 以降、皆さんの Claude Code の Rules は動いていません。残念でした。解決策は環境変数 CLAUDE_CODE_THRIFTY_SONIC を無効にするように .claude/settings.json を設定してください。 ちなみに死んでいるのは Rules だけではないです。R...
 
 END OF DOCUMENT
