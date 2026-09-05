@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T22:27:40+00:00",
-  "run_id": "2026-09-05T22:27:40+00:00",
+  "generated_at": "2026-09-05T22:38:15+00:00",
+  "run_id": "2026-09-05T22:38:15+00:00",
   "date": "2026-09-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 25
+      "configured_public_sources_only": 26
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 25,
-    "displayed_findings": 25,
+    "new_relevant_findings": 1,
+    "today_file_total": 26,
+    "displayed_findings": 26,
     "high": 0,
     "medium": 4,
-    "observe": 21,
+    "observe": 22,
     "source_errors": 0
   },
   "sections": {
@@ -656,6 +656,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "15dd83afbaba9458260d"
+      },
+      {
+        "title": "Uber Eats配達員を始めて驚いたのが、配達先のほとんどが安アパートなこと…タワマンみたいなとこからしかオーダー入らないと思ってた",
+        "url": "https://togetter.com/li/2741877",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-05T17:09:26+00:00",
+        "fetched_at": "2026-09-05T22:37:44+00:00",
+        "summary": "えまさん（24歳） @emma_1126ya Uber Eats配達員を始めて驚いたのが、配達先のほとんどが安アパートなこと。明らかに金がなさそうな客ばかり。エレベーターがついてないボロアパートも多いので階段の昇り降りが大変。タワマンみたいなとこからしかオーダー入らないと思ってた 2026-09-05 01:50:50",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "4d275963d2835070fbdc"
       },
       {
         "title": ".gitignore everything by default",
@@ -1371,6 +1392,27 @@
       "id": "15dd83afbaba9458260d"
     },
     {
+      "title": "Uber Eats配達員を始めて驚いたのが、配達先のほとんどが安アパートなこと…タワマンみたいなとこからしかオーダー入らないと思ってた",
+      "url": "https://togetter.com/li/2741877",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-05T17:09:26+00:00",
+      "fetched_at": "2026-09-05T22:37:44+00:00",
+      "summary": "えまさん（24歳） @emma_1126ya Uber Eats配達員を始めて驚いたのが、配達先のほとんどが安アパートなこと。明らかに金がなさそうな客ばかり。エレベーターがついてないボロアパートも多いので階段の昇り降りが大変。タワマンみたいなとこからしかオーダー入らないと思ってた 2026-09-05 01:50:50",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4d275963d2835070fbdc"
+    },
+    {
       "title": ".gitignore everything by default",
       "url": "https://packagemain.tech/p/gitignore-everything-by-default",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1455,7 +1497,29 @@
       "id": "9d31e71945fe9996577c"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Uber Eats配達員を始めて驚いたのが、配達先のほとんどが安アパートなこと…タワマンみたいなとこからしかオーダー入らないと思ってた",
+      "url": "https://togetter.com/li/2741877",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-05T17:09:26+00:00",
+      "fetched_at": "2026-09-05T22:37:44+00:00",
+      "summary": "えまさん（24歳） @emma_1126ya Uber Eats配達員を始めて驚いたのが、配達先のほとんどが安アパートなこと。明らかに金がなさそうな客ばかり。エレベーターがついてないボロアパートも多いので階段の昇り降りが大変。タワマンみたいなとこからしかオーダー入らないと思ってた 2026-09-05 01:50:50",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4d275963d2835070fbdc"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
