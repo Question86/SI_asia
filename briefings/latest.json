@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T09:46:38+00:00",
-  "run_id": "2026-09-05T09:46:38+00:00",
+  "generated_at": "2026-09-05T09:54:11+00:00",
+  "run_id": "2026-09-05T09:54:11+00:00",
   "date": "2026-09-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 14
+      "configured_public_sources_only": 15
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 14,
-    "displayed_findings": 14,
+    "new_relevant_findings": 1,
+    "today_file_total": 15,
+    "displayed_findings": 15,
     "high": 0,
     "medium": 3,
-    "observe": 11,
+    "observe": 12,
     "source_errors": 0
   },
   "sections": {
@@ -369,6 +369,27 @@
           "LOW"
         ],
         "id": "6bf6655ba8f1f95d90e9"
+      },
+      {
+        "title": "リモートチームなら通話の音質に命をかけて欲しい - モヒカン技術ブログ",
+        "url": "https://blog.pinkumohikan.com/entry/2026/09/05/150757",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-05T06:08:16+00:00",
+        "fetched_at": "2026-09-05T09:53:41+00:00",
+        "summary": "タイトルの「命をかけて」は当然冗談だが、リモートチームなのに通話時の音質に無頓着な人が多すぎる。 思っているよりも、あなたの声は聞き取りにくい オンラインミーティングで相手に「声が小さい」「隣や周りの音を拾っている」「聞き取りにくい」と言われたことはないだろうか？ それは音質への投資が不十分なサイン...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b8085994f73b7a4a9856"
       },
       {
         "title": "この写真をよいという人も失敗という人もいて面白いからThreadsに上げたら、影をAIで消して「この方が主題が引き立つでしょ？」とドヤ顔するやつがいて修羅場",
@@ -755,6 +776,27 @@
       "id": "6bf6655ba8f1f95d90e9"
     },
     {
+      "title": "リモートチームなら通話の音質に命をかけて欲しい - モヒカン技術ブログ",
+      "url": "https://blog.pinkumohikan.com/entry/2026/09/05/150757",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-05T06:08:16+00:00",
+      "fetched_at": "2026-09-05T09:53:41+00:00",
+      "summary": "タイトルの「命をかけて」は当然冗談だが、リモートチームなのに通話時の音質に無頓着な人が多すぎる。 思っているよりも、あなたの声は聞き取りにくい オンラインミーティングで相手に「声が小さい」「隣や周りの音を拾っている」「聞き取りにくい」と言われたことはないだろうか？ それは音質への投資が不十分なサイン...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b8085994f73b7a4a9856"
+    },
+    {
       "title": "この写真をよいという人も失敗という人もいて面白いからThreadsに上げたら、影をAIで消して「この方が主題が引き立つでしょ？」とドヤ顔するやつがいて修羅場",
       "url": "https://togetter.com/li/2741594",
       "source": "Hatena Bookmark Hotentry IT",
@@ -797,7 +839,29 @@
       "id": "9d31e71945fe9996577c"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "リモートチームなら通話の音質に命をかけて欲しい - モヒカン技術ブログ",
+      "url": "https://blog.pinkumohikan.com/entry/2026/09/05/150757",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-05T06:08:16+00:00",
+      "fetched_at": "2026-09-05T09:53:41+00:00",
+      "summary": "タイトルの「命をかけて」は当然冗談だが、リモートチームなのに通話時の音質に無頓着な人が多すぎる。 思っているよりも、あなたの声は聞き取りにくい オンラインミーティングで相手に「声が小さい」「隣や周りの音を拾っている」「聞き取りにくい」と言われたことはないだろうか？ それは音質への投資が不十分なサイン...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b8085994f73b7a4a9856"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
