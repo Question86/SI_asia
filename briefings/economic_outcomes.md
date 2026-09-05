@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-09-05T01:55:50+00:00`
+Generated: `2026-09-05T02:11:22+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -21,6 +21,7 @@ Generated: `2026-09-05T01:55:50+00:00`
 | Why Japan’s booming AI market is harder to crack than it looks | $0 | — | 0 | 0 | dormant |
 | 無料のLM Studio、DFlash/DSpark/MTPで推論を高速化 | $0 | — | 0 | 0 | dormant |
 | DietrichGebert/ponytail | $0 | — | 0 | 0 | dormant |
+| M 4.8 - Kermadec Islands, New Zealand | $0 | — | 0 | 0 | active |
 | sngyai/Sequoia-X | $0 | — | 0 | 0 | dormant |
 | tailscale/tailcat | $0 | — | 0 | 0 | dormant |
 | AIショートドラマ『非妖哉』たった2話で1億回再生を記録 中国の映像クリエイターがほぼ1人で制作 | $0 | — | 0 | 0 | dormant |
@@ -28,4 +29,3 @@ Generated: `2026-09-05T01:55:50+00:00`
 | ITエンジニアのためのライフスタイルメディア KIKKAKE ITREND | $0 | — | 0 | 0 | dormant |
 | キーエンス製XG VisionTerminalおよびXG-X VisionTerminalにおけるにおけるXML外部エンティティ参照（XXE）の不適切な制限の脆弱性 | $0 | — | 0 | 0 | dormant |
 | M 5.1 - 42 km NW of Coquimbo, Chile | $0 | — | 0 | 0 | dormant |
-| M 4.8 - 29 km WSW of Salamanca, Chile | $0 | — | 0 | 0 | dormant |

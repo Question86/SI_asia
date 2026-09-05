@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-05T01:55:49+00:00",
+  "generated_at": "2026-09-05T02:11:20+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -449,7 +449,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-05T01:09:44+00:00",
-      "last_seen_at": "2026-09-05T01:55:32+00:00",
+      "last_seen_at": "2026-09-05T02:11:05+00:00",
       "status": "active"
     },
     {
@@ -602,7 +602,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-05T00:43:33+00:00",
-      "last_seen_at": "2026-09-05T01:55:32+00:00",
+      "last_seen_at": "2026-09-05T02:11:05+00:00",
       "status": "active"
     },
     {
@@ -1473,6 +1473,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_121386751889bcbabd52",
+      "title": "M 4.8 - Kermadec Islands, New Zealand",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-05T02:11:05+00:00",
+      "last_seen_at": "2026-09-05T02:11:05+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -1826,7 +1843,7 @@
       "p90_usd": 1232000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
-      "last_seen_at": "2026-09-05T01:55:32+00:00",
+      "last_seen_at": "2026-09-05T02:11:05+00:00",
       "status": "active"
     },
     {
@@ -3033,7 +3050,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-31T23:20:25+00:00",
-      "last_seen_at": "2026-09-05T01:55:32+00:00",
+      "last_seen_at": "2026-09-05T02:11:05+00:00",
       "status": "active"
     },
     {
