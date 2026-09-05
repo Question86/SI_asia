@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-05T14:17:32+00:00_
+_Generiert: 2026-09-05T14:27:01+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „GPT-6 Astra: A new generation of intelligence“ aus OpenAI News RSS (Score 20, observation).
+19 neue relevante Treffer. Stärkstes Signal: „GPT-6 Astra: A new generation of intelligence“ aus OpenAI News RSS (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -41,10 +41,10 @@ _Generiert: 2026-09-05T14:17:32+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Vietnam
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:32km) in Russia 04/09/2026 23:52 UTC, Few people affected in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563697)
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:32km) in Russia 04/09/2026 23:52 UTC, 6 thousand in MMI&gt;=III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563697)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:32km) in Russia 04/09/2026 23:52 UTC, Few people affected in 100km.
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:32km) in Russia 04/09/2026 23:52 UTC, 6 thousand in MMI&gt;=III.
 - **GDACS: Green notification for tropical cyclone TWENTYTHREE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001319)
   - Quelle: GDACS
   - Zeit: ``

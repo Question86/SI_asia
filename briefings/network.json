@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-05T14:17:36+00:00",
+  "generated_at": "2026-09-05T14:27:06+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 18,
-    "clusters": 18,
+    "findings": 19,
+    "clusters": 19,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 0,
@@ -365,6 +365,44 @@
       "first_seen_at": "2026-09-05T00:43:33+00:00"
     },
     {
+      "key": "domain:speakerdeck.com",
+      "title": "AIで実装は速くなった。なのにプロダクトは速くならない。職能の壁を越えて価値のフローを設計する",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://speakerdeck.com/nwiizo/ai-de-jissou-ha-hayaku-nata-nanoni-purodakuto-ha-hayaku-naranai-shokunou-no-kabe-o-koe-te-kachi-no-furo-o-sekkei-suru"
+      ],
+      "finding_count": 1,
+      "max_score": 8,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 12.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "raw_network_score": 13.1,
+      "ranking_score": 12.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T01:58:32+00:00"
+    },
+    {
       "key": "domain:www.nikkei.com",
       "title": "日本のデータセンター4倍へ、8年で10兆円投資 AI向けで米中に次ぐ - 日本経済新聞",
       "sources": [
@@ -718,7 +756,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-05T14:17:36Z",
+    "generated_at": "2026-09-05T14:27:06Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
