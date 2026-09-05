@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-05T01:29:26+00:00_
+_Generated: 2026-09-05T01:47:51+00:00_
 
 ## Status
 - status: `normal`
-- findings: `3`
+- findings: `4`
 
 ## Top Signals
 
@@ -22,7 +22,14 @@ _Generated: 2026-09-05T01:29:26+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tefx
 - summary: PAGER - GREEN ShakeMap - IV Time 2026-09-04 23:52:30 UTC 2026-09-04 23:52:30 UTC at epicenter Location 44.979°N 149.835°E Depth 36.43 km (22.64 mi)
 
-### 3. Microsoftが明かした「AIでチーム全体を速くする」開発術、重要なのはコード生成より「仕様書」
+### 3. 誰でも簡単にVPNを構築できる「Tailscale」--安全なリモート接続を無料で
+- source: Hatena Bookmark Hotentry IT
+- score: `10`
+- published: `2026-09-03T23:16:53+00:00`
+- url: https://japan.zdnet.com/article/35252243/
+- summary: 「Tailscale」は、「WireGuard」ベースの安全なVPNを手軽に構築できるサービスだ。ポート開放や複雑なネットワーク設定は必要なく、外出先からでもPCやモバイルデバイスへ安全に接続できる。無料プランでも多くの個人利用に対応する。
+
+### 4. Microsoftが明かした「AIでチーム全体を速くする」開発術、重要なのはコード生成より「仕様書」
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-09-04T07:07:18+00:00`
