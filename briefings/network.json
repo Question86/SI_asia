@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-05T06:47:56+00:00",
+  "generated_at": "2026-09-05T06:55:31+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 11,
-    "clusters": 11,
+    "findings": 12,
+    "clusters": 12,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 1,
@@ -321,6 +321,44 @@
       "first_seen_at": "2026-06-19T03:57:18+00:00"
     },
     {
+      "key": "domain:pic.x.com",
+      "title": "この写真をよいという人も失敗という人もいて面白いからThreadsに上げたら、影をAIで消して「この方が主題が引き立つでしょ？」とドヤ顔するやつがいて修羅場",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://togetter.com/li/2741594"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 9.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 10.1,
+      "ranking_score": 9.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T14:52:13+00:00"
+    },
+    {
       "key": "earthquake:m 5.0 - off the coast of central america:5.0",
       "title": "M 5.0 - off the coast of Central America",
       "sources": [
@@ -443,7 +481,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-05T06:47:56Z",
+    "generated_at": "2026-09-05T06:55:31Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
