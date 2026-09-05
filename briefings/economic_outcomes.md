@@ -1,9 +1,10 @@
 # Economic Outcomes
 
-Generated: `2026-09-05T18:58:59+00:00`
+Generated: `2026-09-05T19:14:24+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
+| .gitignore everything by default | $0 | — | 0 | 0 | active |
 | Southeast Asia’s chip-hub ambition is colliding with its chip-smuggling problem | $0 | — | 0 | 0 | dormant |
 | WebMCPがアツいので見てほしい \| DevelopersIO | $0 | — | 0 | 0 | dormant |
 | M 6.2 - South Sandwich Islands region | $0 | — | 0 | 0 | dormant |
@@ -28,4 +29,3 @@ Generated: `2026-09-05T18:58:59+00:00`
 | 民間事業者（アイフル株式会社）に対して公的個人認証サービスの利用に関する主務大臣認定を行いました | $0 | — | 0 | 0 | dormant |
 | ITエンジニアのためのライフスタイルメディア KIKKAKE ITREND | $0 | — | 0 | 0 | dormant |
 | キーエンス製XG VisionTerminalおよびXG-X VisionTerminalにおけるにおけるXML外部エンティティ参照（XXE）の不適切な制限の脆弱性 | $0 | — | 0 | 0 | dormant |
-| M 5.1 - 42 km NW of Coquimbo, Chile | $0 | — | 0 | 0 | dormant |
