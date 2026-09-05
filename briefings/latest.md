@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-05T17:39:14+00:00_
+_Generiert: 2026-09-05T17:46:35+00:00_
 
 ## Kurzlage
 
@@ -29,10 +29,10 @@ _Generiert: 2026-09-05T17:39:14+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-02`
   - Kurz: Known exploited vulnerability. Added 2026-09-02. Due 2026-09-05. JFrog Artifactory Improper Authentication Vulnerability
-- **GDACS: Green earthquake (Magnitude 6.3M, Depth:35km) in United States 03/09/2026 11:17 UTC, 4 thousand in MMI&gt;=III.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563341)
+- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Vanuatu 05/09/2026 17:02 UTC, 8 thousand in MMI&gt;=-.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563804)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.3M, Depth:35km) in United States 03/09/2026 11:17 UTC, 4 thousand in MMI&gt;=III.
+  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Vanuatu 05/09/2026 17:02 UTC, 8 thousand in MMI&gt;=-.
 - **GDACS: Green earthquake (Magnitude 5.5M, Depth:114.364km) in Papua New Guinea 05/09/2026 14:12 UTC, 290 thousand in MMI III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563786)
   - Quelle: GDACS
   - Zeit: ``
