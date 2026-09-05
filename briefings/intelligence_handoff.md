@@ -1,131 +1,51 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-05T00:34:45Z_
+_Generated: 2026-09-05T01:08:28Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “[NEU] [kritisch] vm2: Mehrere Schwachstellen ermöglichen Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.
+Stärkste Dynamik nach Gate-Recheck: “M 5.5 - 156 km E of Kuril’sk, Russia” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=21.0.
 
 ## Top Dynamics
 
-### [NEU] [kritisch] vm2: Mehrere Schwachstellen ermöglichen Codeausführung
+### M 5.5 - 156 km E of Kuril’sk, Russia
 
-- Band: `krass` (raw `krass`)
-- Dynamics score: `31.0`
-- Published: `2026-09-04T12:16:29+00:00` / age_days `0.51`
-- Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: kritisch, code, security high-signal: kritisch, code
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3189
-
-### [UPDATE] [mittel] vim (NetBeans): Schwachstelle ermöglicht Codeausführung
-
-- Band: `krass` (raw `krass`)
-- Dynamics score: `31.0`
-- Published: `2026-09-04T11:41:07+00:00` / age_days `0.54`
-- Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: code, security high-signal: code
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0419
-
-### [UPDATE] [hoch] PostgreSQL: Mehrere Schwachstellen
-
-- Band: `krass` (raw `krass`)
-- Dynamics score: `31.0`
-- Published: `2026-09-04T11:41:06+00:00` / age_days `0.54`
-- Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: angriffe, code, auth, security high-signal: angriffe, code, auth
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0409
-
-### [UPDATE] [hoch] vim: Schwachstelle ermöglicht Codeausführung
-
-- Band: `krass` (raw `krass`)
-- Dynamics score: `31.0`
-- Published: `2026-09-04T11:37:08+00:00` / age_days `0.54`
-- Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: code, security high-signal: code
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0904
-
-### Should cybersecurity be nationalised?
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-09-04T04:28:30+00:00` / age_days `0.84`
+- Band: `strong` (raw `strong`)
+- Dynamics score: `21.0`
+- Published: `2026-09-05T00:19:26.018+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: momentum delta +3, security high-signal: security, krass gate recheck: needs multi-source, identity, or official high-signal phrase
-- Quelle: https://e27.co/should-cybersecurity-be-nationalised-20260904/
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 9.8
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tefx
 
-### [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service
+### M 5.5 - 156 km E of Kuril’sk, Russia
 
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-09-04T11:37:08+00:00` / age_days `0.54`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-1008
+- Band: `watch` (raw `watch`)
+- Dynamics score: `17.4`
+- Published: `2026-09-05T00:43:33+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +1
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tefx
 
-### [NEU] [niedrig] Checkmk: Schwachstelle ermöglicht Denial of Service
+### Microsoftが明かした「AIでチーム全体を速くする」開発術、重要なのはコード生成より「仕様書」
 
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-09-04T12:16:30+00:00` / age_days `0.51`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3192
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `0.5`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `77.97`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: momentum delta +3, single-source AI hype brake -8.0, aging penalty -8.0 for 78.0d old signal, single-source AI cap enforced after phrase recheck
+- Quelle: https://gigazine.net/news/20260904-microsoft-spec-driven-development/
 
-### [NEU] [mittel] Langflow: Mehrere Schwachstellen
+### Microsoftが明かした「AIでチーム全体を速くする」開発術、重要なのはコード生成より「仕様書」
 
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-09-04T12:16:30+00:00` / age_days `0.51`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3191
-
-### [UPDATE] [mittel] Internet Systems Consortium BIND: Mehrere Schwachstellen
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-09-04T11:37:07+00:00` / age_days `0.54`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0863
-
-### [UPDATE] [mittel] Grafana: Schwachstelle ermöglicht Privilegieneskalation
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-09-04T11:37:05+00:00` / age_days `0.54`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-0585
-
-### [UPDATE] [mittel] GIMP: Mehrere Schwachstellen
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-09-04T09:57:15+00:00` / age_days `0.61`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2219
-
-### [UPDATE] [mittel] Puppet: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-09-04T08:41:05+00:00` / age_days `0.66`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: code, auth, security high-signal: code, auth, official security but no high-signal phrase: capped at strong
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1401
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `0`
+- Published: `2026-09-04T07:07:18+00:00` / age_days `0.75`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://gigazine.net/news/20260904-microsoft-spec-driven-development/
 
 END OF DOCUMENT
