@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-05T17:54:16+00:00_
+_Generiert: 2026-09-05T18:03:05+00:00_
 
 ## Kurzlage
 
@@ -53,10 +53,6 @@ _Generiert: 2026-09-05T17:54:16+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in United States 03/09/2026 20:21 UTC, Few people affected in MMI III.
-- **USGS earthquake M5.6 - 96 km ESE of Isangel, Vanuatu** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tek0)
-  - Quelle: USGS
-  - Zeit: `2026-09-05T17:02:11+00:00`
-  - Kurz: M5.6 - 96 km ESE of Isangel, Vanuatu. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
