@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-05T05:18:15+00:00_
+_Generiert: 2026-09-05T05:29:00+00:00_
 
 ## Kurzlage
 
-8 neue relevante Treffer. Stärkstes Signal: „GPT-6 Astra: A new generation of intelligence“ aus OpenAI News RSS (Score 20, observation).
+9 neue relevante Treffer. Stärkstes Signal: „GPT-6 Astra: A new generation of intelligence“ aus OpenAI News RSS (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -126,6 +126,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 「Tailscale」は、「WireGuard」ベースの安全なVPNを手軽に構築できるサービスだ。ポート開放や複雑なネットワーク設定は必要なく、外出先からでもPCやモバイルデバイスへ安全に接続できる。無料プランでも多くの個人利用に対応する。
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.0 - off the coast of Central America** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tehe)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-05T05:22:26.040+00:00`, fetched `2026-09-05T05:28:29+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-05 05:00:06 UTC 2026-09-05 05:00:06 UTC at epicenter Location 3.507°N 83.151°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.8 - Kermadec Islands, New Zealand** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tegg)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-05T02:02:30.040+00:00`, fetched `2026-09-05T02:10:27+00:00`
