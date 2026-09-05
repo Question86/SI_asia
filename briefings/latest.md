@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-05T17:22:11+00:00_
+_Generiert: 2026-09-05T17:29:38+00:00_
 
 ## Kurzlage
 
@@ -56,7 +56,7 @@ _Generiert: 2026-09-05T17:22:11+00:00_
 - **USGS earthquake M5.6 - 96 km ESE of Isangel, Vanuatu** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tek0)
   - Quelle: USGS
   - Zeit: `2026-09-05T17:02:11+00:00`
-  - Kurz: M5.6 - 96 km ESE of Isangel, Vanuatu. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M5.6 - 96 km ESE of Isangel, Vanuatu. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
