@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-05T09:19:59+00:00_
+_Generated: 2026-09-05T09:29:37+00:00_
 
 ## Status
 - status: `normal`
-- findings: `13`
+- findings: `14`
 
 ## Top Signals
 
@@ -43,18 +43,18 @@ _Generated: 2026-09-05T09:19:59+00:00_
 - url: https://github.com/blader/humanizer
 - summary: Agent skill that removes signs of AI-generated writing from text https://skills.sh/blader/humanizer Humanizer Humanizer rewrites AI-sounding text so it reads like a person wrote it, without changing what it says. Because it is just Markdown, it works with any…
 
-### 6. Claude Code の Rules はもう死んでいる - kawasin73のブログ
+### 6. サイバーセキュリティ報告書 | 東芝 サイバーセキュリティ | 東芝
+- source: Hatena Bookmark Hotentry IT
+- score: `11`
+- published: `2026-09-05T06:08:47+00:00`
+- url: https://www.global.toshiba/jp/cybersecurity/corporate/report.html
+- summary: 東芝グループにおけるサイバーセキュリティに対する取り組みについて、2025年度の活動報告を「サイバーセキュリティ報告書 2026」としてPDFで提供しています。
+
+### 7. Claude Code の Rules はもう死んでいる - kawasin73のブログ
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-09-05T03:06:41+00:00`
 - url: https://kawasin73.hatenablog.com/entry/2026/09/05/092056
 - summary: あちらを立てればこちらが立たず。どうもかわしんです。注意喚起です。 2026-08-18 以降、皆さんの Claude Code の Rules は動いていません。残念でした。解決策は環境変数 CLAUDE_CODE_THRIFTY_SONIC を無効にするように .claude/settings.json を設定してください。 ちなみに死んでいるのは Rules だけではないです。R...
-
-### 7. 日本のデータセンター4倍へ、8年で10兆円投資 AI向けで米中に次ぐ - 日本経済新聞
-- source: Hatena Bookmark Hotentry IT
-- score: `10`
-- published: `2026-09-04T23:34:04+00:00`
-- url: https://www.nikkei.com/article/DGXZQOUC03CDT0T00C26A7000000/
-- summary: 国内の人工知能（AI）向けデータセンターの規模が2030年代半ばまでに25年末に比べ4倍超に増えることが分かった。自国内でAIのデータや技術を管理する「AI主権」の確立に向け、基盤となるデータセンターの整備が米中に次ぐ規模で進む。国内でデータセンターを運営する主要26社の新設計画を日本経済新聞が調べた。各社に計...
 
 END OF DOCUMENT
