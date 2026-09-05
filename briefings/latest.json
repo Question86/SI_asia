@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T21:25:07+00:00",
-  "run_id": "2026-09-05T21:25:07+00:00",
+  "generated_at": "2026-09-05T21:33:38+00:00",
+  "run_id": "2026-09-05T21:33:38+00:00",
   "date": "2026-09-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 24,
     "displayed_findings": 24,
     "high": 0,
@@ -1383,30 +1383,7 @@
       "id": "9d31e71945fe9996577c"
     }
   ],
-  "new_findings": [
-    {
-      "title": "無料でPDF・電子書籍・Word文書・テキストファイルなどからローカルAIを使って検索＆要約ができる「DocuBrowser」、個人情報の認識も可能",
-      "url": "https://gigazine.net/news/20260905-docubrowser/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-05T09:41:47+00:00",
-      "fetched_at": "2026-09-05T21:24:38+00:00",
-      "summary": "PCに保存した文書が増えてくるとファイル名や保存場所だけを手掛かりに必要な情報を探すのが難しくなります。そこでPDF・Word文書・電子書籍などをまとめて読み込み、キーワード検索とローカルAIによる意味検索、文書要約が利用できる「DocuBrowser」が公開されています。 linuxrebel/DocuBrowser: A local AI powered D...",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1bc8ffcb26120553b7b2"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
