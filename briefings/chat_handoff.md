@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-05T06:01:44+00:00_
+_Generated: 2026-09-05T06:31:27+00:00_
 
 ## Status
 - status: `normal`
-- findings: `9`
+- findings: `11`
 
 ## Top Signals
 
@@ -29,25 +29,25 @@ _Generated: 2026-09-05T06:01:44+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tefx
 - summary: PAGER - GREEN ShakeMap - IV Time 2026-09-04 23:52:30 UTC 2026-09-04 23:52:30 UTC at epicenter Location 44.979°N 149.835°E Depth 36.43 km (22.64 mi)
 
-### 4. 日本のデータセンター4倍へ、8年で10兆円投資 AI向けで米中に次ぐ - 日本経済新聞
+### 4. blader/humanizer
+- source: GitHub Trending RSS All Languages Daily
+- score: `13`
+- published: `None`
+- url: https://github.com/blader/humanizer
+- summary: Agent skill that removes signs of AI-generated writing from text https://skills.sh/blader/humanizer Humanizer Humanizer rewrites AI-sounding text so it reads like a person wrote it, without changing what it says. Because it is just Markdown, it works with any…
+
+### 5. Claude Code の Rules はもう死んでいる - kawasin73のブログ
+- source: Hatena Bookmark Hotentry IT
+- score: `11`
+- published: `2026-09-05T03:06:41+00:00`
+- url: https://kawasin73.hatenablog.com/entry/2026/09/05/092056
+- summary: あちらを立てればこちらが立たず。どうもかわしんです。注意喚起です。 2026-08-18 以降、皆さんの Claude Code の Rules は動いていません。残念でした。解決策は環境変数 CLAUDE_CODE_THRIFTY_SONIC を無効にするように .claude/settings.json を設定してください。 ちなみに死んでいるのは Rules だけではないです。R...
+
+### 6. 日本のデータセンター4倍へ、8年で10兆円投資 AI向けで米中に次ぐ - 日本経済新聞
 - source: Hatena Bookmark Hotentry IT
 - score: `10`
 - published: `2026-09-04T23:34:04+00:00`
 - url: https://www.nikkei.com/article/DGXZQOUC03CDT0T00C26A7000000/
 - summary: 国内の人工知能（AI）向けデータセンターの規模が2030年代半ばまでに25年末に比べ4倍超に増えることが分かった。自国内でAIのデータや技術を管理する「AI主権」の確立に向け、基盤となるデータセンターの整備が米中に次ぐ規模で進む。国内でデータセンターを運営する主要26社の新設計画を日本経済新聞が調べた。各社に計...
-
-### 5. AIに「中学生でもわかるように1枚のHTMLで図解して」が、複雑なコードを読む前の最良の準備運動かも
-- source: Hatena Bookmark Hotentry IT
-- score: `10`
-- published: `2026-09-04T04:42:49+00:00`
-- url: https://zenn.dev/yesodco/articles/ed0eb2f6b7621a
-- summary: はじめに 株式会社イエソドの竹内(@chimerast)です。 今回は、軽いお話しで、Claude CodeなどのAIに複雑なロジックを解説させるときの豆知識です。 きっかけは「5才児向けの絵本」だった この話の始まりは、コードとは関係のない雑談でした。 弊社のメンバーがClaudeに「Fable 5 と Fable 5.1 の違いを、5才児でもわかる...
-
-### 6. 誰でも簡単にVPNを構築できる「Tailscale」--安全なリモート接続を無料で
-- source: Hatena Bookmark Hotentry IT
-- score: `10`
-- published: `2026-09-03T23:16:53+00:00`
-- url: https://japan.zdnet.com/article/35252243/
-- summary: 「Tailscale」は、「WireGuard」ベースの安全なVPNを手軽に構築できるサービスだ。ポート開放や複雑なネットワーク設定は必要なく、外出先からでもPCやモバイルデバイスへ安全に接続できる。無料プランでも多くの個人利用に対応する。
 
 END OF DOCUMENT
