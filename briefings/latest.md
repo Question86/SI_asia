@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-05T14:43:49+00:00_
+_Generiert: 2026-09-05T14:51:13+00:00_
 
 ## Kurzlage
 
@@ -37,10 +37,10 @@ _Generiert: 2026-09-05T14:43:49+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Japan
-- **GDACS: Green flood alert in Vietnam** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104141)
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:114.364km) in Papua New Guinea 05/09/2026 14:12 UTC, 290 thousand in MMI III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563786)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green flood alert in Vietnam
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:114.364km) in Papua New Guinea 05/09/2026 14:12 UTC, 290 thousand in MMI III.
 - **GDACS: Green earthquake (Magnitude 5.5M, Depth:32km) in Russia 04/09/2026 23:52 UTC, 6 thousand in MMI&gt;=III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563697)
   - Quelle: GDACS
   - Zeit: ``
