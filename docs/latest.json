@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-05T18:58:28+00:00",
-  "run_id": "2026-09-05T18:58:28+00:00",
+  "generated_at": "2026-09-05T19:13:57+00:00",
+  "run_id": "2026-09-05T19:13:57+00:00",
   "date": "2026-09-05",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 22
+      "configured_public_sources_only": 23
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 22,
-    "displayed_findings": 22,
+    "new_relevant_findings": 1,
+    "today_file_total": 23,
+    "displayed_findings": 23,
     "high": 0,
     "medium": 4,
-    "observe": 18,
+    "observe": 19,
     "source_errors": 0
   },
   "sections": {
@@ -598,6 +598,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "15dd83afbaba9458260d"
+      },
+      {
+        "title": ".gitignore everything by default",
+        "url": "https://packagemain.tech/p/gitignore-everything-by-default",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-05T14:58:37+00:00",
+        "fetched_at": "2026-09-05T19:13:29+00:00",
+        "summary": "I think we’ve all been there. You’re working on a project, making commits, and then suddenly realize you’ve been committing .DS_Store files, node_modules, IDE configuration files, or other junk (CLAUDE.md for example) that shouldn’t be in your repository. Or even worse - environment variables. Th...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "026da7bf3e06251805c9"
       },
       {
         "title": "リモートチームなら通話の音質に命をかけて欲しい - モヒカン技術ブログ",
@@ -1234,6 +1255,27 @@
       "id": "15dd83afbaba9458260d"
     },
     {
+      "title": ".gitignore everything by default",
+      "url": "https://packagemain.tech/p/gitignore-everything-by-default",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-05T14:58:37+00:00",
+      "fetched_at": "2026-09-05T19:13:29+00:00",
+      "summary": "I think we’ve all been there. You’re working on a project, making commits, and then suddenly realize you’ve been committing .DS_Store files, node_modules, IDE configuration files, or other junk (CLAUDE.md for example) that shouldn’t be in your repository. Or even worse - environment variables. Th...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "026da7bf3e06251805c9"
+    },
+    {
       "title": "リモートチームなら通話の音質に命をかけて欲しい - モヒカン技術ブログ",
       "url": "https://blog.pinkumohikan.com/entry/2026/09/05/150757",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1297,7 +1339,29 @@
       "id": "9d31e71945fe9996577c"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": ".gitignore everything by default",
+      "url": "https://packagemain.tech/p/gitignore-everything-by-default",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-05T14:58:37+00:00",
+      "fetched_at": "2026-09-05T19:13:29+00:00",
+      "summary": "I think we’ve all been there. You’re working on a project, making commits, and then suddenly realize you’ve been committing .DS_Store files, node_modules, IDE configuration files, or other junk (CLAUDE.md for example) that shouldn’t be in your repository. Or even worse - environment variables. Th...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "026da7bf3e06251805c9"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
