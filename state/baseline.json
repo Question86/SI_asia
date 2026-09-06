@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-06T04:03:25+00:00",
+  "generated_at": "2026-09-06T04:24:44+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -3377,7 +3377,7 @@
     },
     "domain:speakerdeck.com": {
       "title": "なぜSRE・セキュリティは評価されないのか？守りの組織を事業成長エンジンに変えた実践",
-      "updated_at": "2026-09-06T04:03:25+00:00",
+      "updated_at": "2026-09-06T04:24:44+00:00",
       "network_scores": [
         10.1,
         10.1,
@@ -3406,14 +3406,14 @@
         10.1,
         10.1,
         10.1,
-        10.1,
         16.1,
+        13.1,
         13.1
       ],
-      "rolling_average": 10.4,
+      "rolling_average": 10.5,
       "rolling_peak": 16.1,
       "last_score": 13.1,
-      "z_hint": 2.7
+      "z_hint": 2.6
     },
     "title:web-nginx-cvss": {
       "title": "Webサーバー「nginx」に3件の脆弱性、「CVSS 4.0」の基本値は最高で10点満点中「9.2」／v1.30.3/v1.31.2への更新を",
@@ -9880,9 +9880,8 @@
     },
     "domain:note.com": {
       "title": "GPT-6 Astra で飛躍的に向上したBlender 制作能力｜npaka",
-      "updated_at": "2026-09-06T04:03:25+00:00",
+      "updated_at": "2026-09-06T04:24:44+00:00",
       "network_scores": [
-        7.1,
         7.1,
         7.1,
         7.1,
@@ -9911,12 +9910,13 @@
         22.2,
         22.2,
         22.2,
+        22.2,
         22.2
       ],
-      "rolling_average": 13.08,
+      "rolling_average": 13.58,
       "rolling_peak": 25.2,
       "last_score": 22.2,
-      "z_hint": 9.12
+      "z_hint": 8.62
     },
     "earthquake:m 4.6 - 112 km ssw of chirilagua, el salvador:4.6": {
       "title": "M 4.6 - 112 km SSW of Chirilagua, El Salvador",
@@ -19313,7 +19313,7 @@
     },
     "earthquake:m 4.6 - 71 km n of isangel, vanuatu:4.6": {
       "title": "M 4.6 - 71 km N of Isangel, Vanuatu",
-      "updated_at": "2026-09-06T04:03:25+00:00",
+      "updated_at": "2026-09-06T04:24:44+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -19328,27 +19328,29 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 11.91,
+      "rolling_average": 11.9,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.21
+      "z_hint": -0.2
     },
     "earthquake:m 5.3 - 108 km sw of puerto madero, mexico:5.3": {
       "title": "M 5.3 - 108 km SW of Puerto Madero, Mexico",
-      "updated_at": "2026-09-06T04:03:25+00:00",
+      "updated_at": "2026-09-06T04:24:44+00:00",
       "network_scores": [
         14.7,
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 12.3,
+      "rolling_average": 12.2,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.6
+      "z_hint": -0.5
     }
   }
 }
