@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-06T18:24:30+00:00",
+  "generated_at": "2026-09-06T18:33:11+00:00",
   "fx_as_of": null,
   "candidate_count": 285,
   "promoted_count": 0,
@@ -387,20 +387,20 @@
       "attribution_probability": null,
       "candidate_confidence": 0.6,
       "candidate_id": "cand_05d770e15ac6343f474e",
+      "component_confidence": 0.0,
       "component_suggestion": "unknown",
       "conversion_status": "not_required",
       "currency": "USD",
       "event_id": "evt_e2a35831f82554cb2454",
       "extraction_method": "regex_context_v1",
+      "fx_as_of": null,
+      "fx_rate_to_usd": 1.0,
       "observed_at": "2026-09-06T18:24:25+00:00",
       "overlap_group_suggestion": "evt_e2a35831f82554cb2454:unknown:dd51bf3740a8",
       "review_status": "pending",
       "snippet": "r classes --regex-size-limit <SIZE> Cap the compiled regex size ( K / M / G suffixes) --dfa-size-limit <SIZE> Cap the regex DFA cache size -r, --replace <TEXT> Replace each match; $1 / ${name} expand capture groups --passthru Print every line, matching or not --stop-on-nonmatch Stop searching a file at its first non-matching line Output formatting Flag Descrip",
       "source_priority": "primary_hint",
-      "source_url": "https://github.com/microsoft/tgrep",
-      "component_confidence": 0.0,
-      "fx_rate_to_usd": 1.0,
-      "fx_as_of": null
+      "source_url": "https://github.com/microsoft/tgrep"
     },
     {
       "amount_native": 0.52,
