@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-09-06T22:26:32+00:00_
+_Generiert: 2026-09-06T22:35:24+00:00_
 
 ## GitHub - TabularisDB/tabularis: Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 13+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN
 
