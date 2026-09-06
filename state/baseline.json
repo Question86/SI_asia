@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-06T03:24:46+00:00",
+  "generated_at": "2026-09-06T03:37:01+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -9880,9 +9880,8 @@
     },
     "domain:note.com": {
       "title": "GPT-6 Astra で飛躍的に向上したBlender 制作能力｜npaka",
-      "updated_at": "2026-09-06T03:24:46+00:00",
+      "updated_at": "2026-09-06T03:37:01+00:00",
       "network_scores": [
-        7.1,
         7.1,
         7.1,
         7.1,
@@ -9911,12 +9910,13 @@
         22.2,
         22.2,
         22.2,
+        22.2,
         22.2
       ],
-      "rolling_average": 11.06,
+      "rolling_average": 11.57,
       "rolling_peak": 25.2,
       "last_score": 22.2,
-      "z_hint": 11.14
+      "z_hint": 10.63
     },
     "earthquake:m 4.6 - 112 km ssw of chirilagua, el salvador:4.6": {
       "title": "M 4.6 - 112 km SSW of Chirilagua, El Salvador",
@@ -19313,7 +19313,7 @@
     },
     "earthquake:m 4.6 - 71 km n of isangel, vanuatu:4.6": {
       "title": "M 4.6 - 71 km N of Isangel, Vanuatu",
-      "updated_at": "2026-09-06T03:24:46+00:00",
+      "updated_at": "2026-09-06T03:37:01+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -19324,23 +19324,25 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 12.0,
+      "rolling_average": 11.97,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.3
+      "z_hint": -0.27
     },
     "earthquake:m 5.3 - 108 km sw of puerto madero, mexico:5.3": {
       "title": "M 5.3 - 108 km SW of Puerto Madero, Mexico",
-      "updated_at": "2026-09-06T03:24:46+00:00",
+      "updated_at": "2026-09-06T03:37:01+00:00",
       "network_scores": [
-        14.7
+        14.7,
+        11.7
       ],
-      "rolling_average": 14.7,
+      "rolling_average": 13.2,
       "rolling_peak": 14.7,
-      "last_score": 14.7,
-      "z_hint": 0.0
+      "last_score": 11.7,
+      "z_hint": -1.5
     }
   }
 }
