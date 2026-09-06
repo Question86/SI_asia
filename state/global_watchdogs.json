@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T04:44:47+00:00",
+  "generated_at": "2026-09-06T04:52:27+00:00",
   "sections": {
     "global_security": [
       {
@@ -65,6 +65,16 @@
       {
         "domain": "security",
         "severity": "medium",
+        "title": "GDACS: Green earthquake (Magnitude 5.6M, Depth:38.543km) in Solomon Islands 06/09/2026 04:05 UTC, 4 thousand in MMI IV.",
+        "summary": "Green earthquake (Magnitude 5.6M, Depth:38.543km) in Solomon Islands 06/09/2026 04:05 UTC, 4 thousand in MMI IV.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563876",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "medium",
         "title": "GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Vanuatu 05/09/2026 17:02 UTC, 20 thousand in MMI IV.",
         "summary": "Green earthquake (Magnitude 5.6M, Depth:10km) in Vanuatu 05/09/2026 17:02 UTC, 20 thousand in MMI IV.",
         "source": "GDACS",
@@ -123,7 +133,7 @@
         "metrics": {
           "mag": 5.6,
           "alert": "green",
-          "sig": 482.0,
+          "sig": 483.0,
           "tsunami": 0
         }
       }
