@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-06T23:48:14+00:00",
-  "status": "normal",
-  "coverage_confidence": "normal",
+  "generated_at": "2026-09-06T23:56:10+00:00",
+  "status": "warning",
+  "coverage_confidence": "limited",
   "counts": {
     "new_relevant_findings": 0,
     "today_file_total": 30,
@@ -12,7 +12,7 @@
     "medium": 3,
     "observe": 27
   },
-  "source_errors_count": 0,
+  "source_errors_count": 1,
   "top_signals": [
     {
       "title": "GitHub - TabularisDB/tabularis: Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 13+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-…",

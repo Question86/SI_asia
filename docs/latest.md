@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-06T23:48:14+00:00_
+_Generiert: 2026-09-06T23:56:10+00:00_
 
 ## Kurzlage
 
-30 neue relevante Treffer. Stärkstes Signal: „GitHub - TabularisDB/tabularis: Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 13+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN“ aus Hatena Bookmark Hotentry IT (Score 20, observation).
+30 neue relevante Treffer. Stärkstes Signal: „GitHub - TabularisDB/tabularis: Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 13+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN“ aus Hatena Bookmark Hotentry IT (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -123,3 +123,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7fcaa1e4da10>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))
