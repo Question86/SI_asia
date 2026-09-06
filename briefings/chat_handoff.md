@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-06T02:02:55+00:00_
+_Generated: 2026-09-06T02:29:58+00:00_
 
 ## Status
 - status: `normal`
-- findings: `2`
+- findings: `3`
 
 ## Top Signals
 
@@ -21,5 +21,12 @@ _Generated: 2026-09-06T02:02:55+00:00_
 - published: `2026-09-06T00:11:59.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000telf
 - summary: Time 2026-09-05 23:46:26 UTC 2026-09-05 23:46:26 UTC at epicenter Location 18.895°S 169.251°E Depth 240.38 km (149.37 mi)
+
+### 3. AI に、即答させない ―― 反証を、装置にする｜小出幸典 | 株式会社カンリー CTO
+- source: Hatena Bookmark Hotentry IT
+- score: `9`
+- published: `2026-09-05T08:55:42+00:00`
+- url: https://note.com/koid/n/n3a4455b202e0
+- summary: ある朝、AI にひとつ頼んだ。 「この機能が遅い。キャッシュを入れたい」 こう返ってきた。 判定: 中。戻せる変更だが、解決策が先に固定されており、課題側が検討されていない。 それは本当に、キャッシュで解決すべき課題ですか。 頼んだのは、実装の段取りだった。なのに AI は、私の頼み自体を突き返してきた。 この...
 
 END OF DOCUMENT
