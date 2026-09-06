@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T13:20:11+00:00",
-  "run_id": "2026-09-06T13:20:11+00:00",
+  "generated_at": "2026-09-06T13:28:31+00:00",
+  "run_id": "2026-09-06T13:28:31+00:00",
   "date": "2026-09-06",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 18
+      "configured_public_sources_only": 19
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 18,
-    "displayed_findings": 18,
+    "new_relevant_findings": 1,
+    "today_file_total": 19,
+    "displayed_findings": 19,
     "high": 0,
     "medium": 2,
-    "observe": 16,
+    "observe": 17,
     "source_errors": 0
   },
   "sections": {
@@ -352,6 +352,28 @@
           "LOW"
         ],
         "id": "83e638240eb0f7c16a75"
+      },
+      {
+        "title": "移住者から見た新潟②1泊2日の最強新潟市内観光モデルルート｜金子萌｜介護現場・自治体のDX×AI@日経新聞「向き合う」連載中",
+        "url": "https://note.com/omohibito_moe/n/n643dc02f8c32",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-06T08:31:39+00:00",
+        "fetched_at": "2026-09-06T13:27:53+00:00",
+        "summary": "前回「新潟移住のすすめ」というノートを書きました。そこに書いた通り、私は東京から新潟市に移住してきた人間です。 しかし、「新潟って観光するところある?」東京の人と話していると、結構な確率でこの反応をされます。 せっかく来てくれたのに、新潟市内では時間を過ごさずに日帰りで帰ってしまったり、越後湯沢、長...",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e2cb21e6c259a25dc5b3"
       },
       {
         "title": "M 4.6 - Kermadec Islands region",
@@ -894,6 +916,28 @@
       "id": "83e638240eb0f7c16a75"
     },
     {
+      "title": "移住者から見た新潟②1泊2日の最強新潟市内観光モデルルート｜金子萌｜介護現場・自治体のDX×AI@日経新聞「向き合う」連載中",
+      "url": "https://note.com/omohibito_moe/n/n643dc02f8c32",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-06T08:31:39+00:00",
+      "fetched_at": "2026-09-06T13:27:53+00:00",
+      "summary": "前回「新潟移住のすすめ」というノートを書きました。そこに書いた通り、私は東京から新潟市に移住してきた人間です。 しかし、「新潟って観光するところある?」東京の人と話していると、結構な確率でこの反応をされます。 せっかく来てくれたのに、新潟市内では時間を過ごさずに日帰りで帰ってしまったり、越後湯沢、長...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e2cb21e6c259a25dc5b3"
+    },
+    {
       "title": "M 4.6 - Kermadec Islands region",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000temt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1111,61 +1155,26 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.7 - Svalbard region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teq9",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-09-06T13:10:28.040+00:00",
-      "fetched_at": "2026-09-06T13:19:39+00:00",
-      "summary": "Time 2026-09-06 12:50:34 UTC 2026-09-06 12:50:34 UTC at epicenter Location 76.148°N 7.169°E Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "81d960f7ad4cbcad046d"
-    },
-    {
-      "title": "2027年7月以降、Windows Updateで配信されるプリンタードライバーの仕様が変更される予定",
-      "url": "https://garumax.com/windows-update-printer-driver-spec-change-2027-07",
+      "title": "移住者から見た新潟②1泊2日の最強新潟市内観光モデルルート｜金子萌｜介護現場・自治体のDX×AI@日経新聞「向き合う」連載中",
+      "url": "https://note.com/omohibito_moe/n/n643dc02f8c32",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-06T06:48:54+00:00",
-      "fetched_at": "2026-09-06T13:19:39+00:00",
-      "summary": "ホーム > ソフトウェア > Windows > 2027年7月以降、Windows Updateで配信されるプリンタードライバーの仕様が変更される予定 2027年7月以降、Windows Updateで配信されるプリンタードライバーの仕様が変更される予定 投稿日:2026年09月06日 Microsoft コラム・解説・知識 執筆者 : かのあゆ ※ 当メディアのリンクにはア...",
+      "published_at": "2026-09-06T08:31:39+00:00",
+      "fetched_at": "2026-09-06T13:27:53+00:00",
+      "summary": "前回「新潟移住のすすめ」というノートを書きました。そこに書いた通り、私は東京から新潟市に移住してきた人間です。 しかし、「新潟って観光するところある?」東京の人と話していると、結構な確率でこの反応をされます。 せっかく来てくれたのに、新潟市内では時間を過ごさずに日帰りで帰ってしまったり、越後湯沢、長...",
       "matched_keywords": [
+        "AI/KI",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "dec730f6127c87c494af"
+      "id": "e2cb21e6c259a25dc5b3"
     }
   ],
   "source_errors": [],
