@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-06T09:39:33+00:00_
+_Generiert: 2026-09-06T09:47:21+00:00_
 
 ## Kurzlage
 
-9 neue relevante Treffer. Stärkstes Signal: „GPT-6 Astra で飛躍的に向上したBlender 制作能力｜npaka“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
+10 neue relevante Treffer. Stärkstes Signal: „GPT-6 Astra で飛躍的に向上したBlender 制作能力｜npaka“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -99,6 +99,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - IV Time 2026-09-06 04:05:30 UTC 2026-09-06 04:05:30 UTC at epicenter Location 11.060°S 162.519°E Depth 38.54 km (23.95 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **OpenAI、休眠サイトへの自社AIエージェント書き込みを認め、非公表の理由を説明** — Score 12, observation — [Quelle](https://www.itmedia.co.jp/news/article/2609/06/2000001202/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-05T23:15:01+00:00`, fetched `2026-09-06T09:46:52+00:00`
+  - Treffer: Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 冒頭で「当社のエージェントが複数のWebサイトに書き込んだ“Wikiインシデント”」と表現しており、この件を自社エージェントによるものと初めて明示的に認めた。研究団体が報告書を公開してから約16時間後の投稿だった。 声明の主眼は、なぜこれまで公表しなかったかの説明と、今後の開示ルール作りに置かれている。同社...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **なぜSRE・セキュリティは評価されないのか？守りの組織を事業成長エンジンに変えた実践** — Score 11, opportunity — [Quelle](https://speakerdeck.com/cscengineer/unvalued-sre-security-growth-engine)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-06T00:42:44+00:00`, fetched `2026-09-06T03:53:49+00:00`
@@ -134,15 +143,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: ある朝、AI にひとつ頼んだ。 「この機能が遅い。キャッシュを入れたい」 こう返ってきた。 判定: 中。戻せる変更だが、解決策が先に固定されており、課題側が検討されていない。 それは本当に、キャッシュで解決すべき課題ですか。 頼んだのは、実装の段取りだった。なのに AI は、私の頼み自体を突き返してきた。 この...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **やはりKubernetesからは逃れられない - まいの雑記帳** — Score 5, observation — [Quelle](https://mq1.dev/entry/U0w-0MgT8IhM)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-05T18:30:52+00:00`, fetched `2026-09-06T06:08:07+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: # はじめにどうも、わたしです。 最近、安価なVPS上で複数のワークロードをいい感じに収容する方法について考えています。 こんなツイートが伸びるくらいなので、もしかしたら多くの人が気になっているのではないでしょうか。 このような用途の多くは既にサーバレスへ代替されてしまっているのでしょうが、私がやりたい...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

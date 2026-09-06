@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-06T09:39:33+00:00_
+_Generated: 2026-09-06T09:47:21+00:00_
 
 ## Status
 - status: `normal`
-- findings: `9`
+- findings: `10`
 
 ## Top Signals
 
@@ -29,25 +29,25 @@ _Generated: 2026-09-06T09:39:33+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000temi
 - summary: PAGER - GREEN ShakeMap - IV Time 2026-09-06 04:05:30 UTC 2026-09-06 04:05:30 UTC at epicenter Location 11.060°S 162.519°E Depth 38.54 km (23.95 mi)
 
-### 4. なぜSRE・セキュリティは評価されないのか？守りの組織を事業成長エンジンに変えた実践
+### 4. OpenAI、休眠サイトへの自社AIエージェント書き込みを認め、非公表の理由を説明
+- source: Hatena Bookmark Hotentry IT
+- score: `12`
+- published: `2026-09-05T23:15:01+00:00`
+- url: https://www.itmedia.co.jp/news/article/2609/06/2000001202/
+- summary: 冒頭で「当社のエージェントが複数のWebサイトに書き込んだ“Wikiインシデント”」と表現しており、この件を自社エージェントによるものと初めて明示的に認めた。研究団体が報告書を公開してから約16時間後の投稿だった。 声明の主眼は、なぜこれまで公表しなかったかの説明と、今後の開示ルール作りに置かれている。同社...
+
+### 5. なぜSRE・セキュリティは評価されないのか？守りの組織を事業成長エンジンに変えた実践
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-09-06T00:42:44+00:00`
 - url: https://speakerdeck.com/cscengineer/unvalued-sre-security-growth-engine
 - summary: Product Engineering Conference 2026の登壇資料。 https://product-engineering.jp/2026/ プロポーザル。 https://fortee.jp/pdeconf-2026/proposal/dfcd864d-0512-4de8-a…
 
-### 5. M 4.6 - Kermadec Islands region
+### 6. M 4.6 - Kermadec Islands region
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-09-06T05:29:02.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000temt
 - summary: Time 2026-09-06 04:52:40 UTC 2026-09-06 04:52:40 UTC at epicenter Location 28.552°S 176.810°W Depth 10.00 km (6.21 mi)
-
-### 6. M 5.3 - 108 km SW of Puerto Madero, Mexico
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-09-06T03:09:55.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tem2
-- summary: Time 2026-09-06 02:56:32 UTC 2026-09-06 02:56:32 UTC at epicenter Location 14.155°N 93.249°W Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
