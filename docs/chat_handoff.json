@@ -30,5 +30,62 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “M 4.6 - 71 km N of Isangel, Vanuatu” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=13.4.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "M 4.6 - 71 km N of Isangel, Vanuatu",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000telf",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-06T00:22:21+00:00",
+        "age_days": 0.01,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 13.4,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 1,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +1"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "M 4.6 - 71 km N of Isangel, Vanuatu",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000telf",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-06T00:11:59.040+00:00",
+        "age_days": 0.02,
+        "topics": [
+          "disaster"
+        ],
+        "dynamics_score": 12.0,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "early terms: earthquake"
+        ],
+        "summary": "Time 2026-09-05 23:46:26 UTC 2026-09-05 23:46:26 UTC at epicenter Location 18.895°S 169.251°E Depth 240.38 km (149.37 mi)"
+      }
+    ]
+  }
 }

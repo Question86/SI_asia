@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-05T23:35:35Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “GPT-6 Astra: A new generation of intelligence” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
+  "generated_at": "2026-09-06T00:40:34Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 4.6 - 71 km N of Isangel, Vanuatu” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=13.4.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,300 +11,52 @@
   ],
   "top_dynamics": [
     {
-      "title": "GPT-6 Astra: A new generation of intelligence",
-      "url": "https://openai.com/index/gpt-6-astra",
-      "source": "OpenAI News RSS",
-      "published_at": "2026-09-03T11:00:00+00:00",
-      "age_days": 2.52,
-      "topics": [
-        "ai",
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: security",
-        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
-      ],
-      "summary": "Introducing GPT-6 Astra, our most intelligent and aligned model yet, with state-of-the-art capabilities across computer use, coding, cybersecurity, and science."
-    },
-    {
-      "title": "サイバーセキュリティ報告書 | 東芝 サイバーセキュリティ | 東芝",
-      "url": "https://www.global.toshiba/jp/cybersecurity/corporate/report.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-05T06:08:47+00:00",
-      "age_days": 0.73,
-      "topics": [
-        "security",
-        "macro"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: security"
-      ],
-      "summary": "東芝グループにおけるサイバーセキュリティに対する取り組みについて、2025年度の活動報告を「サイバーセキュリティ報告書 2026」としてPDFで提供しています。"
-    },
-    {
-      "title": "M 5.0 - 70 km SW of Pagar Alam, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teiy",
+      "title": "M 4.6 - 71 km N of Isangel, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000telf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-05T11:18:17.040+00:00",
-      "age_days": 0.51,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-09-05 10:59:15 UTC 2026-09-05 10:59:15 UTC at epicenter Location 4.420°S 102.751°E Depth 68.93 km (42.83 mi)"
-    },
-    {
-      "title": "M 5.0 - 70 km SW of Pagar Alam, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teiy",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-29T08:36:29+00:00",
-      "age_days": 7.62,
+      "published_at": "2026-09-06T00:22:21+00:00",
+      "age_days": 0.01,
       "topics": [
         "general"
       ],
-      "dynamics_score": 22.5,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 4.5 - 76 km S of Gorontalo, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tehs",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-05T07:22:32+00:00",
-      "age_days": 0.68,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 22.5,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 4.5 - 159 km ENE of Noda, Japan",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teg7",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-05T01:09:44+00:00",
-      "age_days": 0.93,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 22.5,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "blader/humanizer",
-      "url": "https://github.com/blader/humanizer",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-09-05T06:31:31+00:00",
-      "age_days": 0.71,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 22.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 5.5 - 156 km E of Kuril’sk, Russia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tefx",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-05T00:19:26.018+00:00",
-      "age_days": 0.97,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 21.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 9.8"
-      ],
-      "summary": "PAGER - GREEN ShakeMap - IV Time 2026-09-04 23:52:30 UTC 2026-09-04 23:52:30 UTC at epicenter Location 44.979°N 149.835°E Depth 36.43 km (22.64 mi)"
-    },
-    {
-      "title": "M 5.5 - 157 km E of Kokopo, Papua New Guinea",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teji",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-05T14:43:52+00:00",
-      "age_days": 0.37,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 20.5,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 5.5 - 156 km E of Kuril’sk, Russia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tefx",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-05T00:43:33+00:00",
-      "age_days": 0.95,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 20.5,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "サイバーセキュリティ報告書 | 東芝 サイバーセキュリティ | 東芝",
-      "url": "https://www.global.toshiba/jp/cybersecurity/corporate/report.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-05T09:29:42+00:00",
-      "age_days": 0.59,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 20.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "GPT-6 Astra: A new generation of intelligence",
-      "url": "https://openai.com/index/gpt-6-astra",
-      "source": "OpenAI News RSS",
-      "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 80.12,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 19.9,
-      "raw_band": "strong",
+      "dynamics_score": 13.4,
+      "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 3,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3",
-        "aging penalty -8.0 for 80.1d old signal",
-        "stale single-source cap: max watch after 14d without fresh resonance",
-        "single-source AI cap enforced after phrase recheck"
+        "momentum delta +1"
       ],
       "summary": ""
+    },
+    {
+      "title": "M 4.6 - 71 km N of Isangel, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000telf",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-06T00:11:59.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "Time 2026-09-05 23:46:26 UTC 2026-09-05 23:46:26 UTC at epicenter Location 18.895°S 169.251°E Depth 240.38 km (149.37 mi)"
     }
   ],
   "read_order": [
@@ -316,8 +68,7 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 11,
-      "watch": 1
+      "watch": 2
     }
   }
 }
