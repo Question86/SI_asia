@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-06T13:54:13+00:00_
+_Generiert: 2026-09-06T14:02:01+00:00_
 
 ## Kurzlage
 
-19 neue relevante Treffer. Stärkstes Signal: „GPT-6 Astra で飛躍的に向上したBlender 制作能力｜npaka“ aus Hatena Bookmark Hotentry IT (Score 18, observation). 4 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+19 neue relevante Treffer. Stärkstes Signal: „GPT-6 Astra で飛躍的に向上したBlender 制作能力｜npaka“ aus Hatena Bookmark Hotentry IT (Score 18, observation). 3 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -156,7 +156,6 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Quellenfehler
 
-- `cert_fr_alerts` (rss): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 - `bis_press_releases` (rss): 503 Server Error: Service Unavailable for url: https://www.bis.org/doclist/all_pressrels.rss
 - `bis_central_bank_speeches` (rss): 503 Server Error: Service Unavailable for url: https://www.bis.org/doclist/cbspeeches.rss?paging_length=15
 - `bis_statistics` (rss): 503 Server Error: Service Unavailable for url: https://www.bis.org/doclist/all_statistics.rss
