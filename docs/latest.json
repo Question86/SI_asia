@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T10:04:58+00:00",
-  "run_id": "2026-09-06T10:04:58+00:00",
+  "generated_at": "2026-09-06T10:20:29+00:00",
+  "run_id": "2026-09-06T10:20:29+00:00",
   "date": "2026-09-06",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 10
+      "configured_public_sources_only": 11
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 10,
-    "displayed_findings": 10,
+    "new_relevant_findings": 1,
+    "today_file_total": 11,
+    "displayed_findings": 11,
     "high": 0,
     "medium": 2,
-    "observe": 8,
+    "observe": 9,
     "source_errors": 0
   },
   "sections": {
@@ -323,6 +323,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "522b4ad694ba65bed9e6"
+      },
+      {
+        "title": "軍事技術に反対するならインターネットは使えない、という揶揄はバカバカしいからやめるべき - 法華狼の日記",
+        "url": "https://hokke-ookami.hatenablog.com/entry/20260904/1788533959",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-04T15:34:10+00:00",
+        "fetched_at": "2026-09-06T10:19:57+00:00",
+        "summary": "楽天が軍事企業と提携することへの抗議のため撤退する企業が出たことをTogetter公式がまとめ、イーロン傘下になったTwitter*1を使うべきではないという反論ツイート*2を最後から二番目に収録していた*3。 「買うのやめるわ」楽天が海外軍用ドローン会社と提携を発表、それを受けて通販生活が楽天市場からの撤退を表明す...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ae35b4e9bbd35317cfe3"
       }
     ]
   },
@@ -619,9 +640,52 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "522b4ad694ba65bed9e6"
+    },
+    {
+      "title": "軍事技術に反対するならインターネットは使えない、という揶揄はバカバカしいからやめるべき - 法華狼の日記",
+      "url": "https://hokke-ookami.hatenablog.com/entry/20260904/1788533959",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-04T15:34:10+00:00",
+      "fetched_at": "2026-09-06T10:19:57+00:00",
+      "summary": "楽天が軍事企業と提携することへの抗議のため撤退する企業が出たことをTogetter公式がまとめ、イーロン傘下になったTwitter*1を使うべきではないという反論ツイート*2を最後から二番目に収録していた*3。 「買うのやめるわ」楽天が海外軍用ドローン会社と提携を発表、それを受けて通販生活が楽天市場からの撤退を表明す...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ae35b4e9bbd35317cfe3"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "軍事技術に反対するならインターネットは使えない、という揶揄はバカバカしいからやめるべき - 法華狼の日記",
+      "url": "https://hokke-ookami.hatenablog.com/entry/20260904/1788533959",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-04T15:34:10+00:00",
+      "fetched_at": "2026-09-06T10:19:57+00:00",
+      "summary": "楽天が軍事企業と提携することへの抗議のため撤退する企業が出たことをTogetter公式がまとめ、イーロン傘下になったTwitter*1を使うべきではないという反論ツイート*2を最後から二番目に収録していた*3。 「買うのやめるわ」楽天が海外軍用ドローン会社と提携を発表、それを受けて通販生活が楽天市場からの撤退を表明す...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ae35b4e9bbd35317cfe3"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

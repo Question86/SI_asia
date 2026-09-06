@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-06T10:05:01+00:00",
+  "generated_at": "2026-09-06T10:20:33+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 10,
-    "clusters": 9,
+    "findings": 11,
+    "clusters": 10,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 0,
@@ -208,6 +208,44 @@
       "first_seen_at": "2026-09-06T04:35:54+00:00"
     },
     {
+      "key": "domain:hokke-ookami.hatenablog.com",
+      "title": "軍事技術に反対するならインターネットは使えない、という揶揄はバカバカしいからやめるべき - 法華狼の日記",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://hokke-ookami.hatenablog.com/entry/20260904/1788533959"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 9.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 10.1,
+      "ranking_score": 9.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-06T10:20:33+00:00"
+    },
+    {
       "key": "earthquake:m 4.6 - kermadec islands region:4.6",
       "title": "M 4.6 - Kermadec Islands region",
       "sources": [
@@ -371,7 +409,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-06T10:05:02Z",
+    "generated_at": "2026-09-06T10:20:33Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
