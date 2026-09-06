@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-06T06:45:05Z_
+_Generated: 2026-09-06T06:54:43Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “なぜSRE・セキュリティは評価�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-06T00:42:44+00:00` / age_days `0.25`
+- Published: `2026-09-06T00:42:44+00:00` / age_days `0.26`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -22,27 +22,27 @@ Stärkste Dynamik nach Gate-Recheck: “なぜSRE・セキュリティは評価�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-31T18:43:10+00:00` / age_days `5.5`
+- Published: `2026-08-31T18:43:10+00:00` / age_days `5.51`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, baseline z_hint 3.08, krass gate: single-source non-official/non-identity signal capped
+- Warum: momentum delta +3, baseline z_hint 2.58, krass gate: single-source non-official/non-identity signal capped
 - Quelle: https://note.com/npaka/n/n9635d06c377f
 
 ### なぜSRE・セキュリティは評価されないのか？守りの組織を事業成長エンジンに変えた実践
 
 - Band: `strong` (raw `strong`)
-- Dynamics score: `21.65`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `79.2`
+- Dynamics score: `21.54`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `79.21`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, baseline z_hint 1.50, AXI0M/User-Yps identity hit, aging penalty -8.0 for 79.2d old signal, identity recheck: no AXI0M/User-Yps phrase hit
+- Warum: momentum delta +3, baseline z_hint 1.40, AXI0M/User-Yps identity hit, aging penalty -8.0 for 79.2d old signal, identity recheck: no AXI0M/User-Yps phrase hit
 - Quelle: https://speakerdeck.com/cscengineer/unvalued-sre-security-growth-engine
 
 ### M 5.3 - 108 km SW of Puerto Madero, Mexico
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.5`
-- Published: `2026-09-06T03:24:46+00:00` / age_days `0.14`
+- Published: `2026-09-06T03:24:46+00:00` / age_days `0.15`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: 10
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “なぜSRE・セキュリティは評価�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.0`
-- Published: `2026-09-06T05:34:11.040+00:00` / age_days `0.05`
+- Published: `2026-09-06T05:34:11.040+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “なぜSRE・セキュリティは評価�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-06T05:29:02.040+00:00` / age_days `0.05`
+- Published: `2026-09-06T05:29:02.040+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “なぜSRE・セキュリティは評価�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-06T03:09:55.040+00:00` / age_days `0.15`
+- Published: `2026-09-06T03:09:55.040+00:00` / age_days `0.16`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -98,31 +98,31 @@ Stärkste Dynamik nach Gate-Recheck: “なぜSRE・セキュリティは評価�
 - Warum: momentum delta +3
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000telf
 
-### M 4.9 - 118 km ENE of Kuji, Japan
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `14.62`
-- Published: `2026-06-19T20:12:42+00:00` / age_days `78.44`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, baseline z_hint 0.17, aging penalty -8.0 for 78.4d old signal
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000temw
-
 ### やはりKubernetesからは逃れられない - まいの雑記帳
 
 - Band: `watch` (raw `watch`)
-- Dynamics score: `14.0`
+- Dynamics score: `16.5`
 - Published: `2026-09-06T06:08:42+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1, high terms: kubernetes
+- Warum: momentum delta +2, high terms: kubernetes
 - Quelle: https://mq1.dev/entry/U0w-0MgT8IhM
+
+### M 4.9 - 118 km ENE of Kuji, Japan
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `14.6`
+- Published: `2026-06-19T20:12:42+00:00` / age_days `78.45`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3, baseline z_hint 0.14, aging penalty -8.0 for 78.4d old signal
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000temw
 
 ### M 5.6 - 93 km SE of Kirakira, Solomon Islands
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `12.5`
-- Published: `2026-09-06T04:35:54+00:00` / age_days `0.09`
+- Published: `2026-09-06T04:35:54+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
