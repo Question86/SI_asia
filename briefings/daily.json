@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T10:20:33+00:00",
+  "generated_at": "2026-09-06T10:29:27+00:00",
   "today_file_total": 11,
   "current_clusters": [
     {
@@ -198,29 +198,6 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "domain:hokke-ookami.hatenablog.com",
-      "title": "軍事技術に反対するならインターネットは使えない、という揶揄はバカバカしいからやめるべき - 法華狼の日記",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://hokke-ookami.hatenablog.com/entry/20260904/1788533959"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 10.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
       "key": "title:kubernetes",
       "title": "やはりKubernetesからは逃れられない - まいの雑記帳",
       "sources": [
@@ -231,6 +208,29 @@
       ],
       "urls": [
         "https://mq1.dev/entry/U0w-0MgT8IhM"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 7.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:hokke-ookami.hatenablog.com",
+      "title": "軍事技術に反対するならインターネットは使えない、という揶揄はバカバカしいからやめるべき - 法華狼の日記",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://hokke-ookami.hatenablog.com/entry/20260904/1788533959"
       ],
       "finding_count": 1,
       "max_score": 5,
