@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-06T22:00:04+00:00",
+  "generated_at": "2026-09-06T22:18:14+00:00",
   "events": [
     {
       "event_id": "evt_02008879feb3a26196bb",
@@ -473,7 +473,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_23fb8afd580f37b46528",
@@ -1354,6 +1354,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_6b0264822f432b8657b9",
+      "title": "GitHub - TabularisDB/tabularis: Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 13+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_6bdd04f9837870e8bed6",
