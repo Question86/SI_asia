@@ -1,39 +1,69 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-06T01:47:21Z",
+  "generated_at": "2026-09-06T02:18:36Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 2,
+    "dynamics": 4,
     "bands": {
-      "watch": 2
+      "strong": 1,
+      "watch": 2,
+      "quiet": 1
     },
     "bands_after_gate_recheck": {
-      "watch": 2
+      "strong": 1,
+      "watch": 2,
+      "quiet": 1
     }
   },
   "top_dynamics": [
+    {
+      "title": "GPT-6 Astra で飛躍的に向上したBlender 制作能力｜npaka",
+      "url": "https://note.com/npaka/n/n9635d06c377f",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-31T18:43:10+00:00",
+      "age_days": 5.32,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 11.65,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 11.65",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": ""
+    },
     {
       "title": "M 4.6 - 71 km N of Isangel, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000telf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-06T00:22:21+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
-      "dynamics_score": 14.0,
+      "dynamics_score": 16.5,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +2"
+        "momentum delta +3"
       ],
       "summary": ""
     },
@@ -42,7 +72,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000telf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-06T00:11:59.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -60,7 +90,32 @@
         "early terms: earthquake"
       ],
       "summary": "Time 2026-09-05 23:46:26 UTC 2026-09-05 23:46:26 UTC at epicenter Location 18.895°S 169.251°E Depth 240.38 km (149.37 mi)"
+    },
+    {
+      "title": "GPT-6 Astra で飛躍的に向上したBlender 制作能力｜npaka",
+      "url": "https://note.com/npaka/n/n9635d06c377f",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-05T23:12:07+00:00",
+      "age_days": 0.13,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "「GPT-6 Astra」で飛躍的に向上した「Blender」 制作能力についてまとめました。 1. はじめにOpenAIは2026年9月3日、新モデル「GPT-6 Astra」を発表しました。 GPT-6 Astraでは、コーディングやComputer Use、長時間タスクへの対応が強化されていますが、発表直後から特に注目されているのがBlenderを使った3D制作能力で..."
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 4.6 - 71 km N of Isangel, Vanuatu” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=14.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “GPT-6 Astra で飛躍的に向上したBlender 制作能力｜npaka” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
 }
