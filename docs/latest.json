@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T17:01:02+00:00",
-  "run_id": "2026-09-06T17:01:02+00:00",
+  "generated_at": "2026-09-06T17:16:05+00:00",
+  "run_id": "2026-09-06T17:16:05+00:00",
   "date": "2026-09-06",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 24,
     "displayed_findings": 24,
     "high": 0,
@@ -1363,50 +1363,7 @@
       "id": "6b7ccf7ef0a769c6e84e"
     }
   ],
-  "new_findings": [
-    {
-      "title": "An Alien Mind",
-      "url": "https://openai.com/index/an-alien-mind",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-09-06T09:00:00+00:00",
-      "fetched_at": "2026-09-06T17:00:31+00:00",
-      "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
-      "matched_keywords": [
-        "AI/KI",
-        "OpenAI"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "680cfc43e5f155944138"
-    },
-    {
-      "title": "DO-GU",
-      "url": "https://do-gu.niwa.dev/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-06T10:55:22+00:00",
-      "fetched_at": "2026-09-06T17:00:31+00:00",
-      "summary": "道具の入れ替わりが激しい今だから、みんながどんな道具を使っているのか気になります。 自分の道具遍歴をまとめておきたくもなります。面倒な手入力はありません。 あなたのいつものエージェントに頼んで、あなたの道具をまとめてみませんか？ はじめる →",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "21271092c2d13fc80c9b"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

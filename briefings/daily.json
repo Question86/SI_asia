@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T17:01:06+00:00",
+  "generated_at": "2026-09-06T17:16:08+00:00",
   "today_file_total": 24,
   "current_clusters": [
     {
@@ -29,30 +29,6 @@
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
     },
     {
-      "key": "domain:openai.com",
-      "title": "Research acceleration: The view inside OpenAI",
-      "sources": [
-        "OpenAI News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://openai.com/index/research-acceleration-view-inside-openai",
-        "https://openai.com/index/an-alien-mind"
-      ],
-      "finding_count": 2,
-      "max_score": 12,
-      "credibility_total": 2.1,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 19.2,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
       "key": "earthquake:japan:4.9",
       "title": "M 4.9 - 118 km ENE of Kuji, Japan",
       "sources": [
@@ -76,6 +52,30 @@
         "earthquakes_tsunami"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "domain:openai.com",
+      "title": "Research acceleration: The view inside OpenAI",
+      "sources": [
+        "OpenAI News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://openai.com/index/research-acceleration-view-inside-openai",
+        "https://openai.com/index/an-alien-mind"
+      ],
+      "finding_count": 2,
+      "max_score": 12,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 16.2,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "earthquake:m 5.6 - 93 km se of kirakira, solomon islands:5.6",
@@ -363,9 +363,9 @@
       "max_score": 5,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 10.1,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 7.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
