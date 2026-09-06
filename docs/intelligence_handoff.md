@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-06T21:10:31Z_
+_Generated: 2026-09-06T21:21:07Z_
 
 ## Lageurteil
 
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - microsoft/tgrep: Trigram-indexe
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-06T00:42:44+00:00` / age_days `0.85`
+- Published: `2026-09-06T00:42:44+00:00` / age_days `0.86`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -32,17 +32,17 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - microsoft/tgrep: Trigram-indexe
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-08-31T18:43:10+00:00` / age_days `6.1`
+- Published: `2026-08-31T18:43:10+00:00` / age_days `6.11`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: momentum delta +3, baseline z_hint 0.11, high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
+- Warum: momentum delta +3, baseline z_hint 0.04, high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://note.com/npaka/n/n9635d06c377f
 
 ### M 5.3 - 108 km SW of Puerto Madero, Mexico
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.5`
-- Published: `2026-09-06T03:24:46+00:00` / age_days `0.74`
+- Published: `2026-09-06T03:24:46+00:00` / age_days `0.75`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: 10
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - microsoft/tgrep: Trigram-indexe
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.0`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `79.8`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `79.81`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, AXI0M/User-Yps identity hit, aging penalty -8.0 for 79.8d old signal, identity recheck: no AXI0M/User-Yps phrase hit
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - microsoft/tgrep: Trigram-indexe
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-09-06T11:28:06.040+00:00` / age_days `0.4`
+- Published: `2026-09-06T11:28:06.040+00:00` / age_days `0.41`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - microsoft/tgrep: Trigram-indexe
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.5`
-- Published: `2026-09-03T21:39:57+00:00` / age_days `2.98`
+- Published: `2026-09-03T21:39:57+00:00` / age_days `2.99`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - microsoft/tgrep: Trigram-indexe
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.0`
-- Published: `2026-09-06T05:34:11.040+00:00` / age_days `0.65`
+- Published: `2026-09-06T05:34:11.040+00:00` / age_days `0.66`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - microsoft/tgrep: Trigram-indexe
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-06T19:37:38.391+00:00` / age_days `0.06`
+- Published: `2026-09-06T19:37:38.391+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - microsoft/tgrep: Trigram-indexe
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-06T13:10:28.040+00:00` / age_days `0.33`
+- Published: `2026-09-06T13:10:28.040+00:00` / age_days `0.34`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - microsoft/tgrep: Trigram-indexe
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-06T12:18:21.040+00:00` / age_days `0.37`
+- Published: `2026-09-06T12:18:21.040+00:00` / age_days `0.38`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10

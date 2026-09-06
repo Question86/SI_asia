@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-06T21:10:31Z",
+  "generated_at": "2026-09-06T21:21:07Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "krass": 1,
       "strong": 4,
-      "watch": 27,
-      "quiet": 8
+      "watch": 28,
+      "quiet": 7
     },
     "bands_after_gate_recheck": {
       "strong": 5,
-      "watch": 27,
-      "quiet": 8
+      "watch": 28,
+      "quiet": 7
     }
   },
   "top_dynamics": [
@@ -49,7 +49,7 @@
       "url": "https://speakerdeck.com/cscengineer/unvalued-sre-security-growth-engine",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-06T00:42:44+00:00",
-      "age_days": 0.85,
+      "age_days": 0.86,
       "topics": [
         "security"
       ],
@@ -76,7 +76,7 @@
       "url": "https://note.com/npaka/n/n9635d06c377f",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 6.1,
+      "age_days": 6.11,
       "topics": [
         "general"
       ],
@@ -87,12 +87,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.11,
+      "baseline_z_hint": 0.04,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 0.11",
+        "baseline z_hint 0.04",
         "high terms: rce",
         "security high-signal: rce",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
@@ -104,7 +104,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tem2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-06T03:24:46+00:00",
-      "age_days": 0.74,
+      "age_days": 0.75,
       "topics": [
         "general"
       ],
@@ -129,7 +129,7 @@
       "url": "https://speakerdeck.com/cscengineer/unvalued-sre-security-growth-engine",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 79.8,
+      "age_days": 79.81,
       "topics": [],
       "dynamics_score": 20.0,
       "raw_band": "strong",
@@ -179,7 +179,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tep0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-06T11:28:06.040+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "disaster"
       ],
@@ -204,7 +204,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tep0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T21:39:57+00:00",
-      "age_days": 2.98,
+      "age_days": 2.99,
       "topics": [
         "general"
       ],
@@ -228,7 +228,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000temw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-06T05:34:11.040+00:00",
-      "age_days": 0.65,
+      "age_days": 0.66,
       "topics": [
         "disaster"
       ],
@@ -252,7 +252,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000terb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-06T19:37:38.391+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -277,7 +277,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teq9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-06T13:10:28.040+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "disaster"
       ],
@@ -302,7 +302,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tepx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-06T12:18:21.040+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "disaster"
       ],
@@ -327,7 +327,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tepa",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-06T11:21:12.040+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "disaster"
       ],
@@ -377,7 +377,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000temt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-06T05:29:02.040+00:00",
-      "age_days": 0.65,
+      "age_days": 0.66,
       "topics": [
         "disaster"
       ],
@@ -402,7 +402,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tem2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-06T03:09:55.040+00:00",
-      "age_days": 0.75,
+      "age_days": 0.76,
       "topics": [
         "disaster"
       ],
@@ -423,11 +423,36 @@
       "summary": "Time 2026-09-06 02:56:32 UTC 2026-09-06 02:56:32 UTC at epicenter Location 14.155°N 93.249°W Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "VS Code誕生から現在までの物語「The Story of VS Code」YouTubeで公開。作者のエリック・ガンマ氏はなぜIBMからMSへ移籍してVS Codeを作ることになったか",
+      "url": "https://www.publickey1.jp/blog/26/vs_codethe_story_of_vs_codeyoutubeibmmsvs_code.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-06T21:19:04+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1",
+        "high terms: code"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 5.2 - southern East Pacific Rise",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tepx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-06T11:04:07+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "general"
       ],
@@ -451,7 +476,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000terb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-06T19:41:32+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -571,7 +596,7 @@
       "url": "https://github.com/microsoft/tgrep",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-06T14:21:37+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -596,7 +621,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000temw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-06-19T20:12:42+00:00",
-      "age_days": 79.04,
+      "age_days": 79.05,
       "topics": [
         "general"
       ],
@@ -648,7 +673,7 @@
       "url": "https://do-gu.niwa.dev/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-06T17:01:06+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -696,7 +721,7 @@
       "url": "https://hokke-ookami.hatenablog.com/entry/20260904/1788533959",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-06T10:20:33+00:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "general"
       ],
@@ -720,7 +745,7 @@
       "url": "https://garumax.com/windows-update-printer-driver-spec-change-2027-07",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-01T22:46:17+00:00",
-      "age_days": 4.93,
+      "age_days": 4.94,
       "topics": [
         "general"
       ],
@@ -744,7 +769,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/06/2000001202/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-05T10:46:03+00:00",
-      "age_days": 1.43,
+      "age_days": 1.44,
       "topics": [
         "ai"
       ],
@@ -770,7 +795,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000temi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-06T04:35:54+00:00",
-      "age_days": 0.69,
+      "age_days": 0.7,
       "topics": [
         "ai"
       ],
@@ -796,7 +821,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000telf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-06T00:11:59.040+00:00",
-      "age_days": 0.87,
+      "age_days": 0.88,
       "topics": [
         "disaster"
       ],
@@ -841,11 +866,35 @@
       "summary": "「GPT-6 Astra」で飛躍的に向上した「Blender」 制作能力についてまとめました。 1. はじめにOpenAIは2026年9月3日、新モデル「GPT-6 Astra」を発表しました。 GPT-6 Astraでは、コーディングやComputer Use、長時間タスクへの対応が強化されていますが、発表直後から特に注目されているのがBlenderを使った3D制作能力で..."
     },
     {
+      "title": "VS Code誕生から現在までの物語「The Story of VS Code」YouTubeで公開。作者のエリック・ガンマ氏はなぜIBMからMSへ移籍してVS Codeを作ることになったか",
+      "url": "https://www.publickey1.jp/blog/26/vs_codethe_story_of_vs_codeyoutubeibmmsvs_code.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-06T16:58:41+00:00",
+      "age_days": 0.18,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code"
+      ],
+      "summary": "VS Code誕生から現在までの物語「The Story of VS Code」YouTubeで公開。作者のエリック・ガンマ氏はなぜIBMからMSへ移籍してVS Codeを作ることになったか Visual Studio Code（以下、VS Code）はいまやITエンジニアのあいだで最も人気のあるコードエディタの地位を確立しています。 VS Codeはオープンソースであり、そ..."
+    },
+    {
       "title": "やはりKubernetesからは逃れられない - まいの雑記帳",
       "url": "https://mq1.dev/entry/U0w-0MgT8IhM",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-05T18:30:52+00:00",
-      "age_days": 1.11,
+      "age_days": 1.12,
       "topics": [
         "general"
       ],
@@ -869,7 +918,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000temi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-06T04:33:53.095+00:00",
-      "age_days": 0.69,
+      "age_days": 0.7,
       "topics": [
         "ai",
         "disaster"
@@ -896,22 +945,23 @@
       "url": "https://openai.com/index/research-acceleration-view-inside-openai",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 81.02,
+      "age_days": 81.03,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 5.0,
+      "dynamics_score": 5.17,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
+      "baseline_z_hint": 0.15,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
+        "baseline z_hint 0.15",
         "single-source AI hype brake -8.0",
         "aging penalty -8.0 for 81.0d old signal",
         "single-source AI cap enforced after phrase recheck"
@@ -967,54 +1017,6 @@
         "no strong comparative reason"
       ],
       "summary": "道具の入れ替わりが激しい今だから、みんながどんな道具を使っているのか気になります。 自分の道具遍歴をまとめておきたくもなります。面倒な手入力はありません。 あなたのいつものエージェントに頼んで、あなたの道具をまとめてみませんか？ はじめる →"
-    },
-    {
-      "title": "2027年7月以降、Windows Updateで配信されるプリンタードライバーの仕様が変更される予定",
-      "url": "https://garumax.com/windows-update-printer-driver-spec-change-2027-07",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-06T06:48:54+00:00",
-      "age_days": 0.6,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "ホーム > ソフトウェア > Windows > 2027年7月以降、Windows Updateで配信されるプリンタードライバーの仕様が変更される予定 2027年7月以降、Windows Updateで配信されるプリンタードライバーの仕様が変更される予定 投稿日:2026年09月06日 Microsoft コラム・解説・知識 執筆者 : かのあゆ ※ 当メディアのリンクにはア..."
-    },
-    {
-      "title": "軍事技術に反対するならインターネットは使えない、という揶揄はバカバカしいからやめるべき - 法華狼の日記",
-      "url": "https://hokke-ookami.hatenablog.com/entry/20260904/1788533959",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-04T15:34:10+00:00",
-      "age_days": 2.23,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "楽天が軍事企業と提携することへの抗議のため撤退する企業が出たことをTogetter公式がまとめ、イーロン傘下になったTwitter*1を使うべきではないという反論ツイート*2を最後から二番目に収録していた*3。 「買うのやめるわ」楽天が海外軍用ドローン会社と提携を発表、それを受けて通販生活が楽天市場からの撤退を表明す..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “GitHub - microsoft/tgrep: Trigram-indexed grep with a client/server architecture for fast regex search in large codebases locally” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0."
