@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-06T09:36:17Z_
+_Generated: 2026-09-06T09:49:00Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “なぜSRE・セキュリティは評価�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-06T00:42:44+00:00` / age_days `0.37`
+- Published: `2026-09-06T00:42:44+00:00` / age_days `0.38`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “なぜSRE・セキュリティは評価�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-08-31T18:43:10+00:00` / age_days `5.62`
+- Published: `2026-08-31T18:43:10+00:00` / age_days `5.63`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, krass gate: single-source non-official/non-identity signal capped
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “なぜSRE・セキュリティは評価�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.5`
-- Published: `2026-09-06T03:24:46+00:00` / age_days `0.26`
+- Published: `2026-09-06T03:24:46+00:00` / age_days `0.27`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: 10
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “なぜSRE・セキュリティは評価�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.0`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `79.32`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `79.33`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, AXI0M/User-Yps identity hit, aging penalty -8.0 for 79.3d old signal, identity recheck: no AXI0M/User-Yps phrase hit
@@ -52,17 +52,27 @@ Stärkste Dynamik nach Gate-Recheck: “なぜSRE・セキュリティは評価�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-09-06T06:08:42+00:00` / age_days `0.14`
+- Published: `2026-09-06T06:08:42+00:00` / age_days `0.15`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: kubernetes
 - Quelle: https://mq1.dev/entry/U0w-0MgT8IhM
 
+### OpenAI、休眠サイトへの自社AIエージェント書き込みを認め、非公表の理由を説明
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `18.69`
+- Published: `2026-09-05T10:46:03+00:00` / age_days `0.96`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: momentum delta +3, baseline z_hint 2.90, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://www.itmedia.co.jp/news/article/2609/06/2000001202/
+
 ### M 4.9 - 118 km ENE of Kuji, Japan
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.0`
-- Published: `2026-09-06T05:34:11.040+00:00` / age_days `0.17`
+- Published: `2026-09-06T05:34:11.040+00:00` / age_days `0.18`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
@@ -72,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “なぜSRE・セキュリティは評価�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-06T05:29:02.040+00:00` / age_days `0.17`
+- Published: `2026-09-06T05:29:02.040+00:00` / age_days `0.18`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -82,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “なぜSRE・セキュリティは評価�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-06T03:09:55.040+00:00` / age_days `0.27`
+- Published: `2026-09-06T03:09:55.040+00:00` / age_days `0.28`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -92,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “なぜSRE・セキュリティは評価�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.5`
-- Published: `2026-09-06T05:39:36+00:00` / age_days `0.16`
+- Published: `2026-09-06T05:39:36+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -102,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “なぜSRE・セキュリティは評価�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.5`
-- Published: `2026-09-06T00:22:21+00:00` / age_days `0.38`
+- Published: `2026-09-06T00:22:21+00:00` / age_days `0.39`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -111,21 +121,11 @@ Stärkste Dynamik nach Gate-Recheck: “なぜSRE・セキュリティは評価�
 ### M 4.9 - 118 km ENE of Kuji, Japan
 
 - Band: `watch` (raw `watch`)
-- Dynamics score: `14.54`
-- Published: `2026-06-19T20:12:42+00:00` / age_days `78.56`
+- Dynamics score: `14.53`
+- Published: `2026-06-19T20:12:42+00:00` / age_days `78.57`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, baseline z_hint 0.05, aging penalty -8.0 for 78.6d old signal
+- Warum: momentum delta +3, baseline z_hint 0.04, aging penalty -8.0 for 78.6d old signal
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000temw
-
-### M 5.6 - 93 km SE of Kirakira, Solomon Islands
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `12.5`
-- Published: `2026-09-06T04:35:54+00:00` / age_days `0.21`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000temi
 
 END OF DOCUMENT
