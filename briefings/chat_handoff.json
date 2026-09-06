@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-06T02:29:58+00:00",
+  "generated_at": "2026-09-06T02:44:56+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 3,
     "displayed_findings": 3,
     "high": 0,
@@ -50,138 +50,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “GPT-6 Astra で飛躍的に向上したBlender 制作能力｜npaka” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "GPT-6 Astra で飛躍的に向上したBlender 制作能力｜npaka",
-        "url": "https://note.com/npaka/n/n9635d06c377f",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-31T18:43:10+00:00",
-        "age_days": 5.33,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 16.15,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "baseline z_hint 16.15",
-          "high terms: rce",
-          "security high-signal: rce",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "M 4.6 - 71 km N of Isangel, Vanuatu",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000telf",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-06T00:22:21+00:00",
-        "age_days": 0.1,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 16.5,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "M 4.6 - 71 km N of Isangel, Vanuatu",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000telf",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-06T00:11:59.040+00:00",
-        "age_days": 0.1,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 12.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake"
-        ],
-        "summary": "Time 2026-09-05 23:46:26 UTC 2026-09-05 23:46:26 UTC at epicenter Location 18.895°S 169.251°E Depth 240.38 km (149.37 mi)"
-      },
-      {
-        "title": "GPT-6 Astra で飛躍的に向上したBlender 制作能力｜npaka",
-        "url": "https://note.com/npaka/n/n9635d06c377f",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-05T23:12:07+00:00",
-        "age_days": 0.14,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 10.0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": "「GPT-6 Astra」で飛躍的に向上した「Blender」 制作能力についてまとめました。 1. はじめにOpenAIは2026年9月3日、新モデル「GPT-6 Astra」を発表しました。 GPT-6 Astraでは、コーディングやComputer Use、長時間タスクへの対応が強化されていますが、発表直後から特に注目されているのがBlenderを使った3D制作能力で..."
-      },
-      {
-        "title": "AI に、即答させない ―― 反証を、装置にする｜小出幸典 | 株式会社カンリー CTO",
-        "url": "https://note.com/koid/n/n3a4455b202e0",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-05T08:55:42+00:00",
-        "age_days": 0.74,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 1.0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": "ある朝、AI にひとつ頼んだ。 「この機能が遅い。キャッシュを入れたい」 こう返ってきた。 判定: 中。戻せる変更だが、解決策が先に固定されており、課題側が検討されていない。 それは本当に、キャッシュで解決すべき課題ですか。 頼んだのは、実装の段取りだった。なのに AI は、私の頼み自体を突き返してきた。 この..."
-      }
-    ]
-  }
+  ]
 }
