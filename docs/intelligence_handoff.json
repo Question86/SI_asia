@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-06T03:49:02Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “GPT-6 Astra で飛躍的に向上したBlender 制作能力｜npaka” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
+  "generated_at": "2026-09-06T04:14:59Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “なぜSRE・セキュリティは評価されないのか？守りの組織を事業成長エンジンに変えた実践” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,38 @@
   ],
   "top_dynamics": [
     {
+      "title": "なぜSRE・セキュリティは評価されないのか？守りの組織を事業成長エンジンに変えた実践",
+      "url": "https://speakerdeck.com/cscengineer/unvalued-sre-security-growth-engine",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-06T00:42:44+00:00",
+      "age_days": 0.15,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: security",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "Product Engineering Conference 2026の登壇資料。 https://product-engineering.jp/2026/ プロポーザル。 https://fortee.jp/pdeconf-2026/proposal/dfcd864d-0512-4de8-a…"
+    },
+    {
       "title": "GPT-6 Astra で飛躍的に向上したBlender 制作能力｜npaka",
       "url": "https://note.com/npaka/n/n9635d06c377f",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 5.38,
+      "age_days": 5.4,
       "topics": [
         "general"
       ],
@@ -26,13 +53,39 @@
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 10.13,
+      "baseline_z_hint": 9.12,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 10.13",
+        "baseline z_hint 9.12",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "なぜSRE・セキュリティは評価されないのか？守りの組織を事業成長エンジンに変えた実践",
+      "url": "https://speakerdeck.com/cscengineer/unvalued-sre-security-growth-engine",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T01:58:32+00:00",
+      "age_days": 79.09,
+      "topics": [],
+      "dynamics_score": 22.97,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 2.7,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 2.70",
+        "AXI0M/User-Yps identity hit",
+        "aging penalty -8.0 for 79.1d old signal",
+        "identity recheck: no AXI0M/User-Yps phrase hit"
       ],
       "summary": ""
     },
@@ -41,22 +94,22 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tem2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-06T03:24:46+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "general"
       ],
-      "dynamics_score": 19.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "dynamics_score": 21.5,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +2",
+        "momentum delta +3",
         "high terms: 10"
       ],
       "summary": ""
@@ -66,7 +119,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tem2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-06T03:09:55.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -91,7 +144,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000telf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-06T00:22:21+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -115,7 +168,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000telf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-06T00:11:59.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -139,7 +192,7 @@
       "url": "https://note.com/npaka/n/n9635d06c377f",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-05T23:12:07+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "ai"
       ],
@@ -164,7 +217,7 @@
       "url": "https://note.com/koid/n/n3a4455b202e0",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-05T08:55:42+00:00",
-      "age_days": 0.79,
+      "age_days": 0.81,
       "topics": [
         "ai"
       ],
@@ -194,8 +247,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 1,
-      "watch": 4,
+      "strong": 4,
+      "watch": 3,
       "quiet": 2
     }
   }
