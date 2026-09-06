@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-06T20:40:28+00:00",
-  "status": "normal",
-  "coverage_confidence": "normal",
+  "generated_at": "2026-09-06T20:47:57+00:00",
+  "status": "warning",
+  "coverage_confidence": "limited",
   "counts": {
     "new_relevant_findings": 0,
     "today_file_total": 26,
@@ -12,7 +12,7 @@
     "medium": 2,
     "observe": 24
   },
-  "source_errors_count": 0,
+  "source_errors_count": 3,
   "top_signals": [
     {
       "title": "GPT-6 Astra で飛躍的に向上したBlender 制作能力｜npaka",
