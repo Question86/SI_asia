@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-06T06:09:03+00:00",
+  "generated_at": "2026-09-06T06:34:34+00:00",
   "candidate_count": 282,
   "candidates": [
     {
@@ -4143,22 +4143,25 @@
       "source_url": "https://speakerdeck.com/nwiizo/ai-de-jissou-ha-hayaku-nata-nanoni-purodakuto-ha-hayaku-naranai-shokunou-no-kabe-o-koe-te-kachi-no-furo-o-sekkei-suru"
     },
     {
-      "candidate_id": "cand_26ddbd346dae839cda8c",
-      "event_id": "evt_a9168860075ad99c5a0d",
-      "source_url": "https://speakerdeck.com/cscengineer/unvalued-sre-security-growth-engine",
-      "observed_at": "2026-09-06T06:09:01+00:00",
-      "currency": "USD",
       "amount_native": 708000.0,
       "amount_usd": 708000.0,
-      "conversion_status": "not_required",
-      "component_suggestion": "unknown",
-      "overlap_group_suggestion": "evt_a9168860075ad99c5a0d:unclassified",
       "attribution_probability": null,
-      "snippet": "rx PRO 1 840 Featured See All Featured Writing Fast Ruby sferik 630 63k XXLCSS - How to scale CSS and keep your sanity sugarenia 249 1.3M Data-driven link building: lessons from a $708K investment (BrightonSEO talk) szymonslowik 1 1.3k Git: the NoSQL Database bkeepers PRO 432 67k Music & Morning Musume bryan 47 7.4k The SEO identity crisis: Don't let AI make you",
-      "extraction_method": "regex_context_v1",
-      "source_priority": "secondary_or_unknown",
       "candidate_confidence": 0.55,
-      "review_status": "pending"
+      "candidate_id": "cand_26ddbd346dae839cda8c",
+      "component_confidence": 0.55,
+      "component_suggestion": "capital_allocation",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_a9168860075ad99c5a0d",
+      "extraction_method": "regex_context_v1",
+      "fx_as_of": null,
+      "fx_rate_to_usd": 1.0,
+      "observed_at": "2026-09-06T06:09:01+00:00",
+      "overlap_group_suggestion": "evt_a9168860075ad99c5a0d:capital_allocation:29eeb9f03c86",
+      "review_status": "pending",
+      "snippet": "rx PRO 1 840 Featured See All Featured Writing Fast Ruby sferik 630 63k XXLCSS - How to scale CSS and keep your sanity sugarenia 249 1.3M Data-driven link building: lessons from a $708K investment (BrightonSEO talk) szymonslowik 1 1.3k Git: the NoSQL Database bkeepers PRO 432 67k Music & Morning Musume bryan 47 7.4k The SEO identity crisis: Don't let AI make you",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://speakerdeck.com/cscengineer/unvalued-sre-security-growth-engine"
     },
     {
       "amount_native": 236000000000.0,
