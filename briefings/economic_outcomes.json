@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-06T16:54:19+00:00",
+  "generated_at": "2026-09-06T17:01:29+00:00",
   "events": [
     {
       "event_id": "evt_02008879feb3a26196bb",
@@ -2883,6 +2883,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_d0e45564c21a380fea16",
+      "title": "DO-GU",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_d0fcbd9d43c8d56fbfb3",
