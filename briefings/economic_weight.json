@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-06T04:36:10+00:00",
+  "generated_at": "2026-09-06T04:45:04+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -657,6 +657,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_8fa63690c4880497711e",
+      "title": "M 5.6 - 93 km SE of Kirakira, Solomon Islands",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1144000.0,
+      "p50_usd": 114400000.0,
+      "p90_usd": 11440000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-06T04:35:54+00:00",
+      "last_seen_at": "2026-09-06T04:44:47+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_a0a48f18e523a40ddacf",
       "title": "M 5.3 - 66 km NNW of Arthurs Point, New Zealand",
       "event_classes": [
@@ -706,23 +723,6 @@
       "first_seen_at": "2026-09-02T13:08:59+00:00",
       "last_seen_at": "2026-09-02T13:08:59+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_8fa63690c4880497711e",
-      "title": "M 5.6 - 93 km SE of Kirakira, Solomon Islands",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1144000.0,
-      "p50_usd": 114400000.0,
-      "p90_usd": 11440000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-09-06T04:35:54+00:00",
-      "last_seen_at": "2026-09-06T04:35:54+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_072439522f0506eff01d",
@@ -1435,7 +1435,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-06T00:22:21+00:00",
-      "last_seen_at": "2026-09-06T04:35:54+00:00",
+      "last_seen_at": "2026-09-06T04:44:47+00:00",
       "status": "active"
     },
     {
@@ -1622,7 +1622,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-06T03:24:46+00:00",
-      "last_seen_at": "2026-09-06T04:35:54+00:00",
+      "last_seen_at": "2026-09-06T04:44:47+00:00",
       "status": "active"
     },
     {
@@ -3152,7 +3152,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T22:15:36+00:00",
-      "last_seen_at": "2026-09-06T04:35:54+00:00",
+      "last_seen_at": "2026-09-06T04:44:47+00:00",
       "status": "active"
     },
     {
@@ -4512,7 +4512,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:10:24+00:00",
-      "last_seen_at": "2026-09-06T04:35:54+00:00",
+      "last_seen_at": "2026-09-06T04:44:47+00:00",
       "status": "active"
     },
     {
