@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-06T19:34:57+00:00_
+_Generiert: 2026-09-06T19:41:28+00:00_
 
 ## Kurzlage
 
-25 neue relevante Treffer. Stärkstes Signal: „GPT-6 Astra で飛躍的に向上したBlender 制作能力｜npaka“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
+26 neue relevante Treffer. Stärkstes Signal: „GPT-6 Astra で飛躍的に向上したBlender 制作能力｜npaka“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
 
 ## Priorität Hoch
 
@@ -87,14 +87,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)
   - Kurz: Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.7 - Svalbard region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000teq9)
+- **M 4.8 - 39 km SW of Copala, Mexico** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000terb)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-06T13:10:28.040+00:00`, fetched `2026-09-06T13:19:39+00:00`
+  - Zeit: published `2026-09-06T19:37:38.391+00:00`, fetched `2026-09-06T19:40:55+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-06 12:50:34 UTC 2026-09-06 12:50:34 UTC at epicenter Location 76.148°N 7.169°E Depth 10.00 km (6.21 mi)
+  - Kurz: DYFI? - IV Time 2026-09-06 18:46:18 UTC 2026-09-06 18:46:18 UTC at epicenter Location 16.363°N 99.242°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **移住者から見た新潟②1泊2日の最強新潟市内観光モデルルート｜金子萌｜介護現場・自治体のDX×AI@日経新聞「向き合う」連載中** — Score 9, observation — [Quelle](https://note.com/omohibito_moe/n/n643dc02f8c32)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

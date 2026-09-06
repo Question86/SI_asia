@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T19:35:00+00:00",
-  "today_file_total": 25,
+  "generated_at": "2026-09-06T19:41:32+00:00",
+  "today_file_total": 26,
   "current_clusters": [
     {
       "key": "domain:note.com",
@@ -96,6 +96,31 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 15.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "earthquake:m 4.8 - 39 km sw of copala, mexico:4.8",
+      "title": "M 4.8 - 39 km SW of Copala, Mexico",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000terb"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 14.7,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"
@@ -458,29 +483,6 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 7.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "domain:garumax.com",
-      "title": "2027年7月以降、Windows Updateで配信されるプリンタードライバーの仕様が変更される予定",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier4_platform_social"
-      ],
-      "urls": [
-        "https://garumax.com/windows-update-printer-driver-spec-change-2027-07"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 0.75,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 6.5,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
