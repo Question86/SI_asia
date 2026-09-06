@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-06T22:58:32+00:00_
+_Generiert: 2026-09-06T23:16:07+00:00_
 
 ## Kurzlage
 
-29 neue relevante Treffer. Stärkstes Signal: „GitHub - TabularisDB/tabularis: Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 13+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN“ aus Hatena Bookmark Hotentry IT (Score 20, observation).
+30 neue relevante Treffer. Stärkstes Signal: „GitHub - TabularisDB/tabularis: Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 13+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN“ aus Hatena Bookmark Hotentry IT (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -87,6 +87,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Product Engineering Conference 2026の登壇資料。 https://product-engineering.jp/2026/ プロポーザル。 https://fortee.jp/pdeconf-2026/proposal/dfcd864d-0512-4de8-a…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **CLAUDE.mdをそろそろ見直す時期かも ── Claude 5世代向けの最適化手順・スキル・プロジェクト種類別の例 - Qiita** — Score 10, observation — [Quelle](https://qiita.com/nogataka/items/d6a54f3694726b9141f3)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-06T11:30:21+00:00`, fetched `2026-09-06T23:15:38+00:00`
+  - Treffer: AI Agents, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 要点 Anthropic は 2026年7月24日のブログで、Claude Opus 5 / Fable 5 向けに Claude Code のシステムプロンプトを 80% 以上削り、社内コーディング評価で性能低下が測定できなかったと公表しました。 理由は「制約の多くは最悪のケース回避のために入れたもので、今のモデルは周囲の文脈から判断できる」からです。 私...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **An Alien Mind** — Score 10, observation — [Quelle](https://openai.com/index/an-alien-mind)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-09-06T09:00:00+00:00`, fetched `2026-09-06T17:00:31+00:00`
@@ -105,15 +114,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-06 21:08:42 UTC 2026-09-06 21:08:42 UTC at epicenter Location 17.890°S 178.389°W Depth 592.76 km (368.32 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **移住者から見た新潟②1泊2日の最強新潟市内観光モデルルート｜金子萌｜介護現場・自治体のDX×AI@日経新聞「向き合う」連載中** — Score 9, observation — [Quelle](https://note.com/omohibito_moe/n/n643dc02f8c32)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-06T08:31:39+00:00`, fetched `2026-09-06T13:27:53+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 前回「新潟移住のすすめ」というノートを書きました。そこに書いた通り、私は東京から新潟市に移住してきた人間です。 しかし、「新潟って観光するところある?」東京の人と話していると、結構な確率でこの反応をされます。 せっかく来てくれたのに、新潟市内では時間を過ごさずに日帰りで帰ってしまったり、越後湯沢、長...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
