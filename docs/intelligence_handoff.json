@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-06T05:48:51Z",
+  "generated_at": "2026-09-06T06:20:25Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “なぜSRE・セキュリティは評価されないのか？守りの組織を事業成長エンジンに変えた実践” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://speakerdeck.com/cscengineer/unvalued-sre-security-growth-engine",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-06T00:42:44+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -42,7 +42,7 @@
       "url": "https://note.com/npaka/n/n9635d06c377f",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 5.46,
+      "age_days": 5.48,
       "topics": [
         "general"
       ],
@@ -53,12 +53,12 @@
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 4.59,
+      "baseline_z_hint": 3.59,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 4.59",
+        "baseline z_hint 3.59",
         "krass gate: single-source non-official/non-identity signal capped"
       ],
       "summary": ""
@@ -68,21 +68,21 @@
       "url": "https://speakerdeck.com/cscengineer/unvalued-sre-security-growth-engine",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 79.16,
+      "age_days": 79.18,
       "topics": [],
-      "dynamics_score": 21.98,
+      "dynamics_score": 21.76,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 1.8,
+      "baseline_z_hint": 1.6,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 1.80",
+        "baseline z_hint 1.60",
         "AXI0M/User-Yps identity hit",
         "aging penalty -8.0 for 79.2d old signal",
         "identity recheck: no AXI0M/User-Yps phrase hit"
@@ -94,7 +94,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tem2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-06T03:24:46+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -119,7 +119,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000temw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-06T05:34:11.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -143,7 +143,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000temt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-06T05:29:02.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -168,7 +168,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tem2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-06T03:09:55.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -189,11 +189,60 @@
       "summary": "Time 2026-09-06 02:56:32 UTC 2026-09-06 02:56:32 UTC at epicenter Location 14.155°N 93.249°W Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "やはりKubernetesからは逃れられない - まいの雑記帳",
+      "url": "https://mq1.dev/entry/U0w-0MgT8IhM",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-06T06:08:42+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1",
+        "high terms: kubernetes"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "M 4.6 - Kermadec Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000temt",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-06T05:39:36+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 4.6 - 71 km N of Isangel, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000telf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-06T00:22:21+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -217,23 +266,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000temw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-06-19T20:12:42+00:00",
-      "age_days": 78.4,
+      "age_days": 78.42,
       "topics": [
         "general"
       ],
-      "dynamics_score": 14.73,
+      "dynamics_score": 14.64,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.33,
+      "baseline_z_hint": 0.2,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 0.33",
+        "baseline z_hint 0.20",
         "aging penalty -8.0 for 78.4d old signal"
       ],
       "summary": ""
@@ -243,7 +292,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000temi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-06T04:35:54+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -263,54 +312,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
-    },
-    {
-      "title": "M 4.6 - 71 km N of Isangel, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000telf",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-06T00:11:59.040+00:00",
-      "age_days": 0.23,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake"
-      ],
-      "summary": "Time 2026-09-05 23:46:26 UTC 2026-09-05 23:46:26 UTC at epicenter Location 18.895°S 169.251°E Depth 240.38 km (149.37 mi)"
-    },
-    {
-      "title": "M 4.6 - Kermadec Islands region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000temt",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-06T05:39:36+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
     }
   ],
   "read_order": [
@@ -323,8 +324,7 @@
   "counts": {
     "bands_after_gate_recheck": {
       "strong": 4,
-      "watch": 7,
-      "quiet": 1
+      "watch": 8
     }
   }
 }
