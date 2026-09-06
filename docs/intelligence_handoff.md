@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-06T02:40:43Z_
+_Generated: 2026-09-06T02:50:02Z_
 
 ## Lageurteil
 
@@ -12,10 +12,10 @@ Stärkste Dynamik nach Gate-Recheck: “GPT-6 Astra で飛躍的に向上したB
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-08-31T18:43:10+00:00` / age_days `5.33`
+- Published: `2026-08-31T18:43:10+00:00` / age_days `5.34`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: momentum delta +3, baseline z_hint 16.15, high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3, baseline z_hint 12.65, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://note.com/npaka/n/n9635d06c377f
 
 ### M 4.6 - 71 km N of Isangel, Vanuatu
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “GPT-6 Astra で飛躍的に向上したB
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `12.0`
-- Published: `2026-09-06T00:11:59.040+00:00` / age_days `0.1`
+- Published: `2026-09-06T00:11:59.040+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “GPT-6 Astra で飛躍的に向上したB
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-09-05T23:12:07+00:00` / age_days `0.14`
+- Published: `2026-09-05T23:12:07+00:00` / age_days `0.15`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “GPT-6 Astra で飛躍的に向上したB
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `1.0`
-- Published: `2026-09-05T08:55:42+00:00` / age_days `0.74`
+- Published: `2026-09-05T08:55:42+00:00` / age_days `0.75`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
