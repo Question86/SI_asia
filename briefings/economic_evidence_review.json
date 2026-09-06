@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-09-06T05:55:14+00:00",
+  "generated_at": "2026-09-06T06:09:03+00:00",
   "fx_as_of": null,
-  "candidate_count": 281,
+  "candidate_count": 282,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 281
+    "pending": 282
   },
   "coverage_warning": null,
   "candidates": [
@@ -4128,6 +4128,27 @@
       "snippet": "Producing Creativity orderedlist PRO 348 41k 技術選定の審美眼（2025年版） / Understanding the Spiral of Technologies 2025 edition twada PRO 120 120k Data-driven link building: lessons from a $708K investment (BrightonSEO talk) szymonslowik 1 1.3k Between Models and Reality mayunak 4 430 The Language of Interfaces destraynor 162 27k The Director’s Chair: Orchestrating AI for",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://speakerdeck.com/nwiizo/ai-de-jissou-ha-hayaku-nata-nanoni-purodakuto-ha-hayaku-naranai-shokunou-no-kabe-o-koe-te-kachi-no-furo-o-sekkei-suru"
+    },
+    {
+      "amount_native": 708000.0,
+      "amount_usd": 708000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.55,
+      "candidate_id": "cand_26ddbd346dae839cda8c",
+      "component_suggestion": "capital_allocation",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_a9168860075ad99c5a0d",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-06T06:09:01+00:00",
+      "overlap_group_suggestion": "evt_a9168860075ad99c5a0d:capital_allocation:29eeb9f03c86",
+      "review_status": "pending",
+      "snippet": "rx PRO 1 840 Featured See All Featured Writing Fast Ruby sferik 630 63k XXLCSS - How to scale CSS and keep your sanity sugarenia 249 1.3M Data-driven link building: lessons from a $708K investment (BrightonSEO talk) szymonslowik 1 1.3k Git: the NoSQL Database bkeepers PRO 432 67k Music & Morning Musume bryan 47 7.4k The SEO identity crisis: Don't let AI make you",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://speakerdeck.com/cscengineer/unvalued-sre-security-growth-engine",
+      "component_confidence": 0.55,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 13200000000.0,
