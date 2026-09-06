@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-09-06T05:39:52+00:00`
+Generated: `2026-09-06T05:47:45+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -30,7 +30,7 @@ Generated: `2026-09-06T05:39:52+00:00`
 | M 5.0 - 64 km W of Labuha, Indonesia | natural_disaster | $1.16M | $116.00M | $11.60B | 0.33 |
 | M 4.6 - 52 km NNE of Ruteng, Indonesia | natural_disaster | $1.16M | $116.00M | $11.60B | 0.33 |
 | M 4.8 - 110 km E of Miyako, Japan | natural_disaster | $1.16M | $116.00M | $11.60B | 0.33 |
-| M 4.9 - 13 km SSE of Union, Philippines | natural_disaster | $1.16M | $116.00M | $11.60B | 0.33 |
+| M 4.9 - 118 km ENE of Kuji, Japan | natural_disaster | $1.16M | $116.00M | $11.60B | 0.33 |
 
 ## Interpretation
 
