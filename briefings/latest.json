@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T03:54:17+00:00",
-  "run_id": "2026-09-06T03:54:17+00:00",
+  "generated_at": "2026-09-06T04:03:22+00:00",
+  "run_id": "2026-09-06T04:03:22+00:00",
   "date": "2026-09-06",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 5,
     "displayed_findings": 5,
     "high": 0,
@@ -313,30 +313,7 @@
       "id": "8e3061bee27faef2ce2a"
     }
   ],
-  "new_findings": [
-    {
-      "title": "なぜSRE・セキュリティは評価されないのか？守りの組織を事業成長エンジンに変えた実践",
-      "url": "https://speakerdeck.com/cscengineer/unvalued-sre-security-growth-engine",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-06T00:42:44+00:00",
-      "fetched_at": "2026-09-06T03:53:49+00:00",
-      "summary": "Product Engineering Conference 2026の登壇資料。 https://product-engineering.jp/2026/ プロポーザル。 https://fortee.jp/pdeconf-2026/proposal/dfcd864d-0512-4de8-a…",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry",
-        "Security"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "91f117c3763ec6d3ec05"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
