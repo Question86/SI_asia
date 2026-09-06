@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-06T20:25:02Z_
+_Generated: 2026-09-06T20:35:25Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - microsoft/tgrep: Trigram-indexe
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `25.0`
-- Published: `2026-09-06T18:24:02+00:00` / age_days `0.08`
+- Published: `2026-09-06T18:24:02+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, early terms: local, high terms: code
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - microsoft/tgrep: Trigram-indexe
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-06T00:42:44+00:00` / age_days `0.82`
+- Published: `2026-09-06T00:42:44+00:00` / age_days `0.83`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -32,17 +32,17 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - microsoft/tgrep: Trigram-indexe
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-08-31T18:43:10+00:00` / age_days `6.07`
+- Published: `2026-08-31T18:43:10+00:00` / age_days `6.08`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: momentum delta +3, baseline z_hint 0.46, high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
+- Warum: momentum delta +3, baseline z_hint 0.39, high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://note.com/npaka/n/n9635d06c377f
 
 ### M 5.3 - 108 km SW of Puerto Madero, Mexico
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.5`
-- Published: `2026-09-06T03:24:46+00:00` / age_days `0.71`
+- Published: `2026-09-06T03:24:46+00:00` / age_days `0.72`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: 10
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - microsoft/tgrep: Trigram-indexe
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.0`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `79.77`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `79.78`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, AXI0M/User-Yps identity hit, aging penalty -8.0 for 79.8d old signal, identity recheck: no AXI0M/User-Yps phrase hit
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - microsoft/tgrep: Trigram-indexe
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-09-06T06:08:42+00:00` / age_days `0.59`
+- Published: `2026-09-06T06:08:42+00:00` / age_days `0.6`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: kubernetes
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - microsoft/tgrep: Trigram-indexe
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-09-06T11:28:06.040+00:00` / age_days `0.37`
+- Published: `2026-09-06T11:28:06.040+00:00` / age_days `0.38`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - microsoft/tgrep: Trigram-indexe
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.5`
-- Published: `2026-09-03T21:39:57+00:00` / age_days `2.95`
+- Published: `2026-09-03T21:39:57+00:00` / age_days `2.96`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - microsoft/tgrep: Trigram-indexe
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.0`
-- Published: `2026-09-06T05:34:11.040+00:00` / age_days `0.62`
+- Published: `2026-09-06T05:34:11.040+00:00` / age_days `0.63`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - microsoft/tgrep: Trigram-indexe
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-06T19:37:38.391+00:00` / age_days `0.03`
+- Published: `2026-09-06T19:37:38.391+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - microsoft/tgrep: Trigram-indexe
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-06T13:10:28.040+00:00` / age_days `0.3`
+- Published: `2026-09-06T13:10:28.040+00:00` / age_days `0.31`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - microsoft/tgrep: Trigram-indexe
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-06T12:18:21.040+00:00` / age_days `0.34`
+- Published: `2026-09-06T12:18:21.040+00:00` / age_days `0.35`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
