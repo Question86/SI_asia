@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-06T03:39:43Z_
+_Generated: 2026-09-06T03:49:02Z_
 
 ## Lageurteil
 
@@ -12,30 +12,30 @@ Stärkste Dynamik nach Gate-Recheck: “GPT-6 Astra で飛躍的に向上したB
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-08-31T18:43:10+00:00` / age_days `5.37`
+- Published: `2026-08-31T18:43:10+00:00` / age_days `5.38`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, baseline z_hint 10.63, extreme gate: needs multi-source high-signal, official security, or identity relevance
+- Warum: momentum delta +3, baseline z_hint 10.13, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://note.com/npaka/n/n9635d06c377f
 
 ### M 5.3 - 108 km SW of Puerto Madero, Mexico
 
 - Band: `watch` (raw `watch`)
-- Dynamics score: `17.0`
-- Published: `2026-09-06T03:09:55.040+00:00` / age_days `0.02`
+- Dynamics score: `19.0`
+- Published: `2026-09-06T03:24:46+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: early terms: earthquake, high terms: 10
+- Warum: momentum delta +2, high terms: 10
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tem2
 
 ### M 5.3 - 108 km SW of Puerto Madero, Mexico
 
 - Band: `watch` (raw `watch`)
-- Dynamics score: `16.5`
-- Published: `2026-09-06T03:24:46+00:00` / age_days `0.01`
+- Dynamics score: `17.0`
+- Published: `2026-09-06T03:09:55.040+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1, high terms: 10
+- Warum: early terms: earthquake, high terms: 10
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tem2
 
 ### M 4.6 - 71 km N of Isangel, Vanuatu
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “GPT-6 Astra で飛躍的に向上したB
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `12.0`
-- Published: `2026-09-06T00:11:59.040+00:00` / age_days `0.14`
+- Published: `2026-09-06T00:11:59.040+00:00` / age_days `0.15`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “GPT-6 Astra で飛躍的に向上したB
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `1.0`
-- Published: `2026-09-05T08:55:42+00:00` / age_days `0.78`
+- Published: `2026-09-05T08:55:42+00:00` / age_days `0.79`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
