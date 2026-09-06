@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-06T22:18:05+00:00",
+  "generated_at": "2026-09-06T22:26:51+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -432,7 +432,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-06T05:39:36+00:00",
-      "last_seen_at": "2026-09-06T22:17:46+00:00",
+      "last_seen_at": "2026-09-06T22:26:32+00:00",
       "status": "active"
     },
     {
@@ -687,7 +687,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-06T04:35:54+00:00",
-      "last_seen_at": "2026-09-06T22:17:46+00:00",
+      "last_seen_at": "2026-09-06T22:26:32+00:00",
       "status": "active"
     },
     {
@@ -789,7 +789,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T21:39:57+00:00",
-      "last_seen_at": "2026-09-06T22:17:46+00:00",
+      "last_seen_at": "2026-09-06T22:26:32+00:00",
       "status": "active"
     },
     {
@@ -1265,7 +1265,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-06T05:39:36+00:00",
-      "last_seen_at": "2026-09-06T22:17:46+00:00",
+      "last_seen_at": "2026-09-06T22:26:32+00:00",
       "status": "active"
     },
     {
@@ -1282,7 +1282,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-06T11:04:07+00:00",
-      "last_seen_at": "2026-09-06T22:17:46+00:00",
+      "last_seen_at": "2026-09-06T22:26:32+00:00",
       "status": "active"
     },
     {
@@ -1299,7 +1299,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-06T19:41:32+00:00",
-      "last_seen_at": "2026-09-06T22:17:46+00:00",
+      "last_seen_at": "2026-09-06T22:26:32+00:00",
       "status": "active"
     },
     {
@@ -1435,7 +1435,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-06T21:27:04+00:00",
-      "last_seen_at": "2026-09-06T22:17:46+00:00",
+      "last_seen_at": "2026-09-06T22:26:32+00:00",
       "status": "active"
     },
     {
@@ -1520,7 +1520,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-06T00:22:21+00:00",
-      "last_seen_at": "2026-09-06T22:17:46+00:00",
+      "last_seen_at": "2026-09-06T22:26:32+00:00",
       "status": "active"
     },
     {
@@ -1639,7 +1639,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-06T13:20:14+00:00",
-      "last_seen_at": "2026-09-06T22:17:46+00:00",
+      "last_seen_at": "2026-09-06T22:26:32+00:00",
       "status": "active"
     },
     {
@@ -1656,7 +1656,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-06T11:26:20+00:00",
-      "last_seen_at": "2026-09-06T22:17:46+00:00",
+      "last_seen_at": "2026-09-06T22:26:32+00:00",
       "status": "active"
     },
     {
@@ -1741,7 +1741,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-06T03:24:46+00:00",
-      "last_seen_at": "2026-09-06T22:17:46+00:00",
+      "last_seen_at": "2026-09-06T22:26:32+00:00",
       "status": "active"
     },
     {
@@ -2187,6 +2187,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_6b0264822f432b8657b9",
+      "title": "GitHub - TabularisDB/tabularis: Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 13+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 120000.0,
+      "p50_usd": 12000000.0,
+      "p90_usd": 1200000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-06T22:17:46+00:00",
+      "last_seen_at": "2026-09-06T22:26:32+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_96de7bc3a0918ccbc0d0",
       "title": "AI and human creativity: How ChatGPT Canvas bridges the gap",
       "event_classes": [
@@ -2202,23 +2219,6 @@
       "first_seen_at": "2026-09-04T03:47:45+00:00",
       "last_seen_at": "2026-09-04T23:57:22+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_6b0264822f432b8657b9",
-      "title": "GitHub - TabularisDB/tabularis: Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 13+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 120000.0,
-      "p50_usd": 12000000.0,
-      "p90_usd": 1200000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-06T22:17:46+00:00",
-      "last_seen_at": "2026-09-06T22:17:46+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_2170780765320e429d3b",
@@ -2438,7 +2438,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-06T22:17:46+00:00",
+      "last_seen_at": "2026-09-06T22:26:32+00:00",
       "status": "active"
     },
     {
@@ -2982,7 +2982,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-05T10:46:03+00:00",
-      "last_seen_at": "2026-09-06T22:17:46+00:00",
+      "last_seen_at": "2026-09-06T22:26:32+00:00",
       "status": "active"
     },
     {
@@ -3288,7 +3288,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T22:15:36+00:00",
-      "last_seen_at": "2026-09-06T22:17:46+00:00",
+      "last_seen_at": "2026-09-06T22:26:32+00:00",
       "status": "active"
     },
     {
@@ -3934,7 +3934,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-06T11:26:20+00:00",
-      "last_seen_at": "2026-09-06T22:17:46+00:00",
+      "last_seen_at": "2026-09-06T22:26:32+00:00",
       "status": "active"
     },
     {
@@ -4053,7 +4053,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-06T18:24:02+00:00",
-      "last_seen_at": "2026-09-06T22:17:46+00:00",
+      "last_seen_at": "2026-09-06T22:26:32+00:00",
       "status": "active"
     },
     {
@@ -4699,7 +4699,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:10:24+00:00",
-      "last_seen_at": "2026-09-06T22:17:46+00:00",
+      "last_seen_at": "2026-09-06T22:26:32+00:00",
       "status": "active"
     },
     {
@@ -4937,7 +4937,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-06T21:19:04+00:00",
-      "last_seen_at": "2026-09-06T22:17:46+00:00",
+      "last_seen_at": "2026-09-06T22:26:32+00:00",
       "status": "active"
     },
     {
@@ -5226,7 +5226,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-06T17:01:06+00:00",
-      "last_seen_at": "2026-09-06T22:17:46+00:00",
+      "last_seen_at": "2026-09-06T22:26:32+00:00",
       "status": "active"
     },
     {
