@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-06T11:26:16+00:00_
+_Generiert: 2026-09-06T11:35:25+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „GPT-6 Astra で飛躍的に向上したBlender 制作能力｜npaka“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
+15 neue relevante Treffer. Stärkstes Signal: „GPT-6 Astra で飛躍的に向上したBlender 制作能力｜npaka“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -108,6 +108,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 冒頭で「当社のエージェントが複数のWebサイトに書き込んだ“Wikiインシデント”」と表現しており、この件を自社エージェントによるものと初めて明示的に認めた。研究団体が報告書を公開してから約16時間後の投稿だった。 声明の主眼は、なぜこれまで公表しなかったかの説明と、今後の開示ルール作りに置かれている。同社...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.8 - 33 km NE of Calama, Chile** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tep0)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-06T11:28:06.040+00:00`, fetched `2026-09-06T11:34:51+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-06 10:39:32 UTC 2026-09-06 10:39:32 UTC at epicenter Location 22.234°S 68.704°W Depth 115.54 km (71.79 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **なぜSRE・セキュリティは評価されないのか？守りの組織を事業成長エンジンに変えた実践** — Score 11, opportunity — [Quelle](https://speakerdeck.com/cscengineer/unvalued-sre-security-growth-engine)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-06T00:42:44+00:00`, fetched `2026-09-06T03:53:49+00:00`
@@ -125,15 +134,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-06 10:38:34 UTC 2026-09-06 10:38:34 UTC at epicenter Location 22.104°S 115.843°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.2 - southern East Pacific Rise** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tep6)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-06T10:56:54.040+00:00`, fetched `2026-09-06T11:03:32+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-06 10:32:28 UTC 2026-09-06 10:32:28 UTC at epicenter Location 24.530°S 115.611°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **AI に、即答させない ―― 反証を、装置にする｜小出幸典 | 株式会社カンリー CTO** — Score 9, observation — [Quelle](https://note.com/koid/n/n3a4455b202e0)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

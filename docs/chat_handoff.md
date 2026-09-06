@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-06T11:26:16+00:00_
+_Generated: 2026-09-06T11:35:25+00:00_
 
 ## Status
 - status: `normal`
-- findings: `14`
+- findings: `15`
 
 ## Top Signals
 
@@ -36,18 +36,18 @@ _Generated: 2026-09-06T11:26:16+00:00_
 - url: https://www.itmedia.co.jp/news/article/2609/06/2000001202/
 - summary: 冒頭で「当社のエージェントが複数のWebサイトに書き込んだ“Wikiインシデント”」と表現しており、この件を自社エージェントによるものと初めて明示的に認めた。研究団体が報告書を公開してから約16時間後の投稿だった。 声明の主眼は、なぜこれまで公表しなかったかの説明と、今後の開示ルール作りに置かれている。同社...
 
-### 5. なぜSRE・セキュリティは評価されないのか？守りの組織を事業成長エンジンに変えた実践
+### 5. M 4.8 - 33 km NE of Calama, Chile
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `11`
+- published: `2026-09-06T11:28:06.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tep0
+- summary: Time 2026-09-06 10:39:32 UTC 2026-09-06 10:39:32 UTC at epicenter Location 22.234°S 68.704°W Depth 115.54 km (71.79 mi)
+
+### 6. なぜSRE・セキュリティは評価されないのか？守りの組織を事業成長エンジンに変えた実践
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-09-06T00:42:44+00:00`
 - url: https://speakerdeck.com/cscengineer/unvalued-sre-security-growth-engine
 - summary: Product Engineering Conference 2026の登壇資料。 https://product-engineering.jp/2026/ プロポーザル。 https://fortee.jp/pdeconf-2026/proposal/dfcd864d-0512-4de8-a…
-
-### 6. M 5.1 - southern East Pacific Rise
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-09-06T11:21:12.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tepa
-- summary: Time 2026-09-06 10:38:34 UTC 2026-09-06 10:38:34 UTC at epicenter Location 22.104°S 115.843°W Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
