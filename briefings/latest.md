@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-06T21:59:31+00:00_
+_Generiert: 2026-09-06T22:17:41+00:00_
 
 ## Kurzlage
 
-28 neue relevante Treffer. Stärkstes Signal: „GPT-6 Astra で飛躍的に向上したBlender 制作能力｜npaka“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
+29 neue relevante Treffer. Stärkstes Signal: „GitHub - TabularisDB/tabularis: Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 13+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN“ aus Hatena Bookmark Hotentry IT (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -69,6 +69,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **GitHub - TabularisDB/tabularis: Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 13+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN** — Score 20, observation — [Quelle](https://github.com/TabularisDB/tabularis)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-06-25T08:59:02+00:00`, fetched `2026-09-06T22:17:11+00:00`
+  - Treffer: AI Agents, AI/KI, GitHub, Hatena, hotentry, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **GPT-6 Astra で飛躍的に向上したBlender 制作能力｜npaka** — Score 18, observation — [Quelle](https://note.com/npaka/n/n9635d06c377f)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-05T23:12:07+00:00`, fetched `2026-09-06T01:53:39+00:00`
