@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-09-06T12:48:43+00:00",
+  "generated_at": "2026-09-06T12:56:12+00:00",
   "fx_as_of": null,
-  "candidate_count": 283,
+  "candidate_count": 284,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 283
+    "pending": 284
   },
   "coverage_warning": null,
   "candidates": [
@@ -4170,6 +4170,27 @@
       "snippet": "xploring anti-patterns in Rails aemeredith 3 490 Bash Introduction 62gerente 615 220k Test your architecture with Archunit thirion 2 2.4k Data-driven link building: lessons from a $708K investment (BrightonSEO talk) szymonslowik 1 1.3k How to Build an AI Search Optimization Roadmap - Criteria and Steps to Take #SEOIRL aleyda 1 2.2k Organizational Design Perspecti",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://speakerdeck.com/cscengineer/unvalued-sre-security-growth-engine"
+    },
+    {
+      "amount_native": 708000.0,
+      "amount_usd": 708000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.55,
+      "candidate_id": "cand_31e86d5cf3f8bea83c40",
+      "component_suggestion": "capital_allocation",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_a9168860075ad99c5a0d",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-06T12:56:10+00:00",
+      "overlap_group_suggestion": "evt_a9168860075ad99c5a0d:capital_allocation:8b24821d1e99",
+      "review_status": "pending",
+      "snippet": "Conf 2023 Opening Keynote] The Magic of Rails eileencodes 31 10k Save Time (by Creating Custom Rails Generators) garrettdimon PRO 32 4.6k Data-driven link building: lessons from a $708K investment (BrightonSEO talk) szymonslowik 1 1.3k Automating Front-end Workflow addyosmani 1369 210k Building a A Zero-Code AI SEO Workflow portentint PRO 0 700 The World Runs on",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://speakerdeck.com/cscengineer/unvalued-sre-security-growth-engine",
+      "component_confidence": 0.55,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 13200000000.0,
