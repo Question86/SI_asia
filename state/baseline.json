@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-06T01:09:49+00:00",
+  "generated_at": "2026-09-06T01:35:46+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -19313,15 +19313,16 @@
     },
     "earthquake:m 4.6 - 71 km n of isangel, vanuatu:4.6": {
       "title": "M 4.6 - 71 km N of Isangel, Vanuatu",
-      "updated_at": "2026-09-06T01:09:49+00:00",
+      "updated_at": "2026-09-06T01:35:46+00:00",
       "network_scores": [
         14.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 13.2,
+      "rolling_average": 12.7,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -1.5
+      "z_hint": -1.0
     }
   }
 }
