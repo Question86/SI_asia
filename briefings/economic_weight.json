@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-05T23:55:40+00:00",
+  "generated_at": "2026-09-06T00:22:40+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -382,7 +382,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-08-29T08:36:29+00:00",
       "last_seen_at": "2026-09-05T23:55:24+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_1eb1983ef98b0e807a3f",
@@ -450,7 +450,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-05T01:09:44+00:00",
       "last_seen_at": "2026-09-05T23:55:24+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_b034f8b6f477227b6204",
@@ -552,7 +552,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-05T07:22:32+00:00",
       "last_seen_at": "2026-09-05T23:55:24+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_e1977ace65ebf1864c3b",
@@ -620,7 +620,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-05T00:43:33+00:00",
       "last_seen_at": "2026-09-05T23:55:24+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_50b3c3060f979d361e39",
@@ -688,7 +688,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-05T14:43:52+00:00",
       "last_seen_at": "2026-09-05T23:55:24+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_d0fcbd9d43c8d56fbfb3",
@@ -824,7 +824,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-05T17:22:15+00:00",
       "last_seen_at": "2026-09-05T23:55:24+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_520271ba49e65f780820",
@@ -943,7 +943,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-08-29T15:25:13+00:00",
       "last_seen_at": "2026-09-05T23:55:24+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_8c7c3f3ea645209ebeb4",
@@ -1028,7 +1028,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-05T12:19:48+00:00",
       "last_seen_at": "2026-09-05T23:55:24+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_b5416a816250a44d97a0",
@@ -1334,7 +1334,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-05T05:29:03+00:00",
       "last_seen_at": "2026-09-05T23:55:24+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_6fe63f652268f479fa76",
@@ -1521,7 +1521,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-05T21:40:53+00:00",
       "last_seen_at": "2026-09-05T23:55:24+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_e02859746a61908e4378",
@@ -1590,6 +1590,23 @@
       "first_seen_at": "2026-08-30T04:22:59+00:00",
       "last_seen_at": "2026-08-30T23:59:07+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_a99b06f3eef925cd2bf7",
+      "title": "M 4.6 - 71 km N of Isangel, Vanuatu",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-06T00:22:21+00:00",
+      "last_seen_at": "2026-09-06T00:22:21+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_720c7d526b3baeebcacf",
@@ -1946,7 +1963,7 @@
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
       "last_seen_at": "2026-09-05T23:55:24+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_55bf431fc184f598da38",
@@ -2150,7 +2167,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-09-05T23:55:24+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_944d61924133bc9f7758",
@@ -2252,7 +2269,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-09-05T23:55:24+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a77bf86ad7c289b6fd5e",
@@ -2592,7 +2609,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-05T06:31:31+00:00",
       "last_seen_at": "2026-09-05T23:55:24+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_d2b65476ddd51aa30af6",
@@ -2796,7 +2813,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-05T10:46:03+00:00",
       "last_seen_at": "2026-09-05T23:55:24+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_bfddd68964286a495eee",
@@ -2881,7 +2898,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-05T06:31:31+00:00",
       "last_seen_at": "2026-09-05T23:55:24+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_1c4780153747f750679c",
@@ -3017,7 +3034,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-05T09:29:42+00:00",
       "last_seen_at": "2026-09-05T23:55:24+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_802255d0c0efe9f99052",
@@ -3221,7 +3238,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-05T23:32:49+00:00",
       "last_seen_at": "2026-09-05T23:55:24+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_45c2c9606374cdc0ec28",
@@ -3238,7 +3255,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-31T23:20:25+00:00",
       "last_seen_at": "2026-09-05T23:55:24+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_4a70106795306711971c",
@@ -3561,7 +3578,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-05T03:23:45+00:00",
       "last_seen_at": "2026-09-05T23:55:24+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_43856848b80264610146",
