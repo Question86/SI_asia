@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T16:38:30+00:00",
-  "run_id": "2026-09-06T16:38:30+00:00",
+  "generated_at": "2026-09-06T16:45:56+00:00",
+  "run_id": "2026-09-06T16:45:56+00:00",
   "date": "2026-09-06",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 22,
     "displayed_findings": 22,
     "high": 0,
@@ -1279,29 +1279,7 @@
       "id": "6b7ccf7ef0a769c6e84e"
     }
   ],
-  "new_findings": [
-    {
-      "title": "デジタル庁は、デザインシステムをAIに読ませ始めた。Markdown配布が示すこと｜How many designs",
-      "url": "https://note.com/howmanydesigns/n/na108d69827ce",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-04T06:34:56+00:00",
-      "fetched_at": "2026-09-06T16:38:02+00:00",
-      "summary": "こんにちは、How many designs です。 Web Design Talk というタイトルで、デザインに関するお話を少しだけ書いていこうと思います。気軽に読んでいただければ幸いです。 デジタル庁からMarkdownが配布されました。デジタル庁デザインシステムは、FigmaのデザインデータとHTML／Reactのコードに加えて、全ドキュメントを...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6b7ccf7ef0a769c6e84e"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
