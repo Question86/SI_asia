@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-06T13:08:07+00:00_
+_Generiert: 2026-09-06T13:20:11+00:00_
 
 ## Kurzlage
 
-16 neue relevante Treffer. Stärkstes Signal: „GPT-6 Astra で飛躍的に向上したBlender 制作能力｜npaka“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
+18 neue relevante Treffer. Stärkstes Signal: „GPT-6 Astra で飛躍的に向上したBlender 制作能力｜npaka“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -126,14 +126,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Product Engineering Conference 2026の登壇資料。 https://product-engineering.jp/2026/ プロポーザル。 https://fortee.jp/pdeconf-2026/proposal/dfcd864d-0512-4de8-a…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **M 5.2 - southern East Pacific Rise** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tepx)
+- **M 4.7 - Svalbard region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000teq9)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-06T12:18:21.040+00:00`, fetched `2026-09-06T12:24:54+00:00`
+  - Zeit: published `2026-09-06T13:10:28.040+00:00`, fetched `2026-09-06T13:19:39+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-06 12:00:16 UTC 2026-09-06 12:00:16 UTC at epicenter Location 24.244°S 115.808°W Depth 10.00 km (6.21 mi)
+  - Kurz: Time 2026-09-06 12:50:34 UTC 2026-09-06 12:50:34 UTC at epicenter Location 76.148°N 7.169°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **AI に、即答させない ―― 反証を、装置にする｜小出幸典 | 株式会社カンリー CTO** — Score 9, observation — [Quelle](https://note.com/koid/n/n3a4455b202e0)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
