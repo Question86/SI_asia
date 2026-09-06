@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T22:17:41+00:00",
-  "run_id": "2026-09-06T22:17:41+00:00",
+  "generated_at": "2026-09-06T22:26:27+00:00",
+  "run_id": "2026-09-06T22:26:27+00:00",
   "date": "2026-09-06",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 29,
     "displayed_findings": 29,
     "high": 0,
@@ -1689,56 +1689,7 @@
       "id": "6b7ccf7ef0a769c6e84e"
     }
   ],
-  "new_findings": [
-    {
-      "title": "GitHub - TabularisDB/tabularis: Open-source desktop SQL workspace for PostgreSQL, MySQL/MariaDB, SQLite and 13+ more databases like DuckDB, ClickHouse, Redis and Firestore. Built-in MCP server for Claude, Cursor and Devin, SQL notebooks and visual EXPLAIN",
-      "url": "https://github.com/TabularisDB/tabularis",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-06-25T08:59:02+00:00",
-      "fetched_at": "2026-09-06T22:17:11+00:00",
-      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert",
-      "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "GitHub",
-        "Hatena",
-        "hotentry",
-        "Watchgraph:ai_agents_workflow"
-      ],
-      "relevance_score": 20,
-      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); watchgraph modules ai_agents_workflow (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: MCP, MCP server"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "aadcc2b91ff4152efe2a"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
