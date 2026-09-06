@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-06T21:35:24Z",
+  "generated_at": "2026-09-06T21:49:22Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “GitHub - microsoft/tgrep: Trigram-indexed grep with a client/server architecture for fast regex search in large codebases locally” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://github.com/microsoft/tgrep",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-06T18:24:02+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -41,7 +41,7 @@
       "url": "https://speakerdeck.com/cscengineer/unvalued-sre-security-growth-engine",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-06T00:42:44+00:00",
-      "age_days": 0.87,
+      "age_days": 0.88,
       "topics": [
         "security"
       ],
@@ -68,7 +68,7 @@
       "url": "https://note.com/npaka/n/n9635d06c377f",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 6.12,
+      "age_days": 6.13,
       "topics": [
         "general"
       ],
@@ -95,7 +95,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tem2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-06T03:24:46+00:00",
-      "age_days": 0.76,
+      "age_days": 0.77,
       "topics": [
         "general"
       ],
@@ -120,7 +120,7 @@
       "url": "https://speakerdeck.com/cscengineer/unvalued-sre-security-growth-engine",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 79.82,
+      "age_days": 79.83,
       "topics": [],
       "dynamics_score": 20.0,
       "raw_band": "strong",
@@ -141,11 +141,36 @@
       "summary": ""
     },
     {
+      "title": "VS Code誕生から現在までの物語「The Story of VS Code」YouTubeで公開。作者のエリック・ガンマ氏はなぜIBMからMSへ移籍してVS Codeを作ることになったか",
+      "url": "https://www.publickey1.jp/blog/26/vs_codethe_story_of_vs_codeyoutubeibmmsvs_code.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-06T21:19:04+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "high terms: code"
+      ],
+      "summary": ""
+    },
+    {
       "title": "やはりKubernetesからは逃れられない - まいの雑記帳",
       "url": "https://mq1.dev/entry/U0w-0MgT8IhM",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-06T06:08:42+00:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [
         "general"
       ],
@@ -170,7 +195,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tep0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-06T11:28:06.040+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "disaster"
       ],
@@ -195,7 +220,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tep0",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T21:39:57+00:00",
-      "age_days": 3.0,
+      "age_days": 3.01,
       "topics": [
         "general"
       ],
@@ -219,7 +244,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000temw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-06T05:34:11.040+00:00",
-      "age_days": 0.67,
+      "age_days": 0.68,
       "topics": [
         "disaster"
       ],
@@ -243,7 +268,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000terb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-06T19:37:38.391+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -268,7 +293,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teq9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-06T13:10:28.040+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "disaster"
       ],
@@ -287,31 +312,6 @@
         "high terms: 10"
       ],
       "summary": "Time 2026-09-06 12:50:34 UTC 2026-09-06 12:50:34 UTC at epicenter Location 76.148°N 7.169°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 5.2 - southern East Pacific Rise",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tepx",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-06T12:18:21.040+00:00",
-      "age_days": 0.39,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-09-06 12:00:16 UTC 2026-09-06 12:00:16 UTC at epicenter Location 24.244°S 115.808°W Depth 10.00 km (6.21 mi)"
     }
   ],
   "read_order": [
