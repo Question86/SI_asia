@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-06T05:29:38+00:00",
+  "generated_at": "2026-09-06T05:39:52+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -589,6 +589,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_3f2b9b9b0e1d3ea93cdc",
+      "title": "M 4.9 - 118 km ENE of Kuji, Japan",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1160000.0,
+      "p50_usd": 116000000.0,
+      "p90_usd": 11600000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-06T05:39:36+00:00",
+      "last_seen_at": "2026-09-06T05:39:36+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_051cfa972487c1e10518",
       "title": "M 6.2 - South Sandwich Islands region",
       "event_classes": [
@@ -670,7 +687,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-06T04:35:54+00:00",
-      "last_seen_at": "2026-09-06T05:29:22+00:00",
+      "last_seen_at": "2026-09-06T05:39:36+00:00",
       "status": "active"
     },
     {
@@ -1435,7 +1452,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-06T00:22:21+00:00",
-      "last_seen_at": "2026-09-06T05:29:22+00:00",
+      "last_seen_at": "2026-09-06T05:39:36+00:00",
       "status": "active"
     },
     {
@@ -1622,7 +1639,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-06T03:24:46+00:00",
-      "last_seen_at": "2026-09-06T05:29:22+00:00",
+      "last_seen_at": "2026-09-06T05:39:36+00:00",
       "status": "active"
     },
     {
@@ -1641,6 +1658,23 @@
       "first_seen_at": "2026-08-30T04:22:59+00:00",
       "last_seen_at": "2026-08-30T23:59:07+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_127d6fbd65c4e335b07e",
+      "title": "M 4.6 - Kermadec Islands region",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-06T05:39:36+00:00",
+      "last_seen_at": "2026-09-06T05:39:36+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_720c7d526b3baeebcacf",
@@ -3152,7 +3186,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T22:15:36+00:00",
-      "last_seen_at": "2026-09-06T05:29:22+00:00",
+      "last_seen_at": "2026-09-06T05:39:36+00:00",
       "status": "active"
     },
     {
@@ -4512,7 +4546,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:10:24+00:00",
-      "last_seen_at": "2026-09-06T05:29:22+00:00",
+      "last_seen_at": "2026-09-06T05:39:36+00:00",
       "status": "active"
     },
     {
