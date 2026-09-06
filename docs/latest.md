@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-06T04:24:40+00:00_
+_Generiert: 2026-09-06T04:35:52+00:00_
 
 ## Kurzlage
 
-5 neue relevante Treffer. Stärkstes Signal: „GPT-6 Astra で飛躍的に向上したBlender 制作能力｜npaka“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
+6 neue relevante Treffer. Stärkstes Signal: „GPT-6 Astra で飛躍的に向上したBlender 制作能力｜npaka“ aus Hatena Bookmark Hotentry IT (Score 18, observation). 3 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -24,6 +24,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 5.6 - 93 km SE of Kirakira, Solomon Islands** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000temi)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-06T04:33:53.095+00:00`, fetched `2026-09-06T04:35:20+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - IV Time 2026-09-06 04:05:30 UTC 2026-09-06 04:05:30 UTC at epicenter Location 11.060°S 162.519°E Depth 38.54 km (23.95 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **なぜSRE・セキュリティは評価されないのか？守りの組織を事業成長エンジンに変えた実践** — Score 11, opportunity — [Quelle](https://speakerdeck.com/cscengineer/unvalued-sre-security-growth-engine)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-06T00:42:44+00:00`, fetched `2026-09-06T03:53:49+00:00`
@@ -68,3 +77,9 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `bis_press_releases` (rss): 503 Server Error: Service Unavailable for url: https://www.bis.org/doclist/all_pressrels.rss
+- `bis_central_bank_speeches` (rss): 503 Server Error: Service Unavailable for url: https://www.bis.org/doclist/cbspeeches.rss?paging_length=15
+- `bis_statistics` (rss): 503 Server Error: Service Unavailable for url: https://www.bis.org/doclist/all_statistics.rss

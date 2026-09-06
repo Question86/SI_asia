@@ -1,18 +1,37 @@
 {
-  "generated_at": "2026-09-06T04:24:40+00:00",
-  "status": "normal",
+  "generated_at": "2026-09-06T04:35:52+00:00",
+  "status": "warning",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
-  "coverage_confidence": "normal",
+  "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 5,
-    "displayed_findings": 5,
+    "new_relevant_findings": 1,
+    "today_file_total": 6,
+    "displayed_findings": 6,
     "high": 0,
     "medium": 1,
-    "observe": 4,
-    "source_errors": 0
+    "observe": 5,
+    "source_errors": 3
   },
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "bis_press_releases",
+      "source_name": "BIS Press Releases",
+      "source_type": "rss",
+      "error": "503 Server Error: Service Unavailable for url: https://www.bis.org/doclist/all_pressrels.rss"
+    },
+    {
+      "source_id": "bis_central_bank_speeches",
+      "source_name": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "error": "503 Server Error: Service Unavailable for url: https://www.bis.org/doclist/cbspeeches.rss?paging_length=15"
+    },
+    {
+      "source_id": "bis_statistics",
+      "source_name": "BIS Statistical Releases",
+      "source_type": "rss",
+      "error": "503 Server Error: Service Unavailable for url: https://www.bis.org/doclist/all_statistics.rss"
+    }
+  ],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"
 }

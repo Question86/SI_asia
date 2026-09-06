@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T04:24:44+00:00",
+  "generated_at": "2026-09-06T04:35:54+00:00",
   "sections": {
     "global_security": [
       {
@@ -111,6 +111,21 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001319",
         "published_at": "",
         "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "watch",
+        "title": "USGS earthquake M5.6 - 93 km SE of Kirakira, Solomon Islands",
+        "summary": "M5.6 - 93 km SE of Kirakira, Solomon Islands. PAGER alert: green. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000temi",
+        "published_at": "2026-09-06T04:05:30+00:00",
+        "metrics": {
+          "mag": 5.6,
+          "alert": "green",
+          "sig": 482.0,
+          "tsunami": 0
+        }
       }
     ],
     "global_economy": []
