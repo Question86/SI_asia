@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T15:43:27+00:00",
-  "run_id": "2026-09-06T15:43:27+00:00",
+  "generated_at": "2026-09-06T15:50:54+00:00",
+  "run_id": "2026-09-06T15:50:54+00:00",
   "date": "2026-09-06",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 20,
     "displayed_findings": 20,
     "high": 0,
@@ -1195,29 +1195,7 @@
       "id": "ae35b4e9bbd35317cfe3"
     }
   ],
-  "new_findings": [
-    {
-      "title": "MarkdownをPDFやHTMLにするツール",
-      "url": "https://ktrmnm.jp/blog/2026-09-05-madoc-intro/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-06T06:49:34+00:00",
-      "fetched_at": "2026-09-06T15:42:53+00:00",
-      "summary": "Markdownを入力してPDFやHTMLを出力するmadoc というツールを作った。このツールはほぼ完全にAIで作られている。 MarkdownをHTMLに変換し、画面共有している様子 使い方 madoc html input.md -o output.html でHTMLがレンダリングされ、 madoc pdf input.md -o output.pdf とするとPDFがレンダリングされる。 PDFの組版...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b2de8c064be6e02106dc"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
