@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-06T05:54:54+00:00_
+_Generiert: 2026-09-06T06:08:37+00:00_
 
 ## Kurzlage
 
-8 neue relevante Treffer. Stärkstes Signal: „GPT-6 Astra で飛躍的に向上したBlender 制作能力｜npaka“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
+9 neue relevante Treffer. Stärkstes Signal: „GPT-6 Astra で飛躍的に向上したBlender 制作能力｜npaka“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
 
 ## Priorität Hoch
 
@@ -77,6 +77,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: ある朝、AI にひとつ頼んだ。 「この機能が遅い。キャッシュを入れたい」 こう返ってきた。 判定: 中。戻せる変更だが、解決策が先に固定されており、課題側が検討されていない。 それは本当に、キャッシュで解決すべき課題ですか。 頼んだのは、実装の段取りだった。なのに AI は、私の頼み自体を突き返してきた。 この...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **やはりKubernetesからは逃れられない - まいの雑記帳** — Score 5, observation — [Quelle](https://mq1.dev/entry/U0w-0MgT8IhM)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-05T18:30:52+00:00`, fetched `2026-09-06T06:08:07+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: # はじめにどうも、わたしです。 最近、安価なVPS上で複数のワークロードをいい感じに収容する方法について考えています。 こんなツイートが伸びるくらいなので、もしかしたら多くの人が気になっているのではないでしょうか。 このような用途の多くは既にサーバレスへ代替されてしまっているのでしょうが、私がやりたい...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
