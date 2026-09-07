@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T08:54:37+00:00",
-  "run_id": "2026-09-07T08:54:37+00:00",
+  "generated_at": "2026-09-07T09:05:19+00:00",
+  "run_id": "2026-09-07T09:05:19+00:00",
   "date": "2026-09-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 36,
     "displayed_findings": 36,
     "high": 0,
@@ -1881,29 +1881,7 @@
       "id": "cfae2fd1eabaf9b91b36"
     }
   ],
-  "new_findings": [
-    {
-      "title": "The US$103K visa fee is a gift to SEA’s talent pool, if the region actually wants it",
-      "url": "https://e27.co/the-us103k-visa-fee-is-a-gift-to-seas-talent-pool-if-the-region-actually-wants-it-20260907/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-07T08:47:04+00:00",
-      "fetched_at": "2026-09-07T08:54:06+00:00",
-      "summary": "Every few years, Washington slams a door and Asia is told to catch the people falling out of it. It happened after the dot-com bubble. It happened after the 2020 H-1B tightening. It is happening again now, and the instinct across Southeast Asian boardrooms and government press releases will be the same: cue the victory […] The post The US$103K visa fee is a gift to SEA’s talent pool, if the region actually wants it…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Southeast Asia"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6883545b826943ffac08"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
