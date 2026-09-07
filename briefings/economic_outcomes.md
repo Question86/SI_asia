@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-09-07T02:31:08+00:00`
+Generated: `2026-09-07T02:47:46+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -15,6 +15,7 @@ Generated: `2026-09-07T02:31:08+00:00`
 | New API endpoint provides privacy-safe star history data | $0 | — | 0 | 0 | dormant |
 | JetBrains/go-modern-guidelines | $0 | — | 0 | 0 | dormant |
 | M 5.6 - 82 km SE of Maba, Indonesia | $0 | — | 0 | 0 | dormant |
+| The ecosystem map: How to stay agile in the US-China AI battle | $0 | — | 0 | 0 | active |
 | Zabbix agentにおけるDLL読み込みに関する脆弱性 | $0 | — | 0 | 0 | dormant |
 | [MàJ] Vulnérabilité dans Fortinet FortiOS (09 février 2024) | $0 | — | 0 | 0 | dormant |
 | マーティン・ファウラー氏来日登壇！アーキテクチャConference 2026｜11月26・27日開催 | $0 | — | 0 | 0 | dormant |
@@ -28,4 +29,3 @@ Generated: `2026-09-07T02:31:08+00:00`
 | tailscale/tailcat | $0 | — | 0 | 0 | dormant |
 | AIショートドラマ『非妖哉』たった2話で1億回再生を記録 中国の映像クリエイターがほぼ1人で制作 | $0 | — | 0 | 0 | dormant |
 | 民間事業者（アイフル株式会社）に対して公的個人認証サービスの利用に関する主務大臣認定を行いました | $0 | — | 0 | 0 | dormant |
-| ITエンジニアのためのライフスタイルメディア KIKKAKE ITREND | $0 | — | 0 | 0 | dormant |

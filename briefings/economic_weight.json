@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-07T02:31:04+00:00",
+  "generated_at": "2026-09-07T02:47:42+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1388,6 +1388,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_5de872aa0a84894b50c6",
+      "title": "M 5.0 - Kermadec Islands region",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-07T02:30:48+00:00",
+      "last_seen_at": "2026-09-07T02:47:25+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_5ecfe3d11dbe7ef7157d",
       "title": "M 4.5 - 122 km WNW of Houma, Tonga",
       "event_classes": [
@@ -1758,7 +1775,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-07T01:40:57+00:00",
-      "last_seen_at": "2026-09-07T02:30:48+00:00",
+      "last_seen_at": "2026-09-07T02:47:25+00:00",
       "status": "active"
     },
     {
@@ -1779,8 +1796,8 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_5de872aa0a84894b50c6",
-      "title": "M 5.0 - Kermadec Islands region",
+      "event_id": "evt_abfe7131a9333ffda7d9",
+      "title": "M 4.9 - Kermadec Islands region",
       "event_classes": [
         "natural_disaster"
       ],
@@ -1791,8 +1808,8 @@
       "p50_usd": 111200000.0,
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
-      "first_seen_at": "2026-09-07T02:30:48+00:00",
-      "last_seen_at": "2026-09-07T02:30:48+00:00",
+      "first_seen_at": "2026-09-07T02:47:25+00:00",
+      "last_seen_at": "2026-09-07T02:47:25+00:00",
       "status": "active"
     },
     {
@@ -2561,6 +2578,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_0ab1f90816a2a86fe8ad",
+      "title": "The ecosystem map: How to stay agile in the US-China AI battle",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 116800.0,
+      "p50_usd": 11680000.0,
+      "p90_usd": 1168000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-07T02:47:25+00:00",
+      "last_seen_at": "2026-09-07T02:47:25+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_3820889c838ad91aba02",
       "title": "Fintech, DeFi and applied AI define Southeast Asia’s new venture discipline",
       "event_classes": [
@@ -2727,7 +2761,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-07T00:31:05+00:00",
-      "last_seen_at": "2026-09-07T02:30:48+00:00",
+      "last_seen_at": "2026-09-07T02:47:25+00:00",
       "status": "active"
     },
     {
@@ -2846,7 +2880,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-07T01:13:29+00:00",
-      "last_seen_at": "2026-09-07T02:30:48+00:00",
+      "last_seen_at": "2026-09-07T02:47:25+00:00",
       "status": "active"
     },
     {
@@ -2863,7 +2897,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-07T01:40:57+00:00",
-      "last_seen_at": "2026-09-07T02:30:48+00:00",
+      "last_seen_at": "2026-09-07T02:47:25+00:00",
       "status": "active"
     },
     {
@@ -4159,6 +4193,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_ea7cc42983d2482e42a6",
+      "title": "Malaysia’s digital economy’s second wave looks nothing like the first",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-07T02:30:48+00:00",
+      "last_seen_at": "2026-09-07T02:47:25+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_f28cd82d792d72cfd6ec",
       "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
       "event_classes": [
@@ -4174,23 +4225,6 @@
       "first_seen_at": "2026-09-04T16:18:08+00:00",
       "last_seen_at": "2026-09-04T16:18:08+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_ea7cc42983d2482e42a6",
-      "title": "Malaysia’s digital economy’s second wave looks nothing like the first",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 110400.0,
-      "p50_usd": 11040000.0,
-      "p90_usd": 1104000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-07T02:30:48+00:00",
-      "last_seen_at": "2026-09-07T02:30:48+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_9a2361687c9a12c7708c",
