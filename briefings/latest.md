@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-07T10:36:20+00:00_
+_Generiert: 2026-09-07T10:44:44+00:00_
 
 ## Kurzlage
 
-36 neue relevante Treffer. Stärkstes Signal: „openai/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+37 neue relevante Treffer. Stärkstes Signal: „openai/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -247,14 +247,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: ジョージアとデジタル分野における協力覚書を取り交わしました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ADRは経緯より「決まったこと」だけでいい** — Score 5, observation — [Quelle](https://zenn.dev/yamitake/articles/adr-decision-over-context)
+- **ローカルLLMの波、来てる。メモリ192GB搭載ミニPCが登場。MINISFORUMから** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/news/2138647.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-07T02:10:01+00:00`, fetched `2026-09-07T08:41:42+00:00`
+  - Zeit: published `2026-09-07T03:17:45+00:00`, fetched `2026-09-07T10:44:15+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: はじめに 先に言っておくと、僕はADR（Architecture Decision Record）を全否定するつもりはありません。設計の判断を残しておくのは、明らかに価値があります。 ただ、ADRの話になると必ず「経緯を丁寧に残そう」という方向に進みがちです。なぜその設計にしたのか、どんな議論があったのか、どの案を捨てたのか。 でも...
+  - Kurz: ローカルLLMの波、来てる。メモリ192GB搭載ミニPCが登場。MINISFORUMから
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

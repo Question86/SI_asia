@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T10:36:20+00:00",
-  "run_id": "2026-09-07T10:36:20+00:00",
+  "generated_at": "2026-09-07T10:44:44+00:00",
+  "run_id": "2026-09-07T10:44:44+00:00",
   "date": "2026-09-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 36
+      "configured_public_sources_only": 37
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 36,
-    "displayed_findings": 36,
+    "new_relevant_findings": 1,
+    "today_file_total": 37,
+    "displayed_findings": 37,
     "high": 0,
     "medium": 10,
-    "observe": 26,
+    "observe": 27,
     "source_errors": 0
   },
   "sections": {
@@ -849,6 +849,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "9bcbbd666bf836942695"
+      },
+      {
+        "title": "ローカルLLMの波、来てる。メモリ192GB搭載ミニPCが登場。MINISFORUMから",
+        "url": "https://pc.watch.impress.co.jp/docs/news/2138647.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-07T03:17:45+00:00",
+        "fetched_at": "2026-09-07T10:44:15+00:00",
+        "summary": "ローカルLLMの波、来てる。メモリ192GB搭載ミニPCが登場。MINISFORUMから",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "beb41fd3ef6325a0dc26"
       },
       {
         "title": "ADRは経緯より「決まったこと」だけでいい",
@@ -1777,6 +1798,27 @@
       "id": "9bcbbd666bf836942695"
     },
     {
+      "title": "ローカルLLMの波、来てる。メモリ192GB搭載ミニPCが登場。MINISFORUMから",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2138647.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-07T03:17:45+00:00",
+      "fetched_at": "2026-09-07T10:44:15+00:00",
+      "summary": "ローカルLLMの波、来てる。メモリ192GB搭載ミニPCが登場。MINISFORUMから",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "beb41fd3ef6325a0dc26"
+    },
+    {
       "title": "ADRは経緯より「決まったこと」だけでいい",
       "url": "https://zenn.dev/yamitake/articles/adr-decision-over-context",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1881,7 +1923,29 @@
       "id": "cfae2fd1eabaf9b91b36"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "ローカルLLMの波、来てる。メモリ192GB搭載ミニPCが登場。MINISFORUMから",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2138647.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-07T03:17:45+00:00",
+      "fetched_at": "2026-09-07T10:44:15+00:00",
+      "summary": "ローカルLLMの波、来てる。メモリ192GB搭載ミニPCが登場。MINISFORUMから",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "beb41fd3ef6325a0dc26"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
