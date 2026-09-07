@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-09-07T15:48:05+00:00_
+_Generiert: 2026-09-07T15:55:36+00:00_
 
 ## Zero-Day-Lücke StyleSmuggler in Magento und Adobe Commerce wird aktiv ausgenutzt
 
