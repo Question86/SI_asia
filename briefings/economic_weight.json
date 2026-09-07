@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-06T23:56:30+00:00",
+  "generated_at": "2026-09-07T00:31:22+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -433,7 +433,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-06T05:39:36+00:00",
       "last_seen_at": "2026-09-06T23:56:14+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_7118cce672ed485d4bcb",
@@ -688,7 +688,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-06T04:35:54+00:00",
       "last_seen_at": "2026-09-06T23:56:14+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a0a48f18e523a40ddacf",
@@ -790,7 +790,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T21:39:57+00:00",
       "last_seen_at": "2026-09-06T23:56:14+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_1d96702b9c68a08a2c51",
@@ -1266,7 +1266,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-06T05:39:36+00:00",
       "last_seen_at": "2026-09-06T23:56:14+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_21b300e0b2a2081dc7c0",
@@ -1283,7 +1283,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-06T11:04:07+00:00",
       "last_seen_at": "2026-09-06T23:56:14+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_2ac77989c9a2af872e89",
@@ -1300,7 +1300,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-06T19:41:32+00:00",
       "last_seen_at": "2026-09-06T23:56:14+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_33b61a4e72fbc1c6c051",
@@ -1436,7 +1436,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-06T21:27:04+00:00",
       "last_seen_at": "2026-09-06T23:56:14+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_6fe63f652268f479fa76",
@@ -1521,7 +1521,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-06T00:22:21+00:00",
       "last_seen_at": "2026-09-06T23:56:14+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_b25e1c4e89af56d39744",
@@ -1640,7 +1640,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-06T13:20:14+00:00",
       "last_seen_at": "2026-09-06T23:56:14+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_dacfe5c30dd16e98f283",
@@ -1657,7 +1657,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-06T11:26:20+00:00",
       "last_seen_at": "2026-09-06T23:56:14+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_dc0acc4612201e3da641",
@@ -1742,7 +1742,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-06T03:24:46+00:00",
       "last_seen_at": "2026-09-06T23:56:14+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_f613d61784f3ba1f91c1",
@@ -2201,7 +2201,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-06T22:17:46+00:00",
       "last_seen_at": "2026-09-06T23:56:14+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_96de7bc3a0918ccbc0d0",
@@ -2439,7 +2439,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-09-06T23:56:14+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a77bf86ad7c289b6fd5e",
@@ -2714,6 +2714,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_a19f76bff1df96d4add6",
+      "title": "AI出力フォーマット革命 — Claude CodeチームがMarkdownを捨てHTMLを選ぶ理由 | Kanau Tech",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 115200.0,
+      "p50_usd": 11520000.0,
+      "p90_usd": 1152000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-07T00:31:05+00:00",
+      "last_seen_at": "2026-09-07T00:31:05+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_0fe6fa9731ff84e108db",
       "title": "DietrichGebert/ponytail",
       "event_classes": [
@@ -2983,7 +3000,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-05T10:46:03+00:00",
       "last_seen_at": "2026-09-06T23:56:14+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_bfddd68964286a495eee",
@@ -3289,7 +3306,7 @@
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T22:15:36+00:00",
       "last_seen_at": "2026-09-06T23:56:14+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_b4e269f22bed6b0ae043",
@@ -3935,7 +3952,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-06T11:26:20+00:00",
       "last_seen_at": "2026-09-06T23:56:14+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_73919c7906fd5bd6f66f",
@@ -4054,7 +4071,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-06T18:24:02+00:00",
       "last_seen_at": "2026-09-06T23:56:14+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_e33c49f3706c66054726",
@@ -4700,7 +4717,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:10:24+00:00",
       "last_seen_at": "2026-09-06T23:56:14+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_39608083ffef119c35bf",
@@ -4751,7 +4768,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T12:58:27+00:00",
       "last_seen_at": "2026-09-06T23:56:14+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_491708df1e8ae0656660",
@@ -4938,7 +4955,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-06T21:19:04+00:00",
       "last_seen_at": "2026-09-06T23:56:14+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_7f426a092d4dd54112b3",

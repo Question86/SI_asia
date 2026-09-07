@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-09-06T23:56:41+00:00`
+Generated: `2026-09-07T00:31:23+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -23,7 +23,7 @@ Generated: `2026-09-06T23:56:41+00:00`
 | 無料のLM Studio、DFlash/DSpark/MTPで推論を高速化 | $0 | — | 0 | 0 | dormant |
 | DietrichGebert/ponytail | $0 | — | 0 | 0 | dormant |
 | M 4.8 - Kermadec Islands, New Zealand | $0 | — | 0 | 0 | dormant |
-| M 4.6 - Kermadec Islands region | $0 | — | 0 | 0 | active |
+| M 4.6 - Kermadec Islands region | $0 | — | 0 | 0 | dormant |
 | sngyai/Sequoia-X | $0 | — | 0 | 0 | dormant |
 | tailscale/tailcat | $0 | — | 0 | 0 | dormant |
 | AIショートドラマ『非妖哉』たった2話で1億回再生を記録 中国の映像クリエイターがほぼ1人で制作 | $0 | — | 0 | 0 | dormant |
