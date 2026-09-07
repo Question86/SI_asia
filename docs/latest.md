@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-07T16:44:27+00:00_
+_Generiert: 2026-09-07T16:52:38+00:00_
 
 ## Kurzlage
 
-62 neue relevante Treffer. Stärkstes Signal: „Zero-Day-Lücke StyleSmuggler in Magento und Adobe Commerce wird aktiv ausgenutzt“ aus heise Security Alerts (Score 24, risk).
+63 neue relevante Treffer. Stärkstes Signal: „Zero-Day-Lücke StyleSmuggler in Magento und Adobe Commerce wird aktiv ausgenutzt“ aus heise Security Alerts (Score 24, risk).
 
 ## Priorität Hoch
 
