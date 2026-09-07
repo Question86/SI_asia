@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-07T02:55:02+00:00_
+_Generated: 2026-09-07T03:08:02+00:00_
 
 ## Status
 - status: `normal`
-- findings: `8`
+- findings: `12`
 
 ## Top Signals
 
@@ -36,18 +36,18 @@ _Generated: 2026-09-07T02:55:02+00:00_
 - url: https://e27.co/the-real-test-of-ethical-ai-is-whether-a-frontline-employee-can-challenge-it-20260809/
 - summary: A great deal of ethical AI discussion still happens at a distance from the people who live with the system every day. It happens in governance forums, legal reviews, executive updates, risk committees, and product documents. All of that has value, but none of…
 
-### 5. M 4.9 - Kermadec Islands region
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-09-07T02:41:03.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tesx
-- summary: Time 2026-09-07 02:11:51 UTC 2026-09-07 02:11:51 UTC at epicenter Location 31.122°S 178.645°E Depth 585.92 km (364.07 mi)
+### 5. Taiwan’s startup talent problem is a matching problem, not a shortage
+- source: e27 Asia Startup and Tech Feed
+- score: `12`
+- published: `2026-09-07T03:00:17+00:00`
+- url: https://e27.co/taiwans-startup-talent-problem-is-a-matching-problem-not-a-shortage-20260906/
+- summary: Taiwan does not appear to have a simple shortage of people interested in startups. The more immediate problem is matching people with complementary skills, compatible expectations and a practical way to test collaboration. I see this repeatedly as the platfor…
 
-### 6. M 5.0 - Kermadec Islands region
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-09-07T02:24:04.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000test
-- summary: Time 2026-09-07 02:06:48 UTC 2026-09-07 02:06:48 UTC at epicenter Location 30.966°S 178.544°E Depth 585.15 km (363.59 mi)
+### 6. 攻撃者視点で読み解く、医療機関の「閉域網神話」の壊れ方 - blog of morioka12
+- source: Hatena Bookmark Hotentry IT
+- score: `11`
+- published: `2026-09-06T09:34:08+00:00`
+- url: https://scgajge12.hatenablog.com/entry/closed_network_security
+- summary: はじめに こんにちは、morioka12 です。 本稿では、医療機関の閉域網 (Closed Network) を攻撃者の視点から読み解き、「閉域網だから安全」という神話がどこで壊れるのかを紹介します。工場や港湾の事例も、同じ壊れ方を映す鏡として扱います。 先に結論です。「閉域網だから安全」という認識は誤りといえます。 閉域網...
 
 END OF DOCUMENT
