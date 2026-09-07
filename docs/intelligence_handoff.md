@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-07T04:41:50Z_
+_Generated: 2026-09-07T04:51:53Z_
 
 ## Lageurteil
 
@@ -18,6 +18,16 @@ Stärkste Dynamik nach Gate-Recheck: “Taiwan’s startup talent problem is a m
 - Warum: momentum delta +3, early terms: shortage, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
 - Quelle: https://e27.co/taiwans-startup-talent-problem-is-a-matching-problem-not-a-shortage-20260906/
 
+### From US$79,300 to US$82,400: Mapping the narrow corridor that decides Bitcoin’s September
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `24.0`
+- Published: `2026-09-07T04:36:37+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: rce, security high-signal: rce
+- Quelle: https://e27.co/from-us79300-to-us82400-mapping-the-narrow-corridor-that-decides-bitcoins-september-20260907/
+
 ### 攻撃者視点で読み解く、医療機関の「閉域網神話」の壊れ方 - blog of morioka12
 
 - Band: `strong` (raw `strong`)
@@ -32,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “Taiwan’s startup talent problem is a m
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-07T03:00:17+00:00` / age_days `0.07`
+- Published: `2026-09-07T03:00:17+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: early terms: shortage, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -42,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “Taiwan’s startup talent problem is a m
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.0`
-- Published: `2026-09-07T00:31:05+00:00` / age_days `0.17`
+- Published: `2026-09-07T00:31:05+00:00` / age_days `0.18`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -72,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “Taiwan’s startup talent problem is a m
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-07T02:47:25+00:00` / age_days `0.08`
+- Published: `2026-09-07T02:47:25+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -82,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “Taiwan’s startup talent problem is a m
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-07T02:30:48+00:00` / age_days `0.09`
+- Published: `2026-09-07T02:30:48+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -102,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “Taiwan’s startup talent problem is a m
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.5`
-- Published: `2026-09-07T02:47:25+00:00` / age_days `0.08`
+- Published: `2026-09-07T02:47:25+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “Taiwan’s startup talent problem is a m
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.5`
-- Published: `2026-09-07T02:30:48+00:00` / age_days `0.09`
+- Published: `2026-09-07T02:30:48+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000test
-
-### M 4.6 - off the coast of Oregon
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `16.5`
-- Published: `2026-09-07T01:40:57+00:00` / age_days `0.13`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/attkz06l
 
 END OF DOCUMENT
