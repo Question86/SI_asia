@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-07T11:19:42+00:00",
+  "generated_at": "2026-09-07T11:30:39+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 43,
+    "findings": 45,
     "clusters": 33,
     "cross_source_confrmed": 0,
     "hot": 0,
@@ -23,27 +23,27 @@
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1332",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2382",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2119",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3199",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3200",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3198"
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3201",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2927",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3199"
       ],
-      "finding_count": 11,
+      "finding_count": 13,
       "max_score": 17,
-      "credibility_total": 11.55,
+      "credibility_total": 13.65,
       "cross_source_confirmed": false,
-      "momentum_delta": 3,
+      "momentum_delta": 2,
       "momentum_status": "increasing",
-      "network_score": 31.0,
+      "network_score": 28.5,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 49.1,
-      "ranking_score": 31.0,
+      "raw_network_score": 50.3,
+      "ranking_score": 28.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 7.5,
+      "momentum_bonus": 5.0,
       "baseline_bonus": 5.0,
       "early_signal": false,
       "early_signal_bonus": 0.0,
@@ -324,44 +324,6 @@
       "first_seen_at": "2026-09-07T03:08:05+00:00"
     },
     {
-      "key": "domain:gigazine.net",
-      "title": "Claudeがフェルマーの最終定理を11日で形式化、1300万行のLeanコードで初の完全な機械検証済み証明を完成",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://gigazine.net/news/20260907-claude-fermat-last-theorem-formalizing/"
-      ],
-      "finding_count": 1,
-      "max_score": 8,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 12.85,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 13.1,
-      "ranking_score": 12.85,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.85,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-19T01:58:32+00:00"
-    },
-    {
       "key": "domain:scgajge12.hatenablog.com",
       "title": "攻撃者視点で読み解く、医療機関の「閉域網神話」の壊れ方 - blog of morioka12",
       "sources": [
@@ -553,6 +515,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-06-17T20:44:40+00:00"
+    },
+    {
+      "key": "domain:gigazine.net",
+      "title": "Claudeがフェルマーの最終定理を11日で形式化、1300万行のLeanコードで初の完全な機械検証済み証明を完成",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://gigazine.net/news/20260907-claude-fermat-last-theorem-formalizing/"
+      ],
+      "finding_count": 1,
+      "max_score": 8,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 9.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 10.1,
+      "ranking_score": 9.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T01:58:32+00:00"
     },
     {
       "key": "title:sea-funding-falls-july-high-but-august-still",
@@ -1293,7 +1293,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-07T11:19:42Z",
+    "generated_at": "2026-09-07T11:30:39Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

@@ -143,6 +143,52 @@
     "id": "000308ca2b2cc18a179e"
   },
   {
+    "title": "[NEU] [mittel] Apache Ant: Schwachstelle ermöglicht Manipulation von Daten",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3201",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-07T11:24:17+00:00",
+    "fetched_at": "2026-09-07T11:30:04+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Apache Ant ausnutzen, um Daten zu manipulieren.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0d7334b35ad799869ec0"
+  },
+  {
+    "title": "[UPDATE] [kritisch] Citrix Systems NetScaler (Gateway und ADC): Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2927",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-07T11:19:17+00:00",
+    "fetched_at": "2026-09-07T11:30:04+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Citrix Systems NetScaler (Gateway und ADC) ausnutzen, um einen Denial of Service Angriff durchzuführen und um Sicherheitsvorkehrungen zu umgehen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a78d056f17d35ba01708"
+  },
+  {
     "title": "[NEU] [mittel] PackageKit: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3199",
     "source": "BSI CERT-Bund Security Advisories",

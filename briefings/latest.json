@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T11:19:38+00:00",
-  "run_id": "2026-09-07T11:19:38+00:00",
+  "generated_at": "2026-09-07T11:30:35+00:00",
+  "run_id": "2026-09-07T11:30:35+00:00",
   "date": "2026-09-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 43
+      "configured_public_sources_only": 45
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 43,
-    "displayed_findings": 43,
+    "new_relevant_findings": 2,
+    "today_file_total": 45,
+    "displayed_findings": 45,
     "high": 0,
-    "medium": 15,
+    "medium": 17,
     "observe": 28,
     "source_errors": 0
   },
@@ -171,6 +171,52 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "000308ca2b2cc18a179e"
+      },
+      {
+        "title": "[NEU] [mittel] Apache Ant: Schwachstelle ermöglicht Manipulation von Daten",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3201",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-07T11:24:17+00:00",
+        "fetched_at": "2026-09-07T11:30:04+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Apache Ant ausnutzen, um Daten zu manipulieren.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0d7334b35ad799869ec0"
+      },
+      {
+        "title": "[UPDATE] [kritisch] Citrix Systems NetScaler (Gateway und ADC): Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2927",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-07T11:19:17+00:00",
+        "fetched_at": "2026-09-07T11:30:04+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Citrix Systems NetScaler (Gateway und ADC) ausnutzen, um einen Denial of Service Angriff durchzuführen und um Sicherheitsvorkehrungen zu umgehen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a78d056f17d35ba01708"
       },
       {
         "title": "[NEU] [mittel] PackageKit: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
@@ -1261,6 +1307,52 @@
       "id": "000308ca2b2cc18a179e"
     },
     {
+      "title": "[NEU] [mittel] Apache Ant: Schwachstelle ermöglicht Manipulation von Daten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3201",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-07T11:24:17+00:00",
+      "fetched_at": "2026-09-07T11:30:04+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Apache Ant ausnutzen, um Daten zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0d7334b35ad799869ec0"
+    },
+    {
+      "title": "[UPDATE] [kritisch] Citrix Systems NetScaler (Gateway und ADC): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2927",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-07T11:19:17+00:00",
+      "fetched_at": "2026-09-07T11:30:04+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Citrix Systems NetScaler (Gateway und ADC) ausnutzen, um einen Denial of Service Angriff durchzuführen und um Sicherheitsvorkehrungen zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a78d056f17d35ba01708"
+    },
+    {
       "title": "[NEU] [mittel] PackageKit: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3199",
       "source": "BSI CERT-Bund Security Advisories",
@@ -2203,13 +2295,13 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [hoch] Froxlor: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3200",
+      "title": "[NEU] [mittel] Apache Ant: Schwachstelle ermöglicht Manipulation von Daten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3201",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-09-07T10:59:20+00:00",
-      "fetched_at": "2026-09-07T11:19:08+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Froxlor ausnutzen, um Administratorrechte zu erlangen, um Daten zu manipulieren oder offenzulegen, sowie um Sicherheitsmechanismen zu umgehen.",
+      "published_at": "2026-09-07T11:24:17+00:00",
+      "fetched_at": "2026-09-07T11:30:04+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Apache Ant ausnutzen, um Daten zu manipulieren.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2223,16 +2315,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "154bcef253bd7b269803"
+      "id": "0d7334b35ad799869ec0"
     },
     {
-      "title": "[NEU] [mittel] PackageKit: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3199",
+      "title": "[UPDATE] [kritisch] Citrix Systems NetScaler (Gateway und ADC): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2927",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-09-07T10:59:20+00:00",
-      "fetched_at": "2026-09-07T11:19:08+00:00",
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in PackageKit ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+      "published_at": "2026-09-07T11:19:17+00:00",
+      "fetched_at": "2026-09-07T11:30:04+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Citrix Systems NetScaler (Gateway und ADC) ausnutzen, um einen Denial of Service Angriff durchzuführen und um Sicherheitsvorkehrungen zu umgehen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2246,52 +2338,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "4fa7f3b759003c2f4e34"
-    },
-    {
-      "title": "[NEU] [mittel] CoreDNS: Schwachstelle ermöglicht Manipulation von DNS Einträgen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3198",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-07T10:59:19+00:00",
-      "fetched_at": "2026-09-07T11:19:08+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in CoreDNS ausnutzen, um DNS Einträge zu manipulieren.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "787580d968e49c050452"
-    },
-    {
-      "title": "Claudeがフェルマーの最終定理を11日で形式化、1300万行のLeanコードで初の完全な機械検証済み証明を完成",
-      "url": "https://gigazine.net/news/20260907-claude-fermat-last-theorem-formalizing/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-07T07:04:19+00:00",
-      "fetched_at": "2026-09-07T11:19:08+00:00",
-      "summary": "AI開発企業のAnthropicは2026年9月4日、AI「Claude」がフェルマーの最終定理について最初から最後までコンピューターで検証できる証明を完成させたと発表しました。Claudeは11日間にわたってほぼ自律的に作業し、証明支援システム「Lean 4」で約1300万行のコードを生成。Anthropicはフェルマーの最終定理について初の完...",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "970ae4372c32c6a49736"
+      "id": "a78d056f17d35ba01708"
     }
   ],
   "source_errors": [],
