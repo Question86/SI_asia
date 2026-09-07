@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T22:20:22+00:00",
+  "generated_at": "2026-09-07T22:29:00+00:00",
   "today_file_total": 67,
   "current_clusters": [
     {
@@ -270,29 +270,6 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "domain:japan.cnet.com",
-      "title": "新宿駅に「ゴミ箱ロボ」 混雑する構内を自走 JR東日本",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://japan.cnet.com/article/35252342/"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 15.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
       "key": "domain:www.ecb.europa.eu",
       "title": "Announcing 20260079 (MRO,liquidity providing), for 7 days deadline 09:30",
       "sources": [
@@ -464,6 +441,29 @@
       ],
       "urls": [
         "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1090/"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 13.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:multiples-vuln-rabilit-dans-noyau-linux-ubuntu-2026",
+      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (28 août 2026)",
+      "sources": [
+        "CERT-FR Avis de sécurité"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1093/"
       ],
       "finding_count": 1,
       "max_score": 11,
