@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T12:55:18+00:00",
-  "run_id": "2026-09-07T12:55:18+00:00",
+  "generated_at": "2026-09-07T13:07:35+00:00",
+  "run_id": "2026-09-07T13:07:35+00:00",
   "date": "2026-09-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 51
+      "configured_public_sources_only": 52
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 51,
-    "displayed_findings": 51,
+    "today_file_total": 52,
+    "displayed_findings": 52,
     "high": 0,
     "medium": 20,
-    "observe": 31,
+    "observe": 32,
     "source_errors": 0
   },
   "sections": {
@@ -1167,6 +1167,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "9bcbbd666bf836942695"
+      },
+      {
+        "title": "意識、consciousness、知能とAI - 山形浩生の「経済のトリセツ」",
+        "url": "https://cruel.hatenablog.com/entry/2026/09/07/174531",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-07T09:52:16+00:00",
+        "fetched_at": "2026-09-07T13:07:03+00:00",
+        "summary": "久しぶりにスタニスワフ・レム以外の話題を。 こんど訳書が出る。なかなかおもしろい本なので、是非みんな読んでほしい。いまAIが人間ヅラして会話したりするし、AIと結婚したいバカが出たりするし、遺伝子組み換えで変な人間もどきもできるし、人間とそれ以外のものの境界がだんだんあやしげになってきている。では人間...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "bfcbe608d2552dcd4c98"
       },
       {
         "title": "ローカルLLMの波、来てる。メモリ192GB搭載ミニPCが登場。MINISFORUMから",
@@ -2434,6 +2455,27 @@
       "id": "9bcbbd666bf836942695"
     },
     {
+      "title": "意識、consciousness、知能とAI - 山形浩生の「経済のトリセツ」",
+      "url": "https://cruel.hatenablog.com/entry/2026/09/07/174531",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-07T09:52:16+00:00",
+      "fetched_at": "2026-09-07T13:07:03+00:00",
+      "summary": "久しぶりにスタニスワフ・レム以外の話題を。 こんど訳書が出る。なかなかおもしろい本なので、是非みんな読んでほしい。いまAIが人間ヅラして会話したりするし、AIと結婚したいバカが出たりするし、遺伝子組み換えで変な人間もどきもできるし、人間とそれ以外のものの境界がだんだんあやしげになってきている。では人間...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bfcbe608d2552dcd4c98"
+    },
+    {
       "title": "ローカルLLMの波、来てる。メモリ192GB搭載ミニPCが登場。MINISFORUMから",
       "url": "https://pc.watch.impress.co.jp/docs/news/2138647.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2561,26 +2603,25 @@
   ],
   "new_findings": [
     {
-      "title": "英特內｜DreamMaker - 存在2個漏洞",
-      "url": "https://www.twcert.org.tw/tw/cp-132-11183-06a5e-1.html",
-      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "title": "意識、consciousness、知能とAI - 山形浩生の「経済のトリセツ」",
+      "url": "https://cruel.hatenablog.com/entry/2026/09/07/174531",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-04T09:18:00+00:00",
-      "fetched_at": "2026-09-07T12:54:48+00:00",
-      "summary": "英特內｜DreamMaker - 存在2個漏洞",
+      "published_at": "2026-09-07T09:52:16+00:00",
+      "fetched_at": "2026-09-07T13:07:03+00:00",
+      "summary": "久しぶりにスタニスワフ・レム以外の話題を。 こんど訳書が出る。なかなかおもしろい本なので、是非みんな読んでほしい。いまAIが人間ヅラして会話したりするし、AIと結婚したいバカが出たりするし、遺伝子組み換えで変な人間もどきもできるし、人間とそれ以外のものの境界がだんだんあやしげになってきている。では人間...",
       "matched_keywords": [
-        "Security",
-        "TVN",
-        "TWCERT"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "f06169dc356bcf17503a"
+      "id": "bfcbe608d2552dcd4c98"
     }
   ],
   "source_errors": [],
