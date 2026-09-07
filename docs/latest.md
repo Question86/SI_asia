@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-07T12:18:05+00:00_
+_Generiert: 2026-09-07T12:41:36+00:00_
 
 ## Kurzlage
 
-48 neue relevante Treffer. Stärkstes Signal: „openai/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+50 neue relevante Treffer. Stärkstes Signal: „openai/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -123,6 +123,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: はじめに こんにちは、morioka12 です。 本稿では、医療機関の閉域網 (Closed Network) を攻撃者の視点から読み解き、「閉域網だから安全」という神話がどこで壊れるのかを紹介します。工場や港湾の事例も、同じ壊れ方を映す鏡として扱います。 先に結論です。「閉域網だから安全」という認識は誤りといえます。 閉域網...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ITエンジニアあるある「フィクションのIT系の演出でリアリティがなくて冷める」→素晴らしいバランスを持つマンガが貼られて胃がキュッとなる** — Score 10, observation — [Quelle](https://togetter.com/li/2742721)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-07T10:29:11+00:00`, fetched `2026-09-07T12:41:03+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Tokyo (+2.0)
+  - Kurz: たか@消されたので復活 @taka_tokyo728 @_watany 既存権力を保持することに総力を賭けてるおじさんが管理職にはよくいるので、こういう人に正論は通じない。婉曲な提案をするのがベターなんだけどその無駄な労力がまたキツい。官公庁のキャリアとやりあった時はクビ覚悟でバトルしたけど誰も庇ってくれないし不毛だった…...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **新メンバーが早く馴染むチームビルディング「トリセツ会」 - Techtouch Developers Blog** — Score 10, observation — [Quelle](https://tech.techtouch.jp/entry/team-building-torisetsu-kai)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-07T00:36:00+00:00`, fetched `2026-09-07T03:07:33+00:00`
@@ -159,14 +168,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-07 02:11:51 UTC 2026-09-07 02:11:51 UTC at epicenter Location 31.122°S 178.645°E Depth 585.92 km (364.07 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Claudeがフェルマーの最終定理を11日で形式化、1300万行のLeanコードで初の完全な機械検証済み証明を完成** — Score 8, observation — [Quelle](https://gigazine.net/news/20260907-claude-fermat-last-theorem-formalizing/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-07T07:04:19+00:00`, fetched `2026-09-07T11:19:08+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
+- **MikroTrick: RouterOS-Lücken werden aktiv ausgenutzt – jetzt patchen** — Score 7, observation — [Quelle](https://www.heise.de/news/MikroTrick-RouterOS-Luecken-werden-aktiv-ausgenutzt-jetzt-patchen-11443474.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-09-07T12:10:00.000+00:00`, fetched `2026-09-07T12:41:03+00:00`
+  - Treffer: Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: AI開発企業のAnthropicは2026年9月4日、AI「Claude」がフェルマーの最終定理について最初から最後までコンピューターで検証できる証明を完成させたと発表しました。Claudeは11日間にわたってほぼ自律的に作業し、証明支援システム「Lean 4」で約1300万行のコードを生成。Anthropicはフェルマーの最終定理について初の完...
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: CERT Polska warnt vor aktiv ausgenutzten Lücken in MikroTik RouterOS. Über SSH lassen sich Router ohne Zugangsdaten komplett übernehmen. Update dringend nötig.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **令和8年熊本地震に関する対応状況について（9月7日）** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/4d10e390-4a0b-44f9-90c6-67c2b00537b0)
   - Quelle: Japan Digital Agency News RSS / `rss`
