@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-07T17:38:29+00:00_
+_Generiert: 2026-09-07T17:45:43+00:00_
 
 ## Kurzlage
 
-63 neue relevante Treffer. Stärkstes Signal: „Zero-Day-Lücke StyleSmuggler in Magento und Adobe Commerce wird aktiv ausgenutzt“ aus heise Security Alerts (Score 24, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+63 neue relevante Treffer. Stärkstes Signal: „Zero-Day-Lücke StyleSmuggler in Magento und Adobe Commerce wird aktiv ausgenutzt“ aus heise Security Alerts (Score 24, risk).
 
 ## Priorität Hoch
 
@@ -240,7 +240,3 @@ _Generiert: 2026-09-07T17:38:29+00:00_
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7fdf117ae2d0>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))
