@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T05:58:55+00:00",
-  "run_id": "2026-09-07T05:58:55+00:00",
+  "generated_at": "2026-09-07T06:44:11+00:00",
+  "run_id": "2026-09-07T06:44:11+00:00",
   "date": "2026-09-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 22
+      "configured_public_sources_only": 26
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 22,
-    "displayed_findings": 22,
+    "new_relevant_findings": 4,
+    "today_file_total": 26,
+    "displayed_findings": 26,
     "high": 0,
-    "medium": 5,
-    "observe": 17,
+    "medium": 6,
+    "observe": 20,
     "source_errors": 0
   },
   "sections": {
@@ -99,6 +99,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "000308ca2b2cc18a179e"
+      },
+      {
+        "title": "[UPDATE] [hoch] Snipe-IT: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2420",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-07T06:39:53+00:00",
+        "fetched_at": "2026-09-07T06:43:39+00:00",
+        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Snipe-IT ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a25f01bf63b8a7c783b4"
       },
       {
         "title": "[UPDATE] [hoch] Netgate pfSense Plus und CE: Mehrere Schwachstellen",
@@ -193,6 +216,44 @@
       }
     ],
     "observe": [
+      {
+        "title": "M 5.5 - southeast of the Loyalty Islands",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teu1",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-09-07T06:18:50.143+00:00",
+        "fetched_at": "2026-09-07T06:43:39+00:00",
+        "summary": "PAGER - GREEN ShakeMap - I Time 2026-09-07 05:50:44 UTC 2026-09-07 05:50:44 UTC at epicenter Location 23.419°S 171.677°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "PAGER",
+          "ShakeMap",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "d12ef12222bbd51558fc"
+      },
       {
         "title": "AI has answers, experience has judgment",
         "url": "https://e27.co/ai-has-answers-experience-has-judgment-20260821/",
@@ -575,6 +636,46 @@
         "id": "7abbc4567149f2aa33b4"
       },
       {
+        "title": "川崎デジタル大臣政務官がデンマーク王国を訪問しました",
+        "url": "https://www.digital.go.jp/news/94b4ea71-a198-4d78-b0a4-6322ed7bfeee",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-09-07T06:00:00+00:00",
+        "fetched_at": "2026-09-07T06:43:39+00:00",
+        "summary": "川崎デジタル大臣政務官がデンマーク王国を訪問しました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "20a6f3c4daccf1c5a794"
+      },
+      {
+        "title": "ジョージアとデジタル分野における協力覚書を取り交わしました",
+        "url": "https://www.digital.go.jp/news/3da015e6-8d5c-494c-996c-d7a911f51fdb",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-09-07T06:00:00+00:00",
+        "fetched_at": "2026-09-07T06:43:39+00:00",
+        "summary": "ジョージアとデジタル分野における協力覚書を取り交わしました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b49d33660303731fc16d"
+      },
+      {
         "title": "How HKSTP’s quarter-century journey offers insights for Asia’s innovation ecosystems",
         "url": "https://e27.co/how-hkstps-quarter-century-journey-offers-insights-for-asias-innovation-ecosystems-20260907/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -711,6 +812,29 @@
       "id": "000308ca2b2cc18a179e"
     },
     {
+      "title": "[UPDATE] [hoch] Snipe-IT: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2420",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-07T06:39:53+00:00",
+      "fetched_at": "2026-09-07T06:43:39+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Snipe-IT ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a25f01bf63b8a7c783b4"
+    },
+    {
       "title": "[UPDATE] [hoch] Netgate pfSense Plus und CE: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0961",
       "source": "BSI CERT-Bund Security Advisories",
@@ -800,6 +924,44 @@
         "TEAM"
       ],
       "id": "dc7bbf6bc3dcdab6b953"
+    },
+    {
+      "title": "M 5.5 - southeast of the Loyalty Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teu1",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-07T06:18:50.143+00:00",
+      "fetched_at": "2026-09-07T06:43:39+00:00",
+      "summary": "PAGER - GREEN ShakeMap - I Time 2026-09-07 05:50:44 UTC 2026-09-07 05:50:44 UTC at epicenter Location 23.419°S 171.677°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "d12ef12222bbd51558fc"
     },
     {
       "title": "AI has answers, experience has judgment",
@@ -1183,6 +1345,46 @@
       "id": "7abbc4567149f2aa33b4"
     },
     {
+      "title": "川崎デジタル大臣政務官がデンマーク王国を訪問しました",
+      "url": "https://www.digital.go.jp/news/94b4ea71-a198-4d78-b0a4-6322ed7bfeee",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-07T06:00:00+00:00",
+      "fetched_at": "2026-09-07T06:43:39+00:00",
+      "summary": "川崎デジタル大臣政務官がデンマーク王国を訪問しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "20a6f3c4daccf1c5a794"
+    },
+    {
+      "title": "ジョージアとデジタル分野における協力覚書を取り交わしました",
+      "url": "https://www.digital.go.jp/news/3da015e6-8d5c-494c-996c-d7a911f51fdb",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-07T06:00:00+00:00",
+      "fetched_at": "2026-09-07T06:43:39+00:00",
+      "summary": "ジョージアとデジタル分野における協力覚書を取り交わしました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b49d33660303731fc16d"
+    },
+    {
       "title": "How HKSTP’s quarter-century journey offers insights for Asia’s innovation ecosystems",
       "url": "https://e27.co/how-hkstps-quarter-century-journey-offers-insights-for-asias-innovation-ecosystems-20260907/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -1247,98 +1449,105 @@
   ],
   "new_findings": [
     {
-      "title": "openai/skills",
-      "url": "https://github.com/openai/skills",
-      "source": "GitHub Trending RSS All Languages Daily",
+      "title": "[UPDATE] [hoch] Snipe-IT: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2420",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-09-07T05:58:25+00:00",
-      "summary": "Skills Catalog for Codex Important This repository is deprecated. For current Codex skill and plugin examples, use the OpenAI Plugins repository . If you want to add your own skills to Codex, follow the Build plugins guide, which includes instructions for creating a skill-only plugin. Agent Skills Agent Skills are folders of instructions, scripts, and resources that AI agents can discover and use to perform at speci…",
+      "published_at": "2026-09-07T06:39:53+00:00",
+      "fetched_at": "2026-09-07T06:43:39+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Snipe-IT ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
       "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "APAC Trend Radar",
-        "Content-Chance",
-        "GitHub Trending",
-        "OpenAI",
-        "Watchgraph:ai_agents_workflow"
-      ],
-      "relevance_score": 23,
-      "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); AI Agents (+6.2); APAC Trend Radar (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: AI agents, Codex"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "2440b9913ae5937f35a7"
-    },
-    {
-      "title": "anomalyco/opencode",
-      "url": "https://github.com/anomalyco/opencode",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-09-07T05:58:25+00:00",
-      "summary": "The open source coding agent. https://opencode.ai The open source AI coding agent. English | 简体中文 | 繁體中文 | 한국어 | Deutsch | Español | Français | Italiano | Dansk | 日本語 | Polski | Русский | Bosanski | العربية | Norsk | Português (Brasil) | ไทย | Türkçe | Українська | বাংলা | Ελληνικά | Tiếng Việt Installation # YOLO curl -fsSL https://opencode.ai/install | bash # Package managers npm i -g opencode-ai@latest # or bun/p…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "GitHub Trending",
-        "Open Source",
-        "Watchgraph:software_supply_chain"
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
       ],
       "relevance_score": 14,
-      "relevance_reason": "AI/KI (+3.0); Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules software_supply_chain (+3.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a25f01bf63b8a7c783b4"
+    },
+    {
+      "title": "M 5.5 - southeast of the Loyalty Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teu1",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-07T06:18:50.143+00:00",
+      "fetched_at": "2026-09-07T06:43:39+00:00",
+      "summary": "PAGER - GREEN ShakeMap - I Time 2026-09-07 05:50:44 UTC 2026-09-07 05:50:44 UTC at epicenter Location 23.419°S 171.677°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "PAGER",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
-        "software_supply_chain"
+        "earthquakes_tsunami"
       ],
       "watchgraph_reasons": [
-        "software_supply_chain: npm"
+        "earthquakes_tsunami: earthquake, PAGER, ShakeMap"
       ],
       "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "CRWD",
-        "PANW",
-        "FTNT",
-        "ZS",
-        "OKTA",
-        "NET",
-        "S",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM"
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
       ],
-      "id": "dc7bbf6bc3dcdab6b953"
+      "id": "d12ef12222bbd51558fc"
+    },
+    {
+      "title": "川崎デジタル大臣政務官がデンマーク王国を訪問しました",
+      "url": "https://www.digital.go.jp/news/94b4ea71-a198-4d78-b0a4-6322ed7bfeee",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-07T06:00:00+00:00",
+      "fetched_at": "2026-09-07T06:43:39+00:00",
+      "summary": "川崎デジタル大臣政務官がデンマーク王国を訪問しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "20a6f3c4daccf1c5a794"
+    },
+    {
+      "title": "ジョージアとデジタル分野における協力覚書を取り交わしました",
+      "url": "https://www.digital.go.jp/news/3da015e6-8d5c-494c-996c-d7a911f51fdb",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-07T06:00:00+00:00",
+      "fetched_at": "2026-09-07T06:43:39+00:00",
+      "summary": "ジョージアとデジタル分野における協力覚書を取り交わしました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b49d33660303731fc16d"
     }
   ],
   "source_errors": [],

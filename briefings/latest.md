@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-07T05:58:55+00:00_
+_Generiert: 2026-09-07T06:44:11+00:00_
 
 ## Kurzlage
 
-22 neue relevante Treffer. Stärkstes Signal: „openai/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+26 neue relevante Treffer. Stärkstes Signal: „openai/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -53,6 +53,10 @@ _Generiert: 2026-09-07T05:58:55+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone TWENTYTHREE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+- **USGS earthquake M5.5 - southeast of the Loyalty Islands** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000teu1)
+  - Quelle: USGS
+  - Zeit: `2026-09-07T05:50:44+00:00`
+  - Kurz: M5.5 - southeast of the Loyalty Islands. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
@@ -87,6 +91,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0); watchgraph region china_credible_only: China (+2.0)
   - Kurz: Remember the massive technology and business wave around “mobile”? The extension both for technology and the business to include the mobile capability and experience was huge. And remember the two early, dominant players? Nokia and Blackberry. And then what happened? Nokia’s OS was Symbian. Horrible to work with, and the Software Development Kit (SDK) seemed […] The post The ecosystem map: How to stay agile in the U…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [hoch] Snipe-IT: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2420)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-09-07T06:39:53+00:00`, fetched `2026-09-07T06:43:39+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Snipe-IT ausnutzen, um Sicherheitsvorkehrungen zu umgehen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [hoch] Netgate pfSense Plus und CE: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0961)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-09-07T05:19:18+00:00`, fetched `2026-09-07T05:21:46+00:00`
@@ -117,6 +130,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 5.5 - southeast of the Loyalty Islands** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000teu1)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-07T06:18:50.143+00:00`, fetched `2026-09-07T06:43:39+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - I Time 2026-09-07 05:50:44 UTC 2026-09-07 05:50:44 UTC at epicenter Location 23.419°S 171.677°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **AI has answers, experience has judgment** — Score 13, observation — [Quelle](https://e27.co/ai-has-answers-experience-has-judgment-20260821/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-07T01:15:55+00:00`, fetched `2026-09-07T01:40:21+00:00`
@@ -180,15 +202,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-07 02:11:51 UTC 2026-09-07 02:11:51 UTC at epicenter Location 31.122°S 178.645°E Depth 585.92 km (364.07 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.0 - Kermadec Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000test)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-07T02:24:04.040+00:00`, fetched `2026-09-07T02:30:12+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-07 02:06:48 UTC 2026-09-07 02:06:48 UTC at epicenter Location 30.966°S 178.544°E Depth 585.15 km (363.59 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **川崎デジタル大臣政務官がデンマーク王国を訪問しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/94b4ea71-a198-4d78-b0a4-6322ed7bfeee)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-09-07T06:00:00+00:00`, fetched `2026-09-07T06:43:39+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 川崎デジタル大臣政務官がデンマーク王国を訪問しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ジョージアとデジタル分野における協力覚書を取り交わしました** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/3da015e6-8d5c-494c-996c-d7a911f51fdb)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-09-07T06:00:00+00:00`, fetched `2026-09-07T06:43:39+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: ジョージアとデジタル分野における協力覚書を取り交わしました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **米ロボタクシー、「いきなりブレーキ」でむち打ち続出 | 自動運転ラボ** — Score 5, observation — [Quelle](https://jidounten-lab.com/u_67445)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-07T00:31:11+00:00`, fetched `2026-09-07T05:21:46+00:00`
