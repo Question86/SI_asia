@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-07T03:41:55Z_
+_Generated: 2026-09-07T03:51:34Z_
 
 ## Lageurteil
 
@@ -12,10 +12,10 @@ Stärkste Dynamik nach Gate-Recheck: “Taiwan’s startup talent problem is a m
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-07T03:08:05+00:00` / age_days `0.02`
+- Published: `2026-09-07T03:08:05+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +1, early terms: shortage, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
+- Warum: momentum delta +2, early terms: shortage, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
 - Quelle: https://e27.co/taiwans-startup-talent-problem-is-a-matching-problem-not-a-shortage-20260906/
 
 ### 攻撃者視点で読み解く、医療機関の「閉域網神話」の壊れ方 - blog of morioka12
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “Taiwan’s startup talent problem is a m
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-07T03:00:17+00:00` / age_days `0.03`
+- Published: `2026-09-07T03:00:17+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: early terms: shortage, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -42,11 +42,21 @@ Stärkste Dynamik nach Gate-Recheck: “Taiwan’s startup talent problem is a m
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.0`
-- Published: `2026-09-07T00:31:05+00:00` / age_days `0.13`
+- Published: `2026-09-07T00:31:05+00:00` / age_days `0.14`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://kanautech.jp/blog/ai-shutsuryoku-html-vs-markdown-kakumei
+
+### 攻撃者視点で読み解く、医療機関の「閉域網神話」の壊れ方 - blog of morioka12
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `17.5`
+- Published: `2026-09-07T03:08:05+00:00` / age_days `0.03`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +2
+- Quelle: https://scgajge12.hatenablog.com/entry/closed_network_security
 
 ### The ecosystem map: How to stay agile in the US-China AI battle
 
@@ -62,11 +72,21 @@ Stärkste Dynamik nach Gate-Recheck: “Taiwan’s startup talent problem is a m
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-07T02:30:48+00:00` / age_days `0.05`
+- Published: `2026-09-07T02:30:48+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
 - Quelle: https://e27.co/malaysias-digital-economys-second-wave-looks-nothing-like-the-first-20260906/
+
+### 新メンバーが早く馴染むチームビルディング「トリセツ会」 - Techtouch Developers Blog
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `16.5`
+- Published: `2026-09-07T03:08:05+00:00` / age_days `0.03`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +2
+- Quelle: https://tech.techtouch.jp/entry/team-building-torisetsu-kai
 
 ### M 4.9 - Kermadec Islands region
 
@@ -82,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “Taiwan’s startup talent problem is a m
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.5`
-- Published: `2026-09-07T02:30:48+00:00` / age_days `0.05`
+- Published: `2026-09-07T02:30:48+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -92,40 +112,20 @@ Stärkste Dynamik nach Gate-Recheck: “Taiwan’s startup talent problem is a m
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.5`
-- Published: `2026-09-07T01:40:57+00:00` / age_days `0.08`
+- Published: `2026-09-07T01:40:57+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/attkz06l
 
-### 攻撃者視点で読み解く、医療機関の「閉域網神話」の壊れ方 - blog of morioka12
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `15.0`
-- Published: `2026-09-07T03:08:05+00:00` / age_days `0.02`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1
-- Quelle: https://scgajge12.hatenablog.com/entry/closed_network_security
-
 ### AI has answers, experience has judgment
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-09-07T01:40:57+00:00` / age_days `0.08`
+- Published: `2026-09-07T01:40:57+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://e27.co/ai-has-answers-experience-has-judgment-20260821/
-
-### The real test of ethical AI is whether a frontline employee can challenge it
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `14.0`
-- Published: `2026-09-07T01:13:29+00:00` / age_days `0.1`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://e27.co/the-real-test-of-ethical-ai-is-whether-a-frontline-employee-can-challenge-it-20260809/
 
 END OF DOCUMENT
