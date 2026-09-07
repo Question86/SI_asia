@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-07T01:13:46+00:00",
+  "generated_at": "2026-09-07T01:41:14+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1762,6 +1762,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_ef06b8ae289bd29fd302",
+      "title": "M 4.6 - off the coast of Oregon",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-07T01:40:57+00:00",
+      "last_seen_at": "2026-09-07T01:40:57+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -2693,7 +2710,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-07T00:31:05+00:00",
-      "last_seen_at": "2026-09-07T01:13:29+00:00",
+      "last_seen_at": "2026-09-07T01:40:57+00:00",
       "status": "active"
     },
     {
@@ -2799,6 +2816,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_87b93cd4931e84915328",
+      "title": "The real test of ethical AI is whether a frontline employee can challenge it",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 114400.0,
+      "p50_usd": 11440000.0,
+      "p90_usd": 1144000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-07T01:13:29+00:00",
+      "last_seen_at": "2026-09-07T01:40:57+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_d2b65476ddd51aa30af6",
       "title": "AIに丸投げしないで理解するためのAI開発手法（2026年8月現在）",
       "event_classes": [
@@ -2816,8 +2850,8 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_87b93cd4931e84915328",
-      "title": "The real test of ethical AI is whether a frontline employee can challenge it",
+      "event_id": "evt_c3fbeaa47a7d488a9d43",
+      "title": "AI has answers, experience has judgment",
       "event_classes": [
         "unknown"
       ],
@@ -2828,8 +2862,8 @@
       "p50_usd": 11440000.0,
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
-      "first_seen_at": "2026-09-07T01:13:29+00:00",
-      "last_seen_at": "2026-09-07T01:13:29+00:00",
+      "first_seen_at": "2026-09-07T01:40:57+00:00",
+      "last_seen_at": "2026-09-07T01:40:57+00:00",
       "status": "active"
     },
     {
