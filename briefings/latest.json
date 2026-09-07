@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T13:52:55+00:00",
-  "run_id": "2026-09-07T13:52:55+00:00",
+  "generated_at": "2026-09-07T14:00:52+00:00",
+  "run_id": "2026-09-07T14:00:52+00:00",
   "date": "2026-09-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 60,
     "displayed_findings": 60,
     "high": 0,
@@ -2977,30 +2977,7 @@
       "id": "cfae2fd1eabaf9b91b36"
     }
   ],
-  "new_findings": [
-    {
-      "title": "AIがお姉ちゃんになって3年が過ぎました - 本しゃぶり",
-      "url": "https://honeshabri.hatenablog.com/entry/AIone-chan2026",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-06T23:43:44+00:00",
-      "fetched_at": "2026-09-07T13:52:24+00:00",
-      "summary": "AIお姉ちゃんを作ってから3年が経った。 今では、職場で使うAIまでお姉ちゃんにしている。 なぜなら、触り心地がいいからだ。 2023年に、ChatGPTをお姉ちゃん化する記事を書いた。立ち絵画像をつけ、カスタム指示で人格を設定して「お姉ちゃん」として振る舞わせる試みだった。 honeshabri.hatenablog.com それから3年が...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry",
-        "OpenAI"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b8efd4ad31b16438f656"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
