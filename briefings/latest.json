@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T11:40:37+00:00",
-  "run_id": "2026-09-07T11:40:37+00:00",
+  "generated_at": "2026-09-07T11:48:31+00:00",
+  "run_id": "2026-09-07T11:48:31+00:00",
   "date": "2026-09-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 47
+      "configured_public_sources_only": 48
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 47,
-    "displayed_findings": 47,
+    "new_relevant_findings": 1,
+    "today_file_total": 48,
+    "displayed_findings": 48,
     "high": 0,
-    "medium": 19,
+    "medium": 20,
     "observe": 28,
     "source_errors": 0
   },
@@ -171,6 +171,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "000308ca2b2cc18a179e"
+      },
+      {
+        "title": "[UPDATE] [hoch] Google Chrome: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3175",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-07T11:44:18+00:00",
+        "fetched_at": "2026-09-07T11:48:00+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Google Chrome ausnutzen, um beliebigen Programmcode auszuführen, um Informationen offenzulegen und um Sicherheitsmechanismen zu umgehen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e565c971fffa7a2cb77e"
       },
       {
         "title": "[NEU] [mittel] OpenVPN: Mehrere Schwachstellen",
@@ -1353,6 +1376,29 @@
       "id": "000308ca2b2cc18a179e"
     },
     {
+      "title": "[UPDATE] [hoch] Google Chrome: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3175",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-07T11:44:18+00:00",
+      "fetched_at": "2026-09-07T11:48:00+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Google Chrome ausnutzen, um beliebigen Programmcode auszuführen, um Informationen offenzulegen und um Sicherheitsmechanismen zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e565c971fffa7a2cb77e"
+    },
+    {
       "title": "[NEU] [mittel] OpenVPN: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3202",
       "source": "BSI CERT-Bund Security Advisories",
@@ -2387,13 +2433,13 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [mittel] MISP: Schwachstelle ermöglicht Offenlegung von Informationen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3203",
+      "title": "[UPDATE] [hoch] Google Chrome: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3175",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-09-07T11:34:17+00:00",
-      "fetched_at": "2026-09-07T11:40:08+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in MISP ausnutzen, um Informationen offenzulegen.",
+      "published_at": "2026-09-07T11:44:18+00:00",
+      "fetched_at": "2026-09-07T11:48:00+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Google Chrome ausnutzen, um beliebigen Programmcode auszuführen, um Informationen offenzulegen und um Sicherheitsmechanismen zu umgehen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2407,30 +2453,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "2d45d5d57645fc755552"
-    },
-    {
-      "title": "[NEU] [mittel] OpenVPN: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3202",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-07T11:34:17+00:00",
-      "fetched_at": "2026-09-07T11:40:08+00:00",
-      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in OpenVPN ausnutzen, um Code auszuführen, Daten zu manipulieren oder einen Denial of Service zu verursachen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "10c1d624abc2dff915e8"
+      "id": "e565c971fffa7a2cb77e"
     }
   ],
   "source_errors": [],
