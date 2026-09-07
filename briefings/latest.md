@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-07T21:39:50+00:00_
+_Generiert: 2026-09-07T21:47:33+00:00_
 
 ## Kurzlage
 
-65 neue relevante Treffer. Stärkstes Signal: „Zero-Day-Lücke StyleSmuggler in Magento und Adobe Commerce wird aktiv ausgenutzt“ aus heise Security Alerts (Score 24, risk).
+66 neue relevante Treffer. Stärkstes Signal: „Zero-Day-Lücke StyleSmuggler in Magento und Adobe Commerce wird aktiv ausgenutzt“ aus heise Security Alerts (Score 24, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -171,6 +171,15 @@ _Generiert: 2026-09-07T21:39:50+00:00_
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0)
   - Kurz: A great deal of ethical AI discussion still happens at a distance from the people who live with the system every day. It happens in governance forums, legal reviews, executive updates, risk committees, and product documents. All of that has value, but none of it answers the most revealing question. When the system makes a […] The post The real test of ethical AI is whether a frontline employee can challenge it appea…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **AIセキュリティ短信 | 社会・産業のデジタル変革 | IPA 独立行政法人 情報処理推進機構** — Score 13, observation — [Quelle](https://www.ipa.go.jp/digital/ai/security/ai-security-bulletin.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-07-06T09:17:22+00:00`, fetched `2026-09-07T21:46:43+00:00`
+  - Treffer: AI/KI, Hatena, hotentry, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Security (+6.0); Hatena (+2.0); hotentry (+2.0)
+  - Kurz: 概要 日々発信されているAIに関する膨大な国内外の公開情報から、AIセキュリティの観点でトレンドや事例を紹介しています。 特に、AIシステム開発者やセキュリティ担当者の方が、日々の業務を行う中で是非知っておいてほしい動向や注意してほしいインシデント事例に絞って紹介しています。 AIセキュリティ短信一覧 なお...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Announcing 20260079 (MRO,liquidity providing), for 7 days deadline 09:30** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260079.en.html)
   - Quelle: ECB Open Market Operations and Communication / `rss`
   - Zeit: published `2026-09-07T14:40:23+00:00`, fetched `2026-09-07T13:44:57+00:00`
@@ -206,15 +215,6 @@ _Generiert: 2026-09-07T21:39:50+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: AIお姉ちゃんを作ってから3年が経った。 今では、職場で使うAIまでお姉ちゃんにしている。 なぜなら、触り心地がいいからだ。 2023年に、ChatGPTをお姉ちゃん化する記事を書いた。立ち絵画像をつけ、カスタム指示で人格を設定して「お姉ちゃん」として振る舞わせる試みだった。 honeshabri.hatenablog.com それから3年が...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **攻撃者視点で読み解く、医療機関の「閉域網神話」の壊れ方 - blog of morioka12** — Score 11, observation — [Quelle](https://scgajge12.hatenablog.com/entry/closed_network_security)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-06T09:34:08+00:00`, fetched `2026-09-07T03:07:33+00:00`
-  - Treffer: Hatena, hotentry, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: はじめに こんにちは、morioka12 です。 本稿では、医療機関の閉域網 (Closed Network) を攻撃者の視点から読み解き、「閉域網だから安全」という神話がどこで壊れるのかを紹介します。工場や港湾の事例も、同じ壊れ方を映す鏡として扱います。 先に結論です。「閉域網だから安全」という認識は誤りといえます。 閉域網...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Multiples vulnérabilités dans le noyau Linux de SUSE (28 août 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1091/)
   - Quelle: CERT-FR Avis de sécurité / `rss`
@@ -289,3 +289,7 @@ _Generiert: 2026-09-07T21:39:50+00:00_
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `bsi_cert_bund_csw` (rss): HTTPSConnectionPool(host='www.bsi.bund.de', port=443): Read timed out.
