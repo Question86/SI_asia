@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-07T12:41:36+00:00_
+_Generiert: 2026-09-07T12:55:18+00:00_
 
 ## Kurzlage
 
-50 neue relevante Treffer. Stärkstes Signal: „openai/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+51 neue relevante Treffer. Stärkstes Signal: „openai/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,8 +29,34 @@ _Generiert: 2026-09-07T12:41:36+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-02`
   - Kurz: Known exploited vulnerability. Added 2026-09-02. Due 2026-09-05. JFrog Artifactory Improper Authentication Vulnerability
-
-- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7fce5ff1d090>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in New Caledonia 07/09/2026 05:50 UTC, Few people affected in MMI&gt;=-.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1564048)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in New Caledonia 07/09/2026 05:50 UTC, Few people affected in MMI&gt;=-.
+- **GDACS: Green earthquake (Magnitude 5.6M, Depth:38.543km) in Solomon Islands 06/09/2026 04:05 UTC, 4 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563876)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.6M, Depth:38.543km) in Solomon Islands 06/09/2026 04:05 UTC, 4 thousand in MMI IV.
+- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Vanuatu 05/09/2026 17:02 UTC, 8 thousand in MMI&gt;=-.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563804)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Vanuatu 05/09/2026 17:02 UTC, 8 thousand in MMI&gt;=-.
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:114.364km) in Papua New Guinea 05/09/2026 14:12 UTC, 290 thousand in MMI III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563786)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:114.364km) in Papua New Guinea 05/09/2026 14:12 UTC, 290 thousand in MMI III.
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:32km) in Russia 04/09/2026 23:52 UTC, 3 thousand in MMI III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563697)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:32km) in Russia 04/09/2026 23:52 UTC, 3 thousand in MMI III.
+- **GDACS: Volcanic eruption is on going for Krakatau in Indonesia** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000148)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Volcanic eruption is on going for Krakatau in Indonesia
+- **GDACS: Green notification for tropical cyclone TWENTYTHREE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001319)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green notification for tropical cyclone TWENTYTHREE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 
 ## Wirtschaft global
 
@@ -185,6 +211,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)
   - Kurz: OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **英特內｜DreamMaker - 存在2個漏洞** — Score 10, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-11183-06a5e-1.html)
+  - Quelle: TWCERT/CC TVN Vulnerability Notes RSS / `rss`
+  - Zeit: published `2026-09-04T09:18:00+00:00`, fetched `2026-09-07T12:54:48+00:00`
+  - Treffer: Security, TVN, TWCERT
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); TWCERT (+2.0); TVN (+2.0)
+  - Kurz: 英特內｜DreamMaker - 存在2個漏洞
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.7 - Kermadec Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tet6)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-07T02:57:16.040+00:00`, fetched `2026-09-07T03:07:33+00:00`

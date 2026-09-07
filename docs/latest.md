@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-07T12:41:36+00:00_
+_Generiert: 2026-09-07T12:55:18+00:00_
 
 ## Kurzlage
 
-50 neue relevante Treffer. Stärkstes Signal: „openai/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+51 neue relevante Treffer. Stärkstes Signal: „openai/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -150,6 +150,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)
   - Kurz: OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **英特內｜DreamMaker - 存在2個漏洞** — Score 10, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-11183-06a5e-1.html)
+  - Quelle: TWCERT/CC TVN Vulnerability Notes RSS / `rss`
+  - Zeit: published `2026-09-04T09:18:00+00:00`, fetched `2026-09-07T12:54:48+00:00`
+  - Treffer: Security, TVN, TWCERT
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); TWCERT (+2.0); TVN (+2.0)
+  - Kurz: 英特內｜DreamMaker - 存在2個漏洞
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.7 - Kermadec Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tet6)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-07T02:57:16.040+00:00`, fetched `2026-09-07T03:07:33+00:00`
