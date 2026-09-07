@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-07T05:43:52+00:00_
+_Generiert: 2026-09-07T05:58:55+00:00_
 
 ## Kurzlage
 
-20 neue relevante Treffer. Stärkstes Signal: „The ecosystem map: How to stay agile in the US-China AI battle“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
+22 neue relevante Treffer. Stärkstes Signal: „openai/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -69,6 +69,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **openai/skills** — Score 23, opportunity — [Quelle](https://github.com/openai/skills)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-09-07T05:58:25+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar, Content-Chance, GitHub Trending, OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); AI Agents (+6.2); APAC Trend Radar (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
+  - Kurz: Skills Catalog for Codex Important This repository is deprecated. For current Codex skill and plugin examples, use the OpenAI Plugins repository . If you want to add your own skills to Codex, follow the Build plugins guide, which includes instructions for creating a skill-only plugin. Agent Skills Agent Skills are folders of instructions, scripts, and resources that AI agents can discover and use to perform at speci…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **The ecosystem map: How to stay agile in the US-China AI battle** — Score 16, observation — [Quelle](https://e27.co/the-ecosystem-map-how-to-stay-agile-in-the-us-china-ai-battle-20260906/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-07T02:30:51+00:00`, fetched `2026-09-07T02:46:52+00:00`
@@ -96,6 +105,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Anthropic Claude Codeチーム Thariq Shihipar 投稿（2026/5/8、X累計1,240万閲覧） イントロ：AIが書く文書、誰がどう読むか 2026年5月、Anthropic で Claude Code を開発する Thariq Shihipar 氏が「Markdownの時代は終わった。AIにはHTMLを書かせよ」という主旨の投稿を公開しました。投稿は1週間で1,240万閲覧・16,4...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **anomalyco/opencode** — Score 14, opportunity — [Quelle](https://github.com/anomalyco/opencode)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-09-07T05:58:25+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, GitHub Trending, Open Source, Watchgraph:software_supply_chain
+  - Watchgraph: software_supply_chain
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: AI/KI (+3.0); Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules software_supply_chain (+3.0)
+  - Kurz: The open source coding agent. https://opencode.ai The open source AI coding agent. English | 简体中文 | 繁體中文 | 한국어 | Deutsch | Español | Français | Italiano | Dansk | 日本語 | Polski | Русский | Bosanski | العربية | Norsk | Português (Brasil) | ไทย | Türkçe | Українська | বাংলা | Ελληνικά | Tiếng Việt Installation # YOLO curl -fsSL https://opencode.ai/install | bash # Package managers npm i -g opencode-ai@latest # or bun/p…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Nur beobachten
 
@@ -183,6 +201,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
+- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
