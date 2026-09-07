@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T11:48:34+00:00",
+  "generated_at": "2026-09-07T11:56:18+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 48,
@@ -10,49 +10,6 @@
     "dominance_penalized": 5
   },
   "clusters": [
-    {
-      "key": "domain:wid.cert-bund.de",
-      "title": "[UPDATE] [mittel] libssh2: Schwachstelle ermöglicht Denial of Service",
-      "sources": [
-        "BSI CERT-Bund Security Advisories"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1332",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2382",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2119",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3175",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3202",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3203"
-      ],
-      "finding_count": 16,
-      "max_score": 17,
-      "credibility_total": 16.8,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 26.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 53.6,
-      "ranking_score": 26.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 5.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-08-28T14:08:37+00:00"
-    },
     {
       "key": "github_repo:openai/skills",
       "title": "openai/skills",
@@ -92,6 +49,49 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-07T05:59:00+00:00"
+    },
+    {
+      "key": "domain:wid.cert-bund.de",
+      "title": "[UPDATE] [mittel] libssh2: Schwachstelle ermöglicht Denial of Service",
+      "sources": [
+        "BSI CERT-Bund Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1332",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2382",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2119",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3175",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3202",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3203"
+      ],
+      "finding_count": 16,
+      "max_score": 17,
+      "credibility_total": 16.8,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 23.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 50.6,
+      "ranking_score": 23.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 5.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-28T14:08:37+00:00"
     },
     {
       "key": "title:ecosystem-map-stay-agile-china-battle",
@@ -1293,7 +1293,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-07T11:48:35Z",
+    "generated_at": "2026-09-07T11:56:18Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
