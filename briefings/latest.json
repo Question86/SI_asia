@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T03:29:43+00:00",
-  "run_id": "2026-09-07T03:29:43+00:00",
+  "generated_at": "2026-09-07T03:46:56+00:00",
+  "run_id": "2026-09-07T03:46:56+00:00",
   "date": "2026-09-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 14,
     "displayed_findings": 14,
     "high": 0,
@@ -757,49 +757,7 @@
       "id": "4d0f6f68357b953bd8b1"
     }
   ],
-  "new_findings": [
-    {
-      "title": "How HKSTP’s quarter-century journey offers insights for Asia’s innovation ecosystems",
-      "url": "https://e27.co/how-hkstps-quarter-century-journey-offers-insights-for-asias-innovation-ecosystems-20260907/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-07T03:25:12+00:00",
-      "fetched_at": "2026-09-07T03:29:13+00:00",
-      "summary": "The piece that only Hong Kong can fit In technology, 25 years is long enough for entire industries to rise, collapse and be rebuilt. When the HKSAR Government backed the creation of Hong Kong Science and Technology Parks Corporation (HKSTP) in 2001, the decision reflected remarkable foresight. The city was navigating the aftermath of the […] The post How HKSTP’s quarter-century journey offers insights for Asia’s inn…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9bcbbd666bf836942695"
-    },
-    {
-      "title": "ついにAIキャラクターと“ビデオチャット”へ 「MiniMax H3」がリアルタイム生成に接近 (1/5)",
-      "url": "https://ascii.jp/elem/000/004/432/4432622/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-06T23:19:08+00:00",
-      "fetched_at": "2026-09-07T03:29:13+00:00",
-      "summary": "動画モデル「MiniMax H3」のウェイトの公開後も、コミュニティのアップデートが止まりません。ついにリアルタイムに近い動画生成まで実現可能になってきました。生成時間の短さを利用した会話ゲームや無限に生成する仕組みをローカルPCでも実現する環境が登場。さらなる高速化技法も登場し、動画AIの再定義が進みつつあ...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4d0f6f68357b953bd8b1"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
