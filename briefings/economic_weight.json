@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-07T02:47:42+00:00",
+  "generated_at": "2026-09-07T02:55:18+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1401,7 +1401,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-07T02:30:48+00:00",
-      "last_seen_at": "2026-09-07T02:47:25+00:00",
+      "last_seen_at": "2026-09-07T02:55:04+00:00",
       "status": "active"
     },
     {
@@ -1539,6 +1539,23 @@
       "first_seen_at": "2026-09-06T00:22:21+00:00",
       "last_seen_at": "2026-09-06T23:56:14+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_abfe7131a9333ffda7d9",
+      "title": "M 4.9 - Kermadec Islands region",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-07T02:47:25+00:00",
+      "last_seen_at": "2026-09-07T02:55:04+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_b25e1c4e89af56d39744",
@@ -1775,7 +1792,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-07T01:40:57+00:00",
-      "last_seen_at": "2026-09-07T02:47:25+00:00",
+      "last_seen_at": "2026-09-07T02:55:04+00:00",
       "status": "active"
     },
     {
@@ -1794,23 +1811,6 @@
       "first_seen_at": "2026-08-30T04:22:59+00:00",
       "last_seen_at": "2026-08-30T23:59:07+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_abfe7131a9333ffda7d9",
-      "title": "M 4.9 - Kermadec Islands region",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-09-07T02:47:25+00:00",
-      "last_seen_at": "2026-09-07T02:47:25+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_720c7d526b3baeebcacf",
@@ -2442,6 +2442,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_0ab1f90816a2a86fe8ad",
+      "title": "The ecosystem map: How to stay agile in the US-China AI battle",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 116800.0,
+      "p50_usd": 11680000.0,
+      "p90_usd": 1168000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-07T02:47:25+00:00",
+      "last_seen_at": "2026-09-07T02:55:04+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_6ca9894cd36428aabb33",
       "title": "気づいたら Cloudflare OS と同じ答えにたどり着いていた",
       "event_classes": [
@@ -2576,23 +2593,6 @@
       "first_seen_at": "2026-09-01T02:30:55+00:00",
       "last_seen_at": "2026-09-01T23:56:16+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_0ab1f90816a2a86fe8ad",
-      "title": "The ecosystem map: How to stay agile in the US-China AI battle",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 116800.0,
-      "p50_usd": 11680000.0,
-      "p90_usd": 1168000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-07T02:47:25+00:00",
-      "last_seen_at": "2026-09-07T02:47:25+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_3820889c838ad91aba02",
@@ -2761,7 +2761,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-07T00:31:05+00:00",
-      "last_seen_at": "2026-09-07T02:47:25+00:00",
+      "last_seen_at": "2026-09-07T02:55:04+00:00",
       "status": "active"
     },
     {
@@ -2880,7 +2880,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-07T01:13:29+00:00",
-      "last_seen_at": "2026-09-07T02:47:25+00:00",
+      "last_seen_at": "2026-09-07T02:55:04+00:00",
       "status": "active"
     },
     {
@@ -2897,7 +2897,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-07T01:40:57+00:00",
-      "last_seen_at": "2026-09-07T02:47:25+00:00",
+      "last_seen_at": "2026-09-07T02:55:04+00:00",
       "status": "active"
     },
     {
@@ -4206,7 +4206,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-07T02:30:48+00:00",
-      "last_seen_at": "2026-09-07T02:47:25+00:00",
+      "last_seen_at": "2026-09-07T02:55:04+00:00",
       "status": "active"
     },
     {
