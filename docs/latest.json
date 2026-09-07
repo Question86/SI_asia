@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T02:30:44+00:00",
-  "run_id": "2026-09-07T02:30:44+00:00",
+  "generated_at": "2026-09-07T02:47:21+00:00",
+  "run_id": "2026-09-07T02:47:21+00:00",
   "date": "2026-09-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 6
+      "configured_public_sources_only": 8
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,16 +19,38 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 6,
-    "displayed_findings": 6,
+    "today_file_total": 8,
+    "displayed_findings": 8,
     "high": 0,
-    "medium": 1,
-    "observe": 5,
+    "medium": 2,
+    "observe": 6,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [
+      {
+        "title": "The ecosystem map: How to stay agile in the US-China AI battle",
+        "url": "https://e27.co/the-ecosystem-map-how-to-stay-agile-in-the-us-china-ai-battle-20260906/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-07T02:30:51+00:00",
+        "fetched_at": "2026-09-07T02:46:52+00:00",
+        "summary": "Remember the massive technology and business wave around “mobile”? The extension both for technology and the business to include the mobile capability and experience was huge. And remember the two early, dominant players? Nokia and Blackberry. And then what happened? Nokia’s OS was Symbian. Horrible to work with, and the Software Development Kit (SDK) seemed […] The post The ecosystem map: How to stay agile in the U…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Content-Chance"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "000308ca2b2cc18a179e"
+      },
       {
         "title": "AI出力フォーマット革命 — Claude CodeチームがMarkdownを捨てHTMLを選ぶ理由 | Kanau Tech",
         "url": "https://kanautech.jp/blog/ai-shutsuryoku-html-vs-markdown-kakumei",
@@ -97,6 +119,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "cfaa6c69fbb1c66297bc"
+      },
+      {
+        "title": "M 4.9 - Kermadec Islands region",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tesx",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-09-07T02:41:03.040+00:00",
+        "fetched_at": "2026-09-07T02:46:52+00:00",
+        "summary": "Time 2026-09-07 02:11:51 UTC 2026-09-07 02:11:51 UTC at epicenter Location 31.122°S 178.645°E Depth 585.92 km (364.07 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "c940aaf8afc40dea72fb"
       },
       {
         "title": "M 5.0 - Kermadec Islands region",
@@ -194,6 +252,28 @@
   },
   "findings": [
     {
+      "title": "The ecosystem map: How to stay agile in the US-China AI battle",
+      "url": "https://e27.co/the-ecosystem-map-how-to-stay-agile-in-the-us-china-ai-battle-20260906/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-07T02:30:51+00:00",
+      "fetched_at": "2026-09-07T02:46:52+00:00",
+      "summary": "Remember the massive technology and business wave around “mobile”? The extension both for technology and the business to include the mobile capability and experience was huge. And remember the two early, dominant players? Nokia and Blackberry. And then what happened? Nokia’s OS was Symbian. Horrible to work with, and the Software Development Kit (SDK) seemed […] The post The ecosystem map: How to stay agile in the U…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Content-Chance"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "000308ca2b2cc18a179e"
+    },
+    {
       "title": "AI出力フォーマット革命 — Claude CodeチームがMarkdownを捨てHTMLを選ぶ理由 | Kanau Tech",
       "url": "https://kanautech.jp/blog/ai-shutsuryoku-html-vs-markdown-kakumei",
       "source": "Hatena Bookmark Hotentry IT",
@@ -259,6 +339,42 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "cfaa6c69fbb1c66297bc"
+    },
+    {
+      "title": "M 4.9 - Kermadec Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tesx",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-07T02:41:03.040+00:00",
+      "fetched_at": "2026-09-07T02:46:52+00:00",
+      "summary": "Time 2026-09-07 02:11:51 UTC 2026-09-07 02:11:51 UTC at epicenter Location 31.122°S 178.645°E Depth 585.92 km (364.07 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "c940aaf8afc40dea72fb"
     },
     {
       "title": "M 5.0 - Kermadec Islands region",
@@ -355,13 +471,35 @@
   ],
   "new_findings": [
     {
-      "title": "M 5.0 - Kermadec Islands region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000test",
+      "title": "The ecosystem map: How to stay agile in the US-China AI battle",
+      "url": "https://e27.co/the-ecosystem-map-how-to-stay-agile-in-the-us-china-ai-battle-20260906/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-07T02:30:51+00:00",
+      "fetched_at": "2026-09-07T02:46:52+00:00",
+      "summary": "Remember the massive technology and business wave around “mobile”? The extension both for technology and the business to include the mobile capability and experience was huge. And remember the two early, dominant players? Nokia and Blackberry. And then what happened? Nokia’s OS was Symbian. Horrible to work with, and the Software Development Kit (SDK) seemed […] The post The ecosystem map: How to stay agile in the U…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Content-Chance"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "000308ca2b2cc18a179e"
+    },
+    {
+      "title": "M 4.9 - Kermadec Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tesx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-09-07T02:24:04.040+00:00",
-      "fetched_at": "2026-09-07T02:30:12+00:00",
-      "summary": "Time 2026-09-07 02:06:48 UTC 2026-09-07 02:06:48 UTC at epicenter Location 30.966°S 178.544°E Depth 585.15 km (363.59 mi)",
+      "published_at": "2026-09-07T02:41:03.040+00:00",
+      "fetched_at": "2026-09-07T02:46:52+00:00",
+      "summary": "Time 2026-09-07 02:11:51 UTC 2026-09-07 02:11:51 UTC at epicenter Location 31.122°S 178.645°E Depth 585.92 km (364.07 mi)",
       "matched_keywords": [
         "Climate/Disaster Infrastructure",
         "Watchgraph:earthquakes_tsunami"
@@ -388,27 +526,7 @@
         "HD",
         "LOW"
       ],
-      "id": "5220f0ed73e7a9472249"
-    },
-    {
-      "title": "Malaysia’s digital economy’s second wave looks nothing like the first",
-      "url": "https://e27.co/malaysias-digital-economys-second-wave-looks-nothing-like-the-first-20260906/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-07T02:00:04+00:00",
-      "fetched_at": "2026-09-07T02:30:12+00:00",
-      "summary": "“Are you grabbing to this place?” While I incorporated the local expression into my vocabulary as a Brazilian in Malaysia, I reflected about the long journey of the entire tech ecosystem with a smile. Grab is more than a super app, it’s a new context for the entire e-hailing category. When I first came to […] The post Malaysia’s digital economy’s second wave looks nothing like the first appeared first on e27 .",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region south_america: Brazil (+2.0); watchgraph region southeast_asia: Malaysia (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e86c24a9eaee68cc9e6f"
+      "id": "c940aaf8afc40dea72fb"
     }
   ],
   "source_errors": [],
