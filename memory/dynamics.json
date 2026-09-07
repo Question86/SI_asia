@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-07T03:51:34Z",
+  "generated_at": "2026-09-07T04:16:54Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 28,
     "bands": {
-      "extreme": 1,
-      "strong": 3,
-      "watch": 14,
-      "quiet": 10
-    },
-    "bands_after_gate_recheck": {
+      "krass": 1,
       "strong": 4,
       "watch": 14,
-      "quiet": 10
+      "quiet": 9
+    },
+    "bands_after_gate_recheck": {
+      "strong": 5,
+      "watch": 14,
+      "quiet": 9
     }
   },
   "top_dynamics": [
@@ -23,22 +23,22 @@
       "url": "https://e27.co/taiwans-startup-talent-problem-is-a-matching-problem-not-a-shortage-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-07T03:08:05+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
       "dynamics_score": 24.9,
-      "raw_band": "extreme",
+      "raw_band": "krass",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +2",
+        "momentum delta +3",
         "early terms: shortage",
         "AXI0M/User-Yps identity hit",
         "identity recheck: no AXI0M/User-Yps phrase hit",
@@ -51,7 +51,7 @@
       "url": "https://scgajge12.hatenablog.com/entry/closed_network_security",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-06T09:34:08+00:00",
-      "age_days": 0.76,
+      "age_days": 0.78,
       "topics": [
         "security"
       ],
@@ -75,7 +75,7 @@
       "url": "https://e27.co/taiwans-startup-talent-problem-is-a-matching-problem-not-a-shortage-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-07T03:00:17+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -102,7 +102,7 @@
       "url": "https://kanautech.jp/blog/ai-shutsuryoku-html-vs-markdown-kakumei",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-07T00:31:05+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -129,22 +129,46 @@
       "url": "https://scgajge12.hatenablog.com/entry/closed_network_security",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-07T03:08:05+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
-      "dynamics_score": 17.5,
+      "dynamics_score": 20.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "新メンバーが早く馴染むチームビルディング「トリセツ会」 - Techtouch Developers Blog",
+      "url": "https://tech.techtouch.jp/entry/team-building-torisetsu-kai",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-07T03:08:05+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 19.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +2"
+        "momentum delta +3"
       ],
       "summary": ""
     },
@@ -153,7 +177,7 @@
       "url": "https://e27.co/the-ecosystem-map-how-to-stay-agile-in-the-us-china-ai-battle-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-07T02:47:25+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -179,7 +203,7 @@
       "url": "https://e27.co/malaysias-digital-economys-second-wave-looks-nothing-like-the-first-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-07T02:30:48+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -199,11 +223,11 @@
       "summary": ""
     },
     {
-      "title": "新メンバーが早く馴染むチームビルディング「トリセツ会」 - Techtouch Developers Blog",
-      "url": "https://tech.techtouch.jp/entry/team-building-torisetsu-kai",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "M 4.7 - Kermadec Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tet6",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-07T03:08:05+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
@@ -213,12 +237,12 @@
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +2"
+        "momentum delta +3"
       ],
       "summary": ""
     },
@@ -227,7 +251,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tesx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-07T02:47:25+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -251,7 +275,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000test",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-07T02:30:48+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -275,7 +299,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/attkz06l",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-07T01:40:57+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -295,11 +319,35 @@
       "summary": ""
     },
     {
+      "title": "How HKSTP’s quarter-century journey offers insights for Asia’s innovation ecosystems",
+      "url": "https://e27.co/how-hkstps-quarter-century-journey-offers-insights-for-asias-innovation-ecosystems-20260907/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-07T03:29:46+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 15.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "AI has answers, experience has judgment",
       "url": "https://e27.co/ai-has-answers-experience-has-judgment-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-07T01:40:57+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -325,7 +373,7 @@
       "url": "https://e27.co/the-real-test-of-ethical-ai-is-whether-a-frontline-employee-can-challenge-it-20260809/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-07T01:13:29+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -350,32 +398,8 @@
       "title": "M 4.7 - Kermadec Islands region",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tet6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-07T03:08:05+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 4.7 - Kermadec Islands region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tet6",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-07T02:57:16.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -399,7 +423,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tesx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-07T02:41:03.040+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -423,7 +447,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000test",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-07T02:24:04.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -447,7 +471,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/attkz06l",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-07T01:37:45.187+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -471,7 +495,7 @@
       "url": "https://kanautech.jp/blog/ai-shutsuryoku-html-vs-markdown-kakumei",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-06T22:16:57+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -493,35 +517,11 @@
       "summary": "Anthropic Claude Codeチーム Thariq Shihipar 投稿（2026/5/8、X累計1,240万閲覧） イントロ：AIが書く文書、誰がどう読むか 2026年5月、Anthropic で Claude Code を開発する Thariq Shihipar 氏が「Markdownの時代は終わった。AIにはHTMLを書かせよ」という主旨の投稿を公開しました。投稿は1週間で1,240万閲覧・16,4..."
     },
     {
-      "title": "How HKSTP’s quarter-century journey offers insights for Asia’s innovation ecosystems",
-      "url": "https://e27.co/how-hkstps-quarter-century-journey-offers-insights-for-asias-innovation-ecosystems-20260907/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-07T03:29:46+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "The ecosystem map: How to stay agile in the US-China AI battle",
       "url": "https://e27.co/the-ecosystem-map-how-to-stay-agile-in-the-us-china-ai-battle-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-07T02:30:51+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -542,11 +542,37 @@
       "summary": "Remember the massive technology and business wave around “mobile”? The extension both for technology and the business to include the mobile capability and experience was huge. And remember the two early, dominant players? Nokia and Blackberry. And then what happened? Nokia’s OS was Symbian. Horrible to work with, and…"
     },
     {
+      "title": "ついにAIキャラクターと“ビデオチャット”へ 「MiniMax H3」がリアルタイム生成に接近 (1/5)",
+      "url": "https://ascii.jp/elem/000/004/432/4432622/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-07T03:29:46+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "How HKSTP’s quarter-century journey offers insights for Asia’s innovation ecosystems",
       "url": "https://e27.co/how-hkstps-quarter-century-journey-offers-insights-for-asias-innovation-ecosystems-20260907/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-07T03:25:12+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
@@ -570,7 +596,7 @@
       "url": "https://e27.co/ai-has-answers-experience-has-judgment-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-07T01:15:55+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -595,7 +621,7 @@
       "url": "https://e27.co/the-real-test-of-ethical-ai-is-whether-a-frontline-employee-can-challenge-it-20260809/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-07T01:00:16+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -620,7 +646,7 @@
       "url": "https://e27.co/malaysias-digital-economys-second-wave-looks-nothing-like-the-first-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-07T02:00:04+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "macro"
@@ -647,7 +673,7 @@
       "url": "https://tech.techtouch.jp/entry/team-building-torisetsu-kai",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-07T00:36:00+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -671,34 +697,8 @@
       "title": "ついにAIキャラクターと“ビデオチャット”へ 「MiniMax H3」がリアルタイム生成に接近 (1/5)",
       "url": "https://ascii.jp/elem/000/004/432/4432622/",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-07T03:29:46+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 1.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "ついにAIキャラクターと“ビデオチャット”へ 「MiniMax H3」がリアルタイム生成に接近 (1/5)",
-      "url": "https://ascii.jp/elem/000/004/432/4432622/",
-      "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-06T23:19:08+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "ai"
       ],
