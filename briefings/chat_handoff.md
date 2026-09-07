@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-07T01:59:24+00:00_
+_Generated: 2026-09-07T02:30:44+00:00_
 
 ## Status
 - status: `normal`
-- findings: `4`
+- findings: `6`
 
 ## Top Signals
 
@@ -29,7 +29,14 @@ _Generated: 2026-09-07T01:59:24+00:00_
 - url: https://e27.co/the-real-test-of-ethical-ai-is-whether-a-frontline-employee-can-challenge-it-20260809/
 - summary: A great deal of ethical AI discussion still happens at a distance from the people who live with the system every day. It happens in governance forums, legal reviews, executive updates, risk committees, and product documents. All of that has value, but none of…
 
-### 4. M 4.6 - off the coast of Oregon
+### 4. M 5.0 - Kermadec Islands region
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-09-07T02:24:04.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000test
+- summary: Time 2026-09-07 02:06:48 UTC 2026-09-07 02:06:48 UTC at epicenter Location 30.966°S 178.544°E Depth 585.15 km (363.59 mi)
+
+### 5. M 4.6 - off the coast of Oregon
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-09-07T01:37:45.187+00:00`
