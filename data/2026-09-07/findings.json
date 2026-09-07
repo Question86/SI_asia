@@ -143,6 +143,75 @@
     "id": "000308ca2b2cc18a179e"
   },
   {
+    "title": "[NEU] [mittel] PackageKit: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3199",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-07T10:59:20+00:00",
+    "fetched_at": "2026-09-07T11:19:08+00:00",
+    "summary": "Ein lokaler Angreifer kann eine Schwachstelle in PackageKit ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4fa7f3b759003c2f4e34"
+  },
+  {
+    "title": "[NEU] [hoch] Froxlor: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3200",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-07T10:59:20+00:00",
+    "fetched_at": "2026-09-07T11:19:08+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Froxlor ausnutzen, um Administratorrechte zu erlangen, um Daten zu manipulieren oder offenzulegen, sowie um Sicherheitsmechanismen zu umgehen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "154bcef253bd7b269803"
+  },
+  {
+    "title": "[NEU] [mittel] CoreDNS: Schwachstelle ermöglicht Manipulation von DNS Einträgen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3198",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-07T10:59:19+00:00",
+    "fetched_at": "2026-09-07T11:19:08+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in CoreDNS ausnutzen, um DNS Einträge zu manipulieren.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "787580d968e49c050452"
+  },
+  {
     "title": "[UPDATE] [hoch] MISP: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3173",
     "source": "BSI CERT-Bund Security Advisories",
@@ -660,6 +729,28 @@
       "LOW"
     ],
     "id": "b86e9aacfc74641c6dc3"
+  },
+  {
+    "title": "Claudeがフェルマーの最終定理を11日で形式化、1300万行のLeanコードで初の完全な機械検証済み証明を完成",
+    "url": "https://gigazine.net/news/20260907-claude-fermat-last-theorem-formalizing/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-09-07T07:04:19+00:00",
+    "fetched_at": "2026-09-07T11:19:08+00:00",
+    "summary": "AI開発企業のAnthropicは2026年9月4日、AI「Claude」がフェルマーの最終定理について最初から最後までコンピューターで検証できる証明を完成させたと発表しました。Claudeは11日間にわたってほぼ自律的に作業し、証明支援システム「Lean 4」で約1300万行のコードを生成。Anthropicはフェルマーの最終定理について初の完...",
+    "matched_keywords": [
+      "AI/KI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "970ae4372c32c6a49736"
   },
   {
     "title": "SEA funding falls from July high, but August still points to a larger rebound",
