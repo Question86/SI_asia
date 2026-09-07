@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T23:19:14+00:00",
-  "run_id": "2026-09-07T23:19:14+00:00",
+  "generated_at": "2026-09-07T23:27:53+00:00",
+  "run_id": "2026-09-07T23:27:53+00:00",
   "date": "2026-09-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 69,
     "displayed_findings": 69,
     "high": 1,
@@ -3390,29 +3390,7 @@
       "id": "cfae2fd1eabaf9b91b36"
     }
   ],
-  "new_findings": [
-    {
-      "title": "性格悪い離婚増田の記事を読んで、自分の頭で一定程度考えながら生成AIと壁打ちして問題点を深掘りしてみた",
-      "url": "https://anond.hatelabo.jp/20260907191254",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-07T10:19:34+00:00",
-      "fetched_at": "2026-09-07T23:18:43+00:00",
-      "summary": "ちなみに、一般的に真面目な質問に対して生成AI使って答え書くのは割と性格が悪いのでみんなも気をつけような。 anond:20260906221615 さて、この記事を読んで、まあなんかぼんやり「言動がかなり特殊だな？」とは感じるわけです。 で、自分でもいくつか言語化はできたけど、そこから先の結論にはイマイチたどり着けてい...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8882df404c2eb3b4ae41"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
