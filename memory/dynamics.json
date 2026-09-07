@@ -1,33 +1,34 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-07T02:53:34Z",
+  "generated_at": "2026-09-07T03:17:26Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 16,
+    "dynamics": 24,
     "bands": {
-      "strong": 2,
-      "watch": 8,
+      "extreme": 1,
+      "strong": 4,
+      "watch": 13,
       "quiet": 6
     },
     "bands_after_gate_recheck": {
-      "strong": 2,
-      "watch": 8,
+      "strong": 5,
+      "watch": 13,
       "quiet": 6
     }
   },
   "top_dynamics": [
     {
-      "title": "The ecosystem map: How to stay agile in the US-China AI battle",
-      "url": "https://e27.co/the-ecosystem-map-how-to-stay-agile-in-the-us-china-ai-battle-20260906/",
+      "title": "Taiwan’s startup talent problem is a matching problem, not a shortage",
+      "url": "https://e27.co/taiwans-startup-talent-problem-is-a-matching-problem-not-a-shortage-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-07T02:47:25+00:00",
-      "age_days": 0.0,
+      "published_at": "2026-09-07T03:08:05+00:00",
+      "age_days": 0.01,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 20.0,
-      "raw_band": "strong",
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
@@ -38,6 +39,85 @@
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +1",
+        "early terms: shortage",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "攻撃者視点で読み解く、医療機関の「閉域網神話」の壊れ方 - blog of morioka12",
+      "url": "https://scgajge12.hatenablog.com/entry/closed_network_security",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-06T09:34:08+00:00",
+      "age_days": 0.74,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: security"
+      ],
+      "summary": "はじめに こんにちは、morioka12 です。 本稿では、医療機関の閉域網 (Closed Network) を攻撃者の視点から読み解き、「閉域網だから安全」という神話がどこで壊れるのかを紹介します。工場や港湾の事例も、同じ壊れ方を映す鏡として扱います。 先に結論です。「閉域網だから安全」という認識は誤りといえます。 閉域網..."
+    },
+    {
+      "title": "Taiwan’s startup talent problem is a matching problem, not a shortage",
+      "url": "https://e27.co/taiwans-startup-talent-problem-is-a-matching-problem-not-a-shortage-20260906/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-07T03:00:17+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "early terms: shortage",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Taiwan does not appear to have a simple shortage of people interested in startups. The more immediate problem is matching people with complementary skills, compatible expectations and a practical way to test collaboration. I see this repeatedly as the platform operator of EZStartup. Founders often describe the challen…"
+    },
+    {
+      "title": "The ecosystem map: How to stay agile in the US-China AI battle",
+      "url": "https://e27.co/the-ecosystem-map-how-to-stay-agile-in-the-us-china-ai-battle-20260906/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-07T02:47:25+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 20.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +2",
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],
@@ -48,7 +128,7 @@
       "url": "https://kanautech.jp/blog/ai-shutsuryoku-html-vs-markdown-kakumei",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-07T00:31:05+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -71,15 +151,15 @@
       "summary": ""
     },
     {
-      "title": "Malaysia’s digital economy’s second wave looks nothing like the first",
-      "url": "https://e27.co/malaysias-digital-economys-second-wave-looks-nothing-like-the-first-20260906/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-07T02:30:48+00:00",
-      "age_days": 0.02,
+      "title": "攻撃者視点で読み解く、医療機関の「閉域網神話」の壊れ方 - blog of morioka12",
+      "url": "https://scgajge12.hatenablog.com/entry/closed_network_security",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-07T03:08:05+00:00",
+      "age_days": 0.01,
       "topics": [
         "general"
       ],
-      "dynamics_score": 18.0,
+      "dynamics_score": 17.5,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -95,11 +175,83 @@
       "summary": ""
     },
     {
+      "title": "Malaysia’s digital economy’s second wave looks nothing like the first",
+      "url": "https://e27.co/malaysias-digital-economys-second-wave-looks-nothing-like-the-first-20260906/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-07T02:30:48+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "新メンバーが早く馴染むチームビルディング「トリセツ会」 - Techtouch Developers Blog",
+      "url": "https://tech.techtouch.jp/entry/team-building-torisetsu-kai",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-07T03:08:05+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "M 5.0 - Kermadec Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000test",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-07T02:30:48+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 4.6 - off the coast of Oregon",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/attkz06l",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-07T01:40:57+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -123,7 +275,7 @@
       "url": "https://e27.co/ai-has-answers-experience-has-judgment-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-07T01:40:57+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -149,7 +301,7 @@
       "url": "https://e27.co/the-real-test-of-ethical-ai-is-whether-a-frontline-employee-can-challenge-it-20260809/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-07T01:13:29+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -175,7 +327,31 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tesx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-07T02:47:25+00:00",
-      "age_days": 0.0,
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "M 4.7 - Kermadec Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tet6",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-07T03:08:05+00:00",
+      "age_days": 0.01,
       "topics": [
         "general"
       ],
@@ -195,11 +371,35 @@
       "summary": ""
     },
     {
+      "title": "M 4.7 - Kermadec Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tet6",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-07T02:57:16.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "Time 2026-09-07 02:30:21 UTC 2026-09-07 02:30:21 UTC at epicenter Location 31.273°S 178.619°E Depth 586.22 km (364.26 mi)"
+    },
+    {
       "title": "M 4.9 - Kermadec Islands region",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tesx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-07T02:41:03.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -223,7 +423,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000test",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-07T02:24:04.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -247,7 +447,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/attkz06l",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-07T01:37:45.187+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -267,35 +467,11 @@
       "summary": "DYFI? - I Time 2026-09-07 01:30:21 UTC 2026-09-07 01:30:21 UTC at epicenter Location 43.832°N 128.750°W Depth 12.00 km (7.46 mi)"
     },
     {
-      "title": "M 5.0 - Kermadec Islands region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000test",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-07T02:30:48+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "AI出力フォーマット革命 — Claude CodeチームがMarkdownを捨てHTMLを選ぶ理由 | Kanau Tech",
       "url": "https://kanautech.jp/blog/ai-shutsuryoku-html-vs-markdown-kakumei",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-06T22:16:57+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "ai"
       ],
@@ -321,7 +497,7 @@
       "url": "https://e27.co/the-ecosystem-map-how-to-stay-agile-in-the-us-china-ai-battle-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-07T02:30:51+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
@@ -346,7 +522,7 @@
       "url": "https://e27.co/ai-has-answers-experience-has-judgment-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-07T01:15:55+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -371,7 +547,7 @@
       "url": "https://e27.co/the-real-test-of-ethical-ai-is-whether-a-frontline-employee-can-challenge-it-20260809/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-07T01:00:16+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -396,7 +572,7 @@
       "url": "https://e27.co/malaysias-digital-economys-second-wave-looks-nothing-like-the-first-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-07T02:00:04+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "macro"
@@ -417,7 +593,32 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "“Are you grabbing to this place?” While I incorporated the local expression into my vocabulary as a Brazilian in Malaysia, I reflected about the long journey of the entire tech ecosystem with a smile. Grab is more than a super app, it’s a new context for the entire e-hailing category. When I first came to […] The post…"
+    },
+    {
+      "title": "新メンバーが早く馴染むチームビルディング「トリセツ会」 - Techtouch Developers Blog",
+      "url": "https://tech.techtouch.jp/entry/team-building-torisetsu-kai",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-07T00:36:00+00:00",
+      "age_days": 0.11,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 2.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "こんにちは！パンダ好きエンジニア @pandineer です。 テックタッチという会社で、社名と同じプロダクト「テックタッチ」の開発を担う、Adoption Platform Division の Engineering部でエンジニアリングマネージャーを務めています。 新しい環境に飛び込む時、「どんな人達がいるんだろう？」「うまく馴染めるかな…？」..."
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “The ecosystem map: How to stay agile in the US-China AI battle” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=20.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Taiwan’s startup talent problem is a matching problem, not a shortage” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
 }
