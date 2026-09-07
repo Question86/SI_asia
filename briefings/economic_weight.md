@@ -1,12 +1,13 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-09-07T05:44:13+00:00`
+Generated: `2026-09-07T05:59:20+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
 | Event | Class | P10 | P50 | P90 | Confidence |
 |---|---|---:|---:|---:|---:|
 | Why every warehouse in Singapore will run on AI safety monitoring within five years | natural_disaster, conflict | $122.40M | $12.24B | $1.22T | 0.31 |
+| anomalyco/opencode | conflict | $115.20M | $11.52B | $1.15T | 0.31 |
 | Warsh, In Our Time | conflict | $113.60M | $11.36B | $1.14T | 0.31 |
 | Schools and universities face rising ransomware costs as attackers target identities | exploit, conflict | $113.60M | $11.36B | $1.14T | 0.31 |
 | Multiple trusted publishing configurations for npm | conflict | $112.80M | $11.28B | $1.13T | 0.31 |
@@ -30,7 +31,6 @@ Generated: `2026-09-07T05:44:13+00:00`
 | M 5.0 - 64 km W of Labuha, Indonesia | natural_disaster | $1.16M | $116.00M | $11.60B | 0.33 |
 | M 4.6 - 52 km NNE of Ruteng, Indonesia | natural_disaster | $1.16M | $116.00M | $11.60B | 0.33 |
 | M 4.8 - 110 km E of Miyako, Japan | natural_disaster | $1.16M | $116.00M | $11.60B | 0.33 |
-| M 4.9 - 118 km ENE of Kuji, Japan | natural_disaster | $1.16M | $116.00M | $11.60B | 0.33 |
 
 ## Interpretation
 

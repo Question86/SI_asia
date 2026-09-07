@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-07T05:44:25+00:00",
+  "generated_at": "2026-09-07T05:59:32+00:00",
   "events": [
     {
       "event_id": "evt_02008879feb3a26196bb",
@@ -1342,7 +1342,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_6522f52f78f325c58303",
@@ -1398,6 +1398,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_67b48014922a793721ef",
+      "title": "openai/skills",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_67c97d7b18f6ee0a0029",
@@ -1606,7 +1617,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_716b92d9f99d233a8892",
@@ -2707,6 +2718,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_b606e6c8f1b42a79721d",
+      "title": "anomalyco/opencode",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_b6d556e3edd229c4b11d",
