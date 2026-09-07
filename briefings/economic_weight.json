@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-07T13:07:54+00:00",
+  "generated_at": "2026-09-07T13:26:49+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -36,7 +36,7 @@
       "p90_usd": 1152000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-07T05:59:00+00:00",
-      "last_seen_at": "2026-09-07T13:07:39+00:00",
+      "last_seen_at": "2026-09-07T13:25:56+00:00",
       "status": "active"
     },
     {
@@ -738,7 +738,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-07T06:44:15+00:00",
-      "last_seen_at": "2026-09-07T13:07:39+00:00",
+      "last_seen_at": "2026-09-07T13:25:56+00:00",
       "status": "active"
     },
     {
@@ -1453,7 +1453,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-07T02:30:48+00:00",
       "last_seen_at": "2026-09-07T13:07:39+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_5ecfe3d11dbe7ef7157d",
@@ -1606,7 +1606,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-07T02:47:25+00:00",
       "last_seen_at": "2026-09-07T13:07:39+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_b25e1c4e89af56d39744",
@@ -1691,7 +1691,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-07T03:08:05+00:00",
       "last_seen_at": "2026-09-07T13:07:39+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_cbfd052299ee5805884b",
@@ -1861,7 +1861,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-07T01:40:57+00:00",
       "last_seen_at": "2026-09-07T13:07:39+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_f613d61784f3ba1f91c1",
@@ -1894,7 +1894,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-07T13:07:39+00:00",
+      "last_seen_at": "2026-09-07T13:25:56+00:00",
       "status": "active"
     },
     {
@@ -2201,7 +2201,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-09-07T13:07:39+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_d669c40e446df53a00e6",
@@ -2252,7 +2252,7 @@
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
       "last_seen_at": "2026-09-07T13:07:39+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_55bf431fc184f598da38",
@@ -2285,7 +2285,7 @@
       "p90_usd": 1224000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-07T05:59:00+00:00",
-      "last_seen_at": "2026-09-07T13:07:39+00:00",
+      "last_seen_at": "2026-09-07T13:25:56+00:00",
       "status": "active"
     },
     {
@@ -2493,6 +2493,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_19ce3c30fcaa653f7c65",
+      "title": "Multiples vulnérabilités dans Tenable Enclave Security (28 août 2026)",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 118400.0,
+      "p50_usd": 11840000.0,
+      "p90_usd": 1184000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-07T13:25:56+00:00",
+      "last_seen_at": "2026-09-07T13:25:56+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_944d61924133bc9f7758",
       "title": "The MMM barrier didn’t disappear. It moved",
       "event_classes": [
@@ -2557,7 +2574,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-07T02:47:25+00:00",
-      "last_seen_at": "2026-09-07T13:07:39+00:00",
+      "last_seen_at": "2026-09-07T13:25:56+00:00",
       "status": "active"
     },
     {
@@ -2608,7 +2625,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-07T13:07:39+00:00",
+      "last_seen_at": "2026-09-07T13:25:56+00:00",
       "status": "active"
     },
     {
@@ -2863,7 +2880,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-07T00:31:05+00:00",
-      "last_seen_at": "2026-09-07T13:07:39+00:00",
+      "last_seen_at": "2026-09-07T13:25:56+00:00",
       "status": "active"
     },
     {
@@ -2982,7 +2999,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-07T01:13:29+00:00",
-      "last_seen_at": "2026-09-07T13:07:39+00:00",
+      "last_seen_at": "2026-09-07T13:25:56+00:00",
       "status": "active"
     },
     {
@@ -2999,7 +3016,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-07T01:40:57+00:00",
-      "last_seen_at": "2026-09-07T13:07:39+00:00",
+      "last_seen_at": "2026-09-07T13:25:56+00:00",
       "status": "active"
     },
     {
@@ -3152,7 +3169,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-07T03:08:05+00:00",
-      "last_seen_at": "2026-09-07T13:07:39+00:00",
+      "last_seen_at": "2026-09-07T13:25:56+00:00",
       "status": "active"
     },
     {
@@ -3322,8 +3339,8 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-31T12:39:17+00:00",
-      "last_seen_at": "2026-08-31T23:54:23+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-09-07T13:25:56+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_25b9c11a80e801bf6b59",
@@ -3390,8 +3407,8 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T13:58:29+00:00",
-      "last_seen_at": "2026-09-01T13:58:29+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-09-07T13:25:56+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_566b9c70a07073da651c",
@@ -3509,7 +3526,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-07T03:08:05+00:00",
-      "last_seen_at": "2026-09-07T13:07:39+00:00",
+      "last_seen_at": "2026-09-07T13:25:56+00:00",
       "status": "active"
     },
     {
@@ -3577,8 +3594,8 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T13:58:29+00:00",
-      "last_seen_at": "2026-09-01T13:58:29+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-09-07T13:25:56+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_cc17b4bd401d2aacd3f1",
@@ -3632,6 +3649,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_48c5f42a809a05d55379",
+      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (28 août 2026)",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112800.0,
+      "p50_usd": 11280000.0,
+      "p90_usd": 1128000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-07T13:25:56+00:00",
+      "last_seen_at": "2026-09-07T13:25:56+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_085ae9c5f434f17156ff",
       "title": "New API endpoint provides privacy-safe star history data",
       "event_classes": [
@@ -3662,7 +3696,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-07T03:08:05+00:00",
-      "last_seen_at": "2026-09-07T13:07:39+00:00",
+      "last_seen_at": "2026-09-07T13:25:56+00:00",
       "status": "active"
     },
     {
@@ -3747,7 +3781,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-07T04:43:57+00:00",
-      "last_seen_at": "2026-09-07T13:07:39+00:00",
+      "last_seen_at": "2026-09-07T13:25:56+00:00",
       "status": "active"
     },
     {
@@ -4395,6 +4429,23 @@
       "first_seen_at": "2026-09-04T16:18:08+00:00",
       "last_seen_at": "2026-09-04T16:18:08+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_5ffa0f1d436aaac878f1",
+      "title": "Multiples vulnérabilités dans Traefik (27 août 2026)",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-07T13:25:56+00:00",
+      "last_seen_at": "2026-09-07T13:25:56+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_050660578420f6fb8ddb",
@@ -5073,7 +5124,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T05:20:00+00:00",
-      "last_seen_at": "2026-09-07T13:07:39+00:00",
+      "last_seen_at": "2026-09-07T13:25:56+00:00",
       "status": "active"
     },
     {
