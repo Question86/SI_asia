@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-07T01:59:42+00:00",
+  "generated_at": "2026-09-07T02:31:04+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1758,7 +1758,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-07T01:40:57+00:00",
-      "last_seen_at": "2026-09-07T01:59:27+00:00",
+      "last_seen_at": "2026-09-07T02:30:48+00:00",
       "status": "active"
     },
     {
@@ -1777,6 +1777,23 @@
       "first_seen_at": "2026-08-30T04:22:59+00:00",
       "last_seen_at": "2026-08-30T23:59:07+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_5de872aa0a84894b50c6",
+      "title": "M 5.0 - Kermadec Islands region",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-07T02:30:48+00:00",
+      "last_seen_at": "2026-09-07T02:30:48+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_720c7d526b3baeebcacf",
@@ -2710,7 +2727,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-07T00:31:05+00:00",
-      "last_seen_at": "2026-09-07T01:59:27+00:00",
+      "last_seen_at": "2026-09-07T02:30:48+00:00",
       "status": "active"
     },
     {
@@ -2829,7 +2846,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-07T01:13:29+00:00",
-      "last_seen_at": "2026-09-07T01:59:27+00:00",
+      "last_seen_at": "2026-09-07T02:30:48+00:00",
       "status": "active"
     },
     {
@@ -2846,7 +2863,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-07T01:40:57+00:00",
-      "last_seen_at": "2026-09-07T01:59:27+00:00",
+      "last_seen_at": "2026-09-07T02:30:48+00:00",
       "status": "active"
     },
     {
@@ -4157,6 +4174,23 @@
       "first_seen_at": "2026-09-04T16:18:08+00:00",
       "last_seen_at": "2026-09-04T16:18:08+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_ea7cc42983d2482e42a6",
+      "title": "Malaysia’s digital economy’s second wave looks nothing like the first",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-07T02:30:48+00:00",
+      "last_seen_at": "2026-09-07T02:30:48+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_9a2361687c9a12c7708c",
