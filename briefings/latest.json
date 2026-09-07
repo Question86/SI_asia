@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T22:54:06+00:00",
-  "run_id": "2026-09-07T22:54:06+00:00",
+  "generated_at": "2026-09-07T23:01:50+00:00",
+  "run_id": "2026-09-07T23:01:50+00:00",
   "date": "2026-09-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 67
+      "configured_public_sources_only": 68
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 67,
-    "displayed_findings": 67,
+    "new_relevant_findings": 1,
+    "today_file_total": 68,
+    "displayed_findings": 68,
     "high": 1,
     "medium": 21,
-    "observe": 45,
+    "observe": 46,
     "source_errors": 0
   },
   "sections": {
@@ -1562,6 +1562,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "beb41fd3ef6325a0dc26"
+      },
+      {
+        "title": "Making a Python interpreter in 1024 bytes",
+        "url": "https://austinhenley.com/blog/python1024.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-07T02:45:54+00:00",
+        "fetched_at": "2026-09-07T23:01:21+00:00",
+        "summary": "Making a Python interpreter in 1024 bytes 9/6/2026 To feel human, I write code by hand on the weekends. My latest challenge? Make a Python interpreter in 512 1024 bytes of good ole C code. Oh, and no macro shenanigans or library tomfoolery. def buzz(): for n in range(101): if n % 15 == 0: print(\"...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "37391c3bcafbc7f542e6"
       },
       {
         "title": "ADRは経緯より「決まったこと」だけでいい",
@@ -3202,6 +3223,27 @@
       "id": "beb41fd3ef6325a0dc26"
     },
     {
+      "title": "Making a Python interpreter in 1024 bytes",
+      "url": "https://austinhenley.com/blog/python1024.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-07T02:45:54+00:00",
+      "fetched_at": "2026-09-07T23:01:21+00:00",
+      "summary": "Making a Python interpreter in 1024 bytes 9/6/2026 To feel human, I write code by hand on the weekends. My latest challenge? Make a Python interpreter in 512 1024 bytes of good ole C code. Oh, and no macro shenanigans or library tomfoolery. def buzz(): for n in range(101): if n % 15 == 0: print(\"...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "37391c3bcafbc7f542e6"
+    },
+    {
       "title": "ADRは経緯より「決まったこと」だけでいい",
       "url": "https://zenn.dev/yamitake/articles/adr-decision-over-context",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3306,7 +3348,29 @@
       "id": "cfae2fd1eabaf9b91b36"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Making a Python interpreter in 1024 bytes",
+      "url": "https://austinhenley.com/blog/python1024.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-07T02:45:54+00:00",
+      "fetched_at": "2026-09-07T23:01:21+00:00",
+      "summary": "Making a Python interpreter in 1024 bytes 9/6/2026 To feel human, I write code by hand on the weekends. My latest challenge? Make a Python interpreter in 512 1024 bytes of good ole C code. Oh, and no macro shenanigans or library tomfoolery. def buzz(): for n in range(101): if n % 15 == 0: print(\"...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "37391c3bcafbc7f542e6"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
