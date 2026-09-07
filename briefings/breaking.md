@@ -1,6 +1,19 @@
 # Senna Breaking
 
-_Generiert: 2026-09-07T15:19:24+00:00_
+_Generiert: 2026-09-07T15:30:16+00:00_
 
-Keine Breaking-Signale. Kleine Signale bleiben im Network Hub sichtbar.
+## Zero-Day-Lücke StyleSmuggler in Magento und Adobe Commerce wird aktiv ausgenutzt
+
+- Ranking Score: `37.0`
+- Raw Network Score: `31.2`
+- Max Monitor Score: `24`
+- Reichweite: `specialist` / `2.5`
+- Early Signal: `nein`
+- Dominanter Emitter: `nein`
+- Quellen: heise Security Alerts
+- Klassen: tier3_specialist
+- Cross-source bestaetigt: nein
+- Momentum: increasing (+1)
+- Erste Quelle: https://www.heise.de/news/Zero-Day-Luecke-StyleSmuggler-in-Magento-und-Adobe-Commerce-wird-aktiv-ausgenutzt-11444217.html
+- Handlung: HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.
 
