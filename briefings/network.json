@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-07T23:01:53+00:00",
+  "generated_at": "2026-09-07T23:19:18+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 68,
-    "clusters": 52,
+    "findings": 69,
+    "clusters": 53,
     "cross_source_confrmed": 0,
     "hot": 1,
     "early_signals": 0,
@@ -228,18 +228,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 16.14,
+      "network_score": 16.06,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 15.1,
-      "ranking_score": 16.14,
+      "ranking_score": 16.06,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 1.64,
+      "baseline_bonus": 1.56,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1167,8 +1167,8 @@
       "first_seen_at": "2026-09-07T13:25:56+00:00"
     },
     {
-      "key": "domain:austinhenley.com",
-      "title": "Making a Python interpreter in 1024 bytes",
+      "key": "url:https://anond.hatelabo.jp/20260907191254",
+      "title": "性格悪い離婚増田の記事を読んで、自分の頭で一定程度考えながら生成AIと壁打ちして問題点を深掘りしてみた",
       "sources": [
         "Hatena Bookmark Hotentry IT"
       ],
@@ -1176,7 +1176,7 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://austinhenley.com/blog/python1024.html"
+        "https://anond.hatelabo.jp/20260907191254"
       ],
       "finding_count": 1,
       "max_score": 5,
@@ -1202,7 +1202,7 @@
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-09-07T23:01:53+00:00"
+      "first_seen_at": "2026-09-07T23:19:18+00:00"
     },
     {
       "key": "title:why-kyoto-not-tokyo-japan-real-deeptech-bet",
@@ -1827,6 +1827,44 @@
       "first_seen_at": "2026-09-07T10:44:47+00:00"
     },
     {
+      "key": "domain:austinhenley.com",
+      "title": "Making a Python interpreter in 1024 bytes",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://austinhenley.com/blog/python1024.html"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 6.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 7.1,
+      "ranking_score": 6.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-07T23:01:53+00:00"
+    },
+    {
       "key": "title:adr",
       "title": "ADRは経緯より「決まったこと」だけでいい",
       "sources": [
@@ -2019,7 +2057,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-07T23:01:54Z",
+    "generated_at": "2026-09-07T23:19:19Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
