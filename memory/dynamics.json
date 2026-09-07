@@ -1,43 +1,45 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-07T02:43:49Z",
+  "generated_at": "2026-09-07T02:53:34Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 12,
+    "dynamics": 16,
     "bands": {
       "strong": 2,
-      "watch": 6,
-      "quiet": 4
+      "watch": 8,
+      "quiet": 6
     },
     "bands_after_gate_recheck": {
       "strong": 2,
-      "watch": 6,
-      "quiet": 4
+      "watch": 8,
+      "quiet": 6
     }
   },
   "top_dynamics": [
     {
-      "title": "Malaysia’s digital economy’s second wave looks nothing like the first",
-      "url": "https://e27.co/malaysias-digital-economys-second-wave-looks-nothing-like-the-first-20260906/",
+      "title": "The ecosystem map: How to stay agile in the US-China AI battle",
+      "url": "https://e27.co/the-ecosystem-map-how-to-stay-agile-in-the-us-china-ai-battle-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-07T02:30:48+00:00",
-      "age_days": 0.01,
+      "published_at": "2026-09-07T02:47:25+00:00",
+      "age_days": 0.0,
       "topics": [
-        "general"
+        "ai"
       ],
-      "dynamics_score": 20.5,
+      "dynamics_score": 20.0,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": false,
+      "single_source_ai_capped": true,
       "why": [
-        "momentum delta +1"
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
     },
@@ -46,7 +48,7 @@
       "url": "https://kanautech.jp/blog/ai-shutsuryoku-html-vs-markdown-kakumei",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-07T00:31:05+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -69,37 +71,59 @@
       "summary": ""
     },
     {
-      "title": "AI has answers, experience has judgment",
-      "url": "https://e27.co/ai-has-answers-experience-has-judgment-20260821/",
+      "title": "Malaysia’s digital economy’s second wave looks nothing like the first",
+      "url": "https://e27.co/malaysias-digital-economys-second-wave-looks-nothing-like-the-first-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-07T01:40:57+00:00",
-      "age_days": 0.04,
+      "published_at": "2026-09-07T02:30:48+00:00",
+      "age_days": 0.02,
       "topics": [
-        "ai"
+        "general"
       ],
-      "dynamics_score": 17.0,
+      "dynamics_score": 18.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "momentum delta +2",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
+        "momentum delta +1"
       ],
       "summary": ""
     },
     {
-      "title": "The real test of ethical AI is whether a frontline employee can challenge it",
-      "url": "https://e27.co/the-real-test-of-ethical-ai-is-whether-a-frontline-employee-can-challenge-it-20260809/",
+      "title": "M 4.6 - off the coast of Oregon",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/attkz06l",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-07T01:40:57+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "AI has answers, experience has judgment",
+      "url": "https://e27.co/ai-has-answers-experience-has-judgment-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-07T01:13:29+00:00",
-      "age_days": 0.06,
+      "published_at": "2026-09-07T01:40:57+00:00",
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -121,35 +145,37 @@
       "summary": ""
     },
     {
-      "title": "M 4.6 - off the coast of Oregon",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/attkz06l",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-07T01:40:57+00:00",
-      "age_days": 0.04,
+      "title": "The real test of ethical AI is whether a frontline employee can challenge it",
+      "url": "https://e27.co/the-real-test-of-ethical-ai-is-whether-a-frontline-employee-can-challenge-it-20260809/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-07T01:13:29+00:00",
+      "age_days": 0.07,
       "topics": [
-        "general"
+        "ai"
       ],
       "dynamics_score": 14.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": false,
+      "single_source_ai_capped": true,
       "why": [
-        "momentum delta +2"
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
     },
     {
-      "title": "M 5.0 - Kermadec Islands region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000test",
+      "title": "M 4.9 - Kermadec Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tesx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-07T02:30:48+00:00",
-      "age_days": 0.01,
+      "published_at": "2026-09-07T02:47:25+00:00",
+      "age_days": 0.0,
       "topics": [
         "general"
       ],
@@ -169,11 +195,35 @@
       "summary": ""
     },
     {
+      "title": "M 4.9 - Kermadec Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tesx",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-07T02:41:03.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "Time 2026-09-07 02:11:51 UTC 2026-09-07 02:11:51 UTC at epicenter Location 31.122°S 178.645°E Depth 585.92 km (364.07 mi)"
+    },
+    {
       "title": "M 5.0 - Kermadec Islands region",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000test",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-07T02:24:04.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
@@ -217,6 +267,30 @@
       "summary": "DYFI? - I Time 2026-09-07 01:30:21 UTC 2026-09-07 01:30:21 UTC at epicenter Location 43.832°N 128.750°W Depth 12.00 km (7.46 mi)"
     },
     {
+      "title": "M 5.0 - Kermadec Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000test",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-07T02:30:48+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 11.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "AI出力フォーマット革命 — Claude CodeチームがMarkdownを捨てHTMLを選ぶ理由 | Kanau Tech",
       "url": "https://kanautech.jp/blog/ai-shutsuryoku-html-vs-markdown-kakumei",
       "source": "Hatena Bookmark Hotentry IT",
@@ -243,11 +317,36 @@
       "summary": "Anthropic Claude Codeチーム Thariq Shihipar 投稿（2026/5/8、X累計1,240万閲覧） イントロ：AIが書く文書、誰がどう読むか 2026年5月、Anthropic で Claude Code を開発する Thariq Shihipar 氏が「Markdownの時代は終わった。AIにはHTMLを書かせよ」という主旨の投稿を公開しました。投稿は1週間で1,240万閲覧・16,4..."
     },
     {
+      "title": "The ecosystem map: How to stay agile in the US-China AI battle",
+      "url": "https://e27.co/the-ecosystem-map-how-to-stay-agile-in-the-us-china-ai-battle-20260906/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-07T02:30:51+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 8.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Remember the massive technology and business wave around “mobile”? The extension both for technology and the business to include the mobile capability and experience was huge. And remember the two early, dominant players? Nokia and Blackberry. And then what happened? Nokia’s OS was Symbian. Horrible to work with, and…"
+    },
+    {
       "title": "AI has answers, experience has judgment",
       "url": "https://e27.co/ai-has-answers-experience-has-judgment-20260821/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-07T01:15:55+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -272,7 +371,7 @@
       "url": "https://e27.co/the-real-test-of-ethical-ai-is-whether-a-frontline-employee-can-challenge-it-20260809/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-07T01:00:16+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -297,7 +396,7 @@
       "url": "https://e27.co/malaysias-digital-economys-second-wave-looks-nothing-like-the-first-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-07T02:00:04+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai",
         "macro"
@@ -320,5 +419,5 @@
       "summary": "“Are you grabbing to this place?” While I incorporated the local expression into my vocabulary as a Brazilian in Malaysia, I reflected about the long journey of the entire tech ecosystem with a smile. Grab is more than a super app, it’s a new context for the entire e-hailing category. When I first came to […] The post…"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Malaysia’s digital economy’s second wave looks nothing like the first” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=20.5."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “The ecosystem map: How to stay agile in the US-China AI battle” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=20.0."
 }
