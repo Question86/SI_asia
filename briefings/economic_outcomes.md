@@ -1,12 +1,13 @@
 # Economic Outcomes
 
-Generated: `2026-09-07T05:22:52+00:00`
+Generated: `2026-09-07T05:33:55+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
 | .gitignore everything by default | $0 | — | 0 | 0 | dormant |
 | Southeast Asia’s chip-hub ambition is colliding with its chip-smuggling problem | $0 | — | 0 | 0 | dormant |
 | WebMCPがアツいので見てほしい \| DevelopersIO | $0 | — | 0 | 0 | dormant |
+| Why Kyoto, not Tokyo, is Japan’s real deeptech bet | $0 | — | 0 | 0 | active |
 | M 6.2 - South Sandwich Islands region | $0 | — | 0 | 0 | dormant |
 | M 4.6 - 170 km ESE of Kuril’sk, Russia | $0 | — | 0 | 0 | dormant |
 | 「三省堂書店池袋本店」閉店へ 11年の歴史に幕、惜しむ声続々 | $0 | — | 0 | 0 | dormant |
@@ -28,4 +29,3 @@ Generated: `2026-09-07T05:22:52+00:00`
 | sngyai/Sequoia-X | $0 | — | 0 | 0 | dormant |
 | tailscale/tailcat | $0 | — | 0 | 0 | dormant |
 | AIショートドラマ『非妖哉』たった2話で1億回再生を記録 中国の映像クリエイターがほぼ1人で制作 | $0 | — | 0 | 0 | dormant |
-| 民間事業者（アイフル株式会社）に対して公的個人認証サービスの利用に関する主務大臣認定を行いました | $0 | — | 0 | 0 | dormant |
