@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-07T04:27:17+00:00_
+_Generiert: 2026-09-07T04:43:51+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „The ecosystem map: How to stay agile in the US-China AI battle“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
+17 neue relevante Treffer. Stärkstes Signal: „The ecosystem map: How to stay agile in the US-China AI battle“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
 
 ## Priorität Hoch
 
