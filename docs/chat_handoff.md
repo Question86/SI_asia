@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-07T07:06:43+00:00_
+_Generated: 2026-09-07T07:33:02+00:00_
 
 ## Status
 - status: `normal`
-- findings: `29`
+- findings: `30`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-09-07T07:06:43+00:00_
 - url: https://e27.co/the-ecosystem-map-how-to-stay-agile-in-the-us-china-ai-battle-20260906/
 - summary: Remember the massive technology and business wave around “mobile”? The extension both for technology and the business to include the mobile capability and experience was huge. And remember the two early, dominant players? Nokia and Blackberry. And then what h…
 
-### 4. [UPDATE] [hoch] Ollama: Schwachstelle ermöglicht Offenlegung von Informationen
+### 4. [UPDATE] [hoch] MISP: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `14`
-- published: `2026-09-07T06:59:50+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1379
-- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Ollama ausnutzen, um Informationen offenzulegen.
+- published: `2026-09-07T07:14:17+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3173
+- summary: Ein Angreifer kann mehrere Schwachstellen in MISP ausnutzen, um Sicherheitsmechanismen zu umgehen, Informationen offenzulegen, Daten oder Sitzungen zu manipulieren und die Verfügbarkeit zu beeinträchtigen.
 
 ### 5. M 5.5 - southeast of the Loyalty Islands
 - source: USGS M4.5+ Earthquakes Past Hour

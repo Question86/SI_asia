@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-07T07:06:43+00:00",
+  "generated_at": "2026-09-07T07:33:02+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 29,
-    "displayed_findings": 29,
+    "new_relevant_findings": 1,
+    "today_file_total": 30,
+    "displayed_findings": 30,
     "high": 0,
-    "medium": 9,
+    "medium": 10,
     "observe": 20
   },
   "source_errors_count": 0,
@@ -45,13 +45,13 @@
       "section": "medium"
     },
     {
-      "title": "[UPDATE] [hoch] Ollama: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "title": "[UPDATE] [hoch] MISP: Mehrere Schwachstellen",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-09-07T06:59:50+00:00",
+      "published_at": "2026-09-07T07:14:17+00:00",
       "relevance_score": 14,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1379",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Ollama ausnutzen, um Informationen offenzulegen.",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3173",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in MISP ausnutzen, um Sicherheitsmechanismen zu umgehen, Informationen offenzulegen, Daten oder Sitzungen zu manipulieren und die Verfügbarkeit zu beeinträchtigen.",
       "section": "medium"
     },
     {

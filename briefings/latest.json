@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T07:06:43+00:00",
-  "run_id": "2026-09-07T07:06:43+00:00",
+  "generated_at": "2026-09-07T07:33:02+00:00",
+  "run_id": "2026-09-07T07:33:02+00:00",
   "date": "2026-09-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 29
+      "configured_public_sources_only": 30
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 29,
-    "displayed_findings": 29,
+    "new_relevant_findings": 1,
+    "today_file_total": 30,
+    "displayed_findings": 30,
     "high": 0,
-    "medium": 9,
+    "medium": 10,
     "observe": 20,
     "source_errors": 0
   },
@@ -123,6 +123,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "000308ca2b2cc18a179e"
+      },
+      {
+        "title": "[UPDATE] [hoch] MISP: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3173",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-07T07:14:17+00:00",
+        "fetched_at": "2026-09-07T07:32:28+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in MISP ausnutzen, um Sicherheitsmechanismen zu umgehen, Informationen offenzulegen, Daten oder Sitzungen zu manipulieren und die Verfügbarkeit zu beeinträchtigen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "aad975dbbb0420e25392"
       },
       {
         "title": "[UPDATE] [hoch] Ollama: Schwachstelle ermöglicht Offenlegung von Informationen",
@@ -906,6 +929,29 @@
       "id": "000308ca2b2cc18a179e"
     },
     {
+      "title": "[UPDATE] [hoch] MISP: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3173",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-07T07:14:17+00:00",
+      "fetched_at": "2026-09-07T07:32:28+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in MISP ausnutzen, um Sicherheitsmechanismen zu umgehen, Informationen offenzulegen, Daten oder Sitzungen zu manipulieren und die Verfügbarkeit zu beeinträchtigen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "aad975dbbb0420e25392"
+    },
+    {
       "title": "[UPDATE] [hoch] Ollama: Schwachstelle ermöglicht Offenlegung von Informationen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1379",
       "source": "BSI CERT-Bund Security Advisories",
@@ -1589,37 +1635,13 @@
   ],
   "new_findings": [
     {
-      "title": "[UPDATE] [mittel] libssh2: Schwachstelle ermöglicht Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1332",
+      "title": "[UPDATE] [hoch] MISP: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3173",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-09-07T06:59:49+00:00",
-      "fetched_at": "2026-09-07T07:06:14+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in libssh2 ausnutzen, um einen Denial of Service Angriff durchzuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security",
-        "Webentwicklung"
-      ],
-      "relevance_score": 17,
-      "relevance_reason": "Security (+6.0); Webentwicklung (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "aaa964ce22b3b82c77d1"
-    },
-    {
-      "title": "[UPDATE] [hoch] Ollama: Schwachstelle ermöglicht Offenlegung von Informationen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1379",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-07T06:59:50+00:00",
-      "fetched_at": "2026-09-07T07:06:14+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Ollama ausnutzen, um Informationen offenzulegen.",
+      "published_at": "2026-09-07T07:14:17+00:00",
+      "fetched_at": "2026-09-07T07:32:28+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in MISP ausnutzen, um Sicherheitsmechanismen zu umgehen, Informationen offenzulegen, Daten oder Sitzungen zu manipulieren und die Verfügbarkeit zu beeinträchtigen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -1633,30 +1655,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "26d54fd4e308c2a31294"
-    },
-    {
-      "title": "[UPDATE] [mittel] Netgate pfSense: Schwachstelle ermöglicht Cross-Site Scripting",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1314",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-07T06:59:49+00:00",
-      "fetched_at": "2026-09-07T07:06:14+00:00",
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Netgate pfSense ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3204ea7b8c6cbbb4a11b"
+      "id": "aad975dbbb0420e25392"
     }
   ],
   "source_errors": [],

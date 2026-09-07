@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-07T07:06:43+00:00",
+  "generated_at": "2026-09-07T07:33:02+00:00",
   "topics": {
     "ai": [
       {
@@ -98,6 +98,13 @@
         "published_at": "2026-09-07T06:59:49+00:00",
         "relevance_score": 17,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1332"
+      },
+      {
+        "title": "[UPDATE] [hoch] MISP: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-07T07:14:17+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3173"
       },
       {
         "title": "[UPDATE] [hoch] Ollama: Schwachstelle ermöglicht Offenlegung von Informationen",
