@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T14:43:31+00:00",
-  "run_id": "2026-09-07T14:43:31+00:00",
+  "generated_at": "2026-09-07T14:58:25+00:00",
+  "run_id": "2026-09-07T14:58:25+00:00",
   "date": "2026-09-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 61,
     "displayed_findings": 61,
     "high": 0,
@@ -3019,29 +3019,7 @@
       "id": "cfae2fd1eabaf9b91b36"
     }
   ],
-  "new_findings": [
-    {
-      "title": "増田→はてブ→X→棘→はてブのループやめろ",
-      "url": "https://anond.hatelabo.jp/20260907165453",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-07T09:16:42+00:00",
-      "fetched_at": "2026-09-07T14:42:58+00:00",
-      "summary": "増田→はてブ→X→棘→はてブの憎悪と分断の永久機関、いい加減断ち切った方がいいんじゃないですかね… 発言できるコメ欄なんてこんなんぼあってもいいですからね〜でヒートアップしてる場合じゃないんだよ そうやってたくさんの人の目に触れてる間に巻き込み事故みたいに人轢いてるかもしれないことをいい加減にそろそろ考...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5d009e52b93dffd0bc86"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
