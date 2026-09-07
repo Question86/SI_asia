@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-07T13:30:37Z",
+  "generated_at": "2026-09-07T13:49:01Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3202",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-07T11:34:17+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security",
         "infra"
@@ -49,7 +49,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2927",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-07T11:19:17+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -74,7 +74,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3201",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-07T11:24:17+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -98,7 +98,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3199",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-07T10:59:20+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "security"
@@ -123,7 +123,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3198",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-07T10:59:19+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -147,7 +147,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3173",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-07T07:14:17+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "security"
       ],
@@ -171,7 +171,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1379",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-07T06:59:50+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -195,7 +195,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1314",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-07T06:59:49+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -215,86 +215,11 @@
       "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Netgate pfSense ausnutzen, um einen Cross-Site Scripting Angriff durchzuführen."
     },
     {
-      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (28 août 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1091/",
-      "source": "CERT-FR Avis de sécurité",
-      "published_at": "2026-08-31T12:39:17+00:00",
-      "age_days": 7.04,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 25.69,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 2.9,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 2.90"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Multiples vulnérabilités dans le noyau Linux de Debian (28 août 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1090/",
-      "source": "CERT-FR Avis de sécurité",
-      "published_at": "2026-09-01T13:58:29+00:00",
-      "age_days": 5.98,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 25.69,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 2.9,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 2.90"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (28 août 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1093/",
-      "source": "CERT-FR Avis de sécurité",
-      "published_at": "2026-09-01T13:58:29+00:00",
-      "age_days": 5.98,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 25.69,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 2.9,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 2.90"
-      ],
-      "summary": ""
-    },
-    {
       "title": "MikroTrick: RouterOS-Lücken werden aktiv ausgenutzt – jetzt patchen",
       "url": "https://www.heise.de/news/MikroTrick-RouterOS-Luecken-werden-aktiv-ausgenutzt-jetzt-patchen-11443474.html",
       "source": "heise Security Alerts",
       "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 80.24,
+      "age_days": 80.26,
       "topics": [
         "security"
       ],
@@ -312,7 +237,7 @@
         "momentum delta +3",
         "high terms: ausgenutzt",
         "security high-signal: ausgenutzt",
-        "aging penalty -8.0 for 80.2d old signal"
+        "aging penalty -8.0 for 80.3d old signal"
       ],
       "summary": ""
     },
@@ -321,7 +246,7 @@
       "url": "https://github.com/openai/skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-07T05:58:25+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "ai",
         "macro"
@@ -350,7 +275,7 @@
       "url": "https://github.com/anomalyco/opencode",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-07T05:58:25+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "ai"
       ],
@@ -379,7 +304,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2119",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-07T10:44:23+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -405,7 +330,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3175",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-07T11:44:18+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -431,7 +356,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3203",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-07T11:34:17+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -457,7 +382,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3200",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-07T10:59:20+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -483,7 +408,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2420",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-07T06:39:53+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -509,7 +434,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0961",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-07T05:19:18+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -535,7 +460,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1332",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-07T06:59:49+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -560,7 +485,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2382",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-07T10:54:24+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -585,7 +510,7 @@
       "url": "https://github.com/anomalyco/opencode",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-07T05:59:00+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "extreme",
@@ -611,7 +536,7 @@
       "url": "https://e27.co/taiwans-startup-talent-problem-is-a-matching-problem-not-a-shortage-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-07T03:08:05+00:00",
-      "age_days": 0.43,
+      "age_days": 0.45,
       "topics": [
         "ai"
       ],
@@ -639,7 +564,7 @@
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1089/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-09-07T13:25:56+00:00",
-      "age_days": 0.0,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -649,12 +574,12 @@
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 2,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +1",
+        "momentum delta +2",
         "security high-signal: security",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
@@ -665,7 +590,7 @@
       "url": "https://github.com/openai/skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-07T05:59:00+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "ai"
       ],
@@ -692,7 +617,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1332",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 9.97,
+      "age_days": 9.99,
       "topics": [
         "security"
       ],
@@ -703,12 +628,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 14.72,
+      "baseline_z_hint": 12.42,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 14.72",
+        "baseline z_hint 12.42",
         "high terms: rce",
         "security high-signal: rce",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
@@ -720,7 +645,7 @@
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1089/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-08-28T00:00:00+00:00",
-      "age_days": 10.56,
+      "age_days": 10.58,
       "topics": [
         "security"
       ],
@@ -746,7 +671,7 @@
       "url": "https://www.heise.de/news/MikroTrick-RouterOS-Luecken-werden-aktiv-ausgenutzt-jetzt-patchen-11443474.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-07T12:10:00.000+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -771,7 +696,7 @@
       "url": "https://e27.co/from-us79300-to-us82400-mapping-the-narrow-corridor-that-decides-bitcoins-september-20260907/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-07T04:36:37+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "general"
       ],
@@ -796,7 +721,7 @@
       "url": "https://scgajge12.hatenablog.com/entry/closed_network_security",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-06T09:34:08+00:00",
-      "age_days": 1.16,
+      "age_days": 1.18,
       "topics": [
         "security"
       ],
@@ -820,7 +745,7 @@
       "url": "https://e27.co/taiwans-startup-talent-problem-is-a-matching-problem-not-a-shortage-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-07T03:00:17+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "ai"
       ],
@@ -847,7 +772,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11183-06a5e-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-09-04T09:18:00+00:00",
-      "age_days": 3.18,
+      "age_days": 3.19,
       "topics": [
         "security"
       ],
@@ -871,7 +796,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teu1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-07T06:18:50.143+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "disaster"
       ],
@@ -896,7 +821,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teu1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-07T06:44:15+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -920,7 +845,7 @@
       "url": "https://kanautech.jp/blog/ai-shutsuryoku-html-vs-markdown-kakumei",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-07T00:31:05+00:00",
-      "age_days": 0.54,
+      "age_days": 0.55,
       "topics": [
         "ai"
       ],
@@ -947,7 +872,79 @@
       "url": "https://scgajge12.hatenablog.com/entry/closed_network_security",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-07T03:08:05+00:00",
-      "age_days": 0.43,
+      "age_days": 0.45,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 20.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (28 août 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1091/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-08-31T12:39:17+00:00",
+      "age_days": 7.05,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 20.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Multiples vulnérabilités dans le noyau Linux de Debian (28 août 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1090/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-09-01T13:58:29+00:00",
+      "age_days": 5.99,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 20.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (28 août 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1093/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-09-01T13:58:29+00:00",
+      "age_days": 5.99,
       "topics": [
         "general"
       ],
@@ -971,7 +968,7 @@
       "url": "https://e27.co/the-us103k-visa-fee-is-a-gift-to-seas-talent-pool-if-the-region-actually-wants-it-20260907/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-07T08:54:42+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -992,11 +989,38 @@
       "summary": ""
     },
     {
+      "title": "Announcing 20260079 (MRO,liquidity providing), for 7 days deadline 09:30",
+      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260079.en.html",
+      "source": "ECB Open Market Operations and Communication",
+      "published_at": "2026-06-18T14:33:45+00:00",
+      "age_days": 80.97,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 19.9,
+      "raw_band": "strong",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 5.8,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 5.80",
+        "aging penalty -8.0 for 81.0d old signal",
+        "stale single-source cap: max watch after 14d without fresh resonance"
+      ],
+      "summary": ""
+    },
+    {
       "title": "新メンバーが早く馴染むチームビルディング「トリセツ会」 - Techtouch Developers Blog",
       "url": "https://tech.techtouch.jp/entry/team-building-torisetsu-kai",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-07T03:08:05+00:00",
-      "age_days": 0.43,
+      "age_days": 0.45,
       "topics": [
         "general"
       ],
@@ -1012,30 +1036,6 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (28 août 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1092/",
-      "source": "CERT-FR Avis de sécurité",
-      "published_at": "2026-09-07T13:25:56+00:00",
-      "age_days": 0.0,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 17.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
       ],
       "summary": ""
     }
