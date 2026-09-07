@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-07T05:29:44Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Netgate pfSense Plus und CE: Mehrere Schwachstellen” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.5.",
+  "generated_at": "2026-09-07T05:42:06Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Netgate pfSense Plus und CE: Mehrere Schwachstellen” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -14,32 +14,8 @@
       "title": "[UPDATE] [hoch] Netgate pfSense Plus und CE: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0961",
       "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 9.64,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 25.5,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "[UPDATE] [hoch] Netgate pfSense Plus und CE: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0961",
-      "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-07T05:19:18+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -65,7 +41,7 @@
       "url": "https://e27.co/taiwans-startup-talent-problem-is-a-matching-problem-not-a-shortage-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-07T03:08:05+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -93,7 +69,7 @@
       "url": "https://e27.co/from-us79300-to-us82400-mapping-the-narrow-corridor-that-decides-bitcoins-september-20260907/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-07T04:36:37+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
@@ -118,7 +94,7 @@
       "url": "https://scgajge12.hatenablog.com/entry/closed_network_security",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-06T09:34:08+00:00",
-      "age_days": 0.83,
+      "age_days": 0.84,
       "topics": [
         "security"
       ],
@@ -138,11 +114,35 @@
       "summary": "はじめに こんにちは、morioka12 です。 本稿では、医療機関の閉域網 (Closed Network) を攻撃者の視点から読み解き、「閉域網だから安全」という神話がどこで壊れるのかを紹介します。工場や港湾の事例も、同じ壊れ方を映す鏡として扱います。 先に結論です。「閉域網だから安全」という認識は誤りといえます。 閉域網..."
     },
     {
+      "title": "[UPDATE] [hoch] Netgate pfSense Plus und CE: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0961",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-28T14:08:37+00:00",
+      "age_days": 9.65,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Taiwan’s startup talent problem is a matching problem, not a shortage",
       "url": "https://e27.co/taiwans-startup-talent-problem-is-a-matching-problem-not-a-shortage-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-07T03:00:17+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -169,7 +169,7 @@
       "url": "https://kanautech.jp/blog/ai-shutsuryoku-html-vs-markdown-kakumei",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-07T00:31:05+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -196,7 +196,7 @@
       "url": "https://scgajge12.hatenablog.com/entry/closed_network_security",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-07T03:08:05+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -220,7 +220,7 @@
       "url": "https://tech.techtouch.jp/entry/team-building-torisetsu-kai",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-07T03:08:05+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -244,7 +244,7 @@
       "url": "https://e27.co/the-ecosystem-map-how-to-stay-agile-in-the-us-china-ai-battle-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-07T02:47:25+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -270,7 +270,7 @@
       "url": "https://e27.co/sea-funding-falls-from-july-high-but-august-still-points-to-a-larger-rebound-20260907/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-07T04:27:21+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
@@ -294,7 +294,7 @@
       "url": "https://e27.co/malaysias-digital-economys-second-wave-looks-nothing-like-the-first-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-07T02:30:48+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
