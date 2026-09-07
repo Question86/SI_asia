@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-09-07T13:37:23+00:00_
+_Generiert: 2026-09-07T13:45:31+00:00_
 
 ## Multiples vulnérabilités dans Tenable Enclave Security (28 août 2026)
 

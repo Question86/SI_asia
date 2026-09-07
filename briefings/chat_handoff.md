@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-07T13:37:18+00:00_
+_Generated: 2026-09-07T13:45:27+00:00_
 
 ## Status
 - status: `normal`
-- findings: `58`
+- findings: `59`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-09-07T13:37:18+00:00_
 - url: https://e27.co/the-real-test-of-ethical-ai-is-whether-a-frontline-employee-can-challenge-it-20260809/
 - summary: A great deal of ethical AI discussion still happens at a distance from the people who live with the system every day. It happens in governance forums, legal reviews, executive updates, risk committees, and product documents. All of that has value, but none of…
 
-### 8. Taiwan’s startup talent problem is a matching problem, not a shortage
-- source: e27 Asia Startup and Tech Feed
+### 8. Announcing 20260079 (MRO,liquidity providing), for 7 days deadline 09:30
+- source: ECB Open Market Operations and Communication
 - score: `12`
-- published: `2026-09-07T03:00:17+00:00`
-- url: https://e27.co/taiwans-startup-talent-problem-is-a-matching-problem-not-a-shortage-20260906/
-- summary: Taiwan does not appear to have a simple shortage of people interested in startups. The more immediate problem is matching people with complementary skills, compatible expectations and a practical way to test collaboration. I see this repeatedly as the platfor…
+- published: `2026-09-07T14:40:23+00:00`
+- url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260079.en.html
+- summary: Announcing 20260079 (MRO,liquidity providing), for 7 days deadline 09:30
 
 END OF DOCUMENT
