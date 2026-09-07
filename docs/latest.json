@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T05:33:21+00:00",
-  "run_id": "2026-09-07T05:33:21+00:00",
+  "generated_at": "2026-09-07T05:43:52+00:00",
+  "run_id": "2026-09-07T05:43:52+00:00",
   "date": "2026-09-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 20,
     "displayed_findings": 20,
     "high": 0,
@@ -1057,28 +1057,7 @@
       "id": "4d0f6f68357b953bd8b1"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Why Kyoto, not Tokyo, is Japan’s real deeptech bet",
-      "url": "https://e27.co/why-kyoto-not-tokyo-is-japans-real-deeptech-bet-20260907/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-07T05:30:26+00:00",
-      "fetched_at": "2026-09-07T05:32:49+00:00",
-      "summary": "Ask most investors where Japan’s startup action is, and they will say Tokyo without hesitation. But at this year’s IVS 2026, one of Japan’s largest startup gatherings, a quieter story was playing out an hour’s train ride south-west: Kyoto, a city better known for temples than transistors, has quietly built one of Asia’s more interesting […] The post Why Kyoto, not Tokyo, is Japan’s real deeptech bet appeared first o…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan, Tokyo (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "20847d8167b973adb2c3"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
