@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T04:02:48+00:00",
-  "run_id": "2026-09-07T04:02:48+00:00",
+  "generated_at": "2026-09-07T04:27:17+00:00",
+  "run_id": "2026-09-07T04:27:17+00:00",
   "date": "2026-09-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 14
+      "configured_public_sources_only": 15
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 14,
-    "displayed_findings": 14,
+    "new_relevant_findings": 1,
+    "today_file_total": 15,
+    "displayed_findings": 15,
     "high": 0,
     "medium": 2,
-    "observe": 12,
+    "observe": 13,
     "source_errors": 0
   },
   "sections": {
@@ -330,6 +330,28 @@
           "LOW"
         ],
         "id": "b86e9aacfc74641c6dc3"
+      },
+      {
+        "title": "SEA funding falls from July high, but August still points to a larger rebound",
+        "url": "https://e27.co/sea-funding-falls-from-july-high-but-august-still-points-to-a-larger-rebound-20260907/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-07T04:14:12+00:00",
+        "fetched_at": "2026-09-07T04:26:48+00:00",
+        "summary": "Southeast Asia’s tech funding market cooled sharply in August 2026 after an unusually strong July, but the broader recovery story remains intact. Startups in the region raised US$1.171 billion across 13 rounds during the month, according to Tracxn data, down 74.78 per cent from July but 582.75 per cent higher than August 2025. Also Read: […] The post SEA funding falls from July high, but August still points to a lar…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "funding",
+          "Southeast Asia"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.0); funding (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b0efce6493ede01deae2"
       },
       {
         "title": "Malaysia’s digital economy’s second wave looks nothing like the first",
@@ -696,6 +718,28 @@
       "id": "b86e9aacfc74641c6dc3"
     },
     {
+      "title": "SEA funding falls from July high, but August still points to a larger rebound",
+      "url": "https://e27.co/sea-funding-falls-from-july-high-but-august-still-points-to-a-larger-rebound-20260907/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-07T04:14:12+00:00",
+      "fetched_at": "2026-09-07T04:26:48+00:00",
+      "summary": "Southeast Asia’s tech funding market cooled sharply in August 2026 after an unusually strong July, but the broader recovery story remains intact. Startups in the region raised US$1.171 billion across 13 rounds during the month, according to Tracxn data, down 74.78 per cent from July but 582.75 per cent higher than August 2025. Also Read: […] The post SEA funding falls from July high, but August still points to a lar…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "funding",
+        "Southeast Asia"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.0); funding (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b0efce6493ede01deae2"
+    },
+    {
       "title": "Malaysia’s digital economy’s second wave looks nothing like the first",
       "url": "https://e27.co/malaysias-digital-economys-second-wave-looks-nothing-like-the-first-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -757,7 +801,30 @@
       "id": "4d0f6f68357b953bd8b1"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "SEA funding falls from July high, but August still points to a larger rebound",
+      "url": "https://e27.co/sea-funding-falls-from-july-high-but-august-still-points-to-a-larger-rebound-20260907/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-07T04:14:12+00:00",
+      "fetched_at": "2026-09-07T04:26:48+00:00",
+      "summary": "Southeast Asia’s tech funding market cooled sharply in August 2026 after an unusually strong July, but the broader recovery story remains intact. Startups in the region raised US$1.171 billion across 13 rounds during the month, according to Tracxn data, down 74.78 per cent from July but 582.75 per cent higher than August 2025. Also Read: […] The post SEA funding falls from July high, but August still points to a lar…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "funding",
+        "Southeast Asia"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.0); funding (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b0efce6493ede01deae2"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
