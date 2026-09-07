@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-07T05:00:28+00:00_
+_Generiert: 2026-09-07T05:22:15+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „The ecosystem map: How to stay agile in the US-China AI battle“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
+19 neue relevante Treffer. Stärkstes Signal: „The ecosystem map: How to stay agile in the US-China AI battle“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
 
 ## Priorität Hoch
 
@@ -20,6 +20,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0); watchgraph region china_credible_only: China (+2.0)
   - Kurz: Remember the massive technology and business wave around “mobile”? The extension both for technology and the business to include the mobile capability and experience was huge. And remember the two early, dominant players? Nokia and Blackberry. And then what happened? Nokia’s OS was Symbian. Horrible to work with, and the Software Development Kit (SDK) seemed […] The post The ecosystem map: How to stay agile in the U…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [hoch] Netgate pfSense Plus und CE: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0961)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-09-07T05:19:18+00:00`, fetched `2026-09-07T05:21:46+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Netgate pfSense Plus und CE ausnutzen, um beliebigen Programmcode auszuführen oder Cross-Site-Scripting-Angriffe durchzuführen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AI出力フォーマット革命 — Claude CodeチームがMarkdownを捨てHTMLを選ぶ理由 | Kanau Tech** — Score 14, observation — [Quelle](https://kanautech.jp/blog/ai-shutsuryoku-html-vs-markdown-kakumei)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -105,14 +114,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-07 02:06:48 UTC 2026-09-07 02:06:48 UTC at epicenter Location 30.966°S 178.544°E Depth 585.15 km (363.59 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **ついにAIキャラクターと“ビデオチャット”へ 「MiniMax H3」がリアルタイム生成に接近 (1/5)** — Score 5, observation — [Quelle](https://ascii.jp/elem/000/004/432/4432622/)
+- **米ロボタクシー、「いきなりブレーキ」でむち打ち続出 | 自動運転ラボ** — Score 5, observation — [Quelle](https://jidounten-lab.com/u_67445)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-06T23:19:08+00:00`, fetched `2026-09-07T03:29:13+00:00`
+  - Zeit: published `2026-09-07T00:31:11+00:00`, fetched `2026-09-07T05:21:46+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 動画モデル「MiniMax H3」のウェイトの公開後も、コミュニティのアップデートが止まりません。ついにリアルタイムに近い動画生成まで実現可能になってきました。生成時間の短さを利用した会話ゲームや無限に生成する仕組みをローカルPCでも実現する環境が登場。さらなる高速化技法も登場し、動画AIの再定義が進みつつあ...
+  - Kurz: 自動運転によるロボタクシー開発が進んでいる米国で、テストドライバーの負傷事故が相次いでいる。Google系Waymoやアマゾン系Zooxでは、2024年から2025年にかけて24件以上の負傷事故が報告された。 負傷原因は、他車との衝突事故などより、急ブレーキなどのシステムの急制動や急旋回などの誤作動から起因するケースが多...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

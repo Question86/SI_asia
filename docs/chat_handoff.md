@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-07T05:00:28+00:00_
+_Generated: 2026-09-07T05:22:15+00:00_
 
 ## Status
 - status: `normal`
-- findings: `17`
+- findings: `19`
 
 ## Top Signals
 
@@ -15,35 +15,42 @@ _Generated: 2026-09-07T05:00:28+00:00_
 - url: https://e27.co/the-ecosystem-map-how-to-stay-agile-in-the-us-china-ai-battle-20260906/
 - summary: Remember the massive technology and business wave around “mobile”? The extension both for technology and the business to include the mobile capability and experience was huge. And remember the two early, dominant players? Nokia and Blackberry. And then what h…
 
-### 2. AI出力フォーマット革命 — Claude CodeチームがMarkdownを捨てHTMLを選ぶ理由 | Kanau Tech
+### 2. [UPDATE] [hoch] Netgate pfSense Plus und CE: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `14`
+- published: `2026-09-07T05:19:18+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0961
+- summary: Ein Angreifer kann mehrere Schwachstellen in Netgate pfSense Plus und CE ausnutzen, um beliebigen Programmcode auszuführen oder Cross-Site-Scripting-Angriffe durchzuführen.
+
+### 3. AI出力フォーマット革命 — Claude CodeチームがMarkdownを捨てHTMLを選ぶ理由 | Kanau Tech
 - source: Hatena Bookmark Hotentry IT
 - score: `14`
 - published: `2026-09-06T22:16:57+00:00`
 - url: https://kanautech.jp/blog/ai-shutsuryoku-html-vs-markdown-kakumei
 - summary: Anthropic Claude Codeチーム Thariq Shihipar 投稿（2026/5/8、X累計1,240万閲覧） イントロ：AIが書く文書、誰がどう読むか 2026年5月、Anthropic で Claude Code を開発する Thariq Shihipar 氏が「Markdownの時代は終わった。AIにはHTMLを書かせよ」という主旨の投稿を公開しました。投稿は1週間で1,240万閲覧・16,4...
 
-### 3. AI has answers, experience has judgment
+### 4. AI has answers, experience has judgment
 - source: e27 Asia Startup and Tech Feed
 - score: `13`
 - published: `2026-09-07T01:15:55+00:00`
 - url: https://e27.co/ai-has-answers-experience-has-judgment-20260821/
 - summary: Ask AI how to improve a factory, a clinic, a logistics company, or a retail business, and it will have plenty to say. It can list ideas, explain trends, draft plans, compare options, and make a rough proposal sound persuasive. In a few minutes, it can produce…
 
-### 4. The real test of ethical AI is whether a frontline employee can challenge it
+### 5. The real test of ethical AI is whether a frontline employee can challenge it
 - source: e27 Asia Startup and Tech Feed
 - score: `13`
 - published: `2026-09-07T01:00:16+00:00`
 - url: https://e27.co/the-real-test-of-ethical-ai-is-whether-a-frontline-employee-can-challenge-it-20260809/
 - summary: A great deal of ethical AI discussion still happens at a distance from the people who live with the system every day. It happens in governance forums, legal reviews, executive updates, risk committees, and product documents. All of that has value, but none of…
 
-### 5. Taiwan’s startup talent problem is a matching problem, not a shortage
+### 6. Taiwan’s startup talent problem is a matching problem, not a shortage
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-09-07T03:00:17+00:00`
 - url: https://e27.co/taiwans-startup-talent-problem-is-a-matching-problem-not-a-shortage-20260906/
 - summary: Taiwan does not appear to have a simple shortage of people interested in startups. The more immediate problem is matching people with complementary skills, compatible expectations and a practical way to test collaboration. I see this repeatedly as the platfor…
 
-### 6. 攻撃者視点で読み解く、医療機関の「閉域網神話」の壊れ方 - blog of morioka12
+### 7. 攻撃者視点で読み解く、医療機関の「閉域網神話」の壊れ方 - blog of morioka12
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-09-06T09:34:08+00:00`
