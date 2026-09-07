@@ -49,6 +49,31 @@
     "id": "2440b9913ae5937f35a7"
   },
   {
+    "title": "Multiples vulnérabilités dans Tenable Enclave Security (28 août 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1089/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-08-28T00:00:00+00:00",
+    "fetched_at": "2026-09-07T13:25:21+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans Tenable Enclave Security. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "Security",
+      "sécurité",
+      "vulnérabilité",
+      "éditeur"
+    ],
+    "relevance_score": 18,
+    "relevance_reason": "Security (+7.5); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "1bce975bdd21c1bdd950"
+  },
+  {
     "title": "[UPDATE] [mittel] libssh2: Schwachstelle ermöglicht Denial of Service",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1332",
     "source": "BSI CERT-Bund Security Advisories",
@@ -636,6 +661,102 @@
     "id": "3e44d7aeaa91569e3d1a"
   },
   {
+    "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (28 août 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1091/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-08-28T00:00:00+00:00",
+    "fetched_at": "2026-09-07T13:25:21+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "Linux",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "06d592340a34d092776f"
+  },
+  {
+    "title": "Multiples vulnérabilités dans le noyau Linux de Red Hat (28 août 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1092/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-08-28T00:00:00+00:00",
+    "fetched_at": "2026-09-07T13:25:21+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "Linux",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "66a58dd751fec3157f58"
+  },
+  {
+    "title": "Multiples vulnérabilités dans le noyau Linux de Debian (28 août 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1090/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-08-28T00:00:00+00:00",
+    "fetched_at": "2026-09-07T13:25:21+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "Linux",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d77fc7a06d31d38a9252"
+  },
+  {
+    "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (28 août 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1093/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-08-28T00:00:00+00:00",
+    "fetched_at": "2026-09-07T13:25:21+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "Linux",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "672f4501a76b840b33c8"
+  },
+  {
     "title": "ITエンジニアあるある「フィクションのIT系の演出でリアリティがなくて冷める」→素晴らしいバランスを持つマンガが貼られて胃がキュッとなる",
     "url": "https://togetter.com/li/2742721",
     "source": "Hatena Bookmark Hotentry IT",
@@ -952,6 +1073,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "e86c24a9eaee68cc9e6f"
+  },
+  {
+    "title": "Multiples vulnérabilités dans Traefik (27 août 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1088/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-08-27T00:00:00+00:00",
+    "fetched_at": "2026-09-07T13:25:21+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans Traefik. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "31b7d4749e1452aca7b3"
   },
   {
     "title": "MikroTrick: RouterOS-Lücken werden aktiv ausgenutzt – jetzt patchen",

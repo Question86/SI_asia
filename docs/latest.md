@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-07T13:07:35+00:00_
+_Generiert: 2026-09-07T13:25:54+00:00_
 
 ## Kurzlage
 
-52 neue relevante Treffer. Stärkstes Signal: „openai/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+58 neue relevante Treffer. Stärkstes Signal: „openai/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -21,6 +21,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); AI Agents (+6.2); APAC Trend Radar (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: Skills Catalog for Codex Important This repository is deprecated. For current Codex skill and plugin examples, use the OpenAI Plugins repository . If you want to add your own skills to Codex, follow the Build plugins guide, which includes instructions for creating a skill-only plugin. Agent Skills Agent Skills are folders of instructions, scripts, and resources that AI agents can discover and use to perform at speci…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Multiples vulnérabilités dans Tenable Enclave Security (28 août 2026)** — Score 18, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1089/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-08-28T00:00:00+00:00`, fetched `2026-09-07T13:25:21+00:00`
+  - Treffer: avis, CERT-FR, Security, sécurité, vulnérabilité, éditeur
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+7.5); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Tenable Enclave Security. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [mittel] libssh2: Schwachstelle ermöglicht Denial of Service** — Score 17, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1332)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-09-07T06:59:49+00:00`, fetched `2026-09-07T07:06:14+00:00`
@@ -123,6 +132,33 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: はじめに こんにちは、morioka12 です。 本稿では、医療機関の閉域網 (Closed Network) を攻撃者の視点から読み解き、「閉域網だから安全」という神話がどこで壊れるのかを紹介します。工場や港湾の事例も、同じ壊れ方を映す鏡として扱います。 先に結論です。「閉域網だから安全」という認識は誤りといえます。 閉域網...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans le noyau Linux de SUSE (28 août 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1091/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-08-28T00:00:00+00:00`, fetched `2026-09-07T13:25:21+00:00`
+  - Treffer: avis, CERT-FR, Linux, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans le noyau Linux de Red Hat (28 août 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1092/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-08-28T00:00:00+00:00`, fetched `2026-09-07T13:25:21+00:00`
+  - Treffer: avis, CERT-FR, Linux, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans le noyau Linux de Red Hat. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans le noyau Linux de Debian (28 août 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1090/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-08-28T00:00:00+00:00`, fetched `2026-09-07T13:25:21+00:00`
+  - Treffer: avis, CERT-FR, Linux, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian. Elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ITエンジニアあるある「フィクションのIT系の演出でリアリティがなくて冷める」→素晴らしいバランスを持つマンガが貼られて胃がキュッとなる** — Score 10, observation — [Quelle](https://togetter.com/li/2742721)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-07T10:29:11+00:00`, fetched `2026-09-07T12:41:03+00:00`
@@ -185,33 +221,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: CERT Polska warnt vor aktiv ausgenutzten Lücken in MikroTik RouterOS. Über SSH lassen sich Router ohne Zugangsdaten komplett übernehmen. Update dringend nötig.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **令和8年熊本地震に関する対応状況について（9月7日）** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/4d10e390-4a0b-44f9-90c6-67c2b00537b0)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-09-07T08:00:00+00:00`, fetched `2026-09-07T08:41:42+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 令和8年熊本地震に関する対応状況について（9月7日）
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **川崎デジタル大臣政務官がデンマーク王国を訪問しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/94b4ea71-a198-4d78-b0a4-6322ed7bfeee)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-09-07T06:00:00+00:00`, fetched `2026-09-07T06:43:39+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 川崎デジタル大臣政務官がデンマーク王国を訪問しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ジョージアとデジタル分野における協力覚書を取り交わしました** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/3da015e6-8d5c-494c-996c-d7a911f51fdb)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-09-07T06:00:00+00:00`, fetched `2026-09-07T06:43:39+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: ジョージアとデジタル分野における協力覚書を取り交わしました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
