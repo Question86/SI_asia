@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T07:33:05+00:00",
-  "today_file_total": 30,
+  "generated_at": "2026-09-07T07:48:51+00:00",
+  "today_file_total": 31,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -23,9 +23,9 @@
       "max_score": 17,
       "credibility_total": 6.3,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 32.6,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 29.6,
       "hot": true,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
@@ -192,6 +192,29 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
+      "network_score": 15.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:openai.com",
+      "title": "Supporting independent journalism in Ukraine",
+      "sources": [
+        "OpenAI News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://openai.com/index/supporting-independent-journalism-in-ukraine"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
       "network_score": 15.1,
       "hot": false,
       "watchgraph_modules": [],
@@ -456,31 +479,6 @@
       "network_score": 9.1,
       "hot": false,
       "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:300-400-mapping-narrow-corridor-that-decides-bitcoin",
-      "title": "From US$79,300 to US$82,400: Mapping the narrow corridor that decides Bitcoin’s September",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/from-us79300-to-us82400-mapping-the-narrow-corridor-that-decides-bitcoins-september-20260907/"
-      ],
-      "finding_count": 1,
-      "max_score": 7,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 9.1,
-      "hot": false,
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     }
   ]
