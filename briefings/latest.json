@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T16:52:38+00:00",
-  "run_id": "2026-09-07T16:52:38+00:00",
+  "generated_at": "2026-09-07T16:59:30+00:00",
+  "run_id": "2026-09-07T16:59:30+00:00",
   "date": "2026-09-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 63,
     "displayed_findings": 63,
     "high": 1,
@@ -3128,29 +3128,7 @@
       "id": "cfae2fd1eabaf9b91b36"
     }
   ],
-  "new_findings": [
-    {
-      "title": "外国人支援員、全国に拡大 ３８都道府県に配置―入管庁、評価・待遇改善を検討：時事ドットコム",
-      "url": "https://www.jiji.com/jc/article?k=2026090700127&g=soc",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-07T09:28:36+00:00",
-      "fetched_at": "2026-09-07T16:52:05+00:00",
-      "summary": "外国人支援員、全国に拡大 ３８都道府県に配置―入管庁、評価・待遇改善を検討 時事通信 編集局2026年09月07日14時32分配信 「外国人支援コーディネーター」認定証のサンプル（出入国在留管理庁のウェブサイトより） 生活上の困難を抱えた在留外国人を地方自治体などの窓口で支援する「コーディネーター」が全国に広がっ...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "eff5647017a479b48dc9"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

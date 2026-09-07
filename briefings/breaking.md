@@ -1,10 +1,10 @@
 # Senna Breaking
 
-_Generiert: 2026-09-07T16:52:41+00:00_
+_Generiert: 2026-09-07T16:59:39+00:00_
 
 ## Zero-Day-Lücke StyleSmuggler in Magento und Adobe Commerce wird aktiv ausgenutzt
 
-- Ranking Score: `34.5`
+- Ranking Score: `34.32`
 - Raw Network Score: `28.2`
 - Max Monitor Score: `24`
 - Reichweite: `specialist` / `2.5`
