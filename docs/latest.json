@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T19:45:25+00:00",
-  "run_id": "2026-09-07T19:45:25+00:00",
+  "generated_at": "2026-09-07T19:52:45+00:00",
+  "run_id": "2026-09-07T19:52:45+00:00",
   "date": "2026-09-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 63
+      "configured_public_sources_only": 64
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 63,
-    "displayed_findings": 63,
+    "new_relevant_findings": 1,
+    "today_file_total": 64,
+    "displayed_findings": 64,
     "high": 1,
     "medium": 21,
-    "observe": 41,
+    "observe": 42,
     "source_errors": 0
   },
   "sections": {
@@ -725,6 +725,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "64d783d88b873faa3894"
+      },
+      {
+        "title": "GitHub - Tencent/teamai-cli: Make Every Team AI Native",
+        "url": "https://github.com/Tencent/teamai-cli",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-07T16:43:47+00:00",
+        "fetched_at": "2026-09-07T19:52:17+00:00",
+        "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert",
+        "matched_keywords": [
+          "AI/KI",
+          "GitHub",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ea73effbb76f9388095e"
       },
       {
         "title": "AIがお姉ちゃんになって3年が過ぎました - 本しゃぶり",
@@ -2276,6 +2299,29 @@
       "id": "64d783d88b873faa3894"
     },
     {
+      "title": "GitHub - Tencent/teamai-cli: Make Every Team AI Native",
+      "url": "https://github.com/Tencent/teamai-cli",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-07T16:43:47+00:00",
+      "fetched_at": "2026-09-07T19:52:17+00:00",
+      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert",
+      "matched_keywords": [
+        "AI/KI",
+        "GitHub",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ea73effbb76f9388095e"
+    },
+    {
       "title": "AIがお姉ちゃんになって3年が過ぎました - 本しゃぶり",
       "url": "https://honeshabri.hatenablog.com/entry/AIone-chan2026",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3128,7 +3174,31 @@
       "id": "cfae2fd1eabaf9b91b36"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "GitHub - Tencent/teamai-cli: Make Every Team AI Native",
+      "url": "https://github.com/Tencent/teamai-cli",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-07T16:43:47+00:00",
+      "fetched_at": "2026-09-07T19:52:17+00:00",
+      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert",
+      "matched_keywords": [
+        "AI/KI",
+        "GitHub",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ea73effbb76f9388095e"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
