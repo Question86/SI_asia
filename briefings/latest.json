@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-07T07:56:41+00:00",
-  "run_id": "2026-09-07T07:56:41+00:00",
+  "generated_at": "2026-09-07T08:42:12+00:00",
+  "run_id": "2026-09-07T08:42:12+00:00",
   "date": "2026-09-07",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 31
+      "configured_public_sources_only": 35
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 31,
-    "displayed_findings": 31,
+    "new_relevant_findings": 4,
+    "today_file_total": 35,
+    "displayed_findings": 35,
     "high": 0,
     "medium": 10,
-    "observe": 21,
+    "observe": 25,
     "source_errors": 0
   },
   "sections": {
@@ -750,6 +750,26 @@
         "id": "7abbc4567149f2aa33b4"
       },
       {
+        "title": "令和8年熊本地震に関する対応状況について（9月7日）",
+        "url": "https://www.digital.go.jp/news/4d10e390-4a0b-44f9-90c6-67c2b00537b0",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-09-07T08:00:00+00:00",
+        "fetched_at": "2026-09-07T08:41:42+00:00",
+        "summary": "令和8年熊本地震に関する対応状況について（9月7日）",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "33d1feb6ef5b1514ebae"
+      },
+      {
         "title": "川崎デジタル大臣政務官がデンマーク王国を訪問しました",
         "url": "https://www.digital.go.jp/news/94b4ea71-a198-4d78-b0a4-6322ed7bfeee",
         "source": "Japan Digital Agency News RSS",
@@ -810,6 +830,48 @@
         "id": "9bcbbd666bf836942695"
       },
       {
+        "title": "ADRは経緯より「決まったこと」だけでいい",
+        "url": "https://zenn.dev/yamitake/articles/adr-decision-over-context",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-07T02:10:01+00:00",
+        "fetched_at": "2026-09-07T08:41:42+00:00",
+        "summary": "はじめに 先に言っておくと、僕はADR（Architecture Decision Record）を全否定するつもりはありません。設計の判断を残しておくのは、明らかに価値があります。 ただ、ADRの話になると必ず「経緯を丁寧に残そう」という方向に進みがちです。なぜその設計にしたのか、どんな議論があったのか、どの案を捨てたのか。 でも...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "77c9cbcade56f4c21fa7"
+      },
+      {
+        "title": "AIを「社内一の怠け者だけど優秀なベテランエンジニア」に変えるツール「ポニーテール」が生成コードを最大94%削減する（生成AIクローズアップ） | テクノエッジ TechnoEdge",
+        "url": "https://www.techno-edge.net/article/2026/09/07/5471.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-07T01:32:29+00:00",
+        "fetched_at": "2026-09-07T08:41:42+00:00",
+        "summary": "1週間の気になる生成AI技術・研究をいくつかピックアップして解説する連載「生成AIウィークリー」から、特に興味深いAI技術や研究にスポットライトを当てる生成AIクローズアップ。 今回は、AIエージェントを社内で一番怠惰だけど優秀なベテランエンジニアのように変身させる拡張ツール「ponytail」（ポニーテール）を取...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "64b7755ae2af805c5fab"
+      },
+      {
         "title": "米ロボタクシー、「いきなりブレーキ」でむち打ち続出 | 自動運転ラボ",
         "url": "https://jidounten-lab.com/u_67445",
         "source": "Hatena Bookmark Hotentry IT",
@@ -850,6 +912,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "4d0f6f68357b953bd8b1"
+      },
+      {
+        "title": "GCash operator Mynt wins SEC approval for up to US$1.63B Philippine IPO",
+        "url": "https://e27.co/gcash-operator-mynt-wins-sec-approval-for-up-to-us1-63b-philippine-ipo-20260907/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-07T08:26:37+00:00",
+        "fetched_at": "2026-09-07T08:41:42+00:00",
+        "summary": "The long-anticipated public market debut of GCash operator Mynt has moved a step closer, after the Philippine Securities and Exchange Commission approved the company’s initial public offering worth up to about US$1.63 billion. In a statement on Friday, the SEC said its Commission En Banc had resolved to render effective Mynt’s registration statement covering up […] The post GCash operator Mynt wins SEC approval for…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "cfae2fd1eabaf9b91b36"
       }
     ]
   },
@@ -1573,6 +1655,26 @@
       "id": "7abbc4567149f2aa33b4"
     },
     {
+      "title": "令和8年熊本地震に関する対応状況について（9月7日）",
+      "url": "https://www.digital.go.jp/news/4d10e390-4a0b-44f9-90c6-67c2b00537b0",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-07T08:00:00+00:00",
+      "fetched_at": "2026-09-07T08:41:42+00:00",
+      "summary": "令和8年熊本地震に関する対応状況について（9月7日）",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "33d1feb6ef5b1514ebae"
+    },
+    {
       "title": "川崎デジタル大臣政務官がデンマーク王国を訪問しました",
       "url": "https://www.digital.go.jp/news/94b4ea71-a198-4d78-b0a4-6322ed7bfeee",
       "source": "Japan Digital Agency News RSS",
@@ -1633,6 +1735,48 @@
       "id": "9bcbbd666bf836942695"
     },
     {
+      "title": "ADRは経緯より「決まったこと」だけでいい",
+      "url": "https://zenn.dev/yamitake/articles/adr-decision-over-context",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-07T02:10:01+00:00",
+      "fetched_at": "2026-09-07T08:41:42+00:00",
+      "summary": "はじめに 先に言っておくと、僕はADR（Architecture Decision Record）を全否定するつもりはありません。設計の判断を残しておくのは、明らかに価値があります。 ただ、ADRの話になると必ず「経緯を丁寧に残そう」という方向に進みがちです。なぜその設計にしたのか、どんな議論があったのか、どの案を捨てたのか。 でも...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "77c9cbcade56f4c21fa7"
+    },
+    {
+      "title": "AIを「社内一の怠け者だけど優秀なベテランエンジニア」に変えるツール「ポニーテール」が生成コードを最大94%削減する（生成AIクローズアップ） | テクノエッジ TechnoEdge",
+      "url": "https://www.techno-edge.net/article/2026/09/07/5471.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-07T01:32:29+00:00",
+      "fetched_at": "2026-09-07T08:41:42+00:00",
+      "summary": "1週間の気になる生成AI技術・研究をいくつかピックアップして解説する連載「生成AIウィークリー」から、特に興味深いAI技術や研究にスポットライトを当てる生成AIクローズアップ。 今回は、AIエージェントを社内で一番怠惰だけど優秀なベテランエンジニアのように変身させる拡張ツール「ponytail」（ポニーテール）を取...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "64b7755ae2af805c5fab"
+    },
+    {
       "title": "米ロボタクシー、「いきなりブレーキ」でむち打ち続出 | 自動運転ラボ",
       "url": "https://jidounten-lab.com/u_67445",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1673,9 +1817,112 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "4d0f6f68357b953bd8b1"
+    },
+    {
+      "title": "GCash operator Mynt wins SEC approval for up to US$1.63B Philippine IPO",
+      "url": "https://e27.co/gcash-operator-mynt-wins-sec-approval-for-up-to-us1-63b-philippine-ipo-20260907/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-07T08:26:37+00:00",
+      "fetched_at": "2026-09-07T08:41:42+00:00",
+      "summary": "The long-anticipated public market debut of GCash operator Mynt has moved a step closer, after the Philippine Securities and Exchange Commission approved the company’s initial public offering worth up to about US$1.63 billion. In a statement on Friday, the SEC said its Commission En Banc had resolved to render effective Mynt’s registration statement covering up […] The post GCash operator Mynt wins SEC approval for…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cfae2fd1eabaf9b91b36"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "令和8年熊本地震に関する対応状況について（9月7日）",
+      "url": "https://www.digital.go.jp/news/4d10e390-4a0b-44f9-90c6-67c2b00537b0",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-07T08:00:00+00:00",
+      "fetched_at": "2026-09-07T08:41:42+00:00",
+      "summary": "令和8年熊本地震に関する対応状況について（9月7日）",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "33d1feb6ef5b1514ebae"
+    },
+    {
+      "title": "ADRは経緯より「決まったこと」だけでいい",
+      "url": "https://zenn.dev/yamitake/articles/adr-decision-over-context",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-07T02:10:01+00:00",
+      "fetched_at": "2026-09-07T08:41:42+00:00",
+      "summary": "はじめに 先に言っておくと、僕はADR（Architecture Decision Record）を全否定するつもりはありません。設計の判断を残しておくのは、明らかに価値があります。 ただ、ADRの話になると必ず「経緯を丁寧に残そう」という方向に進みがちです。なぜその設計にしたのか、どんな議論があったのか、どの案を捨てたのか。 でも...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "77c9cbcade56f4c21fa7"
+    },
+    {
+      "title": "AIを「社内一の怠け者だけど優秀なベテランエンジニア」に変えるツール「ポニーテール」が生成コードを最大94%削減する（生成AIクローズアップ） | テクノエッジ TechnoEdge",
+      "url": "https://www.techno-edge.net/article/2026/09/07/5471.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-07T01:32:29+00:00",
+      "fetched_at": "2026-09-07T08:41:42+00:00",
+      "summary": "1週間の気になる生成AI技術・研究をいくつかピックアップして解説する連載「生成AIウィークリー」から、特に興味深いAI技術や研究にスポットライトを当てる生成AIクローズアップ。 今回は、AIエージェントを社内で一番怠惰だけど優秀なベテランエンジニアのように変身させる拡張ツール「ponytail」（ポニーテール）を取...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "64b7755ae2af805c5fab"
+    },
+    {
+      "title": "GCash operator Mynt wins SEC approval for up to US$1.63B Philippine IPO",
+      "url": "https://e27.co/gcash-operator-mynt-wins-sec-approval-for-up-to-us1-63b-philippine-ipo-20260907/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-07T08:26:37+00:00",
+      "fetched_at": "2026-09-07T08:41:42+00:00",
+      "summary": "The long-anticipated public market debut of GCash operator Mynt has moved a step closer, after the Philippine Securities and Exchange Commission approved the company’s initial public offering worth up to about US$1.63 billion. In a statement on Friday, the SEC said its Commission En Banc had resolved to render effective Mynt’s registration statement covering up […] The post GCash operator Mynt wins SEC approval for…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cfae2fd1eabaf9b91b36"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

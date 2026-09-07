@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-07T07:56:41+00:00_
+_Generiert: 2026-09-07T08:42:12+00:00_
 
 ## Kurzlage
 
-31 neue relevante Treffer. Stärkstes Signal: „openai/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+35 neue relevante Treffer. Stärkstes Signal: „openai/skills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,10 +29,10 @@ _Generiert: 2026-09-07T07:56:41+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-02`
   - Kurz: Known exploited vulnerability. Added 2026-09-02. Due 2026-09-05. JFrog Artifactory Improper Authentication Vulnerability
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Southeast Of Loyalty Islands 07/09/2026 05:50 UTC, Few people affected in MMI&gt;=-.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1564048)
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in New Caledonia 07/09/2026 05:50 UTC, Few people affected in MMI&gt;=-.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1564048)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Southeast Of Loyalty Islands 07/09/2026 05:50 UTC, Few people affected in MMI&gt;=-.
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in New Caledonia 07/09/2026 05:50 UTC, Few people affected in MMI&gt;=-.
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:38.543km) in Solomon Islands 06/09/2026 04:05 UTC, 4 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563876)
   - Quelle: GDACS
   - Zeit: ``
@@ -220,6 +220,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-07 02:11:51 UTC 2026-09-07 02:11:51 UTC at epicenter Location 31.122°S 178.645°E Depth 585.92 km (364.07 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **令和8年熊本地震に関する対応状況について（9月7日）** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/4d10e390-4a0b-44f9-90c6-67c2b00537b0)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-09-07T08:00:00+00:00`, fetched `2026-09-07T08:41:42+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 令和8年熊本地震に関する対応状況について（9月7日）
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **川崎デジタル大臣政務官がデンマーク王国を訪問しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/94b4ea71-a198-4d78-b0a4-6322ed7bfeee)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-09-07T06:00:00+00:00`, fetched `2026-09-07T06:43:39+00:00`
@@ -238,14 +247,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: ジョージアとデジタル分野における協力覚書を取り交わしました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **米ロボタクシー、「いきなりブレーキ」でむち打ち続出 | 自動運転ラボ** — Score 5, observation — [Quelle](https://jidounten-lab.com/u_67445)
+- **ADRは経緯より「決まったこと」だけでいい** — Score 5, observation — [Quelle](https://zenn.dev/yamitake/articles/adr-decision-over-context)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-07T00:31:11+00:00`, fetched `2026-09-07T05:21:46+00:00`
+  - Zeit: published `2026-09-07T02:10:01+00:00`, fetched `2026-09-07T08:41:42+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 自動運転によるロボタクシー開発が進んでいる米国で、テストドライバーの負傷事故が相次いでいる。Google系Waymoやアマゾン系Zooxでは、2024年から2025年にかけて24件以上の負傷事故が報告された。 負傷原因は、他車との衝突事故などより、急ブレーキなどのシステムの急制動や急旋回などの誤作動から起因するケースが多...
+  - Kurz: はじめに 先に言っておくと、僕はADR（Architecture Decision Record）を全否定するつもりはありません。設計の判断を残しておくのは、明らかに価値があります。 ただ、ADRの話になると必ず「経緯を丁寧に残そう」という方向に進みがちです。なぜその設計にしたのか、どんな議論があったのか、どの案を捨てたのか。 でも...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
