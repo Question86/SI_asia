@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-07T06:44:11+00:00",
+  "generated_at": "2026-09-07T07:06:43+00:00",
   "topics": {
     "ai": [
       {
@@ -91,6 +91,50 @@
         "url": "https://github.com/anomalyco/opencode"
       }
     ],
+    "security": [
+      {
+        "title": "[UPDATE] [mittel] libssh2: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-07T06:59:49+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1332"
+      },
+      {
+        "title": "[UPDATE] [hoch] Ollama: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-07T06:59:50+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1379"
+      },
+      {
+        "title": "[UPDATE] [mittel] Netgate pfSense: Schwachstelle ermöglicht Cross-Site Scripting",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-07T06:59:49+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1314"
+      },
+      {
+        "title": "[UPDATE] [hoch] Snipe-IT: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-07T06:39:53+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2420"
+      },
+      {
+        "title": "[UPDATE] [hoch] Netgate pfSense Plus und CE: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-07T05:19:18+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0961"
+      },
+      {
+        "title": "攻撃者視点で読み解く、医療機関の「閉域網神話」の壊れ方 - blog of morioka12",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-06T09:34:08+00:00",
+        "relevance_score": 11,
+        "url": "https://scgajge12.hatenablog.com/entry/closed_network_security"
+      }
+    ],
     "geopolitics": [
       {
         "title": "The ecosystem map: How to stay agile in the US-China AI battle",
@@ -119,29 +163,6 @@
         "published_at": "2026-09-07T03:25:12+00:00",
         "relevance_score": 6,
         "url": "https://e27.co/how-hkstps-quarter-century-journey-offers-insights-for-asias-innovation-ecosystems-20260907/"
-      }
-    ],
-    "security": [
-      {
-        "title": "[UPDATE] [hoch] Snipe-IT: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-07T06:39:53+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2420"
-      },
-      {
-        "title": "[UPDATE] [hoch] Netgate pfSense Plus und CE: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-07T05:19:18+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0961"
-      },
-      {
-        "title": "攻撃者視点で読み解く、医療機関の「閉域網神話」の壊れ方 - blog of morioka12",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-06T09:34:08+00:00",
-        "relevance_score": 11,
-        "url": "https://scgajge12.hatenablog.com/entry/closed_network_security"
       }
     ],
     "general": [

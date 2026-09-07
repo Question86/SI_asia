@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T06:44:14+00:00",
+  "generated_at": "2026-09-07T07:06:45+00:00",
   "sections": {
     "global_security": [
       {
@@ -121,21 +121,6 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001319",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.5 - southeast of the Loyalty Islands",
-        "summary": "M5.5 - southeast of the Loyalty Islands. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000teu1",
-        "published_at": "2026-09-07T05:50:44+00:00",
-        "metrics": {
-          "mag": 5.5,
-          "alert": "green",
-          "sig": 465.0,
-          "tsunami": 0
-        }
       }
     ],
     "global_economy": []
