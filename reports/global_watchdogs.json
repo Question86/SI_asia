@@ -1,7 +1,22 @@
 {
-  "generated_at": "2026-09-07T01:13:29+00:00",
+  "generated_at": "2026-09-07T01:40:57+00:00",
   "sections": {
     "global_security": [
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "USGS earthquake M4.6 - off the coast of Oregon",
+        "summary": "M4.6 - off the coast of Oregon. PAGER alert: none. Tsunami flag: 1.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/attkz06l",
+        "published_at": "2026-09-07T01:30:21+00:00",
+        "metrics": {
+          "mag": 4.6,
+          "alert": "",
+          "sig": 326.0,
+          "tsunami": 1
+        }
+      },
       {
         "domain": "security",
         "severity": "high",
