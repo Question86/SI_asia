@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-07T11:30:39+00:00",
+  "generated_at": "2026-09-07T11:40:40+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 45,
+    "findings": 47,
     "clusters": 33,
     "cross_source_confrmed": 0,
     "hot": 0,
@@ -23,13 +23,13 @@
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1332",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2382",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2119",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3201",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2927",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3199"
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3202",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3203",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3201"
       ],
-      "finding_count": 13,
+      "finding_count": 15,
       "max_score": 17,
-      "credibility_total": 13.65,
+      "credibility_total": 15.75,
       "cross_source_confirmed": false,
       "momentum_delta": 2,
       "momentum_status": "increasing",
@@ -37,7 +37,7 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 50.3,
+      "raw_network_score": 54.5,
       "ranking_score": 28.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
@@ -1293,7 +1293,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-07T11:30:39Z",
+    "generated_at": "2026-09-07T11:40:40Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
