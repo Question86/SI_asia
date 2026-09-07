@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-07T12:45:47Z",
+  "generated_at": "2026-09-07T13:14:41Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] OpenVPN: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3202",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-07T11:34:17+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "security",
         "infra"
@@ -41,7 +41,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2927",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-07T11:19:17+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -66,7 +66,7 @@
       "url": "https://github.com/openai/skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-07T05:58:25+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "ai",
         "macro"
@@ -95,7 +95,7 @@
       "url": "https://github.com/anomalyco/opencode",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-07T05:58:25+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -124,7 +124,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2119",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-07T10:44:23+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -150,7 +150,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3175",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-07T11:44:18+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -176,7 +176,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3203",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-07T11:34:17+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -202,7 +202,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3200",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-07T10:59:20+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -228,7 +228,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2420",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-07T06:39:53+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "security"
       ],
@@ -254,7 +254,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0961",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-07T05:19:18+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -280,7 +280,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1332",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-07T06:59:49+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -301,33 +301,29 @@
       "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in libssh2 ausnutzen, um einen Denial of Service Angriff durchzuführen."
     },
     {
-      "title": "MikroTrick: RouterOS-Lücken werden aktiv ausgenutzt – jetzt patchen",
-      "url": "https://www.heise.de/news/MikroTrick-RouterOS-Luecken-werden-aktiv-ausgenutzt-jetzt-patchen-11443474.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 80.21,
+      "title": "[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2382",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-07T10:54:24+00:00",
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
-      "dynamics_score": 19.9,
+      "dynamics_score": 24.9,
       "raw_band": "krass",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.87,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3",
-        "baseline z_hint 0.87",
-        "high terms: ausgenutzt",
-        "security high-signal: ausgenutzt",
-        "aging penalty -8.0 for 80.2d old signal",
-        "stale single-source cap after 30d: no current exploitation phrase"
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
       ],
-      "summary": ""
+      "summary": "Ein Angreifer kann eine Schwachstelle im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen."
     }
   ],
   "read_order": [
@@ -340,8 +336,7 @@
   "counts": {
     "bands_after_gate_recheck": {
       "krass": 2,
-      "strong": 9,
-      "watch": 1
+      "strong": 10
     }
   }
 }
