@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-07T01:41:14+00:00",
+  "generated_at": "2026-09-07T01:59:42+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1745,6 +1745,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_ef06b8ae289bd29fd302",
+      "title": "M 4.6 - off the coast of Oregon",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-07T01:40:57+00:00",
+      "last_seen_at": "2026-09-07T01:59:27+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_f613d61784f3ba1f91c1",
       "title": "M 5.1 - South Sandwich Islands region",
       "event_classes": [
@@ -1760,23 +1777,6 @@
       "first_seen_at": "2026-08-30T04:22:59+00:00",
       "last_seen_at": "2026-08-30T23:59:07+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_ef06b8ae289bd29fd302",
-      "title": "M 4.6 - off the coast of Oregon",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-09-07T01:40:57+00:00",
-      "last_seen_at": "2026-09-07T01:40:57+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_720c7d526b3baeebcacf",
@@ -2710,7 +2710,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-07T00:31:05+00:00",
-      "last_seen_at": "2026-09-07T01:40:57+00:00",
+      "last_seen_at": "2026-09-07T01:59:27+00:00",
       "status": "active"
     },
     {
@@ -2829,7 +2829,24 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-07T01:13:29+00:00",
-      "last_seen_at": "2026-09-07T01:40:57+00:00",
+      "last_seen_at": "2026-09-07T01:59:27+00:00",
+      "status": "active"
+    },
+    {
+      "event_id": "evt_c3fbeaa47a7d488a9d43",
+      "title": "AI has answers, experience has judgment",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 114400.0,
+      "p50_usd": 11440000.0,
+      "p90_usd": 1144000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-07T01:40:57+00:00",
+      "last_seen_at": "2026-09-07T01:59:27+00:00",
       "status": "active"
     },
     {
@@ -2848,23 +2865,6 @@
       "first_seen_at": "2026-08-29T12:29:39+00:00",
       "last_seen_at": "2026-09-04T15:32:40+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_c3fbeaa47a7d488a9d43",
-      "title": "AI has answers, experience has judgment",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 114400.0,
-      "p50_usd": 11440000.0,
-      "p90_usd": 1144000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-07T01:40:57+00:00",
-      "last_seen_at": "2026-09-07T01:40:57+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_2a7631f0e872d9aad503",
