@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-08T15:00:33+00:00_
+_Generiert: 2026-09-08T15:22:09+00:00_
 
 ## Kurzlage
 
-67 neue relevante Treffer. Stärkstes Signal: „mksglu/context-mode“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
+68 neue relevante Treffer. Stärkstes Signal: „mksglu/context-mode“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -42,7 +42,7 @@ _Generiert: 2026-09-08T15:00:33+00:00_
 
 - Kein aktives Signal aus den konfigurierten globalen Sensoren.
 
-- Sensor-Hinweis: Yahoo finance failed: 401 Client Error: Unauthorized for url: https://query1.finance.yahoo.com/v7/finance/quote?symbols=BTC-USD,ETH-USD,GC%3DF,SI%3DF,GLD,SLV,SPY,QQQ,%5EGSPC,%5EIXIC,%5EDJI,%5EVIX,DX-Y.NYB,CL%3DF,COIN,MSTR,IBIT
+- Sensor-Hinweis: Yahoo finance failed: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v7/finance/quote?symbols=BTC-USD,ETH-USD,GC%3DF,SI%3DF,GLD,SLV,SPY,QQQ,%5EGSPC,%5EIXIC,%5EDJI,%5EVIX,DX-Y.NYB,CL%3DF,COIN,MSTR,IBIT
 
 <!-- SENNA_GLOBAL_WATCHDOGS:END -->
 
@@ -263,6 +263,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-08 06:50:46 UTC 2026-09-08 06:50:46 UTC at epicenter Location 58.121°S 26.258°W Depth 128.65 km (79.94 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Frank Elderson: Fireside chat** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260908~3652aa828f.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-09-08T15:00:00+00:00`, fetched `2026-09-08T15:21:36+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Frank Elderson: Fireside chat
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **「今後のデジタル人材育成政策に関する検討会」開催について掲載しました** — Score 8, observation — [Quelle](https://www.digital.go.jp/councils/digital-talent-development-policy)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-09-08T01:56:13+00:00`, fetched `2026-09-08T02:15:10+00:00`
@@ -272,15 +281,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); policy (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 「今後のデジタル人材育成政策に関する検討会」開催について掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **OpenAI expands initiatives to support journalism from classrooms to newsrooms** — Score 8, opportunity — [Quelle](https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-09-08T00:00:00+00:00`, fetched `2026-09-08T14:21:39+00:00`
-  - Treffer: OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+7.5); recent (+1.0)
-  - Kurz: OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Empfehlungen
 
