@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-09-07T23:53:40+00:00`
+Generated: `2026-09-08T00:01:08+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -16,7 +16,7 @@ Generated: `2026-09-07T23:53:40+00:00`
 | New API endpoint provides privacy-safe star history data | $0 | — | 0 | 0 | dormant |
 | JetBrains/go-modern-guidelines | $0 | — | 0 | 0 | dormant |
 | M 5.6 - 82 km SE of Maba, Indonesia | $0 | — | 0 | 0 | dormant |
-| The ecosystem map: How to stay agile in the US-China AI battle | $0 | — | 0 | 0 | active |
+| The ecosystem map: How to stay agile in the US-China AI battle | $0 | — | 0 | 0 | dormant |
 | Zabbix agentにおけるDLL読み込みに関する脆弱性 | $0 | — | 0 | 0 | dormant |
 | [MàJ] Vulnérabilité dans Fortinet FortiOS (09 février 2024) | $0 | — | 0 | 0 | dormant |
 | マーティン・ファウラー氏来日登壇！アーキテクチャConference 2026｜11月26・27日開催 | $0 | — | 0 | 0 | dormant |
