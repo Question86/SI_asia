@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-08T05:43:31+00:00_
+_Generiert: 2026-09-08T05:51:02+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „The app worked, the product didn’t: Can we install judgement into AI agents?“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
+19 neue relevante Treffer. Stärkstes Signal: „The app worked, the product didn’t: Can we install judgement into AI agents?“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -136,6 +136,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); policy (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 「今後のデジタル人材育成政策に関する検討会」開催について掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Southeast Asia’s live commerce boom enters its harder second act** — Score 6, observation — [Quelle](https://e27.co/southeast-asias-live-commerce-boom-enters-its-harder-second-act-20260908/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-08T05:44:31+00:00`, fetched `2026-09-08T05:50:30+00:00`
+  - Treffer: APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
+  - Kurz: Southeast Asia’s e-commerce story is no longer just about search bars, discount vouchers and marketplace rankings. Increasingly, shoppers are discovering what to buy through livestreams, short videos, creator reviews and affiliate content. And that shift is now large enough to reshape the region’s online retail economy. Content commerce gross merchandise value across Shopee, TikTok Shop, […] The post Southeast Asia’…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **松本大臣記者会見（令和8年9月8日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-260908-01)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-09-08T02:56:25+00:00`, fetched `2026-09-08T03:11:28+00:00`
@@ -180,15 +189,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Across the region, governments want banks to remain conservative and startups to become more ambitious. Those goals are compatible only when other institutions are prepared to finance the risks that banks cannot. Conventional lenders reward collateral, reliable cash flow and years of financial statements. Many companies expected to create new industries possess none of these. […] The post Why safe banks can produce…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Why a strong jobs report hit Bitcoin and Ethereum harder than the stock market** — Score 4, observation — [Quelle](https://e27.co/why-a-strong-jobs-report-hit-bitcoin-and-ethereum-harder-than-the-stock-market-20260908/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-08T03:00:44+00:00`, fetched `2026-09-08T03:11:28+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: The cryptocurrency sector currently faces macroeconomic headwinds that dictate valuation changes across all major digital tokens. Bitcoin recently declined by 1.34 per cent to US$79,113.15 in a single 24-hour period. Ethereum followed a similar trajectory, dropping 1.17 per cent to trade at US$2,487.12. This synchronised pullback is clear evidence that digital assets no longer operate […] The post Why a strong jobs…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
