@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T23:20:04+00:00",
-  "run_id": "2026-09-08T23:20:04+00:00",
+  "generated_at": "2026-09-08T23:28:43+00:00",
+  "run_id": "2026-09-08T23:28:43+00:00",
   "date": "2026-09-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 85
+      "configured_public_sources_only": 86
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 85,
-    "displayed_findings": 85,
+    "new_relevant_findings": 1,
+    "today_file_total": 86,
+    "displayed_findings": 86,
     "high": 0,
     "medium": 27,
-    "observe": 58,
+    "observe": 59,
     "source_errors": 0
   },
   "sections": {
@@ -1947,6 +1947,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "0698e54ff711e45bff77"
+      },
+      {
+        "title": "Docker環境をガチで軽量化するための鉄板設定まとめ - Qiita",
+        "url": "https://qiita.com/nolanlover0527/items/24ee07122dd4d0523069",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-07T23:24:29+00:00",
+        "fetched_at": "2026-09-08T23:28:11+00:00",
+        "summary": "はじめに Docker環境が重すぎて頭を抱えている人は多いのではないでしょうか。 私自身も激重なDocker環境を触っていて、原因を一つずつ潰していった経験が何度かあります。 今回は、ローカルのDocker環境（Windows）を軽量化するための方法について、実際に行った手順と一緒に紹介します。 ただし、リソース削除やnamed ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b92dcfd0c5b46c3fbac9"
       },
       {
         "title": "【西川和久の不定期コラム】 家庭にあるPCのLLMリソースを束ねるNVIDIA「PAIR」、早速試してみた！",
@@ -4094,6 +4115,27 @@
       "id": "0698e54ff711e45bff77"
     },
     {
+      "title": "Docker環境をガチで軽量化するための鉄板設定まとめ - Qiita",
+      "url": "https://qiita.com/nolanlover0527/items/24ee07122dd4d0523069",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-07T23:24:29+00:00",
+      "fetched_at": "2026-09-08T23:28:11+00:00",
+      "summary": "はじめに Docker環境が重すぎて頭を抱えている人は多いのではないでしょうか。 私自身も激重なDocker環境を触っていて、原因を一つずつ潰していった経験が何度かあります。 今回は、ローカルのDocker環境（Windows）を軽量化するための方法について、実際に行った手順と一緒に紹介します。 ただし、リソース削除やnamed ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b92dcfd0c5b46c3fbac9"
+    },
+    {
       "title": "【西川和久の不定期コラム】 家庭にあるPCのLLMリソースを束ねるNVIDIA「PAIR」、早速試してみた！",
       "url": "https://pc.watch.impress.co.jp/docs/column/nishikawa/2138806.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4319,7 +4361,29 @@
       "id": "c5a1b96ea43e5e9c36c4"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Docker環境をガチで軽量化するための鉄板設定まとめ - Qiita",
+      "url": "https://qiita.com/nolanlover0527/items/24ee07122dd4d0523069",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-07T23:24:29+00:00",
+      "fetched_at": "2026-09-08T23:28:11+00:00",
+      "summary": "はじめに Docker環境が重すぎて頭を抱えている人は多いのではないでしょうか。 私自身も激重なDocker環境を触っていて、原因を一つずつ潰していった経験が何度かあります。 今回は、ローカルのDocker環境（Windows）を軽量化するための方法について、実際に行った手順と一緒に紹介します。 ただし、リソース削除やnamed ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b92dcfd0c5b46c3fbac9"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
