@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T00:00:46+00:00",
-  "run_id": "2026-09-08T00:00:46+00:00",
+  "generated_at": "2026-09-08T00:56:06+00:00",
+  "run_id": "2026-09-08T00:56:06+00:00",
   "date": "2026-09-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 1
+      "configured_public_sources_only": 2
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,17 +19,38 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 1,
-    "displayed_findings": 1,
+    "today_file_total": 2,
+    "displayed_findings": 2,
     "high": 0,
     "medium": 0,
-    "observe": 1,
+    "observe": 2,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [],
     "observe": [
+      {
+        "title": "Microsoft製品でここまで自動化できる 情シスがやめられる手作業10選",
+        "url": "https://techtarget.itmedia.co.jp/tt/article/2609/07/2000001177/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-07T01:36:25+00:00",
+        "fetched_at": "2026-09-08T00:55:36+00:00",
+        "summary": "入退社時のアカウント処理やPCのセットアップ、ゲストユーザーの棚卸しといった定型業務を手作業で続けている情報システム（情シス）部門があります。 実は、Microsoft製品の中には、こうした業務を自動化できる機能が数多く用意されています。本記事では、その中でも有名な機能や意外と知られていない機能と、その機能...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3acca8294be8d08eb7ed"
+      },
       {
         "title": "高輪ゲートウェイの地下になぜ「50メートルプール8個分の水」？そのワケがスゴかった",
         "url": "https://diamond.jp/articles/-/398505",
@@ -55,6 +76,27 @@
   },
   "findings": [
     {
+      "title": "Microsoft製品でここまで自動化できる 情シスがやめられる手作業10選",
+      "url": "https://techtarget.itmedia.co.jp/tt/article/2609/07/2000001177/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-07T01:36:25+00:00",
+      "fetched_at": "2026-09-08T00:55:36+00:00",
+      "summary": "入退社時のアカウント処理やPCのセットアップ、ゲストユーザーの棚卸しといった定型業務を手作業で続けている情報システム（情シス）部門があります。 実は、Microsoft製品の中には、こうした業務を自動化できる機能が数多く用意されています。本記事では、その中でも有名な機能や意外と知られていない機能と、その機能...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3acca8294be8d08eb7ed"
+    },
+    {
       "title": "高輪ゲートウェイの地下になぜ「50メートルプール8個分の水」？そのワケがスゴかった",
       "url": "https://diamond.jp/articles/-/398505",
       "source": "Hatena Bookmark Hotentry IT",
@@ -78,13 +120,13 @@
   ],
   "new_findings": [
     {
-      "title": "高輪ゲートウェイの地下になぜ「50メートルプール8個分の水」？そのワケがスゴかった",
-      "url": "https://diamond.jp/articles/-/398505",
+      "title": "Microsoft製品でここまで自動化できる 情シスがやめられる手作業10選",
+      "url": "https://techtarget.itmedia.co.jp/tt/article/2609/07/2000001177/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-06T23:29:00+00:00",
-      "fetched_at": "2026-09-08T00:00:12+00:00",
-      "summary": "JR東日本は8月27日、高輪ゲートウェイシティにおけるBCP（非常事態における事業継続計画）推進と、ゼロカーボン達成に貢献するエネルギープラントを報道公開した。鉄道の電力網と都市ガスを組み合わせ、巨大な蓄熱槽やAIによる熱源機器の最適制御も導入。災害への備えと省エネを両立させるエネルギーマネジメントの全貌...",
+      "published_at": "2026-09-07T01:36:25+00:00",
+      "fetched_at": "2026-09-08T00:55:36+00:00",
+      "summary": "入退社時のアカウント処理やPCのセットアップ、ゲストユーザーの棚卸しといった定型業務を手作業で続けている情報システム（情シス）部門があります。 実は、Microsoft製品の中には、こうした業務を自動化できる機能が数多く用意されています。本記事では、その中でも有名な機能や意外と知られていない機能と、その機能...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -96,7 +138,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "6e7224fcd442355b6a99"
+      "id": "3acca8294be8d08eb7ed"
     }
   ],
   "source_errors": [],

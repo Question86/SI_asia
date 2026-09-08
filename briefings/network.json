@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-08T00:00:49+00:00",
+  "generated_at": "2026-09-08T00:56:10+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 1,
-    "clusters": 1,
+    "findings": 2,
+    "clusters": 2,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 0,
@@ -11,8 +11,8 @@
   },
   "clusters": [
     {
-      "key": "url:https://diamond.jp/articles/-/398505",
-      "title": "高輪ゲートウェイの地下になぜ「50メートルプール8個分の水」？そのワケがスゴかった",
+      "key": "title:microsoft",
+      "title": "Microsoft製品でここまで自動化できる 情シスがやめられる手作業10選",
       "sources": [
         "Hatena Bookmark Hotentry IT"
       ],
@@ -20,7 +20,7 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://diamond.jp/articles/-/398505"
+        "https://techtarget.itmedia.co.jp/tt/article/2609/07/2000001177/"
       ],
       "finding_count": 1,
       "max_score": 5,
@@ -46,12 +46,50 @@
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
+      "first_seen_at": "2026-09-08T00:56:10+00:00"
+    },
+    {
+      "key": "url:https://diamond.jp/articles/-/398505",
+      "title": "高輪ゲートウェイの地下になぜ「50メートルプール8個分の水」？そのワケがスゴかった",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://diamond.jp/articles/-/398505"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 6.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 7.1,
+      "ranking_score": 6.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
       "first_seen_at": "2026-09-08T00:00:49+00:00"
     }
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-08T00:00:49Z",
+    "generated_at": "2026-09-08T00:56:10Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
