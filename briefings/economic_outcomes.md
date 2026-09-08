@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-09-08T00:56:28+00:00`
+Generated: `2026-09-08T01:21:56+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -22,10 +22,10 @@ Generated: `2026-09-08T00:56:28+00:00`
 | マーティン・ファウラー氏来日登壇！アーキテクチャConference 2026｜11月26・27日開催 | $0 | — | 0 | 0 | dormant |
 | M 5.0 - 64 km W of Labuha, Indonesia | $0 | — | 0 | 0 | dormant |
 | Why Japan’s booming AI market is harder to crack than it looks | $0 | — | 0 | 0 | dormant |
+| M 5.1 - 96 km ESE of Isangel, Vanuatu | $0 | — | 0 | 0 | active |
 | 無料のLM Studio、DFlash/DSpark/MTPで推論を高速化 | $0 | — | 0 | 0 | dormant |
 | DietrichGebert/ponytail | $0 | — | 0 | 0 | dormant |
 | M 4.8 - Kermadec Islands, New Zealand | $0 | — | 0 | 0 | dormant |
 | M 4.6 - Kermadec Islands region | $0 | — | 0 | 0 | dormant |
 | sngyai/Sequoia-X | $0 | — | 0 | 0 | dormant |
 | tailscale/tailcat | $0 | — | 0 | 0 | dormant |
-| AIショートドラマ『非妖哉』たった2話で1億回再生を記録 中国の映像クリエイターがほぼ1人で制作 | $0 | — | 0 | 0 | dormant |
