@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-09-08T08:53:53+00:00_
+_Generiert: 2026-09-08T09:01:24+00:00_
 
 ## Teleport powers Capital A’s rebound, but thin margins show logistics remains a hard road
 
