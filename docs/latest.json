@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T11:28:59+00:00",
-  "run_id": "2026-09-08T11:28:59+00:00",
+  "generated_at": "2026-09-08T11:39:28+00:00",
+  "run_id": "2026-09-08T11:39:28+00:00",
   "date": "2026-09-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 48,
     "displayed_findings": 48,
     "high": 0,
@@ -2489,29 +2489,7 @@
       "id": "c5a1b96ea43e5e9c36c4"
     }
   ],
-  "new_findings": [
-    {
-      "title": "「離婚してから自分が性格悪いことに気づいた」の人が誤解していること - いつか電池がきれるまで",
-      "url": "https://fujipon.hatenablog.com/entry/2026/09/08/170251",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-08T09:51:14+00:00",
-      "fetched_at": "2026-09-08T11:28:30+00:00",
-      "summary": "anond.hatelabo.jp いまネット界隈でかなり話題のこの『はてな匿名ダイアリー』のエントリについて。 読みながら、これAI？が半分、こういう「理由責め」しないと気が済まない人っているよな、が半分。 僕もけっこう「理由にこだわってしまう人間」だったので、「ちゃんと確認したい」「可能であれば自分でも改善したい...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "45b4c3591da029d5c11c"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
