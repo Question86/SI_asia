@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-08T20:00:43+00:00_
+_Generiert: 2026-09-08T20:20:35+00:00_
 
 ## Kurzlage
 
-78 neue relevante Treffer. Stärkstes Signal: „mksglu/context-mode“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
+79 neue relevante Treffer. Stärkstes Signal: „mksglu/context-mode“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -191,6 +191,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Write HTML. Render video. Built for agents. Write HTML. Render video. Built for agents. Quickstart | Showcase | Playground | Catalog | Docs | Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it locally with the CLI, from AI coding agents with skills, or as the rendering core behind hosted authoring workflows. Quick Start With an…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **How GPT-5.6 Sol helps run quantum computing experiments** — Score 12, observation — [Quelle](https://openai.com/index/codex-quantum-computing-experiments)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-09-08T17:00:00+00:00`, fetched `2026-09-08T20:20:03+00:00`
+  - Treffer: OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ドラクエファンが「こういうグッズ思いついた」とイメージ画像をAIで作成＆投稿←これやると実際の企画が潰れる可能性あるし企業ロゴ使用などにも問題が…** — Score 11, observation — [Quelle](https://togetter.com/li/2743006)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-08T06:37:51+00:00`, fetched `2026-09-08T11:46:36+00:00`
@@ -244,15 +253,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)
   - Kurz: Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **On the Navier–Stokes Millennium Prize Problem** — Score 10, observation — [Quelle](https://openai.com/index/navier-stokes-solution)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-09-08T10:00:00+00:00`, fetched `2026-09-08T18:28:31+00:00`
-  - Treffer: AI/KI, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)
-  - Kurz: We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **サムスンがAI半導体で日韓連合、横浜に拠点 後工程「先端国」で研究開発 - 日本経済新聞** — Score 10, observation — [Quelle](https://www.nikkei.com/article/DGXZQOGM030QT0T00C26A9000000/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

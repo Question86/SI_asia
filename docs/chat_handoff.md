@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-08T20:00:43+00:00_
+_Generated: 2026-09-08T20:20:35+00:00_
 
 ## Status
 - status: `normal`
-- findings: `78`
+- findings: `79`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-09-08T20:00:43+00:00_
 - url: https://github.com/heygen-com/hyperframes
 - summary: Write HTML. Render video. Built for agents. Write HTML. Render video. Built for agents. Quickstart | Showcase | Playground | Catalog | Docs | Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into determinis…
 
-### 8. ドラクエファンが「こういうグッズ思いついた」とイメージ画像をAIで作成＆投稿←これやると実際の企画が潰れる可能性あるし企業ロゴ使用などにも問題が…
-- source: Hatena Bookmark Hotentry IT
-- score: `11`
-- published: `2026-09-08T06:37:51+00:00`
-- url: https://togetter.com/li/2743006
-- summary: 岡安モフモフ（アーガイル社長）＠ChatGPT/Gemini/ClaudeなどLLMでサービス作る人 @shields_pikes @Dr_Emmett こういうのは、自分の持ってるIPでやるべきだよ。そして、商品化まで自分でやる。 人気のIPでこういうのを出して欲しかったら、絶対にこういう企画案を形にして表に出しちゃダメ。スクエニの社内でも前から似...
+### 8. How GPT-5.6 Sol helps run quantum computing experiments
+- source: OpenAI News RSS
+- score: `12`
+- published: `2026-09-08T17:00:00+00:00`
+- url: https://openai.com/index/codex-quantum-computing-experiments
+- summary: See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.
 
 END OF DOCUMENT

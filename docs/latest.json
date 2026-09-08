@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T20:00:43+00:00",
-  "run_id": "2026-09-08T20:00:43+00:00",
+  "generated_at": "2026-09-08T20:20:35+00:00",
+  "run_id": "2026-09-08T20:20:35+00:00",
   "date": "2026-09-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 78
+      "configured_public_sources_only": 79
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 78,
-    "displayed_findings": 78,
+    "today_file_total": 79,
+    "displayed_findings": 79,
     "high": 0,
     "medium": 26,
-    "observe": 52,
+    "observe": 53,
     "source_errors": 0
   },
   "sections": {
@@ -849,6 +849,50 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "6d272f6b695fa5496856"
+      },
+      {
+        "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+        "url": "https://openai.com/index/codex-quantum-computing-experiments",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-09-08T17:00:00+00:00",
+        "fetched_at": "2026-09-08T20:20:03+00:00",
+        "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+        "matched_keywords": [
+          "OpenAI",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: Codex"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "181dd4b6bb4fb3d6f344"
       },
       {
         "title": "ドラクエファンが「こういうグッズ思いついた」とイメージ画像をAIで作成＆投稿←これやると実際の企画が潰れる可能性あるし企業ロゴ使用などにも問題が…",
@@ -2808,6 +2852,50 @@
       "id": "6d272f6b695fa5496856"
     },
     {
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-08T17:00:00+00:00",
+      "fetched_at": "2026-09-08T20:20:03+00:00",
+      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+      "matched_keywords": [
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "181dd4b6bb4fb3d6f344"
+    },
+    {
       "title": "ドラクエファンが「こういうグッズ思いついた」とイメージ画像をAIで作成＆投稿←これやると実際の企画が潰れる可能性あるし企業ロゴ使用などにも問題が…",
       "url": "https://togetter.com/li/2743006",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3945,25 +4033,48 @@
   ],
   "new_findings": [
     {
-      "title": "2026年版: Mac開発環境の最新セットアップとインストールスクリプト（翻訳）｜TechRacho by BPS株式会社",
-      "url": "https://techracho.bpsinc.jp/hachi8833/2026_09_08/159597",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments",
+      "source": "OpenAI News RSS",
       "source_type": "rss",
-      "published_at": "2026-09-08T08:47:26+00:00",
-      "fetched_at": "2026-09-08T20:00:14+00:00",
-      "summary": "概要 元サイトの許諾を得て翻訳・公開いたします。 英語記事: My Development Setup in 2026 | baweaver 原文公開日: 2026年08月04日 原著者: Brandon Weaver 日本語タイトルは内容に即したものにしました。 ツールや拡張などへのリンクを適宜追加しています。 本記事は主にRails開発用の環境構築について解説されていま...",
+      "published_at": "2026-09-08T17:00:00+00:00",
+      "fetched_at": "2026-09-08T20:20:03+00:00",
+      "summary": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "OpenAI",
+        "Watchgraph:ai_agents_workflow"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 12,
+      "relevance_reason": "OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "09d56b1cd4905a76002b"
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: Codex"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "181dd4b6bb4fb3d6f344"
     }
   ],
   "source_errors": [],

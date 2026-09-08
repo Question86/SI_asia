@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-08T20:00:46+00:00",
+  "generated_at": "2026-09-08T20:20:39+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 78,
+    "findings": 79,
     "clusters": 59,
     "cross_source_confrmed": 0,
     "hot": 0,
@@ -49,6 +49,51 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-08T05:58:24+00:00"
+    },
+    {
+      "key": "domain:openai.com",
+      "title": "Funding grants for new research into AI and teen development",
+      "sources": [
+        "OpenAI News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://openai.com/index/teen-development-research-grants",
+        "https://openai.com/index/codex-quantum-computing-experiments",
+        "https://openai.com/index/the-work-now-within-reach",
+        "https://openai.com/index/navier-stokes-solution",
+        "https://openai.com/index/introducing-chatgpt-images-2-5",
+        "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms"
+      ],
+      "finding_count": 6,
+      "max_score": 13,
+      "credibility_total": 6.3,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 20.62,
+      "hot": false,
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 28.6,
+      "ranking_score": 20.62,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 3.62,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-17T20:44:40+00:00"
     },
     {
       "key": "title:app-worked-product-didn-can-install-judgement-agents",
@@ -289,48 +334,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-08T02:36:51+00:00"
-    },
-    {
-      "key": "domain:openai.com",
-      "title": "Funding grants for new research into AI and teen development",
-      "sources": [
-        "OpenAI News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://openai.com/index/teen-development-research-grants",
-        "https://openai.com/index/the-work-now-within-reach",
-        "https://openai.com/index/navier-stokes-solution",
-        "https://openai.com/index/introducing-chatgpt-images-2-5",
-        "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms"
-      ],
-      "finding_count": 5,
-      "max_score": 13,
-      "credibility_total": 5.25,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 16.24,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "raw_network_score": 23.5,
-      "ranking_score": 16.24,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 1.74,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-17T20:44:40+00:00"
     },
     {
       "key": "title:automatic-dependabot-access-github-hosted-registries",
@@ -987,44 +990,6 @@
       "first_seen_at": "2026-09-08T13:32:31+00:00"
     },
     {
-      "key": "title:2026-mac-techracho-bps",
-      "title": "2026年版: Mac開発環境の最新セットアップとインストールスクリプト（翻訳）｜TechRacho by BPS株式会社",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://techracho.bpsinc.jp/hachi8833/2026_09_08/159597"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 9.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 10.1,
-      "ranking_score": 9.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-09-08T20:00:46+00:00"
-    },
-    {
       "key": "earthquake:m 4.9 - 97 km nne of chitre, nepal:4.9",
       "title": "M 4.9 - 97 km NNE of Chitre, Nepal",
       "sources": [
@@ -1653,6 +1618,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-08T16:35:50+00:00"
+    },
+    {
+      "key": "title:2026-mac-techracho-bps",
+      "title": "2026年版: Mac開発環境の最新セットアップとインストールスクリプト（翻訳）｜TechRacho by BPS株式会社",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://techracho.bpsinc.jp/hachi8833/2026_09_08/159597"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 6.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 7.1,
+      "ranking_score": 6.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-08T20:00:46+00:00"
     },
     {
       "key": "title:duolingo",
@@ -2304,7 +2307,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-08T20:00:46Z",
+    "generated_at": "2026-09-08T20:20:39Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
