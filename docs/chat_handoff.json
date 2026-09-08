@@ -100,5 +100,145 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “microsoft/markitdown” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=39.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "microsoft/markitdown",
+        "url": "https://github.com/microsoft/markitdown",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": "2026-09-08T05:57:52+00:00",
+        "age_days": 0.11,
+        "topics": [
+          "axiom",
+          "ai"
+        ],
+        "dynamics_score": 39.0,
+        "raw_band": "extreme",
+        "dynamic_band": "extreme",
+        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "early terms: local",
+          "high terms: rce, privilege, privileges",
+          "security high-signal: rce, privilege, privileges",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "Python tool for converting files and office documents to Markdown. MarkItDown Important MarkItDown performs I/O with the privileges of the current process. Like open() or requests.get(), it will access resources that the process itself can access. Sanitize your inputs in untrusted environments, and call the narrowest…"
+      },
+      {
+        "title": "heygen-com/hyperframes",
+        "url": "https://github.com/heygen-com/hyperframes",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": "2026-09-08T05:57:52+00:00",
+        "age_days": 0.11,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 33.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "early terms: local",
+          "high terms: rce, auth",
+          "security high-signal: rce, auth"
+        ],
+        "summary": "Write HTML. Render video. Built for agents. Write HTML. Render video. Built for agents. Quickstart | Showcase | Playground | Catalog | Docs | Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it locally with the CLI, from AI coding…"
+      },
+      {
+        "title": "Southeast Asia’s live commerce boom enters its harder second act",
+        "url": "https://e27.co/southeast-asias-live-commerce-boom-enters-its-harder-second-act-20260908/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-08T05:51:06+00:00",
+        "age_days": 0.12,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 32.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +3",
+          "high terms: rce",
+          "security high-signal: rce"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "The app worked, the product didn’t: Can we install judgement into AI agents?",
+        "url": "https://e27.co/the-app-worked-the-product-didnt-can-we-install-judgement-into-ai-agents-20260906/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-08T03:12:00+00:00",
+        "age_days": 0.23,
+        "topics": [
+          "axiom",
+          "ai"
+        ],
+        "dynamics_score": 36.0,
+        "raw_band": "extreme",
+        "dynamic_band": "extreme",
+        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +3",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "jo-inc/camofox-browser",
+        "url": "https://github.com/jo-inc/camofox-browser",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": "2026-09-08T05:58:24+00:00",
+        "age_days": 0.11,
+        "topics": [
+          "axiom"
+        ],
+        "dynamics_score": 35.0,
+        "raw_band": "extreme",
+        "dynamic_band": "extreme",
+        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +3",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": ""
+      }
+    ]
+  }
 }
