@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-08T02:36:47+00:00_
+_Generiert: 2026-09-08T02:48:19+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „AI, quantum computing and the future of cyber threats“ aus e27 Asia Startup and Tech Feed (Score 15, observation).
+11 neue relevante Treffer. Stärkstes Signal: „AI, quantum computing and the future of cyber threats“ aus e27 Asia Startup and Tech Feed (Score 15, observation).
 
 ## Priorität Hoch
 
