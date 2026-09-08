@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-08T21:55:09+00:00_
+_Generiert: 2026-09-08T22:06:30+00:00_
 
 ## Kurzlage
 
-80 neue relevante Treffer. Stärkstes Signal: „mksglu/context-mode“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
+81 neue relevante Treffer. Stärkstes Signal: „mksglu/context-mode“ aus GitHub Trending RSS All Languages Daily (Score 20, observation). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -83,6 +83,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
   - Kurz: De multiples vulnérabilités ont été découvertes dans Papercut. Elles permettent à un attaquant de contourner l'authentification et d'exécuter du code arbitraire à distance. Papercut indique que ces vulnérabilités sont activement exploitées. L'éditeur explique que le correctif bloque les requêtes...
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 4.6 - 54 km NNE of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfxd)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-08T22:04:36.040+00:00`, fetched `2026-09-08T22:05:49+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-08 21:42:22 UTC 2026-09-08 21:42:22 UTC at epicenter Location 8.154°S 120.658°E Depth 17.47 km (10.85 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.2 - 123 km NNE of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfum)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
@@ -268,3 +277,8 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `google_trends_philippines_hot` (rss): HTTPSConnectionPool(host='trends.google.com.ph', port=443): Read timed out. (read timeout=8)
+- `google_trends_vietnam_hot` (rss): 500 Server Error: Internal Server Error for url: https://trends.google.com.vn/trending/rss?geo=VN
