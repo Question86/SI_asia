@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-08T16:45:57+00:00",
+  "generated_at": "2026-09-08T16:53:54+00:00",
   "events": [
     {
       "event_id": "evt_02008879feb3a26196bb",
@@ -1479,13 +1479,13 @@
     {
       "event_id": "evt_5e9435346f4d1ebff3f5",
       "title": "M 4.9 - 97 km NNE of Chitre, Nepal",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_5ecfe3d11dbe7ef7157d",
@@ -3795,7 +3795,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_ddc77a3d59c6e5ce526f",
