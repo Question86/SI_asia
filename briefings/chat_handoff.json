@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-08T02:15:49+00:00",
-  "status": "warning",
-  "coverage_confidence": "limited",
+  "generated_at": "2026-09-08T02:36:47+00:00",
+  "status": "normal",
+  "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 9,
-    "displayed_findings": 9,
+    "new_relevant_findings": 1,
+    "today_file_total": 10,
+    "displayed_findings": 10,
     "high": 0,
-    "medium": 1,
+    "medium": 2,
     "observe": 8
   },
-  "source_errors_count": 1,
+  "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "AI, quantum computing and the future of cyber threats",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-08T02:30:13+00:00",
+      "relevance_score": 15,
+      "url": "https://e27.co/ai-quantum-computing-and-the-future-of-cyber-threats-20260906/",
+      "summary": "I spent a lunchtime recently at a Singapore Press Club session on how artificial intelligence and quantum computing are making cyber threats worse. The room was full of people who work at the sharp end of this — running national defences, protecting small bus…",
+      "section": "medium"
+    },
     {
       "title": "680 million people, a US$600 billion digital economy: Southeast Asia’s AI moment",
       "source": "e27 Asia Startup and Tech Feed",
@@ -70,138 +80,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “M 4.5 - south of the Fiji Islands” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=21.59.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "M 4.5 - south of the Fiji Islands",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfqi",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-08-30T09:38:46+00:00",
-        "age_days": 8.7,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 21.59,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 2.9,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "baseline z_hint 2.90"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Microsoft製品でここまで自動化できる 情シスがやめられる手作業10選",
-        "url": "https://techtarget.itmedia.co.jp/tt/article/2609/07/2000001177/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-08T00:56:10+00:00",
-        "age_days": 0.06,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 19.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "high terms: 10"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "680 million people, a US$600 billion digital economy: Southeast Asia’s AI moment",
-        "url": "https://e27.co/680-million-people-a-us600-billion-digital-economy-southeast-asias-ai-moment-20260906/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-08T01:40:08+00:00",
-        "age_days": 0.03,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 18.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 2,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +2",
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "The SMS looks real and that’s exactly why you should be careful",
-        "url": "https://e27.co/the-sms-looks-real-and-thats-exactly-why-you-should-be-careful-20260906/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-08T02:15:54+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 17.5,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +1"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "M 5.1 - 96 km ESE of Isangel, Vanuatu",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfqf",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-08T01:07:52.040+00:00",
-        "age_days": 0.06,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 17.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake",
-          "high terms: 10, 9.8"
-        ],
-        "summary": "Time 2026-09-08 00:52:02 UTC 2026-09-08 00:52:02 UTC at epicenter Location 19.841°S 170.145°E Depth 10.00 km (6.21 mi)"
-      }
-    ]
-  }
+  ]
 }

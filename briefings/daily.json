@@ -1,7 +1,30 @@
 {
-  "generated_at": "2026-09-08T02:15:54+00:00",
-  "today_file_total": 9,
+  "generated_at": "2026-09-08T02:36:51+00:00",
+  "today_file_total": 10,
   "current_clusters": [
+    {
+      "key": "title:quantum-computing-future-cyber-threats",
+      "title": "AI, quantum computing and the future of cyber threats",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/ai-quantum-computing-and-the-future-of-cyber-threats-20260906/"
+      ],
+      "finding_count": 1,
+      "max_score": 15,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 20.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
     {
       "key": "title:680-million-people-600-billion-digital-economy-southeast",
       "title": "680 million people, a US$600 billion digital economy: Southeast Asia’s AI moment",
@@ -41,9 +64,9 @@
       "max_score": 11,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 16.1,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 13.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
@@ -64,37 +87,14 @@
       "max_score": 9,
       "credibility_total": 1.35,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 14.7,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 11.7,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "url:https://www.digital.go.jp/councils/digital-talent-development-policy",
-      "title": "「今後のデジタル人材育成政策に関する検討会」開催について掲載しました",
-      "sources": [
-        "Japan Digital Agency News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.digital.go.jp/councils/digital-talent-development-policy"
-      ],
-      "finding_count": 1,
-      "max_score": 8,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 13.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "earthquake:m 5.1 - 96 km ese of isangel, vanuatu:5.1",
@@ -122,23 +122,23 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "title:htmx-xhr-fetch-streaming-html",
-      "title": "HTMX 4.0正式リリース。内部実装がXHRからfetchに移行しStreaming HTMLが可能に、属性はデフォルトで子要素に継承されないように変更など",
+      "key": "url:https://www.digital.go.jp/councils/digital-talent-development-policy",
+      "title": "「今後のデジタル人材育成政策に関する検討会」開催について掲載しました",
       "sources": [
-        "Hatena Bookmark Hotentry IT"
+        "Japan Digital Agency News RSS"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://www.publickey1.jp/blog/26/htmx_40xhrfetchstreaming_html.html"
+        "https://www.digital.go.jp/councils/digital-talent-development-policy"
       ],
       "finding_count": 1,
-      "max_score": 5,
+      "max_score": 8,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
+      "momentum_delta": 0,
+      "momentum_status": "stable",
       "network_score": 10.1,
       "hot": false,
       "watchgraph_modules": [],
@@ -155,6 +155,29 @@
       ],
       "urls": [
         "https://pc.watch.impress.co.jp/docs/column/nishikawa/2138806.html"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 7.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:htmx-xhr-fetch-streaming-html",
+      "title": "HTMX 4.0正式リリース。内部実装がXHRからfetchに移行しStreaming HTMLが可能に、属性はデフォルトで子要素に継承されないように変更など",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.publickey1.jp/blog/26/htmx_40xhrfetchstreaming_html.html"
       ],
       "finding_count": 1,
       "max_score": 5,
