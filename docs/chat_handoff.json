@@ -90,5 +90,139 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “The app worked, the product didn’t: Can we install judgement into AI agents?” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=27.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "The app worked, the product didn’t: Can we install judgement into AI agents?",
+        "url": "https://e27.co/the-app-worked-the-product-didnt-can-we-install-judgement-into-ai-agents-20260906/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-08T03:00:56+00:00",
+        "age_days": 0.03,
+        "topics": [
+          "axiom",
+          "ai",
+          "macro"
+        ],
+        "dynamics_score": 27.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "Our app worked. That was the problem. My team had spent roughly half a year working with our developer and using AI to build an in-house learning management app. In our testing environment, every function appeared to work. Zoom links could be updated. Calendars were connected. The automated checks reported that the sy…"
+      },
+      {
+        "title": "AI, quantum computing and the future of cyber threats",
+        "url": "https://e27.co/ai-quantum-computing-and-the-future-of-cyber-threats-20260906/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-08T02:36:51+00:00",
+        "age_days": 0.04,
+        "topics": [
+          "ai",
+          "security"
+        ],
+        "dynamics_score": 24.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +3"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "The app worked, the product didn’t: Can we install judgement into AI agents?",
+        "url": "https://e27.co/the-app-worked-the-product-didnt-can-we-install-judgement-into-ai-agents-20260906/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-08T03:12:00+00:00",
+        "age_days": 0.02,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 20.5,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+        "source_count": 1,
+        "momentum_delta": 1,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": true,
+        "why": [
+          "momentum delta +1",
+          "single-source AI hype brake -8.0"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "The SMS looks real and that’s exactly why you should be careful",
+        "url": "https://e27.co/the-sms-looks-real-and-thats-exactly-why-you-should-be-careful-20260906/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-08T02:15:54+00:00",
+        "age_days": 0.06,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 20.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +3"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "Microsoft製品でここまで自動化できる 情シスがやめられる手作業10選",
+        "url": "https://techtarget.itmedia.co.jp/tt/article/2609/07/2000001177/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-08T00:56:10+00:00",
+        "age_days": 0.11,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 19.0,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +3",
+          "high terms: 10"
+        ],
+        "summary": ""
+      }
+    ]
+  }
 }
