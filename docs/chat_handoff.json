@@ -1,11 +1,11 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-08T13:32:28+00:00",
+  "generated_at": "2026-09-08T13:43:15+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 6,
+    "new_relevant_findings": 0,
     "today_file_total": 66,
     "displayed_findings": 66,
     "high": 0,
@@ -100,146 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “[NEU] [kritisch] Adobe Magento Open Source: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=42.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "[NEU] [kritisch] Adobe Magento Open Source: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3223",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-08T11:44:18+00:00",
-        "age_days": 0.08,
-        "topics": [
-          "axiom",
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 42.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: kritisch, rce, code",
-          "security high-signal: kritisch, rce, code",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Adobe Magento ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen."
-      },
-      {
-        "title": "microsoft/markitdown",
-        "url": "https://github.com/microsoft/markitdown",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": "2026-09-08T05:57:52+00:00",
-        "age_days": 0.32,
-        "topics": [
-          "axiom",
-          "ai"
-        ],
-        "dynamics_score": 39.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: local",
-          "high terms: rce, privilege, privileges",
-          "security high-signal: rce, privilege, privileges",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "Python tool for converting files and office documents to Markdown. MarkItDown Important MarkItDown performs I/O with the privileges of the current process. Like open() or requests.get(), it will access resources that the process itself can access. Sanitize your inputs in untrusted environments, and call the narrowest…"
-      },
-      {
-        "title": "[NEU] [hoch] Samsung Android: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3219",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-08T11:44:17+00:00",
-        "age_days": 0.08,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code, root",
-          "security high-signal: code, root"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Samsung Android ausnutzen, um beliebigen Code auszuführen – sogar mit Root-Rechten –, sich erweiterte Berechtigungen zu verschaffen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren oder einen Denial-of-Service-Zustand auszulös…"
-      },
-      {
-        "title": "[NEU] [hoch] SAP Patch Day September 2026: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3220",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-08T11:44:17+00:00",
-        "age_days": 0.08,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe, code",
-          "security high-signal: angriffe, code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in SAP Software ausnutzen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Berechtigungen zu erweitern, vertrauliche Informationen offenzulegen oder zu manipulieren, SQL-Injection-Angriffe durchzuführen oder einen Denial-of-Service-Zustand zu verursachen."
-      },
-      {
-        "title": "Multiples vulnérabilités dans Papercut (28 août 2026)",
-        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1095/",
-        "source": "CERT-FR Avis de sécurité",
-        "published_at": "2026-08-28T00:00:00+00:00",
-        "age_days": 11.57,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: active, code, 10",
-          "security high-signal: active, code, 10, auth"
-        ],
-        "summary": "De multiples vulnérabilités ont été découvertes dans Papercut. Elles permettent à un attaquant de contourner l'authentification et d'exécuter du code arbitraire à distance. Papercut indique que ces vulnérabilités sont activement exploitées. L'éditeur explique que le correctif bloque les requêtes..."
-      }
-    ]
-  }
+  ]
 }
