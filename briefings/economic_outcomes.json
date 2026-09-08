@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-08T16:24:22+00:00",
+  "generated_at": "2026-09-08T16:36:25+00:00",
   "events": [
     {
       "event_id": "evt_02008879feb3a26196bb",
@@ -3784,7 +3784,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_ddc77a3d59c6e5ce526f",
@@ -4119,13 +4119,13 @@
     {
       "event_id": "evt_eef0d0f11ee49427a3c4",
       "title": "M 4.9 - 54 km E of Hihifo, Tonga",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_ef06b8ae289bd29fd302",
