@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-08T01:21:56+00:00",
+  "generated_at": "2026-09-08T01:40:31+00:00",
   "events": [
     {
       "event_id": "evt_02008879feb3a26196bb",
@@ -203,12 +203,12 @@
     {
       "event_id": "evt_0e61e527cb9f9b8d5498",
       "title": "M 5.1 - 96 km ESE of Isangel, Vanuatu",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -2357,6 +2357,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_9553b03b5dbb0a9ec17a",
+      "title": "680 million people, a US$600 billion digital economy: Southeast Asia’s AI moment",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_9621801164f24dea86ea",
       "title": "OpenAI、次世代モデル「GPT-6 Astra」を発表 ～「PCでできることは、すべて代行できる」／科学研究、ビジネス業務、高度な数学、コンピューター操作などの分野で新境地を拓く",
       "deduplicated_buckets": 0,
@@ -3961,6 +3972,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_ff692f3789f4ee8ecab8",
+      "title": "【西川和久の不定期コラム】 家庭にあるPCのLLMリソースを束ねるNVIDIA「PAIR」、早速試してみた！",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     }
   ]
 }
