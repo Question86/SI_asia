@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-08T16:35:45+00:00_
+_Generated: 2026-09-08T16:45:20+00:00_
 
 ## Status
 - status: `normal`
-- findings: `71`
+- findings: `73`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-09-08T16:35:45+00:00_
 - url: https://e27.co/tevo-secures-us10m-from-pvx-to-scale-its-consumer-ai-apps-without-selling-equity-20260908/
 - summary: For many consumer app companies, the hardest part is no longer building the first product. It is finding enough growth capital to keep buying users profitably once a product has already shown traction. Tevo, a consumer and AI apps company from Southeast Asia,…
 
-### 6. heygen-com/hyperframes
+### 6. Funding grants for new research into AI and teen development
+- source: OpenAI News RSS
+- score: `13`
+- published: `2026-09-08T09:00:00+00:00`
+- url: https://openai.com/index/teen-development-research-grants
+- summary: Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.
+
+### 7. heygen-com/hyperframes
 - source: GitHub Trending RSS All Languages Daily
 - score: `13`
 - published: `None`
 - url: https://github.com/heygen-com/hyperframes
 - summary: Write HTML. Render video. Built for agents. Write HTML. Render video. Built for agents. Quickstart | Showcase | Playground | Catalog | Docs | Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into determinis…
 
-### 7. ドラクエファンが「こういうグッズ思いついた」とイメージ画像をAIで作成＆投稿←これやると実際の企画が潰れる可能性あるし企業ロゴ使用などにも問題が…
+### 8. ドラクエファンが「こういうグッズ思いついた」とイメージ画像をAIで作成＆投稿←これやると実際の企画が潰れる可能性あるし企業ロゴ使用などにも問題が…
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-09-08T06:37:51+00:00`
 - url: https://togetter.com/li/2743006
 - summary: 岡安モフモフ（アーガイル社長）＠ChatGPT/Gemini/ClaudeなどLLMでサービス作る人 @shields_pikes @Dr_Emmett こういうのは、自分の持ってるIPでやるべきだよ。そして、商品化まで自分でやる。 人気のIPでこういうのを出して欲しかったら、絶対にこういう企画案を形にして表に出しちゃダメ。スクエニの社内でも前から似...
-
-### 8. AIっぽくない画像を作る画風プロンプト38種類＋テンプレート - Qiita
-- source: Hatena Bookmark Hotentry IT
-- score: `11`
-- published: `2026-09-08T05:05:02+00:00`
-- url: https://qiita.com/maeda-niku18/items/b633dda178c505461080
-- summary: AI画像生成の「AIっぽさ」を消すための画風プロンプト集（38スタイル＋テンプレート） ChatGPT（GPT Image）で資料やWebサイト用のイラストを作っていると、毎回同じところで引っかかります。 線が均一すぎる、グラデーションが滑らかすぎる、顔が整いすぎている、背景に意味のない小物が増える。要するに、AIが生成した...
 
 END OF DOCUMENT
