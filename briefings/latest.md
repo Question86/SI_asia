@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-08T10:58:26+00:00_
+_Generiert: 2026-09-08T11:18:04+00:00_
 
 ## Kurzlage
 
@@ -37,14 +37,6 @@ _Generiert: 2026-09-08T10:58:26+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.6M, Depth:38.543km) in Solomon Is. 06/09/2026 04:05 UTC, 20 thousand in MMI IV.
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:10km) in Vanuatu 05/09/2026 17:02 UTC, 8 thousand in MMI&gt;=-.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563804)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:10km) in Vanuatu 05/09/2026 17:02 UTC, 8 thousand in MMI&gt;=-.
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:114.364km) in Papua New Guinea 05/09/2026 14:12 UTC, 290 thousand in MMI III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1563786)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:114.364km) in Papua New Guinea 05/09/2026 14:12 UTC, 290 thousand in MMI III.
 
 ## Wirtschaft global
 
