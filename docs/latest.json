@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T03:44:39+00:00",
-  "run_id": "2026-09-08T03:44:39+00:00",
+  "generated_at": "2026-09-08T03:52:22+00:00",
+  "run_id": "2026-09-08T03:52:22+00:00",
   "date": "2026-09-08",
   "status": "warning",
   "mode": "hardened_monitor",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 16,
     "displayed_findings": 16,
     "high": 0,
     "medium": 3,
     "observe": 13,
-    "source_errors": 3
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -815,46 +815,13 @@
       "id": "9c7f1b9e844bae426591"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Why safe banks can produce fragile economies",
-      "url": "https://e27.co/why-safe-banks-can-produce-fragile-economies-20260908/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-08T03:30:20+00:00",
-      "fetched_at": "2026-09-08T03:44:05+00:00",
-      "summary": "Across the region, governments want banks to remain conservative and startups to become more ambitious. Those goals are compatible only when other institutions are prepared to finance the risks that banks cannot. Conventional lenders reward collateral, reliable cash flow and years of financial statements. Many companies expected to create new industries possess none of these. […] The post Why safe banks can produce…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0c05cf3d85e4940388d2"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [
     {
-      "source_id": "bis_press_releases",
-      "source_name": "BIS Press Releases",
+      "source_id": "google_trends_taiwan_hot",
+      "source_name": "Google Trends Taiwan Hot Feed",
       "source_type": "rss",
-      "error": "503 Server Error: Service Unavailable for url: https://www.bis.org/doclist/all_pressrels.rss"
-    },
-    {
-      "source_id": "bis_central_bank_speeches",
-      "source_name": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "error": "503 Server Error: Service Unavailable for url: https://www.bis.org/doclist/cbspeeches.rss?paging_length=15"
-    },
-    {
-      "source_id": "bis_statistics",
-      "source_name": "BIS Statistical Releases",
-      "source_type": "rss",
-      "error": "503 Server Error: Service Unavailable for url: https://www.bis.org/doclist/all_statistics.rss"
+      "error": "500 Server Error: Internal Server Error for url: https://trends.google.com.tw/trending/rss?geo=TW"
     }
   ],
   "quality_gate": {

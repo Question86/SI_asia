@@ -1,36 +1,24 @@
 {
-  "generated_at": "2026-09-08T03:44:39+00:00",
+  "generated_at": "2026-09-08T03:52:22+00:00",
   "status": "warning",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
   "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 16,
     "displayed_findings": 16,
     "high": 0,
     "medium": 3,
     "observe": 13,
-    "source_errors": 3
+    "source_errors": 1
   },
   "source_errors": [
     {
-      "source_id": "bis_press_releases",
-      "source_name": "BIS Press Releases",
+      "source_id": "google_trends_taiwan_hot",
+      "source_name": "Google Trends Taiwan Hot Feed",
       "source_type": "rss",
-      "error": "503 Server Error: Service Unavailable for url: https://www.bis.org/doclist/all_pressrels.rss"
-    },
-    {
-      "source_id": "bis_central_bank_speeches",
-      "source_name": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "error": "503 Server Error: Service Unavailable for url: https://www.bis.org/doclist/cbspeeches.rss?paging_length=15"
-    },
-    {
-      "source_id": "bis_statistics",
-      "source_name": "BIS Statistical Releases",
-      "source_type": "rss",
-      "error": "503 Server Error: Service Unavailable for url: https://www.bis.org/doclist/all_statistics.rss"
+      "error": "500 Server Error: Internal Server Error for url: https://trends.google.com.tw/trending/rss?geo=TW"
     }
   ],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"
