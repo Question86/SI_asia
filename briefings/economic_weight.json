@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-08T05:51:21+00:00",
+  "generated_at": "2026-09-08T05:58:39+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -261,7 +261,7 @@
       "p90_usd": 112800000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T02:15:54+00:00",
-      "last_seen_at": "2026-09-08T05:51:06+00:00",
+      "last_seen_at": "2026-09-08T05:58:24+00:00",
       "status": "active"
     },
     {
@@ -330,7 +330,7 @@
       "p90_usd": 110400000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T02:15:54+00:00",
-      "last_seen_at": "2026-09-08T05:51:06+00:00",
+      "last_seen_at": "2026-09-08T05:58:24+00:00",
       "status": "active"
     },
     {
@@ -368,6 +368,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_85c481c7bae66492f340",
+      "title": "Southeast Asia’s live commerce boom enters its harder second act",
+      "event_classes": [
+        "regulation"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 10880000.0,
+      "p50_usd": 1088000000.0,
+      "p90_usd": 108800000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-08T05:51:06+00:00",
+      "last_seen_at": "2026-09-08T05:58:24+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_d48e21c7f82486093be6",
       "title": "Southeast Asia’s quiet FDI manufacturing redistribution",
       "event_classes": [
@@ -383,23 +400,6 @@
       "first_seen_at": "2026-09-01T01:41:03+00:00",
       "last_seen_at": "2026-09-01T06:01:06+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_85c481c7bae66492f340",
-      "title": "Southeast Asia’s live commerce boom enters its harder second act",
-      "event_classes": [
-        "regulation"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 10880000.0,
-      "p50_usd": 1088000000.0,
-      "p90_usd": 108800000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-08T05:51:06+00:00",
-      "last_seen_at": "2026-09-08T05:51:06+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_90d6a2b78e9795b05829",
@@ -602,7 +602,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-08T05:01:25+00:00",
-      "last_seen_at": "2026-09-08T05:51:06+00:00",
+      "last_seen_at": "2026-09-08T05:58:24+00:00",
       "status": "active"
     },
     {
@@ -1367,7 +1367,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-08T01:21:36+00:00",
-      "last_seen_at": "2026-09-08T05:51:06+00:00",
+      "last_seen_at": "2026-09-08T05:58:24+00:00",
       "status": "active"
     },
     {
@@ -1894,7 +1894,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-30T09:38:46+00:00",
-      "last_seen_at": "2026-09-08T05:51:06+00:00",
+      "last_seen_at": "2026-09-08T05:58:24+00:00",
       "status": "active"
     },
     {
@@ -2336,8 +2336,8 @@
       "p90_usd": 1232000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
-      "last_seen_at": "2026-09-07T13:07:39+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-09-08T05:58:24+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_55bf431fc184f598da38",
@@ -2459,6 +2459,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_48aef51a244d885064ac",
+      "title": "mksglu/context-mode",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 120000.0,
+      "p50_usd": 12000000.0,
+      "p90_usd": 1200000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-08T05:58:24+00:00",
+      "last_seen_at": "2026-09-08T05:58:24+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_2170780765320e429d3b",
       "title": "Staying secure in the AI era: The habits we need to rethink",
       "event_classes": [
@@ -2489,7 +2506,7 @@
       "p90_usd": 1192000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T03:12:00+00:00",
-      "last_seen_at": "2026-09-08T05:51:06+00:00",
+      "last_seen_at": "2026-09-08T05:58:24+00:00",
       "status": "active"
     },
     {
@@ -2610,6 +2627,23 @@
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-09-05T23:55:24+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_519266b8d2b8e470900c",
+      "title": "jo-inc/camofox-browser",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 118400.0,
+      "p50_usd": 11840000.0,
+      "p90_usd": 1184000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-08T05:58:24+00:00",
+      "last_seen_at": "2026-09-08T05:58:24+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_944d61924133bc9f7758",
@@ -2846,7 +2880,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T02:36:51+00:00",
-      "last_seen_at": "2026-09-08T05:51:06+00:00",
+      "last_seen_at": "2026-09-08T05:58:24+00:00",
       "status": "active"
     },
     {
@@ -2999,7 +3033,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T01:40:08+00:00",
-      "last_seen_at": "2026-09-08T05:51:06+00:00",
+      "last_seen_at": "2026-09-08T05:58:24+00:00",
       "status": "active"
     },
     {
@@ -3188,6 +3222,23 @@
       "first_seen_at": "2026-09-07T21:47:37+00:00",
       "last_seen_at": "2026-09-07T23:53:08+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_626d8a2c1716a9eae3bd",
+      "title": "heygen-com/hyperframes",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 114400.0,
+      "p50_usd": 11440000.0,
+      "p90_usd": 1144000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-08T05:58:24+00:00",
+      "last_seen_at": "2026-09-08T05:58:24+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_2a7631f0e872d9aad503",
@@ -3834,6 +3885,23 @@
       "first_seen_at": "2026-09-03T07:42:38+00:00",
       "last_seen_at": "2026-09-03T13:26:43+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_f8c820dc2fe980be70d5",
+      "title": "microsoft/markitdown",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112800.0,
+      "p50_usd": 11280000.0,
+      "p90_usd": 1128000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-08T05:58:24+00:00",
+      "last_seen_at": "2026-09-08T05:58:24+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_085ae9c5f434f17156ff",
@@ -5022,7 +5090,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T03:12:00+00:00",
-      "last_seen_at": "2026-09-08T05:51:06+00:00",
+      "last_seen_at": "2026-09-08T05:58:24+00:00",
       "status": "active"
     },
     {
@@ -5499,7 +5567,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T00:00:49+00:00",
       "last_seen_at": "2026-09-08T05:51:06+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_616ba86e197f16b3fa04",
@@ -5788,7 +5856,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T00:56:10+00:00",
       "last_seen_at": "2026-09-08T05:51:06+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_9ee4a4eefa80fadb5a10",
@@ -5923,7 +5991,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T04:54:02+00:00",
-      "last_seen_at": "2026-09-08T05:51:06+00:00",
+      "last_seen_at": "2026-09-08T05:58:24+00:00",
       "status": "active"
     },
     {
@@ -6043,7 +6111,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T02:48:24+00:00",
       "last_seen_at": "2026-09-08T05:51:06+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_e1aa2e1f944f49693040",
@@ -6059,7 +6127,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T02:15:54+00:00",
-      "last_seen_at": "2026-09-08T05:51:06+00:00",
+      "last_seen_at": "2026-09-08T05:58:24+00:00",
       "status": "active"
     },
     {
@@ -6161,7 +6229,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T03:12:00+00:00",
-      "last_seen_at": "2026-09-08T05:51:06+00:00",
+      "last_seen_at": "2026-09-08T05:58:24+00:00",
       "status": "active"
     },
     {
@@ -6178,7 +6246,24 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T01:40:08+00:00",
-      "last_seen_at": "2026-09-08T05:51:06+00:00",
+      "last_seen_at": "2026-09-08T05:58:24+00:00",
+      "status": "active"
+    },
+    {
+      "event_id": "evt_ea19f39599c7433e4385",
+      "title": "MoonTechLab/LunaTV",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-08T05:58:24+00:00",
+      "last_seen_at": "2026-09-08T05:58:24+00:00",
       "status": "active"
     },
     {
@@ -6213,7 +6298,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T03:44:42+00:00",
       "last_seen_at": "2026-09-08T05:51:06+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_4ee48c8e37b55fd52d33",
@@ -6333,7 +6418,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T03:12:00+00:00",
       "last_seen_at": "2026-09-08T05:51:06+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_369ed4c57635e2a534e3",

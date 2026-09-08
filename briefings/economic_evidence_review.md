@@ -1,9 +1,9 @@
 # Economic Evidence Review
 
-Generated: `2026-09-08T05:51:34+00:00`
+Generated: `2026-09-08T05:58:50+00:00`
 FX as of: `None`
 
-- Candidates: **330**
+- Candidates: **331**
 - Promoted: **0**
 
 | Candidate | Event | USD | Component | Status |
@@ -25,6 +25,7 @@ FX as of: `None`
 | `cand_8875327b93964621405b` | `evt_c6dc90057ec5ebdfc7d8` | $10 | unknown | pending |
 | `cand_4b715b6fbdf0a23adaec` | `evt_3cb5980444e3bd7e9296` | $5 | unknown | pending |
 | `cand_f3f9a9471a5e587a4d11` | `evt_8652d6841c3b45de4589` | $5 | unknown | pending |
+| `cand_d6113be414c41d9b43bc` | `evt_519266b8d2b8e470900c` | $5 | unknown | pending |
 | `cand_e4da03625b9cc62e7afc` | `evt_3cb5980444e3bd7e9296` | $2 | unknown | pending |
 | `cand_05d770e15ac6343f474e` | `evt_e2a35831f82554cb2454` | $1 | unknown | pending |
 | `cand_a01318272b74e3cf2348` | `evt_55bf431fc184f598da38` | $1 | unknown | pending |
@@ -47,4 +48,3 @@ FX as of: `None`
 | `cand_6dc9f22aff7aa35343e5` | `evt_43856848b80264610146` | — | unknown | pending |
 | `cand_89f188b3aabce4381a83` | `evt_43856848b80264610146` | — | unknown | pending |
 | `cand_2459c701463d72f4cd6f` | `evt_43856848b80264610146` | — | unknown | pending |
-| `cand_db6112dc1cecbd00cd67` | `evt_5a8609c38e0d544999d3` | $47,600,000,000,000 | valuation | pending |

@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-09-08T05:51:34+00:00",
+  "generated_at": "2026-09-08T05:58:50+00:00",
   "fx_as_of": null,
-  "candidate_count": 330,
+  "candidate_count": 331,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 330
+    "pending": 331
   },
   "coverage_warning": null,
   "candidates": [
@@ -359,6 +359,27 @@
       "snippet": "crawler on GitHub. Your support keeps it independent, innovative, and free for the community — while giving you direct access to premium benefits. 🤝 Sponsorship Tiers 🌱 Believer ($5/mo) — Join the movement for data democratization 🚀 Builder ($50/mo) — Priority support & early access to features 💼 Growing Team ($500/mo) — Bi-weekly syncs & optimization help 🏢",
       "source_priority": "primary_hint",
       "source_url": "https://github.com/unclecode/crawl4ai"
+    },
+    {
+      "amount_native": 5.0,
+      "amount_usd": 5.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.6,
+      "candidate_id": "cand_d6113be414c41d9b43bc",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_519266b8d2b8e470900c",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-08T05:58:40+00:00",
+      "overlap_group_suggestion": "evt_519266b8d2b8e470900c:unknown:4c877e81701b",
+      "review_status": "pending",
+      "snippet": "smaller than raw HTML Runs on Anything - lazy browser launch + idle shutdown keeps memory at ~40MB when idle. Designed to share a box with the rest of your stack -- Raspberry Pi, $5 VPS, shared infra. Session Isolation - separate cookies/storage per user Cookie Import - inject Netscape-format cookie files for authenticated browsing File Upload - attach files f",
+      "source_priority": "primary_hint",
+      "source_url": "https://github.com/jo-inc/camofox-browser",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 2.0,
@@ -4612,20 +4633,20 @@
       "attribution_probability": null,
       "candidate_confidence": 0.55,
       "candidate_id": "cand_bd567b3823810e51b29f",
+      "component_confidence": 0.55,
       "component_suggestion": "capital_allocation",
       "conversion_status": "not_required",
       "currency": "USD",
       "event_id": "evt_85c481c7bae66492f340",
       "extraction_method": "regex_context_v1",
+      "fx_as_of": null,
+      "fx_rate_to_usd": 1.0,
       "observed_at": "2026-09-08T05:51:24+00:00",
       "overlap_group_suggestion": "evt_85c481c7bae66492f340:capital_allocation:16a051a7b684",
       "review_status": "pending",
       "snippet": "data Defi E-Commerce Hardware Retail Artificial Intelligence Cryptocurrency Education Healthtech Software As A Service View all Startups --> POSTS STARTUPS Tech Innovators secured $50 million in funding from Venture Capitalist Alpha, paving the way for groundbreaking advancements in artificial intelligence. Discover the power of AI in transforming your daily tasks! Wit",
       "source_priority": "secondary_or_unknown",
-      "source_url": "https://e27.co/southeast-asias-live-commerce-boom-enters-its-harder-second-act-20260908/",
-      "component_confidence": 0.55,
-      "fx_rate_to_usd": 1.0,
-      "fx_as_of": null
+      "source_url": "https://e27.co/southeast-asias-live-commerce-boom-enters-its-harder-second-act-20260908/"
     },
     {
       "amount_native": 50000000.0,
@@ -4633,20 +4654,20 @@
       "attribution_probability": null,
       "candidate_confidence": 0.55,
       "candidate_id": "cand_da8a5093c5dcdc3b4aad",
+      "component_confidence": 0.55,
       "component_suggestion": "capital_allocation",
       "conversion_status": "not_required",
       "currency": "USD",
       "event_id": "evt_85c481c7bae66492f340",
       "extraction_method": "regex_context_v1",
+      "fx_as_of": null,
+      "fx_rate_to_usd": 1.0,
       "observed_at": "2026-09-08T05:51:24+00:00",
       "overlap_group_suggestion": "evt_85c481c7bae66492f340:capital_allocation:f3a8ffe32888",
       "review_status": "pending",
       "snippet": "cial intelligence. Discover the power of AI in transforming your daily tasks! With intelligent algorithms, we enhance productivity and streamline workflows. AI Innovations Secures $50 Million in Funding from Visionary Investor Experience the future with AI-driven solutions that simplify complex processes and boost efficiency in your work environment. View all Posts Xam",
       "source_priority": "secondary_or_unknown",
-      "source_url": "https://e27.co/southeast-asias-live-commerce-boom-enters-its-harder-second-act-20260908/",
-      "component_confidence": 0.55,
-      "fx_rate_to_usd": 1.0,
-      "fx_as_of": null
+      "source_url": "https://e27.co/southeast-asias-live-commerce-boom-enters-its-harder-second-act-20260908/"
     },
     {
       "amount_native": 44000000.0,
