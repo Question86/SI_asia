@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-08T01:56:13+00:00_
+_Generated: 2026-09-08T02:15:49+00:00_
 
 ## Status
-- status: `normal`
-- findings: `5`
+- status: `warning`
+- findings: `9`
 
 ## Top Signals
 
@@ -15,32 +15,32 @@ _Generated: 2026-09-08T01:56:13+00:00_
 - url: https://e27.co/680-million-people-a-us600-billion-digital-economy-southeast-asias-ai-moment-20260906/
 - summary: If you ask most people where the future of artificial intelligence will be built, they will name Silicon Valley, China, or Europe. Few would mention Southeast Asia. And yet, global tech giants are already investing tens of billions of dollars in the region. W…
 
-### 2. M 5.1 - 96 km ESE of Isangel, Vanuatu
+### 2. The SMS looks real and that’s exactly why you should be careful
+- source: e27 Asia Startup and Tech Feed
+- score: `11`
+- published: `2026-09-08T02:00:57+00:00`
+- url: https://e27.co/the-sms-looks-real-and-thats-exactly-why-you-should-be-careful-20260906/
+- summary: For years, many of us have had a simple rule when receiving an SMS from our bank: check the sender. If the message comes from the same sender that usually delivers our transaction alerts or OTPs, it feels safe. After all, how could a scammer possibly send a m…
+
+### 3. M 4.5 - south of the Fiji Islands
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-09-08T02:01:34.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfqi
+- summary: Time 2026-09-08 01:39:35 UTC 2026-09-08 01:39:35 UTC at epicenter Location 22.335°S 179.763°W Depth 568.56 km (353.29 mi)
+
+### 4. M 5.1 - 96 km ESE of Isangel, Vanuatu
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-09-08T01:07:52.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfqf
 - summary: Time 2026-09-08 00:52:02 UTC 2026-09-08 00:52:02 UTC at epicenter Location 19.841°S 170.145°E Depth 10.00 km (6.21 mi)
 
-### 3. 【西川和久の不定期コラム】 家庭にあるPCのLLMリソースを束ねるNVIDIA「PAIR」、早速試してみた！
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-09-07T21:08:01+00:00`
-- url: https://pc.watch.impress.co.jp/docs/column/nishikawa/2138806.html
-- summary: 【西川和久の不定期コラム】 家庭にあるPCのLLMリソースを束ねるNVIDIA「PAIR」、早速試してみた！
-
-### 4. Microsoft製品でここまで自動化できる 情シスがやめられる手作業10選
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-09-07T01:36:25+00:00`
-- url: https://techtarget.itmedia.co.jp/tt/article/2609/07/2000001177/
-- summary: 入退社時のアカウント処理やPCのセットアップ、ゲストユーザーの棚卸しといった定型業務を手作業で続けている情報システム（情シス）部門があります。 実は、Microsoft製品の中には、こうした業務を自動化できる機能が数多く用意されています。本記事では、その中でも有名な機能や意外と知られていない機能と、その機能...
-
-### 5. 高輪ゲートウェイの地下になぜ「50メートルプール8個分の水」？そのワケがスゴかった
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-09-06T23:29:00+00:00`
-- url: https://diamond.jp/articles/-/398505
-- summary: JR東日本は8月27日、高輪ゲートウェイシティにおけるBCP（非常事態における事業継続計画）推進と、ゼロカーボン達成に貢献するエネルギープラントを報道公開した。鉄道の電力網と都市ガスを組み合わせ、巨大な蓄熱槽やAIによる熱源機器の最適制御も導入。災害への備えと省エネを両立させるエネルギーマネジメントの全貌...
+### 5. 「今後のデジタル人材育成政策に関する検討会」開催について掲載しました
+- source: Japan Digital Agency News RSS
+- score: `8`
+- published: `2026-09-08T01:56:13+00:00`
+- url: https://www.digital.go.jp/councils/digital-talent-development-policy
+- summary: 「今後のデジタル人材育成政策に関する検討会」開催について掲載しました
 
 END OF DOCUMENT
