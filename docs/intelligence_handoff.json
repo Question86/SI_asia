@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-08T09:15:40Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] ILIAS: Mehrere Schwachstellen” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
+  "generated_at": "2026-09-08T09:38:35Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [niedrig] ImageMagick: Mehrere Schwachstellen” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,11 @@
   ],
   "top_dynamics": [
     {
-      "title": "[UPDATE] [mittel] ILIAS: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3179",
+      "title": "[UPDATE] [niedrig] ImageMagick: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2967",
       "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-09-08T06:19:17+00:00",
-      "age_days": 0.12,
+      "published_at": "2026-09-08T09:10:14+00:00",
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -32,14 +32,14 @@
       "why": [
         "security high-signal: cert-bund, bsi, security, advisory"
       ],
-      "summary": "Ein entfernter Angreifer kann mehrere Schwachstellen in ILIAS ausnutzen, um Informationen offenzulegen, Daten zu manipulieren und um Sicherheitsmechanismen zu umgehen."
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in ImageMagick ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen und einen Denial-of-Service-Zustand auszulösen."
     },
     {
       "title": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-08T05:57:52+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -68,7 +68,7 @@
       "url": "https://github.com/heygen-com/hyperframes",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-08T05:57:52+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -95,7 +95,7 @@
       "url": "https://e27.co/southeast-asias-live-commerce-boom-enters-its-harder-second-act-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T05:51:06+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -118,11 +118,37 @@
       "summary": ""
     },
     {
+      "title": "[UPDATE] [hoch] IBM QRadar SIEM: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3043",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-08T09:10:14+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM QRadar SIEM ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren, um einen Cross-Site Scripting Angriff durchzuführen und um beliebi…"
+    },
+    {
       "title": "[UPDATE] [mittel] MongoDB: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3209",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T08:44:18+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -148,7 +174,7 @@
       "url": "https://e27.co/teleport-powers-capital-as-rebound-but-thin-margins-show-logistics-remains-a-hard-road-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T08:43:55+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai",
         "security"
@@ -174,7 +200,7 @@
       "url": "https://e27.co/the-app-worked-the-product-didnt-can-we-install-judgement-into-ai-agents-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T03:12:00+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "ai"
       ],
@@ -201,7 +227,7 @@
       "url": "https://github.com/jo-inc/camofox-browser",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-08T05:58:24+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "extreme",
@@ -226,7 +252,7 @@
       "url": "https://github.com/jo-inc/camofox-browser",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-08T05:57:52+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai",
         "macro"
@@ -254,7 +280,7 @@
       "url": "https://github.com/microsoft/markitdown",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-08T05:58:24+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -281,7 +307,7 @@
       "url": "https://e27.co/the-app-worked-the-product-didnt-can-we-install-judgement-into-ai-agents-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T03:00:56+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "ai",
         "macro"
@@ -302,33 +328,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Our app worked. That was the problem. My team had spent roughly half a year working with our developer and using AI to build an in-house learning management app. In our testing environment, every function appeared to work. Zoom links could be updated. Calendars were connected. The automated checks reported that the sy…"
-    },
-    {
-      "title": "[UPDATE] [hoch] Dell Secure Connect Gateway: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3184",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 10.8,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "high terms: rce",
-        "security high-signal: rce",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-      ],
-      "summary": ""
     }
   ],
   "read_order": [
