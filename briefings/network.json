@@ -1,15 +1,58 @@
 {
-  "generated_at": "2026-09-08T10:42:52+00:00",
+  "generated_at": "2026-09-08T10:58:30+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 43,
-    "clusters": 38,
+    "findings": 47,
+    "clusters": 41,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 0,
     "dominance_penalized": 6
   },
   "clusters": [
+    {
+      "key": "domain:wid.cert-bund.de",
+      "title": "[UPDATE] [hoch] Dell Secure Connect Gateway: Mehrere Schwachstellen",
+      "sources": [
+        "BSI CERT-Bund Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3184",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2958",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2724",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2967",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3043",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3209"
+      ],
+      "finding_count": 7,
+      "max_score": 18,
+      "credibility_total": 7.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 23.43,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 35.7,
+      "ranking_score": 23.43,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 1.43,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-28T14:08:37+00:00"
+    },
     {
       "key": "github_repo:mksglu/context-mode",
       "title": "mksglu/context-mode",
@@ -89,49 +132,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-08T03:12:00+00:00"
-    },
-    {
-      "key": "domain:wid.cert-bund.de",
-      "title": "[UPDATE] [hoch] Dell Secure Connect Gateway: Mehrere Schwachstellen",
-      "sources": [
-        "BSI CERT-Bund Security Advisories"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3184",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2958",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2967",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3043",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3209",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3179"
-      ],
-      "finding_count": 6,
-      "max_score": 18,
-      "credibility_total": 6.3,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 19.5,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 30.6,
-      "ranking_score": 19.5,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-08-28T14:08:37+00:00"
     },
     {
       "key": "github_repo:jo-inc/camofox-browser",
@@ -215,44 +215,6 @@
       "first_seen_at": "2026-09-08T08:45:35+00:00"
     },
     {
-      "key": "domain:qiita.com",
-      "title": "AIっぽくない画像を作る画風プロンプト38種類＋テンプレート - Qiita",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://qiita.com/maeda-niku18/items/b633dda178c505461080"
-      ],
-      "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 18.04,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 16.1,
-      "ranking_score": 18.04,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 3.04,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-19T01:58:32+00:00"
-    },
-    {
       "key": "title:quantum-computing-future-cyber-threats",
       "title": "AI, quantum computing and the future of cyber threats",
       "sources": [
@@ -327,6 +289,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-08T01:40:08+00:00"
+    },
+    {
+      "key": "domain:www.nikkei.com",
+      "title": "サムスンがAI半導体で日韓連合、横浜に拠点 後工程「先端国」で研究開発 - 日本経済新聞",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.nikkei.com/article/DGXZQOGM030QT0T00C26A9000000/"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 15.16,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 15.1,
+      "ranking_score": 15.16,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 1.16,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T02:10:07+00:00"
     },
     {
       "key": "title:tevo-secures-10m-pvx-scale-its-consumer-apps",
@@ -448,6 +448,44 @@
       "first_seen_at": "2026-09-08T05:01:25+00:00"
     },
     {
+      "key": "domain:qiita.com",
+      "title": "AIっぽくない画像を作る画風プロンプト38種類＋テンプレート - Qiita",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://qiita.com/maeda-niku18/items/b633dda178c505461080"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 14.26,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 13.1,
+      "ranking_score": 14.26,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 1.76,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T01:58:32+00:00"
+    },
+    {
       "key": "title:sms-looks-real-that-exactly-why-you-should",
       "title": "The SMS looks real and that’s exactly why you should be careful",
       "sources": [
@@ -560,6 +598,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-08T02:15:54+00:00"
+    },
+    {
+      "key": "title:duolingo",
+      "title": "Duolingoの新アイコンが「気持ち悪い」 世界のユーザーから「元に戻して」の声",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/08/2000001269/"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 9.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 10.1,
+      "ranking_score": 9.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-08T10:58:30+00:00"
     },
     {
       "key": "earthquake:m 4.7 - 43 km nw of aroa, venezuela:4.7",
@@ -724,6 +800,44 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-09-08T01:21:36+00:00"
+    },
+    {
+      "key": "title:ecosystem-roundup-gcash-operator-mynt-clears-sec-hurdle",
+      "title": "Ecosystem Roundup: GCash operator Mynt clears SEC hurdle for up to US$1.63B IPO",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/ecosystem-roundup-gcash-operator-mynt-clears-sec-hurdle-for-up-to-us1-63b-ipo-20260908/"
+      ],
+      "finding_count": 1,
+      "max_score": 4,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 8.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 9.1,
+      "ranking_score": 8.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-08T10:58:30+00:00"
     },
     {
       "key": "url:https://www.digital.go.jp/news/d02fb0ce-1321-4a58-b225-b3454896ab9e",
@@ -1489,7 +1603,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-08T10:42:52Z",
+    "generated_at": "2026-09-08T10:58:30Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
