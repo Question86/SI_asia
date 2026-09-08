@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-08T12:34:54+00:00",
+  "generated_at": "2026-09-08T12:51:53+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -261,7 +261,7 @@
       "p90_usd": 112800000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T02:15:54+00:00",
-      "last_seen_at": "2026-09-08T12:34:35+00:00",
+      "last_seen_at": "2026-09-08T12:51:35+00:00",
       "status": "active"
     },
     {
@@ -602,7 +602,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-08T05:01:25+00:00",
-      "last_seen_at": "2026-09-08T12:34:35+00:00",
+      "last_seen_at": "2026-09-08T12:51:35+00:00",
       "status": "active"
     },
     {
@@ -1367,7 +1367,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-08T01:21:36+00:00",
-      "last_seen_at": "2026-09-08T12:34:35+00:00",
+      "last_seen_at": "2026-09-08T12:51:35+00:00",
       "status": "active"
     },
     {
@@ -1813,6 +1813,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_d97a3a7bb88f336581eb",
+      "title": "M 5.3 - 26 km NW of Neiafu, Tonga",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-08T12:34:35+00:00",
+      "last_seen_at": "2026-09-08T12:51:35+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_da97207aa6d092b5814c",
       "title": "M 4.7 - Svalbard region",
       "event_classes": [
@@ -1877,7 +1894,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-08T07:24:36+00:00",
-      "last_seen_at": "2026-09-08T12:34:35+00:00",
+      "last_seen_at": "2026-09-08T12:51:35+00:00",
       "status": "active"
     },
     {
@@ -1911,7 +1928,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-30T09:38:46+00:00",
-      "last_seen_at": "2026-09-08T12:34:35+00:00",
+      "last_seen_at": "2026-09-08T12:51:35+00:00",
       "status": "active"
     },
     {
@@ -1979,24 +1996,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-30T04:22:59+00:00",
-      "last_seen_at": "2026-09-08T12:34:35+00:00",
-      "status": "active"
-    },
-    {
-      "event_id": "evt_d97a3a7bb88f336581eb",
-      "title": "M 5.3 - 26 km NW of Neiafu, Tonga",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-09-08T12:34:35+00:00",
-      "last_seen_at": "2026-09-08T12:34:35+00:00",
+      "last_seen_at": "2026-09-08T12:51:35+00:00",
       "status": "active"
     },
     {
@@ -2013,7 +2013,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-08T12:34:35+00:00",
+      "last_seen_at": "2026-09-08T12:51:35+00:00",
       "status": "active"
     },
     {
@@ -2455,7 +2455,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T05:58:24+00:00",
-      "last_seen_at": "2026-09-08T12:34:35+00:00",
+      "last_seen_at": "2026-09-08T12:51:35+00:00",
       "status": "active"
     },
     {
@@ -2540,7 +2540,7 @@
       "p90_usd": 1192000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T03:12:00+00:00",
-      "last_seen_at": "2026-09-08T12:34:35+00:00",
+      "last_seen_at": "2026-09-08T12:51:35+00:00",
       "status": "active"
     },
     {
@@ -2642,7 +2642,7 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T05:58:24+00:00",
-      "last_seen_at": "2026-09-08T12:34:35+00:00",
+      "last_seen_at": "2026-09-08T12:51:35+00:00",
       "status": "active"
     },
     {
@@ -2676,7 +2676,7 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-08T12:34:35+00:00",
+      "last_seen_at": "2026-09-08T12:51:35+00:00",
       "status": "active"
     },
     {
@@ -2693,7 +2693,7 @@
       "p90_usd": 1176000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T08:45:35+00:00",
-      "last_seen_at": "2026-09-08T12:34:35+00:00",
+      "last_seen_at": "2026-09-08T12:51:35+00:00",
       "status": "active"
     },
     {
@@ -2931,7 +2931,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T02:36:51+00:00",
-      "last_seen_at": "2026-09-08T12:34:35+00:00",
+      "last_seen_at": "2026-09-08T12:51:35+00:00",
       "status": "active"
     },
     {
@@ -3084,7 +3084,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T01:40:08+00:00",
-      "last_seen_at": "2026-09-08T12:34:35+00:00",
+      "last_seen_at": "2026-09-08T12:51:35+00:00",
       "status": "active"
     },
     {
@@ -3220,7 +3220,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T05:58:24+00:00",
-      "last_seen_at": "2026-09-08T12:34:35+00:00",
+      "last_seen_at": "2026-09-08T12:51:35+00:00",
       "status": "active"
     },
     {
@@ -3254,7 +3254,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T09:35:02+00:00",
-      "last_seen_at": "2026-09-08T12:34:35+00:00",
+      "last_seen_at": "2026-09-08T12:51:35+00:00",
       "status": "active"
     },
     {
@@ -3968,7 +3968,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T05:58:24+00:00",
-      "last_seen_at": "2026-09-08T12:34:35+00:00",
+      "last_seen_at": "2026-09-08T12:51:35+00:00",
       "status": "active"
     },
     {
@@ -5549,7 +5549,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T05:20:00+00:00",
-      "last_seen_at": "2026-09-08T12:34:35+00:00",
+      "last_seen_at": "2026-09-08T12:51:35+00:00",
       "status": "active"
     },
     {
@@ -5634,7 +5634,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T12:58:27+00:00",
-      "last_seen_at": "2026-09-08T12:34:35+00:00",
+      "last_seen_at": "2026-09-08T12:51:35+00:00",
       "status": "active"
     },
     {
