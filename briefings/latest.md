@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-08T11:18:04+00:00_
+_Generiert: 2026-09-08T11:28:59+00:00_
 
 ## Kurzlage
 
-47 neue relevante Treffer. Stärkstes Signal: „mksglu/context-mode“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
+48 neue relevante Treffer. Stärkstes Signal: „mksglu/context-mode“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -263,14 +263,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0)
   - Kurz: CPMI-IOSCO are seeking input from stakeholders on a cyber resilience toolkit for financial market infrastructures (FMIs) and on risks to FMIs from third-party service providers. The Cyber resilience toolkit: practical considerations for FMIs supports FMIs in strengthening their cyber resilience frameworks. The discussion paper FMIs’ reliance on third-party service providers: challenges and risks explores the increas…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Duolingoの新アイコンが「気持ち悪い」 世界のユーザーから「元に戻して」の声** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2609/08/2000001269/)
+- **「離婚してから自分が性格悪いことに気づいた」の人が誤解していること - いつか電池がきれるまで** — Score 5, observation — [Quelle](https://fujipon.hatenablog.com/entry/2026/09/08/170251)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-08T07:10:30+00:00`, fetched `2026-09-08T10:57:54+00:00`
+  - Zeit: published `2026-09-08T09:51:14+00:00`, fetched `2026-09-08T11:28:30+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 通常アイコンは緑色の背景に、フクロウのマスコット「Duo」の顔を正面から描いている。今回のアイコンは、半分閉じた目に紫色の瞳、開いたくちばしから舌が垂れ、汗も描かれ、高熱でうなされているような姿になっている。 運営元の米Duolingoはこのアイコンについて言及していないが、同社は過去にも不気味なアイコンで...
+  - Kurz: anond.hatelabo.jp いまネット界隈でかなり話題のこの『はてな匿名ダイアリー』のエントリについて。 読みながら、これAI？が半分、こういう「理由責め」しないと気が済まない人っているよな、が半分。 僕もけっこう「理由にこだわってしまう人間」だったので、「ちゃんと確認したい」「可能であれば自分でも改善したい...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
