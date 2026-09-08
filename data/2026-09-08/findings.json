@@ -93,6 +93,30 @@
     "id": "0e5d1d36ed9d39b6340f"
   },
   {
+    "title": "[UPDATE] [hoch] Dell Secure Connect Gateway: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3184",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-08T08:44:17+00:00",
+    "fetched_at": "2026-09-08T08:53:22+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Dell Secure Connect Gateway ausnutzen, um unbefugten Zugriff zu erlangen, Authentifizierungs- und Schutzmechanismen zu umgehen, sensible Informationen oder Dateisysteminhalte offenzulegen bzw. zu manipulieren, Berechtigungen bis hin zu Root-Rechten zu erhöhen, SQL- und Befehlsinjektionen durchzuführen, Containergrenzen zu überwinden, Denial-of-Service-Zustände auszulösen…",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Macro/Policy",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 18,
+    "relevance_reason": "Security (+6.0); Macro/Policy (+5.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "fc3fcf4167316e796b10"
+  },
+  {
     "title": "jo-inc/camofox-browser",
     "url": "https://github.com/jo-inc/camofox-browser",
     "source": "GitHub Trending RSS All Languages Daily",
@@ -250,6 +274,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "0dbf1adebcdeac0b58eb"
+  },
+  {
+    "title": "[UPDATE] [mittel] MongoDB: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3209",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-08T08:44:18+00:00",
+    "fetched_at": "2026-09-08T08:53:22+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in MongoDB ausnutzen, um einen Denial of Service zu verursachen, Daten zu manipulieren, Informationen offenzulegen oder beliebige Befehle über die MongoDB-Erweiterung für Visual Studio Code auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7c32bf2b8e8bd7bb7bf5"
   },
   {
     "title": "[UPDATE] [mittel] ILIAS: Mehrere Schwachstellen",
@@ -647,6 +694,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "52df173878f9aafe8876"
+  },
+  {
+    "title": "道マニア達よ、これがゼンリンの「一般国道トレカ」だ。全国459路線、9月11日から順次発売 敦賀市・岡山町1丁目交差点の「4連おにぎり」キーホルダーが付いてくるBOXセットは初回限定【地図ウォッチ】",
+    "url": "https://internet.watch.impress.co.jp/docs/column/chizu/2139036.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-09-08T05:21:47+00:00",
+    "fetched_at": "2026-09-08T08:53:22+00:00",
+    "summary": "道マニア達よ、これがゼンリンの「一般国道トレカ」だ。全国459路線、9月11日から順次発売 敦賀市・岡山町1丁目交差点の「4連おにぎり」キーホルダーが付いてくるBOXセットは初回限定【地図ウォッチ】",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ffce17583d87cd2459c8"
   },
   {
     "title": "「データセンターの排熱で温泉を作ろう」が難しい3つの理由 本職のDC技術者にガチで考えてもらった",
