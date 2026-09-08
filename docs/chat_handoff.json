@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-08T00:56:06+00:00",
+  "generated_at": "2026-09-08T01:21:32+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 2,
-    "displayed_findings": 2,
+    "today_file_total": 3,
+    "displayed_findings": 3,
     "high": 0,
     "medium": 0,
-    "observe": 2
+    "observe": 3
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "M 5.1 - 96 km ESE of Isangel, Vanuatu",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-08T01:07:52.040+00:00",
+      "relevance_score": 9,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfqf",
+      "summary": "Time 2026-09-08 00:52:02 UTC 2026-09-08 00:52:02 UTC at epicenter Location 19.841°S 170.145°E Depth 10.00 km (6.21 mi)",
+      "section": "observe"
+    },
     {
       "title": "Microsoft製品でここまで自動化できる 情シスがやめられる手作業10選",
       "source": "Hatena Bookmark Hotentry IT",
@@ -40,111 +50,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Microsoft製品でここまで自動化できる 情シスがやめられる手作業10選” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=16.5.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Microsoft製品でここまで自動化できる 情シスがやめられる手作業10選",
-        "url": "https://techtarget.itmedia.co.jp/tt/article/2609/07/2000001177/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-08T00:56:10+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 16.5,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +1",
-          "high terms: 10"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Microsoft製品でここまで自動化できる 情シスがやめられる手作業10選",
-        "url": "https://techtarget.itmedia.co.jp/tt/article/2609/07/2000001177/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-07T01:36:25+00:00",
-        "age_days": 0.98,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 10.0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10"
-        ],
-        "summary": "入退社時のアカウント処理やPCのセットアップ、ゲストユーザーの棚卸しといった定型業務を手作業で続けている情報システム（情シス）部門があります。 実は、Microsoft製品の中には、こうした業務を自動化できる機能が数多く用意されています。本記事では、その中でも有名な機能や意外と知られていない機能と、その機能..."
-      },
-      {
-        "title": "高輪ゲートウェイの地下になぜ「50メートルプール8個分の水」？そのワケがスゴかった",
-        "url": "https://diamond.jp/articles/-/398505",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-08T00:00:49+00:00",
-        "age_days": 0.05,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 9.0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +1"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "高輪ゲートウェイの地下になぜ「50メートルプール8個分の水」？そのワケがスゴかった",
-        "url": "https://diamond.jp/articles/-/398505",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-06T23:29:00+00:00",
-        "age_days": 1.07,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": "JR東日本は8月27日、高輪ゲートウェイシティにおけるBCP（非常事態における事業継続計画）推進と、ゼロカーボン達成に貢献するエネルギープラントを報道公開した。鉄道の電力網と都市ガスを組み合わせ、巨大な蓄熱槽やAIによる熱源機器の最適制御も導入。災害への備えと省エネを両立させるエネルギーマネジメントの全貌..."
-      }
-    ]
-  }
+  ]
 }

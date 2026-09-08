@@ -1,21 +1,28 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-08T00:56:06+00:00_
+_Generated: 2026-09-08T01:21:32+00:00_
 
 ## Status
 - status: `normal`
-- findings: `2`
+- findings: `3`
 
 ## Top Signals
 
-### 1. Microsoft製品でここまで自動化できる 情シスがやめられる手作業10選
+### 1. M 5.1 - 96 km ESE of Isangel, Vanuatu
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-09-08T01:07:52.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfqf
+- summary: Time 2026-09-08 00:52:02 UTC 2026-09-08 00:52:02 UTC at epicenter Location 19.841°S 170.145°E Depth 10.00 km (6.21 mi)
+
+### 2. Microsoft製品でここまで自動化できる 情シスがやめられる手作業10選
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-09-07T01:36:25+00:00`
 - url: https://techtarget.itmedia.co.jp/tt/article/2609/07/2000001177/
 - summary: 入退社時のアカウント処理やPCのセットアップ、ゲストユーザーの棚卸しといった定型業務を手作業で続けている情報システム（情シス）部門があります。 実は、Microsoft製品の中には、こうした業務を自動化できる機能が数多く用意されています。本記事では、その中でも有名な機能や意外と知られていない機能と、その機能...
 
-### 2. 高輪ゲートウェイの地下になぜ「50メートルプール8個分の水」？そのワケがスゴかった
+### 3. 高輪ゲートウェイの地下になぜ「50メートルプール8個分の水」？そのワケがスゴかった
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-09-06T23:29:00+00:00`
