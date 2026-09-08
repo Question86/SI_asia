@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-08T11:39:28+00:00_
+_Generated: 2026-09-08T11:47:07+00:00_
 
 ## Status
 - status: `normal`
-- findings: `48`
+- findings: `52`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-09-08T11:39:28+00:00_
 - url: https://github.com/heygen-com/hyperframes
 - summary: Write HTML. Render video. Built for agents. Write HTML. Render video. Built for agents. Quickstart | Showcase | Playground | Catalog | Docs | Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into determinis…
 
-### 7. AIっぽくない画像を作る画風プロンプト38種類＋テンプレート - Qiita
+### 7. ドラクエファンが「こういうグッズ思いついた」とイメージ画像をAIで作成＆投稿←これやると実際の企画が潰れる可能性あるし企業ロゴ使用などにも問題が…
+- source: Hatena Bookmark Hotentry IT
+- score: `11`
+- published: `2026-09-08T06:37:51+00:00`
+- url: https://togetter.com/li/2743006
+- summary: 岡安モフモフ（アーガイル社長）＠ChatGPT/Gemini/ClaudeなどLLMでサービス作る人 @shields_pikes @Dr_Emmett こういうのは、自分の持ってるIPでやるべきだよ。そして、商品化まで自分でやる。 人気のIPでこういうのを出して欲しかったら、絶対にこういう企画案を形にして表に出しちゃダメ。スクエニの社内でも前から似...
+
+### 8. AIっぽくない画像を作る画風プロンプト38種類＋テンプレート - Qiita
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-09-08T05:05:02+00:00`
 - url: https://qiita.com/maeda-niku18/items/b633dda178c505461080
 - summary: AI画像生成の「AIっぽさ」を消すための画風プロンプト集（38スタイル＋テンプレート） ChatGPT（GPT Image）で資料やWebサイト用のイラストを作っていると、毎回同じところで引っかかります。 線が均一すぎる、グラデーションが滑らかすぎる、顔が整いすぎている、背景に意味のない小物が増える。要するに、AIが生成した...
-
-### 8. The SMS looks real and that’s exactly why you should be careful
-- source: e27 Asia Startup and Tech Feed
-- score: `11`
-- published: `2026-09-08T02:00:57+00:00`
-- url: https://e27.co/the-sms-looks-real-and-thats-exactly-why-you-should-be-careful-20260906/
-- summary: For years, many of us have had a simple rule when receiving an SMS from our bank: check the sender. If the message comes from the same sender that usually delivers our transaction alerts or OTPs, it feels safe. After all, how could a scammer possibly send a m…
 
 END OF DOCUMENT
