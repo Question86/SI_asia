@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-08T22:12:17Z_
+_Generated: 2026-09-08T22:24:55Z_
 
 ## Lageurteil
 
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Samsung Android: Mehrere Sc
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-08T05:57:52+00:00` / age_days `0.68`
+- Published: `2026-09-08T05:57:52+00:00` / age_days `0.69`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: local, high terms: rce, privilege, privileges, security high-signal: rce, privilege, privileges, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, official security but no high-signal phrase: capped at strong
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Samsung Android: Mehrere Sc
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-08T05:57:52+00:00` / age_days `0.68`
+- Published: `2026-09-08T05:57:52+00:00` / age_days `0.69`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: local, high terms: rce, auth, security high-signal: rce, auth, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Samsung Android: Mehrere Sc
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-08T05:51:06+00:00` / age_days `0.68`
+- Published: `2026-09-08T05:51:06+00:00` / age_days `0.69`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Samsung Android: Mehrere Sc
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-08T11:39:18+00:00` / age_days `0.44`
+- Published: `2026-09-08T11:39:18+00:00` / age_days `0.45`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: angriffe, security high-signal: angriffe, official security but no high-signal phrase: capped at strong
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Samsung Android: Mehrere Sc
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-08T09:10:14+00:00` / age_days `0.54`
+- Published: `2026-09-08T09:10:14+00:00` / age_days `0.55`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -122,10 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Samsung Android: Mehrere Sc
 
 - Band: `watch` (raw `krass`)
 - Dynamics score: `19.9`
-- Published: `2026-06-17T20:44:40+00:00` / age_days `83.06`
+- Published: `2026-06-17T20:44:40+00:00` / age_days `83.07`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: momentum delta +3, baseline z_hint 2.15, high terms: rce, security high-signal: rce, aging penalty -8.0 for 83.1d old signal, stale single-source cap after 30d: no current exploitation phrase
+- Warum: momentum delta +3, baseline z_hint 1.94, high terms: rce, security high-signal: rce, aging penalty -8.0 for 83.1d old signal, stale single-source cap after 30d: no current exploitation phrase
 - Quelle: https://openai.com/index/teen-development-research-grants
 
 END OF DOCUMENT
