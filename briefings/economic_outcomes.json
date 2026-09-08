@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-08T07:02:50+00:00",
+  "generated_at": "2026-09-08T07:24:59+00:00",
   "events": [
     {
       "event_id": "evt_02008879feb3a26196bb",
@@ -3135,7 +3135,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_bf9d9659305a6a9a166d",
@@ -3322,7 +3322,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_c99a6c81deeb7089c70f",
@@ -3686,6 +3686,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_df1e86c2766146083d4a",
+      "title": "M 4.7 - 43 km NW of Aroa, Venezuela",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_e02859746a61908e4378",
@@ -4059,7 +4070,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_f76b04666ca9d54aa23a",
