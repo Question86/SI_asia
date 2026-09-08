@@ -1,15 +1,53 @@
 {
-  "generated_at": "2026-09-08T22:21:16+00:00",
+  "generated_at": "2026-09-08T22:30:02+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 82,
-    "clusters": 61,
+    "findings": 83,
+    "clusters": 62,
     "cross_source_confrmed": 0,
     "hot": 0,
-    "early_signals": 0,
+    "early_signals": 1,
     "dominance_penalized": 12
   },
   "clusters": [
+    {
+      "key": "domain:www.haaretz.com",
+      "title": "Netanyahu got an explicit warning before Oct. 7. He didn't brief security chiefs",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.haaretz.com/israel-news/israel-security/2026-09-08/ty-article-magazine/.highlight/netanyahu-got-an-explicit-warning-before-oct-7-he-didnt-brief-security-chiefs/000001a0-7a3b-d7d5-a9fc-7eff3d0f0000"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 21.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 17.1,
+      "ranking_score": 21.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 5.5,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-08T22:30:02+00:00"
+    },
     {
       "key": "github_repo:mksglu/context-mode",
       "title": "mksglu/context-mode",
@@ -389,20 +427,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 15.28,
+      "network_score": 15.19,
       "hot": false,
       "watchgraph_modules": [
         "ai_agents_workflow"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 25.6,
-      "ranking_score": 15.28,
+      "ranking_score": 15.19,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.78,
+      "baseline_bonus": 0.69,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1031,44 +1069,6 @@
       "first_seen_at": "2026-09-08T13:32:31+00:00"
     },
     {
-      "key": "title:etl-embulk-dlt-dbt",
-      "title": "ETL 基盤を Embulk から dlt + dbt に乗り換えた 2 つの理由 - エムスリーテックブログ",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.m3tech.blog/entry/embulk-to-dlt-dbt"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 9.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 10.1,
-      "ranking_score": 9.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-09-08T22:21:16+00:00"
-    },
-    {
       "key": "earthquake:m 4.9 - 97 km nne of chitre, nepal:4.9",
       "title": "M 4.9 - 97 km NNE of Chitre, Nepal",
       "sources": [
@@ -1374,18 +1374,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 8.12,
+      "network_score": 8.09,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 10.2,
-      "ranking_score": 8.12,
+      "ranking_score": 8.09,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.62,
+      "baseline_bonus": 0.59,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1850,6 +1850,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-08T08:53:53+00:00"
+    },
+    {
+      "key": "title:etl-embulk-dlt-dbt",
+      "title": "ETL 基盤を Embulk から dlt + dbt に乗り換えた 2 つの理由 - エムスリーテックブログ",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.m3tech.blog/entry/embulk-to-dlt-dbt"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 6.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 7.1,
+      "ranking_score": 6.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-08T22:21:16+00:00"
     },
     {
       "key": "url:https://www.itmedia.co.jp/news/article/2609/08/2000000887/",
@@ -2387,7 +2425,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-08T22:21:16Z",
+    "generated_at": "2026-09-08T22:30:02Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

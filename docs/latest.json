@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T22:21:13+00:00",
-  "run_id": "2026-09-08T22:21:13+00:00",
+  "generated_at": "2026-09-08T22:29:59+00:00",
+  "run_id": "2026-09-08T22:29:59+00:00",
   "date": "2026-09-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 82
+      "configured_public_sources_only": 83
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 82,
-    "displayed_findings": 82,
+    "today_file_total": 83,
+    "displayed_findings": 83,
     "high": 0,
     "medium": 27,
-    "observe": 55,
+    "observe": 56,
     "source_errors": 0
   },
   "sections": {
@@ -930,6 +930,28 @@
           "PINS"
         ],
         "id": "181dd4b6bb4fb3d6f344"
+      },
+      {
+        "title": "Netanyahu got an explicit warning before Oct. 7. He didn't brief security chiefs",
+        "url": "https://www.haaretz.com/israel-news/israel-security/2026-09-08/ty-article-magazine/.highlight/netanyahu-got-an-explicit-warning-before-oct-7-he-didnt-brief-security-chiefs/000001a0-7a3b-d7d5-a9fc-7eff3d0f0000",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-08T11:27:55+00:00",
+        "fetched_at": "2026-09-08T22:29:29+00:00",
+        "summary": "Revealed: Netanyahu Received an Explicit Warning Days Before Oct. 7. He Didn't Brief Israel's Security Chiefs",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry",
+          "Security"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "af5ab825538e074553d6"
       },
       {
         "title": "ドラクエファンが「こういうグッズ思いついた」とイメージ画像をAIで作成＆投稿←これやると実際の企画が潰れる可能性あるし企業ロゴ使用などにも問題が…",
@@ -3012,6 +3034,28 @@
       "id": "181dd4b6bb4fb3d6f344"
     },
     {
+      "title": "Netanyahu got an explicit warning before Oct. 7. He didn't brief security chiefs",
+      "url": "https://www.haaretz.com/israel-news/israel-security/2026-09-08/ty-article-magazine/.highlight/netanyahu-got-an-explicit-warning-before-oct-7-he-didnt-brief-security-chiefs/000001a0-7a3b-d7d5-a9fc-7eff3d0f0000",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-08T11:27:55+00:00",
+      "fetched_at": "2026-09-08T22:29:29+00:00",
+      "summary": "Revealed: Netanyahu Received an Explicit Warning Days Before Oct. 7. He Didn't Brief Israel's Security Chiefs",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "Security"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "af5ab825538e074553d6"
+    },
+    {
       "title": "ドラクエファンが「こういうグッズ思いついた」とイメージ画像をAIで作成＆投稿←これやると実際の企画が潰れる可能性あるし企業ロゴ使用などにも問題が…",
       "url": "https://togetter.com/li/2743006",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4191,25 +4235,26 @@
   ],
   "new_findings": [
     {
-      "title": "ETL 基盤を Embulk から dlt + dbt に乗り換えた 2 つの理由 - エムスリーテックブログ",
-      "url": "https://www.m3tech.blog/entry/embulk-to-dlt-dbt",
+      "title": "Netanyahu got an explicit warning before Oct. 7. He didn't brief security chiefs",
+      "url": "https://www.haaretz.com/israel-news/israel-security/2026-09-08/ty-article-magazine/.highlight/netanyahu-got-an-explicit-warning-before-oct-7-he-didnt-brief-security-chiefs/000001a0-7a3b-d7d5-a9fc-7eff3d0f0000",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-08T05:02:18+00:00",
-      "fetched_at": "2026-09-08T22:20:36+00:00",
-      "summary": "この記事はコンシューマーチームブログリレー 4日目の記事です。 Embulk 0.9.25 で動かしていた担当プロジェクトの ETL を、dlt + dbt と Step Functions に全面移行しました。証明書エラーと BigQuery のレガシー API 利用で観念した話です。 こんにちは。エムスリーのコンシューマーチームエンジニアの園田です。 コン...",
+      "published_at": "2026-09-08T11:27:55+00:00",
+      "fetched_at": "2026-09-08T22:29:29+00:00",
+      "summary": "Revealed: Netanyahu Received an Explicit Warning Days Before Oct. 7. He Didn't Brief Israel's Security Chiefs",
       "matched_keywords": [
         "Hatena",
-        "hotentry"
+        "hotentry",
+        "Security"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 12,
+      "relevance_reason": "Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "ea57a3a50b1e00b9a506"
+      "id": "af5ab825538e074553d6"
     }
   ],
   "source_errors": [],

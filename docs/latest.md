@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-08T22:21:13+00:00_
+_Generiert: 2026-09-08T22:29:59+00:00_
 
 ## Kurzlage
 
-82 neue relevante Treffer. Stärkstes Signal: „mksglu/context-mode“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
+83 neue relevante Treffer. Stärkstes Signal: „mksglu/context-mode“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -168,6 +168,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Netanyahu got an explicit warning before Oct. 7. He didn't brief security chiefs** — Score 12, observation — [Quelle](https://www.haaretz.com/israel-news/israel-security/2026-09-08/ty-article-magazine/.highlight/netanyahu-got-an-explicit-warning-before-oct-7-he-didnt-brief-security-chiefs/000001a0-7a3b-d7d5-a9fc-7eff3d0f0000)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-08T11:27:55+00:00`, fetched `2026-09-08T22:29:29+00:00`
+  - Treffer: Hatena, hotentry, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: Revealed: Netanyahu Received an Explicit Warning Days Before Oct. 7. He Didn't Brief Israel's Security Chiefs
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ドラクエファンが「こういうグッズ思いついた」とイメージ画像をAIで作成＆投稿←これやると実際の企画が潰れる可能性あるし企業ロゴ使用などにも問題が…** — Score 11, observation — [Quelle](https://togetter.com/li/2743006)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-08T06:37:51+00:00`, fetched `2026-09-08T11:46:36+00:00`
@@ -221,15 +230,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)
   - Kurz: Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **サムスンがAI半導体で日韓連合、横浜に拠点 後工程「先端国」で研究開発 - 日本経済新聞** — Score 10, observation — [Quelle](https://www.nikkei.com/article/DGXZQOGM030QT0T00C26A9000000/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-08T08:51:26+00:00`, fetched `2026-09-08T10:57:54+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
-  - Kurz: 韓国半導体大手サムスン電子は8日、横浜市で人工知能（AI）半導体の研究拠点の開所式を開いた。半導体の組み立て工程の装置や材料で世界トップシェアを持つ日本勢と連携し、AI半導体の性能を高める。AI半導体を巡る競争は、企業単独から国をまたぐ企業連合へと変わってきた。サムスン幹部「日本と技術交流を加速」「韓国...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Multiples vulnérabilités dans Mattermost Server (01 septembre 2026)** — Score 10, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1098/)
   - Quelle: CERT-FR Avis de sécurité / `rss`
