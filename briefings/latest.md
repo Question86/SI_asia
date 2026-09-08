@@ -1,34 +1,34 @@
 # Senna Briefing
 
-_Generiert: 2026-09-08T18:06:45+00:00_
+_Generiert: 2026-09-08T18:29:03+00:00_
 
 ## Kurzlage
 
-74 neue relevante Treffer. Stärkstes Signal: „mksglu/context-mode“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
+75 neue relevante Treffer. Stärkstes Signal: „mksglu/context-mode“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-75650 Adobe Commerce and Magento** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-09-08`
+  - Kurz: Known exploited vulnerability. Added 2026-09-08. Due 2026-09-11. Adobe Commerce and Magento Improper Neutralization of Special Elements Used in a Template Engine Vulnerability
+- **CISA KEV: CVE-2026-81963 Microsoft Windows** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-09-08`
+  - Kurz: Known exploited vulnerability. Added 2026-09-08. Due 2026-09-22. Microsoft Windows Link Following Vulnerability
+- **CISA KEV: CVE-2026-86218 N-able N-central** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-09-08`
+  - Kurz: Known exploited vulnerability. Added 2026-09-08. Due 2026-09-11. N-able N-central Static Code Injection Vulnerability
+- **CISA KEV: CVE-2026-85880 Microsoft Windows** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-09-08`
+  - Kurz: Known exploited vulnerability. Added 2026-09-08. Due 2026-09-22. Microsoft Windows Heap-Based Buffer Overflow Vulnerability
 - **CISA KEV: CVE-2026-85046 Google Chromium V8** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-09-04`
   - Kurz: Known exploited vulnerability. Added 2026-09-04. Due 2026-09-18. Google Chromium V8 Type Confusion Vulnerability
-- **CISA KEV: CVE-2026-59822 BerriAI LiteLLM** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-02`
-  - Kurz: Known exploited vulnerability. Added 2026-09-02. Due 2026-09-16. BerriAI LiteLLM Improper Authentication Vulnerability
-- **CISA KEV: CVE-2026-48710 Kludex Starlette** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-02`
-  - Kurz: Known exploited vulnerability. Added 2026-09-02. Due 2026-09-16. Kludex Starlette HTTP Request/Response Smuggling Vulnerability
-- **CISA KEV: CVE-2026-49869 Kestra Kestra OSS** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-02`
-  - Kurz: Known exploited vulnerability. Added 2026-09-02. Due 2026-09-05. Kestra OSS OS Command Injection Vulnerability
-- **CISA KEV: CVE-2026-82329 JFrog Artifactory** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-02`
-  - Kurz: Known exploited vulnerability. Added 2026-09-02. Due 2026-09-05. JFrog Artifactory Improper Authentication Vulnerability
 - **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in New Caledonia 07/09/2026 05:50 UTC, Few people affected in MMI&gt;=-.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1564048)
   - Quelle: GDACS
   - Zeit: ``
@@ -245,6 +245,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)
   - Kurz: Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **On the Navier–Stokes Millennium Prize Problem** — Score 10, observation — [Quelle](https://openai.com/index/navier-stokes-solution)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-09-08T10:00:00+00:00`, fetched `2026-09-08T18:28:31+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)
+  - Kurz: We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **サムスンがAI半導体で日韓連合、横浜に拠点 後工程「先端国」で研究開発 - 日本経済新聞** — Score 10, observation — [Quelle](https://www.nikkei.com/article/DGXZQOGM030QT0T00C26A9000000/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-08T08:51:26+00:00`, fetched `2026-09-08T10:57:54+00:00`
@@ -290,15 +299,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - III Time 2026-09-08 11:51:09 UTC 2026-09-08 11:51:09 UTC at epicenter Location 18.474°S 174.155°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Frank Elderson: Fireside chat** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260908~3652aa828f.en.html)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-09-08T15:00:00+00:00`, fetched `2026-09-08T15:21:36+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Frank Elderson: Fireside chat
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
