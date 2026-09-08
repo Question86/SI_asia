@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-08T13:21:35+00:00",
+  "generated_at": "2026-09-08T13:32:50+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -261,7 +261,7 @@
       "p90_usd": 112800000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T02:15:54+00:00",
-      "last_seen_at": "2026-09-08T13:21:17+00:00",
+      "last_seen_at": "2026-09-08T13:32:31+00:00",
       "status": "active"
     },
     {
@@ -349,6 +349,23 @@
       "first_seen_at": "2026-09-01T02:30:55+00:00",
       "last_seen_at": "2026-09-01T07:12:59+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_508cc52b4823dd9222a5",
+      "title": "Multiples vulnérabilités dans JFrog Artifactory (01 septembre 2026)",
+      "event_classes": [
+        "regulation"
+      ],
+      "capital_channels": [
+        "production"
+      ],
+      "p10_usd": 11040000.0,
+      "p50_usd": 1104000000.0,
+      "p90_usd": 110400000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-08T13:32:31+00:00",
+      "last_seen_at": "2026-09-08T13:32:31+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_47b8a9d882d1643b48e7",
@@ -602,7 +619,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-08T05:01:25+00:00",
-      "last_seen_at": "2026-09-08T13:21:17+00:00",
+      "last_seen_at": "2026-09-08T13:32:31+00:00",
       "status": "active"
     },
     {
@@ -1827,7 +1844,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-08T12:34:35+00:00",
       "last_seen_at": "2026-09-08T13:21:17+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_da97207aa6d092b5814c",
@@ -1895,7 +1912,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-08T07:24:36+00:00",
       "last_seen_at": "2026-09-08T13:21:17+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_e02859746a61908e4378",
@@ -1929,7 +1946,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-08-30T09:38:46+00:00",
       "last_seen_at": "2026-09-08T13:21:17+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_e4f565fd05662fbbba20",
@@ -1997,7 +2014,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-08-30T04:22:59+00:00",
       "last_seen_at": "2026-09-08T13:21:17+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_720c7d526b3baeebcacf",
@@ -2013,7 +2030,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-08T13:21:17+00:00",
+      "last_seen_at": "2026-09-08T13:32:31+00:00",
       "status": "active"
     },
     {
@@ -2455,7 +2472,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T05:58:24+00:00",
-      "last_seen_at": "2026-09-08T13:21:17+00:00",
+      "last_seen_at": "2026-09-08T13:32:31+00:00",
       "status": "active"
     },
     {
@@ -2540,7 +2557,7 @@
       "p90_usd": 1192000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T03:12:00+00:00",
-      "last_seen_at": "2026-09-08T13:21:17+00:00",
+      "last_seen_at": "2026-09-08T13:32:31+00:00",
       "status": "active"
     },
     {
@@ -2642,7 +2659,7 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T05:58:24+00:00",
-      "last_seen_at": "2026-09-08T13:21:17+00:00",
+      "last_seen_at": "2026-09-08T13:32:31+00:00",
       "status": "active"
     },
     {
@@ -2677,7 +2694,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-09-08T13:21:17+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_5735d14c4104751c2044",
@@ -2693,7 +2710,7 @@
       "p90_usd": 1176000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T08:45:35+00:00",
-      "last_seen_at": "2026-09-08T13:21:17+00:00",
+      "last_seen_at": "2026-09-08T13:32:31+00:00",
       "status": "active"
     },
     {
@@ -2813,7 +2830,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-09-08T13:21:17+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a77bf86ad7c289b6fd5e",
@@ -2901,6 +2918,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_e80f136975cdcfced148",
+      "title": "Multiples vulnérabilités dans Papercut (28 août 2026)",
+      "event_classes": [
+        "research"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 116800.0,
+      "p50_usd": 11680000.0,
+      "p90_usd": 1168000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-08T13:32:31+00:00",
+      "last_seen_at": "2026-09-08T13:32:31+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_3820889c838ad91aba02",
       "title": "Fintech, DeFi and applied AI define Southeast Asia’s new venture discipline",
       "event_classes": [
@@ -2931,7 +2965,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T02:36:51+00:00",
-      "last_seen_at": "2026-09-08T13:21:17+00:00",
+      "last_seen_at": "2026-09-08T13:32:31+00:00",
       "status": "active"
     },
     {
@@ -3084,7 +3118,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T01:40:08+00:00",
-      "last_seen_at": "2026-09-08T13:21:17+00:00",
+      "last_seen_at": "2026-09-08T13:32:31+00:00",
       "status": "active"
     },
     {
@@ -3220,7 +3254,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T05:58:24+00:00",
-      "last_seen_at": "2026-09-08T13:21:17+00:00",
+      "last_seen_at": "2026-09-08T13:32:31+00:00",
       "status": "active"
     },
     {
@@ -3254,7 +3288,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T09:35:02+00:00",
-      "last_seen_at": "2026-09-08T13:21:17+00:00",
+      "last_seen_at": "2026-09-08T13:32:31+00:00",
       "status": "active"
     },
     {
@@ -3968,7 +4002,24 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T05:58:24+00:00",
-      "last_seen_at": "2026-09-08T13:21:17+00:00",
+      "last_seen_at": "2026-09-08T13:32:31+00:00",
+      "status": "active"
+    },
+    {
+      "event_id": "evt_30fc444b91657318fc37",
+      "title": "Multiples vulnérabilités dans Microsoft Edge (31 août 2026)",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112800.0,
+      "p50_usd": 11280000.0,
+      "p90_usd": 1128000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-08T13:32:31+00:00",
+      "last_seen_at": "2026-09-08T13:32:31+00:00",
       "status": "active"
     },
     {
@@ -4380,6 +4431,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_ddb6f69a9bcfe16794e6",
+      "title": "Multiples vulnérabilités dans Mattermost Server (01 septembre 2026)",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112000.0,
+      "p50_usd": 11200000.0,
+      "p90_usd": 1120000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-08T13:32:31+00:00",
+      "last_seen_at": "2026-09-08T13:32:31+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_43856848b80264610146",
       "title": "Isabel Schnabel: Central banks on-chain",
       "event_classes": [
@@ -4752,6 +4820,40 @@
       "first_seen_at": "2026-09-04T16:18:08+00:00",
       "last_seen_at": "2026-09-04T16:18:08+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_6e77a457802e4c461bc7",
+      "title": "Vulnérabilité dans Mozilla Firefox pour iOS (01 septembre 2026)",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-08T13:32:31+00:00",
+      "last_seen_at": "2026-09-08T13:32:31+00:00",
+      "status": "active"
+    },
+    {
+      "event_id": "evt_76821ac3db76154c0394",
+      "title": "Multiples vulnérabilités dans les produits Tenable (31 août 2026)",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-08T13:32:31+00:00",
+      "last_seen_at": "2026-09-08T13:32:31+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_050660578420f6fb8ddb",
@@ -5549,7 +5651,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T05:20:00+00:00",
-      "last_seen_at": "2026-09-08T13:21:17+00:00",
+      "last_seen_at": "2026-09-08T13:32:31+00:00",
       "status": "active"
     },
     {
@@ -5634,7 +5736,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T12:58:27+00:00",
-      "last_seen_at": "2026-09-08T13:21:17+00:00",
+      "last_seen_at": "2026-09-08T13:32:31+00:00",
       "status": "active"
     },
     {
