@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-08T04:46:36+00:00_
+_Generiert: 2026-09-08T04:53:58+00:00_
 
 ## Kurzlage
 
-16 neue relevante Treffer. Stärkstes Signal: „The app worked, the product didn’t: Can we install judgement into AI agents?“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
+17 neue relevante Treffer. Stärkstes Signal: „The app worked, the product didn’t: Can we install judgement into AI agents?“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -136,6 +136,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 松本大臣記者会見（令和8年9月8日）動画を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **「データセンターの排熱で温泉を作ろう」が難しい3つの理由 本職のDC技術者にガチで考えてもらった** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2609/08/2000000887/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-08T03:18:54+00:00`, fetched `2026-09-08T04:53:25+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: AI需要に伴い注目度が高まるデータセンター。昨今は環境問題の表出に伴い電力消費や排熱なども問題視されているが、こうした議論のたびに「排熱でお湯を沸かして温泉にすればいいのでは」といったアイデアが注目を集めるのをご存じだろうか。 実は、データセンターの排熱を使った足湯は岐阜県に存在しており、英国では屋...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ble.sh―理論物理の研究者がBashだけで書いた、世界で使われるコマンドラインエディタ - レバテックLAB** — Score 5, observation — [Quelle](https://levtech.jp/media/detail_923/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-08T01:14:55+00:00`, fetched `2026-09-08T03:11:28+00:00`
@@ -153,15 +162,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 【西川和久の不定期コラム】 家庭にあるPCのLLMリソースを束ねるNVIDIA「PAIR」、早速試してみた！
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **HTMX 4.0正式リリース。内部実装がXHRからfetchに移行しStreaming HTMLが可能に、属性はデフォルトで子要素に継承されないように変更など** — Score 5, observation — [Quelle](https://www.publickey1.jp/blog/26/htmx_40xhrfetchstreaming_html.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-07T14:51:21+00:00`, fetched `2026-09-08T02:15:10+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: HTMX 4.0正式リリース。内部実装がXHRからfetchに移行しStreaming HTMLが可能に、属性はデフォルトで子要素に継承されないように変更など HTMLに属性を追加するだけで、Webページにサーバと連動した動的なアプリケーションの機能を追加できるJavaScriptライブラリ「HTMX」の最新バージョンとなる「HTMX 4.0」正式版のリ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Why safe banks can produce fragile economies** — Score 4, observation — [Quelle](https://e27.co/why-safe-banks-can-produce-fragile-economies-20260908/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
