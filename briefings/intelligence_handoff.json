@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-08T10:49:47Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [niedrig] ImageMagick: Mehrere Schwachstellen” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
+  "generated_at": "2026-09-08T11:12:24Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] libvirt: Mehrere Schwachstellen ermöglichen” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,11 @@
   ],
   "top_dynamics": [
     {
-      "title": "[UPDATE] [niedrig] ImageMagick: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2967",
+      "title": "[UPDATE] [mittel] libvirt: Mehrere Schwachstellen ermöglichen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2724",
       "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-09-08T09:10:14+00:00",
-      "age_days": 0.07,
+      "published_at": "2026-09-08T10:44:19+00:00",
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -32,14 +32,14 @@
       "why": [
         "security high-signal: cert-bund, bsi, security, advisory"
       ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in ImageMagick ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen und einen Denial-of-Service-Zustand auszulösen."
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in libvirt ausnutzen, um Administratorrechte zu erlangen und vertrauliche Informationen offenzulegen."
     },
     {
       "title": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-08T05:57:52+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -68,7 +68,7 @@
       "url": "https://github.com/heygen-com/hyperframes",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-08T05:57:52+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -95,7 +95,7 @@
       "url": "https://e27.co/southeast-asias-live-commerce-boom-enters-its-harder-second-act-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T05:51:06+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -122,7 +122,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3043",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T09:10:14+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -148,7 +148,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3209",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T08:44:18+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -174,7 +174,7 @@
       "url": "https://e27.co/teleport-powers-capital-as-rebound-but-thin-margins-show-logistics-remains-a-hard-road-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T08:43:55+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "security"
@@ -200,7 +200,7 @@
       "url": "https://e27.co/the-app-worked-the-product-didnt-can-we-install-judgement-into-ai-agents-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T03:12:00+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "ai"
       ],
@@ -227,7 +227,7 @@
       "url": "https://github.com/jo-inc/camofox-browser",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-08T05:58:24+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "extreme",
@@ -252,7 +252,7 @@
       "url": "https://github.com/jo-inc/camofox-browser",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-08T05:57:52+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "ai",
         "macro"
@@ -280,7 +280,7 @@
       "url": "https://github.com/microsoft/markitdown",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-08T05:58:24+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -307,7 +307,7 @@
       "url": "https://e27.co/the-app-worked-the-product-didnt-can-we-install-judgement-into-ai-agents-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T03:00:56+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "ai",
         "macro"
