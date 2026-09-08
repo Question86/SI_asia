@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-08T18:29:05+00:00",
+  "generated_at": "2026-09-08T18:45:18+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 75,
+    "findings": 76,
     "clusters": 57,
     "cross_source_confrmed": 0,
     "hot": 0,
-    "early_signals": 1,
+    "early_signals": 0,
     "dominance_penalized": 11
   },
   "clusters": [
@@ -51,42 +51,46 @@
       "first_seen_at": "2026-09-08T05:58:24+00:00"
     },
     {
-      "key": "title:automatic-dependabot-access-github-hosted-registries",
-      "title": "Automatic Dependabot access to GitHub-hosted registries",
+      "key": "domain:openai.com",
+      "title": "Funding grants for new research into AI and teen development",
       "sources": [
-        "GitHub Changelog Atom"
+        "OpenAI News RSS"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://github.blog/changelog/2026-09-08-automatic-dependabot-access-to-github-hosted-registries"
+        "https://openai.com/index/teen-development-research-grants",
+        "https://openai.com/index/the-work-now-within-reach",
+        "https://openai.com/index/navier-stokes-solution",
+        "https://openai.com/index/introducing-chatgpt-images-2-5",
+        "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms"
       ],
-      "finding_count": 1,
-      "max_score": 14,
-      "credibility_total": 1.05,
+      "finding_count": 5,
+      "max_score": 13,
+      "credibility_total": 5.25,
       "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 21.0,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 21.11,
       "hot": false,
       "watchgraph_modules": [],
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "raw_network_score": 16.1,
-      "ranking_score": 21.0,
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 26.5,
+      "ranking_score": 21.11,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 4.11,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
       "high_signal": false,
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-09-08T17:54:59+00:00"
+      "first_seen_at": "2026-06-17T20:44:40+00:00"
     },
     {
       "key": "title:app-worked-product-didn-can-install-judgement-agents",
@@ -127,47 +131,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-08T03:12:00+00:00"
-    },
-    {
-      "key": "domain:openai.com",
-      "title": "Funding grants for new research into AI and teen development",
-      "sources": [
-        "OpenAI News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://openai.com/index/teen-development-research-grants",
-        "https://openai.com/index/the-work-now-within-reach",
-        "https://openai.com/index/navier-stokes-solution",
-        "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms"
-      ],
-      "finding_count": 4,
-      "max_score": 13,
-      "credibility_total": 4.2,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 20.46,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 24.4,
-      "ranking_score": 20.46,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 3.46,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-17T20:44:40+00:00"
     },
     {
       "key": "domain:wid.cert-bund.de",
@@ -368,6 +331,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-08T02:36:51+00:00"
+    },
+    {
+      "key": "title:automatic-dependabot-access-github-hosted-registries",
+      "title": "Automatic Dependabot access to GitHub-hosted registries",
+      "sources": [
+        "GitHub Changelog Atom"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.blog/changelog/2026-09-08-automatic-dependabot-access-to-github-hosted-registries"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 15.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "raw_network_score": 16.1,
+      "ranking_score": 15.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-08T17:54:59+00:00"
     },
     {
       "key": "title:680-million-people-600-billion-digital-economy-southeast",
@@ -2227,7 +2228,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-08T18:29:06Z",
+    "generated_at": "2026-09-08T18:45:18Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T18:29:03+00:00",
-  "run_id": "2026-09-08T18:29:03+00:00",
+  "generated_at": "2026-09-08T18:45:14+00:00",
+  "run_id": "2026-09-08T18:45:14+00:00",
   "date": "2026-09-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 75
+      "configured_public_sources_only": 76
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 75,
-    "displayed_findings": 75,
+    "today_file_total": 76,
+    "displayed_findings": 76,
     "high": 0,
     "medium": 26,
-    "observe": 49,
+    "observe": 50,
     "source_errors": 0
   },
   "sections": {
@@ -1320,6 +1320,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "16ce4d85cadf38ca9391"
+      },
+      {
+        "title": "Introducing ChatGPT Images 2.5",
+        "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-09-08T11:30:00+00:00",
+        "fetched_at": "2026-09-08T18:44:42+00:00",
+        "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+        "matched_keywords": [
+          "OpenAI"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "568547c8ef881b2e7a42"
       },
       {
         "title": "「今後のデジタル人材育成政策に関する検討会」開催について掲載しました",
@@ -3217,6 +3237,26 @@
       "id": "16ce4d85cadf38ca9391"
     },
     {
+      "title": "Introducing ChatGPT Images 2.5",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-08T11:30:00+00:00",
+      "fetched_at": "2026-09-08T18:44:42+00:00",
+      "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+      "matched_keywords": [
+        "OpenAI"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "568547c8ef881b2e7a42"
+    },
+    {
       "title": "「今後のデジタル人材育成政策に関する検討会」開催について掲載しました",
       "url": "https://www.digital.go.jp/councils/digital-talent-development-policy",
       "source": "Japan Digital Agency News RSS",
@@ -3821,25 +3861,24 @@
   ],
   "new_findings": [
     {
-      "title": "On the Navier–Stokes Millennium Prize Problem",
-      "url": "https://openai.com/index/navier-stokes-solution",
+      "title": "Introducing ChatGPT Images 2.5",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
       "source": "OpenAI News RSS",
       "source_type": "rss",
-      "published_at": "2026-09-08T10:00:00+00:00",
-      "fetched_at": "2026-09-08T18:28:31+00:00",
-      "summary": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+      "published_at": "2026-09-08T11:30:00+00:00",
+      "fetched_at": "2026-09-08T18:44:42+00:00",
+      "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
       "matched_keywords": [
-        "AI/KI",
         "OpenAI"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)",
+      "relevance_score": 8,
+      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "6453bb9eba7236576575"
+      "id": "568547c8ef881b2e7a42"
     }
   ],
   "source_errors": [],

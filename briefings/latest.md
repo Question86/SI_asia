@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-08T18:29:03+00:00_
+_Generiert: 2026-09-08T18:45:14+00:00_
 
 ## Kurzlage
 
-75 neue relevante Treffer. Stärkstes Signal: „mksglu/context-mode“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
+76 neue relevante Treffer. Stärkstes Signal: „mksglu/context-mode“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
