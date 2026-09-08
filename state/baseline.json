@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-08T01:40:08+00:00",
+  "generated_at": "2026-09-08T01:56:16+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -21528,7 +21528,22 @@
     },
     "url:https://diamond.jp/articles/-/398505": {
       "title": "高輪ゲートウェイの地下になぜ「50メートルプール8個分の水」？そのワケがスゴかった",
-      "updated_at": "2026-09-08T01:40:08+00:00",
+      "updated_at": "2026-09-08T01:56:16+00:00",
+      "network_scores": [
+        10.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1
+      ],
+      "rolling_average": 7.7,
+      "rolling_peak": 10.1,
+      "last_score": 7.1,
+      "z_hint": -0.6
+    },
+    "title:microsoft": {
+      "title": "Microsoft製品でここまで自動化できる 情シスがやめられる手作業10選",
+      "updated_at": "2026-09-08T01:56:16+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -21540,52 +21555,42 @@
       "last_score": 7.1,
       "z_hint": -0.75
     },
-    "title:microsoft": {
-      "title": "Microsoft製品でここまで自動化できる 情シスがやめられる手作業10選",
-      "updated_at": "2026-09-08T01:40:08+00:00",
-      "network_scores": [
-        10.1,
-        7.1,
-        7.1
-      ],
-      "rolling_average": 8.1,
-      "rolling_peak": 10.1,
-      "last_score": 7.1,
-      "z_hint": -1.0
-    },
     "earthquake:m 5.1 - 96 km ese of isangel, vanuatu:5.1": {
       "title": "M 5.1 - 96 km ESE of Isangel, Vanuatu",
-      "updated_at": "2026-09-08T01:40:08+00:00",
+      "updated_at": "2026-09-08T01:56:16+00:00",
       "network_scores": [
         14.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 13.2,
+      "rolling_average": 12.7,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -1.5
+      "z_hint": -1.0
     },
     "title:680-million-people-600-billion-digital-economy-southeast": {
       "title": "680 million people, a US$600 billion digital economy: Southeast Asia’s AI moment",
-      "updated_at": "2026-09-08T01:40:08+00:00",
+      "updated_at": "2026-09-08T01:56:16+00:00",
       "network_scores": [
-        19.1
+        19.1,
+        16.1
       ],
-      "rolling_average": 19.1,
+      "rolling_average": 17.6,
       "rolling_peak": 19.1,
-      "last_score": 19.1,
-      "z_hint": 0.0
+      "last_score": 16.1,
+      "z_hint": -1.5
     },
     "title:llm-nvidia-pair": {
       "title": "【西川和久の不定期コラム】 家庭にあるPCのLLMリソースを束ねるNVIDIA「PAIR」、早速試してみた！",
-      "updated_at": "2026-09-08T01:40:08+00:00",
+      "updated_at": "2026-09-08T01:56:16+00:00",
       "network_scores": [
-        10.1
+        10.1,
+        7.1
       ],
-      "rolling_average": 10.1,
+      "rolling_average": 8.6,
       "rolling_peak": 10.1,
-      "last_score": 10.1,
-      "z_hint": 0.0
+      "last_score": 7.1,
+      "z_hint": -1.5
     }
   }
 }
