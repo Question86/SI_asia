@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-08T11:47:07+00:00",
+  "generated_at": "2026-09-08T11:54:44+00:00",
   "topics": {
     "ai": [
       {
@@ -31,6 +31,13 @@
         "published_at": null,
         "relevance_score": 18,
         "url": "https://github.com/jo-inc/camofox-browser"
+      },
+      {
+        "title": "[NEU] [kritisch] Adobe Magento Open Source: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-08T11:44:18+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3223"
       },
       {
         "title": "Teleport powers Capital A’s rebound, but thin margins show logistics remains a hard road",
@@ -66,13 +73,6 @@
         "published_at": null,
         "relevance_score": 13,
         "url": "https://github.com/heygen-com/hyperframes"
-      },
-      {
-        "title": "ドラクエファンが「こういうグッズ思いついた」とイメージ画像をAIで作成＆投稿←これやると実際の企画が潰れる可能性あるし企業ロゴ使用などにも問題が…",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-08T06:37:51+00:00",
-        "relevance_score": 11,
-        "url": "https://togetter.com/li/2743006"
       }
     ],
     "github": [
@@ -96,6 +96,13 @@
         "published_at": null,
         "relevance_score": 18,
         "url": "https://github.com/jo-inc/camofox-browser"
+      },
+      {
+        "title": "[NEU] [kritisch] Adobe Magento Open Source: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-08T11:44:18+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3223"
       },
       {
         "title": "Teleport powers Capital A’s rebound, but thin margins show logistics remains a hard road",
@@ -142,11 +149,104 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3184"
       },
       {
+        "title": "[NEU] [kritisch] Adobe Magento Open Source: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-08T11:44:18+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3223"
+      },
+      {
         "title": "[UPDATE] [hoch] IBM License Metric Tool: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-08T09:10:14+00:00",
         "relevance_score": 17,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2958"
+      },
+      {
+        "title": "[NEU] [hoch] Samsung Android: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-08T11:44:17+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3219"
+      },
+      {
+        "title": "[NEU] [hoch] SAP Patch Day September 2026: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-08T11:44:17+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3220"
+      },
+      {
+        "title": "[NEU] [hoch] IBM App Connect Enterprise: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-08T11:44:18+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3221"
+      },
+      {
+        "title": "[NEU] [hoch] GStreamer: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-08T11:44:18+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3222"
+      },
+      {
+        "title": "[NEU] [mittel] MISP: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-08T11:39:18+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3218"
+      },
+      {
+        "title": "[NEU] [mittel] libtpms: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-08T11:39:17+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3216"
+      },
+      {
+        "title": "[NEU] [mittel] Zoho ManageEngine Endpoint Central: Mehrere Schwachstellen ermöglichen Erlangen von Benutzer- oder Administratorrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-08T11:39:17+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3217"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "[NEU] [kritisch] Adobe Magento Open Source: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-08T11:44:18+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3223"
+      },
+      {
+        "title": "[NEU] [hoch] Samsung Android: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-08T11:44:17+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3219"
+      },
+      {
+        "title": "[NEU] [hoch] SAP Patch Day September 2026: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-08T11:44:17+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3220"
+      },
+      {
+        "title": "[NEU] [hoch] IBM App Connect Enterprise: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-08T11:44:18+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3221"
+      },
+      {
+        "title": "[NEU] [hoch] GStreamer: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-08T11:44:18+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3222"
       },
       {
         "title": "[NEU] [mittel] MISP: Mehrere Schwachstellen",
@@ -170,39 +270,18 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3217"
       },
       {
-        "title": "[UPDATE] [mittel] libvirt: Mehrere Schwachstellen ermöglichen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-08T10:44:19+00:00",
+        "title": "680 million people, a US$600 billion digital economy: Southeast Asia’s AI moment",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-08T01:30:14+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2724"
+        "url": "https://e27.co/680-million-people-a-us600-billion-digital-economy-southeast-asias-ai-moment-20260906/"
       },
       {
-        "title": "[UPDATE] [niedrig] ImageMagick: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-08T09:10:14+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2967"
-      },
-      {
-        "title": "[UPDATE] [hoch] IBM QRadar SIEM: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-08T09:10:14+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3043"
-      },
-      {
-        "title": "[UPDATE] [mittel] MongoDB: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-08T08:44:18+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3209"
-      },
-      {
-        "title": "[UPDATE] [mittel] ILIAS: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-08T06:19:17+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3179"
+        "title": "「今後のデジタル人材育成政策に関する検討会」開催について掲載しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-09-08T01:56:13+00:00",
+        "relevance_score": 8,
+        "url": "https://www.digital.go.jp/councils/digital-talent-development-policy"
       }
     ],
     "general": [
@@ -275,71 +354,6 @@
         "published_at": "2026-09-08T07:10:30+00:00",
         "relevance_score": 5,
         "url": "https://www.itmedia.co.jp/news/article/2609/08/2000001269/"
-      }
-    ],
-    "geopolitics": [
-      {
-        "title": "[NEU] [mittel] MISP: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-08T11:39:18+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3218"
-      },
-      {
-        "title": "[NEU] [mittel] libtpms: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-08T11:39:17+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3216"
-      },
-      {
-        "title": "[NEU] [mittel] Zoho ManageEngine Endpoint Central: Mehrere Schwachstellen ermöglichen Erlangen von Benutzer- oder Administratorrechten",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-08T11:39:17+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3217"
-      },
-      {
-        "title": "680 million people, a US$600 billion digital economy: Southeast Asia’s AI moment",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-08T01:30:14+00:00",
-        "relevance_score": 14,
-        "url": "https://e27.co/680-million-people-a-us600-billion-digital-economy-southeast-asias-ai-moment-20260906/"
-      },
-      {
-        "title": "「今後のデジタル人材育成政策に関する検討会」開催について掲載しました",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-09-08T01:56:13+00:00",
-        "relevance_score": 8,
-        "url": "https://www.digital.go.jp/councils/digital-talent-development-policy"
-      },
-      {
-        "title": "中途採用（行政人材） 業務説明会・イベントを掲載しました",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-09-08T06:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.digital.go.jp/recruitment/career-government-official/recruiting-session"
-      },
-      {
-        "title": "Why safe banks can produce fragile economies",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-08T03:30:20+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/why-safe-banks-can-produce-fragile-economies-20260908/"
-      },
-      {
-        "title": "Why a strong jobs report hit Bitcoin and Ethereum harder than the stock market",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-08T03:00:44+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/why-a-strong-jobs-report-hit-bitcoin-and-ethereum-harder-than-the-stock-market-20260908/"
-      },
-      {
-        "title": "Think your EV holds its value? China has some bad news for you",
-        "source": "Rest of World Global Tech Feed",
-        "published_at": "2026-09-08T10:00:00+00:00",
-        "relevance_score": 3,
-        "url": "https://restofworld.org/2026/china-used-ev-depreciation-five-year-battery-warranty-dealers/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
       }
     ],
     "economy": [
