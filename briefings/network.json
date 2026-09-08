@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T21:10:10+00:00",
+  "generated_at": "2026-09-08T21:21:02+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 80,
@@ -313,20 +313,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 16.16,
+      "network_score": 16.01,
       "hot": false,
       "watchgraph_modules": [
         "ai_agents_workflow"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 25.6,
-      "ranking_score": 16.16,
+      "ranking_score": 16.01,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 1.66,
+      "baseline_bonus": 1.51,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -990,45 +990,6 @@
       "first_seen_at": "2026-09-08T13:32:31+00:00"
     },
     {
-      "key": "domain:help.github.com",
-      "title": "New customer portal help.github.com",
-      "sources": [
-        "GitHub Changelog Atom"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
-        "https://github.blog/changelog/2026-09-04-new-customer-portal-help-github-com"
-      ],
-      "finding_count": 2,
-      "max_score": 6,
-      "credibility_total": 2.1,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 8.45,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 10.2,
-      "ranking_score": 8.45,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.95,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-09-08T19:01:38+00:00"
-    },
-    {
       "key": "earthquake:m 4.9 - 97 km nne of chitre, nepal:4.9",
       "title": "M 4.9 - 97 km NNE of Chitre, Nepal",
       "sources": [
@@ -1314,6 +1275,45 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-09-08T01:21:36+00:00"
+    },
+    {
+      "key": "domain:help.github.com",
+      "title": "New customer portal help.github.com",
+      "sources": [
+        "GitHub Changelog Atom"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
+        "https://github.blog/changelog/2026-09-04-new-customer-portal-help-github-com"
+      ],
+      "finding_count": 2,
+      "max_score": 6,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 8.38,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 10.2,
+      "ranking_score": 8.38,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.88,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-08T19:01:38+00:00"
     },
     {
       "key": "domain:www.ecb.europa.eu",
@@ -2308,7 +2308,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-08T21:10:10Z",
+    "generated_at": "2026-09-08T21:21:02Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
