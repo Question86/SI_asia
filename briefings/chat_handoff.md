@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-08T09:24:08+00:00_
+_Generated: 2026-09-08T09:35:00+00:00_
 
 ## Status
 - status: `normal`
-- findings: `40`
+- findings: `41`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-09-08T09:24:08+00:00_
 - url: https://github.com/jo-inc/camofox-browser
 - summary: Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement. https://github.com/jo-inc/camofox-browser#readme camofox-browser Anti-detection browser server for AI agents, powered by Ca…
 
-### 5. heygen-com/hyperframes
+### 5. Tevo secures US$10M from PvX to scale its consumer AI apps without selling equity
+- source: e27 Asia Startup and Tech Feed
+- score: `13`
+- published: `2026-09-08T09:32:36+00:00`
+- url: https://e27.co/tevo-secures-us10m-from-pvx-to-scale-its-consumer-ai-apps-without-selling-equity-20260908/
+- summary: For many consumer app companies, the hardest part is no longer building the first product. It is finding enough growth capital to keep buying users profitably once a product has already shown traction. Tevo, a consumer and AI apps company from Southeast Asia,…
+
+### 6. heygen-com/hyperframes
 - source: GitHub Trending RSS All Languages Daily
 - score: `13`
 - published: `None`
 - url: https://github.com/heygen-com/hyperframes
 - summary: Write HTML. Render video. Built for agents. Write HTML. Render video. Built for agents. Quickstart | Showcase | Playground | Catalog | Docs | Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into determinis…
 
-### 6. The SMS looks real and that’s exactly why you should be careful
+### 7. The SMS looks real and that’s exactly why you should be careful
 - source: e27 Asia Startup and Tech Feed
 - score: `11`
 - published: `2026-09-08T02:00:57+00:00`
 - url: https://e27.co/the-sms-looks-real-and-thats-exactly-why-you-should-be-careful-20260906/
 - summary: For years, many of us have had a simple rule when receiving an SMS from our bank: check the sender. If the message comes from the same sender that usually delivers our transaction alerts or OTPs, it feels safe. After all, how could a scammer possibly send a m…
 
-### 7. microsoft/markitdown
+### 8. microsoft/markitdown
 - source: GitHub Trending RSS All Languages Daily
 - score: `11`
 - published: `None`
 - url: https://github.com/microsoft/markitdown
 - summary: Python tool for converting files and office documents to Markdown. MarkItDown Important MarkItDown performs I/O with the privileges of the current process. Like open() or requests.get(), it will access resources that the process itself can access. Sanitize yo…
-
-### 8. M 4.7 - 43 km NW of Aroa, Venezuela
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-09-08T07:20:36.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfs1
-- summary: Time 2026-09-08 06:49:48 UTC 2026-09-08 06:49:48 UTC at epicenter Location 10.733°N 69.162°W Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT

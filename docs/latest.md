@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-08T09:24:08+00:00_
+_Generiert: 2026-09-08T09:35:00+00:00_
 
 ## Kurzlage
 
-40 neue relevante Treffer. Stärkstes Signal: „mksglu/context-mode“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
+41 neue relevante Treffer. Stärkstes Signal: „mksglu/context-mode“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -96,6 +96,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Tevo secures US$10M from PvX to scale its consumer AI apps without selling equity** — Score 13, observation — [Quelle](https://e27.co/tevo-secures-us10m-from-pvx-to-scale-its-consumer-ai-apps-without-selling-equity-20260908/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-08T09:32:36+00:00`, fetched `2026-09-08T09:34:31+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: For many consumer app companies, the hardest part is no longer building the first product. It is finding enough growth capital to keep buying users profitably once a product has already shown traction. Tevo, a consumer and AI apps company from Southeast Asia, is now turning to a financing model designed for exactly that gap. […] The post Tevo secures US$10M from PvX to scale its consumer AI apps without selling equi…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **heygen-com/hyperframes** — Score 13, observation — [Quelle](https://github.com/heygen-com/hyperframes)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-09-08T05:57:52+00:00`
@@ -221,15 +230,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: LGのスマートテレビがローカルネットワークをスキャンしてスマートフォンや周辺機器を特定していることが判明しました。画面をオフにした状態でテレビがマイク音声を録音できることも確認され、その後インターネットに再接続するとデータをアップロードしていたことも分かりました。 216,000,000 Spy TVs | The LG Smart...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **MoonTechLab/LunaTV** — Score 5, observation — [Quelle](https://github.com/MoonTechLab/LunaTV)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-09-08T05:57:52+00:00`
-  - Treffer: APAC Trend Radar, GitHub Trending
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源 MoonTV 🎬 MoonTV 是一个开箱即用的、跨平台的影视聚合播放器。它基于 Next.js 14 + Tailwind CSS + TypeScript 构建，支持多资源搜索、在线播放、收藏同步、播放记录、云端存储，让你可以随时随地畅享海量免费影视内容。 ✨ 功能特性 🔍 多源聚合搜索 ：一次搜索立刻返回全源结果。 📄 丰富详情页 ：支持剧集列表、演员、年份、简介等完整信息展示。 ▶️ 流畅在线播放 ：集成 HLS.js & ArtPlayer。 ❤️ 收藏 + 继续观看 ：支持 Kvrocks/Redis/Upstash 存储，多端同步进度。 📱 PWA ：离线缓存、安装到桌面/主屏，移动端原生体验。 🌗 响应式布局 ：桌面侧边栏 + 移动底部导航，自适应各种屏幕尺寸。 👿 智能去广告 ：自动跳过视频中的切片广…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
