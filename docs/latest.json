@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T12:34:32+00:00",
-  "run_id": "2026-09-08T12:34:32+00:00",
+  "generated_at": "2026-09-08T12:51:26+00:00",
+  "run_id": "2026-09-08T12:51:26+00:00",
   "date": "2026-09-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 59,
     "displayed_findings": 59,
     "high": 0,
@@ -3023,44 +3023,7 @@
       "id": "c5a1b96ea43e5e9c36c4"
     }
   ],
-  "new_findings": [
-    {
-      "title": "M 5.3 - 26 km NW of Neiafu, Tonga",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tftd",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-09-08T12:34:07.040+00:00",
-      "fetched_at": "2026-09-08T12:34:00+00:00",
-      "summary": "DYFI? - III Time 2026-09-08 11:51:09 UTC 2026-09-08 11:51:09 UTC at epicenter Location 18.474°S 174.155°W Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "76660f2e84edcaf19f65"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
