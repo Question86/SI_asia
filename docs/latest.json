@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T18:45:14+00:00",
-  "run_id": "2026-09-08T18:45:14+00:00",
+  "generated_at": "2026-09-08T18:54:06+00:00",
+  "run_id": "2026-09-08T18:54:06+00:00",
   "date": "2026-09-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 76,
     "displayed_findings": 76,
     "high": 0,
@@ -3859,28 +3859,7 @@
       "id": "c5a1b96ea43e5e9c36c4"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Introducing ChatGPT Images 2.5",
-      "url": "https://openai.com/index/introducing-chatgpt-images-2-5",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-09-08T11:30:00+00:00",
-      "fetched_at": "2026-09-08T18:44:42+00:00",
-      "summary": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
-      "matched_keywords": [
-        "OpenAI"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "568547c8ef881b2e7a42"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
