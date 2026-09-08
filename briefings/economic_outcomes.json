@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-08T02:37:17+00:00",
+  "generated_at": "2026-09-08T02:48:52+00:00",
   "events": [
     {
       "event_id": "evt_02008879feb3a26196bb",
@@ -1116,12 +1116,12 @@
     {
       "event_id": "evt_4e11f1957135cfe1738b",
       "title": "AI, quantum computing and the future of cyber threats",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -3532,6 +3532,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_ddd9e9fa254644d528d6",
+      "title": "RTX 5060 Ti 16GBでローカルLLM(Qwen3.8 27B)にもう一度挑んだ話",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_e02859746a61908e4378",
