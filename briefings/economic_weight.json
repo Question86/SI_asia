@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-08T07:24:53+00:00",
+  "generated_at": "2026-09-08T07:35:59+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -261,7 +261,7 @@
       "p90_usd": 112800000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T02:15:54+00:00",
-      "last_seen_at": "2026-09-08T07:24:36+00:00",
+      "last_seen_at": "2026-09-08T07:35:45+00:00",
       "status": "active"
     },
     {
@@ -330,7 +330,7 @@
       "p90_usd": 110400000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T02:15:54+00:00",
-      "last_seen_at": "2026-09-08T07:24:36+00:00",
+      "last_seen_at": "2026-09-08T07:35:45+00:00",
       "status": "active"
     },
     {
@@ -381,7 +381,7 @@
       "p90_usd": 108800000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T05:51:06+00:00",
-      "last_seen_at": "2026-09-08T07:24:36+00:00",
+      "last_seen_at": "2026-09-08T07:35:45+00:00",
       "status": "active"
     },
     {
@@ -602,7 +602,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-08T05:01:25+00:00",
-      "last_seen_at": "2026-09-08T07:24:36+00:00",
+      "last_seen_at": "2026-09-08T07:35:45+00:00",
       "status": "active"
     },
     {
@@ -1367,7 +1367,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-08T01:21:36+00:00",
-      "last_seen_at": "2026-09-08T07:24:36+00:00",
+      "last_seen_at": "2026-09-08T07:35:45+00:00",
       "status": "active"
     },
     {
@@ -1864,6 +1864,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_df1e86c2766146083d4a",
+      "title": "M 4.7 - 43 km NW of Aroa, Venezuela",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-08T07:24:36+00:00",
+      "last_seen_at": "2026-09-08T07:35:45+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_e02859746a61908e4378",
       "title": "M 4.6 - 32 km NW of Raumati Beach, New Zealand",
       "event_classes": [
@@ -1894,7 +1911,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-30T09:38:46+00:00",
-      "last_seen_at": "2026-09-08T07:24:36+00:00",
+      "last_seen_at": "2026-09-08T07:35:45+00:00",
       "status": "active"
     },
     {
@@ -1962,24 +1979,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-30T04:22:59+00:00",
-      "last_seen_at": "2026-09-08T07:24:36+00:00",
-      "status": "active"
-    },
-    {
-      "event_id": "evt_df1e86c2766146083d4a",
-      "title": "M 4.7 - 43 km NW of Aroa, Venezuela",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-09-08T07:24:36+00:00",
-      "last_seen_at": "2026-09-08T07:24:36+00:00",
+      "last_seen_at": "2026-09-08T07:35:45+00:00",
       "status": "active"
     },
     {
@@ -1996,7 +1996,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-08T07:24:36+00:00",
+      "last_seen_at": "2026-09-08T07:35:45+00:00",
       "status": "active"
     },
     {
@@ -2438,7 +2438,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T05:58:24+00:00",
-      "last_seen_at": "2026-09-08T07:24:36+00:00",
+      "last_seen_at": "2026-09-08T07:35:45+00:00",
       "status": "active"
     },
     {
@@ -2523,7 +2523,7 @@
       "p90_usd": 1192000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T03:12:00+00:00",
-      "last_seen_at": "2026-09-08T07:24:36+00:00",
+      "last_seen_at": "2026-09-08T07:35:45+00:00",
       "status": "active"
     },
     {
@@ -2625,7 +2625,7 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T05:58:24+00:00",
-      "last_seen_at": "2026-09-08T07:24:36+00:00",
+      "last_seen_at": "2026-09-08T07:35:45+00:00",
       "status": "active"
     },
     {
@@ -2897,7 +2897,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T02:36:51+00:00",
-      "last_seen_at": "2026-09-08T07:24:36+00:00",
+      "last_seen_at": "2026-09-08T07:35:45+00:00",
       "status": "active"
     },
     {
@@ -3050,7 +3050,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T01:40:08+00:00",
-      "last_seen_at": "2026-09-08T07:24:36+00:00",
+      "last_seen_at": "2026-09-08T07:35:45+00:00",
       "status": "active"
     },
     {
@@ -3186,7 +3186,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T05:58:24+00:00",
-      "last_seen_at": "2026-09-08T07:24:36+00:00",
+      "last_seen_at": "2026-09-08T07:35:45+00:00",
       "status": "active"
     },
     {
@@ -3917,7 +3917,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T05:58:24+00:00",
-      "last_seen_at": "2026-09-08T07:24:36+00:00",
+      "last_seen_at": "2026-09-08T07:35:45+00:00",
       "status": "active"
     },
     {
@@ -4818,7 +4818,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T06:34:19+00:00",
-      "last_seen_at": "2026-09-08T07:24:36+00:00",
+      "last_seen_at": "2026-09-08T07:35:45+00:00",
       "status": "active"
     },
     {
@@ -5056,7 +5056,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T06:34:19+00:00",
-      "last_seen_at": "2026-09-08T07:24:36+00:00",
+      "last_seen_at": "2026-09-08T07:35:45+00:00",
       "status": "active"
     },
     {
@@ -5192,7 +5192,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T06:34:19+00:00",
-      "last_seen_at": "2026-09-08T07:24:36+00:00",
+      "last_seen_at": "2026-09-08T07:35:45+00:00",
       "status": "active"
     },
     {
@@ -5260,7 +5260,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T06:34:19+00:00",
-      "last_seen_at": "2026-09-08T07:24:36+00:00",
+      "last_seen_at": "2026-09-08T07:35:45+00:00",
       "status": "active"
     },
     {
