@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-08T13:21:13+00:00_
+_Generiert: 2026-09-08T13:32:28+00:00_
 
 ## Kurzlage
 
-60 neue relevante Treffer. Stärkstes Signal: „mksglu/context-mode“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
+66 neue relevante Treffer. Stärkstes Signal: „mksglu/context-mode“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -116,6 +116,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0); watchgraph modules capitals_power_centers, public_health_biosecurity (+6.0)
   - Kurz: Capital A’s (formerly AirAsia Group) latest numbers tell a company coming out of crisis, but not yet one firing evenly across all engines. The Malaysia-based group, which has spent the past few years restructuring after the pandemic and disposing of its airline business, reported second-quarter revenue of about US$193 million, up 9 per cent year-on-year. […] The post Teleport powers Capital A’s rebound, but thin mar…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Multiples vulnérabilités dans Papercut (28 août 2026)** — Score 16, risk — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1095/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-08-28T00:00:00+00:00`, fetched `2026-09-08T13:31:56+00:00`
+  - Treffer: avis, CERT-FR, Security, sécurité, vulnérabilité, éditeur
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Papercut. Elles permettent à un attaquant de contourner l'authentification et d'exécuter du code arbitraire à distance. Papercut indique que ces vulnérabilités sont activement exploitées. L'éditeur explique que le correctif bloque les requêtes...
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.3 - 51 km NNE of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfr8)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-08T04:54:12.040+00:00`, fetched `2026-09-08T05:00:52+00:00`
@@ -182,6 +191,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Reputationsrisiko (+7.0); recent (+1.0)
   - Kurz: For years, many of us have had a simple rule when receiving an SMS from our bank: check the sender. If the message comes from the same sender that usually delivers our transaction alerts or OTPs, it feels safe. After all, how could a scammer possibly send a message from the same sender? Unfortunately, that […] The post The SMS looks real and that’s exactly why you should be careful appeared first on e27 .
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Multiples vulnérabilités dans Microsoft Edge (31 août 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1096/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-08-31T00:00:00+00:00`, fetched `2026-09-08T13:31:56+00:00`
+  - Treffer: avis, CERT-FR, Microsoft, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **microsoft/markitdown** — Score 11, opportunity — [Quelle](https://github.com/microsoft/markitdown)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-09-08T05:57:52+00:00`
@@ -208,6 +226,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
   - Kurz: 韓国半導体大手サムスン電子は8日、横浜市で人工知能（AI）半導体の研究拠点の開所式を開いた。半導体の組み立て工程の装置や材料で世界トップシェアを持つ日本勢と連携し、AI半導体の性能を高める。AI半導体を巡る競争は、企業単独から国をまたぐ企業連合へと変わってきた。サムスン幹部「日本と技術交流を加速」「韓国...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans Mattermost Server (01 septembre 2026)** — Score 10, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1098/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-09-01T00:00:00+00:00`, fetched `2026-09-08T13:31:56+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité, éditeur
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.3 - 26 km NW of Neiafu, Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tftd)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
@@ -245,32 +272,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); policy (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 「今後のデジタル人材育成政策に関する検討会」開催について掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **松本デジタル大臣はロバートソン次期駐日英国大使による表敬訪問を受けました** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/d02fb0ce-1321-4a58-b225-b3454896ab9e)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-09-08T06:00:00+00:00`, fetched `2026-09-08T06:33:32+00:00`
-  - Treffer: APAC Trend Radar
+- **Vulnérabilité dans Mozilla Firefox pour iOS (01 septembre 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1099/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-09-01T00:00:00+00:00`, fetched `2026-09-08T13:31:56+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 松本デジタル大臣はロバートソン次期駐日英国大使による表敬訪問を受けました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **令和7年度（2025年度）公益法人に対する支出状況を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/procurement/disclosure/public-service-corporation-expenditure-inspection)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-09-08T06:00:00+00:00`, fetched `2026-09-08T06:33:32+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 令和7年度（2025年度）公益法人に対する支出状況を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Southeast Asia’s live commerce boom enters its harder second act** — Score 6, observation — [Quelle](https://e27.co/southeast-asias-live-commerce-boom-enters-its-harder-second-act-20260908/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-08T05:44:31+00:00`, fetched `2026-09-08T05:50:30+00:00`
-  - Treffer: APAC Trend Radar, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
-  - Kurz: Southeast Asia’s e-commerce story is no longer just about search bars, discount vouchers and marketplace rankings. Increasingly, shoppers are discovering what to buy through livestreams, short videos, creator reviews and affiliate content. And that shift is now large enough to reshape the region’s online retail economy. Content commerce gross merchandise value across Shopee, TikTok Shop, […] The post Southeast Asia’…
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
+  - Kurz: Une vulnérabilité a été découverte dans Mozilla Firefox pour iOS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

@@ -312,6 +312,31 @@
     "id": "3c264ff53eda4a2e1705"
   },
   {
+    "title": "Multiples vulnérabilités dans Papercut (28 août 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1095/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-08-28T00:00:00+00:00",
+    "fetched_at": "2026-09-08T13:31:56+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans Papercut. Elles permettent à un attaquant de contourner l'authentification et d'exécuter du code arbitraire à distance. Papercut indique que ces vulnérabilités sont activement exploitées. L'éditeur explique que le correctif bloque les requêtes...",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "Security",
+      "sécurité",
+      "vulnérabilité",
+      "éditeur"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b3e18d9a6e8e73a6dff3"
+  },
+  {
     "title": "M 5.3 - 51 km NNE of Ruteng, Indonesia",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfr8",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -778,6 +803,30 @@
     "id": "8a81363a23fc7f765f20"
   },
   {
+    "title": "Multiples vulnérabilités dans Microsoft Edge (31 août 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1096/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-08-31T00:00:00+00:00",
+    "fetched_at": "2026-09-08T13:31:56+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "Microsoft",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f24707a84935dca37d0a"
+  },
+  {
     "title": "microsoft/markitdown",
     "url": "https://github.com/microsoft/markitdown",
     "source": "GitHub Trending RSS All Languages Daily",
@@ -841,6 +890,30 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "ef6ef777f68bae6ea0e2"
+  },
+  {
+    "title": "Multiples vulnérabilités dans Mattermost Server (01 septembre 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1098/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-09-01T00:00:00+00:00",
+    "fetched_at": "2026-09-08T13:31:56+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans Mattermost Server. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité",
+      "éditeur"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "50c3d73a36d7743004ef"
   },
   {
     "title": "M 5.3 - 26 km NW of Neiafu, Tonga",
@@ -1042,6 +1115,75 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "3de3b1f5fa9d0a9bdeb2"
+  },
+  {
+    "title": "Vulnérabilité dans Mozilla Firefox pour iOS (01 septembre 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1099/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-09-01T00:00:00+00:00",
+    "fetched_at": "2026-09-08T13:31:56+00:00",
+    "summary": "Une vulnérabilité a été découverte dans Mozilla Firefox pour iOS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "304f755bf8eea21d710a"
+  },
+  {
+    "title": "Multiples vulnérabilités dans JFrog Artifactory (01 septembre 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1100/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-09-01T00:00:00+00:00",
+    "fetched_at": "2026-09-08T13:31:56+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans JFrog Artifactory. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une falsification de requêtes côté serveur (SSRF) et un contournement de la politique de sécurité.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3ac4b473fb790072a607"
+  },
+  {
+    "title": "Multiples vulnérabilités dans les produits Tenable (31 août 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1097/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-08-31T00:00:00+00:00",
+    "fetched_at": "2026-09-08T13:31:56+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans les produits Tenable. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et une élévation de privilèges.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ca22d0e69a6384e6e947"
   },
   {
     "title": "松本デジタル大臣はロバートソン次期駐日英国大使による表敬訪問を受けました",
