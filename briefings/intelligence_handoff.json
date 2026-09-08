@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-08T02:44:25Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “AI, quantum computing and the future of cyber threats” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
+  "generated_at": "2026-09-08T02:52:31Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “AI, quantum computing and the future of cyber threats” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.5.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -20,8 +20,8 @@
         "ai",
         "security"
       ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
+      "dynamics_score": 24.5,
+      "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
@@ -29,10 +29,9 @@
       "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1",
-        "krass gate: single-source non-official/non-identity signal capped"
+        "momentum delta +1"
       ],
       "summary": ""
     },
@@ -58,6 +57,30 @@
       "why": [
         "momentum delta +3",
         "high terms: 10"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "The SMS looks real and that’s exactly why you should be careful",
+      "url": "https://e27.co/the-sms-looks-real-and-thats-exactly-why-you-should-be-careful-20260906/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-08T02:15:54+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 17.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2"
       ],
       "summary": ""
     },
@@ -91,7 +114,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfqi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-30T09:38:46+00:00",
-      "age_days": 8.71,
+      "age_days": 8.72,
       "topics": [
         "general"
       ],
@@ -139,7 +162,7 @@
       "url": "https://e27.co/680-million-people-a-us600-billion-digital-economy-southeast-asias-ai-moment-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T01:40:08+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -161,35 +184,11 @@
       "summary": ""
     },
     {
-      "title": "The SMS looks real and that’s exactly why you should be careful",
-      "url": "https://e27.co/the-sms-looks-real-and-thats-exactly-why-you-should-be-careful-20260906/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-08T02:15:54+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 15.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "AI, quantum computing and the future of cyber threats",
       "url": "https://e27.co/ai-quantum-computing-and-the-future-of-cyber-threats-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T02:30:13+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "ai",
         "security"
@@ -210,11 +209,35 @@
       "summary": "I spent a lunchtime recently at a Singapore Press Club session on how artificial intelligence and quantum computing are making cyber threats worse. The room was full of people who work at the sharp end of this — running national defences, protecting small businesses, and thinking about where all of this is heading. Th…"
     },
     {
+      "title": "「今後のデジタル人材育成政策に関する検討会」開催について掲載しました",
+      "url": "https://www.digital.go.jp/councils/digital-talent-development-policy",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-09-08T02:15:54+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2"
+      ],
+      "summary": ""
+    },
+    {
       "title": "高輪ゲートウェイの地下になぜ「50メートルプール8個分の水」？そのワケがスゴかった",
       "url": "https://diamond.jp/articles/-/398505",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-08T00:00:49+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -234,35 +257,11 @@
       "summary": ""
     },
     {
-      "title": "「今後のデジタル人材育成政策に関する検討会」開催について掲載しました",
-      "url": "https://www.digital.go.jp/councils/digital-talent-development-policy",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-09-08T02:15:54+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "M 4.5 - south of the Fiji Islands",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfqi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-08T02:01:34.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -282,28 +281,28 @@
       "summary": "Time 2026-09-08 01:39:35 UTC 2026-09-08 01:39:35 UTC at epicenter Location 22.335°S 179.763°W Depth 568.56 km (353.29 mi)"
     },
     {
-      "title": "The SMS looks real and that’s exactly why you should be careful",
-      "url": "https://e27.co/the-sms-looks-real-and-thats-exactly-why-you-should-be-careful-20260906/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-08T02:00:57+00:00",
+      "title": "HTMX 4.0正式リリース。内部実装がXHRからfetchに移行しStreaming HTMLが可能に、属性はデフォルトで子要素に継承されないように変更など",
+      "url": "https://www.publickey1.jp/blog/26/htmx_40xhrfetchstreaming_html.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-08T02:15:54+00:00",
       "age_days": 0.03,
       "topics": [
         "general"
       ],
-      "dynamics_score": 11.0,
+      "dynamics_score": 11.5,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 0,
+      "momentum_delta": 2,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "no strong comparative reason"
+        "momentum delta +2"
       ],
-      "summary": "For years, many of us have had a simple rule when receiving an SMS from our bank: check the sender. If the message comes from the same sender that usually delivers our transaction alerts or OTPs, it feels safe. After all, how could a scammer possibly send a message from the same sender? Unfortunately, that […] The pos…"
+      "summary": ""
     }
   ],
   "read_order": [
