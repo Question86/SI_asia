@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-08T02:55:54+00:00",
+  "generated_at": "2026-09-08T03:11:57+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 11,
-    "displayed_findings": 11,
+    "new_relevant_findings": 4,
+    "today_file_total": 15,
+    "displayed_findings": 15,
     "high": 0,
-    "medium": 2,
-    "observe": 9
+    "medium": 3,
+    "observe": 12
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "The app worked, the product didn’t: Can we install judgement into AI agents?",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-08T03:00:56+00:00",
+      "relevance_score": 19,
+      "url": "https://e27.co/the-app-worked-the-product-didnt-can-we-install-judgement-into-ai-agents-20260906/",
+      "summary": "Our app worked. That was the problem. My team had spent roughly half a year working with our developer and using AI to build an in-house learning management app. In our testing environment, every function appeared to work. Zoom links could be updated. Calenda…",
+      "section": "medium"
+    },
     {
       "title": "AI, quantum computing and the future of cyber threats",
       "source": "e27 Asia Startup and Tech Feed",
