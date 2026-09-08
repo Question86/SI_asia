@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-09-08T05:58:50+00:00`
+Generated: `2026-09-08T06:34:50+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -27,5 +27,5 @@ Generated: `2026-09-08T05:58:50+00:00`
 | DietrichGebert/ponytail | $0 | — | 0 | 0 | dormant |
 | M 4.8 - Kermadec Islands, New Zealand | $0 | — | 0 | 0 | dormant |
 | M 4.6 - Kermadec Islands region | $0 | — | 0 | 0 | dormant |
+| 令和7年度におけるデジタル庁の障害者就労施設等からの物品等の調達の推進を図るための方針及び令和6年度デジタル庁における障害者就労施設等からの物品等の調達実績を掲載しました | $0 | — | 0 | 0 | active |
 | sngyai/Sequoia-X | $0 | — | 0 | 0 | dormant |
-| tailscale/tailcat | $0 | — | 0 | 0 | dormant |
