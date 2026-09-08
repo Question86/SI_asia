@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-08T09:01:20+00:00_
+_Generiert: 2026-09-08T09:24:08+00:00_
 
 ## Kurzlage
 
-36 neue relevante Treffer. Stärkstes Signal: „mksglu/context-mode“ aus GitHub Trending RSS All Languages Daily (Score 20, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+40 neue relevante Treffer. Stärkstes Signal: „mksglu/context-mode“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -97,6 +97,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0)
   - Kurz: Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement. https://github.com/jo-inc/camofox-browser#readme camofox-browser Anti-detection browser server for AI agents, powered by Camoufox Standing on the mighty shoulders of Camoufox - a Firefox fork with fingerprint spoofing at the C++ level. Built by the team behind jo, a personal AI agen…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **[UPDATE] [hoch] IBM License Metric Tool: Mehrere Schwachstellen** — Score 17, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2958)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-09-08T09:10:14+00:00`, fetched `2026-09-08T09:23:39+00:00`
+  - Treffer: BSI, CERT-Bund, Open Source, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Open Source (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in IBM License Metric Tool ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, um Informationen offenzulegen, um Dateien zu manipulieren und um Sicherheitsvorkehrungen zu umgehen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Teleport powers Capital A’s rebound, but thin margins show logistics remains a hard road** — Score 17, risk — [Quelle](https://e27.co/teleport-powers-capital-as-rebound-but-thin-margins-show-logistics-remains-a-hard-road-20260908/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-08T08:43:55+00:00`, fetched `2026-09-08T08:45:03+00:00`
@@ -124,23 +133,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: I spent a lunchtime recently at a Singapore Press Club session on how artificial intelligence and quantum computing are making cyber threats worse. The room was full of people who work at the sharp end of this — running national defences, protecting small businesses, and thinking about where all of this is heading. The conversation […] The post AI, quantum computing and the future of cyber threats appeared first on…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [mittel] MongoDB: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3209)
+- **[UPDATE] [niedrig] ImageMagick: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2967)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-09-08T08:44:18+00:00`, fetched `2026-09-08T08:53:22+00:00`
+  - Zeit: published `2026-09-08T09:10:14+00:00`, fetched `2026-09-08T09:23:39+00:00`
   - Treffer: BSI, CERT-Bund, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in MongoDB ausnutzen, um einen Denial of Service zu verursachen, Daten zu manipulieren, Informationen offenzulegen oder beliebige Befehle über die MongoDB-Erweiterung für Visual Studio Code auszuführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [mittel] ILIAS: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3179)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-09-08T06:19:17+00:00`, fetched `2026-09-08T06:33:32+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter Angreifer kann mehrere Schwachstellen in ILIAS ausnutzen, um Informationen offenzulegen, Daten zu manipulieren und um Sicherheitsmechanismen zu umgehen.
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in ImageMagick ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen und einen Denial-of-Service-Zustand auszulösen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
@@ -235,6 +235,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
   - Kurz: Southeast Asia’s e-commerce story is no longer just about search bars, discount vouchers and marketplace rankings. Increasingly, shoppers are discovering what to buy through livestreams, short videos, creator reviews and affiliate content. And that shift is now large enough to reshape the region’s online retail economy. Content commerce gross merchandise value across Shopee, TikTok Shop, […] The post Southeast Asia’…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Global standard-setting bodies publish a toolkit for cyber resilience at FMIs and a discussion paper on FMIs’ reliance on third-party service providers** — Score 6, observation — [Quelle](https://www.bis.org/media-releases/20260908-global-standard-setting-bodies-publish-toolkit-cyber-resilience-fmis-and-discussion-paper-fmis)
+  - Quelle: BIS Press Releases / `rss`
+  - Zeit: published `2026-09-08T00:00:00+00:00`, fetched `2026-09-08T09:23:39+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0)
+  - Kurz: CPMI-IOSCO are seeking input from stakeholders on a cyber resilience toolkit for financial market infrastructures (FMIs) and on risks to FMIs from third-party service providers. The Cyber resilience toolkit: practical considerations for FMIs supports FMIs in strengthening their cyber resilience frameworks. The discussion paper FMIs’ reliance on third-party service providers: challenges and risks explores the increas…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **道マニア達よ、これがゼンリンの「一般国道トレカ」だ。全国459路線、9月11日から順次発売 敦賀市・岡山町1丁目交差点の「4連おにぎり」キーホルダーが付いてくるBOXセットは初回限定【地図ウォッチ】** — Score 5, observation — [Quelle](https://internet.watch.impress.co.jp/docs/column/chizu/2139036.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-08T05:21:47+00:00`, fetched `2026-09-08T08:53:22+00:00`
@@ -271,15 +280,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源 MoonTV 🎬 MoonTV 是一个开箱即用的、跨平台的影视聚合播放器。它基于 Next.js 14 + Tailwind CSS + TypeScript 构建，支持多资源搜索、在线播放、收藏同步、播放记录、云端存储，让你可以随时随地畅享海量免费影视内容。 ✨ 功能特性 🔍 多源聚合搜索 ：一次搜索立刻返回全源结果。 📄 丰富详情页 ：支持剧集列表、演员、年份、简介等完整信息展示。 ▶️ 流畅在线播放 ：集成 HLS.js & ArtPlayer。 ❤️ 收藏 + 继续观看 ：支持 Kvrocks/Redis/Upstash 存储，多端同步进度。 📱 PWA ：离线缓存、安装到桌面/主屏，移动端原生体验。 🌗 响应式布局 ：桌面侧边栏 + 移动底部导航，自适应各种屏幕尺寸。 👿 智能去广告 ：自动跳过视频中的切片广…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Why safe banks can produce fragile economies** — Score 4, observation — [Quelle](https://e27.co/why-safe-banks-can-produce-fragile-economies-20260908/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-08T03:30:20+00:00`, fetched `2026-09-08T03:44:05+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: Across the region, governments want banks to remain conservative and startups to become more ambitious. Those goals are compatible only when other institutions are prepared to finance the risks that banks cannot. Conventional lenders reward collateral, reliable cash flow and years of financial statements. Many companies expected to create new industries possess none of these. […] The post Why safe banks can produce…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
@@ -290,7 +290,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `ecb_yield_curve` (rss): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
