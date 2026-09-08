@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-09-08T10:33:12+00:00`
+Generated: `2026-09-08T10:43:23+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -27,5 +27,5 @@ Generated: `2026-09-08T10:33:12+00:00`
 | DietrichGebert/ponytail | $0 | — | 0 | 0 | dormant |
 | M 4.8 - Kermadec Islands, New Zealand | $0 | — | 0 | 0 | dormant |
 | M 4.6 - Kermadec Islands region | $0 | — | 0 | 0 | dormant |
-| 令和7年度におけるデジタル庁の障害者就労施設等からの物品等の調達の推進を図るための方針及び令和6年度デジタル庁における障害者就労施設等からの物品等の調達実績を掲載しました | $0 | — | 0 | 0 | active |
+| 令和7年度におけるデジタル庁の障害者就労施設等からの物品等の調達の推進を図るための方針及び令和6年度デジタル庁における障害者就労施設等からの物品等の調達実績を掲載しました | $0 | — | 0 | 0 | dormant |
 | 道マニア達よ、これがゼンリンの「一般国道トレカ」だ。全国459路線、9月11日から順次発売 敦賀市・岡山町1丁目交差点の「4連おにぎり」キーホルダーが付いてくるBOXセットは初回限定【地図ウォッチ】 | $0 | — | 0 | 0 | dormant |
