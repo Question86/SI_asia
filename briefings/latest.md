@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-08T22:06:30+00:00_
+_Generiert: 2026-09-08T22:21:13+00:00_
 
 ## Kurzlage
 
-81 neue relevante Treffer. Stärkstes Signal: „mksglu/context-mode“ aus GitHub Trending RSS All Languages Daily (Score 20, observation). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+82 neue relevante Treffer. Stärkstes Signal: „mksglu/context-mode“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -318,8 +318,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `google_trends_philippines_hot` (rss): HTTPSConnectionPool(host='trends.google.com.ph', port=443): Read timed out. (read timeout=8)
-- `google_trends_vietnam_hot` (rss): 500 Server Error: Internal Server Error for url: https://trends.google.com.vn/trending/rss?geo=VN
