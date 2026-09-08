@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-08T03:30:30+00:00_
+_Generiert: 2026-09-08T03:44:39+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „The app worked, the product didn’t: Can we install judgement into AI agents?“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
+16 neue relevante Treffer. Stärkstes Signal: „The app worked, the product didn’t: Can we install judgement into AI agents?“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity). 3 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -114,6 +114,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: HTMX 4.0正式リリース。内部実装がXHRからfetchに移行しStreaming HTMLが可能に、属性はデフォルトで子要素に継承されないように変更など HTMLに属性を追加するだけで、Webページにサーバと連動した動的なアプリケーションの機能を追加できるJavaScriptライブラリ「HTMX」の最新バージョンとなる「HTMX 4.0」正式版のリ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Why safe banks can produce fragile economies** — Score 4, observation — [Quelle](https://e27.co/why-safe-banks-can-produce-fragile-economies-20260908/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-08T03:30:20+00:00`, fetched `2026-09-08T03:44:05+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: Across the region, governments want banks to remain conservative and startups to become more ambitious. Those goals are compatible only when other institutions are prepared to finance the risks that banks cannot. Conventional lenders reward collateral, reliable cash flow and years of financial statements. Many companies expected to create new industries possess none of these. […] The post Why safe banks can produce…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Why a strong jobs report hit Bitcoin and Ethereum harder than the stock market** — Score 4, observation — [Quelle](https://e27.co/why-a-strong-jobs-report-hit-bitcoin-and-ethereum-harder-than-the-stock-market-20260908/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-08T03:00:44+00:00`, fetched `2026-09-08T03:11:28+00:00`
@@ -132,3 +141,9 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `bis_press_releases` (rss): 503 Server Error: Service Unavailable for url: https://www.bis.org/doclist/all_pressrels.rss
+- `bis_central_bank_speeches` (rss): 503 Server Error: Service Unavailable for url: https://www.bis.org/doclist/cbspeeches.rss?paging_length=15
+- `bis_statistics` (rss): 503 Server Error: Service Unavailable for url: https://www.bis.org/doclist/all_statistics.rss

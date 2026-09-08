@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-09-08T03:30:35+00:00_
+_Generiert: 2026-09-08T03:44:42+00:00_
 
 ## The app worked, the product didn’t: Can we install judgement into AI agents?
 
