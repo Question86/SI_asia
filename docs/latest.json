@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T10:22:03+00:00",
-  "run_id": "2026-09-08T10:22:03+00:00",
+  "generated_at": "2026-09-08T10:32:36+00:00",
+  "run_id": "2026-09-08T10:32:36+00:00",
   "date": "2026-09-08",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 42,
     "displayed_findings": 42,
     "high": 0,
@@ -2231,26 +2231,7 @@
       "id": "c5a1b96ea43e5e9c36c4"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Think your EV holds its value? China has some bad news for you",
-      "url": "https://restofworld.org/2026/china-used-ev-depreciation-five-year-battery-warranty-dealers/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "source": "Rest of World Global Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-08T10:00:00+00:00",
-      "fetched_at": "2026-09-08T10:21:30+00:00",
-      "summary": "Used car dealers in the world’s biggest EV market are turning away 5-year-old cars, exposing a battery anxiety problem heading for Western buyers next.",
-      "matched_keywords": [],
-      "relevance_score": 3,
-      "relevance_reason": "recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c5a1b96ea43e5e9c36c4"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
