@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-08T05:51:02+00:00",
+  "generated_at": "2026-09-08T05:58:21+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 19,
-    "displayed_findings": 19,
+    "new_relevant_findings": 6,
+    "today_file_total": 25,
+    "displayed_findings": 25,
     "high": 0,
-    "medium": 4,
-    "observe": 15
+    "medium": 6,
+    "observe": 19
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "mksglu/context-mode",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "relevance_score": 20,
+      "url": "https://github.com/mksglu/context-mode",
+      "summary": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks. https://context-mode.com Context Mode The other half of the context problem. Used acros…",
+      "section": "medium"
+    },
     {
       "title": "The app worked, the product didn’t: Can we install judgement into AI agents?",
       "source": "e27 Asia Startup and Tech Feed",
@@ -22,6 +32,16 @@
       "relevance_score": 19,
       "url": "https://e27.co/the-app-worked-the-product-didnt-can-we-install-judgement-into-ai-agents-20260906/",
       "summary": "Our app worked. That was the problem. My team had spent roughly half a year working with our developer and using AI to build an in-house learning management app. In our testing environment, every function appeared to work. Zoom links could be updated. Calenda…",
+      "section": "medium"
+    },
+    {
+      "title": "jo-inc/camofox-browser",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "relevance_score": 18,
+      "url": "https://github.com/jo-inc/camofox-browser",
+      "summary": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement. https://github.com/jo-inc/camofox-browser#readme camofox-browser Anti-detection browser server for AI agents, powered by Ca…",
       "section": "medium"
     },
     {
@@ -35,24 +55,14 @@
       "section": "medium"
     },
     {
-      "title": "AI, quantum computing and the future of cyber threats",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "heygen-com/hyperframes",
+      "source": "GitHub Trending RSS All Languages Daily",
       "source_type": "rss",
-      "published_at": "2026-09-08T02:30:13+00:00",
-      "relevance_score": 15,
-      "url": "https://e27.co/ai-quantum-computing-and-the-future-of-cyber-threats-20260906/",
-      "summary": "I spent a lunchtime recently at a Singapore Press Club session on how artificial intelligence and quantum computing are making cyber threats worse. The room was full of people who work at the sharp end of this — running national defences, protecting small bus…",
-      "section": "medium"
-    },
-    {
-      "title": "680 million people, a US$600 billion digital economy: Southeast Asia’s AI moment",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-08T01:30:14+00:00",
-      "relevance_score": 14,
-      "url": "https://e27.co/680-million-people-a-us600-billion-digital-economy-southeast-asias-ai-moment-20260906/",
-      "summary": "If you ask most people where the future of artificial intelligence will be built, they will name Silicon Valley, China, or Europe. Few would mention Southeast Asia. And yet, global tech giants are already investing tens of billions of dollars in the region. W…",
-      "section": "medium"
+      "published_at": null,
+      "relevance_score": 13,
+      "url": "https://github.com/heygen-com/hyperframes",
+      "summary": "Write HTML. Render video. Built for agents. Write HTML. Render video. Built for agents. Quickstart | Showcase | Playground | Catalog | Docs | Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into determinis…",
+      "section": "observe"
     },
     {
       "title": "The SMS looks real and that’s exactly why you should be careful",
@@ -65,6 +75,16 @@
       "section": "observe"
     },
     {
+      "title": "microsoft/markitdown",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "relevance_score": 11,
+      "url": "https://github.com/microsoft/markitdown",
+      "summary": "Python tool for converting files and office documents to Markdown. MarkItDown Important MarkItDown performs I/O with the privileges of the current process. Like open() or requests.get(), it will access resources that the process itself can access. Sanitize yo…",
+      "section": "observe"
+    },
+    {
       "title": "M 4.5 - south of the Fiji Islands",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
@@ -72,26 +92,6 @@
       "relevance_score": 9,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfqi",
       "summary": "Time 2026-09-08 01:39:35 UTC 2026-09-08 01:39:35 UTC at epicenter Location 22.335°S 179.763°W Depth 568.56 km (353.29 mi)",
-      "section": "observe"
-    },
-    {
-      "title": "M 5.1 - 96 km ESE of Isangel, Vanuatu",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-09-08T01:07:52.040+00:00",
-      "relevance_score": 9,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfqf",
-      "summary": "Time 2026-09-08 00:52:02 UTC 2026-09-08 00:52:02 UTC at epicenter Location 19.841°S 170.145°E Depth 10.00 km (6.21 mi)",
-      "section": "observe"
-    },
-    {
-      "title": "「今後のデジタル人材育成政策に関する検討会」開催について掲載しました",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-09-08T01:56:13+00:00",
-      "relevance_score": 8,
-      "url": "https://www.digital.go.jp/councils/digital-talent-development-policy",
-      "summary": "「今後のデジタル人材育成政策に関する検討会」開催について掲載しました",
       "section": "observe"
     }
   ],
