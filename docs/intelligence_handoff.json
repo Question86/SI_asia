@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-08T11:48:56Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “microsoft/markitdown” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
+  "generated_at": "2026-09-08T12:20:36Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Samsung Android: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,115 @@
   ],
   "top_dynamics": [
     {
+      "title": "[NEU] [hoch] Samsung Android: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3219",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-08T11:44:17+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 33.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code, root",
+        "security high-signal: code, root"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Samsung Android ausnutzen, um beliebigen Code auszuführen – sogar mit Root-Rechten –, sich erweiterte Berechtigungen zu verschaffen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren oder einen Denial-of-Service-Zustand auszulös…"
+    },
+    {
+      "title": "[NEU] [hoch] SAP Patch Day September 2026: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3220",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-08T11:44:17+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 33.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe, code",
+        "security high-signal: angriffe, code"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in SAP Software ausnutzen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Berechtigungen zu erweitern, vertrauliche Informationen offenzulegen oder zu manipulieren, SQL-Injection-Angriffe durchzuführen oder einen Denial-of-Service-Zustand zu verursachen."
+    },
+    {
+      "title": "[NEU] [hoch] GStreamer: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3222",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-08T11:44:18+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in GStreamer ausnutzen, um Denial-of-Service-Zustände herbeizuführen, sensible Informationen offenzulegen, Daten zu manipulieren oder potenziell beliebigen Code auszuführen."
+    },
+    {
+      "title": "[NEU] [kritisch] Adobe Magento Open Source: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3223",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-08T11:44:18+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: kritisch, rce, code",
+        "security high-signal: kritisch, rce, code",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Adobe Magento ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen."
+    },
+    {
       "title": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-08T05:57:52+00:00",
-      "age_days": 0.24,
+      "age_days": 0.27,
       "topics": [
         "ai"
       ],
@@ -44,7 +148,7 @@
       "url": "https://github.com/heygen-com/hyperframes",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-08T05:57:52+00:00",
-      "age_days": 0.24,
+      "age_days": 0.27,
       "topics": [
         "ai"
       ],
@@ -71,7 +175,7 @@
       "url": "https://e27.co/southeast-asias-live-commerce-boom-enters-its-harder-second-act-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T05:51:06+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -94,11 +198,37 @@
       "summary": ""
     },
     {
+      "title": "[NEU] [hoch] IBM App Connect Enterprise: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3221",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-08T11:44:18+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM App Connect Enterprise ausnutzen, um beliebigen Programmcode auszuführen, erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen oder Denial-of-Service-Zustände herbeizuführen."
+    },
+    {
       "title": "[NEU] [mittel] MISP: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3218",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T11:39:18+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -124,7 +254,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3043",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T09:10:14+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -150,7 +280,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3209",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T08:44:18+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -176,7 +306,7 @@
       "url": "https://e27.co/teleport-powers-capital-as-rebound-but-thin-margins-show-logistics-remains-a-hard-road-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T08:43:55+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "ai",
         "security"
@@ -196,140 +326,6 @@
         "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
       ],
       "summary": "Capital A’s (formerly AirAsia Group) latest numbers tell a company coming out of crisis, but not yet one firing evenly across all engines. The Malaysia-based group, which has spent the past few years restructuring after the pandemic and disposing of its airline business, reported second-quarter revenue of about US$193…"
-    },
-    {
-      "title": "The app worked, the product didn’t: Can we install judgement into AI agents?",
-      "url": "https://e27.co/the-app-worked-the-product-didnt-can-we-install-judgement-into-ai-agents-20260906/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-08T03:12:00+00:00",
-      "age_days": 0.36,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "jo-inc/camofox-browser",
-      "url": "https://github.com/jo-inc/camofox-browser",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-09-08T05:58:24+00:00",
-      "age_days": 0.24,
-      "topics": [],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "extreme gate recheck: insufficient independent/current evidence"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "jo-inc/camofox-browser",
-      "url": "https://github.com/jo-inc/camofox-browser",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-09-08T05:57:52+00:00",
-      "age_days": 0.24,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: bypass",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement. https://github.com/jo-inc/camofox-browser#readme camofox-browser Anti-detection browser server for AI agents, powered by Camoufox Standing on the mighty shoulders of Camoufox - a Fire…"
-    },
-    {
-      "title": "microsoft/markitdown",
-      "url": "https://github.com/microsoft/markitdown",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-09-08T05:58:24+00:00",
-      "age_days": 0.24,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "The app worked, the product didn’t: Can we install judgement into AI agents?",
-      "url": "https://e27.co/the-app-worked-the-product-didnt-can-we-install-judgement-into-ai-agents-20260906/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-08T03:00:56+00:00",
-      "age_days": 0.37,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Our app worked. That was the problem. My team had spent roughly half a year working with our developer and using AI to build an in-house learning management app. In our testing environment, every function appeared to work. Zoom links could be updated. Calendars were connected. The automated checks reported that the sy…"
     }
   ],
   "read_order": [
@@ -341,7 +337,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 12
+      "krass": 3,
+      "strong": 9
     }
   }
 }
