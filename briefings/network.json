@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T22:55:01+00:00",
+  "generated_at": "2026-09-08T23:05:23+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 85,
@@ -389,20 +389,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 14.94,
+      "network_score": 14.86,
       "hot": false,
       "watchgraph_modules": [
         "ai_agents_workflow"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 25.6,
-      "ranking_score": 14.94,
+      "ranking_score": 14.86,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.44,
+      "baseline_bonus": 0.36,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1394,45 +1394,6 @@
       "first_seen_at": "2026-09-08T01:21:36+00:00"
     },
     {
-      "key": "domain:help.github.com",
-      "title": "New customer portal help.github.com",
-      "sources": [
-        "GitHub Changelog Atom"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
-        "https://github.blog/changelog/2026-09-04-new-customer-portal-help-github-com"
-      ],
-      "finding_count": 2,
-      "max_score": 6,
-      "credibility_total": 2.1,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 8.02,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 10.2,
-      "ranking_score": 8.02,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.52,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-09-08T19:01:38+00:00"
-    },
-    {
       "key": "domain:www.ecb.europa.eu",
       "title": "Frank Elderson: Fireside chat",
       "sources": [
@@ -1470,6 +1431,45 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "domain:help.github.com",
+      "title": "New customer portal help.github.com",
+      "sources": [
+        "GitHub Changelog Atom"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.blog/changelog/2026-09-08-new-customer-portal-help-github-com",
+        "https://github.blog/changelog/2026-09-04-new-customer-portal-help-github-com"
+      ],
+      "finding_count": 2,
+      "max_score": 6,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 8.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 10.2,
+      "ranking_score": 8.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.5,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-08T19:01:38+00:00"
     },
     {
       "key": "url:https://www.digital.go.jp/news/d02fb0ce-1321-4a58-b225-b3454896ab9e",
@@ -2501,7 +2501,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-08T22:55:01Z",
+    "generated_at": "2026-09-08T23:05:24Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
