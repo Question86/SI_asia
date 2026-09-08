@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-08T08:41:54Z_
+_Generated: 2026-09-08T08:51:42Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] ILIAS: Mehrere Schwach
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-08T06:19:17+00:00` / age_days `0.1`
+- Published: `2026-09-08T06:19:17+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] ILIAS: Mehrere Schwach
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-08T05:57:52+00:00` / age_days `0.11`
+- Published: `2026-09-08T05:57:52+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: local, high terms: rce, privilege, privileges, security high-signal: rce, privilege, privileges, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, official security but no high-signal phrase: capped at strong
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] ILIAS: Mehrere Schwach
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-08T05:57:52+00:00` / age_days `0.11`
+- Published: `2026-09-08T05:57:52+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: local, high terms: rce, auth, security high-signal: rce, auth, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -42,17 +42,27 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] ILIAS: Mehrere Schwach
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-08T05:51:06+00:00` / age_days `0.12`
+- Published: `2026-09-08T05:51:06+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
 - Quelle: https://e27.co/southeast-asias-live-commerce-boom-enters-its-harder-second-act-20260908/
 
+### Teleport powers Capital A’s rebound, but thin margins show logistics remains a hard road
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-09-08T08:43:55+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: security high-signal: security, krass gate recheck: needs multi-source, identity, or official high-signal phrase
+- Quelle: https://e27.co/teleport-powers-capital-as-rebound-but-thin-margins-show-logistics-remains-a-hard-road-20260908/
+
 ### The app worked, the product didn’t: Can we install judgement into AI agents?
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-08T03:12:00+00:00` / age_days `0.23`
+- Published: `2026-09-08T03:12:00+00:00` / age_days `0.24`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -62,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] ILIAS: Mehrere Schwach
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-08T05:58:24+00:00` / age_days `0.11`
+- Published: `2026-09-08T05:58:24+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -72,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] ILIAS: Mehrere Schwach
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-08T05:57:52+00:00` / age_days `0.11`
+- Published: `2026-09-08T05:57:52+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: bypass, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -82,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] ILIAS: Mehrere Schwach
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-08T05:58:24+00:00` / age_days `0.11`
+- Published: `2026-09-08T05:58:24+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -102,27 +112,17 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] ILIAS: Mehrere Schwach
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-08T05:57:52+00:00` / age_days `0.11`
+- Published: `2026-09-08T05:57:52+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
-- Quelle: https://github.com/mksglu/context-mode
-
-### mksglu/context-mode
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-09-08T05:58:24+00:00` / age_days `0.11`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, krass gate: single-source non-official/non-identity signal capped
 - Quelle: https://github.com/mksglu/context-mode
 
 ### Southeast Asia’s live commerce boom enters its harder second act
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-08T05:44:31+00:00` / age_days `0.12`
+- Published: `2026-09-08T05:44:31+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce
