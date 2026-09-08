@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-08T17:55:17+00:00",
+  "generated_at": "2026-09-08T18:07:07+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -261,7 +261,7 @@
       "p90_usd": 112800000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T02:15:54+00:00",
-      "last_seen_at": "2026-09-08T17:54:59+00:00",
+      "last_seen_at": "2026-09-08T18:06:49+00:00",
       "status": "active"
     },
     {
@@ -602,7 +602,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-04T05:31:26+00:00",
-      "last_seen_at": "2026-09-08T17:54:59+00:00",
+      "last_seen_at": "2026-09-08T18:06:49+00:00",
       "status": "active"
     },
     {
@@ -619,7 +619,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-08T05:01:25+00:00",
-      "last_seen_at": "2026-09-08T17:54:59+00:00",
+      "last_seen_at": "2026-09-08T18:06:49+00:00",
       "status": "active"
     },
     {
@@ -2064,7 +2064,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-08T17:54:59+00:00",
+      "last_seen_at": "2026-09-08T18:06:49+00:00",
       "status": "active"
     },
     {
@@ -2506,7 +2506,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T05:58:24+00:00",
-      "last_seen_at": "2026-09-08T17:54:59+00:00",
+      "last_seen_at": "2026-09-08T18:06:49+00:00",
       "status": "active"
     },
     {
@@ -2591,7 +2591,7 @@
       "p90_usd": 1192000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T03:12:00+00:00",
-      "last_seen_at": "2026-09-08T17:54:59+00:00",
+      "last_seen_at": "2026-09-08T18:06:49+00:00",
       "status": "active"
     },
     {
@@ -2693,7 +2693,7 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T05:58:24+00:00",
-      "last_seen_at": "2026-09-08T17:54:59+00:00",
+      "last_seen_at": "2026-09-08T18:06:49+00:00",
       "status": "active"
     },
     {
@@ -2727,7 +2727,7 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-08T17:54:59+00:00",
+      "last_seen_at": "2026-09-08T18:06:49+00:00",
       "status": "active"
     },
     {
@@ -2744,7 +2744,7 @@
       "p90_usd": 1176000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T08:45:35+00:00",
-      "last_seen_at": "2026-09-08T17:54:59+00:00",
+      "last_seen_at": "2026-09-08T18:06:49+00:00",
       "status": "active"
     },
     {
@@ -2863,7 +2863,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-08T17:54:59+00:00",
+      "last_seen_at": "2026-09-08T18:06:49+00:00",
       "status": "active"
     },
     {
@@ -2931,7 +2931,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T13:32:31+00:00",
-      "last_seen_at": "2026-09-08T17:54:59+00:00",
+      "last_seen_at": "2026-09-08T18:06:49+00:00",
       "status": "active"
     },
     {
@@ -2999,7 +2999,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T02:36:51+00:00",
-      "last_seen_at": "2026-09-08T17:54:59+00:00",
+      "last_seen_at": "2026-09-08T18:06:49+00:00",
       "status": "active"
     },
     {
@@ -3105,6 +3105,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_61d522c8c9225d8d4c9f",
+      "title": "Automatic Dependabot access to GitHub-hosted registries",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 115200.0,
+      "p50_usd": 11520000.0,
+      "p90_usd": 1152000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-08T17:54:59+00:00",
+      "last_seen_at": "2026-09-08T18:06:49+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_66c9e4ae3d63f4b30383",
       "title": "I stopped hiring. I’m not sure it’s a strategy yet",
       "event_classes": [
@@ -3152,7 +3169,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T01:40:08+00:00",
-      "last_seen_at": "2026-09-08T17:54:59+00:00",
+      "last_seen_at": "2026-09-08T18:06:49+00:00",
       "status": "active"
     },
     {
@@ -3205,23 +3222,6 @@
       "first_seen_at": "2026-08-30T03:17:26+00:00",
       "last_seen_at": "2026-08-30T23:59:07+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_61d522c8c9225d8d4c9f",
-      "title": "Automatic Dependabot access to GitHub-hosted registries",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 115200.0,
-      "p50_usd": 11520000.0,
-      "p90_usd": 1152000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-08T17:54:59+00:00",
-      "last_seen_at": "2026-09-08T17:54:59+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_0fe6fa9731ff84e108db",
@@ -3305,7 +3305,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T05:58:24+00:00",
-      "last_seen_at": "2026-09-08T17:54:59+00:00",
+      "last_seen_at": "2026-09-08T18:06:49+00:00",
       "status": "active"
     },
     {
@@ -3339,7 +3339,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T09:35:02+00:00",
-      "last_seen_at": "2026-09-08T17:54:59+00:00",
+      "last_seen_at": "2026-09-08T18:06:49+00:00",
       "status": "active"
     },
     {
@@ -3730,7 +3730,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T13:32:31+00:00",
-      "last_seen_at": "2026-09-08T17:54:59+00:00",
+      "last_seen_at": "2026-09-08T18:06:49+00:00",
       "status": "active"
     },
     {
@@ -4070,7 +4070,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T05:58:24+00:00",
-      "last_seen_at": "2026-09-08T17:54:59+00:00",
+      "last_seen_at": "2026-09-08T18:06:49+00:00",
       "status": "active"
     },
     {
@@ -5702,7 +5702,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T05:20:00+00:00",
-      "last_seen_at": "2026-09-08T17:54:59+00:00",
+      "last_seen_at": "2026-09-08T18:06:49+00:00",
       "status": "active"
     },
     {
@@ -5787,7 +5787,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T12:58:27+00:00",
-      "last_seen_at": "2026-09-08T17:54:59+00:00",
+      "last_seen_at": "2026-09-08T18:06:49+00:00",
       "status": "active"
     },
     {
