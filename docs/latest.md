@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-08T10:32:36+00:00_
+_Generiert: 2026-09-08T10:42:49+00:00_
 
 ## Kurzlage
 
-42 neue relevante Treffer. Stärkstes Signal: „mksglu/context-mode“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
+43 neue relevante Treffer. Stärkstes Signal: „mksglu/context-mode“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -114,6 +114,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Write HTML. Render video. Built for agents. Write HTML. Render video. Built for agents. Quickstart | Showcase | Playground | Catalog | Docs | Discord HyperFrames is an open-source framework for turning HTML, CSS, media, and seekable animations into deterministic MP4 videos. Use it locally with the CLI, from AI coding agents with skills, or as the rendering core behind hosted authoring workflows. Quick Start With an…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **AIっぽくない画像を作る画風プロンプト38種類＋テンプレート - Qiita** — Score 11, observation — [Quelle](https://qiita.com/maeda-niku18/items/b633dda178c505461080)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-08T05:05:02+00:00`, fetched `2026-09-08T10:42:21+00:00`
+  - Treffer: Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: AI画像生成の「AIっぽさ」を消すための画風プロンプト集（38スタイル＋テンプレート） ChatGPT（GPT Image）で資料やWebサイト用のイラストを作っていると、毎回同じところで引っかかります。 線が均一すぎる、グラデーションが滑らかすぎる、顔が整いすぎている、背景に意味のない小物が増える。要するに、AIが生成した...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The SMS looks real and that’s exactly why you should be careful** — Score 11, risk — [Quelle](https://e27.co/the-sms-looks-real-and-thats-exactly-why-you-should-be-careful-20260906/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-08T02:00:57+00:00`, fetched `2026-09-08T02:15:10+00:00`
@@ -221,15 +230,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: AI需要に伴い注目度が高まるデータセンター。昨今は環境問題の表出に伴い電力消費や排熱なども問題視されているが、こうした議論のたびに「排熱でお湯を沸かして温泉にすればいいのでは」といったアイデアが注目を集めるのをご存じだろうか。 実は、データセンターの排熱を使った足湯は岐阜県に存在しており、英国では屋...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **LG製スマートテレビが画面オフ時に音声を録音しローカルデバイスをスキャンしていたことが判明** — Score 5, observation — [Quelle](https://gigazine.net/news/20260908-lg-smat-tv-spy/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-08T02:02:12+00:00`, fetched `2026-09-08T05:57:52+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: LGのスマートテレビがローカルネットワークをスキャンしてスマートフォンや周辺機器を特定していることが判明しました。画面をオフにした状態でテレビがマイク音声を録音できることも確認され、その後インターネットに再接続するとデータをアップロードしていたことも分かりました。 216,000,000 Spy TVs | The LG Smart...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
