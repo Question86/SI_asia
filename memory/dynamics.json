@@ -1,30 +1,78 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-08T06:22:58Z",
+  "generated_at": "2026-09-08T06:50:05Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 2,
       "krass": 5,
-      "strong": 9,
-      "watch": 15,
-      "quiet": 9
+      "strong": 11,
+      "watch": 19,
+      "quiet": 3
     },
     "bands_after_gate_recheck": {
-      "strong": 16,
-      "watch": 15,
-      "quiet": 9
+      "strong": 18,
+      "watch": 19,
+      "quiet": 3
     }
   },
   "top_dynamics": [
+    {
+      "title": "[UPDATE] [mittel] ILIAS: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3179",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-08T06:19:17+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter Angreifer kann mehrere Schwachstellen in ILIAS ausnutzen, um Informationen offenzulegen, Daten zu manipulieren und um Sicherheitsmechanismen zu umgehen."
+    },
+    {
+      "title": "[UPDATE] [mittel] ILIAS: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3179",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-28T14:08:37+00:00",
+      "age_days": 10.7,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 25.5,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
     {
       "title": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-08T05:57:52+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -53,7 +101,7 @@
       "url": "https://github.com/heygen-com/hyperframes",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-08T05:57:52+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -80,7 +128,7 @@
       "url": "https://e27.co/southeast-asias-live-commerce-boom-enters-its-harder-second-act-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T05:51:06+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
@@ -90,12 +138,12 @@
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 2,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1",
+        "momentum delta +2",
         "high terms: rce",
         "security high-signal: rce",
         "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
@@ -107,7 +155,7 @@
       "url": "https://e27.co/the-app-worked-the-product-didnt-can-we-install-judgement-into-ai-agents-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T03:12:00+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -130,38 +178,11 @@
       "summary": ""
     },
     {
-      "title": "microsoft/markitdown",
-      "url": "https://github.com/microsoft/markitdown",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-09-08T05:58:24+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "jo-inc/camofox-browser",
       "url": "https://github.com/jo-inc/camofox-browser",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-08T05:57:52+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai",
         "macro"
@@ -185,11 +206,38 @@
       "summary": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement. https://github.com/jo-inc/camofox-browser#readme camofox-browser Anti-detection browser server for AI agents, powered by Camoufox Standing on the mighty shoulders of Camoufox - a Fire…"
     },
     {
+      "title": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-09-08T05:58:24+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "The app worked, the product didn’t: Can we install judgement into AI agents?",
       "url": "https://e27.co/the-app-worked-the-product-didnt-can-we-install-judgement-into-ai-agents-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T03:00:56+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "macro"
@@ -216,7 +264,7 @@
       "url": "https://github.com/mksglu/context-mode",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-08T05:57:52+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai",
         "macro"
@@ -243,7 +291,7 @@
       "url": "https://github.com/mksglu/context-mode",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-08T05:58:24+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
@@ -268,7 +316,7 @@
       "url": "https://github.com/jo-inc/camofox-browser",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-08T05:58:24+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
@@ -293,12 +341,12 @@
       "url": "https://github.com/heygen-com/hyperframes",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-08T05:58:24+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
+      "dynamics_score": 24.5,
+      "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
@@ -306,10 +354,9 @@
       "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1",
-        "krass gate: single-source non-official/non-identity signal capped"
+        "momentum delta +1"
       ],
       "summary": ""
     },
@@ -318,7 +365,7 @@
       "url": "https://e27.co/ai-quantum-computing-and-the-future-of-cyber-threats-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T02:36:51+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "security"
@@ -343,7 +390,7 @@
       "url": "https://e27.co/southeast-asias-live-commerce-boom-enters-its-harder-second-act-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T05:44:31+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "macro"
@@ -369,7 +416,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfr8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-08T04:54:12.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -394,7 +441,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfr8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-08T05:01:25+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -418,7 +465,7 @@
       "url": "https://e27.co/the-sms-looks-real-and-thats-exactly-why-you-should-be-careful-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T02:15:54+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -442,7 +489,7 @@
       "url": "https://techtarget.itmedia.co.jp/tt/article/2609/07/2000001177/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-08T00:56:10+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -467,7 +514,7 @@
       "url": "https://www.digital.go.jp/councils/digital-talent-development-policy",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-08T02:15:54+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -491,7 +538,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfqf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-08T01:07:52.040+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -516,7 +563,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfqi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-30T09:38:46+00:00",
-      "age_days": 8.86,
+      "age_days": 8.88,
       "topics": [
         "general"
       ],
@@ -540,7 +587,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfqf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-08T01:21:36+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -564,7 +611,7 @@
       "url": "https://e27.co/680-million-people-a-us600-billion-digital-economy-southeast-asias-ai-moment-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T01:40:08+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -590,7 +637,7 @@
       "url": "https://www.digital.go.jp/speech/minister-260908-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-08T03:12:00+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -614,7 +661,7 @@
       "url": "https://e27.co/ai-quantum-computing-and-the-future-of-cyber-threats-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T02:30:13+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "security"
@@ -639,7 +686,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/08/2000000887/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-08T04:54:02+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -663,7 +710,7 @@
       "url": "https://levtech.jp/media/detail_923/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-08T03:12:00+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -687,7 +734,7 @@
       "url": "https://www.publickey1.jp/blog/26/htmx_40xhrfetchstreaming_html.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-08T02:15:54+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -711,7 +758,7 @@
       "url": "https://diamond.jp/articles/-/398505",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-08T00:00:49+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -735,7 +782,7 @@
       "url": "https://e27.co/why-safe-banks-can-produce-fragile-economies-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T03:44:42+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -759,7 +806,7 @@
       "url": "https://e27.co/why-a-strong-jobs-report-hit-bitcoin-and-ethereum-harder-than-the-stock-market-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T03:12:00+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "macro"
       ],
@@ -779,11 +826,107 @@
       "summary": ""
     },
     {
+      "title": "松本デジタル大臣はロバートソン次期駐日英国大使による表敬訪問を受けました",
+      "url": "https://www.digital.go.jp/news/d02fb0ce-1321-4a58-b225-b3454896ab9e",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-09-08T06:34:19+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 12.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "令和7年度（2025年度）公益法人に対する支出状況を掲載しました",
+      "url": "https://www.digital.go.jp/procurement/disclosure/public-service-corporation-expenditure-inspection",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-09-08T06:34:19+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 12.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "令和7年度におけるデジタル庁の障害者就労施設等からの物品等の調達の推進を図るための方針及び令和6年度デジタル庁における障害者就労施設等からの物品等の調達実績を掲載しました",
+      "url": "https://www.digital.go.jp/procurement/challenged_person_employment_facilities_goods",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-09-08T06:34:19+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 12.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "中途採用（行政人材） 業務説明会・イベントを掲載しました",
+      "url": "https://www.digital.go.jp/recruitment/career-government-official/recruiting-session",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-09-08T06:34:19+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 12.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 4.5 - south of the Fiji Islands",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfqi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-08T02:01:34.040+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -803,35 +946,11 @@
       "summary": "Time 2026-09-08 01:39:35 UTC 2026-09-08 01:39:35 UTC at epicenter Location 22.335°S 179.763°W Depth 568.56 km (353.29 mi)"
     },
     {
-      "title": "MoonTechLab/LunaTV",
-      "url": "https://github.com/MoonTechLab/LunaTV",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-09-08T05:58:24+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "The SMS looks real and that’s exactly why you should be careful",
       "url": "https://e27.co/the-sms-looks-real-and-thats-exactly-why-you-should-be-careful-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T02:00:57+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -855,7 +974,7 @@
       "url": "https://techtarget.itmedia.co.jp/tt/article/2609/07/2000001177/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-07T01:36:25+00:00",
-      "age_days": 1.2,
+      "age_days": 1.22,
       "topics": [
         "general"
       ],
@@ -875,155 +994,29 @@
       "summary": "入退社時のアカウント処理やPCのセットアップ、ゲストユーザーの棚卸しといった定型業務を手作業で続けている情報システム（情シス）部門があります。 実は、Microsoft製品の中には、こうした業務を自動化できる機能が数多く用意されています。本記事では、その中でも有名な機能や意外と知られていない機能と、その機能..."
     },
     {
-      "title": "LG製スマートテレビが画面オフ時に音声を録音しローカルデバイスをスキャンしていたことが判明",
-      "url": "https://gigazine.net/news/20260908-lg-smat-tv-spy/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 81.18,
+      "title": "MoonTechLab/LunaTV",
+      "url": "https://github.com/MoonTechLab/LunaTV",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-09-08T05:58:24+00:00",
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
-      "dynamics_score": 8.5,
+      "dynamics_score": 9.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 3,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3",
-        "aging penalty -8.0 for 81.2d old signal"
+        "momentum delta +1"
       ],
       "summary": ""
-    },
-    {
-      "title": "「今後のデジタル人材育成政策に関する検討会」開催について掲載しました",
-      "url": "https://www.digital.go.jp/councils/digital-talent-development-policy",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-09-08T01:56:13+00:00",
-      "age_days": 0.19,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 8.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "「今後のデジタル人材育成政策に関する検討会」開催について掲載しました"
-    },
-    {
-      "title": "【西川和久の不定期コラム】 家庭にあるPCのLLMリソースを束ねるNVIDIA「PAIR」、早速試してみた！",
-      "url": "https://pc.watch.impress.co.jp/docs/column/nishikawa/2138806.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-08T01:40:08+00:00",
-      "age_days": 0.2,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "RTX 5060 Ti 16GBでローカルLLM(Qwen3.8 27B)にもう一度挑んだ話",
-      "url": "https://zenn.dev/yumeno/articles/rtx5060ti-qwen38-ollama-context-tuning",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-08T02:48:24+00:00",
-      "age_days": 0.15,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "680 million people, a US$600 billion digital economy: Southeast Asia’s AI moment",
-      "url": "https://e27.co/680-million-people-a-us600-billion-digital-economy-southeast-asias-ai-moment-20260906/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-08T01:30:14+00:00",
-      "age_days": 0.2,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "If you ask most people where the future of artificial intelligence will be built, they will name Silicon Valley, China, or Europe. Few would mention Southeast Asia. And yet, global tech giants are already investing tens of billions of dollars in the region. Why? Because Southeast Asia offers a unique combination of fa…"
-    },
-    {
-      "title": "松本大臣記者会見（令和8年9月8日）動画を掲載しました",
-      "url": "https://www.digital.go.jp/speech/minister-260908-01",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-09-08T02:56:25+00:00",
-      "age_days": 0.14,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "松本大臣記者会見（令和8年9月8日）動画を掲載しました"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “microsoft/markitdown” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] ILIAS: Mehrere Schwachstellen” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
 }
