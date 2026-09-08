@@ -1,11 +1,12 @@
 # Economic Evidence Candidates
 
-Generated: `2026-09-08T15:01:14+00:00`
+Generated: `2026-09-08T15:22:40+00:00`
 
 > Candidates are not accepted evidence and carry no causal attribution.
 
 | Event | Amount | Currency | Confidence | Source | Status |
 |---|---:|---|---:|---|---|
+| `evt_43856848b80264610146` | 1,200,000,000,000 | EUR | 0.80 | primary_hint | pending |
 | `evt_624a2e3ce3ccd3efe095` | 100,000,000,000 | USD | 0.80 | primary_hint | pending |
 | `evt_624a2e3ce3ccd3efe095` | 1,000,000 | USD | 0.80 | primary_hint | pending |
 | `evt_43856848b80264610146` | 1,000,000 | EUR | 0.80 | primary_hint | pending |
@@ -14,6 +15,8 @@ Generated: `2026-09-08T15:01:14+00:00`
 | `evt_3cb5980444e3bd7e9296` | 6 | USD | 0.80 | primary_hint | pending |
 | `evt_3cb5980444e3bd7e9296` | 5 | USD | 0.80 | primary_hint | pending |
 | `evt_566b9c70a07073da651c` | 4 | USD | 0.80 | primary_hint | pending |
+| `evt_43856848b80264610146` | 10,000,000,000 | EUR | 0.60 | primary_hint | pending |
+| `evt_43856848b80264610146` | 5,000,000,000 | EUR | 0.60 | primary_hint | pending |
 | `evt_43856848b80264610146` | 1,000,000 | EUR | 0.60 | primary_hint | pending |
 | `evt_43856848b80264610146` | 1,000,000 | EUR | 0.60 | primary_hint | pending |
 | `evt_43856848b80264610146` | 250,000 | EUR | 0.60 | primary_hint | pending |
@@ -39,10 +42,7 @@ Generated: `2026-09-08T15:01:14+00:00`
 | `evt_43856848b80264610146` | 2 | EUR | 0.60 | primary_hint | pending |
 | `evt_43856848b80264610146` | 2 | EUR | 0.60 | primary_hint | pending |
 | `evt_43856848b80264610146` | 2 | EUR | 0.60 | primary_hint | pending |
+| `evt_43856848b80264610146` | 2 | EUR | 0.60 | primary_hint | pending |
+| `evt_43856848b80264610146` | 2 | EUR | 0.60 | primary_hint | pending |
 | `evt_43856848b80264610146` | 1 | EUR | 0.60 | primary_hint | pending |
 | `evt_43856848b80264610146` | 1 | EUR | 0.60 | primary_hint | pending |
-| `evt_43856848b80264610146` | 1 | EUR | 0.60 | primary_hint | pending |
-| `evt_43856848b80264610146` | 1 | EUR | 0.60 | primary_hint | pending |
-| `evt_e2a35831f82554cb2454` | 1 | USD | 0.60 | primary_hint | pending |
-| `evt_43856848b80264610146` | 1 | EUR | 0.60 | primary_hint | pending |
-| `evt_55bf431fc184f598da38` | 1 | USD | 0.60 | primary_hint | pending |
