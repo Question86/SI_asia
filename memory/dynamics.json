@@ -1,20 +1,18 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-08T15:51:07Z",
+  "generated_at": "2026-09-08T16:15:28Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 4,
       "krass": 14,
-      "strong": 21,
-      "watch": 1
+      "strong": 22
     },
     "bands_after_gate_recheck": {
       "krass": 3,
-      "strong": 36,
-      "watch": 1
+      "strong": 37
     }
   },
   "top_dynamics": [
@@ -23,7 +21,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3219",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T11:44:17+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -48,7 +46,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3220",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T11:44:17+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -73,7 +71,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3222",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T11:44:18+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -98,7 +96,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3233",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T12:04:17+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -122,7 +120,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3216",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T11:39:17+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -146,7 +144,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3217",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T11:39:17+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -170,7 +168,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2724",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T10:44:19+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -194,7 +192,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2967",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T09:10:14+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -218,7 +216,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3179",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T06:19:17+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "security"
       ],
@@ -242,7 +240,7 @@
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1095/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-09-08T13:32:31+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -266,7 +264,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3223",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T11:44:18+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "security"
@@ -295,7 +293,7 @@
       "url": "https://github.com/microsoft/markitdown",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-08T05:57:52+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "ai"
       ],
@@ -324,7 +322,7 @@
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1095/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-08-28T00:00:00+00:00",
-      "age_days": 11.66,
+      "age_days": 11.68,
       "topics": [
         "ai",
         "security"
@@ -351,7 +349,7 @@
       "url": "https://github.com/heygen-com/hyperframes",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-08T05:57:52+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "ai"
       ],
@@ -378,7 +376,7 @@
       "url": "https://e27.co/southeast-asias-live-commerce-boom-enters-its-harder-second-act-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T05:51:06+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "general"
       ],
@@ -405,7 +403,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3221",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T11:44:18+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -431,7 +429,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3218",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T11:39:18+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -457,7 +455,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3043",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T09:10:14+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -483,7 +481,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3209",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T08:44:18+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -509,7 +507,7 @@
       "url": "https://e27.co/teleport-powers-capital-as-rebound-but-thin-margins-show-logistics-remains-a-hard-road-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T08:43:55+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "ai",
         "security"
@@ -535,7 +533,7 @@
       "url": "https://e27.co/the-app-worked-the-product-didnt-can-we-install-judgement-into-ai-agents-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T03:12:00+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "ai"
       ],
@@ -562,7 +560,7 @@
       "url": "https://github.com/jo-inc/camofox-browser",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-08T05:58:24+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "extreme",
@@ -587,7 +585,7 @@
       "url": "https://github.com/jo-inc/camofox-browser",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-08T05:57:52+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "ai",
         "macro"
@@ -615,7 +613,7 @@
       "url": "https://github.com/microsoft/markitdown",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-08T05:58:24+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "ai"
       ],
@@ -642,7 +640,7 @@
       "url": "https://e27.co/the-app-worked-the-product-didnt-can-we-install-judgement-into-ai-agents-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T03:00:56+00:00",
-      "age_days": 0.53,
+      "age_days": 0.55,
       "topics": [
         "ai",
         "macro"
@@ -669,7 +667,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3184",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 11.07,
+      "age_days": 11.09,
       "topics": [
         "security"
       ],
@@ -680,12 +678,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 7.31,
+      "baseline_z_hint": 6.91,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 7.31",
+        "baseline z_hint 6.91",
         "high terms: rce",
         "security high-signal: rce",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
@@ -697,7 +695,7 @@
       "url": "https://github.com/mksglu/context-mode",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-08T05:57:52+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "ai",
         "macro"
@@ -724,7 +722,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3184",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T08:44:17+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "ai",
         "security",
@@ -752,7 +750,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2958",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-08T09:10:14+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -778,7 +776,7 @@
       "url": "https://e27.co/tevo-secures-us10m-from-pvx-to-scale-its-consumer-ai-apps-without-selling-equity-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T09:32:36+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -805,7 +803,7 @@
       "url": "https://github.com/mksglu/context-mode",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-08T05:58:24+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "general"
       ],
@@ -826,11 +824,37 @@
       "summary": ""
     },
     {
+      "title": "M 5.2 - 123 km NNE of Ruteng, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfum",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-04T05:31:26+00:00",
+      "age_days": 4.45,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 2.9,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 2.90",
+        "krass gate: single-source non-official/non-identity signal capped"
+      ],
+      "summary": ""
+    },
+    {
       "title": "AI, quantum computing and the future of cyber threats",
       "url": "https://e27.co/ai-quantum-computing-and-the-future-of-cyber-threats-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T02:36:51+00:00",
-      "age_days": 0.55,
+      "age_days": 0.57,
       "topics": [
         "ai",
         "security"
@@ -855,7 +879,7 @@
       "url": "https://e27.co/southeast-asias-live-commerce-boom-enters-its-harder-second-act-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T05:44:31+00:00",
-      "age_days": 0.42,
+      "age_days": 0.44,
       "topics": [
         "ai",
         "macro"
@@ -877,11 +901,36 @@
       "summary": "Southeast Asia’s e-commerce story is no longer just about search bars, discount vouchers and marketplace rankings. Increasingly, shoppers are discovering what to buy through livestreams, short videos, creator reviews and affiliate content. And that shift is now large enough to reshape the region’s online retail econom…"
     },
     {
+      "title": "M 5.2 - 123 km NNE of Ruteng, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfum",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-08T15:56:23.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-09-08 15:36:35 UTC 2026-09-08 15:36:35 UTC at epicenter Location 7.677°S 121.085°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 5.3 - 51 km NNE of Ruteng, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfr8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-08T04:54:12.040+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "disaster"
       ],
@@ -906,7 +955,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfr8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-08T05:01:25+00:00",
-      "age_days": 0.45,
+      "age_days": 0.47,
       "topics": [
         "general"
       ],
@@ -930,7 +979,7 @@
       "url": "https://github.com/heygen-com/hyperframes",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-08T05:58:24+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "general"
       ],
@@ -954,7 +1003,7 @@
       "url": "https://restofworld.org/2026/china-used-ev-depreciation-five-year-battery-warranty-dealers/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-09-08T10:00:00+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "ai",
         "macro"
@@ -980,7 +1029,7 @@
       "url": "https://e27.co/the-sms-looks-real-and-thats-exactly-why-you-should-be-careful-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-08T02:15:54+00:00",
-      "age_days": 0.57,
+      "age_days": 0.58,
       "topics": [
         "general"
       ],
@@ -996,57 +1045,6 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Multiples vulnérabilités dans Microsoft Edge (31 août 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1096/",
-      "source": "CERT-FR Avis de sécurité",
-      "published_at": "2026-09-08T13:32:31+00:00",
-      "age_days": 0.1,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 20.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Tevo secures US$10M from PvX to scale its consumer AI apps without selling equity",
-      "url": "https://e27.co/tevo-secures-us10m-from-pvx-to-scale-its-consumer-ai-apps-without-selling-equity-20260908/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-08T09:35:02+00:00",
-      "age_days": 0.26,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 19.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
     }
