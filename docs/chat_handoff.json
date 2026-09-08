@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-08T01:21:32+00:00",
+  "generated_at": "2026-09-08T01:40:03+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 3,
-    "displayed_findings": 3,
+    "new_relevant_findings": 2,
+    "today_file_total": 5,
+    "displayed_findings": 5,
     "high": 0,
-    "medium": 0,
-    "observe": 3
+    "medium": 1,
+    "observe": 4
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "680 million people, a US$600 billion digital economy: Southeast Asia’s AI moment",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-08T01:30:14+00:00",
+      "relevance_score": 14,
+      "url": "https://e27.co/680-million-people-a-us600-billion-digital-economy-southeast-asias-ai-moment-20260906/",
+      "summary": "If you ask most people where the future of artificial intelligence will be built, they will name Silicon Valley, China, or Europe. Few would mention Southeast Asia. And yet, global tech giants are already investing tens of billions of dollars in the region. W…",
+      "section": "medium"
+    },
     {
       "title": "M 5.1 - 96 km ESE of Isangel, Vanuatu",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -22,6 +32,16 @@
       "relevance_score": 9,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfqf",
       "summary": "Time 2026-09-08 00:52:02 UTC 2026-09-08 00:52:02 UTC at epicenter Location 19.841°S 170.145°E Depth 10.00 km (6.21 mi)",
+      "section": "observe"
+    },
+    {
+      "title": "【西川和久の不定期コラム】 家庭にあるPCのLLMリソースを束ねるNVIDIA「PAIR」、早速試してみた！",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-07T21:08:01+00:00",
+      "relevance_score": 5,
+      "url": "https://pc.watch.impress.co.jp/docs/column/nishikawa/2138806.html",
+      "summary": "【西川和久の不定期コラム】 家庭にあるPCのLLMリソースを束ねるNVIDIA「PAIR」、早速試してみた！",
       "section": "observe"
     },
     {
@@ -50,136 +70,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “M 5.1 - 96 km ESE of Isangel, Vanuatu” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=17.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "M 5.1 - 96 km ESE of Isangel, Vanuatu",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfqf",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-08T01:07:52.040+00:00",
-        "age_days": 0.02,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 17.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake",
-          "high terms: 10, 9.8"
-        ],
-        "summary": "Time 2026-09-08 00:52:02 UTC 2026-09-08 00:52:02 UTC at epicenter Location 19.841°S 170.145°E Depth 10.00 km (6.21 mi)"
-      },
-      {
-        "title": "Microsoft製品でここまで自動化できる 情シスがやめられる手作業10選",
-        "url": "https://techtarget.itmedia.co.jp/tt/article/2609/07/2000001177/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-08T00:56:10+00:00",
-        "age_days": 0.03,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 14.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +1",
-          "high terms: 10"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "M 5.1 - 96 km ESE of Isangel, Vanuatu",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfqf",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-08T01:21:36+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 13.4,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +1"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "高輪ゲートウェイの地下になぜ「50メートルプール8個分の水」？そのワケがスゴかった",
-        "url": "https://diamond.jp/articles/-/398505",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-08T00:00:49+00:00",
-        "age_days": 0.07,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 11.5,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 2,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +2"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Microsoft製品でここまで自動化できる 情シスがやめられる手作業10選",
-        "url": "https://techtarget.itmedia.co.jp/tt/article/2609/07/2000001177/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-07T01:36:25+00:00",
-        "age_days": 1.0,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 10.0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10"
-        ],
-        "summary": "入退社時のアカウント処理やPCのセットアップ、ゲストユーザーの棚卸しといった定型業務を手作業で続けている情報システム（情シス）部門があります。 実は、Microsoft製品の中には、こうした業務を自動化できる機能が数多く用意されています。本記事では、その中でも有名な機能や意外と知られていない機能と、その機能..."
-      }
-    ]
-  }
+  ]
 }
