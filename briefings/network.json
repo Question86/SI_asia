@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T17:20:17+00:00",
+  "generated_at": "2026-09-08T17:29:54+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 73,
@@ -51,49 +51,6 @@
       "first_seen_at": "2026-09-08T05:58:24+00:00"
     },
     {
-      "key": "domain:wid.cert-bund.de",
-      "title": "[UPDATE] [hoch] Dell Secure Connect Gateway: Mehrere Schwachstellen",
-      "sources": [
-        "BSI CERT-Bund Security Advisories"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3184",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3223",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2958",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3219",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3220",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3233"
-      ],
-      "finding_count": 16,
-      "max_score": 18,
-      "credibility_total": 16.8,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 20.58,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 51.6,
-      "ranking_score": 20.58,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 1.08,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-08-28T14:08:37+00:00"
-    },
-    {
       "key": "title:app-worked-product-didn-can-install-judgement-agents",
       "title": "The app worked, the product didn’t: Can we install judgement into AI agents?",
       "sources": [
@@ -132,6 +89,49 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-08T03:12:00+00:00"
+    },
+    {
+      "key": "domain:wid.cert-bund.de",
+      "title": "[UPDATE] [hoch] Dell Secure Connect Gateway: Mehrere Schwachstellen",
+      "sources": [
+        "BSI CERT-Bund Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3184",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3223",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2958",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3219",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3220",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3233"
+      ],
+      "finding_count": 16,
+      "max_score": 18,
+      "credibility_total": 16.8,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 20.3,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 51.6,
+      "ranking_score": 20.3,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.8,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-28T14:08:37+00:00"
     },
     {
       "key": "github_repo:jo-inc/camofox-browser",
@@ -253,46 +253,6 @@
       "first_seen_at": "2026-09-08T13:32:31+00:00"
     },
     {
-      "key": "domain:openai.com",
-      "title": "Funding grants for new research into AI and teen development",
-      "sources": [
-        "OpenAI News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://openai.com/index/teen-development-research-grants",
-        "https://openai.com/index/the-work-now-within-reach",
-        "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms"
-      ],
-      "finding_count": 3,
-      "max_score": 13,
-      "credibility_total": 3.15,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 16.57,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "raw_network_score": 19.3,
-      "ranking_score": 16.57,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 2.07,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-17T20:44:40+00:00"
-    },
-    {
       "key": "title:quantum-computing-future-cyber-threats",
       "title": "AI, quantum computing and the future of cyber threats",
       "sources": [
@@ -329,6 +289,46 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-08T02:36:51+00:00"
+    },
+    {
+      "key": "domain:openai.com",
+      "title": "Funding grants for new research into AI and teen development",
+      "sources": [
+        "OpenAI News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://openai.com/index/teen-development-research-grants",
+        "https://openai.com/index/the-work-now-within-reach",
+        "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms"
+      ],
+      "finding_count": 3,
+      "max_score": 13,
+      "credibility_total": 3.15,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 16.47,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "raw_network_score": 19.3,
+      "ranking_score": 16.47,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 1.97,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-17T20:44:40+00:00"
     },
     {
       "key": "title:680-million-people-600-billion-digital-economy-southeast",
@@ -546,18 +546,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 12.53,
+      "network_score": 12.51,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 13.1,
-      "ranking_score": 12.53,
+      "ranking_score": 12.51,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.03,
+      "baseline_bonus": 0.01,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -2188,7 +2188,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-08T17:20:17Z",
+    "generated_at": "2026-09-08T17:29:54Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
