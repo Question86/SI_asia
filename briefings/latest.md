@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-08T08:29:01+00:00_
+_Generiert: 2026-09-08T08:45:32+00:00_
 
 ## Kurzlage
 
-32 neue relevante Treffer. Stärkstes Signal: „mksglu/context-mode“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
+33 neue relevante Treffer. Stärkstes Signal: „mksglu/context-mode“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -88,6 +88,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0)
   - Kurz: Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement. https://github.com/jo-inc/camofox-browser#readme camofox-browser Anti-detection browser server for AI agents, powered by Camoufox Standing on the mighty shoulders of Camoufox - a Firefox fork with fingerprint spoofing at the C++ level. Built by the team behind jo, a personal AI agen…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Teleport powers Capital A’s rebound, but thin margins show logistics remains a hard road** — Score 17, risk — [Quelle](https://e27.co/teleport-powers-capital-as-rebound-but-thin-margins-show-logistics-remains-a-hard-road-20260908/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-08T08:43:55+00:00`, fetched `2026-09-08T08:45:03+00:00`
+  - Treffer: APAC Trend Radar, Public Health, Watchgraph:capitals_power_centers, Watchgraph:public_health_biosecurity
+  - Watchgraph: capitals_power_centers, public_health_biosecurity
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0); watchgraph modules capitals_power_centers, public_health_biosecurity (+6.0)
+  - Kurz: Capital A’s (formerly AirAsia Group) latest numbers tell a company coming out of crisis, but not yet one firing evenly across all engines. The Malaysia-based group, which has spent the past few years restructuring after the pandemic and disposing of its airline business, reported second-quarter revenue of about US$193 million, up 9 per cent year-on-year. […] The post Teleport powers Capital A’s rebound, but thin mar…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.3 - 51 km NNE of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfr8)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-08T04:54:12.040+00:00`, fetched `2026-09-08T05:00:52+00:00`
@@ -114,15 +123,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
   - Kurz: Ein entfernter Angreifer kann mehrere Schwachstellen in ILIAS ausnutzen, um Informationen offenzulegen, Daten zu manipulieren und um Sicherheitsmechanismen zu umgehen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **680 million people, a US$600 billion digital economy: Southeast Asia’s AI moment** — Score 14, observation — [Quelle](https://e27.co/680-million-people-a-us600-billion-digital-economy-southeast-asias-ai-moment-20260906/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-08T01:30:14+00:00`, fetched `2026-09-08T01:39:32+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region usa: Silicon Valley (+2.0); watchgraph region china_credible_only: China (+2.0)
-  - Kurz: If you ask most people where the future of artificial intelligence will be built, they will name Silicon Valley, China, or Europe. Few would mention Southeast Asia. And yet, global tech giants are already investing tens of billions of dollars in the region. Why? Because Southeast Asia offers a unique combination of factors: 680 million […] The post 680 million people, a US$600 billion digital economy: Southeast Asia…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-08T08:29:01+00:00_
+_Generated: 2026-09-08T08:45:32+00:00_
 
 ## Status
 - status: `normal`
-- findings: `32`
+- findings: `33`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-09-08T08:29:01+00:00_
 - url: https://github.com/jo-inc/camofox-browser
 - summary: Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement. https://github.com/jo-inc/camofox-browser#readme camofox-browser Anti-detection browser server for AI agents, powered by Ca…
 
-### 4. M 5.3 - 51 km NNE of Ruteng, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-09-08T04:54:12.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tfr8
-- summary: Time 2026-09-08 04:40:28 UTC 2026-09-08 04:40:28 UTC at epicenter Location 8.165°S 120.600°E Depth 10.00 km (6.21 mi)
+### 4. Teleport powers Capital A’s rebound, but thin margins show logistics remains a hard road
+- source: e27 Asia Startup and Tech Feed
+- score: `17`
+- published: `2026-09-08T08:43:55+00:00`
+- url: https://e27.co/teleport-powers-capital-as-rebound-but-thin-margins-show-logistics-remains-a-hard-road-20260908/
+- summary: Capital A’s (formerly AirAsia Group) latest numbers tell a company coming out of crisis, but not yet one firing evenly across all engines. The Malaysia-based group, which has spent the past few years restructuring after the pandemic and disposing of its airli…
 
 ### 5. heygen-com/hyperframes
 - source: GitHub Trending RSS All Languages Daily
