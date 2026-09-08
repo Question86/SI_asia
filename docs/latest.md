@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-08T13:58:31+00:00_
+_Generiert: 2026-09-08T14:22:10+00:00_
 
 ## Kurzlage
 
-66 neue relevante Treffer. Stärkstes Signal: „mksglu/context-mode“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
+67 neue relevante Treffer. Stärkstes Signal: „mksglu/context-mode“ aus GitHub Trending RSS All Languages Daily (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -231,15 +231,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); policy (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 「今後のデジタル人材育成政策に関する検討会」開催について掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Vulnérabilité dans Mozilla Firefox pour iOS (01 septembre 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1099/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-09-01T00:00:00+00:00`, fetched `2026-09-08T13:31:56+00:00`
-  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
+- **OpenAI expands initiatives to support journalism from classrooms to newsrooms** — Score 8, opportunity — [Quelle](https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-09-08T00:00:00+00:00`, fetched `2026-09-08T14:21:39+00:00`
+  - Treffer: OpenAI
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
-  - Kurz: Une vulnérabilité a été découverte dans Mozilla Firefox pour iOS. Elle permet à un attaquant de provoquer un contournement de la politique de sécurité.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+  - Warum relevant: OpenAI (+7.5); recent (+1.0)
+  - Kurz: OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Empfehlungen
 
