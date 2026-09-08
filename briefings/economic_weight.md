@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-09-08T22:21:33+00:00`
+Generated: `2026-09-08T22:30:19+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -10,6 +10,7 @@ Generated: `2026-09-08T22:21:33+00:00`
 | anomalyco/opencode | conflict | $115.20M | $11.52B | $1.15T | 0.31 |
 | Warsh, In Our Time | conflict | $113.60M | $11.36B | $1.14T | 0.31 |
 | Schools and universities face rising ransomware costs as attackers target identities | exploit, conflict | $113.60M | $11.36B | $1.14T | 0.31 |
+| Netanyahu got an explicit warning before Oct. 7. He didn't brief security chiefs | conflict | $113.60M | $11.36B | $1.14T | 0.31 |
 | Multiple trusted publishing configurations for npm | conflict | $112.80M | $11.28B | $1.13T | 0.31 |
 | Forward Deployed Learner: Enabling 22-year-olds to build domain expertise and judgement in the post AI world | conflict | $110.40M | $11.04B | $1.10T | 0.31 |
 | Version 1.0: Deutsche Institutionen über TerminalFix-Kampagne kompromittiert | conflict | $109.60M | $10.96B | $1.10T | 0.31 |
@@ -30,7 +31,6 @@ Generated: `2026-09-08T22:21:33+00:00`
 | The US$103K visa fee is a gift to SEA’s talent pool, if the region actually wants it | regulation | $10.88M | $1.09B | $108.80B | 0.31 |
 | Southeast Asia’s live commerce boom enters its harder second act | regulation | $10.88M | $1.09B | $108.80B | 0.31 |
 | Southeast Asia’s quiet FDI manufacturing redistribution | regulation | $10.88M | $1.09B | $108.80B | 0.31 |
-| NVIDIA to Acquire Hugging Face | acquisition | $11.44M | $572.00M | $28.60B | 0.31 |
 
 ## Interpretation
 
