@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-08T03:52:22+00:00_
+_Generiert: 2026-09-08T03:59:47+00:00_
 
 ## Kurzlage
 
-16 neue relevante Treffer. Stärkstes Signal: „The app worked, the product didn’t: Can we install judgement into AI agents?“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+16 neue relevante Treffer. Stärkstes Signal: „The app worked, the product didn’t: Can we install judgement into AI agents?“ aus e27 Asia Startup and Tech Feed (Score 19, opportunity).
 
 ## Priorität Hoch
 
@@ -141,7 +141,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `google_trends_taiwan_hot` (rss): 500 Server Error: Internal Server Error for url: https://trends.google.com.tw/trending/rss?geo=TW
