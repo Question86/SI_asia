@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-08T17:48:37+00:00",
+  "generated_at": "2026-09-08T17:55:32+00:00",
   "events": [
     {
       "event_id": "evt_02008879feb3a26196bb",
@@ -1563,6 +1563,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_61d522c8c9225d8d4c9f",
+      "title": "Automatic Dependabot access to GitHub-hosted registries",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_620225625978c23a2aaa",
@@ -3795,7 +3806,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_ddc77a3d59c6e5ce526f",
