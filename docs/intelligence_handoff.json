@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-09T11:12:12Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] Fortinet FortiProxy und FortiOS: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
+  "generated_at": "2026-09-09T11:25:59Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] Ivanti Sentry: Schwachstelle ermöglicht Erlangen von Administratorrechten” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,36 @@
   ],
   "top_dynamics": [
     {
+      "title": "[NEU] [hoch] Ivanti Sentry: Schwachstelle ermöglicht Erlangen von Administratorrechten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3269",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-09T11:14:17+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 33.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: active, exploitation, ivanti",
+        "security high-signal: active, exploitation, ivanti"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Ivanti Sentry ausnutzen, um Administratorrechte zu erlangen."
+    },
+    {
       "title": "[NEU] [mittel] Fortinet FortiProxy und FortiOS: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3263",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-09T10:19:17+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -40,7 +65,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3260",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-09T10:09:17+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -65,7 +90,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3259",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-09T10:09:17+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -90,7 +115,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3258",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-09T10:04:17+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -115,7 +140,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3257",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-09T09:59:17+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -140,7 +165,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3251",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-09T09:49:17+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -165,7 +190,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3243",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-09T08:49:18+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -186,36 +211,11 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in verschiedenen Versionen von Microsoft Windows Server, Microsoft Windows 10 und Microsoft Windows 11 ausnutzen, um seine Privilegien zu erhöhen, um einen Denial of Service herbeizuführen, um Informationen offenzulegen und um beliebigen Code auszuführen."
     },
     {
-      "title": "[NEU] [hoch] Microsoft Office Produkte: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3234",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-09-09T08:24:17+00:00",
-      "age_days": 0.12,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 33.0,
-      "raw_band": "krass",
-      "dynamic_band": "krass",
-      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": true,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code, sharepoint",
-        "security high-signal: code, sharepoint"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in verschiedenen Microsoft Office Produkten, Microsoft Office Online Server, Microsoft 365 Apps, Microsoft SharePoint, Microsoft Teams und Microsoft Skype ausnutzen, um erhöhte Berechtigungen zu erlangen, um Code auszuführen, um Informationen offenzulegen und um den Nutzer zu…"
-    },
-    {
       "title": "coreyhaines31/marketingskills",
       "url": "https://github.com/coreyhaines31/marketingskills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-09T05:57:41+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "ai",
         "macro"
@@ -240,11 +240,37 @@
       "summary": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. https://marketing-skills.com Marketing Skills for AI Agents A collection of AI agent skills focused on marketing tasks. Built for technical marketers and founders who want AI coding agents to help with conversion…"
     },
     {
+      "title": "[NEU] [hoch] Microsoft Dynamics 365 und Microsoft Power Automate Desktop: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3267",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-09T11:04:17+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft Dynamics 365 und Microsoft Power Automate Desktop ausnutzen, um seine Privilegien zu erhöhen oder Code auszuführen."
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月08日）",
       "url": "https://jvn.jp/vu/JVNVU93257103/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-09T10:00:30+09:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -270,7 +296,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3241",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-09T08:49:17+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -290,32 +316,6 @@
         "official security but no high-signal phrase: capped at strong"
       ],
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft Authenticator und Microsoft Xbox Gaming Services ausnutzen, um seine Privilegien zu erhöhen."
-    },
-    {
-      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3229",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-09-09T06:24:18+00:00",
-      "age_days": 0.2,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code",
-        "security high-signal: code",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen oder Code auszuführen."
     }
   ],
   "read_order": [
