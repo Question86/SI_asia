@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-09-09T17:55:11+00:00`
+Generated: `2026-09-09T18:04:18+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -18,6 +18,7 @@ Generated: `2026-09-09T17:55:11+00:00`
 | AWSをゲームで学べる「AWS Cloud Quest」に新バージョン「AWS Cloud Quest 2.0」登場！ AIによるバーチャル顧客と対話し、要件を聞き出して正しくソリューションに落とし込め | $0 | — | 0 | 0 | dormant |
 | New API endpoint provides privacy-safe star history data | $0 | — | 0 | 0 | dormant |
 | JetBrains/go-modern-guidelines | $0 | — | 0 | 0 | dormant |
+| M 5.1 - 81 km ESE of Isangel, Vanuatu | $0 | — | 0 | 0 | active |
 | M 5.6 - 82 km SE of Maba, Indonesia | $0 | — | 0 | 0 | dormant |
 | The ecosystem map: How to stay agile in the US-China AI battle | $0 | — | 0 | 0 | dormant |
 | Zabbix agentにおけるDLL読み込みに関する脆弱性 | $0 | — | 0 | 0 | dormant |
@@ -28,4 +29,3 @@ Generated: `2026-09-09T17:55:11+00:00`
 | M 5.1 - 96 km ESE of Isangel, Vanuatu | $0 | — | 0 | 0 | dormant |
 | 無料のLM Studio、DFlash/DSpark/MTPで推論を高速化 | $0 | — | 0 | 0 | dormant |
 | DietrichGebert/ponytail | $0 | — | 0 | 0 | dormant |
-| Security Alert: Alert Regarding Vulnerabilities in Adobe Acrobat and Reader (APSB26-141) | $0 | — | 0 | 0 | dormant |
