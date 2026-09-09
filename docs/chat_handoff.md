@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-09T05:42:58+00:00_
+_Generated: 2026-09-09T05:58:13+00:00_
 
 ## Status
 - status: `normal`
-- findings: `24`
+- findings: `25`
 
 ## Top Signals
 
-### 1. Southeast Asia’s SMEs do not have an AI problem. They have a record problem
+### 1. coreyhaines31/marketingskills
+- source: GitHub Trending RSS All Languages Daily
+- score: `23`
+- published: `None`
+- url: https://github.com/coreyhaines31/marketingskills
+- summary: Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. https://marketing-skills.com Marketing Skills for AI Agents A collection of AI agent skills focused on marketing tasks. Built for technical marketers and…
+
+### 2. Southeast Asia’s SMEs do not have an AI problem. They have a record problem
 - source: e27 Asia Startup and Tech Feed
 - score: `17`
 - published: `2026-09-09T03:30:25+00:00`
 - url: https://e27.co/southeast-asias-smes-do-not-have-an-ai-problem-they-have-a-record-problem-20260908/
 - summary: Last month I sat with the founder of a distribution business in Colombo who wanted to show me his new demand forecasting dashboard. It looked serious. Clean charts, confidence bands, a recommended reorder quantity against every product line. I asked him one q…
 
-### 2. When a slot opens, let the AI agent act – within limits
+### 3. When a slot opens, let the AI agent act – within limits
 - source: e27 Asia Startup and Tech Feed
 - score: `17`
 - published: `2026-09-09T02:00:33+00:00`
 - url: https://e27.co/when-a-slot-opens-let-the-ai-agent-act-within-limits-20260906/
 - summary: AI agents are often discussed in terms of what they can replace. I think a more useful question is what repetitive work they can remove while leaving important decisions with people. Consider a simple appointment problem. A customer needs a consultation next…
 
-### 3. CISA ICS Advisory / ICS Medical Advisory（2026年09月08日）
+### 4. CISA ICS Advisory / ICS Medical Advisory（2026年09月08日）
 - source: JVN Japan Vulnerability Notes
 - score: `16`
 - published: `2026-09-09T10:00:30+09:00`
 - url: https://jvn.jp/vu/JVNVU93257103/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
-
-### 4. Gen Z doesn’t need more AI courses, it needs the skills AI can’t replicate
-- source: e27 Asia Startup and Tech Feed
-- score: `16`
-- published: `2026-09-09T01:00:39+00:00`
-- url: https://e27.co/gen-z-doesnt-need-more-ai-courses-it-needs-the-skills-ai-cant-replicate-20260908/
-- summary: In April 2026, the United States announced 83,387 job cuts. 26 per cent of them named artificial intelligence as the reason, the second consecutive month that AI was the top cited cause. Behind those numbers is a quieter story that is going to shape an entire…
 
 ### 5. Try Everything 2026 puts AI, robotics and cross-border capital at the centre
 - source: e27 Asia Startup and Tech Feed
