@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-09-09T21:24:51+00:00_
+_Generiert: 2026-09-09T21:32:58+00:00_
 
 ## September-Patchday: Adobe schließt kritische Zero-Day-Lücke und 172 weitere
 
