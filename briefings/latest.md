@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-09T23:46:53+00:00_
+_Generiert: 2026-09-09T23:54:34+00:00_
 
 ## Kurzlage
 
-126 neue relevante Treffer. Stärkstes Signal: „September-Patchday: Adobe schließt kritische Zero-Day-Lücke und 172 weitere“ aus heise Security Alerts (Score 24, risk).
+127 neue relevante Treffer. Stärkstes Signal: „September-Patchday: Adobe schließt kritische Zero-Day-Lücke und 172 weitere“ aus heise Security Alerts (Score 24, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -199,6 +199,15 @@ _Generiert: 2026-09-09T23:46:53+00:00_
 
 ## Nur beobachten
 
+- **The AI policy window is open. We need to act.** — Score 13, observation — [Quelle](https://openai.com/index/ai-policy-window)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-09-09T13:00:00+00:00`, fetched `2026-09-09T23:54:04+00:00`
+  - Treffer: AI/KI, OpenAI, safety
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); safety (+2.0); recent (+1.0)
+  - Kurz: Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Now it’s China’s experts who are gig workers training AI data** — Score 13, observation — [Quelle](https://restofworld.org/2026/china-expert-ai-trainers/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
   - Quelle: Rest of World Global Tech Feed / `rss`
   - Zeit: published `2026-09-09T10:00:00+00:00`, fetched `2026-09-09T10:21:36+00:00`
@@ -324,15 +333,6 @@ _Generiert: 2026-09-09T23:46:53+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+7.5); JPCERT (+2.0); recent (+1.0)
   - Kurz: Security Alert: Alert Regarding Vulnerabilities in Adobe Acrobat and Reader (APSB26-141)
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **SEA’s AI boom has a water problem it cannot offset away** — Score 10, observation — [Quelle](https://e27.co/seas-ai-boom-has-a-water-problem-it-cannot-offset-away-20260909/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-09T09:10:42+00:00`, fetched `2026-09-09T09:24:15+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0)
-  - Kurz: Every hyperscaler courting Southeast Asia now performs the same reassurance ritual. Ask Microsoft, Google, or AWS about the environmental cost of the data centres they are racing to build across the region, and the answer arrives pre-packaged: efficient cooling, renewable offsets, and community engagement. Worse, tech giants have even started telling reporters that their facilities […] The post SEA’s AI boom has a w…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

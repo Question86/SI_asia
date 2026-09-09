@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T23:46:53+00:00",
-  "run_id": "2026-09-09T23:46:53+00:00",
+  "generated_at": "2026-09-09T23:54:34+00:00",
+  "run_id": "2026-09-09T23:54:34+00:00",
   "date": "2026-09-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 126
+      "configured_public_sources_only": 127
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 126,
-    "displayed_findings": 126,
+    "new_relevant_findings": 1,
+    "today_file_total": 127,
+    "displayed_findings": 127,
     "high": 1,
     "medium": 71,
-    "observe": 54,
+    "observe": 55,
     "source_errors": 0
   },
   "sections": {
@@ -1889,6 +1889,28 @@
       }
     ],
     "observe": [
+      {
+        "title": "The AI policy window is open. We need to act.",
+        "url": "https://openai.com/index/ai-policy-window",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-09-09T13:00:00+00:00",
+        "fetched_at": "2026-09-09T23:54:04+00:00",
+        "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+        "matched_keywords": [
+          "AI/KI",
+          "OpenAI",
+          "safety"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); safety (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "bf83317d263c20624f54"
+      },
       {
         "title": "Now it’s China’s experts who are gig workers training AI data",
         "url": "https://restofworld.org/2026/china-expert-ai-trainers/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
@@ -5051,6 +5073,28 @@
       "id": "528a116838560ff109ec"
     },
     {
+      "title": "The AI policy window is open. We need to act.",
+      "url": "https://openai.com/index/ai-policy-window",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-09T13:00:00+00:00",
+      "fetched_at": "2026-09-09T23:54:04+00:00",
+      "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+      "matched_keywords": [
+        "AI/KI",
+        "OpenAI",
+        "safety"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); safety (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bf83317d263c20624f54"
+    },
+    {
       "title": "Now it’s China’s experts who are gig workers training AI data",
       "url": "https://restofworld.org/2026/china-expert-ai-trainers/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
@@ -6352,7 +6396,30 @@
       "id": "4d69c64eb8e925ff0aa2"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "The AI policy window is open. We need to act.",
+      "url": "https://openai.com/index/ai-policy-window",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-09T13:00:00+00:00",
+      "fetched_at": "2026-09-09T23:54:04+00:00",
+      "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remains open.",
+      "matched_keywords": [
+        "AI/KI",
+        "OpenAI",
+        "safety"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); safety (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bf83317d263c20624f54"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
