@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-09T09:24:46+00:00_
+_Generiert: 2026-09-09T09:36:18+00:00_
 
 ## Kurzlage
 
-56 neue relevante Treffer. Stärkstes Signal: „coreyhaines31/marketingskills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+57 neue relevante Treffer. Stärkstes Signal: „coreyhaines31/marketingskills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -150,6 +150,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 米OpenAIは9月8日（現地時間）、社内の未公開モデルがミレニアム懸賞問題の1つ「ナビエ・ストークス方程式の存在と滑らかさ」を解決する証明を生成したと発表した。3次元の非圧縮性流体が、滑らかな状態から出発しても有限時間で速度が無限大に発散する「特異点」を生じ得ることを示したもので、同社は証明の解説と、証...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **スレッズの自称「神仏祈祷師｜霊視占い師」がAIを用いて極めて創作っぽい話を流布し、暴力を扇動していた - 電脳塵芥** — Score 11, observation — [Quelle](https://nou-yunyun.hatenablog.com/entry/2026/09/09/140000)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-09T06:22:15+00:00`, fetched `2026-09-09T09:35:48+00:00`
+  - Treffer: Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: リトマスで「トマト窃盗の画像は誤り AI生成の電子透かし検出」という検証記事が出ていた。これは下記の「侍@hibikana417」というアカウントが投稿した写真についての検証であり、まず端的にOpenAIによるデジタル透かし（SynthID）が検出できることからAIによって作成された画像だと判断できる。 https://x.com/hibikana...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Anthropicの研究者が退社し超知能の開発競争を猛批判──「来年末には制御不能になる可能性」** — Score 11, observation — [Quelle](https://www.itmedia.co.jp/news/article/2609/09/2000001309/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-09T03:38:26+00:00`, fetched `2026-09-09T08:45:20+00:00`
@@ -158,15 +167,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 米Anthropicの研究者、ジェイコブ・コクソン氏（27）は9月8日（現地時間）、同社を退社したことをXで明らかにした。コクソン氏は投稿で、米OpenAIとAnthropicの両社で3年間、事前学習の研究に従事してきたとした上で、「どちらの企業も責任ある行動を取っていない」と述べ、自己改善型の超知能（superintelligence）に向...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **最近取り入れたClaude Codeの個人的tips 4選 - Qiita** — Score 11, observation — [Quelle](https://qiita.com/kuma_3838/items/00cb0b8d61ca76769c88)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-07T04:52:53+00:00`, fetched `2026-09-09T01:51:47+00:00`
-  - Treffer: AI Agents, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: はじめに ここ最近取り入れた Claude Code の tips を4つ紹介します。1つだけツールの話です。 どれも大がかりな仕組みではないので、気になったものだけ拾ってもらえればと思います。 この記事をざっくり図解 1. セッション名を自動で付ける 知っている方も多いかと思いますが、Claude Code のセッションには名前を付け...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Security Alert: Microsoft Releases September 2026 Security Updates** — Score 10, observation — [Quelle](https://www.jpcert.or.jp/english/at/2026/at260025.html)
   - Quelle: JPCERT/CC English Alerts / `rss`

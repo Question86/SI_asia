@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T09:24:46+00:00",
-  "run_id": "2026-09-09T09:24:46+00:00",
+  "generated_at": "2026-09-09T09:36:18+00:00",
+  "run_id": "2026-09-09T09:36:18+00:00",
   "date": "2026-09-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 56
+      "configured_public_sources_only": 57
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 56,
-    "displayed_findings": 56,
+    "new_relevant_findings": 1,
+    "today_file_total": 57,
+    "displayed_findings": 57,
     "high": 0,
     "medium": 33,
-    "observe": 23,
+    "observe": 24,
     "source_errors": 0
   },
   "sections": {
@@ -988,6 +988,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "85be0316b9aa32fd5b18"
+      },
+      {
+        "title": "スレッズの自称「神仏祈祷師｜霊視占い師」がAIを用いて極めて創作っぽい話を流布し、暴力を扇動していた - 電脳塵芥",
+        "url": "https://nou-yunyun.hatenablog.com/entry/2026/09/09/140000",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-09T06:22:15+00:00",
+        "fetched_at": "2026-09-09T09:35:48+00:00",
+        "summary": "リトマスで「トマト窃盗の画像は誤り AI生成の電子透かし検出」という検証記事が出ていた。これは下記の「侍@hibikana417」というアカウントが投稿した写真についての検証であり、まず端的にOpenAIによるデジタル透かし（SynthID）が検出できることからAIによって作成された画像だと判断できる。 https://x.com/hibikana...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry",
+          "OpenAI"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9bf54a0910d45029f55b"
       },
       {
         "title": "Anthropicの研究者が退社し超知能の開発競争を猛批判──「来年末には制御不能になる可能性」",
@@ -2352,6 +2374,28 @@
       "id": "85be0316b9aa32fd5b18"
     },
     {
+      "title": "スレッズの自称「神仏祈祷師｜霊視占い師」がAIを用いて極めて創作っぽい話を流布し、暴力を扇動していた - 電脳塵芥",
+      "url": "https://nou-yunyun.hatenablog.com/entry/2026/09/09/140000",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-09T06:22:15+00:00",
+      "fetched_at": "2026-09-09T09:35:48+00:00",
+      "summary": "リトマスで「トマト窃盗の画像は誤り AI生成の電子透かし検出」という検証記事が出ていた。これは下記の「侍@hibikana417」というアカウントが投稿した写真についての検証であり、まず端的にOpenAIによるデジタル透かし（SynthID）が検出できることからAIによって作成された画像だと判断できる。 https://x.com/hibikana...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "OpenAI"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9bf54a0910d45029f55b"
+    },
+    {
       "title": "Anthropicの研究者が退社し超知能の開発競争を猛批判──「来年末には制御不能になる可能性」",
       "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001309/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2755,72 +2799,26 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [hoch] Adobe ColdFusion: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3250",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "スレッズの自称「神仏祈祷師｜霊視占い師」がAIを用いて極めて創作っぽい話を流布し、暴力を扇動していた - 電脳塵芥",
+      "url": "https://nou-yunyun.hatenablog.com/entry/2026/09/09/140000",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-09T08:59:17+00:00",
-      "fetched_at": "2026-09-09T09:24:15+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Adobe ColdFusion ausnutzen, um beliebigen Programmcode auszuführen, Berechtigungen zu erweitern, Daten offenzulegen oder zu manipulieren, Cross-Site-Scripting-Angriffe durchzuführen oder einen Denial-of-Service-Zustand zu verursachen.",
+      "published_at": "2026-09-09T06:22:15+00:00",
+      "fetched_at": "2026-09-09T09:35:48+00:00",
+      "summary": "リトマスで「トマト窃盗の画像は誤り AI生成の電子透かし検出」という検証記事が出ていた。これは下記の「侍@hibikana417」というアカウントが投稿した写真についての検証であり、まず端的にOpenAIによるデジタル透かし（SynthID）が検出できることからAIによって作成された画像だと判断できる。 https://x.com/hibikana...",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
+        "Hatena",
+        "hotentry",
+        "OpenAI"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_score": 11,
+      "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "33afd4cde6096b6fee5a"
-    },
-    {
-      "title": "[NEU] [hoch] Adobe Acrobat und Acrobat Reader: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3249",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-09T08:59:17+00:00",
-      "fetched_at": "2026-09-09T09:24:15+00:00",
-      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Adobe Acrobat und Adobe Acrobat Reader ausnutzen, um beliebigen Code auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand zu verursachen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1d71ea051ef5e66bda78"
-    },
-    {
-      "title": "SEA’s AI boom has a water problem it cannot offset away",
-      "url": "https://e27.co/seas-ai-boom-has-a-water-problem-it-cannot-offset-away-20260909/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-09T09:10:42+00:00",
-      "fetched_at": "2026-09-09T09:24:15+00:00",
-      "summary": "Every hyperscaler courting Southeast Asia now performs the same reassurance ritual. Ask Microsoft, Google, or AWS about the environmental cost of the data centres they are racing to build across the region, and the answer arrives pre-packaged: efficient cooling, renewable offsets, and community engagement. Worse, tech giants have even started telling reporters that their facilities […] The post SEA’s AI boom has a w…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Southeast Asia"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "33ad580ff9376156bf9f"
+      "id": "9bf54a0910d45029f55b"
     }
   ],
   "source_errors": [],
