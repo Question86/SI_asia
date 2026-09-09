@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-09T05:58:13+00:00",
+  "generated_at": "2026-09-09T06:34:34+00:00",
   "topics": {
     "ai": [
       {
@@ -123,6 +123,20 @@
         "url": "https://jvn.jp/vu/JVNVU93257103/"
       },
       {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-09T06:24:18+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3229"
+      },
+      {
+        "title": "[UPDATE] [hoch] Red Hat Directory Server und Enterprise Linux (389-ds-base): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-09T06:24:17+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3215"
+      },
+      {
         "title": "baserCMS用プラグイン「BurgerEditor」における複数の脆弱性",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-09-09T14:00:00+09:00",
@@ -151,18 +165,25 @@
         "url": "https://jvn.jp/vu/JVNVU91877671/"
       },
       {
+        "title": "[UPDATE] [mittel] TYPO3 Core: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-09T06:24:18+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3224"
+      },
+      {
+        "title": "[UPDATE] [mittel] QT: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-09T06:24:18+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3227"
+      },
+      {
         "title": "Security Alert: Microsoft Releases September 2026 Security Updates",
         "source": "JPCERT/CC English Alerts",
         "published_at": "2026-09-09T11:36+09:00",
         "relevance_score": 10,
         "url": "https://www.jpcert.or.jp/english/at/2026/at260025.html"
-      },
-      {
-        "title": "Security Alert: Alert Regarding Vulnerabilities in Adobe Acrobat and Reader (APSB26-141)",
-        "source": "JPCERT/CC English Alerts",
-        "published_at": "2026-09-09T11:36+09:00",
-        "relevance_score": 10,
-        "url": "https://www.jpcert.or.jp/english/at/2026/at260026.html"
       }
     ],
     "general": [

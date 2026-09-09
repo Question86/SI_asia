@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T05:58:13+00:00",
-  "run_id": "2026-09-09T05:58:13+00:00",
+  "generated_at": "2026-09-09T06:34:34+00:00",
+  "run_id": "2026-09-09T06:34:34+00:00",
   "date": "2026-09-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 25
+      "configured_public_sources_only": 29
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 25,
-    "displayed_findings": 25,
+    "new_relevant_findings": 4,
+    "today_file_total": 29,
+    "displayed_findings": 29,
     "high": 0,
-    "medium": 9,
+    "medium": 13,
     "observe": 16,
     "source_errors": 0
   },
@@ -172,6 +172,54 @@
         "id": "9fd09596dba218253563"
       },
       {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3229",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-09T06:24:18+00:00",
+        "fetched_at": "2026-09-09T06:34:06+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen oder Code auszuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9d5f19efbf88a8c787f0"
+      },
+      {
+        "title": "[UPDATE] [hoch] Red Hat Directory Server und Enterprise Linux (389-ds-base): Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3215",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-09T06:24:17+00:00",
+        "fetched_at": "2026-09-09T06:34:06+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Directory Server und Red Hat Enterprise Linux ausnutzen, um beliebigen Code auszuführen, Administratorrechte zu erlangen, Daten zu manipulieren oder einen Denial-of-Service-Zustand auszulösen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6856f1c5a47ea8375e5b"
+      },
+      {
         "title": "Gen Z doesn’t need more AI courses, it needs the skills AI can’t replicate",
         "url": "https://e27.co/gen-z-doesnt-need-more-ai-courses-it-needs-the-skills-ai-cant-replicate-20260908/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -280,6 +328,52 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "9270f5bf508ddcfc0b18"
+      },
+      {
+        "title": "[UPDATE] [mittel] TYPO3 Core: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3224",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-09T06:24:18+00:00",
+        "fetched_at": "2026-09-09T06:34:06+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in TYPO3 Core ausnutzen, um Informationen offenzulegen, einen Denial of Service zu verursachen oder seine Rechte zu erweitern.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b296eb3f06e52ec187cf"
+      },
+      {
+        "title": "[UPDATE] [mittel] QT: Schwachstelle ermöglicht Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3227",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-09T06:24:18+00:00",
+        "fetched_at": "2026-09-09T06:34:06+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in QT ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "528a116838560ff109ec"
       }
     ],
     "observe": [
@@ -788,6 +882,54 @@
       "id": "9fd09596dba218253563"
     },
     {
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3229",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-09T06:24:18+00:00",
+      "fetched_at": "2026-09-09T06:34:06+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen oder Code auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9d5f19efbf88a8c787f0"
+    },
+    {
+      "title": "[UPDATE] [hoch] Red Hat Directory Server und Enterprise Linux (389-ds-base): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3215",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-09T06:24:17+00:00",
+      "fetched_at": "2026-09-09T06:34:06+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Directory Server und Red Hat Enterprise Linux ausnutzen, um beliebigen Code auszuführen, Administratorrechte zu erlangen, Daten zu manipulieren oder einen Denial-of-Service-Zustand auszulösen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6856f1c5a47ea8375e5b"
+    },
+    {
       "title": "Gen Z doesn’t need more AI courses, it needs the skills AI can’t replicate",
       "url": "https://e27.co/gen-z-doesnt-need-more-ai-courses-it-needs-the-skills-ai-cant-replicate-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -896,6 +1038,52 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "9270f5bf508ddcfc0b18"
+    },
+    {
+      "title": "[UPDATE] [mittel] TYPO3 Core: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3224",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-09T06:24:18+00:00",
+      "fetched_at": "2026-09-09T06:34:06+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in TYPO3 Core ausnutzen, um Informationen offenzulegen, einen Denial of Service zu verursachen oder seine Rechte zu erweitern.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b296eb3f06e52ec187cf"
+    },
+    {
+      "title": "[UPDATE] [mittel] QT: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3227",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-09T06:24:18+00:00",
+      "fetched_at": "2026-09-09T06:34:06+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in QT ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "528a116838560ff109ec"
     },
     {
       "title": "Try Everything 2026 puts AI, robotics and cross-border capital at the centre",
@@ -1259,53 +1447,98 @@
   ],
   "new_findings": [
     {
-      "title": "coreyhaines31/marketingskills",
-      "url": "https://github.com/coreyhaines31/marketingskills",
-      "source": "GitHub Trending RSS All Languages Daily",
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3229",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-09-09T05:57:41+00:00",
-      "summary": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. https://marketing-skills.com Marketing Skills for AI Agents A collection of AI agent skills focused on marketing tasks. Built for technical marketers and founders who want AI coding agents to help with conversion optimization, copywriting, SEO, analytics, and growth engineering. Works with Claude Code, OpenAI Co…",
+      "published_at": "2026-09-09T06:24:18+00:00",
+      "fetched_at": "2026-09-09T06:34:06+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen oder Code auszuführen.",
       "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "APAC Trend Radar",
-        "GitHub Trending",
-        "OpenAI",
-        "Public Health",
-        "Watchgraph:ai_agents_workflow"
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 23,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); AI Agents (+6.2); APAC Trend Radar (+3.0); Public Health (+5.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9d5f19efbf88a8c787f0"
+    },
+    {
+      "title": "[UPDATE] [hoch] Red Hat Directory Server und Enterprise Linux (389-ds-base): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3215",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-09T06:24:17+00:00",
+      "fetched_at": "2026-09-09T06:34:06+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Directory Server und Red Hat Enterprise Linux ausnutzen, um beliebigen Code auszuführen, Administratorrechte zu erlangen, Daten zu manipulieren oder einen Denial-of-Service-Zustand auszulösen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
       ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: AI agents"
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6856f1c5a47ea8375e5b"
+    },
+    {
+      "title": "[UPDATE] [mittel] QT: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3227",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-09T06:24:18+00:00",
+      "fetched_at": "2026-09-09T06:34:06+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in QT ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
       ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "528a116838560ff109ec"
+    },
+    {
+      "title": "[UPDATE] [mittel] TYPO3 Core: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3224",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-09T06:24:18+00:00",
+      "fetched_at": "2026-09-09T06:34:06+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in TYPO3 Core ausnutzen, um Informationen offenzulegen, einen Denial of Service zu verursachen oder seine Rechte zu erweitern.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
       ],
-      "id": "da4592e5a985a8e69ae3"
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b296eb3f06e52ec187cf"
     }
   ],
   "source_errors": [],

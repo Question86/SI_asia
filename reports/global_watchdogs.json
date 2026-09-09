@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T05:58:16+00:00",
+  "generated_at": "2026-09-09T06:34:37+00:00",
   "sections": {
     "global_security": [
       {
@@ -61,6 +61,16 @@
         "metrics": {
           "cve": "CVE-2026-85046"
         }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "GDACS: Green flood alert in Indonesia",
+        "summary": "Green flood alert in Indonesia",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104146",
+        "published_at": "",
+        "metrics": {}
       },
       {
         "domain": "security",
