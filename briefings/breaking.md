@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-09-09T03:49:19+00:00_
+_Generiert: 2026-09-09T03:57:09+00:00_
 
 ## Southeast Asia’s SMEs do not have an AI problem. They have a record problem
 
