@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T23:39:20+00:00",
-  "run_id": "2026-09-09T23:39:20+00:00",
+  "generated_at": "2026-09-09T23:46:53+00:00",
+  "run_id": "2026-09-09T23:46:53+00:00",
   "date": "2026-09-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 126,
     "displayed_findings": 126,
     "high": 1,
@@ -6352,29 +6352,7 @@
       "id": "4d69c64eb8e925ff0aa2"
     }
   ],
-  "new_findings": [
-    {
-      "title": "新型iPhone「高すぎ」「買えない」悲鳴……1台約22～57万円 「換算レート円安すぎ」の声も",
-      "url": "https://www.itmedia.co.jp/news/article/2609/10/2000001343/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-09T22:18:46+00:00",
-      "fetched_at": "2026-09-09T23:38:47+00:00",
-      "summary": "「iPhone18シリーズ、高すぎて買えない」「『Duo』36万超えエグい」「うちの冷蔵庫より高い」…… 米Appleが9月9日（現地時間）に発表した「iPhone 18」シリーズと、折りたたみ型「iPhone Duo」に対し、発表直後からXで「高すぎる」「欲しかったけどとても買えない」といった声が相次いでいる。 日本価格は「18 Pro」が21...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "bc6b555e5aebcb111470"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
