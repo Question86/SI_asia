@@ -49,6 +49,30 @@
     "id": "da4592e5a985a8e69ae3"
   },
   {
+    "title": "[NEU] [hoch] Langflow OSS: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3239",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-09T08:44:17+00:00",
+    "fetched_at": "2026-09-09T08:53:37+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Langflow OSS ausnutzen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, erweiterte Berechtigungen zu erlangen oder sensible Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Open Source",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 17,
+    "relevance_reason": "Security (+6.0); Open Source (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0bc9224700a157a16bb6"
+  },
+  {
     "title": "Southeast Asia’s SMEs do not have an AI problem. They have a record problem",
     "url": "https://e27.co/southeast-asias-smes-do-not-have-an-ai-problem-they-have-a-record-problem-20260908/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -140,6 +164,78 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "9fd09596dba218253563"
+  },
+  {
+    "title": "[NEU] [kritisch] Microsoft Windows: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3243",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-09T08:49:18+00:00",
+    "fetched_at": "2026-09-09T08:53:37+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in verschiedenen Versionen von Microsoft Windows Server, Microsoft Windows 10 und Microsoft Windows 11 ausnutzen, um seine Privilegien zu erhöhen, um einen Denial of Service herbeizuführen, um Informationen offenzulegen und um beliebigen Code auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Microsoft",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6b8e1b9249118239b72a"
+  },
+  {
+    "title": "[NEU] [hoch] Microsoft Entwicklerwerkzeuge: Mehrere Schwachstellen ermöglichen Privilegieneskalation",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3242",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-09T08:49:17+00:00",
+    "fetched_at": "2026-09-09T08:53:37+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in verschiedenen Microsoft Entwicklerwerkzeugen ausnutzen, um seine Privilegien zu erhöhen, um Sicherheitsmechanismen zu umgehen, sowie Informationen zu manipulieren oder offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Microsoft",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "758b882ddb64c5357dc8"
+  },
+  {
+    "title": "[NEU] [hoch] Microsoft Apps: Mehrere Schwachstellen ermöglichen Privilegieneskalation",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3241",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-09T08:49:17+00:00",
+    "fetched_at": "2026-09-09T08:53:37+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft Authenticator und Microsoft Xbox Gaming Services ausnutzen, um seine Privilegien zu erhöhen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Microsoft",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ae7815fe8951976590d0"
   },
   {
     "title": "[NEU] [hoch] Microsoft Office Produkte: Mehrere Schwachstellen",
@@ -359,6 +455,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "9270f5bf508ddcfc0b18"
+  },
+  {
+    "title": "[NEU] [mittel] Insyde UEFI Firmware und Cisco UCS (UEFI Shell Secure Boot): Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3240",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-09T08:44:17+00:00",
+    "fetched_at": "2026-09-09T08:53:37+00:00",
+    "summary": "Ein Angreifer kann eine Schwachstelle in Insyde UEFI Firmware und Cisco Unified Computing System (UCS) ausnutzen, um den UEFI-Secure-Boot zu umgehen, die Pre-Boot-Umgebung zu manipulieren und beliebigen Code auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "858553404411cf5d423c"
   },
   {
     "title": "[NEU] [hoch] Google Chrome: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
@@ -784,6 +903,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "8095eab7d0f2fc70f726"
+  },
+  {
+    "title": "深刻化する“サイバー蝗害”―Linuxカーネルソースに群がる貪欲で超非効率な「AIイナゴ」たち | gihyo.jp",
+    "url": "https://gihyo.jp/article/2026/09/daily-linux-260909",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-09-09T07:12:06+00:00",
+    "fetched_at": "2026-09-09T08:53:37+00:00",
+    "summary": "前回の本コラムでも紹介したように、AIノイズ ―AI/LLMに由来する大量のパッチやバグ報告がLinuxカーネル開発メンテナーたちの労力を増大させており、カーネル開発のサイクルにも影響を及ぼしつつあるが、AIによる負荷に疲弊しているのはメンテナーだけではない。 Linuxカーネルのメインリポジトリ「kernel.org」の管理人...",
+    "matched_keywords": [
+      "AI/KI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b836bc6e2eb9042e0b20"
   },
   {
     "title": "Asia has not opened yet: What will the first bell reveal about Bitcoin and oil?",

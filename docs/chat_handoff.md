@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-09T08:45:50+00:00_
+_Generated: 2026-09-09T08:54:07+00:00_
 
 ## Status
 - status: `normal`
-- findings: `42`
+- findings: `48`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-09-09T08:45:50+00:00_
 - url: https://github.com/coreyhaines31/marketingskills
 - summary: Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. https://marketing-skills.com Marketing Skills for AI Agents A collection of AI agent skills focused on marketing tasks. Built for technical marketers and…
 
-### 2. Southeast Asia’s SMEs do not have an AI problem. They have a record problem
+### 2. [NEU] [hoch] Langflow OSS: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `17`
+- published: `2026-09-09T08:44:17+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3239
+- summary: Ein Angreifer kann mehrere Schwachstellen in Langflow OSS ausnutzen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, erweiterte Berechtigungen zu erlangen oder sensible Informationen offenzulegen.
+
+### 3. Southeast Asia’s SMEs do not have an AI problem. They have a record problem
 - source: e27 Asia Startup and Tech Feed
 - score: `17`
 - published: `2026-09-09T03:30:25+00:00`
 - url: https://e27.co/southeast-asias-smes-do-not-have-an-ai-problem-they-have-a-record-problem-20260908/
 - summary: Last month I sat with the founder of a distribution business in Colombo who wanted to show me his new demand forecasting dashboard. It looked serious. Clean charts, confidence bands, a recommended reorder quantity against every product line. I asked him one q…
 
-### 3. When a slot opens, let the AI agent act – within limits
+### 4. When a slot opens, let the AI agent act – within limits
 - source: e27 Asia Startup and Tech Feed
 - score: `17`
 - published: `2026-09-09T02:00:33+00:00`
 - url: https://e27.co/when-a-slot-opens-let-the-ai-agent-act-within-limits-20260906/
 - summary: AI agents are often discussed in terms of what they can replace. I think a more useful question is what repetitive work they can remove while leaving important decisions with people. Consider a simple appointment problem. A customer needs a consultation next…
-
-### 4. CISA ICS Advisory / ICS Medical Advisory（2026年09月08日）
-- source: JVN Japan Vulnerability Notes
-- score: `16`
-- published: `2026-09-09T10:00:30+09:00`
-- url: https://jvn.jp/vu/JVNVU93257103/
-- summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
 ### 5. Synopsys, A*STAR team up to tackle AI chip packaging challenges
 - source: e27 Asia Startup and Tech Feed
