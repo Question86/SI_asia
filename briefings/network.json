@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-09T17:18:18+00:00",
+  "generated_at": "2026-09-09T17:28:50+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 110,
-    "clusters": 52,
+    "findings": 111,
+    "clusters": 53,
     "cross_source_confrmed": 1,
     "hot": 2,
     "early_signals": 0,
@@ -53,47 +53,6 @@
       "first_seen_at": "2026-06-19T07:39:37+00:00"
     },
     {
-      "key": "domain:www.ecb.europa.eu",
-      "title": "Announcing 20260080 (OT,liquidity providing), for 7 days deadline 09:45",
-      "sources": [
-        "ECB Open Market Operations and Communication",
-        "ECB Press Releases Speeches Interviews"
-      ],
-      "source_classes": [
-        "central_bank",
-        "tier3_specialist"
-      ],
-      "urls": [
-        "http://www.ecb.europa.eu/mopo/implement/omo/html/20260080.en.html",
-        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260909~59a07e6f05.en.html"
-      ],
-      "finding_count": 2,
-      "max_score": 12,
-      "credibility_total": 2.1,
-      "cross_source_confirmed": true,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 27.29,
-      "hot": true,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 25.2,
-      "ranking_score": 27.29,
-      "initial_reach_tier": "institutional",
-      "source_reach_score": 5.0,
-      "authority_bonus_capped": 3.0,
-      "breadth_bonus": 5.5,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 4.29,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-18T14:33:45+00:00"
-    },
-    {
       "key": "github_repo:coreyhaines31/marketingskills",
       "title": "coreyhaines31/marketingskills",
       "sources": [
@@ -134,6 +93,47 @@
       "first_seen_at": "2026-09-09T05:58:16+00:00"
     },
     {
+      "key": "domain:www.ecb.europa.eu",
+      "title": "Announcing 20260080 (OT,liquidity providing), for 7 days deadline 09:45",
+      "sources": [
+        "ECB Open Market Operations and Communication",
+        "ECB Press Releases Speeches Interviews"
+      ],
+      "source_classes": [
+        "central_bank",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "http://www.ecb.europa.eu/mopo/implement/omo/html/20260080.en.html",
+        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260909~59a07e6f05.en.html"
+      ],
+      "finding_count": 2,
+      "max_score": 12,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": true,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 23.48,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 22.2,
+      "ranking_score": 23.48,
+      "initial_reach_tier": "institutional",
+      "source_reach_score": 5.0,
+      "authority_bonus_capped": 3.0,
+      "breadth_bonus": 5.5,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 2.98,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
       "key": "domain:wid.cert-bund.de",
       "title": "[NEU] [niedrig] Fortinet FortiSIEM: Schwachstelle ermöglicht Darstellen falscher Informationen",
       "sources": [
@@ -156,20 +156,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 22.48,
+      "network_score": 21.94,
       "hot": false,
       "watchgraph_modules": [
         "cyber_active_exploitation"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 137.6,
-      "ranking_score": 22.48,
+      "ranking_score": 21.94,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.98,
+      "baseline_bonus": 0.44,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -561,44 +561,6 @@
       "first_seen_at": "2026-09-09T01:02:28+00:00"
     },
     {
-      "key": "domain:www.bsi.bund.de",
-      "title": "Version 1.0: SAP - Kritische Schwachstellen bedrohen verschiedene Anwendungen",
-      "sources": [
-        "BSI CERT-Bund Cyber-Sicherheitswarnungen"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-288588-1032_bits.html"
-      ],
-      "finding_count": 1,
-      "max_score": 12,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 14.53,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 14.1,
-      "ranking_score": 14.53,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 1.03,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-09-02T15:24:15+00:00"
-    },
-    {
       "key": "domain:restofworld.org",
       "title": "Now it’s China’s experts who are gig workers training AI data",
       "sources": [
@@ -715,6 +677,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-09T04:45:52+00:00"
+    },
+    {
+      "key": "domain:www.bsi.bund.de",
+      "title": "Version 1.0: SAP - Kritische Schwachstellen bedrohen verschiedene Anwendungen",
+      "sources": [
+        "BSI CERT-Bund Cyber-Sicherheitswarnungen"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-288588-1032_bits.html"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 14.46,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 14.1,
+      "ranking_score": 14.46,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.96,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-02T15:24:15+00:00"
     },
     {
       "key": "earthquake:philippines:5.0",
@@ -1714,6 +1714,44 @@
       "first_seen_at": "2026-09-09T03:25:57+00:00"
     },
     {
+      "key": "title:block-pull-requests-exposed-secrets-merging",
+      "title": "Block pull requests with exposed secrets from merging",
+      "sources": [
+        "GitHub Changelog Atom"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.blog/changelog/2026-09-09-block-pull-requests-with-exposed-secrets-from-merging"
+      ],
+      "finding_count": 1,
+      "max_score": 3,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 7.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 8.1,
+      "ranking_score": 7.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-09T17:28:50+00:00"
+    },
+    {
       "key": "url:https://zenn.dev/tan_go238/books/project-management-textbook",
       "title": "プロジェクトマネジメントの教科書（内製チーム向け）",
       "sources": [
@@ -2020,7 +2058,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-09T17:18:19Z",
+    "generated_at": "2026-09-09T17:28:50Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

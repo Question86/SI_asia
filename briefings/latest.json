@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T17:18:15+00:00",
-  "run_id": "2026-09-09T17:18:15+00:00",
+  "generated_at": "2026-09-09T17:28:47+00:00",
+  "run_id": "2026-09-09T17:28:47+00:00",
   "date": "2026-09-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 110
+      "configured_public_sources_only": 111
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 110,
-    "displayed_findings": 110,
+    "today_file_total": 111,
+    "displayed_findings": 111,
     "high": 1,
     "medium": 68,
-    "observe": 41,
+    "observe": 42,
     "source_errors": 0
   },
   "sections": {
@@ -2776,6 +2776,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "b5112b2c98a785534192"
+      },
+      {
+        "title": "Block pull requests with exposed secrets from merging",
+        "url": "https://github.blog/changelog/2026-09-09-block-pull-requests-with-exposed-secrets-from-merging",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-09-09T17:14:02+00:00",
+        "fetched_at": "2026-09-09T17:28:20+00:00",
+        "summary": "Repository rulesets allow you to easily add scalable protections across your repositories. Starting today, you can use repository rulesets to block pull requests from merging when the pull request introduces… The post Block pull requests with exposed secrets from merging appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub"
+        ],
+        "relevance_score": 3,
+        "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "4d69c64eb8e925ff0aa2"
       }
     ]
   },
@@ -5524,28 +5544,48 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "b5112b2c98a785534192"
-    }
-  ],
-  "new_findings": [
+    },
     {
-      "title": "Christine Lagarde: The choice facing Europeans",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260909~59a07e6f05.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
+      "title": "Block pull requests with exposed secrets from merging",
+      "url": "https://github.blog/changelog/2026-09-09-block-pull-requests-with-exposed-secrets-from-merging",
+      "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "published_at": "2026-09-09T17:00:00+00:00",
-      "fetched_at": "2026-09-09T17:17:46+00:00",
-      "summary": "Christine Lagarde: The choice facing Europeans",
+      "published_at": "2026-09-09T17:14:02+00:00",
+      "fetched_at": "2026-09-09T17:28:20+00:00",
+      "summary": "Repository rulesets allow you to easily add scalable protections across your repositories. Starting today, you can use repository rulesets to block pull requests from merging when the pull request introduces… The post Block pull requests with exposed secrets from merging appeared first on The GitHub Blog .",
       "matched_keywords": [
-        "Macro/Policy"
+        "GitHub"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "cc6ad6a56f56ad994079"
+      "id": "4d69c64eb8e925ff0aa2"
+    }
+  ],
+  "new_findings": [
+    {
+      "title": "Block pull requests with exposed secrets from merging",
+      "url": "https://github.blog/changelog/2026-09-09-block-pull-requests-with-exposed-secrets-from-merging",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-09-09T17:14:02+00:00",
+      "fetched_at": "2026-09-09T17:28:20+00:00",
+      "summary": "Repository rulesets allow you to easily add scalable protections across your repositories. Starting today, you can use repository rulesets to block pull requests from merging when the pull request introduces… The post Block pull requests with exposed secrets from merging appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4d69c64eb8e925ff0aa2"
     }
   ],
   "source_errors": [],
