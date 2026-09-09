@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-09T03:26:15+00:00",
+  "generated_at": "2026-09-09T03:39:43+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -244,7 +244,7 @@
       "p90_usd": 117600000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-09T02:30:04+00:00",
-      "last_seen_at": "2026-09-09T03:25:57+00:00",
+      "last_seen_at": "2026-09-09T03:39:25+00:00",
       "status": "active"
     },
     {
@@ -364,7 +364,7 @@
       "p90_usd": 110400000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-09T01:02:28+00:00",
-      "last_seen_at": "2026-09-09T03:25:57+00:00",
+      "last_seen_at": "2026-09-09T03:39:25+00:00",
       "status": "active"
     },
     {
@@ -2149,7 +2149,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-09T03:25:57+00:00",
+      "last_seen_at": "2026-09-09T03:39:25+00:00",
       "status": "active"
     },
     {
@@ -2183,7 +2183,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-09T01:02:28+00:00",
-      "last_seen_at": "2026-09-09T03:25:57+00:00",
+      "last_seen_at": "2026-09-09T03:39:25+00:00",
       "status": "active"
     },
     {
@@ -2302,7 +2302,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-09T01:02:28+00:00",
-      "last_seen_at": "2026-09-09T03:25:57+00:00",
+      "last_seen_at": "2026-09-09T03:39:25+00:00",
       "status": "active"
     },
     {
@@ -2319,7 +2319,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-09T01:02:28+00:00",
-      "last_seen_at": "2026-09-09T03:25:57+00:00",
+      "last_seen_at": "2026-09-09T03:39:25+00:00",
       "status": "active"
     },
     {
@@ -2884,6 +2884,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_4d63c766d1a3ce54fc2b",
+      "title": "Southeast Asia’s SMEs do not have an AI problem. They have a record problem",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 117600.0,
+      "p50_usd": 11760000.0,
+      "p90_usd": 1176000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-09T03:39:25+00:00",
+      "last_seen_at": "2026-09-09T03:39:25+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_04dd5841535ba2efa091",
       "title": "WebMCPがアツいので見てほしい | DevelopersIO",
       "event_classes": [
@@ -3016,7 +3033,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-09T01:02:28+00:00",
-      "last_seen_at": "2026-09-09T03:25:57+00:00",
+      "last_seen_at": "2026-09-09T03:39:25+00:00",
       "status": "active"
     },
     {
@@ -3713,7 +3730,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-05T10:46:03+00:00",
-      "last_seen_at": "2026-09-09T03:25:57+00:00",
+      "last_seen_at": "2026-09-09T03:39:25+00:00",
       "status": "active"
     },
     {
@@ -4210,6 +4227,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_1039c884313d4618731b",
+      "title": "Security Alert: Alert Regarding Vulnerabilities in Adobe Acrobat and Reader (APSB26-141)",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112000.0,
+      "p50_usd": 11200000.0,
+      "p90_usd": 1120000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-09T03:25:57+00:00",
+      "last_seen_at": "2026-09-09T03:39:25+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_21845cf162727b8ab0ae",
       "title": "新メンバーが早く馴染むチームビルディング「トリセツ会」 - Techtouch Developers Blog",
       "event_classes": [
@@ -4276,6 +4310,23 @@
       "first_seen_at": "2026-09-02T02:03:01+00:00",
       "last_seen_at": "2026-09-02T05:40:10+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_4b46e3ad78f52ee8a36e",
+      "title": "Security Alert: Microsoft Releases September 2026 Security Updates",
+      "event_classes": [
+        "product_release"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112000.0,
+      "p50_usd": 11200000.0,
+      "p90_usd": 1120000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-09T03:25:57+00:00",
+      "last_seen_at": "2026-09-09T03:39:25+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_5e413be1f7ed3b797641",
@@ -4478,7 +4529,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T22:54:30+00:00",
-      "last_seen_at": "2026-09-09T03:25:57+00:00",
+      "last_seen_at": "2026-09-09T03:39:25+00:00",
       "status": "active"
     },
     {
@@ -4616,40 +4667,6 @@
       "first_seen_at": "2026-09-05T03:23:45+00:00",
       "last_seen_at": "2026-09-05T23:55:24+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_4b46e3ad78f52ee8a36e",
-      "title": "Security Alert: Microsoft Releases September 2026 Security Updates",
-      "event_classes": [
-        "product_release"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 112000.0,
-      "p50_usd": 11200000.0,
-      "p90_usd": 1120000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-09T03:25:57+00:00",
-      "last_seen_at": "2026-09-09T03:25:57+00:00",
-      "status": "active"
-    },
-    {
-      "event_id": "evt_1039c884313d4618731b",
-      "title": "Security Alert: Alert Regarding Vulnerabilities in Adobe Acrobat and Reader (APSB26-141)",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 112000.0,
-      "p50_usd": 11200000.0,
-      "p90_usd": 1120000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-09T03:25:57+00:00",
-      "last_seen_at": "2026-09-09T03:25:57+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_43856848b80264610146",
@@ -5005,7 +5022,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-09T01:32:18+00:00",
-      "last_seen_at": "2026-09-09T03:25:57+00:00",
+      "last_seen_at": "2026-09-09T03:39:25+00:00",
       "status": "active"
     },
     {
@@ -5107,7 +5124,7 @@
       "p90_usd": 1096000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-09T02:46:27+00:00",
-      "last_seen_at": "2026-09-09T03:25:57+00:00",
+      "last_seen_at": "2026-09-09T03:39:25+00:00",
       "status": "active"
     },
     {
@@ -5279,6 +5296,23 @@
       "first_seen_at": "2026-09-07T06:44:15+00:00",
       "last_seen_at": "2026-09-07T06:44:15+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_3f701013340eb030b8e8",
+      "title": "Enterprise-managed sandbox in Copilot for JetBrains",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108800.0,
+      "p50_usd": 10880000.0,
+      "p90_usd": 1088000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-09T03:25:57+00:00",
+      "last_seen_at": "2026-09-09T03:39:25+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_46ad72fcf2259d7d169d",
@@ -5706,23 +5740,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_3f701013340eb030b8e8",
-      "title": "Enterprise-managed sandbox in Copilot for JetBrains",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108800.0,
-      "p50_usd": 10880000.0,
-      "p90_usd": 1088000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-09T03:25:57+00:00",
-      "last_seen_at": "2026-09-09T03:25:57+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_02008879feb3a26196bb",
       "title": ".gitignore everything by default",
       "event_classes": [
@@ -6008,7 +6025,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T12:58:27+00:00",
-      "last_seen_at": "2026-09-09T03:25:57+00:00",
+      "last_seen_at": "2026-09-09T03:39:25+00:00",
       "status": "active"
     },
     {
@@ -6348,7 +6365,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-09T01:02:28+00:00",
-      "last_seen_at": "2026-09-09T03:25:57+00:00",
+      "last_seen_at": "2026-09-09T03:39:25+00:00",
       "status": "active"
     },
     {
@@ -6382,7 +6399,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-09T01:02:28+00:00",
-      "last_seen_at": "2026-09-09T03:25:57+00:00",
+      "last_seen_at": "2026-09-09T03:39:25+00:00",
       "status": "active"
     },
     {
@@ -6569,7 +6586,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-09T00:15:03+00:00",
-      "last_seen_at": "2026-09-09T03:25:57+00:00",
+      "last_seen_at": "2026-09-09T03:39:25+00:00",
       "status": "active"
     },
     {
