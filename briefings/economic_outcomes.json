@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-09T18:42:46+00:00",
+  "generated_at": "2026-09-09T18:58:09+00:00",
   "events": [
     {
       "event_id": "evt_02008879feb3a26196bb",
@@ -2150,13 +2150,13 @@
     {
       "event_id": "evt_728175d4a33061652d12",
       "title": "M 4.6 - 295 km WNW of Houma, Tonga",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_72879edabd2cf6f632a5",
@@ -2970,7 +2970,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_9e1f7525a1252e1ceda8",
