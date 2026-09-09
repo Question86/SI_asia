@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-09T03:01:48+00:00",
+  "generated_at": "2026-09-09T03:26:27+00:00",
   "events": [
     {
       "event_id": "evt_02008879feb3a26196bb",
@@ -243,6 +243,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_1039c884313d4618731b",
+      "title": "Security Alert: Alert Regarding Vulnerabilities in Adobe Acrobat and Reader (APSB26-141)",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_121386751889bcbabd52",
@@ -927,6 +938,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_3f701013340eb030b8e8",
+      "title": "Enterprise-managed sandbox in Copilot for JetBrains",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_402e7f622a6ab4b9a85a",
       "title": "blader/humanizer",
       "deduplicated_buckets": 0,
@@ -1145,6 +1167,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_4b46e3ad78f52ee8a36e",
+      "title": "Security Alert: Microsoft Releases September 2026 Security Updates",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_4c68b46634dc8a2dccd8",
@@ -3245,7 +3278,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_b8c7059526a8cbc30fae",
