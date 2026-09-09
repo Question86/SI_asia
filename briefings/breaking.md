@@ -1,10 +1,10 @@
 # Senna Breaking
 
-_Generiert: 2026-09-09T11:18:34+00:00_
+_Generiert: 2026-09-09T11:29:31+00:00_
 
 ## September-Patchday: Adobe schließt kritische Zero-Day-Lücke und 172 weitere
 
-- Ranking Score: `32.37`
+- Ranking Score: `32.34`
 - Raw Network Score: `30.3`
 - Max Monitor Score: `24`
 - Reichweite: `specialist` / `2.5`

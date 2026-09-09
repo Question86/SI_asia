@@ -238,6 +238,66 @@
     "id": "48bbdb2f7f935a2beed7"
   },
   {
+    "title": "[NEU] [hoch] Microsoft SQL Server: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3271",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-09T11:19:17+00:00",
+    "fetched_at": "2026-09-09T11:28:57+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft SQL Server 2017, SQL Server 2019 und SQL Server 2022 ausnutzen, um seine Berechtigungen zu erweitern – unter anderem auf SQL-Sysadmin- oder SYSTEM-Rechte –, beliebigen Code auszuführen, vertrauliche Informationen offenzulegen, einen Denial-of-Service-Zustand auszulösen und Sicherheitsmaßnahmen zu umgehen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Microsoft",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7254e7fb8eaf36ad7c06"
+  },
+  {
+    "title": "[NEU] [hoch] Ivanti Endpoint Manager Mobile: Schwachstelle ermöglicht Erlangen von Administratorrechten",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3270",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-09T11:19:17+00:00",
+    "fetched_at": "2026-09-09T11:28:57+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Ivanti Endpoint Manager Mobile ausnutzen, um Administratorrechte zu erlangen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security",
+      "Watchgraph:cyber_active_exploitation"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "cyber_active_exploitation"
+    ],
+    "watchgraph_reasons": [
+      "cyber_active_exploitation: Ivanti"
+    ],
+    "market_context": [
+      "CRWD",
+      "PANW",
+      "FTNT",
+      "ZS",
+      "OKTA",
+      "NET",
+      "S"
+    ],
+    "id": "d9a24c7e4274eec2299a"
+  },
+  {
     "title": "[NEU] [hoch] Ivanti Sentry: Schwachstelle ermöglicht Erlangen von Administratorrechten",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3269",
     "source": "BSI CERT-Bund Security Advisories",
@@ -748,6 +808,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "244d48ebb627ae1aaaff"
+  },
+  {
+    "title": "[UPDATE] [kritisch] N-able N-Central: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3205",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-09T11:19:17+00:00",
+    "fetched_at": "2026-09-09T11:28:57+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in N-able N-Central ausnutzen, um Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen oder Code auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "75758e815c7bf22ae3cb"
   },
   {
     "title": "[UPDATE] [mittel] Bruno: Schwachstelle ermöglicht Offenlegung von Informationen",
@@ -1959,6 +2042,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "06106dab9d698cca7e4e"
+  },
+  {
+    "title": "「AIでなくなる仕事」ビル・ゲイツが明言 いま始まる“人間の仕事”争奪戦",
+    "url": "https://news.tv-asahi.co.jp/news_international/articles/900199131.html",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-09-09T04:59:29+00:00",
+    "fetched_at": "2026-09-09T11:28:57+00:00",
+    "summary": "米マイクロソフト創業者のビル・ゲイツ氏が、自身のウェブサイトで公開した論考が大きな話題を呼んでいる。 タイトルは「激動のAI時代が到来。我々がいま下すべき重要な選択」というもの。 AIについて長年、その可能性を前向きに語ってきたゲイツ氏が、今回は一転、AIがもたらす将来への危機感をあらわにしている。AIに...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "348c458ead3aa58cea48"
   },
   {
     "title": "“地下神殿”への濁流動画をダウンロード公開 Xでの反響受け……「首都圏外郭放水路」に称賛",
