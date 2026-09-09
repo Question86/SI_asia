@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-09T01:02:28+00:00",
+  "generated_at": "2026-09-09T01:32:18+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -2754,7 +2754,7 @@
     },
     "title:cisa-ics-advisory-ics-medical-advisory-2026": {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月08日）",
-      "updated_at": "2026-09-09T01:02:28+00:00",
+      "updated_at": "2026-09-09T01:32:18+00:00",
       "network_scores": [
         18.1,
         18.1,
@@ -2784,13 +2784,13 @@
         18.1,
         18.1,
         18.1,
-        18.1,
-        21.1
+        21.1,
+        18.1
       ],
       "rolling_average": 18.2,
       "rolling_peak": 21.1,
-      "last_score": 21.1,
-      "z_hint": 2.9
+      "last_score": 18.1,
+      "z_hint": -0.1
     },
     "github_repo:universal-debloater-alliance/universal-android-debloater-next-generation": {
       "title": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
@@ -23481,7 +23481,80 @@
     },
     "title:amazon-linux-amazon-linux-2027-selinux": {
       "title": "Amazon Linuxが4年ぶりにメジャーバージョンアップ、「Amazon Linux 2027」パブリックプレビュー。SELinuxがデフォルトで強制モードに",
-      "updated_at": "2026-09-09T01:02:28+00:00",
+      "updated_at": "2026-09-09T01:32:18+00:00",
+      "network_scores": [
+        10.1,
+        7.1,
+        7.1
+      ],
+      "rolling_average": 8.1,
+      "rolling_peak": 10.1,
+      "last_score": 7.1,
+      "z_hint": -1.0
+    },
+    "title:gen-doesn-need-more-courses-needs-skills-can": {
+      "title": "Gen Z doesn’t need more AI courses, it needs the skills AI can’t replicate",
+      "updated_at": "2026-09-09T01:32:18+00:00",
+      "network_scores": [
+        21.1,
+        18.1
+      ],
+      "rolling_average": 19.6,
+      "rolling_peak": 21.1,
+      "last_score": 18.1,
+      "z_hint": -1.5
+    },
+    "title:spi-flash-uefi-shell": {
+      "title": "SPI Flashに組み込まれたUEFI Shellモジュールにおけるセキュアブート回避の脆弱性",
+      "updated_at": "2026-09-09T01:32:18+00:00",
+      "network_scores": [
+        19.1,
+        16.1
+      ],
+      "rolling_average": 17.6,
+      "rolling_peak": 19.1,
+      "last_score": 16.1,
+      "z_hint": -1.5
+    },
+    "title:ascensio-system-sia-onlyoffice-owncloud": {
+      "title": "Ascensio System SIA製ONLYOFFICE ownCloud統合プラグインにおけるサーバサイドリクエストフォージェリの脆弱性",
+      "updated_at": "2026-09-09T01:32:18+00:00",
+      "network_scores": [
+        19.1,
+        16.1
+      ],
+      "rolling_average": 17.6,
+      "rolling_peak": 19.1,
+      "last_score": 16.1,
+      "z_hint": -1.5
+    },
+    "title:skullcandy-dime": {
+      "title": "Skullcandy製ワイヤレスイヤホン「Dime 3」における不適切な認証の脆弱性",
+      "updated_at": "2026-09-09T01:32:18+00:00",
+      "network_scores": [
+        19.1,
+        16.1
+      ],
+      "rolling_average": 17.6,
+      "rolling_peak": 19.1,
+      "last_score": 16.1,
+      "z_hint": -1.5
+    },
+    "url:https://www.digital.go.jp/councils/digital-talent-development-policy/ff566760-278e-47da-8454-b25c40912fcb": {
+      "title": "今後のデジタル人材育成政策に関する検討会（第1回）の議事次第および資料を掲載しました",
+      "updated_at": "2026-09-09T01:32:18+00:00",
+      "network_scores": [
+        13.1,
+        10.1
+      ],
+      "rolling_average": 11.6,
+      "rolling_peak": 13.1,
+      "last_score": 10.1,
+      "z_hint": -1.5
+    },
+    "url:https://www.itmedia.co.jp/news/article/2609/09/2000001297/": {
+      "title": "“地下神殿”への濁流動画をダウンロード公開 Xでの反響受け……「首都圏外郭放水路」に称賛",
+      "updated_at": "2026-09-09T01:32:18+00:00",
       "network_scores": [
         10.1,
         7.1
@@ -23491,81 +23564,27 @@
       "last_score": 7.1,
       "z_hint": -1.5
     },
-    "title:gen-doesn-need-more-courses-needs-skills-can": {
-      "title": "Gen Z doesn’t need more AI courses, it needs the skills AI can’t replicate",
-      "updated_at": "2026-09-09T01:02:28+00:00",
+    "title:tech": {
+      "title": "Techはすぐに追ったほうがいい",
+      "updated_at": "2026-09-09T01:32:18+00:00",
       "network_scores": [
-        21.1
+        10.1,
+        7.1
       ],
-      "rolling_average": 21.1,
-      "rolling_peak": 21.1,
-      "last_score": 21.1,
-      "z_hint": 0.0
+      "rolling_average": 8.6,
+      "rolling_peak": 10.1,
+      "last_score": 7.1,
+      "z_hint": -1.5
     },
-    "title:spi-flash-uefi-shell": {
-      "title": "SPI Flashに組み込まれたUEFI Shellモジュールにおけるセキュアブート回避の脆弱性",
-      "updated_at": "2026-09-09T01:02:28+00:00",
-      "network_scores": [
-        19.1
-      ],
-      "rolling_average": 19.1,
-      "rolling_peak": 19.1,
-      "last_score": 19.1,
-      "z_hint": 0.0
-    },
-    "title:ascensio-system-sia-onlyoffice-owncloud": {
-      "title": "Ascensio System SIA製ONLYOFFICE ownCloud統合プラグインにおけるサーバサイドリクエストフォージェリの脆弱性",
-      "updated_at": "2026-09-09T01:02:28+00:00",
-      "network_scores": [
-        19.1
-      ],
-      "rolling_average": 19.1,
-      "rolling_peak": 19.1,
-      "last_score": 19.1,
-      "z_hint": 0.0
-    },
-    "title:skullcandy-dime": {
-      "title": "Skullcandy製ワイヤレスイヤホン「Dime 3」における不適切な認証の脆弱性",
-      "updated_at": "2026-09-09T01:02:28+00:00",
-      "network_scores": [
-        19.1
-      ],
-      "rolling_average": 19.1,
-      "rolling_peak": 19.1,
-      "last_score": 19.1,
-      "z_hint": 0.0
-    },
-    "url:https://www.digital.go.jp/councils/digital-talent-development-policy/ff566760-278e-47da-8454-b25c40912fcb": {
-      "title": "今後のデジタル人材育成政策に関する検討会（第1回）の議事次第および資料を掲載しました",
-      "updated_at": "2026-09-09T01:02:28+00:00",
+    "title:most-valuable-part-may-not-model": {
+      "title": "The most valuable part of AI may not be the model",
+      "updated_at": "2026-09-09T01:32:18+00:00",
       "network_scores": [
         13.1
       ],
       "rolling_average": 13.1,
       "rolling_peak": 13.1,
       "last_score": 13.1,
-      "z_hint": 0.0
-    },
-    "url:https://www.itmedia.co.jp/news/article/2609/09/2000001297/": {
-      "title": "“地下神殿”への濁流動画をダウンロード公開 Xでの反響受け……「首都圏外郭放水路」に称賛",
-      "updated_at": "2026-09-09T01:02:28+00:00",
-      "network_scores": [
-        10.1
-      ],
-      "rolling_average": 10.1,
-      "rolling_peak": 10.1,
-      "last_score": 10.1,
-      "z_hint": 0.0
-    },
-    "title:tech": {
-      "title": "Techはすぐに追ったほうがいい",
-      "updated_at": "2026-09-09T01:02:28+00:00",
-      "network_scores": [
-        10.1
-      ],
-      "rolling_average": 10.1,
-      "rolling_peak": 10.1,
-      "last_score": 10.1,
       "z_hint": 0.0
     }
   }

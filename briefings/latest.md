@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-09T01:02:26+00:00_
+_Generiert: 2026-09-09T01:32:13+00:00_
 
 ## Kurzlage
 
-9 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月08日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+10 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月08日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -92,6 +92,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **The most valuable part of AI may not be the model** — Score 8, observation — [Quelle](https://e27.co/the-most-valuable-part-of-ai-may-not-be-the-model-20260908/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-09T01:30:08+00:00`, fetched `2026-09-09T01:31:43+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: Throughout 2026, Claude users repeatedly reported the same practical failure: workflows that had worked reliably stopped working, long sessions lost their thread, and instruction-following became less dependable. The complaints did not arrive as a smooth decline. They came in bursts. Users would suddenly report that a coding workflow had become unreliable, that a long-running process […] The post The most valuable p…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **今後のデジタル人材育成政策に関する検討会（第1回）の議事次第および資料を掲載しました** — Score 8, observation — [Quelle](https://www.digital.go.jp/councils/digital-talent-development-policy/ff566760-278e-47da-8454-b25c40912fcb)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-09-09T00:30:01+00:00`, fetched `2026-09-09T01:01:57+00:00`

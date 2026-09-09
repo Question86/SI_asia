@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T01:02:26+00:00",
-  "run_id": "2026-09-09T01:02:26+00:00",
+  "generated_at": "2026-09-09T01:32:13+00:00",
+  "run_id": "2026-09-09T01:32:13+00:00",
   "date": "2026-09-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 9
+      "configured_public_sources_only": 10
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 8,
-    "today_file_total": 9,
-    "displayed_findings": 9,
+    "new_relevant_findings": 1,
+    "today_file_total": 10,
+    "displayed_findings": 10,
     "high": 0,
     "medium": 5,
-    "observe": 4,
+    "observe": 5,
     "source_errors": 0
   },
   "sections": {
@@ -142,6 +142,27 @@
       }
     ],
     "observe": [
+      {
+        "title": "The most valuable part of AI may not be the model",
+        "url": "https://e27.co/the-most-valuable-part-of-ai-may-not-be-the-model-20260908/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-09T01:30:08+00:00",
+        "fetched_at": "2026-09-09T01:31:43+00:00",
+        "summary": "Throughout 2026, Claude users repeatedly reported the same practical failure: workflows that had worked reliably stopped working, long sessions lost their thread, and instruction-following became less dependable. The complaints did not arrive as a smooth decline. They came in bursts. Users would suddenly report that a coding workflow had become unreliable, that a long-running process […] The post The most valuable p…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0c6ae38fe0634c5fc0f2"
+      },
       {
         "title": "今後のデジタル人材育成政策に関する検討会（第1回）の議事次第および資料を掲載しました",
         "url": "https://www.digital.go.jp/councils/digital-talent-development-policy/ff566760-278e-47da-8454-b25c40912fcb",
@@ -341,6 +362,27 @@
       "id": "9270f5bf508ddcfc0b18"
     },
     {
+      "title": "The most valuable part of AI may not be the model",
+      "url": "https://e27.co/the-most-valuable-part-of-ai-may-not-be-the-model-20260908/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-09T01:30:08+00:00",
+      "fetched_at": "2026-09-09T01:31:43+00:00",
+      "summary": "Throughout 2026, Claude users repeatedly reported the same practical failure: workflows that had worked reliably stopped working, long sessions lost their thread, and instruction-following became less dependable. The complaints did not arrive as a smooth decline. They came in bursts. Users would suddenly report that a coding workflow had become unreliable, that a long-running process […] The post The most valuable p…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0c6ae38fe0634c5fc0f2"
+    },
+    {
       "title": "今後のデジタル人材育成政策に関する検討会（第1回）の議事次第および資料を掲載しました",
       "url": "https://www.digital.go.jp/councils/digital-talent-development-policy/ff566760-278e-47da-8454-b25c40912fcb",
       "source": "Japan Digital Agency News RSS",
@@ -427,178 +469,25 @@
   ],
   "new_findings": [
     {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月08日）",
-      "url": "https://jvn.jp/vu/JVNVU93257103/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-09-09T10:00:30+09:00",
-      "fetched_at": "2026-09-09T01:01:57+00:00",
-      "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
-      "matched_keywords": [
-        "advisory",
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9fd09596dba218253563"
-    },
-    {
-      "title": "Gen Z doesn’t need more AI courses, it needs the skills AI can’t replicate",
-      "url": "https://e27.co/gen-z-doesnt-need-more-ai-courses-it-needs-the-skills-ai-cant-replicate-20260908/",
+      "title": "The most valuable part of AI may not be the model",
+      "url": "https://e27.co/the-most-valuable-part-of-ai-may-not-be-the-model-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-09-09T01:00:39+00:00",
-      "fetched_at": "2026-09-09T01:01:57+00:00",
-      "summary": "In April 2026, the United States announced 83,387 job cuts. 26 per cent of them named artificial intelligence as the reason, the second consecutive month that AI was the top cited cause. Behind those numbers is a quieter story that is going to shape an entire generation of careers. Stanford economists Erik Brynjolfsson, Bharat Chandar, […] The post Gen Z doesn’t need more AI courses, it needs the skills AI can’t rep…",
+      "published_at": "2026-09-09T01:30:08+00:00",
+      "fetched_at": "2026-09-09T01:31:43+00:00",
+      "summary": "Throughout 2026, Claude users repeatedly reported the same practical failure: workflows that had worked reliably stopped working, long sessions lost their thread, and instruction-following became less dependable. The complaints did not arrive as a smooth decline. They came in bursts. Users would suddenly report that a coding workflow had become unreliable, that a long-running process […] The post The most valuable p…",
       "matched_keywords": [
-        "AI Agents",
         "AI/KI",
         "APAC Trend Radar"
       ],
-      "relevance_score": 16,
-      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: United States (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9af61de1b26c6b074497"
-    },
-    {
-      "title": "SPI Flashに組み込まれたUEFI Shellモジュールにおけるセキュアブート回避の脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU94974158/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-09-09T10:00:20+09:00",
-      "fetched_at": "2026-09-09T01:01:57+00:00",
-      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "69a64ecd5a5280f65cf1"
-    },
-    {
-      "title": "Ascensio System SIA製ONLYOFFICE ownCloud統合プラグインにおけるサーバサイドリクエストフォージェリの脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU94533753/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-09-09T10:00:10+09:00",
-      "fetched_at": "2026-09-09T01:01:57+00:00",
-      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "22762df4c474c630c5e9"
-    },
-    {
-      "title": "Skullcandy製ワイヤレスイヤホン「Dime 3」における不適切な認証の脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU91877671/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-09-09T10:00:00+09:00",
-      "fetched_at": "2026-09-09T01:01:57+00:00",
-      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9270f5bf508ddcfc0b18"
-    },
-    {
-      "title": "今後のデジタル人材育成政策に関する検討会（第1回）の議事次第および資料を掲載しました",
-      "url": "https://www.digital.go.jp/councils/digital-talent-development-policy/ff566760-278e-47da-8454-b25c40912fcb",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-09-09T00:30:01+00:00",
-      "fetched_at": "2026-09-09T01:01:57+00:00",
-      "summary": "今後のデジタル人材育成政策に関する検討会（第1回）の議事次第および資料を掲載しました",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "policy"
-      ],
       "relevance_score": 8,
-      "relevance_reason": "APAC Trend Radar (+3.0); policy (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "d70aaffe76990cb56e2a"
-    },
-    {
-      "title": "“地下神殿”への濁流動画をダウンロード公開 Xでの反響受け……「首都圏外郭放水路」に称賛",
-      "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001297/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-08T23:38:37+00:00",
-      "fetched_at": "2026-09-09T01:01:57+00:00",
-      "summary": "首都圏外郭放水路は、地下約50mを通る世界最大級の地下放水路。周辺の中小河川が増水した際に立坑から水を取り込み、、地下トンネルを通じて調圧水槽へ送り、ポンプで江戸川に排水することで浸水被害を軽減する。 元の動画は7日に投稿したもの。施設内の監視カメラの映像をつないだ46秒の動画で、春日部市内を流れる倉松...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b7df4a50fb1b76963270"
-    },
-    {
-      "title": "Techはすぐに追ったほうがいい",
-      "url": "https://zenn.dev/myuron/articles/3c09e7e697d9de",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-08T14:20:07+00:00",
-      "fetched_at": "2026-09-09T01:01:57+00:00",
-      "summary": "はじめに このブログはTechに関する思想です。 興味があれば続きを覗いてみてください。 Techって面白い 私はターミナルが好きだ。テキストエディタも好きだ。特にNeovimが好きだ。 私はインフラエンジニアなので、Vimは日常的に使っていたが、普通に使いづらいと思っていたし、矢印キーを多用していたのでVimmerなんて...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b5112b2c98a785534192"
+      "id": "0c6ae38fe0634c5fc0f2"
     }
   ],
   "source_errors": [],
