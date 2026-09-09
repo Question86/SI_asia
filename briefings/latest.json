@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T22:30:15+00:00",
-  "run_id": "2026-09-09T22:30:15+00:00",
+  "generated_at": "2026-09-09T22:39:54+00:00",
+  "run_id": "2026-09-09T22:39:54+00:00",
   "date": "2026-09-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 123
+      "configured_public_sources_only": 124
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 123,
-    "displayed_findings": 123,
+    "today_file_total": 124,
+    "displayed_findings": 124,
     "high": 1,
     "medium": 71,
-    "observe": 51,
+    "observe": 52,
     "source_errors": 0
   },
   "sections": {
@@ -2896,6 +2896,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "50d8ee20170600e892ef"
+      },
+      {
+        "title": "iPhoneの「Pro」シリーズが大幅値上げ、昨年比較で最低4万円・最大12万円",
+        "url": "https://k-tai.watch.impress.co.jp/docs/news/2139677.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-09T19:48:22+00:00",
+        "fetched_at": "2026-09-09T22:39:22+00:00",
+        "summary": "iPhoneの「Pro」シリーズが大幅値上げ、昨年比較で最低4万円・最大12万円",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "06426907a6521b94b147"
       },
       {
         "title": "「iPhone 18」は発表されず。メモリ高騰が影響か",
@@ -5996,6 +6017,27 @@
       "id": "50d8ee20170600e892ef"
     },
     {
+      "title": "iPhoneの「Pro」シリーズが大幅値上げ、昨年比較で最低4万円・最大12万円",
+      "url": "https://k-tai.watch.impress.co.jp/docs/news/2139677.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-09T19:48:22+00:00",
+      "fetched_at": "2026-09-09T22:39:22+00:00",
+      "summary": "iPhoneの「Pro」シリーズが大幅値上げ、昨年比較で最低4万円・最大12万円",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "06426907a6521b94b147"
+    },
+    {
       "title": "「iPhone 18」は発表されず。メモリ高騰が影響か",
       "url": "https://pc.watch.impress.co.jp/docs/news/2139681.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -6228,13 +6270,13 @@
   ],
   "new_findings": [
     {
-      "title": "「iPhone 18」は発表されず。メモリ高騰が影響か",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2139681.html",
+      "title": "iPhoneの「Pro」シリーズが大幅値上げ、昨年比較で最低4万円・最大12万円",
+      "url": "https://k-tai.watch.impress.co.jp/docs/news/2139677.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-09T19:20:23+00:00",
-      "fetched_at": "2026-09-09T22:29:44+00:00",
-      "summary": "「iPhone 18」は発表されず。メモリ高騰が影響か",
+      "published_at": "2026-09-09T19:48:22+00:00",
+      "fetched_at": "2026-09-09T22:39:22+00:00",
+      "summary": "iPhoneの「Pro」シリーズが大幅値上げ、昨年比較で最低4万円・最大12万円",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -6246,7 +6288,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "e6c1520da667978da347"
+      "id": "06426907a6521b94b147"
     }
   ],
   "source_errors": [],

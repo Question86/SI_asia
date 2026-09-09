@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-09T22:30:18+00:00",
+  "generated_at": "2026-09-09T22:39:57+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 123,
-    "clusters": 64,
+    "findings": 124,
+    "clusters": 65,
     "cross_source_confrmed": 1,
-    "hot": 2,
-    "early_signals": 1,
+    "hot": 1,
+    "early_signals": 0,
     "dominance_penalized": 8
   },
   "clusters": [
@@ -51,44 +51,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-06-19T07:39:37+00:00"
-    },
-    {
-      "key": "title:codeql-adds-support-linux-arm64",
-      "title": "CodeQL 2.27.0 adds support for Linux ARM64",
-      "sources": [
-        "GitHub Changelog Atom"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://github.blog/changelog/2026-09-09-codeql-2-27-0-adds-support-for-linux-arm64"
-      ],
-      "finding_count": 1,
-      "max_score": 18,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 25.0,
-      "hot": true,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
-      "raw_network_score": 20.1,
-      "ranking_score": 25.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-09-09T22:11:16+00:00"
     },
     {
       "key": "github_repo:coreyhaines31/marketingskills",
@@ -149,18 +111,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 21.99,
+      "network_score": 22.01,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 24.2,
-      "ranking_score": 21.99,
+      "ranking_score": 22.01,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.49,
+      "baseline_bonus": 0.51,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -235,18 +197,18 @@
       "cross_source_confirmed": true,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 20.68,
+      "network_score": 20.57,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 22.2,
-      "ranking_score": 20.68,
+      "ranking_score": 20.57,
       "initial_reach_tier": "institutional",
       "source_reach_score": 5.0,
       "authority_bonus_capped": 3.0,
       "breadth_bonus": 5.5,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.18,
+      "baseline_bonus": 0.07,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -254,6 +216,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "title:codeql-adds-support-linux-arm64",
+      "title": "CodeQL 2.27.0 adds support for Linux ARM64",
+      "sources": [
+        "GitHub Changelog Atom"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.blog/changelog/2026-09-09-codeql-2-27-0-adds-support-for-linux-arm64"
+      ],
+      "finding_count": 1,
+      "max_score": 18,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 19.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 20.1,
+      "ranking_score": 19.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-09T22:11:16+00:00"
     },
     {
       "key": "title:southeast-asia-smes-not-have-problem-they-have",
@@ -1677,8 +1677,8 @@
       "first_seen_at": "2026-09-09T13:42:48+00:00"
     },
     {
-      "key": "title:iphone",
-      "title": "「iPhone 18」は発表されず。メモリ高騰が影響か",
+      "key": "title:iphone-pro",
+      "title": "iPhoneの「Pro」シリーズが大幅値上げ、昨年比較で最低4万円・最大12万円",
       "sources": [
         "Hatena Bookmark Hotentry IT"
       ],
@@ -1686,7 +1686,7 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://pc.watch.impress.co.jp/docs/news/2139681.html"
+        "https://k-tai.watch.impress.co.jp/docs/news/2139677.html"
       ],
       "finding_count": 1,
       "max_score": 5,
@@ -1712,7 +1712,7 @@
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-09-09T22:30:18+00:00"
+      "first_seen_at": "2026-09-09T22:39:57+00:00"
     },
     {
       "key": "title:thailand-mobility-future-will-decided-data-not-just",
@@ -2110,6 +2110,44 @@
       "first_seen_at": "2026-09-09T03:25:57+00:00"
     },
     {
+      "key": "title:iphone",
+      "title": "「iPhone 18」は発表されず。メモリ高騰が影響か",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://pc.watch.impress.co.jp/docs/news/2139681.html"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 6.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 7.1,
+      "ranking_score": 6.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-09T22:30:18+00:00"
+    },
+    {
       "key": "title:iphone-duo-apple",
       "title": "「iPhone Duo」ついに登場。Apple初7.6型折りたたみで36万円強",
       "sources": [
@@ -2492,7 +2530,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-09T22:30:18Z",
+    "generated_at": "2026-09-09T22:39:58Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
