@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T09:01:46+00:00",
-  "run_id": "2026-09-09T09:01:46+00:00",
+  "generated_at": "2026-09-09T09:24:46+00:00",
+  "run_id": "2026-09-09T09:24:46+00:00",
   "date": "2026-09-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 53
+      "configured_public_sources_only": 56
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 5,
-    "today_file_total": 53,
-    "displayed_findings": 53,
+    "new_relevant_findings": 3,
+    "today_file_total": 56,
+    "displayed_findings": 56,
     "high": 0,
-    "medium": 31,
-    "observe": 22,
+    "medium": 33,
+    "observe": 23,
     "source_errors": 0
   },
   "sections": {
@@ -485,6 +485,52 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "9270f5bf508ddcfc0b18"
+      },
+      {
+        "title": "[NEU] [hoch] Adobe ColdFusion: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3250",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-09T08:59:17+00:00",
+        "fetched_at": "2026-09-09T09:24:15+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Adobe ColdFusion ausnutzen, um beliebigen Programmcode auszuführen, Berechtigungen zu erweitern, Daten offenzulegen oder zu manipulieren, Cross-Site-Scripting-Angriffe durchzuführen oder einen Denial-of-Service-Zustand zu verursachen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "33afd4cde6096b6fee5a"
+      },
+      {
+        "title": "[NEU] [hoch] Adobe Acrobat und Acrobat Reader: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3249",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-09T08:59:17+00:00",
+        "fetched_at": "2026-09-09T09:24:15+00:00",
+        "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Adobe Acrobat und Adobe Acrobat Reader ausnutzen, um beliebigen Code auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand zu verursachen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1d71ea051ef5e66bda78"
       },
       {
         "title": "[NEU] [hoch] Xen: Mehrere Schwachstellen",
@@ -1028,6 +1074,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "aea66c6b3bd724453312"
+      },
+      {
+        "title": "SEA’s AI boom has a water problem it cannot offset away",
+        "url": "https://e27.co/seas-ai-boom-has-a-water-problem-it-cannot-offset-away-20260909/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-09T09:10:42+00:00",
+        "fetched_at": "2026-09-09T09:24:15+00:00",
+        "summary": "Every hyperscaler courting Southeast Asia now performs the same reassurance ritual. Ask Microsoft, Google, or AWS about the environmental cost of the data centres they are racing to build across the region, and the answer arrives pre-packaged: efficient cooling, renewable offsets, and community engagement. Worse, tech giants have even started telling reporters that their facilities […] The post SEA’s AI boom has a w…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Southeast Asia"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "33ad580ff9376156bf9f"
       },
       {
         "title": "ロボットが私にパンチの威嚇 技術の祭典で感じた「暴力」を賛美する危うさ",
@@ -1783,6 +1851,52 @@
       "id": "9270f5bf508ddcfc0b18"
     },
     {
+      "title": "[NEU] [hoch] Adobe ColdFusion: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3250",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-09T08:59:17+00:00",
+      "fetched_at": "2026-09-09T09:24:15+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Adobe ColdFusion ausnutzen, um beliebigen Programmcode auszuführen, Berechtigungen zu erweitern, Daten offenzulegen oder zu manipulieren, Cross-Site-Scripting-Angriffe durchzuführen oder einen Denial-of-Service-Zustand zu verursachen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "33afd4cde6096b6fee5a"
+    },
+    {
+      "title": "[NEU] [hoch] Adobe Acrobat und Acrobat Reader: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3249",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-09T08:59:17+00:00",
+      "fetched_at": "2026-09-09T09:24:15+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Adobe Acrobat und Adobe Acrobat Reader ausnutzen, um beliebigen Code auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand zu verursachen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1d71ea051ef5e66bda78"
+    },
+    {
       "title": "[NEU] [hoch] Xen: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3248",
       "source": "BSI CERT-Bund Security Advisories",
@@ -2324,6 +2438,28 @@
       "id": "aea66c6b3bd724453312"
     },
     {
+      "title": "SEA’s AI boom has a water problem it cannot offset away",
+      "url": "https://e27.co/seas-ai-boom-has-a-water-problem-it-cannot-offset-away-20260909/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-09T09:10:42+00:00",
+      "fetched_at": "2026-09-09T09:24:15+00:00",
+      "summary": "Every hyperscaler courting Southeast Asia now performs the same reassurance ritual. Ask Microsoft, Google, or AWS about the environmental cost of the data centres they are racing to build across the region, and the answer arrives pre-packaged: efficient cooling, renewable offsets, and community engagement. Worse, tech giants have even started telling reporters that their facilities […] The post SEA’s AI boom has a w…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "33ad580ff9376156bf9f"
+    },
+    {
       "title": "ロボットが私にパンチの威嚇 技術の祭典で感じた「暴力」を賛美する危うさ",
       "url": "https://japan.cnet.com/article/35252378/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2619,13 +2755,13 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [hoch] Xen: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3248",
+      "title": "[NEU] [hoch] Adobe ColdFusion: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3250",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-09-09T08:54:18+00:00",
-      "fetched_at": "2026-09-09T09:01:15+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Xen ausnutzen, um einen Denial of Service Angriff durchzuführen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen und Daten zu manipulieren.",
+      "published_at": "2026-09-09T08:59:17+00:00",
+      "fetched_at": "2026-09-09T09:24:15+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Adobe ColdFusion ausnutzen, um beliebigen Programmcode auszuführen, Berechtigungen zu erweitern, Daten offenzulegen oder zu manipulieren, Cross-Site-Scripting-Angriffe durchzuführen oder einen Denial-of-Service-Zustand zu verursachen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2639,16 +2775,16 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "98fdfd88fc837e99b9d9"
+      "id": "33afd4cde6096b6fee5a"
     },
     {
-      "title": "[NEU] [hoch] Adobe Creative Cloud (Illustrator und Animate): Mehrere Schwachstellen ermöglichen Codeausführung",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3247",
+      "title": "[NEU] [hoch] Adobe Acrobat und Acrobat Reader: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3249",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-09-09T08:54:18+00:00",
-      "fetched_at": "2026-09-09T09:01:15+00:00",
-      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Adobe Creative Cloud ausnutzen, um beliebigen Programmcode auszuführen.",
+      "published_at": "2026-09-09T08:59:17+00:00",
+      "fetched_at": "2026-09-09T09:24:15+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Adobe Acrobat und Adobe Acrobat Reader ausnutzen, um beliebigen Code auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand zu verursachen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2662,76 +2798,29 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "f44f5ded2d874d6d4e61"
+      "id": "1d71ea051ef5e66bda78"
     },
     {
-      "title": "[NEU] [hoch] Adobe Magento: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3246",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "SEA’s AI boom has a water problem it cannot offset away",
+      "url": "https://e27.co/seas-ai-boom-has-a-water-problem-it-cannot-offset-away-20260909/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-09-09T08:54:17+00:00",
-      "fetched_at": "2026-09-09T09:01:15+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Adobe Magento ausnutzen, um Cross-Site-Scripting-Angriffe durchzuführen, Berechtigungen zu erweitern oder Sicherheitsmaßnahmen zu umgehen.",
+      "published_at": "2026-09-09T09:10:42+00:00",
+      "fetched_at": "2026-09-09T09:24:15+00:00",
+      "summary": "Every hyperscaler courting Southeast Asia now performs the same reassurance ritual. Ask Microsoft, Google, or AWS about the environmental cost of the data centres they are racing to build across the region, and the answer arrives pre-packaged: efficient cooling, renewable offsets, and community engagement. Worse, tech giants have even started telling reporters that their facilities […] The post SEA’s AI boom has a w…",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
+        "AI/KI",
+        "APAC Trend Radar",
+        "Southeast Asia"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "30fc80800a0c8cd251e1"
-    },
-    {
-      "title": "[NEU] [hoch] Adobe Photoshop: Mehrere Schwachstellen ermöglichen Codeausführung",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3245",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-09T08:54:17+00:00",
-      "fetched_at": "2026-09-09T09:01:15+00:00",
-      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Adobe Photoshop ausnutzen, um beliebigen Programmcode auszuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a48367546037106c64cd"
-    },
-    {
-      "title": "[NEU] [hoch] Adobe Experience Manager: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3244",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-09T08:54:17+00:00",
-      "fetched_at": "2026-09-09T09:01:15+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Adobe Experience Manager ausnutzen, um beliebigen Programmcode auszuführen, Berechtigungen zu erweitern, Cross-Site-Scripting-Angriffe durchzuführen oder Sicherheitsmaßnahmen zu umgehen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4d87202b9d0f7ddcd393"
+      "id": "33ad580ff9376156bf9f"
     }
   ],
   "source_errors": [],
