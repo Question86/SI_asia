@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-09T23:28:47+00:00",
+  "generated_at": "2026-09-09T23:39:24+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 125,
+    "findings": 126,
     "clusters": 66,
     "cross_source_confrmed": 1,
     "hot": 1,
@@ -111,18 +111,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 22.05,
+      "network_score": 22.02,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 24.2,
-      "ranking_score": 22.05,
+      "ranking_score": 22.02,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.55,
+      "baseline_bonus": 0.52,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1215,6 +1215,45 @@
       "first_seen_at": "2026-06-19T09:22:22+00:00"
     },
     {
+      "key": "title:iphone",
+      "title": "新型iPhone「高すぎ」「買えない」悲鳴……1台約22～57万円 「換算レート円安すぎ」の声も",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/10/2000001343/",
+        "https://pc.watch.impress.co.jp/docs/news/2139681.html"
+      ],
+      "finding_count": 2,
+      "max_score": 5,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.64,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 12.2,
+      "ranking_score": 10.64,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 1.64,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-09T22:30:18+00:00"
+    },
+    {
       "key": "title:remediate-code-quality-findings-agentic-autofix",
       "title": "Remediate Code Quality findings with agentic autofix",
       "sources": [
@@ -2110,44 +2149,6 @@
       "first_seen_at": "2026-09-09T22:39:57+00:00"
     },
     {
-      "key": "title:iphone",
-      "title": "「iPhone 18」は発表されず。メモリ高騰が影響か",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://pc.watch.impress.co.jp/docs/news/2139681.html"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 6.5,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 7.1,
-      "ranking_score": 6.5,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-09-09T22:30:18+00:00"
-    },
-    {
       "key": "title:iphone-duo-apple",
       "title": "「iPhone Duo」ついに登場。Apple初7.6型折りたたみで36万円強",
       "sources": [
@@ -2568,7 +2569,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-09T23:28:47Z",
+    "generated_at": "2026-09-09T23:39:25Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
