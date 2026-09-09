@@ -1,15 +1,58 @@
 {
-  "generated_at": "2026-09-09T08:31:06+00:00",
+  "generated_at": "2026-09-09T08:45:54+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 37,
-    "clusters": 31,
+    "findings": 42,
+    "clusters": 32,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 1,
     "dominance_penalized": 2
   },
   "clusters": [
+    {
+      "key": "domain:wid.cert-bund.de",
+      "title": "[NEU] [hoch] Microsoft Office Produkte: Mehrere Schwachstellen",
+      "sources": [
+        "BSI CERT-Bund Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3234",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3229",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3215",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3238",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3235",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3237"
+      ],
+      "finding_count": 11,
+      "max_score": 16,
+      "credibility_total": 11.55,
+      "cross_source_confirmed": false,
+      "momentum_delta": 4,
+      "momentum_status": "increasing",
+      "network_score": 28.01,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 51.1,
+      "ranking_score": 28.01,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 8.0,
+      "baseline_bonus": 2.51,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-28T14:08:37+00:00"
+    },
     {
       "key": "github_repo:coreyhaines31/marketingskills",
       "title": "coreyhaines31/marketingskills",
@@ -89,49 +132,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-09T08:08:20+00:00"
-    },
-    {
-      "key": "domain:wid.cert-bund.de",
-      "title": "[NEU] [hoch] Microsoft Office Produkte: Mehrere Schwachstellen",
-      "sources": [
-        "BSI CERT-Bund Security Advisories"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3234",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3229",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3215",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2025",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2599",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3224"
-      ],
-      "finding_count": 7,
-      "max_score": 16,
-      "credibility_total": 7.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 20.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 33.7,
-      "ranking_score": 20.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-08-28T14:08:37+00:00"
     },
     {
       "key": "title:southeast-asia-smes-not-have-problem-they-have",
@@ -440,6 +440,44 @@
       "first_seen_at": "2026-09-09T01:02:28+00:00"
     },
     {
+      "key": "title:anthropic",
+      "title": "Anthropicの研究者が退社し超知能の開発競争を猛批判──「来年末には制御不能になる可能性」",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/09/2000001309/"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 15.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 16.1,
+      "ranking_score": 15.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-09T08:45:54+00:00"
+    },
+    {
       "key": "title:try-everything-2026-puts-robotics-cross-border-capital",
       "title": "Try Everything 2026 puts AI, robotics and cross-border capital at the centre",
       "sources": [
@@ -577,18 +615,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 13.24,
+      "network_score": 13.19,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 14.1,
-      "ranking_score": 13.24,
+      "ranking_score": 13.19,
       "initial_reach_tier": "institutional",
       "source_reach_score": 5.0,
       "authority_bonus_capped": 3.0,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 1.24,
+      "baseline_bonus": 1.19,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -750,44 +788,6 @@
       "first_seen_at": "2026-06-19T09:22:22+00:00"
     },
     {
-      "key": "domain:www.heise.de",
-      "title": "Microsoft schließt Rekordzahl an Sicherheitslücken",
-      "sources": [
-        "heise Security Alerts"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.heise.de/news/Rekord-beim-Microsoft-Patchday-Fast-1000-Luecken-geschlossen-11446255.html"
-      ],
-      "finding_count": 1,
-      "max_score": 7,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 11.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 12.1,
-      "ranking_score": 11.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-19T07:39:37+00:00"
-    },
-    {
       "key": "title:asia-has-not-opened-yet-what-will-first",
       "title": "Asia has not opened yet: What will the first bell reveal about Bitcoin and oil?",
       "sources": [
@@ -900,6 +900,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-09T01:02:28+00:00"
+    },
+    {
+      "key": "domain:www.heise.de",
+      "title": "Microsoft schließt Rekordzahl an Sicherheitslücken",
+      "sources": [
+        "heise Security Alerts"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.heise.de/news/Rekord-beim-Microsoft-Patchday-Fast-1000-Luecken-geschlossen-11446255.html"
+      ],
+      "finding_count": 1,
+      "max_score": 7,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 8.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 9.1,
+      "ranking_score": 8.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T07:39:37+00:00"
     },
     {
       "key": "title:thailand-mobility-future-will-decided-data-not-just",
@@ -1208,7 +1246,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-09T08:31:06Z",
+    "generated_at": "2026-09-09T08:45:55Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

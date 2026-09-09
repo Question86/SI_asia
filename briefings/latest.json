@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T08:31:02+00:00",
-  "run_id": "2026-09-09T08:31:02+00:00",
+  "generated_at": "2026-09-09T08:45:50+00:00",
+  "run_id": "2026-09-09T08:45:50+00:00",
   "date": "2026-09-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 37
+      "configured_public_sources_only": 42
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 37,
-    "displayed_findings": 37,
+    "new_relevant_findings": 5,
+    "today_file_total": 42,
+    "displayed_findings": 42,
     "high": 0,
-    "medium": 17,
-    "observe": 20,
+    "medium": 21,
+    "observe": 21,
     "source_errors": 0
   },
   "sections": {
@@ -391,6 +391,98 @@
         "id": "9270f5bf508ddcfc0b18"
       },
       {
+        "title": "[NEU] [hoch] Google Chrome: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3238",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-09T08:39:18+00:00",
+        "fetched_at": "2026-09-09T08:45:20+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, darunter möglicherweise die Ausführung von beliebigem Code, die Umgehung von Sicherheitsmaßnahmen, die Ausweitung von Berechtigungen, die Offenlegung sensibler Informationen, die Durchführung von XSS-Angriffen oder das Auslösen eines Denial-of-Service-Zustands.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "54de158ae989270fb9c5"
+      },
+      {
+        "title": "[NEU] [mittel] OpenBSD: Schwachstelle ermöglicht Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3235",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-09T08:39:17+00:00",
+        "fetched_at": "2026-09-09T08:45:20+00:00",
+        "summary": "Ein Angreifer aus einem angrenzenden Netzwerk kann eine Schwachstelle in OpenBSD ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f139814d2203b2febf9b"
+      },
+      {
+        "title": "[NEU] [hoch] libxml2: Schwachstelle ermöglicht Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3237",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-09T08:39:17+00:00",
+        "fetched_at": "2026-09-09T08:45:20+00:00",
+        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in libxml2 ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a5d593d8574179bb48b0"
+      },
+      {
+        "title": "[NEU] [hoch] MongoDB Server: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3236",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-09T08:39:17+00:00",
+        "fetched_at": "2026-09-09T08:45:20+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in MongoDB Server ausnutzen, um erweiterte Berechtigungen, einschließlich Administratorrechte, zu erlangen und beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen oder einen Denial-of-Service-Zustand auszulösen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c7e518f463fae2483316"
+      },
+      {
         "title": "[UPDATE] [mittel] libexpat: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2025",
         "source": "BSI CERT-Bund Security Advisories",
@@ -616,6 +708,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "85be0316b9aa32fd5b18"
+      },
+      {
+        "title": "Anthropicの研究者が退社し超知能の開発競争を猛批判──「来年末には制御不能になる可能性」",
+        "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001309/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-09T03:38:26+00:00",
+        "fetched_at": "2026-09-09T08:45:20+00:00",
+        "summary": "米Anthropicの研究者、ジェイコブ・コクソン氏（27）は9月8日（現地時間）、同社を退社したことをXで明らかにした。コクソン氏は投稿で、米OpenAIとAnthropicの両社で3年間、事前学習の研究に従事してきたとした上で、「どちらの企業も責任ある行動を取っていない」と述べ、自己改善型の超知能（superintelligence）に向...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry",
+          "OpenAI"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "169ce43bed57580e4661"
       },
       {
         "title": "最近取り入れたClaude Codeの個人的tips 4選 - Qiita",
@@ -1317,6 +1431,98 @@
       "id": "9270f5bf508ddcfc0b18"
     },
     {
+      "title": "[NEU] [hoch] Google Chrome: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3238",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-09T08:39:18+00:00",
+      "fetched_at": "2026-09-09T08:45:20+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, darunter möglicherweise die Ausführung von beliebigem Code, die Umgehung von Sicherheitsmaßnahmen, die Ausweitung von Berechtigungen, die Offenlegung sensibler Informationen, die Durchführung von XSS-Angriffen oder das Auslösen eines Denial-of-Service-Zustands.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "54de158ae989270fb9c5"
+    },
+    {
+      "title": "[NEU] [mittel] OpenBSD: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3235",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-09T08:39:17+00:00",
+      "fetched_at": "2026-09-09T08:45:20+00:00",
+      "summary": "Ein Angreifer aus einem angrenzenden Netzwerk kann eine Schwachstelle in OpenBSD ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f139814d2203b2febf9b"
+    },
+    {
+      "title": "[NEU] [hoch] libxml2: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3237",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-09T08:39:17+00:00",
+      "fetched_at": "2026-09-09T08:45:20+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in libxml2 ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a5d593d8574179bb48b0"
+    },
+    {
+      "title": "[NEU] [hoch] MongoDB Server: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3236",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-09T08:39:17+00:00",
+      "fetched_at": "2026-09-09T08:45:20+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in MongoDB Server ausnutzen, um erweiterte Berechtigungen, einschließlich Administratorrechte, zu erlangen und beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen oder einen Denial-of-Service-Zustand auszulösen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c7e518f463fae2483316"
+    },
+    {
       "title": "[UPDATE] [mittel] libexpat: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2025",
       "source": "BSI CERT-Bund Security Advisories",
@@ -1540,6 +1746,28 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "85be0316b9aa32fd5b18"
+    },
+    {
+      "title": "Anthropicの研究者が退社し超知能の開発競争を猛批判──「来年末には制御不能になる可能性」",
+      "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001309/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-09T03:38:26+00:00",
+      "fetched_at": "2026-09-09T08:45:20+00:00",
+      "summary": "米Anthropicの研究者、ジェイコブ・コクソン氏（27）は9月8日（現地時間）、同社を退社したことをXで明らかにした。コクソン氏は投稿で、米OpenAIとAnthropicの両社で3年間、事前学習の研究に従事してきたとした上で、「どちらの企業も責任ある行動を取っていない」と述べ、自己改善型の超知能（superintelligence）に向...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "OpenAI"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "169ce43bed57580e4661"
     },
     {
       "title": "最近取り入れたClaude Codeの個人的tips 4選 - Qiita",
@@ -1879,48 +2107,118 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [hoch] Microsoft Office Produkte: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3234",
+      "title": "[NEU] [hoch] Google Chrome: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3238",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-09-09T08:24:17+00:00",
-      "fetched_at": "2026-09-09T08:30:28+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in verschiedenen Microsoft Office Produkten, Microsoft Office Online Server, Microsoft 365 Apps, Microsoft SharePoint, Microsoft Teams und Microsoft Skype ausnutzen, um erhöhte Berechtigungen zu erlangen, um Code auszuführen, um Informationen offenzulegen und um den Nutzer zu täuschen.",
+      "published_at": "2026-09-09T08:39:18+00:00",
+      "fetched_at": "2026-09-09T08:45:20+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Chrome ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen, darunter möglicherweise die Ausführung von beliebigem Code, die Umgehung von Sicherheitsmaßnahmen, die Ausweitung von Berechtigungen, die Offenlegung sensibler Informationen, die Durchführung von XSS-Angriffen oder das Auslösen eines Denial-of-Service-Zustands.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
-        "Microsoft",
         "Schwachstelle",
         "Security"
       ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "b50b669425afa1af69ad"
+      "id": "54de158ae989270fb9c5"
     },
     {
-      "title": "Microsoft schließt Rekordzahl an Sicherheitslücken",
-      "url": "https://www.heise.de/news/Rekord-beim-Microsoft-Patchday-Fast-1000-Luecken-geschlossen-11446255.html",
-      "source": "heise Security Alerts",
+      "title": "[NEU] [hoch] libxml2: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3237",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-09-09T08:09:00.000+00:00",
-      "fetched_at": "2026-09-09T08:30:28+00:00",
-      "summary": "Microsoft schließt fast 1000 Sicherheitslücken am Patchday. Zwei davon werden bereits aktiv ausgenutzt und haben höchste Priorität.",
+      "published_at": "2026-09-09T08:39:17+00:00",
+      "fetched_at": "2026-09-09T08:45:20+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in libxml2 ausnutzen, um einen Denial of Service Angriff durchzuführen.",
       "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
         "Security"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "ae10e1ae2dc0b3d79cfd"
+      "id": "a5d593d8574179bb48b0"
+    },
+    {
+      "title": "[NEU] [hoch] MongoDB Server: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3236",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-09T08:39:17+00:00",
+      "fetched_at": "2026-09-09T08:45:20+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in MongoDB Server ausnutzen, um erweiterte Berechtigungen, einschließlich Administratorrechte, zu erlangen und beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen oder einen Denial-of-Service-Zustand auszulösen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c7e518f463fae2483316"
+    },
+    {
+      "title": "[NEU] [mittel] OpenBSD: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3235",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-09T08:39:17+00:00",
+      "fetched_at": "2026-09-09T08:45:20+00:00",
+      "summary": "Ein Angreifer aus einem angrenzenden Netzwerk kann eine Schwachstelle in OpenBSD ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f139814d2203b2febf9b"
+    },
+    {
+      "title": "Anthropicの研究者が退社し超知能の開発競争を猛批判──「来年末には制御不能になる可能性」",
+      "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001309/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-09T03:38:26+00:00",
+      "fetched_at": "2026-09-09T08:45:20+00:00",
+      "summary": "米Anthropicの研究者、ジェイコブ・コクソン氏（27）は9月8日（現地時間）、同社を退社したことをXで明らかにした。コクソン氏は投稿で、米OpenAIとAnthropicの両社で3年間、事前学習の研究に従事してきたとした上で、「どちらの企業も責任ある行動を取っていない」と述べ、自己改善型の超知能（superintelligence）に向...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "OpenAI"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "169ce43bed57580e4661"
     }
   ],
   "source_errors": [],
