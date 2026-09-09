@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T11:47:44+00:00",
-  "run_id": "2026-09-09T11:47:44+00:00",
+  "generated_at": "2026-09-09T11:55:00+00:00",
+  "run_id": "2026-09-09T11:55:00+00:00",
   "date": "2026-09-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 90
+      "configured_public_sources_only": 93
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 90,
-    "displayed_findings": 90,
+    "new_relevant_findings": 3,
+    "today_file_total": 93,
+    "displayed_findings": 93,
     "high": 1,
-    "medium": 60,
+    "medium": 63,
     "observe": 29,
     "source_errors": 0
   },
@@ -875,6 +875,75 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "244d48ebb627ae1aaaff"
+      },
+      {
+        "title": "[NEU] [hoch] Tor: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3279",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-09T11:49:17+00:00",
+        "fetched_at": "2026-09-09T11:54:27+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Tor ausnutzen, um Daten zu manipulieren, Sicherheitsmaßnahen zu umgehen, einen Denial of Service zu verursachen und potentiell Code auszuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a6bf9f8404b9fa7fa37e"
+      },
+      {
+        "title": "[NEU] [hoch] OPNsense: Schwachstelle ermöglicht Privilegieneskalation",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3278",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-09T11:49:17+00:00",
+        "fetched_at": "2026-09-09T11:54:27+00:00",
+        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in OPNsense ausnutzen, um seine Privilegien zu erhöhen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9c7b8d1a70340452a890"
+      },
+      {
+        "title": "[NEU] [hoch] cPanel cPanel/WHM: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3277",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-09T11:44:17+00:00",
+        "fetched_at": "2026-09-09T11:54:27+00:00",
+        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in cPanel cPanel/WHM ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7c943191acd6034bb82c"
       },
       {
         "title": "[NEU] [hoch] Dell OpenManage Server Administrator: Mehrere Schwachstellen",
@@ -3159,6 +3228,75 @@
       "id": "244d48ebb627ae1aaaff"
     },
     {
+      "title": "[NEU] [hoch] Tor: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3279",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-09T11:49:17+00:00",
+      "fetched_at": "2026-09-09T11:54:27+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Tor ausnutzen, um Daten zu manipulieren, Sicherheitsmaßnahen zu umgehen, einen Denial of Service zu verursachen und potentiell Code auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a6bf9f8404b9fa7fa37e"
+    },
+    {
+      "title": "[NEU] [hoch] OPNsense: Schwachstelle ermöglicht Privilegieneskalation",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3278",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-09T11:49:17+00:00",
+      "fetched_at": "2026-09-09T11:54:27+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in OPNsense ausnutzen, um seine Privilegien zu erhöhen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9c7b8d1a70340452a890"
+    },
+    {
+      "title": "[NEU] [hoch] cPanel cPanel/WHM: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3277",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-09T11:44:17+00:00",
+      "fetched_at": "2026-09-09T11:54:27+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in cPanel cPanel/WHM ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7c943191acd6034bb82c"
+    },
+    {
       "title": "[NEU] [hoch] Dell OpenManage Server Administrator: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3276",
       "source": "BSI CERT-Bund Security Advisories",
@@ -4592,13 +4730,13 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [hoch] Dell OpenManage Server Administrator: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3276",
+      "title": "[NEU] [hoch] Tor: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3279",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-09-09T11:39:17+00:00",
-      "fetched_at": "2026-09-09T11:47:13+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Dell OpenManage Server Administrator ausnutzen, um Sicherheitsmechanismen zu umgehen, Daten offenzulegen oder zu manipulieren, SSRF- und Denial-of-Service-Angriffe durchzuführen, Berechtigungen zu erweitern und beliebigen Code auszuführen.",
+      "published_at": "2026-09-09T11:49:17+00:00",
+      "fetched_at": "2026-09-09T11:54:27+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Tor ausnutzen, um Daten zu manipulieren, Sicherheitsmaßnahen zu umgehen, einen Denial of Service zu verursachen und potentiell Code auszuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -4612,28 +4750,53 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "58e29c3b8923c86c706a"
+      "id": "a6bf9f8404b9fa7fa37e"
     },
     {
-      "title": "QRコード不要の「NFCタグ決済」がPayPayやd払い対応 JCBとCPS",
-      "url": "https://www.watch.impress.co.jp/docs/news/2139467.html",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "[NEU] [hoch] OPNsense: Schwachstelle ermöglicht Privilegieneskalation",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3278",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-09-09T06:35:10+00:00",
-      "fetched_at": "2026-09-09T11:47:13+00:00",
-      "summary": "QRコード不要の「NFCタグ決済」がPayPayやd払い対応 JCBとCPS",
+      "published_at": "2026-09-09T11:49:17+00:00",
+      "fetched_at": "2026-09-09T11:54:27+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in OPNsense ausnutzen, um seine Privilegien zu erhöhen.",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "6c6a70f831c0758c37bd"
+      "id": "9c7b8d1a70340452a890"
+    },
+    {
+      "title": "[NEU] [hoch] cPanel cPanel/WHM: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3277",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-09T11:44:17+00:00",
+      "fetched_at": "2026-09-09T11:54:27+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in cPanel cPanel/WHM ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7c943191acd6034bb82c"
     }
   ],
   "source_errors": [],
