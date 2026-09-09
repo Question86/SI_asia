@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-09T05:58:50+00:00",
+  "generated_at": "2026-09-09T06:35:12+00:00",
   "events": [
     {
       "event_id": "evt_02008879feb3a26196bb",
@@ -297,7 +297,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_14f95b61fec9a8b2be6e",
@@ -1116,12 +1116,12 @@
     {
       "event_id": "evt_47eecb9fd7e4eb30b620",
       "title": "coreyhaines31/marketingskills",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -2046,7 +2046,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_72879edabd2cf6f632a5",
