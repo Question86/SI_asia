@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-09T07:03:48+00:00_
+_Generiert: 2026-09-09T07:26:09+00:00_
 
 ## Kurzlage
 
-29 neue relevante Treffer. Stärkstes Signal: „coreyhaines31/marketingskills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+31 neue relevante Treffer. Stärkstes Signal: „coreyhaines31/marketingskills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -75,6 +75,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: United States (+2.0)
   - Kurz: In April 2026, the United States announced 83,387 job cuts. 26 per cent of them named artificial intelligence as the reason, the second consecutive month that AI was the top cited cause. Behind those numbers is a quieter story that is going to shape an entire generation of careers. Stanford economists Erik Brynjolfsson, Bharat Chandar, […] The post Gen Z doesn’t need more AI courses, it needs the skills AI can’t rep…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.0 - 154 km S of Sarangani, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg06)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-09T07:25:16.040+00:00`, fetched `2026-09-09T07:25:37+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-09 07:07:03 UTC 2026-09-09 07:07:03 UTC at epicenter Location 4.017°N 125.323°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **baserCMS用プラグイン「BurgerEditor」における複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN21088484/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-09-09T14:00:00+09:00`, fetched `2026-09-09T05:00:49+00:00`
@@ -114,6 +123,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region south_korea: Seoul (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Startup conferences often sell scale: bigger halls, longer speaker lists, more badges scanned at the entrance. Seoul is taking a different route with Try Everything 2026. As the city’s flagship startup festival returns to Dongdaemun Design Plaza on September 9 and 10, organisers are leaning less on crowd size and more on a harder question: […] The post Try Everything 2026 puts AI, robotics and cross-border capital a…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Announcing 20260080 (OT,liquidity providing), for 7 days deadline 09:45** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260080.en.html)
+  - Quelle: ECB Open Market Operations and Communication / `rss`
+  - Zeit: published `2026-09-09T08:15:23+00:00`, fetched `2026-09-09T07:25:37+00:00`
+  - Treffer: liquidity, Macro/Policy, open market operations
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)
+  - Kurz: Announcing 20260080 (OT,liquidity providing), for 7 days deadline 09:45
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **OpenAI、ミレニアム懸賞問題「ナビエ・ストークス方程式」をAIが解決したと発表 数学者は経緯に反発** — Score 12, observation — [Quelle](https://www.itmedia.co.jp/news/article/2609/09/2000001300/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-09T01:19:10+00:00`, fetched `2026-09-09T03:25:21+00:00`
