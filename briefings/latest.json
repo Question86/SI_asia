@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T10:33:17+00:00",
-  "run_id": "2026-09-09T10:33:17+00:00",
+  "generated_at": "2026-09-09T10:43:19+00:00",
+  "run_id": "2026-09-09T10:43:19+00:00",
   "date": "2026-09-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 73
+      "configured_public_sources_only": 75
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 73,
-    "displayed_findings": 73,
+    "today_file_total": 75,
+    "displayed_findings": 75,
     "high": 1,
-    "medium": 46,
-    "observe": 26,
+    "medium": 47,
+    "observe": 27,
     "source_errors": 0
   },
   "sections": {
@@ -694,6 +694,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "244d48ebb627ae1aaaff"
+      },
+      {
+        "title": "[NEU] [hoch] Apache Airflow: Schwachstelle ermöglicht Erlangen von Benutzerrechten",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3264",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-09T10:29:17+00:00",
+        "fetched_at": "2026-09-09T10:42:49+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Apache Airflow ausnutzen, um Benutzerrechte zu erlangen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "98a98abc4cc4f0c38335"
       },
       {
         "title": "[NEU] [mittel] Apache ActiveMQ: Schwachstelle ermöglicht DoS und Manipulation von Daten",
@@ -1422,6 +1445,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "85be0316b9aa32fd5b18"
+      },
+      {
+        "title": "M 5.0 - 53 km W of Cafayate, Argentina",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg12",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-09-09T10:38:25.040+00:00",
+        "fetched_at": "2026-09-09T10:42:49+00:00",
+        "summary": "Time 2026-09-09 10:06:57 UTC 2026-09-09 10:06:57 UTC at epicenter Location 26.139°S 66.505°W Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Argentina (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "422b628771d432efd34c"
       },
       {
         "title": "スレッズの自称「神仏祈祷師｜霊視占い師」がAIを用いて極めて創作っぽい話を流布し、暴力を扇動していた - 電脳塵芥",
@@ -2535,6 +2594,29 @@
       "id": "244d48ebb627ae1aaaff"
     },
     {
+      "title": "[NEU] [hoch] Apache Airflow: Schwachstelle ermöglicht Erlangen von Benutzerrechten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3264",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-09T10:29:17+00:00",
+      "fetched_at": "2026-09-09T10:42:49+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Apache Airflow ausnutzen, um Benutzerrechte zu erlangen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "98a98abc4cc4f0c38335"
+    },
+    {
       "title": "[NEU] [mittel] Apache ActiveMQ: Schwachstelle ermöglicht DoS und Manipulation von Daten",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3262",
       "source": "BSI CERT-Bund Security Advisories",
@@ -3261,6 +3343,42 @@
       "id": "85be0316b9aa32fd5b18"
     },
     {
+      "title": "M 5.0 - 53 km W of Cafayate, Argentina",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg12",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-09T10:38:25.040+00:00",
+      "fetched_at": "2026-09-09T10:42:49+00:00",
+      "summary": "Time 2026-09-09 10:06:57 UTC 2026-09-09 10:06:57 UTC at epicenter Location 26.139°S 66.505°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Argentina (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "422b628771d432efd34c"
+    },
+    {
       "title": "スレッズの自称「神仏祈祷師｜霊視占い師」がAIを用いて極めて創作っぽい話を流布し、暴力を扇動していた - 電脳塵芥",
       "url": "https://nou-yunyun.hatenablog.com/entry/2026/09/09/140000",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3706,49 +3824,13 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [mittel] Fortinet FortiProxy und FortiOS: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3263",
+      "title": "[NEU] [hoch] Apache Airflow: Schwachstelle ermöglicht Erlangen von Benutzerrechten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3264",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-09-09T10:19:17+00:00",
-      "fetched_at": "2026-09-09T10:32:46+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Fortinet FortiOS und Fortinet FortiProxy ausnutzen, um einen Denial of Service Angriff durchzuführen und Informationen offenzulegen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security",
-        "Watchgraph:cyber_active_exploitation"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "cyber_active_exploitation"
-      ],
-      "watchgraph_reasons": [
-        "cyber_active_exploitation: Fortinet"
-      ],
-      "market_context": [
-        "CRWD",
-        "PANW",
-        "FTNT",
-        "ZS",
-        "OKTA",
-        "NET",
-        "S"
-      ],
-      "id": "b99cbf825b16fe89117a"
-    },
-    {
-      "title": "[NEU] [mittel] Apache ActiveMQ: Schwachstelle ermöglicht DoS und Manipulation von Daten",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3262",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-09T10:19:17+00:00",
-      "fetched_at": "2026-09-09T10:32:46+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Apache ActiveMQ ausnutzen, um einen Denial of Service Angriff durchzuführen und Daten zu manipulieren.",
+      "published_at": "2026-09-09T10:29:17+00:00",
+      "fetched_at": "2026-09-09T10:42:49+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Apache Airflow ausnutzen, um Benutzerrechte zu erlangen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -3762,7 +3844,43 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "02f8248cfe3171523f1e"
+      "id": "98a98abc4cc4f0c38335"
+    },
+    {
+      "title": "M 5.0 - 53 km W of Cafayate, Argentina",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg12",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-09T10:38:25.040+00:00",
+      "fetched_at": "2026-09-09T10:42:49+00:00",
+      "summary": "Time 2026-09-09 10:06:57 UTC 2026-09-09 10:06:57 UTC at epicenter Location 26.139°S 66.505°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Argentina (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "422b628771d432efd34c"
     }
   ],
   "source_errors": [],
