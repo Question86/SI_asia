@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T20:04:35+00:00",
-  "run_id": "2026-09-09T20:04:35+00:00",
+  "generated_at": "2026-09-09T20:23:08+00:00",
+  "run_id": "2026-09-09T20:23:08+00:00",
   "date": "2026-09-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 117
+      "configured_public_sources_only": 118
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 117,
-    "displayed_findings": 117,
+    "today_file_total": 118,
+    "displayed_findings": 118,
     "high": 1,
     "medium": 69,
-    "observe": 47,
+    "observe": 48,
     "source_errors": 0
   },
   "sections": {
@@ -2796,6 +2796,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "50d8ee20170600e892ef"
+      },
+      {
+        "title": "「iPhone Duo」ついに登場。Apple初7.6型折りたたみで36万円強",
+        "url": "https://pc.watch.impress.co.jp/docs/news/2139675.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-09T19:12:14+00:00",
+        "fetched_at": "2026-09-09T20:22:34+00:00",
+        "summary": "「iPhone Duo」ついに登場。Apple初7.6型折りたたみで36万円強",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8747d7eba6775181158b"
       },
       {
         "title": "プロジェクトマネジメントの教科書（内製チーム向け）",
@@ -5754,6 +5775,27 @@
       "id": "50d8ee20170600e892ef"
     },
     {
+      "title": "「iPhone Duo」ついに登場。Apple初7.6型折りたたみで36万円強",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2139675.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-09T19:12:14+00:00",
+      "fetched_at": "2026-09-09T20:22:34+00:00",
+      "summary": "「iPhone Duo」ついに登場。Apple初7.6型折りたたみで36万円強",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8747d7eba6775181158b"
+    },
+    {
       "title": "プロジェクトマネジメントの教科書（内製チーム向け）",
       "url": "https://zenn.dev/tan_go238/books/project-management-textbook",
       "source": "Hatena Bookmark Hotentry IT",
@@ -5944,40 +5986,25 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.8 - 86 km ESE of Isangel, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg51",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "「iPhone Duo」ついに登場。Apple初7.6型折りたたみで36万円強",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2139675.html",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-09T20:02:50.040+00:00",
-      "fetched_at": "2026-09-09T20:04:06+00:00",
-      "summary": "Time 2026-09-09 19:15:11 UTC 2026-09-09 19:15:11 UTC at epicenter Location 19.753°S 170.071°E Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-09-09T19:12:14+00:00",
+      "fetched_at": "2026-09-09T20:22:34+00:00",
+      "summary": "「iPhone Duo」ついに登場。Apple初7.6型折りたたみで36万円強",
       "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "8a404f05b89afc293b5b"
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8747d7eba6775181158b"
     }
   ],
   "source_errors": [],

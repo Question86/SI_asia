@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-09T20:04:35+00:00_
+_Generiert: 2026-09-09T20:23:08+00:00_
 
 ## Kurzlage
 
-117 neue relevante Treffer. Stärkstes Signal: „September-Patchday: Adobe schließt kritische Zero-Day-Lücke und 172 weitere“ aus heise Security Alerts (Score 24, risk).
+118 neue relevante Treffer. Stärkstes Signal: „September-Patchday: Adobe schließt kritische Zero-Day-Lücke und 172 weitere“ aus heise Security Alerts (Score 24, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
