@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-09T09:53:36+00:00",
+  "generated_at": "2026-09-09T10:01:19+00:00",
   "topics": {
     "ai": [
       {
@@ -151,6 +151,13 @@
         "url": "https://jvn.jp/vu/JVNVU93257103/"
       },
       {
+        "title": "[NEU] [hoch] Android Patchday September 2026: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-09T09:49:17+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3251"
+      },
+      {
         "title": "[NEU] [kritisch] Microsoft Windows: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-09T08:49:18+00:00",
@@ -198,13 +205,6 @@
         "published_at": "2026-09-09T14:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/jp/JVN21088484/"
-      },
-      {
-        "title": "SPI Flashに組み込まれたUEFI Shellモジュールにおけるセキュアブート回避の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-09T10:00:20+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU94974158/"
       }
     ],
     "geopolitics": [
@@ -214,6 +214,13 @@
         "published_at": "2026-09-09T08:44:17+00:00",
         "relevance_score": 17,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3239"
+      },
+      {
+        "title": "[NEU] [hoch] Android Patchday September 2026: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-09T09:49:17+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3251"
       },
       {
         "title": "[NEU] [kritisch] Microsoft Windows: Mehrere Schwachstellen",
@@ -244,39 +251,32 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3234"
       },
       {
-        "title": "[NEU] [hoch] Adobe ColdFusion: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] ConnectWise ScreenConnect: Schwachstelle ermöglicht nicht spezifizierten Angriff",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-09T08:59:17+00:00",
+        "published_at": "2026-09-09T09:54:17+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3250"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3256"
       },
       {
-        "title": "[NEU] [hoch] Adobe Acrobat und Acrobat Reader: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] IBM WebSphere Application Server: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-09T08:59:17+00:00",
+        "published_at": "2026-09-09T09:49:18+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3249"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3255"
       },
       {
-        "title": "[NEU] [hoch] Xen: Mehrere Schwachstellen",
+        "title": "[NEU] [hoch] Lenovo BIOS: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-09T08:54:18+00:00",
+        "published_at": "2026-09-09T09:49:18+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3248"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3254"
       },
       {
-        "title": "[NEU] [hoch] Adobe Creative Cloud (Illustrator und Animate): Mehrere Schwachstellen ermöglichen Codeausführung",
+        "title": "[NEU] [hoch] Tanium Endpoint Management Server, Data Service, Enforce, Comply: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-09T08:54:18+00:00",
+        "published_at": "2026-09-09T09:49:17+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3247"
-      },
-      {
-        "title": "[NEU] [hoch] Adobe Photoshop: Mehrere Schwachstellen ermöglichen Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-09T08:54:17+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3245"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3252"
       }
     ],
     "general": [
