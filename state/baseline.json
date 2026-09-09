@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-09T03:01:21+00:00",
+  "generated_at": "2026-09-09T03:25:57+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -2754,7 +2754,7 @@
     },
     "title:cisa-ics-advisory-ics-medical-advisory-2026": {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月08日）",
-      "updated_at": "2026-09-09T03:01:21+00:00",
+      "updated_at": "2026-09-09T03:25:57+00:00",
       "network_scores": [
         18.1,
         18.1,
@@ -2778,8 +2778,8 @@
         18.1,
         18.1,
         18.1,
-        18.1,
         21.1,
+        18.1,
         18.1,
         18.1,
         18.1,
@@ -3490,9 +3490,8 @@
     },
     "domain:qiita.com": {
       "title": "最近取り入れたClaude Codeの個人的tips 4選 - Qiita",
-      "updated_at": "2026-09-09T03:01:21+00:00",
+      "updated_at": "2026-09-09T03:25:57+00:00",
       "network_scores": [
-        13.1,
         13.1,
         13.1,
         13.1,
@@ -3518,6 +3517,7 @@
         15.2,
         15.2,
         16.1,
+        13.1,
         13.1,
         13.1,
         13.1,
@@ -4277,10 +4277,9 @@
     },
     "domain:japan.cnet.com": {
       "title": "ロボットが私にパンチの威嚇 技術の祭典で感じた「暴力」を賛美する危うさ",
-      "updated_at": "2026-09-09T03:01:21+00:00",
+      "updated_at": "2026-09-09T03:25:57+00:00",
       "network_scores": [
         12.1,
-        12.1,
         15.1,
         12.1,
         12.1,
@@ -4308,6 +4307,7 @@
         12.1,
         12.1,
         15.1,
+        12.1,
         12.1
       ],
       "rolling_average": 12.4,
@@ -4524,15 +4524,16 @@
       "z_hint": 0.0
     },
     "title:security-alert-alert-regarding-vulnerabilities-adobe-acrobat-reader": {
-      "title": "Security Alert: Alert Regarding Vulnerabilities in Adobe Acrobat and Reader (APSB26-63)",
-      "updated_at": "2026-06-19T11:28:55+00:00",
+      "title": "Security Alert: Alert Regarding Vulnerabilities in Adobe Acrobat and Reader (APSB26-141)",
+      "updated_at": "2026-09-09T03:25:57+00:00",
       "network_scores": [
-        20.2
+        20.2,
+        15.1
       ],
-      "rolling_average": 20.2,
+      "rolling_average": 17.65,
       "rolling_peak": 20.2,
-      "last_score": 20.2,
-      "z_hint": 0.0
+      "last_score": 15.1,
+      "z_hint": -2.55
     },
     "title:ics-security-conference-2026": {
       "title": "ICS Security Conference 2026",
@@ -19174,8 +19175,8 @@
       "z_hint": 0.0
     },
     "title:openai": {
-      "title": "OpenAI、休眠サイトへの自社AIエージェント書き込みを認め、非公表の理由を説明",
-      "updated_at": "2026-09-06T23:56:14+00:00",
+      "title": "OpenAI、ミレニアム懸賞問題「ナビエ・ストークス方程式」をAIが解決したと発表 数学者は経緯に反発",
+      "updated_at": "2026-09-09T03:25:57+00:00",
       "network_scores": [
         14.1,
         14.1,
@@ -19206,12 +19207,12 @@
         14.1,
         14.1,
         14.1,
-        14.1
+        17.1
       ],
-      "rolling_average": 14.1,
-      "rolling_peak": 14.1,
-      "last_score": 14.1,
-      "z_hint": -0.0
+      "rolling_average": 14.2,
+      "rolling_peak": 17.1,
+      "last_score": 17.1,
+      "z_hint": 2.9
     },
     "earthquake:m 5.1 - 69 km e of antofagasta de la sierra, argentina:5.1": {
       "title": "M 5.1 - 69 km E of Antofagasta de la Sierra, Argentina",
@@ -23481,7 +23482,116 @@
     },
     "title:amazon-linux-amazon-linux-2027-selinux": {
       "title": "Amazon Linuxが4年ぶりにメジャーバージョンアップ、「Amazon Linux 2027」パブリックプレビュー。SELinuxがデフォルトで強制モードに",
-      "updated_at": "2026-09-09T03:01:21+00:00",
+      "updated_at": "2026-09-09T03:25:57+00:00",
+      "network_scores": [
+        10.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1
+      ],
+      "rolling_average": 7.43,
+      "rolling_peak": 10.1,
+      "last_score": 7.1,
+      "z_hint": -0.33
+    },
+    "title:gen-doesn-need-more-courses-needs-skills-can": {
+      "title": "Gen Z doesn’t need more AI courses, it needs the skills AI can’t replicate",
+      "updated_at": "2026-09-09T03:25:57+00:00",
+      "network_scores": [
+        21.1,
+        18.1,
+        18.1,
+        18.1,
+        18.1,
+        18.1,
+        18.1,
+        18.1
+      ],
+      "rolling_average": 18.47,
+      "rolling_peak": 21.1,
+      "last_score": 18.1,
+      "z_hint": -0.37
+    },
+    "title:spi-flash-uefi-shell": {
+      "title": "SPI Flashに組み込まれたUEFI Shellモジュールにおけるセキュアブート回避の脆弱性",
+      "updated_at": "2026-09-09T03:25:57+00:00",
+      "network_scores": [
+        19.1,
+        16.1,
+        16.1,
+        16.1,
+        16.1,
+        16.1,
+        16.1,
+        16.1
+      ],
+      "rolling_average": 16.47,
+      "rolling_peak": 19.1,
+      "last_score": 16.1,
+      "z_hint": -0.37
+    },
+    "title:ascensio-system-sia-onlyoffice-owncloud": {
+      "title": "Ascensio System SIA製ONLYOFFICE ownCloud統合プラグインにおけるサーバサイドリクエストフォージェリの脆弱性",
+      "updated_at": "2026-09-09T03:25:57+00:00",
+      "network_scores": [
+        19.1,
+        16.1,
+        16.1,
+        16.1,
+        16.1,
+        16.1,
+        16.1,
+        16.1
+      ],
+      "rolling_average": 16.47,
+      "rolling_peak": 19.1,
+      "last_score": 16.1,
+      "z_hint": -0.37
+    },
+    "title:skullcandy-dime": {
+      "title": "Skullcandy製ワイヤレスイヤホン「Dime 3」における不適切な認証の脆弱性",
+      "updated_at": "2026-09-09T03:25:57+00:00",
+      "network_scores": [
+        19.1,
+        16.1,
+        16.1,
+        16.1,
+        16.1,
+        16.1,
+        16.1,
+        16.1
+      ],
+      "rolling_average": 16.47,
+      "rolling_peak": 19.1,
+      "last_score": 16.1,
+      "z_hint": -0.37
+    },
+    "url:https://www.digital.go.jp/councils/digital-talent-development-policy/ff566760-278e-47da-8454-b25c40912fcb": {
+      "title": "今後のデジタル人材育成政策に関する検討会（第1回）の議事次第および資料を掲載しました",
+      "updated_at": "2026-09-09T03:25:57+00:00",
+      "network_scores": [
+        13.1,
+        10.1,
+        10.1,
+        10.1,
+        10.1,
+        10.1,
+        10.1,
+        10.1
+      ],
+      "rolling_average": 10.47,
+      "rolling_peak": 13.1,
+      "last_score": 10.1,
+      "z_hint": -0.38
+    },
+    "url:https://www.itmedia.co.jp/news/article/2609/09/2000001297/": {
+      "title": "“地下神殿”への濁流動画をダウンロード公開 Xでの反響受け……「首都圏外郭放水路」に称賛",
+      "updated_at": "2026-09-09T03:25:57+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -23497,77 +23607,27 @@
       "last_score": 7.1,
       "z_hint": -0.38
     },
-    "title:gen-doesn-need-more-courses-needs-skills-can": {
-      "title": "Gen Z doesn’t need more AI courses, it needs the skills AI can’t replicate",
-      "updated_at": "2026-09-09T03:01:21+00:00",
+    "title:tech": {
+      "title": "Techはすぐに追ったほうがいい",
+      "updated_at": "2026-09-09T03:25:57+00:00",
       "network_scores": [
-        21.1,
-        18.1,
-        18.1,
-        18.1,
-        18.1,
-        18.1,
-        18.1
+        10.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1
       ],
-      "rolling_average": 18.53,
-      "rolling_peak": 21.1,
-      "last_score": 18.1,
-      "z_hint": -0.43
+      "rolling_average": 7.48,
+      "rolling_peak": 10.1,
+      "last_score": 7.1,
+      "z_hint": -0.38
     },
-    "title:spi-flash-uefi-shell": {
-      "title": "SPI Flashに組み込まれたUEFI Shellモジュールにおけるセキュアブート回避の脆弱性",
-      "updated_at": "2026-09-09T03:01:21+00:00",
-      "network_scores": [
-        19.1,
-        16.1,
-        16.1,
-        16.1,
-        16.1,
-        16.1,
-        16.1
-      ],
-      "rolling_average": 16.53,
-      "rolling_peak": 19.1,
-      "last_score": 16.1,
-      "z_hint": -0.43
-    },
-    "title:ascensio-system-sia-onlyoffice-owncloud": {
-      "title": "Ascensio System SIA製ONLYOFFICE ownCloud統合プラグインにおけるサーバサイドリクエストフォージェリの脆弱性",
-      "updated_at": "2026-09-09T03:01:21+00:00",
-      "network_scores": [
-        19.1,
-        16.1,
-        16.1,
-        16.1,
-        16.1,
-        16.1,
-        16.1
-      ],
-      "rolling_average": 16.53,
-      "rolling_peak": 19.1,
-      "last_score": 16.1,
-      "z_hint": -0.43
-    },
-    "title:skullcandy-dime": {
-      "title": "Skullcandy製ワイヤレスイヤホン「Dime 3」における不適切な認証の脆弱性",
-      "updated_at": "2026-09-09T03:01:21+00:00",
-      "network_scores": [
-        19.1,
-        16.1,
-        16.1,
-        16.1,
-        16.1,
-        16.1,
-        16.1
-      ],
-      "rolling_average": 16.53,
-      "rolling_peak": 19.1,
-      "last_score": 16.1,
-      "z_hint": -0.43
-    },
-    "url:https://www.digital.go.jp/councils/digital-talent-development-policy/ff566760-278e-47da-8454-b25c40912fcb": {
-      "title": "今後のデジタル人材育成政策に関する検討会（第1回）の議事次第および資料を掲載しました",
-      "updated_at": "2026-09-09T03:01:21+00:00",
+    "title:most-valuable-part-may-not-model": {
+      "title": "The most valuable part of AI may not be the model",
+      "updated_at": "2026-09-09T03:25:57+00:00",
       "network_scores": [
         13.1,
         10.1,
@@ -23582,80 +23642,54 @@
       "last_score": 10.1,
       "z_hint": -0.43
     },
-    "url:https://www.itmedia.co.jp/news/article/2609/09/2000001297/": {
-      "title": "“地下神殿”への濁流動画をダウンロード公開 Xでの反響受け……「首都圏外郭放水路」に称賛",
-      "updated_at": "2026-09-09T03:01:21+00:00",
-      "network_scores": [
-        10.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1
-      ],
-      "rolling_average": 7.53,
-      "rolling_peak": 10.1,
-      "last_score": 7.1,
-      "z_hint": -0.43
-    },
-    "title:tech": {
-      "title": "Techはすぐに追ったほうがいい",
-      "updated_at": "2026-09-09T03:01:21+00:00",
-      "network_scores": [
-        10.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1
-      ],
-      "rolling_average": 7.53,
-      "rolling_peak": 10.1,
-      "last_score": 7.1,
-      "z_hint": -0.43
-    },
-    "title:most-valuable-part-may-not-model": {
-      "title": "The most valuable part of AI may not be the model",
-      "updated_at": "2026-09-09T03:01:21+00:00",
-      "network_scores": [
-        13.1,
-        10.1,
-        10.1,
-        10.1,
-        10.1,
-        10.1
-      ],
-      "rolling_average": 10.6,
-      "rolling_peak": 13.1,
-      "last_score": 10.1,
-      "z_hint": -0.5
-    },
     "title:when-slot-opens-let-agent-act-within-limits": {
       "title": "When a slot opens, let the AI agent act – within limits",
-      "updated_at": "2026-09-09T03:01:21+00:00",
+      "updated_at": "2026-09-09T03:25:57+00:00",
       "network_scores": [
         22.1,
         19.1,
+        19.1,
         19.1
       ],
-      "rolling_average": 20.1,
+      "rolling_average": 19.85,
       "rolling_peak": 22.1,
       "last_score": 19.1,
-      "z_hint": -1.0
+      "z_hint": -0.75
     },
     "title:singapore-learnt-measure-cooling-asean-should-follow": {
       "title": "Singapore learnt to measure cooling. ASEAN should follow",
-      "updated_at": "2026-09-09T03:01:21+00:00",
+      "updated_at": "2026-09-09T03:25:57+00:00",
       "network_scores": [
         12.1,
+        9.1,
         9.1
       ],
-      "rolling_average": 10.6,
+      "rolling_average": 10.1,
       "rolling_peak": 12.1,
       "last_score": 9.1,
-      "z_hint": -1.5
+      "z_hint": -1.0
+    },
+    "title:security-alert-microsoft-releases-september-2026-security-updates": {
+      "title": "Security Alert: Microsoft Releases September 2026 Security Updates",
+      "updated_at": "2026-09-09T03:25:57+00:00",
+      "network_scores": [
+        15.1
+      ],
+      "rolling_average": 15.1,
+      "rolling_peak": 15.1,
+      "last_score": 15.1,
+      "z_hint": 0.0
+    },
+    "title:enterprise-managed-sandbox-copilot-jetbrains": {
+      "title": "Enterprise-managed sandbox in Copilot for JetBrains",
+      "updated_at": "2026-09-09T03:25:57+00:00",
+      "network_scores": [
+        11.1
+      ],
+      "rolling_average": 11.1,
+      "rolling_peak": 11.1,
+      "last_score": 11.1,
+      "z_hint": 0.0
     }
   }
 }
