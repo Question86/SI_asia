@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-09T01:02:43+00:00",
+  "generated_at": "2026-09-09T01:32:36+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -334,6 +334,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_41161acb79759718291f",
+      "title": "今後のデジタル人材育成政策に関する検討会（第1回）の議事次第および資料を掲載しました",
+      "event_classes": [
+        "regulation"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 11040000.0,
+      "p50_usd": 1104000000.0,
+      "p90_usd": 110400000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-09T01:02:28+00:00",
+      "last_seen_at": "2026-09-09T01:32:18+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_508cc52b4823dd9222a5",
       "title": "Multiples vulnérabilités dans JFrog Artifactory (01 septembre 2026)",
       "event_classes": [
@@ -383,23 +400,6 @@
       "first_seen_at": "2026-09-01T02:30:55+00:00",
       "last_seen_at": "2026-09-01T07:12:59+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_41161acb79759718291f",
-      "title": "今後のデジタル人材育成政策に関する検討会（第1回）の議事次第および資料を掲載しました",
-      "event_classes": [
-        "regulation"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 11040000.0,
-      "p50_usd": 1104000000.0,
-      "p90_usd": 110400000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-09T01:02:28+00:00",
-      "last_seen_at": "2026-09-09T01:02:28+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_47b8a9d882d1643b48e7",
@@ -2132,7 +2132,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-09T01:02:28+00:00",
+      "last_seen_at": "2026-09-09T01:32:18+00:00",
       "status": "active"
     },
     {
@@ -2151,6 +2151,23 @@
       "first_seen_at": "2026-09-01T06:37:12+00:00",
       "last_seen_at": "2026-09-01T23:56:16+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_0356f186b03269c1ab70",
+      "title": "Skullcandy製ワイヤレスイヤホン「Dime 3」における不適切な認証の脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-09T01:02:28+00:00",
+      "last_seen_at": "2026-09-09T01:32:18+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_0c1f0f7092628869529d",
@@ -2255,6 +2272,40 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_a5d2646cc2eaea45f66a",
+      "title": "Ascensio System SIA製ONLYOFFICE ownCloud統合プラグインにおけるサーバサイドリクエストフォージェリの脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-09T01:02:28+00:00",
+      "last_seen_at": "2026-09-09T01:32:18+00:00",
+      "status": "active"
+    },
+    {
+      "event_id": "evt_a7f209f63f6d6c38835f",
+      "title": "SPI Flashに組み込まれたUEFI Shellモジュールにおけるセキュアブート回避の脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-09T01:02:28+00:00",
+      "last_seen_at": "2026-09-09T01:32:18+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_a838d6d438149a297e96",
       "title": "GROWIにおける複数の脆弱性",
       "event_classes": [
@@ -2338,57 +2389,6 @@
       "first_seen_at": "2026-09-04T01:50:38+00:00",
       "last_seen_at": "2026-09-04T23:57:22+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_a7f209f63f6d6c38835f",
-      "title": "SPI Flashに組み込まれたUEFI Shellモジュールにおけるセキュアブート回避の脆弱性",
-      "event_classes": [
-        "vulnerability"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 288000.0,
-      "p50_usd": 28800000.0,
-      "p90_usd": 2880000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-09T01:02:28+00:00",
-      "last_seen_at": "2026-09-09T01:02:28+00:00",
-      "status": "active"
-    },
-    {
-      "event_id": "evt_a5d2646cc2eaea45f66a",
-      "title": "Ascensio System SIA製ONLYOFFICE ownCloud統合プラグインにおけるサーバサイドリクエストフォージェリの脆弱性",
-      "event_classes": [
-        "vulnerability"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 288000.0,
-      "p50_usd": 28800000.0,
-      "p90_usd": 2880000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-09T01:02:28+00:00",
-      "last_seen_at": "2026-09-09T01:02:28+00:00",
-      "status": "active"
-    },
-    {
-      "event_id": "evt_0356f186b03269c1ab70",
-      "title": "Skullcandy製ワイヤレスイヤホン「Dime 3」における不適切な認証の脆弱性",
-      "event_classes": [
-        "vulnerability"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 288000.0,
-      "p50_usd": 28800000.0,
-      "p90_usd": 2880000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-09T01:02:28+00:00",
-      "last_seen_at": "2026-09-09T01:02:28+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_2f5c3cffbb9951edd868",
@@ -2986,6 +2986,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_dbb98c350c86838e9878",
+      "title": "Gen Z doesn’t need more AI courses, it needs the skills AI can’t replicate",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 116800.0,
+      "p50_usd": 11680000.0,
+      "p90_usd": 1168000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-09T01:02:28+00:00",
+      "last_seen_at": "2026-09-09T01:32:18+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_e43c9e3077c7255b207a",
       "title": "Ecosystem Roundup: SBI leads US$270M round in Indonesia’s largest tech deal in years",
       "event_classes": [
@@ -3052,23 +3069,6 @@
       "first_seen_at": "2026-09-01T02:30:55+00:00",
       "last_seen_at": "2026-09-01T23:56:16+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_dbb98c350c86838e9878",
-      "title": "Gen Z doesn’t need more AI courses, it needs the skills AI can’t replicate",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 116800.0,
-      "p50_usd": 11680000.0,
-      "p90_usd": 1168000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-09T01:02:28+00:00",
-      "last_seen_at": "2026-09-09T01:02:28+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_3820889c838ad91aba02",
@@ -5009,6 +5009,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_e23467df7fb3bc0ef241",
+      "title": "The most valuable part of AI may not be the model",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-09T01:32:18+00:00",
+      "last_seen_at": "2026-09-09T01:32:18+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_050660578420f6fb8ddb",
       "title": "Why Kyoto, not Tokyo, is Japan’s real deeptech bet",
       "event_classes": [
@@ -6233,6 +6250,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_8a2032fd2552ac07e29f",
+      "title": "Techはすぐに追ったほうがいい",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-09T01:02:28+00:00",
+      "last_seen_at": "2026-09-09T01:32:18+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_8d83f8fa66abf9a01750",
       "title": "JetBrains、Mac上で動作するコーディングエージェント「Junie Local」提供開始。Claude Sonnet 4.5と同等の能力、RTX5909対応も開発中",
       "event_classes": [
@@ -6248,6 +6282,23 @@
       "first_seen_at": "2026-08-30T23:19:24+00:00",
       "last_seen_at": "2026-08-30T23:36:44+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_8f016556e2d56147d751",
+      "title": "“地下神殿”への濁流動画をダウンロード公開 Xでの反響受け……「首都圏外郭放水路」に称賛",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-09T01:02:28+00:00",
+      "last_seen_at": "2026-09-09T01:32:18+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_93bb97d293e7c3173f2f",
@@ -6433,7 +6484,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-09T00:15:03+00:00",
-      "last_seen_at": "2026-09-09T01:02:28+00:00",
+      "last_seen_at": "2026-09-09T01:32:18+00:00",
       "status": "active"
     },
     {
@@ -6741,40 +6792,6 @@
       "first_seen_at": "2026-09-08T01:40:08+00:00",
       "last_seen_at": "2026-09-08T05:58:24+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_8f016556e2d56147d751",
-      "title": "“地下神殿”への濁流動画をダウンロード公開 Xでの反響受け……「首都圏外郭放水路」に称賛",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108000.0,
-      "p50_usd": 10800000.0,
-      "p90_usd": 1080000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-09T01:02:28+00:00",
-      "last_seen_at": "2026-09-09T01:02:28+00:00",
-      "status": "active"
-    },
-    {
-      "event_id": "evt_8a2032fd2552ac07e29f",
-      "title": "Techはすぐに追ったほうがいい",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108000.0,
-      "p50_usd": 10800000.0,
-      "p90_usd": 1080000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-09T01:02:28+00:00",
-      "last_seen_at": "2026-09-09T01:02:28+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_447fad9f2f74f059f7eb",
