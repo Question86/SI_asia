@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-09T05:13:58Z",
+  "generated_at": "2026-09-09T05:29:12Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -9,13 +9,13 @@
       "krass": 4,
       "extreme": 1,
       "strong": 12,
-      "watch": 11,
-      "quiet": 12
+      "watch": 12,
+      "quiet": 11
     },
     "bands_after_gate_recheck": {
       "strong": 17,
-      "watch": 11,
-      "quiet": 12
+      "watch": 12,
+      "quiet": 11
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://jvn.jp/vu/JVNVU94974158/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-09T10:00:20+09:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://jvn.jp/vu/JVNVU94533753/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-09T10:00:10+09:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -72,7 +72,7 @@
       "url": "https://jvn.jp/vu/JVNVU91877671/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-09T10:00:00+09:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -92,35 +92,11 @@
       "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
     },
     {
-      "title": "baserCMS用プラグイン「BurgerEditor」における複数の脆弱性",
-      "url": "https://jvn.jp/jp/JVN21088484/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-09-09T05:01:23+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月08日）",
       "url": "https://jvn.jp/vu/JVNVU93257103/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-09T10:00:30+09:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -146,7 +122,7 @@
       "url": "https://www.jpcert.or.jp/english/at/2026/at260025.html",
       "source": "JPCERT/CC English Alerts",
       "published_at": "2026-09-09T03:25:57+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -172,7 +148,7 @@
       "url": "https://jvn.jp/jp/JVN21088484/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-09T14:00:00+09:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -198,7 +174,7 @@
       "url": "https://e27.co/when-a-slot-opens-let-the-ai-agent-act-within-limits-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-09T02:30:04+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -225,7 +201,7 @@
       "url": "https://e27.co/try-everything-2026-puts-ai-robotics-and-cross-border-capital-at-the-centre-20260909/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-09T04:45:52+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
@@ -235,12 +211,12 @@
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +2",
+        "momentum delta +3",
         "AXI0M/User-Yps identity hit",
         "identity recheck: no AXI0M/User-Yps phrase hit",
         "single-source AI cap enforced after phrase recheck"
@@ -252,7 +228,7 @@
       "url": "https://e27.co/try-everything-2026-puts-ai-robotics-and-cross-border-capital-at-the-centre-20260909/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-09T04:38:47+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -279,7 +255,7 @@
       "url": "https://e27.co/when-a-slot-opens-let-the-ai-agent-act-within-limits-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-09T02:00:33+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -301,11 +277,35 @@
       "summary": "AI agents are often discussed in terms of what they can replace. I think a more useful question is what repetitive work they can remove while leaving important decisions with people. Consider a simple appointment problem. A customer needs a consultation next week. Tuesday or Thursday afternoon works best, preferably b…"
     },
     {
+      "title": "baserCMS用プラグイン「BurgerEditor」における複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN21088484/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-09-09T05:01:23+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 23.5,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Security Alert: Alert Regarding Vulnerabilities in Adobe Acrobat and Reader (APSB26-141)",
       "url": "https://www.jpcert.or.jp/english/at/2026/at260026.html",
       "source": "JPCERT/CC English Alerts",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 81.74,
+      "age_days": 81.75,
       "topics": [
         "security"
       ],
@@ -322,7 +322,7 @@
       "why": [
         "momentum delta +3",
         "security high-signal: security",
-        "aging penalty -8.0 for 81.7d old signal"
+        "aging penalty -8.0 for 81.8d old signal"
       ],
       "summary": ""
     },
@@ -331,7 +331,7 @@
       "url": "https://jvn.jp/vu/JVNVU94974158/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-09T01:02:28+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -355,7 +355,7 @@
       "url": "https://jvn.jp/vu/JVNVU94533753/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-09T01:02:28+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -379,7 +379,7 @@
       "url": "https://jvn.jp/vu/JVNVU91877671/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-09T01:02:28+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -403,7 +403,7 @@
       "url": "https://www.jpcert.or.jp/english/at/2026/at260025.html",
       "source": "JPCERT/CC English Alerts",
       "published_at": "2026-09-09T11:36+09:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -427,7 +427,7 @@
       "url": "https://www.jpcert.or.jp/english/at/2026/at260026.html",
       "source": "JPCERT/CC English Alerts",
       "published_at": "2026-09-09T11:36+09:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -451,7 +451,7 @@
       "url": "https://e27.co/southeast-asias-smes-do-not-have-an-ai-problem-they-have-a-record-problem-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-09T03:39:25+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -477,7 +477,7 @@
       "url": "https://jvn.jp/vu/JVNVU93257103/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 82.14,
+      "age_days": 82.15,
       "topics": [
         "general"
       ],
@@ -502,7 +502,7 @@
       "url": "https://e27.co/gen-z-doesnt-need-more-ai-courses-it-needs-the-skills-ai-cant-replicate-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-09T01:02:28+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -528,7 +528,7 @@
       "url": "https://www.digital.go.jp/councils/digital-talent-development-policy/ff566760-278e-47da-8454-b25c40912fcb",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-09T01:02:28+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -552,7 +552,7 @@
       "url": "https://e27.co/singapore-learnt-to-measure-cooling-asean-should-follow-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-09T02:46:27+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -576,7 +576,7 @@
       "url": "https://e27.co/the-most-valuable-part-of-ai-may-not-be-the-model-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-09T01:30:08+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -602,7 +602,7 @@
       "url": "https://e27.co/circle-to-acquire-tazapay-as-usdc-push-moves-into-cross-border-payments-20260909/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-09T04:17:57+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
@@ -622,11 +622,35 @@
       "summary": ""
     },
     {
+      "title": "Asia has not opened yet: What will the first bell reveal about Bitcoin and oil?",
+      "url": "https://e27.co/asia-has-not-opened-yet-what-will-the-first-bell-reveal-about-bitcoin-and-oil-20260909/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-09T05:21:42+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "“地下神殿”への濁流動画をダウンロード公開 Xでの反響受け……「首都圏外郭放水路」に称賛",
       "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001297/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-09T01:02:28+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -650,7 +674,7 @@
       "url": "https://www.publickey1.jp/blog/26/amazon_linux4amazon_linux_2027selinux.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-09T00:15:03+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -674,7 +698,7 @@
       "url": "https://zenn.dev/myuron/articles/3c09e7e697d9de",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-09T01:02:28+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -698,7 +722,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001300/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-05T10:46:03+00:00",
-      "age_days": 3.77,
+      "age_days": 3.78,
       "topics": [
         "ai"
       ],
@@ -724,7 +748,7 @@
       "url": "https://japan.cnet.com/article/35252378/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T09:22:22+00:00",
-      "age_days": 81.83,
+      "age_days": 81.84,
       "topics": [
         "general"
       ],
@@ -749,7 +773,7 @@
       "url": "https://japan.cnet.com/article/35252378/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-08T07:13:16+00:00",
-      "age_days": 0.92,
+      "age_days": 0.93,
       "topics": [
         "general"
       ],
@@ -773,7 +797,7 @@
       "url": "https://qiita.com/kuma_3838/items/00cb0b8d61ca76769c88",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 82.14,
+      "age_days": 82.15,
       "topics": [
         "ai"
       ],
@@ -801,7 +825,7 @@
       "url": "https://e27.co/the-most-valuable-part-of-ai-may-not-be-the-model-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-09T01:32:18+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -827,7 +851,7 @@
       "url": "https://e27.co/southeast-asias-smes-do-not-have-an-ai-problem-they-have-a-record-problem-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-09T03:30:25+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -852,7 +876,7 @@
       "url": "https://e27.co/gen-z-doesnt-need-more-ai-courses-it-needs-the-skills-ai-cant-replicate-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-09T01:00:39+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -877,7 +901,7 @@
       "url": "https://qiita.com/kuma_3838/items/00cb0b8d61ca76769c88",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-07T04:52:53+00:00",
-      "age_days": 2.01,
+      "age_days": 2.03,
       "topics": [
         "ai"
       ],
@@ -899,11 +923,35 @@
       "summary": "はじめに ここ最近取り入れた Claude Code の tips を4つ紹介します。1つだけツールの話です。 どれも大がかりな仕組みではないので、気になったものだけ拾ってもらえればと思います。 この記事をざっくり図解 1. セッション名を自動で付ける 知っている方も多いかと思いますが、Claude Code のセッションには名前を付け..."
     },
     {
+      "title": "Asia has not opened yet: What will the first bell reveal about Bitcoin and oil?",
+      "url": "https://e27.co/asia-has-not-opened-yet-what-will-the-first-bell-reveal-about-bitcoin-and-oil-20260909/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-09T05:16:20+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 8.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "Speculators rapidly adjust portfolios in response to shifting interest rate expectations and escalating global conflicts. The leading cryptocurrency recently experienced a notable decline while major United States stock indices suffered significant losses. This dual downturn highlights a broader risk-off strategy amon…"
+    },
+    {
       "title": "今後のデジタル人材育成政策に関する検討会（第1回）の議事次第および資料を掲載しました",
       "url": "https://www.digital.go.jp/councils/digital-talent-development-policy/ff566760-278e-47da-8454-b25c40912fcb",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-09T00:30:01+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "general"
       ],
@@ -927,7 +975,7 @@
       "url": "https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-09-09T03:25:57+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -953,7 +1001,7 @@
       "url": "https://e27.co/circle-to-acquire-tazapay-as-usdc-push-moves-into-cross-border-payments-20260909/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-09T04:00:49+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -971,54 +1019,6 @@
         "no strong comparative reason"
       ],
       "summary": "For years, stablecoins have been discussed in two very different ways. In crypto circles, they are trading instruments. In financial infrastructure, they are increasingly being treated as a cheaper, always-on way to move money across borders. Circle’s planned acquisition of Singapore-headquartered Tazapay for US$400 m…"
-    },
-    {
-      "title": "“地下神殿”への濁流動画をダウンロード公開 Xでの反響受け……「首都圏外郭放水路」に称賛",
-      "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001297/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-08T23:38:37+00:00",
-      "age_days": 0.23,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "首都圏外郭放水路は、地下約50mを通る世界最大級の地下放水路。周辺の中小河川が増水した際に立坑から水を取り込み、、地下トンネルを通じて調圧水槽へ送り、ポンプで江戸川に排水することで浸水被害を軽減する。 元の動画は7日に投稿したもの。施設内の監視カメラの映像をつないだ46秒の動画で、春日部市内を流れる倉松..."
-    },
-    {
-      "title": "Amazon Linuxが4年ぶりにメジャーバージョンアップ、「Amazon Linux 2027」パブリックプレビュー。SELinuxがデフォルトで強制モードに",
-      "url": "https://www.publickey1.jp/blog/26/amazon_linux4amazon_linux_2027selinux.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-08T14:40:17+00:00",
-      "age_days": 0.61,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "Amazon Web Services（AWS）は、AWSに最適化されたLinux OSの4年ぶりとなるメジャーバージョンアップ「Amazon Linux 2027」をパブリックプレビューとしてリリースしました。 現時点の正式版はAmazon Linux 2023 Amazon LinuxはAWSによって無料で提供されているLinux OSのディストリビューションです。Amazon EC2などのAW..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “SPI Flashに組み込まれたUEFI Shellモジュールにおけるセキュアブート回避の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
