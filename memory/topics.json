@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-09T07:39:00+00:00",
+  "generated_at": "2026-09-09T07:47:18+00:00",
   "topics": {
     "ai": [
       {
@@ -172,6 +172,13 @@
         "url": "https://jvn.jp/vu/JVNVU91877671/"
       },
       {
+        "title": "[UPDATE] [mittel] libexpat: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-09T07:39:17+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2025"
+      },
+      {
         "title": "[UPDATE] [mittel] Redis: Schwachstelle ermöglicht Codeausführung",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-09T07:34:27+00:00",
@@ -184,13 +191,6 @@
         "published_at": "2026-09-09T06:24:18+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3224"
-      },
-      {
-        "title": "[UPDATE] [mittel] QT: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-09T06:24:18+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3227"
       }
     ],
     "general": [

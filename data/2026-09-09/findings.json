@@ -337,6 +337,29 @@
     "id": "9270f5bf508ddcfc0b18"
   },
   {
+    "title": "[UPDATE] [mittel] libexpat: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2025",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-09T07:39:17+00:00",
+    "fetched_at": "2026-09-09T07:46:50+00:00",
+    "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in libexpat ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen, darunter möglicherweise die Ausführung von beliebigem Code, die Manipulation von Daten, die Umgehung von Sicherheitsmaßnahmen, die Offenlegung vertraulicher Informationen oder die Herbeiführung eines Denial-of-Service-Zustands.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "6ef628df469729fbcce8"
+  },
+  {
     "title": "[UPDATE] [mittel] Redis: Schwachstelle ermöglicht Codeausführung",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2599",
     "source": "BSI CERT-Bund Security Advisories",

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-09T07:39:04+00:00",
+  "generated_at": "2026-09-09T07:47:21+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -210,18 +210,19 @@
     },
     "earthquake:philippines:5.0": {
       "title": "M 5.0 - 154 km S of Sarangani, Philippines",
-      "updated_at": "2026-09-09T07:39:04+00:00",
+      "updated_at": "2026-09-09T07:47:21+00:00",
       "network_scores": [
         14.7,
         21.7,
         15.7,
         20.7,
+        17.7,
         17.7
       ],
-      "rolling_average": 18.1,
+      "rolling_average": 18.03,
       "rolling_peak": 21.7,
       "last_score": 17.7,
-      "z_hint": -0.4
+      "z_hint": -0.33
     },
     "earthquake:philippines:unknown": {
       "title": "Green earthquake (Magnitude 5M, Depth:36.071km) in Philippines 17/06/2026 21:49 UTC, 450 thousand in 100km.",
@@ -965,7 +966,7 @@
     },
     "domain:www.ecb.europa.eu": {
       "title": "Announcing 20260080 (OT,liquidity providing), for 7 days deadline 09:45",
-      "updated_at": "2026-09-09T07:39:04+00:00",
+      "updated_at": "2026-09-09T07:47:21+00:00",
       "network_scores": [
         10.1,
         10.1,
@@ -994,14 +995,14 @@
         10.1,
         10.1,
         10.1,
-        10.1,
         17.1,
+        14.1,
         14.1
       ],
-      "rolling_average": 10.47,
+      "rolling_average": 10.6,
       "rolling_peak": 17.1,
       "last_score": 14.1,
-      "z_hint": 3.63
+      "z_hint": 3.5
     },
     "domain:snyk.io": {
       "title": "The full Snyk AI Security Platform, free for open source maintainers",
@@ -2756,14 +2757,14 @@
     },
     "title:cisa-ics-advisory-ics-medical-advisory-2026": {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月08日）",
-      "updated_at": "2026-09-09T07:39:04+00:00",
+      "updated_at": "2026-09-09T07:47:21+00:00",
       "network_scores": [
         18.1,
         18.1,
         18.1,
         18.1,
-        18.1,
         21.1,
+        18.1,
         18.1,
         18.1,
         18.1,
@@ -3492,9 +3493,8 @@
     },
     "domain:qiita.com": {
       "title": "最近取り入れたClaude Codeの個人的tips 4選 - Qiita",
-      "updated_at": "2026-09-09T07:39:04+00:00",
+      "updated_at": "2026-09-09T07:47:21+00:00",
       "network_scores": [
-        13.1,
         13.1,
         13.1,
         18.2,
@@ -3502,6 +3502,7 @@
         15.2,
         15.2,
         16.1,
+        13.1,
         13.1,
         13.1,
         13.1,
@@ -4279,7 +4280,7 @@
     },
     "domain:japan.cnet.com": {
       "title": "ロボットが私にパンチの威嚇 技術の祭典で感じた「暴力」を賛美する危うさ",
-      "updated_at": "2026-09-09T07:39:04+00:00",
+      "updated_at": "2026-09-09T07:47:21+00:00",
       "network_scores": [
         12.1,
         12.1,
@@ -4290,8 +4291,8 @@
         12.1,
         12.1,
         12.1,
-        12.1,
         15.1,
+        12.1,
         12.1,
         12.1,
         12.1,
@@ -4527,7 +4528,7 @@
     },
     "title:security-alert-alert-regarding-vulnerabilities-adobe-acrobat-reader": {
       "title": "Security Alert: Alert Regarding Vulnerabilities in Adobe Acrobat and Reader (APSB26-141)",
-      "updated_at": "2026-09-09T07:39:04+00:00",
+      "updated_at": "2026-09-09T07:47:21+00:00",
       "network_scores": [
         20.2,
         15.1,
@@ -4547,12 +4548,13 @@
         12.1,
         12.1,
         12.1,
+        12.1,
         12.1
       ],
-      "rolling_average": 12.68,
+      "rolling_average": 12.65,
       "rolling_peak": 20.2,
       "last_score": 12.1,
-      "z_hint": -0.58
+      "z_hint": -0.55
     },
     "title:ics-security-conference-2026": {
       "title": "ICS Security Conference 2026",
@@ -5600,9 +5602,8 @@
     },
     "domain:wid.cert-bund.de": {
       "title": "[UPDATE] [mittel] Red Hat Enterprise Linux: Mehrere Schwachstellen",
-      "updated_at": "2026-09-09T07:39:04+00:00",
+      "updated_at": "2026-09-09T07:47:21+00:00",
       "network_scores": [
-        51.6,
         51.6,
         51.6,
         51.6,
@@ -5631,12 +5632,13 @@
         24.4,
         24.4,
         24.4,
-        29.5
+        29.5,
+        31.6
       ],
-      "rolling_average": 47.64,
+      "rolling_average": 46.97,
       "rolling_peak": 51.6,
-      "last_score": 29.5,
-      "z_hint": -18.14
+      "last_score": 31.6,
+      "z_hint": -15.37
     },
     "title:why-every-warehouse-singapore-will-run-safety-monitoring": {
       "title": "Why every warehouse in Singapore will run on AI safety monitoring within five years",
@@ -19195,7 +19197,7 @@
     },
     "title:openai": {
       "title": "OpenAI、ミレニアム懸賞問題「ナビエ・ストークス方程式」をAIが解決したと発表 数学者は経緯に反発",
-      "updated_at": "2026-09-09T07:39:04+00:00",
+      "updated_at": "2026-09-09T07:47:21+00:00",
       "network_scores": [
         14.1,
         14.1,
@@ -19208,8 +19210,8 @@
         14.1,
         14.1,
         14.1,
-        14.1,
         17.1,
+        14.1,
         14.1,
         14.1,
         14.1,
@@ -23501,7 +23503,7 @@
     },
     "title:amazon-linux-amazon-linux-2027-selinux": {
       "title": "Amazon Linuxが4年ぶりにメジャーバージョンアップ、「Amazon Linux 2027」パブリックプレビュー。SELinuxがデフォルトで強制モードに",
-      "updated_at": "2026-09-09T07:39:04+00:00",
+      "updated_at": "2026-09-09T07:47:21+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -23528,18 +23530,20 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.22,
+      "rolling_average": 7.21,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.12
+      "z_hint": -0.11
     },
     "title:gen-doesn-need-more-courses-needs-skills-can": {
       "title": "Gen Z doesn’t need more AI courses, it needs the skills AI can’t replicate",
-      "updated_at": "2026-09-09T07:39:04+00:00",
+      "updated_at": "2026-09-09T07:47:21+00:00",
       "network_scores": [
         21.1,
+        18.1,
         18.1,
         18.1,
         18.1,
@@ -23572,9 +23576,10 @@
     },
     "title:spi-flash-uefi-shell": {
       "title": "SPI Flashに組み込まれたUEFI Shellモジュールにおけるセキュアブート回避の脆弱性",
-      "updated_at": "2026-09-09T07:39:04+00:00",
+      "updated_at": "2026-09-09T07:47:21+00:00",
       "network_scores": [
         19.1,
+        16.1,
         16.1,
         16.1,
         16.1,
@@ -23607,9 +23612,10 @@
     },
     "title:ascensio-system-sia-onlyoffice-owncloud": {
       "title": "Ascensio System SIA製ONLYOFFICE ownCloud統合プラグインにおけるサーバサイドリクエストフォージェリの脆弱性",
-      "updated_at": "2026-09-09T07:39:04+00:00",
+      "updated_at": "2026-09-09T07:47:21+00:00",
       "network_scores": [
         19.1,
+        16.1,
         16.1,
         16.1,
         16.1,
@@ -23642,9 +23648,10 @@
     },
     "title:skullcandy-dime": {
       "title": "Skullcandy製ワイヤレスイヤホン「Dime 3」における不適切な認証の脆弱性",
-      "updated_at": "2026-09-09T07:39:04+00:00",
+      "updated_at": "2026-09-09T07:47:21+00:00",
       "network_scores": [
         19.1,
+        16.1,
         16.1,
         16.1,
         16.1,
@@ -23677,9 +23684,10 @@
     },
     "url:https://www.digital.go.jp/councils/digital-talent-development-policy/ff566760-278e-47da-8454-b25c40912fcb": {
       "title": "今後のデジタル人材育成政策に関する検討会（第1回）の議事次第および資料を掲載しました",
-      "updated_at": "2026-09-09T07:39:04+00:00",
+      "updated_at": "2026-09-09T07:47:21+00:00",
       "network_scores": [
         13.1,
+        10.1,
         10.1,
         10.1,
         10.1,
@@ -23712,9 +23720,10 @@
     },
     "url:https://www.itmedia.co.jp/news/article/2609/09/2000001297/": {
       "title": "“地下神殿”への濁流動画をダウンロード公開 Xでの反響受け……「首都圏外郭放水路」に称賛",
-      "updated_at": "2026-09-09T07:39:04+00:00",
+      "updated_at": "2026-09-09T07:47:21+00:00",
       "network_scores": [
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -23747,9 +23756,10 @@
     },
     "title:tech": {
       "title": "Techはすぐに追ったほうがいい",
-      "updated_at": "2026-09-09T07:39:04+00:00",
+      "updated_at": "2026-09-09T07:47:21+00:00",
       "network_scores": [
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -23782,9 +23792,10 @@
     },
     "title:most-valuable-part-may-not-model": {
       "title": "The most valuable part of AI may not be the model",
-      "updated_at": "2026-09-09T07:39:04+00:00",
+      "updated_at": "2026-09-09T07:47:21+00:00",
       "network_scores": [
         13.1,
+        10.1,
         10.1,
         10.1,
         10.1,
@@ -23816,9 +23827,10 @@
     },
     "title:when-slot-opens-let-agent-act-within-limits": {
       "title": "When a slot opens, let the AI agent act – within limits",
-      "updated_at": "2026-09-09T07:39:04+00:00",
+      "updated_at": "2026-09-09T07:47:21+00:00",
       "network_scores": [
         22.1,
+        19.1,
         19.1,
         19.1,
         19.1,
@@ -23847,7 +23859,7 @@
     },
     "title:singapore-learnt-measure-cooling-asean-should-follow": {
       "title": "Singapore learnt to measure cooling. ASEAN should follow",
-      "updated_at": "2026-09-09T07:39:04+00:00",
+      "updated_at": "2026-09-09T07:47:21+00:00",
       "network_scores": [
         12.1,
         9.1,
@@ -23868,18 +23880,20 @@
         9.1,
         9.1,
         9.1,
+        9.1,
         9.1
       ],
-      "rolling_average": 9.25,
+      "rolling_average": 9.24,
       "rolling_peak": 12.1,
       "last_score": 9.1,
-      "z_hint": -0.15
+      "z_hint": -0.14
     },
     "title:security-alert-microsoft-releases-september-2026-security-updates": {
       "title": "Security Alert: Microsoft Releases September 2026 Security Updates",
-      "updated_at": "2026-09-09T07:39:04+00:00",
+      "updated_at": "2026-09-09T07:47:21+00:00",
       "network_scores": [
         15.1,
+        12.1,
         12.1,
         12.1,
         12.1,
@@ -23898,14 +23912,14 @@
         12.1,
         12.1
       ],
-      "rolling_average": 12.27,
+      "rolling_average": 12.26,
       "rolling_peak": 15.1,
       "last_score": 12.1,
-      "z_hint": -0.17
+      "z_hint": -0.16
     },
     "title:enterprise-managed-sandbox-copilot-jetbrains": {
       "title": "Enterprise-managed sandbox in Copilot for JetBrains",
-      "updated_at": "2026-09-09T07:39:04+00:00",
+      "updated_at": "2026-09-09T07:47:21+00:00",
       "network_scores": [
         11.1,
         8.1,
@@ -23924,16 +23938,17 @@
         8.1,
         8.1,
         8.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 8.27,
+      "rolling_average": 8.26,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -0.17
+      "z_hint": -0.16
     },
     "title:southeast-asia-smes-not-have-problem-they-have": {
       "title": "Southeast Asia’s SMEs do not have an AI problem. They have a record problem",
-      "updated_at": "2026-09-09T07:39:04+00:00",
+      "updated_at": "2026-09-09T07:47:21+00:00",
       "network_scores": [
         22.1,
         19.1,
@@ -23951,16 +23966,17 @@
         19.1,
         19.1,
         19.1,
+        19.1,
         19.1
       ],
-      "rolling_average": 19.28,
+      "rolling_average": 19.27,
       "rolling_peak": 22.1,
       "last_score": 19.1,
-      "z_hint": -0.18
+      "z_hint": -0.17
     },
     "title:circle-acquire-tazapay-400m-usdc-push-moves-cross": {
       "title": "Circle to acquire Tazapay for US$400M as USDC push moves into cross-border payments",
-      "updated_at": "2026-09-09T07:39:04+00:00",
+      "updated_at": "2026-09-09T07:47:21+00:00",
       "network_scores": [
         11.1,
         8.1,
@@ -23975,16 +23991,17 @@
         8.1,
         8.1,
         8.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 8.31,
+      "rolling_average": 8.3,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -0.21
+      "z_hint": -0.2
     },
     "title:try-everything-2026-puts-robotics-cross-border-capital": {
       "title": "Try Everything 2026 puts AI, robotics and cross-border capital at the centre",
-      "updated_at": "2026-09-09T07:39:04+00:00",
+      "updated_at": "2026-09-09T07:47:21+00:00",
       "network_scores": [
         18.1,
         15.1,
@@ -23997,16 +24014,17 @@
         15.1,
         15.1,
         15.1,
+        15.1,
         15.1
       ],
-      "rolling_average": 15.35,
+      "rolling_average": 15.33,
       "rolling_peak": 18.1,
       "last_score": 15.1,
-      "z_hint": -0.25
+      "z_hint": -0.23
     },
     "title:basercms-burgereditor": {
       "title": "baserCMS用プラグイン「BurgerEditor」における複数の脆弱性",
-      "updated_at": "2026-09-09T07:39:04+00:00",
+      "updated_at": "2026-09-09T07:47:21+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -24017,16 +24035,17 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.4,
+      "rolling_average": 16.37,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.3
+      "z_hint": -0.27
     },
     "title:asia-has-not-opened-yet-what-will-first": {
       "title": "Asia has not opened yet: What will the first bell reveal about Bitcoin and oil?",
-      "updated_at": "2026-09-09T07:39:04+00:00",
+      "updated_at": "2026-09-09T07:47:21+00:00",
       "network_scores": [
         13.1,
         10.1,
@@ -24036,16 +24055,17 @@
         10.1,
         10.1,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 10.43,
+      "rolling_average": 10.4,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -0.33
+      "z_hint": -0.3
     },
     "title:thailand-mobility-future-will-decided-data-not-just": {
       "title": "Thailand’s mobility future will be decided by data, not just vehicles",
-      "updated_at": "2026-09-09T07:39:04+00:00",
+      "updated_at": "2026-09-09T07:47:21+00:00",
       "network_scores": [
         12.1,
         9.1,
@@ -24055,39 +24075,42 @@
         9.1,
         9.1,
         9.1,
+        9.1,
         9.1
       ],
-      "rolling_average": 9.43,
+      "rolling_average": 9.4,
       "rolling_peak": 12.1,
       "last_score": 9.1,
-      "z_hint": -0.33
+      "z_hint": -0.3
     },
     "github_repo:coreyhaines31/marketingskills": {
       "title": "coreyhaines31/marketingskills",
-      "updated_at": "2026-09-09T07:39:04+00:00",
+      "updated_at": "2026-09-09T07:47:21+00:00",
       "network_scores": [
         28.1,
         25.1,
         25.1,
         25.1,
         25.1,
+        25.1,
         25.1
       ],
-      "rolling_average": 25.6,
+      "rolling_average": 25.53,
       "rolling_peak": 28.1,
       "last_score": 25.1,
-      "z_hint": -0.5
+      "z_hint": -0.43
     },
     "url:https://www.itmedia.co.jp/news/article/2609/09/2000001308/": {
       "title": "「菜の花がおかしい」――イラストレーター制作うたうマラソン大会ポスターに指摘相次ぐ 事務局がAI使用認め謝罪",
-      "updated_at": "2026-09-09T07:39:04+00:00",
+      "updated_at": "2026-09-09T07:47:21+00:00",
       "network_scores": [
-        10.1
+        10.1,
+        7.1
       ],
-      "rolling_average": 10.1,
+      "rolling_average": 8.6,
       "rolling_peak": 10.1,
-      "last_score": 10.1,
-      "z_hint": 0.0
+      "last_score": 7.1,
+      "z_hint": -1.5
     }
   }
 }
