@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T05:21:39+00:00",
-  "run_id": "2026-09-09T05:21:39+00:00",
+  "generated_at": "2026-09-09T05:32:37+00:00",
+  "run_id": "2026-09-09T05:32:37+00:00",
   "date": "2026-09-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 24,
     "displayed_findings": 24,
     "high": 0,
@@ -1159,50 +1159,7 @@
       "id": "b5112b2c98a785534192"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Asia has not opened yet: What will the first bell reveal about Bitcoin and oil?",
-      "url": "https://e27.co/asia-has-not-opened-yet-what-will-the-first-bell-reveal-about-bitcoin-and-oil-20260909/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-09T05:16:20+00:00",
-      "fetched_at": "2026-09-09T05:21:06+00:00",
-      "summary": "Speculators rapidly adjust portfolios in response to shifting interest rate expectations and escalating global conflicts. The leading cryptocurrency recently experienced a notable decline while major United States stock indices suffered significant losses. This dual downturn highlights a broader risk-off strategy among individuals anticipating tighter monetary policy and higher energy costs. These factors create a h…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Macro/Policy",
-        "Markets/Capital Structure"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); recent (+1.0); watchgraph region usa: United States (+2.0); watchgraph demote portfolio (x0.45)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a4926832426189807888"
-    },
-    {
-      "title": "Thailand’s mobility future will be decided by data, not just vehicles",
-      "url": "https://e27.co/thailands-mobility-future-will-be-decided-by-data-not-just-vehicles-20260909/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-09T05:20:21+00:00",
-      "fetched_at": "2026-09-09T05:21:06+00:00",
-      "summary": "Thailand’s mobility story is often told through the lens of electric vehicles, new car factories and government incentives. But at HERE Directions Bangkok 2026, the more important question was not simply what people will drive. It was how vehicles, roads, cities and public agencies will share enough intelligence to make movement safer and more efficient. […] The post Thailand’s mobility future will be decided by dat…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9d713b7b070713ff8fef"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
