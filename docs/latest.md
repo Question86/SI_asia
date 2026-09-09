@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-09T03:57:05+00:00_
+_Generiert: 2026-09-09T04:17:54+00:00_
 
 ## Kurzlage
 
-19 neue relevante Treffer. Stärkstes Signal: „Southeast Asia’s SMEs do not have an AI problem. They have a record problem“ aus e27 Asia Startup and Tech Feed (Score 17, observation).
+20 neue relevante Treffer. Stärkstes Signal: „Southeast Asia’s SMEs do not have an AI problem. They have a record problem“ aus e27 Asia Startup and Tech Feed (Score 17, observation).
 
 ## Priorität Hoch
 
@@ -140,6 +140,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore, ASEAN (+2.0)
   - Kurz: Singapore has spent years getting better at something fairly basic: measuring how buildings actually perform. For larger commercial buildings, energy use is benchmarked. Cooling systems are subject to periodic energy audits. Building owners, engineers, and facility managers are familiar with plant efficiency and the relationship between cooling delivered and electricity consumed. That is not yet […] The post Singapo…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Circle to acquire Tazapay for US$400M as USDC push moves into cross-border payments** — Score 6, observation — [Quelle](https://e27.co/circle-to-acquire-tazapay-as-usdc-push-moves-into-cross-border-payments-20260909/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-09T04:00:49+00:00`, fetched `2026-09-09T04:17:24+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: For years, stablecoins have been discussed in two very different ways. In crypto circles, they are trading instruments. In financial infrastructure, they are increasingly being treated as a cheaper, always-on way to move money across borders. Circle’s planned acquisition of Singapore-headquartered Tazapay for US$400 million in all-stock deal sits firmly in the second camp. The […] The post Circle to acquire Tazapay…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Enterprise-managed sandbox in Copilot for JetBrains** — Score 6, observation — [Quelle](https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains)
   - Quelle: GitHub Changelog Atom / `rss`
