@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-09T12:34:56+00:00_
+_Generiert: 2026-09-09T12:51:43+00:00_
 
 ## Kurzlage
 
-97 neue relevante Treffer. Stärkstes Signal: „September-Patchday: Adobe schließt kritische Zero-Day-Lücke und 172 weitere“ aus heise Security Alerts (Score 24, risk).
+99 neue relevante Treffer. Stärkstes Signal: „September-Patchday: Adobe schließt kritische Zero-Day-Lücke und 172 weitere“ aus heise Security Alerts (Score 24, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -266,6 +266,15 @@ _Generiert: 2026-09-09T12:34:56+00:00_
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0)
   - Kurz: Every hyperscaler courting Southeast Asia now performs the same reassurance ritual. Ask Microsoft, Google, or AWS about the environmental cost of the data centres they are racing to build across the region, and the answer arrives pre-packaged: efficient cooling, renewable offsets, and community engagement. Worse, tech giants have even started telling reporters that their facilities […] The post SEA’s AI boom has a w…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.7 - 139 km NNE of Hihifo, Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg1q)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-09T12:41:30.040+00:00`, fetched `2026-09-09T12:51:09+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-09 12:18:14 UTC 2026-09-09 12:18:14 UTC at epicenter Location 14.877°S 173.119°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **今後のデジタル人材育成政策に関する検討会（第1回）の議事次第および資料を掲載しました** — Score 8, observation — [Quelle](https://www.digital.go.jp/councils/digital-talent-development-policy/ff566760-278e-47da-8454-b25c40912fcb)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-09-09T00:30:01+00:00`, fetched `2026-09-09T01:01:57+00:00`
@@ -292,15 +301,6 @@ _Generiert: 2026-09-09T12:34:56+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Microsoft schließt fast 1000 Sicherheitslücken am Patchday. Zwei davon werden bereits aktiv ausgenutzt und haben höchste Priorität.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Enterprise-managed sandbox in Copilot for JetBrains** — Score 6, observation — [Quelle](https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-09-09T02:43:38+00:00`, fetched `2026-09-09T03:25:21+00:00`
-  - Treffer: Copilot, GitHub
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub (+2.0); Copilot (+2.5); recent (+1.0)
-  - Kurz: This update brings support for enterprise-managed sandbox policies, cross-file cursor jumps for next edit suggestions, global project context in chat, enterprise policy diagnostics, and a new connection between terminal Copilot… The post Enterprise-managed sandbox in Copilot for JetBrains appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
