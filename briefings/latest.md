@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-09T10:22:05+00:00_
+_Generiert: 2026-09-09T10:33:17+00:00_
 
 ## Kurzlage
 
-71 neue relevante Treffer. Stärkstes Signal: „September-Patchday: Adobe schließt kritische Zero-Day-Lücke und 172 weitere“ aus heise Security Alerts (Score 24, risk).
+73 neue relevante Treffer. Stärkstes Signal: „September-Patchday: Adobe schließt kritische Zero-Day-Lücke und 172 weitere“ aus heise Security Alerts (Score 24, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -110,14 +110,14 @@ _Generiert: 2026-09-09T10:22:05+00:00_
   - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: AI agents are often discussed in terms of what they can replace. I think a more useful question is what repetitive work they can remove while leaving important decisions with people. Consider a simple appointment problem. A customer needs a consultation next week. Tuesday or Thursday afternoon works best, preferably between 02.00pm and 05.00pm. The […] The post When a slot opens, let the AI agent act – within limits…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **[NEU] [mittel] Fortinet FortiManager: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3260)
+- **[NEU] [mittel] Fortinet FortiProxy und FortiOS: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3263)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-09-09T10:09:17+00:00`, fetched `2026-09-09T10:21:36+00:00`
+  - Zeit: published `2026-09-09T10:19:17+00:00`, fetched `2026-09-09T10:32:46+00:00`
   - Treffer: BSI, CERT-Bund, Schwachstelle, Security, Watchgraph:cyber_active_exploitation
   - Watchgraph: cyber_active_exploitation
   - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)
-  - Kurz: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Fortinet FortiManager ausnutzen, um Sicherheitsvorkehrungen zu umgehen.
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Fortinet FortiOS und Fortinet FortiProxy ausnutzen, um einen Denial of Service Angriff durchzuführen und Informationen offenzulegen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **CISA ICS Advisory / ICS Medical Advisory（2026年09月08日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU93257103/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-09T10:22:07+00:00",
+  "generated_at": "2026-09-09T10:33:21+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 71,
+    "findings": 73,
     "clusters": 36,
     "cross_source_confrmed": 0,
     "hot": 1,
@@ -28,22 +28,22 @@
       "max_score": 24,
       "credibility_total": 3.15,
       "cross_source_confirmed": false,
-      "momentum_delta": 2,
-      "momentum_status": "increasing",
-      "network_score": 39.5,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 32.46,
       "hot": true,
       "watchgraph_modules": [
         "cyber_active_exploitation"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 36.3,
-      "ranking_score": 39.5,
+      "raw_network_score": 30.3,
+      "ranking_score": 32.46,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 5.0,
-      "baseline_bonus": 5.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 2.96,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": true,
@@ -64,30 +64,30 @@
       "urls": [
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3261",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3239",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3263",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3260",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3259",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3258",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3257"
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3258"
       ],
-      "finding_count": 34,
+      "finding_count": 36,
       "max_score": 20,
-      "credibility_total": 35.7,
+      "credibility_total": 37.8,
       "cross_source_confirmed": false,
-      "momentum_delta": 5,
+      "momentum_delta": 2,
       "momentum_status": "increasing",
-      "network_score": 34.5,
+      "network_score": 31.5,
       "hot": false,
       "watchgraph_modules": [
         "cyber_active_exploitation"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 106.4,
-      "ranking_score": 34.5,
+      "raw_network_score": 101.6,
+      "ranking_score": 31.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 8.0,
+      "momentum_bonus": 5.0,
       "baseline_bonus": 5.0,
       "early_signal": false,
       "early_signal_bonus": 0.0,
@@ -136,44 +136,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-09T05:58:16+00:00"
-    },
-    {
-      "key": "domain:restofworld.org",
-      "title": "Now it’s China’s experts who are gig workers training AI data",
-      "sources": [
-        "Rest of World Global Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://restofworld.org/2026/china-expert-ai-trainers/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
-      ],
-      "finding_count": 1,
-      "max_score": 13,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 22.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 18.1,
-      "ranking_score": 22.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 5.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-19T01:58:32+00:00"
     },
     {
       "key": "title:southeast-asia-smes-not-have-problem-they-have",
@@ -252,6 +214,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-09T02:30:04+00:00"
+    },
+    {
+      "key": "domain:restofworld.org",
+      "title": "Now it’s China’s experts who are gig workers training AI data",
+      "sources": [
+        "Rest of World Global Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://restofworld.org/2026/china-expert-ai-trainers/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+      ],
+      "finding_count": 1,
+      "max_score": 13,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 18.19,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 15.1,
+      "ranking_score": 18.19,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 3.69,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T01:58:32+00:00"
     },
     {
       "key": "title:cisa-ics-advisory-ics-medical-advisory-2026",
@@ -562,44 +562,6 @@
       "first_seen_at": "2026-09-09T04:45:52+00:00"
     },
     {
-      "key": "domain:x.com",
-      "title": "スレッズの自称「神仏祈祷師｜霊視占い師」がAIを用いて極めて創作っぽい話を流布し、暴力を扇動していた - 電脳塵芥",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://nou-yunyun.hatenablog.com/entry/2026/09/09/140000"
-      ],
-      "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 14.46,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 13.1,
-      "ranking_score": 14.46,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 1.96,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-09-04T10:58:35+00:00"
-    },
-    {
       "key": "earthquake:philippines:5.0",
       "title": "M 5.0 - 154 km S of Sarangani, Philippines",
       "sources": [
@@ -639,6 +601,44 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-06-17T22:13:10+00:00"
+    },
+    {
+      "key": "domain:x.com",
+      "title": "スレッズの自称「神仏祈祷師｜霊視占い師」がAIを用いて極めて創作っぽい話を流布し、暴力を扇動していた - 電脳塵芥",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://nou-yunyun.hatenablog.com/entry/2026/09/09/140000"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 14.38,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 13.1,
+      "ranking_score": 14.38,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 1.88,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-04T10:58:35+00:00"
     },
     {
       "key": "title:openai",
@@ -697,18 +697,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 12.76,
+      "network_score": 12.71,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 14.1,
-      "ranking_score": 12.76,
+      "ranking_score": 12.71,
       "initial_reach_tier": "institutional",
       "source_reach_score": 5.0,
       "authority_bonus_capped": 3.0,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.76,
+      "baseline_bonus": 0.71,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1404,7 +1404,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-09T10:22:07Z",
+    "generated_at": "2026-09-09T10:33:21Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T10:22:07+00:00",
-  "today_file_total": 71,
+  "generated_at": "2026-09-09T10:33:21+00:00",
+  "today_file_total": 73,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -14,18 +14,18 @@
       "urls": [
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3261",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3239",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3263",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3260",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3259",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3258",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3257"
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3258"
       ],
-      "finding_count": 34,
+      "finding_count": 36,
       "max_score": 20,
-      "credibility_total": 35.7,
+      "credibility_total": 37.8,
       "cross_source_confirmed": false,
-      "momentum_delta": 5,
+      "momentum_delta": 2,
       "momentum_status": "increasing",
-      "network_score": 106.4,
+      "network_score": 101.6,
       "hot": true,
       "watchgraph_modules": [
         "cyber_active_exploitation"
@@ -50,9 +50,9 @@
       "max_score": 24,
       "credibility_total": 3.15,
       "cross_source_confirmed": false,
-      "momentum_delta": 2,
-      "momentum_status": "increasing",
-      "network_score": 36.3,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 30.3,
       "hot": true,
       "watchgraph_modules": [
         "cyber_active_exploitation"
@@ -179,29 +179,6 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "domain:restofworld.org",
-      "title": "Now it’s China’s experts who are gig workers training AI data",
-      "sources": [
-        "Rest of World Global Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://restofworld.org/2026/china-expert-ai-trainers/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
-      ],
-      "finding_count": 1,
-      "max_score": 13,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 18.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
       "key": "earthquake:philippines:5.0",
       "title": "M 5.0 - 154 km S of Sarangani, Philippines",
       "sources": [
@@ -317,6 +294,29 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "domain:restofworld.org",
+      "title": "Now it’s China’s experts who are gig workers training AI data",
+      "sources": [
+        "Rest of World Global Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://restofworld.org/2026/china-expert-ai-trainers/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+      ],
+      "finding_count": 1,
+      "max_score": 13,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 15.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "title:synopsys-star-team-tackle-chip-packaging-challenges",
