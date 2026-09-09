@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T03:39:22+00:00",
-  "run_id": "2026-09-09T03:39:22+00:00",
+  "generated_at": "2026-09-09T03:49:15+00:00",
+  "run_id": "2026-09-09T03:49:15+00:00",
   "date": "2026-09-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 19,
     "displayed_findings": 19,
     "high": 0,
@@ -905,32 +905,7 @@
       "id": "b5112b2c98a785534192"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Southeast Asia’s SMEs do not have an AI problem. They have a record problem",
-      "url": "https://e27.co/southeast-asias-smes-do-not-have-an-ai-problem-they-have-a-record-problem-20260908/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-09T03:30:25+00:00",
-      "fetched_at": "2026-09-09T03:38:53+00:00",
-      "summary": "Last month I sat with the founder of a distribution business in Colombo who wanted to show me his new demand forecasting dashboard. It looked serious. Clean charts, confidence bands, a recommended reorder quantity against every product line. I asked him one question. Where does the order data come from. The answer was a junior […] The post Southeast Asia’s SMEs do not have an AI problem. They have a record problem a…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "founder",
-        "Public Health",
-        "Southeast Asia"
-      ],
-      "relevance_score": 17,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.5); founder (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5a5a887b17b2d5ae8f51"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
