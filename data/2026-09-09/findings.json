@@ -846,6 +846,29 @@
     "id": "244d48ebb627ae1aaaff"
   },
   {
+    "title": "[UPDATE] [mittel] libarchive: Schwachstelle ermöglicht Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2710",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-09T11:59:32+00:00",
+    "fetched_at": "2026-09-09T12:07:26+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in libarchive ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "10870c07880a3a90465f"
+  },
+  {
     "title": "[NEU] [hoch] Tor: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3279",
     "source": "BSI CERT-Bund Security Advisories",
