@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T08:54:11+00:00",
-  "today_file_total": 48,
+  "generated_at": "2026-09-09T09:01:50+00:00",
+  "today_file_total": 53,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -19,13 +19,13 @@
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3234",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3229"
       ],
-      "finding_count": 16,
+      "finding_count": 21,
       "max_score": 17,
-      "credibility_total": 16.8,
+      "credibility_total": 22.05,
       "cross_source_confirmed": false,
       "momentum_delta": 5,
       "momentum_status": "increasing",
-      "network_score": 65.6,
+      "network_score": 76.1,
       "hot": true,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
@@ -409,29 +409,6 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "domain:kernel.org",
-      "title": "深刻化する“サイバー蝗害”―Linuxカーネルソースに群がる貪欲で超非効率な「AIイナゴ」たち | gihyo.jp",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://gihyo.jp/article/2026/09/daily-linux-260909"
-      ],
-      "finding_count": 1,
-      "max_score": 8,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 13.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
       "key": "title:security-alert-microsoft-releases-september-2026-security-updates",
       "title": "Security Alert: Microsoft Releases September 2026 Security Updates",
       "sources": [
@@ -465,6 +442,29 @@
       ],
       "urls": [
         "https://www.jpcert.or.jp/english/at/2026/at260026.html"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 12.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:japan.cnet.com",
+      "title": "ロボットが私にパンチの威嚇 技術の祭典で感じた「暴力」を賛美する危うさ",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://japan.cnet.com/article/35252378/"
       ],
       "finding_count": 1,
       "max_score": 10,
