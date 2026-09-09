@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-09T21:41:33+00:00",
+  "generated_at": "2026-09-09T21:56:52+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -140,7 +140,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-04T07:59:58+00:00",
       "last_seen_at": "2026-09-09T21:41:14+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_ba08d4bd315956d1d3e3",
@@ -244,7 +244,7 @@
       "p90_usd": 117600000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-09T02:30:04+00:00",
-      "last_seen_at": "2026-09-09T21:41:14+00:00",
+      "last_seen_at": "2026-09-09T21:56:37+00:00",
       "status": "active"
     },
     {
@@ -636,7 +636,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-09T07:26:12+00:00",
-      "last_seen_at": "2026-09-09T21:41:14+00:00",
+      "last_seen_at": "2026-09-09T21:56:37+00:00",
       "status": "active"
     },
     {
@@ -1456,6 +1456,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_43dc847ef4b3c7d64f98",
+      "title": "M 4.9 - Mid-Indian Ridge",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1128000.0,
+      "p50_usd": 112800000.0,
+      "p90_usd": 11280000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-09T21:56:37+00:00",
+      "last_seen_at": "2026-09-09T21:56:37+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_058a0e17878f3797ed5c",
       "title": "M 4.6 - 170 km ESE of Kuril’sk, Russia",
       "event_classes": [
@@ -2251,7 +2268,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-09T21:41:14+00:00",
+      "last_seen_at": "2026-09-09T21:56:37+00:00",
       "status": "active"
     },
     {
@@ -2285,7 +2302,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-09T21:41:14+00:00",
+      "last_seen_at": "2026-09-09T21:56:37+00:00",
       "status": "active"
     },
     {
@@ -2302,7 +2319,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-09T13:42:48+00:00",
-      "last_seen_at": "2026-09-09T21:41:14+00:00",
+      "last_seen_at": "2026-09-09T21:56:37+00:00",
       "status": "active"
     },
     {
@@ -2336,7 +2353,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-09T01:02:28+00:00",
-      "last_seen_at": "2026-09-09T21:41:14+00:00",
+      "last_seen_at": "2026-09-09T21:56:37+00:00",
       "status": "active"
     },
     {
@@ -2438,7 +2455,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-09T05:01:23+00:00",
-      "last_seen_at": "2026-09-09T21:41:14+00:00",
+      "last_seen_at": "2026-09-09T21:56:37+00:00",
       "status": "active"
     },
     {
@@ -2472,7 +2489,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-09T01:02:28+00:00",
-      "last_seen_at": "2026-09-09T21:41:14+00:00",
+      "last_seen_at": "2026-09-09T21:56:37+00:00",
       "status": "active"
     },
     {
@@ -2489,7 +2506,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-09T01:02:28+00:00",
-      "last_seen_at": "2026-09-09T21:41:14+00:00",
+      "last_seen_at": "2026-09-09T21:56:37+00:00",
       "status": "active"
     },
     {
@@ -2727,7 +2744,7 @@
       "p90_usd": 1224000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-09T05:58:16+00:00",
-      "last_seen_at": "2026-09-09T21:41:14+00:00",
+      "last_seen_at": "2026-09-09T21:56:37+00:00",
       "status": "active"
     },
     {
@@ -3050,7 +3067,7 @@
       "p90_usd": 1176000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-09T03:39:25+00:00",
-      "last_seen_at": "2026-09-09T21:41:14+00:00",
+      "last_seen_at": "2026-09-09T21:56:37+00:00",
       "status": "active"
     },
     {
@@ -3152,7 +3169,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-09T13:42:48+00:00",
-      "last_seen_at": "2026-09-09T21:41:14+00:00",
+      "last_seen_at": "2026-09-09T21:56:37+00:00",
       "status": "active"
     },
     {
@@ -3203,7 +3220,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-09T21:41:14+00:00",
+      "last_seen_at": "2026-09-09T21:56:37+00:00",
       "status": "active"
     },
     {
@@ -3254,7 +3271,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-09T01:02:28+00:00",
-      "last_seen_at": "2026-09-09T21:41:14+00:00",
+      "last_seen_at": "2026-09-09T21:56:37+00:00",
       "status": "active"
     },
     {
@@ -3628,7 +3645,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-09T04:45:52+00:00",
-      "last_seen_at": "2026-09-09T21:41:14+00:00",
+      "last_seen_at": "2026-09-09T21:56:37+00:00",
       "status": "active"
     },
     {
@@ -3781,7 +3798,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-09T08:08:20+00:00",
-      "last_seen_at": "2026-09-09T21:41:14+00:00",
+      "last_seen_at": "2026-09-09T21:56:37+00:00",
       "status": "active"
     },
     {
@@ -3968,7 +3985,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-09T21:41:14+00:00",
+      "last_seen_at": "2026-09-09T21:56:37+00:00",
       "status": "active"
     },
     {
@@ -4444,7 +4461,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T10:20:20+00:00",
-      "last_seen_at": "2026-09-09T21:41:14+00:00",
+      "last_seen_at": "2026-09-09T21:56:37+00:00",
       "status": "active"
     },
     {
@@ -5005,7 +5022,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T18:20:05+00:00",
-      "last_seen_at": "2026-09-09T21:41:14+00:00",
+      "last_seen_at": "2026-09-09T21:56:37+00:00",
       "status": "active"
     },
     {
