@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T11:39:58+00:00",
-  "run_id": "2026-09-09T11:39:58+00:00",
+  "generated_at": "2026-09-09T11:47:44+00:00",
+  "run_id": "2026-09-09T11:47:44+00:00",
   "date": "2026-09-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 88
+      "configured_public_sources_only": 90
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 88,
-    "displayed_findings": 88,
+    "new_relevant_findings": 2,
+    "today_file_total": 90,
+    "displayed_findings": 90,
     "high": 1,
-    "medium": 59,
-    "observe": 28,
+    "medium": 60,
+    "observe": 29,
     "source_errors": 0
   },
   "sections": {
@@ -875,6 +875,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "244d48ebb627ae1aaaff"
+      },
+      {
+        "title": "[NEU] [hoch] Dell OpenManage Server Administrator: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3276",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-09T11:39:17+00:00",
+        "fetched_at": "2026-09-09T11:47:13+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Dell OpenManage Server Administrator ausnutzen, um Sicherheitsmechanismen zu umgehen, Daten offenzulegen oder zu manipulieren, SSRF- und Denial-of-Service-Angriffe durchzuführen, Berechtigungen zu erweitern und beliebigen Code auszuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "58e29c3b8923c86c706a"
       },
       {
         "title": "[NEU] [niedrig] Mozilla Firefox für iOS: Schwachstelle ermöglicht Denial of Service",
@@ -2161,6 +2184,27 @@
         "id": "50d8ee20170600e892ef"
       },
       {
+        "title": "QRコード不要の「NFCタグ決済」がPayPayやd払い対応 JCBとCPS",
+        "url": "https://www.watch.impress.co.jp/docs/news/2139467.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-09T06:35:10+00:00",
+        "fetched_at": "2026-09-09T11:47:13+00:00",
+        "summary": "QRコード不要の「NFCタグ決済」がPayPayやd払い対応 JCBとCPS",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6c6a70f831c0758c37bd"
+      },
+      {
         "title": "「菜の花がおかしい」――イラストレーター制作うたうマラソン大会ポスターに指摘相次ぐ 事務局がAI使用認め謝罪",
         "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001308/",
         "source": "Hatena Bookmark Hotentry IT",
@@ -3113,6 +3157,29 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "244d48ebb627ae1aaaff"
+    },
+    {
+      "title": "[NEU] [hoch] Dell OpenManage Server Administrator: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3276",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-09T11:39:17+00:00",
+      "fetched_at": "2026-09-09T11:47:13+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Dell OpenManage Server Administrator ausnutzen, um Sicherheitsmechanismen zu umgehen, Daten offenzulegen oder zu manipulieren, SSRF- und Denial-of-Service-Angriffe durchzuführen, Berechtigungen zu erweitern und beliebigen Code auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "58e29c3b8923c86c706a"
     },
     {
       "title": "[NEU] [niedrig] Mozilla Firefox für iOS: Schwachstelle ermöglicht Denial of Service",
@@ -4397,6 +4464,27 @@
       "id": "50d8ee20170600e892ef"
     },
     {
+      "title": "QRコード不要の「NFCタグ決済」がPayPayやd払い対応 JCBとCPS",
+      "url": "https://www.watch.impress.co.jp/docs/news/2139467.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-09T06:35:10+00:00",
+      "fetched_at": "2026-09-09T11:47:13+00:00",
+      "summary": "QRコード不要の「NFCタグ決済」がPayPayやd払い対応 JCBとCPS",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6c6a70f831c0758c37bd"
+    },
+    {
       "title": "「菜の花がおかしい」――イラストレーター制作うたうマラソン大会ポスターに指摘相次ぐ 事務局がAI使用認め謝罪",
       "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001308/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4504,49 +4592,13 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [hoch] Ivanti Neurons for ITSM: Mehrere Schwachstellen ermöglichen Codeausführung",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3272",
+      "title": "[NEU] [hoch] Dell OpenManage Server Administrator: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3276",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-09-09T11:24:17+00:00",
-      "fetched_at": "2026-09-09T11:39:28+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Ivanti Neurons for ITSM ausnutzen, um beliebigen Programmcode auszuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security",
-        "Watchgraph:cyber_active_exploitation"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "cyber_active_exploitation"
-      ],
-      "watchgraph_reasons": [
-        "cyber_active_exploitation: Ivanti"
-      ],
-      "market_context": [
-        "CRWD",
-        "PANW",
-        "FTNT",
-        "ZS",
-        "OKTA",
-        "NET",
-        "S"
-      ],
-      "id": "3d58436af8d6d8be4384"
-    },
-    {
-      "title": "[NEU] [mittel] IBM WebSphere Application Server Liberty: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3275",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-09T11:34:17+00:00",
-      "fetched_at": "2026-09-09T11:39:28+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM WebSphere Application Server Liberty ausnutzen, um einen Denial of Service Angriff durchzuführen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren und Informationen offenzulegen.",
+      "published_at": "2026-09-09T11:39:17+00:00",
+      "fetched_at": "2026-09-09T11:47:13+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Dell OpenManage Server Administrator ausnutzen, um Sicherheitsmechanismen zu umgehen, Daten offenzulegen oder zu manipulieren, SSRF- und Denial-of-Service-Angriffe durchzuführen, Berechtigungen zu erweitern und beliebigen Code auszuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -4560,53 +4612,28 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "700f255a6a1ce65dfb88"
+      "id": "58e29c3b8923c86c706a"
     },
     {
-      "title": "[NEU] [niedrig] Mozilla Firefox für iOS: Schwachstelle ermöglicht Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3274",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "QRコード不要の「NFCタグ決済」がPayPayやd払い対応 JCBとCPS",
+      "url": "https://www.watch.impress.co.jp/docs/news/2139467.html",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-09T11:34:17+00:00",
-      "fetched_at": "2026-09-09T11:39:28+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Mozilla Firefox für iOS ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "published_at": "2026-09-09T06:35:10+00:00",
+      "fetched_at": "2026-09-09T11:47:13+00:00",
+      "summary": "QRコード不要の「NFCタグ決済」がPayPayやd払い対応 JCBとCPS",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "4f0b1d33781c81a28434"
-    },
-    {
-      "title": "[NEU] [mittel] Adobe Photoshop Mobile für Android: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3273",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-09T11:29:17+00:00",
-      "fetched_at": "2026-09-09T11:39:28+00:00",
-      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Adobe Photoshop Mobile für Android ausnutzen, um seine Privilegien zu erhöhen und Sicherheitsmaßnahmen zu umgehen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ed4fa023c236b15ff9a2"
+      "id": "6c6a70f831c0758c37bd"
     }
   ],
   "source_errors": [],
