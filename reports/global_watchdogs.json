@@ -1,7 +1,55 @@
 {
-  "generated_at": "2026-09-09T19:13:30+00:00",
+  "generated_at": "2026-09-09T19:23:41+00:00",
   "sections": {
     "global_security": [
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-19490 Citrix NetScaler",
+        "summary": "Known exploited vulnerability. Added 2026-09-09. Due 2026-09-12. Citrix NetScaler Authentication Bypass Using an Alternate Path or Channel Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-09-09",
+        "metrics": {
+          "cve": "CVE-2026-19490"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2025-25249 Fortinet Multiple Products",
+        "summary": "Known exploited vulnerability. Added 2026-09-09. Due 2026-09-12. Fortinet Multiple Products Heap-based Buffer Overflow Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-09-09",
+        "metrics": {
+          "cve": "CVE-2025-25249"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-87491 Google Chromium V8",
+        "summary": "Known exploited vulnerability. Added 2026-09-09. Due 2026-09-23. Google Chromium V8 Out of Bounds Write Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-09-09",
+        "metrics": {
+          "cve": "CVE-2026-87491"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-20079 Cisco Secure Firewall Management Center (FMC) and Security Cloud Control (SCC) Firewall Management",
+        "summary": "Known exploited vulnerability. Added 2026-09-09. Due 2026-09-12. Cisco Firewall Management Center Authentication Bypass Using an Alternate Path or Channel Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-09-09",
+        "metrics": {
+          "cve": "CVE-2026-20079"
+        }
+      },
       {
         "domain": "security",
         "severity": "high",
@@ -12,54 +60,6 @@
         "published_at": "2026-09-08",
         "metrics": {
           "cve": "CVE-2026-75650"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-81963 Microsoft Windows",
-        "summary": "Known exploited vulnerability. Added 2026-09-08. Due 2026-09-22. Microsoft Windows Link Following Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-09-08",
-        "metrics": {
-          "cve": "CVE-2026-81963"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-86218 N-able N-central",
-        "summary": "Known exploited vulnerability. Added 2026-09-08. Due 2026-09-11. N-able N-central Static Code Injection Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-09-08",
-        "metrics": {
-          "cve": "CVE-2026-86218"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-85880 Microsoft Windows",
-        "summary": "Known exploited vulnerability. Added 2026-09-08. Due 2026-09-22. Microsoft Windows Heap-Based Buffer Overflow Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-09-08",
-        "metrics": {
-          "cve": "CVE-2026-85880"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-85046 Google Chromium V8",
-        "summary": "Known exploited vulnerability. Added 2026-09-04. Due 2026-09-18. Google Chromium V8 Type Confusion Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-09-04",
-        "metrics": {
-          "cve": "CVE-2026-85046"
         }
       },
       {

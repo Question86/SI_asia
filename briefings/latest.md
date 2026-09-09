@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-09T19:13:26+00:00_
+_Generiert: 2026-09-09T19:23:37+00:00_
 
 ## Kurzlage
 
@@ -9,26 +9,26 @@ _Generiert: 2026-09-09T19:13:26+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-19490 Citrix NetScaler** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-09-09`
+  - Kurz: Known exploited vulnerability. Added 2026-09-09. Due 2026-09-12. Citrix NetScaler Authentication Bypass Using an Alternate Path or Channel Vulnerability
+- **CISA KEV: CVE-2025-25249 Fortinet Multiple Products** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-09-09`
+  - Kurz: Known exploited vulnerability. Added 2026-09-09. Due 2026-09-12. Fortinet Multiple Products Heap-based Buffer Overflow Vulnerability
+- **CISA KEV: CVE-2026-87491 Google Chromium V8** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-09-09`
+  - Kurz: Known exploited vulnerability. Added 2026-09-09. Due 2026-09-23. Google Chromium V8 Out of Bounds Write Vulnerability
+- **CISA KEV: CVE-2026-20079 Cisco Secure Firewall Management Center (FMC) and Security Cloud Control (SCC) Firewall Management** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-09-09`
+  - Kurz: Known exploited vulnerability. Added 2026-09-09. Due 2026-09-12. Cisco Firewall Management Center Authentication Bypass Using an Alternate Path or Channel Vulnerability
 - **CISA KEV: CVE-2026-75650 Adobe Commerce and Magento** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-09-08`
   - Kurz: Known exploited vulnerability. Added 2026-09-08. Due 2026-09-11. Adobe Commerce and Magento Improper Neutralization of Special Elements Used in a Template Engine Vulnerability
-- **CISA KEV: CVE-2026-81963 Microsoft Windows** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-08`
-  - Kurz: Known exploited vulnerability. Added 2026-09-08. Due 2026-09-22. Microsoft Windows Link Following Vulnerability
-- **CISA KEV: CVE-2026-86218 N-able N-central** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-08`
-  - Kurz: Known exploited vulnerability. Added 2026-09-08. Due 2026-09-11. N-able N-central Static Code Injection Vulnerability
-- **CISA KEV: CVE-2026-85880 Microsoft Windows** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-08`
-  - Kurz: Known exploited vulnerability. Added 2026-09-08. Due 2026-09-22. Microsoft Windows Heap-Based Buffer Overflow Vulnerability
-- **CISA KEV: CVE-2026-85046 Google Chromium V8** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-04`
-  - Kurz: Known exploited vulnerability. Added 2026-09-04. Due 2026-09-18. Google Chromium V8 Type Confusion Vulnerability
 - **GDACS: Green flood alert in Indonesia** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104146)
   - Quelle: GDACS
   - Zeit: ``
