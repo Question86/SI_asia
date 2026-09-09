@@ -1,18 +1,25 @@
 {
-  "generated_at": "2026-09-09T20:23:08+00:00",
-  "status": "normal",
+  "generated_at": "2026-09-09T20:32:24+00:00",
+  "status": "warning",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
-  "coverage_confidence": "normal",
+  "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 118,
     "displayed_findings": 118,
     "high": 1,
     "medium": 69,
     "observe": 48,
-    "source_errors": 0
+    "source_errors": 1
   },
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "google_trends_korea_hot",
+      "source_name": "Google Trends South Korea Hot Feed",
+      "source_type": "rss",
+      "error": "500 Server Error: Internal Server Error for url: https://trends.google.co.kr/trending/rss?geo=KR"
+    }
+  ],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"
 }

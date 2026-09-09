@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-09T20:23:08+00:00",
-  "run_id": "2026-09-09T20:23:08+00:00",
+  "generated_at": "2026-09-09T20:32:24+00:00",
+  "run_id": "2026-09-09T20:32:24+00:00",
   "date": "2026-09-09",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
       "configured_public_sources_only": 118
     },
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 118,
     "displayed_findings": 118,
     "high": 1,
     "medium": 69,
     "observe": 48,
-    "source_errors": 0
+    "source_errors": 1
   },
   "sections": {
     "high": [
@@ -5984,30 +5984,15 @@
       "id": "4d69c64eb8e925ff0aa2"
     }
   ],
-  "new_findings": [
+  "new_findings": [],
+  "source_errors": [
     {
-      "title": "「iPhone Duo」ついに登場。Apple初7.6型折りたたみで36万円強",
-      "url": "https://pc.watch.impress.co.jp/docs/news/2139675.html",
-      "source": "Hatena Bookmark Hotentry IT",
+      "source_id": "google_trends_korea_hot",
+      "source_name": "Google Trends South Korea Hot Feed",
       "source_type": "rss",
-      "published_at": "2026-09-09T19:12:14+00:00",
-      "fetched_at": "2026-09-09T20:22:34+00:00",
-      "summary": "「iPhone Duo」ついに登場。Apple初7.6型折りたたみで36万円強",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8747d7eba6775181158b"
+      "error": "500 Server Error: Internal Server Error for url: https://trends.google.co.kr/trending/rss?geo=KR"
     }
   ],
-  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,

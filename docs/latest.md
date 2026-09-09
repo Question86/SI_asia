@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-09T20:23:08+00:00_
+_Generiert: 2026-09-09T20:32:24+00:00_
 
 ## Kurzlage
 
-118 neue relevante Treffer. Stärkstes Signal: „September-Patchday: Adobe schließt kritische Zero-Day-Lücke und 172 weitere“ aus heise Security Alerts (Score 24, risk).
+118 neue relevante Treffer. Stärkstes Signal: „September-Patchday: Adobe schließt kritische Zero-Day-Lücke und 172 weitere“ aus heise Security Alerts (Score 24, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -294,3 +294,7 @@ _Generiert: 2026-09-09T20:23:08+00:00_
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `google_trends_korea_hot` (rss): 500 Server Error: Internal Server Error for url: https://trends.google.co.kr/trending/rss?geo=KR
