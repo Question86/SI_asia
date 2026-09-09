@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T22:39:54+00:00",
-  "run_id": "2026-09-09T22:39:54+00:00",
+  "generated_at": "2026-09-09T22:47:41+00:00",
+  "run_id": "2026-09-09T22:47:41+00:00",
   "date": "2026-09-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 124,
     "displayed_findings": 124,
     "high": 1,
@@ -6268,29 +6268,7 @@
       "id": "4d69c64eb8e925ff0aa2"
     }
   ],
-  "new_findings": [
-    {
-      "title": "iPhoneの「Pro」シリーズが大幅値上げ、昨年比較で最低4万円・最大12万円",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2139677.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-09T19:48:22+00:00",
-      "fetched_at": "2026-09-09T22:39:22+00:00",
-      "summary": "iPhoneの「Pro」シリーズが大幅値上げ、昨年比較で最低4万円・最大12万円",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "06426907a6521b94b147"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
