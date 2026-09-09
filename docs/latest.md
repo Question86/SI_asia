@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-09T03:25:53+00:00_
+_Generiert: 2026-09-09T03:39:22+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „When a slot opens, let the AI agent act – within limits“ aus e27 Asia Startup and Tech Feed (Score 17, opportunity).
+19 neue relevante Treffer. Stärkstes Signal: „Southeast Asia’s SMEs do not have an AI problem. They have a record problem“ aus e27 Asia Startup and Tech Feed (Score 17, observation).
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Southeast Asia’s SMEs do not have an AI problem. They have a record problem** — Score 17, observation — [Quelle](https://e27.co/southeast-asias-smes-do-not-have-an-ai-problem-they-have-a-record-problem-20260908/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-09T03:30:25+00:00`, fetched `2026-09-09T03:38:53+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, founder, Public Health, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.5); founder (+2.0); recent (+1.0)
+  - Kurz: Last month I sat with the founder of a distribution business in Colombo who wanted to show me his new demand forecasting dashboard. It looked serious. Clean charts, confidence bands, a recommended reorder quantity against every product line. I asked him one question. Where does the order data come from. The answer was a junior […] The post Southeast Asia’s SMEs do not have an AI problem. They have a record problem a…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **When a slot opens, let the AI agent act – within limits** — Score 17, opportunity — [Quelle](https://e27.co/when-a-slot-opens-let-the-ai-agent-act-within-limits-20260906/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-09T02:00:33+00:00`, fetched `2026-09-09T02:29:26+00:00`
@@ -144,9 +153,9 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 

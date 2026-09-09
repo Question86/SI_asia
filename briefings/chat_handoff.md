@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-09T03:25:53+00:00_
+_Generated: 2026-09-09T03:39:22+00:00_
 
 ## Status
 - status: `normal`
-- findings: `18`
+- findings: `19`
 
 ## Top Signals
 
-### 1. When a slot opens, let the AI agent act – within limits
+### 1. Southeast Asia’s SMEs do not have an AI problem. They have a record problem
+- source: e27 Asia Startup and Tech Feed
+- score: `17`
+- published: `2026-09-09T03:30:25+00:00`
+- url: https://e27.co/southeast-asias-smes-do-not-have-an-ai-problem-they-have-a-record-problem-20260908/
+- summary: Last month I sat with the founder of a distribution business in Colombo who wanted to show me his new demand forecasting dashboard. It looked serious. Clean charts, confidence bands, a recommended reorder quantity against every product line. I asked him one q…
+
+### 2. When a slot opens, let the AI agent act – within limits
 - source: e27 Asia Startup and Tech Feed
 - score: `17`
 - published: `2026-09-09T02:00:33+00:00`
 - url: https://e27.co/when-a-slot-opens-let-the-ai-agent-act-within-limits-20260906/
 - summary: AI agents are often discussed in terms of what they can replace. I think a more useful question is what repetitive work they can remove while leaving important decisions with people. Consider a simple appointment problem. A customer needs a consultation next…
 
-### 2. CISA ICS Advisory / ICS Medical Advisory（2026年09月08日）
+### 3. CISA ICS Advisory / ICS Medical Advisory（2026年09月08日）
 - source: JVN Japan Vulnerability Notes
 - score: `16`
 - published: `2026-09-09T10:00:30+09:00`
 - url: https://jvn.jp/vu/JVNVU93257103/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 3. Gen Z doesn’t need more AI courses, it needs the skills AI can’t replicate
+### 4. Gen Z doesn’t need more AI courses, it needs the skills AI can’t replicate
 - source: e27 Asia Startup and Tech Feed
 - score: `16`
 - published: `2026-09-09T01:00:39+00:00`
 - url: https://e27.co/gen-z-doesnt-need-more-ai-courses-it-needs-the-skills-ai-cant-replicate-20260908/
 - summary: In April 2026, the United States announced 83,387 job cuts. 26 per cent of them named artificial intelligence as the reason, the second consecutive month that AI was the top cited cause. Behind those numbers is a quieter story that is going to shape an entire…
-
-### 4. SPI Flashに組み込まれたUEFI Shellモジュールにおけるセキュアブート回避の脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-09-09T10:00:20+09:00`
-- url: https://jvn.jp/vu/JVNVU94974158/
-- summary: CERT/CCから本件に関するアドバイザリが公表されました。
 
 ### 5. OpenAI、ミレニアム懸賞問題「ナビエ・ストークス方程式」をAIが解決したと発表 数学者は経緯に反発
 - source: Hatena Bookmark Hotentry IT
