@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T04:17:54+00:00",
-  "run_id": "2026-09-09T04:17:54+00:00",
+  "generated_at": "2026-09-09T04:34:13+00:00",
+  "run_id": "2026-09-09T04:34:13+00:00",
   "date": "2026-09-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 20,
     "displayed_findings": 20,
     "high": 0,
@@ -945,28 +945,7 @@
       "id": "b5112b2c98a785534192"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Circle to acquire Tazapay for US$400M as USDC push moves into cross-border payments",
-      "url": "https://e27.co/circle-to-acquire-tazapay-as-usdc-push-moves-into-cross-border-payments-20260909/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-09T04:00:49+00:00",
-      "fetched_at": "2026-09-09T04:17:24+00:00",
-      "summary": "For years, stablecoins have been discussed in two very different ways. In crypto circles, they are trading instruments. In financial infrastructure, they are increasingly being treated as a cheaper, always-on way to move money across borders. Circle’s planned acquisition of Singapore-headquartered Tazapay for US$400 million in all-stock deal sits firmly in the second camp. The […] The post Circle to acquire Tazapay…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5f3c5bcbbf32bf7afa4d"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
