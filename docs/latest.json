@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T09:36:18+00:00",
-  "run_id": "2026-09-09T09:36:18+00:00",
+  "generated_at": "2026-09-09T09:45:58+00:00",
+  "run_id": "2026-09-09T09:45:58+00:00",
   "date": "2026-09-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 57,
     "displayed_findings": 57,
     "high": 0,
@@ -2797,30 +2797,7 @@
       "id": "b5112b2c98a785534192"
     }
   ],
-  "new_findings": [
-    {
-      "title": "スレッズの自称「神仏祈祷師｜霊視占い師」がAIを用いて極めて創作っぽい話を流布し、暴力を扇動していた - 電脳塵芥",
-      "url": "https://nou-yunyun.hatenablog.com/entry/2026/09/09/140000",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-09T06:22:15+00:00",
-      "fetched_at": "2026-09-09T09:35:48+00:00",
-      "summary": "リトマスで「トマト窃盗の画像は誤り AI生成の電子透かし検出」という検証記事が出ていた。これは下記の「侍@hibikana417」というアカウントが投稿した写真についての検証であり、まず端的にOpenAIによるデジタル透かし（SynthID）が検出できることからAIによって作成された画像だと判断できる。 https://x.com/hibikana...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry",
-        "OpenAI"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9bf54a0910d45029f55b"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
