@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-09T17:00:09+00:00_
+_Generiert: 2026-09-09T17:18:15+00:00_
 
 ## Kurzlage
 
-109 neue relevante Treffer. Stärkstes Signal: „September-Patchday: Adobe schließt kritische Zero-Day-Lücke und 172 weitere“ aus heise Security Alerts (Score 24, risk).
+110 neue relevante Treffer. Stärkstes Signal: „September-Patchday: Adobe schließt kritische Zero-Day-Lücke und 172 weitere“ aus heise Security Alerts (Score 24, risk).
 
 ## Priorität Hoch
 
@@ -257,6 +257,15 @@ _Generiert: 2026-09-09T17:00:09+00:00_
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0)
   - Kurz: Every hyperscaler courting Southeast Asia now performs the same reassurance ritual. Ask Microsoft, Google, or AWS about the environmental cost of the data centres they are racing to build across the region, and the answer arrives pre-packaged: efficient cooling, renewable offsets, and community engagement. Worse, tech giants have even started telling reporters that their facilities […] The post SEA’s AI boom has a w…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Christine Lagarde: The choice facing Europeans** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260909~59a07e6f05.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-09-09T17:00:00+00:00`, fetched `2026-09-09T17:17:46+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Christine Lagarde: The choice facing Europeans
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.7 - 139 km NNE of Hihifo, Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg1q)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-09T12:41:30.040+00:00`, fetched `2026-09-09T12:51:09+00:00`
@@ -266,15 +275,6 @@ _Generiert: 2026-09-09T17:00:09+00:00_
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-09 12:18:14 UTC 2026-09-09 12:18:14 UTC at epicenter Location 14.877°S 173.119°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Remediate Code Quality findings with agentic autofix** — Score 9, observation — [Quelle](https://github.blog/changelog/2026-09-09-remediate-code-quality-findings-with-agentic-autofix)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-09-09T12:21:01+00:00`, fetched `2026-09-09T14:18:40+00:00`
-  - Treffer: AI Agents, GitHub
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI Agents (+6.2); GitHub (+2.0); recent (+1.0)
-  - Kurz: Agentic autofix is now available to help you burn down findings in your code quality backlog. You can select up to 25 standard findings on a page and assign the… The post Remediate Code Quality findings with agentic autofix appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
