@@ -1,10 +1,11 @@
 # Economic Outcomes
 
-Generated: `2026-09-09T00:15:22+00:00`
+Generated: `2026-09-09T01:02:47+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
 | .gitignore everything by default | $0 | — | 0 | 0 | dormant |
+| Skullcandy製ワイヤレスイヤホン「Dime 3」における不適切な認証の脆弱性 | $0 | — | 0 | 0 | active |
 | Southeast Asia’s chip-hub ambition is colliding with its chip-smuggling problem | $0 | — | 0 | 0 | dormant |
 | WebMCPがアツいので見てほしい \| DevelopersIO | $0 | — | 0 | 0 | dormant |
 | Why Kyoto, not Tokyo, is Japan’s real deeptech bet | $0 | — | 0 | 0 | dormant |
@@ -28,4 +29,3 @@ Generated: `2026-09-09T00:15:22+00:00`
 | M 4.8 - Kermadec Islands, New Zealand | $0 | — | 0 | 0 | dormant |
 | M 4.6 - Kermadec Islands region | $0 | — | 0 | 0 | dormant |
 | 令和7年度におけるデジタル庁の障害者就労施設等からの物品等の調達の推進を図るための方針及び令和6年度デジタル庁における障害者就労施設等からの物品等の調達実績を掲載しました | $0 | — | 0 | 0 | dormant |
-| 道マニア達よ、これがゼンリンの「一般国道トレカ」だ。全国459路線、9月11日から順次発売 敦賀市・岡山町1丁目交差点の「4連おにぎり」キーホルダーが付いてくるBOXセットは初回限定【地図ウォッチ】 | $0 | — | 0 | 0 | dormant |

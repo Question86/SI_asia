@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-09-09T00:15:21+00:00`
+Generated: `2026-09-09T01:02:43+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -28,9 +28,9 @@ Generated: `2026-09-09T00:15:21+00:00`
 | Multiples vulnérabilités dans JFrog Artifactory (01 septembre 2026) | regulation | $11.04M | $1.10B | $110.40B | 0.31 |
 | 「今後のデジタル人材育成政策に関する検討会」開催について掲載しました | regulation | $11.04M | $1.10B | $110.40B | 0.31 |
 | The factories are coming. Southeast Asia’s real race is to build what surrounds them | regulation | $11.04M | $1.10B | $110.40B | 0.31 |
+| 今後のデジタル人材育成政策に関する検討会（第1回）の議事次第および資料を掲載しました | regulation | $11.04M | $1.10B | $110.40B | 0.31 |
 | The US$103K visa fee is a gift to SEA’s talent pool, if the region actually wants it | regulation | $10.88M | $1.09B | $108.80B | 0.31 |
 | Southeast Asia’s live commerce boom enters its harder second act | regulation | $10.88M | $1.09B | $108.80B | 0.31 |
-| Southeast Asia’s quiet FDI manufacturing redistribution | regulation | $10.88M | $1.09B | $108.80B | 0.31 |
 
 ## Interpretation
 
