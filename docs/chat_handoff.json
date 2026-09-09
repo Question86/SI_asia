@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-09T07:55:01+00:00",
+  "generated_at": "2026-09-09T08:08:16+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 34,
-    "displayed_findings": 34,
+    "new_relevant_findings": 1,
+    "today_file_total": 35,
+    "displayed_findings": 35,
     "high": 0,
     "medium": 16,
-    "observe": 18
+    "observe": 19
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -55,6 +55,16 @@
       "section": "medium"
     },
     {
+      "title": "Synopsys, A*STAR team up to tackle AI chip packaging challenges",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-09T08:02:59+00:00",
+      "relevance_score": 13,
+      "url": "https://e27.co/synopsys-astar-team-up-to-tackle-ai-chip-packaging-challenges-20260909/",
+      "summary": "For years, the semiconductor race was largely about making transistors smaller. That contest is far from over, but the AI boom has shifted part of the battleground elsewhere: how multiple chips are assembled, connected and kept reliable inside a single packag…",
+      "section": "observe"
+    },
+    {
       "title": "Try Everything 2026 puts AI, robotics and cross-border capital at the centre",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -82,16 +92,6 @@
       "relevance_score": 12,
       "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001300/",
       "summary": "米OpenAIは9月8日（現地時間）、社内の未公開モデルがミレニアム懸賞問題の1つ「ナビエ・ストークス方程式の存在と滑らかさ」を解決する証明を生成したと発表した。3次元の非圧縮性流体が、滑らかな状態から出発しても有限時間で速度が無限大に発散する「特異点」を生じ得ることを示したもので、同社は証明の解説と、証...",
-      "section": "observe"
-    },
-    {
-      "title": "最近取り入れたClaude Codeの個人的tips 4選 - Qiita",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-07T04:52:53+00:00",
-      "relevance_score": 11,
-      "url": "https://qiita.com/kuma_3838/items/00cb0b8d61ca76769c88",
-      "summary": "はじめに ここ最近取り入れた Claude Code の tips を4つ紹介します。1つだけツールの話です。 どれも大がかりな仕組みではないので、気になったものだけ拾ってもらえればと思います。 この記事をざっくり図解 1. セッション名を自動で付ける 知っている方も多いかと思いますが、Claude Code のセッションには名前を付け...",
       "section": "observe"
     }
   ],

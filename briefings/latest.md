@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-09T07:55:01+00:00_
+_Generiert: 2026-09-09T08:08:16+00:00_
 
 ## Kurzlage
 
-34 neue relevante Treffer. Stärkstes Signal: „coreyhaines31/marketingskills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+35 neue relevante Treffer. Stärkstes Signal: „coreyhaines31/marketingskills“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -159,6 +159,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Synopsys, A*STAR team up to tackle AI chip packaging challenges** — Score 13, observation — [Quelle](https://e27.co/synopsys-astar-team-up-to-tackle-ai-chip-packaging-challenges-20260909/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-09T08:02:59+00:00`, fetched `2026-09-09T08:07:43+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Watchgraph:chips_compute_datacenters
+  - Watchgraph: chips_compute_datacenters
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, XOM, CVX, SHEL
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules chips_compute_datacenters (+3.0)
+  - Kurz: For years, the semiconductor race was largely about making transistors smaller. That contest is far from over, but the AI boom has shifted part of the battleground elsewhere: how multiple chips are assembled, connected and kept reliable inside a single package. That is the problem Synopsys and Singapore’s Agency for Science, Technology and Research (A*STAR) […] The post Synopsys, A*STAR team up to tackle AI chip pac…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Try Everything 2026 puts AI, robotics and cross-border capital at the centre** — Score 13, opportunity — [Quelle](https://e27.co/try-everything-2026-puts-ai-robotics-and-cross-border-capital-at-the-centre-20260909/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-09T04:38:47+00:00`, fetched `2026-09-09T04:45:16+00:00`
@@ -230,15 +239,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); recent (+1.0); watchgraph region usa: United States (+2.0); watchgraph demote portfolio (x0.45)
   - Kurz: Speculators rapidly adjust portfolios in response to shifting interest rate expectations and escalating global conflicts. The leading cryptocurrency recently experienced a notable decline while major United States stock indices suffered significant losses. This dual downturn highlights a broader risk-off strategy among individuals anticipating tighter monetary policy and higher energy costs. These factors create a h…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The most valuable part of AI may not be the model** — Score 8, observation — [Quelle](https://e27.co/the-most-valuable-part-of-ai-may-not-be-the-model-20260908/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-09T01:30:08+00:00`, fetched `2026-09-09T01:31:43+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: Throughout 2026, Claude users repeatedly reported the same practical failure: workflows that had worked reliably stopped working, long sessions lost their thread, and instruction-following became less dependable. The complaints did not arrive as a smooth decline. They came in bursts. Users would suddenly report that a coding workflow had become unreliable, that a long-running process […] The post The most valuable p…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **今後のデジタル人材育成政策に関する検討会（第1回）の議事次第および資料を掲載しました** — Score 8, observation — [Quelle](https://www.digital.go.jp/councils/digital-talent-development-policy/ff566760-278e-47da-8454-b25c40912fcb)
   - Quelle: Japan Digital Agency News RSS / `rss`
