@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-09-09T02:46:27+00:00_
+_Generiert: 2026-09-09T03:01:21+00:00_
 
 ## When a slot opens, let the AI agent act – within limits
 
