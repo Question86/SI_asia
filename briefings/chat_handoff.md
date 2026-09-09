@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-09T17:28:47+00:00_
+_Generated: 2026-09-09T17:39:18+00:00_
 
 ## Status
 - status: `normal`
-- findings: `111`
+- findings: `112`
 
 ## Top Signals
 
@@ -22,26 +22,26 @@ _Generated: 2026-09-09T17:28:47+00:00_
 - url: https://github.com/coreyhaines31/marketingskills
 - summary: Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. https://marketing-skills.com Marketing Skills for AI Agents A collection of AI agent skills focused on marketing tasks. Built for technical marketers and…
 
-### 3. [NEU] [niedrig] Fortinet FortiSIEM: Schwachstelle ermöglicht Darstellen falscher Informationen
+### 3. Paul Christiano joins OpenAI Foundation Board
+- source: OpenAI News RSS
+- score: `20`
+- published: `2026-09-09T17:00:00+00:00`
+- url: https://openai.com/index/paul-christiano-joins-openai-foundation-board
+- summary: Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.
+
+### 4. [NEU] [niedrig] Fortinet FortiSIEM: Schwachstelle ermöglicht Darstellen falscher Informationen
 - source: BSI CERT-Bund Security Advisories
 - score: `20`
 - published: `2026-09-09T10:09:17+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3261
 - summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Fortinet FortiSIEM ausnutzen, um Benutzer auf eine nicht vertrauenswürdige Website umzuleiten.
 
-### 4. [NEU] [hoch] Microsoft Exchange Server: Mehrere Schwachstellen
+### 5. [NEU] [hoch] Microsoft Exchange Server: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `18`
 - published: `2026-09-09T11:09:17+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3268
 - summary: Ein Angreifer kann mehrere Schwachstellen in Microsoft Exchange Server ausnutzen, um beliebigen Code auszuführen, Spoofing-Angriffe durchzuführen, erweiterte Berechtigungen zu erlangen, Daten zu manipulieren oder offenzulegen sowie einen Denial-of-Service-Ang…
-
-### 5. [NEU] [hoch] Langflow OSS: Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `17`
-- published: `2026-09-09T08:44:17+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3239
-- summary: Ein Angreifer kann mehrere Schwachstellen in Langflow OSS ausnutzen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, erweiterte Berechtigungen zu erlangen oder sensible Informationen offenzulegen.
 
 ### 6. Now it’s China’s experts who are gig workers training AI data
 - source: Rest of World Global Tech Feed
