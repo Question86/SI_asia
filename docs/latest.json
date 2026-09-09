@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T10:01:19+00:00",
-  "run_id": "2026-09-09T10:01:19+00:00",
+  "generated_at": "2026-09-09T10:22:05+00:00",
+  "run_id": "2026-09-09T10:22:05+00:00",
   "date": "2026-09-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 63
+      "configured_public_sources_only": 71
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,16 +18,50 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 6,
-    "today_file_total": 63,
-    "displayed_findings": 63,
-    "high": 0,
-    "medium": 39,
-    "observe": 24,
+    "new_relevant_findings": 8,
+    "today_file_total": 71,
+    "displayed_findings": 71,
+    "high": 1,
+    "medium": 44,
+    "observe": 26,
     "source_errors": 0
   },
   "sections": {
-    "high": [],
+    "high": [
+      {
+        "title": "September-Patchday: Adobe schließt kritische Zero-Day-Lücke und 172 weitere",
+        "url": "https://www.heise.de/news/September-Patchday-Adobe-schliesst-kritische-Zero-Day-Luecke-und-172-weitere-11446552.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-09-09T10:12:00.000+00:00",
+        "fetched_at": "2026-09-09T10:21:36+00:00",
+        "summary": "Im Zentrum der Adobe-Patch-Welle steht das Update für Adobe Commerce, das bereits akut angegriffen wird. Besonders viele Updates betreffen Experience Manager.",
+        "matched_keywords": [
+          "Security",
+          "Watchgraph:cyber_active_exploitation"
+        ],
+        "relevance_score": 24,
+        "relevance_reason": "Security (+7.5); recent (+1.0); watchgraph high-signal zero-day (+12.0); watchgraph modules cyber_active_exploitation (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "cyber_active_exploitation"
+        ],
+        "watchgraph_reasons": [
+          "cyber_active_exploitation: zero-day"
+        ],
+        "market_context": [
+          "CRWD",
+          "PANW",
+          "FTNT",
+          "ZS",
+          "OKTA",
+          "NET",
+          "S"
+        ],
+        "id": "b522552b8157c8edffb4"
+      }
+    ],
     "medium": [
       {
         "title": "coreyhaines31/marketingskills",
@@ -77,6 +111,43 @@
           "PINS"
         ],
         "id": "da4592e5a985a8e69ae3"
+      },
+      {
+        "title": "[NEU] [niedrig] Fortinet FortiSIEM: Schwachstelle ermöglicht Darstellen falscher Informationen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3261",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-09T10:09:17+00:00",
+        "fetched_at": "2026-09-09T10:21:36+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Fortinet FortiSIEM ausnutzen, um Benutzer auf eine nicht vertrauenswürdige Website umzuleiten.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security",
+          "Watchgraph:cyber_active_exploitation",
+          "Webentwicklung"
+        ],
+        "relevance_score": 20,
+        "relevance_reason": "Security (+6.0); Webentwicklung (+3.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "cyber_active_exploitation"
+        ],
+        "watchgraph_reasons": [
+          "cyber_active_exploitation: Fortinet"
+        ],
+        "market_context": [
+          "CRWD",
+          "PANW",
+          "FTNT",
+          "ZS",
+          "OKTA",
+          "NET",
+          "S"
+        ],
+        "id": "5b24a7a663a339927f47"
       },
       {
         "title": "[NEU] [hoch] Langflow OSS: Mehrere Schwachstellen",
@@ -173,6 +244,114 @@
         "id": "48bbdb2f7f935a2beed7"
       },
       {
+        "title": "[NEU] [mittel] Fortinet FortiManager: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3260",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-09T10:09:17+00:00",
+        "fetched_at": "2026-09-09T10:21:36+00:00",
+        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Fortinet FortiManager ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security",
+          "Watchgraph:cyber_active_exploitation"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "cyber_active_exploitation"
+        ],
+        "watchgraph_reasons": [
+          "cyber_active_exploitation: Fortinet"
+        ],
+        "market_context": [
+          "CRWD",
+          "PANW",
+          "FTNT",
+          "ZS",
+          "OKTA",
+          "NET",
+          "S"
+        ],
+        "id": "f4e90bd8141f2e47a471"
+      },
+      {
+        "title": "[NEU] [mittel] Fortinet FortiAnalyzer: Schwachstelle ermöglicht Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3259",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-09T10:09:17+00:00",
+        "fetched_at": "2026-09-09T10:21:36+00:00",
+        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Fortinet FortiAnalyzer ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security",
+          "Watchgraph:cyber_active_exploitation"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "cyber_active_exploitation"
+        ],
+        "watchgraph_reasons": [
+          "cyber_active_exploitation: Fortinet"
+        ],
+        "market_context": [
+          "CRWD",
+          "PANW",
+          "FTNT",
+          "ZS",
+          "OKTA",
+          "NET",
+          "S"
+        ],
+        "id": "4e44ffe4db5a3830a1de"
+      },
+      {
+        "title": "[NEU] [mittel] Fortinet FortiClient: Schwachstelle ermöglicht Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3258",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-09T10:04:17+00:00",
+        "fetched_at": "2026-09-09T10:21:36+00:00",
+        "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Fortinet FortiClient ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security",
+          "Watchgraph:cyber_active_exploitation"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "cyber_active_exploitation"
+        ],
+        "watchgraph_reasons": [
+          "cyber_active_exploitation: Fortinet"
+        ],
+        "market_context": [
+          "CRWD",
+          "PANW",
+          "FTNT",
+          "ZS",
+          "OKTA",
+          "NET",
+          "S"
+        ],
+        "id": "2d977866c874ae29b836"
+      },
+      {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月08日）",
         "url": "https://jvn.jp/vu/JVNVU93257103/",
         "source": "JVN Japan Vulnerability Notes",
@@ -194,6 +373,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "9fd09596dba218253563"
+      },
+      {
+        "title": "[NEU] [hoch] Fortinet FortiSandbox: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3257",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-09T09:59:17+00:00",
+        "fetched_at": "2026-09-09T10:21:36+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Fortinet FortiSandbox ausnutzen, um Informationen offenzulegen oder Code auszuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security",
+          "Watchgraph:cyber_active_exploitation"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "cyber_active_exploitation"
+        ],
+        "watchgraph_reasons": [
+          "cyber_active_exploitation: Fortinet"
+        ],
+        "market_context": [
+          "CRWD",
+          "PANW",
+          "FTNT",
+          "ZS",
+          "OKTA",
+          "NET",
+          "S"
+        ],
+        "id": "5d983ba26d6fe6bfc960"
       },
       {
         "title": "[NEU] [hoch] Android Patchday September 2026: Mehrere Schwachstellen",
@@ -996,6 +1211,27 @@
     ],
     "observe": [
       {
+        "title": "Now it’s China’s experts who are gig workers training AI data",
+        "url": "https://restofworld.org/2026/china-expert-ai-trainers/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "source": "Rest of World Global Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-09T10:00:00+00:00",
+        "fetched_at": "2026-09-09T10:21:36+00:00",
+        "summary": "Squeezed by a stagnant economy and state directives, China's underemployed lawyers, architects, and engineers are taking cheap gig work to teach AI their exact trades — just to pay this month's mortgage.",
+        "matched_keywords": [
+          "AI/KI",
+          "Public Health"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "AI/KI (+3.8); Public Health (+6.2); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "201aaf5251069923f212"
+      },
+      {
         "title": "Synopsys, A*STAR team up to tackle AI chip packaging challenges",
         "url": "https://e27.co/synopsys-astar-team-up-to-tackle-ai-chip-packaging-challenges-20260909/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -1367,6 +1603,26 @@
         "id": "d70aaffe76990cb56e2a"
       },
       {
+        "title": "Chrome 153: Google wechselt zu Zweiwochen-Update-Zyklus",
+        "url": "https://www.heise.de/news/Chrome-153-Google-wechselt-zu-Zweiwochen-Update-Zyklus-11446371.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-09-09T09:45:00.000+00:00",
+        "fetched_at": "2026-09-09T10:21:36+00:00",
+        "summary": "Google stellt Chrome auf einen Zweiwochen-Rhythmus um. Version 153 behebt 230 Sicherheitslücken, darunter eine aktiv ausgenutzte.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2a630c8148e39bea9f77"
+      },
+      {
         "title": "Microsoft schließt Rekordzahl an Sicherheitslücken",
         "url": "https://www.heise.de/news/Rekord-beim-Microsoft-Patchday-Fast-1000-Luecken-geschlossen-11446255.html",
         "source": "heise Security Alerts",
@@ -1555,6 +1811,39 @@
   },
   "findings": [
     {
+      "title": "September-Patchday: Adobe schließt kritische Zero-Day-Lücke und 172 weitere",
+      "url": "https://www.heise.de/news/September-Patchday-Adobe-schliesst-kritische-Zero-Day-Luecke-und-172-weitere-11446552.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-09-09T10:12:00.000+00:00",
+      "fetched_at": "2026-09-09T10:21:36+00:00",
+      "summary": "Im Zentrum der Adobe-Patch-Welle steht das Update für Adobe Commerce, das bereits akut angegriffen wird. Besonders viele Updates betreffen Experience Manager.",
+      "matched_keywords": [
+        "Security",
+        "Watchgraph:cyber_active_exploitation"
+      ],
+      "relevance_score": 24,
+      "relevance_reason": "Security (+7.5); recent (+1.0); watchgraph high-signal zero-day (+12.0); watchgraph modules cyber_active_exploitation (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
+      "watchgraph_reasons": [
+        "cyber_active_exploitation: zero-day"
+      ],
+      "market_context": [
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S"
+      ],
+      "id": "b522552b8157c8edffb4"
+    },
+    {
       "title": "coreyhaines31/marketingskills",
       "url": "https://github.com/coreyhaines31/marketingskills",
       "source": "GitHub Trending RSS All Languages Daily",
@@ -1602,6 +1891,43 @@
         "PINS"
       ],
       "id": "da4592e5a985a8e69ae3"
+    },
+    {
+      "title": "[NEU] [niedrig] Fortinet FortiSIEM: Schwachstelle ermöglicht Darstellen falscher Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3261",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-09T10:09:17+00:00",
+      "fetched_at": "2026-09-09T10:21:36+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Fortinet FortiSIEM ausnutzen, um Benutzer auf eine nicht vertrauenswürdige Website umzuleiten.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security",
+        "Watchgraph:cyber_active_exploitation",
+        "Webentwicklung"
+      ],
+      "relevance_score": 20,
+      "relevance_reason": "Security (+6.0); Webentwicklung (+3.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
+      "watchgraph_reasons": [
+        "cyber_active_exploitation: Fortinet"
+      ],
+      "market_context": [
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S"
+      ],
+      "id": "5b24a7a663a339927f47"
     },
     {
       "title": "[NEU] [hoch] Langflow OSS: Mehrere Schwachstellen",
@@ -1698,6 +2024,114 @@
       "id": "48bbdb2f7f935a2beed7"
     },
     {
+      "title": "[NEU] [mittel] Fortinet FortiManager: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3260",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-09T10:09:17+00:00",
+      "fetched_at": "2026-09-09T10:21:36+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Fortinet FortiManager ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security",
+        "Watchgraph:cyber_active_exploitation"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
+      "watchgraph_reasons": [
+        "cyber_active_exploitation: Fortinet"
+      ],
+      "market_context": [
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S"
+      ],
+      "id": "f4e90bd8141f2e47a471"
+    },
+    {
+      "title": "[NEU] [mittel] Fortinet FortiAnalyzer: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3259",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-09T10:09:17+00:00",
+      "fetched_at": "2026-09-09T10:21:36+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Fortinet FortiAnalyzer ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security",
+        "Watchgraph:cyber_active_exploitation"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
+      "watchgraph_reasons": [
+        "cyber_active_exploitation: Fortinet"
+      ],
+      "market_context": [
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S"
+      ],
+      "id": "4e44ffe4db5a3830a1de"
+    },
+    {
+      "title": "[NEU] [mittel] Fortinet FortiClient: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3258",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-09T10:04:17+00:00",
+      "fetched_at": "2026-09-09T10:21:36+00:00",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Fortinet FortiClient ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security",
+        "Watchgraph:cyber_active_exploitation"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
+      "watchgraph_reasons": [
+        "cyber_active_exploitation: Fortinet"
+      ],
+      "market_context": [
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S"
+      ],
+      "id": "2d977866c874ae29b836"
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月08日）",
       "url": "https://jvn.jp/vu/JVNVU93257103/",
       "source": "JVN Japan Vulnerability Notes",
@@ -1719,6 +2153,42 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "9fd09596dba218253563"
+    },
+    {
+      "title": "[NEU] [hoch] Fortinet FortiSandbox: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3257",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-09T09:59:17+00:00",
+      "fetched_at": "2026-09-09T10:21:36+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Fortinet FortiSandbox ausnutzen, um Informationen offenzulegen oder Code auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security",
+        "Watchgraph:cyber_active_exploitation"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
+      "watchgraph_reasons": [
+        "cyber_active_exploitation: Fortinet"
+      ],
+      "market_context": [
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S"
+      ],
+      "id": "5d983ba26d6fe6bfc960"
     },
     {
       "title": "[NEU] [hoch] Android Patchday September 2026: Mehrere Schwachstellen",
@@ -2519,6 +2989,27 @@
       "id": "528a116838560ff109ec"
     },
     {
+      "title": "Now it’s China’s experts who are gig workers training AI data",
+      "url": "https://restofworld.org/2026/china-expert-ai-trainers/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-09T10:00:00+00:00",
+      "fetched_at": "2026-09-09T10:21:36+00:00",
+      "summary": "Squeezed by a stagnant economy and state directives, China's underemployed lawyers, architects, and engineers are taking cheap gig work to teach AI their exact trades — just to pay this month's mortgage.",
+      "matched_keywords": [
+        "AI/KI",
+        "Public Health"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "AI/KI (+3.8); Public Health (+6.2); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "201aaf5251069923f212"
+    },
+    {
       "title": "Synopsys, A*STAR team up to tackle AI chip packaging challenges",
       "url": "https://e27.co/synopsys-astar-team-up-to-tackle-ai-chip-packaging-challenges-20260909/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -2890,6 +3381,26 @@
       "id": "d70aaffe76990cb56e2a"
     },
     {
+      "title": "Chrome 153: Google wechselt zu Zweiwochen-Update-Zyklus",
+      "url": "https://www.heise.de/news/Chrome-153-Google-wechselt-zu-Zweiwochen-Update-Zyklus-11446371.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-09-09T09:45:00.000+00:00",
+      "fetched_at": "2026-09-09T10:21:36+00:00",
+      "summary": "Google stellt Chrome auf einen Zweiwochen-Rhythmus um. Version 153 behebt 230 Sicherheitslücken, darunter eine aktiv ausgenutzte.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2a630c8148e39bea9f77"
+    },
+    {
       "title": "Microsoft schließt Rekordzahl an Sicherheitslücken",
       "url": "https://www.heise.de/news/Rekord-beim-Microsoft-Patchday-Fast-1000-Luecken-geschlossen-11446255.html",
       "source": "heise Security Alerts",
@@ -3077,143 +3588,259 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [hoch] Android Patchday September 2026: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3251",
+      "title": "September-Patchday: Adobe schließt kritische Zero-Day-Lücke und 172 weitere",
+      "url": "https://www.heise.de/news/September-Patchday-Adobe-schliesst-kritische-Zero-Day-Luecke-und-172-weitere-11446552.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-09-09T10:12:00.000+00:00",
+      "fetched_at": "2026-09-09T10:21:36+00:00",
+      "summary": "Im Zentrum der Adobe-Patch-Welle steht das Update für Adobe Commerce, das bereits akut angegriffen wird. Besonders viele Updates betreffen Experience Manager.",
+      "matched_keywords": [
+        "Security",
+        "Watchgraph:cyber_active_exploitation"
+      ],
+      "relevance_score": 24,
+      "relevance_reason": "Security (+7.5); recent (+1.0); watchgraph high-signal zero-day (+12.0); watchgraph modules cyber_active_exploitation (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
+      "watchgraph_reasons": [
+        "cyber_active_exploitation: zero-day"
+      ],
+      "market_context": [
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S"
+      ],
+      "id": "b522552b8157c8edffb4"
+    },
+    {
+      "title": "[NEU] [niedrig] Fortinet FortiSIEM: Schwachstelle ermöglicht Darstellen falscher Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3261",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-09-09T09:49:17+00:00",
-      "fetched_at": "2026-09-09T10:00:48+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Google Android ausnutzen, um beliebigen Code auszuführen, Berechtigungen zu erweitern, vertrauliche Informationen offenzulegen oder Denial-of-Service-Zustände herbeizuführen.",
+      "published_at": "2026-09-09T10:09:17+00:00",
+      "fetched_at": "2026-09-09T10:21:36+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Fortinet FortiSIEM ausnutzen, um Benutzer auf eine nicht vertrauenswürdige Website umzuleiten.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
-        "Patch",
         "Schwachstelle",
-        "Security"
+        "Security",
+        "Watchgraph:cyber_active_exploitation",
+        "Webentwicklung"
+      ],
+      "relevance_score": 20,
+      "relevance_reason": "Security (+6.0); Webentwicklung (+3.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
+      "watchgraph_reasons": [
+        "cyber_active_exploitation: Fortinet"
+      ],
+      "market_context": [
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S"
+      ],
+      "id": "5b24a7a663a339927f47"
+    },
+    {
+      "title": "[NEU] [mittel] Fortinet FortiManager: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3260",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-09T10:09:17+00:00",
+      "fetched_at": "2026-09-09T10:21:36+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Fortinet FortiManager ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security",
+        "Watchgraph:cyber_active_exploitation"
       ],
       "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c12b2c56b42652675b62"
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
+      "watchgraph_reasons": [
+        "cyber_active_exploitation: Fortinet"
+      ],
+      "market_context": [
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S"
+      ],
+      "id": "f4e90bd8141f2e47a471"
     },
     {
-      "title": "[NEU] [mittel] ConnectWise ScreenConnect: Schwachstelle ermöglicht nicht spezifizierten Angriff",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3256",
+      "title": "[NEU] [mittel] Fortinet FortiAnalyzer: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3259",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-09-09T09:54:17+00:00",
-      "fetched_at": "2026-09-09T10:00:48+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in ConnectWise ScreenConnect ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.",
+      "published_at": "2026-09-09T10:09:17+00:00",
+      "fetched_at": "2026-09-09T10:21:36+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Fortinet FortiAnalyzer ausnutzen, um einen Denial of Service Angriff durchzuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
         "Schwachstelle",
-        "Security"
+        "Security",
+        "Watchgraph:cyber_active_exploitation"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ebeaecb148602a71ec44"
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
+      "watchgraph_reasons": [
+        "cyber_active_exploitation: Fortinet"
+      ],
+      "market_context": [
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S"
+      ],
+      "id": "4e44ffe4db5a3830a1de"
     },
     {
-      "title": "[NEU] [mittel] IBM WebSphere Application Server: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3255",
+      "title": "[NEU] [mittel] Fortinet FortiClient: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3258",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-09-09T09:49:18+00:00",
-      "fetched_at": "2026-09-09T10:00:48+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM WebSphere Application Server ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Berechtigungen zu erweitern, vertrauliche Informationen offenzulegen, Daten zu manipulieren, Cross-Site-Scripting-Angriffe durchzuführen oder Denial-of-Service-Zustände herbeizuführen.",
+      "published_at": "2026-09-09T10:04:17+00:00",
+      "fetched_at": "2026-09-09T10:21:36+00:00",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Fortinet FortiClient ausnutzen, um einen Denial of Service Angriff durchzuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
         "Schwachstelle",
-        "Security"
+        "Security",
+        "Watchgraph:cyber_active_exploitation"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2c0069044cd017fa0610"
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
+      "watchgraph_reasons": [
+        "cyber_active_exploitation: Fortinet"
+      ],
+      "market_context": [
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S"
+      ],
+      "id": "2d977866c874ae29b836"
     },
     {
-      "title": "[NEU] [hoch] Lenovo BIOS: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3254",
+      "title": "[NEU] [hoch] Fortinet FortiSandbox: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3257",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-09-09T09:49:18+00:00",
-      "fetched_at": "2026-09-09T10:00:48+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Lenovo BIOS ausnutzen, um beliebigen Code auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand herbeizuführen.",
+      "published_at": "2026-09-09T09:59:17+00:00",
+      "fetched_at": "2026-09-09T10:21:36+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Fortinet FortiSandbox ausnutzen, um Informationen offenzulegen oder Code auszuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
         "Schwachstelle",
-        "Security"
+        "Security",
+        "Watchgraph:cyber_active_exploitation"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d50e1ef71bed9689cabb"
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
+      "watchgraph_reasons": [
+        "cyber_active_exploitation: Fortinet"
+      ],
+      "market_context": [
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S"
+      ],
+      "id": "5d983ba26d6fe6bfc960"
     },
     {
-      "title": "[NEU] [hoch] Lenovo XClarity Integrator für WAC und OneCLI: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3253",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "Now it’s China’s experts who are gig workers training AI data",
+      "url": "https://restofworld.org/2026/china-expert-ai-trainers/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-09-09T09:49:17+00:00",
-      "fetched_at": "2026-09-09T10:00:48+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Lenovo XClarity ausnutzen, um beliebigen Code auszuführen oder erweiterte Berechtigungen zu erlangen.",
+      "published_at": "2026-09-09T10:00:00+00:00",
+      "fetched_at": "2026-09-09T10:21:36+00:00",
+      "summary": "Squeezed by a stagnant economy and state directives, China's underemployed lawyers, architects, and engineers are taking cheap gig work to teach AI their exact trades — just to pay this month's mortgage.",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
+        "AI/KI",
+        "Public Health"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_score": 13,
+      "relevance_reason": "AI/KI (+3.8); Public Health (+6.2); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "ea4905472e2e24c748c9"
+      "id": "201aaf5251069923f212"
     },
     {
-      "title": "[NEU] [hoch] Tanium Endpoint Management Server, Data Service, Enforce, Comply: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3252",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "Chrome 153: Google wechselt zu Zweiwochen-Update-Zyklus",
+      "url": "https://www.heise.de/news/Chrome-153-Google-wechselt-zu-Zweiwochen-Update-Zyklus-11446371.html",
+      "source": "heise Security Alerts",
       "source_type": "rss",
-      "published_at": "2026-09-09T09:49:17+00:00",
-      "fetched_at": "2026-09-09T10:00:48+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Tanium Endpoint Management ausnutzen, um erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, beliebigen Code im Kontext des Comply-Dienstes auszuführen, SQL-Injection durchzuführen, Daten zu manipulieren oder offenzulegen oder einen Denial-of-Service-Zustand auszulösen.",
+      "published_at": "2026-09-09T09:45:00.000+00:00",
+      "fetched_at": "2026-09-09T10:21:36+00:00",
+      "summary": "Google stellt Chrome auf einen Zweiwochen-Rhythmus um. Version 153 behebt 230 Sicherheitslücken, darunter eine aktiv ausgenutzte.",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
         "Security"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "f7fa0521f99d63f7f600"
+      "id": "2a630c8148e39bea9f77"
     }
   ],
   "source_errors": [],
