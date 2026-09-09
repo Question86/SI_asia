@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T23:04:39+00:00",
-  "run_id": "2026-09-09T23:04:39+00:00",
+  "generated_at": "2026-09-09T23:19:40+00:00",
+  "run_id": "2026-09-09T23:19:40+00:00",
   "date": "2026-09-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 125,
     "displayed_findings": 125,
     "high": 1,
@@ -6310,29 +6310,7 @@
       "id": "4d69c64eb8e925ff0aa2"
     }
   ],
-  "new_findings": [
-    {
-      "title": "消えた天才CTO。ーCloudflareの技術を作ったリー・ホロウェイ伝【前編】｜占部雅一 masakazu urabe",
-      "url": "https://note.com/masakazu_urabe/n/n7815f5b64fab",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-09T15:50:45+00:00",
-      "fetched_at": "2026-09-09T23:04:07+00:00",
-      "summary": "クラウドサービスのCloudflareは急成長した要因には、同社のユニークな技術が多々あります。Anycastや同一IPアクセスといった技術が一例ですが、これらの仕組みを作ったのがCTOであり、共同創業者のリー・ホロウエイです。ところが、深刻な脳の病気（FTD)のために途中で離脱してしまいます。彼の残した技術の功績と、明...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a4667d05cd8c7fc0381f"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
