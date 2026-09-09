@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-09T04:53:45+00:00_
+_Generiert: 2026-09-09T05:01:19+00:00_
 
 ## Kurzlage
 
-21 neue relevante Treffer. Stärkstes Signal: „Southeast Asia’s SMEs do not have an AI problem. They have a record problem“ aus e27 Asia Startup and Tech Feed (Score 17, observation).
+22 neue relevante Treffer. Stärkstes Signal: „Southeast Asia’s SMEs do not have an AI problem. They have a record problem“ aus e27 Asia Startup and Tech Feed (Score 17, observation).
 
 ## Priorität Hoch
 
@@ -48,18 +48,18 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: United States (+2.0)
   - Kurz: In April 2026, the United States announced 83,387 job cuts. 26 per cent of them named artificial intelligence as the reason, the second consecutive month that AI was the top cited cause. Behind those numbers is a quieter story that is going to shape an entire generation of careers. Stanford economists Erik Brynjolfsson, Bharat Chandar, […] The post Gen Z doesn’t need more AI courses, it needs the skills AI can’t rep…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **SPI Flashに組み込まれたUEFI Shellモジュールにおけるセキュアブート回避の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU94974158/)
+- **baserCMS用プラグイン「BurgerEditor」における複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN21088484/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-09-09T10:00:20+09:00`, fetched `2026-09-09T01:01:57+00:00`
+  - Zeit: published `2026-09-09T14:00:00+09:00`, fetched `2026-09-09T05:00:49+00:00`
   - Treffer: APAC Trend Radar, JVN, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
+  - Kurz: 株式会社ディーゼロが提供するbaserCMS用プラグイン「BurgerEditor」には、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Ascensio System SIA製ONLYOFFICE ownCloud統合プラグインにおけるサーバサイドリクエストフォージェリの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU94533753/)
+- **SPI Flashに組み込まれたUEFI Shellモジュールにおけるセキュアブート回避の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU94974158/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-09-09T10:00:10+09:00`, fetched `2026-09-09T01:01:57+00:00`
+  - Zeit: published `2026-09-09T10:00:20+09:00`, fetched `2026-09-09T01:01:57+00:00`
   - Treffer: APAC Trend Radar, JVN, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
