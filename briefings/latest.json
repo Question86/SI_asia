@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T13:57:53+00:00",
-  "run_id": "2026-09-09T13:57:53+00:00",
+  "generated_at": "2026-09-09T14:19:09+00:00",
+  "run_id": "2026-09-09T14:19:09+00:00",
   "date": "2026-09-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 106
+      "configured_public_sources_only": 108
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 106,
-    "displayed_findings": 106,
+    "new_relevant_findings": 2,
+    "today_file_total": 108,
+    "displayed_findings": 108,
     "high": 1,
     "medium": 68,
-    "observe": 37,
+    "observe": 39,
     "source_errors": 0
   },
   "sections": {
@@ -2224,6 +2224,27 @@
         "id": "c05ab6e3438b4a6f86f9"
       },
       {
+        "title": "Remediate Code Quality findings with agentic autofix",
+        "url": "https://github.blog/changelog/2026-09-09-remediate-code-quality-findings-with-agentic-autofix",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-09-09T12:21:01+00:00",
+        "fetched_at": "2026-09-09T14:18:40+00:00",
+        "summary": "Agentic autofix is now available to help you burn down findings in your code quality backlog. You can select up to 25 standard findings on a page and assign the… The post Remediate Code Quality findings with agentic autofix appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "AI Agents",
+          "GitHub"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "AI Agents (+6.2); GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0dc503bf602849f0edc0"
+      },
+      {
         "title": "「AIは10年以内に我々全員を殺す」 アンソロピックの研究者が「企業は無責任」と退社",
         "url": "https://www.sankei.com/article/20260909-YXTSWA7BWZA6VI3SCMGOQ3YMSM/",
         "source": "Hatena Bookmark Hotentry IT",
@@ -2543,6 +2564,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "50d8ee20170600e892ef"
+      },
+      {
+        "title": "プロジェクトマネジメントの教科書（内製チーム向け）",
+        "url": "https://zenn.dev/tan_go238/books/project-management-textbook",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-09T09:28:52+00:00",
+        "fetched_at": "2026-09-09T14:18:40+00:00",
+        "summary": "内製・プロダクト組織のための実践ガイド。計画は外れる前提で立て、要件を軽く扱わず、言われていないことを扱う。立ち上げから要件定義、計画、チーム、実行、運用、そして終わらせ方までを全42章で扱う。",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "52f9ee8556701b2df1e4"
       },
       {
         "title": "大半の人に必要無いAndroidアプリ7選",
@@ -4886,6 +4928,27 @@
       "id": "c05ab6e3438b4a6f86f9"
     },
     {
+      "title": "Remediate Code Quality findings with agentic autofix",
+      "url": "https://github.blog/changelog/2026-09-09-remediate-code-quality-findings-with-agentic-autofix",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-09-09T12:21:01+00:00",
+      "fetched_at": "2026-09-09T14:18:40+00:00",
+      "summary": "Agentic autofix is now available to help you burn down findings in your code quality backlog. You can select up to 25 standard findings on a page and assign the… The post Remediate Code Quality findings with agentic autofix appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "AI Agents",
+        "GitHub"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "AI Agents (+6.2); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0dc503bf602849f0edc0"
+    },
+    {
       "title": "「AIは10年以内に我々全員を殺す」 アンソロピックの研究者が「企業は無責任」と退社",
       "url": "https://www.sankei.com/article/20260909-YXTSWA7BWZA6VI3SCMGOQ3YMSM/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -5207,6 +5270,27 @@
       "id": "50d8ee20170600e892ef"
     },
     {
+      "title": "プロジェクトマネジメントの教科書（内製チーム向け）",
+      "url": "https://zenn.dev/tan_go238/books/project-management-textbook",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-09T09:28:52+00:00",
+      "fetched_at": "2026-09-09T14:18:40+00:00",
+      "summary": "内製・プロダクト組織のための実践ガイド。計画は外れる前提で立て、要件を軽く扱わず、言われていないことを扱う。立ち上げから要件定義、計画、チーム、実行、運用、そして終わらせ方までを全42章で扱う。",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "52f9ee8556701b2df1e4"
+    },
+    {
       "title": "大半の人に必要無いAndroidアプリ7選",
       "url": "https://anond.hatelabo.jp/20260909175643",
       "source": "Hatena Bookmark Hotentry IT",
@@ -5354,7 +5438,50 @@
       "id": "b5112b2c98a785534192"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Remediate Code Quality findings with agentic autofix",
+      "url": "https://github.blog/changelog/2026-09-09-remediate-code-quality-findings-with-agentic-autofix",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-09-09T12:21:01+00:00",
+      "fetched_at": "2026-09-09T14:18:40+00:00",
+      "summary": "Agentic autofix is now available to help you burn down findings in your code quality backlog. You can select up to 25 standard findings on a page and assign the… The post Remediate Code Quality findings with agentic autofix appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "AI Agents",
+        "GitHub"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "AI Agents (+6.2); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0dc503bf602849f0edc0"
+    },
+    {
+      "title": "プロジェクトマネジメントの教科書（内製チーム向け）",
+      "url": "https://zenn.dev/tan_go238/books/project-management-textbook",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-09T09:28:52+00:00",
+      "fetched_at": "2026-09-09T14:18:40+00:00",
+      "summary": "内製・プロダクト組織のための実践ガイド。計画は外れる前提で立て、要件を軽く扱わず、言われていないことを扱う。立ち上げから要件定義、計画、チーム、実行、運用、そして終わらせ方までを全42章で扱う。",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "52f9ee8556701b2df1e4"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
