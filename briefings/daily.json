@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T21:56:37+00:00",
-  "today_file_total": 120,
+  "generated_at": "2026-09-09T22:11:16+00:00",
+  "today_file_total": 122,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -60,6 +60,30 @@
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
     },
     {
+      "key": "domain:openai.com",
+      "title": "Paul Christiano joins OpenAI Foundation Board",
+      "sources": [
+        "OpenAI News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
+        "https://openai.com/index/gpt-6-astra-next-generation-work"
+      ],
+      "finding_count": 2,
+      "max_score": 20,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 27.2,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
       "key": "github_repo:coreyhaines31/marketingskills",
       "title": "coreyhaines31/marketingskills",
       "sources": [
@@ -85,6 +109,29 @@
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
     },
     {
+      "key": "title:codeql-adds-support-linux-arm64",
+      "title": "CodeQL 2.27.0 adds support for Linux ARM64",
+      "sources": [
+        "GitHub Changelog Atom"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.blog/changelog/2026-09-09-codeql-2-27-0-adds-support-for-linux-arm64"
+      ],
+      "finding_count": 1,
+      "max_score": 18,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 23.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "domain:www.ecb.europa.eu",
       "title": "Announcing 20260080 (OT,liquidity providing), for 7 days deadline 09:45",
       "sources": [
@@ -108,29 +155,6 @@
       "hot": true,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
-    },
-    {
-      "key": "domain:openai.com",
-      "title": "Paul Christiano joins OpenAI Foundation Board",
-      "sources": [
-        "OpenAI News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://openai.com/index/paul-christiano-joins-openai-foundation-board"
-      ],
-      "finding_count": 1,
-      "max_score": 20,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 22.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "title:southeast-asia-smes-not-have-problem-they-have",
@@ -291,31 +315,6 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 17.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "earthquake:m 4.9 - mid-indian ridge:4.9",
-      "title": "M 4.9 - Mid-Indian Ridge",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg6g"
-      ],
-      "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 16.7,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"

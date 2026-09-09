@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T21:56:35+00:00",
-  "run_id": "2026-09-09T21:56:35+00:00",
+  "generated_at": "2026-09-09T22:11:12+00:00",
+  "run_id": "2026-09-09T22:11:12+00:00",
   "date": "2026-09-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 120
+      "configured_public_sources_only": 122
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 120,
-    "displayed_findings": 120,
+    "new_relevant_findings": 2,
+    "today_file_total": 122,
+    "displayed_findings": 122,
     "high": 1,
-    "medium": 69,
+    "medium": 71,
     "observe": 50,
     "source_errors": 0
   },
@@ -171,6 +171,28 @@
           "S"
         ],
         "id": "5b24a7a663a339927f47"
+      },
+      {
+        "title": "CodeQL 2.27.0 adds support for Linux ARM64",
+        "url": "https://github.blog/changelog/2026-09-09-codeql-2-27-0-adds-support-for-linux-arm64",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-09-09T21:45:06+00:00",
+        "fetched_at": "2026-09-09T22:10:30+00:00",
+        "summary": "CodeQL 2.27.0 is now available on Linux ARM64, adds a new Rust security query, expanded framework coverage for Java/Kotlin and C#, and analysis accuracy improvements across multiple languages. CodeQL is… The post CodeQL 2.27.0 adds support for Linux ARM64 appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "CodeQL/Dependabot",
+          "GitHub",
+          "Security"
+        ],
+        "relevance_score": 18,
+        "relevance_reason": "CodeQL/Dependabot (+8.8); Security (+6.0); GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b80e87f87b48321a66ec"
       },
       {
         "title": "[NEU] [hoch] Microsoft Exchange Server: Mehrere Schwachstellen",
@@ -1248,6 +1270,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "abb4585fe8eef8f94e3d"
+      },
+      {
+        "title": "GPT-6 Astra: The next generation in intelligence for work",
+        "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-09-09T11:00:00+00:00",
+        "fetched_at": "2026-09-09T22:10:30+00:00",
+        "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+        "matched_keywords": [
+          "AI Agents",
+          "OpenAI"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "OpenAI (+7.5); AI Agents (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9b3b06bf9024461502ba"
       },
       {
         "title": "[NEU] [hoch] Apache Airflow: Schwachstelle ermöglicht Erlangen von Benutzerrechten",
@@ -3209,6 +3252,28 @@
       "id": "5b24a7a663a339927f47"
     },
     {
+      "title": "CodeQL 2.27.0 adds support for Linux ARM64",
+      "url": "https://github.blog/changelog/2026-09-09-codeql-2-27-0-adds-support-for-linux-arm64",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-09-09T21:45:06+00:00",
+      "fetched_at": "2026-09-09T22:10:30+00:00",
+      "summary": "CodeQL 2.27.0 is now available on Linux ARM64, adds a new Rust security query, expanded framework coverage for Java/Kotlin and C#, and analysis accuracy improvements across multiple languages. CodeQL is… The post CodeQL 2.27.0 adds support for Linux ARM64 appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "CodeQL/Dependabot",
+        "GitHub",
+        "Security"
+      ],
+      "relevance_score": 18,
+      "relevance_reason": "CodeQL/Dependabot (+8.8); Security (+6.0); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b80e87f87b48321a66ec"
+    },
+    {
       "title": "[NEU] [hoch] Microsoft Exchange Server: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3268",
       "source": "BSI CERT-Bund Security Advisories",
@@ -4284,6 +4349,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "abb4585fe8eef8f94e3d"
+    },
+    {
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-09T11:00:00+00:00",
+      "fetched_at": "2026-09-09T22:10:30+00:00",
+      "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+      "matched_keywords": [
+        "AI Agents",
+        "OpenAI"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "OpenAI (+7.5); AI Agents (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9b3b06bf9024461502ba"
     },
     {
       "title": "[NEU] [hoch] Apache Airflow: Schwachstelle ermöglicht Erlangen von Benutzerrechten",
@@ -6100,40 +6186,47 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.9 - Mid-Indian Ridge",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg6g",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "CodeQL 2.27.0 adds support for Linux ARM64",
+      "url": "https://github.blog/changelog/2026-09-09-codeql-2-27-0-adds-support-for-linux-arm64",
+      "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "published_at": "2026-09-09T21:51:13.040+00:00",
-      "fetched_at": "2026-09-09T21:56:02+00:00",
-      "summary": "Time 2026-09-09 21:29:54 UTC 2026-09-09 21:29:54 UTC at epicenter Location 28.611°S 74.325°E Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-09-09T21:45:06+00:00",
+      "fetched_at": "2026-09-09T22:10:30+00:00",
+      "summary": "CodeQL 2.27.0 is now available on Linux ARM64, adds a new Rust security query, expanded framework coverage for Java/Kotlin and C#, and analysis accuracy improvements across multiple languages. CodeQL is… The post CodeQL 2.27.0 adds support for Linux ARM64 appeared first on The GitHub Blog .",
       "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
+        "CodeQL/Dependabot",
+        "GitHub",
+        "Security"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
+      "relevance_score": 18,
+      "relevance_reason": "CodeQL/Dependabot (+8.8); Security (+6.0); GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b80e87f87b48321a66ec"
+    },
+    {
+      "title": "GPT-6 Astra: The next generation in intelligence for work",
+      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-09T11:00:00+00:00",
+      "fetched_at": "2026-09-09T22:10:30+00:00",
+      "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+      "matched_keywords": [
+        "AI Agents",
+        "OpenAI"
       ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "4709e57677c4a996ecbd"
+      "relevance_score": 14,
+      "relevance_reason": "OpenAI (+7.5); AI Agents (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9b3b06bf9024461502ba"
     }
   ],
   "source_errors": [],

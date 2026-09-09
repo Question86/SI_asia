@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-09T21:56:35+00:00_
+_Generated: 2026-09-09T22:11:12+00:00_
 
 ## Status
 - status: `normal`
-- findings: `120`
+- findings: `122`
 
 ## Top Signals
 
@@ -36,12 +36,12 @@ _Generated: 2026-09-09T21:56:35+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3261
 - summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Fortinet FortiSIEM ausnutzen, um Benutzer auf eine nicht vertrauenswürdige Website umzuleiten.
 
-### 5. [NEU] [hoch] Microsoft Exchange Server: Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
+### 5. CodeQL 2.27.0 adds support for Linux ARM64
+- source: GitHub Changelog Atom
 - score: `18`
-- published: `2026-09-09T11:09:17+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3268
-- summary: Ein Angreifer kann mehrere Schwachstellen in Microsoft Exchange Server ausnutzen, um beliebigen Code auszuführen, Spoofing-Angriffe durchzuführen, erweiterte Berechtigungen zu erlangen, Daten zu manipulieren oder offenzulegen sowie einen Denial-of-Service-Ang…
+- published: `2026-09-09T21:45:06+00:00`
+- url: https://github.blog/changelog/2026-09-09-codeql-2-27-0-adds-support-for-linux-arm64
+- summary: CodeQL 2.27.0 is now available on Linux ARM64, adds a new Rust security query, expanded framework coverage for Java/Kotlin and C#, and analysis accuracy improvements across multiple languages. CodeQL is… The post CodeQL 2.27.0 adds support for Linux ARM64 app…
 
 ### 6. Now it’s China’s experts who are gig workers training AI data
 - source: Rest of World Global Tech Feed

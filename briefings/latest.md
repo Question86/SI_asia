@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-09T21:56:35+00:00_
+_Generiert: 2026-09-09T22:11:12+00:00_
 
 ## Kurzlage
 
-120 neue relevante Treffer. Stärkstes Signal: „September-Patchday: Adobe schließt kritische Zero-Day-Lücke und 172 weitere“ aus heise Security Alerts (Score 24, risk).
+122 neue relevante Treffer. Stärkstes Signal: „September-Patchday: Adobe schließt kritische Zero-Day-Lücke und 172 weitere“ aus heise Security Alerts (Score 24, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -96,6 +96,15 @@ _Generiert: 2026-09-09T21:56:35+00:00_
   - Warum relevant: Security (+6.0); Webentwicklung (+3.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)
   - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Fortinet FortiSIEM ausnutzen, um Benutzer auf eine nicht vertrauenswürdige Website umzuleiten.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **CodeQL 2.27.0 adds support for Linux ARM64** — Score 18, observation — [Quelle](https://github.blog/changelog/2026-09-09-codeql-2-27-0-adds-support-for-linux-arm64)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-09-09T21:45:06+00:00`, fetched `2026-09-09T22:10:30+00:00`
+  - Treffer: CodeQL/Dependabot, GitHub, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+8.8); Security (+6.0); GitHub (+2.0); recent (+1.0)
+  - Kurz: CodeQL 2.27.0 is now available on Linux ARM64, adds a new Rust security query, expanded framework coverage for Java/Kotlin and C#, and analysis accuracy improvements across multiple languages. CodeQL is… The post CodeQL 2.27.0 adds support for Linux ARM64 appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[NEU] [hoch] Microsoft Exchange Server: Mehrere Schwachstellen** — Score 18, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3268)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-09-09T11:09:17+00:00`, fetched `2026-09-09T11:17:57+00:00`
@@ -186,15 +195,15 @@ _Generiert: 2026-09-09T21:56:35+00:00_
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 株式会社ディーゼロが提供するbaserCMS用プラグイン「BurgerEditor」には、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **SPI Flashに組み込まれたUEFI Shellモジュールにおけるセキュアブート回避の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU94974158/)
-  - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-09-09T10:00:20+09:00`, fetched `2026-09-09T01:01:57+00:00`
-  - Treffer: APAC Trend Radar, JVN, Security
+- **GPT-6 Astra: The next generation in intelligence for work** — Score 14, observation — [Quelle](https://openai.com/index/gpt-6-astra-next-generation-work)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-09-09T11:00:00+00:00`, fetched `2026-09-09T22:10:30+00:00`
+  - Treffer: AI Agents, OpenAI
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+  - Warum relevant: OpenAI (+7.5); AI Agents (+5.0); recent (+1.0)
+  - Kurz: Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 

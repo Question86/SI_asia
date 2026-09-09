@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-09T21:56:35+00:00",
+  "generated_at": "2026-09-09T22:11:12+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 120,
-    "displayed_findings": 120,
+    "new_relevant_findings": 2,
+    "today_file_total": 122,
+    "displayed_findings": 122,
     "high": 1,
-    "medium": 69,
+    "medium": 71,
     "observe": 50
   },
   "source_errors_count": 0,
@@ -55,13 +55,13 @@
       "section": "medium"
     },
     {
-      "title": "[NEU] [hoch] Microsoft Exchange Server: Mehrere Schwachstellen",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "CodeQL 2.27.0 adds support for Linux ARM64",
+      "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "published_at": "2026-09-09T11:09:17+00:00",
+      "published_at": "2026-09-09T21:45:06+00:00",
       "relevance_score": 18,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3268",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft Exchange Server ausnutzen, um beliebigen Code auszuführen, Spoofing-Angriffe durchzuführen, erweiterte Berechtigungen zu erlangen, Daten zu manipulieren oder offenzulegen sowie einen Denial-of-Service-Ang…",
+      "url": "https://github.blog/changelog/2026-09-09-codeql-2-27-0-adds-support-for-linux-arm64",
+      "summary": "CodeQL 2.27.0 is now available on Linux ARM64, adds a new Rust security query, expanded framework coverage for Java/Kotlin and C#, and analysis accuracy improvements across multiple languages. CodeQL is… The post CodeQL 2.27.0 adds support for Linux ARM64 app…",
       "section": "medium"
     },
     {
