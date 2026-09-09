@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-09-09T17:40:02+00:00`
+Generated: `2026-09-09T17:47:38+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -14,6 +14,7 @@ Generated: `2026-09-09T17:40:02+00:00`
 | 「三省堂書店池袋本店」閉店へ 11年の歴史に幕、惜しむ声続々 | $0 | — | 0 | 0 | dormant |
 | M 5.0 - 53 km W of Cafayate, Argentina | $0 | — | 0 | 0 | dormant |
 | M 5.8 - Kermadec Islands, New Zealand | $0 | — | 0 | 0 | dormant |
+| GitHub Advanced Security expands trial availability | $0 | — | 0 | 0 | active |
 | AWSをゲームで学べる「AWS Cloud Quest」に新バージョン「AWS Cloud Quest 2.0」登場！ AIによるバーチャル顧客と対話し、要件を聞き出して正しくソリューションに落とし込め | $0 | — | 0 | 0 | dormant |
 | New API endpoint provides privacy-safe star history data | $0 | — | 0 | 0 | dormant |
 | JetBrains/go-modern-guidelines | $0 | — | 0 | 0 | dormant |
@@ -28,4 +29,3 @@ Generated: `2026-09-09T17:40:02+00:00`
 | 無料のLM Studio、DFlash/DSpark/MTPで推論を高速化 | $0 | — | 0 | 0 | dormant |
 | DietrichGebert/ponytail | $0 | — | 0 | 0 | dormant |
 | Security Alert: Alert Regarding Vulnerabilities in Adobe Acrobat and Reader (APSB26-141) | $0 | — | 0 | 0 | dormant |
-| M 4.8 - Kermadec Islands, New Zealand | $0 | — | 0 | 0 | dormant |
