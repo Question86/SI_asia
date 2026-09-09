@@ -238,6 +238,54 @@
     "id": "48bbdb2f7f935a2beed7"
   },
   {
+    "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (dracut): Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1977",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-09T12:11:33+00:00",
+    "fetched_at": "2026-09-09T12:34:24+00:00",
+    "summary": "Ein Angreifer aus einem angrenzenden Netzwerk kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0323ddc48a80bb9d5c6f"
+  },
+  {
+    "title": "[NEU] [mittel] Linux Kernel: Schwachstelle ermöglicht Privilegieneskalation",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3281",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-09T12:11:31+00:00",
+    "fetched_at": "2026-09-09T12:34:24+00:00",
+    "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Linux Kernel ausnutzen, um seine Privilegien zu erhöhen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b212e71cb7f0794b9ed3"
+  },
+  {
     "title": "[NEU] [hoch] Ivanti Neurons for ITSM: Mehrere Schwachstellen ermöglichen Codeausführung",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3272",
     "source": "BSI CERT-Bund Security Advisories",
@@ -2034,6 +2082,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "8095eab7d0f2fc70f726"
+  },
+  {
+    "title": "「AIは10年以内に我々全員を殺す」 アンソロピックの研究者が「企業は無責任」と退社",
+    "url": "https://www.sankei.com/article/20260909-YXTSWA7BWZA6VI3SCMGOQ3YMSM/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-09-09T10:41:53+00:00",
+    "fetched_at": "2026-09-09T12:34:24+00:00",
+    "summary": "米オープンAIを経て米アンソロピックに勤務していた英国出身の人工知能（AI）研究者、ジェーコブ・コクソン氏（27）が8日、アンソロピックを退社したと、X（旧ツイッター）で明らかにした。「どちらの会社も責任を持って行動していない」と、自らを改良する自己改善型AIの開発競争を批判している。 コクソン氏は「彼らは...",
+    "matched_keywords": [
+      "AI/KI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7d5eaba68831e372e757"
   },
   {
     "title": "深刻化する“サイバー蝗害”―Linuxカーネルソースに群がる貪欲で超非効率な「AIイナゴ」たち | gihyo.jp",
