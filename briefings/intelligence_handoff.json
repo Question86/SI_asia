@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-09T01:36:41Z",
+  "generated_at": "2026-09-09T01:57:34Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “SPI Flashに組み込まれたUEFI Shellモジュールにおけるセキュアブート回避の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU94974158/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-09T10:00:20+09:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/vu/JVNVU94533753/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-09T10:00:10+09:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -63,7 +63,7 @@
       "url": "https://jvn.jp/vu/JVNVU91877671/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-09T10:00:00+09:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -83,11 +83,83 @@
       "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
     },
     {
+      "title": "SPI Flashに組み込まれたUEFI Shellモジュールにおけるセキュアブート回避の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU94974158/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-09-09T01:02:28+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Ascensio System SIA製ONLYOFFICE ownCloud統合プラグインにおけるサーバサイドリクエストフォージェリの脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU94533753/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-09-09T01:02:28+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Skullcandy製ワイヤレスイヤホン「Dime 3」における不適切な認証の脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU91877671/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-09-09T01:02:28+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2"
+      ],
+      "summary": ""
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月08日）",
       "url": "https://jvn.jp/vu/JVNVU93257103/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-09T10:00:30+09:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -109,98 +181,26 @@
       "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
     },
     {
-      "title": "SPI Flashに組み込まれたUEFI Shellモジュールにおけるセキュアブート回避の脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU94974158/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-09-09T01:02:28+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 23.5,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Ascensio System SIA製ONLYOFFICE ownCloud統合プラグインにおけるサーバサイドリクエストフォージェリの脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU94533753/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-09-09T01:02:28+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 23.5,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Skullcandy製ワイヤレスイヤホン「Dime 3」における不適切な認証の脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU91877671/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-09-09T01:02:28+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 23.5,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Gen Z doesn’t need more AI courses, it needs the skills AI can’t replicate",
       "url": "https://e27.co/gen-z-doesnt-need-more-ai-courses-it-needs-the-skills-ai-cant-replicate-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-09T01:02:28+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 17.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "dynamics_score": 20.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 2,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +1",
+        "momentum delta +2",
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],
@@ -211,7 +211,7 @@
       "url": "https://jvn.jp/vu/JVNVU93257103/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 81.98,
+      "age_days": 82.0,
       "topics": [
         "general"
       ],
@@ -236,7 +236,7 @@
       "url": "https://e27.co/the-most-valuable-part-of-ai-may-not-be-the-model-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-09T01:30:08+00:00",
-      "age_days": 0.0,
+      "age_days": 0.02,
       "topics": [
         "ai"
       ],
@@ -262,38 +262,14 @@
       "url": "https://www.digital.go.jp/councils/digital-talent-development-policy/ff566760-278e-47da-8454-b25c40912fcb",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-09T01:02:28+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
-      "dynamics_score": 12.0,
+      "dynamics_score": 14.5,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Amazon Linuxが4年ぶりにメジャーバージョンアップ、「Amazon Linux 2027」パブリックプレビュー。SELinuxがデフォルトで強制モードに",
-      "url": "https://www.publickey1.jp/blog/26/amazon_linux4amazon_linux_2027selinux.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-09T00:15:03+00:00",
-      "age_days": 0.06,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 2,
@@ -302,6 +278,35 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +2"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "最近取り入れたClaude Codeの個人的tips 4選 - Qiita",
+      "url": "https://qiita.com/kuma_3838/items/00cb0b8d61ca76769c88",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T01:58:32+00:00",
+      "age_days": 82.0,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 14.27,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 2.52,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 2.52",
+        "high terms: code",
+        "single-source AI hype brake -8.0",
+        "aging penalty -8.0 for 82.0d old signal",
+        "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
     }
@@ -315,9 +320,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 7,
-      "watch": 4,
-      "quiet": 1
+      "strong": 8,
+      "watch": 4
     }
   }
 }

@@ -100,5 +100,135 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “CISA ICS Advisory / ICS Medical Advisory（2026年09月08日）” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月08日）",
+        "url": "https://jvn.jp/vu/JVNVU93257103/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-09T10:00:30+09:00",
+        "age_days": 0.04,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 33.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: 10",
+          "security high-signal: 10"
+        ],
+        "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
+      },
+      {
+        "title": "SPI Flashに組み込まれたUEFI Shellモジュールにおけるセキュアブート回避の脆弱性",
+        "url": "https://jvn.jp/vu/JVNVU94974158/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-09T10:00:20+09:00",
+        "age_days": 0.04,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 26.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "security high-signal: jvn, security"
+        ],
+        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
+      },
+      {
+        "title": "Ascensio System SIA製ONLYOFFICE ownCloud統合プラグインにおけるサーバサイドリクエストフォージェリの脆弱性",
+        "url": "https://jvn.jp/vu/JVNVU94533753/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-09T10:00:10+09:00",
+        "age_days": 0.04,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 26.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "security high-signal: jvn, security, cloud"
+        ],
+        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
+      },
+      {
+        "title": "Skullcandy製ワイヤレスイヤホン「Dime 3」における不適切な認証の脆弱性",
+        "url": "https://jvn.jp/vu/JVNVU91877671/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-09T10:00:00+09:00",
+        "age_days": 0.04,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 26.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "security high-signal: jvn, security"
+        ],
+        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
+      },
+      {
+        "title": "SPI Flashに組み込まれたUEFI Shellモジュールにおけるセキュアブート回避の脆弱性",
+        "url": "https://jvn.jp/vu/JVNVU94974158/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-09T01:02:28+00:00",
+        "age_days": 0.04,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 26.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 2,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +2"
+        ],
+        "summary": ""
+      }
+    ]
+  }
 }
