@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-09T12:52:27+00:00",
+  "generated_at": "2026-09-09T13:00:14+00:00",
   "events": [
     {
       "event_id": "evt_02008879feb3a26196bb",
@@ -984,13 +984,13 @@
     {
       "event_id": "evt_3fda34a12992b8b35516",
       "title": "M 4.7 - 139 km NNE of Hihifo, Tonga",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_402e7f622a6ab4b9a85a",
@@ -4103,7 +4103,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_ddb6f69a9bcfe16794e6",
