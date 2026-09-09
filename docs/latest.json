@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T14:32:12+00:00",
-  "run_id": "2026-09-09T14:32:12+00:00",
+  "generated_at": "2026-09-09T14:44:04+00:00",
+  "run_id": "2026-09-09T14:44:04+00:00",
   "date": "2026-09-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 109,
     "displayed_findings": 109,
     "high": 1,
@@ -5486,32 +5486,7 @@
       "id": "b5112b2c98a785534192"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Version 1.0: SAP - Kritische Schwachstellen bedrohen verschiedene Anwendungen",
-      "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-288588-1032_bits.html",
-      "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
-      "source_type": "rss",
-      "published_at": "2026-09-09T14:25:00+00:00",
-      "fetched_at": "2026-09-09T14:31:41+00:00",
-      "summary": "Version 1.0: SAP - Kritische Schwachstellen bedrohen verschiedene Anwendungen",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Cyber-Sicherheitswarnung",
-        "kritisch",
-        "kritische Schwachstelle"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); kritisch (+2.5); kritische Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "12320301a6a6540c660e"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
