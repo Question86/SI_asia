@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-09T14:19:09+00:00_
+_Generated: 2026-09-09T14:32:12+00:00_
 
 ## Status
 - status: `normal`
-- findings: `108`
+- findings: `109`
 
 ## Top Signals
 
@@ -64,11 +64,11 @@ _Generated: 2026-09-09T14:19:09+00:00_
 - url: https://e27.co/try-everything-2026-puts-ai-robotics-and-cross-border-capital-at-the-centre-20260909/
 - summary: Startup conferences often sell scale: bigger halls, longer speaker lists, more badges scanned at the entrance. Seoul is taking a different route with Try Everything 2026. As the city’s flagship startup festival returns to Dongdaemun Design Plaza on September…
 
-### 9. Announcing 20260080 (OT,liquidity providing), for 7 days deadline 09:45
-- source: ECB Open Market Operations and Communication
+### 9. Version 1.0: SAP - Kritische Schwachstellen bedrohen verschiedene Anwendungen
+- source: BSI CERT-Bund Cyber-Sicherheitswarnungen
 - score: `12`
-- published: `2026-09-09T08:15:23+00:00`
-- url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260080.en.html
-- summary: Announcing 20260080 (OT,liquidity providing), for 7 days deadline 09:45
+- published: `2026-09-09T14:25:00+00:00`
+- url: https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-288588-1032_bits.html
+- summary: Version 1.0: SAP - Kritische Schwachstellen bedrohen verschiedene Anwendungen
 
 END OF DOCUMENT
