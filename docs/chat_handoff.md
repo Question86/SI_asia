@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-09T10:58:24+00:00_
+_Generated: 2026-09-09T11:18:30+00:00_
 
 ## Status
 - status: `normal`
-- findings: `75`
+- findings: `80`
 
 ## Top Signals
 
@@ -29,19 +29,19 @@ _Generated: 2026-09-09T10:58:24+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3261
 - summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Fortinet FortiSIEM ausnutzen, um Benutzer auf eine nicht vertrauenswürdige Website umzuleiten.
 
-### 4. [NEU] [hoch] Langflow OSS: Mehrere Schwachstellen
+### 4. [NEU] [hoch] Microsoft Exchange Server: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `18`
+- published: `2026-09-09T11:09:17+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3268
+- summary: Ein Angreifer kann mehrere Schwachstellen in Microsoft Exchange Server ausnutzen, um beliebigen Code auszuführen, Spoofing-Angriffe durchzuführen, erweiterte Berechtigungen zu erlangen, Daten zu manipulieren oder offenzulegen sowie einen Denial-of-Service-Ang…
+
+### 5. [NEU] [hoch] Langflow OSS: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `17`
 - published: `2026-09-09T08:44:17+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3239
 - summary: Ein Angreifer kann mehrere Schwachstellen in Langflow OSS ausnutzen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, erweiterte Berechtigungen zu erlangen oder sensible Informationen offenzulegen.
-
-### 5. Southeast Asia’s SMEs do not have an AI problem. They have a record problem
-- source: e27 Asia Startup and Tech Feed
-- score: `17`
-- published: `2026-09-09T03:30:25+00:00`
-- url: https://e27.co/southeast-asias-smes-do-not-have-an-ai-problem-they-have-a-record-problem-20260908/
-- summary: Last month I sat with the founder of a distribution business in Colombo who wanted to show me his new demand forecasting dashboard. It looked serious. Clean charts, confidence bands, a recommended reorder quantity against every product line. I asked him one q…
 
 ### 6. Now it’s China’s experts who are gig workers training AI data
 - source: Rest of World Global Tech Feed

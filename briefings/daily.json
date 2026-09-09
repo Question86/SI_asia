@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T10:58:29+00:00",
-  "today_file_total": 75,
+  "generated_at": "2026-09-09T11:18:34+00:00",
+  "today_file_total": 80,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -13,19 +13,19 @@
       ],
       "urls": [
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3261",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3268",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3239",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3263",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3260",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3259",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3258"
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3269",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3267",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3263"
       ],
-      "finding_count": 37,
+      "finding_count": 42,
       "max_score": 20,
-      "credibility_total": 38.85,
+      "credibility_total": 44.1,
       "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 97.7,
+      "momentum_delta": 5,
+      "momentum_status": "increasing",
+      "network_score": 123.2,
       "hot": true,
       "watchgraph_modules": [
         "cyber_active_exploitation"

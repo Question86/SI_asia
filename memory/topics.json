@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-09T10:58:24+00:00",
+  "generated_at": "2026-09-09T11:18:30+00:00",
   "topics": {
     "security": [
       {
@@ -19,11 +19,32 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3261"
       },
       {
+        "title": "[NEU] [hoch] Microsoft Exchange Server: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-09T11:09:17+00:00",
+        "relevance_score": 18,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3268"
+      },
+      {
         "title": "[NEU] [hoch] Langflow OSS: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-09T08:44:17+00:00",
         "relevance_score": 17,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3239"
+      },
+      {
+        "title": "[NEU] [hoch] Ivanti Sentry: Schwachstelle ermöglicht Erlangen von Administratorrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-09T11:14:17+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3269"
+      },
+      {
+        "title": "[NEU] [hoch] Microsoft Dynamics 365 und Microsoft Power Automate Desktop: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-09T11:04:17+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3267"
       },
       {
         "title": "[NEU] [mittel] Fortinet FortiProxy und FortiOS: Mehrere Schwachstellen",
@@ -52,27 +73,6 @@
         "published_at": "2026-09-09T10:04:17+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3258"
-      },
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月08日）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-09T10:00:30+09:00",
-        "relevance_score": 16,
-        "url": "https://jvn.jp/vu/JVNVU93257103/"
-      },
-      {
-        "title": "[NEU] [hoch] Fortinet FortiSandbox: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-09T09:59:17+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3257"
-      },
-      {
-        "title": "[NEU] [hoch] Android Patchday September 2026: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-09T09:49:17+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3251"
       }
     ],
     "ai": [
@@ -223,11 +223,32 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3261"
       },
       {
+        "title": "[NEU] [hoch] Microsoft Exchange Server: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-09T11:09:17+00:00",
+        "relevance_score": 18,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3268"
+      },
+      {
         "title": "[NEU] [hoch] Langflow OSS: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-09T08:44:17+00:00",
         "relevance_score": 17,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3239"
+      },
+      {
+        "title": "[NEU] [hoch] Ivanti Sentry: Schwachstelle ermöglicht Erlangen von Administratorrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-09T11:14:17+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3269"
+      },
+      {
+        "title": "[NEU] [hoch] Microsoft Dynamics 365 und Microsoft Power Automate Desktop: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-09T11:04:17+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3267"
       },
       {
         "title": "[NEU] [mittel] Fortinet FortiProxy und FortiOS: Mehrere Schwachstellen",
@@ -263,27 +284,6 @@
         "published_at": "2026-09-09T09:59:17+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3257"
-      },
-      {
-        "title": "[NEU] [hoch] Android Patchday September 2026: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-09T09:49:17+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3251"
-      },
-      {
-        "title": "[NEU] [kritisch] Microsoft Windows: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-09T08:49:18+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3243"
-      },
-      {
-        "title": "[NEU] [hoch] Microsoft Entwicklerwerkzeuge: Mehrere Schwachstellen ermöglichen Privilegieneskalation",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-09T08:49:17+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3242"
       }
     ],
     "general": [
