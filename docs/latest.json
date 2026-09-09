@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T04:45:48+00:00",
-  "run_id": "2026-09-09T04:45:48+00:00",
+  "generated_at": "2026-09-09T04:53:45+00:00",
+  "run_id": "2026-09-09T04:53:45+00:00",
   "date": "2026-09-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 21,
     "displayed_findings": 21,
     "high": 0,
@@ -1031,51 +1031,7 @@
       "id": "b5112b2c98a785534192"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Try Everything 2026 puts AI, robotics and cross-border capital at the centre",
-      "url": "https://e27.co/try-everything-2026-puts-ai-robotics-and-cross-border-capital-at-the-centre-20260909/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-09T04:38:47+00:00",
-      "fetched_at": "2026-09-09T04:45:16+00:00",
-      "summary": "Startup conferences often sell scale: bigger halls, longer speaker lists, more badges scanned at the entrance. Seoul is taking a different route with Try Everything 2026. As the city’s flagship startup festival returns to Dongdaemun Design Plaza on September 9 and 10, organisers are leaning less on crowd size and more on a harder question: […] The post Try Everything 2026 puts AI, robotics and cross-border capital a…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Watchgraph:capitals_power_centers"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region south_korea: Seoul (+2.0); watchgraph modules capitals_power_centers (+3.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "watchgraph_reasons": [
-        "capitals_power_centers: capital"
-      ],
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "BA",
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ"
-      ],
-      "id": "240bd58e6c19e157f30f"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
