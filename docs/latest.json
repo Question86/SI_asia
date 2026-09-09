@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T05:01:19+00:00",
-  "run_id": "2026-09-09T05:01:19+00:00",
+  "generated_at": "2026-09-09T05:21:39+00:00",
+  "run_id": "2026-09-09T05:21:39+00:00",
   "date": "2026-09-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 22
+      "configured_public_sources_only": 24
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 22,
-    "displayed_findings": 22,
+    "new_relevant_findings": 2,
+    "today_file_total": 24,
+    "displayed_findings": 24,
     "high": 0,
     "medium": 8,
-    "observe": 14,
+    "observe": 16,
     "source_errors": 0
   },
   "sections": {
@@ -386,6 +386,28 @@
         "id": "8095eab7d0f2fc70f726"
       },
       {
+        "title": "Asia has not opened yet: What will the first bell reveal about Bitcoin and oil?",
+        "url": "https://e27.co/asia-has-not-opened-yet-what-will-the-first-bell-reveal-about-bitcoin-and-oil-20260909/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-09T05:16:20+00:00",
+        "fetched_at": "2026-09-09T05:21:06+00:00",
+        "summary": "Speculators rapidly adjust portfolios in response to shifting interest rate expectations and escalating global conflicts. The leading cryptocurrency recently experienced a notable decline while major United States stock indices suffered significant losses. This dual downturn highlights a broader risk-off strategy among individuals anticipating tighter monetary policy and higher energy costs. These factors create a h…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Macro/Policy",
+          "Markets/Capital Structure"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); recent (+1.0); watchgraph region usa: United States (+2.0); watchgraph demote portfolio (x0.45)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a4926832426189807888"
+      },
+      {
         "title": "The most valuable part of AI may not be the model",
         "url": "https://e27.co/the-most-valuable-part-of-ai-may-not-be-the-model-20260908/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -426,6 +448,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "d70aaffe76990cb56e2a"
+      },
+      {
+        "title": "Thailand’s mobility future will be decided by data, not just vehicles",
+        "url": "https://e27.co/thailands-mobility-future-will-be-decided-by-data-not-just-vehicles-20260909/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-09T05:20:21+00:00",
+        "fetched_at": "2026-09-09T05:21:06+00:00",
+        "summary": "Thailand’s mobility story is often told through the lens of electric vehicles, new car factories and government incentives. But at HERE Directions Bangkok 2026, the more important question was not simply what people will drive. It was how vehicles, roads, cities and public agencies will share enough intelligence to make movement safer and more efficient. […] The post Thailand’s mobility future will be decided by dat…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9d713b7b070713ff8fef"
       },
       {
         "title": "Singapore learnt to measure cooling. ASEAN should follow",
@@ -909,6 +951,28 @@
       "id": "8095eab7d0f2fc70f726"
     },
     {
+      "title": "Asia has not opened yet: What will the first bell reveal about Bitcoin and oil?",
+      "url": "https://e27.co/asia-has-not-opened-yet-what-will-the-first-bell-reveal-about-bitcoin-and-oil-20260909/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-09T05:16:20+00:00",
+      "fetched_at": "2026-09-09T05:21:06+00:00",
+      "summary": "Speculators rapidly adjust portfolios in response to shifting interest rate expectations and escalating global conflicts. The leading cryptocurrency recently experienced a notable decline while major United States stock indices suffered significant losses. This dual downturn highlights a broader risk-off strategy among individuals anticipating tighter monetary policy and higher energy costs. These factors create a h…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Macro/Policy",
+        "Markets/Capital Structure"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); recent (+1.0); watchgraph region usa: United States (+2.0); watchgraph demote portfolio (x0.45)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a4926832426189807888"
+    },
+    {
       "title": "The most valuable part of AI may not be the model",
       "url": "https://e27.co/the-most-valuable-part-of-ai-may-not-be-the-model-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -949,6 +1013,26 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "d70aaffe76990cb56e2a"
+    },
+    {
+      "title": "Thailand’s mobility future will be decided by data, not just vehicles",
+      "url": "https://e27.co/thailands-mobility-future-will-be-decided-by-data-not-just-vehicles-20260909/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-09T05:20:21+00:00",
+      "fetched_at": "2026-09-09T05:21:06+00:00",
+      "summary": "Thailand’s mobility story is often told through the lens of electric vehicles, new car factories and government incentives. But at HERE Directions Bangkok 2026, the more important question was not simply what people will drive. It was how vehicles, roads, cities and public agencies will share enough intelligence to make movement safer and more efficient. […] The post Thailand’s mobility future will be decided by dat…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9d713b7b070713ff8fef"
     },
     {
       "title": "Singapore learnt to measure cooling. ASEAN should follow",
@@ -1077,26 +1161,46 @@
   ],
   "new_findings": [
     {
-      "title": "baserCMS用プラグイン「BurgerEditor」における複数の脆弱性",
-      "url": "https://jvn.jp/jp/JVN21088484/",
-      "source": "JVN Japan Vulnerability Notes",
+      "title": "Asia has not opened yet: What will the first bell reveal about Bitcoin and oil?",
+      "url": "https://e27.co/asia-has-not-opened-yet-what-will-the-first-bell-reveal-about-bitcoin-and-oil-20260909/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-09-09T14:00:00+09:00",
-      "fetched_at": "2026-09-09T05:00:49+00:00",
-      "summary": "株式会社ディーゼロが提供するbaserCMS用プラグイン「BurgerEditor」には、複数の脆弱性が存在します。",
+      "published_at": "2026-09-09T05:16:20+00:00",
+      "fetched_at": "2026-09-09T05:21:06+00:00",
+      "summary": "Speculators rapidly adjust portfolios in response to shifting interest rate expectations and escalating global conflicts. The leading cryptocurrency recently experienced a notable decline while major United States stock indices suffered significant losses. This dual downturn highlights a broader risk-off strategy among individuals anticipating tighter monetary policy and higher energy costs. These factors create a h…",
       "matched_keywords": [
         "APAC Trend Radar",
-        "JVN",
-        "Security"
+        "Macro/Policy",
+        "Markets/Capital Structure"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); recent (+1.0); watchgraph region usa: United States (+2.0); watchgraph demote portfolio (x0.45)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "244d48ebb627ae1aaaff"
+      "id": "a4926832426189807888"
+    },
+    {
+      "title": "Thailand’s mobility future will be decided by data, not just vehicles",
+      "url": "https://e27.co/thailands-mobility-future-will-be-decided-by-data-not-just-vehicles-20260909/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-09T05:20:21+00:00",
+      "fetched_at": "2026-09-09T05:21:06+00:00",
+      "summary": "Thailand’s mobility story is often told through the lens of electric vehicles, new car factories and government incentives. But at HERE Directions Bangkok 2026, the more important question was not simply what people will drive. It was how vehicles, roads, cities and public agencies will share enough intelligence to make movement safer and more efficient. […] The post Thailand’s mobility future will be decided by dat…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9d713b7b070713ff8fef"
     }
   ],
   "source_errors": [],

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-09T05:01:19+00:00_
+_Generiert: 2026-09-09T05:21:39+00:00_
 
 ## Kurzlage
 
-22 neue relevante Treffer. Stärkstes Signal: „Southeast Asia’s SMEs do not have an AI problem. They have a record problem“ aus e27 Asia Startup and Tech Feed (Score 17, observation).
+24 neue relevante Treffer. Stärkstes Signal: „Southeast Asia’s SMEs do not have an AI problem. They have a record problem“ aus e27 Asia Startup and Tech Feed (Score 17, observation).
 
 ## Priorität Hoch
 
@@ -123,6 +123,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: ロボットは私に向かってファイティングポーズを取り、上下に跳ねながら脚をほぐすように振った後、ボクサーさながらに両手を顔の前に上げた。パンチを1発、さらにもう1発と繰り出すふりをし、最後はかかとを突き出して力強く蹴った。幸い、私は1m離れていたため実際に触れられることはなかったが、数秒後、ロボットは私...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Asia has not opened yet: What will the first bell reveal about Bitcoin and oil?** — Score 8, observation — [Quelle](https://e27.co/asia-has-not-opened-yet-what-will-the-first-bell-reveal-about-bitcoin-and-oil-20260909/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-09T05:16:20+00:00`, fetched `2026-09-09T05:21:06+00:00`
+  - Treffer: APAC Trend Radar, Macro/Policy, Markets/Capital Structure
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); recent (+1.0); watchgraph region usa: United States (+2.0); watchgraph demote portfolio (x0.45)
+  - Kurz: Speculators rapidly adjust portfolios in response to shifting interest rate expectations and escalating global conflicts. The leading cryptocurrency recently experienced a notable decline while major United States stock indices suffered significant losses. This dual downturn highlights a broader risk-off strategy among individuals anticipating tighter monetary policy and higher energy costs. These factors create a h…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The most valuable part of AI may not be the model** — Score 8, observation — [Quelle](https://e27.co/the-most-valuable-part-of-ai-may-not-be-the-model-20260908/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-09T01:30:08+00:00`, fetched `2026-09-09T01:31:43+00:00`
@@ -140,15 +149,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); policy (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 今後のデジタル人材育成政策に関する検討会（第1回）の議事次第および資料を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Singapore learnt to measure cooling. ASEAN should follow** — Score 7, observation — [Quelle](https://e27.co/singapore-learnt-to-measure-cooling-asean-should-follow-20260906/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-09T02:30:14+00:00`, fetched `2026-09-09T02:45:50+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore, ASEAN (+2.0)
-  - Kurz: Singapore has spent years getting better at something fairly basic: measuring how buildings actually perform. For larger commercial buildings, energy use is benchmarked. Cooling systems are subject to periodic energy audits. Building owners, engineers, and facility managers are familiar with plant efficiency and the relationship between cooling delivered and electricity consumed. That is not yet […] The post Singapo…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Enterprise-managed sandbox in Copilot for JetBrains** — Score 6, observation — [Quelle](https://github.blog/changelog/2026-09-08-enterprise-managed-sandbox-in-copilot-for-jetbrains)
   - Quelle: GitHub Changelog Atom / `rss`
