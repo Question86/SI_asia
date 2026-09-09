@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T21:41:11+00:00",
-  "run_id": "2026-09-09T21:41:11+00:00",
+  "generated_at": "2026-09-09T21:56:35+00:00",
+  "run_id": "2026-09-09T21:56:35+00:00",
   "date": "2026-09-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 119
+      "configured_public_sources_only": 120
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 119,
-    "displayed_findings": 119,
+    "today_file_total": 120,
+    "displayed_findings": 120,
     "high": 1,
     "medium": 69,
-    "observe": 49,
+    "observe": 50,
     "source_errors": 0
   },
   "sections": {
@@ -2023,6 +2023,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "85be0316b9aa32fd5b18"
+      },
+      {
+        "title": "M 4.9 - Mid-Indian Ridge",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg6g",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-09-09T21:51:13.040+00:00",
+        "fetched_at": "2026-09-09T21:56:02+00:00",
+        "summary": "Time 2026-09-09 21:29:54 UTC 2026-09-09 21:29:54 UTC at epicenter Location 28.611°S 74.325°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "4709e57677c4a996ecbd"
       },
       {
         "title": "GitHub Advanced Security expands trial availability",
@@ -5023,6 +5059,42 @@
       "id": "85be0316b9aa32fd5b18"
     },
     {
+      "title": "M 4.9 - Mid-Indian Ridge",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg6g",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-09T21:51:13.040+00:00",
+      "fetched_at": "2026-09-09T21:56:02+00:00",
+      "summary": "Time 2026-09-09 21:29:54 UTC 2026-09-09 21:29:54 UTC at epicenter Location 28.611°S 74.325°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "4709e57677c4a996ecbd"
+    },
+    {
       "title": "GitHub Advanced Security expands trial availability",
       "url": "https://github.blog/changelog/2026-09-09-github-advanced-security-expands-trial-availability",
       "source": "GitHub Changelog Atom",
@@ -6028,25 +6100,40 @@
   ],
   "new_findings": [
     {
-      "title": "Enterprise managed permissions for GitHub Copilot agent operations",
-      "url": "https://github.blog/changelog/2026-09-09-enterprise-managed-permissions-for-github-copilot-agent-operations",
-      "source": "GitHub Changelog Atom",
+      "title": "M 4.9 - Mid-Indian Ridge",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg6g",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-09-09T20:08:14+00:00",
-      "fetched_at": "2026-09-09T21:40:42+00:00",
-      "summary": "If you administer GitHub Copilot Business or GitHub Copilot Enterprise, you can now centrally control which agent operations are blocked, require human approval, or can proceed without a prompt. Managed… The post Enterprise managed permissions for GitHub Copilot agent operations appeared first on The GitHub Blog .",
+      "published_at": "2026-09-09T21:51:13.040+00:00",
+      "fetched_at": "2026-09-09T21:56:02+00:00",
+      "summary": "Time 2026-09-09 21:29:54 UTC 2026-09-09 21:29:54 UTC at epicenter Location 28.611°S 74.325°E Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
-        "Copilot",
-        "GitHub"
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6314d5d5274584b63008"
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region india: India (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "4709e57677c4a996ecbd"
     }
   ],
   "source_errors": [],
