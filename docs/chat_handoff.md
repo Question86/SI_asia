@@ -1,39 +1,39 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-09T02:00:50+00:00_
+_Generated: 2026-09-09T02:29:58+00:00_
 
 ## Status
 - status: `normal`
-- findings: `11`
+- findings: `12`
 
 ## Top Signals
 
-### 1. CISA ICS Advisory / ICS Medical Advisory（2026年09月08日）
+### 1. When a slot opens, let the AI agent act – within limits
+- source: e27 Asia Startup and Tech Feed
+- score: `17`
+- published: `2026-09-09T02:00:33+00:00`
+- url: https://e27.co/when-a-slot-opens-let-the-ai-agent-act-within-limits-20260906/
+- summary: AI agents are often discussed in terms of what they can replace. I think a more useful question is what repetitive work they can remove while leaving important decisions with people. Consider a simple appointment problem. A customer needs a consultation next…
+
+### 2. CISA ICS Advisory / ICS Medical Advisory（2026年09月08日）
 - source: JVN Japan Vulnerability Notes
 - score: `16`
 - published: `2026-09-09T10:00:30+09:00`
 - url: https://jvn.jp/vu/JVNVU93257103/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 2. Gen Z doesn’t need more AI courses, it needs the skills AI can’t replicate
+### 3. Gen Z doesn’t need more AI courses, it needs the skills AI can’t replicate
 - source: e27 Asia Startup and Tech Feed
 - score: `16`
 - published: `2026-09-09T01:00:39+00:00`
 - url: https://e27.co/gen-z-doesnt-need-more-ai-courses-it-needs-the-skills-ai-cant-replicate-20260908/
 - summary: In April 2026, the United States announced 83,387 job cuts. 26 per cent of them named artificial intelligence as the reason, the second consecutive month that AI was the top cited cause. Behind those numbers is a quieter story that is going to shape an entire…
 
-### 3. SPI Flashに組み込まれたUEFI Shellモジュールにおけるセキュアブート回避の脆弱性
+### 4. SPI Flashに組み込まれたUEFI Shellモジュールにおけるセキュアブート回避の脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-09-09T10:00:20+09:00`
 - url: https://jvn.jp/vu/JVNVU94974158/
-- summary: CERT/CCから本件に関するアドバイザリが公表されました。
-
-### 4. Ascensio System SIA製ONLYOFFICE ownCloud統合プラグインにおけるサーバサイドリクエストフォージェリの脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-09-09T10:00:10+09:00`
-- url: https://jvn.jp/vu/JVNVU94533753/
 - summary: CERT/CCから本件に関するアドバイザリが公表されました。
 
 ### 5. 最近取り入れたClaude Codeの個人的tips 4選 - Qiita
