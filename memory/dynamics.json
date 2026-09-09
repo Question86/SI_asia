@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-09T05:29:12Z",
+  "generated_at": "2026-09-09T05:41:03Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -48,7 +48,7 @@
       "url": "https://jvn.jp/vu/JVNVU94533753/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-09T10:00:10+09:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -72,7 +72,7 @@
       "url": "https://jvn.jp/vu/JVNVU91877671/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-09T10:00:00+09:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -90,6 +90,30 @@
         "security high-signal: jvn, security"
       ],
       "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
+    },
+    {
+      "title": "baserCMS用プラグイン「BurgerEditor」における複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN21088484/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-09-09T05:01:23+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2"
+      ],
+      "summary": ""
     },
     {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月08日）",
@@ -148,7 +172,7 @@
       "url": "https://jvn.jp/jp/JVN21088484/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-09T14:00:00+09:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -174,7 +198,7 @@
       "url": "https://e27.co/when-a-slot-opens-let-the-ai-agent-act-within-limits-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-09T02:30:04+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -201,7 +225,7 @@
       "url": "https://e27.co/try-everything-2026-puts-ai-robotics-and-cross-border-capital-at-the-centre-20260909/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-09T04:45:52+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -255,7 +279,7 @@
       "url": "https://e27.co/when-a-slot-opens-let-the-ai-agent-act-within-limits-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-09T02:00:33+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -277,35 +301,11 @@
       "summary": "AI agents are often discussed in terms of what they can replace. I think a more useful question is what repetitive work they can remove while leaving important decisions with people. Consider a simple appointment problem. A customer needs a consultation next week. Tuesday or Thursday afternoon works best, preferably b…"
     },
     {
-      "title": "baserCMS用プラグイン「BurgerEditor」における複数の脆弱性",
-      "url": "https://jvn.jp/jp/JVN21088484/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-09-09T05:01:23+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 23.5,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Security Alert: Alert Regarding Vulnerabilities in Adobe Acrobat and Reader (APSB26-141)",
       "url": "https://www.jpcert.or.jp/english/at/2026/at260026.html",
       "source": "JPCERT/CC English Alerts",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 81.75,
+      "age_days": 81.76,
       "topics": [
         "security"
       ],
@@ -403,7 +403,7 @@
       "url": "https://www.jpcert.or.jp/english/at/2026/at260025.html",
       "source": "JPCERT/CC English Alerts",
       "published_at": "2026-09-09T11:36+09:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -427,7 +427,7 @@
       "url": "https://www.jpcert.or.jp/english/at/2026/at260026.html",
       "source": "JPCERT/CC English Alerts",
       "published_at": "2026-09-09T11:36+09:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -493,7 +493,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 82.1d old signal"
+        "aging penalty -8.0 for 82.2d old signal"
       ],
       "summary": ""
     },
@@ -552,7 +552,7 @@
       "url": "https://e27.co/singapore-learnt-to-measure-cooling-asean-should-follow-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-09T02:46:27+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -602,7 +602,7 @@
       "url": "https://e27.co/circle-to-acquire-tazapay-as-usdc-push-moves-into-cross-border-payments-20260909/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-09T04:17:57+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -618,30 +618,6 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Asia has not opened yet: What will the first bell reveal about Bitcoin and oil?",
-      "url": "https://e27.co/asia-has-not-opened-yet-what-will-the-first-bell-reveal-about-bitcoin-and-oil-20260909/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-09T05:21:42+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 14.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
       ],
       "summary": ""
     },
@@ -674,7 +650,7 @@
       "url": "https://www.publickey1.jp/blog/26/amazon_linux4amazon_linux_2027selinux.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-09T00:15:03+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -722,7 +698,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/09/2000001300/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-05T10:46:03+00:00",
-      "age_days": 3.78,
+      "age_days": 3.79,
       "topics": [
         "ai"
       ],
@@ -744,11 +720,35 @@
       "summary": ""
     },
     {
+      "title": "Asia has not opened yet: What will the first bell reveal about Bitcoin and oil?",
+      "url": "https://e27.co/asia-has-not-opened-yet-what-will-the-first-bell-reveal-about-bitcoin-and-oil-20260909/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-09T05:21:42+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "ロボットが私にパンチの威嚇 技術の祭典で感じた「暴力」を賛美する危うさ",
       "url": "https://japan.cnet.com/article/35252378/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T09:22:22+00:00",
-      "age_days": 81.84,
+      "age_days": 81.85,
       "topics": [
         "general"
       ],
@@ -773,7 +773,7 @@
       "url": "https://japan.cnet.com/article/35252378/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-08T07:13:16+00:00",
-      "age_days": 0.93,
+      "age_days": 0.94,
       "topics": [
         "general"
       ],
@@ -815,7 +815,7 @@
         "momentum delta +3",
         "high terms: code",
         "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 82.1d old signal",
+        "aging penalty -8.0 for 82.2d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -825,7 +825,7 @@
       "url": "https://e27.co/the-most-valuable-part-of-ai-may-not-be-the-model-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-09T01:32:18+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -851,7 +851,7 @@
       "url": "https://e27.co/southeast-asias-smes-do-not-have-an-ai-problem-they-have-a-record-problem-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-09T03:30:25+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -927,7 +927,7 @@
       "url": "https://e27.co/asia-has-not-opened-yet-what-will-the-first-bell-reveal-about-bitcoin-and-oil-20260909/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-09T05:16:20+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "macro"
       ],
@@ -951,7 +951,7 @@
       "url": "https://www.digital.go.jp/councils/digital-talent-development-policy/ff566760-278e-47da-8454-b25c40912fcb",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-09T00:30:01+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -1001,7 +1001,7 @@
       "url": "https://e27.co/circle-to-acquire-tazapay-as-usdc-push-moves-into-cross-border-payments-20260909/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-09T04:00:49+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],

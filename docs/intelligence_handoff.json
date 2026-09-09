@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-09T05:29:12Z",
+  "generated_at": "2026-09-09T05:41:03Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “SPI Flashに組み込まれたUEFI Shellモジュールにおけるセキュアブート回避の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/vu/JVNVU94533753/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-09T10:00:10+09:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -63,7 +63,7 @@
       "url": "https://jvn.jp/vu/JVNVU91877671/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-09T10:00:00+09:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -81,6 +81,30 @@
         "security high-signal: jvn, security"
       ],
       "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
+    },
+    {
+      "title": "baserCMS用プラグイン「BurgerEditor」における複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN21088484/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-09-09T05:01:23+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2"
+      ],
+      "summary": ""
     },
     {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月08日）",
@@ -139,7 +163,7 @@
       "url": "https://jvn.jp/jp/JVN21088484/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-09T14:00:00+09:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -165,7 +189,7 @@
       "url": "https://e27.co/when-a-slot-opens-let-the-ai-agent-act-within-limits-20260906/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-09T02:30:04+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -192,7 +216,7 @@
       "url": "https://e27.co/try-everything-2026-puts-ai-robotics-and-cross-border-capital-at-the-centre-20260909/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-09T04:45:52+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -215,38 +239,11 @@
       "summary": ""
     },
     {
-      "title": "Try Everything 2026 puts AI, robotics and cross-border capital at the centre",
-      "url": "https://e27.co/try-everything-2026-puts-ai-robotics-and-cross-border-capital-at-the-centre-20260909/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-09T04:38:47+00:00",
-      "age_days": 0.04,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Startup conferences often sell scale: bigger halls, longer speaker lists, more badges scanned at the entrance. Seoul is taking a different route with Try Everything 2026. As the city’s flagship startup festival returns to Dongdaemun Design Plaza on September 9 and 10, organisers are leaning less on crowd size and more…"
-    },
-    {
       "title": "Security Alert: Alert Regarding Vulnerabilities in Adobe Acrobat and Reader (APSB26-141)",
       "url": "https://www.jpcert.or.jp/english/at/2026/at260026.html",
       "source": "JPCERT/CC English Alerts",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 81.75,
+      "age_days": 81.76,
       "topics": [
         "security"
       ],
@@ -272,7 +269,7 @@
       "url": "https://www.jpcert.or.jp/english/at/2026/at260025.html",
       "source": "JPCERT/CC English Alerts",
       "published_at": "2026-09-09T11:36+09:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -296,7 +293,7 @@
       "url": "https://www.jpcert.or.jp/english/at/2026/at260026.html",
       "source": "JPCERT/CC English Alerts",
       "published_at": "2026-09-09T11:36+09:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
