@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-09T13:20:55+00:00",
+  "generated_at": "2026-09-09T13:32:39+00:00",
   "events": [
     {
       "event_id": "evt_02008879feb3a26196bb",
@@ -698,13 +698,13 @@
     {
       "event_id": "evt_2bf1e7d57306cb9b7c1c",
       "title": "2026-011: Critical Vulnerabilities in SAP Kernel and NetWeaver Message Server",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_2c38e8e687830114dc50",
@@ -4114,7 +4114,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_ddb6f69a9bcfe16794e6",
