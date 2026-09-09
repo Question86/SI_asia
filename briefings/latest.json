@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T22:11:12+00:00",
-  "run_id": "2026-09-09T22:11:12+00:00",
+  "generated_at": "2026-09-09T22:23:00+00:00",
+  "run_id": "2026-09-09T22:23:00+00:00",
   "date": "2026-09-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 122,
     "displayed_findings": 122,
     "high": 1,
@@ -6184,51 +6184,7 @@
       "id": "4d69c64eb8e925ff0aa2"
     }
   ],
-  "new_findings": [
-    {
-      "title": "CodeQL 2.27.0 adds support for Linux ARM64",
-      "url": "https://github.blog/changelog/2026-09-09-codeql-2-27-0-adds-support-for-linux-arm64",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-09-09T21:45:06+00:00",
-      "fetched_at": "2026-09-09T22:10:30+00:00",
-      "summary": "CodeQL 2.27.0 is now available on Linux ARM64, adds a new Rust security query, expanded framework coverage for Java/Kotlin and C#, and analysis accuracy improvements across multiple languages. CodeQL is… The post CodeQL 2.27.0 adds support for Linux ARM64 appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "CodeQL/Dependabot",
-        "GitHub",
-        "Security"
-      ],
-      "relevance_score": 18,
-      "relevance_reason": "CodeQL/Dependabot (+8.8); Security (+6.0); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b80e87f87b48321a66ec"
-    },
-    {
-      "title": "GPT-6 Astra: The next generation in intelligence for work",
-      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-09-09T11:00:00+00:00",
-      "fetched_at": "2026-09-09T22:10:30+00:00",
-      "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
-      "matched_keywords": [
-        "AI Agents",
-        "OpenAI"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "OpenAI (+7.5); AI Agents (+5.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9b3b06bf9024461502ba"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-09-09T22:11:16+00:00_
+_Generiert: 2026-09-09T22:23:04+00:00_
 
 ## September-Patchday: Adobe schließt kritische Zero-Day-Lücke und 172 weitere
 
@@ -19,8 +19,8 @@ _Generiert: 2026-09-09T22:11:16+00:00_
 
 ## CodeQL 2.27.0 adds support for Linux ARM64
 
-- Ranking Score: `27.5`
-- Raw Network Score: `23.1`
+- Ranking Score: `25.0`
+- Raw Network Score: `20.1`
 - Max Monitor Score: `18`
 - Reichweite: `specialist` / `2.5`
 - Early Signal: `ja`
@@ -28,7 +28,7 @@ _Generiert: 2026-09-09T22:11:16+00:00_
 - Quellen: GitHub Changelog Atom
 - Klassen: tier3_specialist
 - Cross-source bestaetigt: nein
-- Momentum: increasing (+1)
+- Momentum: stable (+0)
 - Erste Quelle: https://github.blog/changelog/2026-09-09-codeql-2-27-0-adds-support-for-linux-arm64
 - Handlung: HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.
 
