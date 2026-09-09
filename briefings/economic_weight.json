@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-09T01:32:36+00:00",
+  "generated_at": "2026-09-09T01:52:35+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -347,7 +347,7 @@
       "p90_usd": 110400000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-09T01:02:28+00:00",
-      "last_seen_at": "2026-09-09T01:32:18+00:00",
+      "last_seen_at": "2026-09-09T01:52:18+00:00",
       "status": "active"
     },
     {
@@ -2132,7 +2132,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-09T01:32:18+00:00",
+      "last_seen_at": "2026-09-09T01:52:18+00:00",
       "status": "active"
     },
     {
@@ -2166,7 +2166,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-09T01:02:28+00:00",
-      "last_seen_at": "2026-09-09T01:32:18+00:00",
+      "last_seen_at": "2026-09-09T01:52:18+00:00",
       "status": "active"
     },
     {
@@ -2285,7 +2285,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-09T01:02:28+00:00",
-      "last_seen_at": "2026-09-09T01:32:18+00:00",
+      "last_seen_at": "2026-09-09T01:52:18+00:00",
       "status": "active"
     },
     {
@@ -2302,7 +2302,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-09T01:02:28+00:00",
-      "last_seen_at": "2026-09-09T01:32:18+00:00",
+      "last_seen_at": "2026-09-09T01:52:18+00:00",
       "status": "active"
     },
     {
@@ -2999,7 +2999,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-09T01:02:28+00:00",
-      "last_seen_at": "2026-09-09T01:32:18+00:00",
+      "last_seen_at": "2026-09-09T01:52:18+00:00",
       "status": "active"
     },
     {
@@ -4941,6 +4941,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_e23467df7fb3bc0ef241",
+      "title": "The most valuable part of AI may not be the model",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-09T01:32:18+00:00",
+      "last_seen_at": "2026-09-09T01:52:18+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_e2a35831f82554cb2454",
       "title": "GitHub - microsoft/tgrep: Trigram-indexed grep with a client/server architecture for fast regex search in large codebases locally",
       "event_classes": [
@@ -5007,23 +5024,6 @@
       "first_seen_at": "2026-09-04T16:18:08+00:00",
       "last_seen_at": "2026-09-04T16:18:08+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_e23467df7fb3bc0ef241",
-      "title": "The most valuable part of AI may not be the model",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 110400.0,
-      "p50_usd": 11040000.0,
-      "p90_usd": 1104000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-09T01:32:18+00:00",
-      "last_seen_at": "2026-09-09T01:32:18+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_050660578420f6fb8ddb",
@@ -5923,8 +5923,8 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T12:58:27+00:00",
-      "last_seen_at": "2026-09-08T23:55:02+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-09-09T01:52:18+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_491708df1e8ae0656660",
@@ -6263,7 +6263,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-09T01:02:28+00:00",
-      "last_seen_at": "2026-09-09T01:32:18+00:00",
+      "last_seen_at": "2026-09-09T01:52:18+00:00",
       "status": "active"
     },
     {
@@ -6297,7 +6297,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-09T01:02:28+00:00",
-      "last_seen_at": "2026-09-09T01:32:18+00:00",
+      "last_seen_at": "2026-09-09T01:52:18+00:00",
       "status": "active"
     },
     {
@@ -6484,7 +6484,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-09T00:15:03+00:00",
-      "last_seen_at": "2026-09-09T01:32:18+00:00",
+      "last_seen_at": "2026-09-09T01:52:18+00:00",
       "status": "active"
     },
     {
