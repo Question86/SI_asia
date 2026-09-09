@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T12:59:16+00:00",
-  "run_id": "2026-09-09T12:59:16+00:00",
+  "generated_at": "2026-09-09T13:20:11+00:00",
+  "run_id": "2026-09-09T13:20:11+00:00",
   "date": "2026-09-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 99
+      "configured_public_sources_only": 100
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 99,
-    "displayed_findings": 99,
+    "new_relevant_findings": 1,
+    "today_file_total": 100,
+    "displayed_findings": 100,
     "high": 1,
     "medium": 66,
-    "observe": 32,
+    "observe": 33,
     "source_errors": 0
   },
   "sections": {
@@ -2029,6 +2029,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "1ebd2e15695da8f4c7cd"
+      },
+      {
+        "title": "2026-011: Critical Vulnerabilities in SAP Kernel and NetWeaver Message Server",
+        "url": "https://cert.europa.eu/publications/security-advisories/2026-011/",
+        "source": "CERT-EU Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-09T15:07:59+00:00",
+        "fetched_at": "2026-09-09T13:19:42+00:00",
+        "summary": "On 8 September 2026, as part of its September Security Patch Day, SAP released Security Notes addressing two critical vulnerabilities affecting a broad range of SAP products[3]. The most severe, CVE-2026-44756 (CVSS 10.0), is a memory corruption vulnerability in SAP Extended Passport (EPP) processing, nicknamed \"OVERPASS\" by the Onapsis Research Labs (ORL), which discovered and responsibly disclosed it[3]. The secon…",
+        "matched_keywords": [
+          "CERT-EU",
+          "patch",
+          "Security"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "Security (+6.0); CERT-EU (+2.0); patch (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "76c6cf71e7e13cf8bcff"
       },
       {
         "title": "Security Alert: Microsoft Releases September 2026 Security Updates",
@@ -4530,6 +4552,28 @@
       "id": "1ebd2e15695da8f4c7cd"
     },
     {
+      "title": "2026-011: Critical Vulnerabilities in SAP Kernel and NetWeaver Message Server",
+      "url": "https://cert.europa.eu/publications/security-advisories/2026-011/",
+      "source": "CERT-EU Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-09T15:07:59+00:00",
+      "fetched_at": "2026-09-09T13:19:42+00:00",
+      "summary": "On 8 September 2026, as part of its September Security Patch Day, SAP released Security Notes addressing two critical vulnerabilities affecting a broad range of SAP products[3]. The most severe, CVE-2026-44756 (CVSS 10.0), is a memory corruption vulnerability in SAP Extended Passport (EPP) processing, nicknamed \"OVERPASS\" by the Onapsis Research Labs (ORL), which discovered and responsibly disclosed it[3]. The secon…",
+      "matched_keywords": [
+        "CERT-EU",
+        "patch",
+        "Security"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "Security (+6.0); CERT-EU (+2.0); patch (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "76c6cf71e7e13cf8bcff"
+    },
+    {
       "title": "Security Alert: Microsoft Releases September 2026 Security Updates",
       "url": "https://www.jpcert.or.jp/english/at/2026/at260025.html",
       "source": "JPCERT/CC English Alerts",
@@ -5028,7 +5072,30 @@
       "id": "b5112b2c98a785534192"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "2026-011: Critical Vulnerabilities in SAP Kernel and NetWeaver Message Server",
+      "url": "https://cert.europa.eu/publications/security-advisories/2026-011/",
+      "source": "CERT-EU Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-09T15:07:59+00:00",
+      "fetched_at": "2026-09-09T13:19:42+00:00",
+      "summary": "On 8 September 2026, as part of its September Security Patch Day, SAP released Security Notes addressing two critical vulnerabilities affecting a broad range of SAP products[3]. The most severe, CVE-2026-44756 (CVSS 10.0), is a memory corruption vulnerability in SAP Extended Passport (EPP) processing, nicknamed \"OVERPASS\" by the Onapsis Research Labs (ORL), which discovered and responsibly disclosed it[3]. The secon…",
+      "matched_keywords": [
+        "CERT-EU",
+        "patch",
+        "Security"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "Security (+6.0); CERT-EU (+2.0); patch (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "76c6cf71e7e13cf8bcff"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-09T12:59:16+00:00_
+_Generiert: 2026-09-09T13:20:11+00:00_
 
 ## Kurzlage
 
-99 neue relevante Treffer. Stärkstes Signal: „September-Patchday: Adobe schließt kritische Zero-Day-Lücke und 172 weitere“ aus heise Security Alerts (Score 24, risk).
+100 neue relevante Treffer. Stärkstes Signal: „September-Patchday: Adobe schließt kritische Zero-Day-Lücke und 172 weitere“ aus heise Security Alerts (Score 24, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -239,6 +239,15 @@ _Generiert: 2026-09-09T12:59:16+00:00_
   - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 米Anthropicの研究者、ジェイコブ・コクソン氏（27）は9月8日（現地時間）、同社を退社したことをXで明らかにした。コクソン氏は投稿で、米OpenAIとAnthropicの両社で3年間、事前学習の研究に従事してきたとした上で、「どちらの企業も責任ある行動を取っていない」と述べ、自己改善型の超知能（superintelligence）に向...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **2026-011: Critical Vulnerabilities in SAP Kernel and NetWeaver Message Server** — Score 10, risk — [Quelle](https://cert.europa.eu/publications/security-advisories/2026-011/)
+  - Quelle: CERT-EU Security Advisories / `rss`
+  - Zeit: published `2026-09-09T15:07:59+00:00`, fetched `2026-09-09T13:19:42+00:00`
+  - Treffer: CERT-EU, patch, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); CERT-EU (+2.0); patch (+2.0)
+  - Kurz: On 8 September 2026, as part of its September Security Patch Day, SAP released Security Notes addressing two critical vulnerabilities affecting a broad range of SAP products[3]. The most severe, CVE-2026-44756 (CVSS 10.0), is a memory corruption vulnerability in SAP Extended Passport (EPP) processing, nicknamed "OVERPASS" by the Onapsis Research Labs (ORL), which discovered and responsibly disclosed it[3]. The secon…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Security Alert: Microsoft Releases September 2026 Security Updates** — Score 10, observation — [Quelle](https://www.jpcert.or.jp/english/at/2026/at260025.html)
   - Quelle: JPCERT/CC English Alerts / `rss`
   - Zeit: published `2026-09-09T11:36+09:00`, fetched `2026-09-09T03:25:21+00:00`
@@ -292,15 +301,6 @@ _Generiert: 2026-09-09T12:59:16+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Google stellt Chrome auf einen Zweiwochen-Rhythmus um. Version 153 behebt 230 Sicherheitslücken, darunter eine aktiv ausgenutzte.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Microsoft schließt Rekordzahl an Sicherheitslücken** — Score 7, observation — [Quelle](https://www.heise.de/news/Rekord-beim-Microsoft-Patchday-Fast-1000-Luecken-geschlossen-11446255.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-09-09T08:09:00.000+00:00`, fetched `2026-09-09T08:30:28+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Microsoft schließt fast 1000 Sicherheitslücken am Patchday. Zwei davon werden bereits aktiv ausgenutzt und haben höchste Priorität.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
