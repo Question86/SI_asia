@@ -142,6 +142,30 @@
     "id": "9fd09596dba218253563"
   },
   {
+    "title": "[NEU] [hoch] Microsoft Office Produkte: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3234",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-09T08:24:17+00:00",
+    "fetched_at": "2026-09-09T08:30:28+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in verschiedenen Microsoft Office Produkten, Microsoft Office Online Server, Microsoft 365 Apps, Microsoft SharePoint, Microsoft Teams und Microsoft Skype ausnutzen, um erhöhte Berechtigungen zu erlangen, um Code auszuführen, um Informationen offenzulegen und um den Nutzer zu täuschen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Microsoft",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b50b669425afa1af69ad"
+  },
+  {
     "title": "[UPDATE] [mittel] Red Hat Enterprise Linux: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3229",
     "source": "BSI CERT-Bund Security Advisories",
@@ -710,6 +734,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "d70aaffe76990cb56e2a"
+  },
+  {
+    "title": "Microsoft schließt Rekordzahl an Sicherheitslücken",
+    "url": "https://www.heise.de/news/Rekord-beim-Microsoft-Patchday-Fast-1000-Luecken-geschlossen-11446255.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-09-09T08:09:00.000+00:00",
+    "fetched_at": "2026-09-09T08:30:28+00:00",
+    "summary": "Microsoft schließt fast 1000 Sicherheitslücken am Patchday. Zwei davon werden bereits aktiv ausgenutzt und haben höchste Priorität.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ae10e1ae2dc0b3d79cfd"
   },
   {
     "title": "Thailand’s mobility future will be decided by data, not just vehicles",
