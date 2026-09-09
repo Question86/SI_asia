@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-09T11:29:28+00:00",
+  "generated_at": "2026-09-09T11:39:58+00:00",
   "topics": {
     "security": [
       {
@@ -31,6 +31,13 @@
         "published_at": "2026-09-09T08:44:17+00:00",
         "relevance_score": 17,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3239"
+      },
+      {
+        "title": "[NEU] [hoch] Ivanti Neurons for ITSM: Mehrere Schwachstellen ermöglichen Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-09T11:24:17+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3272"
       },
       {
         "title": "[NEU] [hoch] Microsoft SQL Server: Mehrere Schwachstellen",
@@ -66,13 +73,6 @@
         "published_at": "2026-09-09T10:19:17+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3263"
-      },
-      {
-        "title": "[NEU] [mittel] Fortinet FortiManager: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-09T10:09:17+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3260"
       }
     ],
     "ai": [
@@ -237,6 +237,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3239"
       },
       {
+        "title": "[NEU] [hoch] Ivanti Neurons for ITSM: Mehrere Schwachstellen ermöglichen Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-09T11:24:17+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3272"
+      },
+      {
         "title": "[NEU] [hoch] Microsoft SQL Server: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-09T11:19:17+00:00",
@@ -277,13 +284,6 @@
         "published_at": "2026-09-09T10:09:17+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3260"
-      },
-      {
-        "title": "[NEU] [mittel] Fortinet FortiAnalyzer: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-09T10:09:17+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3259"
       }
     ],
     "general": [

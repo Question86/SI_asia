@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-09T11:29:28+00:00",
-  "run_id": "2026-09-09T11:29:28+00:00",
+  "generated_at": "2026-09-09T11:39:58+00:00",
+  "run_id": "2026-09-09T11:39:58+00:00",
   "date": "2026-09-09",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 84
+      "configured_public_sources_only": 88
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,10 +19,10 @@
   },
   "counts": {
     "new_relevant_findings": 4,
-    "today_file_total": 84,
-    "displayed_findings": 84,
+    "today_file_total": 88,
+    "displayed_findings": 88,
     "high": 1,
-    "medium": 55,
+    "medium": 59,
     "observe": 28,
     "source_errors": 0
   },
@@ -267,6 +267,42 @@
           "PINS"
         ],
         "id": "48bbdb2f7f935a2beed7"
+      },
+      {
+        "title": "[NEU] [hoch] Ivanti Neurons for ITSM: Mehrere Schwachstellen ermöglichen Codeausführung",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3272",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-09T11:24:17+00:00",
+        "fetched_at": "2026-09-09T11:39:28+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Ivanti Neurons for ITSM ausnutzen, um beliebigen Programmcode auszuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security",
+          "Watchgraph:cyber_active_exploitation"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "cyber_active_exploitation"
+        ],
+        "watchgraph_reasons": [
+          "cyber_active_exploitation: Ivanti"
+        ],
+        "market_context": [
+          "CRWD",
+          "PANW",
+          "FTNT",
+          "ZS",
+          "OKTA",
+          "NET",
+          "S"
+        ],
+        "id": "3d58436af8d6d8be4384"
       },
       {
         "title": "[NEU] [hoch] Microsoft SQL Server: Mehrere Schwachstellen",
@@ -839,6 +875,75 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "244d48ebb627ae1aaaff"
+      },
+      {
+        "title": "[NEU] [niedrig] Mozilla Firefox für iOS: Schwachstelle ermöglicht Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3274",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-09T11:34:17+00:00",
+        "fetched_at": "2026-09-09T11:39:28+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Mozilla Firefox für iOS ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "4f0b1d33781c81a28434"
+      },
+      {
+        "title": "[NEU] [mittel] IBM WebSphere Application Server Liberty: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3275",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-09T11:34:17+00:00",
+        "fetched_at": "2026-09-09T11:39:28+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM WebSphere Application Server Liberty ausnutzen, um einen Denial of Service Angriff durchzuführen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren und Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "700f255a6a1ce65dfb88"
+      },
+      {
+        "title": "[NEU] [mittel] Adobe Photoshop Mobile für Android: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3273",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-09T11:29:17+00:00",
+        "fetched_at": "2026-09-09T11:39:28+00:00",
+        "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Adobe Photoshop Mobile für Android ausnutzen, um seine Privilegien zu erhöhen und Sicherheitsmaßnahmen zu umgehen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ed4fa023c236b15ff9a2"
       },
       {
         "title": "[UPDATE] [kritisch] N-able N-Central: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
@@ -2402,6 +2507,42 @@
       "id": "48bbdb2f7f935a2beed7"
     },
     {
+      "title": "[NEU] [hoch] Ivanti Neurons for ITSM: Mehrere Schwachstellen ermöglichen Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3272",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-09T11:24:17+00:00",
+      "fetched_at": "2026-09-09T11:39:28+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Ivanti Neurons for ITSM ausnutzen, um beliebigen Programmcode auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security",
+        "Watchgraph:cyber_active_exploitation"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
+      "watchgraph_reasons": [
+        "cyber_active_exploitation: Ivanti"
+      ],
+      "market_context": [
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S"
+      ],
+      "id": "3d58436af8d6d8be4384"
+    },
+    {
       "title": "[NEU] [hoch] Microsoft SQL Server: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3271",
       "source": "BSI CERT-Bund Security Advisories",
@@ -2972,6 +3113,75 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "244d48ebb627ae1aaaff"
+    },
+    {
+      "title": "[NEU] [niedrig] Mozilla Firefox für iOS: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3274",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-09T11:34:17+00:00",
+      "fetched_at": "2026-09-09T11:39:28+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Mozilla Firefox für iOS ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4f0b1d33781c81a28434"
+    },
+    {
+      "title": "[NEU] [mittel] IBM WebSphere Application Server Liberty: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3275",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-09T11:34:17+00:00",
+      "fetched_at": "2026-09-09T11:39:28+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM WebSphere Application Server Liberty ausnutzen, um einen Denial of Service Angriff durchzuführen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren und Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "700f255a6a1ce65dfb88"
+    },
+    {
+      "title": "[NEU] [mittel] Adobe Photoshop Mobile für Android: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3273",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-09T11:29:17+00:00",
+      "fetched_at": "2026-09-09T11:39:28+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Adobe Photoshop Mobile für Android ausnutzen, um seine Privilegien zu erhöhen und Sicherheitsmaßnahmen zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ed4fa023c236b15ff9a2"
     },
     {
       "title": "[UPDATE] [kritisch] N-able N-Central: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
@@ -4294,37 +4504,13 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [hoch] Microsoft SQL Server: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3271",
+      "title": "[NEU] [hoch] Ivanti Neurons for ITSM: Mehrere Schwachstellen ermöglichen Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3272",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-09-09T11:19:17+00:00",
-      "fetched_at": "2026-09-09T11:28:57+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Microsoft SQL Server 2017, SQL Server 2019 und SQL Server 2022 ausnutzen, um seine Berechtigungen zu erweitern – unter anderem auf SQL-Sysadmin- oder SYSTEM-Rechte –, beliebigen Code auszuführen, vertrauliche Informationen offenzulegen, einen Denial-of-Service-Zustand auszulösen und Sicherheitsmaßnahmen zu umgehen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Microsoft",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7254e7fb8eaf36ad7c06"
-    },
-    {
-      "title": "[NEU] [hoch] Ivanti Endpoint Manager Mobile: Schwachstelle ermöglicht Erlangen von Administratorrechten",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3270",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-09T11:19:17+00:00",
-      "fetched_at": "2026-09-09T11:28:57+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Ivanti Endpoint Manager Mobile ausnutzen, um Administratorrechte zu erlangen.",
+      "published_at": "2026-09-09T11:24:17+00:00",
+      "fetched_at": "2026-09-09T11:39:28+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Ivanti Neurons for ITSM ausnutzen, um beliebigen Programmcode auszuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -4351,16 +4537,16 @@
         "NET",
         "S"
       ],
-      "id": "d9a24c7e4274eec2299a"
+      "id": "3d58436af8d6d8be4384"
     },
     {
-      "title": "[UPDATE] [kritisch] N-able N-Central: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3205",
+      "title": "[NEU] [mittel] IBM WebSphere Application Server Liberty: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3275",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-09-09T11:19:17+00:00",
-      "fetched_at": "2026-09-09T11:28:57+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in N-able N-Central ausnutzen, um Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen oder Code auszuführen.",
+      "published_at": "2026-09-09T11:34:17+00:00",
+      "fetched_at": "2026-09-09T11:39:28+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM WebSphere Application Server Liberty ausnutzen, um einen Denial of Service Angriff durchzuführen, um Sicherheitsvorkehrungen zu umgehen, Daten zu manipulieren und Informationen offenzulegen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -4374,28 +4560,53 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "75758e815c7bf22ae3cb"
+      "id": "700f255a6a1ce65dfb88"
     },
     {
-      "title": "「AIでなくなる仕事」ビル・ゲイツが明言 いま始まる“人間の仕事”争奪戦",
-      "url": "https://news.tv-asahi.co.jp/news_international/articles/900199131.html",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "[NEU] [niedrig] Mozilla Firefox für iOS: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3274",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-09-09T04:59:29+00:00",
-      "fetched_at": "2026-09-09T11:28:57+00:00",
-      "summary": "米マイクロソフト創業者のビル・ゲイツ氏が、自身のウェブサイトで公開した論考が大きな話題を呼んでいる。 タイトルは「激動のAI時代が到来。我々がいま下すべき重要な選択」というもの。 AIについて長年、その可能性を前向きに語ってきたゲイツ氏が、今回は一転、AIがもたらす将来への危機感をあらわにしている。AIに...",
+      "published_at": "2026-09-09T11:34:17+00:00",
+      "fetched_at": "2026-09-09T11:39:28+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Mozilla Firefox für iOS ausnutzen, um einen Denial of Service Angriff durchzuführen.",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "348c458ead3aa58cea48"
+      "id": "4f0b1d33781c81a28434"
+    },
+    {
+      "title": "[NEU] [mittel] Adobe Photoshop Mobile für Android: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3273",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-09T11:29:17+00:00",
+      "fetched_at": "2026-09-09T11:39:28+00:00",
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Adobe Photoshop Mobile für Android ausnutzen, um seine Privilegien zu erhöhen und Sicherheitsmaßnahmen zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ed4fa023c236b15ff9a2"
     }
   ],
   "source_errors": [],
