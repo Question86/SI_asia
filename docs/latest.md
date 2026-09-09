@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-09T17:39:18+00:00_
+_Generiert: 2026-09-09T17:46:51+00:00_
 
 ## Kurzlage
 
-112 neue relevante Treffer. Stärkstes Signal: „September-Patchday: Adobe schließt kritische Zero-Day-Lücke und 172 weitere“ aus heise Security Alerts (Score 24, risk).
+113 neue relevante Treffer. Stärkstes Signal: „September-Patchday: Adobe schließt kritische Zero-Day-Lücke und 172 weitere“ aus heise Security Alerts (Score 24, risk).
 
 ## Priorität Hoch
 
@@ -203,6 +203,15 @@ _Generiert: 2026-09-09T17:39:18+00:00_
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 米OpenAIは9月8日（現地時間）、社内の未公開モデルがミレニアム懸賞問題の1つ「ナビエ・ストークス方程式の存在と滑らかさ」を解決する証明を生成したと発表した。3次元の非圧縮性流体が、滑らかな状態から出発しても有限時間で速度が無限大に発散する「特異点」を生じ得ることを示したもので、同社は証明の解説と、証...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **GitHub Advanced Security expands trial availability** — Score 11, observation — [Quelle](https://github.blog/changelog/2026-09-09-github-advanced-security-expands-trial-availability)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-09-09T17:33:34+00:00`, fetched `2026-09-09T17:46:15+00:00`
+  - Treffer: GitHub, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+7.5); GitHub (+2.5); recent (+1.0)
+  - Kurz: More GitHub Enterprise Cloud customers can now start a self-serve GitHub Advanced Security trial to evaluate GitHub Code Security and GitHub Secret Protection. Eligibility has expanded from enterprises with up… The post GitHub Advanced Security expands trial availability appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.0 - 53 km W of Cafayate, Argentina** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg12)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-09T10:38:25.040+00:00`, fetched `2026-09-09T10:42:49+00:00`
@@ -275,15 +284,6 @@ _Generiert: 2026-09-09T17:39:18+00:00_
   - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Christine Lagarde: The choice facing Europeans
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.7 - 139 km NNE of Hihifo, Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg1q)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-09T12:41:30.040+00:00`, fetched `2026-09-09T12:51:09+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-09 12:18:14 UTC 2026-09-09 12:18:14 UTC at epicenter Location 14.877°S 173.119°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Empfehlungen
 
