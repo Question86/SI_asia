@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-10T10:32:47+00:00_
+_Generiert: 2026-09-10T10:42:58+00:00_
 
 ## Kurzlage
 
@@ -33,10 +33,10 @@ _Generiert: 2026-09-10T10:32:47+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Islamic Republic of Iran
-- **GDACS: Green notification for tropical cyclone FOURTEEN-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001320)
+- **GDACS: Green notification for tropical cyclone NORBERT-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001320)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green notification for tropical cyclone FOURTEEN-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+  - Kurz: Green notification for tropical cyclone NORBERT-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 - **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in New Caledonia 07/09/2026 05:50 UTC, Few people affected in MMI&gt;=-.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1564048)
   - Quelle: GDACS
   - Zeit: ``
