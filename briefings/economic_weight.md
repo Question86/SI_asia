@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-09-10T16:30:42+00:00`
+Generated: `2026-09-10T16:48:17+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -8,6 +8,7 @@ Generated: `2026-09-10T16:30:42+00:00`
 |---|---|---:|---:|---:|---:|
 | Why every warehouse in Singapore will run on AI safety monitoring within five years | natural_disaster, conflict | $122.40M | $12.24B | $1.22T | 0.31 |
 | anomalyco/opencode | conflict | $115.20M | $11.52B | $1.15T | 0.31 |
+| npm extends recovery-code security holds to all accounts | conflict | $115.20M | $11.52B | $1.15T | 0.31 |
 | Warsh, In Our Time | conflict | $113.60M | $11.36B | $1.14T | 0.31 |
 | Schools and universities face rising ransomware costs as attackers target identities | exploit, conflict | $113.60M | $11.36B | $1.14T | 0.31 |
 | Netanyahu got an explicit warning before Oct. 7. He didn't brief security chiefs | conflict | $113.60M | $11.36B | $1.14T | 0.31 |
@@ -30,7 +31,6 @@ Generated: `2026-09-10T16:30:42+00:00`
 | M 5.1 - Owen Fracture Zone region | regulation, natural_disaster | $11.12M | $1.11B | $111.20B | 0.33 |
 | 今後のデジタル人材育成政策に関する検討会（第1回）の議事次第および資料を掲載しました | regulation | $11.04M | $1.10B | $110.40B | 0.31 |
 | Multiples vulnérabilités dans JFrog Artifactory (01 septembre 2026) | regulation | $11.04M | $1.10B | $110.40B | 0.31 |
-| 「今後のデジタル人材育成政策に関する検討会」開催について掲載しました | regulation | $11.04M | $1.10B | $110.40B | 0.31 |
 
 ## Interpretation
 
