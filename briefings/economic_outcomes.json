@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-10T13:19:30+00:00",
+  "generated_at": "2026-09-10T13:29:35+00:00",
   "events": [
     {
       "event_id": "evt_02008879feb3a26196bb",
@@ -1320,7 +1320,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_4a104f3be147ee0920ed",
@@ -2557,12 +2557,12 @@
     {
       "event_id": "evt_7e380d9ded080325a4de",
       "title": "Anatomy of a shakeout: what 7,538 deadpooled startups reveal about Southeast Asia’s new tech reality",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -3454,7 +3454,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_a9168860075ad99c5a0d",
