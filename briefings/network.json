@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-10T07:01:50+00:00",
+  "generated_at": "2026-09-10T07:25:13+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 23,
-    "clusters": 23,
+    "findings": 24,
+    "clusters": 24,
     "cross_source_confrmed": 0,
     "hot": 0,
-    "early_signals": 4,
+    "early_signals": 0,
     "dominance_penalized": 1
   },
   "clusters": [
@@ -28,7 +28,7 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 28.7,
+      "network_score": 28.56,
       "hot": false,
       "watchgraph_modules": [
         "software_supply_chain",
@@ -36,13 +36,13 @@
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 25.1,
-      "ranking_score": 28.7,
+      "ranking_score": 28.56,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 4.2,
+      "baseline_bonus": 4.06,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -90,6 +90,46 @@
       "first_seen_at": "2026-09-10T01:21:43+00:00"
     },
     {
+      "key": "domain:wid.cert-bund.de",
+      "title": "[UPDATE] [hoch] Fortinet FortiOS: Schwachstelle ermöglicht Codeausführung",
+      "sources": [
+        "BSI CERT-Bund Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0085"
+      ],
+      "finding_count": 1,
+      "max_score": 16,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 17.5,
+      "hot": false,
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 18.1,
+      "ranking_score": 17.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-28T14:08:37+00:00"
+    },
+    {
       "key": "title:conprosys",
       "title": "コンテック製CONPROSYSシリーズにおける複数の脆弱性",
       "sources": [
@@ -107,20 +147,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 21.0,
+      "network_score": 15.5,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "raw_network_score": 16.1,
-      "ranking_score": 21.0,
+      "ranking_score": 15.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
       "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
       "high_signal": false,
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
@@ -145,20 +185,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 21.0,
+      "network_score": 15.5,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "raw_network_score": 16.1,
-      "ranking_score": 21.0,
+      "ranking_score": 15.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
       "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
       "high_signal": false,
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
@@ -183,20 +223,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 21.0,
+      "network_score": 15.5,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "raw_network_score": 16.1,
-      "ranking_score": 21.0,
+      "ranking_score": 15.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
       "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
       "high_signal": false,
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
@@ -221,57 +261,17 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 21.0,
+      "network_score": 15.5,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "raw_network_score": 16.1,
-      "ranking_score": 21.0,
+      "ranking_score": 15.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-09-10T06:31:46+00:00"
-    },
-    {
-      "key": "domain:wid.cert-bund.de",
-      "title": "[UPDATE] [hoch] Fortinet FortiOS: Schwachstelle ermöglicht Codeausführung",
-      "sources": [
-        "BSI CERT-Bund Security Advisories"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0085"
-      ],
-      "finding_count": 1,
-      "max_score": 16,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 20.0,
-      "hot": false,
-      "watchgraph_modules": [
-        "cyber_active_exploitation"
-      ],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 21.1,
-      "ranking_score": 20.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
       "baseline_bonus": 0.0,
       "early_signal": false,
       "early_signal_bonus": 0.0,
@@ -279,7 +279,7 @@
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-08-28T14:08:37+00:00"
+      "first_seen_at": "2026-09-10T06:31:46+00:00"
     },
     {
       "key": "title:shirasagi",
@@ -396,47 +396,6 @@
       "first_seen_at": "2026-09-10T02:46:36+00:00"
     },
     {
-      "key": "earthquake:m 5.3 - 126 km wsw of alianza cristiana, peru:5.3",
-      "title": "M 5.3 - 126 km WSW of Alianza Cristiana, Peru",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "emergency_official",
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg8v"
-      ],
-      "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 12.9,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 16.7,
-      "ranking_score": 12.9,
-      "initial_reach_tier": "official",
-      "source_reach_score": 4.0,
-      "authority_bonus_capped": 2.4,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 3.0,
-      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-09-10T07:01:50+00:00"
-    },
-    {
       "key": "cve:CVE-2026-62910",
       "title": "Microsoft發布Exchange Server系列安全性更新， CVE-2026-62911已有攻擊利用程式碼流通，籲儘速修補",
       "sources": [
@@ -551,6 +510,85 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-10T02:01:17+00:00"
+    },
+    {
+      "key": "earthquake:m 5.3 - 126 km wsw of alianza cristiana, peru:5.3",
+      "title": "M 5.3 - 126 km WSW of Alianza Cristiana, Peru",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "emergency_official",
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg8v"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 10.4,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 13.7,
+      "ranking_score": 10.4,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-09-10T07:01:50+00:00"
+    },
+    {
+      "key": "domain:note.com",
+      "title": "消えた天才CTO。ーCloudflareの技術を作ったリー・ホロウェイ伝【後編】｜占部雅一 masakazu urabe",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://note.com/masakazu_urabe/n/n59bcda4ddef2"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 9.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 10.1,
+      "ranking_score": 9.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-31T18:43:10+00:00"
     },
     {
       "key": "title:tiktok-deepens-vietnam-commerce-bet-980m-logistics-project",
@@ -899,7 +937,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-10T07:01:50Z",
+    "generated_at": "2026-09-10T07:25:13Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
