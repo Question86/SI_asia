@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-10T05:57:46+00:00_
+_Generiert: 2026-09-10T06:31:41+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „The missing layer in AI innovation: Human verification“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
+21 neue relevante Treffer. Stärkstes Signal: „Tencent/teamai-cli“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Tencent/teamai-cli** — Score 23, opportunity — [Quelle](https://github.com/Tencent/teamai-cli)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-09-10T06:31:09+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar, GitHub Trending, OpenAI, Public Health, Watchgraph:ai_agents_workflow, Watchgraph:software_supply_chain
+  - Watchgraph: software_supply_chain, ai_agents_workflow
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, CRWD, PANW, FTNT, ZS, OKTA, NVDA, AMD
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); Public Health (+5.0); GitHub Trending (+2.0); watchgraph modules software_supply_chain, ai_agents_workflow (+6.0); watchgraph markets via cybersecurity, dev_infra, ai_compute: TEAM (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
+  - Kurz: Make Every Team AI Native TeamAI — Make Every Team AI Native English | 简体中文 TeamAI manages your team's skills, rules, MCP, and knowledge across Claude Code, Codex, CodeBuddy, WorkBuddy, OpenCode, Cursor, and other AI agents. Contributors Thanks to everyone who has contributed to TeamAI! Made with contrib.rocks . Quick Start Install npm install -g teamai-cli Team admin / solo user Create a shared-experience repo on y…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **The missing layer in AI innovation: Human verification** — Score 22, opportunity — [Quelle](https://e27.co/the-missing-layer-in-ai-innovation-human-verification-20260908/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-10T01:00:21+00:00`, fetched `2026-09-10T01:21:04+00:00`
@@ -21,14 +30,32 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); APAC Trend Radar (+3.0); Produktidee (+6.0); founder (+2.0); recent (+1.0)
   - Kurz: Artificial intelligence has dramatically changed the way startups are built. Today, a founder can describe a product idea, open a tool such as Claude or OpenAI, generate hundreds of lines of code, build a prototype and present it as an “AI-powered innovation” within days. What once required a technical team, months of development and significant […] The post The missing layer in AI innovation: Human verification app…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **SHIRASAGIにおける複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN37476837/)
+- **コンテック製CONPROSYSシリーズにおける複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU96551518/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-09-10T14:00:00+09:00`, fetched `2026-09-10T05:20:38+00:00`
+  - Zeit: published `2026-09-10T15:00:45+09:00`, fetched `2026-09-10T06:31:09+00:00`
   - Treffer: APAC Trend Radar, JVN, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: SHIRASAGI Projectが提供するSHIRASAGIには、複数の脆弱性が存在します。
+  - Kurz: 株式会社コンテックが提供するCONPROSYSシリーズには、複数の脆弱性が存在します。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **コンテック製無線LAN FLEXLANシリーズにおける複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU99009004/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-09-10T15:00:30+09:00`, fetched `2026-09-10T06:31:09+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 株式会社コンテックが提供する無線LAN FLEXLANシリーズには、複数の脆弱性が存在します。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **コンテック製PC-HELPERシリーズにおける複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU90314828/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-09-10T15:00:15+09:00`, fetched `2026-09-10T06:31:09+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 株式会社コンテックが提供するPC-HELPERシリーズには、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
@@ -68,6 +95,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Singapore has placed 25 companies on the Best Workplaces in Asia 2026 list, the highest count in Southeast Asia, at a time when employers across the region are fighting harder to hold on to skilled workers. The list, published by Great Place To Work, ranks 200 companies across Asia based on employee survey responses. Of […] The post Singapore tops Southeast Asia on Best Workplaces in Asia 2026 list appeared first on…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **学園祭での年齢確認にマイナンバーカードを活用しています** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/6a52d1e9-30cc-455a-9154-f32479d1731a)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-09-10T06:00:00+00:00`, fetched `2026-09-10T06:31:09+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 学園祭での年齢確認にマイナンバーカードを活用しています
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **当社システムへの不正アクセスに関する調査結果および再発防止策について（第三報） | さくらインターネット** — Score 5, observation — [Quelle](https://www.sakura.ad.jp/corporate/information/newsreleases/2026/09/10/1968225692/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
