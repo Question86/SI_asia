@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-09-10T08:45:41+00:00_
+_Generiert: 2026-09-10T08:54:04+00:00_
 
 ## 2026-012: Critical Vulnerabilities in Check Point Products
 

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-10T08:45:39+00:00_
+_Generiert: 2026-09-10T08:54:00+00:00_
 
 ## Kurzlage
 
-29 neue relevante Treffer. Stärkstes Signal: „The capital drought: Over 7,500 SEA startups extinguished since 2020“ aus e27 Asia Startup and Tech Feed (Score 26, observation).
+30 neue relevante Treffer. Stärkstes Signal: „The capital drought: Over 7,500 SEA startups extinguished since 2020“ aus e27 Asia Startup and Tech Feed (Score 26, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -184,6 +184,15 @@ _Generiert: 2026-09-10T08:45:39+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Singapore has placed 25 companies on the Best Workplaces in Asia 2026 list, the highest count in Southeast Asia, at a time when employers across the region are fighting harder to hold on to skilled workers. The list, published by Great Place To Work, ranks 200 companies across Asia based on employee survey responses. Of […] The post Singapore tops Southeast Asia on Best Workplaces in Asia 2026 list appeared first on…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Sicherheitslücken: 36.000 Plex-Media-Server-Instanzen potenziell angreifbar** — Score 7, observation — [Quelle](https://www.heise.de/news/Sicherheitsluecken-36-000-Plex-Media-Server-Instanzen-potenziell-angreifbar-11448584.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-09-10T08:45:00.000+00:00`, fetched `2026-09-10T08:53:27+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: In aktuellen Versionen von Plex Media Server und Plex Desktop wurden mehrere Schwachstellen geschlossen. Weltweit sind zehntausende Instanzen angreifbar.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Jetzt patchen! Angreifer kompromittieren Cisco-Firewalls als Root** — Score 7, observation — [Quelle](https://www.heise.de/news/Jetzt-patchen-Angreifer-kompromittieren-Cisco-Firewalls-als-Root-11448237.html)
   - Quelle: heise Security Alerts / `rss`
