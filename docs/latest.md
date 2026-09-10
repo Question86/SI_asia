@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-10T20:29:01+00:00_
+_Generiert: 2026-09-10T20:40:09+00:00_
 
 ## Kurzlage
 
-70 neue relevante Treffer. Stärkstes Signal: „The capital drought: Over 7,500 SEA startups extinguished since 2020“ aus e27 Asia Startup and Tech Feed (Score 26, observation).
+71 neue relevante Treffer. Stärkstes Signal: „The capital drought: Over 7,500 SEA startups extinguished since 2020“ aus e27 Asia Startup and Tech Feed (Score 26, observation).
 
 ## Priorität Hoch
 
@@ -74,6 +74,15 @@ _Generiert: 2026-09-10T20:29:01+00:00_
   - Warum relevant: Security (+6.0); CERT-FR (+2.0); alerte (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)
   - Kurz: \[Mise à jour du 15 mars 2024\] Ajout de précision concernant les défi-réponses NTLM \[Mise à jour du 22 février 2024\] Ajout de recommandations et de précisions sur le fonctionnement de la vulnérabilité. La vulnérabilité CVE-2024-21413 permet à un attaquant de contourner les mesures de sécurité...
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **AI Scan for pull request APIs in public preview** — Score 14, observation — [Quelle](https://github.blog/changelog/2026-09-10-ai-scan-for-pull-request-apis-in-public-preview)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-09-10T20:20:58+00:00`, fetched `2026-09-10T20:39:33+00:00`
+  - Treffer: AI/KI, CodeQL/Dependabot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+7.0); AI/KI (+3.8); GitHub (+2.0); recent (+1.0)
+  - Kurz: You can now manage GitHub code scanning’s AI Scan for pull request enablement with REST API endpoints at the organization and repository levels. This public preview gives teams a programmatic… The post AI Scan for pull request APIs in public preview appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **コンテック製CONPROSYSシリーズにおける複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU96551518/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-09-10T15:00:45+09:00`, fetched `2026-09-10T06:31:09+00:00`
