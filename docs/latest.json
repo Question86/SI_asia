@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T21:38:28+00:00",
-  "run_id": "2026-09-10T21:38:28+00:00",
+  "generated_at": "2026-09-10T21:46:04+00:00",
+  "run_id": "2026-09-10T21:46:04+00:00",
   "date": "2026-09-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 74,
     "displayed_findings": 74,
     "high": 1,
@@ -3878,53 +3878,7 @@
       "id": "ebddba3201235a2811cc"
     }
   ],
-  "new_findings": [
-    {
-      "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
-      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/",
-      "source": "GitHub Blog Atom",
-      "source_type": "rss",
-      "published_at": "2026-09-10T21:31:19+00:00",
-      "fetched_at": "2026-09-10T21:37:58+00:00",
-      "summary": "Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app. The post GitHub Copilot app for Beginners: Using the diff, terminal, and browser appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "AI/KI",
-        "Content-Chance",
-        "Copilot",
-        "GitHub",
-        "Webentwicklung"
-      ],
-      "relevance_score": 17,
-      "relevance_reason": "AI/KI (+3.0); Webentwicklung (+3.0); Content-Chance (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "380cf4c3f5ed923c80a5"
-    },
-    {
-      "title": "はてブ民がまた対人論証に逃げているが",
-      "url": "https://anond.hatelabo.jp/20260908113255",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-08T02:38:41+00:00",
-      "fetched_at": "2026-09-10T21:37:58+00:00",
-      "summary": "「反戦」「反差別」を掲げる左派周辺に広がる陰謀論｜女子大生起業家 https://b.hatena.ne.jp/entry/s/note.com/seanky/n/n599fd58fa2c1 err931 ウヨちゃんがダボハゼのごとく釣れていて草。 なるほどそりゃこれだけ釣れれば良い商売になりますな。 （過去を掘れば分かるけど、名前を変えまくっている青バッジと同じ煽動...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "51c6e7dfbedc6fa5e1cb"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
