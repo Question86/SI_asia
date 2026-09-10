@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-10T23:41:24+00:00_
+_Generiert: 2026-09-10T23:56:47+00:00_
 
 ## Kurzlage
 
-79 neue relevante Treffer. Stärkstes Signal: „The capital drought: Over 7,500 SEA startups extinguished since 2020“ aus e27 Asia Startup and Tech Feed (Score 26, observation).
+79 neue relevante Treffer. Stärkstes Signal: „The capital drought: Over 7,500 SEA startups extinguished since 2020“ aus e27 Asia Startup and Tech Feed (Score 26, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -295,3 +295,7 @@ _Generiert: 2026-09-10T23:41:24+00:00_
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `japan_digital_agency_news` (rss): 404 Client Error: Not Found for url: https://www.digital.go.jp/rss/news.xml
