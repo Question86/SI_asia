@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-10T07:36:33+00:00_
+_Generiert: 2026-09-10T07:45:57+00:00_
 
 ## Kurzlage
 
-24 neue relevante Treffer. Stärkstes Signal: „Tencent/teamai-cli“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+25 neue relevante Treffer. Stärkstes Signal: „The capital drought: Over 7,500 SEA startups extinguished since 2020“ aus e27 Asia Startup and Tech Feed (Score 26, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -49,7 +49,15 @@ _Generiert: 2026-09-10T07:36:33+00:00_
 
 ## Priorität Hoch
 
-Keine neuen Hochprioritäts-Treffer.
+- **The capital drought: Over 7,500 SEA startups extinguished since 2020** — Score 26, observation — [Quelle](https://e27.co/the-capital-drought-over-7500-sea-startups-extinguished-since-2020-20260910/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-10T07:44:43+00:00`, fetched `2026-09-10T07:45:25+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, funding, Macro/Policy, Southeast Asia, Watchgraph:capitals_power_centers, Watchgraph:wildfire_heat_drought
+  - Watchgraph: capitals_power_centers, wildfire_heat_drought
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, MUV2.DE, SREN.SW, RNR, WRB, BA, SPY, QQQ
+  - Warum relevant: Macro/Policy (+5.0); Climate/Disaster Infrastructure (+6.2); APAC Trend Radar (+3.8); Southeast Asia (+2.0); funding (+2.0); recent (+1.0); watchgraph modules capitals_power_centers, wildfire_heat_drought (+6.0)
+  - Kurz: Between January 2020 and mid-2026, the Southeast Asian technology ecosystem underwent a profound transformation. What began as a high-flying venture boom turned into an unprecedented “funding winter.” Tracxn data reveals that a total of 7,538 tech startups across the region deadpooled, driven by high global interest rates, macroeconomic friction, and shifting investor demands toward path-to-profitability. […] The po…
+  - Handlung: Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Priorität Mittel
 
@@ -203,6 +211,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
+- Kurz prüfen, ob User Yps / AXI0M heute handeln sollte. Bei Risiko: Screenshot/Archiv, Kontext, Antwortfenster. Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.

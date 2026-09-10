@@ -1,7 +1,33 @@
 {
-  "generated_at": "2026-09-10T07:36:35+00:00",
-  "today_file_total": 24,
+  "generated_at": "2026-09-10T07:46:00+00:00",
+  "today_file_total": 25,
   "current_clusters": [
+    {
+      "key": "title:capital-drought-over-500-sea-startups-extinguished-since",
+      "title": "The capital drought: Over 7,500 SEA startups extinguished since 2020",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/the-capital-drought-over-7500-sea-startups-extinguished-since-2020-20260910/"
+      ],
+      "finding_count": 1,
+      "max_score": 26,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 31.1,
+      "hot": true,
+      "watchgraph_modules": [
+        "capitals_power_centers",
+        "wildfire_heat_drought"
+      ],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
     {
       "key": "github_repo:tencent/teamai-cli",
       "title": "Tencent/teamai-cli",
@@ -446,29 +472,6 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 8.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "url:https://www.sakura.ad.jp/corporate/information/newsreleases/2026/09/10/1968225692/",
-      "title": "当社システムへの不正アクセスに関する調査結果および再発防止策について（第三報） | さくらインターネット",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/09/10/1968225692/"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 7.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
