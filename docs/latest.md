@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-10T01:53:49+00:00_
+_Generiert: 2026-09-10T02:01:13+00:00_
 
 ## Kurzlage
 
-2 neue relevante Treffer. Stärkstes Signal: „The missing layer in AI innovation: Human verification“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
+3 neue relevante Treffer. Stärkstes Signal: „The missing layer in AI innovation: Human verification“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
 
 ## Priorität Hoch
 
@@ -24,6 +24,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **I built a 21-role AI workforce. The hardest part was management** — Score 9, opportunity — [Quelle](https://e27.co/i-built-a-21-role-ai-workforce-the-hardest-part-was-management-20260909/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-10T02:00:12+00:00`, fetched `2026-09-10T02:00:44+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0); watchgraph demote demo (x0.45)
+  - Kurz: The conversation around AI agents has moved quickly from demos to organisational design. Microsoft’s 2025 Work Trend Index for Singapore reported that 56 per cent of Singapore leaders were already using agents to fully automate workstreams or business processes, while 46 per cent expected their teams to build multi-agent systems. I understand the appeal. I […] The post I built a 21-role AI workforce. The hardest par…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Future-proofing the past: How smart engineering keeps Singapore’s aging condos in the EV race** — Score 7, observation — [Quelle](https://e27.co/future-proofing-the-past-how-smart-engineering-keeps-singapores-aging-condos-in-the-ev-race-20260909/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-10T01:30:47+00:00`, fetched `2026-09-10T01:37:38+00:00`
