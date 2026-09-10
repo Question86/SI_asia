@@ -1,29 +1,55 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-10T09:15:08Z",
+  "generated_at": "2026-09-10T09:31:39Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 5,
-      "krass": 5,
+      "krass": 6,
       "strong": 20,
-      "watch": 10
+      "watch": 9
     },
     "bands_after_gate_recheck": {
-      "krass": 4,
+      "krass": 5,
       "strong": 26,
-      "watch": 10
+      "watch": 9
     }
   },
   "top_dynamics": [
+    {
+      "title": "[UPDATE] [kritisch] Cisco Secure Firewall Management Center: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0610",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-10T09:11:31+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security",
+        "infra"
+      ],
+      "dynamics_score": 33.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: kritisch, code, 10",
+        "security high-signal: kritisch, code, 10, firewall"
+      ],
+      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Cisco Secure Firewall Management Center und Cisco Secure Firewall Threat Defense ausnutzen, um Root-Rechte zu erlangen, beliebigen Code mit Root-Rechten auszuführen, SQL-Injection durchzuführen und vertrauliche Daten offenzulegen sowie Daten zu m…"
+    },
     {
       "title": "[UPDATE] [hoch] Fortinet FortiOS: Schwachstelle ermöglicht Codeausführung",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0085",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-10T06:56:31+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -74,7 +100,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11191-3459a-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-09-10T03:49:31+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "security",
         "infra"
@@ -100,7 +126,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11191-3459a-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-09-10T03:20:00+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "security",
         "infra"
@@ -122,13 +148,14 @@
       "summary": "微軟於2026年8月11日發布Exchange Server安全性更新，共修補7項CVE漏洞。其中，CVE-2026-62911已有攻擊程式，荷蘭國家網路安全中心（NCSC-NL）亦發布相關示警，另依Shadowserver Foundation監測資料，目前仍可觀察部分Exchange Server受到該漏洞影響，使用相關產品之單位應確認版本及更新狀態，並完成安全性更新。 微軟公告 微軟於2026年8月11日發布Exchange Server安全性更新，適用於Exchange Server 2016、2019及訂閱版（SE），共修補以下7項CVE漏洞： CVE編號 漏洞類型 CVSS基本分數 CVE-2026-62910 權限提…"
     },
     {
-      "title": "[UPDATE] [hoch] Fortinet FortiOS: Schwachstelle ermöglicht Codeausführung",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0085",
+      "title": "[UPDATE] [kritisch] Cisco Secure Firewall Management Center: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0610",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 12.8,
+      "age_days": 12.81,
       "topics": [
-        "security"
+        "security",
+        "infra"
       ],
       "dynamics_score": 24.9,
       "raw_band": "extreme",
@@ -142,8 +169,8 @@
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "high terms: code, fortinet",
-        "security high-signal: code, fortinet",
+        "high terms: kritisch, firewall",
+        "security high-signal: kritisch, firewall",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -153,7 +180,7 @@
       "url": "https://jvn.jp/vu/JVNVU96551518/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-10T15:00:45+09:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -177,7 +204,7 @@
       "url": "https://jvn.jp/vu/JVNVU99009004/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-10T15:00:30+09:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -201,7 +228,7 @@
       "url": "https://jvn.jp/vu/JVNVU90314828/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-10T15:00:15+09:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -225,7 +252,7 @@
       "url": "https://jvn.jp/vu/JVNVU97753461/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-10T15:00:00+09:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -249,7 +276,7 @@
       "url": "https://jvn.jp/jp/JVN37476837/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-10T14:00:00+09:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -273,7 +300,7 @@
       "url": "https://github.com/Tencent/teamai-cli",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-10T06:31:09+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "ai",
         "security",
@@ -304,7 +331,7 @@
       "url": "https://e27.co/i-built-a-21-role-ai-workforce-the-hardest-part-was-management-20260909/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T02:01:17+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -333,7 +360,7 @@
       "url": "https://e27.co/i-built-a-21-role-ai-workforce-the-hardest-part-was-management-20260909/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T02:00:12+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "ai",
         "macro"
@@ -362,7 +389,7 @@
       "url": "https://e27.co/tiktok-deepens-vietnam-commerce-bet-with-us980m-logistics-project-in-ho-chi-minh-city-20260910/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T04:45:36+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -389,7 +416,7 @@
       "url": "https://e27.co/the-capital-drought-over-7500-sea-startups-extinguished-since-2020-20260910/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T07:44:43+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "macro",
         "disaster"
@@ -418,7 +445,7 @@
       "url": "https://e27.co/the-missing-layer-in-ai-innovation-human-verification-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T01:00:21+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "ai",
         "macro"
@@ -446,7 +473,7 @@
       "url": "https://e27.co/the-capital-drought-over-7500-sea-startups-extinguished-since-2020-20260910/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T07:46:00+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -473,7 +500,7 @@
       "url": "https://github.com/Tencent/teamai-cli",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-07T19:52:47+00:00",
-      "age_days": 2.56,
+      "age_days": 2.57,
       "topics": [
         "ai"
       ],
@@ -484,12 +511,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 7.1,
+      "baseline_z_hint": 6.7,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 7.10",
+        "baseline z_hint 6.70",
         "high terms: rce",
         "security high-signal: rce",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
@@ -501,7 +528,7 @@
       "url": "https://e27.co/the-missing-layer-in-ai-innovation-human-verification-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T01:21:43+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -528,7 +555,7 @@
       "url": "https://cert.europa.eu/publications/security-advisories/2026-012/",
       "source": "CERT-EU Security Advisories",
       "published_at": "2026-09-10T08:29:02+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
@@ -554,7 +581,7 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-kompromittieren-Cisco-Firewalls-als-Root-11448237.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-10T07:52:00.000+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "security",
@@ -581,7 +608,7 @@
       "url": "https://e27.co/tiktok-deepens-vietnam-commerce-bet-with-us980m-logistics-project-in-ho-chi-minh-city-20260910/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T04:43:18+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -606,7 +633,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11189-68e64-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-09-09T06:23:00+00:00",
-      "age_days": 1.12,
+      "age_days": 1.13,
       "topics": [
         "security"
       ],
@@ -630,7 +657,7 @@
       "url": "https://jvn.jp/vu/JVNVU96551518/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-10T06:31:46+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -654,7 +681,7 @@
       "url": "https://jvn.jp/vu/JVNVU99009004/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-10T06:31:46+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -678,7 +705,7 @@
       "url": "https://jvn.jp/vu/JVNVU90314828/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-10T06:31:46+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -702,7 +729,7 @@
       "url": "https://jvn.jp/vu/JVNVU97753461/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-10T06:31:46+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -726,7 +753,7 @@
       "url": "https://jvn.jp/jp/JVN37476837/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-10T05:21:09+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -750,7 +777,7 @@
       "url": "https://e27.co/quantums-chatgpt-moment-is-coming-and-its-worth-trillions-20260909/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T02:46:36+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -774,7 +801,7 @@
       "url": "https://e27.co/will-bitcoin-hold-us77000-or-drag-the-market-to-us2-51t-the-september-10-answer-20260910/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T04:34:16+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "macro"
       ],
@@ -799,7 +826,7 @@
       "url": "https://www.heise.de/news/Sicherheitsluecken-36-000-Plex-Media-Server-Instanzen-potenziell-angreifbar-11448584.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-10T08:45:00.000+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -823,7 +850,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg8v",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-10T06:58:40.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -844,37 +871,11 @@
       "summary": "Time 2026-09-10 06:42:40 UTC 2026-09-10 06:42:40 UTC at epicenter Location 3.873°S 77.503°W Depth 10.00 km (6.21 mi)"
     },
     {
-      "title": "立即科技｜企業雲端資料庫 - Arbitrary File Read",
-      "url": "https://www.twcert.org.tw/tw/cp-132-11189-68e64-1.html",
-      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-      "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 82.91,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 18.76,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 3.87,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 3.87",
-        "aging penalty -8.0 for 82.9d old signal"
-      ],
-      "summary": ""
-    },
-    {
       "title": "M 5.3 - 126 km WSW of Alianza Cristiana, Peru",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg8v",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-10T07:01:50+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -898,7 +899,7 @@
       "url": "https://e27.co/singapore-tops-southeast-asia-on-best-workplaces-in-asia-2026-list-20260910/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T02:55:09+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -922,7 +923,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg98",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-10T08:42:43.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -943,11 +944,35 @@
       "summary": "Time 2026-09-10 08:26:53 UTC 2026-09-10 08:26:53 UTC at epicenter Location 9.028°N 84.062°W Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 5.0 - 45 km SSE of Quepos, Costa Rica",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg98",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-10T08:45:41+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Future-proofing the past: How smart engineering keeps Singapore’s aging condos in the EV race",
       "url": "https://e27.co/future-proofing-the-past-how-smart-engineering-keeps-singapores-aging-condos-in-the-ev-race-20260909/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T01:38:15+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "general"
       ],
@@ -971,7 +996,7 @@
       "url": "https://www.digital.go.jp/news/6a52d1e9-30cc-455a-9154-f32479d1731a",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-10T06:31:46+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -995,7 +1020,7 @@
       "url": "https://e27.co/ne-innovations-nets-us1-6m-to-turn-cashew-husk-waste-into-fresh-produce-protection-20260910/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T03:49:31+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -1013,33 +1038,7 @@
         "momentum delta +3"
       ],
       "summary": ""
-    },
-    {
-      "title": "The cheapest way to stop your AI product from regressing",
-      "url": "https://e27.co/the-cheapest-way-to-stop-your-ai-product-from-regressing-20260909/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-10T03:04:06+00:00",
-      "age_days": 0.26,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Fortinet FortiOS: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [kritisch] Cisco Secure Firewall Management Center: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
 }
