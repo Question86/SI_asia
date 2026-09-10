@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-10T01:21:43+00:00",
+  "generated_at": "2026-09-10T01:38:15+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -25508,13 +25508,25 @@
     },
     "title:missing-layer-innovation-human-verification": {
       "title": "The missing layer in AI innovation: Human verification",
-      "updated_at": "2026-09-10T01:21:43+00:00",
+      "updated_at": "2026-09-10T01:38:15+00:00",
       "network_scores": [
-        27.1
+        27.1,
+        24.1
       ],
-      "rolling_average": 27.1,
+      "rolling_average": 25.6,
       "rolling_peak": 27.1,
-      "last_score": 27.1,
+      "last_score": 24.1,
+      "z_hint": -1.5
+    },
+    "title:future-proofing-past-smart-engineering-keeps-singapore-aging": {
+      "title": "Future-proofing the past: How smart engineering keeps Singapore’s aging condos in the EV race",
+      "updated_at": "2026-09-10T01:38:15+00:00",
+      "network_scores": [
+        12.1
+      ],
+      "rolling_average": 12.1,
+      "rolling_peak": 12.1,
+      "last_score": 12.1,
       "z_hint": 0.0
     }
   }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T01:21:38+00:00",
-  "run_id": "2026-09-10T01:21:38+00:00",
+  "generated_at": "2026-09-10T01:38:11+00:00",
+  "run_id": "2026-09-10T01:38:11+00:00",
   "date": "2026-09-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 1
+      "configured_public_sources_only": 2
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 1,
-    "displayed_findings": 1,
+    "today_file_total": 2,
+    "displayed_findings": 2,
     "high": 0,
     "medium": 1,
-    "observe": 0,
+    "observe": 1,
     "source_errors": 0
   },
   "sections": {
@@ -54,7 +54,28 @@
         "id": "ca21b30286cdb97f55fb"
       }
     ],
-    "observe": []
+    "observe": [
+      {
+        "title": "Future-proofing the past: How smart engineering keeps Singapore’s aging condos in the EV race",
+        "url": "https://e27.co/future-proofing-the-past-how-smart-engineering-keeps-singapores-aging-condos-in-the-ev-race-20260909/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-10T01:30:47+00:00",
+        "fetched_at": "2026-09-10T01:37:38+00:00",
+        "summary": "Singapore’s transition to electric mobility is accelerating rapidly. EVs accounted for about one-third of new car registrations in 2024, and by the first eight months of 2025, around half of newly registered cars and taxis were electric. But while brand-new residential developments come pre-wired with high-capacity charging infrastructure integrated right into their blueprints, a very […] The post Future-proofing th…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d3b031e595d60e9a8a33"
+      }
+    ]
   },
   "findings": [
     {
@@ -80,32 +101,48 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "ca21b30286cdb97f55fb"
+    },
+    {
+      "title": "Future-proofing the past: How smart engineering keeps Singapore’s aging condos in the EV race",
+      "url": "https://e27.co/future-proofing-the-past-how-smart-engineering-keeps-singapores-aging-condos-in-the-ev-race-20260909/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-10T01:30:47+00:00",
+      "fetched_at": "2026-09-10T01:37:38+00:00",
+      "summary": "Singapore’s transition to electric mobility is accelerating rapidly. EVs accounted for about one-third of new car registrations in 2024, and by the first eight months of 2025, around half of newly registered cars and taxis were electric. But while brand-new residential developments come pre-wired with high-capacity charging infrastructure integrated right into their blueprints, a very […] The post Future-proofing th…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d3b031e595d60e9a8a33"
     }
   ],
   "new_findings": [
     {
-      "title": "The missing layer in AI innovation: Human verification",
-      "url": "https://e27.co/the-missing-layer-in-ai-innovation-human-verification-20260908/",
+      "title": "Future-proofing the past: How smart engineering keeps Singapore’s aging condos in the EV race",
+      "url": "https://e27.co/future-proofing-the-past-how-smart-engineering-keeps-singapores-aging-condos-in-the-ev-race-20260909/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-09-10T01:00:21+00:00",
-      "fetched_at": "2026-09-10T01:21:04+00:00",
-      "summary": "Artificial intelligence has dramatically changed the way startups are built. Today, a founder can describe a product idea, open a tool such as Claude or OpenAI, generate hundreds of lines of code, build a prototype and present it as an “AI-powered innovation” within days. What once required a technical team, months of development and significant […] The post The missing layer in AI innovation: Human verification app…",
+      "published_at": "2026-09-10T01:30:47+00:00",
+      "fetched_at": "2026-09-10T01:37:38+00:00",
+      "summary": "Singapore’s transition to electric mobility is accelerating rapidly. EVs accounted for about one-third of new car registrations in 2024, and by the first eight months of 2025, around half of newly registered cars and taxis were electric. But while brand-new residential developments come pre-wired with high-capacity charging infrastructure integrated right into their blueprints, a very […] The post Future-proofing th…",
       "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "founder",
-        "OpenAI",
-        "Produktidee"
+        "APAC Trend Radar"
       ],
-      "relevance_score": 22,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); APAC Trend Radar (+3.0); Produktidee (+6.0); founder (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "ca21b30286cdb97f55fb"
+      "id": "d3b031e595d60e9a8a33"
     }
   ],
   "source_errors": [],
