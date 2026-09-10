@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T10:00:36+00:00",
-  "run_id": "2026-09-10T10:00:36+00:00",
+  "generated_at": "2026-09-10T10:21:32+00:00",
+  "run_id": "2026-09-10T10:21:32+00:00",
   "date": "2026-09-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 32
+      "configured_public_sources_only": 33
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 32,
-    "displayed_findings": 32,
+    "new_relevant_findings": 1,
+    "today_file_total": 33,
+    "displayed_findings": 33,
     "high": 1,
     "medium": 10,
-    "observe": 21,
+    "observe": 22,
     "source_errors": 0
   },
   "sections": {
@@ -476,6 +476,38 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "fc5eed8a130285789667"
+      },
+      {
+        "title": "Google Earth’s AI experiment lasted 24 hours. The damage to trust will linger",
+        "url": "https://restofworld.org/2026/google-earth-ai-deepfake-iran-war/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "source": "Rest of World Global Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-10T10:00:00+00:00",
+        "fetched_at": "2026-09-10T10:20:59+00:00",
+        "summary": "A short-lived generative AI feature in Google Earth that allowed users to create fake satellite imagery shows the lasting effects of unvetted AI tools during a conflict.",
+        "matched_keywords": [
+          "AI/KI",
+          "Watchgraph:narrative_social_reputation"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI/KI (+3.8); recent (+1.0); watchgraph modules narrative_social_reputation (+3.0); watchgraph markets via platform_reputation: GOOGL (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "narrative_social_reputation"
+        ],
+        "watchgraph_reasons": [
+          "narrative_social_reputation: deepfake"
+        ],
+        "market_context": [
+          "META",
+          "GOOGL",
+          "MSFT",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "7fd7a12ca99b4d1df0da"
       },
       {
         "title": "Microsoft發布Exchange Server系列安全性更新， CVE-2026-62911已有攻擊利用程式碼流通，籲儘速修補",
@@ -1338,6 +1370,38 @@
       "id": "fc5eed8a130285789667"
     },
     {
+      "title": "Google Earth’s AI experiment lasted 24 hours. The damage to trust will linger",
+      "url": "https://restofworld.org/2026/google-earth-ai-deepfake-iran-war/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-10T10:00:00+00:00",
+      "fetched_at": "2026-09-10T10:20:59+00:00",
+      "summary": "A short-lived generative AI feature in Google Earth that allowed users to create fake satellite imagery shows the lasting effects of unvetted AI tools during a conflict.",
+      "matched_keywords": [
+        "AI/KI",
+        "Watchgraph:narrative_social_reputation"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); recent (+1.0); watchgraph modules narrative_social_reputation (+3.0); watchgraph markets via platform_reputation: GOOGL (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "narrative_social_reputation"
+      ],
+      "watchgraph_reasons": [
+        "narrative_social_reputation: deepfake"
+      ],
+      "market_context": [
+        "META",
+        "GOOGL",
+        "MSFT",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "7fd7a12ca99b4d1df0da"
+    },
+    {
       "title": "Microsoft發布Exchange Server系列安全性更新， CVE-2026-62911已有攻擊利用程式碼流通，籲儘速修補",
       "url": "https://www.twcert.org.tw/tw/cp-104-11191-3459a-1.html",
       "source": "TWCERT/CC Security News RSS",
@@ -1750,7 +1814,40 @@
       "id": "6dd20465dedbdc319cdb"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Google Earth’s AI experiment lasted 24 hours. The damage to trust will linger",
+      "url": "https://restofworld.org/2026/google-earth-ai-deepfake-iran-war/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-10T10:00:00+00:00",
+      "fetched_at": "2026-09-10T10:20:59+00:00",
+      "summary": "A short-lived generative AI feature in Google Earth that allowed users to create fake satellite imagery shows the lasting effects of unvetted AI tools during a conflict.",
+      "matched_keywords": [
+        "AI/KI",
+        "Watchgraph:narrative_social_reputation"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); recent (+1.0); watchgraph modules narrative_social_reputation (+3.0); watchgraph markets via platform_reputation: GOOGL (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "narrative_social_reputation"
+      ],
+      "watchgraph_reasons": [
+        "narrative_social_reputation: deepfake"
+      ],
+      "market_context": [
+        "META",
+        "GOOGL",
+        "MSFT",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "7fd7a12ca99b4d1df0da"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-10T10:00:36+00:00_
+_Generiert: 2026-09-10T10:21:32+00:00_
 
 ## Kurzlage
 
-32 neue relevante Treffer. Stärkstes Signal: „The capital drought: Over 7,500 SEA startups extinguished since 2020“ aus e27 Asia Startup and Tech Feed (Score 26, observation).
+33 neue relevante Treffer. Stärkstes Signal: „The capital drought: Over 7,500 SEA startups extinguished since 2020“ aus e27 Asia Startup and Tech Feed (Score 26, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -176,6 +176,15 @@ _Generiert: 2026-09-10T10:00:36+00:00_
   - Warum relevant: Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)
   - Kurz: 立即科技｜企業雲端資料庫 - Arbitrary File Read
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Google Earth’s AI experiment lasted 24 hours. The damage to trust will linger** — Score 10, observation — [Quelle](https://restofworld.org/2026/google-earth-ai-deepfake-iran-war/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-09-10T10:00:00+00:00`, fetched `2026-09-10T10:20:59+00:00`
+  - Treffer: AI/KI, Watchgraph:narrative_social_reputation
+  - Watchgraph: narrative_social_reputation
+  - Markt-/Kontextkorb: META, GOOGL, MSFT, RDDT, SNAP, PINS
+  - Warum relevant: AI/KI (+3.8); recent (+1.0); watchgraph modules narrative_social_reputation (+3.0); watchgraph markets via platform_reputation: GOOGL (+2.0)
+  - Kurz: A short-lived generative AI feature in Google Earth that allowed users to create fake satellite imagery shows the lasting effects of unvetted AI tools during a conflict.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Microsoft發布Exchange Server系列安全性更新， CVE-2026-62911已有攻擊利用程式碼流通，籲儘速修補** — Score 10, risk — [Quelle](https://www.twcert.org.tw/tw/cp-104-11191-3459a-1.html)
   - Quelle: TWCERT/CC Security News RSS / `rss`
   - Zeit: published `2026-09-10T03:20:00+00:00`, fetched `2026-09-10T03:48:55+00:00`
