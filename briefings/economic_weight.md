@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-09-10T18:08:37+00:00`
+Generated: `2026-09-10T18:27:21+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -25,12 +25,12 @@ Generated: `2026-09-10T18:08:37+00:00`
 | コンテック製SolarView Compactにおける複数の脆弱性 | vulnerability, regulation | $11.52M | $1.15B | $115.20B | 0.31 |
 | チームの人数が減っても仕事を回す ── AIとGitHub Actionsによる開発ワークフロー改善 - ZOZO TECH BLOG | regulation | $11.44M | $1.14B | $114.40B | 0.31 |
 | GitHub Actions: Early September 2026 updates | regulation | $11.36M | $1.14B | $113.60B | 0.31 |
+| Control GitHub Actions cache access with cache-mode | regulation | $11.36M | $1.14B | $113.60B | 0.31 |
 | The SMS looks real and that’s exactly why you should be careful | regulation | $11.28M | $1.13B | $112.80B | 0.31 |
 | The AI marketing backlash story doesn’t actually fit Southeast Asia | regulation | $11.20M | $1.12B | $112.00B | 0.31 |
 | The decision discipline: How to turn insights into action | regulation | $11.20M | $1.12B | $112.00B | 0.31 |
 | M 5.1 - Owen Fracture Zone region | regulation, natural_disaster | $11.12M | $1.11B | $111.20B | 0.33 |
 | 今後のデジタル人材育成政策に関する検討会（第1回）の議事次第および資料を掲載しました | regulation | $11.04M | $1.10B | $110.40B | 0.31 |
-| Multiples vulnérabilités dans JFrog Artifactory (01 septembre 2026) | regulation | $11.04M | $1.10B | $110.40B | 0.31 |
 
 ## Interpretation
 
