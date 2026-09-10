@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-10T15:57:37+00:00_
+_Generiert: 2026-09-10T16:18:29+00:00_
 
 ## Kurzlage
 
-53 neue relevante Treffer. Stärkstes Signal: „The capital drought: Over 7,500 SEA startups extinguished since 2020“ aus e27 Asia Startup and Tech Feed (Score 26, observation).
+60 neue relevante Treffer. Stärkstes Signal: „The capital drought: Over 7,500 SEA startups extinguished since 2020“ aus e27 Asia Startup and Tech Feed (Score 26, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -110,6 +110,15 @@ _Generiert: 2026-09-10T15:57:37+00:00_
   - Warum relevant: Security (+6.0); Webentwicklung (+3.0); CERT-EU (+2.0); VPN (+2.0); firewall (+2.0)
   - Kurz: On 9 September 2026, Check Point released emergency security updates addressing two critical vulnerabilities affecting Check Point Security Gateway, Security Management Server, and Spark Firewall deployments configured to use Remote Access VPN or Site-to-Site VPN. Both vulnerabilities carry a CVSS score of 9.8 and could allow an unauthenticated, remote attacker to execute arbitrary code on affected appliances. CERT-…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[MàJ] Vulnérabilité dans Microsoft Outlook (15 février 2024)** — Score 15, risk — [Quelle](https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-005/)
+  - Quelle: CERT-FR Alertes / `rss`
+  - Zeit: published `2024-02-15T00:00:00+00:00`, fetched `2026-09-10T16:18:01+00:00`
+  - Treffer: alerte, CERT-FR, Microsoft, Security, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); CERT-FR (+2.0); alerte (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)
+  - Kurz: \[Mise à jour du 15 mars 2024\] Ajout de précision concernant les défi-réponses NTLM \[Mise à jour du 22 février 2024\] Ajout de recommandations et de précisions sur le fonctionnement de la vulnérabilité. La vulnérabilité CVE-2024-21413 permet à un attaquant de contourner les mesures de sécurité...
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **コンテック製CONPROSYSシリーズにおける複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU96551518/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-09-10T15:00:45+09:00`, fetched `2026-09-10T06:31:09+00:00`
@@ -166,6 +175,15 @@ _Generiert: 2026-09-10T15:57:37+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0)
   - Kurz: A startup changes the model behind its AI feature. The new model is faster, cheaper and performs better on public benchmarks. The engineering team runs its tests, deploys the update and waits for the improvement. Instead, support tickets begin to arrive. The assistant is less accurate on short questions. It misunderstands customers who mix languages. […] The post The cheapest way to stop your AI product from regress…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules** — Score 12, observation — [Quelle](https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-09-10T16:00:00+00:00`, fetched `2026-09-10T16:18:01+00:00`
+  - Treffer: OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+7.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Quantum’s ChatGPT moment is coming — and it’s worth trillions** — Score 12, observation — [Quelle](https://e27.co/quantums-chatgpt-moment-is-coming-and-its-worth-trillions-20260909/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -266,6 +284,15 @@ _Generiert: 2026-09-10T15:57:37+00:00_
   - Warum relevant: Security (+7.5); TWCERT (+2.0); recent (+1.0)
   - Kurz: 微軟於2026年8月11日發布Exchange Server安全性更新，共修補7項CVE漏洞。其中，CVE-2026-62911已有攻擊程式，荷蘭國家網路安全中心（NCSC-NL）亦發布相關示警，另依Shadowserver Foundation監測資料，目前仍可觀察部分Exchange Server受到該漏洞影響，使用相關產品之單位應確認版本及更新狀態，並完成安全性更新。 微軟公告 微軟於2026年8月11日發布Exchange Server安全性更新，適用於Exchange Server 2016、2019及訂閱版（SE），共修補以下7項CVE漏洞： CVE編號 漏洞類型 CVSS基本分數 CVE-2026-62910 權限提升 7.2 CVE-2026-62911 權限提升 8.0 CVE-2026-62912 阻斷服務 6.5 CVE-2026-62913 遠端程式碼執行 8.8 CVE-2026-65813 權限提升…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Multiples vulnérabilités dans les produits VMware (07 septembre 2026)** — Score 10, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1125/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-09-07T00:00:00+00:00`, fetched `2026-09-10T16:18:01+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité, éditeur
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.5 - 84 km SW of Puerto Madero, Mexico** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgb4)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-10T14:12:37.040+00:00`, fetched `2026-09-10T14:22:35+00:00`
@@ -275,24 +302,6 @@ _Generiert: 2026-09-10T15:57:37+00:00_
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-10 13:29:03 UTC 2026-09-10 13:29:03 UTC at epicenter Location 14.098°N 92.882°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Christine Lagarde, Boris Vujčić: Monetary policy statement** — Score 9, opportunity — [Quelle](https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260910~6a45359cfc.en.html)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-09-10T13:00:00+00:00`, fetched `2026-09-10T13:18:26+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Christine Lagarde, Boris Vujčić: Monetary policy statement
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Monetary policy decisions** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260910~314e508016.en.html)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-09-10T12:15:00+00:00`, fetched `2026-09-10T12:33:26+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Monetary policy decisions
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 

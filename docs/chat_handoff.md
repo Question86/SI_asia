@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-10T15:57:37+00:00_
+_Generated: 2026-09-10T16:18:29+00:00_
 
 ## Status
 - status: `normal`
-- findings: `53`
+- findings: `60`
 
 ## Top Signals
 
@@ -50,25 +50,25 @@ _Generated: 2026-09-10T15:57:37+00:00_
 - url: https://e27.co/the-cheapest-way-to-stop-your-ai-product-from-regressing-20260909/
 - summary: A startup changes the model behind its AI feature. The new model is faster, cheaper and performs better on public benchmarks. The engineering team runs its tests, deploys the update and waits for the improvement. Instead, support tickets begin to arrive. The…
 
-### 7. Quantum’s ChatGPT moment is coming — and it’s worth trillions
+### 7. How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules
+- source: OpenAI News RSS
+- score: `12`
+- published: `2026-09-10T16:00:00+00:00`
+- url: https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials
+- summary: César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.
+
+### 8. Quantum’s ChatGPT moment is coming — and it’s worth trillions
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-09-10T02:30:18+00:00`
 - url: https://e27.co/quantums-chatgpt-moment-is-coming-and-its-worth-trillions-20260909/
 - summary: Quantinuum, one of the world’s leading quantum computing companies, has already put a number on it: a trillion-dollar market waiting to be unlocked once fault-tolerant quantum computing arrives. That’s not a typo, and it’s not a crypto-style promise built on…
 
-### 8. Anatomy of a shakeout: what 7,538 deadpooled startups reveal about Southeast Asia’s new tech reality
+### 9. Anatomy of a shakeout: what 7,538 deadpooled startups reveal about Southeast Asia’s new tech reality
 - source: e27 Asia Startup and Tech Feed
 - score: `11`
 - published: `2026-09-10T13:00:47+00:00`
 - url: https://e27.co/anatomy-of-a-shakeout-what-7538-deadpooled-startups-reveal-about-southeast-asias-new-tech-reality-20260910/
 - summary: For much of the last decade, Southeast Asia’s startup story was told through funding milestones, rising valuations and the promise of a young, mobile-first population coming online. But beneath the optimism, another dataset was forming: the companies that did…
-
-### 9. 「あなたのブックマーカー図鑑」公開
-- source: Hatena Bookmark Hotentry IT
-- score: `11`
-- published: `2026-09-10T12:53:24+00:00`
-- url: https://anond.hatelabo.jp/20260910215309
-- summary: ブックマーカー図鑑 「あなたのブックマーカー図鑑」を公開 https://bookmarker-encyclopedia.netlify.app/api-data/ ChatGPT用にまとめられたブックマーカー図鑑のデータセット これをChatGPTにアップロードすればブックマーカー図鑑に収録されたデータを使って自由に質問できます このブックマーカーってどんな人？ よ...
 
 END OF DOCUMENT
