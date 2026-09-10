@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-10T14:05:31+00:00_
+_Generiert: 2026-09-10T14:23:08+00:00_
 
 ## Kurzlage
 
-47 neue relevante Treffer. Stärkstes Signal: „The capital drought: Over 7,500 SEA startups extinguished since 2020“ aus e27 Asia Startup and Tech Feed (Score 26, observation).
+48 neue relevante Treffer. Stärkstes Signal: „The capital drought: Over 7,500 SEA startups extinguished since 2020“ aus e27 Asia Startup and Tech Feed (Score 26, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -239,14 +239,14 @@ _Generiert: 2026-09-10T14:05:31+00:00_
   - Warum relevant: Security (+7.5); TWCERT (+2.0); recent (+1.0)
   - Kurz: 微軟於2026年8月11日發布Exchange Server安全性更新，共修補7項CVE漏洞。其中，CVE-2026-62911已有攻擊程式，荷蘭國家網路安全中心（NCSC-NL）亦發布相關示警，另依Shadowserver Foundation監測資料，目前仍可觀察部分Exchange Server受到該漏洞影響，使用相關產品之單位應確認版本及更新狀態，並完成安全性更新。 微軟公告 微軟於2026年8月11日發布Exchange Server安全性更新，適用於Exchange Server 2016、2019及訂閱版（SE），共修補以下7項CVE漏洞： CVE編號 漏洞類型 CVSS基本分數 CVE-2026-62910 權限提升 7.2 CVE-2026-62911 權限提升 8.0 CVE-2026-62912 阻斷服務 6.5 CVE-2026-62913 遠端程式碼執行 8.8 CVE-2026-65813 權限提升…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.1 - 162 km SSW of Merizo Village, Guam** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgb6)
+- **M 4.5 - 84 km SW of Puerto Madero, Mexico** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgb4)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-10T13:48:58.348+00:00`, fetched `2026-09-10T13:54:34+00:00`
+  - Zeit: published `2026-09-10T14:12:37.040+00:00`, fetched `2026-09-10T14:22:35+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: DYFI? - II Time 2026-09-10 13:28:15 UTC 2026-09-10 13:28:15 UTC at epicenter Location 12.027°N 143.874°E Depth 10.00 km (6.21 mi)
+  - Kurz: Time 2026-09-10 13:29:03 UTC 2026-09-10 13:29:03 UTC at epicenter Location 14.098°N 92.882°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Christine Lagarde, Boris Vujčić: Monetary policy statement** — Score 9, opportunity — [Quelle](https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260910~6a45359cfc.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
