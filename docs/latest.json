@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T06:31:41+00:00",
-  "run_id": "2026-09-10T06:31:41+00:00",
+  "generated_at": "2026-09-10T06:53:24+00:00",
+  "run_id": "2026-09-10T06:53:24+00:00",
   "date": "2026-09-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 6,
+    "new_relevant_findings": 0,
     "today_file_total": 21,
     "displayed_findings": 21,
     "high": 0,
@@ -1105,180 +1105,7 @@
       "id": "6dd20465dedbdc319cdb"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Tencent/teamai-cli",
-      "url": "https://github.com/Tencent/teamai-cli",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-09-10T06:31:09+00:00",
-      "summary": "Make Every Team AI Native TeamAI — Make Every Team AI Native English | 简体中文 TeamAI manages your team's skills, rules, MCP, and knowledge across Claude Code, Codex, CodeBuddy, WorkBuddy, OpenCode, Cursor, and other AI agents. Contributors Thanks to everyone who has contributed to TeamAI! Made with contrib.rocks . Quick Start Install npm install -g teamai-cli Team admin / solo user Create a shared-experience repo on y…",
-      "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "APAC Trend Radar",
-        "GitHub Trending",
-        "OpenAI",
-        "Public Health",
-        "Watchgraph:ai_agents_workflow",
-        "Watchgraph:software_supply_chain"
-      ],
-      "relevance_score": 23,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); Public Health (+5.0); GitHub Trending (+2.0); watchgraph modules software_supply_chain, ai_agents_workflow (+6.0); watchgraph markets via cybersecurity, dev_infra, ai_compute: TEAM (+2.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [
-        "software_supply_chain",
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "software_supply_chain: npm",
-        "ai_agents_workflow: AI agents, MCP, Codex"
-      ],
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "CRWD",
-        "PANW",
-        "FTNT",
-        "ZS",
-        "OKTA",
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "NET",
-        "S",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "5daeb8c47b67b7bbdd43"
-    },
-    {
-      "title": "コンテック製CONPROSYSシリーズにおける複数の脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU96551518/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-09-10T15:00:45+09:00",
-      "fetched_at": "2026-09-10T06:31:09+00:00",
-      "summary": "株式会社コンテックが提供するCONPROSYSシリーズには、複数の脆弱性が存在します。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c216567e7b7cec5f787c"
-    },
-    {
-      "title": "コンテック製無線LAN FLEXLANシリーズにおける複数の脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU99009004/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-09-10T15:00:30+09:00",
-      "fetched_at": "2026-09-10T06:31:09+00:00",
-      "summary": "株式会社コンテックが提供する無線LAN FLEXLANシリーズには、複数の脆弱性が存在します。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9e0d47f9407c96b52570"
-    },
-    {
-      "title": "コンテック製PC-HELPERシリーズにおける複数の脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU90314828/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-09-10T15:00:15+09:00",
-      "fetched_at": "2026-09-10T06:31:09+00:00",
-      "summary": "株式会社コンテックが提供するPC-HELPERシリーズには、複数の脆弱性が存在します。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8f124c4c8217f1cf2b3c"
-    },
-    {
-      "title": "コンテック製SolarView Compactにおける複数の脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU97753461/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-09-10T15:00:00+09:00",
-      "fetched_at": "2026-09-10T06:31:09+00:00",
-      "summary": "株式会社コンテックが提供するSolarView Compactには、複数の脆弱性が存在します。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "826bb7893819d31d016b"
-    },
-    {
-      "title": "学園祭での年齢確認にマイナンバーカードを活用しています",
-      "url": "https://www.digital.go.jp/news/6a52d1e9-30cc-455a-9154-f32479d1731a",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-09-10T06:00:00+00:00",
-      "fetched_at": "2026-09-10T06:31:09+00:00",
-      "summary": "学園祭での年齢確認にマイナンバーカードを活用しています",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "277e95c2710a6c0ccab5"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
