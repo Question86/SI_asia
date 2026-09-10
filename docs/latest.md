@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-10T02:01:13+00:00_
+_Generiert: 2026-09-10T02:30:13+00:00_
 
 ## Kurzlage
 
-3 neue relevante Treffer. Stärkstes Signal: „The missing layer in AI innovation: Human verification“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
+4 neue relevante Treffer. Stärkstes Signal: „The missing layer in AI innovation: Human verification“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
 
 ## Priorität Hoch
 
@@ -41,6 +41,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Singapore’s transition to electric mobility is accelerating rapidly. EVs accounted for about one-third of new car registrations in 2024, and by the first eight months of 2025, around half of newly registered cars and taxis were electric. But while brand-new residential developments come pre-wired with high-capacity charging infrastructure integrated right into their blueprints, a very […] The post Future-proofing th…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **GitHub availability report: August 2026** — Score 4, observation — [Quelle](https://github.blog/news-insights/company-news/github-availability-report-august-2026/)
+  - Quelle: GitHub Blog Atom / `rss`
+  - Zeit: published `2026-09-10T02:05:17+00:00`, fetched `2026-09-10T02:29:43+00:00`
+  - Treffer: GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub (+2.5); recent (+1.0)
+  - Kurz: In August, we experienced five incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: August 2026 appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

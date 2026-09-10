@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T02:01:13+00:00",
-  "run_id": "2026-09-10T02:01:13+00:00",
+  "generated_at": "2026-09-10T02:30:13+00:00",
+  "run_id": "2026-09-10T02:30:13+00:00",
   "date": "2026-09-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 3
+      "configured_public_sources_only": 4
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 3,
-    "displayed_findings": 3,
+    "today_file_total": 4,
+    "displayed_findings": 4,
     "high": 0,
     "medium": 1,
-    "observe": 2,
+    "observe": 3,
     "source_errors": 0
   },
   "sections": {
@@ -120,6 +120,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "d3b031e595d60e9a8a33"
+      },
+      {
+        "title": "GitHub availability report: August 2026",
+        "url": "https://github.blog/news-insights/company-news/github-availability-report-august-2026/",
+        "source": "GitHub Blog Atom",
+        "source_type": "rss",
+        "published_at": "2026-09-10T02:05:17+00:00",
+        "fetched_at": "2026-09-10T02:29:43+00:00",
+        "summary": "In August, we experienced five incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: August 2026 appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "GitHub (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6dd20465dedbdc319cdb"
       }
     ]
   },
@@ -213,54 +233,48 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "d3b031e595d60e9a8a33"
+    },
+    {
+      "title": "GitHub availability report: August 2026",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-august-2026/",
+      "source": "GitHub Blog Atom",
+      "source_type": "rss",
+      "published_at": "2026-09-10T02:05:17+00:00",
+      "fetched_at": "2026-09-10T02:29:43+00:00",
+      "summary": "In August, we experienced five incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: August 2026 appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "GitHub (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6dd20465dedbdc319cdb"
     }
   ],
   "new_findings": [
     {
-      "title": "I built a 21-role AI workforce. The hardest part was management",
-      "url": "https://e27.co/i-built-a-21-role-ai-workforce-the-hardest-part-was-management-20260909/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "GitHub availability report: August 2026",
+      "url": "https://github.blog/news-insights/company-news/github-availability-report-august-2026/",
+      "source": "GitHub Blog Atom",
       "source_type": "rss",
-      "published_at": "2026-09-10T02:00:12+00:00",
-      "fetched_at": "2026-09-10T02:00:44+00:00",
-      "summary": "The conversation around AI agents has moved quickly from demos to organisational design. Microsoft’s 2025 Work Trend Index for Singapore reported that 56 per cent of Singapore leaders were already using agents to fully automate workstreams or business processes, while 46 per cent expected their teams to build multi-agent systems. I understand the appeal. I […] The post I built a 21-role AI workforce. The hardest par…",
+      "published_at": "2026-09-10T02:05:17+00:00",
+      "fetched_at": "2026-09-10T02:29:43+00:00",
+      "summary": "In August, we experienced five incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: August 2026 appeared first on The GitHub Blog .",
       "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "APAC Trend Radar",
-        "Watchgraph:ai_agents_workflow"
+        "GitHub"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0); watchgraph demote demo (x0.45)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: AI agents"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "702e8c78545800c07820"
+      "relevance_score": 4,
+      "relevance_reason": "GitHub (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6dd20465dedbdc319cdb"
     }
   ],
   "source_errors": [],

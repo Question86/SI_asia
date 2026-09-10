@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T02:01:17+00:00",
-  "today_file_total": 3,
+  "generated_at": "2026-09-10T02:30:16+00:00",
+  "today_file_total": 4,
   "current_clusters": [
     {
       "key": "title:missing-layer-innovation-human-verification",
@@ -41,9 +41,9 @@
       "max_score": 9,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 14.1,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 11.1,
       "hot": false,
       "watchgraph_modules": [
         "ai_agents_workflow"
@@ -68,6 +68,29 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
+      "network_score": 9.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:github-availability-report-august-2026",
+      "title": "GitHub availability report: August 2026",
+      "sources": [
+        "GitHub Blog Atom"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.blog/news-insights/company-news/github-availability-report-august-2026/"
+      ],
+      "finding_count": 1,
+      "max_score": 4,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
       "network_score": 9.1,
       "hot": false,
       "watchgraph_modules": [],
