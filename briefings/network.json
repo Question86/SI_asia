@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-10T22:00:56+00:00",
+  "generated_at": "2026-09-10T22:17:55+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 75,
+    "findings": 76,
     "clusters": 62,
     "cross_source_confrmed": 0,
     "hot": 0,
@@ -169,6 +169,51 @@
       "first_seen_at": "2026-09-10T08:29:02+00:00"
     },
     {
+      "key": "domain:openai.com",
+      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+      "sources": [
+        "OpenAI News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://openai.com/index/expanding-ai-access-us-government",
+        "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+        "https://openai.com/index/put-data-to-work",
+        "https://openai.com/index/introducing-the-agents-api",
+        "https://openai.com/index/introducing-chatgpt-financial-services",
+        "https://openai.com/index/introducing-gpt-live-1-in-the-api"
+      ],
+      "finding_count": 6,
+      "max_score": 14,
+      "credibility_total": 6.3,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 20.2,
+      "hot": false,
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 29.6,
+      "ranking_score": 20.2,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 2.2,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-17T20:44:40+00:00"
+    },
+    {
       "key": "title:github-copilot-app-beginners-using-diff-terminal-browser",
       "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
       "sources": [
@@ -287,50 +332,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-10T16:18:31+00:00"
-    },
-    {
-      "key": "domain:openai.com",
-      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "sources": [
-        "OpenAI News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://openai.com/index/expanding-ai-access-us-government",
-        "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-        "https://openai.com/index/put-data-to-work",
-        "https://openai.com/index/introducing-chatgpt-financial-services",
-        "https://openai.com/index/introducing-gpt-live-1-in-the-api"
-      ],
-      "finding_count": 5,
-      "max_score": 14,
-      "credibility_total": 5.25,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 15.78,
-      "hot": false,
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 24.5,
-      "ranking_score": 15.78,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.28,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-17T20:44:40+00:00"
     },
     {
       "key": "title:scan-pull-request-apis-public-preview",
@@ -1834,18 +1835,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 7.19,
+      "network_score": 7.16,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 11.3,
-      "ranking_score": 7.19,
+      "ranking_score": 7.16,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.69,
+      "baseline_bonus": 0.66,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1853,44 +1854,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-08-31T18:43:10+00:00"
-    },
-    {
-      "key": "title:refreshed-repository-pull-requests-page-public-preview",
-      "title": "Refreshed repository pull requests page in public preview",
-      "sources": [
-        "GitHub Changelog Atom"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview"
-      ],
-      "finding_count": 1,
-      "max_score": 3,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 7.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 8.1,
-      "ranking_score": 7.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-09-10T22:00:56+00:00"
     },
     {
       "key": "title:mai-code-flash-deprecated",
@@ -2387,6 +2350,44 @@
       "first_seen_at": "2026-09-10T02:30:16+00:00"
     },
     {
+      "key": "title:refreshed-repository-pull-requests-page-public-preview",
+      "title": "Refreshed repository pull requests page in public preview",
+      "sources": [
+        "GitHub Changelog Atom"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.blog/changelog/2026-09-10-refreshed-repository-pull-requests-page-in-public-preview"
+      ],
+      "finding_count": 1,
+      "max_score": 3,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 4.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 5.1,
+      "ranking_score": 4.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-10T22:00:56+00:00"
+    },
+    {
       "key": "title:xcode-runner-image-now-runs-macos",
       "title": "Xcode 27 runner image now runs on macOS 27",
       "sources": [
@@ -2427,7 +2428,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-10T22:00:57Z",
+    "generated_at": "2026-09-10T22:17:56Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
