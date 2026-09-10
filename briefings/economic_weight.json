@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-10T05:01:08+00:00",
+  "generated_at": "2026-09-10T05:21:26+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -2595,6 +2595,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_cdd40d6d8c9a9b73ed8f",
+      "title": "SHIRASAGIにおける複数の脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-10T05:21:09+00:00",
+      "last_seen_at": "2026-09-10T05:21:09+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_2f5c3cffbb9951edd868",
       "title": "Southeast Asia startup funding finds a floor, but not a rebound",
       "event_classes": [
@@ -2693,7 +2710,7 @@
       "p90_usd": 2800000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T03:49:31+00:00",
-      "last_seen_at": "2026-09-10T05:00:51+00:00",
+      "last_seen_at": "2026-09-10T05:21:09+00:00",
       "status": "active"
     },
     {
@@ -2812,7 +2829,7 @@
       "p90_usd": 1216000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T01:21:43+00:00",
-      "last_seen_at": "2026-09-10T05:00:51+00:00",
+      "last_seen_at": "2026-09-10T05:21:09+00:00",
       "status": "active"
     },
     {
@@ -3747,7 +3764,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T03:04:06+00:00",
-      "last_seen_at": "2026-09-10T05:00:51+00:00",
+      "last_seen_at": "2026-09-10T05:21:09+00:00",
       "status": "active"
     },
     {
@@ -4036,7 +4053,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T02:46:36+00:00",
-      "last_seen_at": "2026-09-10T05:00:51+00:00",
+      "last_seen_at": "2026-09-10T05:21:09+00:00",
       "status": "active"
     },
     {
@@ -5107,7 +5124,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T02:55:09+00:00",
-      "last_seen_at": "2026-09-10T05:00:51+00:00",
+      "last_seen_at": "2026-09-10T05:21:09+00:00",
       "status": "active"
     },
     {
@@ -5158,7 +5175,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T02:01:17+00:00",
-      "last_seen_at": "2026-09-10T05:00:51+00:00",
+      "last_seen_at": "2026-09-10T05:21:09+00:00",
       "status": "active"
     },
     {
@@ -5668,7 +5685,7 @@
       "p90_usd": 1096000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T01:38:15+00:00",
-      "last_seen_at": "2026-09-10T05:00:51+00:00",
+      "last_seen_at": "2026-09-10T05:21:09+00:00",
       "status": "active"
     },
     {
@@ -5685,7 +5702,7 @@
       "p90_usd": 1096000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T04:34:16+00:00",
-      "last_seen_at": "2026-09-10T05:00:51+00:00",
+      "last_seen_at": "2026-09-10T05:21:09+00:00",
       "status": "active"
     },
     {
@@ -5719,7 +5736,7 @@
       "p90_usd": 1096000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T04:45:36+00:00",
-      "last_seen_at": "2026-09-10T05:00:51+00:00",
+      "last_seen_at": "2026-09-10T05:21:09+00:00",
       "status": "active"
     },
     {
@@ -5855,7 +5872,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T03:49:31+00:00",
-      "last_seen_at": "2026-09-10T05:00:51+00:00",
+      "last_seen_at": "2026-09-10T05:21:09+00:00",
       "status": "active"
     },
     {
@@ -6569,7 +6586,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T03:26:35+00:00",
-      "last_seen_at": "2026-09-10T05:00:51+00:00",
+      "last_seen_at": "2026-09-10T05:21:09+00:00",
       "status": "active"
     },
     {
@@ -6688,7 +6705,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T02:46:36+00:00",
-      "last_seen_at": "2026-09-10T05:00:51+00:00",
+      "last_seen_at": "2026-09-10T05:21:09+00:00",
       "status": "active"
     },
     {
@@ -7096,7 +7113,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T04:45:36+00:00",
-      "last_seen_at": "2026-09-10T05:00:51+00:00",
+      "last_seen_at": "2026-09-10T05:21:09+00:00",
       "status": "active"
     },
     {
@@ -7555,7 +7572,7 @@
       "p90_usd": 1072000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T02:30:16+00:00",
-      "last_seen_at": "2026-09-10T05:00:51+00:00",
+      "last_seen_at": "2026-09-10T05:21:09+00:00",
       "status": "active"
     },
     {
