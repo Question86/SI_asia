@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-10T12:50:56+00:00",
-  "run_id": "2026-09-10T12:50:56+00:00",
+  "generated_at": "2026-09-10T12:58:59+00:00",
+  "run_id": "2026-09-10T12:58:59+00:00",
   "date": "2026-09-10",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
-      "configured_public_sources_only": 40
+      "configured_public_sources_only": 41
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 40,
-    "displayed_findings": 40,
+    "new_relevant_findings": 1,
+    "today_file_total": 41,
+    "displayed_findings": 41,
     "high": 1,
-    "medium": 12,
+    "medium": 13,
     "observe": 27,
-    "source_errors": 0
+    "source_errors": 3
   },
   "sections": {
     "high": [
@@ -373,6 +373,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "06b3f6a72e2dc3bdb6ff"
+      },
+      {
+        "title": "[UPDATE] [hoch] ffmpeg: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2491",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-10T12:51:07+00:00",
+        "fetched_at": "2026-09-10T12:58:00+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in ffmpeg ausnutzen, um beliebigen Code auszuführen, Daten zu manipulieren, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand herbeizuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1361c0daecc5de00404a"
       },
       {
         "title": "[UPDATE] [mittel] Red Hat Hardened Images RPMs: Mehrere Schwachstellen",
@@ -1449,6 +1472,29 @@
       "id": "06b3f6a72e2dc3bdb6ff"
     },
     {
+      "title": "[UPDATE] [hoch] ffmpeg: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2491",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-10T12:51:07+00:00",
+      "fetched_at": "2026-09-10T12:58:00+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in ffmpeg ausnutzen, um beliebigen Code auszuführen, Daten zu manipulieren, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand herbeizuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1361c0daecc5de00404a"
+    },
+    {
       "title": "[UPDATE] [mittel] Red Hat Hardened Images RPMs: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1267",
       "source": "BSI CERT-Bund Security Advisories",
@@ -2176,13 +2222,13 @@
   ],
   "new_findings": [
     {
-      "title": "[UPDATE] [mittel] Red Hat Hardened Images RPMs: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1267",
+      "title": "[UPDATE] [hoch] ffmpeg: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2491",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-09-10T12:48:24+00:00",
-      "fetched_at": "2026-09-10T12:50:28+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Hardened Images RPMs ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Rechte zu erweitern, vertrauliche Informationen offenzulegen, Daten zu manipulieren oder einen Denial-of-Service-Zustand zu verursachen.",
+      "published_at": "2026-09-10T12:51:07+00:00",
+      "fetched_at": "2026-09-10T12:58:00+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in ffmpeg ausnutzen, um beliebigen Code auszuführen, Daten zu manipulieren, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand herbeizuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2196,54 +2242,29 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a601279e79ec891ddac2"
-    },
-    {
-      "title": "[UPDATE] [mittel] OpenVPN: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1264",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-10T12:48:23+00:00",
-      "fetched_at": "2026-09-10T12:50:28+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in OpenVPN ausnutzen, um einen Denial of Service Angriff durchzuführen, und um Informationen offenzulegen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2c3d91db9709ab49c469"
-    },
-    {
-      "title": "AI時代に、技術責任者はなぜ会社を辞めたくなるのか？｜すてぃお",
-      "url": "https://note.com/suthio/n/n340c131ccd4a",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-10T03:01:52+00:00",
-      "fetched_at": "2026-09-10T12:50:28+00:00",
-      "summary": "Pragmatic Engineerの技術責任者のキャリアブレイクに関する記事を読みました。 会社を離れて休んでいる人や、それを考えている人など、約20人への取材をもとにした記事です。 僕の感想は、「そりゃ、辞めたくもなるよな」でした。 「全社でAIを使うようにしてほしい」「開発をもっと速くしてほしい」「少ない人数でも成...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "380022692389b2c5d72a"
+      "id": "1361c0daecc5de00404a"
     }
   ],
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "bis_press_releases",
+      "source_name": "BIS Press Releases",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.bis.org', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "source_id": "bis_central_bank_speeches",
+      "source_name": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.bis.org', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "source_id": "bis_statistics",
+      "source_name": "BIS Statistical Releases",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.bis.org', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
   "quality_gate": {
     "thresholds": {
       "high": 24,

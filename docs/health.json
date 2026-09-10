@@ -1,18 +1,37 @@
 {
-  "generated_at": "2026-09-10T12:50:56+00:00",
-  "status": "normal",
+  "generated_at": "2026-09-10T12:58:59+00:00",
+  "status": "warning",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
-  "coverage_confidence": "normal",
+  "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 40,
-    "displayed_findings": 40,
+    "new_relevant_findings": 1,
+    "today_file_total": 41,
+    "displayed_findings": 41,
     "high": 1,
-    "medium": 12,
+    "medium": 13,
     "observe": 27,
-    "source_errors": 0
+    "source_errors": 3
   },
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "bis_press_releases",
+      "source_name": "BIS Press Releases",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.bis.org', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "source_id": "bis_central_bank_speeches",
+      "source_name": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.bis.org', port=443): Read timed out. (read timeout=8)"
+    },
+    {
+      "source_id": "bis_statistics",
+      "source_name": "BIS Statistical Releases",
+      "source_type": "rss",
+      "error": "HTTPSConnectionPool(host='www.bis.org', port=443): Read timed out. (read timeout=8)"
+    }
+  ],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"
 }

@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-10T12:50:56+00:00",
-  "status": "normal",
-  "coverage_confidence": "normal",
+  "generated_at": "2026-09-10T12:58:59+00:00",
+  "status": "warning",
+  "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 40,
-    "displayed_findings": 40,
+    "new_relevant_findings": 1,
+    "today_file_total": 41,
+    "displayed_findings": 41,
     "high": 1,
-    "medium": 12,
+    "medium": 13,
     "observe": 27
   },
-  "source_errors_count": 0,
+  "source_errors_count": 3,
   "top_signals": [
     {
       "title": "The capital drought: Over 7,500 SEA startups extinguished since 2020",
