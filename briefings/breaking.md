@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-09-10T07:53:13+00:00_
+_Generiert: 2026-09-10T08:01:16+00:00_
 
 ## The capital drought: Over 7,500 SEA startups extinguished since 2020
 
