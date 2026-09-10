@@ -1,36 +1,7 @@
 {
-  "generated_at": "2026-09-10T12:59:04+00:00",
-  "today_file_total": 41,
+  "generated_at": "2026-09-10T13:18:56+00:00",
+  "today_file_total": 43,
   "current_clusters": [
-    {
-      "key": "domain:wid.cert-bund.de",
-      "title": "[UPDATE] [kritisch] Cisco Secure Firewall Management Center: Mehrere Schwachstellen",
-      "sources": [
-        "BSI CERT-Bund Security Advisories"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0610",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0085",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2491",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1267",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1264"
-      ],
-      "finding_count": 5,
-      "max_score": 16,
-      "credibility_total": 5.25,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 29.5,
-      "hot": true,
-      "watchgraph_modules": [
-        "cyber_active_exploitation"
-      ],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
-    },
     {
       "key": "title:capital-drought-over-500-sea-startups-extinguished-since",
       "title": "The capital drought: Over 7,500 SEA startups extinguished since 2020",
@@ -54,6 +25,35 @@
       "watchgraph_modules": [
         "capitals_power_centers",
         "wildfire_heat_drought"
+      ],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "domain:wid.cert-bund.de",
+      "title": "[UPDATE] [kritisch] Cisco Secure Firewall Management Center: Mehrere Schwachstellen",
+      "sources": [
+        "BSI CERT-Bund Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0610",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0085",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2491",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1267",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1264"
+      ],
+      "finding_count": 5,
+      "max_score": 16,
+      "credibility_total": 5.25,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 26.5,
+      "hot": true,
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
     },
@@ -128,6 +128,30 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:www.ecb.europa.eu",
+      "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement",
+      "sources": [
+        "ECB Press Releases Speeches Interviews"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260910~6a45359cfc.en.html",
+        "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260910~314e508016.en.html"
+      ],
+      "finding_count": 2,
+      "max_score": 9,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 16.2,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
     },
     {
       "key": "title:conprosys",
@@ -243,6 +267,29 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "title:anatomy-shakeout-what-538-deadpooled-startups-reveal-about",
+      "title": "Anatomy of a shakeout: what 7,538 deadpooled startups reveal about Southeast Asia’s new tech reality",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/anatomy-of-a-shakeout-what-7538-deadpooled-startups-reveal-about-southeast-asias-new-tech-reality-20260910/"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 16.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "title:cheapest-way-stop-your-product-regressing",
@@ -435,55 +482,6 @@
         "earthquakes_tsunami"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "earthquake:m 5.0 - 45 km sse of quepos, costa rica:5.0",
-      "title": "M 5.0 - 45 km SSE of Quepos, Costa Rica",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg98"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 11.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "domain:www.heise.de",
-      "title": "Sicherheitslücken: 36.000 Plex-Media-Server-Instanzen potenziell angreifbar",
-      "sources": [
-        "heise Security Alerts"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.heise.de/news/Sicherheitsluecken-36-000-Plex-Media-Server-Instanzen-potenziell-angreifbar-11448584.html",
-        "https://www.heise.de/news/Jetzt-patchen-Angreifer-kompromittieren-Cisco-Firewalls-als-Root-11448237.html"
-      ],
-      "finding_count": 2,
-      "max_score": 7,
-      "credibility_total": 2.1,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 11.2,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-10T12:58:59+00:00_
+_Generiert: 2026-09-10T13:18:53+00:00_
 
 ## Kurzlage
 
-41 neue relevante Treffer. Stärkstes Signal: „The capital drought: Over 7,500 SEA startups extinguished since 2020“ aus e27 Asia Startup and Tech Feed (Score 26, observation). 3 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+43 neue relevante Treffer. Stärkstes Signal: „The capital drought: Over 7,500 SEA startups extinguished since 2020“ aus e27 Asia Startup and Tech Feed (Score 26, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -167,6 +167,15 @@ _Generiert: 2026-09-10T12:58:59+00:00_
   - Warum relevant: OpenAI (+7.5); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Quantinuum, one of the world’s leading quantum computing companies, has already put a number on it: a trillion-dollar market waiting to be unlocked once fault-tolerant quantum computing arrives. That’s not a typo, and it’s not a crypto-style promise built on speculation — it’s an estimate built on real, quantifiable industries: drug discovery, materials science, chemicals, energy and […] The post Quantum’s ChatGPT m…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Anatomy of a shakeout: what 7,538 deadpooled startups reveal about Southeast Asia’s new tech reality** — Score 11, observation — [Quelle](https://e27.co/anatomy-of-a-shakeout-what-7538-deadpooled-startups-reveal-about-southeast-asias-new-tech-reality-20260910/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-10T13:00:47+00:00`, fetched `2026-09-10T13:18:26+00:00`
+  - Treffer: APAC Trend Radar, funding, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.5); funding (+2.0); recent (+1.0); watchgraph region europe: NATO (+2.0)
+  - Kurz: For much of the last decade, Southeast Asia’s startup story was told through funding milestones, rising valuations and the promise of a young, mobile-first population coming online. But beneath the optimism, another dataset was forming: the companies that did not make it. Between January 1, 2020, and July 9, 2026, 7,538 technology startups in Southeast […] The post Anatomy of a shakeout: what 7,538 deadpooled startu…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.7 - 116 km WSW of Alianza Cristiana, Peru** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg9q)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-10T11:11:48.486+00:00`, fetched `2026-09-10T11:17:40+00:00`
@@ -212,6 +221,15 @@ _Generiert: 2026-09-10T12:58:59+00:00_
   - Warum relevant: Security (+7.5); TWCERT (+2.0); recent (+1.0)
   - Kurz: 微軟於2026年8月11日發布Exchange Server安全性更新，共修補7項CVE漏洞。其中，CVE-2026-62911已有攻擊程式，荷蘭國家網路安全中心（NCSC-NL）亦發布相關示警，另依Shadowserver Foundation監測資料，目前仍可觀察部分Exchange Server受到該漏洞影響，使用相關產品之單位應確認版本及更新狀態，並完成安全性更新。 微軟公告 微軟於2026年8月11日發布Exchange Server安全性更新，適用於Exchange Server 2016、2019及訂閱版（SE），共修補以下7項CVE漏洞： CVE編號 漏洞類型 CVSS基本分數 CVE-2026-62910 權限提升 7.2 CVE-2026-62911 權限提升 8.0 CVE-2026-62912 阻斷服務 6.5 CVE-2026-62913 遠端程式碼執行 8.8 CVE-2026-65813 權限提升…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Christine Lagarde, Boris Vujčić: Monetary policy statement** — Score 9, opportunity — [Quelle](https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260910~6a45359cfc.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-09-10T13:00:00+00:00`, fetched `2026-09-10T13:18:26+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Christine Lagarde, Boris Vujčić: Monetary policy statement
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **M 4.8 - 35 km SSE of Cliza, Bolivia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tga8)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-10T12:22:14.040+00:00`, fetched `2026-09-10T12:33:26+00:00`
@@ -229,15 +247,6 @@ _Generiert: 2026-09-10T12:58:59+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Monetary policy decisions
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Singapore tops Southeast Asia on Best Workplaces in Asia 2026 list** — Score 9, observation — [Quelle](https://e27.co/singapore-tops-southeast-asia-on-best-workplaces-in-asia-2026-list-20260910/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-10T02:54:29+00:00`, fetched `2026-09-10T02:54:38+00:00`
-  - Treffer: APAC Trend Radar, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: Singapore has placed 25 companies on the Best Workplaces in Asia 2026 list, the highest count in Southeast Asia, at a time when employers across the region are fighting harder to hold on to skilled workers. The list, published by Great Place To Work, ranks 200 companies across Asia based on employee survey responses. Of […] The post Singapore tops Southeast Asia on Best Workplaces in Asia 2026 list appeared first on…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Sicherheitslücken: 36.000 Plex-Media-Server-Instanzen potenziell angreifbar** — Score 7, observation — [Quelle](https://www.heise.de/news/Sicherheitsluecken-36-000-Plex-Media-Server-Instanzen-potenziell-angreifbar-11448584.html)
   - Quelle: heise Security Alerts / `rss`
@@ -275,15 +284,6 @@ _Generiert: 2026-09-10T12:58:59+00:00_
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 学校ではいじめられ、先生には嫌われ、家ではネグレクトをされてどこにも居場所がない小学生だった 初めての自殺未遂は8歳 以降何度も自殺未遂して意識不明になったこともあるが死にきれず、死ぬことをあきらめて大学以降はひたすらがんばってきた しかしどうしてか、がんばればがんばるほど仕事で「役立たず」「何でそ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AI時代に、技術責任者はなぜ会社を辞めたくなるのか？｜すてぃお** — Score 5, observation — [Quelle](https://note.com/suthio/n/n340c131ccd4a)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-10T03:01:52+00:00`, fetched `2026-09-10T12:50:28+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: Pragmatic Engineerの技術責任者のキャリアブレイクに関する記事を読みました。 会社を離れて休んでいる人や、それを考えている人など、約20人への取材をもとにした記事です。 僕の感想は、「そりゃ、辞めたくもなるよな」でした。 「全社でAIを使うようにしてほしい」「開発をもっと速くしてほしい」「少ない人数でも成...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
@@ -295,9 +295,3 @@ _Generiert: 2026-09-10T12:58:59+00:00_
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `bis_press_releases` (rss): HTTPSConnectionPool(host='www.bis.org', port=443): Read timed out. (read timeout=8)
-- `bis_central_bank_speeches` (rss): HTTPSConnectionPool(host='www.bis.org', port=443): Read timed out. (read timeout=8)
-- `bis_statistics` (rss): HTTPSConnectionPool(host='www.bis.org', port=443): Read timed out. (read timeout=8)

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-10T12:58:59+00:00_
+_Generated: 2026-09-10T13:18:53+00:00_
 
 ## Status
-- status: `warning`
-- findings: `41`
+- status: `normal`
+- findings: `43`
 
 ## Top Signals
 
@@ -57,18 +57,18 @@ _Generated: 2026-09-10T12:58:59+00:00_
 - url: https://e27.co/quantums-chatgpt-moment-is-coming-and-its-worth-trillions-20260909/
 - summary: Quantinuum, one of the world’s leading quantum computing companies, has already put a number on it: a trillion-dollar market waiting to be unlocked once fault-tolerant quantum computing arrives. That’s not a typo, and it’s not a crypto-style promise built on…
 
-### 8. M 4.7 - 116 km WSW of Alianza Cristiana, Peru
+### 8. Anatomy of a shakeout: what 7,538 deadpooled startups reveal about Southeast Asia’s new tech reality
+- source: e27 Asia Startup and Tech Feed
+- score: `11`
+- published: `2026-09-10T13:00:47+00:00`
+- url: https://e27.co/anatomy-of-a-shakeout-what-7538-deadpooled-startups-reveal-about-southeast-asias-new-tech-reality-20260910/
+- summary: For much of the last decade, Southeast Asia’s startup story was told through funding milestones, rising valuations and the promise of a young, mobile-first population coming online. But beneath the optimism, another dataset was forming: the companies that did…
+
+### 9. M 4.7 - 116 km WSW of Alianza Cristiana, Peru
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-09-10T11:11:48.486+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg9q
 - summary: DYFI? - II Time 2026-09-10 10:39:36 UTC 2026-09-10 10:39:36 UTC at epicenter Location 3.967°S 77.364°W Depth 22.07 km (13.71 mi)
-
-### 9. M 5.3 - 126 km WSW of Alianza Cristiana, Peru
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-09-10T06:58:40.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg8v
-- summary: Time 2026-09-10 06:42:40 UTC 2026-09-10 06:42:40 UTC at epicenter Location 3.873°S 77.503°W Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT

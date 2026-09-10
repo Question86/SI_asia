@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-10T12:58:59+00:00",
-  "run_id": "2026-09-10T12:58:59+00:00",
+  "generated_at": "2026-09-10T13:18:53+00:00",
+  "run_id": "2026-09-10T13:18:53+00:00",
   "date": "2026-09-10",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 41
+      "configured_public_sources_only": 43
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 41,
-    "displayed_findings": 41,
+    "new_relevant_findings": 2,
+    "today_file_total": 43,
+    "displayed_findings": 43,
     "high": 1,
     "medium": 13,
-    "observe": 27,
-    "source_errors": 3
+    "observe": 29,
+    "source_errors": 0
   },
   "sections": {
     "high": [
@@ -489,6 +489,28 @@
         "id": "64c60c5cdacffd7fd35e"
       },
       {
+        "title": "Anatomy of a shakeout: what 7,538 deadpooled startups reveal about Southeast Asia’s new tech reality",
+        "url": "https://e27.co/anatomy-of-a-shakeout-what-7538-deadpooled-startups-reveal-about-southeast-asias-new-tech-reality-20260910/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-10T13:00:47+00:00",
+        "fetched_at": "2026-09-10T13:18:26+00:00",
+        "summary": "For much of the last decade, Southeast Asia’s startup story was told through funding milestones, rising valuations and the promise of a young, mobile-first population coming online. But beneath the optimism, another dataset was forming: the companies that did not make it. Between January 1, 2020, and July 9, 2026, 7,538 technology startups in Southeast […] The post Anatomy of a shakeout: what 7,538 deadpooled startu…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "funding",
+          "Southeast Asia"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "APAC Trend Radar (+3.8); Southeast Asia (+2.5); funding (+2.0); recent (+1.0); watchgraph region europe: NATO (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "195139ef9f1af01e5951"
+      },
+      {
         "title": "M 4.7 - 116 km WSW of Alianza Cristiana, Peru",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg9q",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -634,6 +656,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "5e6be553871baafdef06"
+      },
+      {
+        "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement",
+        "url": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260910~6a45359cfc.en.html",
+        "source": "ECB Press Releases Speeches Interviews",
+        "source_type": "rss",
+        "published_at": "2026-09-10T13:00:00+00:00",
+        "fetched_at": "2026-09-10T13:18:26+00:00",
+        "summary": "Christine Lagarde, Boris Vujčić: Monetary policy statement",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "cb5a8db0be181d4a43c9"
       },
       {
         "title": "M 4.8 - 35 km SSE of Cliza, Bolivia",
@@ -1584,6 +1626,28 @@
       "id": "64c60c5cdacffd7fd35e"
     },
     {
+      "title": "Anatomy of a shakeout: what 7,538 deadpooled startups reveal about Southeast Asia’s new tech reality",
+      "url": "https://e27.co/anatomy-of-a-shakeout-what-7538-deadpooled-startups-reveal-about-southeast-asias-new-tech-reality-20260910/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-10T13:00:47+00:00",
+      "fetched_at": "2026-09-10T13:18:26+00:00",
+      "summary": "For much of the last decade, Southeast Asia’s startup story was told through funding milestones, rising valuations and the promise of a young, mobile-first population coming online. But beneath the optimism, another dataset was forming: the companies that did not make it. Between January 1, 2020, and July 9, 2026, 7,538 technology startups in Southeast […] The post Anatomy of a shakeout: what 7,538 deadpooled startu…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "funding",
+        "Southeast Asia"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "APAC Trend Radar (+3.8); Southeast Asia (+2.5); funding (+2.0); recent (+1.0); watchgraph region europe: NATO (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "195139ef9f1af01e5951"
+    },
+    {
       "title": "M 4.7 - 116 km WSW of Alianza Cristiana, Peru",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg9q",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1729,6 +1793,26 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "5e6be553871baafdef06"
+    },
+    {
+      "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement",
+      "url": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260910~6a45359cfc.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "source_type": "rss",
+      "published_at": "2026-09-10T13:00:00+00:00",
+      "fetched_at": "2026-09-10T13:18:26+00:00",
+      "summary": "Christine Lagarde, Boris Vujčić: Monetary policy statement",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cb5a8db0be181d4a43c9"
     },
     {
       "title": "M 4.8 - 35 km SSE of Cliza, Bolivia",
@@ -2222,49 +2306,49 @@
   ],
   "new_findings": [
     {
-      "title": "[UPDATE] [hoch] ffmpeg: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2491",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "Anatomy of a shakeout: what 7,538 deadpooled startups reveal about Southeast Asia’s new tech reality",
+      "url": "https://e27.co/anatomy-of-a-shakeout-what-7538-deadpooled-startups-reveal-about-southeast-asias-new-tech-reality-20260910/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-09-10T12:51:07+00:00",
-      "fetched_at": "2026-09-10T12:58:00+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in ffmpeg ausnutzen, um beliebigen Code auszuführen, Daten zu manipulieren, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand herbeizuführen.",
+      "published_at": "2026-09-10T13:00:47+00:00",
+      "fetched_at": "2026-09-10T13:18:26+00:00",
+      "summary": "For much of the last decade, Southeast Asia’s startup story was told through funding milestones, rising valuations and the promise of a young, mobile-first population coming online. But beneath the optimism, another dataset was forming: the companies that did not make it. Between January 1, 2020, and July 9, 2026, 7,538 technology startups in Southeast […] The post Anatomy of a shakeout: what 7,538 deadpooled startu…",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
+        "APAC Trend Radar",
+        "funding",
+        "Southeast Asia"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_score": 11,
+      "relevance_reason": "APAC Trend Radar (+3.8); Southeast Asia (+2.5); funding (+2.0); recent (+1.0); watchgraph region europe: NATO (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "1361c0daecc5de00404a"
-    }
-  ],
-  "source_errors": [
-    {
-      "source_id": "bis_press_releases",
-      "source_name": "BIS Press Releases",
-      "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.bis.org', port=443): Read timed out. (read timeout=8)"
+      "id": "195139ef9f1af01e5951"
     },
     {
-      "source_id": "bis_central_bank_speeches",
-      "source_name": "BIS Central Bankers Speeches",
+      "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement",
+      "url": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260910~6a45359cfc.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
       "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.bis.org', port=443): Read timed out. (read timeout=8)"
-    },
-    {
-      "source_id": "bis_statistics",
-      "source_name": "BIS Statistical Releases",
-      "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.bis.org', port=443): Read timed out. (read timeout=8)"
+      "published_at": "2026-09-10T13:00:00+00:00",
+      "fetched_at": "2026-09-10T13:18:26+00:00",
+      "summary": "Christine Lagarde, Boris Vujčić: Monetary policy statement",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cb5a8db0be181d4a43c9"
     }
   ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
