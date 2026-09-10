@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-10T02:46:33+00:00_
+_Generated: 2026-09-10T02:55:06+00:00_
 
 ## Status
 - status: `normal`
-- findings: `6`
+- findings: `7`
 
 ## Top Signals
 
@@ -22,25 +22,25 @@ _Generated: 2026-09-10T02:46:33+00:00_
 - url: https://e27.co/quantums-chatgpt-moment-is-coming-and-its-worth-trillions-20260909/
 - summary: Quantinuum, one of the world’s leading quantum computing companies, has already put a number on it: a trillion-dollar market waiting to be unlocked once fault-tolerant quantum computing arrives. That’s not a typo, and it’s not a crypto-style promise built on…
 
-### 3. I built a 21-role AI workforce. The hardest part was management
+### 3. Singapore tops Southeast Asia on Best Workplaces in Asia 2026 list
+- source: e27 Asia Startup and Tech Feed
+- score: `9`
+- published: `2026-09-10T02:54:29+00:00`
+- url: https://e27.co/singapore-tops-southeast-asia-on-best-workplaces-in-asia-2026-list-20260910/
+- summary: Singapore has placed 25 companies on the Best Workplaces in Asia 2026 list, the highest count in Southeast Asia, at a time when employers across the region are fighting harder to hold on to skilled workers. The list, published by Great Place To Work, ranks 20…
+
+### 4. I built a 21-role AI workforce. The hardest part was management
 - source: e27 Asia Startup and Tech Feed
 - score: `9`
 - published: `2026-09-10T02:00:12+00:00`
 - url: https://e27.co/i-built-a-21-role-ai-workforce-the-hardest-part-was-management-20260909/
 - summary: The conversation around AI agents has moved quickly from demos to organisational design. Microsoft’s 2025 Work Trend Index for Singapore reported that 56 per cent of Singapore leaders were already using agents to fully automate workstreams or business process…
 
-### 4. Future-proofing the past: How smart engineering keeps Singapore’s aging condos in the EV race
+### 5. Future-proofing the past: How smart engineering keeps Singapore’s aging condos in the EV race
 - source: e27 Asia Startup and Tech Feed
 - score: `7`
 - published: `2026-09-10T01:30:47+00:00`
 - url: https://e27.co/future-proofing-the-past-how-smart-engineering-keeps-singapores-aging-condos-in-the-ev-race-20260909/
 - summary: Singapore’s transition to electric mobility is accelerating rapidly. EVs accounted for about one-third of new car registrations in 2024, and by the first eight months of 2025, around half of newly registered cars and taxis were electric. But while brand-new r…
-
-### 5. みんなほしいのはiPhone Duo “mini”だよね
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-09-09T22:08:36+00:00`
-- url: https://anond.hatelabo.jp/20260910070047
-- summary: 気が早いけど折りたたみiPhoneを一回り小さくしたiPhone Duo miniがほしい 折り畳めば画面端まで指が届く横幅で12mini/13miniユーザーも成仏 開けば大型iPhoneより広い画面 ついでに価格もminiにして… でないと円安の日本人には買えないよ
 
 END OF DOCUMENT

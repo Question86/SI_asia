@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-10T02:46:33+00:00_
+_Generiert: 2026-09-10T02:55:06+00:00_
 
 ## Kurzlage
 
-6 neue relevante Treffer. Stärkstes Signal: „The missing layer in AI innovation: Human verification“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
+7 neue relevante Treffer. Stärkstes Signal: „The missing layer in AI innovation: Human verification“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -74,6 +74,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Quantinuum, one of the world’s leading quantum computing companies, has already put a number on it: a trillion-dollar market waiting to be unlocked once fault-tolerant quantum computing arrives. That’s not a typo, and it’s not a crypto-style promise built on speculation — it’s an estimate built on real, quantifiable industries: drug discovery, materials science, chemicals, energy and […] The post Quantum’s ChatGPT m…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Singapore tops Southeast Asia on Best Workplaces in Asia 2026 list** — Score 9, observation — [Quelle](https://e27.co/singapore-tops-southeast-asia-on-best-workplaces-in-asia-2026-list-20260910/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-10T02:54:29+00:00`, fetched `2026-09-10T02:54:38+00:00`
+  - Treffer: APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Singapore has placed 25 companies on the Best Workplaces in Asia 2026 list, the highest count in Southeast Asia, at a time when employers across the region are fighting harder to hold on to skilled workers. The list, published by Great Place To Work, ranks 200 companies across Asia based on employee survey responses. Of […] The post Singapore tops Southeast Asia on Best Workplaces in Asia 2026 list appeared first on…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **I built a 21-role AI workforce. The hardest part was management** — Score 9, opportunity — [Quelle](https://e27.co/i-built-a-21-role-ai-workforce-the-hardest-part-was-management-20260909/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-10T02:00:12+00:00`, fetched `2026-09-10T02:00:44+00:00`
@@ -83,15 +92,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); AI Agents (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0); watchgraph demote demo (x0.45)
   - Kurz: The conversation around AI agents has moved quickly from demos to organisational design. Microsoft’s 2025 Work Trend Index for Singapore reported that 56 per cent of Singapore leaders were already using agents to fully automate workstreams or business processes, while 46 per cent expected their teams to build multi-agent systems. I understand the appeal. I […] The post I built a 21-role AI workforce. The hardest par…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Future-proofing the past: How smart engineering keeps Singapore’s aging condos in the EV race** — Score 7, observation — [Quelle](https://e27.co/future-proofing-the-past-how-smart-engineering-keeps-singapores-aging-condos-in-the-ev-race-20260909/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-10T01:30:47+00:00`, fetched `2026-09-10T01:37:38+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: Singapore’s transition to electric mobility is accelerating rapidly. EVs accounted for about one-third of new car registrations in 2024, and by the first eight months of 2025, around half of newly registered cars and taxis were electric. But while brand-new residential developments come pre-wired with high-capacity charging infrastructure integrated right into their blueprints, a very […] The post Future-proofing th…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **みんなほしいのはiPhone Duo “mini”だよね** — Score 5, observation — [Quelle](https://anond.hatelabo.jp/20260910070047)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-09T22:08:36+00:00`, fetched `2026-09-10T02:46:01+00:00`
