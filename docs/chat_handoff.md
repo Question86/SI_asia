@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-10T21:27:46+00:00_
+_Generated: 2026-09-10T21:38:28+00:00_
 
 ## Status
 - status: `normal`
-- findings: `72`
+- findings: `74`
 
 ## Top Signals
 
@@ -29,19 +29,19 @@ _Generated: 2026-09-10T21:27:46+00:00_
 - url: https://e27.co/the-missing-layer-in-ai-innovation-human-verification-20260908/
 - summary: Artificial intelligence has dramatically changed the way startups are built. Today, a founder can describe a product idea, open a tool such as Claude or OpenAI, generate hundreds of lines of code, build a prototype and present it as an “AI-powered innovation”…
 
-### 4. [UPDATE] [kritisch] Cisco Secure Firewall Management Center: Mehrere Schwachstellen
+### 4. GitHub Copilot app for Beginners: Using the diff, terminal, and browser
+- source: GitHub Blog Atom
+- score: `17`
+- published: `2026-09-10T21:31:19+00:00`
+- url: https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/
+- summary: Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app. The post GitHub Copilot app for Beginners: Using the diff, terminal, and browser app…
+
+### 5. [UPDATE] [kritisch] Cisco Secure Firewall Management Center: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-09-10T09:11:31+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0610
 - summary: Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Cisco Secure Firewall Management Center und Cisco Secure Firewall Threat Defense ausnutzen, um Root-Rechte zu erlangen, beliebigen Code mit Root-Rechten auszuführen, SQL-Injection durchz…
-
-### 5. [UPDATE] [hoch] Fortinet FortiOS: Schwachstelle ermöglicht Codeausführung
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-09-10T06:56:31+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0085
-- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Fortinet FortiOS ausnutzen, um beliebigen Programmcode auszuführen.
 
 ### 6. The cheapest way to stop your AI product from regressing
 - source: e27 Asia Startup and Tech Feed

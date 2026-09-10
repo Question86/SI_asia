@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-10T21:27:46+00:00_
+_Generiert: 2026-09-10T21:38:28+00:00_
 
 ## Kurzlage
 
-72 neue relevante Treffer. Stärkstes Signal: „The capital drought: Over 7,500 SEA startups extinguished since 2020“ aus e27 Asia Startup and Tech Feed (Score 26, observation).
+74 neue relevante Treffer. Stärkstes Signal: „The capital drought: Over 7,500 SEA startups extinguished since 2020“ aus e27 Asia Startup and Tech Feed (Score 26, observation).
 
 ## Priorität Hoch
 
@@ -38,6 +38,15 @@ _Generiert: 2026-09-10T21:27:46+00:00_
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); APAC Trend Radar (+3.0); Produktidee (+6.0); founder (+2.0); recent (+1.0)
   - Kurz: Artificial intelligence has dramatically changed the way startups are built. Today, a founder can describe a product idea, open a tool such as Claude or OpenAI, generate hundreds of lines of code, build a prototype and present it as an “AI-powered innovation” within days. What once required a technical team, months of development and significant […] The post The missing layer in AI innovation: Human verification app…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **GitHub Copilot app for Beginners: Using the diff, terminal, and browser** — Score 17, observation — [Quelle](https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/)
+  - Quelle: GitHub Blog Atom / `rss`
+  - Zeit: published `2026-09-10T21:31:19+00:00`, fetched `2026-09-10T21:37:58+00:00`
+  - Treffer: AI/KI, Content-Chance, Copilot, GitHub, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Webentwicklung (+3.0); Content-Chance (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
+  - Kurz: Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app. The post GitHub Copilot app for Beginners: Using the diff, terminal, and browser appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [kritisch] Cisco Secure Firewall Management Center: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0610)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-09-10T09:11:31+00:00`, fetched `2026-09-10T09:23:09+00:00`

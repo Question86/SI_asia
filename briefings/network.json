@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-10T21:27:50+00:00",
+  "generated_at": "2026-09-10T21:38:31+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 72,
-    "clusters": 60,
+    "findings": 74,
+    "clusters": 61,
     "cross_source_confrmed": 0,
-    "hot": 0,
-    "early_signals": 0,
+    "hot": 1,
+    "early_signals": 1,
     "dominance_penalized": 9
   },
   "clusters": [
@@ -50,6 +50,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-10T07:46:00+00:00"
+    },
+    {
+      "key": "title:github-copilot-app-beginners-using-diff-terminal-browser",
+      "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
+      "sources": [
+        "GitHub Blog Atom"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/"
+      ],
+      "finding_count": 1,
+      "max_score": 17,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 26.5,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
+      "raw_network_score": 22.1,
+      "ranking_score": 26.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 5.5,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-10T21:38:31+00:00"
     },
     {
       "key": "github_repo:tencent/teamai-cli",
@@ -272,20 +310,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 16.02,
+      "network_score": 15.94,
       "hot": false,
       "watchgraph_modules": [
         "ai_agents_workflow"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 24.5,
-      "ranking_score": 16.02,
+      "ranking_score": 15.94,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.52,
+      "baseline_bonus": 0.44,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -829,44 +867,6 @@
       "first_seen_at": "2026-06-19T11:28:55+00:00"
     },
     {
-      "key": "title:multiples-vuln-rabilit-dans-les-produits-vmware-septembre",
-      "title": "Multiples vulnérabilités dans les produits VMware (07 septembre 2026)",
-      "sources": [
-        "CERT-FR Avis de sécurité"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1125/"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 11.51,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 12.1,
-      "ranking_score": 11.51,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.01,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-09-09T13:42:48+00:00"
-    },
-    {
       "key": "domain:www.heise.de",
       "title": "Kritische Schadcode-Lücken bedrohen Ivanti Neurons for ITSM",
       "sources": [
@@ -985,6 +985,84 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-10T03:49:31+00:00"
+    },
+    {
+      "key": "title:multiples-vuln-rabilit-dans-les-produits-vmware-septembre",
+      "title": "Multiples vulnérabilités dans les produits VMware (07 septembre 2026)",
+      "sources": [
+        "CERT-FR Avis de sécurité"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1125/"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 11.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 12.1,
+      "ranking_score": 11.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-09T13:42:48+00:00"
+    },
+    {
+      "key": "domain:note.com",
+      "title": "AI時代に、技術責任者はなぜ会社を辞めたくなるのか？｜すてぃお",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://note.com/suthio/n/n340c131ccd4a",
+        "https://note.com/masakazu_urabe/n/n59bcda4ddef2",
+        "https://anond.hatelabo.jp/20260908113255"
+      ],
+      "finding_count": 3,
+      "max_score": 5,
+      "credibility_total": 3.15,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.97,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 14.3,
+      "ranking_score": 10.97,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 1.97,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-31T18:43:10+00:00"
     },
     {
       "key": "title:singapore-tops-southeast-asia-best-workplaces-asia-2026",
@@ -1777,45 +1855,6 @@
       "first_seen_at": "2026-09-10T03:49:31+00:00"
     },
     {
-      "key": "domain:note.com",
-      "title": "AI時代に、技術責任者はなぜ会社を辞めたくなるのか？｜すてぃお",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://note.com/suthio/n/n340c131ccd4a",
-        "https://note.com/masakazu_urabe/n/n59bcda4ddef2"
-      ],
-      "finding_count": 2,
-      "max_score": 5,
-      "credibility_total": 2.1,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 6.5,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 9.2,
-      "ranking_score": 6.5,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-08-31T18:43:10+00:00"
-    },
-    {
       "key": "title:mai-code-flash-deprecated",
       "title": "MAI-Code-1-Flash deprecated",
       "sources": [
@@ -2350,7 +2389,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-10T21:27:50Z",
+    "generated_at": "2026-09-10T21:38:31Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
