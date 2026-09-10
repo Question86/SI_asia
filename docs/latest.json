@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T13:55:08+00:00",
-  "run_id": "2026-09-10T13:55:08+00:00",
+  "generated_at": "2026-09-10T14:05:31+00:00",
+  "run_id": "2026-09-10T14:05:31+00:00",
   "date": "2026-09-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 46
+      "configured_public_sources_only": 47
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 46,
-    "displayed_findings": 46,
+    "today_file_total": 47,
+    "displayed_findings": 47,
     "high": 1,
     "medium": 13,
-    "observe": 32,
+    "observe": 33,
     "source_errors": 0
   },
   "sections": {
@@ -1110,6 +1110,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "c0d381439d375ecbcf5c"
+      },
+      {
+        "title": "しばらく先行レビューしていたAppleのフォルダブルDuoについて語らせてくれ（CloseBox） | テクノエッジ TechnoEdge",
+        "url": "https://www.techno-edge.net/article/2026/09/10/5483.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-10T04:18:01+00:00",
+        "fetched_at": "2026-09-10T14:05:01+00:00",
+        "summary": "Appleが新しいCEO、ジョン・ターナスの元で新製品を出したそうですね。Duoとかいうフォルダブル。二つ折りの携帯端末。筆者も先行レビューしているので紹介しましょう。 鮮明なディスプレイと、その後の携帯端末を定義づける画期的なフォルム。閉じていてもかっこいい。 開くと頑丈なヒンジが確実にボディとディスプレイ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d5891f3f3ab0f50ffd6d"
       },
       {
         "title": "AI時代に、技術責任者はなぜ会社を辞めたくなるのか？｜すてぃお",
@@ -2340,6 +2361,27 @@
       "id": "c0d381439d375ecbcf5c"
     },
     {
+      "title": "しばらく先行レビューしていたAppleのフォルダブルDuoについて語らせてくれ（CloseBox） | テクノエッジ TechnoEdge",
+      "url": "https://www.techno-edge.net/article/2026/09/10/5483.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-10T04:18:01+00:00",
+      "fetched_at": "2026-09-10T14:05:01+00:00",
+      "summary": "Appleが新しいCEO、ジョン・ターナスの元で新製品を出したそうですね。Duoとかいうフォルダブル。二つ折りの携帯端末。筆者も先行レビューしているので紹介しましょう。 鮮明なディスプレイと、その後の携帯端末を定義づける画期的なフォルム。閉じていてもかっこいい。 開くと頑丈なヒンジが確実にボディとディスプレイ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d5891f3f3ab0f50ffd6d"
+    },
+    {
       "title": "AI時代に、技術責任者はなぜ会社を辞めたくなるのか？｜すてぃお",
       "url": "https://note.com/suthio/n/n340c131ccd4a",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2488,40 +2530,25 @@
   ],
   "new_findings": [
     {
-      "title": "M 5.1 - 162 km SSW of Merizo Village, Guam",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgb6",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "しばらく先行レビューしていたAppleのフォルダブルDuoについて語らせてくれ（CloseBox） | テクノエッジ TechnoEdge",
+      "url": "https://www.techno-edge.net/article/2026/09/10/5483.html",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-10T13:48:58.348+00:00",
-      "fetched_at": "2026-09-10T13:54:34+00:00",
-      "summary": "DYFI? - II Time 2026-09-10 13:28:15 UTC 2026-09-10 13:28:15 UTC at epicenter Location 12.027°N 143.874°E Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-09-10T04:18:01+00:00",
+      "fetched_at": "2026-09-10T14:05:01+00:00",
+      "summary": "Appleが新しいCEO、ジョン・ターナスの元で新製品を出したそうですね。Duoとかいうフォルダブル。二つ折りの携帯端末。筆者も先行レビューしているので紹介しましょう。 鮮明なディスプレイと、その後の携帯端末を定義づける画期的なフォルム。閉じていてもかっこいい。 開くと頑丈なヒンジが確実にボディとディスプレイ...",
       "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "0328e7e4e52fb8e66405"
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d5891f3f3ab0f50ffd6d"
     }
   ],
   "source_errors": [],
