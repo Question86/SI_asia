@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-10T08:29:22+00:00",
+  "generated_at": "2026-09-10T08:45:57+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -262,7 +262,7 @@
       "p90_usd": 115200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T06:31:46+00:00",
-      "last_seen_at": "2026-09-10T08:29:02+00:00",
+      "last_seen_at": "2026-09-10T08:45:41+00:00",
       "status": "active"
     },
     {
@@ -535,7 +535,7 @@
       "p90_usd": 12400000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T07:46:00+00:00",
-      "last_seen_at": "2026-09-10T08:29:02+00:00",
+      "last_seen_at": "2026-09-10T08:45:41+00:00",
       "status": "active"
     },
     {
@@ -1113,7 +1113,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-10T07:01:50+00:00",
-      "last_seen_at": "2026-09-10T08:29:02+00:00",
+      "last_seen_at": "2026-09-10T08:45:41+00:00",
       "status": "active"
     },
     {
@@ -2307,6 +2307,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_e48d7d4bbf592e678320",
+      "title": "M 5.0 - 45 km SSE of Quepos, Costa Rica",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-10T08:45:41+00:00",
+      "last_seen_at": "2026-09-10T08:45:41+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -2320,7 +2337,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-10T08:29:02+00:00",
+      "last_seen_at": "2026-09-10T08:45:41+00:00",
       "status": "active"
     },
     {
@@ -2490,7 +2507,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T06:31:46+00:00",
-      "last_seen_at": "2026-09-10T08:29:02+00:00",
+      "last_seen_at": "2026-09-10T08:45:41+00:00",
       "status": "active"
     },
     {
@@ -2558,7 +2575,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T06:31:46+00:00",
-      "last_seen_at": "2026-09-10T08:29:02+00:00",
+      "last_seen_at": "2026-09-10T08:45:41+00:00",
       "status": "active"
     },
     {
@@ -2677,7 +2694,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T05:21:09+00:00",
-      "last_seen_at": "2026-09-10T08:29:02+00:00",
+      "last_seen_at": "2026-09-10T08:45:41+00:00",
       "status": "active"
     },
     {
@@ -2694,7 +2711,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T06:31:46+00:00",
-      "last_seen_at": "2026-09-10T08:29:02+00:00",
+      "last_seen_at": "2026-09-10T08:45:41+00:00",
       "status": "active"
     },
     {
@@ -2813,7 +2830,7 @@
       "p90_usd": 2800000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T03:49:31+00:00",
-      "last_seen_at": "2026-09-10T08:29:02+00:00",
+      "last_seen_at": "2026-09-10T08:45:41+00:00",
       "status": "active"
     },
     {
@@ -2932,7 +2949,7 @@
       "p90_usd": 1216000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T01:21:43+00:00",
-      "last_seen_at": "2026-09-10T08:29:02+00:00",
+      "last_seen_at": "2026-09-10T08:45:41+00:00",
       "status": "active"
     },
     {
@@ -3548,6 +3565,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_67c2499b8f5d8b26b94b",
+      "title": "2026-012: Critical Vulnerabilities in Check Point Products",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 116000.0,
+      "p50_usd": 11600000.0,
+      "p90_usd": 1160000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-10T08:29:02+00:00",
+      "last_seen_at": "2026-09-10T08:45:41+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_72879edabd2cf6f632a5",
       "title": "The AI dashboard gold rush: Beyond the pretty charts",
       "event_classes": [
@@ -3597,23 +3631,6 @@
       "first_seen_at": "2026-08-31T01:34:58+00:00",
       "last_seen_at": "2026-08-31T23:54:23+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_67c2499b8f5d8b26b94b",
-      "title": "2026-012: Critical Vulnerabilities in Check Point Products",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 116000.0,
-      "p50_usd": 11600000.0,
-      "p90_usd": 1160000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-10T08:29:02+00:00",
-      "last_seen_at": "2026-09-10T08:29:02+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_088bfa5231048a3752af",
@@ -3884,7 +3901,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T03:04:06+00:00",
-      "last_seen_at": "2026-09-10T08:29:02+00:00",
+      "last_seen_at": "2026-09-10T08:45:41+00:00",
       "status": "active"
     },
     {
@@ -4173,7 +4190,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T02:46:36+00:00",
-      "last_seen_at": "2026-09-10T08:29:02+00:00",
+      "last_seen_at": "2026-09-10T08:45:41+00:00",
       "status": "active"
     },
     {
@@ -4207,7 +4224,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-10T08:29:02+00:00",
+      "last_seen_at": "2026-09-10T08:45:41+00:00",
       "status": "active"
     },
     {
@@ -4445,7 +4462,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-07T19:52:47+00:00",
-      "last_seen_at": "2026-09-10T08:29:02+00:00",
+      "last_seen_at": "2026-09-10T08:45:41+00:00",
       "status": "active"
     },
     {
@@ -5244,7 +5261,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T02:55:09+00:00",
-      "last_seen_at": "2026-09-10T08:29:02+00:00",
+      "last_seen_at": "2026-09-10T08:45:41+00:00",
       "status": "active"
     },
     {
@@ -5295,7 +5312,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T02:01:17+00:00",
-      "last_seen_at": "2026-09-10T08:29:02+00:00",
+      "last_seen_at": "2026-09-10T08:45:41+00:00",
       "status": "active"
     },
     {
@@ -5822,7 +5839,7 @@
       "p90_usd": 1096000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T04:34:16+00:00",
-      "last_seen_at": "2026-09-10T08:29:02+00:00",
+      "last_seen_at": "2026-09-10T08:45:41+00:00",
       "status": "active"
     },
     {
@@ -5856,7 +5873,7 @@
       "p90_usd": 1096000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T04:45:36+00:00",
-      "last_seen_at": "2026-09-10T08:29:02+00:00",
+      "last_seen_at": "2026-09-10T08:45:41+00:00",
       "status": "active"
     },
     {
@@ -7458,6 +7475,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_cdb3544f42b3fe6f8f1e",
+      "title": "折りたたみスマホでやりたいことは？ （赤外線通信以外で）",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-10T08:29:02+00:00",
+      "last_seen_at": "2026-09-10T08:29:02+00:00",
+      "status": "dormant"
+    },
+    {
       "event_id": "evt_d0e45564c21a380fea16",
       "title": "DO-GU",
       "event_classes": [
@@ -7694,23 +7728,6 @@
       "first_seen_at": "2026-09-08T01:40:08+00:00",
       "last_seen_at": "2026-09-08T05:58:24+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_cdb3544f42b3fe6f8f1e",
-      "title": "折りたたみスマホでやりたいことは？ （赤外線通信以外で）",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108000.0,
-      "p50_usd": 10800000.0,
-      "p90_usd": 1080000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-10T08:29:02+00:00",
-      "last_seen_at": "2026-09-10T08:29:02+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_0c6710a679cf664f6705",
