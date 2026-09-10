@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-10T03:26:31+00:00_
+_Generiert: 2026-09-10T03:49:27+00:00_
 
 ## Kurzlage
 
-9 neue relevante Treffer. Stärkstes Signal: „The missing layer in AI innovation: Human verification“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
+11 neue relevante Treffer. Stärkstes Signal: „The missing layer in AI innovation: Human verification“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
 
 ## Priorität Hoch
 
@@ -42,6 +42,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Quantinuum, one of the world’s leading quantum computing companies, has already put a number on it: a trillion-dollar market waiting to be unlocked once fault-tolerant quantum computing arrives. That’s not a typo, and it’s not a crypto-style promise built on speculation — it’s an estimate built on real, quantifiable industries: drug discovery, materials science, chemicals, energy and […] The post Quantum’s ChatGPT m…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Microsoft發布Exchange Server系列安全性更新， CVE-2026-62911已有攻擊利用程式碼流通，籲儘速修補** — Score 10, risk — [Quelle](https://www.twcert.org.tw/tw/cp-104-11191-3459a-1.html)
+  - Quelle: TWCERT/CC Security News RSS / `rss`
+  - Zeit: published `2026-09-10T03:20:00+00:00`, fetched `2026-09-10T03:48:55+00:00`
+  - Treffer: Security, TWCERT
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+7.5); TWCERT (+2.0); recent (+1.0)
+  - Kurz: 微軟於2026年8月11日發布Exchange Server安全性更新，共修補7項CVE漏洞。其中，CVE-2026-62911已有攻擊程式，荷蘭國家網路安全中心（NCSC-NL）亦發布相關示警，另依Shadowserver Foundation監測資料，目前仍可觀察部分Exchange Server受到該漏洞影響，使用相關產品之單位應確認版本及更新狀態，並完成安全性更新。 微軟公告 微軟於2026年8月11日發布Exchange Server安全性更新，適用於Exchange Server 2016、2019及訂閱版（SE），共修補以下7項CVE漏洞： CVE編號 漏洞類型 CVSS基本分數 CVE-2026-62910 權限提升 7.2 CVE-2026-62911 權限提升 8.0 CVE-2026-62912 阻斷服務 6.5 CVE-2026-62913 遠端程式碼執行 8.8 CVE-2026-65813 權限提升…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Singapore tops Southeast Asia on Best Workplaces in Asia 2026 list** — Score 9, observation — [Quelle](https://e27.co/singapore-tops-southeast-asia-on-best-workplaces-in-asia-2026-list-20260910/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-10T02:54:29+00:00`, fetched `2026-09-10T02:54:38+00:00`

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T03:26:31+00:00",
-  "run_id": "2026-09-10T03:26:31+00:00",
+  "generated_at": "2026-09-10T03:49:27+00:00",
+  "run_id": "2026-09-10T03:49:27+00:00",
   "date": "2026-09-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 9
+      "configured_public_sources_only": 11
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 9,
-    "displayed_findings": 9,
+    "new_relevant_findings": 2,
+    "today_file_total": 11,
+    "displayed_findings": 11,
     "high": 0,
     "medium": 1,
-    "observe": 8,
+    "observe": 10,
     "source_errors": 0
   },
   "sections": {
@@ -97,6 +97,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "64c60c5cdacffd7fd35e"
+      },
+      {
+        "title": "Microsoft發布Exchange Server系列安全性更新， CVE-2026-62911已有攻擊利用程式碼流通，籲儘速修補",
+        "url": "https://www.twcert.org.tw/tw/cp-104-11191-3459a-1.html",
+        "source": "TWCERT/CC Security News RSS",
+        "source_type": "rss",
+        "published_at": "2026-09-10T03:20:00+00:00",
+        "fetched_at": "2026-09-10T03:48:55+00:00",
+        "summary": "微軟於2026年8月11日發布Exchange Server安全性更新，共修補7項CVE漏洞。其中，CVE-2026-62911已有攻擊程式，荷蘭國家網路安全中心（NCSC-NL）亦發布相關示警，另依Shadowserver Foundation監測資料，目前仍可觀察部分Exchange Server受到該漏洞影響，使用相關產品之單位應確認版本及更新狀態，並完成安全性更新。 微軟公告 微軟於2026年8月11日發布Exchange Server安全性更新，適用於Exchange Server 2016、2019及訂閱版（SE），共修補以下7項CVE漏洞： CVE編號 漏洞類型 CVSS基本分數 CVE-2026-62910 權限提升 7.2 CVE-2026-62911 權限提升 8.0 CVE-2026-62912 阻斷服務 6.5 CVE-2026-62913 遠端程式碼執行 8.8 CVE-2026-65813 權限提升…",
+        "matched_keywords": [
+          "Security",
+          "TWCERT"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "Security (+7.5); TWCERT (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5e6be553871baafdef06"
       },
       {
         "title": "Singapore tops Southeast Asia on Best Workplaces in Asia 2026 list",
@@ -184,6 +205,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "d3b031e595d60e9a8a33"
+      },
+      {
+        "title": "N&E Innovations nets US$1.7M to turn cashew husk waste into fresh produce protection",
+        "url": "https://e27.co/ne-innovations-nets-us1-6m-to-turn-cashew-husk-waste-into-fresh-produce-protection-20260910/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-10T03:34:23+00:00",
+        "fetched_at": "2026-09-10T03:48:55+00:00",
+        "summary": "In Southeast Asia’s heat and humidity, keeping fruit, vegetables and ready-to-eat food fresh is not just a logistics problem but an economic one, too. Produce can lose value at every stage of the chain, from farm to wholesaler to supermarket shelf, while restaurants and households often throw away food long before it should have spoiled. […] The post N&E Innovations nets US$1.7M to turn cashew husk waste into fresh…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Southeast Asia"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d51897008977dd8a7131"
       },
       {
         "title": "増田はなぜ「はてブ」になったか - Nightflight",
@@ -318,6 +360,27 @@
       "id": "64c60c5cdacffd7fd35e"
     },
     {
+      "title": "Microsoft發布Exchange Server系列安全性更新， CVE-2026-62911已有攻擊利用程式碼流通，籲儘速修補",
+      "url": "https://www.twcert.org.tw/tw/cp-104-11191-3459a-1.html",
+      "source": "TWCERT/CC Security News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-10T03:20:00+00:00",
+      "fetched_at": "2026-09-10T03:48:55+00:00",
+      "summary": "微軟於2026年8月11日發布Exchange Server安全性更新，共修補7項CVE漏洞。其中，CVE-2026-62911已有攻擊程式，荷蘭國家網路安全中心（NCSC-NL）亦發布相關示警，另依Shadowserver Foundation監測資料，目前仍可觀察部分Exchange Server受到該漏洞影響，使用相關產品之單位應確認版本及更新狀態，並完成安全性更新。 微軟公告 微軟於2026年8月11日發布Exchange Server安全性更新，適用於Exchange Server 2016、2019及訂閱版（SE），共修補以下7項CVE漏洞： CVE編號 漏洞類型 CVSS基本分數 CVE-2026-62910 權限提升 7.2 CVE-2026-62911 權限提升 8.0 CVE-2026-62912 阻斷服務 6.5 CVE-2026-62913 遠端程式碼執行 8.8 CVE-2026-65813 權限提升…",
+      "matched_keywords": [
+        "Security",
+        "TWCERT"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "Security (+7.5); TWCERT (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5e6be553871baafdef06"
+    },
+    {
       "title": "Singapore tops Southeast Asia on Best Workplaces in Asia 2026 list",
       "url": "https://e27.co/singapore-tops-southeast-asia-on-best-workplaces-in-asia-2026-list-20260910/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -405,6 +468,27 @@
       "id": "d3b031e595d60e9a8a33"
     },
     {
+      "title": "N&E Innovations nets US$1.7M to turn cashew husk waste into fresh produce protection",
+      "url": "https://e27.co/ne-innovations-nets-us1-6m-to-turn-cashew-husk-waste-into-fresh-produce-protection-20260910/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-10T03:34:23+00:00",
+      "fetched_at": "2026-09-10T03:48:55+00:00",
+      "summary": "In Southeast Asia’s heat and humidity, keeping fruit, vegetables and ready-to-eat food fresh is not just a logistics problem but an economic one, too. Produce can lose value at every stage of the chain, from farm to wholesaler to supermarket shelf, while restaurants and households often throw away food long before it should have spoiled. […] The post N&E Innovations nets US$1.7M to turn cashew husk waste into fresh…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d51897008977dd8a7131"
+    },
+    {
       "title": "増田はなぜ「はてブ」になったか - Nightflight",
       "url": "https://plurality.leaflet.pub/3mv4tpdgn7s2p",
       "source": "Hatena Bookmark Hotentry IT",
@@ -469,25 +553,46 @@
   ],
   "new_findings": [
     {
-      "title": "増田はなぜ「はてブ」になったか - Nightflight",
-      "url": "https://plurality.leaflet.pub/3mv4tpdgn7s2p",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Microsoft發布Exchange Server系列安全性更新， CVE-2026-62911已有攻擊利用程式碼流通，籲儘速修補",
+      "url": "https://www.twcert.org.tw/tw/cp-104-11191-3459a-1.html",
+      "source": "TWCERT/CC Security News RSS",
       "source_type": "rss",
-      "published_at": "2026-09-10T01:01:41+00:00",
-      "fetched_at": "2026-09-10T03:25:59+00:00",
-      "summary": "2026年9月、はてなの外にいる人たちが、はてな匿名ダイアリーの記事を「はてブ」と呼んでいることが話題になった。 内側から見れば誤用だ。「はてブ」ははてなブックマークの略で、記事を書く場所ではない。 だがこの誤用は、言語の変化がどこで起きるかを見せている。ちょうど当事者の証言が出そろったので、記録してお...",
+      "published_at": "2026-09-10T03:20:00+00:00",
+      "fetched_at": "2026-09-10T03:48:55+00:00",
+      "summary": "微軟於2026年8月11日發布Exchange Server安全性更新，共修補7項CVE漏洞。其中，CVE-2026-62911已有攻擊程式，荷蘭國家網路安全中心（NCSC-NL）亦發布相關示警，另依Shadowserver Foundation監測資料，目前仍可觀察部分Exchange Server受到該漏洞影響，使用相關產品之單位應確認版本及更新狀態，並完成安全性更新。 微軟公告 微軟於2026年8月11日發布Exchange Server安全性更新，適用於Exchange Server 2016、2019及訂閱版（SE），共修補以下7項CVE漏洞： CVE編號 漏洞類型 CVSS基本分數 CVE-2026-62910 權限提升 7.2 CVE-2026-62911 權限提升 8.0 CVE-2026-62912 阻斷服務 6.5 CVE-2026-62913 遠端程式碼執行 8.8 CVE-2026-65813 權限提升…",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "Security",
+        "TWCERT"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 10,
+      "relevance_reason": "Security (+7.5); TWCERT (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5e6be553871baafdef06"
+    },
+    {
+      "title": "N&E Innovations nets US$1.7M to turn cashew husk waste into fresh produce protection",
+      "url": "https://e27.co/ne-innovations-nets-us1-6m-to-turn-cashew-husk-waste-into-fresh-produce-protection-20260910/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-10T03:34:23+00:00",
+      "fetched_at": "2026-09-10T03:48:55+00:00",
+      "summary": "In Southeast Asia’s heat and humidity, keeping fruit, vegetables and ready-to-eat food fresh is not just a logistics problem but an economic one, too. Produce can lose value at every stage of the chain, from farm to wholesaler to supermarket shelf, while restaurants and households often throw away food long before it should have spoiled. […] The post N&E Innovations nets US$1.7M to turn cashew husk waste into fresh…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "bc6ecb221fa7d27728fc"
+      "id": "d51897008977dd8a7131"
     }
   ],
   "source_errors": [],
