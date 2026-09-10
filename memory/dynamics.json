@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-10T18:15:52Z",
+  "generated_at": "2026-09-10T18:39:44Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 6,
-      "krass": 9,
-      "strong": 23,
+      "krass": 10,
+      "strong": 22,
       "watch": 2
     },
     "bands_after_gate_recheck": {
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0610",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-10T09:11:31+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "security",
         "infra"
@@ -49,7 +49,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0085",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-10T06:56:31+00:00",
-      "age_days": 0.47,
+      "age_days": 0.49,
       "topics": [
         "security"
       ],
@@ -74,7 +74,7 @@
       "url": "https://cert.europa.eu/publications/security-advisories/2026-012/",
       "source": "CERT-EU Security Advisories",
       "published_at": "2026-09-10T10:20:06+00:00",
-      "age_days": 0.33,
+      "age_days": 0.35,
       "topics": [
         "security",
         "infra"
@@ -100,7 +100,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2491",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-10T12:51:07+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -125,7 +125,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1264",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-10T12:48:23+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "security",
         "infra"
@@ -151,7 +151,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11191-3459a-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-09-10T03:49:31+00:00",
-      "age_days": 0.6,
+      "age_days": 0.62,
       "topics": [
         "security",
         "infra"
@@ -177,7 +177,7 @@
       "url": "https://www.heise.de/news/Kritische-Schadcode-Luecken-bedrohen-Ivanti-Neurons-for-ITSM-11448847.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-10T13:15:00.000+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "ai",
         "security"
@@ -203,7 +203,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11191-3459a-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-09-10T03:20:00+00:00",
-      "age_days": 0.62,
+      "age_days": 0.64,
       "topics": [
         "security",
         "infra"
@@ -229,7 +229,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0610",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 13.17,
+      "age_days": 13.19,
       "topics": [
         "security",
         "infra"
@@ -241,12 +241,11 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.19,
+      "baseline_z_hint": 0.0,
       "security_high_signal": true,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 0.19",
         "high terms: kritisch, rce, firewall",
         "security high-signal: kritisch, rce, firewall",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
@@ -258,7 +257,7 @@
       "url": "https://jvn.jp/vu/JVNVU96551518/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-10T15:00:45+09:00",
-      "age_days": 0.51,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -282,7 +281,7 @@
       "url": "https://jvn.jp/vu/JVNVU99009004/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-10T15:00:30+09:00",
-      "age_days": 0.51,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -306,7 +305,7 @@
       "url": "https://jvn.jp/vu/JVNVU90314828/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-10T15:00:15+09:00",
-      "age_days": 0.51,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -330,7 +329,7 @@
       "url": "https://jvn.jp/vu/JVNVU97753461/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-10T15:00:00+09:00",
-      "age_days": 0.51,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -354,7 +353,7 @@
       "url": "https://jvn.jp/jp/JVN37476837/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-10T14:00:00+09:00",
-      "age_days": 0.55,
+      "age_days": 0.57,
       "topics": [
         "security"
       ],
@@ -378,7 +377,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1267",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-10T12:48:24+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -398,11 +397,35 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Hardened Images RPMs ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Rechte zu erweitern, vertrauliche Informationen offenzulegen, Daten zu manipulieren oder einen Denial-of-Service-Zustand zu verursachen."
     },
     {
+      "title": "Control GitHub Actions cache access with cache-mode",
+      "url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
+      "source": "GitHub Changelog Atom",
+      "published_at": "2026-09-10T17:26:59+00:00",
+      "age_days": 0.05,
+      "topics": [],
+      "dynamics_score": 25.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10, privilege",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit"
+      ],
+      "summary": "You can now use cache-mode to apply least-privilege access to the GitHub Actions cache at the workflow or job level. By granting each workflow or job only the cache access… The post Control GitHub Actions cache access with cache-mode appeared first on The GitHub Blog ."
+    },
+    {
       "title": "Tencent/teamai-cli",
       "url": "https://github.com/Tencent/teamai-cli",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-10T06:31:09+00:00",
-      "age_days": 0.49,
+      "age_days": 0.51,
       "topics": [
         "ai",
         "security",
@@ -433,7 +456,7 @@
       "url": "https://e27.co/i-built-a-21-role-ai-workforce-the-hardest-part-was-management-20260909/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T02:01:17+00:00",
-      "age_days": 0.68,
+      "age_days": 0.69,
       "topics": [
         "ai"
       ],
@@ -462,7 +485,7 @@
       "url": "https://restofworld.org/2026/google-earth-ai-deepfake-iran-war/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-09-10T10:00:00+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "ai",
         "macro"
@@ -491,7 +514,7 @@
       "url": "https://e27.co/i-built-a-21-role-ai-workforce-the-hardest-part-was-management-20260909/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T02:00:12+00:00",
-      "age_days": 0.68,
+      "age_days": 0.69,
       "topics": [
         "ai",
         "macro"
@@ -520,7 +543,7 @@
       "url": "https://e27.co/tiktok-deepens-vietnam-commerce-bet-with-us980m-logistics-project-in-ho-chi-minh-city-20260910/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T04:45:36+00:00",
-      "age_days": 0.56,
+      "age_days": 0.58,
       "topics": [
         "general"
       ],
@@ -547,7 +570,7 @@
       "url": "https://e27.co/the-capital-drought-over-7500-sea-startups-extinguished-since-2020-20260910/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T07:44:43+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "macro",
         "disaster"
@@ -576,7 +599,7 @@
       "url": "https://e27.co/the-missing-layer-in-ai-innovation-human-verification-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T01:00:21+00:00",
-      "age_days": 0.72,
+      "age_days": 0.74,
       "topics": [
         "ai",
         "macro"
@@ -600,11 +623,36 @@
       "summary": "Artificial intelligence has dramatically changed the way startups are built. Today, a founder can describe a product idea, open a tool such as Claude or OpenAI, generate hundreds of lines of code, build a prototype and present it as an “AI-powered innovation” within days. What once required a technical team, months of…"
     },
     {
+      "title": "Control GitHub Actions cache access with cache-mode",
+      "url": "https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode",
+      "source": "GitHub Changelog Atom",
+      "published_at": "2026-09-10T18:26:59+00:00",
+      "age_days": 0.01,
+      "topics": [],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": ""
+    },
+    {
       "title": "The capital drought: Over 7,500 SEA startups extinguished since 2020",
       "url": "https://e27.co/the-capital-drought-over-7500-sea-startups-extinguished-since-2020-20260910/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T07:46:00+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "disaster"
       ],
@@ -631,7 +679,7 @@
       "url": "https://github.com/Tencent/teamai-cli",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-07T19:52:47+00:00",
-      "age_days": 2.93,
+      "age_days": 2.95,
       "topics": [
         "ai"
       ],
@@ -658,7 +706,7 @@
       "url": "https://e27.co/the-missing-layer-in-ai-innovation-human-verification-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T01:21:43+00:00",
-      "age_days": 0.7,
+      "age_days": 0.72,
       "topics": [
         "ai"
       ],
@@ -685,7 +733,7 @@
       "url": "https://github.blog/changelog/2026-09-09-npm-extends-recovery-code-security-holds-to-all-accounts",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-09-10T16:47:59+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -712,7 +760,7 @@
       "url": "https://openai.com/index/expanding-ai-access-us-government",
       "source": "OpenAI News RSS",
       "published_at": "2026-09-10T07:00:00+00:00",
-      "age_days": 0.47,
+      "age_days": 0.49,
       "topics": [
         "ai",
         "security",
@@ -741,7 +789,7 @@
       "url": "https://github.blog/changelog/2026-09-09-npm-extends-recovery-code-security-holds-to-all-accounts",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-09-09T21:55:55+00:00",
-      "age_days": 0.85,
+      "age_days": 0.86,
       "topics": [
         "ai",
         "security"
@@ -769,7 +817,7 @@
       "url": "https://cert.europa.eu/publications/security-advisories/2026-012/",
       "source": "CERT-EU Security Advisories",
       "published_at": "2026-09-10T08:29:02+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "general"
       ],
@@ -795,7 +843,7 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-kompromittieren-Cisco-Firewalls-als-Root-11448237.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-10T07:52:00.000+00:00",
-      "age_days": 0.43,
+      "age_days": 0.45,
       "topics": [
         "ai",
         "security",
@@ -822,7 +870,7 @@
       "url": "https://e27.co/tiktok-deepens-vietnam-commerce-bet-with-us980m-logistics-project-in-ho-chi-minh-city-20260910/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T04:43:18+00:00",
-      "age_days": 0.56,
+      "age_days": 0.58,
       "topics": [
         "general"
       ],
@@ -847,7 +895,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11189-68e64-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-09-09T06:23:00+00:00",
-      "age_days": 1.5,
+      "age_days": 1.51,
       "topics": [
         "security"
       ],
@@ -871,7 +919,7 @@
       "url": "https://jvn.jp/vu/JVNVU96551518/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-10T06:31:46+00:00",
-      "age_days": 0.49,
+      "age_days": 0.51,
       "topics": [
         "general"
       ],
@@ -895,7 +943,7 @@
       "url": "https://jvn.jp/vu/JVNVU99009004/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-10T06:31:46+00:00",
-      "age_days": 0.49,
+      "age_days": 0.51,
       "topics": [
         "general"
       ],
@@ -919,7 +967,7 @@
       "url": "https://jvn.jp/vu/JVNVU90314828/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-10T06:31:46+00:00",
-      "age_days": 0.49,
+      "age_days": 0.51,
       "topics": [
         "general"
       ],
@@ -939,67 +987,19 @@
       "summary": ""
     },
     {
-      "title": "コンテック製SolarView Compactにおける複数の脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU97753461/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-09-10T06:31:46+00:00",
-      "age_days": 0.49,
+      "title": "SSL/TLS サーバー証明書の中間 CA 証明書に関するお知らせ ｜お知らせ｜サイバートラスト",
+      "url": "https://www.cybertrust.co.jp/info/2026/0904-tls-announce.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-10T10:23:54+00:00",
+      "age_days": 0.34,
       "topics": [
-        "general"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "SHIRASAGIにおける複数の脆弱性",
-      "url": "https://jvn.jp/jp/JVN37476837/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-09-10T05:21:09+00:00",
-      "age_days": 0.54,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement",
-      "url": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260910~6a45359cfc.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
-      "published_at": "2026-09-10T13:00:00+00:00",
-      "age_days": 0.22,
-      "topics": [
-        "macro"
+        "security"
       ],
       "dynamics_score": 22.0,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 0,
       "baseline_z_hint": 0.0,
@@ -1007,17 +1007,16 @@
       "single_source_ai_capped": false,
       "why": [
         "high terms: 10",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit"
+        "security high-signal: 10"
       ],
-      "summary": "Christine Lagarde, Boris Vujčić: Monetary policy statement"
+      "summary": "情報追記：2026 年 9 月 10 日 初報掲載： 2026 年 9 月 4 日 2026 年 9 月 10 日 新中間 CA によるサービス提供につきまして、続報をお知らせいたします。 当初 2026 年 9 月 14 日までに新中間 CA によるサービス提供を目指して対応を進めておりましたが、ルート認証局から当社へ中間認証局（中間 CA）証明書を発行す..."
     },
     {
       "title": "[MàJ] Vulnérabilité dans Microsoft Outlook (15 février 2024)",
       "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-005/",
       "source": "CERT-FR Alertes",
       "published_at": "2024-02-15T00:00:00+00:00",
-      "age_days": 938.76,
+      "age_days": 938.78,
       "topics": [
         "security"
       ],
@@ -1042,7 +1041,7 @@
       "url": "https://www.heise.de/news/Sicherheitsluecken-36-000-Plex-Media-Server-Instanzen-potenziell-angreifbar-11448584.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-10T08:45:00.000+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "security"
       ],
