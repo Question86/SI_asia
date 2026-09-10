@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-10T18:08:15+00:00_
+_Generiert: 2026-09-10T18:26:55+00:00_
 
 ## Kurzlage
 
-65 neue relevante Treffer. Stärkstes Signal: „The capital drought: Over 7,500 SEA startups extinguished since 2020“ aus e27 Asia Startup and Tech Feed (Score 26, observation).
+67 neue relevante Treffer. Stärkstes Signal: „The capital drought: Over 7,500 SEA startups extinguished since 2020“ aus e27 Asia Startup and Tech Feed (Score 26, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -185,6 +185,15 @@ _Generiert: 2026-09-10T18:08:15+00:00_
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0)
   - Kurz: A startup changes the model behind its AI feature. The new model is faster, cheaper and performs better on public benchmarks. The engineering team runs its tests, deploys the update and waits for the improvement. Instead, support tickets begin to arrive. The assistant is less accurate on short questions. It misunderstands customers who mix languages. […] The post The cheapest way to stop your AI product from regress…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Control GitHub Actions cache access with cache-mode** — Score 12, opportunity — [Quelle](https://github.blog/changelog/2026-09-10-control-github-actions-cache-access-with-cache-mode)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-09-10T17:26:59+00:00`, fetched `2026-09-10T18:26:17+00:00`
+  - Treffer: Actions, GitHub, GitHub Actions
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub Actions (+6.2); GitHub (+2.5); Actions (+2.5); recent (+1.0)
+  - Kurz: You can now use cache-mode to apply least-privilege access to the GitHub Actions cache at the workflow or job level. By granting each workflow or job only the cache access… The post Control GitHub Actions cache access with cache-mode appeared first on The GitHub Blog .
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules** — Score 12, observation — [Quelle](https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-09-10T16:00:00+00:00`, fetched `2026-09-10T16:18:01+00:00`
@@ -302,15 +311,6 @@ _Generiert: 2026-09-10T18:08:15+00:00_
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
   - Kurz: De multiples vulnérabilités ont été découvertes dans les produits VMware. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.5 - 84 km SW of Puerto Madero, Mexico** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgb4)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-10T14:12:37.040+00:00`, fetched `2026-09-10T14:22:35+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-10 13:29:03 UTC 2026-09-10 13:29:03 UTC at epicenter Location 14.098°N 92.882°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Empfehlungen
 
@@ -322,3 +322,7 @@ _Generiert: 2026-09-10T18:08:15+00:00_
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `google_trends_thailand_hot` (rss): 500 Server Error: Internal Server Error for url: https://trends.google.co.th/trending/rss?geo=TH
