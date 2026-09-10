@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T08:54:00+00:00",
-  "run_id": "2026-09-10T08:54:00+00:00",
+  "generated_at": "2026-09-10T09:01:28+00:00",
+  "run_id": "2026-09-10T09:01:28+00:00",
   "date": "2026-09-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 30
+      "configured_public_sources_only": 31
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 30,
-    "displayed_findings": 30,
+    "today_file_total": 31,
+    "displayed_findings": 31,
     "high": 1,
     "medium": 9,
-    "observe": 20,
+    "observe": 21,
     "source_errors": 0
   },
   "sections": {
@@ -430,6 +430,28 @@
           "LOW"
         ],
         "id": "bc8b5b9f4b69ba6e57ba"
+      },
+      {
+        "title": "立即科技｜企業雲端資料庫 - Arbitrary File Read",
+        "url": "https://www.twcert.org.tw/tw/cp-132-11189-68e64-1.html",
+        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+        "source_type": "rss",
+        "published_at": "2026-09-09T06:23:00+00:00",
+        "fetched_at": "2026-09-10T09:00:57+00:00",
+        "summary": "立即科技｜企業雲端資料庫 - Arbitrary File Read",
+        "matched_keywords": [
+          "Security",
+          "TVN",
+          "TWCERT"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "fc5eed8a130285789667"
       },
       {
         "title": "Microsoft發布Exchange Server系列安全性更新， CVE-2026-62911已有攻擊利用程式碼流通，籲儘速修補",
@@ -1246,6 +1268,28 @@
       "id": "bc8b5b9f4b69ba6e57ba"
     },
     {
+      "title": "立即科技｜企業雲端資料庫 - Arbitrary File Read",
+      "url": "https://www.twcert.org.tw/tw/cp-132-11189-68e64-1.html",
+      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-09T06:23:00+00:00",
+      "fetched_at": "2026-09-10T09:00:57+00:00",
+      "summary": "立即科技｜企業雲端資料庫 - Arbitrary File Read",
+      "matched_keywords": [
+        "Security",
+        "TVN",
+        "TWCERT"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fc5eed8a130285789667"
+    },
+    {
       "title": "Microsoft發布Exchange Server系列安全性更新， CVE-2026-62911已有攻擊利用程式碼流通，籲儘速修補",
       "url": "https://www.twcert.org.tw/tw/cp-104-11191-3459a-1.html",
       "source": "TWCERT/CC Security News RSS",
@@ -1660,24 +1704,26 @@
   ],
   "new_findings": [
     {
-      "title": "Sicherheitslücken: 36.000 Plex-Media-Server-Instanzen potenziell angreifbar",
-      "url": "https://www.heise.de/news/Sicherheitsluecken-36-000-Plex-Media-Server-Instanzen-potenziell-angreifbar-11448584.html",
-      "source": "heise Security Alerts",
+      "title": "立即科技｜企業雲端資料庫 - Arbitrary File Read",
+      "url": "https://www.twcert.org.tw/tw/cp-132-11189-68e64-1.html",
+      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "source_type": "rss",
-      "published_at": "2026-09-10T08:45:00.000+00:00",
-      "fetched_at": "2026-09-10T08:53:27+00:00",
-      "summary": "In aktuellen Versionen von Plex Media Server und Plex Desktop wurden mehrere Schwachstellen geschlossen. Weltweit sind zehntausende Instanzen angreifbar.",
+      "published_at": "2026-09-09T06:23:00+00:00",
+      "fetched_at": "2026-09-10T09:00:57+00:00",
+      "summary": "立即科技｜企業雲端資料庫 - Arbitrary File Read",
       "matched_keywords": [
-        "Security"
+        "Security",
+        "TVN",
+        "TWCERT"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_score": 11,
+      "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "412fbbc6dae27bbd0241"
+      "id": "fc5eed8a130285789667"
     }
   ],
   "source_errors": [],

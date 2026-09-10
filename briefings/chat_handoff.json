@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-10T08:54:00+00:00",
+  "generated_at": "2026-09-10T09:01:28+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 30,
-    "displayed_findings": 30,
+    "today_file_total": 31,
+    "displayed_findings": 31,
     "high": 1,
     "medium": 9,
-    "observe": 20
+    "observe": 21
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -95,13 +95,13 @@
       "section": "observe"
     },
     {
-      "title": "Microsoft發布Exchange Server系列安全性更新， CVE-2026-62911已有攻擊利用程式碼流通，籲儘速修補",
-      "source": "TWCERT/CC Security News RSS",
+      "title": "立即科技｜企業雲端資料庫 - Arbitrary File Read",
+      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "source_type": "rss",
-      "published_at": "2026-09-10T03:20:00+00:00",
-      "relevance_score": 10,
-      "url": "https://www.twcert.org.tw/tw/cp-104-11191-3459a-1.html",
-      "summary": "微軟於2026年8月11日發布Exchange Server安全性更新，共修補7項CVE漏洞。其中，CVE-2026-62911已有攻擊程式，荷蘭國家網路安全中心（NCSC-NL）亦發布相關示警，另依Shadowserver Foundation監測資料，目前仍可觀察部分Exchange Server受到該漏洞影響，使用相關產品之單位應確認版本及更新狀態，並完成安全性更新。 微軟公告 微軟於2026年8月11日發布Exchange Server安全性更新，適用於Exchange Server 2016、2019及…",
+      "published_at": "2026-09-09T06:23:00+00:00",
+      "relevance_score": 11,
+      "url": "https://www.twcert.org.tw/tw/cp-132-11189-68e64-1.html",
+      "summary": "立即科技｜企業雲端資料庫 - Arbitrary File Read",
       "section": "observe"
     }
   ],
