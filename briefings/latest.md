@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-10T13:18:53+00:00_
+_Generiert: 2026-09-10T13:28:58+00:00_
 
 ## Kurzlage
 
-43 neue relevante Treffer. Stärkstes Signal: „The capital drought: Over 7,500 SEA startups extinguished since 2020“ aus e27 Asia Startup and Tech Feed (Score 26, observation).
+44 neue relevante Treffer. Stärkstes Signal: „The capital drought: Over 7,500 SEA startups extinguished since 2020“ aus e27 Asia Startup and Tech Feed (Score 26, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -203,6 +203,15 @@ _Generiert: 2026-09-10T13:18:53+00:00_
   - Warum relevant: Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)
   - Kurz: 立即科技｜企業雲端資料庫 - Arbitrary File Read
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Kritische Schadcode-Lücken bedrohen Ivanti Neurons for ITSM** — Score 10, observation — [Quelle](https://www.heise.de/news/Kritische-Schadcode-Luecken-bedrohen-Ivanti-Neurons-for-ITSM-11448847.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-09-10T13:15:00.000+00:00`, fetched `2026-09-10T13:28:28+00:00`
+  - Treffer: Security, Watchgraph:cyber_active_exploitation
+  - Watchgraph: cyber_active_exploitation
+  - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: Security (+6.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)
+  - Kurz: Angreifer können Ivanti Endpoint Manager Mobile, Neurons for ITSM und Sentry attackieren. Sicherheitsupdates sind verfügbar.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Google Earth’s AI experiment lasted 24 hours. The damage to trust will linger** — Score 10, observation — [Quelle](https://restofworld.org/2026/google-earth-ai-deepfake-iran-war/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
   - Quelle: Rest of World Global Tech Feed / `rss`
   - Zeit: published `2026-09-10T10:00:00+00:00`, fetched `2026-09-10T10:20:59+00:00`
@@ -274,15 +283,6 @@ _Generiert: 2026-09-10T13:18:53+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 学園祭での年齢確認にマイナンバーカードを活用しています
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **人生をあきらめたら希死念慮がなくなった** — Score 5, observation — [Quelle](https://anond.hatelabo.jp/20260910154808)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-10T06:55:15+00:00`, fetched `2026-09-10T11:17:40+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 学校ではいじめられ、先生には嫌われ、家ではネグレクトをされてどこにも居場所がない小学生だった 初めての自殺未遂は8歳 以降何度も自殺未遂して意識不明になったこともあるが死にきれず、死ぬことをあきらめて大学以降はひたすらがんばってきた しかしどうしてか、がんばればがんばるほど仕事で「役立たず」「何でそ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

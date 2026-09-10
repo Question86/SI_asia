@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T13:18:53+00:00",
-  "run_id": "2026-09-10T13:18:53+00:00",
+  "generated_at": "2026-09-10T13:28:58+00:00",
+  "run_id": "2026-09-10T13:28:58+00:00",
   "date": "2026-09-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 43
+      "configured_public_sources_only": 44
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 43,
-    "displayed_findings": 43,
+    "new_relevant_findings": 1,
+    "today_file_total": 44,
+    "displayed_findings": 44,
     "high": 1,
     "medium": 13,
-    "observe": 29,
+    "observe": 30,
     "source_errors": 0
   },
   "sections": {
@@ -603,6 +603,39 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "fc5eed8a130285789667"
+      },
+      {
+        "title": "Kritische Schadcode-Lücken bedrohen Ivanti Neurons for ITSM",
+        "url": "https://www.heise.de/news/Kritische-Schadcode-Luecken-bedrohen-Ivanti-Neurons-for-ITSM-11448847.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-09-10T13:15:00.000+00:00",
+        "fetched_at": "2026-09-10T13:28:28+00:00",
+        "summary": "Angreifer können Ivanti Endpoint Manager Mobile, Neurons for ITSM und Sentry attackieren. Sicherheitsupdates sind verfügbar.",
+        "matched_keywords": [
+          "Security",
+          "Watchgraph:cyber_active_exploitation"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "Security (+6.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "cyber_active_exploitation"
+        ],
+        "watchgraph_reasons": [
+          "cyber_active_exploitation: Ivanti"
+        ],
+        "market_context": [
+          "CRWD",
+          "PANW",
+          "FTNT",
+          "ZS",
+          "OKTA",
+          "NET",
+          "S"
+        ],
+        "id": "cd39aa93f741710b5085"
       },
       {
         "title": "Google Earth’s AI experiment lasted 24 hours. The damage to trust will linger",
@@ -1742,6 +1775,39 @@
       "id": "fc5eed8a130285789667"
     },
     {
+      "title": "Kritische Schadcode-Lücken bedrohen Ivanti Neurons for ITSM",
+      "url": "https://www.heise.de/news/Kritische-Schadcode-Luecken-bedrohen-Ivanti-Neurons-for-ITSM-11448847.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-09-10T13:15:00.000+00:00",
+      "fetched_at": "2026-09-10T13:28:28+00:00",
+      "summary": "Angreifer können Ivanti Endpoint Manager Mobile, Neurons for ITSM und Sentry attackieren. Sicherheitsupdates sind verfügbar.",
+      "matched_keywords": [
+        "Security",
+        "Watchgraph:cyber_active_exploitation"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "Security (+6.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
+      "watchgraph_reasons": [
+        "cyber_active_exploitation: Ivanti"
+      ],
+      "market_context": [
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S"
+      ],
+      "id": "cd39aa93f741710b5085"
+    },
+    {
       "title": "Google Earth’s AI experiment lasted 24 hours. The damage to trust will linger",
       "url": "https://restofworld.org/2026/google-earth-ai-deepfake-iran-war/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
@@ -2306,46 +2372,37 @@
   ],
   "new_findings": [
     {
-      "title": "Anatomy of a shakeout: what 7,538 deadpooled startups reveal about Southeast Asia’s new tech reality",
-      "url": "https://e27.co/anatomy-of-a-shakeout-what-7538-deadpooled-startups-reveal-about-southeast-asias-new-tech-reality-20260910/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "Kritische Schadcode-Lücken bedrohen Ivanti Neurons for ITSM",
+      "url": "https://www.heise.de/news/Kritische-Schadcode-Luecken-bedrohen-Ivanti-Neurons-for-ITSM-11448847.html",
+      "source": "heise Security Alerts",
       "source_type": "rss",
-      "published_at": "2026-09-10T13:00:47+00:00",
-      "fetched_at": "2026-09-10T13:18:26+00:00",
-      "summary": "For much of the last decade, Southeast Asia’s startup story was told through funding milestones, rising valuations and the promise of a young, mobile-first population coming online. But beneath the optimism, another dataset was forming: the companies that did not make it. Between January 1, 2020, and July 9, 2026, 7,538 technology startups in Southeast […] The post Anatomy of a shakeout: what 7,538 deadpooled startu…",
+      "published_at": "2026-09-10T13:15:00.000+00:00",
+      "fetched_at": "2026-09-10T13:28:28+00:00",
+      "summary": "Angreifer können Ivanti Endpoint Manager Mobile, Neurons for ITSM und Sentry attackieren. Sicherheitsupdates sind verfügbar.",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "funding",
-        "Southeast Asia"
+        "Security",
+        "Watchgraph:cyber_active_exploitation"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "APAC Trend Radar (+3.8); Southeast Asia (+2.5); funding (+2.0); recent (+1.0); watchgraph region europe: NATO (+2.0)",
+      "relevance_score": 10,
+      "relevance_reason": "Security (+6.0); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "195139ef9f1af01e5951"
-    },
-    {
-      "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement",
-      "url": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260910~6a45359cfc.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
-      "source_type": "rss",
-      "published_at": "2026-09-10T13:00:00+00:00",
-      "fetched_at": "2026-09-10T13:18:26+00:00",
-      "summary": "Christine Lagarde, Boris Vujčić: Monetary policy statement",
-      "matched_keywords": [
-        "Macro/Policy"
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "cb5a8db0be181d4a43c9"
+      "watchgraph_reasons": [
+        "cyber_active_exploitation: Ivanti"
+      ],
+      "market_context": [
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S"
+      ],
+      "id": "cd39aa93f741710b5085"
     }
   ],
   "source_errors": [],
