@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-10T21:38:49+00:00",
+  "generated_at": "2026-09-10T21:46:27+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -53,7 +53,7 @@
       "p90_usd": 1152000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T16:47:59+00:00",
-      "last_seen_at": "2026-09-10T21:38:31+00:00",
+      "last_seen_at": "2026-09-10T21:46:09+00:00",
       "status": "active"
     },
     {
@@ -296,7 +296,7 @@
       "p90_usd": 115200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T06:31:46+00:00",
-      "last_seen_at": "2026-09-10T21:38:31+00:00",
+      "last_seen_at": "2026-09-10T21:46:09+00:00",
       "status": "active"
     },
     {
@@ -330,7 +330,7 @@
       "p90_usd": 113600000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T18:26:59+00:00",
-      "last_seen_at": "2026-09-10T21:38:31+00:00",
+      "last_seen_at": "2026-09-10T21:46:09+00:00",
       "status": "active"
     },
     {
@@ -586,7 +586,7 @@
       "p90_usd": 12400000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T07:46:00+00:00",
-      "last_seen_at": "2026-09-10T21:38:31+00:00",
+      "last_seen_at": "2026-09-10T21:46:09+00:00",
       "status": "active"
     },
     {
@@ -1351,8 +1351,8 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-10T11:18:17+00:00",
-      "last_seen_at": "2026-09-10T21:27:50+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-09-10T21:46:09+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_8c7c3f3ea645209ebeb4",
@@ -2490,7 +2490,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-10T21:38:31+00:00",
+      "last_seen_at": "2026-09-10T21:46:09+00:00",
       "status": "active"
     },
     {
@@ -2558,7 +2558,7 @@
       "p90_usd": 2900000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T16:18:31+00:00",
-      "last_seen_at": "2026-09-10T21:38:31+00:00",
+      "last_seen_at": "2026-09-10T21:46:09+00:00",
       "status": "active"
     },
     {
@@ -2677,7 +2677,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T06:31:46+00:00",
-      "last_seen_at": "2026-09-10T21:38:31+00:00",
+      "last_seen_at": "2026-09-10T21:46:09+00:00",
       "status": "active"
     },
     {
@@ -2745,7 +2745,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T06:31:46+00:00",
-      "last_seen_at": "2026-09-10T21:38:31+00:00",
+      "last_seen_at": "2026-09-10T21:46:09+00:00",
       "status": "active"
     },
     {
@@ -2864,7 +2864,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T05:21:09+00:00",
-      "last_seen_at": "2026-09-10T21:38:31+00:00",
+      "last_seen_at": "2026-09-10T21:46:09+00:00",
       "status": "active"
     },
     {
@@ -2881,7 +2881,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T06:31:46+00:00",
-      "last_seen_at": "2026-09-10T21:38:31+00:00",
+      "last_seen_at": "2026-09-10T21:46:09+00:00",
       "status": "active"
     },
     {
@@ -3119,7 +3119,7 @@
       "p90_usd": 1216000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T01:21:43+00:00",
-      "last_seen_at": "2026-09-10T21:38:31+00:00",
+      "last_seen_at": "2026-09-10T21:46:09+00:00",
       "status": "active"
     },
     {
@@ -3446,6 +3446,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_806a024f4ea3599a5a21",
+      "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 117600.0,
+      "p50_usd": 11760000.0,
+      "p90_usd": 1176000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-10T21:38:31+00:00",
+      "last_seen_at": "2026-09-10T21:46:09+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_944d61924133bc9f7758",
       "title": "The MMM barrier didn’t disappear. It moved",
       "event_classes": [
@@ -3478,23 +3495,6 @@
       "first_seen_at": "2026-08-28T21:39:31+00:00",
       "last_seen_at": "2026-08-28T23:53:26+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_806a024f4ea3599a5a21",
-      "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 117600.0,
-      "p50_usd": 11760000.0,
-      "p90_usd": 1176000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-10T21:38:31+00:00",
-      "last_seen_at": "2026-09-10T21:38:31+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_04dd5841535ba2efa091",
@@ -3595,7 +3595,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-10T21:38:31+00:00",
+      "last_seen_at": "2026-09-10T21:46:09+00:00",
       "status": "active"
     },
     {
@@ -3765,7 +3765,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T08:29:02+00:00",
-      "last_seen_at": "2026-09-10T21:38:31+00:00",
+      "last_seen_at": "2026-09-10T21:46:09+00:00",
       "status": "active"
     },
     {
@@ -3867,7 +3867,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T20:40:13+00:00",
-      "last_seen_at": "2026-09-10T21:38:31+00:00",
+      "last_seen_at": "2026-09-10T21:46:09+00:00",
       "status": "active"
     },
     {
@@ -4105,7 +4105,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T03:04:06+00:00",
-      "last_seen_at": "2026-09-10T21:38:31+00:00",
+      "last_seen_at": "2026-09-10T21:46:09+00:00",
       "status": "active"
     },
     {
@@ -4394,7 +4394,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T02:46:36+00:00",
-      "last_seen_at": "2026-09-10T21:38:31+00:00",
+      "last_seen_at": "2026-09-10T21:46:09+00:00",
       "status": "active"
     },
     {
@@ -4428,7 +4428,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-10T21:38:31+00:00",
+      "last_seen_at": "2026-09-10T21:46:09+00:00",
       "status": "active"
     },
     {
@@ -4666,7 +4666,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-07T19:52:47+00:00",
-      "last_seen_at": "2026-09-10T21:38:31+00:00",
+      "last_seen_at": "2026-09-10T21:46:09+00:00",
       "status": "active"
     },
     {
@@ -7013,7 +7013,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:10:24+00:00",
       "last_seen_at": "2026-09-10T21:38:31+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_39608083ffef119c35bf",
