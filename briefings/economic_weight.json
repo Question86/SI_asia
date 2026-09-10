@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-10T02:01:35+00:00",
+  "generated_at": "2026-09-10T02:30:32+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -2795,7 +2795,7 @@
       "p90_usd": 1216000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T01:21:43+00:00",
-      "last_seen_at": "2026-09-10T02:01:17+00:00",
+      "last_seen_at": "2026-09-10T02:30:16+00:00",
       "status": "active"
     },
     {
@@ -5077,6 +5077,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_b4c0a858bb3bc4aed886",
+      "title": "I built a 21-role AI workforce. The hardest part was management",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 111200.0,
+      "p50_usd": 11120000.0,
+      "p90_usd": 1112000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-10T02:01:17+00:00",
+      "last_seen_at": "2026-09-10T02:30:16+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_fd38962374a66d0fbcfa",
       "title": "Remediate Code Quality findings with agentic autofix",
       "event_classes": [
@@ -5092,23 +5109,6 @@
       "first_seen_at": "2026-09-09T14:19:12+00:00",
       "last_seen_at": "2026-09-09T14:19:12+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_b4c0a858bb3bc4aed886",
-      "title": "I built a 21-role AI workforce. The hardest part was management",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 111200.0,
-      "p50_usd": 11120000.0,
-      "p90_usd": 1112000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-10T02:01:17+00:00",
-      "last_seen_at": "2026-09-10T02:01:17+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_175e1a5f7356589f9695",
@@ -5600,7 +5600,7 @@
       "p90_usd": 1096000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T01:38:15+00:00",
-      "last_seen_at": "2026-09-10T02:01:17+00:00",
+      "last_seen_at": "2026-09-10T02:30:16+00:00",
       "status": "active"
     },
     {
@@ -7524,6 +7524,23 @@
       "first_seen_at": "2026-09-08T03:12:00+00:00",
       "last_seen_at": "2026-09-08T05:51:06+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_0c6710a679cf664f6705",
+      "title": "GitHub availability report: August 2026",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "infrastructure"
+      ],
+      "p10_usd": 107200.0,
+      "p50_usd": 10720000.0,
+      "p90_usd": 1072000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-10T02:30:16+00:00",
+      "last_seen_at": "2026-09-10T02:30:16+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_369ed4c57635e2a534e3",
