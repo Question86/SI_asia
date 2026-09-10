@@ -40,5 +40,114 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “The missing layer in AI innovation: Human verification” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=35.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "The missing layer in AI innovation: Human verification",
+        "url": "https://e27.co/the-missing-layer-in-ai-innovation-human-verification-20260908/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-10T01:00:21+00:00",
+        "age_days": 0.04,
+        "topics": [
+          "axiom",
+          "ai",
+          "macro"
+        ],
+        "dynamics_score": 35.0,
+        "raw_band": "extreme",
+        "dynamic_band": "extreme",
+        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: code",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "Artificial intelligence has dramatically changed the way startups are built. Today, a founder can describe a product idea, open a tool such as Claude or OpenAI, generate hundreds of lines of code, build a prototype and present it as an “AI-powered innovation” within days. What once required a technical team, months of…"
+      },
+      {
+        "title": "The missing layer in AI innovation: Human verification",
+        "url": "https://e27.co/the-missing-layer-in-ai-innovation-human-verification-20260908/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-10T01:21:43+00:00",
+        "age_days": 0.02,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 26.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+        "source_count": 1,
+        "momentum_delta": 2,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": true,
+        "why": [
+          "momentum delta +2",
+          "single-source AI hype brake -8.0"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "Future-proofing the past: How smart engineering keeps Singapore’s aging condos in the EV race",
+        "url": "https://e27.co/future-proofing-the-past-how-smart-engineering-keeps-singapores-aging-condos-in-the-ev-race-20260909/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-10T01:38:15+00:00",
+        "age_days": 0.01,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 11.0,
+        "raw_band": "quiet",
+        "dynamic_band": "quiet",
+        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 1,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +1"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "Future-proofing the past: How smart engineering keeps Singapore’s aging condos in the EV race",
+        "url": "https://e27.co/future-proofing-the-past-how-smart-engineering-keeps-singapores-aging-condos-in-the-ev-race-20260909/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-10T01:30:47+00:00",
+        "age_days": 0.02,
+        "topics": [
+          "macro"
+        ],
+        "dynamics_score": 7.0,
+        "raw_band": "quiet",
+        "dynamic_band": "quiet",
+        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "no strong comparative reason"
+        ],
+        "summary": "Singapore’s transition to electric mobility is accelerating rapidly. EVs accounted for about one-third of new car registrations in 2024, and by the first eight months of 2025, around half of newly registered cars and taxis were electric. But while brand-new residential developments come pre-wired with high-capacity ch…"
+      }
+    ]
+  }
 }
