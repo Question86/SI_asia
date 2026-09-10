@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-09-10T19:45:10+00:00",
+  "generated_at": "2026-09-10T19:52:29+00:00",
   "sections": {
     "global_security": [
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-86060 MikroTik RouterOS",
+        "summary": "Known exploited vulnerability. Added 2026-09-10. Due 2026-09-13. MikroTik RouterOS Improper Neutralization of Argument Delimiters in a Command Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-09-10",
+        "metrics": {
+          "cve": "CVE-2026-86060"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-67277 MikroTik RouterOS",
+        "summary": "Known exploited vulnerability. Added 2026-09-10. Due 2026-09-13. MikroTik RouterOS Missing Authentication for Critical Function Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-09-10",
+        "metrics": {
+          "cve": "CVE-2026-67277"
+        }
+      },
       {
         "domain": "security",
         "severity": "high",
@@ -36,30 +60,6 @@
         "published_at": "2026-09-09",
         "metrics": {
           "cve": "CVE-2026-87491"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-20079 Cisco Secure Firewall Management Center (FMC) and Security Cloud Control (SCC) Firewall Management",
-        "summary": "Known exploited vulnerability. Added 2026-09-09. Due 2026-09-12. Cisco Firewall Management Center Authentication Bypass Using an Alternate Path or Channel Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-09-09",
-        "metrics": {
-          "cve": "CVE-2026-20079"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-75650 Adobe Commerce and Magento",
-        "summary": "Known exploited vulnerability. Added 2026-09-08. Due 2026-09-11. Adobe Commerce and Magento Improper Neutralization of Special Elements Used in a Template Engine Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-09-08",
-        "metrics": {
-          "cve": "CVE-2026-75650"
         }
       },
       {
