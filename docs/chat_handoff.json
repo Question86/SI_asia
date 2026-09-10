@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-10T02:55:06+00:00",
+  "generated_at": "2026-09-10T03:04:01+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 7,
-    "displayed_findings": 7,
+    "today_file_total": 8,
+    "displayed_findings": 8,
     "high": 0,
     "medium": 1,
-    "observe": 6
+    "observe": 7
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -23,6 +23,16 @@
       "url": "https://e27.co/the-missing-layer-in-ai-innovation-human-verification-20260908/",
       "summary": "Artificial intelligence has dramatically changed the way startups are built. Today, a founder can describe a product idea, open a tool such as Claude or OpenAI, generate hundreds of lines of code, build a prototype and present it as an “AI-powered innovation”…",
       "section": "medium"
+    },
+    {
+      "title": "The cheapest way to stop your AI product from regressing",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-10T03:00:37+00:00",
+      "relevance_score": 13,
+      "url": "https://e27.co/the-cheapest-way-to-stop-your-ai-product-from-regressing-20260909/",
+      "summary": "A startup changes the model behind its AI feature. The new model is faster, cheaper and performs better on public benchmarks. The engineering team runs its tests, deploys the update and waits for the improvement. Instead, support tickets begin to arrive. The…",
+      "section": "observe"
     },
     {
       "title": "Quantum’s ChatGPT moment is coming — and it’s worth trillions",
@@ -52,16 +62,6 @@
       "relevance_score": 9,
       "url": "https://e27.co/i-built-a-21-role-ai-workforce-the-hardest-part-was-management-20260909/",
       "summary": "The conversation around AI agents has moved quickly from demos to organisational design. Microsoft’s 2025 Work Trend Index for Singapore reported that 56 per cent of Singapore leaders were already using agents to fully automate workstreams or business process…",
-      "section": "observe"
-    },
-    {
-      "title": "Future-proofing the past: How smart engineering keeps Singapore’s aging condos in the EV race",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-10T01:30:47+00:00",
-      "relevance_score": 7,
-      "url": "https://e27.co/future-proofing-the-past-how-smart-engineering-keeps-singapores-aging-condos-in-the-ev-race-20260909/",
-      "summary": "Singapore’s transition to electric mobility is accelerating rapidly. EVs accounted for about one-third of new car registrations in 2024, and by the first eight months of 2025, around half of newly registered cars and taxis were electric. But while brand-new r…",
       "section": "observe"
     }
   ],
