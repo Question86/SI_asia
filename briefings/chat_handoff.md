@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-10T09:01:28+00:00_
+_Generated: 2026-09-10T09:23:46+00:00_
 
 ## Status
 - status: `normal`
-- findings: `31`
+- findings: `32`
 
 ## Top Signals
 
@@ -29,19 +29,19 @@ _Generated: 2026-09-10T09:01:28+00:00_
 - url: https://e27.co/the-missing-layer-in-ai-innovation-human-verification-20260908/
 - summary: Artificial intelligence has dramatically changed the way startups are built. Today, a founder can describe a product idea, open a tool such as Claude or OpenAI, generate hundreds of lines of code, build a prototype and present it as an “AI-powered innovation”…
 
-### 4. [UPDATE] [hoch] Fortinet FortiOS: Schwachstelle ermöglicht Codeausführung
+### 4. [UPDATE] [kritisch] Cisco Secure Firewall Management Center: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-09-10T09:11:31+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0610
+- summary: Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Cisco Secure Firewall Management Center und Cisco Secure Firewall Threat Defense ausnutzen, um Root-Rechte zu erlangen, beliebigen Code mit Root-Rechten auszuführen, SQL-Injection durchz…
+
+### 5. [UPDATE] [hoch] Fortinet FortiOS: Schwachstelle ermöglicht Codeausführung
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-09-10T06:56:31+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0085
 - summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Fortinet FortiOS ausnutzen, um beliebigen Programmcode auszuführen.
-
-### 5. 2026-012: Critical Vulnerabilities in Check Point Products
-- source: CERT-EU Security Advisories
-- score: `15`
-- published: `2026-09-10T10:20:06+00:00`
-- url: https://cert.europa.eu/publications/security-advisories/2026-012/
-- summary: On 9 September 2026, Check Point released emergency security updates addressing two critical vulnerabilities affecting Check Point Security Gateway, Security Management Server, and Spark Firewall deployments configured to use Remote Access VPN or Site-to-Site…
 
 ### 6. The cheapest way to stop your AI product from regressing
 - source: e27 Asia Startup and Tech Feed

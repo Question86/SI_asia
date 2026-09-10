@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T09:01:32+00:00",
-  "today_file_total": 31,
+  "generated_at": "2026-09-10T09:23:49+00:00",
+  "today_file_total": 32,
   "current_clusters": [
     {
       "key": "title:capital-drought-over-500-sea-startups-extinguished-since",
@@ -79,7 +79,7 @@
     },
     {
       "key": "domain:wid.cert-bund.de",
-      "title": "[UPDATE] [hoch] Fortinet FortiOS: Schwachstelle ermöglicht Codeausführung",
+      "title": "[UPDATE] [kritisch] Cisco Secure Firewall Management Center: Mehrere Schwachstellen",
       "sources": [
         "BSI CERT-Bund Security Advisories"
       ],
@@ -87,15 +87,16 @@
         "tier3_specialist"
       ],
       "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0610",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0085"
       ],
-      "finding_count": 1,
+      "finding_count": 2,
       "max_score": 16,
-      "credibility_total": 1.05,
+      "credibility_total": 2.1,
       "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 18.1,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 23.2,
       "hot": false,
       "watchgraph_modules": [
         "cyber_active_exploitation"
@@ -241,29 +242,6 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "domain:www.twcert.org",
-      "title": "立即科技｜企業雲端資料庫 - Arbitrary File Read",
-      "sources": [
-        "TWCERT/CC TVN Vulnerability Notes RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.twcert.org.tw/tw/cp-132-11189-68e64-1.html"
-      ],
-      "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 16.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
       "key": "title:cheapest-way-stop-your-product-regressing",
       "title": "The cheapest way to stop your AI product from regressing",
       "sources": [
@@ -332,6 +310,29 @@
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "domain:www.twcert.org",
+      "title": "立即科技｜企業雲端資料庫 - Arbitrary File Read",
+      "sources": [
+        "TWCERT/CC TVN Vulnerability Notes RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.twcert.org.tw/tw/cp-132-11189-68e64-1.html"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 13.1,
+      "hot": false,
+      "watchgraph_modules": [],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {

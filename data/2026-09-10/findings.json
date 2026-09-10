@@ -150,6 +150,30 @@
     "id": "ca21b30286cdb97f55fb"
   },
   {
+    "title": "[UPDATE] [kritisch] Cisco Secure Firewall Management Center: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0610",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-10T09:11:31+00:00",
+    "fetched_at": "2026-09-10T09:23:09+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Cisco Secure Firewall Management Center und Cisco Secure Firewall Threat Defense ausnutzen, um Root-Rechte zu erlangen, beliebigen Code mit Root-Rechten auszuführen, SQL-Injection durchzuführen und vertrauliche Daten offenzulegen sowie Daten zu manipulieren.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Firewall",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Firewall (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f398881f4574779cd4e0"
+  },
+  {
     "title": "[UPDATE] [hoch] Fortinet FortiOS: Schwachstelle ermöglicht Codeausführung",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0085",
     "source": "BSI CERT-Bund Security Advisories",

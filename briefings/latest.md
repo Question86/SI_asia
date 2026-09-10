@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-10T09:01:28+00:00_
+_Generiert: 2026-09-10T09:23:46+00:00_
 
 ## Kurzlage
 
-31 neue relevante Treffer. Stärkstes Signal: „The capital drought: Over 7,500 SEA startups extinguished since 2020“ aus e27 Asia Startup and Tech Feed (Score 26, observation).
+32 neue relevante Treffer. Stärkstes Signal: „The capital drought: Over 7,500 SEA startups extinguished since 2020“ aus e27 Asia Startup and Tech Feed (Score 26, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -83,6 +83,15 @@ _Generiert: 2026-09-10T09:01:28+00:00_
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); APAC Trend Radar (+3.0); Produktidee (+6.0); founder (+2.0); recent (+1.0)
   - Kurz: Artificial intelligence has dramatically changed the way startups are built. Today, a founder can describe a product idea, open a tool such as Claude or OpenAI, generate hundreds of lines of code, build a prototype and present it as an “AI-powered innovation” within days. What once required a technical team, months of development and significant […] The post The missing layer in AI innovation: Human verification app…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **[UPDATE] [kritisch] Cisco Secure Firewall Management Center: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0610)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-09-10T09:11:31+00:00`, fetched `2026-09-10T09:23:09+00:00`
+  - Treffer: BSI, CERT-Bund, Firewall, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Firewall (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Cisco Secure Firewall Management Center und Cisco Secure Firewall Threat Defense ausnutzen, um Root-Rechte zu erlangen, beliebigen Code mit Root-Rechten auszuführen, SQL-Injection durchzuführen und vertrauliche Daten offenzulegen sowie Daten zu manipulieren.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [hoch] Fortinet FortiOS: Schwachstelle ermöglicht Codeausführung** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0085)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-09-10T06:56:31+00:00`, fetched `2026-09-10T07:01:16+00:00`
