@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-09-10T15:57:57+00:00`
+Generated: `2026-09-10T16:18:47+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -12,6 +12,7 @@ Generated: `2026-09-10T15:57:57+00:00`
 | Schools and universities face rising ransomware costs as attackers target identities | exploit, conflict | $113.60M | $11.36B | $1.14T | 0.31 |
 | Netanyahu got an explicit warning before Oct. 7. He didn't brief security chiefs | conflict | $113.60M | $11.36B | $1.14T | 0.31 |
 | Multiple trusted publishing configurations for npm | conflict | $112.80M | $11.28B | $1.13T | 0.31 |
+| Multiples vulnérabilités dans les produits VMware (07 septembre 2026) | conflict | $112.00M | $11.20B | $1.12T | 0.31 |
 | Forward Deployed Learner: Enabling 22-year-olds to build domain expertise and judgement in the post AI world | conflict | $110.40M | $11.04B | $1.10T | 0.31 |
 | Version 1.0: Deutsche Institutionen über TerminalFix-Kampagne kompromittiert | conflict | $109.60M | $10.96B | $1.10T | 0.31 |
 | CodeQL 2.26.4 improves GitHub actions security detections | regulation | $12.40M | $1.24B | $124.00B | 0.31 |
@@ -30,7 +31,6 @@ Generated: `2026-09-10T15:57:57+00:00`
 | 今後のデジタル人材育成政策に関する検討会（第1回）の議事次第および資料を掲載しました | regulation | $11.04M | $1.10B | $110.40B | 0.31 |
 | Multiples vulnérabilités dans JFrog Artifactory (01 septembre 2026) | regulation | $11.04M | $1.10B | $110.40B | 0.31 |
 | 「今後のデジタル人材育成政策に関する検討会」開催について掲載しました | regulation | $11.04M | $1.10B | $110.40B | 0.31 |
-| The factories are coming. Southeast Asia’s real race is to build what surrounds them | regulation | $11.04M | $1.10B | $110.40B | 0.31 |
 
 ## Interpretation
 
