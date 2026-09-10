@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-10T05:58:05+00:00",
+  "generated_at": "2026-09-10T06:32:04+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -246,6 +246,24 @@
       "first_seen_at": "2026-09-09T02:30:04+00:00",
       "last_seen_at": "2026-09-09T23:54:37+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_e1c63a0688150c751892",
+      "title": "コンテック製SolarView Compactにおける複数の脆弱性",
+      "event_classes": [
+        "vulnerability",
+        "regulation"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 11520000.0,
+      "p50_usd": 1152000000.0,
+      "p90_usd": 115200000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-10T06:31:46+00:00",
+      "last_seen_at": "2026-09-10T06:31:46+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_6560353f24c6e4702ceb",
@@ -2591,7 +2609,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T05:21:09+00:00",
-      "last_seen_at": "2026-09-10T05:57:48+00:00",
+      "last_seen_at": "2026-09-10T06:31:46+00:00",
       "status": "active"
     },
     {
@@ -2610,6 +2628,57 @@
       "first_seen_at": "2026-09-04T01:50:38+00:00",
       "last_seen_at": "2026-09-04T23:57:22+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_61ce7232a07eaebc2ebd",
+      "title": "コンテック製CONPROSYSシリーズにおける複数の脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-10T06:31:46+00:00",
+      "last_seen_at": "2026-09-10T06:31:46+00:00",
+      "status": "active"
+    },
+    {
+      "event_id": "evt_98617587cf72a4eb8087",
+      "title": "コンテック製無線LAN FLEXLANシリーズにおける複数の脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-10T06:31:46+00:00",
+      "last_seen_at": "2026-09-10T06:31:46+00:00",
+      "status": "active"
+    },
+    {
+      "event_id": "evt_dc55b44688df40e1b152",
+      "title": "コンテック製PC-HELPERシリーズにおける複数の脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-10T06:31:46+00:00",
+      "last_seen_at": "2026-09-10T06:31:46+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_2f5c3cffbb9951edd868",
@@ -2710,7 +2779,7 @@
       "p90_usd": 2800000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T03:49:31+00:00",
-      "last_seen_at": "2026-09-10T05:57:48+00:00",
+      "last_seen_at": "2026-09-10T06:31:46+00:00",
       "status": "active"
     },
     {
@@ -2829,7 +2898,7 @@
       "p90_usd": 1216000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T01:21:43+00:00",
-      "last_seen_at": "2026-09-10T05:57:48+00:00",
+      "last_seen_at": "2026-09-10T06:31:46+00:00",
       "status": "active"
     },
     {
@@ -3764,7 +3833,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T03:04:06+00:00",
-      "last_seen_at": "2026-09-10T05:57:48+00:00",
+      "last_seen_at": "2026-09-10T06:31:46+00:00",
       "status": "active"
     },
     {
@@ -4053,7 +4122,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T02:46:36+00:00",
-      "last_seen_at": "2026-09-10T05:57:48+00:00",
+      "last_seen_at": "2026-09-10T06:31:46+00:00",
       "status": "active"
     },
     {
@@ -4325,8 +4394,8 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-07T19:52:47+00:00",
-      "last_seen_at": "2026-09-07T23:53:08+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-09-10T06:31:46+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_4dbe22b3468391e4bc49",
@@ -5124,7 +5193,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T02:55:09+00:00",
-      "last_seen_at": "2026-09-10T05:57:48+00:00",
+      "last_seen_at": "2026-09-10T06:31:46+00:00",
       "status": "active"
     },
     {
@@ -5175,7 +5244,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T02:01:17+00:00",
-      "last_seen_at": "2026-09-10T05:57:48+00:00",
+      "last_seen_at": "2026-09-10T06:31:46+00:00",
       "status": "active"
     },
     {
@@ -5685,7 +5754,7 @@
       "p90_usd": 1096000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T01:38:15+00:00",
-      "last_seen_at": "2026-09-10T05:57:48+00:00",
+      "last_seen_at": "2026-09-10T06:31:46+00:00",
       "status": "active"
     },
     {
@@ -5702,7 +5771,7 @@
       "p90_usd": 1096000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T04:34:16+00:00",
-      "last_seen_at": "2026-09-10T05:57:48+00:00",
+      "last_seen_at": "2026-09-10T06:31:46+00:00",
       "status": "active"
     },
     {
@@ -5736,7 +5805,7 @@
       "p90_usd": 1096000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T04:45:36+00:00",
-      "last_seen_at": "2026-09-10T05:57:48+00:00",
+      "last_seen_at": "2026-09-10T06:31:46+00:00",
       "status": "active"
     },
     {
@@ -5872,7 +5941,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T03:49:31+00:00",
-      "last_seen_at": "2026-09-10T05:57:48+00:00",
+      "last_seen_at": "2026-09-10T06:31:46+00:00",
       "status": "active"
     },
     {
@@ -6352,6 +6421,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_7cac07f65440c76a6641",
+      "title": "学園祭での年齢確認にマイナンバーカードを活用しています",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108800.0,
+      "p50_usd": 10880000.0,
+      "p90_usd": 1088000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-10T06:31:46+00:00",
+      "last_seen_at": "2026-09-10T06:31:46+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_02008879feb3a26196bb",
       "title": ".gitignore everything by default",
       "event_classes": [
@@ -6586,7 +6672,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T03:26:35+00:00",
-      "last_seen_at": "2026-09-10T05:57:48+00:00",
+      "last_seen_at": "2026-09-10T06:31:46+00:00",
       "status": "active"
     },
     {
@@ -6705,7 +6791,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T02:46:36+00:00",
-      "last_seen_at": "2026-09-10T05:57:48+00:00",
+      "last_seen_at": "2026-09-10T06:31:46+00:00",
       "status": "active"
     },
     {
@@ -7113,7 +7199,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T04:45:36+00:00",
-      "last_seen_at": "2026-09-10T05:57:48+00:00",
+      "last_seen_at": "2026-09-10T06:31:46+00:00",
       "status": "active"
     },
     {
@@ -7573,7 +7659,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T02:30:16+00:00",
       "last_seen_at": "2026-09-10T05:57:48+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_447fad9f2f74f059f7eb",
