@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-10T16:19:04+00:00",
+  "generated_at": "2026-09-10T16:31:05+00:00",
   "events": [
     {
       "event_id": "evt_02008879feb3a26196bb",
@@ -3569,13 +3569,13 @@
     {
       "event_id": "evt_ae1c2a05cd8a2967d47c",
       "title": "Multiples vulnérabilités dans les produits VMware (07 septembre 2026)",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_afb1070a2882202d2354",
@@ -3745,12 +3745,12 @@
     {
       "event_id": "evt_b62c535c76c48b8bb112",
       "title": "[MàJ] Vulnérabilité dans Microsoft Outlook (15 février 2024)",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -4983,7 +4983,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_f1d3a45d338a9b45247c",
