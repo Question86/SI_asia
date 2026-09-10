@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T17:21:07+00:00",
-  "run_id": "2026-09-10T17:21:07+00:00",
+  "generated_at": "2026-09-10T17:29:26+00:00",
+  "run_id": "2026-09-10T17:29:26+00:00",
   "date": "2026-09-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 64,
     "displayed_findings": 64,
     "high": 1,
@@ -3390,49 +3390,7 @@
       "id": "ebddba3201235a2811cc"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-09-10T00:00:00+00:00",
-      "fetched_at": "2026-09-10T17:20:33+00:00",
-      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
-      "matched_keywords": [
-        "OpenAI"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8e25e6ea4d14e5a1d4e7"
-    },
-    {
-      "title": "MAI-Code-1-Flash deprecated",
-      "url": "https://github.blog/changelog/2026-09-10-mai-code-1-flash-deprecated",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-09-10T16:54:01+00:00",
-      "fetched_at": "2026-09-10T17:20:33+00:00",
-      "summary": "We have deprecated MAI-Code-1-Flash across all GitHub Copilot experiences (including Copilot Chat, inline edits, ask and agent modes, and code completions) today, September 10, 2026. Model Deprecation date Suggested alternative… The post MAI-Code-1-Flash deprecated appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "Copilot",
-        "GitHub"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "GitHub (+2.0); Copilot (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "31a44258a24e5b3e4e36"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
