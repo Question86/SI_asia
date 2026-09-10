@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-10T10:58:08+00:00_
+_Generiert: 2026-09-10T11:18:13+00:00_
 
 ## Kurzlage
 
-33 neue relevante Treffer. Stärkstes Signal: „The capital drought: Over 7,500 SEA startups extinguished since 2020“ aus e27 Asia Startup and Tech Feed (Score 26, observation).
+35 neue relevante Treffer. Stärkstes Signal: „The capital drought: Over 7,500 SEA startups extinguished since 2020“ aus e27 Asia Startup and Tech Feed (Score 26, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -158,6 +158,15 @@ _Generiert: 2026-09-10T10:58:08+00:00_
   - Warum relevant: OpenAI (+7.5); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: Quantinuum, one of the world’s leading quantum computing companies, has already put a number on it: a trillion-dollar market waiting to be unlocked once fault-tolerant quantum computing arrives. That’s not a typo, and it’s not a crypto-style promise built on speculation — it’s an estimate built on real, quantifiable industries: drug discovery, materials science, chemicals, energy and […] The post Quantum’s ChatGPT m…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.7 - 116 km WSW of Alianza Cristiana, Peru** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg9q)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-10T11:11:48.486+00:00`, fetched `2026-09-10T11:17:40+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: DYFI? - II Time 2026-09-10 10:39:36 UTC 2026-09-10 10:39:36 UTC at epicenter Location 3.967°S 77.364°W Depth 22.07 km (13.71 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.3 - 126 km WSW of Alianza Cristiana, Peru** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg8v)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-10T06:58:40.040+00:00`, fetched `2026-09-10T07:01:16+00:00`
@@ -239,6 +248,15 @@ _Generiert: 2026-09-10T10:58:08+00:00_
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 学園祭での年齢確認にマイナンバーカードを活用しています
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **人生をあきらめたら希死念慮がなくなった** — Score 5, observation — [Quelle](https://anond.hatelabo.jp/20260910154808)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-10T06:55:15+00:00`, fetched `2026-09-10T11:17:40+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 学校ではいじめられ、先生には嫌われ、家ではネグレクトをされてどこにも居場所がない小学生だった 初めての自殺未遂は8歳 以降何度も自殺未遂して意識不明になったこともあるが死にきれず、死ぬことをあきらめて大学以降はひたすらがんばってきた しかしどうしてか、がんばればがんばるほど仕事で「役立たず」「何でそ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **折りたたみスマホでやりたいことは？ （赤外線通信以外で）** — Score 5, observation — [Quelle](https://anond.hatelabo.jp/20260910114530)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-10T02:46:36+00:00`, fetched `2026-09-10T08:28:27+00:00`
@@ -256,24 +274,6 @@ _Generiert: 2026-09-10T10:58:08+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 当社は、2026年8月17日に公表した「当社レンタルサーバーサービスの一部環境に対する不正なアクセスについて」および2026年8月19日に公表した「当社システムへの不正アクセスに関するお知らせ（第二報）」に関し、外部のサイバーセキュリティ専門機関と連携し、侵入経路や影響範囲および原因の調査を継続してまいりまし...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **増田はなぜ「はてブ」になったか - Nightflight** — Score 5, observation — [Quelle](https://plurality.leaflet.pub/3mv4tpdgn7s2p)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-10T01:01:41+00:00`, fetched `2026-09-10T03:25:59+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 2026年9月、はてなの外にいる人たちが、はてな匿名ダイアリーの記事を「はてブ」と呼んでいることが話題になった。 内側から見れば誤用だ。「はてブ」ははてなブックマークの略で、記事を書く場所ではない。 だがこの誤用は、言語の変化がどこで起きるかを見せている。ちょうど当事者の証言が出そろったので、記録してお...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **GitHub availability report: August 2026** — Score 4, observation — [Quelle](https://github.blog/news-insights/company-news/github-availability-report-august-2026/)
-  - Quelle: GitHub Blog Atom / `rss`
-  - Zeit: published `2026-09-10T02:05:17+00:00`, fetched `2026-09-10T02:29:43+00:00`
-  - Treffer: GitHub
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub (+2.5); recent (+1.0)
-  - Kurz: In August, we experienced five incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: August 2026 appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
