@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-10T14:33:06+00:00_
+_Generated: 2026-09-10T14:43:57+00:00_
 
 ## Status
 - status: `normal`
-- findings: `48`
+- findings: `49`
 
 ## Top Signals
 
@@ -64,11 +64,11 @@ _Generated: 2026-09-10T14:33:06+00:00_
 - url: https://e27.co/anatomy-of-a-shakeout-what-7538-deadpooled-startups-reveal-about-southeast-asias-new-tech-reality-20260910/
 - summary: For much of the last decade, Southeast Asia’s startup story was told through funding milestones, rising valuations and the promise of a young, mobile-first population coming online. But beneath the optimism, another dataset was forming: the companies that did…
 
-### 9. M 4.7 - 116 km WSW of Alianza Cristiana, Peru
-- source: USGS M4.5+ Earthquakes Past Hour
+### 9. 「あなたのブックマーカー図鑑」公開
+- source: Hatena Bookmark Hotentry IT
 - score: `11`
-- published: `2026-09-10T11:11:48.486+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg9q
-- summary: DYFI? - II Time 2026-09-10 10:39:36 UTC 2026-09-10 10:39:36 UTC at epicenter Location 3.967°S 77.364°W Depth 22.07 km (13.71 mi)
+- published: `2026-09-10T12:53:24+00:00`
+- url: https://anond.hatelabo.jp/20260910215309
+- summary: ブックマーカー図鑑 「あなたのブックマーカー図鑑」を公開 https://bookmarker-encyclopedia.netlify.app/api-data/ ChatGPT用にまとめられたブックマーカー図鑑のデータセット これをChatGPTにアップロードすればブックマーカー図鑑に収録されたデータを使って自由に質問できます このブックマーカーってどんな人？ よ...
 
 END OF DOCUMENT

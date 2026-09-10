@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-10T14:33:06+00:00_
+_Generiert: 2026-09-10T14:43:57+00:00_
 
 ## Kurzlage
 
-48 neue relevante Treffer. Stärkstes Signal: „The capital drought: Over 7,500 SEA startups extinguished since 2020“ aus e27 Asia Startup and Tech Feed (Score 26, observation).
+49 neue relevante Treffer. Stärkstes Signal: „The capital drought: Over 7,500 SEA startups extinguished since 2020“ aus e27 Asia Startup and Tech Feed (Score 26, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -176,6 +176,15 @@ _Generiert: 2026-09-10T14:33:06+00:00_
   - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.5); funding (+2.0); recent (+1.0); watchgraph region europe: NATO (+2.0)
   - Kurz: For much of the last decade, Southeast Asia’s startup story was told through funding milestones, rising valuations and the promise of a young, mobile-first population coming online. But beneath the optimism, another dataset was forming: the companies that did not make it. Between January 1, 2020, and July 9, 2026, 7,538 technology startups in Southeast […] The post Anatomy of a shakeout: what 7,538 deadpooled startu…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **「あなたのブックマーカー図鑑」公開** — Score 11, observation — [Quelle](https://anond.hatelabo.jp/20260910215309)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-10T12:53:24+00:00`, fetched `2026-09-10T14:43:25+00:00`
+  - Treffer: Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: ブックマーカー図鑑 「あなたのブックマーカー図鑑」を公開 https://bookmarker-encyclopedia.netlify.app/api-data/ ChatGPT用にまとめられたブックマーカー図鑑のデータセット これをChatGPTにアップロードすればブックマーカー図鑑に収録されたデータを使って自由に質問できます このブックマーカーってどんな人？ よ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.7 - 116 km WSW of Alianza Cristiana, Peru** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg9q)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-10T11:11:48.486+00:00`, fetched `2026-09-10T11:17:40+00:00`
@@ -274,15 +283,6 @@ _Generiert: 2026-09-10T14:33:06+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: In aktuellen Versionen von Plex Media Server und Plex Desktop wurden mehrere Schwachstellen geschlossen. Weltweit sind zehntausende Instanzen angreifbar.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Jetzt patchen! Angreifer kompromittieren Cisco-Firewalls als Root** — Score 7, observation — [Quelle](https://www.heise.de/news/Jetzt-patchen-Angreifer-kompromittieren-Cisco-Firewalls-als-Root-11448237.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-09-10T07:52:00.000+00:00`, fetched `2026-09-10T08:00:31+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Angreifer attackieren derzeit Cisco Secure Firewall Management Center. Sicherheitsupdates sind seit März 2026 verfügbar.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
