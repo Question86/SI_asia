@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T13:39:53+00:00",
-  "run_id": "2026-09-10T13:39:53+00:00",
+  "generated_at": "2026-09-10T13:47:28+00:00",
+  "run_id": "2026-09-10T13:47:28+00:00",
   "date": "2026-09-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 45,
     "displayed_findings": 45,
     "high": 1,
@@ -2414,30 +2414,7 @@
       "id": "6dd20465dedbdc319cdb"
     }
   ],
-  "new_findings": [
-    {
-      "title": "商用も無料のPDF編集ソフト「PDF MARIN」が登場、黒く塗るだけではない本物の墨消しに対応／「Claude Code」と連携するAI機能も開発中",
-      "url": "https://forest.watch.impress.co.jp/docs/news/2139791.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-10T08:47:29+00:00",
-      "fetched_at": "2026-09-10T13:39:19+00:00",
-      "summary": "商用も無料のPDF編集ソフト「PDF MARIN」が登場、黒く塗るだけではない本物の墨消しに対応／「Claude Code」と連携するAI機能も開発中",
-      "matched_keywords": [
-        "AI Agents",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5e7821a88d51b7fa3ad1"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
