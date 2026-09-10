@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T15:32:25+00:00",
-  "run_id": "2026-09-10T15:32:25+00:00",
+  "generated_at": "2026-09-10T15:42:06+00:00",
+  "run_id": "2026-09-10T15:42:06+00:00",
   "date": "2026-09-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 52,
     "displayed_findings": 52,
     "high": 1,
@@ -2772,51 +2772,7 @@
       "id": "6dd20465dedbdc319cdb"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "url": "https://openai.com/index/expanding-ai-access-us-government",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-09-10T07:00:00+00:00",
-      "fetched_at": "2026-09-10T15:31:55+00:00",
-      "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-      "matched_keywords": [
-        "AI/KI",
-        "Open Source",
-        "OpenAI"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); Open Source (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2888844488a618c85bae"
-    },
-    {
-      "title": "Now everyone can put data to work",
-      "url": "https://openai.com/index/put-data-to-work",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-09-10T15:00:00+00:00",
-      "fetched_at": "2026-09-10T15:31:55+00:00",
-      "summary": "Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.",
-      "matched_keywords": [
-        "AI/KI",
-        "OpenAI"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a3895af404ed5ab31ac6"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
