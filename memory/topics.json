@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-10T05:00:48+00:00",
+  "generated_at": "2026-09-10T05:21:06+00:00",
   "topics": {
     "ai": [
       {
@@ -99,6 +99,13 @@
       }
     ],
     "security": [
+      {
+        "title": "SHIRASAGIにおける複数の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-10T14:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN37476837/"
+      },
       {
         "title": "Microsoft發布Exchange Server系列安全性更新， CVE-2026-62911已有攻擊利用程式碼流通，籲儘速修補",
         "source": "TWCERT/CC Security News RSS",
