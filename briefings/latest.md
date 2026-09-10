@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-10T12:33:55+00:00_
+_Generiert: 2026-09-10T12:50:56+00:00_
 
 ## Kurzlage
 
-37 neue relevante Treffer. Stärkstes Signal: „The capital drought: Over 7,500 SEA startups extinguished since 2020“ aus e27 Asia Startup and Tech Feed (Score 26, observation).
+40 neue relevante Treffer. Stärkstes Signal: „The capital drought: Over 7,500 SEA startups extinguished since 2020“ aus e27 Asia Startup and Tech Feed (Score 26, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -137,6 +137,15 @@ _Generiert: 2026-09-10T12:33:55+00:00_
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 株式会社コンテックが提供するPC-HELPERシリーズには、複数の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [mittel] Red Hat Hardened Images RPMs: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1267)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-09-10T12:48:24+00:00`, fetched `2026-09-10T12:50:28+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Red Hat Hardened Images RPMs ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Rechte zu erweitern, vertrauliche Informationen offenzulegen, Daten zu manipulieren oder einen Denial-of-Service-Zustand zu verursachen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -266,14 +275,14 @@ _Generiert: 2026-09-10T12:33:55+00:00_
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 学校ではいじめられ、先生には嫌われ、家ではネグレクトをされてどこにも居場所がない小学生だった 初めての自殺未遂は8歳 以降何度も自殺未遂して意識不明になったこともあるが死にきれず、死ぬことをあきらめて大学以降はひたすらがんばってきた しかしどうしてか、がんばればがんばるほど仕事で「役立たず」「何でそ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **折りたたみスマホでやりたいことは？ （赤外線通信以外で）** — Score 5, observation — [Quelle](https://anond.hatelabo.jp/20260910114530)
+- **AI時代に、技術責任者はなぜ会社を辞めたくなるのか？｜すてぃお** — Score 5, observation — [Quelle](https://note.com/suthio/n/n340c131ccd4a)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-10T02:46:36+00:00`, fetched `2026-09-10T08:28:27+00:00`
+  - Zeit: published `2026-09-10T03:01:52+00:00`, fetched `2026-09-10T12:50:28+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 折りたたみスマホでやりたいことは？ （赤外線通信以外で）
+  - Kurz: Pragmatic Engineerの技術責任者のキャリアブレイクに関する記事を読みました。 会社を離れて休んでいる人や、それを考えている人など、約20人への取材をもとにした記事です。 僕の感想は、「そりゃ、辞めたくもなるよな」でした。 「全社でAIを使うようにしてほしい」「開発をもっと速くしてほしい」「少ない人数でも成...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

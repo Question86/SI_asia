@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T12:33:55+00:00",
-  "run_id": "2026-09-10T12:33:55+00:00",
+  "generated_at": "2026-09-10T12:50:56+00:00",
+  "run_id": "2026-09-10T12:50:56+00:00",
   "date": "2026-09-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 37
+      "configured_public_sources_only": 40
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 37,
-    "displayed_findings": 37,
+    "new_relevant_findings": 3,
+    "today_file_total": 40,
+    "displayed_findings": 40,
     "high": 1,
-    "medium": 10,
-    "observe": 26,
+    "medium": 12,
+    "observe": 27,
     "source_errors": 0
   },
   "sections": {
@@ -373,6 +373,52 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "06b3f6a72e2dc3bdb6ff"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat Hardened Images RPMs: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1267",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-10T12:48:24+00:00",
+        "fetched_at": "2026-09-10T12:50:28+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Hardened Images RPMs ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Rechte zu erweitern, vertrauliche Informationen offenzulegen, Daten zu manipulieren oder einen Denial-of-Service-Zustand zu verursachen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a601279e79ec891ddac2"
+      },
+      {
+        "title": "[UPDATE] [mittel] OpenVPN: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1264",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-10T12:48:23+00:00",
+        "fetched_at": "2026-09-10T12:50:28+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in OpenVPN ausnutzen, um einen Denial of Service Angriff durchzuführen, und um Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2c3d91db9709ab49c469"
       }
     ],
     "observe": [
@@ -910,6 +956,27 @@
         "id": "c0d381439d375ecbcf5c"
       },
       {
+        "title": "AI時代に、技術責任者はなぜ会社を辞めたくなるのか？｜すてぃお",
+        "url": "https://note.com/suthio/n/n340c131ccd4a",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-10T03:01:52+00:00",
+        "fetched_at": "2026-09-10T12:50:28+00:00",
+        "summary": "Pragmatic Engineerの技術責任者のキャリアブレイクに関する記事を読みました。 会社を離れて休んでいる人や、それを考えている人など、約20人への取材をもとにした記事です。 僕の感想は、「そりゃ、辞めたくもなるよな」でした。 「全社でAIを使うようにしてほしい」「開発をもっと速くしてほしい」「少ない人数でも成...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "380022692389b2c5d72a"
+      },
+      {
         "title": "折りたたみスマホでやりたいことは？ （赤外線通信以外で）",
         "url": "https://anond.hatelabo.jp/20260910114530",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1380,6 +1447,52 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "06b3f6a72e2dc3bdb6ff"
+    },
+    {
+      "title": "[UPDATE] [mittel] Red Hat Hardened Images RPMs: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1267",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-10T12:48:24+00:00",
+      "fetched_at": "2026-09-10T12:50:28+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Hardened Images RPMs ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Rechte zu erweitern, vertrauliche Informationen offenzulegen, Daten zu manipulieren oder einen Denial-of-Service-Zustand zu verursachen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a601279e79ec891ddac2"
+    },
+    {
+      "title": "[UPDATE] [mittel] OpenVPN: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1264",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-10T12:48:23+00:00",
+      "fetched_at": "2026-09-10T12:50:28+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in OpenVPN ausnutzen, um einen Denial of Service Angriff durchzuführen, und um Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2c3d91db9709ab49c469"
     },
     {
       "title": "The cheapest way to stop your AI product from regressing",
@@ -1915,6 +2028,27 @@
       "id": "c0d381439d375ecbcf5c"
     },
     {
+      "title": "AI時代に、技術責任者はなぜ会社を辞めたくなるのか？｜すてぃお",
+      "url": "https://note.com/suthio/n/n340c131ccd4a",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-10T03:01:52+00:00",
+      "fetched_at": "2026-09-10T12:50:28+00:00",
+      "summary": "Pragmatic Engineerの技術責任者のキャリアブレイクに関する記事を読みました。 会社を離れて休んでいる人や、それを考えている人など、約20人への取材をもとにした記事です。 僕の感想は、「そりゃ、辞めたくもなるよな」でした。 「全社でAIを使うようにしてほしい」「開発をもっと速くしてほしい」「少ない人数でも成...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "380022692389b2c5d72a"
+    },
+    {
       "title": "折りたたみスマホでやりたいことは？ （赤外線通信以外で）",
       "url": "https://anond.hatelabo.jp/20260910114530",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2042,60 +2176,71 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.8 - 35 km SSE of Cliza, Bolivia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tga8",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "[UPDATE] [mittel] Red Hat Hardened Images RPMs: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1267",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-09-10T12:22:14.040+00:00",
-      "fetched_at": "2026-09-10T12:33:26+00:00",
-      "summary": "Time 2026-09-10 12:05:53 UTC 2026-09-10 12:05:53 UTC at epicenter Location 17.893°S 65.834°W Depth 372.62 km (231.53 mi)",
+      "published_at": "2026-09-10T12:48:24+00:00",
+      "fetched_at": "2026-09-10T12:50:28+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Hardened Images RPMs ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Rechte zu erweitern, vertrauliche Informationen offenzulegen, Daten zu manipulieren oder einen Denial-of-Service-Zustand zu verursachen.",
       "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "09547ef734d3d06b438e"
-    },
-    {
-      "title": "Monetary policy decisions",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260910~314e508016.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
-      "source_type": "rss",
-      "published_at": "2026-09-10T12:15:00+00:00",
-      "fetched_at": "2026-09-10T12:33:26+00:00",
-      "summary": "Monetary policy decisions",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "44da68afb4e5aec51022"
+      "id": "a601279e79ec891ddac2"
+    },
+    {
+      "title": "[UPDATE] [mittel] OpenVPN: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1264",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-10T12:48:23+00:00",
+      "fetched_at": "2026-09-10T12:50:28+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in OpenVPN ausnutzen, um einen Denial of Service Angriff durchzuführen, und um Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2c3d91db9709ab49c469"
+    },
+    {
+      "title": "AI時代に、技術責任者はなぜ会社を辞めたくなるのか？｜すてぃお",
+      "url": "https://note.com/suthio/n/n340c131ccd4a",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-10T03:01:52+00:00",
+      "fetched_at": "2026-09-10T12:50:28+00:00",
+      "summary": "Pragmatic Engineerの技術責任者のキャリアブレイクに関する記事を読みました。 会社を離れて休んでいる人や、それを考えている人など、約20人への取材をもとにした記事です。 僕の感想は、「そりゃ、辞めたくもなるよな」でした。 「全社でAIを使うようにしてほしい」「開発をもっと速くしてほしい」「少ない人数でも成...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "380022692389b2c5d72a"
     }
   ],
   "source_errors": [],

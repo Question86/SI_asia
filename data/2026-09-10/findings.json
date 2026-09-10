@@ -344,6 +344,52 @@
     "id": "06b3f6a72e2dc3bdb6ff"
   },
   {
+    "title": "[UPDATE] [mittel] Red Hat Hardened Images RPMs: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1267",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-10T12:48:24+00:00",
+    "fetched_at": "2026-09-10T12:50:28+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Hardened Images RPMs ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Rechte zu erweitern, vertrauliche Informationen offenzulegen, Daten zu manipulieren oder einen Denial-of-Service-Zustand zu verursachen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a601279e79ec891ddac2"
+  },
+  {
+    "title": "[UPDATE] [mittel] OpenVPN: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1264",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-10T12:48:23+00:00",
+    "fetched_at": "2026-09-10T12:50:28+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in OpenVPN ausnutzen, um einen Denial of Service Angriff durchzuführen, und um Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2c3d91db9709ab49c469"
+  },
+  {
     "title": "The cheapest way to stop your AI product from regressing",
     "url": "https://e27.co/the-cheapest-way-to-stop-your-ai-product-from-regressing-20260909/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -875,6 +921,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "c0d381439d375ecbcf5c"
+  },
+  {
+    "title": "AI時代に、技術責任者はなぜ会社を辞めたくなるのか？｜すてぃお",
+    "url": "https://note.com/suthio/n/n340c131ccd4a",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-09-10T03:01:52+00:00",
+    "fetched_at": "2026-09-10T12:50:28+00:00",
+    "summary": "Pragmatic Engineerの技術責任者のキャリアブレイクに関する記事を読みました。 会社を離れて休んでいる人や、それを考えている人など、約20人への取材をもとにした記事です。 僕の感想は、「そりゃ、辞めたくもなるよな」でした。 「全社でAIを使うようにしてほしい」「開発をもっと速くしてほしい」「少ない人数でも成...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "380022692389b2c5d72a"
   },
   {
     "title": "折りたたみスマホでやりたいことは？ （赤外線通信以外で）",
