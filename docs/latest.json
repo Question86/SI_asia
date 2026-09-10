@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T23:33:23+00:00",
-  "run_id": "2026-09-10T23:33:23+00:00",
+  "generated_at": "2026-09-10T23:41:24+00:00",
+  "run_id": "2026-09-10T23:41:24+00:00",
   "date": "2026-09-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 79,
     "displayed_findings": 79,
     "high": 1,
@@ -4164,29 +4164,7 @@
       "id": "ebddba3201235a2811cc"
     }
   ],
-  "new_findings": [
-    {
-      "title": "「Ctrl+cするな！パソコンがバグる！だから右クリックからコピーを選んでコピペしろ！」という完全に狂っている上司の前で、無言でCtrl+cし続けたら退散した",
-      "url": "https://togetter.com/li/2744037",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-10T17:19:06+00:00",
-      "fetched_at": "2026-09-10T23:32:54+00:00",
-      "summary": "豊田さこつ @abaransyu 弊社、常識では考えられないこと(teamsは使うなメモは紙にかけ、iPadは使うなデジカメで写真を撮れ、メールの転送機能を知らないのでパソコンのメール画面をスマホで写真撮影して共有させる)をする上司がウヨウヨいて、その度にふざけて言ってるのかと思って「それは流石に面白いw」的な反応して...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2e5791be6fabfde65f50"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
