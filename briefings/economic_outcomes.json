@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-10T18:57:29+00:00",
+  "generated_at": "2026-09-10T19:20:30+00:00",
   "events": [
     {
       "event_id": "evt_02008879feb3a26196bb",
@@ -4183,6 +4183,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_cc11e40fe18ab069cc53",
+      "title": "M 5.3 - 83 km E of Lospalos, Timor Leste",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_cc17b4bd401d2aacd3f1",
       "title": "AI safety is designed in the West, and failing users everywhere",
       "deduplicated_buckets": 0,
@@ -5263,13 +5274,13 @@
     {
       "event_id": "evt_ffdc6e7c9aa410c0d39e",
       "title": "M 5.4 - southern East Pacific Rise",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     }
   ]
 }
