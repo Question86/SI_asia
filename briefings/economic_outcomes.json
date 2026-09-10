@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-10T21:28:24+00:00",
+  "generated_at": "2026-09-10T21:39:09+00:00",
   "events": [
     {
       "event_id": "evt_02008879feb3a26196bb",
@@ -869,7 +869,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_2f5c3cffbb9951edd868",
@@ -924,7 +924,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_33539a9a6dba76929320",
@@ -2621,6 +2621,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_806a024f4ea3599a5a21",
+      "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_80842518348d1fd64682",
       "title": "M 4.8 - 12 km E of Venustiano Carranza (Peña Blanca), Mexico",
       "deduplicated_buckets": 0,
@@ -2794,7 +2805,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_898a0f54d9fb45a2c814",
