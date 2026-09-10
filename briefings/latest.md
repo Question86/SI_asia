@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-10T03:56:59+00:00_
+_Generiert: 2026-09-10T04:17:21+00:00_
 
 ## Kurzlage
 
@@ -29,14 +29,8 @@ _Generiert: 2026-09-10T03:56:59+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-08`
   - Kurz: Known exploited vulnerability. Added 2026-09-08. Due 2026-09-11. Adobe Commerce and Magento Improper Neutralization of Special Elements Used in a Template Engine Vulnerability
-- **GDACS: Green notification for tropical cyclone FOURTEEN-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001320)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green notification for tropical cyclone FOURTEEN-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in New Caledonia 07/09/2026 05:50 UTC, Few people affected in MMI&gt;=-.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1564048)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in New Caledonia 07/09/2026 05:50 UTC, Few people affected in MMI&gt;=-.
+
+- Sensor-Hinweis: GDACS failed: 503 Server Error: Service Unavailable for url: https://www.gdacs.org/xml/rss.xml
 
 ## Wirtschaft global
 
