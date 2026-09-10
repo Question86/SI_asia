@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-10T00:08:37+00:00",
+  "generated_at": "2026-09-10T00:56:33+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
@@ -19,13 +19,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Keine verwertbaren Dynamiken im aktuellen Run.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": []
-  }
+  ]
 }
