@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-10T07:02:19+00:00",
+  "generated_at": "2026-09-10T07:25:39+00:00",
   "events": [
     {
       "event_id": "evt_02008879feb3a26196bb",
@@ -858,7 +858,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_2f5c3cffbb9951edd868",
@@ -907,12 +907,12 @@
     {
       "event_id": "evt_32ac4b6ee61deef85d98",
       "title": "M 5.3 - 126 km WSW of Alianza Cristiana, Peru",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -3091,7 +3091,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_991fff0a26e90c5ae0c8",
