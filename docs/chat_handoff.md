@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-10T06:53:24+00:00_
+_Generated: 2026-09-10T07:01:46+00:00_
 
 ## Status
 - status: `normal`
-- findings: `21`
+- findings: `23`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-09-10T06:53:24+00:00_
 - url: https://e27.co/the-missing-layer-in-ai-innovation-human-verification-20260908/
 - summary: Artificial intelligence has dramatically changed the way startups are built. Today, a founder can describe a product idea, open a tool such as Claude or OpenAI, generate hundreds of lines of code, build a prototype and present it as an “AI-powered innovation”…
 
-### 3. コンテック製CONPROSYSシリーズにおける複数の脆弱性
+### 3. [UPDATE] [hoch] Fortinet FortiOS: Schwachstelle ermöglicht Codeausführung
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-09-10T06:56:31+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0085
+- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Fortinet FortiOS ausnutzen, um beliebigen Programmcode auszuführen.
+
+### 4. コンテック製CONPROSYSシリーズにおける複数の脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-09-10T15:00:45+09:00`
 - url: https://jvn.jp/vu/JVNVU96551518/
 - summary: 株式会社コンテックが提供するCONPROSYSシリーズには、複数の脆弱性が存在します。
-
-### 4. コンテック製無線LAN FLEXLANシリーズにおける複数の脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-09-10T15:00:30+09:00`
-- url: https://jvn.jp/vu/JVNVU99009004/
-- summary: 株式会社コンテックが提供する無線LAN FLEXLANシリーズには、複数の脆弱性が存在します。
 
 ### 5. The cheapest way to stop your AI product from regressing
 - source: e27 Asia Startup and Tech Feed
@@ -50,18 +50,18 @@ _Generated: 2026-09-10T06:53:24+00:00_
 - url: https://e27.co/quantums-chatgpt-moment-is-coming-and-its-worth-trillions-20260909/
 - summary: Quantinuum, one of the world’s leading quantum computing companies, has already put a number on it: a trillion-dollar market waiting to be unlocked once fault-tolerant quantum computing arrives. That’s not a typo, and it’s not a crypto-style promise built on…
 
-### 7. Microsoft發布Exchange Server系列安全性更新， CVE-2026-62911已有攻擊利用程式碼流通，籲儘速修補
+### 7. M 5.3 - 126 km WSW of Alianza Cristiana, Peru
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `11`
+- published: `2026-09-10T06:58:40.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg8v
+- summary: Time 2026-09-10 06:42:40 UTC 2026-09-10 06:42:40 UTC at epicenter Location 3.873°S 77.503°W Depth 10.00 km (6.21 mi)
+
+### 8. Microsoft發布Exchange Server系列安全性更新， CVE-2026-62911已有攻擊利用程式碼流通，籲儘速修補
 - source: TWCERT/CC Security News RSS
 - score: `10`
 - published: `2026-09-10T03:20:00+00:00`
 - url: https://www.twcert.org.tw/tw/cp-104-11191-3459a-1.html
 - summary: 微軟於2026年8月11日發布Exchange Server安全性更新，共修補7項CVE漏洞。其中，CVE-2026-62911已有攻擊程式，荷蘭國家網路安全中心（NCSC-NL）亦發布相關示警，另依Shadowserver Foundation監測資料，目前仍可觀察部分Exchange Server受到該漏洞影響，使用相關產品之單位應確認版本及更新狀態，並完成安全性更新。 微軟公告 微軟於2026年8月11日發布Exchange Server安全性更新，適用於Exchange Server 2016、2019及…
-
-### 8. Singapore tops Southeast Asia on Best Workplaces in Asia 2026 list
-- source: e27 Asia Startup and Tech Feed
-- score: `9`
-- published: `2026-09-10T02:54:29+00:00`
-- url: https://e27.co/singapore-tops-southeast-asia-on-best-workplaces-in-asia-2026-list-20260910/
-- summary: Singapore has placed 25 companies on the Best Workplaces in Asia 2026 list, the highest count in Southeast Asia, at a time when employers across the region are fighting harder to hold on to skilled workers. The list, published by Great Place To Work, ranks 20…
 
 END OF DOCUMENT
