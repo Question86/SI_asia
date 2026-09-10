@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T08:28:58+00:00",
-  "run_id": "2026-09-10T08:28:58+00:00",
+  "generated_at": "2026-09-10T08:45:39+00:00",
+  "run_id": "2026-09-10T08:45:39+00:00",
   "date": "2026-09-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 28
+      "configured_public_sources_only": 29
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 28,
-    "displayed_findings": 28,
+    "new_relevant_findings": 1,
+    "today_file_total": 29,
+    "displayed_findings": 29,
     "high": 1,
     "medium": 9,
-    "observe": 18,
+    "observe": 19,
     "source_errors": 0
   },
   "sections": {
@@ -451,6 +451,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "5e6be553871baafdef06"
+      },
+      {
+        "title": "M 5.0 - 45 km SSE of Quepos, Costa Rica",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg98",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-09-10T08:42:43.040+00:00",
+        "fetched_at": "2026-09-10T08:45:10+00:00",
+        "summary": "Time 2026-09-10 08:26:53 UTC 2026-09-10 08:26:53 UTC at epicenter Location 9.028°N 84.062°W Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "d1b60dcb01d46195f393"
       },
       {
         "title": "Singapore tops Southeast Asia on Best Workplaces in Asia 2026 list",
@@ -1211,6 +1247,42 @@
       "id": "5e6be553871baafdef06"
     },
     {
+      "title": "M 5.0 - 45 km SSE of Quepos, Costa Rica",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg98",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-10T08:42:43.040+00:00",
+      "fetched_at": "2026-09-10T08:45:10+00:00",
+      "summary": "Time 2026-09-10 08:26:53 UTC 2026-09-10 08:26:53 UTC at epicenter Location 9.028°N 84.062°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "d1b60dcb01d46195f393"
+    },
+    {
       "title": "Singapore tops Southeast Asia on Best Workplaces in Asia 2026 list",
       "url": "https://e27.co/singapore-tops-southeast-asia-on-best-workplaces-in-asia-2026-list-20260910/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -1548,49 +1620,40 @@
   ],
   "new_findings": [
     {
-      "title": "2026-012: Critical Vulnerabilities in Check Point Products",
-      "url": "https://cert.europa.eu/publications/security-advisories/2026-012/",
-      "source": "CERT-EU Security Advisories",
+      "title": "M 5.0 - 45 km SSE of Quepos, Costa Rica",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg98",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-09-10T10:20:06+00:00",
-      "fetched_at": "2026-09-10T08:28:27+00:00",
-      "summary": "On 9 September 2026, Check Point released emergency security updates addressing two critical vulnerabilities affecting Check Point Security Gateway, Security Management Server, and Spark Firewall deployments configured to use Remote Access VPN or Site-to-Site VPN. Both vulnerabilities carry a CVSS score of 9.8 and could allow an unauthenticated, remote attacker to execute arbitrary code on affected appliances. CERT-…",
+      "published_at": "2026-09-10T08:42:43.040+00:00",
+      "fetched_at": "2026-09-10T08:45:10+00:00",
+      "summary": "Time 2026-09-10 08:26:53 UTC 2026-09-10 08:26:53 UTC at epicenter Location 9.028°N 84.062°W Depth 10.00 km (6.21 mi)",
       "matched_keywords": [
-        "CERT-EU",
-        "firewall",
-        "Security",
-        "VPN",
-        "Webentwicklung"
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 15,
-      "relevance_reason": "Security (+6.0); Webentwicklung (+3.0); CERT-EU (+2.0); VPN (+2.0); firewall (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "450856c34e95766011eb"
-    },
-    {
-      "title": "折りたたみスマホでやりたいことは？ （赤外線通信以外で）",
-      "url": "https://anond.hatelabo.jp/20260910114530",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-10T02:46:36+00:00",
-      "fetched_at": "2026-09-10T08:28:27+00:00",
-      "summary": "折りたたみスマホでやりたいことは？ （赤外線通信以外で）",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ea9996b5bf8f7c3f3880"
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "d1b60dcb01d46195f393"
     }
   ],
   "source_errors": [],
