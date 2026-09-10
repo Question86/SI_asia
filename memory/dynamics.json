@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-10T10:13:36Z",
+  "generated_at": "2026-09-10T10:29:03Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "extreme": 5,
+      "extreme": 6,
       "krass": 6,
       "strong": 20,
-      "watch": 9
+      "watch": 8
     },
     "bands_after_gate_recheck": {
       "krass": 5,
-      "strong": 26,
-      "watch": 9
+      "strong": 27,
+      "watch": 8
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0610",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-10T09:11:31+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security",
         "infra"
@@ -49,7 +49,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0085",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-10T06:56:31+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -74,7 +74,7 @@
       "url": "https://cert.europa.eu/publications/security-advisories/2026-012/",
       "source": "CERT-EU Security Advisories",
       "published_at": "2026-09-10T10:20:06+00:00",
-      "age_days": 0,
+      "age_days": 0.01,
       "topics": [
         "security",
         "infra"
@@ -100,7 +100,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11191-3459a-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-09-10T03:49:31+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "security",
         "infra"
@@ -126,7 +126,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-104-11191-3459a-1.html",
       "source": "TWCERT/CC Security News RSS",
       "published_at": "2026-09-10T03:20:00+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "security",
         "infra"
@@ -152,7 +152,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0610",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 12.84,
+      "age_days": 12.85,
       "topics": [
         "security",
         "infra"
@@ -180,7 +180,7 @@
       "url": "https://jvn.jp/vu/JVNVU96551518/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-10T15:00:45+09:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -204,7 +204,7 @@
       "url": "https://jvn.jp/vu/JVNVU99009004/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-10T15:00:30+09:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -228,7 +228,7 @@
       "url": "https://jvn.jp/vu/JVNVU90314828/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-10T15:00:15+09:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -252,7 +252,7 @@
       "url": "https://jvn.jp/vu/JVNVU97753461/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-10T15:00:00+09:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -276,7 +276,7 @@
       "url": "https://jvn.jp/jp/JVN37476837/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-10T14:00:00+09:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -300,7 +300,7 @@
       "url": "https://github.com/Tencent/teamai-cli",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-10T06:31:09+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "ai",
         "security",
@@ -331,7 +331,7 @@
       "url": "https://e27.co/i-built-a-21-role-ai-workforce-the-hardest-part-was-management-20260909/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T02:01:17+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "ai"
       ],
@@ -356,11 +356,40 @@
       "summary": ""
     },
     {
+      "title": "Google Earth’s AI experiment lasted 24 hours. The damage to trust will linger",
+      "url": "https://restofworld.org/2026/google-earth-ai-deepfake-iran-war/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "published_at": "2026-09-10T10:00:00+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "extreme gate recheck: insufficient independent/current evidence"
+      ],
+      "summary": "A short-lived generative AI feature in Google Earth that allowed users to create fake satellite imagery shows the lasting effects of unvetted AI tools during a conflict."
+    },
+    {
       "title": "I built a 21-role AI workforce. The hardest part was management",
       "url": "https://e27.co/i-built-a-21-role-ai-workforce-the-hardest-part-was-management-20260909/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T02:00:12+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "ai",
         "macro"
@@ -389,7 +418,7 @@
       "url": "https://e27.co/tiktok-deepens-vietnam-commerce-bet-with-us980m-logistics-project-in-ho-chi-minh-city-20260910/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T04:45:36+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -416,7 +445,7 @@
       "url": "https://e27.co/the-capital-drought-over-7500-sea-startups-extinguished-since-2020-20260910/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T07:44:43+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "macro",
         "disaster"
@@ -445,7 +474,7 @@
       "url": "https://e27.co/the-missing-layer-in-ai-innovation-human-verification-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T01:00:21+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "ai",
         "macro"
@@ -473,7 +502,7 @@
       "url": "https://e27.co/the-capital-drought-over-7500-sea-startups-extinguished-since-2020-20260910/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T07:46:00+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -500,7 +529,7 @@
       "url": "https://github.com/Tencent/teamai-cli",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-07T19:52:47+00:00",
-      "age_days": 2.6,
+      "age_days": 2.61,
       "topics": [
         "ai"
       ],
@@ -511,12 +540,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 5.1,
+      "baseline_z_hint": 4.7,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 5.10",
+        "baseline z_hint 4.70",
         "high terms: rce",
         "security high-signal: rce",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
@@ -528,7 +557,7 @@
       "url": "https://e27.co/the-missing-layer-in-ai-innovation-human-verification-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T01:21:43+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "ai"
       ],
@@ -555,7 +584,7 @@
       "url": "https://cert.europa.eu/publications/security-advisories/2026-012/",
       "source": "CERT-EU Security Advisories",
       "published_at": "2026-09-10T08:29:02+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -581,7 +610,7 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-kompromittieren-Cisco-Firewalls-als-Root-11448237.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-10T07:52:00.000+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "security",
@@ -608,7 +637,7 @@
       "url": "https://e27.co/tiktok-deepens-vietnam-commerce-bet-with-us980m-logistics-project-in-ho-chi-minh-city-20260910/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T04:43:18+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -633,7 +662,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11189-68e64-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-09-09T06:23:00+00:00",
-      "age_days": 1.16,
+      "age_days": 1.17,
       "topics": [
         "security"
       ],
@@ -657,7 +686,7 @@
       "url": "https://jvn.jp/vu/JVNVU96551518/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-10T06:31:46+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -681,7 +710,7 @@
       "url": "https://jvn.jp/vu/JVNVU99009004/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-10T06:31:46+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -705,7 +734,7 @@
       "url": "https://jvn.jp/vu/JVNVU90314828/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-10T06:31:46+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -729,7 +758,7 @@
       "url": "https://jvn.jp/vu/JVNVU97753461/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-10T06:31:46+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -753,7 +782,7 @@
       "url": "https://jvn.jp/jp/JVN37476837/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-10T05:21:09+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "general"
       ],
@@ -777,7 +806,7 @@
       "url": "https://e27.co/quantums-chatgpt-moment-is-coming-and-its-worth-trillions-20260909/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T02:46:36+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -801,7 +830,7 @@
       "url": "https://e27.co/will-bitcoin-hold-us77000-or-drag-the-market-to-us2-51t-the-september-10-answer-20260910/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T04:34:16+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "macro"
       ],
@@ -826,7 +855,7 @@
       "url": "https://www.heise.de/news/Sicherheitsluecken-36-000-Plex-Media-Server-Instanzen-potenziell-angreifbar-11448584.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-10T08:45:00.000+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -850,7 +879,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg8v",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-10T06:58:40.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -875,7 +904,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg8v",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-10T07:01:50+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -899,7 +928,7 @@
       "url": "https://e27.co/singapore-tops-southeast-asia-on-best-workplaces-in-asia-2026-list-20260910/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T02:55:09+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -923,7 +952,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg98",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-10T08:42:43.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -948,7 +977,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg98",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-10T08:45:41+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -972,7 +1001,7 @@
       "url": "https://e27.co/future-proofing-the-past-how-smart-engineering-keeps-singapores-aging-condos-in-the-ev-race-20260909/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-10T01:38:15+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "general"
       ],
@@ -996,31 +1025,7 @@
       "url": "https://www.digital.go.jp/news/6a52d1e9-30cc-455a-9154-f32479d1731a",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-10T06:31:46+00:00",
-      "age_days": 0.15,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 15.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "N&E Innovations nets US$1.7M to turn cashew husk waste into fresh produce protection",
-      "url": "https://e27.co/ne-innovations-nets-us1-6m-to-turn-cashew-husk-waste-into-fresh-produce-protection-20260910/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-10T03:49:31+00:00",
-      "age_days": 0.27,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],

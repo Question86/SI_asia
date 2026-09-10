@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-10T10:13:36Z_
+_Generated: 2026-09-10T10:29:03Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [kritisch] Cisco Secure Firewal
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `33.0`
-- Published: `2026-09-10T09:11:31+00:00` / age_days `0.04`
+- Published: `2026-09-10T09:11:31+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: kritisch, code, 10, security high-signal: kritisch, code, 10, firewall
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [kritisch] Cisco Secure Firewal
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `33.0`
-- Published: `2026-09-10T06:56:31+00:00` / age_days `0.14`
+- Published: `2026-09-10T06:56:31+00:00` / age_days `0.15`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: active, exploitation, code, security high-signal: active, exploitation, code, fortinet
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [kritisch] Cisco Secure Firewal
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `32.0`
-- Published: `2026-09-10T10:20:06+00:00` / age_days `0`
+- Published: `2026-09-10T10:20:06+00:00` / age_days `0.01`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: critical, emergency, unauthenticated, security high-signal: critical, emergency, unauthenticated, remote
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [kritisch] Cisco Secure Firewal
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `28.5`
-- Published: `2026-09-10T03:49:31+00:00` / age_days `0.27`
+- Published: `2026-09-10T03:49:31+00:00` / age_days `0.28`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: exchange, security high-signal: exchange
@@ -52,27 +52,17 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [kritisch] Cisco Secure Firewal
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `27.0`
-- Published: `2026-09-10T03:20:00+00:00` / age_days `0.29`
+- Published: `2026-09-10T03:20:00+00:00` / age_days `0.3`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: cvss, 10, cvss, security high-signal: cvss, 10, cvss, cvss
 - Quelle: https://www.twcert.org.tw/tw/cp-104-11191-3459a-1.html
 
-### コンテック製CONPROSYSシリーズにおける複数の脆弱性
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `26.0`
-- Published: `2026-09-10T15:00:45+09:00` / age_days `0.18`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: security high-signal: jvn, security
-- Quelle: https://jvn.jp/vu/JVNVU96551518/
-
 ### Tencent/teamai-cli
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-10T06:31:09+00:00` / age_days `0.15`
+- Published: `2026-09-10T06:31:09+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: supply, chain, high terms: rce, code, security high-signal: rce, code, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -82,17 +72,27 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [kritisch] Cisco Secure Firewal
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-10T02:01:17+00:00` / age_days `0.34`
+- Published: `2026-09-10T02:01:17+00:00` / age_days `0.35`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, high terms: rce, security high-signal: rce, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
 - Quelle: https://e27.co/i-built-a-21-role-ai-workforce-the-hardest-part-was-management-20260909/
 
+### Google Earth’s AI experiment lasted 24 hours. The damage to trust will linger
+
+- Band: `strong` (raw `extreme`)
+- Dynamics score: `24.9`
+- Published: `2026-09-10T10:00:00+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: rce, security high-signal: rce, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
+- Quelle: https://restofworld.org/2026/google-earth-ai-deepfake-iran-war/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+
 ### I built a 21-role AI workforce. The hardest part was management
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-10T02:00:12+00:00` / age_days `0.34`
+- Published: `2026-09-10T02:00:12+00:00` / age_days `0.35`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, official security but no high-signal phrase: capped at strong
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [kritisch] Cisco Secure Firewal
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-10T04:45:36+00:00` / age_days `0.23`
+- Published: `2026-09-10T04:45:36+00:00` / age_days `0.24`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [kritisch] Cisco Secure Firewal
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-10T07:44:43+00:00` / age_days `0.1`
+- Published: `2026-09-10T07:44:43+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: wildfire, high terms: 10, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [kritisch] Cisco Secure Firewal
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-10T01:00:21+00:00` / age_days `0.38`
+- Published: `2026-09-10T01:00:21+00:00` / age_days `0.39`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: code, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
