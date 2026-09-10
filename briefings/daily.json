@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T16:18:31+00:00",
+  "generated_at": "2026-09-10T16:30:21+00:00",
   "today_file_total": 60,
   "current_clusters": [
     {
@@ -124,37 +124,14 @@
       "max_score": 14,
       "credibility_total": 3.15,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 23.3,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 20.3,
       "hot": false,
       "watchgraph_modules": [
         "ai_agents_workflow"
       ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "cve:CVE-2024-21413",
-      "title": "[MàJ] Vulnérabilité dans Microsoft Outlook (15 février 2024)",
-      "sources": [
-        "CERT-FR Alertes"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-005/"
-      ],
-      "finding_count": 1,
-      "max_score": 15,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 20.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "domain:cert.europa.eu",
@@ -178,6 +155,29 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "cve:CVE-2024-21413",
+      "title": "[MàJ] Vulnérabilité dans Microsoft Outlook (15 février 2024)",
+      "sources": [
+        "CERT-FR Alertes"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2024-ALE-005/"
+      ],
+      "finding_count": 1,
+      "max_score": 15,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 17.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "domain:www.heise.de",
@@ -345,29 +345,6 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "title:multiples-vuln-rabilit-dans-les-produits-vmware-septembre",
-      "title": "Multiples vulnérabilités dans les produits VMware (07 septembre 2026)",
-      "sources": [
-        "CERT-FR Avis de sécurité"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1125/"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 15.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
       "key": "title:quantum-chatgpt-moment-coming-worth-trillions",
       "title": "Quantum’s ChatGPT moment is coming — and it’s worth trillions",
       "sources": [
@@ -475,6 +452,29 @@
       ],
       "urls": [
         "https://e27.co/anatomy-of-a-shakeout-what-7538-deadpooled-startups-reveal-about-southeast-asias-new-tech-reality-20260910/"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 13.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "url:https://anond.hatelabo.jp/20260910215309",
+      "title": "「あなたのブックマーカー図鑑」公開",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://anond.hatelabo.jp/20260910215309"
       ],
       "finding_count": 1,
       "max_score": 11,
