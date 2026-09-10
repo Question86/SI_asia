@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-10T03:04:01+00:00_
+_Generiert: 2026-09-10T03:26:31+00:00_
 
 ## Kurzlage
 
-8 neue relevante Treffer. Stärkstes Signal: „The missing layer in AI innovation: Human verification“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
+9 neue relevante Treffer. Stärkstes Signal: „The missing layer in AI innovation: Human verification“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -91,6 +91,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Singapore has placed 25 companies on the Best Workplaces in Asia 2026 list, the highest count in Southeast Asia, at a time when employers across the region are fighting harder to hold on to skilled workers. The list, published by Great Place To Work, ranks 200 companies across Asia based on employee survey responses. Of […] The post Singapore tops Southeast Asia on Best Workplaces in Asia 2026 list appeared first on…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **増田はなぜ「はてブ」になったか - Nightflight** — Score 5, observation — [Quelle](https://plurality.leaflet.pub/3mv4tpdgn7s2p)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-10T01:01:41+00:00`, fetched `2026-09-10T03:25:59+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 2026年9月、はてなの外にいる人たちが、はてな匿名ダイアリーの記事を「はてブ」と呼んでいることが話題になった。 内側から見れば誤用だ。「はてブ」ははてなブックマークの略で、記事を書く場所ではない。 だがこの誤用は、言語の変化がどこで起きるかを見せている。ちょうど当事者の証言が出そろったので、記録してお...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **みんなほしいのはiPhone Duo “mini”だよね** — Score 5, observation — [Quelle](https://anond.hatelabo.jp/20260910070047)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
