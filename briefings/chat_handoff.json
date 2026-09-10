@@ -1,31 +1,34 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-10T00:56:33+00:00",
+  "generated_at": "2026-09-10T01:21:38+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 0,
-    "displayed_findings": 0,
+    "new_relevant_findings": 1,
+    "today_file_total": 1,
+    "displayed_findings": 1,
     "high": 0,
-    "medium": 0,
+    "medium": 1,
     "observe": 0
   },
   "source_errors_count": 0,
-  "top_signals": [],
+  "top_signals": [
+    {
+      "title": "The missing layer in AI innovation: Human verification",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-10T01:00:21+00:00",
+      "relevance_score": 22,
+      "url": "https://e27.co/the-missing-layer-in-ai-innovation-human-verification-20260908/",
+      "summary": "Artificial intelligence has dramatically changed the way startups are built. Today, a founder can describe a product idea, open a tool such as Claude or OpenAI, generate hundreds of lines of code, build a prototype and present it as an “AI-powered innovation”…",
+      "section": "medium"
+    }
+  ],
   "next_read_order": [
     "briefings/chat_handoff.json",
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Keine verwertbaren Dynamiken im aktuellen Run.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": []
-  }
+  ]
 }
