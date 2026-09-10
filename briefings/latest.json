@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T17:48:06+00:00",
-  "run_id": "2026-09-10T17:48:06+00:00",
+  "generated_at": "2026-09-10T17:55:33+00:00",
+  "run_id": "2026-09-10T17:55:33+00:00",
   "date": "2026-09-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 65,
     "displayed_findings": 65,
     "high": 1,
@@ -3432,29 +3432,7 @@
       "id": "ebddba3201235a2811cc"
     }
   ],
-  "new_findings": [
-    {
-      "title": "「折り目があります」――Apple初の「iPhone Duo」実機画像がSNSで物議、高価ゆえにガッカリか",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2609/10/news091.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-10T10:39:49+00:00",
-      "fetched_at": "2026-09-10T17:47:26+00:00",
-      "summary": "「折り目があります」「目立たないですが、シワがあります」――Appleが発表したブランド初の折りたたみスマートフォン「iPhone Duo」の画面中央に存在する折り目が、SNS上で大きな議論を呼んだ。 高額な価格設定が招いた画面の折り目に対するSNS上での厳しい評価 直販価格が1999ドルからという設定は、最新のテクノロジー...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7de560426ce0df3d10c8"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
