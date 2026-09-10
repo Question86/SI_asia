@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-10T16:30:17+00:00_
+_Generiert: 2026-09-10T16:47:57+00:00_
 
 ## Kurzlage
 
-60 neue relevante Treffer. Stärkstes Signal: „The capital drought: Over 7,500 SEA startups extinguished since 2020“ aus e27 Asia Startup and Tech Feed (Score 26, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+62 neue relevante Treffer. Stärkstes Signal: „The capital drought: Over 7,500 SEA startups extinguished since 2020“ aus e27 Asia Startup and Tech Feed (Score 26, observation).
 
 ## Priorität Hoch
 
@@ -118,6 +118,15 @@ _Generiert: 2026-09-10T16:30:17+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); Open Source (+3.0); recent (+1.0)
   - Kurz: OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **npm extends recovery-code security holds to all accounts** — Score 14, observation — [Quelle](https://github.blog/changelog/2026-09-09-npm-extends-recovery-code-security-holds-to-all-accounts)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-09-09T21:55:55+00:00`, fetched `2026-09-10T16:47:27+00:00`
+  - Treffer: GitHub, Security, Watchgraph:software_supply_chain
+  - Watchgraph: software_supply_chain
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: Security (+7.5); GitHub (+2.0); recent (+1.0); watchgraph modules software_supply_chain (+3.0)
+  - Kurz: npm now places a temporary 72-hour security hold on any account after a successful recovery-code sign-in, extending a protection that previously applied only to high-impact accounts. This change applies to… The post npm extends recovery-code security holds to all accounts appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
@@ -268,7 +277,3 @@ _Generiert: 2026-09-10T16:30:17+00:00_
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `e27_asia_startups_feed` (rss): 500 Server Error: Internal Server Error for url: https://e27.co/index_wp.php/feed/

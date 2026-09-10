@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-10T16:30:21+00:00",
+  "generated_at": "2026-09-10T16:47:59+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 60,
-    "clusters": 50,
+    "findings": 62,
+    "clusters": 52,
     "cross_source_confrmed": 0,
     "hot": 0,
-    "early_signals": 1,
+    "early_signals": 2,
     "dominance_penalized": 7
   },
   "clusters": [
@@ -91,6 +91,46 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-07T19:52:47+00:00"
+    },
+    {
+      "key": "title:npm-extends-recovery-code-security-holds-all-accounts",
+      "title": "npm extends recovery-code security holds to all accounts",
+      "sources": [
+        "GitHub Changelog Atom"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.blog/changelog/2026-09-09-npm-extends-recovery-code-security-holds-to-all-accounts"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 23.5,
+      "hot": false,
+      "watchgraph_modules": [
+        "software_supply_chain"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 19.1,
+      "ranking_score": 23.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 5.5,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-10T16:47:59+00:00"
     },
     {
       "key": "title:missing-layer-innovation-human-verification",
@@ -228,20 +268,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 18.33,
+      "network_score": 18.25,
       "hot": false,
       "watchgraph_modules": [
         "cyber_active_exploitation"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 26.5,
-      "ranking_score": 18.33,
+      "ranking_score": 18.25,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.83,
+      "baseline_bonus": 0.75,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -730,20 +770,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 12.41,
+      "network_score": 12.34,
       "hot": false,
       "watchgraph_modules": [
         "cyber_active_exploitation"
       ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 16.3,
-      "ranking_score": 12.41,
+      "ranking_score": 12.34,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.91,
+      "baseline_bonus": 0.84,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -770,18 +810,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 12.21,
+      "network_score": 12.18,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 12.1,
-      "ranking_score": 12.21,
+      "ranking_score": 12.18,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.71,
+      "baseline_bonus": 0.68,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1221,6 +1261,44 @@
       "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
+      "key": "domain:togetter.com",
+      "title": "もしMicrosoftがスマホを出していたら覇権を取れていたはず、互換性や連携など負ける理由を探す方が難しい…「かつては変態端末がたくさんあったのにどうしてこうなった」",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://togetter.com/li/2743900"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 9.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 10.1,
+      "ranking_score": 9.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T12:31:48+00:00"
+    },
+    {
       "key": "title:tiktok-deepens-vietnam-commerce-bet-980m-logistics-project",
       "title": "TikTok deepens Vietnam commerce bet with US$980M logistics project in Ho Chi Minh City",
       "sources": [
@@ -1595,18 +1673,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 6.77,
+      "network_score": 6.74,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 9.2,
-      "ranking_score": 6.77,
+      "ranking_score": 6.74,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.27,
+      "baseline_bonus": 0.24,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1960,7 +2038,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-10T16:30:21Z",
+    "generated_at": "2026-09-10T16:48:00Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

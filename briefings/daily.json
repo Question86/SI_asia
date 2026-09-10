@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T16:30:21+00:00",
-  "today_file_total": 60,
+  "generated_at": "2026-09-10T16:47:59+00:00",
+  "today_file_total": 62,
   "current_clusters": [
     {
       "key": "title:capital-drought-over-500-sea-startups-extinguished-since",
@@ -130,6 +130,31 @@
       "hot": false,
       "watchgraph_modules": [
         "ai_agents_workflow"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:npm-extends-recovery-code-security-holds-all-accounts",
+      "title": "npm extends recovery-code security holds to all accounts",
+      "sources": [
+        "GitHub Changelog Atom"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.blog/changelog/2026-09-09-npm-extends-recovery-code-security-holds-to-all-accounts"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 19.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "software_supply_chain"
       ],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
@@ -452,29 +477,6 @@
       ],
       "urls": [
         "https://e27.co/anatomy-of-a-shakeout-what-7538-deadpooled-startups-reveal-about-southeast-asias-new-tech-reality-20260910/"
-      ],
-      "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 13.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "url:https://anond.hatelabo.jp/20260910215309",
-      "title": "「あなたのブックマーカー図鑑」公開",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://anond.hatelabo.jp/20260910215309"
       ],
       "finding_count": 1,
       "max_score": 11,
