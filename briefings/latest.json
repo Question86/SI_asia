@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T01:38:11+00:00",
-  "run_id": "2026-09-10T01:38:11+00:00",
+  "generated_at": "2026-09-10T01:53:49+00:00",
+  "run_id": "2026-09-10T01:53:49+00:00",
   "date": "2026-09-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 2,
     "displayed_findings": 2,
     "high": 0,
@@ -123,28 +123,7 @@
       "id": "d3b031e595d60e9a8a33"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Future-proofing the past: How smart engineering keeps Singapore’s aging condos in the EV race",
-      "url": "https://e27.co/future-proofing-the-past-how-smart-engineering-keeps-singapores-aging-condos-in-the-ev-race-20260909/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-10T01:30:47+00:00",
-      "fetched_at": "2026-09-10T01:37:38+00:00",
-      "summary": "Singapore’s transition to electric mobility is accelerating rapidly. EVs accounted for about one-third of new car registrations in 2024, and by the first eight months of 2025, around half of newly registered cars and taxis were electric. But while brand-new residential developments come pre-wired with high-capacity charging infrastructure integrated right into their blueprints, a very […] The post Future-proofing th…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d3b031e595d60e9a8a33"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
