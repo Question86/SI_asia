@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-10T08:01:07+00:00_
+_Generiert: 2026-09-10T08:28:58+00:00_
 
 ## Kurzlage
 
-26 neue relevante Treffer. Stärkstes Signal: „The capital drought: Over 7,500 SEA startups extinguished since 2020“ aus e27 Asia Startup and Tech Feed (Score 26, observation).
+28 neue relevante Treffer. Stärkstes Signal: „The capital drought: Over 7,500 SEA startups extinguished since 2020“ aus e27 Asia Startup and Tech Feed (Score 26, observation).
 
 ## Priorität Hoch
 
@@ -46,6 +46,15 @@ _Generiert: 2026-09-10T08:01:07+00:00_
   - Markt-/Kontextkorb: CRWD, PANW, FTNT, ZS, OKTA, NET, S
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph modules cyber_active_exploitation (+3.0)
   - Kurz: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Fortinet FortiOS ausnutzen, um beliebigen Programmcode auszuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **2026-012: Critical Vulnerabilities in Check Point Products** — Score 15, observation — [Quelle](https://cert.europa.eu/publications/security-advisories/2026-012/)
+  - Quelle: CERT-EU Security Advisories / `rss`
+  - Zeit: published `2026-09-10T10:20:06+00:00`, fetched `2026-09-10T08:28:27+00:00`
+  - Treffer: CERT-EU, firewall, Security, VPN, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Webentwicklung (+3.0); CERT-EU (+2.0); VPN (+2.0); firewall (+2.0)
+  - Kurz: On 9 September 2026, Check Point released emergency security updates addressing two critical vulnerabilities affecting Check Point Security Gateway, Security Management Server, and Spark Firewall deployments configured to use Remote Access VPN or Site-to-Site VPN. Both vulnerabilities carry a CVSS score of 9.8 and could allow an unauthenticated, remote attacker to execute arbitrary code on affected appliances. CERT-…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **コンテック製CONPROSYSシリーズにおける複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU96551518/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
@@ -140,6 +149,15 @@ _Generiert: 2026-09-10T08:01:07+00:00_
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 学園祭での年齢確認にマイナンバーカードを活用しています
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **折りたたみスマホでやりたいことは？ （赤外線通信以外で）** — Score 5, observation — [Quelle](https://anond.hatelabo.jp/20260910114530)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-10T02:46:36+00:00`, fetched `2026-09-10T08:28:27+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 折りたたみスマホでやりたいことは？ （赤外線通信以外で）
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **当社システムへの不正アクセスに関する調査結果および再発防止策について（第三報） | さくらインターネット** — Score 5, observation — [Quelle](https://www.sakura.ad.jp/corporate/information/newsreleases/2026/09/10/1968225692/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-10T02:46:26+00:00`, fetched `2026-09-10T04:45:02+00:00`
@@ -157,15 +175,6 @@ _Generiert: 2026-09-10T08:01:07+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 2026年9月、はてなの外にいる人たちが、はてな匿名ダイアリーの記事を「はてブ」と呼んでいることが話題になった。 内側から見れば誤用だ。「はてブ」ははてなブックマークの略で、記事を書く場所ではない。 だがこの誤用は、言語の変化がどこで起きるかを見せている。ちょうど当事者の証言が出そろったので、記録してお...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **消えた天才CTO。ーCloudflareの技術を作ったリー・ホロウェイ伝【後編】｜占部雅一 masakazu urabe** — Score 5, observation — [Quelle](https://note.com/masakazu_urabe/n/n59bcda4ddef2)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-10T00:37:29+00:00`, fetched `2026-09-10T07:24:38+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: Cloudflareの技術は、先進的で独自の哲学を持つにもかかわらず、外部からは十分に理解されていないのが現状です。その理由は、従来の技術カテゴリに当てはまらないことに加え、技術開発のストーリーが十分に語られていないためかもしれません。今回は、創業者の一人、リー・ホロウェイの革新的な設計思想と、それを引き...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **GitHub availability report: August 2026** — Score 4, observation — [Quelle](https://github.blog/news-insights/company-news/github-availability-report-august-2026/)
   - Quelle: GitHub Blog Atom / `rss`

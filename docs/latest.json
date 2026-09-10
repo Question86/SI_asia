@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T08:01:07+00:00",
-  "run_id": "2026-09-10T08:01:07+00:00",
+  "generated_at": "2026-09-10T08:28:58+00:00",
+  "run_id": "2026-09-10T08:28:58+00:00",
   "date": "2026-09-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 26
+      "configured_public_sources_only": 28
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 26,
-    "displayed_findings": 26,
+    "new_relevant_findings": 2,
+    "today_file_total": 28,
+    "displayed_findings": 28,
     "high": 1,
-    "medium": 8,
-    "observe": 17,
+    "medium": 9,
+    "observe": 18,
     "source_errors": 0
   },
   "sections": {
@@ -215,6 +215,30 @@
           "S"
         ],
         "id": "1971977ac0ff4a05aa31"
+      },
+      {
+        "title": "2026-012: Critical Vulnerabilities in Check Point Products",
+        "url": "https://cert.europa.eu/publications/security-advisories/2026-012/",
+        "source": "CERT-EU Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-10T10:20:06+00:00",
+        "fetched_at": "2026-09-10T08:28:27+00:00",
+        "summary": "On 9 September 2026, Check Point released emergency security updates addressing two critical vulnerabilities affecting Check Point Security Gateway, Security Management Server, and Spark Firewall deployments configured to use Remote Access VPN or Site-to-Site VPN. Both vulnerabilities carry a CVSS score of 9.8 and could allow an unauthenticated, remote attacker to execute arbitrary code on affected appliances. CERT-…",
+        "matched_keywords": [
+          "CERT-EU",
+          "firewall",
+          "Security",
+          "VPN",
+          "Webentwicklung"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Security (+6.0); Webentwicklung (+3.0); CERT-EU (+2.0); VPN (+2.0); firewall (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "450856c34e95766011eb"
       },
       {
         "title": "コンテック製CONPROSYSシリーズにおける複数の脆弱性",
@@ -639,6 +663,27 @@
         "id": "d51897008977dd8a7131"
       },
       {
+        "title": "折りたたみスマホでやりたいことは？ （赤外線通信以外で）",
+        "url": "https://anond.hatelabo.jp/20260910114530",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-10T02:46:36+00:00",
+        "fetched_at": "2026-09-10T08:28:27+00:00",
+        "summary": "折りたたみスマホでやりたいことは？ （赤外線通信以外で）",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ea9996b5bf8f7c3f3880"
+      },
+      {
         "title": "当社システムへの不正アクセスに関する調査結果および再発防止策について（第三報） | さくらインターネット",
         "url": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/09/10/1968225692/",
         "source": "Hatena Bookmark Hotentry IT",
@@ -930,6 +975,30 @@
         "S"
       ],
       "id": "1971977ac0ff4a05aa31"
+    },
+    {
+      "title": "2026-012: Critical Vulnerabilities in Check Point Products",
+      "url": "https://cert.europa.eu/publications/security-advisories/2026-012/",
+      "source": "CERT-EU Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-10T10:20:06+00:00",
+      "fetched_at": "2026-09-10T08:28:27+00:00",
+      "summary": "On 9 September 2026, Check Point released emergency security updates addressing two critical vulnerabilities affecting Check Point Security Gateway, Security Management Server, and Spark Firewall deployments configured to use Remote Access VPN or Site-to-Site VPN. Both vulnerabilities carry a CVSS score of 9.8 and could allow an unauthenticated, remote attacker to execute arbitrary code on affected appliances. CERT-…",
+      "matched_keywords": [
+        "CERT-EU",
+        "firewall",
+        "Security",
+        "VPN",
+        "Webentwicklung"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Security (+6.0); Webentwicklung (+3.0); CERT-EU (+2.0); VPN (+2.0); firewall (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "450856c34e95766011eb"
     },
     {
       "title": "コンテック製CONPROSYSシリーズにおける複数の脆弱性",
@@ -1352,6 +1421,27 @@
       "id": "d51897008977dd8a7131"
     },
     {
+      "title": "折りたたみスマホでやりたいことは？ （赤外線通信以外で）",
+      "url": "https://anond.hatelabo.jp/20260910114530",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-10T02:46:36+00:00",
+      "fetched_at": "2026-09-10T08:28:27+00:00",
+      "summary": "折りたたみスマホでやりたいことは？ （赤外線通信以外で）",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ea9996b5bf8f7c3f3880"
+    },
+    {
       "title": "当社システムへの不正アクセスに関する調査結果および再発防止策について（第三報） | さくらインターネット",
       "url": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/09/10/1968225692/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1458,24 +1548,49 @@
   ],
   "new_findings": [
     {
-      "title": "Jetzt patchen! Angreifer kompromittieren Cisco-Firewalls als Root",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-kompromittieren-Cisco-Firewalls-als-Root-11448237.html",
-      "source": "heise Security Alerts",
+      "title": "2026-012: Critical Vulnerabilities in Check Point Products",
+      "url": "https://cert.europa.eu/publications/security-advisories/2026-012/",
+      "source": "CERT-EU Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-09-10T07:52:00.000+00:00",
-      "fetched_at": "2026-09-10T08:00:31+00:00",
-      "summary": "Angreifer attackieren derzeit Cisco Secure Firewall Management Center. Sicherheitsupdates sind seit März 2026 verfügbar.",
+      "published_at": "2026-09-10T10:20:06+00:00",
+      "fetched_at": "2026-09-10T08:28:27+00:00",
+      "summary": "On 9 September 2026, Check Point released emergency security updates addressing two critical vulnerabilities affecting Check Point Security Gateway, Security Management Server, and Spark Firewall deployments configured to use Remote Access VPN or Site-to-Site VPN. Both vulnerabilities carry a CVSS score of 9.8 and could allow an unauthenticated, remote attacker to execute arbitrary code on affected appliances. CERT-…",
       "matched_keywords": [
-        "Security"
+        "CERT-EU",
+        "firewall",
+        "Security",
+        "VPN",
+        "Webentwicklung"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "relevance_score": 15,
+      "relevance_reason": "Security (+6.0); Webentwicklung (+3.0); CERT-EU (+2.0); VPN (+2.0); firewall (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "ae713e4d982786a27030"
+      "id": "450856c34e95766011eb"
+    },
+    {
+      "title": "折りたたみスマホでやりたいことは？ （赤外線通信以外で）",
+      "url": "https://anond.hatelabo.jp/20260910114530",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-10T02:46:36+00:00",
+      "fetched_at": "2026-09-10T08:28:27+00:00",
+      "summary": "折りたたみスマホでやりたいことは？ （赤外線通信以外で）",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ea9996b5bf8f7c3f3880"
     }
   ],
   "source_errors": [],

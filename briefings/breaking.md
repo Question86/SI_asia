@@ -1,19 +1,19 @@
 # Senna Breaking
 
-_Generiert: 2026-09-10T08:01:16+00:00_
+_Generiert: 2026-09-10T08:29:02+00:00_
 
-## The capital drought: Over 7,500 SEA startups extinguished since 2020
+## 2026-012: Critical Vulnerabilities in Check Point Products
 
-- Ranking Score: `35.0`
-- Raw Network Score: `28.1`
-- Max Monitor Score: `26`
+- Ranking Score: `28.5`
+- Raw Network Score: `20.1`
+- Max Monitor Score: `15`
 - Reichweite: `specialist` / `2.5`
 - Early Signal: `ja`
 - Dominanter Emitter: `nein`
-- Quellen: e27 Asia Startup and Tech Feed
+- Quellen: CERT-EU Security Advisories
 - Klassen: tier3_specialist
 - Cross-source bestaetigt: nein
-- Momentum: stable (+0)
-- Erste Quelle: https://e27.co/the-capital-drought-over-7500-sea-startups-extinguished-since-2020-20260910/
+- Momentum: increasing (+1)
+- Erste Quelle: https://cert.europa.eu/publications/security-advisories/2026-012/
 - Handlung: HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.
 

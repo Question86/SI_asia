@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-10T08:01:07+00:00_
+_Generated: 2026-09-10T08:28:58+00:00_
 
 ## Status
 - status: `normal`
-- findings: `26`
+- findings: `28`
 
 ## Top Signals
 
@@ -36,12 +36,12 @@ _Generated: 2026-09-10T08:01:07+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0085
 - summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Fortinet FortiOS ausnutzen, um beliebigen Programmcode auszuführen.
 
-### 5. コンテック製CONPROSYSシリーズにおける複数の脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-09-10T15:00:45+09:00`
-- url: https://jvn.jp/vu/JVNVU96551518/
-- summary: 株式会社コンテックが提供するCONPROSYSシリーズには、複数の脆弱性が存在します。
+### 5. 2026-012: Critical Vulnerabilities in Check Point Products
+- source: CERT-EU Security Advisories
+- score: `15`
+- published: `2026-09-10T10:20:06+00:00`
+- url: https://cert.europa.eu/publications/security-advisories/2026-012/
+- summary: On 9 September 2026, Check Point released emergency security updates addressing two critical vulnerabilities affecting Check Point Security Gateway, Security Management Server, and Spark Firewall deployments configured to use Remote Access VPN or Site-to-Site…
 
 ### 6. The cheapest way to stop your AI product from regressing
 - source: e27 Asia Startup and Tech Feed
