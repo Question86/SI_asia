@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-10T12:05:57+00:00_
+_Generiert: 2026-09-10T12:33:55+00:00_
 
 ## Kurzlage
 
-35 neue relevante Treffer. Stärkstes Signal: „The capital drought: Over 7,500 SEA startups extinguished since 2020“ aus e27 Asia Startup and Tech Feed (Score 26, observation).
+37 neue relevante Treffer. Stärkstes Signal: „The capital drought: Over 7,500 SEA startups extinguished since 2020“ aus e27 Asia Startup and Tech Feed (Score 26, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -203,15 +203,24 @@ _Generiert: 2026-09-10T12:05:57+00:00_
   - Warum relevant: Security (+7.5); TWCERT (+2.0); recent (+1.0)
   - Kurz: 微軟於2026年8月11日發布Exchange Server安全性更新，共修補7項CVE漏洞。其中，CVE-2026-62911已有攻擊程式，荷蘭國家網路安全中心（NCSC-NL）亦發布相關示警，另依Shadowserver Foundation監測資料，目前仍可觀察部分Exchange Server受到該漏洞影響，使用相關產品之單位應確認版本及更新狀態，並完成安全性更新。 微軟公告 微軟於2026年8月11日發布Exchange Server安全性更新，適用於Exchange Server 2016、2019及訂閱版（SE），共修補以下7項CVE漏洞： CVE編號 漏洞類型 CVSS基本分數 CVE-2026-62910 權限提升 7.2 CVE-2026-62911 權限提升 8.0 CVE-2026-62912 阻斷服務 6.5 CVE-2026-62913 遠端程式碼執行 8.8 CVE-2026-65813 權限提升…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.0 - 45 km SSE of Quepos, Costa Rica** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tg98)
+- **M 4.8 - 35 km SSE of Cliza, Bolivia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tga8)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-10T08:42:43.040+00:00`, fetched `2026-09-10T08:45:10+00:00`
+  - Zeit: published `2026-09-10T12:22:14.040+00:00`, fetched `2026-09-10T12:33:26+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-10 08:26:53 UTC 2026-09-10 08:26:53 UTC at epicenter Location 9.028°N 84.062°W Depth 10.00 km (6.21 mi)
+  - Kurz: Time 2026-09-10 12:05:53 UTC 2026-09-10 12:05:53 UTC at epicenter Location 17.893°S 65.834°W Depth 372.62 km (231.53 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Monetary policy decisions** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260910~314e508016.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-09-10T12:15:00+00:00`, fetched `2026-09-10T12:33:26+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Monetary policy decisions
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Singapore tops Southeast Asia on Best Workplaces in Asia 2026 list** — Score 9, observation — [Quelle](https://e27.co/singapore-tops-southeast-asia-on-best-workplaces-in-asia-2026-list-20260910/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-10T02:54:29+00:00`, fetched `2026-09-10T02:54:38+00:00`
@@ -265,15 +274,6 @@ _Generiert: 2026-09-10T12:05:57+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 折りたたみスマホでやりたいことは？ （赤外線通信以外で）
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **当社システムへの不正アクセスに関する調査結果および再発防止策について（第三報） | さくらインターネット** — Score 5, observation — [Quelle](https://www.sakura.ad.jp/corporate/information/newsreleases/2026/09/10/1968225692/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-10T02:46:26+00:00`, fetched `2026-09-10T04:45:02+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 当社は、2026年8月17日に公表した「当社レンタルサーバーサービスの一部環境に対する不正なアクセスについて」および2026年8月19日に公表した「当社システムへの不正アクセスに関するお知らせ（第二報）」に関し、外部のサイバーセキュリティ専門機関と連携し、侵入経路や影響範囲および原因の調査を継続してまいりまし...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
