@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-10T22:26:47+00:00",
-  "run_id": "2026-09-10T22:26:47+00:00",
+  "generated_at": "2026-09-10T22:43:44+00:00",
+  "run_id": "2026-09-10T22:43:44+00:00",
   "date": "2026-09-10",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 76
+      "configured_public_sources_only": 77
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 76,
-    "displayed_findings": 76,
+    "new_relevant_findings": 1,
+    "today_file_total": 77,
+    "displayed_findings": 77,
     "high": 1,
     "medium": 18,
-    "observe": 57,
+    "observe": 58,
     "source_errors": 0
   },
   "sections": {
@@ -934,6 +934,28 @@
           "PINS"
         ],
         "id": "7fd7a12ca99b4d1df0da"
+      },
+      {
+        "title": "LG、テレビの「会話盗聴」を否定 検証動画に反論",
+        "url": "https://japan.cnet.com/article/35252479/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-10T09:00:36+00:00",
+        "fetched_at": "2026-09-10T22:43:14+00:00",
+        "summary": "LGは米国時間9月9日、自社のテレビがユーザーの会話を盗み聞きしているとの指摘を否定した。ゲーム情報サイトが、同社のテレビを使って会話をリアルタイムで盗聴できることを示したとする動画を公開したことを受けたものだ。 LGの広報担当者は米CNETに寄せた声明で、「最近公開された動画の主張は事実ではない」と述べた...",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b20d6c18566957122dc8"
       },
       {
         "title": "Microsoft發布Exchange Server系列安全性更新， CVE-2026-62911已有攻擊利用程式碼流通，籲儘速修補",
@@ -2924,6 +2946,28 @@
       "id": "7fd7a12ca99b4d1df0da"
     },
     {
+      "title": "LG、テレビの「会話盗聴」を否定 検証動画に反論",
+      "url": "https://japan.cnet.com/article/35252479/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-10T09:00:36+00:00",
+      "fetched_at": "2026-09-10T22:43:14+00:00",
+      "summary": "LGは米国時間9月9日、自社のテレビがユーザーの会話を盗み聞きしているとの指摘を否定した。ゲーム情報サイトが、同社のテレビを使って会話をリアルタイムで盗聴できることを示したとする動画を公開したことを受けたものだ。 LGの広報担当者は米CNETに寄せた声明で、「最近公開された動画の主張は事実ではない」と述べた...",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b20d6c18566957122dc8"
+    },
+    {
       "title": "Microsoft發布Exchange Server系列安全性更新， CVE-2026-62911已有攻擊利用程式碼流通，籲儘速修補",
       "url": "https://www.twcert.org.tw/tw/cp-104-11191-3459a-1.html",
       "source": "TWCERT/CC Security News RSS",
@@ -4006,7 +4050,30 @@
       "id": "ebddba3201235a2811cc"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "LG、テレビの「会話盗聴」を否定 検証動画に反論",
+      "url": "https://japan.cnet.com/article/35252479/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-10T09:00:36+00:00",
+      "fetched_at": "2026-09-10T22:43:14+00:00",
+      "summary": "LGは米国時間9月9日、自社のテレビがユーザーの会話を盗み聞きしているとの指摘を否定した。ゲーム情報サイトが、同社のテレビを使って会話をリアルタイムで盗聴できることを示したとする動画を公開したことを受けたものだ。 LGの広報担当者は米CNETに寄せた声明で、「最近公開された動画の主張は事実ではない」と述べた...",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b20d6c18566957122dc8"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

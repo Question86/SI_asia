@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-10T22:26:47+00:00_
+_Generiert: 2026-09-10T22:43:44+00:00_
 
 ## Kurzlage
 
-76 neue relevante Treffer. Stärkstes Signal: „The capital drought: Over 7,500 SEA startups extinguished since 2020“ aus e27 Asia Startup and Tech Feed (Score 26, observation).
+77 neue relevante Treffer. Stärkstes Signal: „The capital drought: Over 7,500 SEA startups extinguished since 2020“ aus e27 Asia Startup and Tech Feed (Score 26, observation).
 
 ## Priorität Hoch
 
@@ -266,6 +266,15 @@ _Generiert: 2026-09-10T22:26:47+00:00_
   - Warum relevant: AI/KI (+3.8); recent (+1.0); watchgraph modules narrative_social_reputation (+3.0); watchgraph markets via platform_reputation: GOOGL (+2.0)
   - Kurz: A short-lived generative AI feature in Google Earth that allowed users to create fake satellite imagery shows the lasting effects of unvetted AI tools during a conflict.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **LG、テレビの「会話盗聴」を否定 検証動画に反論** — Score 10, observation — [Quelle](https://japan.cnet.com/article/35252479/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-10T09:00:36+00:00`, fetched `2026-09-10T22:43:14+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: LGは米国時間9月9日、自社のテレビがユーザーの会話を盗み聞きしているとの指摘を否定した。ゲーム情報サイトが、同社のテレビを使って会話をリアルタイムで盗聴できることを示したとする動画を公開したことを受けたものだ。 LGの広報担当者は米CNETに寄せた声明で、「最近公開された動画の主張は事実ではない」と述べた...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Microsoft發布Exchange Server系列安全性更新， CVE-2026-62911已有攻擊利用程式碼流通，籲儘速修補** — Score 10, risk — [Quelle](https://www.twcert.org.tw/tw/cp-104-11191-3459a-1.html)
   - Quelle: TWCERT/CC Security News RSS / `rss`
   - Zeit: published `2026-09-10T03:20:00+00:00`, fetched `2026-09-10T03:48:55+00:00`
@@ -275,15 +284,6 @@ _Generiert: 2026-09-10T22:26:47+00:00_
   - Warum relevant: Security (+7.5); TWCERT (+2.0); recent (+1.0)
   - Kurz: 微軟於2026年8月11日發布Exchange Server安全性更新，共修補7項CVE漏洞。其中，CVE-2026-62911已有攻擊程式，荷蘭國家網路安全中心（NCSC-NL）亦發布相關示警，另依Shadowserver Foundation監測資料，目前仍可觀察部分Exchange Server受到該漏洞影響，使用相關產品之單位應確認版本及更新狀態，並完成安全性更新。 微軟公告 微軟於2026年8月11日發布Exchange Server安全性更新，適用於Exchange Server 2016、2019及訂閱版（SE），共修補以下7項CVE漏洞： CVE編號 漏洞類型 CVSS基本分數 CVE-2026-62910 權限提升 7.2 CVE-2026-62911 權限提升 8.0 CVE-2026-62912 阻斷服務 6.5 CVE-2026-62913 遠端程式碼執行 8.8 CVE-2026-65813 權限提升…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Introducing the Agents API** — Score 10, observation — [Quelle](https://openai.com/index/introducing-the-agents-api)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-09-10T00:00:00+00:00`, fetched `2026-09-10T22:17:18+00:00`
-  - Treffer: OpenAI, Watchgraph:ai_agents_workflow
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: OpenAI (+6.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
-  - Kurz: Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
