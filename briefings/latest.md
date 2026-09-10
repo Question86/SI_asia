@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-10T19:27:07+00:00_
+_Generiert: 2026-09-10T19:37:43+00:00_
 
 ## Kurzlage
 
@@ -9,14 +9,6 @@ _Generiert: 2026-09-10T19:27:07+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
-- **CISA KEV: CVE-2026-86060 MikroTik RouterOS** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-10`
-  - Kurz: Known exploited vulnerability. Added 2026-09-10. Due 2026-09-13. MikroTik RouterOS Improper Neutralization of Argument Delimiters in a Command Vulnerability
-- **CISA KEV: CVE-2026-67277 MikroTik RouterOS** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-10`
-  - Kurz: Known exploited vulnerability. Added 2026-09-10. Due 2026-09-13. MikroTik RouterOS Missing Authentication for Critical Function Vulnerability
 - **CISA KEV: CVE-2026-19490 Citrix NetScaler** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-09-09`
@@ -29,6 +21,14 @@ _Generiert: 2026-09-10T19:27:07+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-09`
   - Kurz: Known exploited vulnerability. Added 2026-09-09. Due 2026-09-23. Google Chromium V8 Out of Bounds Write Vulnerability
+- **CISA KEV: CVE-2026-20079 Cisco Secure Firewall Management Center (FMC) and Security Cloud Control (SCC) Firewall Management** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-09-09`
+  - Kurz: Known exploited vulnerability. Added 2026-09-09. Due 2026-09-12. Cisco Firewall Management Center Authentication Bypass Using an Alternate Path or Channel Vulnerability
+- **CISA KEV: CVE-2026-75650 Adobe Commerce and Magento** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-09-08`
+  - Kurz: Known exploited vulnerability. Added 2026-09-08. Due 2026-09-11. Adobe Commerce and Magento Improper Neutralization of Special Elements Used in a Template Engine Vulnerability
 - **GDACS: Green flood alert in Islamic Republic of Iran** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104147)
   - Quelle: GDACS
   - Zeit: ``
