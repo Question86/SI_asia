@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-11T21:40:57+00:00_
+_Generated: 2026-09-11T21:48:23+00:00_
 
 ## Status
 - status: `normal`
-- findings: `61`
+- findings: `62`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-09-11T21:40:57+00:00_
 - url: https://e27.co/the-end-of-the-universal-a-player-dynamic-talent-matching-in-the-ai-driven-supply-chain-20260908/
 - summary: For decades, talent management has operated on a seemingly logical premise: identify your top performers, your A-players, and invest in them disproportionately. This approach, popularised by McKinsey’s War for Talent in the late 1990s, promised that organisat…
 
-### 4. [UPDATE] [hoch] OpenSSL: Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-09-11T11:46:33+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1852
-- summary: Ein Angreifer kann mehrere Schwachstellen in OpenSSL ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren oder einen Denial-of-Service-Zustand zu verursachen.
+### 4. M 6.6 - 115 km NNE of Teluknaga, Indonesia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `17`
+- published: `2026-09-11T21:47:01.069+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgrk
+- summary: ShakeMap - IV Time 2026-09-11 21:23:55 UTC 2026-09-11 21:23:55 UTC at epicenter Location 5.093°S 106.903°E Depth 358.60 km (222.82 mi)
 
 ### 5. 3万スターの Claude Code スキルを入れたら、出力が43%短くなった - Qiita
 - source: Hatena Bookmark Hotentry IT

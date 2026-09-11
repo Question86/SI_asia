@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-11T21:40:57+00:00",
+  "generated_at": "2026-09-11T21:48:23+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 61,
-    "displayed_findings": 61,
+    "new_relevant_findings": 1,
+    "today_file_total": 62,
+    "displayed_findings": 62,
     "high": 0,
-    "medium": 19,
+    "medium": 20,
     "observe": 42
   },
   "source_errors_count": 0,
@@ -45,13 +45,13 @@
       "section": "medium"
     },
     {
-      "title": "[UPDATE] [hoch] OpenSSL: Mehrere Schwachstellen",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "M 6.6 - 115 km NNE of Teluknaga, Indonesia",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-09-11T11:46:33+00:00",
-      "relevance_score": 16,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1852",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in OpenSSL ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren oder einen Denial-of-Service-Zustand zu verursachen.",
+      "published_at": "2026-09-11T21:47:01.069+00:00",
+      "relevance_score": 17,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgrk",
+      "summary": "ShakeMap - IV Time 2026-09-11 21:23:55 UTC 2026-09-11 21:23:55 UTC at epicenter Location 5.093°S 106.903°E Depth 358.60 km (222.82 mi)",
       "section": "medium"
     },
     {
