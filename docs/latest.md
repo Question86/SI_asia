@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-11T03:24:54+00:00_
+_Generiert: 2026-09-11T03:37:41+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „The end of the universal a-player: Dynamic talent matching in the AI-driven supply chain“ aus e27 Asia Startup and Tech Feed (Score 18, risk).
+16 neue relevante Treffer. Stärkstes Signal: „The end of the universal a-player: Dynamic talent matching in the AI-driven supply chain“ aus e27 Asia Startup and Tech Feed (Score 18, risk).
 
 ## Priorität Hoch
 
