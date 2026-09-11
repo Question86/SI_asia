@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-11T11:44:17+00:00_
+_Generated: 2026-09-11T11:51:54+00:00_
 
 ## Status
 - status: `normal`
-- findings: `42`
+- findings: `45`
 
 ## Top Signals
 
-### 1. Singaporean founders’ Lightsage bags US$4M to decode how AI agents choose software
+### 1. [UPDATE] [hoch] Red Hat Enterprise Linux (postgis, virtuoso-opensource): Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `22`
+- published: `2026-09-11T11:46:36+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3306
+- summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen oder vertrauliche Informationen offenzulegen.
+
+### 2. Singaporean founders’ Lightsage bags US$4M to decode how AI agents choose software
 - source: e27 Asia Startup and Tech Feed
 - score: `22`
 - published: `2026-09-11T04:16:38+00:00`
 - url: https://e27.co/singaporean-founders-lightsage-bags-us4m-to-decode-how-ai-agents-choose-software-20260911/
 - summary: The next customer for a software company may not be a person scrolling through a pricing page. It may be an AI coding agent, asked by a developer to choose a database, install an SDK, connect an API, or fix a broken integration. That shift is still early, but…
 
-### 2. The end of the universal a-player: Dynamic talent matching in the AI-driven supply chain
+### 3. The end of the universal a-player: Dynamic talent matching in the AI-driven supply chain
 - source: e27 Asia Startup and Tech Feed
 - score: `18`
 - published: `2026-09-11T01:30:12+00:00`
 - url: https://e27.co/the-end-of-the-universal-a-player-dynamic-talent-matching-in-the-ai-driven-supply-chain-20260908/
 - summary: For decades, talent management has operated on a seemingly logical premise: identify your top performers, your A-players, and invest in them disproportionately. This approach, popularised by McKinsey’s War for Talent in the late 1990s, promised that organisat…
 
-### 3. CISA ICS Advisory / ICS Medical Advisory（2026年09月10日）
-- source: JVN Japan Vulnerability Notes
-- score: `16`
-- published: `2026-09-11T10:30:15+09:00`
-- url: https://jvn.jp/vu/JVNVU94404414/
-- summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
-
-### 4. [UPDATE] [hoch] Red Hat Enterprise Linux (lxml): Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen
+### 4. [UPDATE] [hoch] OpenSSL: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-09-11T09:13:14+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3292
-- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um Sicherheitsvorkehrungen zu umgehen.
+- published: `2026-09-11T11:46:33+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1852
+- summary: Ein Angreifer kann mehrere Schwachstellen in OpenSSL ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren oder einen Denial-of-Service-Zustand zu verursachen.
 
 ### 5. 3万スターの Claude Code スキルを入れたら、出力が43%短くなった - Qiita
 - source: Hatena Bookmark Hotentry IT

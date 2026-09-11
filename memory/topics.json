@@ -1,8 +1,80 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-11T11:44:17+00:00",
+  "generated_at": "2026-09-11T11:51:54+00:00",
   "topics": {
+    "security": [
+      {
+        "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (postgis, virtuoso-opensource): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-11T11:46:36+00:00",
+        "relevance_score": 22,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3306"
+      },
+      {
+        "title": "[UPDATE] [hoch] OpenSSL: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-11T11:46:33+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1852"
+      },
+      {
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月10日）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-11T10:30:15+09:00",
+        "relevance_score": 16,
+        "url": "https://jvn.jp/vu/JVNVU94404414/"
+      },
+      {
+        "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (lxml): Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-11T09:13:14+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3292"
+      },
+      {
+        "title": "a-blog cmsにおけるパストラバーサルの脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-11T12:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN20829034/"
+      },
+      {
+        "title": "[UPDATE] [kritisch] MikroTik RouterOS: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-11T11:26:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3193"
+      },
+      {
+        "title": "[NEU] [hoch] MongoDB: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-11T11:16:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3320"
+      },
+      {
+        "title": "[UPDATE] [mittel] vim: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-11T11:08:25+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2059"
+      },
+      {
+        "title": "AOMEI Backupperのamwrtdrv.sysカーネルドライバにおける権限昇格の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-11T10:30:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU95258183/"
+      },
+      {
+        "title": "[UPDATE] [hoch] Netty: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-11T09:13:15+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3291"
+      }
+    ],
     "ai": [
       {
         "title": "Singaporean founders’ Lightsage bags US$4M to decode how AI agents choose software",
@@ -168,78 +240,6 @@
         "published_at": "2026-09-11T03:00:24+00:00",
         "relevance_score": 4,
         "url": "https://e27.co/i-used-to-think-the-hard-part-of-employee-advocacy-was-getting-people-to-post-20260910/"
-      }
-    ],
-    "security": [
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月10日）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-11T10:30:15+09:00",
-        "relevance_score": 16,
-        "url": "https://jvn.jp/vu/JVNVU94404414/"
-      },
-      {
-        "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (lxml): Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-11T09:13:14+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3292"
-      },
-      {
-        "title": "a-blog cmsにおけるパストラバーサルの脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-11T12:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN20829034/"
-      },
-      {
-        "title": "[UPDATE] [kritisch] MikroTik RouterOS: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-11T11:26:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3193"
-      },
-      {
-        "title": "[NEU] [hoch] MongoDB: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-11T11:16:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3320"
-      },
-      {
-        "title": "[UPDATE] [mittel] vim: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-11T11:08:25+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2059"
-      },
-      {
-        "title": "AOMEI Backupperのamwrtdrv.sysカーネルドライバにおける権限昇格の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-11T10:30:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU95258183/"
-      },
-      {
-        "title": "[UPDATE] [hoch] Netty: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-11T09:13:15+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3291"
-      },
-      {
-        "title": "[UPDATE] [hoch] Palo Alto Networks PAN-OS: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-11T09:13:14+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3295"
-      },
-      {
-        "title": "[UPDATE] [hoch] Apache ActiveMQ Artemis: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-11T08:51:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3289"
       }
     ],
     "github": [

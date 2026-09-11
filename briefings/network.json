@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-11T11:44:20+00:00",
+  "generated_at": "2026-09-11T11:51:57+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 42,
+    "findings": 45,
     "clusters": 34,
     "cross_source_confrmed": 0,
     "hot": 0,
@@ -10,6 +10,49 @@
     "dominance_penalized": 4
   },
   "clusters": [
+    {
+      "key": "domain:wid.cert-bund.de",
+      "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (postgis, virtuoso-opensource): Mehrere Schwachstellen",
+      "sources": [
+        "BSI CERT-Bund Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3306",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1852",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3292",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3193",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3320",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2059"
+      ],
+      "finding_count": 9,
+      "max_score": 22,
+      "credibility_total": 9.45,
+      "cross_source_confirmed": false,
+      "momentum_delta": 2,
+      "momentum_status": "increasing",
+      "network_score": 33.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 46.9,
+      "ranking_score": 33.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 5.0,
+      "baseline_bonus": 5.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-28T14:08:37+00:00"
+    },
     {
       "key": "title:singaporean-founders-lightsage-bags-decode-agents-choose-software",
       "title": "Singaporean founders’ Lightsage bags US$4M to decode how AI agents choose software",
@@ -89,49 +132,6 @@
       "first_seen_at": "2026-09-11T01:30:59+00:00"
     },
     {
-      "key": "domain:wid.cert-bund.de",
-      "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (lxml): Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-      "sources": [
-        "BSI CERT-Bund Security Advisories"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3292",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3193",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3320",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2059",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3291",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3295"
-      ],
-      "finding_count": 7,
-      "max_score": 16,
-      "credibility_total": 7.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 19.18,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 30.7,
-      "ranking_score": 19.18,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 1.68,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-08-28T14:08:37+00:00"
-    },
-    {
       "key": "domain:restofworld.org",
       "title": "The AI talent war is coming for Big Tech’s Asia executives",
       "sources": [
@@ -149,18 +149,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 17.86,
+      "network_score": 17.79,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 17.1,
-      "ranking_score": 17.86,
+      "ranking_score": 17.79,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 1.36,
+      "baseline_bonus": 1.29,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -419,18 +419,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 12.7,
+      "network_score": 12.67,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "raw_network_score": 15.2,
-      "ranking_score": 12.7,
+      "ranking_score": 12.67,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.2,
+      "baseline_bonus": 0.17,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -476,6 +476,45 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-06-19T09:22:22+00:00"
+    },
+    {
+      "key": "domain:www.heise.de",
+      "title": "Patches: IT-Sicherheitsprodukte von Check Point werden zum Sicherheitsrisiko",
+      "sources": [
+        "heise Security Alerts"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.heise.de/news/Patches-IT-Sicherheitsprodukte-von-Check-Point-werden-zum-Sicherheitsrisiko-11450639.html",
+        "https://www.heise.de/news/Patchday-SAP-Praeparierte-Netzwerkanfrage-ebnet-Weg-fuer-Abstuerze-11450204.html"
+      ],
+      "finding_count": 2,
+      "max_score": 7,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 11.2,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 14.2,
+      "ranking_score": 11.2,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.2,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T07:39:37+00:00"
     },
     {
       "key": "title:evs-gain-ground-philippines-fuel-costs-squeeze-drivers",
@@ -753,44 +792,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-11T02:28:51+00:00"
-    },
-    {
-      "key": "domain:www.heise.de",
-      "title": "Patchday SAP: Präparierte Netzwerkanfrage ebnet Weg für Abstürze",
-      "sources": [
-        "heise Security Alerts"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.heise.de/news/Patchday-SAP-Praeparierte-Netzwerkanfrage-ebnet-Weg-fuer-Abstuerze-11450204.html"
-      ],
-      "finding_count": 1,
-      "max_score": 7,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 8.5,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 9.1,
-      "ranking_score": 8.5,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-19T07:39:37+00:00"
     },
     {
       "key": "earthquake:m 4.9 - 69 km n of isangel, vanuatu:4.9",
@@ -1330,7 +1331,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-11T11:44:20Z",
+    "generated_at": "2026-09-11T11:51:57Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
