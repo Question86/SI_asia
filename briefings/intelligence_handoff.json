@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-11T11:49:22Z",
+  "generated_at": "2026-09-11T12:20:37Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Palo Alto Networks PAN-OS: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3295",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-11T09:13:14+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://jvn.jp/jp/JVN20829034/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-11T12:00:00+09:00",
-      "age_days": 0.37,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -64,7 +64,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3320",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-11T11:16:31+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -88,7 +88,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2059",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-11T11:08:25+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -108,16 +108,16 @@
       "summary": "Ein Angreifer kann eine Schwachstelle in vim ausnutzen, um einen Denial of Service Angriff durchzuführen."
     },
     {
-      "title": "AOMEI Backupperのamwrtdrv.sysカーネルドライバにおける権限昇格の脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU95258183/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-09-11T10:30:00+09:00",
-      "age_days": 0.43,
+      "title": "[UPDATE] [hoch] OpenSSL: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1852",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-11T11:46:33+00:00",
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
@@ -127,16 +127,18 @@
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "security high-signal: jvn, security"
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
       ],
-      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in OpenSSL ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, vertrauliche Informationen offenzulegen, Daten zu manipulieren oder einen Denial-of-Service-Zustand zu verursachen."
     },
     {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月10日）",
       "url": "https://jvn.jp/vu/JVNVU94404414/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-11T10:30:15+09:00",
-      "age_days": 0.43,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
@@ -162,7 +164,7 @@
       "url": "https://github.com/alsk1992/CloddsBot",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-11T05:57:00+00:00",
-      "age_days": 0.24,
+      "age_days": 0.27,
       "topics": [
         "ai",
         "macro"
@@ -192,7 +194,7 @@
       "url": "https://restofworld.org/2026/openai-anthropic-big-tech-executives-asia/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-09-11T10:00:00+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "macro"
@@ -219,7 +221,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3193",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-11T11:26:31+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -245,7 +247,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3289",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-11T08:51:31+00:00",
-      "age_days": 0.12,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -271,7 +273,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3292",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-11T09:13:14+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -296,7 +298,7 @@
       "url": "https://e27.co/singaporean-founders-lightsage-bags-us4m-to-decode-how-ai-agents-choose-software-20260911/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-11T04:16:38+00:00",
-      "age_days": 0.31,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
