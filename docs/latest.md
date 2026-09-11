@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-11T02:53:29+00:00_
+_Generiert: 2026-09-11T03:01:07+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „The end of the universal a-player: Dynamic talent matching in the AI-driven supply chain“ aus e27 Asia Startup and Tech Feed (Score 18, risk).
+15 neue relevante Treffer. Stärkstes Signal: „The end of the universal a-player: Dynamic talent matching in the AI-driven supply chain“ aus e27 Asia Startup and Tech Feed (Score 18, risk).
 
 ## Priorität Hoch
 
@@ -39,6 +39,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Content-Chance (+6.2); founder (+2.5); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Every founder has opinions. After all, they spend their days solving customer problems, navigating market uncertainty, raising capital, hiring talent and making decisions that shape the future of their business. Those experiences naturally produce perspectives on everything from emerging technologies and regulation to leadership, innovation and industry trends. Yet expertise alone does not earn media […] The post Ho…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **a-blog cmsにおけるパストラバーサルの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN20829034/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-09-11T12:00:00+09:00`, fetched `2026-09-11T03:00:34+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 有限会社アップルップルが提供するa-blog cmsには、パストラバーサルの脆弱性が存在します。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **AOMEI Backupperのamwrtdrv.sysカーネルドライバにおける権限昇格の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU95258183/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-09-11T10:30:00+09:00`, fetched `2026-09-11T01:30:25+00:00`
@@ -122,6 +131,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: TCPの初期ウィンドウサイズ（MTU 1500バイト基準）なら、最初の1〜2パケットでブラウザへ完全に届きます。ネットワーク遅延は事実上ゼロ、V8などのエンジンによるJITコンパイルも一瞬で終わります。 動作デモはこんな感じです。ブラウザのDOMを操作するJavaScript側のコードも、WASM側のプログラムに一緒にかけてしまい...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **I used to think the hard part of employee advocacy was getting people to post** — Score 4, observation — [Quelle](https://e27.co/i-used-to-think-the-hard-part-of-employee-advocacy-was-getting-people-to-post-20260910/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-11T03:00:24+00:00`, fetched `2026-09-11T03:00:34+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: It was not. Our HR team wanted employees to share more about company culture, hiring updates, internal events, and project wins on LinkedIn. We were not trying to turn everyone into corporate influencers. We only wanted people to feel more comfortable writing about work when there was something worth sharing. The usual problem was the […] The post I used to think the hard part of employee advocacy was getting people…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

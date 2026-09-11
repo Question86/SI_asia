@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-11T02:53:29+00:00_
+_Generated: 2026-09-11T03:01:07+00:00_
 
 ## Status
 - status: `normal`
-- findings: `13`
+- findings: `15`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-09-11T02:53:29+00:00_
 - url: https://e27.co/how-to-turn-your-founders-opinions-into-media-ready-narratives-20260910/
 - summary: Every founder has opinions. After all, they spend their days solving customer problems, navigating market uncertainty, raising capital, hiring talent and making decisions that shape the future of their business. Those experiences naturally produce perspective…
 
-### 4. AOMEI Backupperのamwrtdrv.sysカーネルドライバにおける権限昇格の脆弱性
+### 4. a-blog cmsにおけるパストラバーサルの脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
-- published: `2026-09-11T10:30:00+09:00`
-- url: https://jvn.jp/vu/JVNVU95258183/
-- summary: CERT/CCから本件に関するアドバイザリが公表されました。
+- published: `2026-09-11T12:00:00+09:00`
+- url: https://jvn.jp/jp/JVN20829034/
+- summary: 有限会社アップルップルが提供するa-blog cmsには、パストラバーサルの脆弱性が存在します。
 
 ### 5. 3万スターの Claude Code スキルを入れたら、出力が43%短くなった - Qiita
 - source: Hatena Bookmark Hotentry IT
