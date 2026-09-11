@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T04:52:26+00:00",
-  "run_id": "2026-09-11T04:52:26+00:00",
+  "generated_at": "2026-09-11T04:59:58+00:00",
+  "run_id": "2026-09-11T04:59:58+00:00",
   "date": "2026-09-11",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 18,
     "displayed_findings": 18,
     "high": 0,
@@ -971,29 +971,7 @@
       "id": "aa01f6f13a6cfedc4c1f"
     }
   ],
-  "new_findings": [
-    {
-      "title": "EVs gain ground in the Philippines as fuel costs squeeze drivers",
-      "url": "https://e27.co/evs-gain-ground-in-the-philippines-as-fuel-costs-squeeze-drivers-20260911/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-11T04:44:33+00:00",
-      "fetched_at": "2026-09-11T04:51:57+00:00",
-      "summary": "The Philippines’s electric vehicle (EV) market is expected to keep growing in 2026 even as the broader car industry contracts, underscoring how fuel costs, government incentives and cheaper Chinese models are beginning to shift buyer behaviour in one of Southeast Asia’s more difficult markets for electrification. BMI Country Risk and Industry Research forecasts electric vehicle […] The post EVs gain ground in the Ph…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Southeast Asia"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "af84f281b5e99c0e3f64"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
