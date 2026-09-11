@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T11:37:01+00:00",
+  "generated_at": "2026-09-11T11:44:20+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 42,
@@ -51,49 +51,6 @@
       "first_seen_at": "2026-09-11T04:30:32+00:00"
     },
     {
-      "key": "domain:wid.cert-bund.de",
-      "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (lxml): Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-      "sources": [
-        "BSI CERT-Bund Security Advisories"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3292",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3193",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3320",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2059",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3291",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3295"
-      ],
-      "finding_count": 7,
-      "max_score": 16,
-      "credibility_total": 7.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 22.94,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 33.7,
-      "ranking_score": 22.94,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 2.94,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-08-28T14:08:37+00:00"
-    },
-    {
       "key": "title:end-universal-player-dynamic-talent-matching-driven-supply",
       "title": "The end of the universal a-player: Dynamic talent matching in the AI-driven supply chain",
       "sources": [
@@ -132,6 +89,49 @@
       "first_seen_at": "2026-09-11T01:30:59+00:00"
     },
     {
+      "key": "domain:wid.cert-bund.de",
+      "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (lxml): Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "sources": [
+        "BSI CERT-Bund Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3292",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3193",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3320",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2059",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3291",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3295"
+      ],
+      "finding_count": 7,
+      "max_score": 16,
+      "credibility_total": 7.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 19.18,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 30.7,
+      "ranking_score": 19.18,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 1.68,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-28T14:08:37+00:00"
+    },
+    {
       "key": "domain:restofworld.org",
       "title": "The AI talent war is coming for Big Tech’s Asia executives",
       "sources": [
@@ -149,18 +149,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 17.93,
+      "network_score": 17.86,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 17.1,
-      "ranking_score": 17.93,
+      "ranking_score": 17.86,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 1.43,
+      "baseline_bonus": 1.36,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -419,18 +419,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 12.73,
+      "network_score": 12.7,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "raw_network_score": 15.2,
-      "ranking_score": 12.73,
+      "ranking_score": 12.7,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.23,
+      "baseline_bonus": 0.2,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1330,7 +1330,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-11T11:37:01Z",
+    "generated_at": "2026-09-11T11:44:20Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

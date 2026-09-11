@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T11:36:58+00:00",
-  "run_id": "2026-09-11T11:36:58+00:00",
+  "generated_at": "2026-09-11T11:44:17+00:00",
+  "run_id": "2026-09-11T11:44:17+00:00",
   "date": "2026-09-11",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 42,
     "displayed_findings": 42,
     "high": 0,
@@ -2117,31 +2117,7 @@
       "id": "aa01f6f13a6cfedc4c1f"
     }
   ],
-  "new_findings": [
-    {
-      "title": "[UPDATE] [kritisch] MikroTik RouterOS: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3193",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-11T11:26:31+00:00",
-      "fetched_at": "2026-09-11T11:36:30+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in MikroTik RouterOS ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um Informationen offenzulegen, um einen Denial of Service Zustand herbeizuführen und um die Kontrolle über betroffene Geräte zu übernehmen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6f1c9350dc1507108e26"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
