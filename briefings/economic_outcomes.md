@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-09-11T02:46:07+00:00`
+Generated: `2026-09-11T02:53:56+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -19,6 +19,7 @@ Generated: `2026-09-11T02:46:07+00:00`
 | New API endpoint provides privacy-safe star history data | $0 | — | 0 | 0 | dormant |
 | JetBrains/go-modern-guidelines | $0 | — | 0 | 0 | dormant |
 | M 5.1 - 81 km ESE of Isangel, Vanuatu | $0 | — | 0 | 0 | dormant |
+| 松本大臣記者会見（令和8年9月11日）動画を掲載しました | $0 | — | 0 | 0 | active |
 | M 5.6 - 82 km SE of Maba, Indonesia | $0 | — | 0 | 0 | dormant |
 | The ecosystem map: How to stay agile in the US-China AI battle | $0 | — | 0 | 0 | dormant |
 | Zabbix agentにおけるDLL読み込みに関する脆弱性 | $0 | — | 0 | 0 | dormant |
@@ -28,4 +29,3 @@ Generated: `2026-09-11T02:46:07+00:00`
 | M 5.0 - 64 km W of Labuha, Indonesia | $0 | — | 0 | 0 | dormant |
 | Why Japan’s booming AI market is harder to crack than it looks | $0 | — | 0 | 0 | dormant |
 | M 5.1 - 96 km ESE of Isangel, Vanuatu | $0 | — | 0 | 0 | dormant |
-| 無料のLM Studio、DFlash/DSpark/MTPで推論を高速化 | $0 | — | 0 | 0 | dormant |
