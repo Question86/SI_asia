@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-11T07:48:58Z",
+  "generated_at": "2026-09-11T08:18:36Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "krass": 2,
       "extreme": 1,
-      "strong": 9,
-      "watch": 14,
-      "quiet": 14
+      "strong": 11,
+      "watch": 15,
+      "quiet": 11
     },
     "bands_after_gate_recheck": {
-      "strong": 12,
-      "watch": 14,
-      "quiet": 14
+      "strong": 14,
+      "watch": 15,
+      "quiet": 11
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://jvn.jp/jp/JVN20829034/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-11T12:00:00+09:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://jvn.jp/vu/JVNVU95258183/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-11T10:30:00+09:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -72,7 +72,7 @@
       "url": "https://e27.co/how-to-turn-your-founders-opinions-into-media-ready-narratives-20260910/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-11T02:45:45+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -96,7 +96,7 @@
       "url": "https://jvn.jp/vu/JVNVU94404414/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-11T10:30:15+09:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -122,7 +122,7 @@
       "url": "https://github.com/alsk1992/CloddsBot",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-11T05:57:00+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "macro"
@@ -152,7 +152,7 @@
       "url": "https://e27.co/singaporean-founders-lightsage-bags-us4m-to-decode-how-ai-agents-choose-software-20260911/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-11T04:16:38+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -179,7 +179,7 @@
       "url": "https://e27.co/singaporean-founders-lightsage-bags-us4m-to-decode-how-ai-agents-choose-software-20260911/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-11T04:30:32+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -206,7 +206,7 @@
       "url": "https://e27.co/the-end-of-the-universal-a-player-dynamic-talent-matching-in-the-ai-driven-supply-chain-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-11T01:30:12+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "ai",
         "security",
@@ -232,11 +232,59 @@
       "summary": "For decades, talent management has operated on a seemingly logical premise: identify your top performers, your A-players, and invest in them disproportionately. This approach, popularised by McKinsey’s War for Talent in the late 1990s, promised that organisations could secure competitive advantage by systematically di…"
     },
     {
+      "title": "昊亞科技｜WeenyGenius - 存在4個漏洞",
+      "url": "https://www.twcert.org.tw/tw/cp-132-11201-658c0-1.html",
+      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "published_at": "2026-09-11T06:52:00+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: security"
+      ],
+      "summary": "昊亞科技｜WeenyGenius - 存在4個漏洞"
+    },
+    {
+      "title": "鎧鋒企業｜智慧對講系統 - 存在3個漏洞",
+      "url": "https://www.twcert.org.tw/tw/cp-132-11198-b8bba-1.html",
+      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "published_at": "2026-09-11T06:24:00+00:00",
+      "age_days": 0.08,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: security"
+      ],
+      "summary": "鎧鋒企業｜智慧對講系統 - 存在3個漏洞"
+    },
+    {
       "title": "a-blog cmsにおけるパストラバーサルの脆弱性",
       "url": "https://jvn.jp/jp/JVN20829034/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-11T03:01:11+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -260,7 +308,7 @@
       "url": "https://jvn.jp/vu/JVNVU95258183/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-11T01:30:59+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -284,7 +332,7 @@
       "url": "https://e27.co/the-end-of-the-universal-a-player-dynamic-talent-matching-in-the-ai-driven-supply-chain-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-11T01:30:59+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "ai",
         "infra"
@@ -312,7 +360,7 @@
       "url": "https://github.com/alsk1992/CloddsBot",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-11T05:57:36+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [],
       "dynamics_score": 22.0,
       "raw_band": "strong",
@@ -336,7 +384,7 @@
       "url": "https://jvn.jp/vu/JVNVU94404414/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 84.24,
+      "age_days": 84.26,
       "topics": [
         "general"
       ],
@@ -353,7 +401,7 @@
       "why": [
         "momentum delta +3",
         "high terms: 10",
-        "aging penalty -8.0 for 84.2d old signal",
+        "aging penalty -8.0 for 84.3d old signal",
         "stale single-source cap: max watch after 14d without fresh resonance"
       ],
       "summary": ""
@@ -363,7 +411,7 @@
       "url": "https://e27.co/the-imported-risk-how-geopolitics-moved-from-aseans-macro-problem-to-aseans-balance-sheet-20260910/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-11T01:08:28+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -387,7 +435,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgij",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-11T02:45:45+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -411,7 +459,7 @@
       "url": "https://www.digital.go.jp/speech/minister-260911-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-11T02:53:32+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -435,7 +483,7 @@
       "url": "https://www.digital.go.jp/news/2026-0911-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-11T02:28:51+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -459,7 +507,7 @@
       "url": "https://internet.watch.impress.co.jp/docs/column/netliteracy/2139916.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-11T06:28:10+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -483,7 +531,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001315/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-11T05:57:36+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -507,7 +555,7 @@
       "url": "https://engineering.dena.com/blog/2026/09/mysql84-migrate-research/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-11T03:37:45+00:00",
-      "age_days": 0.17,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -531,7 +579,7 @@
       "url": "https://ascii.jp/elem/000/004/432/4432444/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-11T01:30:59+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -551,31 +599,28 @@
       "summary": ""
     },
     {
-      "title": "3万スターの Claude Code スキルを入れたら、出力が43%短くなった - Qiita",
-      "url": "https://qiita.com/suwa_nobu/items/cec37ce5a6141bb3eefc",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 84.24,
+      "title": "昊亞科技｜WeenyGenius - 存在4個漏洞",
+      "url": "https://www.twcert.org.tw/tw/cp-132-11201-658c0-1.html",
+      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "published_at": "2026-06-19T11:28:55+00:00",
+      "age_days": 83.87,
       "topics": [
-        "ai"
+        "general"
       ],
-      "dynamics_score": 13.23,
+      "dynamics_score": 13.93,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 2.03,
+      "baseline_z_hint": 1.76,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 2.03",
-        "high terms: code",
-        "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 84.2d old signal",
-        "single-source AI cap enforced after phrase recheck"
+        "baseline z_hint 1.76",
+        "aging penalty -8.0 for 83.9d old signal"
       ],
       "summary": ""
     },
@@ -584,7 +629,7 @@
       "url": "https://e27.co/bitcoin-drops-to-us76796-54-as-91-sp-500-correlation-exposes-cryptos-macro-trap-20260911/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-11T05:20:45+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -608,7 +653,7 @@
       "url": "https://e27.co/i-used-to-think-the-hard-part-of-employee-advocacy-was-getting-people-to-post-20260910/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-11T03:01:11+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -632,7 +677,7 @@
       "url": "https://e27.co/how-to-turn-your-founders-opinions-into-media-ready-narratives-20260910/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-11T02:30:24+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "ai",
         "macro"
@@ -655,11 +700,40 @@
       "summary": "Every founder has opinions. After all, they spend their days solving customer problems, navigating market uncertainty, raising capital, hiring talent and making decisions that shape the future of their business. Those experiences naturally produce perspectives on everything from emerging technologies and regulation to…"
     },
     {
+      "title": "3万スターの Claude Code スキルを入れたら、出力が43%短くなった - Qiita",
+      "url": "https://qiita.com/suwa_nobu/items/cec37ce5a6141bb3eefc",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T01:58:32+00:00",
+      "age_days": 84.26,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 12.93,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 1.76,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 1.76",
+        "high terms: code",
+        "single-source AI hype brake -8.0",
+        "aging penalty -8.0 for 84.3d old signal",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 4.9 - 69 km N of Isangel, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgij",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-11T02:44:52.040+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "disaster"
       ],
@@ -683,7 +757,7 @@
       "url": "https://e27.co/evs-gain-ground-in-the-philippines-as-fuel-costs-squeeze-drivers-20260911/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-11T04:52:29+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -709,7 +783,7 @@
       "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-01T21:51:36+00:00",
-      "age_days": 9.41,
+      "age_days": 9.44,
       "topics": [
         "ai"
       ],
@@ -735,7 +809,7 @@
       "url": "https://qiita.com/suwa_nobu/items/cec37ce5a6141bb3eefc",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-09T08:43:29+00:00",
-      "age_days": 1.96,
+      "age_days": 1.98,
       "topics": [
         "ai"
       ],
@@ -761,7 +835,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001315/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-11T03:30:48+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -785,7 +859,7 @@
       "url": "https://e27.co/i-built-an-ai-that-keeps-receipts-the-mistakes-became-the-useful-part-20260909/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-11T02:28:51+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -811,7 +885,7 @@
       "url": "https://e27.co/i-used-to-think-the-hard-part-of-employee-advocacy-was-getting-people-to-post-20260910/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-11T03:00:24+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "macro"
       ],
@@ -835,7 +909,7 @@
       "url": "https://e27.co/the-imported-risk-how-geopolitics-moved-from-aseans-macro-problem-to-aseans-balance-sheet-20260910/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-11T01:00:21+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -861,7 +935,7 @@
       "url": "https://www.digital.go.jp/speech/minister-260911-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-11T02:45:20+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -885,7 +959,7 @@
       "url": "https://www.digital.go.jp/news/2026-0911-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-11T02:02:24+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -909,7 +983,7 @@
       "url": "https://internet.watch.impress.co.jp/docs/column/netliteracy/2139916.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-11T04:25:59+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -933,7 +1007,7 @@
       "url": "https://qiita.com/kanryu/items/95147e22ed5ac542ba58",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-10T23:12:56+00:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "general"
       ],
@@ -951,83 +1025,6 @@
         "no strong comparative reason"
       ],
       "summary": "TCPの初期ウィンドウサイズ（MTU 1500バイト基準）なら、最初の1〜2パケットでブラウザへ完全に届きます。ネットワーク遅延は事実上ゼロ、V8などのエンジンによるJITコンパイルも一瞬で終わります。 動作デモはこんな感じです。ブラウザのDOMを操作するJavaScript側のコードも、WASM側のプログラムに一緒にかけてしまい..."
-    },
-    {
-      "title": "私が「3年前に発売されたAnkerのソーラーパネル」を“防災用品として”おすすめするワケ。 (1/5)",
-      "url": "https://ascii.jp/elem/000/004/432/4432444/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-10T13:26:48+00:00",
-      "age_days": 0.77,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "『私的My推しガジェット』 はアスキーの各編集者が個人的に推しなガジェットを紹介していくレビュー企画です。 近年、豪雨や水害、地震など、私たちの暮らしを脅かす災害が相次いでいます。非常時の家族との連絡や安否確認、避難情報の収集に欠かせないのがスマートフォンです。 しかし、大容量モバイルバッテリーを防災..."
-    },
-    {
-      "title": "DeNA の大規模環境を MySQL 8.4 に移行する時に考えたこと[DeNA インフラ SRE] | BLOG - DeNA Engineering",
-      "url": "https://engineering.dena.com/blog/2026/09/mysql84-migrate-research/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-10T15:22:31+00:00",
-      "age_days": 0.69,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 2.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "2026.09.10 技術記事 DeNA の大規模環境を MySQL 8.4 に移行する時に考えたこと[DeNA インフラ SRE] by Hiroyuki Nishizaki #infrastructure #sre #database #mysql #aws #google-cloud こんにちは、IT 基盤部の西崎です。主に DeNA がグローバルに展開するゲームのインフラ管理を担当しています。今回は自分の所属する ..."
-    },
-    {
-      "title": "EVs gain ground in the Philippines as fuel costs squeeze drivers",
-      "url": "https://e27.co/evs-gain-ground-in-the-philippines-as-fuel-costs-squeeze-drivers-20260911/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-11T04:44:33+00:00",
-      "age_days": 0.13,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 1.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "The Philippines’s electric vehicle (EV) market is expected to keep growing in 2026 even as the broader car industry contracts, underscoring how fuel costs, government incentives and cheaper Chinese models are beginning to shift buyer behaviour in one of Southeast Asia’s more difficult markets for electrification. BMI…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “a-blog cmsにおけるパストラバーサルの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
