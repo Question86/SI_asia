@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-11T15:49:18Z",
+  "generated_at": "2026-09-11T16:14:42Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Palo Alto Networks PAN-OS: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3295",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-11T09:13:14+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://jvn.jp/jp/JVN20829034/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-11T12:00:00+09:00",
-      "age_days": 0.53,
+      "age_days": 0.55,
       "topics": [
         "security"
       ],
@@ -60,35 +60,11 @@
       "summary": "有限会社アップルップルが提供するa-blog cmsには、パストラバーサルの脆弱性が存在します。"
     },
     {
-      "title": "[NEU] [hoch] MongoDB: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3320",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-09-11T11:16:31+00:00",
-      "age_days": 0.19,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cert-bund, bsi, security, advisory"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in MongoDB ausnutzen, um Abfrage- und Zugriffsbeschränkungen zu umgehen, nicht vorgesehene Datensätze oder Dateien auszulesen, zu verändern oder zu löschen sowie unter bestimmten Voraussetzungen MongoDB-Server oder Anwendungen zum Absturz zu bringen und dadurch einen Denial-of…"
-    },
-    {
       "title": "[UPDATE] [hoch] OpenSSL: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1852",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-11T11:46:33+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -114,7 +90,7 @@
       "url": "https://jvn.jp/vu/JVNVU94404414/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-11T10:30:15+09:00",
-      "age_days": 0.6,
+      "age_days": 0.61,
       "topics": [
         "security"
       ],
@@ -140,7 +116,7 @@
       "url": "https://github.com/alsk1992/CloddsBot",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-11T05:57:00+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "ai",
         "macro"
@@ -170,7 +146,7 @@
       "url": "https://restofworld.org/2026/openai-anthropic-big-tech-executives-asia/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-09-11T10:00:00+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "ai",
         "macro"
@@ -197,7 +173,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3193",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-11T11:26:31+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -223,7 +199,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3289",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-11T08:51:31+00:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -249,7 +225,7 @@
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1130/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-09-08T00:00:00+00:00",
-      "age_days": 3.66,
+      "age_days": 3.68,
       "topics": [
         "ai",
         "security"
@@ -276,7 +252,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3292",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-11T09:13:14+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -301,7 +277,7 @@
       "url": "https://e27.co/singaporean-founders-lightsage-bags-us4m-to-decode-how-ai-agents-choose-software-20260911/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-11T04:16:38+00:00",
-      "age_days": 0.48,
+      "age_days": 0.5,
       "topics": [
         "ai"
       ],
@@ -322,6 +298,31 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "The next customer for a software company may not be a person scrolling through a pricing page. It may be an AI coding agent, asked by a developer to choose a database, install an SDK, connect an API, or fix a broken integration. That shift is still early, but it is already changing how software […] The post Singaporea…"
+    },
+    {
+      "title": "GitHub Copilot weekly releases — September 7",
+      "url": "https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7",
+      "source": "GitHub Changelog Atom",
+      "published_at": "2026-09-11T15:20:44+00:00",
+      "age_days": 0.04,
+      "topics": [],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": ""
     }
   ],
   "read_order": [
