@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-11T00:35:02+00:00",
+  "generated_at": "2026-09-11T01:08:45+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -5603,6 +5603,41 @@
       "first_seen_at": "2026-09-09T14:19:12+00:00",
       "last_seen_at": "2026-09-09T14:19:12+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_fd434e3cdb9f1cca7797",
+      "title": "The imported risk: How geopolitics moved from ASEAN’s macro problem to ASEAN’s balance sheet",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "infrastructure",
+        "trade"
+      ],
+      "p10_usd": 111200.0,
+      "p50_usd": 11120000.0,
+      "p90_usd": 1112000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-11T01:08:28+00:00",
+      "last_seen_at": "2026-09-11T01:08:28+00:00",
+      "status": "active"
+    },
+    {
+      "event_id": "evt_5e58ca349e78fae4350d",
+      "title": "Countering misuse of AI: September 2026 / Anthropic",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 111200.0,
+      "p50_usd": 11120000.0,
+      "p90_usd": 1112000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-11T01:08:28+00:00",
+      "last_seen_at": "2026-09-11T01:08:28+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_175e1a5f7356589f9695",
