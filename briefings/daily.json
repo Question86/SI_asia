@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T09:59:21+00:00",
-  "today_file_total": 33,
+  "generated_at": "2026-09-11T10:21:22+00:00",
+  "today_file_total": 34,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -75,6 +75,29 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "domain:restofworld.org",
+      "title": "The AI talent war is coming for Big Tech’s Asia executives",
+      "sources": [
+        "Rest of World Global Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://restofworld.org/2026/openai-anthropic-big-tech-executives-asia/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+      ],
+      "finding_count": 1,
+      "max_score": 15,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 20.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "title:cisa-ics-advisory-ics-medical-advisory-2026",
@@ -440,29 +463,6 @@
       ],
       "urls": [
         "https://ascii.jp/elem/000/004/434/4434123/"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 7.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:apple-iphone-duo",
-      "title": "まるで“狂気の沙汰”──ジョブズ時代のAppleを感じさせる「iPhone Duo」のヒンジと製造工程",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.itmedia.co.jp/pcuser/articles/2609/11/news070.html"
       ],
       "finding_count": 1,
       "max_score": 5,
