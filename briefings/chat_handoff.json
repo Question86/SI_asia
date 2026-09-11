@@ -100,5 +100,142 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “CISA ICS Advisory / ICS Medical Advisory（2026年09月10日）” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月10日）",
+        "url": "https://jvn.jp/vu/JVNVU94404414/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-11T10:30:15+09:00",
+        "age_days": 0.26,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 33.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: 10",
+          "security high-signal: 10"
+        ],
+        "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
+      },
+      {
+        "title": "alsk1992/CloddsBot",
+        "url": "https://github.com/alsk1992/CloddsBot",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": "2026-09-11T05:57:00+00:00",
+        "age_days": 0.08,
+        "topics": [
+          "axiom",
+          "ai",
+          "macro"
+        ],
+        "dynamics_score": 33.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "early terms: chain",
+          "high terms: rce, 10",
+          "security high-signal: rce, 10",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude. https://www.clodds…"
+      },
+      {
+        "title": "Singaporean founders’ Lightsage bags US$4M to decode how AI agents choose software",
+        "url": "https://e27.co/singaporean-founders-lightsage-bags-us4m-to-decode-how-ai-agents-choose-software-20260911/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-11T04:16:38+00:00",
+        "age_days": 0.15,
+        "topics": [
+          "axiom",
+          "ai"
+        ],
+        "dynamics_score": 35.0,
+        "raw_band": "extreme",
+        "dynamic_band": "extreme",
+        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: code",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "The next customer for a software company may not be a person scrolling through a pricing page. It may be an AI coding agent, asked by a developer to choose a database, install an SDK, connect an API, or fix a broken integration. That shift is still early, but it is already changing how software […] The post Singaporea…"
+      },
+      {
+        "title": "a-blog cmsにおけるパストラバーサルの脆弱性",
+        "url": "https://jvn.jp/jp/JVN20829034/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-11T12:00:00+09:00",
+        "age_days": 0.2,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 26.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "security high-signal: jvn, security"
+        ],
+        "summary": "有限会社アップルップルが提供するa-blog cmsには、パストラバーサルの脆弱性が存在します。"
+      },
+      {
+        "title": "AOMEI Backupperのamwrtdrv.sysカーネルドライバにおける権限昇格の脆弱性",
+        "url": "https://jvn.jp/vu/JVNVU95258183/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-11T10:30:00+09:00",
+        "age_days": 0.26,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 26.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "security high-signal: jvn, security"
+        ],
+        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
+      }
+    ]
+  }
 }
