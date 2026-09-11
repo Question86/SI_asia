@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-11T15:01:12+00:00_
+_Generiert: 2026-09-11T15:20:40+00:00_
 
 ## Kurzlage
 
-52 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Red Hat Enterprise Linux (postgis, virtuoso-opensource): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, observation).
+53 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Red Hat Enterprise Linux (postgis, virtuoso-opensource): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -177,6 +177,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: DeepSeekについては、外部のコーディングツールなどを経由したリクエストの一部を選び、Claude Opusに転送していたと報告した。転送内容には企業の内部文書や、稼働中のデータベースにアクセスするための認証情報も含まれていたという。 同レポートは、Xiaomiの「MiMo」の利用者との会話もClaudeに送られていたと指摘し...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **GitHub Copilot weekly releases — September 7** — Score 10, opportunity — [Quelle](https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-09-10T22:55:07+00:00`, fetched `2026-09-11T15:20:03+00:00`
+  - Treffer: Automatisierung, Copilot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Automatisierung (+4.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
+  - Kurz: This week, GitHub Copilot introduces Jira integration in Copilot app and adaptive model orchestration with Project HydraFusion in Copilot CLI. We also introduced new agent automation in Visual Studio Code… The post GitHub Copilot weekly releases — September 7 appeared first on The GitHub Blog .
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Multiples vulnérabilités dans Mattermost Server (08 septembre 2026)** — Score 10, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1128/)
   - Quelle: CERT-FR Avis de sécurité / `rss`
   - Zeit: published `2026-09-08T00:00:00+00:00`, fetched `2026-09-11T13:55:06+00:00`
@@ -240,15 +249,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
   - Kurz: De multiples vulnérabilités ont été découvertes dans Typo3. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données et un contournement de la politique de sécurité.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Patches: IT-Sicherheitsprodukte von Check Point werden zum Sicherheitsrisiko** — Score 7, observation — [Quelle](https://www.heise.de/news/Patches-IT-Sicherheitsprodukte-von-Check-Point-werden-zum-Sicherheitsrisiko-11450639.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-09-11T11:40:00.000+00:00`, fetched `2026-09-11T11:51:26+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Mehrere Produkte von Check Point wie Security Gateway und Spark Firewall sind verwundbar. Davon sind auch nicht mehr im Support befindliche Versionen betroffen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
@@ -259,3 +259,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `e27_asia_startups_feed` (rss): HTTPSConnectionPool(host='e27.co', port=443): Read timed out. (read timeout=8)
