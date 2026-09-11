@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T13:55:43+00:00",
+  "generated_at": "2026-09-11T14:09:09+00:00",
   "today_file_total": 51,
   "current_clusters": [
     {
@@ -74,29 +74,6 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 20.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "cve:CVE-2026-75650",
-      "title": "Vulnérabilité dans les produits Adobe (08 septembre 2026)",
-      "sources": [
-        "CERT-FR Avis de sécurité"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1130/"
-      ],
-      "finding_count": 1,
-      "max_score": 14,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 19.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
@@ -266,6 +243,29 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
+      "key": "cve:CVE-2026-75650",
+      "title": "Vulnérabilité dans les produits Adobe (08 septembre 2026)",
+      "sources": [
+        "CERT-FR Avis de sécurité"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1130/"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 16.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
       "key": "domain:www.twcert.org",
       "title": "昊亞科技｜WeenyGenius - 存在4個漏洞",
       "sources": [
@@ -288,29 +288,6 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "title:multiples-vuln-rabilit-dans-mattermost-server-septembre-2026",
-      "title": "Multiples vulnérabilités dans Mattermost Server (08 septembre 2026)",
-      "sources": [
-        "CERT-FR Avis de sécurité"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1128/"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 15.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "earthquake:m 5.9 - 253 km ene of lospalos, timor leste:5.9",
@@ -413,31 +390,31 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "title:multiples-vuln-rabilit-dans-strongswan-septembre-2026",
-      "title": "Multiples vulnérabilités dans strongSwan (08 septembre 2026)",
+      "key": "domain:japan.cnet.com",
+      "title": "中国AI「Kimi」、利用者の入力をClaudeに転送し、Claudeの回答を利用者に表示か--Anthropicが報告",
       "sources": [
-        "CERT-FR Avis de sécurité"
+        "Hatena Bookmark Hotentry IT"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1129/"
+        "https://japan.cnet.com/article/35252543/"
       ],
       "finding_count": 1,
-      "max_score": 8,
+      "max_score": 10,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 13.1,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 12.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "title:multiples-vuln-rabilit-dans-typo3-septembre-2026",
-      "title": "Multiples vulnérabilités dans Typo3 (08 septembre 2026)",
+      "key": "title:multiples-vuln-rabilit-dans-mattermost-server-septembre-2026",
+      "title": "Multiples vulnérabilités dans Mattermost Server (08 septembre 2026)",
       "sources": [
         "CERT-FR Avis de sécurité"
       ],
@@ -445,38 +422,64 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1131/"
+        "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1128/"
       ],
       "finding_count": 1,
-      "max_score": 8,
+      "max_score": 10,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 13.1,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 12.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "title:multiples-vuln-rabilit-dans-schneider-electric-ecostruxure-septembre",
-      "title": "Multiples vulnérabilités dans Schneider Electric EcoStruxure (08 septembre 2026)",
+      "key": "earthquake:m 4.9 - 69 km n of isangel, vanuatu:4.9",
+      "title": "M 4.9 - 69 km N of Isangel, Vanuatu",
       "sources": [
-        "CERT-FR Avis de sécurité"
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgij"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 11.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "domain:www.heise.de",
+      "title": "Patches: IT-Sicherheitsprodukte von Check Point werden zum Sicherheitsrisiko",
+      "sources": [
+        "heise Security Alerts"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1132/"
+        "https://www.heise.de/news/Patches-IT-Sicherheitsprodukte-von-Check-Point-werden-zum-Sicherheitsrisiko-11450639.html",
+        "https://www.heise.de/news/Patchday-SAP-Praeparierte-Netzwerkanfrage-ebnet-Weg-fuer-Abstuerze-11450204.html"
       ],
-      "finding_count": 1,
-      "max_score": 8,
-      "credibility_total": 1.05,
+      "finding_count": 2,
+      "max_score": 7,
+      "credibility_total": 2.1,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 13.1,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 11.2,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
