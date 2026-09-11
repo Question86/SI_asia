@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T21:25:05+00:00",
-  "run_id": "2026-09-11T21:25:05+00:00",
+  "generated_at": "2026-09-11T21:33:20+00:00",
+  "run_id": "2026-09-11T21:33:20+00:00",
   "date": "2026-09-11",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 61,
     "displayed_findings": 61,
     "high": 0,
@@ -3023,31 +3023,7 @@
       "id": "aa01f6f13a6cfedc4c1f"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Games | OpenAI Developers",
-      "url": "https://developers.openai.com/showcase/games",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-11T15:45:07+00:00",
-      "fetched_at": "2026-09-11T21:24:37+00:00",
-      "summary": "For the complete documentation index, see llms.txt. Markdown versions of documentation pages are available by appending .md to the page URL.",
-      "matched_keywords": [
-        "developer",
-        "Hatena",
-        "hotentry",
-        "OpenAI"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); developer (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "bd35318101c6d7a19d76"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
