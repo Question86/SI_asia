@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-11T18:15:41+00:00_
+_Generiert: 2026-09-11T18:33:27+00:00_
 
 ## Kurzlage
 
-57 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Red Hat Enterprise Linux (postgis, virtuoso-opensource): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, observation).
+58 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Red Hat Enterprise Linux (postgis, virtuoso-opensource): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, observation).
 
 ## Priorität Hoch
 
@@ -240,14 +240,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Over the past eight months, our Threat Intelligence team identified and disrupted operations in which threat actors tried to use Claude for malicious activity. In this report, we share case studies from those operations and describe how malicious use of Claude has evolved since our previous threa...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **I built an AI that keeps receipts. The mistakes became the useful part** — Score 8, observation — [Quelle](https://e27.co/i-built-an-ai-that-keeps-receipts-the-mistakes-became-the-useful-part-20260909/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-11T02:00:32+00:00`, fetched `2026-09-11T02:28:16+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
+- **Marketing ops as code: Automating events from planning to follow-up on GitHub** — Score 8, observation — [Quelle](https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/)
+  - Quelle: GitHub Blog Atom / `rss`
+  - Zeit: published `2026-09-11T18:26:10+00:00`, fetched `2026-09-11T18:32:53+00:00`
+  - Treffer: AI/KI, Copilot, GitHub
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: AI is remarkably good at producing answers. It is even better at sounding certain. Ask a difficult question and, within seconds, a system can gather information, connect ideas and return a polished explanation. Yet a harder question arrives later: what happens when reality proves the answer wrong? I met that problem while building OnTheRice, a […] The post I built an AI that keeps receipts. The mistakes became the u…
+  - Warum relevant: AI/KI (+3.0); GitHub (+2.5); Copilot (+2.0); recent (+1.0)
+  - Kurz: If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
