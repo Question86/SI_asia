@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-11T13:56:03+00:00",
+  "generated_at": "2026-09-11T14:09:25+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -36,7 +36,7 @@
       "p90_usd": 1216000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-11T04:30:32+00:00",
-      "last_seen_at": "2026-09-11T13:55:43+00:00",
+      "last_seen_at": "2026-09-11T14:09:09+00:00",
       "status": "active"
     },
     {
@@ -1334,7 +1334,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-11T12:30:45+00:00",
-      "last_seen_at": "2026-09-11T13:55:43+00:00",
+      "last_seen_at": "2026-09-11T14:09:09+00:00",
       "status": "active"
     },
     {
@@ -1419,7 +1419,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-11T10:57:41+00:00",
-      "last_seen_at": "2026-09-11T13:55:43+00:00",
+      "last_seen_at": "2026-09-11T14:09:09+00:00",
       "status": "active"
     },
     {
@@ -1555,7 +1555,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-01T06:56:30+00:00",
-      "last_seen_at": "2026-09-11T13:55:43+00:00",
+      "last_seen_at": "2026-09-11T14:09:09+00:00",
       "status": "active"
     },
     {
@@ -1572,7 +1572,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T12:55:56+00:00",
-      "last_seen_at": "2026-09-11T13:55:43+00:00",
+      "last_seen_at": "2026-09-11T14:09:09+00:00",
       "status": "active"
     },
     {
@@ -1793,8 +1793,8 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-11T02:45:45+00:00",
-      "last_seen_at": "2026-09-11T13:48:13+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-09-11T14:09:09+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_33b61a4e72fbc1c6c051",
@@ -2575,7 +2575,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-11T13:55:43+00:00",
+      "last_seen_at": "2026-09-11T14:09:09+00:00",
       "status": "active"
     },
     {
@@ -2609,7 +2609,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-11T13:55:43+00:00",
+      "last_seen_at": "2026-09-11T14:09:09+00:00",
       "status": "active"
     },
     {
@@ -2745,7 +2745,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-11T01:30:59+00:00",
-      "last_seen_at": "2026-09-11T13:55:43+00:00",
+      "last_seen_at": "2026-09-11T14:09:09+00:00",
       "status": "active"
     },
     {
@@ -2830,7 +2830,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-11T03:01:11+00:00",
-      "last_seen_at": "2026-09-11T13:55:43+00:00",
+      "last_seen_at": "2026-09-11T14:09:09+00:00",
       "status": "active"
     },
     {
@@ -2970,6 +2970,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_c40b6b58e007340743d8",
+      "title": "Vulnérabilité dans les produits Adobe (08 septembre 2026)",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-11T13:55:43+00:00",
+      "last_seen_at": "2026-09-11T14:09:09+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_cdd40d6d8c9a9b73ed8f",
       "title": "SHIRASAGIにおける複数の脆弱性",
       "event_classes": [
@@ -3019,23 +3036,6 @@
       "first_seen_at": "2026-09-04T01:50:38+00:00",
       "last_seen_at": "2026-09-04T23:57:22+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_c40b6b58e007340743d8",
-      "title": "Vulnérabilité dans les produits Adobe (08 septembre 2026)",
-      "event_classes": [
-        "vulnerability"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 288000.0,
-      "p50_usd": 28800000.0,
-      "p90_usd": 2880000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-11T13:55:43+00:00",
-      "last_seen_at": "2026-09-11T13:55:43+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_2f5c3cffbb9951edd868",
@@ -3102,7 +3102,7 @@
       "p90_usd": 2820000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-11T13:55:43+00:00",
+      "last_seen_at": "2026-09-11T14:09:09+00:00",
       "status": "active"
     },
     {
@@ -3527,7 +3527,7 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-11T01:30:59+00:00",
-      "last_seen_at": "2026-09-11T13:55:43+00:00",
+      "last_seen_at": "2026-09-11T14:09:09+00:00",
       "status": "active"
     },
     {
@@ -3765,7 +3765,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-11T02:45:45+00:00",
-      "last_seen_at": "2026-09-11T13:55:43+00:00",
+      "last_seen_at": "2026-09-11T14:09:09+00:00",
       "status": "active"
     },
     {
@@ -4122,7 +4122,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-11T08:45:40+00:00",
-      "last_seen_at": "2026-09-11T13:55:43+00:00",
+      "last_seen_at": "2026-09-11T14:09:09+00:00",
       "status": "active"
     },
     {
@@ -4615,8 +4615,8 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-11T13:48:13+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-09-11T14:09:09+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_b829f0ea9ec991d5011b",
@@ -5125,7 +5125,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T10:20:20+00:00",
-      "last_seen_at": "2026-09-11T13:55:43+00:00",
+      "last_seen_at": "2026-09-11T14:09:09+00:00",
       "status": "active"
     },
     {
@@ -5533,8 +5533,8 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T22:54:30+00:00",
-      "last_seen_at": "2026-09-11T13:48:13+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-09-11T14:09:09+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_ab94fdd44fb8d561fe01",
@@ -5669,7 +5669,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-08T13:32:31+00:00",
-      "last_seen_at": "2026-09-11T13:55:43+00:00",
+      "last_seen_at": "2026-09-11T14:09:09+00:00",
       "status": "active"
     },
     {
@@ -5861,6 +5861,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_208d0630da687bcda4e6",
+      "title": "Multiples vulnérabilités dans Schneider Electric EcoStruxure (08 septembre 2026)",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-11T13:55:43+00:00",
+      "last_seen_at": "2026-09-11T13:55:43+00:00",
+      "status": "dormant"
+    },
+    {
       "event_id": "evt_311f0e7f9aa49deddda7",
       "title": "Thailand’s AI startup push gets OpenAI backing through new public-private accelerator",
       "event_classes": [
@@ -5994,6 +6011,23 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-07T13:25:56+00:00",
       "last_seen_at": "2026-09-07T13:25:56+00:00",
+      "status": "dormant"
+    },
+    {
+      "event_id": "evt_657c749693a66aff6372",
+      "title": "Multiples vulnérabilités dans Typo3 (08 septembre 2026)",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-11T13:55:43+00:00",
+      "last_seen_at": "2026-09-11T13:55:43+00:00",
       "status": "dormant"
     },
     {
@@ -6133,6 +6167,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_9d686fecbf93fce2e1d9",
+      "title": "Multiples vulnérabilités dans strongSwan (08 septembre 2026)",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-11T13:55:43+00:00",
+      "last_seen_at": "2026-09-11T13:55:43+00:00",
+      "status": "dormant"
+    },
+    {
       "event_id": "evt_9e390686ce17b776038d",
       "title": "Vulnérabilité dans Python (21 août 2026)",
       "event_classes": [
@@ -6267,57 +6318,6 @@
       "first_seen_at": "2026-09-04T16:18:08+00:00",
       "last_seen_at": "2026-09-04T16:18:08+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_9d686fecbf93fce2e1d9",
-      "title": "Multiples vulnérabilités dans strongSwan (08 septembre 2026)",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 110400.0,
-      "p50_usd": 11040000.0,
-      "p90_usd": 1104000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-11T13:55:43+00:00",
-      "last_seen_at": "2026-09-11T13:55:43+00:00",
-      "status": "active"
-    },
-    {
-      "event_id": "evt_657c749693a66aff6372",
-      "title": "Multiples vulnérabilités dans Typo3 (08 septembre 2026)",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 110400.0,
-      "p50_usd": 11040000.0,
-      "p90_usd": 1104000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-11T13:55:43+00:00",
-      "last_seen_at": "2026-09-11T13:55:43+00:00",
-      "status": "active"
-    },
-    {
-      "event_id": "evt_208d0630da687bcda4e6",
-      "title": "Multiples vulnérabilités dans Schneider Electric EcoStruxure (08 septembre 2026)",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 110400.0,
-      "p50_usd": 11040000.0,
-      "p90_usd": 1104000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-11T13:55:43+00:00",
-      "last_seen_at": "2026-09-11T13:55:43+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_050660578420f6fb8ddb",
@@ -7438,7 +7438,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T12:58:27+00:00",
-      "last_seen_at": "2026-09-11T13:55:43+00:00",
+      "last_seen_at": "2026-09-11T14:09:09+00:00",
       "status": "active"
     },
     {
