@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-11T07:00:43+00:00_
+_Generiert: 2026-09-11T07:23:39+00:00_
 
 ## Kurzlage
 
@@ -29,10 +29,6 @@ _Generiert: 2026-09-11T07:00:43+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-09`
   - Kurz: Known exploited vulnerability. Added 2026-09-09. Due 2026-09-23. Google Chromium V8 Out of Bounds Write Vulnerability
-- **GDACS: Green flood alert in Islamic Republic of Iran** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104147)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Islamic Republic of Iran
 - **GDACS: Green notification for tropical cyclone NORBERT-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001320)
   - Quelle: GDACS
   - Zeit: ``
