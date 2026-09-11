@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-11T09:23:49+00:00_
+_Generiert: 2026-09-11T09:34:13+00:00_
 
 ## Kurzlage
 
@@ -33,6 +33,10 @@ _Generiert: 2026-09-11T09:23:49+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in France
+- **GDACS: Green flood alert in Germany** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104150)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Germany
 - **GDACS: Green notification for tropical cyclone NORBERT-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001320)
   - Quelle: GDACS
   - Zeit: ``
