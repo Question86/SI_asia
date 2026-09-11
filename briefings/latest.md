@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-11T23:19:33+00:00_
+_Generiert: 2026-09-11T23:28:39+00:00_
 
 ## Kurzlage
 
-67 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Red Hat Enterprise Linux (postgis, virtuoso-opensource): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, observation).
+68 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Red Hat Enterprise Linux (postgis, virtuoso-opensource): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -158,6 +158,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); developer (+2.5); recent (+1.0)
   - Kurz: For the complete documentation index, see llms.txt. Markdown versions of documentation pages are available by appending .md to the page URL.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **WordPressサイトのセキュリティ対策 – 最低限設定しておきたい5つ | corto** — Score 15, observation — [Quelle](https://corto.jp/note/wordpress-security/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-11T12:54:48+00:00`, fetched `2026-09-11T23:28:06+00:00`
+  - Treffer: Hatena, hotentry, Security, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Webentwicklung (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: WordPressサイトのセキュリティ対策 – 最低限設定しておきたい5つ | corto
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The AI talent war is coming for Big Tech’s Asia executives** — Score 15, observation — [Quelle](https://restofworld.org/2026/openai-anthropic-big-tech-executives-asia/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
   - Quelle: Rest of World Global Tech Feed / `rss`
