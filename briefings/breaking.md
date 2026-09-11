@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-09-11T01:50:26+00:00_
+_Generiert: 2026-09-11T01:58:50+00:00_
 
 ## The end of the universal a-player: Dynamic talent matching in the AI-driven supply chain
 
