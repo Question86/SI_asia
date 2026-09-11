@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-11T05:42:09+00:00_
+_Generiert: 2026-09-11T05:57:32+00:00_
 
 ## Kurzlage
 
-19 neue relevante Treffer. Stärkstes Signal: „Singaporean founders’ Lightsage bags US$4M to decode how AI agents choose software“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
+21 neue relevante Treffer. Stärkstes Signal: „Singaporean founders’ Lightsage bags US$4M to decode how AI agents choose software“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -186,15 +186,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: ガバメントソリューションサービスへの不正アクセスによる職員等の個人情報の漏えいの可能性について
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **うっかり世界最強のWasmコンパイラを作ってしまった件 - Qiita** — Score 5, observation — [Quelle](https://qiita.com/kanryu/items/95147e22ed5ac542ba58)
+- **「食事量は1日1200kcal以下、でも肥満」な人を14日間追跡調査 痩せない理由は……米コロンビア大などの研究** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2609/11/2000001315/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-10T23:12:56+00:00`, fetched `2026-09-11T01:30:25+00:00`
+  - Zeit: published `2026-09-11T03:30:48+00:00`, fetched `2026-09-11T05:57:00+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: TCPの初期ウィンドウサイズ（MTU 1500バイト基準）なら、最初の1〜2パケットでブラウザへ完全に届きます。ネットワーク遅延は事実上ゼロ、V8などのエンジンによるJITコンパイルも一瞬で終わります。 動作デモはこんな感じです。ブラウザのDOMを操作するJavaScript側のコードも、WASM側のプログラムに一緒にかけてしまい...
+  - Kurz: 食事制限をすると痩せるが、それでも痩せない理由には2つの仮説が挙げられる。1つは、エネルギー消費量そのものが極端に少ない特殊な体質。もう1つは、本人が自覚している以上に、実はたくさん食べている。 研究チームは、食事制限をしても痩せないと訴える肥満患者10人を、そのような訴えのない一般的な肥満患者と比較...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **alsk1992/CloddsBot** — Score 5, opportunity — [Quelle](https://github.com/alsk1992/CloddsBot)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-09-11T05:57:00+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, GitHub Trending, Open Source
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph demote odds, prediction market (x0.45)
+  - Kurz: Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude. https://www.cloddsbot.com AI-powered trading terminal for prediction markets, crypto & futures Claude + Odds = Clodds…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Empfehlungen
 
