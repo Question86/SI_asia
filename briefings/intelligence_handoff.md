@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-11T02:42:24Z_
+_Generated: 2026-09-11T02:51:58Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “AOMEI Backupperのamwrtdrv.sysカーネ�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-11T10:30:00+09:00` / age_days `0.05`
+- Published: `2026-09-11T10:30:00+09:00` / age_days `0.06`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “AOMEI Backupperのamwrtdrv.sysカーネ�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-11T10:30:15+09:00` / age_days `0.05`
+- Published: `2026-09-11T10:30:15+09:00` / age_days `0.06`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
@@ -32,17 +32,27 @@ Stärkste Dynamik nach Gate-Recheck: “AOMEI Backupperのamwrtdrv.sysカーネ�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-11T01:30:12+00:00` / age_days `0.05`
+- Published: `2026-09-11T01:30:12+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: supply, chain, high terms: rce, 10, security high-signal: rce, 10, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://e27.co/the-end-of-the-universal-a-player-dynamic-talent-matching-in-the-ai-driven-supply-chain-20260908/
 
+### How to turn your founder’s opinions into media-ready narratives
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-09-11T02:45:45+00:00` / age_days `0.0`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +1, krass gate: single-source non-official/non-identity signal capped
+- Quelle: https://e27.co/how-to-turn-your-founders-opinions-into-media-ready-narratives-20260910/
+
 ### AOMEI Backupperのamwrtdrv.sysカーネルドライバにおける権限昇格の脆弱性
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-11T01:30:59+00:00` / age_days `0.05`
+- Published: `2026-09-11T01:30:59+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -52,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “AOMEI Backupperのamwrtdrv.sysカーネ�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.0`
-- Published: `2026-09-11T01:30:59+00:00` / age_days `0.05`
+- Published: `2026-09-11T01:30:59+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, early terms: supply, chain, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -62,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “AOMEI Backupperのamwrtdrv.sysカーネ�
 
 - Band: `watch` (raw `strong`)
 - Dynamics score: `19.9`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `84.03`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `84.04`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: 10, aging penalty -8.0 for 84.0d old signal, stale single-source cap: max watch after 14d without fresh resonance
@@ -82,50 +92,40 @@ Stärkste Dynamik nach Gate-Recheck: “AOMEI Backupperのamwrtdrv.sysカーネ�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-09-11T01:30:59+00:00` / age_days `0.05`
+- Published: `2026-09-11T01:30:59+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
 - Quelle: https://ascii.jp/elem/000/004/432/4432444/
 
-### ガバメントソリューションサービスへの不正アクセスによる職員等の個人情報の漏えいの可能性について
+### M 4.9 - 69 km N of Isangel, Vanuatu
 
 - Band: `watch` (raw `watch`)
-- Dynamics score: `12.5`
-- Published: `2026-09-11T02:28:51+00:00` / age_days `0.01`
+- Dynamics score: `13.4`
+- Published: `2026-09-11T02:45:45+00:00` / age_days `0.0`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +1
-- Quelle: https://www.digital.go.jp/news/2026-0911-01
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgij
 
-### Countering misuse of AI: September 2026 / Anthropic
+### How to turn your founder’s opinions into media-ready narratives
 
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `10.43`
-- Published: `2026-09-01T21:51:36+00:00` / age_days `9.2`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Band: `watch` (raw `watch`)
+- Dynamics score: `13.0`
+- Published: `2026-09-11T02:30:24+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +3, baseline z_hint 0.39, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://www.anthropic.com/threat-intelligence-report-september-2026
+- Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://e27.co/how-to-turn-your-founders-opinions-into-media-ready-narratives-20260910/
 
-### I built an AI that keeps receipts. The mistakes became the useful part
+### M 4.9 - 69 km N of Isangel, Vanuatu
 
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `6.5`
-- Published: `2026-09-11T02:28:51+00:00` / age_days `0.01`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +1, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://e27.co/i-built-an-ai-that-keeps-receipts-the-mistakes-became-the-useful-part-20260909/
-
-### うっかり世界最強のWasmコンパイラを作ってしまった件 - Qiita
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `6.0`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `84.03`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Band: `watch` (raw `watch`)
+- Dynamics score: `12.0`
+- Published: `2026-09-11T02:44:52.040+00:00` / age_days `0.0`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, aging penalty -8.0 for 84.0d old signal
-- Quelle: https://qiita.com/kanryu/items/95147e22ed5ac542ba58
+- Warum: early terms: earthquake
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgij
 
 END OF DOCUMENT
