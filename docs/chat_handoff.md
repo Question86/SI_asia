@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-11T02:45:42+00:00_
+_Generated: 2026-09-11T02:53:29+00:00_
 
 ## Status
 - status: `normal`
-- findings: `11`
+- findings: `13`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-09-11T02:45:42+00:00_
 - url: https://jvn.jp/vu/JVNVU95258183/
 - summary: CERT/CCから本件に関するアドバイザリが公表されました。
 
-### 5. M 4.9 - 69 km N of Isangel, Vanuatu
+### 5. 3万スターの Claude Code スキルを入れたら、出力が43%短くなった - Qiita
+- source: Hatena Bookmark Hotentry IT
+- score: `13`
+- published: `2026-09-09T08:43:29+00:00`
+- url: https://qiita.com/suwa_nobu/items/cec37ce5a6141bb3eefc
+- summary: ayghri/i-have-adhd が Hacker News で269ポイントを集めていました。GitHub 30,233スター（2026-09-09 時点、API取得）。エージェントの回答から前置きを取り、行動を先頭に置かせるスキルです。 日本語の紹介記事は3本ありましたが、どれも実測がありません。 1本は「生産性向上のデータはない」と明記しています。 測...
+
+### 6. M 4.9 - 69 km N of Isangel, Vanuatu
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-09-11T02:44:52.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgij
 - summary: Time 2026-09-11 02:28:13 UTC 2026-09-11 02:28:13 UTC at epicenter Location 18.926°S 169.395°E Depth 18.75 km (11.65 mi)
 
-### 6. The imported risk: How geopolitics moved from ASEAN’s macro problem to ASEAN’s balance sheet
+### 7. The imported risk: How geopolitics moved from ASEAN’s macro problem to ASEAN’s balance sheet
 - source: e27 Asia Startup and Tech Feed
 - score: `9`
 - published: `2026-09-11T01:00:21+00:00`
 - url: https://e27.co/the-imported-risk-how-geopolitics-moved-from-aseans-macro-problem-to-aseans-balance-sheet-20260910/
 - summary: Last quarter I reviewed the credit file for a mid-sized Indonesian manufacturer applying for a working capital facility. The numbers were healthy. The covenants were standard. The collateral was sufficient. What stopped me was the customer concentration discl…
 
-### 7. Countering misuse of AI: September 2026 / Anthropic
+### 8. Countering misuse of AI: September 2026 / Anthropic
 - source: Hatena Bookmark Hotentry IT
 - score: `9`
 - published: `2026-09-10T19:40:09+00:00`
 - url: https://www.anthropic.com/threat-intelligence-report-september-2026
 - summary: Over the past eight months, our Threat Intelligence team identified and disrupted operations in which threat actors tried to use Claude for malicious activity. In this report, we share case studies from those operations and describe how malicious use of Claud…
-
-### 8. I built an AI that keeps receipts. The mistakes became the useful part
-- source: e27 Asia Startup and Tech Feed
-- score: `8`
-- published: `2026-09-11T02:00:32+00:00`
-- url: https://e27.co/i-built-an-ai-that-keeps-receipts-the-mistakes-became-the-useful-part-20260909/
-- summary: AI is remarkably good at producing answers. It is even better at sounding certain. Ask a difficult question and, within seconds, a system can gather information, connect ideas and return a polished explanation. Yet a harder question arrives later: what happen…
 
 END OF DOCUMENT
