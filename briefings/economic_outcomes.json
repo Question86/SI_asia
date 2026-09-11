@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-11T10:43:09+00:00",
+  "generated_at": "2026-09-11T10:50:59+00:00",
   "events": [
     {
       "event_id": "evt_02008879feb3a26196bb",
@@ -1490,13 +1490,13 @@
     {
       "event_id": "evt_4aa6b52906289fbe13d6",
       "title": "日本で自然と自動運転が解禁されることはない",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_4acb514d3517d6c8e49f",
@@ -4587,7 +4587,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_d5192e69cebad5339b1f",
