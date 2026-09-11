@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T09:51:54+00:00",
+  "generated_at": "2026-09-11T09:59:21+00:00",
   "today_file_total": 33,
   "current_clusters": [
     {
@@ -242,29 +242,6 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "domain:www.heise.de",
-      "title": "Patchday SAP: Präparierte Netzwerkanfrage ebnet Weg für Abstürze",
-      "sources": [
-        "heise Security Alerts"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.heise.de/news/Patchday-SAP-Praeparierte-Netzwerkanfrage-ebnet-Weg-fuer-Abstuerze-11450204.html"
-      ],
-      "finding_count": 1,
-      "max_score": 7,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 12.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
       "key": "earthquake:m 4.9 - 69 km n of isangel, vanuatu:4.9",
       "title": "M 4.9 - 69 km N of Isangel, Vanuatu",
       "sources": [
@@ -384,24 +361,24 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "title:url",
-      "title": "メルカリ、URLを知っている人だけ買える「限定公開機能」試験提供開始 悪用懸念も",
+      "key": "domain:www.heise.de",
+      "title": "Patchday SAP: Präparierte Netzwerkanfrage ebnet Weg für Abstürze",
       "sources": [
-        "Hatena Bookmark Hotentry IT"
+        "heise Security Alerts"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://ascii.jp/elem/000/004/434/4434123/"
+        "https://www.heise.de/news/Patchday-SAP-Praeparierte-Netzwerkanfrage-ebnet-Weg-fuer-Abstuerze-11450204.html"
       ],
       "finding_count": 1,
-      "max_score": 5,
+      "max_score": 7,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 10.1,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 9.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
@@ -448,6 +425,29 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 8.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:url",
+      "title": "メルカリ、URLを知っている人だけ買える「限定公開機能」試験提供開始 悪用懸念も",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://ascii.jp/elem/000/004/434/4434123/"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 7.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
