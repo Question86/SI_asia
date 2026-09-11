@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-09-11T05:00:28+00:00",
+  "generated_at": "2026-09-11T05:21:09+00:00",
   "fx_as_of": null,
-  "candidate_count": 502,
+  "candidate_count": 505,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 502
+    "pending": 505
   },
   "coverage_warning": null,
   "candidates": [
@@ -6314,6 +6314,48 @@
       "source_url": "https://e27.co/evs-gain-ground-in-the-philippines-as-fuel-costs-squeeze-drivers-20260911/"
     },
     {
+      "amount_native": 50000000.0,
+      "amount_usd": 50000000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.55,
+      "candidate_id": "cand_bf9b1df4e09da1abd389",
+      "component_suggestion": "capital_allocation",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_053f4fa216fa9d7c5edf",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-11T05:21:07+00:00",
+      "overlap_group_suggestion": "evt_053f4fa216fa9d7c5edf:capital_allocation:16a051a7b684",
+      "review_status": "pending",
+      "snippet": "data Defi E-Commerce Hardware Retail Artificial Intelligence Cryptocurrency Education Healthtech Software As A Service View all Startups --> POSTS STARTUPS Tech Innovators secured $50 million in funding from Venture Capitalist Alpha, paving the way for groundbreaking advancements in artificial intelligence. Discover the power of AI in transforming your daily tasks! Wit",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://e27.co/bitcoin-drops-to-us76796-54-as-91-sp-500-correlation-exposes-cryptos-macro-trap-20260911/",
+      "component_confidence": 0.55,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
+    },
+    {
+      "amount_native": 50000000.0,
+      "amount_usd": 50000000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.55,
+      "candidate_id": "cand_4a34909f5fd75dd9c345",
+      "component_suggestion": "capital_allocation",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_053f4fa216fa9d7c5edf",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-11T05:21:07+00:00",
+      "overlap_group_suggestion": "evt_053f4fa216fa9d7c5edf:capital_allocation:f3a8ffe32888",
+      "review_status": "pending",
+      "snippet": "cial intelligence. Discover the power of AI in transforming your daily tasks! With intelligent algorithms, we enhance productivity and streamline workflows. AI Innovations Secures $50 Million in Funding from Visionary Investor Experience the future with AI-driven solutions that simplify complex processes and boost efficiency in your work environment. View all Posts Xam",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://e27.co/bitcoin-drops-to-us76796-54-as-91-sp-500-correlation-exposes-cryptos-macro-trap-20260911/",
+      "component_confidence": 0.55,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
+    },
+    {
       "amount_native": 44000000.0,
       "amount_usd": 44000000.0,
       "attribution_probability": null,
@@ -8849,6 +8891,27 @@
       "snippet": "Will Bitcoin hold US$77,000 or drag the market to US$2.51T? The September 10 answer | e27 --> Verify Your Email Address Your account contact email hasn't been verified yet. Please verify your email address Go",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://e27.co/will-bitcoin-hold-us77000-or-drag-the-market-to-us2-51t-the-september-10-answer-20260910/"
+    },
+    {
+      "amount_native": 76796.54,
+      "amount_usd": 76796.54,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_d067d71f5fefc6293ca8",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_053f4fa216fa9d7c5edf",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-11T05:21:07+00:00",
+      "overlap_group_suggestion": "evt_053f4fa216fa9d7c5edf:unknown:0c0985752dd2",
+      "review_status": "pending",
+      "snippet": "Bitcoin drops to US$76,796.54 as 91% S&P 500 correlation exposes crypto's macro trap | e27 --> Verify Your Email Address Your account contact email hasn't been verified yet. Please verify your email address Go",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://e27.co/bitcoin-drops-to-us76796-54-as-91-sp-500-correlation-exposes-cryptos-macro-trap-20260911/",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 76500.0,
