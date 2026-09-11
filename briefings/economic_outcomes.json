@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-11T12:00:21+00:00",
+  "generated_at": "2026-09-11T12:31:23+00:00",
   "events": [
     {
       "event_id": "evt_02008879feb3a26196bb",
@@ -1936,7 +1936,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_5e9435346f4d1ebff3f5",
@@ -2586,6 +2586,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_76385453016790c663f4",
+      "title": "M 5.9 - 253 km ENE of Lospalos, Timor Leste",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_765c0a45ed304df23531",
