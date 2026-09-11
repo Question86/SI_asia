@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-11T01:08:45+00:00",
+  "generated_at": "2026-09-11T01:31:18+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -2541,8 +2541,8 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-09T23:54:37+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-09-11T01:30:59+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_6bd9db655618cf846ffa",
@@ -2917,6 +2917,23 @@
       "first_seen_at": "2026-09-04T01:50:38+00:00",
       "last_seen_at": "2026-09-04T23:57:22+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_2e3fa6b1cf3469d2d7df",
+      "title": "AOMEI Backupperのamwrtdrv.sysカーネルドライバにおける権限昇格の脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-11T01:30:59+00:00",
+      "last_seen_at": "2026-09-11T01:30:59+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_2f5c3cffbb9951edd868",
@@ -3427,6 +3444,23 @@
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-09-08T21:55:12+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_692efcfd9818c148f340",
+      "title": "The end of the universal a-player: Dynamic talent matching in the AI-driven supply chain",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 118400.0,
+      "p50_usd": 11840000.0,
+      "p90_usd": 1184000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-11T01:30:59+00:00",
+      "last_seen_at": "2026-09-11T01:30:59+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_4d63c766d1a3ce54fc2b",
@@ -5554,6 +5588,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_5e58ca349e78fae4350d",
+      "title": "Countering misuse of AI: September 2026 / Anthropic",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 111200.0,
+      "p50_usd": 11120000.0,
+      "p90_usd": 1112000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-11T01:08:28+00:00",
+      "last_seen_at": "2026-09-11T01:30:59+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_6dc9fd22d6ef7f383649",
       "title": "The cloud is just someone else’s computer. Sometimes that computer gets hit by a drone",
       "event_classes": [
@@ -5619,24 +5670,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-11T01:08:28+00:00",
-      "last_seen_at": "2026-09-11T01:08:28+00:00",
-      "status": "active"
-    },
-    {
-      "event_id": "evt_5e58ca349e78fae4350d",
-      "title": "Countering misuse of AI: September 2026 / Anthropic",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 111200.0,
-      "p50_usd": 11120000.0,
-      "p90_usd": 1112000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-11T01:08:28+00:00",
-      "last_seen_at": "2026-09-11T01:08:28+00:00",
+      "last_seen_at": "2026-09-11T01:30:59+00:00",
       "status": "active"
     },
     {
@@ -7115,8 +7149,8 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T12:58:27+00:00",
-      "last_seen_at": "2026-09-09T10:33:21+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-09-11T01:30:59+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_491708df1e8ae0656660",
@@ -8035,6 +8069,23 @@
       "first_seen_at": "2026-09-08T01:40:08+00:00",
       "last_seen_at": "2026-09-08T05:58:24+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_e03165bb9d6ed4e50925",
+      "title": "私が「3年前に発売されたAnkerのソーラーパネル」を“防災用品として”おすすめするワケ。 (1/5)",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-11T01:30:59+00:00",
+      "last_seen_at": "2026-09-11T01:30:59+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_0c6710a679cf664f6705",
