@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T10:21:18+00:00",
-  "run_id": "2026-09-11T10:21:18+00:00",
+  "generated_at": "2026-09-11T10:31:52+00:00",
+  "run_id": "2026-09-11T10:31:52+00:00",
   "date": "2026-09-11",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 34,
     "displayed_findings": 34,
     "high": 0,
@@ -1671,30 +1671,7 @@
       "id": "aa01f6f13a6cfedc4c1f"
     }
   ],
-  "new_findings": [
-    {
-      "title": "The AI talent war is coming for Big Tech’s Asia executives",
-      "url": "https://restofworld.org/2026/openai-anthropic-big-tech-executives-asia/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "source": "Rest of World Global Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-11T10:00:00+00:00",
-      "fetched_at": "2026-09-11T10:20:43+00:00",
-      "summary": "OpenAI and Anthropic are hiring leaders from Meta, Google, Microsoft, and other U.S. tech giants to win new markets across India and Southeast Asia.",
-      "matched_keywords": [
-        "AI/KI",
-        "Asia",
-        "OpenAI"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); Asia (+2.5); recent (+1.0); watchgraph region india: India (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5f7fd7a486274b4a9709"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
