@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-11T17:14:03+00:00_
+_Generated: 2026-09-11T17:33:39+00:00_
 
 ## Status
 - status: `normal`
-- findings: `56`
+- findings: `57`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-09-11T17:14:03+00:00_
 - url: https://openai.com/index/scaling-storage-one-billion-users-part-one
 - summary: Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.
 
-### 7. M 5.9 - 253 km ENE of Lospalos, Timor Leste
+### 7. M 4.7 - 33 km SW of Sipí, Colombia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `11`
+- published: `2026-09-11T17:19:09.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgpu
+- summary: Time 2026-09-11 16:42:30 UTC 2026-09-11 16:42:30 UTC at epicenter Location 4.419°N 76.833°W Depth 61.09 km (37.96 mi)
+
+### 8. M 5.9 - 253 km ENE of Lospalos, Timor Leste
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-09-11T12:28:54.309+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgl2
 - summary: ShakeMap - IV DYFI? - II Time 2026-09-11 11:56:23 UTC 2026-09-11 11:56:23 UTC at epicenter Location 7.286°S 128.938°E Depth 111.76 km (69.45 mi)
-
-### 8. M 5.3 - 151 km WSW of Adak, Alaska
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-09-11T11:07:16.188+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgky
-- summary: ShakeMap - V Time 2026-09-11 10:47:12 UTC 2026-09-11 10:47:12 UTC at epicenter Location 51.213°N 178.543°W Depth 40.89 km (25.41 mi)
 
 END OF DOCUMENT
