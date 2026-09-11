@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-11T07:45:10+00:00_
+_Generated: 2026-09-11T07:52:46+00:00_
 
 ## Status
 - status: `normal`
-- findings: `22`
+- findings: `24`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-09-11T07:45:10+00:00_
 - url: https://qiita.com/suwa_nobu/items/cec37ce5a6141bb3eefc
 - summary: ayghri/i-have-adhd が Hacker News で269ポイントを集めていました。GitHub 30,233スター（2026-09-09 時点、API取得）。エージェントの回答から前置きを取り、行動を先頭に置かせるスキルです。 日本語の紹介記事は3本ありましたが、どれも実測がありません。 1本は「生産性向上のデータはない」と明記しています。 測...
 
-### 6. EVs gain ground in the Philippines as fuel costs squeeze drivers
+### 6. 昊亞科技｜WeenyGenius - 存在4個漏洞
+- source: TWCERT/CC TVN Vulnerability Notes RSS
+- score: `11`
+- published: `2026-09-11T06:52:00+00:00`
+- url: https://www.twcert.org.tw/tw/cp-132-11201-658c0-1.html
+- summary: 昊亞科技｜WeenyGenius - 存在4個漏洞
+
+### 7. 鎧鋒企業｜智慧對講系統 - 存在3個漏洞
+- source: TWCERT/CC TVN Vulnerability Notes RSS
+- score: `11`
+- published: `2026-09-11T06:24:00+00:00`
+- url: https://www.twcert.org.tw/tw/cp-132-11198-b8bba-1.html
+- summary: 鎧鋒企業｜智慧對講系統 - 存在3個漏洞
+
+### 8. EVs gain ground in the Philippines as fuel costs squeeze drivers
 - source: e27 Asia Startup and Tech Feed
 - score: `9`
 - published: `2026-09-11T04:44:33+00:00`
 - url: https://e27.co/evs-gain-ground-in-the-philippines-as-fuel-costs-squeeze-drivers-20260911/
 - summary: The Philippines’s electric vehicle (EV) market is expected to keep growing in 2026 even as the broader car industry contracts, underscoring how fuel costs, government incentives and cheaper Chinese models are beginning to shift buyer behaviour in one of South…
-
-### 7. M 4.9 - 69 km N of Isangel, Vanuatu
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-09-11T02:44:52.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgij
-- summary: Time 2026-09-11 02:28:13 UTC 2026-09-11 02:28:13 UTC at epicenter Location 18.926°S 169.395°E Depth 18.75 km (11.65 mi)
-
-### 8. The imported risk: How geopolitics moved from ASEAN’s macro problem to ASEAN’s balance sheet
-- source: e27 Asia Startup and Tech Feed
-- score: `9`
-- published: `2026-09-11T01:00:21+00:00`
-- url: https://e27.co/the-imported-risk-how-geopolitics-moved-from-aseans-macro-problem-to-aseans-balance-sheet-20260910/
-- summary: Last quarter I reviewed the credit file for a mid-sized Indonesian manufacturer applying for a working capital facility. The numbers were healthy. The covenants were standard. The collateral was sufficient. What stopped me was the customer concentration discl…
 
 END OF DOCUMENT

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T07:45:14+00:00",
-  "today_file_total": 22,
+  "generated_at": "2026-09-11T07:52:49+00:00",
+  "today_file_total": 24,
   "current_clusters": [
     {
       "key": "title:singaporean-founders-lightsage-bags-decode-agents-choose-software",
@@ -25,6 +25,30 @@
       "watchgraph_modules": [
         "ai_agents_workflow"
       ],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "domain:www.twcert.org",
+      "title": "昊亞科技｜WeenyGenius - 存在4個漏洞",
+      "sources": [
+        "TWCERT/CC TVN Vulnerability Notes RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.twcert.org.tw/tw/cp-132-11201-658c0-1.html",
+        "https://www.twcert.org.tw/tw/cp-132-11198-b8bba-1.html"
+      ],
+      "finding_count": 2,
+      "max_score": 11,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 2,
+      "momentum_status": "increasing",
+      "network_score": 21.2,
+      "hot": true,
+      "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
     },
     {
@@ -447,29 +471,6 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
-    },
-    {
-      "key": "title:bitcoin-drops-796-500-correlation-exposes-crypto-macro",
-      "title": "Bitcoin drops to US$76,796.54 as 91% S&P 500 correlation exposes crypto’s macro trap",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/bitcoin-drops-to-us76796-54-as-91-sp-500-correlation-exposes-cryptos-macro-trap-20260911/"
-      ],
-      "finding_count": 1,
-      "max_score": 4,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 6.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     }
   ]
 }

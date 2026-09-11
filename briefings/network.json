@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-11T07:45:14+00:00",
+  "generated_at": "2026-09-11T07:52:49+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 22,
-    "clusters": 21,
+    "findings": 24,
+    "clusters": 22,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 0,
@@ -49,6 +49,45 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-11T04:30:32+00:00"
+    },
+    {
+      "key": "domain:www.twcert.org",
+      "title": "昊亞科技｜WeenyGenius - 存在4個漏洞",
+      "sources": [
+        "TWCERT/CC TVN Vulnerability Notes RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.twcert.org.tw/tw/cp-132-11201-658c0-1.html",
+        "https://www.twcert.org.tw/tw/cp-132-11198-b8bba-1.html"
+      ],
+      "finding_count": 2,
+      "max_score": 11,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 2,
+      "momentum_status": "increasing",
+      "network_score": 20.63,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 21.2,
+      "ranking_score": 20.63,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 5.0,
+      "baseline_bonus": 3.13,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T11:28:55+00:00"
     },
     {
       "key": "title:end-universal-player-dynamic-talent-matching-driven-supply",
@@ -261,18 +300,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 15.31,
+      "network_score": 15.26,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 17.2,
-      "ranking_score": 15.31,
+      "ranking_score": 15.26,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.81,
+      "baseline_bonus": 0.76,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -821,7 +860,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-11T07:45:14Z",
+    "generated_at": "2026-09-11T07:52:50Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
