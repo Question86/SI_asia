@@ -204,6 +204,29 @@
     "id": "bda68eee88b81386d567"
   },
   {
+    "title": "[NEU] [hoch] MongoDB: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3320",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-11T11:16:31+00:00",
+    "fetched_at": "2026-09-11T11:26:39+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in MongoDB ausnutzen, um Abfrage- und Zugriffsbeschränkungen zu umgehen, nicht vorgesehene Datensätze oder Dateien auszulesen, zu verändern oder zu löschen sowie unter bestimmten Voraussetzungen MongoDB-Server oder Anwendungen zum Absturz zu bringen und dadurch einen Denial-of-Service zu verursachen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a40c75d3cda9a6000806"
+  },
+  {
     "title": "[UPDATE] [mittel] vim: Schwachstelle ermöglicht Denial of Service",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2059",
     "source": "BSI CERT-Bund Security Advisories",
@@ -517,6 +540,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "084f145a616d432ccb23"
+  },
+  {
+    "title": "中国AI「Kimi」、利用者の入力をClaudeに転送し、Claudeの回答を利用者に表示か--Anthropicが報告",
+    "url": "https://japan.cnet.com/article/35252543/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-09-11T05:46:57+00:00",
+    "fetched_at": "2026-09-11T11:26:39+00:00",
+    "summary": "DeepSeekについては、外部のコーディングツールなどを経由したリクエストの一部を選び、Claude Opusに転送していたと報告した。転送内容には企業の内部文書や、稼働中のデータベースにアクセスするための認証情報も含まれていたという。 同レポートは、Xiaomiの「MiMo」の利用者との会話もClaudeに送られていたと指摘し...",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "12d288444be82184cce4"
   },
   {
     "title": "EVs gain ground in the Philippines as fuel costs squeeze drivers",

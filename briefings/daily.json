@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T11:16:18+00:00",
-  "today_file_total": 39,
+  "generated_at": "2026-09-11T11:27:16+00:00",
+  "today_file_total": 41,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -13,18 +13,19 @@
       ],
       "urls": [
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3292",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3320",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2059",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3291",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3295",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3289"
       ],
-      "finding_count": 5,
+      "finding_count": 6,
       "max_score": 16,
-      "credibility_total": 5.25,
+      "credibility_total": 6.3,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 29.5,
+      "network_score": 31.6,
       "hot": true,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
@@ -173,31 +174,6 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "earthquake:alaska:5.3",
-      "title": "M 5.3 - 151 km WSW of Adak, Alaska",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgky"
-      ],
-      "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 16.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
       "key": "title:blog-cms",
       "title": "a-blog cmsにおけるパストラバーサルの脆弱性",
       "sources": [
@@ -288,6 +264,54 @@
       "network_score": 15.2,
       "hot": false,
       "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "domain:japan.cnet.com",
+      "title": "中国AI「Kimi」、利用者の入力をClaudeに転送し、Claudeの回答を利用者に表示か--Anthropicが報告",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://japan.cnet.com/article/35252543/"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 15.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "earthquake:alaska:5.3",
+      "title": "M 5.3 - 151 km WSW of Adak, Alaska",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgky"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 13.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
@@ -455,29 +479,6 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 10.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "domain:www.heise.de",
-      "title": "Patchday SAP: Präparierte Netzwerkanfrage ebnet Weg für Abstürze",
-      "sources": [
-        "heise Security Alerts"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.heise.de/news/Patchday-SAP-Praeparierte-Netzwerkanfrage-ebnet-Weg-fuer-Abstuerze-11450204.html"
-      ],
-      "finding_count": 1,
-      "max_score": 7,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 9.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."

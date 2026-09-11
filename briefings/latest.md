@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-11T11:16:14+00:00_
+_Generiert: 2026-09-11T11:27:13+00:00_
 
 ## Kurzlage
 
-39 neue relevante Treffer. Stärkstes Signal: „Singaporean founders’ Lightsage bags US$4M to decode how AI agents choose software“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
+41 neue relevante Treffer. Stärkstes Signal: „Singaporean founders’ Lightsage bags US$4M to decode how AI agents choose software“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -124,6 +124,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 有限会社アップルップルが提供するa-blog cmsには、パストラバーサルの脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[NEU] [hoch] MongoDB: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3320)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-09-11T11:16:31+00:00`, fetched `2026-09-11T11:26:39+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in MongoDB ausnutzen, um Abfrage- und Zugriffsbeschränkungen zu umgehen, nicht vorgesehene Datensätze oder Dateien auszulesen, zu verändern oder zu löschen sowie unter bestimmten Voraussetzungen MongoDB-Server oder Anwendungen zum Absturz zu bringen und dadurch einen Denial-of-Service zu verursachen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [mittel] vim: Schwachstelle ermöglicht Denial of Service** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2059)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-09-11T11:08:25+00:00`, fetched `2026-09-11T11:15:40+00:00`
@@ -142,15 +151,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [hoch] Netty: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3291)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-09-11T09:13:15+00:00`, fetched `2026-09-11T09:23:20+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Netty ausnutzen, um Denial-of-Service-Zustände zu verursachen, Sicherheitsmaßnahmen zu umgehen, Request- oder Response-Smuggling durchzuführen sowie Daten offenzulegen oder zu manipulieren.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -208,6 +208,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)
   - Kurz: 鎧鋒企業｜智慧對講系統 - 存在3個漏洞
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **中国AI「Kimi」、利用者の入力をClaudeに転送し、Claudeの回答を利用者に表示か--Anthropicが報告** — Score 10, observation — [Quelle](https://japan.cnet.com/article/35252543/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-11T05:46:57+00:00`, fetched `2026-09-11T11:26:39+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: DeepSeekについては、外部のコーディングツールなどを経由したリクエストの一部を選び、Claude Opusに転送していたと報告した。転送内容には企業の内部文書や、稼働中のデータベースにアクセスするための認証情報も含まれていたという。 同レポートは、Xiaomiの「MiMo」の利用者との会話もClaudeに送られていたと指摘し...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **EVs gain ground in the Philippines as fuel costs squeeze drivers** — Score 9, observation — [Quelle](https://e27.co/evs-gain-ground-in-the-philippines-as-fuel-costs-squeeze-drivers-20260911/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-11T04:44:33+00:00`, fetched `2026-09-11T04:51:57+00:00`
@@ -270,15 +279,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: ガバメントソリューションサービスへの不正アクセスによる職員等の個人情報の漏えいの可能性について
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **メルカリ、URLを知っている人だけ買える「限定公開機能」試験提供開始 悪用懸念も** — Score 5, observation — [Quelle](https://ascii.jp/elem/000/004/434/4434123/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-11T08:17:29+00:00`, fetched `2026-09-11T09:51:20+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: メルカリは9月11日現在、一部ユーザーに「商品の限定公開機能」を提供中。これを受け、SNS（X）では悪用を懸念する声が挙がっている。 商品の限定公開は、商品ページのURLを知っているユーザーのみが閲覧・購入できる出品方法。通常の出品と違い、検索結果や「おすすめ」、出品者プロフィールなどに当該商品が表示される...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **alsk1992/CloddsBot** — Score 5, opportunity — [Quelle](https://github.com/alsk1992/CloddsBot)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
