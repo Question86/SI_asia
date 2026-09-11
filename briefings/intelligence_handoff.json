@@ -1,15 +1,118 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-11T00:36:10Z",
-  "situation_read": "Keine verwertbaren Dynamiken im aktuellen Run.",
+  "generated_at": "2026-09-11T01:09:22Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Countering misuse of AI: September 2026 / Anthropic” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=16.35.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
     "Single-source AI is capped unless AXI0M/User-Yps relevance or official incident evidence exists.",
     "Security high-signal terms outrank AI hype when exposure could matter."
   ],
-  "top_dynamics": [],
+  "top_dynamics": [
+    {
+      "title": "Countering misuse of AI: September 2026 / Anthropic",
+      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-01T21:51:36+00:00",
+      "age_days": 9.14,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 16.35,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 3.5,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 3.50",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "The imported risk: How geopolitics moved from ASEAN’s macro problem to ASEAN’s balance sheet",
+      "url": "https://e27.co/the-imported-risk-how-geopolitics-moved-from-aseans-macro-problem-to-aseans-balance-sheet-20260910/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-11T01:08:28+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 15.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "The imported risk: How geopolitics moved from ASEAN’s macro problem to ASEAN’s balance sheet",
+      "url": "https://e27.co/the-imported-risk-how-geopolitics-moved-from-aseans-macro-problem-to-aseans-balance-sheet-20260910/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-11T01:00:21+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Last quarter I reviewed the credit file for a mid-sized Indonesian manufacturer applying for a working capital facility. The numbers were healthy. The covenants were standard. The collateral was sufficient. What stopped me was the customer concentration disclosure: more than 60 per cent of the manufacturer’s annual re…"
+    },
+    {
+      "title": "Countering misuse of AI: September 2026 / Anthropic",
+      "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-10T19:40:09+00:00",
+      "age_days": 0.23,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 1.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Over the past eight months, our Threat Intelligence team identified and disrupted operations in which threat actors tried to use Claude for malicious activity. In this report, we share case studies from those operations and describe how malicious use of Claude has evolved since our previous threa..."
+    }
+  ],
   "read_order": [
     "briefings/intelligence_handoff.json",
     "memory/dynamics.json",
@@ -18,6 +121,9 @@
     "briefings/latest.json if details are needed"
   ],
   "counts": {
-    "bands_after_gate_recheck": {}
+    "bands_after_gate_recheck": {
+      "watch": 2,
+      "quiet": 2
+    }
   }
 }
