@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-11T12:48:43+00:00_
+_Generiert: 2026-09-11T12:57:18+00:00_
 
 ## Kurzlage
 
@@ -49,10 +49,6 @@ _Generiert: 2026-09-11T12:48:43+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone NORBERT-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **USGS earthquake M5.9 - 253 km ENE of Lospalos, Timor Leste** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgl2)
-  - Quelle: USGS
-  - Zeit: `2026-09-11T11:56:23+00:00`
-  - Kurz: M5.9 - 253 km ENE of Lospalos, Timor Leste. PAGER alert: none. Tsunami flag: 0.
 
 ## Wirtschaft global
 
