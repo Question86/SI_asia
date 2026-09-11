@@ -1,6 +1,6 @@
 # Senna Pipeline Health
 
-_Generated: 2026-09-11T10:50:24+00:00_
+_Generated: 2026-09-11T10:57:38+00:00_
 
 Status: `normal`
 
@@ -9,7 +9,7 @@ Status: `normal`
 - Normaler Monitor schreibt sichtbaren Feed.
 - Emergency RSS writer ist nur Fallback, nicht Lagebild.
 - coverage confidence: `normal`
-- findings displayed: `36`
+- findings displayed: `37`
 - new findings this run: `1`
 - source errors: `0`
 

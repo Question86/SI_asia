@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T10:50:27+00:00",
-  "today_file_total": 36,
+  "generated_at": "2026-09-11T10:57:41+00:00",
+  "today_file_total": 37,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -172,8 +172,8 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "earthquake:alaska:5.2",
-      "title": "M 5.2 - 152 km WSW of Adak, Alaska",
+      "key": "earthquake:alaska:5.7",
+      "title": "M 5.7 - 152 km SW of Adak, Alaska",
       "sources": [
         "USGS M4.5+ Earthquakes Past Hour"
       ],
@@ -181,7 +181,7 @@
         "tier1_official"
       ],
       "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/attl74mn"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sadcxu"
       ],
       "finding_count": 1,
       "max_score": 11,
@@ -287,6 +287,31 @@
       "network_score": 15.2,
       "hot": false,
       "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "earthquake:alaska:5.2",
+      "title": "M 5.2 - 152 km WSW of Adak, Alaska",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/attl74mn"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 13.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
@@ -442,29 +467,6 @@
       ],
       "urls": [
         "https://www.digital.go.jp/speech/minister-260911-01"
-      ],
-      "finding_count": 1,
-      "max_score": 6,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 8.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "url:https://www.digital.go.jp/news/2026-0911-01",
-      "title": "ガバメントソリューションサービスへの不正アクセスによる職員等の個人情報の漏えいの可能性について",
-      "sources": [
-        "Japan Digital Agency News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.digital.go.jp/news/2026-0911-01"
       ],
       "finding_count": 1,
       "max_score": 6,

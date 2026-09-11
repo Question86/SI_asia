@@ -1,7 +1,22 @@
 {
-  "generated_at": "2026-09-11T10:50:27+00:00",
+  "generated_at": "2026-09-11T10:57:41+00:00",
   "sections": {
     "global_security": [
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "USGS earthquake M5.7 - 152 km SW of Adak, Alaska",
+        "summary": "M5.7 - 152 km SW of Adak, Alaska. PAGER alert: none. Tsunami flag: 1.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sadcxu",
+        "published_at": "2026-09-11T10:47:10+00:00",
+        "metrics": {
+          "mag": 5.7,
+          "alert": "",
+          "sig": 500.0,
+          "tsunami": 1
+        }
+      },
       {
         "domain": "security",
         "severity": "high",
