@@ -1,15 +1,17 @@
 # Economic Evidence Review
 
-Generated: `2026-09-11T05:42:36+00:00`
+Generated: `2026-09-11T05:58:04+00:00`
 FX as of: `None`
 
-- Candidates: **505**
+- Candidates: **519**
 - Promoted: **0**
 
 | Candidate | Event | USD | Component | Status |
 |---|---|---:|---|---|
 | `cand_9fe76ea95cae96fd5d41` | `evt_624a2e3ce3ccd3efe095` | $100,000,000,000 | unknown | pending |
 | `cand_d9f78969526855a19e91` | `evt_624a2e3ce3ccd3efe095` | $1,000,000 | unknown | pending |
+| `cand_a764d7a43be24dec3ee1` | `evt_89b02835b3e32a9fb33f` | $100 | capital_allocation | pending |
+| `cand_9a4e61f478759136f49d` | `evt_89b02835b3e32a9fb33f` | $50 | capital_allocation | pending |
 | `cand_e936a3d06d83b262399b` | `evt_3cb5980444e3bd7e9296` | $6 | capital_allocation | pending |
 | `cand_dea5e661bfbf3a2af66a` | `evt_3cb5980444e3bd7e9296` | $5 | real_resource | pending |
 | `cand_c65adb0aa4535f528094` | `evt_566b9c70a07073da651c` | $4 | real_resource | pending |
@@ -29,7 +31,15 @@ FX as of: `None`
 | `cand_d6113be414c41d9b43bc` | `evt_519266b8d2b8e470900c` | $5 | unknown | pending |
 | `cand_e4da03625b9cc62e7afc` | `evt_3cb5980444e3bd7e9296` | $2 | unknown | pending |
 | `cand_05d770e15ac6343f474e` | `evt_e2a35831f82554cb2454` | $1 | unknown | pending |
+| `cand_d3a62b5a1600ab285446` | `evt_89b02835b3e32a9fb33f` | $1 | unknown | pending |
+| `cand_61e35ea7cc9a0fc11802` | `evt_89b02835b3e32a9fb33f` | $1 | unknown | pending |
 | `cand_a01318272b74e3cf2348` | `evt_55bf431fc184f598da38` | $1 | unknown | pending |
+| `cand_9095cad42350faebc825` | `evt_89b02835b3e32a9fb33f` | $0 | unknown | pending |
+| `cand_0b5fd5156ecad7862db8` | `evt_89b02835b3e32a9fb33f` | $0 | transfers | pending |
+| `cand_1b5032563ae5d06b9cff` | `evt_89b02835b3e32a9fb33f` | $0 | transfers | pending |
+| `cand_d1c0fb00b4d32dbd9bb6` | `evt_89b02835b3e32a9fb33f` | $0 | transfers | pending |
+| `cand_c5e9fa17eda5de6bdeb9` | `evt_89b02835b3e32a9fb33f` | $0 | unknown | pending |
+| `cand_af9629ca636dca3a28fe` | `evt_89b02835b3e32a9fb33f` | $0 | unknown | pending |
 | `cand_1632d72ae220b0f3367d` | `evt_43856848b80264610146` | — | unknown | pending |
 | `cand_5921bf29bb5e13ada45c` | `evt_43856848b80264610146` | — | unknown | pending |
 | `cand_314e8f6de606dcc55631` | `evt_43856848b80264610146` | — | unknown | pending |
@@ -38,13 +48,3 @@ FX as of: `None`
 | `cand_35744eae7cefb2221a34` | `evt_43856848b80264610146` | — | unknown | pending |
 | `cand_ebe05629eddf5dc08d27` | `evt_43856848b80264610146` | — | unknown | pending |
 | `cand_7e23c33e3308e27e6a45` | `evt_43856848b80264610146` | — | unknown | pending |
-| `cand_a3a215291d51707ccfb8` | `evt_43856848b80264610146` | — | unknown | pending |
-| `cand_5e7c410f7cdb47133cf8` | `evt_43856848b80264610146` | — | unknown | pending |
-| `cand_353e13177dbc22038c6a` | `evt_43856848b80264610146` | — | unknown | pending |
-| `cand_be59d7bafa944f6a6c58` | `evt_43856848b80264610146` | — | unknown | pending |
-| `cand_9d156325aa212bd090af` | `evt_43856848b80264610146` | — | unknown | pending |
-| `cand_4d92bc41cbd823a304b3` | `evt_43856848b80264610146` | — | unknown | pending |
-| `cand_2878d80110751a17fd1a` | `evt_43856848b80264610146` | — | unknown | pending |
-| `cand_b5b9708bffe372d6b4e8` | `evt_43856848b80264610146` | — | unknown | pending |
-| `cand_6dc9f22aff7aa35343e5` | `evt_43856848b80264610146` | — | unknown | pending |
-| `cand_89f188b3aabce4381a83` | `evt_43856848b80264610146` | — | unknown | pending |
