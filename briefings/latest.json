@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T23:38:44+00:00",
-  "run_id": "2026-09-11T23:38:44+00:00",
+  "generated_at": "2026-09-11T23:46:02+00:00",
+  "run_id": "2026-09-11T23:46:02+00:00",
   "date": "2026-09-11",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 68
+      "configured_public_sources_only": 69
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 68,
-    "displayed_findings": 68,
+    "new_relevant_findings": 1,
+    "today_file_total": 69,
+    "displayed_findings": 69,
     "high": 0,
     "medium": 22,
-    "observe": 46,
+    "observe": 47,
     "source_errors": 0
   },
   "sections": {
@@ -1277,6 +1277,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "36e50dcbdae6039225ba"
+      },
+      {
+        "title": "多様なステークホルダーで行政デジタル化をともに考える「Govtech Meetup」（第6回）を開催します",
+        "url": "https://www.digital.go.jp/news/nDu6utZi",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-09-11T23:38:21+00:00",
+        "fetched_at": "2026-09-11T23:45:33+00:00",
+        "summary": "多様なステークホルダーで行政デジタル化をともに考える「Govtech Meetup」（第6回）を開催します",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7b641dc6c62832bf4512"
       },
       {
         "title": "Add VS Code Agents to Copilot usage metrics",
@@ -2947,6 +2967,26 @@
       "id": "36e50dcbdae6039225ba"
     },
     {
+      "title": "多様なステークホルダーで行政デジタル化をともに考える「Govtech Meetup」（第6回）を開催します",
+      "url": "https://www.digital.go.jp/news/nDu6utZi",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-11T23:38:21+00:00",
+      "fetched_at": "2026-09-11T23:45:33+00:00",
+      "summary": "多様なステークホルダーで行政デジタル化をともに考える「Govtech Meetup」（第6回）を開催します",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7b641dc6c62832bf4512"
+    },
+    {
       "title": "Add VS Code Agents to Copilot usage metrics",
       "url": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
       "source": "GitHub Changelog Atom",
@@ -3365,7 +3405,28 @@
       "id": "aa01f6f13a6cfedc4c1f"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "多様なステークホルダーで行政デジタル化をともに考える「Govtech Meetup」（第6回）を開催します",
+      "url": "https://www.digital.go.jp/news/nDu6utZi",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-11T23:38:21+00:00",
+      "fetched_at": "2026-09-11T23:45:33+00:00",
+      "summary": "多様なステークホルダーで行政デジタル化をともに考える「Govtech Meetup」（第6回）を開催します",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7b641dc6c62832bf4512"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
