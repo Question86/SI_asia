@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-09-11T07:45:46+00:00`
+Generated: `2026-09-11T07:53:24+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -10,7 +10,7 @@ Generated: `2026-09-11T07:45:46+00:00`
 | WebMCPがアツいので見てほしい \| DevelopersIO | $0 | — | 0 | 0 | dormant |
 | Why Kyoto, not Tokyo, is Japan’s real deeptech bet | $0 | — | 0 | 0 | dormant |
 | M 6.2 - South Sandwich Islands region | $0 | — | 0 | 0 | dormant |
-| Bitcoin drops to US$76,796.54 as 91% S&P 500 correlation exposes crypto’s macro trap | $0 | — | 0 | 0 | active |
+| Bitcoin drops to US$76,796.54 as 91% S&P 500 correlation exposes crypto’s macro trap | $0 | — | 0 | 0 | dormant |
 | M 4.6 - 170 km ESE of Kuril’sk, Russia | $0 | — | 0 | 0 | dormant |
 | 「三省堂書店池袋本店」閉店へ 11年の歴史に幕、惜しむ声続々 | $0 | — | 0 | 0 | dormant |
 | M 5.0 - 53 km W of Cafayate, Argentina | $0 | — | 0 | 0 | dormant |
