@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T05:57:32+00:00",
-  "run_id": "2026-09-11T05:57:32+00:00",
+  "generated_at": "2026-09-11T06:28:07+00:00",
+  "run_id": "2026-09-11T06:28:07+00:00",
   "date": "2026-09-11",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 21
+      "configured_public_sources_only": 22
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 21,
-    "displayed_findings": 21,
+    "new_relevant_findings": 1,
+    "today_file_total": 22,
+    "displayed_findings": 22,
     "high": 0,
     "medium": 6,
-    "observe": 15,
+    "observe": 16,
     "source_errors": 0
   },
   "sections": {
@@ -415,6 +415,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "c72235286cb94826765a"
+      },
+      {
+        "title": "警察官を名乗る電話1本をきっかけに経理部長が11億円を送金してしまった事例から詐欺手口への教訓を学ぶ【読めば身に付くネットリテラシー】",
+        "url": "https://internet.watch.impress.co.jp/docs/column/netliteracy/2139916.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-11T04:25:59+00:00",
+        "fetched_at": "2026-09-11T06:27:35+00:00",
+        "summary": "警察官を名乗る電話1本をきっかけに経理部長が11億円を送金してしまった事例から詐欺手口への教訓を学ぶ【読めば身に付くネットリテラシー】",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "00f5453595158743f903"
       },
       {
         "title": "「食事量は1日1200kcal以下、でも肥満」な人を14日間追跡調査 痩せない理由は……米コロンビア大などの研究",
@@ -952,6 +973,27 @@
       "id": "c72235286cb94826765a"
     },
     {
+      "title": "警察官を名乗る電話1本をきっかけに経理部長が11億円を送金してしまった事例から詐欺手口への教訓を学ぶ【読めば身に付くネットリテラシー】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/netliteracy/2139916.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-11T04:25:59+00:00",
+      "fetched_at": "2026-09-11T06:27:35+00:00",
+      "summary": "警察官を名乗る電話1本をきっかけに経理部長が11億円を送金してしまった事例から詐欺手口への教訓を学ぶ【読めば身に付くネットリテラシー】",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "00f5453595158743f903"
+    },
+    {
       "title": "「食事量は1日1200kcal以下、でも肥満」な人を14日間追跡調査 痩せない理由は……米コロンビア大などの研究",
       "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001315/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1101,13 +1143,13 @@
   ],
   "new_findings": [
     {
-      "title": "「食事量は1日1200kcal以下、でも肥満」な人を14日間追跡調査 痩せない理由は……米コロンビア大などの研究",
-      "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001315/",
+      "title": "警察官を名乗る電話1本をきっかけに経理部長が11億円を送金してしまった事例から詐欺手口への教訓を学ぶ【読めば身に付くネットリテラシー】",
+      "url": "https://internet.watch.impress.co.jp/docs/column/netliteracy/2139916.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-11T03:30:48+00:00",
-      "fetched_at": "2026-09-11T05:57:00+00:00",
-      "summary": "食事制限をすると痩せるが、それでも痩せない理由には2つの仮説が挙げられる。1つは、エネルギー消費量そのものが極端に少ない特殊な体質。もう1つは、本人が自覚している以上に、実はたくさん食べている。 研究チームは、食事制限をしても痩せないと訴える肥満患者10人を、そのような訴えのない一般的な肥満患者と比較...",
+      "published_at": "2026-09-11T04:25:59+00:00",
+      "fetched_at": "2026-09-11T06:27:35+00:00",
+      "summary": "警察官を名乗る電話1本をきっかけに経理部長が11億円を送金してしまった事例から詐欺手口への教訓を学ぶ【読めば身に付くネットリテラシー】",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -1119,30 +1161,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "afb650fd294e02753897"
-    },
-    {
-      "title": "alsk1992/CloddsBot",
-      "url": "https://github.com/alsk1992/CloddsBot",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "source_type": "rss",
-      "published_at": null,
-      "fetched_at": "2026-09-11T05:57:00+00:00",
-      "summary": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude. https://www.cloddsbot.com AI-powered trading terminal for prediction markets, crypto & futures Claude + Odds = Clodds…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "GitHub Trending",
-        "Open Source"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "AI/KI (+3.0); Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph demote odds, prediction market (x0.45)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "af78f94d21861dd94130"
+      "id": "00f5453595158743f903"
     }
   ],
   "source_errors": [],

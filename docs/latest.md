@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-11T05:57:32+00:00_
+_Generiert: 2026-09-11T06:28:07+00:00_
 
 ## Kurzlage
 
-21 neue relevante Treffer. Stärkstes Signal: „Singaporean founders’ Lightsage bags US$4M to decode how AI agents choose software“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
+22 neue relevante Treffer. Stärkstes Signal: „Singaporean founders’ Lightsage bags US$4M to decode how AI agents choose software“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
 
 ## Priorität Hoch
 
@@ -141,14 +141,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: ガバメントソリューションサービスへの不正アクセスによる職員等の個人情報の漏えいの可能性について
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「食事量は1日1200kcal以下、でも肥満」な人を14日間追跡調査 痩せない理由は……米コロンビア大などの研究** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2609/11/2000001315/)
+- **警察官を名乗る電話1本をきっかけに経理部長が11億円を送金してしまった事例から詐欺手口への教訓を学ぶ【読めば身に付くネットリテラシー】** — Score 5, observation — [Quelle](https://internet.watch.impress.co.jp/docs/column/netliteracy/2139916.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-11T03:30:48+00:00`, fetched `2026-09-11T05:57:00+00:00`
+  - Zeit: published `2026-09-11T04:25:59+00:00`, fetched `2026-09-11T06:27:35+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 食事制限をすると痩せるが、それでも痩せない理由には2つの仮説が挙げられる。1つは、エネルギー消費量そのものが極端に少ない特殊な体質。もう1つは、本人が自覚している以上に、実はたくさん食べている。 研究チームは、食事制限をしても痩せないと訴える肥満患者10人を、そのような訴えのない一般的な肥満患者と比較...
+  - Kurz: 警察官を名乗る電話1本をきっかけに経理部長が11億円を送金してしまった事例から詐欺手口への教訓を学ぶ【読めば身に付くネットリテラシー】
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **alsk1992/CloddsBot** — Score 5, opportunity — [Quelle](https://github.com/alsk1992/CloddsBot)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
