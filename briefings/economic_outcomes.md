@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-09-11T10:58:17+00:00`
+Generated: `2026-09-11T11:16:59+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -20,7 +20,7 @@ Generated: `2026-09-11T10:58:17+00:00`
 | New API endpoint provides privacy-safe star history data | $0 | — | 0 | 0 | dormant |
 | JetBrains/go-modern-guidelines | $0 | — | 0 | 0 | dormant |
 | M 5.1 - 81 km ESE of Isangel, Vanuatu | $0 | — | 0 | 0 | dormant |
-| 松本大臣記者会見（令和8年9月11日）動画を掲載しました | $0 | — | 0 | 0 | active |
+| 松本大臣記者会見（令和8年9月11日）動画を掲載しました | $0 | — | 0 | 0 | dormant |
 | M 5.6 - 82 km SE of Maba, Indonesia | $0 | — | 0 | 0 | dormant |
 | The ecosystem map: How to stay agile in the US-China AI battle | $0 | — | 0 | 0 | dormant |
 | Zabbix agentにおけるDLL読み込みに関する脆弱性 | $0 | — | 0 | 0 | dormant |
