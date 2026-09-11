@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-11T04:11:31+00:00_
+_Generiert: 2026-09-11T04:30:28+00:00_
 
 ## Kurzlage
 
-16 neue relevante Treffer. Stärkstes Signal: „The end of the universal a-player: Dynamic talent matching in the AI-driven supply chain“ aus e27 Asia Startup and Tech Feed (Score 18, risk).
+17 neue relevante Treffer. Stärkstes Signal: „Singaporean founders’ Lightsage bags US$4M to decode how AI agents choose software“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Singaporean founders’ Lightsage bags US$4M to decode how AI agents choose software** — Score 22, opportunity — [Quelle](https://e27.co/singaporean-founders-lightsage-bags-us4m-to-decode-how-ai-agents-choose-software-20260911/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-11T04:16:38+00:00`, fetched `2026-09-11T04:29:54+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar, founder, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.8); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: The next customer for a software company may not be a person scrolling through a pricing page. It may be an AI coding agent, asked by a developer to choose a database, install an SDK, connect an API, or fix a broken integration. That shift is still early, but it is already changing how software […] The post Singaporean founders’ Lightsage bags US$4M to decode how AI agents choose software appeared first on e27 .
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **The end of the universal a-player: Dynamic talent matching in the AI-driven supply chain** — Score 18, risk — [Quelle](https://e27.co/the-end-of-the-universal-a-player-dynamic-talent-matching-in-the-ai-driven-supply-chain-20260908/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-11T01:30:12+00:00`, fetched `2026-09-11T01:30:25+00:00`
@@ -144,6 +153,7 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
+- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
