@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-09-11T04:44:25+00:00_
+_Generiert: 2026-09-11T04:52:29+00:00_
 
 ## Singaporean founders’ Lightsage bags US$4M to decode how AI agents choose software
 
