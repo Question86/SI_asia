@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-11T11:27:13+00:00",
+  "generated_at": "2026-09-11T11:36:58+00:00",
   "topics": {
     "ai": [
       {
@@ -193,6 +193,13 @@
         "url": "https://jvn.jp/jp/JVN20829034/"
       },
       {
+        "title": "[UPDATE] [kritisch] MikroTik RouterOS: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-11T11:26:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3193"
+      },
+      {
         "title": "[NEU] [hoch] MongoDB: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-11T11:16:31+00:00",
@@ -233,13 +240,6 @@
         "published_at": "2026-09-11T08:51:31+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3289"
-      },
-      {
-        "title": "昊亞科技｜WeenyGenius - 存在4個漏洞",
-        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-        "published_at": "2026-09-11T06:52:00+00:00",
-        "relevance_score": 11,
-        "url": "https://www.twcert.org.tw/tw/cp-132-11201-658c0-1.html"
       }
     ],
     "github": [
