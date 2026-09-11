@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T20:57:41+00:00",
-  "run_id": "2026-09-11T20:57:41+00:00",
+  "generated_at": "2026-09-11T21:15:28+00:00",
+  "run_id": "2026-09-11T21:15:28+00:00",
   "date": "2026-09-11",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 59
+      "configured_public_sources_only": 60
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 59,
-    "displayed_findings": 59,
+    "new_relevant_findings": 1,
+    "today_file_total": 60,
+    "displayed_findings": 60,
     "high": 0,
     "medium": 18,
-    "observe": 41,
+    "observe": 42,
     "source_errors": 0
   },
   "sections": {
@@ -1207,6 +1207,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "c72235286cb94826765a"
+      },
+      {
+        "title": "グラボ高騰止まらず、「NVIDIA GeForce RTX 5090」はついに100万円を超え始める。“さらなるグラボ値上げ”を予告するショップも - AUTOMATON",
+        "url": "https://automaton-media.com/articles/newsjp/20260911-466913/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-11T12:04:56+00:00",
+        "fetched_at": "2026-09-11T21:14:52+00:00",
+        "summary": "PCパーツの高騰が続いている。グラフィックボードについてはこの夏に特に顕著な値上がりを見せており、今回は「NVIDIA GeForce RTX 5090」に100万円を超える値付けがおこなわれている。 昨今では半導体メモリの世界的な不足に伴って、DRAMやSSDをはじめとするさまざまなPCパーツの価格が上昇を続けている。半導体大手各...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "087951792f36e6360492"
       },
       {
         "title": "ブルーレイってどうやって観ればいい? 「超かぐや姫!」特装限定版の楽しみ方",
@@ -2662,6 +2683,27 @@
       "id": "c72235286cb94826765a"
     },
     {
+      "title": "グラボ高騰止まらず、「NVIDIA GeForce RTX 5090」はついに100万円を超え始める。“さらなるグラボ値上げ”を予告するショップも - AUTOMATON",
+      "url": "https://automaton-media.com/articles/newsjp/20260911-466913/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-11T12:04:56+00:00",
+      "fetched_at": "2026-09-11T21:14:52+00:00",
+      "summary": "PCパーツの高騰が続いている。グラフィックボードについてはこの夏に特に顕著な値上がりを見せており、今回は「NVIDIA GeForce RTX 5090」に100万円を超える値付けがおこなわれている。 昨今では半導体メモリの世界的な不足に伴って、DRAMやSSDをはじめとするさまざまなPCパーツの価格が上昇を続けている。半導体大手各...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "087951792f36e6360492"
+    },
+    {
       "title": "ブルーレイってどうやって観ればいい? 「超かぐや姫!」特装限定版の楽しみ方",
       "url": "https://av.watch.impress.co.jp/docs/topic/2140311.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2935,7 +2977,29 @@
       "id": "aa01f6f13a6cfedc4c1f"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "グラボ高騰止まらず、「NVIDIA GeForce RTX 5090」はついに100万円を超え始める。“さらなるグラボ値上げ”を予告するショップも - AUTOMATON",
+      "url": "https://automaton-media.com/articles/newsjp/20260911-466913/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-11T12:04:56+00:00",
+      "fetched_at": "2026-09-11T21:14:52+00:00",
+      "summary": "PCパーツの高騰が続いている。グラフィックボードについてはこの夏に特に顕著な値上がりを見せており、今回は「NVIDIA GeForce RTX 5090」に100万円を超える値付けがおこなわれている。 昨今では半導体メモリの世界的な不足に伴って、DRAMやSSDをはじめとするさまざまなPCパーツの価格が上昇を続けている。半導体大手各...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "087951792f36e6360492"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
