@@ -1,22 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-11T10:13:47Z",
+  "generated_at": "2026-09-11T10:28:39Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 5,
+      "krass": 6,
       "extreme": 1,
       "strong": 15,
-      "watch": 17,
-      "quiet": 2
+      "watch": 18
     },
     "bands_after_gate_recheck": {
       "krass": 1,
-      "strong": 20,
-      "watch": 17,
-      "quiet": 2
+      "strong": 21,
+      "watch": 18
     }
   },
   "top_dynamics": [
@@ -25,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3295",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-11T09:13:14+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -50,7 +48,7 @@
       "url": "https://jvn.jp/jp/JVN20829034/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-11T12:00:00+09:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -74,7 +72,7 @@
       "url": "https://jvn.jp/vu/JVNVU95258183/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-11T10:30:00+09:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -98,7 +96,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3291",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-11T09:13:15+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -122,7 +120,7 @@
       "url": "https://e27.co/how-to-turn-your-founders-opinions-into-media-ready-narratives-20260910/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-11T02:45:45+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -146,7 +144,7 @@
       "url": "https://jvn.jp/vu/JVNVU94404414/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-11T10:30:15+09:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -172,7 +170,7 @@
       "url": "https://github.com/alsk1992/CloddsBot",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-11T05:57:00+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "macro"
@@ -198,11 +196,38 @@
       "summary": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude. https://www.clodds…"
     },
     {
+      "title": "The AI talent war is coming for Big Tech’s Asia executives",
+      "url": "https://restofworld.org/2026/openai-anthropic-big-tech-executives-asia/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "published_at": "2026-09-11T10:00:00+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "OpenAI and Anthropic are hiring leaders from Meta, Google, Microsoft, and other U.S. tech giants to win new markets across India and Southeast Asia."
+    },
+    {
       "title": "[UPDATE] [hoch] Apache ActiveMQ Artemis: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3289",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-11T08:51:31+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -228,7 +253,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3292",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-11T09:13:14+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -253,7 +278,7 @@
       "url": "https://e27.co/singaporean-founders-lightsage-bags-us4m-to-decode-how-ai-agents-choose-software-20260911/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-11T04:16:38+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -280,7 +305,7 @@
       "url": "https://e27.co/singaporean-founders-lightsage-bags-us4m-to-decode-how-ai-agents-choose-software-20260911/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-11T04:30:32+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -307,7 +332,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3292",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 13.84,
+      "age_days": 13.85,
       "topics": [
         "security"
       ],
@@ -334,7 +359,7 @@
       "url": "https://e27.co/the-end-of-the-universal-a-player-dynamic-talent-matching-in-the-ai-driven-supply-chain-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-11T01:30:12+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "ai",
         "security",
@@ -364,7 +389,7 @@
       "url": "https://www.heise.de/news/Patchday-SAP-Praeparierte-Netzwerkanfrage-ebnet-Weg-fuer-Abstuerze-11450204.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-11T09:44:00.000+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -389,7 +414,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11201-658c0-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-09-11T06:52:00+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -413,7 +438,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11198-b8bba-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-09-11T06:24:00+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -437,7 +462,7 @@
       "url": "https://jvn.jp/jp/JVN20829034/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-11T03:01:11+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -461,7 +486,7 @@
       "url": "https://jvn.jp/vu/JVNVU95258183/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-11T01:30:59+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "general"
       ],
@@ -485,7 +510,7 @@
       "url": "https://e27.co/the-end-of-the-universal-a-player-dynamic-talent-matching-in-the-ai-driven-supply-chain-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-11T01:30:59+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "ai",
         "infra"
@@ -513,7 +538,7 @@
       "url": "https://zenn.dev/ymotongpoo/books/go-ebpf-primer",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-11T09:23:52+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [],
       "dynamics_score": 22.0,
       "raw_band": "strong",
@@ -537,7 +562,7 @@
       "url": "https://github.com/alsk1992/CloddsBot",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-11T05:57:36+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [],
       "dynamics_score": 22.0,
       "raw_band": "strong",
@@ -561,7 +586,7 @@
       "url": "https://jvn.jp/vu/JVNVU94404414/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 84.34,
+      "age_days": 84.35,
       "topics": [
         "general"
       ],
@@ -578,8 +603,36 @@
       "why": [
         "momentum delta +3",
         "high terms: 10",
-        "aging penalty -8.0 for 84.3d old signal",
+        "aging penalty -8.0 for 84.4d old signal",
         "stale single-source cap: max watch after 14d without fresh resonance"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "The AI talent war is coming for Big Tech’s Asia executives",
+      "url": "https://restofworld.org/2026/openai-anthropic-big-tech-executives-asia/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "published_at": "2026-06-19T01:58:32+00:00",
+      "age_days": 84.35,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 7.73,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 7.73",
+        "single-source AI hype brake -8.0",
+        "aging penalty -8.0 for 84.4d old signal",
+        "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
     },
@@ -588,7 +641,7 @@
       "url": "https://e27.co/the-imported-risk-how-geopolitics-moved-from-aseans-macro-problem-to-aseans-balance-sheet-20260910/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-11T01:08:28+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "general"
       ],
@@ -612,7 +665,7 @@
       "url": "https://www.itmedia.co.jp/pcuser/articles/2609/11/news070.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-11T07:33:35+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [],
       "dynamics_score": 18.0,
       "raw_band": "watch",
@@ -636,7 +689,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgij",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-11T02:45:45+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -660,7 +713,7 @@
       "url": "https://e27.co/ecosystem-roundup-what-failed-startups-reveal-about-seas-next-tech-cycle-20260911/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-11T08:45:40+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -686,7 +739,7 @@
       "url": "https://www.digital.go.jp/speech/minister-260911-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-11T02:53:32+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -710,7 +763,7 @@
       "url": "https://www.digital.go.jp/news/2026-0911-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-11T02:28:51+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "general"
       ],
@@ -730,11 +783,35 @@
       "summary": ""
     },
     {
+      "title": "まるで“狂気の沙汰”──ジョブズ時代のAppleを感じさせる「iPhone Duo」のヒンジと製造工程",
+      "url": "https://www.itmedia.co.jp/pcuser/articles/2609/11/news070.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-11T09:44:21+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "警察官を名乗る電話1本をきっかけに経理部長が11億円を送金してしまった事例から詐欺手口への教訓を学ぶ【読めば身に付くネットリテラシー】",
       "url": "https://internet.watch.impress.co.jp/docs/column/netliteracy/2139916.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-11T06:28:10+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -758,7 +835,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/11/2000001315/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-11T05:57:36+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -782,7 +859,7 @@
       "url": "https://engineering.dena.com/blog/2026/09/mysql84-migrate-research/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-11T03:37:45+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -806,7 +883,7 @@
       "url": "https://ascii.jp/elem/000/004/432/4432444/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-11T01:30:59+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "general"
       ],
@@ -830,24 +907,24 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11201-658c0-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 83.95,
+      "age_days": 83.96,
       "topics": [
         "general"
       ],
-      "dynamics_score": 13.24,
+      "dynamics_score": 13.16,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 1.13,
+      "baseline_z_hint": 1.06,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 1.13",
-        "aging penalty -8.0 for 83.9d old signal"
+        "baseline z_hint 1.06",
+        "aging penalty -8.0 for 84.0d old signal"
       ],
       "summary": ""
     },
@@ -856,7 +933,7 @@
       "url": "https://e27.co/bitcoin-drops-to-us76796-54-as-91-sp-500-correlation-exposes-cryptos-macro-trap-20260911/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-11T05:20:45+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "general"
       ],
@@ -880,7 +957,7 @@
       "url": "https://e27.co/i-used-to-think-the-hard-part-of-employee-advocacy-was-getting-people-to-post-20260910/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-11T03:01:11+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -904,7 +981,7 @@
       "url": "https://e27.co/how-to-turn-your-founders-opinions-into-media-ready-narratives-20260910/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-11T02:30:24+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "ai",
         "macro"
@@ -931,7 +1008,7 @@
       "url": "https://zenn.dev/ymotongpoo/books/go-ebpf-primer",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-11T04:04:17+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [],
       "dynamics_score": 13.0,
       "raw_band": "watch",
@@ -948,82 +1025,6 @@
         "identity recheck: no AXI0M/User-Yps phrase hit"
       ],
       "summary": "Go Conference 2026の登壇「OpenTelemetry eBPF Instrumentationの舞台裏」の解説資料です。eBPFによるゼロコード計装は「言語を問わず動く」と語られますが、Goバイナリへの関数レベルの計装は他言語にない4つの難所を抱えています。なぜ難しいのかを、CPUとメモリの仕組みという初歩から積み上げて、OBIの実装コードま..."
-    },
-    {
-      "title": "M 4.9 - 69 km N of Isangel, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgij",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-11T02:44:52.040+00:00",
-      "age_days": 0.31,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake"
-      ],
-      "summary": "Time 2026-09-11 02:28:13 UTC 2026-09-11 02:28:13 UTC at epicenter Location 18.926°S 169.395°E Depth 18.75 km (11.65 mi)"
-    },
-    {
-      "title": "まるで“狂気の沙汰”──ジョブズ時代のAppleを感じさせる「iPhone Duo」のヒンジと製造工程",
-      "url": "https://www.itmedia.co.jp/pcuser/articles/2609/11/news070.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-11T09:44:21+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "3万スターの Claude Code スキルを入れたら、出力が43%短くなった - Qiita",
-      "url": "https://qiita.com/suwa_nobu/items/cec37ce5a6141bb3eefc",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 84.34,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "high terms: code",
-        "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 84.3d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Palo Alto Networks PAN-OS: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
