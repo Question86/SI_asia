@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-11T08:53:56+00:00_
+_Generiert: 2026-09-11T09:01:33+00:00_
 
 ## Kurzlage
 
-25 neue relevante Treffer. Stärkstes Signal: „Singaporean founders’ Lightsage bags US$4M to decode how AI agents choose software“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
+26 neue relevante Treffer. Stärkstes Signal: „Singaporean founders’ Lightsage bags US$4M to decode how AI agents choose software“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -42,7 +42,7 @@ _Generiert: 2026-09-11T08:53:56+00:00_
 
 - Kein aktives Signal aus den konfigurierten globalen Sensoren.
 
-- Sensor-Hinweis: Yahoo finance failed: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v7/finance/quote?symbols=BTC-USD,ETH-USD,GC%3DF,SI%3DF,GLD,SLV,SPY,QQQ,%5EGSPC,%5EIXIC,%5EDJI,%5EVIX,DX-Y.NYB,CL%3DF,COIN,MSTR,IBIT
+- Sensor-Hinweis: Yahoo finance failed: 401 Client Error: Unauthorized for url: https://query1.finance.yahoo.com/v7/finance/quote?symbols=BTC-USD,ETH-USD,GC%3DF,SI%3DF,GLD,SLV,SPY,QQQ,%5EGSPC,%5EIXIC,%5EDJI,%5EVIX,DX-Y.NYB,CL%3DF,COIN,MSTR,IBIT
 
 <!-- SENNA_GLOBAL_WATCHDOGS:END -->
 
@@ -107,6 +107,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [hoch] Apache ActiveMQ Artemis: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3289)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-09-11T08:51:31+00:00`, fetched `2026-09-11T09:01:02+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Apache ActiveMQ Artemis ausnutzen, um Sicherheitsvorkehrungen zu umgehen, authentifizierte Sitzungen zu kapern, Daten zu manipulieren oder offenzulegen oder Denial-of-Service-Zustände herbeizuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
