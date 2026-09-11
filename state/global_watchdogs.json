@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-09-11T17:56:54+00:00",
+  "generated_at": "2026-09-11T18:15:45+00:00",
   "sections": {
     "global_security": [
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-84869 ConnectWise ScreenConnect",
+        "summary": "Known exploited vulnerability. Added 2026-09-11. Due 2026-09-14. ConnectWise ScreenConnect Improper Privilege Management and Missing Authorization Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-09-11",
+        "metrics": {
+          "cve": "CVE-2026-84869"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-42016 JFrog Artifactory",
+        "summary": "Known exploited vulnerability. Added 2026-09-11. Due 2026-09-25. JFrog Artifactory Incorrect Authorization Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-09-11",
+        "metrics": {
+          "cve": "CVE-2026-42016"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-42018 JFrog Artifactory",
+        "summary": "Known exploited vulnerability. Added 2026-09-11. Due 2026-09-25. JFrog Artifactory Improper Authentication Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-09-11",
+        "metrics": {
+          "cve": "CVE-2026-42018"
+        }
+      },
       {
         "domain": "security",
         "severity": "high",
@@ -24,42 +60,6 @@
         "published_at": "2026-09-10",
         "metrics": {
           "cve": "CVE-2026-67277"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-19490 Citrix NetScaler",
-        "summary": "Known exploited vulnerability. Added 2026-09-09. Due 2026-09-12. Citrix NetScaler Authentication Bypass Using an Alternate Path or Channel Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-09-09",
-        "metrics": {
-          "cve": "CVE-2026-19490"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2025-25249 Fortinet Multiple Products",
-        "summary": "Known exploited vulnerability. Added 2026-09-09. Due 2026-09-12. Fortinet Multiple Products Heap-based Buffer Overflow Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-09-09",
-        "metrics": {
-          "cve": "CVE-2025-25249"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-87491 Google Chromium V8",
-        "summary": "Known exploited vulnerability. Added 2026-09-09. Due 2026-09-23. Google Chromium V8 Out of Bounds Write Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-09-09",
-        "metrics": {
-          "cve": "CVE-2026-87491"
         }
       },
       {

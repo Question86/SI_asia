@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-11T17:56:50+00:00_
+_Generiert: 2026-09-11T18:15:41+00:00_
 
 ## Kurzlage
 
@@ -9,6 +9,18 @@ _Generiert: 2026-09-11T17:56:50+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-84869 ConnectWise ScreenConnect** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-09-11`
+  - Kurz: Known exploited vulnerability. Added 2026-09-11. Due 2026-09-14. ConnectWise ScreenConnect Improper Privilege Management and Missing Authorization Vulnerability
+- **CISA KEV: CVE-2026-42016 JFrog Artifactory** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-09-11`
+  - Kurz: Known exploited vulnerability. Added 2026-09-11. Due 2026-09-25. JFrog Artifactory Incorrect Authorization Vulnerability
+- **CISA KEV: CVE-2026-42018 JFrog Artifactory** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-09-11`
+  - Kurz: Known exploited vulnerability. Added 2026-09-11. Due 2026-09-25. JFrog Artifactory Improper Authentication Vulnerability
 - **CISA KEV: CVE-2026-86060 MikroTik RouterOS** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-09-10`
@@ -17,18 +29,6 @@ _Generiert: 2026-09-11T17:56:50+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-10`
   - Kurz: Known exploited vulnerability. Added 2026-09-10. Due 2026-09-13. MikroTik RouterOS Missing Authentication for Critical Function Vulnerability
-- **CISA KEV: CVE-2026-19490 Citrix NetScaler** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-09`
-  - Kurz: Known exploited vulnerability. Added 2026-09-09. Due 2026-09-12. Citrix NetScaler Authentication Bypass Using an Alternate Path or Channel Vulnerability
-- **CISA KEV: CVE-2025-25249 Fortinet Multiple Products** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-09`
-  - Kurz: Known exploited vulnerability. Added 2026-09-09. Due 2026-09-12. Fortinet Multiple Products Heap-based Buffer Overflow Vulnerability
-- **CISA KEV: CVE-2026-87491 Google Chromium V8** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-09`
-  - Kurz: Known exploited vulnerability. Added 2026-09-09. Due 2026-09-23. Google Chromium V8 Out of Bounds Write Vulnerability
 - **GDACS: Green flood alert in France** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104149)
   - Quelle: GDACS
   - Zeit: ``
