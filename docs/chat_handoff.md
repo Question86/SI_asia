@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-11T22:22:52+00:00_
+_Generated: 2026-09-11T22:30:48+00:00_
 
 ## Status
 - status: `normal`
-- findings: `64`
+- findings: `65`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-09-11T22:22:52+00:00_
 - url: https://e27.co/singaporean-founders-lightsage-bags-us4m-to-decode-how-ai-agents-choose-software-20260911/
 - summary: The next customer for a software company may not be a person scrolling through a pricing page. It may be an AI coding agent, asked by a developer to choose a database, install an SDK, connect an API, or fix a broken integration. That shift is still early, but…
 
-### 3. The end of the universal a-player: Dynamic talent matching in the AI-driven supply chain
+### 3. Rethinking skills and prompts for GPT-6 Astra | OpenAI Developers
+- source: Hatena Bookmark Hotentry IT
+- score: `21`
+- published: `2026-09-11T19:46:00+00:00`
+- url: https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra
+- summary: For the complete documentation index, see llms.txt. Markdown versions of documentation pages are available by appending .md to the page URL.
+
+### 4. The end of the universal a-player: Dynamic talent matching in the AI-driven supply chain
 - source: e27 Asia Startup and Tech Feed
 - score: `18`
 - published: `2026-09-11T01:30:12+00:00`
 - url: https://e27.co/the-end-of-the-universal-a-player-dynamic-talent-matching-in-the-ai-driven-supply-chain-20260908/
 - summary: For decades, talent management has operated on a seemingly logical premise: identify your top performers, your A-players, and invest in them disproportionately. This approach, popularised by McKinsey’s War for Talent in the late 1990s, promised that organisat…
-
-### 4. M 6.6 - 115 km NNE of Teluknaga, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `17`
-- published: `2026-09-11T21:47:01.069+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgrk
-- summary: ShakeMap - IV Time 2026-09-11 21:23:55 UTC 2026-09-11 21:23:55 UTC at epicenter Location 5.093°S 106.903°E Depth 358.60 km (222.82 mi)
 
 ### 5. 3万スターの Claude Code スキルを入れたら、出力が43%短くなった - Qiita
 - source: Hatena Bookmark Hotentry IT
