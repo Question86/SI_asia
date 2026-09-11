@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T21:48:27+00:00",
+  "generated_at": "2026-09-11T21:56:17+00:00",
   "sections": {
     "global_security": [
       {
@@ -96,14 +96,14 @@
         "domain": "security",
         "severity": "medium",
         "title": "USGS earthquake M6.6 - 115 km NNE of Teluknaga, Indonesia",
-        "summary": "M6.6 - 115 km NNE of Teluknaga, Indonesia. PAGER alert: none. Tsunami flag: 0.",
+        "summary": "M6.6 - 115 km NNE of Teluknaga, Indonesia. PAGER alert: green. Tsunami flag: 0.",
         "source": "USGS",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgrk",
         "published_at": "2026-09-11T21:23:55+00:00",
         "metrics": {
           "mag": 6.6,
-          "alert": "",
-          "sig": 670.0,
+          "alert": "green",
+          "sig": 671.0,
           "tsunami": 0
         }
       },
