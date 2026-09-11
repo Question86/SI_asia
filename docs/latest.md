@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-11T08:28:17+00:00_
+_Generiert: 2026-09-11T08:45:36+00:00_
 
 ## Kurzlage
 
-24 neue relevante Treffer. Stärkstes Signal: „Singaporean founders’ Lightsage bags US$4M to decode how AI agents choose software“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
+25 neue relevante Treffer. Stärkstes Signal: „Singaporean founders’ Lightsage bags US$4M to decode how AI agents choose software“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
 
 ## Priorität Hoch
 
