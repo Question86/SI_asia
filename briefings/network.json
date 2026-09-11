@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-11T10:42:36+00:00",
+  "generated_at": "2026-09-11T10:50:27+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 35,
-    "clusters": 30,
+    "findings": 36,
+    "clusters": 31,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 0,
-    "dominance_penalized": 1
+    "dominance_penalized": 2
   },
   "clusters": [
     {
@@ -106,18 +106,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 18.26,
+      "network_score": 18.19,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 17.1,
-      "ranking_score": 18.26,
+      "ranking_score": 18.19,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 1.76,
+      "baseline_bonus": 1.69,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -399,6 +399,47 @@
       "first_seen_at": "2026-06-19T01:58:32+00:00"
     },
     {
+      "key": "earthquake:alaska:5.2",
+      "title": "M 5.2 - 152 km WSW of Adak, Alaska",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "emergency_official",
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/attl74mn"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 13.26,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 16.7,
+      "ranking_score": 13.26,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.36,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-09-01T06:56:30+00:00"
+    },
+    {
       "key": "domain:www.twcert.org",
       "title": "昊亞科技｜WeenyGenius - 存在4個漏洞",
       "sources": [
@@ -417,18 +458,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 12.87,
+      "network_score": 12.84,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "raw_network_score": 15.2,
-      "ranking_score": 12.87,
+      "ranking_score": 12.84,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.37,
+      "baseline_bonus": 0.34,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -590,44 +631,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-11T02:28:51+00:00"
-    },
-    {
-      "key": "url:https://anond.hatelabo.jp/20260911162212",
-      "title": "日本で自然と自動運転が解禁されることはない",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://anond.hatelabo.jp/20260911162212"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 9.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 10.1,
-      "ranking_score": 9.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-09-11T10:42:36+00:00"
     },
     {
       "key": "domain:www.heise.de",
@@ -859,6 +862,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-11T09:44:21+00:00"
+    },
+    {
+      "key": "url:https://anond.hatelabo.jp/20260911162212",
+      "title": "日本で自然と自動運転が解禁されることはない",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://anond.hatelabo.jp/20260911162212"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 6.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 7.1,
+      "ranking_score": 6.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-11T10:42:36+00:00"
     },
     {
       "key": "url:https://internet.watch.impress.co.jp/docs/column/netliteracy/2139916.html",
@@ -1167,7 +1208,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-11T10:42:37Z",
+    "generated_at": "2026-09-11T10:50:27Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
