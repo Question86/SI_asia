@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-11T16:57:17+00:00_
+_Generated: 2026-09-11T17:14:03+00:00_
 
 ## Status
 - status: `normal`
-- findings: `54`
+- findings: `56`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-09-11T16:57:17+00:00_
 - url: https://qiita.com/suwa_nobu/items/cec37ce5a6141bb3eefc
 - summary: ayghri/i-have-adhd が Hacker News で269ポイントを集めていました。GitHub 30,233スター（2026-09-09 時点、API取得）。エージェントの回答から前置きを取り、行動を先頭に置かせるスキルです。 日本語の紹介記事は3本ありましたが、どれも実測がありません。 1本は「生産性向上のデータはない」と明記しています。 測...
 
-### 6. M 5.9 - 253 km ENE of Lospalos, Timor Leste
+### 6. Rapidly scaling online storage to serve over 1 billion ChatGPT users
+- source: OpenAI News RSS
+- score: `12`
+- published: `2026-09-11T10:00:00+00:00`
+- url: https://openai.com/index/scaling-storage-one-billion-users-part-one
+- summary: Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.
+
+### 7. M 5.9 - 253 km ENE of Lospalos, Timor Leste
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-09-11T12:28:54.309+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgl2
 - summary: ShakeMap - IV DYFI? - II Time 2026-09-11 11:56:23 UTC 2026-09-11 11:56:23 UTC at epicenter Location 7.286°S 128.938°E Depth 111.76 km (69.45 mi)
 
-### 7. M 5.3 - 151 km WSW of Adak, Alaska
+### 8. M 5.3 - 151 km WSW of Adak, Alaska
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-09-11T11:07:16.188+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgky
 - summary: ShakeMap - V Time 2026-09-11 10:47:12 UTC 2026-09-11 10:47:12 UTC at epicenter Location 51.213°N 178.543°W Depth 40.89 km (25.41 mi)
-
-### 8. M 5.7 - 152 km SW of Adak, Alaska
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-09-11T10:55:53.135+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sadcxu
-- summary: ShakeMap - V Time 2026-09-11 10:47:10 UTC 2026-09-11 10:47:10 UTC at epicenter Location 51.104°N 178.454°W Depth 13.40 km (8.33 mi)
 
 END OF DOCUMENT
