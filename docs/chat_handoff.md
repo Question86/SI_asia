@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-11T09:01:33+00:00_
+_Generated: 2026-09-11T09:23:49+00:00_
 
 ## Status
 - status: `normal`
-- findings: `26`
+- findings: `30`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-09-11T09:01:33+00:00_
 - url: https://jvn.jp/vu/JVNVU94404414/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 4. How to turn your founder’s opinions into media-ready narratives
-- source: e27 Asia Startup and Tech Feed
+### 4. [UPDATE] [hoch] Red Hat Enterprise Linux (lxml): Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen
+- source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-09-11T02:30:24+00:00`
-- url: https://e27.co/how-to-turn-your-founders-opinions-into-media-ready-narratives-20260910/
-- summary: Every founder has opinions. After all, they spend their days solving customer problems, navigating market uncertainty, raising capital, hiring talent and making decisions that shape the future of their business. Those experiences naturally produce perspective…
+- published: `2026-09-11T09:13:14+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3292
+- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um Sicherheitsvorkehrungen zu umgehen.
 
 ### 5. 3万スターの Claude Code スキルを入れたら、出力が43%短くなった - Qiita
 - source: Hatena Bookmark Hotentry IT
