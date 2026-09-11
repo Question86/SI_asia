@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-11T02:28:51+00:00",
+  "generated_at": "2026-09-11T02:45:45+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -2781,7 +2781,7 @@
     },
     "title:cisa-ics-advisory-ics-medical-advisory-2026": {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月10日）",
-      "updated_at": "2026-09-11T02:28:51+00:00",
+      "updated_at": "2026-09-11T02:45:45+00:00",
       "network_scores": [
         18.1,
         18.1,
@@ -2808,8 +2808,8 @@
         18.1,
         18.1,
         18.1,
-        18.1,
         21.1,
+        18.1,
         18.1,
         18.1,
         18.1
@@ -3517,9 +3517,8 @@
     },
     "domain:qiita.com": {
       "title": "うっかり世界最強のWasmコンパイラを作ってしまった件 - Qiita",
-      "updated_at": "2026-09-11T02:28:51+00:00",
+      "updated_at": "2026-09-11T02:45:45+00:00",
       "network_scores": [
-        13.1,
         13.1,
         13.1,
         13.1,
@@ -3548,12 +3547,13 @@
         10.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 12.4,
+      "rolling_average": 12.2,
       "rolling_peak": 13.1,
       "last_score": 7.1,
-      "z_hint": -5.3
+      "z_hint": -5.1
     },
     "github_repo:yairm210/unciv": {
       "title": "yairm210/Unciv",
@@ -12331,7 +12331,7 @@
     },
     "domain:www.anthropic.com": {
       "title": "Countering misuse of AI: September 2026 / Anthropic",
-      "updated_at": "2026-09-11T02:28:51+00:00",
+      "updated_at": "2026-09-11T02:45:45+00:00",
       "network_scores": [
         13.1,
         10.1,
@@ -12350,12 +12350,13 @@
         11.1,
         11.1,
         11.1,
+        11.1,
         11.1
       ],
-      "rolling_average": 10.71,
+      "rolling_average": 10.73,
       "rolling_peak": 14.1,
       "last_score": 11.1,
-      "z_hint": 0.39
+      "z_hint": 0.37
     },
     "domain:garumax.com": {
       "title": "2027年7月以降、Windows Updateで配信されるプリンタードライバーの仕様が変更される予定",
@@ -27511,81 +27512,109 @@
     },
     "title:imported-risk-geopolitics-moved-asean-macro-problem-asean": {
       "title": "The imported risk: How geopolitics moved from ASEAN’s macro problem to ASEAN’s balance sheet",
-      "updated_at": "2026-09-11T02:28:51+00:00",
+      "updated_at": "2026-09-11T02:45:45+00:00",
       "network_scores": [
         14.1,
         11.1,
         11.1,
         11.1,
+        11.1,
         11.1
       ],
-      "rolling_average": 11.7,
+      "rolling_average": 11.6,
       "rolling_peak": 14.1,
       "last_score": 11.1,
-      "z_hint": -0.6
+      "z_hint": -0.5
     },
     "title:end-universal-player-dynamic-talent-matching-driven-supply": {
       "title": "The end of the universal a-player: Dynamic talent matching in the AI-driven supply chain",
-      "updated_at": "2026-09-11T02:28:51+00:00",
+      "updated_at": "2026-09-11T02:45:45+00:00",
       "network_scores": [
         23.1,
         20.1,
         20.1,
+        20.1,
         20.1
       ],
-      "rolling_average": 20.85,
+      "rolling_average": 20.7,
       "rolling_peak": 23.1,
       "last_score": 20.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "title:aomei-backupper-amwrtdrv-sys": {
       "title": "AOMEI Backupperのamwrtdrv.sysカーネルドライバにおける権限昇格の脆弱性",
-      "updated_at": "2026-09-11T02:28:51+00:00",
+      "updated_at": "2026-09-11T02:45:45+00:00",
       "network_scores": [
         19.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.85,
+      "rolling_average": 16.7,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "title:anker": {
       "title": "私が「3年前に発売されたAnkerのソーラーパネル」を“防災用品として”おすすめするワケ。 (1/5)",
-      "updated_at": "2026-09-11T02:28:51+00:00",
+      "updated_at": "2026-09-11T02:45:45+00:00",
       "network_scores": [
         10.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.85,
+      "rolling_average": 7.7,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "title:built-that-keeps-receipts-mistakes-became-useful-part": {
       "title": "I built an AI that keeps receipts. The mistakes became the useful part",
-      "updated_at": "2026-09-11T02:28:51+00:00",
+      "updated_at": "2026-09-11T02:45:45+00:00",
       "network_scores": [
-        13.1
+        13.1,
+        10.1
       ],
-      "rolling_average": 13.1,
+      "rolling_average": 11.6,
       "rolling_peak": 13.1,
-      "last_score": 13.1,
-      "z_hint": 0.0
+      "last_score": 10.1,
+      "z_hint": -1.5
     },
     "url:https://www.digital.go.jp/news/2026-0911-01": {
       "title": "ガバメントソリューションサービスへの不正アクセスによる職員等の個人情報の漏えいの可能性について",
-      "updated_at": "2026-09-11T02:28:51+00:00",
+      "updated_at": "2026-09-11T02:45:45+00:00",
       "network_scores": [
-        11.1
+        11.1,
+        8.1
       ],
-      "rolling_average": 11.1,
+      "rolling_average": 9.6,
       "rolling_peak": 11.1,
-      "last_score": 11.1,
+      "last_score": 8.1,
+      "z_hint": -1.5
+    },
+    "title:turn-your-founder-opinions-media-ready-narratives": {
+      "title": "How to turn your founder’s opinions into media-ready narratives",
+      "updated_at": "2026-09-11T02:45:45+00:00",
+      "network_scores": [
+        21.1
+      ],
+      "rolling_average": 21.1,
+      "rolling_peak": 21.1,
+      "last_score": 21.1,
+      "z_hint": 0.0
+    },
+    "earthquake:m 4.9 - 69 km n of isangel, vanuatu:4.9": {
+      "title": "M 4.9 - 69 km N of Isangel, Vanuatu",
+      "updated_at": "2026-09-11T02:45:45+00:00",
+      "network_scores": [
+        14.7
+      ],
+      "rolling_average": 14.7,
+      "rolling_peak": 14.7,
+      "last_score": 14.7,
       "z_hint": 0.0
     }
   }
