@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-11T23:05:38+00:00_
+_Generiert: 2026-09-11T23:19:33+00:00_
 
 ## Kurzlage
 
@@ -41,10 +41,6 @@ _Generiert: 2026-09-11T23:05:38+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Spain
-- **GDACS: Green flood alert in Germany** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104150)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Germany
 - **USGS earthquake M6.6 - 115 km NNE of Teluknaga, Indonesia** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgrk)
   - Quelle: USGS
   - Zeit: `2026-09-11T21:23:55+00:00`

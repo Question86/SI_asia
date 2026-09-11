@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T23:05:40+00:00",
+  "generated_at": "2026-09-11T23:19:36+00:00",
   "sections": {
     "global_security": [
       {
@@ -94,16 +94,6 @@
       },
       {
         "domain": "security",
-        "severity": "high",
-        "title": "GDACS: Green flood alert in Germany",
-        "summary": "Green flood alert in Germany",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104150",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
         "severity": "medium",
         "title": "USGS earthquake M6.6 - 115 km NNE of Teluknaga, Indonesia",
         "summary": "M6.6 - 115 km NNE of Teluknaga, Indonesia. PAGER alert: green. Tsunami flag: 0.",
@@ -113,7 +103,7 @@
         "metrics": {
           "mag": 6.6,
           "alert": "green",
-          "sig": 672.0,
+          "sig": 673.0,
           "tsunami": 0
         }
       },
