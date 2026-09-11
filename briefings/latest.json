@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T10:57:38+00:00",
-  "run_id": "2026-09-11T10:57:38+00:00",
+  "generated_at": "2026-09-11T11:16:14+00:00",
+  "run_id": "2026-09-11T11:16:14+00:00",
   "date": "2026-09-11",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 37
+      "configured_public_sources_only": 39
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 37,
-    "displayed_findings": 37,
+    "new_relevant_findings": 2,
+    "today_file_total": 39,
+    "displayed_findings": 39,
     "high": 0,
-    "medium": 12,
-    "observe": 25,
+    "medium": 13,
+    "observe": 26,
     "source_errors": 0
   },
   "sections": {
@@ -234,6 +234,29 @@
         "id": "bda68eee88b81386d567"
       },
       {
+        "title": "[UPDATE] [mittel] vim: Schwachstelle ermöglicht Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2059",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-11T11:08:25+00:00",
+        "fetched_at": "2026-09-11T11:15:40+00:00",
+        "summary": "Ein Angreifer kann eine Schwachstelle in vim ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "93db1e889aabdd4785f4"
+      },
+      {
         "title": "AOMEI Backupperのamwrtdrv.sysカーネルドライバにおける権限昇格の脆弱性",
         "url": "https://jvn.jp/vu/JVNVU95258183/",
         "source": "JVN Japan Vulnerability Notes",
@@ -371,6 +394,43 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "d5b49fa5a020e8de0daa"
+      },
+      {
+        "title": "M 5.3 - 151 km WSW of Adak, Alaska",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgky",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-09-11T11:07:16.188+00:00",
+        "fetched_at": "2026-09-11T11:15:40+00:00",
+        "summary": "ShakeMap - V Time 2026-09-11 10:47:12 UTC 2026-09-11 10:47:12 UTC at epicenter Location 51.213°N 178.543°W Depth 40.89 km (25.41 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "ShakeMap",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake, ShakeMap"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "d9076194ecab755b2fb6"
       },
       {
         "title": "M 5.7 - 152 km SW of Adak, Alaska",
@@ -1152,6 +1212,29 @@
       "id": "bda68eee88b81386d567"
     },
     {
+      "title": "[UPDATE] [mittel] vim: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2059",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-11T11:08:25+00:00",
+      "fetched_at": "2026-09-11T11:15:40+00:00",
+      "summary": "Ein Angreifer kann eine Schwachstelle in vim ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "93db1e889aabdd4785f4"
+    },
+    {
       "title": "AOMEI Backupperのamwrtdrv.sysカーネルドライバにおける権限昇格の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU95258183/",
       "source": "JVN Japan Vulnerability Notes",
@@ -1287,6 +1370,43 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "d5b49fa5a020e8de0daa"
+    },
+    {
+      "title": "M 5.3 - 151 km WSW of Adak, Alaska",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgky",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-11T11:07:16.188+00:00",
+      "fetched_at": "2026-09-11T11:15:40+00:00",
+      "summary": "ShakeMap - V Time 2026-09-11 10:47:12 UTC 2026-09-11 10:47:12 UTC at epicenter Location 51.213°N 178.543°W Depth 40.89 km (25.41 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "ShakeMap",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake, ShakeMap"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "d9076194ecab755b2fb6"
     },
     {
       "title": "M 5.7 - 152 km SW of Adak, Alaska",
@@ -1863,13 +1983,36 @@
   ],
   "new_findings": [
     {
-      "title": "M 5.7 - 152 km SW of Adak, Alaska",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026sadcxu",
+      "title": "[UPDATE] [mittel] vim: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2059",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-11T11:08:25+00:00",
+      "fetched_at": "2026-09-11T11:15:40+00:00",
+      "summary": "Ein Angreifer kann eine Schwachstelle in vim ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "93db1e889aabdd4785f4"
+    },
+    {
+      "title": "M 5.3 - 151 km WSW of Adak, Alaska",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgky",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-09-11T10:55:53.135+00:00",
-      "fetched_at": "2026-09-11T10:57:08+00:00",
-      "summary": "ShakeMap - V Time 2026-09-11 10:47:10 UTC 2026-09-11 10:47:10 UTC at epicenter Location 51.104°N 178.454°W Depth 13.40 km (8.33 mi)",
+      "published_at": "2026-09-11T11:07:16.188+00:00",
+      "fetched_at": "2026-09-11T11:15:40+00:00",
+      "summary": "ShakeMap - V Time 2026-09-11 10:47:12 UTC 2026-09-11 10:47:12 UTC at epicenter Location 51.213°N 178.543°W Depth 40.89 km (25.41 mi)",
       "matched_keywords": [
         "Climate/Disaster Infrastructure",
         "ShakeMap",
@@ -1897,7 +2040,7 @@
         "HD",
         "LOW"
       ],
-      "id": "3b61a65260d95ef0b7b6"
+      "id": "d9076194ecab755b2fb6"
     }
   ],
   "source_errors": [],
