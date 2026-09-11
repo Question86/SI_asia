@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-11T09:34:13+00:00_
+_Generiert: 2026-09-11T09:44:17+00:00_
 
 ## Kurzlage
 
-30 neue relevante Treffer. Stärkstes Signal: „Singaporean founders’ Lightsage bags US$4M to decode how AI agents choose software“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
+31 neue relevante Treffer. Stärkstes Signal: „Singaporean founders’ Lightsage bags US$4M to decode how AI agents choose software“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -231,14 +231,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: ガバメントソリューションサービスへの不正アクセスによる職員等の個人情報の漏えいの可能性について
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **警察官を名乗る電話1本をきっかけに経理部長が11億円を送金してしまった事例から詐欺手口への教訓を学ぶ【読めば身に付くネットリテラシー】** — Score 5, observation — [Quelle](https://internet.watch.impress.co.jp/docs/column/netliteracy/2139916.html)
+- **まるで“狂気の沙汰”──ジョブズ時代のAppleを感じさせる「iPhone Duo」のヒンジと製造工程** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/pcuser/articles/2609/11/news070.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-11T04:25:59+00:00`, fetched `2026-09-11T06:27:35+00:00`
+  - Zeit: published `2026-09-11T07:33:35+00:00`, fetched `2026-09-11T09:43:46+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 警察官を名乗る電話1本をきっかけに経理部長が11億円を送金してしまった事例から詐欺手口への教訓を学ぶ【読めば身に付くネットリテラシー】
+  - Kurz: 2008年10月14日、Appleは新しいMacBookのボディーを「ユニボディ」と呼んだ。押し出したアルミニウムの塊を、航空宇宙産業から借りてきたCNC（コンピュータ制御の切削機）に載せ、13段階の切削工程で一枚の骨格に削り出す。 ジョナサン・アイブは「従来のノートブックは多くの部品でできていた。新しいMacBookでは、その...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **alsk1992/CloddsBot** — Score 5, opportunity — [Quelle](https://github.com/alsk1992/CloddsBot)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
