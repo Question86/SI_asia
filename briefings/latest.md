@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-11T21:56:13+00:00_
+_Generiert: 2026-09-11T22:10:09+00:00_
 
 ## Kurzlage
 
-62 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Red Hat Enterprise Linux (postgis, virtuoso-opensource): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, observation).
+64 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Red Hat Enterprise Linux (postgis, virtuoso-opensource): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,6 +29,10 @@ _Generiert: 2026-09-11T21:56:13+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-10`
   - Kurz: Known exploited vulnerability. Added 2026-09-10. Due 2026-09-13. MikroTik RouterOS Improper Neutralization of Argument Delimiters in a Command Vulnerability
+- **GDACS: Green earthquake (Magnitude 6.6M, Depth:358.597km) in Indonesia 11/09/2026 21:23 UTC, 30 thousand in MMI IV.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1564809)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6.6M, Depth:358.597km) in Indonesia 11/09/2026 21:23 UTC, 30 thousand in MMI IV.
 - **GDACS: Green flood alert in France** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104149)
   - Quelle: GDACS
   - Zeit: ``
@@ -334,3 +338,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `google_trends_philippines_hot` (rss): HTTPSConnectionPool(host='trends.google.com.ph', port=443): Read timed out. (read timeout=8)
