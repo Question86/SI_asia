@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-11T01:58:46+00:00_
+_Generated: 2026-09-11T02:28:47+00:00_
 
 ## Status
 - status: `normal`
-- findings: `7`
+- findings: `9`
 
 ## Top Signals
 
@@ -43,18 +43,18 @@ _Generated: 2026-09-11T01:58:46+00:00_
 - url: https://www.anthropic.com/threat-intelligence-report-september-2026
 - summary: Over the past eight months, our Threat Intelligence team identified and disrupted operations in which threat actors tried to use Claude for malicious activity. In this report, we share case studies from those operations and describe how malicious use of Claud…
 
-### 6. うっかり世界最強のWasmコンパイラを作ってしまった件 - Qiita
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-09-10T23:12:56+00:00`
-- url: https://qiita.com/kanryu/items/95147e22ed5ac542ba58
-- summary: TCPの初期ウィンドウサイズ（MTU 1500バイト基準）なら、最初の1〜2パケットでブラウザへ完全に届きます。ネットワーク遅延は事実上ゼロ、V8などのエンジンによるJITコンパイルも一瞬で終わります。 動作デモはこんな感じです。ブラウザのDOMを操作するJavaScript側のコードも、WASM側のプログラムに一緒にかけてしまい...
+### 6. I built an AI that keeps receipts. The mistakes became the useful part
+- source: e27 Asia Startup and Tech Feed
+- score: `8`
+- published: `2026-09-11T02:00:32+00:00`
+- url: https://e27.co/i-built-an-ai-that-keeps-receipts-the-mistakes-became-the-useful-part-20260909/
+- summary: AI is remarkably good at producing answers. It is even better at sounding certain. Ask a difficult question and, within seconds, a system can gather information, connect ideas and return a polished explanation. Yet a harder question arrives later: what happen…
 
-### 7. 私が「3年前に発売されたAnkerのソーラーパネル」を“防災用品として”おすすめするワケ。 (1/5)
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-09-10T13:26:48+00:00`
-- url: https://ascii.jp/elem/000/004/432/4432444/
-- summary: 『私的My推しガジェット』 はアスキーの各編集者が個人的に推しなガジェットを紹介していくレビュー企画です。 近年、豪雨や水害、地震など、私たちの暮らしを脅かす災害が相次いでいます。非常時の家族との連絡や安否確認、避難情報の収集に欠かせないのがスマートフォンです。 しかし、大容量モバイルバッテリーを防災...
+### 7. ガバメントソリューションサービスへの不正アクセスによる職員等の個人情報の漏えいの可能性について
+- source: Japan Digital Agency News RSS
+- score: `6`
+- published: `2026-09-11T02:02:24+00:00`
+- url: https://www.digital.go.jp/news/2026-0911-01
+- summary: ガバメントソリューションサービスへの不正アクセスによる職員等の個人情報の漏えいの可能性について
 
 END OF DOCUMENT

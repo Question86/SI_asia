@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-11T01:58:46+00:00",
+  "generated_at": "2026-09-11T02:28:47+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 7,
-    "displayed_findings": 7,
+    "new_relevant_findings": 2,
+    "today_file_total": 9,
+    "displayed_findings": 9,
     "high": 0,
     "medium": 3,
-    "observe": 4
+    "observe": 6
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -65,23 +65,23 @@
       "section": "observe"
     },
     {
-      "title": "うっかり世界最強のWasmコンパイラを作ってしまった件 - Qiita",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "I built an AI that keeps receipts. The mistakes became the useful part",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-09-10T23:12:56+00:00",
-      "relevance_score": 5,
-      "url": "https://qiita.com/kanryu/items/95147e22ed5ac542ba58",
-      "summary": "TCPの初期ウィンドウサイズ（MTU 1500バイト基準）なら、最初の1〜2パケットでブラウザへ完全に届きます。ネットワーク遅延は事実上ゼロ、V8などのエンジンによるJITコンパイルも一瞬で終わります。 動作デモはこんな感じです。ブラウザのDOMを操作するJavaScript側のコードも、WASM側のプログラムに一緒にかけてしまい...",
+      "published_at": "2026-09-11T02:00:32+00:00",
+      "relevance_score": 8,
+      "url": "https://e27.co/i-built-an-ai-that-keeps-receipts-the-mistakes-became-the-useful-part-20260909/",
+      "summary": "AI is remarkably good at producing answers. It is even better at sounding certain. Ask a difficult question and, within seconds, a system can gather information, connect ideas and return a polished explanation. Yet a harder question arrives later: what happen…",
       "section": "observe"
     },
     {
-      "title": "私が「3年前に発売されたAnkerのソーラーパネル」を“防災用品として”おすすめするワケ。 (1/5)",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "ガバメントソリューションサービスへの不正アクセスによる職員等の個人情報の漏えいの可能性について",
+      "source": "Japan Digital Agency News RSS",
       "source_type": "rss",
-      "published_at": "2026-09-10T13:26:48+00:00",
-      "relevance_score": 5,
-      "url": "https://ascii.jp/elem/000/004/432/4432444/",
-      "summary": "『私的My推しガジェット』 はアスキーの各編集者が個人的に推しなガジェットを紹介していくレビュー企画です。 近年、豪雨や水害、地震など、私たちの暮らしを脅かす災害が相次いでいます。非常時の家族との連絡や安否確認、避難情報の収集に欠かせないのがスマートフォンです。 しかし、大容量モバイルバッテリーを防災...",
+      "published_at": "2026-09-11T02:02:24+00:00",
+      "relevance_score": 6,
+      "url": "https://www.digital.go.jp/news/2026-0911-01",
+      "summary": "ガバメントソリューションサービスへの不正アクセスによる職員等の個人情報の漏えいの可能性について",
       "section": "observe"
     }
   ],
@@ -90,145 +90,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “CISA ICS Advisory / ICS Medical Advisory（2026年09月10日）” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月10日）",
-        "url": "https://jvn.jp/vu/JVNVU94404414/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-11T10:30:15+09:00",
-        "age_days": 0.03,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "security high-signal: 10"
-        ],
-        "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-      },
-      {
-        "title": "AOMEI Backupperのamwrtdrv.sysカーネルドライバにおける権限昇格の脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU95258183/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-11T10:30:00+09:00",
-        "age_days": 0.03,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-      },
-      {
-        "title": "The end of the universal a-player: Dynamic talent matching in the AI-driven supply chain",
-        "url": "https://e27.co/the-end-of-the-universal-a-player-dynamic-talent-matching-in-the-ai-driven-supply-chain-20260908/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-11T01:30:12+00:00",
-        "age_days": 0.03,
-        "topics": [
-          "ai",
-          "security",
-          "infra",
-          "macro"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "early terms: supply, chain",
-          "high terms: rce, 10",
-          "security high-signal: rce, 10",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": "For decades, talent management has operated on a seemingly logical premise: identify your top performers, your A-players, and invest in them disproportionately. This approach, popularised by McKinsey’s War for Talent in the late 1990s, promised that organisations could secure competitive advantage by systematically di…"
-      },
-      {
-        "title": "AOMEI Backupperのamwrtdrv.sysカーネルドライバにおける権限昇格の脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU95258183/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-11T01:30:59+00:00",
-        "age_days": 0.03,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 2,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +2"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "The end of the universal a-player: Dynamic talent matching in the AI-driven supply chain",
-        "url": "https://e27.co/the-end-of-the-universal-a-player-dynamic-talent-matching-in-the-ai-driven-supply-chain-20260908/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-11T01:30:59+00:00",
-        "age_days": 0.03,
-        "topics": [
-          "ai",
-          "infra"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "krass",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 2,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +2",
-          "early terms: supply, chain",
-          "single-source AI hype brake -8.0",
-          "krass gate: single-source non-official/non-identity signal capped"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }
