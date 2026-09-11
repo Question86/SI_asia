@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T07:52:46+00:00",
-  "run_id": "2026-09-11T07:52:46+00:00",
+  "generated_at": "2026-09-11T08:00:18+00:00",
+  "run_id": "2026-09-11T08:00:18+00:00",
   "date": "2026-09-11",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 24,
     "displayed_findings": 24,
     "high": 0,
@@ -1229,52 +1229,7 @@
       "id": "aa01f6f13a6cfedc4c1f"
     }
   ],
-  "new_findings": [
-    {
-      "title": "昊亞科技｜WeenyGenius - 存在4個漏洞",
-      "url": "https://www.twcert.org.tw/tw/cp-132-11201-658c0-1.html",
-      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-      "source_type": "rss",
-      "published_at": "2026-09-11T06:52:00+00:00",
-      "fetched_at": "2026-09-11T07:52:18+00:00",
-      "summary": "昊亞科技｜WeenyGenius - 存在4個漏洞",
-      "matched_keywords": [
-        "Security",
-        "TVN",
-        "TWCERT"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4b973cc947e8fc886eba"
-    },
-    {
-      "title": "鎧鋒企業｜智慧對講系統 - 存在3個漏洞",
-      "url": "https://www.twcert.org.tw/tw/cp-132-11198-b8bba-1.html",
-      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-      "source_type": "rss",
-      "published_at": "2026-09-11T06:24:00+00:00",
-      "fetched_at": "2026-09-11T07:52:18+00:00",
-      "summary": "鎧鋒企業｜智慧對講系統 - 存在3個漏洞",
-      "matched_keywords": [
-        "Security",
-        "TVN",
-        "TWCERT"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "084f145a616d432ccb23"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
