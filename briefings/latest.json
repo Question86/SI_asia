@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T08:45:36+00:00",
-  "run_id": "2026-09-11T08:45:36+00:00",
+  "generated_at": "2026-09-11T08:53:56+00:00",
+  "run_id": "2026-09-11T08:53:56+00:00",
   "date": "2026-09-11",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 25,
     "displayed_findings": 25,
     "high": 0,
@@ -1275,31 +1275,7 @@
       "id": "aa01f6f13a6cfedc4c1f"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Ecosystem Roundup: What failed startups reveal about SEA’s next tech cycle",
-      "url": "https://e27.co/ecosystem-roundup-what-failed-startups-reveal-about-seas-next-tech-cycle-20260911/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-11T08:37:02+00:00",
-      "fetched_at": "2026-09-11T08:45:05+00:00",
-      "summary": "Southeast Asia’s venture boom has left behind a very large graveyard. Between January 2020 and July 2026, 7,538 startups across the region deadpooled, according to Tracxn data examined in a new e27 analysis of 76 notable venture-backed failures. The pattern is unmistakable: 2021 and 2022 alone account for 57.3% of all closures, as founders who raised […] The post Ecosystem Roundup: What failed startups reveal about…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "founder",
-        "Public Health",
-        "Southeast Asia"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "APAC Trend Radar (+3.8); Public Health (+5.0); Southeast Asia (+2.0); founder (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "98b02fa2a7f7a920558e"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
