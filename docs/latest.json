@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-11T22:10:09+00:00",
-  "run_id": "2026-09-11T22:10:09+00:00",
+  "generated_at": "2026-09-11T22:22:52+00:00",
+  "run_id": "2026-09-11T22:22:52+00:00",
   "date": "2026-09-11",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
       "configured_public_sources_only": 64
     },
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 64,
     "displayed_findings": 64,
     "high": 0,
     "medium": 20,
     "observe": 44,
-    "source_errors": 1
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -3183,58 +3183,8 @@
       "id": "aa01f6f13a6cfedc4c1f"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Add VS Code Agents to Copilot usage metrics",
-      "url": "https://github.blog/changelog/2026-09-11-add-vs-code-agents-to-copilot-usage-metrics",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-09-11T21:30:30+00:00",
-      "fetched_at": "2026-09-11T22:09:25+00:00",
-      "summary": "GitHub Copilot usage metrics reports now include generally available metrics for activity in the dedicated VS Code Agents window, helping you measure adoption and engagement across enterprises and organizations. What’s… The post Add VS Code Agents to Copilot usage metrics appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "Copilot",
-        "GitHub"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "67242b341165e1187973"
-    },
-    {
-      "title": "デジタル庁のガバメントソリューションサービス(GSS)への不正アクセスについてまとめてみた - piyolog",
-      "url": "https://piyolog.hatenadiary.jp/entry/2026/09/11/220855",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-11T13:54:08+00:00",
-      "fetched_at": "2026-09-11T22:09:25+00:00",
-      "summary": "2026年9月11日、デジタル庁は、政府共通の業務実施環境「ガバメントソリューションサービス(GSS)」が外部からの不正アクセスを受け、取り扱っていた個人情報を含むファイルの一部が外部に漏えいした可能性があると公表しました。ここでは関連する情報をまとめます。 VPN機器の脆弱性を悪用され侵入 GSSは、ゼロトラスト...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4cb7910e27f2dbcdb058"
-    }
-  ],
-  "source_errors": [
-    {
-      "source_id": "google_trends_philippines_hot",
-      "source_name": "Google Trends Philippines Hot Feed",
-      "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='trends.google.com.ph', port=443): Read timed out. (read timeout=8)"
-    }
-  ],
+  "new_findings": [],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
