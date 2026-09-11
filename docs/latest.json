@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T03:01:07+00:00",
-  "run_id": "2026-09-11T03:01:07+00:00",
+  "generated_at": "2026-09-11T03:24:54+00:00",
+  "run_id": "2026-09-11T03:24:54+00:00",
   "date": "2026-09-11",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 15,
     "displayed_findings": 15,
     "high": 0,
@@ -793,50 +793,7 @@
       "id": "aa01f6f13a6cfedc4c1f"
     }
   ],
-  "new_findings": [
-    {
-      "title": "a-blog cmsにおけるパストラバーサルの脆弱性",
-      "url": "https://jvn.jp/jp/JVN20829034/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-09-11T12:00:00+09:00",
-      "fetched_at": "2026-09-11T03:00:34+00:00",
-      "summary": "有限会社アップルップルが提供するa-blog cmsには、パストラバーサルの脆弱性が存在します。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "bda68eee88b81386d567"
-    },
-    {
-      "title": "I used to think the hard part of employee advocacy was getting people to post",
-      "url": "https://e27.co/i-used-to-think-the-hard-part-of-employee-advocacy-was-getting-people-to-post-20260910/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-11T03:00:24+00:00",
-      "fetched_at": "2026-09-11T03:00:34+00:00",
-      "summary": "It was not. Our HR team wanted employees to share more about company culture, hiring updates, internal events, and project wins on LinkedIn. We were not trying to turn everyone into corporate influencers. We only wanted people to feel more comfortable writing about work when there was something worth sharing. The usual problem was the […] The post I used to think the hard part of employee advocacy was getting people…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "aa01f6f13a6cfedc4c1f"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
