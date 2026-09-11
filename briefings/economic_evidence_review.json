@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-09-11T04:11:57+00:00",
+  "generated_at": "2026-09-11T04:30:56+00:00",
   "fx_as_of": null,
-  "candidate_count": 497,
+  "candidate_count": 500,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 497
+    "pending": 500
   },
   "coverage_warning": null,
   "candidates": [
@@ -6230,6 +6230,48 @@
       "source_url": "https://e27.co/i-used-to-think-the-hard-part-of-employee-advocacy-was-getting-people-to-post-20260910/"
     },
     {
+      "amount_native": 50000000.0,
+      "amount_usd": 50000000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.55,
+      "candidate_id": "cand_a074f1ae195b063b48fb",
+      "component_suggestion": "capital_allocation",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_3fe6aecf45f6fdb26eaf",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-11T04:30:50+00:00",
+      "overlap_group_suggestion": "evt_3fe6aecf45f6fdb26eaf:capital_allocation:16a051a7b684",
+      "review_status": "pending",
+      "snippet": "data Defi E-Commerce Hardware Retail Artificial Intelligence Cryptocurrency Education Healthtech Software As A Service View all Startups --> POSTS STARTUPS Tech Innovators secured $50 million in funding from Venture Capitalist Alpha, paving the way for groundbreaking advancements in artificial intelligence. Discover the power of AI in transforming your daily tasks! Wit",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://e27.co/singaporean-founders-lightsage-bags-us4m-to-decode-how-ai-agents-choose-software-20260911/",
+      "component_confidence": 0.55,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
+    },
+    {
+      "amount_native": 50000000.0,
+      "amount_usd": 50000000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.55,
+      "candidate_id": "cand_1c471d6e647466f5a91a",
+      "component_suggestion": "capital_allocation",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_3fe6aecf45f6fdb26eaf",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-11T04:30:50+00:00",
+      "overlap_group_suggestion": "evt_3fe6aecf45f6fdb26eaf:capital_allocation:f3a8ffe32888",
+      "review_status": "pending",
+      "snippet": "cial intelligence. Discover the power of AI in transforming your daily tasks! With intelligent algorithms, we enhance productivity and streamline workflows. AI Innovations Secures $50 Million in Funding from Visionary Investor Experience the future with AI-driven solutions that simplify complex processes and boost efficiency in your work environment. View all Posts Xam",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://e27.co/singaporean-founders-lightsage-bags-us4m-to-decode-how-ai-agents-choose-software-20260911/",
+      "component_confidence": 0.55,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
+    },
+    {
       "amount_native": 44000000.0,
       "amount_usd": 44000000.0,
       "attribution_probability": null,
@@ -8471,6 +8513,27 @@
       "snippet": "Hivebotics nets US$6M to take restroom-cleaning robot Abluo into volume production | e27 --> Verify Your Email Address Your account contact email hasn't been verified yet. Please verify your email addr",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://e27.co/hivebotics-nets-us6m-to-take-restroom-cleaning-robot-abluo-into-volume-production-20260904/"
+    },
+    {
+      "amount_native": 4000000.0,
+      "amount_usd": 4000000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_dd21da3f73a05eef8eff",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_3fe6aecf45f6fdb26eaf",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-11T04:30:50+00:00",
+      "overlap_group_suggestion": "evt_3fe6aecf45f6fdb26eaf:unknown:af5f7dc855ec",
+      "review_status": "pending",
+      "snippet": "Singaporean founders' Lightsage bags US$4M to decode how AI agents choose software | e27 --> Verify Your Email Address Your account contact email hasn't been verified yet. Please verify your email address Go to Edit Profil",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://e27.co/singaporean-founders-lightsage-bags-us4m-to-decode-how-ai-agents-choose-software-20260911/",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 2000000.0,
