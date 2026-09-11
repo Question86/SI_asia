@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-11T03:40:33Z",
+  "generated_at": "2026-09-11T03:50:07Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “a-blog cmsにおけるパストラバーサルの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/vu/JVNVU95258183/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-11T10:30:00+09:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -57,30 +57,6 @@
         "security high-signal: jvn, security"
       ],
       "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-    },
-    {
-      "title": "a-blog cmsにおけるパストラバーサルの脆弱性",
-      "url": "https://jvn.jp/jp/JVN20829034/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-09-11T03:01:11+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2"
-      ],
-      "summary": ""
     },
     {
       "title": "How to turn your founder’s opinions into media-ready narratives",
@@ -111,7 +87,7 @@
       "url": "https://jvn.jp/vu/JVNVU94404414/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-11T10:30:15+09:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -137,7 +113,7 @@
       "url": "https://e27.co/the-end-of-the-universal-a-player-dynamic-talent-matching-in-the-ai-driven-supply-chain-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-11T01:30:12+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "security",
@@ -163,11 +139,35 @@
       "summary": "For decades, talent management has operated on a seemingly logical premise: identify your top performers, your A-players, and invest in them disproportionately. This approach, popularised by McKinsey’s War for Talent in the late 1990s, promised that organisations could secure competitive advantage by systematically di…"
     },
     {
+      "title": "a-blog cmsにおけるパストラバーサルの脆弱性",
+      "url": "https://jvn.jp/jp/JVN20829034/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-09-11T03:01:11+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "AOMEI Backupperのamwrtdrv.sysカーネルドライバにおける権限昇格の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU95258183/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-11T01:30:59+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -191,7 +191,7 @@
       "url": "https://e27.co/the-end-of-the-universal-a-player-dynamic-talent-matching-in-the-ai-driven-supply-chain-20260908/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-11T01:30:59+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "infra"
@@ -219,7 +219,7 @@
       "url": "https://jvn.jp/vu/JVNVU94404414/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 84.07,
+      "age_days": 84.08,
       "topics": [
         "general"
       ],
@@ -294,23 +294,23 @@
       "url": "https://qiita.com/suwa_nobu/items/cec37ce5a6141bb3eefc",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 84.07,
+      "age_days": 84.08,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 15.78,
+      "dynamics_score": 15.64,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 4.35,
+      "baseline_z_hint": 4.22,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 4.35",
+        "baseline z_hint 4.22",
         "high terms: code",
         "single-source AI hype brake -8.0",
         "aging penalty -8.0 for 84.1d old signal",
