@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-11T09:44:17+00:00_
+_Generiert: 2026-09-11T09:51:50+00:00_
 
 ## Kurzlage
 
-31 neue relevante Treffer. Stärkstes Signal: „Singaporean founders’ Lightsage bags US$4M to decode how AI agents choose software“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
+33 neue relevante Treffer. Stärkstes Signal: „Singaporean founders’ Lightsage bags US$4M to decode how AI agents choose software“ aus e27 Asia Startup and Tech Feed (Score 22, opportunity).
 
 ## Priorität Hoch
 
@@ -168,6 +168,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: AI is remarkably good at producing answers. It is even better at sounding certain. Ask a difficult question and, within seconds, a system can gather information, connect ideas and return a polished explanation. Yet a harder question arrives later: what happens when reality proves the answer wrong? I met that problem while building OnTheRice, a […] The post I built an AI that keeps receipts. The mistakes became the u…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Patchday SAP: Präparierte Netzwerkanfrage ebnet Weg für Abstürze** — Score 7, observation — [Quelle](https://www.heise.de/news/Patchday-SAP-Praeparierte-Netzwerkanfrage-ebnet-Weg-fuer-Abstuerze-11450204.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-09-11T09:44:00.000+00:00`, fetched `2026-09-11T09:51:20+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Mehrere kritische Sicherheitslücken gefährden unter anderem SAP Extended Passport und NetWeaver.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **松本大臣記者会見（令和8年9月11日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-260911-01)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-09-11T02:45:20+00:00`, fetched `2026-09-11T02:52:57+00:00`
@@ -186,14 +195,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: ガバメントソリューションサービスへの不正アクセスによる職員等の個人情報の漏えいの可能性について
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **まるで“狂気の沙汰”──ジョブズ時代のAppleを感じさせる「iPhone Duo」のヒンジと製造工程** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/pcuser/articles/2609/11/news070.html)
+- **メルカリ、URLを知っている人だけ買える「限定公開機能」試験提供開始 悪用懸念も** — Score 5, observation — [Quelle](https://ascii.jp/elem/000/004/434/4434123/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-11T07:33:35+00:00`, fetched `2026-09-11T09:43:46+00:00`
+  - Zeit: published `2026-09-11T08:17:29+00:00`, fetched `2026-09-11T09:51:20+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 2008年10月14日、Appleは新しいMacBookのボディーを「ユニボディ」と呼んだ。押し出したアルミニウムの塊を、航空宇宙産業から借りてきたCNC（コンピュータ制御の切削機）に載せ、13段階の切削工程で一枚の骨格に削り出す。 ジョナサン・アイブは「従来のノートブックは多くの部品でできていた。新しいMacBookでは、その...
+  - Kurz: メルカリは9月11日現在、一部ユーザーに「商品の限定公開機能」を提供中。これを受け、SNS（X）では悪用を懸念する声が挙がっている。 商品の限定公開は、商品ページのURLを知っているユーザーのみが閲覧・購入できる出品方法。通常の出品と違い、検索結果や「おすすめ」、出品者プロフィールなどに当該商品が表示される...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **alsk1992/CloddsBot** — Score 5, opportunity — [Quelle](https://github.com/alsk1992/CloddsBot)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
