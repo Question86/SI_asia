@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-12T21:39:18+00:00",
-  "run_id": "2026-09-12T21:39:18+00:00",
+  "generated_at": "2026-09-12T21:46:32+00:00",
+  "run_id": "2026-09-12T21:46:32+00:00",
   "date": "2026-09-12",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 34
+      "configured_public_sources_only": 35
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 34,
-    "displayed_findings": 34,
+    "new_relevant_findings": 1,
+    "today_file_total": 35,
+    "displayed_findings": 35,
     "high": 0,
     "medium": 6,
-    "observe": 28,
-    "source_errors": 1
+    "observe": 29,
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -854,6 +854,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "f5b86c3c382f0e76424b"
+      },
+      {
+        "title": "Webの地図",
+        "url": "https://speakerdeck.com/yosuke_furukawa/web-no-chizu",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-12T11:42:46+00:00",
+        "fetched_at": "2026-09-12T21:45:59+00:00",
+        "summary": "FEC Fukuoka で発表したWebの地図についての話です",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2b7f3d197c6d52e1a8a6"
       },
       {
         "title": "ＡＩで数学の難問を解く行為は「科学や数学界に有害だ」…世界の数学者２５人が非難の緊急声明",
@@ -1830,6 +1851,27 @@
       "id": "f5b86c3c382f0e76424b"
     },
     {
+      "title": "Webの地図",
+      "url": "https://speakerdeck.com/yosuke_furukawa/web-no-chizu",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-12T11:42:46+00:00",
+      "fetched_at": "2026-09-12T21:45:59+00:00",
+      "summary": "FEC Fukuoka で発表したWebの地図についての話です",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2b7f3d197c6d52e1a8a6"
+    },
+    {
       "title": "ＡＩで数学の難問を解く行為は「科学や数学界に有害だ」…世界の数学者２５人が非難の緊急声明",
       "url": "https://www.yomiuri.co.jp/science/20260912-GYT1T00169/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1977,15 +2019,30 @@
       "id": "a59bab3853c9024feb0b"
     }
   ],
-  "new_findings": [],
-  "source_errors": [
+  "new_findings": [
     {
-      "source_id": "twcert_tvn_vulnerability_notes",
-      "source_name": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "title": "Webの地図",
+      "url": "https://speakerdeck.com/yosuke_furukawa/web-no-chizu",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7fb49c393150>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))"
+      "published_at": "2026-09-12T11:42:46+00:00",
+      "fetched_at": "2026-09-12T21:45:59+00:00",
+      "summary": "FEC Fukuoka で発表したWebの地図についての話です",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2b7f3d197c6d52e1a8a6"
     }
   ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
