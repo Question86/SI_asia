@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T16:54:36+00:00",
-  "today_file_total": 28,
+  "generated_at": "2026-09-12T17:02:23+00:00",
+  "today_file_total": 29,
   "current_clusters": [
     {
       "key": "github_repo:melgarafael/deskcommcrm",
@@ -146,6 +146,29 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 15.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:cloudflare",
+      "title": "AI エージェントとアプリを動かす Cloudflare OS を試してみた",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://azukiazusa.dev/blog/cloudflare-os/"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 14.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
@@ -455,29 +478,6 @@
       ],
       "urls": [
         "https://slides.yusu.ke/web-frameworks-in-the-ai-era"
-      ],
-      "finding_count": 1,
-      "max_score": 8,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 10.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:lofic",
-      "title": "いま“知っておきたい”トレンドワード なぜ1型センサーで白飛びしない？ 話題の「LOFICセンサー」の仕組み",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://dc.watch.impress.co.jp/docs/column/trend/2140009.html"
       ],
       "finding_count": 1,
       "max_score": 8,
