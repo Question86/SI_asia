@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-12T20:39:36+00:00_
+_Generiert: 2026-09-12T20:47:07+00:00_
 
 ## Kurzlage
 
-31 neue relevante Treffer. Stärkstes Signal: „melgarafael/DeskcommCRM“ aus GitHub Trending RSS All Languages Daily (Score 19, opportunity).
+32 neue relevante Treffer. Stärkstes Signal: „melgarafael/DeskcommCRM“ aus GitHub Trending RSS All Languages Daily (Score 19, opportunity).
 
 ## Priorität Hoch
 
@@ -105,6 +105,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
   - Kurz: 「数学のノーベル賞」とも呼ばれるフィールズ賞を受賞した数学者25人が11日、人工知能（AI）を使って企業が数学の難問を解決しようとする動きを非難する緊急声明を公表した。今後さらに多くの数学者の署名を募るという。米オープンAIが「ナビエ・ストークス方程式」と呼ぶ数学の難問を解決したと発表したことを受けての...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Nuxt.js から Next.js へ ── フロントエンド技術リプレイスにおけるハーネスエンジニアリングと理解負債** — Score 10, observation — [Quelle](https://zenn.dev/mediba/articles/7d0d7d70678546)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-11T03:42:23+00:00`, fetched `2026-09-12T20:46:32+00:00`
+  - Treffer: AI Agents, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: はじめに 株式会社 mediba でフロントエンドエンジニアをしている中畑です。 弊社では Nuxt.js から Next.js への技術リプレイスプロジェクトが進行中です。この記事では、 Claude Code を活用した技術リプレイスの現状と課題をお伝えします。 前提 AIコーディングツールは Claude Code を使用しています。モデルは主に ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Christine Lagarde: Interview with Ouest-France** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260912~3cc706f4d6.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
   - Zeit: published `2026-09-12T20:00:00+00:00`, fetched `2026-09-12T20:13:07+00:00`
@@ -140,15 +149,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+7.5)
   - Kurz: Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AIが数学の難問を解決していいのか｜柞刈湯葉** — Score 8, observation — [Quelle](https://note.com/yubais/n/nd4505991a6d6)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-12T10:56:24+00:00`, fetched `2026-09-12T11:42:31+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 「AI が数学の未解決問題を解いた」というニュースを頻繁に見かけるようになった。中でも、ナヴィエ・ストークス方程式の爆発解発見はひときわインパクトが大きい。これは「ミレニアム懸賞問題」として100万ドルの賞金がかけられていた7問のひとつだからだ。いわば21世紀の七大難問と言っていい。 しかし、多くの有名な...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Cognition helps Devin test its own work with GPT‑6 Astra** — Score 8, observation — [Quelle](https://openai.com/index/cognition-devin-testing-with-astra)
   - Quelle: OpenAI News RSS / `rss`
