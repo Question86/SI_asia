@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T22:40:47+00:00",
-  "run_id": "2026-09-12T22:40:47+00:00",
+  "generated_at": "2026-09-12T22:49:12+00:00",
+  "run_id": "2026-09-12T22:49:12+00:00",
   "date": "2026-09-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 36,
     "displayed_findings": 36,
     "high": 0,
@@ -2061,29 +2061,7 @@
       "id": "02d8f4facf57723feb78"
     }
   ],
-  "new_findings": [
-    {
-      "title": "AI駆動開発のためのオントロジー - Qiita",
-      "url": "https://qiita.com/Syoitu/items/d41d234876e1bfadbf32",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-08T01:34:04+00:00",
-      "fetched_at": "2026-09-12T22:40:13+00:00",
-      "summary": "前書き 最近、AIエージェント関連の文脈でオントロジーという言葉をよく見かけるようになりました。元々は哲学の 「存在論」 ですが、現在では AIエージェントが理解・共有できる形式の設計図 として解釈されることが多いです。 この記事では、オントロジーとは何か、なぜ必要なのか、そしてオントロジーを構築する方法...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "02d8f4facf57723feb78"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
