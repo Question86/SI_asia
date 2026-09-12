@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-09-12T09:48:32+00:00",
+  "generated_at": "2026-09-12T09:56:05+00:00",
   "fx_as_of": null,
-  "candidate_count": 533,
+  "candidate_count": 534,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 533
+    "pending": 534
   },
   "coverage_warning": null,
   "candidates": [
@@ -7068,6 +7068,27 @@
       "snippet": "Conf 2023 Opening Keynote] The Magic of Rails eileencodes 31 10k Save Time (by Creating Custom Rails Generators) garrettdimon PRO 32 4.6k Data-driven link building: lessons from a $708K investment (BrightonSEO talk) szymonslowik 1 1.3k Automating Front-end Workflow addyosmani 1369 210k Building a A Zero-Code AI SEO Workflow portentint PRO 0 700 The World Runs on",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://speakerdeck.com/cscengineer/unvalued-sre-security-growth-engine"
+    },
+    {
+      "amount_native": 708000.0,
+      "amount_usd": 708000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.55,
+      "candidate_id": "cand_a37c8bfd64ce7194e035",
+      "component_suggestion": "capital_allocation",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_a9168860075ad99c5a0d",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-12T09:56:03+00:00",
+      "overlap_group_suggestion": "evt_a9168860075ad99c5a0d:capital_allocation:587b2b8fd44c",
+      "review_status": "pending",
+      "snippet": "d WebAssembly Runtime for Runtime-Neutral Checkpoint/Restore in Edge–Cloud Continuum chikuwait 0 770 Become a Pro speakerdeck PRO 31 6.2k Data-driven link building: lessons from a $708K investment (BrightonSEO talk) szymonslowik 1 1.3k Agile Leadership in an Agile Organization kimpetersen PRO 0 230 Leo the Paperboy mayatellez 8 2.2k Applied NLP in the Age of Gene",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://speakerdeck.com/uhyo/react-no-sekkeiron",
+      "component_confidence": 0.55,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 5000.0,
