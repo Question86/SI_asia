@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-12T03:02:48+00:00",
+  "generated_at": "2026-09-12T03:24:49+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -99,9 +99,8 @@
     },
     "domain:openai.com": {
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "updated_at": "2026-09-12T03:02:48+00:00",
+      "updated_at": "2026-09-12T03:24:49+00:00",
       "network_scores": [
-        14.1,
         14.1,
         14.1,
         14.1,
@@ -130,12 +129,13 @@
         12.2,
         12.2,
         12.2,
+        12.2,
         12.2
       ],
-      "rolling_average": 13.67,
+      "rolling_average": 13.6,
       "rolling_peak": 18.2,
       "last_score": 12.2,
-      "z_hint": -1.47
+      "z_hint": -1.4
     },
     "title:read-remote-repository-content-github-cli": {
       "title": "Read remote repository content with GitHub CLI",
@@ -5530,7 +5530,7 @@
     },
     "earthquake:m 5.1 - south sandwich islands region:5.1": {
       "title": "M 5.1 - South Sandwich Islands region",
-      "updated_at": "2026-09-12T03:02:48+00:00",
+      "updated_at": "2026-09-12T03:24:49+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -5553,8 +5553,8 @@
         11.7,
         11.7,
         11.7,
-        11.7,
         14.7,
+        11.7,
         11.7,
         11.7,
         11.7,
@@ -29110,7 +29110,7 @@
     },
     "earthquake:m 4.5 - 9 km wnw of quicacha, peru:4.5": {
       "title": "M 4.5 - 9 km WNW of Quicacha, Peru",
-      "updated_at": "2026-09-12T03:02:48+00:00",
+      "updated_at": "2026-09-12T03:24:49+00:00",
       "network_scores": [
         16.7,
         13.7,
@@ -29120,26 +29120,28 @@
         13.7,
         13.7,
         13.7,
+        13.7,
         13.7
       ],
-      "rolling_average": 14.03,
+      "rolling_average": 14.0,
       "rolling_peak": 16.7,
       "last_score": 13.7,
-      "z_hint": -0.33
+      "z_hint": -0.3
     },
     "earthquake:m 4.7 - 2 km ne of manaca norte, panama:4.7": {
       "title": "M 4.7 - 2 km NE of Manaca Norte, Panama",
-      "updated_at": "2026-09-12T03:02:48+00:00",
+      "updated_at": "2026-09-12T03:24:49+00:00",
       "network_scores": [
         14.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 12.45,
+      "rolling_average": 12.3,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.75
+      "z_hint": -0.6
     }
   }
 }
