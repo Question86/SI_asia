@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T04:23:41+00:00",
-  "run_id": "2026-09-12T04:23:41+00:00",
+  "generated_at": "2026-09-12T04:34:26+00:00",
+  "run_id": "2026-09-12T04:34:26+00:00",
   "date": "2026-09-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 8,
     "displayed_findings": 8,
     "high": 0,
@@ -491,30 +491,7 @@
       "id": "ad4179e306f8d2c1a800"
     }
   ],
-  "new_findings": [
-    {
-      "title": "数学難問をAIで解決、フィールズ賞25人が非難声明「科学に有害」 - 日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOSG120C30S6A910C2000000/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-12T02:48:57+00:00",
-      "fetched_at": "2026-09-12T04:23:11+00:00",
-      "summary": "「数学のノーベル賞」とも呼ばれるフィールズ賞を受賞した数学者25人が11日、人工知能（AI）を使って企業が数学の難問を解決しようとする動きを非難する緊急声明を公表した。今後さらに多くの数学者の署名を募るという。米オープンAIが「ナビエ・ストークス方程式」と呼ぶ数学の難問を解決したと発表したことを受けての...",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "85aba671c1b5a0c1ee7f"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
