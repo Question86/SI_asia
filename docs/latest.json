@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T00:52:45+00:00",
-  "run_id": "2026-09-12T00:52:45+00:00",
+  "generated_at": "2026-09-12T01:10:50+00:00",
+  "run_id": "2026-09-12T01:10:50+00:00",
   "date": "2026-09-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 2
+      "configured_public_sources_only": 3
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,18 +18,54 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 2,
-    "displayed_findings": 2,
+    "new_relevant_findings": 1,
+    "today_file_total": 3,
+    "displayed_findings": 3,
     "high": 0,
     "medium": 0,
-    "observe": 2,
+    "observe": 3,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [],
     "observe": [
+      {
+        "title": "M 4.5 - 9 km WNW of Quicacha, Peru",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvk",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-09-12T00:55:38.040+00:00",
+        "fetched_at": "2026-09-12T01:10:19+00:00",
+        "summary": "Time 2026-09-12 00:18:59 UTC 2026-09-12 00:18:59 UTC at epicenter Location 15.606°S 73.880°W Depth 98.77 km (61.37 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "3e5ef0c7dbea9ad610b4"
+      },
       {
         "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
         "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
@@ -74,6 +110,42 @@
   },
   "findings": [
     {
+      "title": "M 4.5 - 9 km WNW of Quicacha, Peru",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvk",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-12T00:55:38.040+00:00",
+      "fetched_at": "2026-09-12T01:10:19+00:00",
+      "summary": "Time 2026-09-12 00:18:59 UTC 2026-09-12 00:18:59 UTC at epicenter Location 15.606°S 73.880°W Depth 98.77 km (61.37 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "3e5ef0c7dbea9ad610b4"
+    },
+    {
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "source": "OpenAI News RSS",
@@ -116,44 +188,40 @@
   ],
   "new_findings": [
     {
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "source": "OpenAI News RSS",
+      "title": "M 4.5 - 9 km WNW of Quicacha, Peru",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvk",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-09-14T00:00:00+00:00",
-      "fetched_at": "2026-09-12T00:52:14+00:00",
-      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "published_at": "2026-09-12T00:55:38.040+00:00",
+      "fetched_at": "2026-09-12T01:10:19+00:00",
+      "summary": "Time 2026-09-12 00:18:59 UTC 2026-09-12 00:18:59 UTC at epicenter Location 15.606°S 73.880°W Depth 98.77 km (61.37 mi)",
       "matched_keywords": [
-        "OpenAI"
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "OpenAI (+7.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5886e5938b5b864c1aa4"
-    },
-    {
-      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
-      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-09-11T16:00:00+00:00",
-      "fetched_at": "2026-09-12T00:52:14+00:00",
-      "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
-      "matched_keywords": [
-        "OpenAI"
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f5b86c3c382f0e76424b"
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "3e5ef0c7dbea9ad610b4"
     }
   ],
   "source_errors": [],
