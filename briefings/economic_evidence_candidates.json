@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-09-12T22:29:03+00:00",
-  "candidate_count": 552,
+  "generated_at": "2026-09-12T22:41:34+00:00",
+  "candidate_count": 553,
   "candidates": [
     {
       "amount_native": 1200000000000.0,
@@ -7391,6 +7391,24 @@
       "snippet": "ls to enable bulk exports and cross-tenant data collection. Against a different target, the same attacker also claimed to have collected legitimate HackerOne bug-bounty payouts of $2,000 and $5,000 from two of the companies they infiltrated and extorted, treating BugBounty disclosure programs and intrusion as additional revenue streams against the same targets they",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://www.anthropic.com/threat-intelligence-report-september-2026"
+    },
+    {
+      "candidate_id": "cand_49a70be2efed562c58e2",
+      "event_id": "evt_3aabbe1ecdc7bfaba097",
+      "source_url": "https://qiita.com/Syoitu/items/d41d234876e1bfadbf32",
+      "observed_at": "2026-09-12T22:41:32+00:00",
+      "currency": "USD",
+      "amount_native": 930.0,
+      "amount_usd": 930.0,
+      "conversion_status": "not_required",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_3aabbe1ecdc7bfaba097:unclassified",
+      "attribution_probability": null,
+      "snippet": "ソフトウェア自体はApache License 2.0のOSSで無料ですが、自分のAWS環境にCDKでデプロイして動かす前提のツールなので、稼働させるインフラのAWS利用料は別にかかります。ドキュメントには次のようなコスト警告がそのまま書かれています。 Cost warning: Neptune + OpenSearch Serverless cost ~$930/mo when idle. Destroy stacks when not actively testing アイドル状態でも月額約930ドルかかるとのことなので、検証目的で触ってみたいだけなら、使い終わったらスタックをdestroyしておくのが安全です。 最後に 「プロンプトに書くルールと何が違うの」という本記事の核心にあった疑問には、思っていたよりはっ",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "secondary_or_unknown",
+      "candidate_confidence": 0.55,
+      "review_status": "pending"
     },
     {
       "amount_native": 180.0,
