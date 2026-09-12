@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T10:29:57+00:00",
-  "run_id": "2026-09-12T10:29:57+00:00",
+  "generated_at": "2026-09-12T10:39:38+00:00",
+  "run_id": "2026-09-12T10:39:38+00:00",
   "date": "2026-09-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 21
+      "configured_public_sources_only": 22
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 21,
-    "displayed_findings": 21,
+    "today_file_total": 22,
+    "displayed_findings": 22,
     "high": 0,
     "medium": 5,
-    "observe": 16,
+    "observe": 17,
     "source_errors": 0
   },
   "sections": {
@@ -501,6 +501,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "5886e5938b5b864c1aa4"
+      },
+      {
+        "title": "AI時代のWebフレームワークはどこへ行く？",
+        "url": "https://slides.yusu.ke/web-frameworks-in-the-ai-era",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-12T07:11:39+00:00",
+        "fetched_at": "2026-09-12T10:39:09+00:00",
+        "summary": "::title:: AI時代のWebフレームワークはどこへ行く？ Yusuke Wada フロントエンドカンファレンス福岡 2026 ・ September 12, 2026 ::center bg=blue:: マジで ::center bg=blue:: 喉（声帯）がやられて ::center bg=blue:: 声がでない ::center bg=blue size=2:: 😱 ::center bg=blue:: お聞き苦しいところありますがご...",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "adf59f61444b3575061d"
       },
       {
         "title": "いま“知っておきたい”トレンドワード なぜ1型センサーで白飛びしない？ 話題の「LOFICセンサー」の仕組み",
@@ -1124,6 +1146,28 @@
       "id": "5886e5938b5b864c1aa4"
     },
     {
+      "title": "AI時代のWebフレームワークはどこへ行く？",
+      "url": "https://slides.yusu.ke/web-frameworks-in-the-ai-era",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-12T07:11:39+00:00",
+      "fetched_at": "2026-09-12T10:39:09+00:00",
+      "summary": "::title:: AI時代のWebフレームワークはどこへ行く？ Yusuke Wada フロントエンドカンファレンス福岡 2026 ・ September 12, 2026 ::center bg=blue:: マジで ::center bg=blue:: 喉（声帯）がやられて ::center bg=blue:: 声がでない ::center bg=blue size=2:: 😱 ::center bg=blue:: お聞き苦しいところありますがご...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "adf59f61444b3575061d"
+    },
+    {
       "title": "いま“知っておきたい”トレンドワード なぜ1型センサーで白飛びしない？ 話題の「LOFICセンサー」の仕組み",
       "url": "https://dc.watch.impress.co.jp/docs/column/trend/2140009.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1273,26 +1317,26 @@
   ],
   "new_findings": [
     {
-      "title": "いま“知っておきたい”トレンドワード なぜ1型センサーで白飛びしない？ 話題の「LOFICセンサー」の仕組み",
-      "url": "https://dc.watch.impress.co.jp/docs/column/trend/2140009.html",
+      "title": "AI時代のWebフレームワークはどこへ行く？",
+      "url": "https://slides.yusu.ke/web-frameworks-in-the-ai-era",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-12T01:16:06+00:00",
-      "fetched_at": "2026-09-12T10:29:29+00:00",
-      "summary": "いま“知っておきたい”トレンドワード なぜ1型センサーで白飛びしない？ 話題の「LOFICセンサー」の仕組み",
+      "published_at": "2026-09-12T07:11:39+00:00",
+      "fetched_at": "2026-09-12T10:39:09+00:00",
+      "summary": "::title:: AI時代のWebフレームワークはどこへ行く？ Yusuke Wada フロントエンドカンファレンス福岡 2026 ・ September 12, 2026 ::center bg=blue:: マジで ::center bg=blue:: 喉（声帯）がやられて ::center bg=blue:: 声がでない ::center bg=blue size=2:: 😱 ::center bg=blue:: お聞き苦しいところありますがご...",
       "matched_keywords": [
-        "APAC Trend Radar",
+        "AI/KI",
         "Hatena",
         "hotentry"
       ],
       "relevance_score": 8,
-      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "42a2537a818584decfc3"
+      "id": "adf59f61444b3575061d"
     }
   ],
   "source_errors": [],

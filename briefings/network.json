@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-12T10:29:59+00:00",
+  "generated_at": "2026-09-12T10:39:40+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 21,
-    "clusters": 20,
+    "findings": 22,
+    "clusters": 21,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 0,
@@ -252,8 +252,8 @@
       "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
-      "key": "title:lofic",
-      "title": "いま“知っておきたい”トレンドワード なぜ1型センサーで白飛びしない？ 話題の「LOFICセンサー」の仕組み",
+      "key": "title:web",
+      "title": "AI時代のWebフレームワークはどこへ行く？",
       "sources": [
         "Hatena Bookmark Hotentry IT"
       ],
@@ -261,7 +261,7 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://dc.watch.impress.co.jp/docs/column/trend/2140009.html"
+        "https://slides.yusu.ke/web-frameworks-in-the-ai-era"
       ],
       "finding_count": 1,
       "max_score": 8,
@@ -287,7 +287,7 @@
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-09-12T10:29:59+00:00"
+      "first_seen_at": "2026-09-12T10:39:40+00:00"
     },
     {
       "key": "domain:www.nikkei.com",
@@ -447,6 +447,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-06-17T20:44:40+00:00"
+    },
+    {
+      "key": "title:lofic",
+      "title": "いま“知っておきたい”トレンドワード なぜ1型センサーで白飛びしない？ 話題の「LOFICセンサー」の仕組み",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://dc.watch.impress.co.jp/docs/column/trend/2140009.html"
+      ],
+      "finding_count": 1,
+      "max_score": 8,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 9.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 10.1,
+      "ranking_score": 9.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-12T10:29:59+00:00"
     },
     {
       "key": "domain:www.ecb.europa.eu",
@@ -803,7 +841,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-12T10:30:00Z",
+    "generated_at": "2026-09-12T10:39:40Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
