@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-12T07:19:58+00:00_
+_Generiert: 2026-09-12T07:29:52+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „melgarafael/DeskcommCRM“ aus GitHub Trending RSS All Languages Daily (Score 19, opportunity).
+16 neue relevante Treffer. Stärkstes Signal: „melgarafael/DeskcommCRM“ aus GitHub Trending RSS All Languages Daily (Score 19, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -193,14 +193,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: フロントエンドカンファレンス福岡2026
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **DeepSeek v4.1 Flashを動かしたくてFP4に対応していないA100を、33tok/sから673 tok/sまで持っていって気がつくと公式APIより速くなっていた話｜shi3z** — Score 5, observation — [Quelle](https://note.com/shi3zblog/n/nd5fc5341b342)
+- **デジタル庁GSSで24.6万件漏洩――「中等度」の脆弱性に政府共通基盤が抜かれた件｜山本一郎（やまもといちろう）** — Score 5, observation — [Quelle](https://note.com/kirik/n/n8e7920167c3f)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-11T23:45:01+00:00`, fetched `2026-09-12T03:36:24+00:00`
+  - Zeit: published `2026-09-11T23:51:30+00:00`, fetched `2026-09-12T07:29:21+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: DeepSeek v4.1 Flashを動かしたくてFP4に対応していないA100を、33tok/sから673 tok/sまで持っていって気がつくと公式APIより速くなっていた話 あらすじ結論から言うと、この24時間で僕の手元で起きたことは、僕を驚かせるのに十分なことだった。そしてこれは全く新しい時代の幕開けなのだということを感じている。午前5...
+  - Kurz: ※おことわり 本稿は、ほぼ同じ内容を私のメルマガ『人間迷路』で配信しています。で、メルマガご購読者の皆さまに於かれましては本稿は配信する記事と同じものですので、お布施でもない限り、間違って買わないようお願いします。 https://yakan-hiko.com/kirik.html なんつーか、大変なことになってしまいました。 な...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **armory3d/armorpaint** — Score 5, observation — [Quelle](https://github.com/armory3d/armorpaint)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
