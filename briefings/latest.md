@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-12T01:10:50+00:00_
+_Generiert: 2026-09-12T01:30:01+00:00_
 
 ## Kurzlage
 
-3 neue relevante Treffer. Stärkstes Signal: „M 4.5 - 9 km WNW of Quicacha, Peru“ aus USGS M4.5+ Earthquakes Past Hour (Score 11, risk).
+4 neue relevante Treffer. Stärkstes Signal: „M 4.5 - 9 km WNW of Quicacha, Peru“ aus USGS M4.5+ Earthquakes Past Hour (Score 11, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -81,6 +81,15 @@ Keine neuen mittleren Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-12 00:18:59 UTC 2026-09-12 00:18:59 UTC at epicenter Location 15.606°S 73.880°W Depth 98.77 km (61.37 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **M 5.1 - South Sandwich Islands region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvr)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-12T01:14:31.040+00:00`, fetched `2026-09-12T01:29:30+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-12 00:55:08 UTC 2026-09-12 00:55:08 UTC at epicenter Location 59.135°S 24.927°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Perplexity trusts GPT-6 Astra with end-to-end systems** — Score 8, observation — [Quelle](https://openai.com/index/perplexity-improving-accuracy-with-astra)
   - Quelle: OpenAI News RSS / `rss`
