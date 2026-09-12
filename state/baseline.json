@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-12T01:30:05+00:00",
+  "generated_at": "2026-09-12T01:48:20+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -99,9 +99,8 @@
     },
     "domain:openai.com": {
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "updated_at": "2026-09-12T01:30:05+00:00",
+      "updated_at": "2026-09-12T01:48:20+00:00",
       "network_scores": [
-        14.1,
         14.1,
         14.1,
         14.1,
@@ -130,12 +129,13 @@
         14.1,
         18.2,
         12.2,
+        12.2,
         12.2
       ],
-      "rolling_average": 14.11,
+      "rolling_average": 14.05,
       "rolling_peak": 18.2,
       "last_score": 12.2,
-      "z_hint": -1.91
+      "z_hint": -1.85
     },
     "title:read-remote-repository-content-github-cli": {
       "title": "Read remote repository content with GitHub CLI",
@@ -5530,7 +5530,7 @@
     },
     "earthquake:m 5.1 - south sandwich islands region:5.1": {
       "title": "M 5.1 - South Sandwich Islands region",
-      "updated_at": "2026-09-12T01:30:05+00:00",
+      "updated_at": "2026-09-12T01:48:20+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -5560,13 +5560,13 @@
         11.7,
         11.7,
         11.7,
-        11.7,
-        14.7
+        14.7,
+        11.7
       ],
       "rolling_average": 11.8,
       "rolling_peak": 14.7,
-      "last_score": 14.7,
-      "z_hint": 2.9
+      "last_score": 11.7,
+      "z_hint": -0.1
     },
     "title:microsoft-mai-code-flash-code-github-copilot": {
       "title": "無料でも利用可、Microsoftの軽量モデル「MAI-Code-1-Flash」が「VS Code」以外にも展開／「GitHub Copilot」個人プランで利用可能、法人向けも間もなく",
@@ -29110,15 +29110,16 @@
     },
     "earthquake:m 4.5 - 9 km wnw of quicacha, peru:4.5": {
       "title": "M 4.5 - 9 km WNW of Quicacha, Peru",
-      "updated_at": "2026-09-12T01:30:05+00:00",
+      "updated_at": "2026-09-12T01:48:20+00:00",
       "network_scores": [
         16.7,
+        13.7,
         13.7
       ],
-      "rolling_average": 15.2,
+      "rolling_average": 14.7,
       "rolling_peak": 16.7,
       "last_score": 13.7,
-      "z_hint": -1.5
+      "z_hint": -1.0
     }
   }
 }
