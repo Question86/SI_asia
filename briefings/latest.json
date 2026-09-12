@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T17:02:19+00:00",
-  "run_id": "2026-09-12T17:02:19+00:00",
+  "generated_at": "2026-09-12T17:16:59+00:00",
+  "run_id": "2026-09-12T17:16:59+00:00",
   "date": "2026-09-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 29,
     "displayed_findings": 29,
     "high": 0,
@@ -1703,30 +1703,7 @@
       "id": "a59bab3853c9024feb0b"
     }
   ],
-  "new_findings": [
-    {
-      "title": "AI エージェントとアプリを動かす Cloudflare OS を試してみた",
-      "url": "https://azukiazusa.dev/blog/cloudflare-os/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-12T04:28:14+00:00",
-      "fetched_at": "2026-09-12T17:01:49+00:00",
-      "summary": "たとえば、エージェントにメモアプリを作ってもらった場合、そのアプリが Gadget です。実際にどのように Gadget を作って組織のメンバーに共有するのかを試してみましょう。 ローカルで起動する まずは 公式リポジトリの起動手順に従って、Cloudflare OS をローカルで動かしてみましょう。Node.js と、パッケージマネー...",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "40edcc5629290348b3f4"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
