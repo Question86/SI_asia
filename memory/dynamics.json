@@ -1,30 +1,54 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-12T06:20:30Z",
+  "generated_at": "2026-09-12T06:45:23Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 25,
+    "dynamics": 27,
     "bands": {
       "extreme": 2,
       "krass": 1,
-      "strong": 5,
-      "watch": 8,
+      "strong": 6,
+      "watch": 9,
       "quiet": 9
     },
     "bands_after_gate_recheck": {
-      "strong": 8,
-      "watch": 8,
+      "strong": 9,
+      "watch": 9,
       "quiet": 9
     }
   },
   "top_dynamics": [
     {
+      "title": "nab138/iloader",
+      "url": "https://github.com/nab138/iloader",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-09-12T05:55:58+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 25.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2"
+      ],
+      "summary": ""
+    },
+    {
       "title": "melgarafael/DeskcommCRM",
       "url": "https://github.com/melgarafael/DeskcommCRM",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-12T05:55:23+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
@@ -52,7 +76,7 @@
       "url": "https://github.com/nab138/iloader",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-12T05:55:23+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "macro"
@@ -81,7 +105,7 @@
       "url": "https://github.com/vastsa/PI-Desktop",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-12T05:55:23+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
@@ -108,7 +132,7 @@
       "url": "https://github.com/melgarafael/DeskcommCRM",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-12T05:55:58+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "general"
       ],
@@ -118,12 +142,12 @@
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 2,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +1",
+        "momentum delta +2",
         "krass gate: single-source non-official/non-identity signal capped"
       ],
       "summary": ""
@@ -133,7 +157,7 @@
       "url": "https://github.com/vastsa/PI-Desktop",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-12T05:55:58+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "general"
       ],
@@ -143,12 +167,38 @@
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 2,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +1",
+        "momentum delta +2",
+        "krass gate: single-source non-official/non-identity signal capped"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "M 4.8 - 253 km WSW of Tual, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgxg",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-03T21:47:43+00:00",
+      "age_days": 8.37,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 2.57,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 2.57",
         "krass gate: single-source non-official/non-identity signal capped"
       ],
       "summary": ""
@@ -158,7 +208,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgwe",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T03:50:15.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -179,35 +229,11 @@
       "summary": "Time 2026-09-12 03:34:57 UTC 2026-09-12 03:34:57 UTC at epicenter Location 8.263°S 120.678°E Depth 10.00 km (6.21 mi)"
     },
     {
-      "title": "nab138/iloader",
-      "url": "https://github.com/nab138/iloader",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-09-12T05:55:58+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 22.5,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "M 4.7 - 94 km WNW of Ternate, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgx2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T05:30:29+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
@@ -231,7 +257,7 @@
       "url": "https://note.com/shi3zblog/n/nd5fc5341b342",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 11.48,
+      "age_days": 11.5,
       "topics": [
         "general"
       ],
@@ -256,7 +282,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T01:10:54+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -276,11 +302,35 @@
       "summary": ""
     },
     {
+      "title": "M 4.8 - 253 km WSW of Tual, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgxg",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-12T06:31:47.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 18.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "Time 2026-09-12 06:14:30 UTC 2026-09-12 06:14:30 UTC at epicenter Location 6.091°S 130.508°E Depth 134.35 km (83.48 mi)"
+    },
+    {
       "title": "M 4.7 - 94 km WNW of Ternate, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgx2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T05:24:42.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -304,7 +354,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgw1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T02:31:59.664+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -329,7 +379,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T01:14:31.040+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "disaster"
       ],
@@ -354,7 +404,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgw1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T02:33:27+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -378,7 +428,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgwe",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 85.66,
+      "age_days": 85.67,
       "topics": [
         "general"
       ],
@@ -403,7 +453,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T00:55:38.040+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -427,7 +477,7 @@
       "url": "https://note.com/shi3zblog/n/nd5fc5341b342",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-11T23:45:01+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -451,7 +501,7 @@
       "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 86.4,
+      "age_days": 86.42,
       "topics": [
         "general"
       ],
@@ -477,7 +527,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-06-19T21:55:12+00:00",
-      "age_days": 84.35,
+      "age_days": 84.37,
       "topics": [
         "general"
       ],
@@ -502,7 +552,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOSG120C30S6A910C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-12T02:48:57+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -528,7 +578,7 @@
       "url": "https://openai.com/index/cognition-devin-testing-with-astra",
       "source": "OpenAI News RSS",
       "published_at": "2026-09-11T16:00:00+00:00",
-      "age_days": 0.6,
+      "age_days": 0.61,
       "topics": [
         "ai"
       ],
@@ -550,11 +600,37 @@
       "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more."
     },
     {
+      "title": "armory3d/armorpaint",
+      "url": "https://github.com/armory3d/armorpaint",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-09-12T05:55:58+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 3.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +2",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "数学難問をAIで解決、フィールズ賞25人が非難声明「科学に有害」 - 日本経済新聞",
       "url": "https://www.nikkei.com/article/DGXZQOSG120C30S6A910C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T02:10:07+00:00",
-      "age_days": 85.17,
+      "age_days": 85.19,
       "topics": [
         "ai"
       ],
@@ -572,32 +648,6 @@
         "momentum delta +3",
         "single-source AI hype brake -8.0",
         "aging penalty -8.0 for 85.2d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "armory3d/armorpaint",
-      "url": "https://github.com/armory3d/armorpaint",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-09-12T05:55:58+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 1.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -632,7 +682,7 @@
       "url": "https://github.com/armory3d/armorpaint",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-12T05:55:23+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
@@ -653,5 +703,5 @@
       "summary": "Graphics Creation Tools https://armorpaint.org armorpaint ArmorPaint is a software for 3D PBR texture painting - check out the manual . Note 1: This repository is aimed at developers and may not be stable. Distributed binaries are paid to help with the project funding. All of the development is happening here in order…"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “melgarafael/DeskcommCRM” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “nab138/iloader” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0."
 }
