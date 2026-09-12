@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-12T05:30:45+00:00",
+  "generated_at": "2026-09-12T05:40:50+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -688,7 +688,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-30T11:56:17+00:00",
-      "last_seen_at": "2026-09-12T05:30:29+00:00",
+      "last_seen_at": "2026-09-12T05:40:29+00:00",
       "status": "active"
     },
     {
@@ -724,6 +724,23 @@
       "first_seen_at": "2026-09-06T05:39:36+00:00",
       "last_seen_at": "2026-09-06T23:56:14+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_4a0d93e16aedc502c780",
+      "title": "M 4.7 - 94 km WNW of Ternate, Indonesia",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1160000.0,
+      "p50_usd": 116000000.0,
+      "p90_usd": 11600000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-12T05:30:29+00:00",
+      "last_seen_at": "2026-09-12T05:40:29+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_7118cce672ed485d4bcb",
@@ -928,23 +945,6 @@
       "first_seen_at": "2026-09-01T13:58:29+00:00",
       "last_seen_at": "2026-09-01T23:56:16+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_4a0d93e16aedc502c780",
-      "title": "M 4.7 - 94 km WNW of Ternate, Indonesia",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1160000.0,
-      "p50_usd": 116000000.0,
-      "p90_usd": 11600000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-09-12T05:30:29+00:00",
-      "last_seen_at": "2026-09-12T05:30:29+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_051cfa972487c1e10518",
@@ -1402,7 +1402,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-12T01:10:54+00:00",
-      "last_seen_at": "2026-09-12T05:30:29+00:00",
+      "last_seen_at": "2026-09-12T05:40:29+00:00",
       "status": "active"
     },
     {
@@ -1895,7 +1895,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-12T02:33:27+00:00",
-      "last_seen_at": "2026-09-12T05:30:29+00:00",
+      "last_seen_at": "2026-09-12T05:40:29+00:00",
       "status": "active"
     },
     {
@@ -2626,7 +2626,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-30T04:22:59+00:00",
-      "last_seen_at": "2026-09-12T05:30:29+00:00",
+      "last_seen_at": "2026-09-12T05:40:29+00:00",
       "status": "active"
     },
     {
@@ -3646,7 +3646,7 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-12T05:30:29+00:00",
+      "last_seen_at": "2026-09-12T05:40:29+00:00",
       "status": "active"
     },
     {
@@ -3833,7 +3833,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-12T05:30:29+00:00",
+      "last_seen_at": "2026-09-12T05:40:29+00:00",
       "status": "active"
     },
     {
@@ -7574,7 +7574,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:10:24+00:00",
-      "last_seen_at": "2026-09-12T05:30:29+00:00",
+      "last_seen_at": "2026-09-12T05:40:29+00:00",
       "status": "active"
     },
     {
