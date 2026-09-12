@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-12T05:48:01+00:00_
+_Generiert: 2026-09-12T05:55:55+00:00_
 
 ## Kurzlage
 
-9 neue relevante Treffer. Stärkstes Signal: „M 4.7 - 94 km WNW of Ternate, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+13 neue relevante Treffer. Stärkstes Signal: „melgarafael/DeskcommCRM“ aus GitHub Trending RSS All Languages Daily (Score 19, opportunity). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -12,6 +12,24 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **melgarafael/DeskcommCRM** — Score 19, opportunity — [Quelle](https://github.com/melgarafael/DeskcommCRM)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-09-12T05:55:23+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar, GitHub Trending, Open Source, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD. https://deskcomm.com.br 🇧🇷 Português · 🇺🇸 English · 🇪🇸 Español 🛠️ DeskcommCRM — o Sistema Operacional de Vendas com IA, open source, pro WhatsApp Agentes de IA que atendem, qualificam e vendem no WhatsApp — dentro de um C…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **vastsa/PI-Desktop** — Score 17, opportunity — [Quelle](https://github.com/vastsa/PI-Desktop)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-09-12T05:55:23+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, GitHub Trending, Local-first AI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: AI/KI (+3.0); Local-first AI (+6.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins https://pi-docs.aiuo.net PI-Desktop Your local-first desktop workspace for AI coding agents. Bring your own model. Open any local project. Let agents work — while you stay in control. No PI-Desktop account. No mandatory relay. No editor lock-in. Download PI-Desktop · Documentation · Screenshots · 简体中文 A stand…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **M 4.7 - 94 km WNW of Ternate, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgx2)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-12T05:24:42.040+00:00`, fetched `2026-09-12T05:29:53+00:00`
@@ -33,6 +51,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **nab138/iloader** — Score 13, observation — [Quelle](https://github.com/nab138/iloader)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-09-12T05:55:23+00:00`
+  - Treffer: APAC Trend Radar, Content-Chance, GitHub Trending, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Webentwicklung (+3.0); APAC Trend Radar (+3.0); Content-Chance (+5.0); GitHub Trending (+2.0)
+  - Kurz: User friendly sideloader https://iloader.app iloader Install SideStore (or other apps) and import your pairing file with ease This repository and iloader.app are the only official ways to download iloader. There is also an unofficial Homebrew cask , an unofficial AUR package , and an unofficial Fedora COPR repository maintained by the community. Do not download from any other sources or websites. How to use Install…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.5 - 9 km WNW of Quicacha, Peru** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvk)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-12T00:55:38.040+00:00`, fetched `2026-09-12T01:10:19+00:00`
@@ -96,11 +123,25 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: DeepSeek v4.1 Flashを動かしたくてFP4に対応していないA100を、33tok/sから673 tok/sまで持っていって気がつくと公式APIより速くなっていた話 あらすじ結論から言うと、この24時間で僕の手元で起きたことは、僕を驚かせるのに十分なことだった。そしてこれは全く新しい時代の幕開けなのだということを感じている。午前5...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **armory3d/armorpaint** — Score 5, observation — [Quelle](https://github.com/armory3d/armorpaint)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-09-12T05:55:23+00:00`
+  - Treffer: APAC Trend Radar, GitHub Trending
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
+  - Kurz: Graphics Creation Tools https://armorpaint.org armorpaint ArmorPaint is a software for 3D PBR texture painting - check out the manual . Note 1: This repository is aimed at developers and may not be stable. Distributed binaries are paid to help with the project funding. All of the development is happening here in order to make it accessible to everyone. Thank you for support! Note 2: If you are compiling git version…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
+- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `ecb_statistical_press` (rss): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
