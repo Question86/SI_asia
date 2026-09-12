@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-12T10:30:28+00:00",
+  "generated_at": "2026-09-12T10:40:08+00:00",
   "events": [
     {
       "event_id": "evt_02008879feb3a26196bb",
@@ -3531,7 +3531,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_981a9fca29c178671b81",
@@ -4713,12 +4713,12 @@
     {
       "event_id": "evt_cf8484a76bc09296c032",
       "title": "いま“知っておきたい”トレンドワード なぜ1型センサーで白飛びしない？ 話題の「LOFICセンサー」の仕組み",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -5391,6 +5391,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_e8daf428500d195a7f39",
+      "title": "AI時代のWebフレームワークはどこへ行く？",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_e93b85b6514d050d06de",
