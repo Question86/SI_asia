@@ -1,12 +1,22 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-12T21:12:05Z_
+_Generated: 2026-09-12T21:24:01Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “melgarafael/DeskcommCRM” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.
+Stärkste Dynamik nach Gate-Recheck: “M 5.1 - 101 km S of Yudomari, Japan” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0.
 
 ## Top Dynamics
+
+### M 5.1 - 101 km S of Yudomari, Japan
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `25.0`
+- Published: `2026-09-12T20:54:37+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +2, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000th1q
 
 ### melgarafael/DeskcommCRM
 
@@ -62,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “melgarafael/DeskcommCRM” — Die Dynam
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-12T20:53:42.040+00:00` / age_days `0.01`
+- Published: `2026-09-12T20:53:42.040+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -72,21 +82,11 @@ Stärkste Dynamik nach Gate-Recheck: “melgarafael/DeskcommCRM” — Die Dynam
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-12T03:50:15.040+00:00` / age_days `0.72`
+- Published: `2026-09-12T03:50:15.040+00:00` / age_days `0.73`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgwe
-
-### M 5.1 - 101 km S of Yudomari, Japan
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `22.5`
-- Published: `2026-09-12T20:54:37+00:00` / age_days `0.01`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1, high terms: 10
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000th1q
 
 ### M 4.8 - 253 km WSW of Tual, Indonesia
 
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “melgarafael/DeskcommCRM” — Die Dynam
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.5`
-- Published: `2026-09-12T05:30:29+00:00` / age_days `0.65`
+- Published: `2026-09-12T05:30:29+00:00` / age_days `0.66`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -118,14 +118,14 @@ Stärkste Dynamik nach Gate-Recheck: “melgarafael/DeskcommCRM” — Die Dynam
 - Warum: momentum delta +3
 - Quelle: https://github.com/nab138/iloader
 
-### M 4.7 - 32 km SW of Sipí, Colombia
+### Nuxt.js から Next.js へ ── フロントエンド技術リプレイスにおけるハーネスエンジニアリングと理解負債
 
 - Band: `watch` (raw `watch`)
-- Dynamics score: `18.5`
-- Published: `2026-09-12T11:35:43+00:00` / age_days `0.4`
+- Dynamics score: `19.0`
+- Published: `2026-09-12T20:47:11+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgyx
+- Quelle: https://zenn.dev/mediba/articles/7d0d7d70678546
 
 END OF DOCUMENT
