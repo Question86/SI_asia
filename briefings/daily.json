@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T19:57:09+00:00",
-  "today_file_total": 30,
+  "generated_at": "2026-09-12T20:13:51+00:00",
+  "today_file_total": 31,
   "current_clusters": [
     {
       "key": "github_repo:melgarafael/deskcommcrm",
@@ -126,6 +126,30 @@
         "earthquakes_tsunami"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "domain:www.ecb.europa.eu",
+      "title": "Christine Lagarde: Interview with Ouest-France",
+      "sources": [
+        "ECB Press Releases Speeches Interviews"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260912~3cc706f4d6.en.html",
+        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260912~fafa4b35b0.en.html"
+      ],
+      "finding_count": 2,
+      "max_score": 9,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 16.2,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "github_repo:nab138/iloader",
@@ -445,29 +469,6 @@
         "earthquakes_tsunami"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "domain:www.ecb.europa.eu",
-      "title": "Christine Lagarde: Europe seen from Normandy",
-      "sources": [
-        "ECB Press Releases Speeches Interviews"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260912~fafa4b35b0.en.html"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 11.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "title:cloudflare",
