@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-12T09:22:57+00:00",
+  "generated_at": "2026-09-12T09:31:23+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -99,7 +99,7 @@
     },
     "domain:openai.com": {
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "updated_at": "2026-09-12T09:22:57+00:00",
+      "updated_at": "2026-09-12T09:31:23+00:00",
       "network_scores": [
         12.2,
         12.2,
@@ -1559,12 +1559,12 @@
     },
     "earthquake:indonesia:4.6": {
       "title": "M 4.6 - 45 km NNE of Ruteng, Indonesia",
-      "updated_at": "2026-09-12T09:22:57+00:00",
+      "updated_at": "2026-09-12T09:31:23+00:00",
       "network_scores": [
         17.7,
         17.7,
-        17.7,
         20.7,
+        17.7,
         17.7,
         17.7,
         17.7,
@@ -3433,9 +3433,8 @@
     },
     "domain:speakerdeck.com": {
       "title": "Reactの設計論",
-      "updated_at": "2026-09-12T09:22:57+00:00",
+      "updated_at": "2026-09-12T09:31:23+00:00",
       "network_scores": [
-        13.1,
         13.1,
         13.1,
         13.1,
@@ -3464,12 +3463,13 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 10.6,
+      "rolling_average": 10.4,
       "rolling_peak": 13.1,
       "last_score": 7.1,
-      "z_hint": -3.5
+      "z_hint": -3.3
     },
     "title:web-nginx-cvss": {
       "title": "Webサーバー「nginx」に3件の脆弱性、「CVSS 4.0」の基本値は最高で10点満点中「9.2」／v1.30.3/v1.31.2への更新を",
@@ -3799,14 +3799,14 @@
     },
     "domain:www.nikkei.com": {
       "title": "数学難問をAIで解決、フィールズ賞25人が非難声明「科学に有害」 - 日本経済新聞",
-      "updated_at": "2026-09-12T09:22:57+00:00",
+      "updated_at": "2026-09-12T09:31:23+00:00",
       "network_scores": [
         12.1,
         12.1,
         12.1,
         12.1,
-        12.1,
         15.1,
+        12.1,
         12.1,
         12.1,
         12.1,
@@ -5530,7 +5530,7 @@
     },
     "earthquake:m 5.1 - south sandwich islands region:5.1": {
       "title": "M 5.1 - South Sandwich Islands region",
-      "updated_at": "2026-09-12T09:22:57+00:00",
+      "updated_at": "2026-09-12T09:31:23+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -10002,10 +10002,10 @@
     },
     "domain:note.com": {
       "title": "DeepSeek v4.1 Flashを動かしたくてFP4に対応していないA100を、33tok/sから673 tok/sまで持っていって気がつくと公式APIより速くなっていた話｜shi3z",
-      "updated_at": "2026-09-12T09:22:57+00:00",
+      "updated_at": "2026-09-12T09:31:23+00:00",
       "network_scores": [
-        11.3,
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -10035,10 +10035,10 @@
         7.1,
         7.1
       ],
-      "rolling_average": 7.34,
-      "rolling_peak": 11.3,
+      "rolling_average": 7.2,
+      "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.24
+      "z_hint": -0.1
     },
     "earthquake:m 4.6 - 112 km ssw of chirilagua, el salvador:4.6": {
       "title": "M 4.6 - 112 km SSW of Chirilagua, El Salvador",
@@ -16738,7 +16738,7 @@
     },
     "earthquake:indonesia:4.8": {
       "title": "M 4.8 - 253 km WSW of Tual, Indonesia",
-      "updated_at": "2026-09-12T09:22:57+00:00",
+      "updated_at": "2026-09-12T09:31:23+00:00",
       "network_scores": [
         20.7,
         17.7,
@@ -16766,12 +16766,13 @@
         17.7,
         17.7,
         17.7,
+        17.7,
         17.7
       ],
-      "rolling_average": 17.92,
+      "rolling_average": 17.91,
       "rolling_peak": 20.7,
       "last_score": 17.7,
-      "z_hint": -0.22
+      "z_hint": -0.21
     },
     "github_repo:humanlayer/skills": {
       "title": "skills/plugins/show-me/skills/show-me/SKILL.md at main · humanlayer/skills",
@@ -28927,7 +28928,7 @@
     },
     "domain:automaton-media.com": {
       "title": "レベルファイブ日野社長、“AI盛り込みトレイラー発表会”について「派手にしたかった」ためと弁明。ただ発売するゲームには、“安易なAI出力データ”は入れない - AUTOMATON",
-      "updated_at": "2026-09-12T09:22:57+00:00",
+      "updated_at": "2026-09-12T09:31:23+00:00",
       "network_scores": [
         10.4,
         7.4,
@@ -28948,12 +28949,13 @@
         7.4,
         7.4,
         10.4,
+        7.4,
         7.4
       ],
-      "rolling_average": 7.7,
+      "rolling_average": 7.69,
       "rolling_peak": 10.4,
       "last_score": 7.4,
-      "z_hint": -0.3
+      "z_hint": -0.29
     },
     "domain:developers.openai.com": {
       "title": "Rethinking skills and prompts for GPT-6 Astra | OpenAI Developers",
@@ -29126,7 +29128,7 @@
     },
     "earthquake:m 4.5 - 9 km wnw of quicacha, peru:4.5": {
       "title": "M 4.5 - 9 km WNW of Quicacha, Peru",
-      "updated_at": "2026-09-12T09:22:57+00:00",
+      "updated_at": "2026-09-12T09:31:23+00:00",
       "network_scores": [
         13.7,
         13.7,
@@ -29166,7 +29168,7 @@
     },
     "earthquake:m 4.7 - 2 km ne of manaca norte, panama:4.7": {
       "title": "M 4.7 - 2 km NE of Manaca Norte, Panama",
-      "updated_at": "2026-09-12T09:22:57+00:00",
+      "updated_at": "2026-09-12T09:31:23+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -29206,7 +29208,7 @@
     },
     "earthquake:indonesia:4.7": {
       "title": "M 4.7 - 94 km WNW of Ternate, Indonesia",
-      "updated_at": "2026-09-12T09:22:57+00:00",
+      "updated_at": "2026-09-12T09:31:23+00:00",
       "network_scores": [
         20.7,
         17.7,
@@ -29226,16 +29228,17 @@
         17.7,
         17.7,
         17.7,
+        17.7,
         17.7
       ],
-      "rolling_average": 17.86,
+      "rolling_average": 17.85,
       "rolling_peak": 20.7,
       "last_score": 17.7,
-      "z_hint": -0.16
+      "z_hint": -0.15
     },
     "github_repo:melgarafael/deskcommcrm": {
       "title": "melgarafael/DeskcommCRM",
-      "updated_at": "2026-09-12T09:22:57+00:00",
+      "updated_at": "2026-09-12T09:31:23+00:00",
       "network_scores": [
         24.1,
         21.1,
@@ -29252,16 +29255,17 @@
         21.1,
         21.1,
         21.1,
+        21.1,
         21.1
       ],
-      "rolling_average": 21.29,
+      "rolling_average": 21.28,
       "rolling_peak": 24.1,
       "last_score": 21.1,
-      "z_hint": -0.19
+      "z_hint": -0.18
     },
     "github_repo:vastsa/pi-desktop": {
       "title": "vastsa/PI-Desktop",
-      "updated_at": "2026-09-12T09:22:57+00:00",
+      "updated_at": "2026-09-12T09:31:23+00:00",
       "network_scores": [
         22.1,
         19.1,
@@ -29278,16 +29282,17 @@
         19.1,
         19.1,
         19.1,
+        19.1,
         19.1
       ],
-      "rolling_average": 19.29,
+      "rolling_average": 19.28,
       "rolling_peak": 22.1,
       "last_score": 19.1,
-      "z_hint": -0.19
+      "z_hint": -0.18
     },
     "github_repo:nab138/iloader": {
       "title": "nab138/iloader",
-      "updated_at": "2026-09-12T09:22:57+00:00",
+      "updated_at": "2026-09-12T09:31:23+00:00",
       "network_scores": [
         18.1,
         15.1,
@@ -29304,16 +29309,17 @@
         15.1,
         15.1,
         15.1,
+        15.1,
         15.1
       ],
-      "rolling_average": 15.29,
+      "rolling_average": 15.28,
       "rolling_peak": 18.1,
       "last_score": 15.1,
-      "z_hint": -0.19
+      "z_hint": -0.18
     },
     "github_repo:armory3d/armorpaint": {
       "title": "armory3d/armorpaint",
-      "updated_at": "2026-09-12T09:22:57+00:00",
+      "updated_at": "2026-09-12T09:31:23+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -29330,16 +29336,17 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.29,
+      "rolling_average": 7.28,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.19
+      "z_hint": -0.18
     },
     "domain:yakan-hiko.com": {
       "title": "デジタル庁GSSで24.6万件漏洩――「中等度」の脆弱性に政府共通基盤が抜かれた件｜山本一郎（やまもといちろう）",
-      "updated_at": "2026-09-12T09:22:57+00:00",
+      "updated_at": "2026-09-12T09:31:23+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -29350,23 +29357,25 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.4,
+      "rolling_average": 7.37,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.3
+      "z_hint": -0.27
     },
     "earthquake:m 4.5 - 63 km wsw of santiago, peru:4.5": {
       "title": "M 4.5 - 63 km WSW of Santiago, Peru",
-      "updated_at": "2026-09-12T09:22:57+00:00",
+      "updated_at": "2026-09-12T09:31:23+00:00",
       "network_scores": [
-        16.7
+        16.7,
+        13.7
       ],
-      "rolling_average": 16.7,
+      "rolling_average": 15.2,
       "rolling_peak": 16.7,
-      "last_score": 16.7,
-      "z_hint": 0.0
+      "last_score": 13.7,
+      "z_hint": -1.5
     }
   }
 }
