@@ -1,46 +1,142 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-12T01:08:16Z",
+  "generated_at": "2026-09-12T01:31:05Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 3,
+    "dynamics": 7,
     "bands": {
-      "strong": 1,
-      "quiet": 2
+      "watch": 4,
+      "quiet": 3
     },
     "bands_after_gate_recheck": {
-      "strong": 1,
-      "quiet": 2
+      "watch": 4,
+      "quiet": 3
     }
   },
   "top_dynamics": [
+    {
+      "title": "M 5.1 - South Sandwich Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvr",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-12T01:14:31.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-09-12 00:55:08 UTC 2026-09-12 00:55:08 UTC at epicenter Location 59.135°S 24.927°W Depth 10.00 km (6.21 mi)"
+    },
+    {
+      "title": "M 4.5 - 9 km WNW of Quicacha, Peru",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvk",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-12T00:55:38.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "Time 2026-09-12 00:18:59 UTC 2026-09-12 00:18:59 UTC at epicenter Location 15.606°S 73.880°W Depth 98.77 km (61.37 mi)"
+    },
+    {
+      "title": "M 5.1 - South Sandwich Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvr",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-06-19T21:55:12+00:00",
+      "age_days": 84.15,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 13.59,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 2.9,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 2.90",
+        "aging penalty -8.0 for 84.1d old signal"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "M 4.5 - 9 km WNW of Quicacha, Peru",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvk",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-12T01:10:54+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 13.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
     {
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 86.18,
+      "age_days": 86.2,
       "topics": [
         "general"
       ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "dynamics_score": 9.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 3.96,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 3.96",
-        "high terms: rce",
-        "security high-signal: rce",
         "aging penalty -8.0 for 86.2d old signal",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+        "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
     },
@@ -49,7 +145,7 @@
       "url": "https://openai.com/index/cognition-devin-testing-with-astra",
       "source": "OpenAI News RSS",
       "published_at": "2026-09-11T16:00:00+00:00",
-      "age_days": 0.38,
+      "age_days": 0.4,
       "topics": [
         "ai"
       ],
@@ -96,5 +192,5 @@
       "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Perplexity trusts GPT-6 Astra with end-to-end systems” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 5.1 - South Sandwich Islands region” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=17.0."
 }
