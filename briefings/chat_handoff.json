@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-12T04:02:24+00:00",
+  "generated_at": "2026-09-12T04:23:41+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 7,
-    "displayed_findings": 7,
+    "new_relevant_findings": 1,
+    "today_file_total": 8,
+    "displayed_findings": 8,
     "high": 0,
     "medium": 1,
-    "observe": 6
+    "observe": 7
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -35,6 +35,16 @@
       "section": "observe"
     },
     {
+      "title": "数学難問をAIで解決、フィールズ賞25人が非難声明「科学に有害」 - 日本経済新聞",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-12T02:48:57+00:00",
+      "relevance_score": 10,
+      "url": "https://www.nikkei.com/article/DGXZQOSG120C30S6A910C2000000/",
+      "summary": "「数学のノーベル賞」とも呼ばれるフィールズ賞を受賞した数学者25人が11日、人工知能（AI）を使って企業が数学の難問を解決しようとする動きを非難する緊急声明を公表した。今後さらに多くの数学者の署名を募るという。米オープンAIが「ナビエ・ストークス方程式」と呼ぶ数学の難問を解決したと発表したことを受けての...",
+      "section": "observe"
+    },
+    {
       "title": "M 4.7 - 2 km NE of Manaca Norte, Panama",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
@@ -53,16 +63,6 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvr",
       "summary": "Time 2026-09-12 00:55:08 UTC 2026-09-12 00:55:08 UTC at epicenter Location 59.135°S 24.927°W Depth 10.00 km (6.21 mi)",
       "section": "observe"
-    },
-    {
-      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-09-14T00:00:00+00:00",
-      "relevance_score": 8,
-      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
-      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -70,138 +70,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “M 4.6 - 45 km NNE of Ruteng, Indonesia” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=23.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "M 4.6 - 45 km NNE of Ruteng, Indonesia",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgwe",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-12T03:50:15.040+00:00",
-        "age_days": 0.02,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 23.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake",
-          "high terms: 10"
-        ],
-        "summary": "Time 2026-09-12 03:34:57 UTC 2026-09-12 03:34:57 UTC at epicenter Location 8.263°S 120.678°E Depth 10.00 km (6.21 mi)"
-      },
-      {
-        "title": "DeepSeek v4.1 Flashを動かしたくてFP4に対応していないA100を、33tok/sから673 tok/sまで持っていって気がつくと公式APIより速くなっていた話｜shi3z",
-        "url": "https://note.com/shi3zblog/n/nd5fc5341b342",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-08-31T18:43:10+00:00",
-        "age_days": 11.4,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 19.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "high terms: 10"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "M 4.5 - 9 km WNW of Quicacha, Peru",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvk",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-12T01:10:54+00:00",
-        "age_days": 0.13,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 18.5,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "M 4.7 - 2 km NE of Manaca Norte, Panama",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgw1",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-12T02:31:59.664+00:00",
-        "age_days": 0.07,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 17.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake",
-          "high terms: 10"
-        ],
-        "summary": "DYFI? - IV Time 2026-09-12 01:59:50 UTC 2026-09-12 01:59:50 UTC at epicenter Location 8.355°N 82.790°W Depth 10.00 km (6.21 mi)"
-      },
-      {
-        "title": "M 5.1 - South Sandwich Islands region",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvr",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-12T01:14:31.040+00:00",
-        "age_days": 0.13,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 17.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake",
-          "high terms: 10"
-        ],
-        "summary": "Time 2026-09-12 00:55:08 UTC 2026-09-12 00:55:08 UTC at epicenter Location 59.135°S 24.927°W Depth 10.00 km (6.21 mi)"
-      }
-    ]
-  }
+  ]
 }
