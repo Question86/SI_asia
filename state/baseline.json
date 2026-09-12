@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-12T05:00:03+00:00",
+  "generated_at": "2026-09-12T05:19:28+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -99,9 +99,8 @@
     },
     "domain:openai.com": {
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "updated_at": "2026-09-12T05:00:03+00:00",
+      "updated_at": "2026-09-12T05:19:28+00:00",
       "network_scores": [
-        14.1,
         14.1,
         14.1,
         14.1,
@@ -130,12 +129,13 @@
         12.2,
         12.2,
         12.2,
+        12.2,
         12.2
       ],
-      "rolling_average": 13.03,
+      "rolling_average": 12.97,
       "rolling_peak": 18.2,
       "last_score": 12.2,
-      "z_hint": -0.83
+      "z_hint": -0.77
     },
     "title:read-remote-repository-content-github-cli": {
       "title": "Read remote repository content with GitHub CLI",
@@ -1559,7 +1559,7 @@
     },
     "earthquake:indonesia:4.6": {
       "title": "M 4.6 - 45 km NNE of Ruteng, Indonesia",
-      "updated_at": "2026-09-12T05:00:03+00:00",
+      "updated_at": "2026-09-12T05:19:28+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -1571,7 +1571,6 @@
         17.7,
         17.7,
         17.7,
-        17.7,
         20.7,
         17.7,
         17.7,
@@ -1585,6 +1584,7 @@
         17.7,
         17.7,
         20.7,
+        17.7,
         17.7,
         17.7,
         17.7,
@@ -3799,7 +3799,7 @@
     },
     "domain:www.nikkei.com": {
       "title": "数学難問をAIで解決、フィールズ賞25人が非難声明「科学に有害」 - 日本経済新聞",
-      "updated_at": "2026-09-12T05:00:03+00:00",
+      "updated_at": "2026-09-12T05:19:28+00:00",
       "network_scores": [
         12.1,
         12.1,
@@ -3825,8 +3825,8 @@
         12.1,
         12.1,
         12.1,
-        12.1,
         15.1,
+        12.1,
         12.1,
         12.1,
         12.1,
@@ -5530,7 +5530,7 @@
     },
     "earthquake:m 5.1 - south sandwich islands region:5.1": {
       "title": "M 5.1 - South Sandwich Islands region",
-      "updated_at": "2026-09-12T05:00:03+00:00",
+      "updated_at": "2026-09-12T05:19:28+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -5543,8 +5543,8 @@
         11.7,
         11.7,
         11.7,
-        11.7,
         14.7,
+        11.7,
         11.7,
         11.7,
         11.7,
@@ -10002,9 +10002,8 @@
     },
     "domain:note.com": {
       "title": "DeepSeek v4.1 Flashを動かしたくてFP4に対応していないA100を、33tok/sから673 tok/sまで持っていって気がつくと公式APIより速くなっていた話｜shi3z",
-      "updated_at": "2026-09-12T05:00:03+00:00",
+      "updated_at": "2026-09-12T05:19:28+00:00",
       "network_scores": [
-        9.2,
         9.2,
         9.2,
         9.2,
@@ -10033,12 +10032,13 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 9.75,
+      "rolling_average": 9.68,
       "rolling_peak": 14.3,
       "last_score": 7.1,
-      "z_hint": -2.65
+      "z_hint": -2.58
     },
     "earthquake:m 4.6 - 112 km ssw of chirilagua, el salvador:4.6": {
       "title": "M 4.6 - 112 km SSW of Chirilagua, El Salvador",
@@ -29110,7 +29110,7 @@
     },
     "earthquake:m 4.5 - 9 km wnw of quicacha, peru:4.5": {
       "title": "M 4.5 - 9 km WNW of Quicacha, Peru",
-      "updated_at": "2026-09-12T05:00:03+00:00",
+      "updated_at": "2026-09-12T05:19:28+00:00",
       "network_scores": [
         16.7,
         13.7,
@@ -29130,16 +29130,17 @@
         13.7,
         13.7,
         13.7,
+        13.7,
         13.7
       ],
-      "rolling_average": 13.86,
+      "rolling_average": 13.85,
       "rolling_peak": 16.7,
       "last_score": 13.7,
-      "z_hint": -0.16
+      "z_hint": -0.15
     },
     "earthquake:m 4.7 - 2 km ne of manaca norte, panama:4.7": {
       "title": "M 4.7 - 2 km NE of Manaca Norte, Panama",
-      "updated_at": "2026-09-12T05:00:03+00:00",
+      "updated_at": "2026-09-12T05:19:28+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -29154,12 +29155,13 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 11.91,
+      "rolling_average": 11.9,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.21
+      "z_hint": -0.2
     }
   }
 }
