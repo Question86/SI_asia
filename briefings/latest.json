@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T07:29:52+00:00",
-  "run_id": "2026-09-12T07:29:52+00:00",
+  "generated_at": "2026-09-12T07:39:29+00:00",
+  "run_id": "2026-09-12T07:39:29+00:00",
   "date": "2026-09-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 16,
     "displayed_findings": 16,
     "high": 0,
@@ -1001,29 +1001,7 @@
       "id": "a59bab3853c9024feb0b"
     }
   ],
-  "new_findings": [
-    {
-      "title": "デジタル庁GSSで24.6万件漏洩――「中等度」の脆弱性に政府共通基盤が抜かれた件｜山本一郎（やまもといちろう）",
-      "url": "https://note.com/kirik/n/n8e7920167c3f",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-11T23:51:30+00:00",
-      "fetched_at": "2026-09-12T07:29:21+00:00",
-      "summary": "※おことわり 本稿は、ほぼ同じ内容を私のメルマガ『人間迷路』で配信しています。で、メルマガご購読者の皆さまに於かれましては本稿は配信する記事と同じものですので、お布施でもない限り、間違って買わないようお願いします。 https://yakan-hiko.com/kirik.html なんつーか、大変なことになってしまいました。 な...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f605a4bd1aa6c424ed1b"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
