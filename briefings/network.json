@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T14:30:37+00:00",
+  "generated_at": "2026-09-12T14:40:27+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 27,
@@ -290,45 +290,6 @@
       "first_seen_at": "2026-06-19T02:10:07+00:00"
     },
     {
-      "key": "domain:note.com",
-      "title": "AIが数学の難問を解決していいのか｜柞刈湯葉",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://note.com/yubais/n/nd4505991a6d6",
-        "https://note.com/shi3zblog/n/nd5fc5341b342"
-      ],
-      "finding_count": 2,
-      "max_score": 8,
-      "credibility_total": 2.1,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 10.41,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 12.2,
-      "ranking_score": 10.41,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.91,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-08-31T18:43:10+00:00"
-    },
-    {
       "key": "earthquake:m 4.7 - 32 km sw of sipí, colombia:4.7",
       "title": "M 4.7 - 32 km SW of Sipí, Colombia",
       "sources": [
@@ -450,6 +411,45 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-09-12T01:10:54+00:00"
+    },
+    {
+      "key": "domain:note.com",
+      "title": "AIが数学の難問を解決していいのか｜柞刈湯葉",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://note.com/yubais/n/nd4505991a6d6",
+        "https://note.com/shi3zblog/n/nd5fc5341b342"
+      ],
+      "finding_count": 2,
+      "max_score": 8,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 10.34,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 12.2,
+      "ranking_score": 10.34,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.84,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-31T18:43:10+00:00"
     },
     {
       "key": "domain:openai.com",
@@ -604,44 +604,6 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-06-18T14:33:45+00:00"
-    },
-    {
-      "key": "domain:qiita.com",
-      "title": "AWSのインフラ導入でAIを使っている箇所と手でやっている箇所 - Qiita",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://qiita.com/infra365/items/aa30a54fc6f0849385a7"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 9.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 10.1,
-      "ranking_score": 9.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-19T01:58:32+00:00"
     },
     {
       "key": "earthquake:m 4.9 - south sandwich islands region:4.9",
@@ -922,6 +884,44 @@
       "first_seen_at": "2026-09-12T07:29:55+00:00"
     },
     {
+      "key": "domain:qiita.com",
+      "title": "AWSのインフラ導入でAIを使っている箇所と手でやっている箇所 - Qiita",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://qiita.com/infra365/items/aa30a54fc6f0849385a7"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 6.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 7.1,
+      "ranking_score": 6.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T01:58:32+00:00"
+    },
+    {
       "key": "github_repo:armory3d/armorpaint",
       "title": "armory3d/armorpaint",
       "sources": [
@@ -1000,7 +1000,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-12T14:30:38Z",
+    "generated_at": "2026-09-12T14:40:27Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

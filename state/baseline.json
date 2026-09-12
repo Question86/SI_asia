@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-12T14:30:37+00:00",
+  "generated_at": "2026-09-12T14:40:27+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -59,9 +59,8 @@
     },
     "earthquake:m 4.9 - south sandwich islands region:4.9": {
       "title": "M 4.9 - South Sandwich Islands region",
-      "updated_at": "2026-09-12T14:30:37+00:00",
+      "updated_at": "2026-09-12T14:40:27+00:00",
       "network_scores": [
-        11.7,
         11.7,
         11.7,
         11.7,
@@ -90,6 +89,7 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
       "rolling_average": 11.8,
@@ -99,7 +99,7 @@
     },
     "domain:openai.com": {
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "updated_at": "2026-09-12T14:30:37+00:00",
+      "updated_at": "2026-09-12T14:40:27+00:00",
       "network_scores": [
         12.2,
         12.2,
@@ -990,9 +990,8 @@
     },
     "domain:www.ecb.europa.eu": {
       "title": "Christine Lagarde: Europe seen from Normandy",
-      "updated_at": "2026-09-12T14:30:37+00:00",
+      "updated_at": "2026-09-12T14:40:27+00:00",
       "network_scores": [
-        12.1,
         12.1,
         12.1,
         12.1,
@@ -1021,12 +1020,13 @@
         11.1,
         11.1,
         11.1,
+        11.1,
         11.1
       ],
-      "rolling_average": 11.37,
+      "rolling_average": 11.33,
       "rolling_peak": 14.1,
       "last_score": 11.1,
-      "z_hint": -0.27
+      "z_hint": -0.23
     },
     "domain:snyk.io": {
       "title": "The full Snyk AI Security Platform, free for open source maintainers",
@@ -1559,7 +1559,7 @@
     },
     "earthquake:indonesia:4.6": {
       "title": "M 4.6 - 45 km NNE of Ruteng, Indonesia",
-      "updated_at": "2026-09-12T14:30:37+00:00",
+      "updated_at": "2026-09-12T14:40:27+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -3433,7 +3433,7 @@
     },
     "domain:speakerdeck.com": {
       "title": "Reactの設計論",
-      "updated_at": "2026-09-12T14:30:37+00:00",
+      "updated_at": "2026-09-12T14:40:27+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -3517,7 +3517,7 @@
     },
     "domain:qiita.com": {
       "title": "AWSのインフラ導入でAIを使っている箇所と手でやっている箇所 - Qiita",
-      "updated_at": "2026-09-12T14:30:37+00:00",
+      "updated_at": "2026-09-12T14:40:27+00:00",
       "network_scores": [
         17.2,
         17.2,
@@ -3547,13 +3547,13 @@
         17.2,
         17.2,
         17.2,
-        17.2,
-        10.1
+        10.1,
+        7.1
       ],
-      "rolling_average": 16.96,
+      "rolling_average": 16.63,
       "rolling_peak": 17.2,
-      "last_score": 10.1,
-      "z_hint": -6.86
+      "last_score": 7.1,
+      "z_hint": -9.53
     },
     "github_repo:yairm210/unciv": {
       "title": "yairm210/Unciv",
@@ -3799,7 +3799,7 @@
     },
     "domain:www.nikkei.com": {
       "title": "数学難問をAIで解決、フィールズ賞25人が非難声明「科学に有害」 - 日本経済新聞",
-      "updated_at": "2026-09-12T14:30:37+00:00",
+      "updated_at": "2026-09-12T14:40:27+00:00",
       "network_scores": [
         12.1,
         12.1,
@@ -5530,7 +5530,7 @@
     },
     "earthquake:m 5.1 - south sandwich islands region:5.1": {
       "title": "M 5.1 - South Sandwich Islands region",
-      "updated_at": "2026-09-12T14:30:37+00:00",
+      "updated_at": "2026-09-12T14:40:27+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -10002,9 +10002,8 @@
     },
     "domain:note.com": {
       "title": "AIが数学の難問を解決していいのか｜柞刈湯葉",
-      "updated_at": "2026-09-12T14:30:37+00:00",
+      "updated_at": "2026-09-12T14:40:27+00:00",
       "network_scores": [
-        7.1,
         7.1,
         7.1,
         7.1,
@@ -10033,12 +10032,13 @@
         12.2,
         12.2,
         12.2,
+        12.2,
         12.2
       ],
-      "rolling_average": 9.92,
+      "rolling_average": 10.09,
       "rolling_peak": 15.2,
       "last_score": 12.2,
-      "z_hint": 2.28
+      "z_hint": 2.11
     },
     "earthquake:m 4.6 - 112 km ssw of chirilagua, el salvador:4.6": {
       "title": "M 4.6 - 112 km SSW of Chirilagua, El Salvador",
@@ -16738,7 +16738,7 @@
     },
     "earthquake:indonesia:4.8": {
       "title": "M 4.8 - 253 km WSW of Tual, Indonesia",
-      "updated_at": "2026-09-12T14:30:37+00:00",
+      "updated_at": "2026-09-12T14:40:27+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -28930,7 +28930,7 @@
     },
     "domain:automaton-media.com": {
       "title": "レベルファイブ日野社長、“AI盛り込みトレイラー発表会”について「派手にしたかった」ためと弁明。ただ発売するゲームには、“安易なAI出力データ”は入れない - AUTOMATON",
-      "updated_at": "2026-09-12T14:30:37+00:00",
+      "updated_at": "2026-09-12T14:40:27+00:00",
       "network_scores": [
         7.4,
         7.4,
@@ -29139,7 +29139,7 @@
     },
     "earthquake:m 4.5 - 9 km wnw of quicacha, peru:4.5": {
       "title": "M 4.5 - 9 km WNW of Quicacha, Peru",
-      "updated_at": "2026-09-12T14:30:37+00:00",
+      "updated_at": "2026-09-12T14:40:27+00:00",
       "network_scores": [
         13.7,
         13.7,
@@ -29179,7 +29179,7 @@
     },
     "earthquake:m 4.7 - 2 km ne of manaca norte, panama:4.7": {
       "title": "M 4.7 - 2 km NE of Manaca Norte, Panama",
-      "updated_at": "2026-09-12T14:30:37+00:00",
+      "updated_at": "2026-09-12T14:40:27+00:00",
       "network_scores": [
         11.7,
         11.7,
@@ -29219,7 +29219,7 @@
     },
     "earthquake:indonesia:4.7": {
       "title": "M 4.7 - 94 km WNW of Ternate, Indonesia",
-      "updated_at": "2026-09-12T14:30:37+00:00",
+      "updated_at": "2026-09-12T14:40:27+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -29259,7 +29259,7 @@
     },
     "github_repo:melgarafael/deskcommcrm": {
       "title": "melgarafael/DeskcommCRM",
-      "updated_at": "2026-09-12T14:30:37+00:00",
+      "updated_at": "2026-09-12T14:40:27+00:00",
       "network_scores": [
         21.1,
         21.1,
@@ -29299,7 +29299,7 @@
     },
     "github_repo:vastsa/pi-desktop": {
       "title": "vastsa/PI-Desktop",
-      "updated_at": "2026-09-12T14:30:37+00:00",
+      "updated_at": "2026-09-12T14:40:27+00:00",
       "network_scores": [
         19.1,
         19.1,
@@ -29339,7 +29339,7 @@
     },
     "github_repo:nab138/iloader": {
       "title": "nab138/iloader",
-      "updated_at": "2026-09-12T14:30:37+00:00",
+      "updated_at": "2026-09-12T14:40:27+00:00",
       "network_scores": [
         15.1,
         15.1,
@@ -29379,7 +29379,7 @@
     },
     "github_repo:armory3d/armorpaint": {
       "title": "armory3d/armorpaint",
-      "updated_at": "2026-09-12T14:30:37+00:00",
+      "updated_at": "2026-09-12T14:40:27+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -29419,7 +29419,7 @@
     },
     "domain:yakan-hiko.com": {
       "title": "デジタル庁GSSで24.6万件漏洩――「中等度」の脆弱性に政府共通基盤が抜かれた件｜山本一郎（やまもといちろう）",
-      "updated_at": "2026-09-12T14:30:37+00:00",
+      "updated_at": "2026-09-12T14:40:27+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -29459,7 +29459,7 @@
     },
     "earthquake:m 4.5 - 63 km wsw of santiago, peru:4.5": {
       "title": "M 4.5 - 63 km WSW of Santiago, Peru",
-      "updated_at": "2026-09-12T14:30:37+00:00",
+      "updated_at": "2026-09-12T14:40:27+00:00",
       "network_scores": [
         13.7,
         13.7,
@@ -29499,9 +29499,10 @@
     },
     "earthquake:m 4.9 - 147 km wnw of sola, vanuatu:4.9": {
       "title": "M 4.9 - 147 km WNW of Sola, Vanuatu",
-      "updated_at": "2026-09-12T14:30:37+00:00",
+      "updated_at": "2026-09-12T14:40:27+00:00",
       "network_scores": [
         14.7,
+        11.7,
         11.7,
         11.7,
         11.7,
@@ -29536,9 +29537,10 @@
     },
     "title:lofic": {
       "title": "いま“知っておきたい”トレンドワード なぜ1型センサーで白飛びしない？ 話題の「LOFICセンサー」の仕組み",
-      "updated_at": "2026-09-12T14:30:37+00:00",
+      "updated_at": "2026-09-12T14:40:27+00:00",
       "network_scores": [
         13.1,
+        10.1,
         10.1,
         10.1,
         10.1,
@@ -29570,7 +29572,7 @@
     },
     "title:web": {
       "title": "AI時代のWebフレームワークはどこへ行く？",
-      "updated_at": "2026-09-12T14:30:37+00:00",
+      "updated_at": "2026-09-12T14:40:27+00:00",
       "network_scores": [
         13.1,
         10.1,
@@ -29594,16 +29596,17 @@
         10.1,
         10.1,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 10.23,
+      "rolling_average": 10.22,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -0.13
+      "z_hint": -0.12
     },
     "url:https://www.yomiuri.co.jp/science/20260912-gyt1t00169/": {
       "title": "ＡＩで数学の難問を解く行為は「科学や数学界に有害だ」…世界の数学者２５人が非難の緊急声明",
-      "updated_at": "2026-09-12T14:30:37+00:00",
+      "updated_at": "2026-09-12T14:40:27+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -29624,16 +29627,17 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.25,
+      "rolling_average": 7.24,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.15
+      "z_hint": -0.14
     },
     "earthquake:m 4.7 - 32 km sw of sipí, colombia:4.7": {
       "title": "M 4.7 - 32 km SW of Sipí, Colombia",
-      "updated_at": "2026-09-12T14:30:37+00:00",
+      "updated_at": "2026-09-12T14:40:27+00:00",
       "network_scores": [
         16.7,
         13.7,
@@ -29651,12 +29655,13 @@
         13.7,
         13.7,
         13.7,
+        13.7,
         13.7
       ],
-      "rolling_average": 13.88,
+      "rolling_average": 13.87,
       "rolling_peak": 16.7,
       "last_score": 13.7,
-      "z_hint": -0.18
+      "z_hint": -0.17
     }
   }
 }
