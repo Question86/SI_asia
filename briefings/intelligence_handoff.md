@@ -1,18 +1,28 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-12T03:48:43Z_
+_Generated: 2026-09-12T04:14:49Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “DeepSeek v4.1 Flashを動かしたくてFP4に対応していないA100を、33tok/sから673 tok/sまで持っていって気がつくと公式APIより速くなっていた話｜shi3z” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=19.0.
+Stärkste Dynamik nach Gate-Recheck: “M 4.6 - 45 km NNE of Ruteng, Indonesia” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=23.0.
 
 ## Top Dynamics
+
+### M 4.6 - 45 km NNE of Ruteng, Indonesia
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `23.0`
+- Published: `2026-09-12T03:50:15.040+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgwe
 
 ### DeepSeek v4.1 Flashを動かしたくてFP4に対応していないA100を、33tok/sから673 tok/sまで持っていって気がつくと公式APIより速くなっていた話｜shi3z
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-08-31T18:43:10+00:00` / age_days `11.38`
+- Published: `2026-08-31T18:43:10+00:00` / age_days `11.4`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: 10
@@ -22,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “DeepSeek v4.1 Flashを動かしたくて
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.5`
-- Published: `2026-09-12T01:10:54+00:00` / age_days `0.11`
+- Published: `2026-09-12T01:10:54+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -32,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “DeepSeek v4.1 Flashを動かしたくて
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-12T02:31:59.664+00:00` / age_days `0.05`
+- Published: `2026-09-12T02:31:59.664+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -42,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “DeepSeek v4.1 Flashを動かしたくて
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-12T01:14:31.040+00:00` / age_days `0.11`
+- Published: `2026-09-12T01:14:31.040+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -52,17 +62,27 @@ Stärkste Dynamik nach Gate-Recheck: “DeepSeek v4.1 Flashを動かしたくて
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.5`
-- Published: `2026-09-12T02:33:27+00:00` / age_days `0.05`
+- Published: `2026-09-12T02:33:27+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgw1
 
+### M 4.6 - 45 km NNE of Ruteng, Indonesia
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `14.5`
+- Published: `2026-06-18T14:33:45+00:00` / age_days `85.57`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3, aging penalty -8.0 for 85.6d old signal
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgwe
+
 ### M 4.5 - 9 km WNW of Quicacha, Peru
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-09-12T00:55:38.040+00:00` / age_days `0.12`
+- Published: `2026-09-12T00:55:38.040+00:00` / age_days `0.14`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
@@ -72,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “DeepSeek v4.1 Flashを動かしたくて
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-09-11T23:45:01+00:00` / age_days `0.17`
+- Published: `2026-09-11T23:45:01+00:00` / age_days `0.19`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
@@ -82,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “DeepSeek v4.1 Flashを動かしたくて
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `9.0`
-- Published: `2026-06-17T20:44:40+00:00` / age_days `86.29`
+- Published: `2026-06-17T20:44:40+00:00` / age_days `86.31`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, aging penalty -8.0 for 86.3d old signal, single-source AI cap enforced after phrase recheck
@@ -92,30 +112,20 @@ Stärkste Dynamik nach Gate-Recheck: “DeepSeek v4.1 Flashを動かしたくて
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `8.5`
-- Published: `2026-06-19T21:55:12+00:00` / age_days `84.25`
+- Published: `2026-06-19T21:55:12+00:00` / age_days `84.26`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, aging penalty -8.0 for 84.2d old signal
+- Warum: momentum delta +3, aging penalty -8.0 for 84.3d old signal
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvr
 
 ### Cognition helps Devin test its own work with GPT‑6 Astra
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `5.0`
-- Published: `2026-09-11T16:00:00+00:00` / age_days `0.49`
+- Published: `2026-09-11T16:00:00+00:00` / age_days `0.51`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://openai.com/index/cognition-devin-testing-with-astra
-
-### Perplexity trusts GPT-6 Astra with end-to-end systems
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `0`
-- Published: `2026-09-14T00:00:00+00:00` / age_days `0`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://openai.com/index/perplexity-improving-accuracy-with-astra
 
 END OF DOCUMENT
