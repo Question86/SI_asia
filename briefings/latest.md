@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-12T22:56:39+00:00_
+_Generiert: 2026-09-12T23:22:19+00:00_
 
 ## Kurzlage
 
@@ -37,18 +37,10 @@ _Generiert: 2026-09-12T22:56:39+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Slovenia
-- **GDACS: Green flood alert in France** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104149)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in France
 - **GDACS: Green earthquake (Magnitude 5.9M, Depth:111.763km) in Indonesia 11/09/2026 11:56 UTC, 10 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1564759)
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.9M, Depth:111.763km) in Indonesia 11/09/2026 11:56 UTC, 10 thousand in MMI IV.
-- **GDACS: Green notification for tropical cyclone NORBERT-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001320)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green notification for tropical cyclone NORBERT-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 
 ## Wirtschaft global
 
