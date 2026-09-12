@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T11:43:03+00:00",
+  "generated_at": "2026-09-12T11:50:51+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 26,
@@ -89,45 +89,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-12T05:55:58+00:00"
-    },
-    {
-      "key": "domain:note.com",
-      "title": "AIが数学の難問を解決していいのか｜柞刈湯葉",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://note.com/yubais/n/nd4505991a6d6",
-        "https://note.com/shi3zblog/n/nd5fc5341b342"
-      ],
-      "finding_count": 2,
-      "max_score": 8,
-      "credibility_total": 2.1,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 15.13,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 15.2,
-      "ranking_score": 15.13,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 3.13,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-08-31T18:43:10+00:00"
     },
     {
       "key": "github_repo:nab138/iloader",
@@ -327,6 +288,45 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-06-19T02:10:07+00:00"
+    },
+    {
+      "key": "domain:note.com",
+      "title": "AIが数学の難問を解決していいのか｜柞刈湯葉",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://note.com/yubais/n/nd4505991a6d6",
+        "https://note.com/shi3zblog/n/nd5fc5341b342"
+      ],
+      "finding_count": 2,
+      "max_score": 8,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 11.36,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 12.2,
+      "ranking_score": 11.36,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 1.86,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-31T18:43:10+00:00"
     },
     {
       "key": "earthquake:m 4.7 - 32 km sw of sipí, colombia:4.7",
@@ -962,7 +962,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-12T11:43:04Z",
+    "generated_at": "2026-09-12T11:50:51Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T11:43:00+00:00",
-  "run_id": "2026-09-12T11:43:00+00:00",
+  "generated_at": "2026-09-12T11:50:47+00:00",
+  "run_id": "2026-09-12T11:50:47+00:00",
   "date": "2026-09-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 26,
     "displayed_findings": 26,
     "high": 0,
@@ -1545,30 +1545,7 @@
       "id": "a59bab3853c9024feb0b"
     }
   ],
-  "new_findings": [
-    {
-      "title": "AIが数学の難問を解決していいのか｜柞刈湯葉",
-      "url": "https://note.com/yubais/n/nd4505991a6d6",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-12T10:56:24+00:00",
-      "fetched_at": "2026-09-12T11:42:31+00:00",
-      "summary": "「AI が数学の未解決問題を解いた」というニュースを頻繁に見かけるようになった。中でも、ナヴィエ・ストークス方程式の爆発解発見はひときわインパクトが大きい。これは「ミレニアム懸賞問題」として100万ドルの賞金がかけられていた7問のひとつだからだ。いわば21世紀の七大難問と言っていい。 しかし、多くの有名な...",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5a551f70f6e2dfe66fb8"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
