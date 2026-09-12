@@ -1,31 +1,44 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-12T00:01:12+00:00",
+  "generated_at": "2026-09-12T00:52:45+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 0,
-    "displayed_findings": 0,
+    "new_relevant_findings": 2,
+    "today_file_total": 2,
+    "displayed_findings": 2,
     "high": 0,
     "medium": 0,
-    "observe": 0
+    "observe": 2
   },
   "source_errors_count": 0,
-  "top_signals": [],
+  "top_signals": [
+    {
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-14T00:00:00+00:00",
+      "relevance_score": 8,
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "section": "observe"
+    },
+    {
+      "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-11T16:00:00+00:00",
+      "relevance_score": 8,
+      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+      "section": "observe"
+    }
+  ],
   "next_read_order": [
     "briefings/chat_handoff.json",
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Keine verwertbaren Dynamiken im aktuellen Run.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": []
-  }
+  ]
 }
