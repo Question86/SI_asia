@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T09:08:20+00:00",
-  "run_id": "2026-09-12T09:08:20+00:00",
+  "generated_at": "2026-09-12T09:22:54+00:00",
+  "run_id": "2026-09-12T09:22:54+00:00",
   "date": "2026-09-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 17
+      "configured_public_sources_only": 18
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 17,
-    "displayed_findings": 17,
+    "today_file_total": 18,
+    "displayed_findings": 18,
     "high": 0,
     "medium": 5,
-    "observe": 12,
+    "observe": 13,
     "source_errors": 0
   },
   "sections": {
@@ -259,6 +259,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "3a3c00685e90fa1a31d3"
+      },
+      {
+        "title": "M 4.5 - 63 km WSW of Santiago, Peru",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgy2",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-09-12T09:09:05.040+00:00",
+        "fetched_at": "2026-09-12T09:22:20+00:00",
+        "summary": "Time 2026-09-12 08:46:38 UTC 2026-09-12 08:46:38 UTC at epicenter Location 14.486°S 76.216°W Depth 24.12 km (14.99 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "0c4e97798d7e34dbd5d5"
       },
       {
         "title": "M 4.5 - 9 km WNW of Quicacha, Peru",
@@ -768,6 +804,42 @@
       "id": "3a3c00685e90fa1a31d3"
     },
     {
+      "title": "M 4.5 - 63 km WSW of Santiago, Peru",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgy2",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-12T09:09:05.040+00:00",
+      "fetched_at": "2026-09-12T09:22:20+00:00",
+      "summary": "Time 2026-09-12 08:46:38 UTC 2026-09-12 08:46:38 UTC at epicenter Location 14.486°S 76.216°W Depth 24.12 km (14.99 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "0c4e97798d7e34dbd5d5"
+    },
+    {
       "title": "M 4.5 - 9 km WNW of Quicacha, Peru",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1045,25 +1117,40 @@
   ],
   "new_findings": [
     {
-      "title": "レベルファイブ日野社長、“AI盛り込みトレイラー発表会”について「派手にしたかった」ためと弁明。ただ発売するゲームには、“安易なAI出力データ”は入れない - AUTOMATON",
-      "url": "https://automaton-media.com/articles/newsjp/20260912-467049/",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "M 4.5 - 63 km WSW of Santiago, Peru",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgy2",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-09-12T07:36:59+00:00",
-      "fetched_at": "2026-09-12T09:07:44+00:00",
-      "summary": "レベルファイブ日野社長、“AI盛り込みトレイラー発表会”について「派手にしたかった」ためと弁明。ただ発売するゲームには、“安易なAI出力データ”は入れない レベルファイブの代表取締役社長を務める日野晃博氏は9月12日、先日おこなわれたオンライン発表イベント「LEVEL5 VISION 2026 II 夢」の中で、生成AIによる映像...",
+      "published_at": "2026-09-12T09:09:05.040+00:00",
+      "fetched_at": "2026-09-12T09:22:20+00:00",
+      "summary": "Time 2026-09-12 08:46:38 UTC 2026-09-12 08:46:38 UTC at epicenter Location 14.486°S 76.216°W Depth 24.12 km (14.99 mi)",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "14eb495dad743b95ccc5"
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "0c4e97798d7e34dbd5d5"
     }
   ],
   "source_errors": [],
