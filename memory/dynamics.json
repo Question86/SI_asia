@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-12T20:50:07Z",
+  "generated_at": "2026-09-12T21:12:05Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 4,
       "krass": 1,
-      "strong": 4,
+      "strong": 6,
       "watch": 23,
-      "quiet": 8
+      "quiet": 6
     },
     "bands_after_gate_recheck": {
-      "strong": 9,
+      "strong": 11,
       "watch": 23,
-      "quiet": 8
+      "quiet": 6
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://github.com/melgarafael/DeskcommCRM",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-12T05:55:23+00:00",
-      "age_days": 0.62,
+      "age_days": 0.64,
       "topics": [
         "ai"
       ],
@@ -52,7 +52,7 @@
       "url": "https://github.com/nab138/iloader",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-12T05:55:23+00:00",
-      "age_days": 0.62,
+      "age_days": 0.64,
       "topics": [
         "ai",
         "macro"
@@ -81,7 +81,7 @@
       "url": "https://github.com/melgarafael/DeskcommCRM",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-12T05:55:58+00:00",
-      "age_days": 0.62,
+      "age_days": 0.64,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "extreme",
@@ -106,7 +106,7 @@
       "url": "https://github.com/vastsa/PI-Desktop",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-12T05:55:58+00:00",
-      "age_days": 0.62,
+      "age_days": 0.64,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "extreme",
@@ -131,7 +131,7 @@
       "url": "https://github.com/vastsa/PI-Desktop",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-12T05:55:23+00:00",
-      "age_days": 0.62,
+      "age_days": 0.64,
       "topics": [
         "ai"
       ],
@@ -154,11 +154,36 @@
       "summary": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins https://pi-docs.aiuo.net PI-Desktop Your local-first desktop workspace for AI coding agents. Bring your own model. Open any local project. Let agents work — while you stay in control. No PI-Desktop account. No…"
     },
     {
+      "title": "M 5.1 - 101 km S of Yudomari, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th1q",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-12T20:53:42.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-09-12 20:32:58 UTC 2026-09-12 20:32:58 UTC at epicenter Location 29.324°N 130.379°E Depth 45.51 km (28.28 mi)"
+    },
+    {
       "title": "M 4.6 - 45 km NNE of Ruteng, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgwe",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T03:50:15.040+00:00",
-      "age_days": 0.71,
+      "age_days": 0.72,
       "topics": [
         "disaster"
       ],
@@ -179,11 +204,36 @@
       "summary": "Time 2026-09-12 03:34:57 UTC 2026-09-12 03:34:57 UTC at epicenter Location 8.263°S 120.678°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 5.1 - 101 km S of Yudomari, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th1q",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-12T20:54:37+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 22.5,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1",
+        "high terms: 10"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 4.8 - 253 km WSW of Tual, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgxg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T21:47:43+00:00",
-      "age_days": 8.96,
+      "age_days": 8.98,
       "topics": [
         "general"
       ],
@@ -207,7 +257,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgx2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T05:30:29+00:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [
         "general"
       ],
@@ -231,7 +281,7 @@
       "url": "https://github.com/nab138/iloader",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-12T05:55:58+00:00",
-      "age_days": 0.62,
+      "age_days": 0.64,
       "topics": [
         "general"
       ],
@@ -255,7 +305,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgyx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T11:35:43+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "general"
       ],
@@ -279,7 +329,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgy2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T09:22:57+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "general"
       ],
@@ -303,7 +353,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T01:10:54+00:00",
-      "age_days": 0.82,
+      "age_days": 0.83,
       "topics": [
         "general"
       ],
@@ -327,7 +377,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgxg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T06:31:47.040+00:00",
-      "age_days": 0.6,
+      "age_days": 0.61,
       "topics": [
         "disaster"
       ],
@@ -351,7 +401,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgx2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T05:24:42.040+00:00",
-      "age_days": 0.64,
+      "age_days": 0.66,
       "topics": [
         "disaster"
       ],
@@ -375,7 +425,7 @@
       "url": "https://dc.watch.impress.co.jp/docs/column/trend/2140009.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-12T10:29:59+00:00",
-      "age_days": 0.43,
+      "age_days": 0.45,
       "topics": [
         "general"
       ],
@@ -399,7 +449,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th16",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T18:47:03.249+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -424,7 +474,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th0h",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T16:13:12.040+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "disaster"
       ],
@@ -449,7 +499,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgyh",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T09:54:07.040+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "disaster"
       ],
@@ -474,7 +524,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgw1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T02:31:59.664+00:00",
-      "age_days": 0.76,
+      "age_days": 0.78,
       "topics": [
         "disaster"
       ],
@@ -499,7 +549,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T01:14:31.040+00:00",
-      "age_days": 0.82,
+      "age_days": 0.83,
       "topics": [
         "disaster"
       ],
@@ -524,7 +574,7 @@
       "url": "https://zenn.dev/mediba/articles/7d0d7d70678546",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-12T20:47:11+00:00",
-      "age_days": 0.0,
+      "age_days": 0.02,
       "topics": [
         "general"
       ],
@@ -534,12 +584,12 @@
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 2,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1"
+        "momentum delta +2"
       ],
       "summary": ""
     },
@@ -548,7 +598,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th16",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T18:47:54+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -572,7 +622,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th0h",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T16:20:50+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -596,7 +646,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgyh",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T09:55:36+00:00",
-      "age_days": 0.45,
+      "age_days": 0.47,
       "topics": [
         "general"
       ],
@@ -620,7 +670,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgw1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T02:33:27+00:00",
-      "age_days": 0.76,
+      "age_days": 0.78,
       "topics": [
         "general"
       ],
@@ -644,7 +694,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgwe",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 86.26,
+      "age_days": 86.28,
       "topics": [
         "general"
       ],
@@ -669,7 +719,7 @@
       "url": "https://www.yomiuri.co.jp/science/20260912-GYT1T00169/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-12T11:03:34+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "general"
       ],
@@ -693,7 +743,7 @@
       "url": "https://note.com/kirik/n/n8e7920167c3f",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-12T07:29:55+00:00",
-      "age_days": 0.56,
+      "age_days": 0.57,
       "topics": [
         "general"
       ],
@@ -717,7 +767,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgyx",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T11:31:32.040+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "disaster"
       ],
@@ -741,7 +791,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgy2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T09:09:05.040+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "disaster"
       ],
@@ -765,7 +815,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T00:55:38.040+00:00",
-      "age_days": 0.83,
+      "age_days": 0.84,
       "topics": [
         "disaster"
       ],
@@ -789,7 +839,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgyw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T11:23:10.040+00:00",
-      "age_days": 0.39,
+      "age_days": 0.41,
       "topics": [
         "disaster"
       ],
@@ -813,23 +863,23 @@
       "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260912~3cc706f4d6.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 86.26,
+      "age_days": 86.28,
       "topics": [
         "general"
       ],
-      "dynamics_score": 10.47,
+      "dynamics_score": 10.32,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 1.79,
+      "baseline_z_hint": 1.65,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 1.79",
+        "baseline z_hint 1.65",
         "aging penalty -8.0 for 86.3d old signal"
       ],
       "summary": ""
@@ -839,7 +889,7 @@
       "url": "https://azukiazusa.dev/blog/cloudflare-os/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-03T13:53:27+00:00",
-      "age_days": 9.29,
+      "age_days": 9.3,
       "topics": [
         "ai"
       ],
@@ -865,7 +915,7 @@
       "url": "https://note.com/shi3zblog/n/nd5fc5341b342",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-11T23:45:01+00:00",
-      "age_days": 0.88,
+      "age_days": 0.89,
       "topics": [
         "general"
       ],
@@ -889,7 +939,7 @@
       "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 87.0,
+      "age_days": 87.02,
       "topics": [
         "general"
       ],
@@ -915,7 +965,7 @@
       "url": "https://note.com/yubais/n/nd4505991a6d6",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 12.09,
+      "age_days": 12.1,
       "topics": [
         "ai"
       ],
@@ -941,7 +991,7 @@
       "url": "https://slides.yusu.ke/web-frameworks-in-the-ai-era",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-12T10:39:40+00:00",
-      "age_days": 0.42,
+      "age_days": 0.44,
       "topics": [
         "ai"
       ],
@@ -961,54 +1011,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
-    },
-    {
-      "title": "Christine Lagarde: Interview with Ouest-France",
-      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260912~3cc706f4d6.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
-      "published_at": "2026-09-12T20:00:00+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 9.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "Christine Lagarde: Interview with Ouest-France"
-    },
-    {
-      "title": "Christine Lagarde: Europe seen from Normandy",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260912~fafa4b35b0.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
-      "published_at": "2026-09-12T10:15:00+00:00",
-      "age_days": 0.44,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 9.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "Christine Lagarde: Europe seen from Normandy"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “melgarafael/DeskcommCRM” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
