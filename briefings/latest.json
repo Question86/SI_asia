@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T09:55:32+00:00",
-  "run_id": "2026-09-12T09:55:32+00:00",
+  "generated_at": "2026-09-12T10:07:30+00:00",
+  "run_id": "2026-09-12T10:07:30+00:00",
   "date": "2026-09-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 19,
     "displayed_findings": 19,
     "high": 0,
@@ -1187,44 +1187,7 @@
       "id": "a59bab3853c9024feb0b"
     }
   ],
-  "new_findings": [
-    {
-      "title": "M 4.9 - 147 km WNW of Sola, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgyh",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-09-12T09:54:07.040+00:00",
-      "fetched_at": "2026-09-12T09:55:03+00:00",
-      "summary": "Time 2026-09-12 09:35:46 UTC 2026-09-12 09:35:46 UTC at epicenter Location 13.283°S 166.336°E Depth 16.93 km (10.52 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "64f45bd35d99b2fd1a85"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
