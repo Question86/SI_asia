@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-12T06:14:24+00:00_
+_Generated: 2026-09-12T06:39:21+00:00_
 
 ## Status
 - status: `normal`
-- findings: `13`
+- findings: `14`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-09-12T06:14:24+00:00_
 - url: https://github.com/vastsa/PI-Desktop
 - summary: Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins https://pi-docs.aiuo.net PI-Desktop Your local-first desktop workspace for AI coding agents. Bring your own model. Open any local project. Let agents…
 
-### 3. M 4.7 - 94 km WNW of Ternate, Indonesia
+### 3. M 4.8 - 253 km WSW of Tual, Indonesia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-09-12T06:31:47.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgxg
+- summary: Time 2026-09-12 06:14:30 UTC 2026-09-12 06:14:30 UTC at epicenter Location 6.091°S 130.508°E Depth 134.35 km (83.48 mi)
+
+### 4. M 4.7 - 94 km WNW of Ternate, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-09-12T05:24:42.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgx2
 - summary: Time 2026-09-12 05:08:24 UTC 2026-09-12 05:08:24 UTC at epicenter Location 1.067°N 126.585°E Depth 44.24 km (27.49 mi)
-
-### 4. M 4.6 - 45 km NNE of Ruteng, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-09-12T03:50:15.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgwe
-- summary: Time 2026-09-12 03:34:57 UTC 2026-09-12 03:34:57 UTC at epicenter Location 8.263°S 120.678°E Depth 10.00 km (6.21 mi)
 
 ### 5. nab138/iloader
 - source: GitHub Trending RSS All Languages Daily
