@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-12T02:18:54Z",
+  "generated_at": "2026-09-12T02:41:17Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 4.5 - 9 km WNW of Quicacha, Peru” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=18.5.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T01:10:54+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -35,11 +35,36 @@
       "summary": ""
     },
     {
+      "title": "M 4.7 - 2 km NE of Manaca Norte, Panama",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgw1",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-12T02:31:59.664+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "DYFI? - IV Time 2026-09-12 01:59:50 UTC 2026-09-12 01:59:50 UTC at epicenter Location 8.355°N 82.790°W Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 5.1 - South Sandwich Islands region",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T01:14:31.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -64,7 +89,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T00:55:38.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -84,11 +109,35 @@
       "summary": "Time 2026-09-12 00:18:59 UTC 2026-09-12 00:18:59 UTC at epicenter Location 15.606°S 73.880°W Depth 98.77 km (61.37 mi)"
     },
     {
+      "title": "M 4.7 - 2 km NE of Manaca Norte, Panama",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgw1",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-12T02:33:27+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 13.4,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 86.23,
+      "age_days": 86.25,
       "topics": [
         "general"
       ],
@@ -114,7 +163,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-06-19T21:55:12+00:00",
-      "age_days": 84.18,
+      "age_days": 84.2,
       "topics": [
         "general"
       ],
@@ -139,7 +188,7 @@
       "url": "https://openai.com/index/cognition-devin-testing-with-astra",
       "source": "OpenAI News RSS",
       "published_at": "2026-09-11T16:00:00+00:00",
-      "age_days": 0.43,
+      "age_days": 0.45,
       "topics": [
         "ai"
       ],
@@ -195,7 +244,7 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "watch": 3,
+      "watch": 5,
       "quiet": 4
     }
   }
