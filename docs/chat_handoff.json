@@ -60,5 +60,136 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “M 4.5 - 9 km WNW of Quicacha, Peru” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=18.5.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "M 4.5 - 9 km WNW of Quicacha, Peru",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvk",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-12T01:10:54+00:00",
+        "age_days": 0.07,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 18.5,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +3"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "M 4.7 - 2 km NE of Manaca Norte, Panama",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgw1",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-12T02:31:59.664+00:00",
+        "age_days": 0.01,
+        "topics": [
+          "disaster"
+        ],
+        "dynamics_score": 17.0,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "early terms: earthquake",
+          "high terms: 10"
+        ],
+        "summary": "DYFI? - IV Time 2026-09-12 01:59:50 UTC 2026-09-12 01:59:50 UTC at epicenter Location 8.355°N 82.790°W Depth 10.00 km (6.21 mi)"
+      },
+      {
+        "title": "M 5.1 - South Sandwich Islands region",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvr",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-12T01:14:31.040+00:00",
+        "age_days": 0.07,
+        "topics": [
+          "disaster"
+        ],
+        "dynamics_score": 17.0,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "early terms: earthquake",
+          "high terms: 10"
+        ],
+        "summary": "Time 2026-09-12 00:55:08 UTC 2026-09-12 00:55:08 UTC at epicenter Location 59.135°S 24.927°W Depth 10.00 km (6.21 mi)"
+      },
+      {
+        "title": "M 4.5 - 9 km WNW of Quicacha, Peru",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvk",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-12T00:55:38.040+00:00",
+        "age_days": 0.08,
+        "topics": [
+          "disaster"
+        ],
+        "dynamics_score": 14.0,
+        "raw_band": "watch",
+        "dynamic_band": "watch",
+        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "early terms: earthquake"
+        ],
+        "summary": "Time 2026-09-12 00:18:59 UTC 2026-09-12 00:18:59 UTC at epicenter Location 15.606°S 73.880°W Depth 98.77 km (61.37 mi)"
+      },
+      {
+        "title": "M 4.7 - 2 km NE of Manaca Norte, Panama",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgw1",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-12T02:33:27+00:00",
+        "age_days": 0.01,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 11.5,
+        "raw_band": "quiet",
+        "dynamic_band": "quiet",
+        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 1,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +1"
+        ],
+        "summary": ""
+      }
+    ]
+  }
 }
