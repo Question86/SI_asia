@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-12T03:32:50Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 4.5 - 9 km WNW of Quicacha, Peru” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=18.5.",
+  "generated_at": "2026-09-12T03:48:43Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “DeepSeek v4.1 Flashを動かしたくてFP4に対応していないA100を、33tok/sから673 tok/sまで持っていって気がつくと公式APIより速くなっていた話｜shi3z” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=19.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,36 @@
   ],
   "top_dynamics": [
     {
+      "title": "DeepSeek v4.1 Flashを動かしたくてFP4に対応していないA100を、33tok/sから673 tok/sまで持っていって気がつくと公式APIより速くなっていた話｜shi3z",
+      "url": "https://note.com/shi3zblog/n/nd5fc5341b342",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-31T18:43:10+00:00",
+      "age_days": 11.38,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "high terms: 10"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 4.5 - 9 km WNW of Quicacha, Peru",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T01:10:54+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -39,7 +64,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgw1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T02:31:59.664+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -64,7 +89,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T01:14:31.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -89,7 +114,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgw1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T02:33:27+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
@@ -113,7 +138,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T00:55:38.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -133,11 +158,35 @@
       "summary": "Time 2026-09-12 00:18:59 UTC 2026-09-12 00:18:59 UTC at epicenter Location 15.606°S 73.880°W Depth 98.77 km (61.37 mi)"
     },
     {
+      "title": "DeepSeek v4.1 Flashを動かしたくてFP4に対応していないA100を、33tok/sから673 tok/sまで持っていって気がつくと公式APIより速くなっていた話｜shi3z",
+      "url": "https://note.com/shi3zblog/n/nd5fc5341b342",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-11T23:45:01+00:00",
+      "age_days": 0.17,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "DeepSeek v4.1 Flashを動かしたくてFP4に対応していないA100を、33tok/sから673 tok/sまで持っていって気がつくと公式APIより速くなっていた話 あらすじ結論から言うと、この24時間で僕の手元で起きたことは、僕を驚かせるのに十分なことだった。そしてこれは全く新しい時代の幕開けなのだということを感じている。午前5..."
+    },
+    {
       "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
       "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 86.28,
+      "age_days": 86.29,
       "topics": [
         "general"
       ],
@@ -163,7 +212,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-06-19T21:55:12+00:00",
-      "age_days": 84.23,
+      "age_days": 84.25,
       "topics": [
         "general"
       ],
@@ -188,7 +237,7 @@
       "url": "https://openai.com/index/cognition-devin-testing-with-astra",
       "source": "OpenAI News RSS",
       "published_at": "2026-09-11T16:00:00+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "ai"
       ],
@@ -244,8 +293,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "watch": 5,
-      "quiet": 4
+      "watch": 6,
+      "quiet": 5
     }
   }
 }

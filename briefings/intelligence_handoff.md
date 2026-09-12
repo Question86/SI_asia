@@ -1,18 +1,28 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-12T03:32:50Z_
+_Generated: 2026-09-12T03:48:43Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “M 4.5 - 9 km WNW of Quicacha, Peru” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=18.5.
+Stärkste Dynamik nach Gate-Recheck: “DeepSeek v4.1 Flashを動かしたくてFP4に対応していないA100を、33tok/sから673 tok/sまで持っていって気がつくと公式APIより速くなっていた話｜shi3z” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=19.0.
 
 ## Top Dynamics
+
+### DeepSeek v4.1 Flashを動かしたくてFP4に対応していないA100を、33tok/sから673 tok/sまで持っていって気がつくと公式APIより速くなっていた話｜shi3z
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `19.0`
+- Published: `2026-08-31T18:43:10+00:00` / age_days `11.38`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3, high terms: 10
+- Quelle: https://note.com/shi3zblog/n/nd5fc5341b342
 
 ### M 4.5 - 9 km WNW of Quicacha, Peru
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.5`
-- Published: `2026-09-12T01:10:54+00:00` / age_days `0.1`
+- Published: `2026-09-12T01:10:54+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -22,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.5 - 9 km WNW of Quicacha, Peru” �
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-12T02:31:59.664+00:00` / age_days `0.04`
+- Published: `2026-09-12T02:31:59.664+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -32,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.5 - 9 km WNW of Quicacha, Peru” �
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-12T01:14:31.040+00:00` / age_days `0.1`
+- Published: `2026-09-12T01:14:31.040+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -42,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.5 - 9 km WNW of Quicacha, Peru” �
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.5`
-- Published: `2026-09-12T02:33:27+00:00` / age_days `0.04`
+- Published: `2026-09-12T02:33:27+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -52,17 +62,27 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.5 - 9 km WNW of Quicacha, Peru” �
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-09-12T00:55:38.040+00:00` / age_days `0.11`
+- Published: `2026-09-12T00:55:38.040+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvk
 
+### DeepSeek v4.1 Flashを動かしたくてFP4に対応していないA100を、33tok/sから673 tok/sまで持っていって気がつくと公式APIより速くなっていた話｜shi3z
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `10.0`
+- Published: `2026-09-11T23:45:01+00:00` / age_days `0.17`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: high terms: 10
+- Quelle: https://note.com/shi3zblog/n/nd5fc5341b342
+
 ### Perplexity trusts GPT-6 Astra with end-to-end systems
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `9.0`
-- Published: `2026-06-17T20:44:40+00:00` / age_days `86.28`
+- Published: `2026-06-17T20:44:40+00:00` / age_days `86.29`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, aging penalty -8.0 for 86.3d old signal, single-source AI cap enforced after phrase recheck
@@ -72,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.5 - 9 km WNW of Quicacha, Peru” �
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `8.5`
-- Published: `2026-06-19T21:55:12+00:00` / age_days `84.23`
+- Published: `2026-06-19T21:55:12+00:00` / age_days `84.25`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, aging penalty -8.0 for 84.2d old signal
@@ -82,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.5 - 9 km WNW of Quicacha, Peru” �
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `5.0`
-- Published: `2026-09-11T16:00:00+00:00` / age_days `0.48`
+- Published: `2026-09-11T16:00:00+00:00` / age_days `0.49`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
