@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T10:21:05+00:00",
-  "run_id": "2026-09-12T10:21:05+00:00",
+  "generated_at": "2026-09-12T10:29:57+00:00",
+  "run_id": "2026-09-12T10:29:57+00:00",
   "date": "2026-09-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 20
+      "configured_public_sources_only": 21
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 20,
-    "displayed_findings": 20,
+    "today_file_total": 21,
+    "displayed_findings": 21,
     "high": 0,
     "medium": 5,
-    "observe": 15,
+    "observe": 16,
     "source_errors": 0
   },
   "sections": {
@@ -501,6 +501,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "5886e5938b5b864c1aa4"
+      },
+      {
+        "title": "いま“知っておきたい”トレンドワード なぜ1型センサーで白飛びしない？ 話題の「LOFICセンサー」の仕組み",
+        "url": "https://dc.watch.impress.co.jp/docs/column/trend/2140009.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-12T01:16:06+00:00",
+        "fetched_at": "2026-09-12T10:29:29+00:00",
+        "summary": "いま“知っておきたい”トレンドワード なぜ1型センサーで白飛びしない？ 話題の「LOFICセンサー」の仕組み",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "42a2537a818584decfc3"
       },
       {
         "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
@@ -1102,6 +1124,28 @@
       "id": "5886e5938b5b864c1aa4"
     },
     {
+      "title": "いま“知っておきたい”トレンドワード なぜ1型センサーで白飛びしない？ 話題の「LOFICセンサー」の仕組み",
+      "url": "https://dc.watch.impress.co.jp/docs/column/trend/2140009.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-12T01:16:06+00:00",
+      "fetched_at": "2026-09-12T10:29:29+00:00",
+      "summary": "いま“知っておきたい”トレンドワード なぜ1型センサーで白飛びしない？ 話題の「LOFICセンサー」の仕組み",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "42a2537a818584decfc3"
+    },
+    {
       "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
       "url": "https://openai.com/index/cognition-devin-testing-with-astra",
       "source": "OpenAI News RSS",
@@ -1229,24 +1273,26 @@
   ],
   "new_findings": [
     {
-      "title": "Christine Lagarde: Europe seen from Normandy",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260912~fafa4b35b0.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
+      "title": "いま“知っておきたい”トレンドワード なぜ1型センサーで白飛びしない？ 話題の「LOFICセンサー」の仕組み",
+      "url": "https://dc.watch.impress.co.jp/docs/column/trend/2140009.html",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-12T10:15:00+00:00",
-      "fetched_at": "2026-09-12T10:20:37+00:00",
-      "summary": "Christine Lagarde: Europe seen from Normandy",
+      "published_at": "2026-09-12T01:16:06+00:00",
+      "fetched_at": "2026-09-12T10:29:29+00:00",
+      "summary": "いま“知っておきたい”トレンドワード なぜ1型センサーで白飛びしない？ 話題の「LOFICセンサー」の仕組み",
       "matched_keywords": [
-        "Macro/Policy"
+        "APAC Trend Radar",
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "626aa085dbe0136e36a2"
+      "id": "42a2537a818584decfc3"
     }
   ],
   "source_errors": [],
