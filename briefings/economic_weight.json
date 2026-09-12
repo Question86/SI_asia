@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-12T00:53:06+00:00",
+  "generated_at": "2026-09-12T01:11:09+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1676,6 +1676,23 @@
       "first_seen_at": "2026-08-29T11:40:09+00:00",
       "last_seen_at": "2026-08-29T23:58:25+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_7b7b5be85a9a06f472d6",
+      "title": "M 4.5 - 9 km WNW of Quicacha, Peru",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1128000.0,
+      "p50_usd": 112800000.0,
+      "p90_usd": 11280000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-12T01:10:54+00:00",
+      "last_seen_at": "2026-09-12T01:10:54+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_058a0e17878f3797ed5c",
@@ -3782,7 +3799,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-12T00:52:49+00:00",
+      "last_seen_at": "2026-09-12T01:10:54+00:00",
       "status": "active"
     },
     {
