@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T22:49:12+00:00",
-  "run_id": "2026-09-12T22:49:12+00:00",
+  "generated_at": "2026-09-12T22:56:39+00:00",
+  "run_id": "2026-09-12T22:56:39+00:00",
   "date": "2026-09-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 36
+      "configured_public_sources_only": 37
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 36,
-    "displayed_findings": 36,
+    "new_relevant_findings": 1,
+    "today_file_total": 37,
+    "displayed_findings": 37,
     "high": 0,
     "medium": 6,
-    "observe": 30,
+    "observe": 31,
     "source_errors": 0
   },
   "sections": {
@@ -768,6 +768,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "5886e5938b5b864c1aa4"
+      },
+      {
+        "title": "クロスプラットフォーム開発が解決するコスト、解決しないコスト",
+        "url": "https://zenn.dev/nkzn/articles/cross-platform-development-costs-2026",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-12T22:07:35+00:00",
+        "fetched_at": "2026-09-12T22:56:06+00:00",
+        "summary": "2026年9月、Shopify Engineeringから「Native is now the future of mobile at Shopify」という記事が公開されました。 Shopifyは2020年にモバイルアプリ開発をReact Nativeへ寄せる方針を打ち出し、React Nativeコミュニティにも大きな投資を続けてきた会社です。そのShopifyがSwiftとKotlinを使ったネイティブ開発へ戻...",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "50117a3fc56b375307bf"
       },
       {
         "title": "AIが数学の難問を解決していいのか｜柞刈湯葉",
@@ -1786,6 +1808,28 @@
       "id": "5886e5938b5b864c1aa4"
     },
     {
+      "title": "クロスプラットフォーム開発が解決するコスト、解決しないコスト",
+      "url": "https://zenn.dev/nkzn/articles/cross-platform-development-costs-2026",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-12T22:07:35+00:00",
+      "fetched_at": "2026-09-12T22:56:06+00:00",
+      "summary": "2026年9月、Shopify Engineeringから「Native is now the future of mobile at Shopify」という記事が公開されました。 Shopifyは2020年にモバイルアプリ開発をReact Nativeへ寄せる方針を打ち出し、React Nativeコミュニティにも大きな投資を続けてきた会社です。そのShopifyがSwiftとKotlinを使ったネイティブ開発へ戻...",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "50117a3fc56b375307bf"
+    },
+    {
       "title": "AIが数学の難問を解決していいのか｜柞刈湯葉",
       "url": "https://note.com/yubais/n/nd4505991a6d6",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2061,7 +2105,30 @@
       "id": "02d8f4facf57723feb78"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "クロスプラットフォーム開発が解決するコスト、解決しないコスト",
+      "url": "https://zenn.dev/nkzn/articles/cross-platform-development-costs-2026",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-12T22:07:35+00:00",
+      "fetched_at": "2026-09-12T22:56:06+00:00",
+      "summary": "2026年9月、Shopify Engineeringから「Native is now the future of mobile at Shopify」という記事が公開されました。 Shopifyは2020年にモバイルアプリ開発をReact Nativeへ寄せる方針を打ち出し、React Nativeコミュニティにも大きな投資を続けてきた会社です。そのShopifyがSwiftとKotlinを使ったネイティブ開発へ戻...",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "50117a3fc56b375307bf"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
