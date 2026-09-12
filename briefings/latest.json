@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T21:46:32+00:00",
-  "run_id": "2026-09-12T21:46:32+00:00",
+  "generated_at": "2026-09-12T21:54:19+00:00",
+  "run_id": "2026-09-12T21:54:19+00:00",
   "date": "2026-09-12",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 35,
     "displayed_findings": 35,
     "high": 0,
@@ -2019,29 +2019,7 @@
       "id": "a59bab3853c9024feb0b"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Webの地図",
-      "url": "https://speakerdeck.com/yosuke_furukawa/web-no-chizu",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-12T11:42:46+00:00",
-      "fetched_at": "2026-09-12T21:45:59+00:00",
-      "summary": "FEC Fukuoka で発表したWebの地図についての話です",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2b7f3d197c6d52e1a8a6"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
