@@ -1,21 +1,21 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-12T10:24:11Z",
+  "generated_at": "2026-09-12T10:35:34Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 39,
+    "dynamics": 40,
     "bands": {
       "extreme": 4,
       "krass": 1,
       "strong": 4,
       "watch": 15,
-      "quiet": 15
+      "quiet": 16
     },
     "bands_after_gate_recheck": {
       "strong": 9,
       "watch": 15,
-      "quiet": 15
+      "quiet": 16
     }
   },
   "top_dynamics": [
@@ -158,7 +158,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgwe",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T03:50:15.040+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "disaster"
       ],
@@ -207,7 +207,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgx2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T05:30:29+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "general"
       ],
@@ -255,7 +255,7 @@
       "url": "https://note.com/shi3zblog/n/nd5fc5341b342",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 11.65,
+      "age_days": 11.66,
       "topics": [
         "general"
       ],
@@ -280,7 +280,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgy2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T09:22:57+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
@@ -304,7 +304,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T01:10:54+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "general"
       ],
@@ -328,7 +328,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgxg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T06:31:47.040+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -352,7 +352,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgx2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T05:24:42.040+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "disaster"
       ],
@@ -376,7 +376,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgyh",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T09:54:07.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -401,7 +401,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgw1",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T02:31:59.664+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "disaster"
       ],
@@ -426,7 +426,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T01:14:31.040+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "disaster"
       ],
@@ -445,6 +445,30 @@
         "high terms: 10"
       ],
       "summary": "Time 2026-09-12 00:55:08 UTC 2026-09-12 00:55:08 UTC at epicenter Location 59.135°S 24.927°W Depth 10.00 km (6.21 mi)"
+    },
+    {
+      "title": "M 4.9 - 147 km WNW of Sola, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgyh",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-12T09:55:36+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
     },
     {
       "title": "M 4.7 - 2 km NE of Manaca Norte, Panama",
@@ -496,26 +520,26 @@
       "summary": ""
     },
     {
-      "title": "M 4.9 - 147 km WNW of Sola, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgyh",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-12T09:55:36+00:00",
-      "age_days": 0.02,
+      "title": "いま“知っておきたい”トレンドワード なぜ1型センサーで白飛びしない？ 話題の「LOFICセンサー」の仕組み",
+      "url": "https://dc.watch.impress.co.jp/docs/column/trend/2140009.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-12T10:29:59+00:00",
+      "age_days": 0.0,
       "topics": [
         "general"
       ],
-      "dynamics_score": 14.0,
+      "dynamics_score": 14.5,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +2"
+        "momentum delta +1"
       ],
       "summary": ""
     },
@@ -524,7 +548,7 @@
       "url": "https://note.com/kirik/n/n8e7920167c3f",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-12T07:29:55+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -548,7 +572,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgy2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T09:09:05.040+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -572,7 +596,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvk",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T00:55:38.040+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "disaster"
       ],
@@ -592,37 +616,11 @@
       "summary": "Time 2026-09-12 00:18:59 UTC 2026-09-12 00:18:59 UTC at epicenter Location 15.606°S 73.880°W Depth 98.77 km (61.37 mi)"
     },
     {
-      "title": "Christine Lagarde: Europe seen from Normandy",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260912~fafa4b35b0.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
-      "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 85.83,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 13.12,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 1.93,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 1.93",
-        "aging penalty -8.0 for 85.8d old signal"
-      ],
-      "summary": ""
-    },
-    {
       "title": "DeepSeek v4.1 Flashを動かしたくてFP4に対応していないA100を、33tok/sから673 tok/sまで持っていって気がつくと公式APIより速くなっていた話｜shi3z",
       "url": "https://note.com/shi3zblog/n/nd5fc5341b342",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-11T23:45:01+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "general"
       ],
@@ -646,7 +644,7 @@
       "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 86.57,
+      "age_days": 86.58,
       "topics": [
         "general"
       ],
@@ -692,11 +690,36 @@
       "summary": "Christine Lagarde: Europe seen from Normandy"
     },
     {
+      "title": "Christine Lagarde: Europe seen from Normandy",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260912~fafa4b35b0.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "published_at": "2026-06-18T14:33:45+00:00",
+      "age_days": 85.83,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 8.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "aging penalty -8.0 for 85.8d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 5.1 - South Sandwich Islands region",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tgvr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-06-19T21:55:12+00:00",
-      "age_days": 84.52,
+      "age_days": 84.53,
       "topics": [
         "general"
       ],
@@ -715,6 +738,30 @@
         "aging penalty -8.0 for 84.5d old signal"
       ],
       "summary": ""
+    },
+    {
+      "title": "いま“知っておきたい”トレンドワード なぜ1型センサーで白飛びしない？ 話題の「LOFICセンサー」の仕組み",
+      "url": "https://dc.watch.impress.co.jp/docs/column/trend/2140009.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-12T01:16:06+00:00",
+      "age_days": 0.39,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 8.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "いま“知っておきたい”トレンドワード なぜ1型センサーで白飛びしない？ 話題の「LOFICセンサー」の仕組み"
     },
     {
       "title": "数学難問をAIで解決、フィールズ賞25人が非難声明「科学に有害」 - 日本経済新聞",
@@ -747,7 +794,7 @@
       "url": "https://speakerdeck.com/uhyo/react-no-sekkeiron",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 85.35,
+      "age_days": 85.36,
       "topics": [
         "general"
       ],
@@ -824,7 +871,7 @@
       "url": "https://speakerdeck.com/uhyo/react-no-sekkeiron",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-12T01:56:56+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "general"
       ],
@@ -848,7 +895,7 @@
       "url": "https://automaton-media.com/articles/newsjp/20260912-467049/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-11T21:15:32+00:00",
-      "age_days": 0.55,
+      "age_days": 0.56,
       "topics": [
         "ai"
       ],
@@ -874,7 +921,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOSG120C30S6A910C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T02:10:07+00:00",
-      "age_days": 85.34,
+      "age_days": 85.35,
       "topics": [
         "ai"
       ],
@@ -891,7 +938,7 @@
       "why": [
         "momentum delta +3",
         "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 85.3d old signal",
+        "aging penalty -8.0 for 85.4d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -951,7 +998,7 @@
       "url": "https://note.com/kirik/n/n8e7920167c3f",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-11T23:51:30+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "ai"
       ],
@@ -970,31 +1017,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "※おことわり 本稿は、ほぼ同じ内容を私のメルマガ『人間迷路』で配信しています。で、メルマガご購読者の皆さまに於かれましては本稿は配信する記事と同じものですので、お布施でもない限り、間違って買わないようお願いします。 https://yakan-hiko.com/kirik.html なんつーか、大変なことになってしまいました。 な..."
-    },
-    {
-      "title": "armory3d/armorpaint",
-      "url": "https://github.com/armory3d/armorpaint",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-09-12T05:55:23+00:00",
-      "age_days": 0.19,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Graphics Creation Tools https://armorpaint.org armorpaint ArmorPaint is a software for 3D PBR texture painting - check out the manual . Note 1: This repository is aimed at developers and may not be stable. Distributed binaries are paid to help with the project funding. All of the development is happening here in order…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “melgarafael/DeskcommCRM” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
