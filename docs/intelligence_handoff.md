@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-12T22:23:04Z_
+_Generated: 2026-09-12T22:36:09Z_
 
 ## Lageurteil
 
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “melgarafael/DeskcommCRM” — Die Dynam
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-12T20:54:37+00:00` / age_days `0.06`
+- Published: `2026-09-12T20:54:37+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: 10, krass gate: single-source non-official/non-identity signal capped
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “melgarafael/DeskcommCRM” — Die Dynam
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-12T20:53:42.040+00:00` / age_days `0.06`
+- Published: `2026-09-12T20:53:42.040+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “melgarafael/DeskcommCRM” — Die Dynam
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-12T03:50:15.040+00:00` / age_days `0.77`
+- Published: `2026-09-12T03:50:15.040+00:00` / age_days `0.78`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “melgarafael/DeskcommCRM” — Die Dynam
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.5`
-- Published: `2026-09-03T21:47:43+00:00` / age_days `9.02`
+- Published: `2026-09-03T21:47:43+00:00` / age_days `9.03`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “melgarafael/DeskcommCRM” — Die Dynam
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.5`
-- Published: `2026-09-12T05:30:29+00:00` / age_days `0.7`
+- Published: `2026-09-12T05:30:29+00:00` / age_days `0.71`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “melgarafael/DeskcommCRM” — Die Dynam
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-09-12T20:47:11+00:00` / age_days `0.07`
+- Published: `2026-09-12T20:47:11+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
