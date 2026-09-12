@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-12T03:24:46+00:00_
+_Generiert: 2026-09-12T03:36:54+00:00_
 
 ## Kurzlage
 
-5 neue relevante Treffer. Stärkstes Signal: „M 4.5 - 9 km WNW of Quicacha, Peru“ aus USGS M4.5+ Earthquakes Past Hour (Score 11, risk).
+6 neue relevante Treffer. Stärkstes Signal: „M 4.5 - 9 km WNW of Quicacha, Peru“ aus USGS M4.5+ Earthquakes Past Hour (Score 11, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -117,6 +117,15 @@ Keine neuen mittleren Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+7.5); recent (+1.0)
   - Kurz: GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **DeepSeek v4.1 Flashを動かしたくてFP4に対応していないA100を、33tok/sから673 tok/sまで持っていって気がつくと公式APIより速くなっていた話｜shi3z** — Score 5, observation — [Quelle](https://note.com/shi3zblog/n/nd5fc5341b342)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-11T23:45:01+00:00`, fetched `2026-09-12T03:36:24+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: DeepSeek v4.1 Flashを動かしたくてFP4に対応していないA100を、33tok/sから673 tok/sまで持っていって気がつくと公式APIより速くなっていた話 あらすじ結論から言うと、この24時間で僕の手元で起きたことは、僕を驚かせるのに十分なことだった。そしてこれは全く新しい時代の幕開けなのだということを感じている。午前5...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
