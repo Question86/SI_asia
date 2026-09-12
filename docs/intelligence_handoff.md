@@ -1,28 +1,18 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-12T21:24:01Z_
+_Generated: 2026-09-12T21:35:45Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “M 5.1 - 101 km S of Yudomari, Japan” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0.
+Stärkste Dynamik nach Gate-Recheck: “melgarafael/DeskcommCRM” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.
 
 ## Top Dynamics
-
-### M 5.1 - 101 km S of Yudomari, Japan
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `25.0`
-- Published: `2026-09-12T20:54:37+00:00` / age_days `0.02`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +2, high terms: 10
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000th1q
 
 ### melgarafael/DeskcommCRM
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-12T05:55:23+00:00` / age_days `0.64`
+- Published: `2026-09-12T05:55:23+00:00` / age_days `0.65`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -32,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.1 - 101 km S of Yudomari, Japan” �
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-12T05:55:23+00:00` / age_days `0.64`
+- Published: `2026-09-12T05:55:23+00:00` / age_days `0.65`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -42,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.1 - 101 km S of Yudomari, Japan” �
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-12T05:55:58+00:00` / age_days `0.64`
+- Published: `2026-09-12T05:55:58+00:00` / age_days `0.65`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -52,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.1 - 101 km S of Yudomari, Japan” �
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-12T05:55:58+00:00` / age_days `0.64`
+- Published: `2026-09-12T05:55:58+00:00` / age_days `0.65`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -62,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.1 - 101 km S of Yudomari, Japan” �
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-12T05:55:23+00:00` / age_days `0.64`
+- Published: `2026-09-12T05:55:23+00:00` / age_days `0.65`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: early terms: local, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -70,9 +60,19 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.1 - 101 km S of Yudomari, Japan” �
 
 ### M 5.1 - 101 km S of Yudomari, Japan
 
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-09-12T20:54:37+00:00` / age_days `0.03`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3, high terms: 10, krass gate: single-source non-official/non-identity signal capped
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000th1q
+
+### M 5.1 - 101 km S of Yudomari, Japan
+
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-12T20:53:42.040+00:00` / age_days `0.02`
+- Published: `2026-09-12T20:53:42.040+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.1 - 101 km S of Yudomari, Japan” �
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-12T03:50:15.040+00:00` / age_days `0.73`
+- Published: `2026-09-12T03:50:15.040+00:00` / age_days `0.74`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.1 - 101 km S of Yudomari, Japan” �
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.5`
-- Published: `2026-09-03T21:47:43+00:00` / age_days `8.98`
+- Published: `2026-09-03T21:47:43+00:00` / age_days `8.99`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.1 - 101 km S of Yudomari, Japan” �
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.5`
-- Published: `2026-09-12T05:30:29+00:00` / age_days `0.66`
+- Published: `2026-09-12T05:30:29+00:00` / age_days `0.67`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.1 - 101 km S of Yudomari, Japan” �
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.0`
-- Published: `2026-09-12T05:55:58+00:00` / age_days `0.64`
+- Published: `2026-09-12T05:55:58+00:00` / age_days `0.65`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
