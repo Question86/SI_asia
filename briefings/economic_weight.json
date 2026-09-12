@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-12T05:56:15+00:00",
+  "generated_at": "2026-09-12T06:15:20+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -688,7 +688,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-30T11:56:17+00:00",
-      "last_seen_at": "2026-09-12T05:55:58+00:00",
+      "last_seen_at": "2026-09-12T06:14:27+00:00",
       "status": "active"
     },
     {
@@ -739,7 +739,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-12T05:30:29+00:00",
-      "last_seen_at": "2026-09-12T05:55:58+00:00",
+      "last_seen_at": "2026-09-12T06:14:27+00:00",
       "status": "active"
     },
     {
@@ -1402,7 +1402,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-12T01:10:54+00:00",
-      "last_seen_at": "2026-09-12T05:55:58+00:00",
+      "last_seen_at": "2026-09-12T06:14:27+00:00",
       "status": "active"
     },
     {
@@ -1895,7 +1895,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-12T02:33:27+00:00",
-      "last_seen_at": "2026-09-12T05:55:58+00:00",
+      "last_seen_at": "2026-09-12T06:14:27+00:00",
       "status": "active"
     },
     {
@@ -2626,7 +2626,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-30T04:22:59+00:00",
-      "last_seen_at": "2026-09-12T05:55:58+00:00",
+      "last_seen_at": "2026-09-12T06:14:27+00:00",
       "status": "active"
     },
     {
@@ -3514,6 +3514,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_e159fa76ebdf371a67cc",
+      "title": "melgarafael/DeskcommCRM",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 119200.0,
+      "p50_usd": 11920000.0,
+      "p90_usd": 1192000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-12T05:55:58+00:00",
+      "last_seen_at": "2026-09-12T06:14:27+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_f1f2b5f5f83dcfa6c8c8",
       "title": "jingyaogong/minimind",
       "event_classes": [
@@ -3529,23 +3546,6 @@
       "first_seen_at": "2026-09-01T06:37:12+00:00",
       "last_seen_at": "2026-09-01T23:56:16+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_e159fa76ebdf371a67cc",
-      "title": "melgarafael/DeskcommCRM",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 119200.0,
-      "p50_usd": 11920000.0,
-      "p90_usd": 1192000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-12T05:55:58+00:00",
-      "last_seen_at": "2026-09-12T05:55:58+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_04c8c9515e6d6caa68b7",
@@ -3663,7 +3663,7 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-12T05:55:58+00:00",
+      "last_seen_at": "2026-09-12T06:14:27+00:00",
       "status": "active"
     },
     {
@@ -3735,6 +3735,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_c53460a4c8dea43628f8",
+      "title": "vastsa/PI-Desktop",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 117600.0,
+      "p50_usd": 11760000.0,
+      "p90_usd": 1176000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-12T05:55:58+00:00",
+      "last_seen_at": "2026-09-12T06:14:27+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_f57fccff74e206c13a6c",
       "title": "Claude Code から Cloud Run 上の MCP サーバを使うための認可構成 - エムスリーテックブログ",
       "event_classes": [
@@ -3750,23 +3767,6 @@
       "first_seen_at": "2026-08-28T21:39:31+00:00",
       "last_seen_at": "2026-08-28T23:53:26+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_c53460a4c8dea43628f8",
-      "title": "vastsa/PI-Desktop",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 117600.0,
-      "p50_usd": 11760000.0,
-      "p90_usd": 1176000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-12T05:55:58+00:00",
-      "last_seen_at": "2026-09-12T05:55:58+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_04dd5841535ba2efa091",
@@ -3867,7 +3867,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-12T05:55:58+00:00",
+      "last_seen_at": "2026-09-12T06:14:27+00:00",
       "status": "active"
     },
     {
@@ -4466,6 +4466,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_7fed16e421341a71fc3c",
+      "title": "nab138/iloader",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 114400.0,
+      "p50_usd": 11440000.0,
+      "p90_usd": 1144000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-12T05:55:58+00:00",
+      "last_seen_at": "2026-09-12T06:14:27+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_87b93cd4931e84915328",
       "title": "The real test of ethical AI is whether a frontline employee can challenge it",
       "event_classes": [
@@ -4566,23 +4583,6 @@
       "first_seen_at": "2026-09-09T08:08:20+00:00",
       "last_seen_at": "2026-09-09T23:54:37+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_7fed16e421341a71fc3c",
-      "title": "nab138/iloader",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 114400.0,
-      "p50_usd": 11440000.0,
-      "p90_usd": 1144000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-12T05:55:58+00:00",
-      "last_seen_at": "2026-09-12T05:55:58+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_2a7631f0e872d9aad503",
@@ -7625,7 +7625,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:10:24+00:00",
-      "last_seen_at": "2026-09-12T05:55:58+00:00",
+      "last_seen_at": "2026-09-12T06:14:27+00:00",
       "status": "active"
     },
     {
@@ -8154,6 +8154,23 @@
       "first_seen_at": "2026-09-03T02:46:59+00:00",
       "last_seen_at": "2026-09-03T07:58:17+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_971d9d62e5685f3a1de0",
+      "title": "armory3d/armorpaint",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-12T05:55:58+00:00",
+      "last_seen_at": "2026-09-12T06:14:27+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_981a9fca29c178671b81",
@@ -8715,23 +8732,6 @@
       "first_seen_at": "2026-09-08T01:40:08+00:00",
       "last_seen_at": "2026-09-08T05:58:24+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_971d9d62e5685f3a1de0",
-      "title": "armory3d/armorpaint",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108000.0,
-      "p50_usd": 10800000.0,
-      "p90_usd": 1080000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-12T05:55:58+00:00",
-      "last_seen_at": "2026-09-12T05:55:58+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_053f4fa216fa9d7c5edf",
