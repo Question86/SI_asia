@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-13T08:50:15+00:00",
+  "generated_at": "2026-09-13T09:47:54+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 12,
-    "clusters": 12,
+    "findings": 13,
+    "clusters": 13,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 0,
@@ -204,8 +204,8 @@
       "first_seen_at": "2026-09-13T04:45:41+00:00"
     },
     {
-      "key": "domain:x.com",
-      "title": "「人類が至った叡智の結晶にして、夢の超技術、なんと、それをボイラーに！」水が都合の良すぎる物体だったために、人類はまだタービンを回してる",
+      "key": "title:iphone-duo-700-iphone-iphone-mania",
+      "title": "iPhone Duo、36万円超でも需要絶好調？700万台出荷でiPhoneを牽引か - iPhone Mania",
       "sources": [
         "Hatena Bookmark Hotentry IT"
       ],
@@ -213,7 +213,7 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://togetter.com/li/2744946"
+        "https://iphone-mania.jp/iphone18-605873/"
       ],
       "finding_count": 1,
       "max_score": 5,
@@ -239,7 +239,7 @@
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-09-04T10:58:35+00:00"
+      "first_seen_at": "2026-09-13T09:47:54+00:00"
     },
     {
       "key": "earthquake:m 5.0 - southeast of the loyalty islands:5.0",
@@ -322,6 +322,44 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-09-13T07:41:15+00:00"
+    },
+    {
+      "key": "domain:x.com",
+      "title": "「人類が至った叡智の結晶にして、夢の超技術、なんと、それをボイラーに！」水が都合の良すぎる物体だったために、人類はまだタービンを回してる",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://togetter.com/li/2744946"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 6.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 7.1,
+      "ranking_score": 6.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-04T10:58:35+00:00"
     },
     {
       "key": "title:usb-type-dell-xps",
@@ -478,7 +516,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-13T08:50:15Z",
+    "generated_at": "2026-09-13T09:47:54Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

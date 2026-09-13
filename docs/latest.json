@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T08:50:11+00:00",
-  "run_id": "2026-09-13T08:50:11+00:00",
+  "generated_at": "2026-09-13T09:47:51+00:00",
+  "run_id": "2026-09-13T09:47:51+00:00",
   "date": "2026-09-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 12
+      "configured_public_sources_only": 13
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 12,
-    "displayed_findings": 12,
+    "today_file_total": 13,
+    "displayed_findings": 13,
     "high": 0,
     "medium": 2,
-    "observe": 10,
+    "observe": 11,
     "source_errors": 0
   },
   "sections": {
@@ -250,6 +250,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "887a4fdfb743dfb77084"
+      },
+      {
+        "title": "iPhone Duo、36万円超でも需要絶好調？700万台出荷でiPhoneを牽引か - iPhone Mania",
+        "url": "https://iphone-mania.jp/iphone18-605873/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-13T05:23:07+00:00",
+        "fetched_at": "2026-09-13T09:47:20+00:00",
+        "summary": "iPhone Duoは、日本では36万円を超える高価格モデルですが、市場予想レンジの下限をわずかに下回る価格設定となっています。GF Securitiesのアナリスト、ジェフ・プー氏は、消費者の強い関心を背景に、iPhone Duoが2026年後半のiPhone出荷を牽引するとの見方を示しています。 iPhone18 Proの値上げ幅は予想よりも小規模 ...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "dab3d96f575537aa9186"
       },
       {
         "title": "なぜUSB Type-Cポートは壊れやすい？ Dell XPSを分解して分かった最新PCのトレンド",
@@ -559,6 +580,27 @@
       "id": "887a4fdfb743dfb77084"
     },
     {
+      "title": "iPhone Duo、36万円超でも需要絶好調？700万台出荷でiPhoneを牽引か - iPhone Mania",
+      "url": "https://iphone-mania.jp/iphone18-605873/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-13T05:23:07+00:00",
+      "fetched_at": "2026-09-13T09:47:20+00:00",
+      "summary": "iPhone Duoは、日本では36万円を超える高価格モデルですが、市場予想レンジの下限をわずかに下回る価格設定となっています。GF Securitiesのアナリスト、ジェフ・プー氏は、消費者の強い関心を背景に、iPhone Duoが2026年後半のiPhone出荷を牽引するとの見方を示しています。 iPhone18 Proの値上げ幅は予想よりも小規模 ...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "dab3d96f575537aa9186"
+    },
+    {
       "title": "なぜUSB Type-Cポートは壊れやすい？ Dell XPSを分解して分かった最新PCのトレンド",
       "url": "https://www.itmedia.co.jp/pcuser/articles/2609/13/news009.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -645,13 +687,13 @@
   ],
   "new_findings": [
     {
-      "title": "「人類が至った叡智の結晶にして、夢の超技術、なんと、それをボイラーに！」水が都合の良すぎる物体だったために、人類はまだタービンを回してる",
-      "url": "https://togetter.com/li/2744946",
+      "title": "iPhone Duo、36万円超でも需要絶好調？700万台出荷でiPhoneを牽引か - iPhone Mania",
+      "url": "https://iphone-mania.jp/iphone18-605873/",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-13T05:24:43+00:00",
-      "fetched_at": "2026-09-13T08:49:42+00:00",
-      "summary": "ダンボール神話 @card_board1909 人類が至った叡智の結晶にして、夢の超技術・核融合。 人類をエネルギー問題から永久に救った、質量を直接変換して得られる、未だかつてなき膨大な熱量。 それをなんと 今日は ボイラーにですね x.com/ekyozyu/status… 2026-09-12 01:50:46",
+      "published_at": "2026-09-13T05:23:07+00:00",
+      "fetched_at": "2026-09-13T09:47:20+00:00",
+      "summary": "iPhone Duoは、日本では36万円を超える高価格モデルですが、市場予想レンジの下限をわずかに下回る価格設定となっています。GF Securitiesのアナリスト、ジェフ・プー氏は、消費者の強い関心を背景に、iPhone Duoが2026年後半のiPhone出荷を牽引するとの見方を示しています。 iPhone18 Proの値上げ幅は予想よりも小規模 ...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -663,7 +705,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "887a4fdfb743dfb77084"
+      "id": "dab3d96f575537aa9186"
     }
   ],
   "source_errors": [],
