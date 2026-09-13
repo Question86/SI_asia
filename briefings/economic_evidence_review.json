@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-09-13T05:40:21+00:00",
+  "generated_at": "2026-09-13T05:48:02+00:00",
   "fx_as_of": null,
-  "candidate_count": 555,
+  "candidate_count": 556,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 555
+    "pending": 556
   },
   "coverage_warning": null,
   "candidates": [
@@ -7359,6 +7359,27 @@
       "snippet": "elines honnibal 25 2.1k Crafting Experiences bethany 1 310 Information Architects: The Missing Link in Design Systems soysaucechin 1 1.1k Data-driven link building: lessons from a $708K investment (BrightonSEO talk) szymonslowik 1 1.3k Mozcon NYC 2025: Stop Losing SEO Traffic samtorres 1 520 Designing for Timeless Needs cassininazir 1 470 Transcript FRONTEND CONF",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://speakerdeck.com/hokaccha/ai-agent-jidai-no-senryaku-to-jissen"
+    },
+    {
+      "amount_native": 708000.0,
+      "amount_usd": 708000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.55,
+      "candidate_id": "cand_7214530665d74899f82b",
+      "component_suggestion": "real_resource",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_a9168860075ad99c5a0d",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-13T05:48:00+00:00",
+      "overlap_group_suggestion": "evt_a9168860075ad99c5a0d:real_resource:da4850eddd6b",
+      "review_status": "pending",
+      "snippet": "ontext Engineering - Making Every Token Count addyosmani 9 1.1k The Hidden Cost of Media on the Web [PixelPalooza 2025] tammyeverts 2 490 Data-driven link building: lessons from a $708K investment (BrightonSEO talk) szymonslowik 1 1.3k Transcript FRONTEND CONFERENCE FUKUOKA 2026 AI Agent時代の リアーキテクチャ戦略と実践 フロントエンドカンファレンス福岡 2026 はじめに 自己紹介 @hokaccha Software Engineer",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://speakerdeck.com/hokaccha/ai-agent-jidai-no-senryaku-to-jissen",
+      "component_confidence": 0.55,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 5000.0,
