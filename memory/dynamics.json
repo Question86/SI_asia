@@ -1,42 +1,95 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-13T04:15:23Z",
+  "generated_at": "2026-09-13T04:32:22Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 8,
+    "dynamics": 10,
     "bands": {
-      "watch": 1,
+      "strong": 1,
+      "watch": 2,
       "quiet": 7
     },
     "bands_after_gate_recheck": {
-      "watch": 1,
+      "strong": 1,
+      "watch": 2,
       "quiet": 7
     }
   },
   "top_dynamics": [
     {
+      "title": "M 4.9 - Bonin Islands, Japan region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th3a",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-13T04:08:55.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-09-13 03:50:32 UTC 2026-09-13 03:50:32 UTC at epicenter Location 26.305°N 142.253°E Depth 10.00 km (6.21 mi)"
+    },
+    {
+      "title": "M 4.9 - Bonin Islands, Japan region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th3a",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-06-19T20:12:42+00:00",
+      "age_days": 85.35,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 19.59,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 2.9,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 2.90",
+        "aging penalty -8.0 for 85.3d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "AI Agent時代のリアーキテクチャ戦略と実践",
       "url": "https://speakerdeck.com/hokaccha/ai-agent-jidai-no-senryaku-to-jissen",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 86.1,
+      "age_days": 86.11,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 18.36,
+      "dynamics_score": 17.88,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 6.69,
+      "baseline_z_hint": 6.26,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 6.69",
+        "baseline z_hint 6.26",
         "single-source AI hype brake -8.0",
         "aging penalty -8.0 for 86.1d old signal",
         "single-source AI cap enforced after phrase recheck"
@@ -48,7 +101,7 @@
       "url": "https://speakerdeck.com/hokaccha/ai-agent-jidai-no-senryaku-to-jissen",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-12T08:17:26+00:00",
-      "age_days": 0.83,
+      "age_days": 0.84,
       "topics": [
         "ai"
       ],
@@ -73,7 +126,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN122UY0S6A910C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T00:11:29+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -99,7 +152,7 @@
       "url": "https://news.web.nhk/newsweb/na/nd-20260913de49934",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T01:55:34+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -125,7 +178,7 @@
       "url": "https://note.com/takahiroanno/n/n4accbde18d56",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 12.4,
+      "age_days": 12.41,
       "topics": [
         "ai"
       ],
@@ -151,7 +204,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN122UY0S6A910C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T02:10:07+00:00",
-      "age_days": 86.09,
+      "age_days": 86.1,
       "topics": [
         "ai"
       ],
@@ -178,7 +231,7 @@
       "url": "https://news.web.nhk/newsweb/na/nd-20260913de49934",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T00:25:21+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -203,7 +256,7 @@
       "url": "https://note.com/takahiroanno/n/n4accbde18d56",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-12T22:49:40+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -224,5 +277,5 @@
       "summary": "2026年8月、シリコンバレーとサンフランシスコで15人のAI関係者に話を聞いてきた。最先端AIをつくっている企業フロンティアラボの研究者、政策担当者、投資家、大学研究者などにインタビューを実施し、今のAI開発競争を現地の人たちがどう捉えているのか探った。 現地では、街中いたるところにAIの広告が貼られていた。C..."
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “AI Agent時代のリアーキテクチャ戦略と実践” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=18.36."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 4.9 - Bonin Islands, Japan region” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=23.0."
 }
