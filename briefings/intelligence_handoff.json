@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-13T21:22:37Z",
+  "generated_at": "2026-09-13T21:36:24Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 4.9 - Bonin Islands, Japan region” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=23.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th3a",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T04:08:55.040+00:00",
-      "age_days": 0.72,
+      "age_days": 0.73,
       "topics": [
         "disaster"
       ],
@@ -40,7 +40,7 @@
       "url": "https://zenn.dev/hampen2929/books/claude-code-production-guide",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T17:38:29+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -67,7 +67,7 @@
       "url": "https://note.com/yuiseki/n/nabf4625e58bc",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 13.11,
+      "age_days": 13.12,
       "topics": [
         "general"
       ],
@@ -87,11 +87,36 @@
       "summary": ""
     },
     {
+      "title": "iPhone Duo、中国ですでに100万人超が予約？初期割当20万台との情報も - iPhone Mania",
+      "url": "https://iphone-mania.jp/iphone18-605912/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-13T20:55:37+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "high terms: 10"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 4.7 - 60 km W of Cafayate, Argentina",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th7y",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T20:22:09.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -116,7 +141,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th65",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T13:01:07.040+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "disaster"
       ],
@@ -141,7 +166,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th7y",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T20:31:28+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
@@ -165,7 +190,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th65",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T13:07:27+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "general"
       ],
@@ -189,7 +214,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th81",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T20:01:16.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -214,7 +239,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th81",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T20:06:27+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -238,7 +263,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th50",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T07:49:09+00:00",
-      "age_days": 0.56,
+      "age_days": 0.57,
       "topics": [
         "general"
       ],
@@ -262,7 +287,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th4y",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T07:41:15+00:00",
-      "age_days": 0.57,
+      "age_days": 0.58,
       "topics": [
         "general"
       ],
@@ -278,31 +303,6 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "iPhone Duo、中国ですでに100万人超が予約？初期割当20万台との情報も - iPhone Mania",
-      "url": "https://iphone-mania.jp/iphone18-605912/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-13T20:55:37+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 16.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2",
-        "high terms: 10"
       ],
       "summary": ""
     }
