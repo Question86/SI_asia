@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-13T04:32:22Z_
+_Generated: 2026-09-13T04:48:54Z_
 
 ## Lageurteil
 
@@ -12,47 +12,57 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - Bonin Islands, Japan region” �
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-13T04:08:55.040+00:00` / age_days `0.02`
+- Published: `2026-09-13T04:08:55.040+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000th3a
 
-### M 4.9 - Bonin Islands, Japan region
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `19.59`
-- Published: `2026-06-19T20:12:42+00:00` / age_days `85.35`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, baseline z_hint 2.90, aging penalty -8.0 for 85.3d old signal
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000th3a
-
 ### AI Agent時代のリアーキテクチャ戦略と実践
 
 - Band: `watch` (raw `watch`)
-- Dynamics score: `17.88`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `86.11`
+- Dynamics score: `16.93`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `86.12`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +3, baseline z_hint 6.26, single-source AI hype brake -8.0, aging penalty -8.0 for 86.1d old signal, single-source AI cap enforced after phrase recheck
+- Warum: momentum delta +3, baseline z_hint 5.39, single-source AI hype brake -8.0, aging penalty -8.0 for 86.1d old signal, single-source AI cap enforced after phrase recheck
 - Quelle: https://speakerdeck.com/hokaccha/ai-agent-jidai-no-senryaku-to-jissen
+
+### M 4.9 - Bonin Islands, Japan region
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `14.5`
+- Published: `2026-06-19T20:12:42+00:00` / age_days `85.36`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3, aging penalty -8.0 for 85.4d old signal
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000th3a
 
 ### AI Agent時代のリアーキテクチャ戦略と実践
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-09-12T08:17:26+00:00` / age_days `0.84`
+- Published: `2026-09-12T08:17:26+00:00` / age_days `0.86`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://speakerdeck.com/hokaccha/ai-agent-jidai-no-senryaku-to-jissen
 
+### AI の投資収益率 (ROI) を算出する | Amazon Web Services
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `7.5`
+- Published: `2026-09-13T04:45:41+00:00` / age_days `0.0`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: momentum delta +1, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://aws.amazon.com/jp/blogs/news/calculating-the-roi-of-ai/
+
 ### アンソロピックCEO「AIが1年内ネット乗っ取り恐れ」 開発減速訴え - 日本経済新聞
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `7.0`
-- Published: `2026-09-13T00:11:29+00:00` / age_days `0.18`
+- Published: `2026-09-13T00:11:29+00:00` / age_days `0.19`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -62,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - Bonin Islands, Japan region” �
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `6.0`
-- Published: `2026-09-13T01:55:34+00:00` / age_days `0.11`
+- Published: `2026-09-13T01:55:34+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -72,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - Bonin Islands, Japan region” �
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `6.0`
-- Published: `2026-08-31T18:43:10+00:00` / age_days `12.41`
+- Published: `2026-08-31T18:43:10+00:00` / age_days `12.42`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -82,17 +92,27 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - Bonin Islands, Japan region” �
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `3.0`
-- Published: `2026-06-19T02:10:07+00:00` / age_days `86.1`
+- Published: `2026-06-19T02:10:07+00:00` / age_days `86.11`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, aging penalty -8.0 for 86.1d old signal, single-source AI cap enforced after phrase recheck
 - Quelle: https://www.nikkei.com/article/DGXZQOGN122UY0S6A910C2000000/
 
+### AI の投資収益率 (ROI) を算出する | Amazon Web Services
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `1.0`
+- Published: `2026-09-12T13:12:01+00:00` / age_days `0.65`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://aws.amazon.com/jp/blogs/news/calculating-the-roi-of-ai/
+
 ### 米アンソロピックCEO“AI開発ペース減速させる必要” | NHKニュース
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-09-13T00:25:21+00:00` / age_days `0.17`
+- Published: `2026-09-13T00:25:21+00:00` / age_days `0.18`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -102,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - Bonin Islands, Japan region” �
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-09-12T22:49:40+00:00` / age_days `0.24`
+- Published: `2026-09-12T22:49:40+00:00` / age_days `0.25`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
