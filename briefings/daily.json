@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T07:41:15+00:00",
-  "today_file_total": 10,
+  "generated_at": "2026-09-13T07:49:09+00:00",
+  "today_file_total": 11,
   "current_clusters": [
     {
       "key": "domain:speakerdeck.com",
@@ -51,8 +51,8 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "earthquake:m 5.2 - 43 km ese of port-olry, vanuatu:5.2",
-      "title": "M 5.2 - 43 km ESE of Port-Olry, Vanuatu",
+      "key": "earthquake:m 5.0 - southeast of the loyalty islands:5.0",
+      "title": "M 5.0 - southeast of the Loyalty Islands",
       "sources": [
         "USGS M4.5+ Earthquakes Past Hour"
       ],
@@ -60,7 +60,7 @@
         "tier1_official"
       ],
       "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th4y"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th50"
       ],
       "finding_count": 1,
       "max_score": 9,
@@ -120,6 +120,31 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "earthquake:m 5.2 - 43 km ese of port-olry, vanuatu:5.2",
+      "title": "M 5.2 - 43 km ESE of Port-Olry, Vanuatu",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th4y"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 11.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "domain:aws.amazon.com",

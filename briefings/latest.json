@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T07:41:11+00:00",
-  "run_id": "2026-09-13T07:41:11+00:00",
+  "generated_at": "2026-09-13T07:49:07+00:00",
+  "run_id": "2026-09-13T07:49:07+00:00",
   "date": "2026-09-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 10
+      "configured_public_sources_only": 11
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 10,
-    "displayed_findings": 10,
+    "today_file_total": 11,
+    "displayed_findings": 11,
     "high": 0,
     "medium": 2,
-    "observe": 8,
+    "observe": 9,
     "source_errors": 0
   },
   "sections": {
@@ -135,6 +135,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "a051ea7912231befc247"
+      },
+      {
+        "title": "M 5.0 - southeast of the Loyalty Islands",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th50",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-09-13T07:45:30.040+00:00",
+        "fetched_at": "2026-09-13T07:48:37+00:00",
+        "summary": "Time 2026-09-13 07:30:23 UTC 2026-09-13 07:30:23 UTC at epicenter Location 22.228°S 171.354°E Depth 98.81 km (61.40 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "ae5f8b7c98ac80f2606f"
       },
       {
         "title": "M 5.2 - 43 km ESE of Port-Olry, Vanuatu",
@@ -387,6 +423,42 @@
       "id": "a051ea7912231befc247"
     },
     {
+      "title": "M 5.0 - southeast of the Loyalty Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th50",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-13T07:45:30.040+00:00",
+      "fetched_at": "2026-09-13T07:48:37+00:00",
+      "summary": "Time 2026-09-13 07:30:23 UTC 2026-09-13 07:30:23 UTC at epicenter Location 22.228°S 171.354°E Depth 98.81 km (61.40 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "ae5f8b7c98ac80f2606f"
+    },
+    {
       "title": "M 5.2 - 43 km ESE of Port-Olry, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th4y",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -531,13 +603,13 @@
   ],
   "new_findings": [
     {
-      "title": "M 5.2 - 43 km ESE of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th4y",
+      "title": "M 5.0 - southeast of the Loyalty Islands",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th50",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-09-13T07:36:40.040+00:00",
-      "fetched_at": "2026-09-13T07:40:41+00:00",
-      "summary": "Time 2026-09-13 07:19:21 UTC 2026-09-13 07:19:21 UTC at epicenter Location 15.220°S 167.436°E Depth 135.08 km (83.94 mi)",
+      "published_at": "2026-09-13T07:45:30.040+00:00",
+      "fetched_at": "2026-09-13T07:48:37+00:00",
+      "summary": "Time 2026-09-13 07:30:23 UTC 2026-09-13 07:30:23 UTC at epicenter Location 22.228°S 171.354°E Depth 98.81 km (61.40 mi)",
       "matched_keywords": [
         "Climate/Disaster Infrastructure",
         "Watchgraph:earthquakes_tsunami"
@@ -564,7 +636,7 @@
         "HD",
         "LOW"
       ],
-      "id": "3a1d22830dc6440d9cf8"
+      "id": "ae5f8b7c98ac80f2606f"
     }
   ],
   "source_errors": [],
