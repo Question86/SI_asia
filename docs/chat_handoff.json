@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-13T04:35:15+00:00",
+  "generated_at": "2026-09-13T04:45:37+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 5,
-    "displayed_findings": 5,
+    "new_relevant_findings": 1,
+    "today_file_total": 6,
+    "displayed_findings": 6,
     "high": 0,
     "medium": 2,
-    "observe": 3
+    "observe": 4
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -42,6 +42,16 @@
       "relevance_score": 10,
       "url": "https://www.nikkei.com/article/DGXZQOGN122UY0S6A910C2000000/",
       "summary": "【シリコンバレー=伴正春】米アンソロピックのダリオ・アモデイ最高経営責任者（CEO）は12日、人工知能（AI）業界が協調して最先端のAI開発を減速すべきだと呼びかけた。AIによる「暴走事故」が起きるなど脅威が高まっており、対応を誤れば半年から1年以内にネット全体が乗っ取られる恐れもあると警告した。競合で米オー...",
+      "section": "observe"
+    },
+    {
+      "title": "AI の投資収益率 (ROI) を算出する | Amazon Web Services",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-12T13:12:01+00:00",
+      "relevance_score": 9,
+      "url": "https://aws.amazon.com/jp/blogs/news/calculating-the-roi-of-ai/",
+      "summary": "Amazon Web Services ブログ AI の投資収益率 (ROI) を算出する 人工知能 (AI) に投資した 1 ドルごとに 2 ドルのリターンが得られるのであれば、コストの増加は非効率ではなく、プラスの投資収益率 (ROI) を示すことになります。しかし、AI 支出とビジネス価値の関係を明らかにすることは複雑で難しく、取り組みを拡大...",
       "section": "observe"
     },
     {
