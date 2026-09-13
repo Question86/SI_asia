@@ -438,6 +438,27 @@
     "id": "1f67298d37fcbdddbb47"
   },
   {
+    "title": "テーブルの created at にサービスのドメインロジックを持たせない - めもるが",
+    "url": "https://scrapbox.io/uvb-76/%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E3%81%AE_created_at_%E3%81%AB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%AD%E3%82%B8%E3%83%83%E3%82%AF%E3%82%92%E6%8C%81%E3%81%9F%E3%81%9B%E3%81%AA%E3%81%84",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-09-13T15:32:14+00:00",
+    "fetched_at": "2026-09-13T21:19:21+00:00",
+    "summary": "前提 ActiveRecord の仕組みを用いて db migration を行っている。 主張 ActiveRecordでDBのマイグレーションファイルを作ると t.timestamps がデフォルトで指定されている。これをmigrateするとタイムスタンプとして created_at updated_at がカラムについてくる。 これらのカラムはレコードを作成した際や更新を行った...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a3a51a2fed6e5ee86bd4"
+  },
+  {
     "title": "id:aox に名指しされたので",
     "url": "https://anond.hatelabo.jp/20260913224426",
     "source": "Hatena Bookmark Hotentry IT",
