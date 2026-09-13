@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-13T13:39:19+00:00_
+_Generiert: 2026-09-13T13:47:14+00:00_
 
 ## Kurzlage
 
@@ -45,8 +45,6 @@ _Generiert: 2026-09-13T13:39:19+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.9M, Depth:111.763km) in Indonesia 11/09/2026 11:56 UTC, 10 thousand in MMI IV.
-
-- Sensor-Hinweis: USGS failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 ## Wirtschaft global
 
