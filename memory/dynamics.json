@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-13T23:35:44Z",
+  "generated_at": "2026-09-13T23:49:11Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "strong": 6,
-      "watch": 22,
-      "quiet": 12
+      "watch": 24,
+      "quiet": 10
     },
     "bands_after_gate_recheck": {
       "strong": 6,
-      "watch": 22,
-      "quiet": 12
+      "watch": 24,
+      "quiet": 10
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://kaz-ataka.hatenablog.com/entry/2026/09/13/175045",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T22:47:33+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "macro"
       ],
@@ -46,7 +46,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th8u",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T22:54:35.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -71,7 +71,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th3a",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T04:08:55.040+00:00",
-      "age_days": 0.81,
+      "age_days": 0.82,
       "topics": [
         "disaster"
       ],
@@ -96,7 +96,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th8u",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-04T16:56:25+00:00",
-      "age_days": 9.28,
+      "age_days": 9.29,
       "topics": [
         "general"
       ],
@@ -120,7 +120,7 @@
       "url": "https://zenn.dev/hampen2929/books/claude-code-production-guide",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T17:38:29+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -147,7 +147,7 @@
       "url": "https://note.com/yuiseki/n/nabf4625e58bc",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 13.2,
+      "age_days": 13.21,
       "topics": [
         "general"
       ],
@@ -171,7 +171,7 @@
       "url": "https://iphone-mania.jp/iphone18-605912/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T20:55:37+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -196,7 +196,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th7y",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T20:22:09.040+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -221,7 +221,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th65",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T13:01:07.040+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "disaster"
       ],
@@ -246,7 +246,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th7y",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T20:31:28+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -270,7 +270,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th65",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T13:07:27+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "general"
       ],
@@ -290,11 +290,37 @@
       "summary": ""
     },
     {
+      "title": "AIが書いた日本語に頻出する単語を指摘するtextlintプリセットを作った - ぷらすのブログ",
+      "url": "https://blog.p1ass.com/posts/textlint-rule-preset-ai-words-ja/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-13T23:45:37+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 4.9 - 86 km SSW of Isangel, Vanuatu",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th81",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T20:01:16.040+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -343,7 +369,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th50",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T07:49:09+00:00",
-      "age_days": 0.66,
+      "age_days": 0.67,
       "topics": [
         "general"
       ],
@@ -367,7 +393,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th4y",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T07:41:15+00:00",
-      "age_days": 0.66,
+      "age_days": 0.67,
       "topics": [
         "general"
       ],
@@ -391,7 +417,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th3a",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-06-19T20:12:42+00:00",
-      "age_days": 86.14,
+      "age_days": 86.15,
       "topics": [
         "general"
       ],
@@ -407,7 +433,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 86.1d old signal"
+        "aging penalty -8.0 for 86.2d old signal"
       ],
       "summary": ""
     },
@@ -416,7 +442,7 @@
       "url": "https://www.publickey1.jp/blog/26/rustcctstier_1.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T20:22:12+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -440,7 +466,7 @@
       "url": "https://scrapbox.io/uvb-76/%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E3%81%AE_created_at_%E3%81%AB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%AD%E3%82%B8%E3%83%83%E3%82%AF%E3%82%92%E6%8C%81%E3%81%9F%E3%81%9B%E3%81%AA%E3%81%84",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T21:19:55+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -464,7 +490,7 @@
       "url": "https://anond.hatelabo.jp/20260913224426",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T16:40:12+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -488,7 +514,7 @@
       "url": "https://togetter.com/li/2744946",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-04T10:58:35+00:00",
-      "age_days": 9.53,
+      "age_days": 9.54,
       "topics": [
         "general"
       ],
@@ -512,7 +538,7 @@
       "url": "https://iphone-mania.jp/iphone18-605873/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T09:47:54+00:00",
-      "age_days": 0.57,
+      "age_days": 0.58,
       "topics": [
         "general"
       ],
@@ -536,7 +562,7 @@
       "url": "https://www.itmedia.co.jp/pcuser/articles/2609/13/news009.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T06:58:03+00:00",
-      "age_days": 0.69,
+      "age_days": 0.7,
       "topics": [
         "general"
       ],
@@ -560,7 +586,7 @@
       "url": "https://github.com/Flowseal/zapret-discord-youtube",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-13T05:55:20+00:00",
-      "age_days": 0.74,
+      "age_days": 0.75,
       "topics": [
         "general"
       ],
@@ -584,7 +610,7 @@
       "url": "https://zenn.dev/hampen2929/books/claude-code-production-guide",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-12T14:11:07+00:00",
-      "age_days": 1.39,
+      "age_days": 1.4,
       "topics": [
         "ai"
       ],
@@ -610,7 +636,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th8v",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T23:00:12.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "disaster"
@@ -638,7 +664,7 @@
       "url": "https://www.itmedia.co.jp/pcuser/articles/2609/13/news009.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T03:35:37+00:00",
-      "age_days": 0.83,
+      "age_days": 0.84,
       "topics": [],
       "dynamics_score": 13.0,
       "raw_band": "watch",
@@ -657,11 +683,37 @@
       "summary": "ノートPCやスマートフォンのインタフェースとしてすっかり定着したUSB Type-Cだが、実はケーブルを挿しても認識されないといった、物理的な破損トラブルが少なくない。 特にノートPCは充電端子を兼ねるポートである場合が多く、USB Type-Cポートの故障によって仕事が止まってしまうときもある。さらに、いざ修理対応とな..."
     },
     {
+      "title": "M 4.6 - 113 km NE of Hengchun, Taiwan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th8v",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-13T23:05:13+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 12.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 5.0 - southeast of the Loyalty Islands",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th50",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T07:45:30.040+00:00",
-      "age_days": 0.66,
+      "age_days": 0.67,
       "topics": [
         "disaster"
       ],
@@ -685,7 +737,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th4y",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T07:36:40.040+00:00",
-      "age_days": 0.67,
+      "age_days": 0.68,
       "topics": [
         "disaster"
       ],
@@ -709,7 +761,7 @@
       "url": "https://speakerdeck.com/hokaccha/ai-agent-jidai-no-senryaku-to-jissen",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 86.9,
+      "age_days": 86.91,
       "topics": [
         "ai"
       ],
@@ -736,7 +788,7 @@
       "url": "https://github.com/jihe520/MathModelAgent",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-13T05:55:20+00:00",
-      "age_days": 0.74,
+      "age_days": 0.75,
       "topics": [
         "ai"
       ],
@@ -758,37 +810,11 @@
       "summary": ""
     },
     {
-      "title": "M 4.6 - 113 km NE of Hengchun, Taiwan",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th8v",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-13T23:05:13+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 10.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +2",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "AI の投資収益率 (ROI) を算出する | Amazon Web Services",
       "url": "https://aws.amazon.com/jp/blogs/news/calculating-the-roi-of-ai/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T04:45:41+00:00",
-      "age_days": 0.78,
+      "age_days": 0.79,
       "topics": [
         "ai"
       ],
@@ -814,7 +840,7 @@
       "url": "https://speakerdeck.com/hokaccha/ai-agent-jidai-no-senryaku-to-jissen",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-12T08:17:26+00:00",
-      "age_days": 1.64,
+      "age_days": 1.65,
       "topics": [
         "ai"
       ],
@@ -835,11 +861,37 @@
       "summary": "巨大なモノリシック Rails アプリケーションの マイクロサービス化戦略 / 2019 microservices in cookpad"
     },
     {
+      "title": "AIが書いた日本語に頻出する単語を指摘するtextlintプリセットを作った - ぷらすのブログ",
+      "url": "https://blog.p1ass.com/posts/textlint-rule-preset-ai-words-ja/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-13T13:01:15+00:00",
+      "age_days": 0.45,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: code",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "目次AI に書かせた文章で試すtextlint のプリセットを作った背景使い方Claude Code の hooks でチェックする一部の単語を検出から除外したい場合辞書をカスタマイズしたい場合文章の一部分だけ指摘を無効にしたい場合検出の仕組み活用形をまとめて判定する辞書の作り方おわりにこんにちは、ぷらす(@p1ass)です。 AI が書..."
+    },
+    {
       "title": "iPhone Duo、中国ですでに100万人超が予約？初期割当20万台との情報も - iPhone Mania",
       "url": "https://iphone-mania.jp/iphone18-605912/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T16:53:12+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -863,7 +915,7 @@
       "url": "https://scrapbox.io/uvb-76/%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E3%81%AE_created_at_%E3%81%AB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%AD%E3%82%B8%E3%83%83%E3%82%AF%E3%82%92%E6%8C%81%E3%81%9F%E3%81%9B%E3%81%AA%E3%81%84",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T15:32:14+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "macro"
       ],
@@ -913,7 +965,7 @@
       "url": "https://togetter.com/li/2745057",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-11T16:50:04+00:00",
-      "age_days": 2.28,
+      "age_days": 2.29,
       "topics": [
         "ai"
       ],
@@ -939,7 +991,7 @@
       "url": "https://kaz-ataka.hatenablog.com/entry/2026/09/13/175045",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T12:03:56+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "ai",
         "macro"
@@ -959,59 +1011,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "1.4/50 Summilux, Leica M (typ240), RAW Wakayama-castle, Japan (2017) 先日、ナビエ・ストークス方程式をめぐる数学の超難問について、OpenAIが解決したとする発表を行った。9月8日のことだ。 使われたのは、GPT-6 Astraを大きく上回るという開発中の内部モデルと、それを動かす約1万のAIエージェントだ。Navier–Stok..."
-    },
-    {
-      "title": "アンソロピックCEO「AIが1年内ネット乗っ取り恐れ」 開発減速訴え - 日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOGN122UY0S6A910C2000000/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-13T00:11:29+00:00",
-      "age_days": 0.98,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 7.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "【シリコンバレー=伴正春】米アンソロピックのダリオ・アモデイ最高経営責任者（CEO）は12日、人工知能（AI）業界が協調して最先端のAI開発を減速すべきだと呼びかけた。AIによる「暴走事故」が起きるなど脅威が高まっており、対応を誤れば半年から1年以内にネット全体が乗っ取られる恐れもあると警告した。競合で米オー..."
-    },
-    {
-      "title": "jihe520/MathModelAgent",
-      "url": "https://github.com/jihe520/MathModelAgent",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-09-13T05:54:46+00:00",
-      "age_days": 0.74,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 7.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: code",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission. https://mathmodel.top/home 🤖 MathModelAgent 📐 专为数学建模设计的 Agent 自动完成数学建模，生成一份完整的可以直接提交的论文。 简体中文 | English ⬇️ 下载最新桌面版（推荐） 🎨 姊妹项目： sci-box…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “自ら、問いに向かい合うことの有難さについて - ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0."
