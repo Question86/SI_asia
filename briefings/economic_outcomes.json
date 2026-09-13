@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-13T07:41:38+00:00",
+  "generated_at": "2026-09-13T07:49:33+00:00",
   "events": [
     {
       "event_id": "evt_0177d8625bc83d6c8e11",
@@ -617,6 +617,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_1d1729a9b41d908ddabc",
+      "title": "M 5.0 - southeast of the Loyalty Islands",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_1d4630ba8bb4127ec817",
@@ -1908,12 +1919,12 @@
     {
       "event_id": "evt_565fa94fee1fba8eaabd",
       "title": "M 5.2 - 43 km ESE of Port-Olry, Vanuatu",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
