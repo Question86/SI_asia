@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-13T04:46:04+00:00",
+  "generated_at": "2026-09-13T04:53:28+00:00",
   "candidate_count": 554,
   "candidates": [
     {
@@ -7351,22 +7351,25 @@
       "source_url": "https://speakerdeck.com/uhyo/react-no-sekkeiron"
     },
     {
-      "candidate_id": "cand_c3cc03edfe4ff52defc2",
-      "event_id": "evt_a9168860075ad99c5a0d",
-      "source_url": "https://speakerdeck.com/hokaccha/ai-agent-jidai-no-senryaku-to-jissen",
-      "observed_at": "2026-09-13T04:46:01+00:00",
-      "currency": "USD",
       "amount_native": 708000.0,
       "amount_usd": 708000.0,
-      "conversion_status": "not_required",
-      "component_suggestion": "unknown",
-      "overlap_group_suggestion": "evt_a9168860075ad99c5a0d:unclassified",
       "attribution_probability": null,
-      "snippet": "rfNow 2025] tammyeverts 3 870 Digital Projects Gone Horribly Wrong (And the UX Pros Who Still Save the Day) - Dean Schuster uxyall 1 2.8k Data-driven link building: lessons from a $708K investment (BrightonSEO talk) szymonslowik 1 1.3k The Language of Interfaces destraynor 162 27k Agile Leadership in an Agile Organization kimpetersen PRO 0 230 Organizational Desi",
-      "extraction_method": "regex_context_v1",
-      "source_priority": "secondary_or_unknown",
       "candidate_confidence": 0.55,
-      "review_status": "pending"
+      "candidate_id": "cand_c3cc03edfe4ff52defc2",
+      "component_confidence": 0.55,
+      "component_suggestion": "capital_allocation",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_a9168860075ad99c5a0d",
+      "extraction_method": "regex_context_v1",
+      "fx_as_of": null,
+      "fx_rate_to_usd": 1.0,
+      "observed_at": "2026-09-13T04:46:01+00:00",
+      "overlap_group_suggestion": "evt_a9168860075ad99c5a0d:capital_allocation:6251b5aa19cd",
+      "review_status": "pending",
+      "snippet": "rfNow 2025] tammyeverts 3 870 Digital Projects Gone Horribly Wrong (And the UX Pros Who Still Save the Day) - Dean Schuster uxyall 1 2.8k Data-driven link building: lessons from a $708K investment (BrightonSEO talk) szymonslowik 1 1.3k The Language of Interfaces destraynor 162 27k Agile Leadership in an Agile Organization kimpetersen PRO 0 230 Organizational Desi",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://speakerdeck.com/hokaccha/ai-agent-jidai-no-senryaku-to-jissen"
     },
     {
       "amount_native": 5000.0,
