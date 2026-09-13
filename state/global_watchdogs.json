@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T07:56:59+00:00",
+  "generated_at": "2026-09-13T08:35:29+00:00",
   "sections": {
     "global_security": [
       {
@@ -61,41 +61,12 @@
         "metrics": {
           "cve": "CVE-2026-86060"
         }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "GDACS: Green earthquake (Magnitude 6.5M, Depth:372km) in Indonesia 11/09/2026 21:23 UTC, 20 thousand in 100km.",
-        "summary": "Green earthquake (Magnitude 6.5M, Depth:372km) in Indonesia 11/09/2026 21:23 UTC, 20 thousand in 100km.",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1564809",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "GDACS: Green flood alert in Slovenia",
-        "summary": "Green flood alert in Slovenia",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104152",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "medium",
-        "title": "GDACS: Green earthquake (Magnitude 5.9M, Depth:111.763km) in Indonesia 11/09/2026 11:56 UTC, 10 thousand in MMI IV.",
-        "summary": "Green earthquake (Magnitude 5.9M, Depth:111.763km) in Indonesia 11/09/2026 11:56 UTC, 10 thousand in MMI IV.",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1564759",
-        "published_at": "",
-        "metrics": {}
       }
     ],
     "global_economy": []
   },
   "source_errors": [
+    "GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7fa33ae20d50>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))",
     "Yahoo finance failed: 401 Client Error: Unauthorized for url: https://query1.finance.yahoo.com/v7/finance/quote?symbols=BTC-USD,ETH-USD,GC%3DF,SI%3DF,GLD,SLV,SPY,QQQ,%5EGSPC,%5EIXIC,%5EDJI,%5EVIX,DX-Y.NYB,CL%3DF,COIN,MSTR,IBIT"
   ]
 }
