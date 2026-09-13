@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T01:04:40+00:00",
-  "run_id": "2026-09-13T01:04:40+00:00",
+  "generated_at": "2026-09-13T01:35:54+00:00",
+  "run_id": "2026-09-13T01:35:54+00:00",
   "date": "2026-09-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 1
+      "configured_public_sources_only": 2
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 1,
-    "displayed_findings": 1,
+    "today_file_total": 2,
+    "displayed_findings": 2,
     "high": 0,
     "medium": 1,
-    "observe": 0,
+    "observe": 1,
     "source_errors": 0
   },
   "sections": {
@@ -54,7 +54,29 @@
         "id": "29f69fd5d8ed2f0703ef"
       }
     ],
-    "observe": []
+    "observe": [
+      {
+        "title": "「AI研究者としての自分の賞味期限はあと１年」——AGI競争も終盤戦の様相を呈すシリコンバレーでは何が語られていたか｜安野貴博",
+        "url": "https://note.com/takahiroanno/n/n4accbde18d56",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-12T22:49:40+00:00",
+        "fetched_at": "2026-09-13T01:35:23+00:00",
+        "summary": "2026年8月、シリコンバレーとサンフランシスコで15人のAI関係者に話を聞いてきた。最先端AIをつくっている企業フロンティアラボの研究者、政策担当者、投資家、大学研究者などにインタビューを実施し、今のAI開発競争を現地の人たちがどう捉えているのか探った。 現地では、街中いたるところにAIの広告が貼られていた。C...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e8a5dedbb065f87f3bcf"
+      }
+    ]
   },
   "findings": [
     {
@@ -80,32 +102,50 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "29f69fd5d8ed2f0703ef"
-    }
-  ],
-  "new_findings": [
+    },
     {
-      "title": "AI Agent時代のリアーキテクチャ戦略と実践",
-      "url": "https://speakerdeck.com/hokaccha/ai-agent-jidai-no-senryaku-to-jissen",
+      "title": "「AI研究者としての自分の賞味期限はあと１年」——AGI競争も終盤戦の様相を呈すシリコンバレーでは何が語られていたか｜安野貴博",
+      "url": "https://note.com/takahiroanno/n/n4accbde18d56",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-12T08:17:26+00:00",
-      "fetched_at": "2026-09-13T01:04:09+00:00",
-      "summary": "巨大なモノリシック Rails アプリケーションの マイクロサービス化戦略 / 2019 microservices in cookpad",
+      "published_at": "2026-09-12T22:49:40+00:00",
+      "fetched_at": "2026-09-13T01:35:23+00:00",
+      "summary": "2026年8月、シリコンバレーとサンフランシスコで15人のAI関係者に話を聞いてきた。最先端AIをつくっている企業フロンティアラボの研究者、政策担当者、投資家、大学研究者などにインタビューを実施し、今のAI開発競争を現地の人たちがどう捉えているのか探った。 現地では、街中いたるところにAIの広告が貼られていた。C...",
       "matched_keywords": [
-        "agent",
-        "AI Agents",
-        "AI/KI",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 18,
-      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "29f69fd5d8ed2f0703ef"
+      "id": "e8a5dedbb065f87f3bcf"
+    }
+  ],
+  "new_findings": [
+    {
+      "title": "「AI研究者としての自分の賞味期限はあと１年」——AGI競争も終盤戦の様相を呈すシリコンバレーでは何が語られていたか｜安野貴博",
+      "url": "https://note.com/takahiroanno/n/n4accbde18d56",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-12T22:49:40+00:00",
+      "fetched_at": "2026-09-13T01:35:23+00:00",
+      "summary": "2026年8月、シリコンバレーとサンフランシスコで15人のAI関係者に話を聞いてきた。最先端AIをつくっている企業フロンティアラボの研究者、政策担当者、投資家、大学研究者などにインタビューを実施し、今のAI開発競争を現地の人たちがどう捉えているのか探った。 現地では、街中いたるところにAIの広告が貼られていた。C...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e8a5dedbb065f87f3bcf"
     }
   ],
   "source_errors": [],
