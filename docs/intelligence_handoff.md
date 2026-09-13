@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-13T19:20:43Z_
+_Generated: 2026-09-13T19:36:13Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - Bonin Islands, Japan region” �
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-13T04:08:55.040+00:00` / age_days `0.63`
+- Published: `2026-09-13T04:08:55.040+00:00` / age_days `0.64`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - Bonin Islands, Japan region” �
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.0`
-- Published: `2026-09-13T17:38:29+00:00` / age_days `0.07`
+- Published: `2026-09-13T17:38:29+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - Bonin Islands, Japan region” �
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-08-31T18:43:10+00:00` / age_days `13.03`
+- Published: `2026-08-31T18:43:10+00:00` / age_days `13.04`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - Bonin Islands, Japan region” �
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-09-13T13:01:07.040+00:00` / age_days `0.26`
+- Published: `2026-09-13T13:01:07.040+00:00` / age_days `0.27`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - Bonin Islands, Japan region” �
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.5`
-- Published: `2026-09-13T13:07:27+00:00` / age_days `0.26`
+- Published: `2026-09-13T13:07:27+00:00` / age_days `0.27`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - Bonin Islands, Japan region” �
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.5`
-- Published: `2026-09-13T07:49:09+00:00` / age_days `0.48`
+- Published: `2026-09-13T07:49:09+00:00` / age_days `0.49`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - Bonin Islands, Japan region” �
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.5`
-- Published: `2026-09-13T07:41:15+00:00` / age_days `0.49`
+- Published: `2026-09-13T07:41:15+00:00` / age_days `0.5`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - Bonin Islands, Japan region” �
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.5`
-- Published: `2026-06-19T20:12:42+00:00` / age_days `85.96`
+- Published: `2026-06-19T20:12:42+00:00` / age_days `85.97`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, aging penalty -8.0 for 86.0d old signal
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - Bonin Islands, Japan region” �
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-09-13T16:40:12+00:00` / age_days `0.11`
+- Published: `2026-09-13T16:40:12+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - Bonin Islands, Japan region” �
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-09-04T10:58:35+00:00` / age_days `9.35`
+- Published: `2026-09-04T10:58:35+00:00` / age_days `9.36`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - Bonin Islands, Japan region” �
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-09-13T09:47:54+00:00` / age_days `0.4`
+- Published: `2026-09-13T09:47:54+00:00` / age_days `0.41`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - Bonin Islands, Japan region” �
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-09-13T06:58:03+00:00` / age_days `0.52`
+- Published: `2026-09-13T06:58:03+00:00` / age_days `0.53`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
