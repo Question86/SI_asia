@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-13T00:11:08+00:00",
+  "generated_at": "2026-09-13T01:04:44+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -3432,10 +3432,9 @@
       "z_hint": 0.0
     },
     "domain:speakerdeck.com": {
-      "title": "Webの地図",
-      "updated_at": "2026-09-12T23:54:55+00:00",
+      "title": "AI Agent時代のリアーキテクチャ戦略と実践",
+      "updated_at": "2026-09-13T01:04:44+00:00",
       "network_scores": [
-        7.1,
         7.1,
         7.1,
         7.1,
@@ -3464,12 +3463,13 @@
         9.2,
         9.2,
         9.2,
-        9.2
+        9.2,
+        23.1
       ],
-      "rolling_average": 8.11,
-      "rolling_peak": 12.2,
-      "last_score": 9.2,
-      "z_hint": 1.09
+      "rolling_average": 8.64,
+      "rolling_peak": 23.1,
+      "last_score": 23.1,
+      "z_hint": 14.46
     },
     "title:web-nginx-cvss": {
       "title": "Webサーバー「nginx」に3件の脆弱性、「CVSS 4.0」の基本値は最高で10点満点中「9.2」／v1.30.3/v1.31.2への更新を",
