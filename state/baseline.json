@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-13T11:34:39+00:00",
+  "generated_at": "2026-09-13T11:42:18+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -3433,7 +3433,7 @@
     },
     "domain:speakerdeck.com": {
       "title": "AI Agent時代のリアーキテクチャ戦略と実践",
-      "updated_at": "2026-09-13T11:34:39+00:00",
+      "updated_at": "2026-09-13T11:42:18+00:00",
       "network_scores": [
         20.1,
         20.1,
@@ -3799,7 +3799,7 @@
     },
     "domain:www.nikkei.com": {
       "title": "アンソロピックCEO「AIが1年内ネット乗っ取り恐れ」 開発減速訴え - 日本経済新聞",
-      "updated_at": "2026-09-13T11:34:39+00:00",
+      "updated_at": "2026-09-13T11:42:18+00:00",
       "network_scores": [
         12.1,
         12.1,
@@ -5413,9 +5413,9 @@
     },
     "earthquake:japan:4.9": {
       "title": "M 4.9 - Bonin Islands, Japan region",
-      "updated_at": "2026-09-13T11:34:39+00:00",
+      "updated_at": "2026-09-13T11:42:18+00:00",
       "network_scores": [
-        20.7,
+        17.7,
         17.7,
         17.7,
         17.7,
@@ -5446,10 +5446,10 @@
         17.7,
         17.7
       ],
-      "rolling_average": 17.8,
-      "rolling_peak": 20.7,
+      "rolling_average": 17.7,
+      "rolling_peak": 17.7,
       "last_score": 17.7,
-      "z_hint": -0.1
+      "z_hint": 0.0
     },
     "earthquake:philippines:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:35km) in Philippines 19/06/2026 18:38 UTC, 210 thousand in 100km.",
@@ -10002,9 +10002,8 @@
     },
     "domain:note.com": {
       "title": "私はChatGPTですが、はてブとGyazoという「化石の地層」を掘れるようになって異次元に便利になりました｜ゆいせき",
-      "updated_at": "2026-09-13T11:34:39+00:00",
+      "updated_at": "2026-09-13T11:42:18+00:00",
       "network_scores": [
-        7.1,
         7.1,
         7.1,
         7.1,
@@ -10033,12 +10032,13 @@
         7.1,
         19.2,
         16.2,
+        16.2,
         16.2
       ],
-      "rolling_average": 8.11,
+      "rolling_average": 8.41,
       "rolling_peak": 19.2,
       "last_score": 16.2,
-      "z_hint": 8.09
+      "z_hint": 7.79
     },
     "earthquake:m 4.6 - 112 km ssw of chirilagua, el salvador:4.6": {
       "title": "M 4.6 - 112 km SSW of Chirilagua, El Salvador",
@@ -18098,9 +18098,8 @@
     },
     "domain:x.com": {
       "title": "「人類が至った叡智の結晶にして、夢の超技術、なんと、それをボイラーに！」水が都合の良すぎる物体だったために、人類はまだタービンを回してる",
-      "updated_at": "2026-09-13T11:34:39+00:00",
+      "updated_at": "2026-09-13T11:42:18+00:00",
       "network_scores": [
-        13.1,
         13.1,
         13.1,
         13.1,
@@ -18129,12 +18128,13 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 11.0,
+      "rolling_average": 10.8,
       "rolling_peak": 13.1,
       "last_score": 7.1,
-      "z_hint": -3.9
+      "z_hint": -3.7
     },
     "url:https://www.itmedia.co.jp/news/article/2609/04/2000001199/": {
       "title": "新宿駅に「ごみ箱ロボット」出現 改札内を自動巡回 JR東が実証実験",
@@ -29851,7 +29851,7 @@
     },
     "title:ceo-nhk": {
       "title": "米アンソロピックCEO“AI開発ペース減速させる必要” | NHKニュース",
-      "updated_at": "2026-09-13T11:34:39+00:00",
+      "updated_at": "2026-09-13T11:42:18+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -29891,7 +29891,7 @@
     },
     "domain:aws.amazon.com": {
       "title": "AI の投資収益率 (ROI) を算出する | Amazon Web Services",
-      "updated_at": "2026-09-13T11:34:39+00:00",
+      "updated_at": "2026-09-13T11:42:18+00:00",
       "network_scores": [
         14.1,
         11.1,
@@ -29920,18 +29920,20 @@
         11.1,
         11.1,
         11.1,
+        11.1,
         11.1
       ],
-      "rolling_average": 11.21,
+      "rolling_average": 11.2,
       "rolling_peak": 14.1,
       "last_score": 11.1,
-      "z_hint": -0.11
+      "z_hint": -0.1
     },
     "github_repo:jihe520/mathmodelagent": {
       "title": "jihe520/MathModelAgent",
-      "updated_at": "2026-09-13T11:34:39+00:00",
+      "updated_at": "2026-09-13T11:42:18+00:00",
       "network_scores": [
         15.1,
+        12.1,
         12.1,
         12.1,
         12.1,
@@ -29960,9 +29962,10 @@
     },
     "github_repo:flowseal/zapret-discord-youtube": {
       "title": "Flowseal/zapret-discord-youtube",
-      "updated_at": "2026-09-13T11:34:39+00:00",
+      "updated_at": "2026-09-13T11:42:18+00:00",
       "network_scores": [
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -29991,7 +29994,7 @@
     },
     "title:usb-type-dell-xps": {
       "title": "なぜUSB Type-Cポートは壊れやすい？ Dell XPSを分解して分かった最新PCのトレンド",
-      "updated_at": "2026-09-13T11:34:39+00:00",
+      "updated_at": "2026-09-13T11:42:18+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -30010,16 +30013,43 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.27,
+      "rolling_average": 7.26,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.17
+      "z_hint": -0.16
     },
     "earthquake:m 5.2 - 43 km ese of port-olry, vanuatu:5.2": {
       "title": "M 5.2 - 43 km ESE of Port-Olry, Vanuatu",
-      "updated_at": "2026-09-13T11:34:39+00:00",
+      "updated_at": "2026-09-13T11:42:18+00:00",
+      "network_scores": [
+        14.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7,
+        11.7
+      ],
+      "rolling_average": 11.89,
+      "rolling_peak": 14.7,
+      "last_score": 11.7,
+      "z_hint": -0.19
+    },
+    "earthquake:m 5.0 - southeast of the loyalty islands:5.0": {
+      "title": "M 5.0 - southeast of the Loyalty Islands",
+      "updated_at": "2026-09-13T11:42:18+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -30042,33 +30072,9 @@
       "last_score": 11.7,
       "z_hint": -0.2
     },
-    "earthquake:m 5.0 - southeast of the loyalty islands:5.0": {
-      "title": "M 5.0 - southeast of the Loyalty Islands",
-      "updated_at": "2026-09-13T11:34:39+00:00",
-      "network_scores": [
-        14.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7,
-        11.7
-      ],
-      "rolling_average": 11.91,
-      "rolling_peak": 14.7,
-      "last_score": 11.7,
-      "z_hint": -0.21
-    },
     "title:iphone-duo-700-iphone-iphone-mania": {
       "title": "iPhone Duo、36万円超でも需要絶好調？700万台出荷でiPhoneを牽引か - iPhone Mania",
-      "updated_at": "2026-09-13T11:34:39+00:00",
+      "updated_at": "2026-09-13T11:42:18+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -30079,12 +30085,13 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.4,
+      "rolling_average": 7.37,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.3
+      "z_hint": -0.27
     }
   }
 }
