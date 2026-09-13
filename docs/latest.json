@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T16:40:10+00:00",
-  "run_id": "2026-09-13T16:40:10+00:00",
+  "generated_at": "2026-09-13T16:47:55+00:00",
+  "run_id": "2026-09-13T16:47:55+00:00",
   "date": "2026-09-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 16
+      "configured_public_sources_only": 17
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 16,
-    "displayed_findings": 16,
+    "today_file_total": 17,
+    "displayed_findings": 17,
     "high": 0,
     "medium": 2,
-    "observe": 14,
+    "observe": 15,
     "source_errors": 0
   },
   "sections": {
@@ -413,6 +413,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "e8a5dedbb065f87f3bcf"
+      },
+      {
+        "title": "アクセスログから不正アクセスの兆候を見つける7つの集計(nginx/Apache対応・コピペOK) - Qiita",
+        "url": "https://qiita.com/jiis-sasaki/items/7affa2e2ef22ebf93fa6",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-11T22:52:01+00:00",
+        "fetched_at": "2026-09-13T16:47:26+00:00",
+        "summary": "「うちのサイト、攻撃されていませんか?」と聞かれたとき、答えはたいていサーバのアクセスログの中にあります。ただ生ログを tail で眺めても、1 日数万行の中から異常だけを拾うことはできません。 この記事は、サーバに SSH で入れる Web 担当者・サイト運営者・制作会社向けに、アクセスログを 7 本のコマンドに通し...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "4c914c67de30fc566f9f"
       },
       {
         "title": "Flowseal/zapret-discord-youtube",
@@ -822,6 +843,27 @@
       "id": "e8a5dedbb065f87f3bcf"
     },
     {
+      "title": "アクセスログから不正アクセスの兆候を見つける7つの集計(nginx/Apache対応・コピペOK) - Qiita",
+      "url": "https://qiita.com/jiis-sasaki/items/7affa2e2ef22ebf93fa6",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-11T22:52:01+00:00",
+      "fetched_at": "2026-09-13T16:47:26+00:00",
+      "summary": "「うちのサイト、攻撃されていませんか?」と聞かれたとき、答えはたいていサーバのアクセスログの中にあります。ただ生ログを tail で眺めても、1 日数万行の中から異常だけを拾うことはできません。 この記事は、サーバに SSH で入れる Web 担当者・サイト運営者・制作会社向けに、アクセスログを 7 本のコマンドに通し...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4c914c67de30fc566f9f"
+    },
+    {
       "title": "Flowseal/zapret-discord-youtube",
       "url": "https://github.com/Flowseal/zapret-discord-youtube",
       "source": "GitHub Trending RSS All Languages Daily",
@@ -845,13 +887,13 @@
   ],
   "new_findings": [
     {
-      "title": "id:aox に名指しされたので",
-      "url": "https://anond.hatelabo.jp/20260913224426",
+      "title": "アクセスログから不正アクセスの兆候を見つける7つの集計(nginx/Apache対応・コピペOK) - Qiita",
+      "url": "https://qiita.com/jiis-sasaki/items/7affa2e2ef22ebf93fa6",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-13T13:44:42+00:00",
-      "fetched_at": "2026-09-13T16:39:41+00:00",
-      "summary": "anond:20260912163434 戦争反対と防衛力は両立する id:aox 氏は防衛費の予算が適切であるか等の話であり、元増田の主張のように留保をつけたがるという話ではなく別の議題と認識している。 回答する度に別の議題を用意されても困るので、一旦「戦争反対だからこそ、戦争が起こらないように防衛力を増加させている」は特...",
+      "published_at": "2026-09-11T22:52:01+00:00",
+      "fetched_at": "2026-09-13T16:47:26+00:00",
+      "summary": "「うちのサイト、攻撃されていませんか?」と聞かれたとき、答えはたいていサーバのアクセスログの中にあります。ただ生ログを tail で眺めても、1 日数万行の中から異常だけを拾うことはできません。 この記事は、サーバに SSH で入れる Web 担当者・サイト運営者・制作会社向けに、アクセスログを 7 本のコマンドに通し...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -863,7 +905,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a0a4879d62dba190d189"
+      "id": "4c914c67de30fc566f9f"
     }
   ],
   "source_errors": [],

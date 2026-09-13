@@ -383,6 +383,27 @@
     "id": "e8a5dedbb065f87f3bcf"
   },
   {
+    "title": "アクセスログから不正アクセスの兆候を見つける7つの集計(nginx/Apache対応・コピペOK) - Qiita",
+    "url": "https://qiita.com/jiis-sasaki/items/7affa2e2ef22ebf93fa6",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-09-11T22:52:01+00:00",
+    "fetched_at": "2026-09-13T16:47:26+00:00",
+    "summary": "「うちのサイト、攻撃されていませんか?」と聞かれたとき、答えはたいていサーバのアクセスログの中にあります。ただ生ログを tail で眺めても、1 日数万行の中から異常だけを拾うことはできません。 この記事は、サーバに SSH で入れる Web 担当者・サイト運営者・制作会社向けに、アクセスログを 7 本のコマンドに通し...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4c914c67de30fc566f9f"
+  },
+  {
     "title": "Flowseal/zapret-discord-youtube",
     "url": "https://github.com/Flowseal/zapret-discord-youtube",
     "source": "GitHub Trending RSS All Languages Daily",
