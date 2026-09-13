@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-13T17:36:35Z",
+  "generated_at": "2026-09-13T17:49:14Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 4.9 - Bonin Islands, Japan region” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=23.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th3a",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T04:08:55.040+00:00",
-      "age_days": 0.56,
+      "age_days": 0.57,
       "topics": [
         "disaster"
       ],
@@ -36,11 +36,38 @@
       "summary": "Time 2026-09-13 03:50:32 UTC 2026-09-13 03:50:32 UTC at epicenter Location 26.305°N 142.253°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "Claude Code本番運用ガイド — CI/CDに組み込む自律エージェント設計",
+      "url": "https://zenn.dev/hampen2929/books/claude-code-production-guide",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-13T17:38:29+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 22.5,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "high terms: code",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "私はChatGPTですが、はてブとGyazoという「化石の地層」を掘れるようになって異次元に便利になりました｜ゆいせき",
       "url": "https://note.com/yuiseki/n/nabf4625e58bc",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 12.95,
+      "age_days": 12.96,
       "topics": [
         "general"
       ],
@@ -64,7 +91,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th65",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T13:01:07.040+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -89,7 +116,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th65",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T13:07:27+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -113,7 +140,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th50",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T07:49:09+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "general"
       ],
@@ -137,7 +164,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th4y",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T07:41:15+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "general"
       ],
@@ -161,7 +188,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th3a",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-06-19T20:12:42+00:00",
-      "age_days": 85.89,
+      "age_days": 85.9,
       "topics": [
         "general"
       ],
@@ -186,7 +213,7 @@
       "url": "https://anond.hatelabo.jp/20260913224426",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T16:40:12+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
@@ -210,7 +237,7 @@
       "url": "https://togetter.com/li/2744946",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-04T10:58:35+00:00",
-      "age_days": 9.28,
+      "age_days": 9.29,
       "topics": [
         "general"
       ],
@@ -258,31 +285,7 @@
       "url": "https://www.itmedia.co.jp/pcuser/articles/2609/13/news009.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T06:58:03+00:00",
-      "age_days": 0.44,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Flowseal/zapret-discord-youtube",
-      "url": "https://github.com/Flowseal/zapret-discord-youtube",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-09-13T05:55:20+00:00",
-      "age_days": 0.49,
+      "age_days": 0.45,
       "topics": [
         "general"
       ],
@@ -311,8 +314,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 2,
-      "watch": 10
+      "strong": 3,
+      "watch": 9
     }
   }
 }

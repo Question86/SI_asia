@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-13T17:36:35Z",
+  "generated_at": "2026-09-13T17:49:14Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 33,
+    "dynamics": 35,
     "bands": {
-      "strong": 2,
-      "watch": 13,
+      "strong": 3,
+      "watch": 14,
       "quiet": 18
     },
     "bands_after_gate_recheck": {
-      "strong": 2,
-      "watch": 13,
+      "strong": 3,
+      "watch": 14,
       "quiet": 18
     }
   },
@@ -22,7 +22,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th3a",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T04:08:55.040+00:00",
-      "age_days": 0.56,
+      "age_days": 0.57,
       "topics": [
         "disaster"
       ],
@@ -43,11 +43,38 @@
       "summary": "Time 2026-09-13 03:50:32 UTC 2026-09-13 03:50:32 UTC at epicenter Location 26.305°N 142.253°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "Claude Code本番運用ガイド — CI/CDに組み込む自律エージェント設計",
+      "url": "https://zenn.dev/hampen2929/books/claude-code-production-guide",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-13T17:38:29+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 22.5,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "high terms: code",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "私はChatGPTですが、はてブとGyazoという「化石の地層」を掘れるようになって異次元に便利になりました｜ゆいせき",
       "url": "https://note.com/yuiseki/n/nabf4625e58bc",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 12.95,
+      "age_days": 12.96,
       "topics": [
         "general"
       ],
@@ -71,7 +98,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th65",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T13:01:07.040+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -96,7 +123,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th65",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T13:07:27+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -120,7 +147,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th50",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T07:49:09+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "general"
       ],
@@ -144,7 +171,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th4y",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T07:41:15+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "general"
       ],
@@ -168,7 +195,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th3a",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-06-19T20:12:42+00:00",
-      "age_days": 85.89,
+      "age_days": 85.9,
       "topics": [
         "general"
       ],
@@ -193,7 +220,7 @@
       "url": "https://anond.hatelabo.jp/20260913224426",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T16:40:12+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
@@ -217,7 +244,7 @@
       "url": "https://togetter.com/li/2744946",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-04T10:58:35+00:00",
-      "age_days": 9.28,
+      "age_days": 9.29,
       "topics": [
         "general"
       ],
@@ -265,7 +292,7 @@
       "url": "https://www.itmedia.co.jp/pcuser/articles/2609/13/news009.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T06:58:03+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "general"
       ],
@@ -289,7 +316,7 @@
       "url": "https://github.com/Flowseal/zapret-discord-youtube",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-13T05:55:20+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "general"
       ],
@@ -309,11 +336,37 @@
       "summary": ""
     },
     {
+      "title": "Claude Code本番運用ガイド — CI/CDに組み込む自律エージェント設計",
+      "url": "https://zenn.dev/hampen2929/books/claude-code-production-guide",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-12T14:11:07+00:00",
+      "age_days": 1.15,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: code",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Claude Codeを対話で使いこなせるようになった。次は、それを「毎晩黙って働くチームメンバー」にする番です。本書は、ヘッドレス実行（claude -p）をCI/CDに組み込み、検出→修正→検証→コミットの自律ループを無人で回すための設計書です。本番運用で立ちはだかる4つの壁——暴走・品質・コスト・監査——に対して、ガードレ..."
+    },
+    {
       "title": "なぜUSB Type-Cポートは壊れやすい？ Dell XPSを分解して分かった最新PCのトレンド",
       "url": "https://www.itmedia.co.jp/pcuser/articles/2609/13/news009.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T03:35:37+00:00",
-      "age_days": 0.58,
+      "age_days": 0.59,
       "topics": [],
       "dynamics_score": 13.0,
       "raw_band": "watch",
@@ -336,7 +389,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th50",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T07:45:30.040+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "disaster"
       ],
@@ -360,7 +413,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th4y",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T07:36:40.040+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "disaster"
       ],
@@ -384,7 +437,7 @@
       "url": "https://speakerdeck.com/hokaccha/ai-agent-jidai-no-senryaku-to-jissen",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 86.65,
+      "age_days": 86.66,
       "topics": [
         "ai"
       ],
@@ -411,7 +464,7 @@
       "url": "https://github.com/jihe520/MathModelAgent",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-13T05:55:20+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "ai"
       ],
@@ -463,7 +516,7 @@
       "url": "https://speakerdeck.com/hokaccha/ai-agent-jidai-no-senryaku-to-jissen",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-12T08:17:26+00:00",
-      "age_days": 1.39,
+      "age_days": 1.4,
       "topics": [
         "ai"
       ],
@@ -514,7 +567,7 @@
       "url": "https://github.com/jihe520/MathModelAgent",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-13T05:54:46+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "ai",
         "macro"
@@ -541,7 +594,7 @@
       "url": "https://news.web.nhk/newsweb/na/nd-20260913de49934",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T01:55:34+00:00",
-      "age_days": 0.65,
+      "age_days": 0.66,
       "topics": [
         "ai"
       ],
@@ -567,7 +620,7 @@
       "url": "https://qiita.com/jiis-sasaki/items/7affa2e2ef22ebf93fa6",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 86.65,
+      "age_days": 86.66,
       "topics": [
         "general"
       ],
@@ -592,7 +645,7 @@
       "url": "https://anond.hatelabo.jp/20260913224426",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T13:44:42+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -616,7 +669,7 @@
       "url": "https://togetter.com/li/2744946",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T05:24:43+00:00",
-      "age_days": 0.51,
+      "age_days": 0.52,
       "topics": [
         "general"
       ],
@@ -640,7 +693,7 @@
       "url": "https://iphone-mania.jp/iphone18-605873/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T05:23:07+00:00",
-      "age_days": 0.51,
+      "age_days": 0.52,
       "topics": [
         "general"
       ],
@@ -664,7 +717,7 @@
       "url": "https://note.com/yuiseki/n/nabf4625e58bc",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T09:42:08+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -689,7 +742,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN122UY0S6A910C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T02:10:07+00:00",
-      "age_days": 86.64,
+      "age_days": 86.65,
       "topics": [
         "ai"
       ],
@@ -706,7 +759,7 @@
       "why": [
         "momentum delta +3",
         "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 86.6d old signal",
+        "aging penalty -8.0 for 86.7d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -716,7 +769,7 @@
       "url": "https://aws.amazon.com/jp/blogs/news/calculating-the-roi-of-ai/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-12T13:12:01+00:00",
-      "age_days": 1.18,
+      "age_days": 1.19,
       "topics": [
         "ai"
       ],
@@ -766,7 +819,7 @@
       "url": "https://note.com/takahiroanno/n/n4accbde18d56",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-12T22:49:40+00:00",
-      "age_days": 0.78,
+      "age_days": 0.79,
       "topics": [
         "ai"
       ],
@@ -791,7 +844,7 @@
       "url": "https://qiita.com/jiis-sasaki/items/7affa2e2ef22ebf93fa6",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-11T22:52:01+00:00",
-      "age_days": 1.78,
+      "age_days": 1.79,
       "topics": [
         "ai"
       ],
@@ -816,7 +869,7 @@
       "url": "https://github.com/Flowseal/zapret-discord-youtube",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-13T05:54:46+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "ai"
       ],
