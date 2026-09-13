@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-13T17:27:37+00:00_
+_Generiert: 2026-09-13T17:38:27+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „AI Agent時代のリアーキテクチャ戦略と実践“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
+18 neue relevante Treffer. Stärkstes Signal: „AI Agent時代のリアーキテクチャ戦略と実践“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -69,6 +69,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)
   - Kurz: 巨大なモノリシック Rails アプリケーションの マイクロサービス化戦略 / 2019 microservices in cookpad
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Claude Code本番運用ガイド — CI/CDに組み込む自律エージェント設計** — Score 16, observation — [Quelle](https://zenn.dev/hampen2929/books/claude-code-production-guide)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-12T14:11:07+00:00`, fetched `2026-09-13T17:37:54+00:00`
+  - Treffer: AI Agents, Content-Chance, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+6.2); Content-Chance (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: Claude Codeを対話で使いこなせるようになった。次は、それを「毎晩黙って働くチームメンバー」にする番です。本書は、ヘッドレス実行（claude -p）をCI/CDに組み込み、検出→修正→検証→コミットの自律ループを無人で回すための設計書です。本番運用で立ちはだかる4つの壁——暴走・品質・コスト・監査——に対して、ガードレ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.9 - Bonin Islands, Japan region** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000th3a)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
