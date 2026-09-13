@@ -186,6 +186,42 @@
     "id": "a051ea7912231befc247"
   },
   {
+    "title": "M 4.9 - 86 km SSW of Isangel, Vanuatu",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th81",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-09-13T20:01:16.040+00:00",
+    "fetched_at": "2026-09-13T20:05:51+00:00",
+    "summary": "Time 2026-09-13 19:41:43 UTC 2026-09-13 19:41:43 UTC at epicenter Location 20.201°S 168.834°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "5db978510cdac64bc304"
+  },
+  {
     "title": "M 5.0 - southeast of the Loyalty Islands",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th50",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -278,6 +314,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "fddf940e5c63a62b2b75"
+  },
+  {
+    "title": "重みは学習するのか、測るのか。ハエの脳が問い直すAIのつくり方",
+    "url": "https://zenn.dev/1amageek/articles/fly-connectome-and-ai",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-09-13T12:22:21+00:00",
+    "fetched_at": "2026-09-13T20:05:51+00:00",
+    "summary": "いまハエの脳が注目されている理由は2つです。ひとつは、動物1匹ぶんの神経系が、感覚から運動までつながった形でそろい始めたこと。もうひとつは、それを誰でも手元で動かせるようになったことです。 2024年の全脳モデルは、CPUの1スレッドあたり1秒ぶんのシミュレーションに約5分かかる規模でした。2025年には、Intel...",
+    "matched_keywords": [
+      "AI/KI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ba1390e53157c42363fc"
   },
   {
     "title": "Qiitaの約7万記事を分析してAIで書かれた記事に見られる特徴の変化を調べた記事が興味深い「こんな変化があるのか」「テキスト分析の勉強になる」",
