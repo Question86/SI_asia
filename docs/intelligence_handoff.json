@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-13T06:24:57Z",
+  "generated_at": "2026-09-13T06:50:14Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 4.9 - Bonin Islands, Japan region” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=23.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th3a",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T04:08:55.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "disaster"
       ],
@@ -40,7 +40,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th3a",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-06-19T20:12:42+00:00",
-      "age_days": 85.43,
+      "age_days": 85.44,
       "topics": [
         "general"
       ],
@@ -65,26 +65,50 @@
       "url": "https://speakerdeck.com/hokaccha/ai-agent-jidai-no-senryaku-to-jissen",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 86.19,
+      "age_days": 86.2,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 13.69,
+      "dynamics_score": 13.29,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 2.44,
+      "baseline_z_hint": 2.08,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 2.44",
+        "baseline z_hint 2.08",
         "single-source AI hype brake -8.0",
         "aging penalty -8.0 for 86.2d old signal",
         "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Flowseal/zapret-discord-youtube",
+      "url": "https://github.com/Flowseal/zapret-discord-youtube",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-09-13T05:55:20+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 11.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2"
       ],
       "summary": ""
     },
@@ -93,7 +117,7 @@
       "url": "https://aws.amazon.com/jp/blogs/news/calculating-the-roi-of-ai/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T04:45:41+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -119,7 +143,7 @@
       "url": "https://speakerdeck.com/hokaccha/ai-agent-jidai-no-senryaku-to-jissen",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-12T08:17:26+00:00",
-      "age_days": 0.92,
+      "age_days": 0.94,
       "topics": [
         "ai"
       ],
@@ -140,26 +164,28 @@
       "summary": "巨大なモノリシック Rails アプリケーションの マイクロサービス化戦略 / 2019 microservices in cookpad"
     },
     {
-      "title": "Flowseal/zapret-discord-youtube",
-      "url": "https://github.com/Flowseal/zapret-discord-youtube",
+      "title": "jihe520/MathModelAgent",
+      "url": "https://github.com/jihe520/MathModelAgent",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-13T05:55:20+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
-        "general"
+        "ai"
       ],
-      "dynamics_score": 9.0,
+      "dynamics_score": 8.5,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 2,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": false,
+      "single_source_ai_capped": true,
       "why": [
-        "momentum delta +1"
+        "momentum delta +2",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
     },
@@ -168,7 +194,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN122UY0S6A910C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T00:11:29+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -194,7 +220,7 @@
       "url": "https://github.com/jihe520/MathModelAgent",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-13T05:54:46+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai",
         "macro"
@@ -217,37 +243,11 @@
       "summary": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission. https://mathmodel.top/home 🤖 MathModelAgent 📐 专为数学建模设计的 Agent 自动完成数学建模，生成一份完整的可以直接提交的论文。 简体中文 | English ⬇️ 下载最新桌面版（推荐） 🎨 姊妹项目： sci-box…"
     },
     {
-      "title": "jihe520/MathModelAgent",
-      "url": "https://github.com/jihe520/MathModelAgent",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-09-13T05:55:20+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "米アンソロピックCEO“AI開発ペース減速させる必要” | NHKニュース",
       "url": "https://news.web.nhk/newsweb/na/nd-20260913de49934",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T01:55:34+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -273,7 +273,7 @@
       "url": "https://note.com/takahiroanno/n/n4accbde18d56",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 12.49,
+      "age_days": 12.5,
       "topics": [
         "ai"
       ],
@@ -299,7 +299,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN122UY0S6A910C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T02:10:07+00:00",
-      "age_days": 86.18,
+      "age_days": 86.19,
       "topics": [
         "ai"
       ],
