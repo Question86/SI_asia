@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-13T07:30:13+00:00",
+  "generated_at": "2026-09-13T07:41:11+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 9,
-    "displayed_findings": 9,
+    "new_relevant_findings": 1,
+    "today_file_total": 10,
+    "displayed_findings": 10,
     "high": 0,
     "medium": 2,
-    "observe": 7
+    "observe": 8
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -55,6 +55,16 @@
       "section": "observe"
     },
     {
+      "title": "M 5.2 - 43 km ESE of Port-Olry, Vanuatu",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-13T07:36:40.040+00:00",
+      "relevance_score": 9,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th4y",
+      "summary": "Time 2026-09-13 07:19:21 UTC 2026-09-13 07:19:21 UTC at epicenter Location 15.220°S 167.436°E Depth 135.08 km (83.94 mi)",
+      "section": "observe"
+    },
+    {
       "title": "AI の投資収益率 (ROI) を算出する | Amazon Web Services",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
@@ -63,16 +73,6 @@
       "url": "https://aws.amazon.com/jp/blogs/news/calculating-the-roi-of-ai/",
       "summary": "Amazon Web Services ブログ AI の投資収益率 (ROI) を算出する 人工知能 (AI) に投資した 1 ドルごとに 2 ドルのリターンが得られるのであれば、コストの増加は非効率ではなく、プラスの投資収益率 (ROI) を示すことになります。しかし、AI 支出とビジネス価値の関係を明らかにすることは複雑で難しく、取り組みを拡大...",
       "section": "observe"
-    },
-    {
-      "title": "なぜUSB Type-Cポートは壊れやすい？ Dell XPSを分解して分かった最新PCのトレンド",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-13T03:35:37+00:00",
-      "relevance_score": 5,
-      "url": "https://www.itmedia.co.jp/pcuser/articles/2609/13/news009.html",
-      "summary": "ノートPCやスマートフォンのインタフェースとしてすっかり定着したUSB Type-Cだが、実はケーブルを挿しても認識されないといった、物理的な破損トラブルが少なくない。 特にノートPCは充電端子を兼ねるポートである場合が多く、USB Type-Cポートの故障によって仕事が止まってしまうときもある。さらに、いざ修理対応とな...",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -80,139 +80,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “M 4.9 - Bonin Islands, Japan region” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=23.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "M 4.9 - Bonin Islands, Japan region",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th3a",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-13T04:08:55.040+00:00",
-        "age_days": 0.15,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 23.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake",
-          "high terms: 10"
-        ],
-        "summary": "Time 2026-09-13 03:50:32 UTC 2026-09-13 03:50:32 UTC at epicenter Location 26.305°N 142.253°E Depth 10.00 km (6.21 mi)"
-      },
-      {
-        "title": "M 4.9 - Bonin Islands, Japan region",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th3a",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-06-19T20:12:42+00:00",
-        "age_days": 85.48,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 14.5,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "aging penalty -8.0 for 85.5d old signal"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Flowseal/zapret-discord-youtube",
-        "url": "https://github.com/Flowseal/zapret-discord-youtube",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": "2026-09-13T05:55:20+00:00",
-        "age_days": 0.07,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 14.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "なぜUSB Type-Cポートは壊れやすい？ Dell XPSを分解して分かった最新PCのトレンド",
-        "url": "https://www.itmedia.co.jp/pcuser/articles/2609/13/news009.html",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-13T03:35:37+00:00",
-        "age_days": 0.17,
-        "topics": [
-          "axiom"
-        ],
-        "dynamics_score": 13.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "ノートPCやスマートフォンのインタフェースとしてすっかり定着したUSB Type-Cだが、実はケーブルを挿しても認識されないといった、物理的な破損トラブルが少なくない。 特にノートPCは充電端子を兼ねるポートである場合が多く、USB Type-Cポートの故障によって仕事が止まってしまうときもある。さらに、いざ修理対応とな..."
-      },
-      {
-        "title": "AI Agent時代のリアーキテクチャ戦略と実践",
-        "url": "https://speakerdeck.com/hokaccha/ai-agent-jidai-no-senryaku-to-jissen",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-06-19T01:58:32+00:00",
-        "age_days": 86.24,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 12.09,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.99,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "baseline z_hint 0.99",
-          "single-source AI hype brake -8.0",
-          "aging penalty -8.0 for 86.2d old signal"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }

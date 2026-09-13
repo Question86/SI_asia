@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-13T07:30:13+00:00_
+_Generated: 2026-09-13T07:41:11+00:00_
 
 ## Status
 - status: `normal`
-- findings: `9`
+- findings: `10`
 
 ## Top Signals
 
@@ -36,18 +36,18 @@ _Generated: 2026-09-13T07:30:13+00:00_
 - url: https://github.com/jihe520/MathModelAgent
 - summary: 🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission. https://mathmodel.top/home 🤖 MathModelAgent 📐 专为数学建模设计的 Agent 自动完成数学建模，生成一…
 
-### 5. AI の投資収益率 (ROI) を算出する | Amazon Web Services
+### 5. M 5.2 - 43 km ESE of Port-Olry, Vanuatu
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-09-13T07:36:40.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000th4y
+- summary: Time 2026-09-13 07:19:21 UTC 2026-09-13 07:19:21 UTC at epicenter Location 15.220°S 167.436°E Depth 135.08 km (83.94 mi)
+
+### 6. AI の投資収益率 (ROI) を算出する | Amazon Web Services
 - source: Hatena Bookmark Hotentry IT
 - score: `9`
 - published: `2026-09-12T13:12:01+00:00`
 - url: https://aws.amazon.com/jp/blogs/news/calculating-the-roi-of-ai/
 - summary: Amazon Web Services ブログ AI の投資収益率 (ROI) を算出する 人工知能 (AI) に投資した 1 ドルごとに 2 ドルのリターンが得られるのであれば、コストの増加は非効率ではなく、プラスの投資収益率 (ROI) を示すことになります。しかし、AI 支出とビジネス価値の関係を明らかにすることは複雑で難しく、取り組みを拡大...
-
-### 6. なぜUSB Type-Cポートは壊れやすい？ Dell XPSを分解して分かった最新PCのトレンド
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-09-13T03:35:37+00:00`
-- url: https://www.itmedia.co.jp/pcuser/articles/2609/13/news009.html
-- summary: ノートPCやスマートフォンのインタフェースとしてすっかり定着したUSB Type-Cだが、実はケーブルを挿しても認識されないといった、物理的な破損トラブルが少なくない。 特にノートPCは充電端子を兼ねるポートである場合が多く、USB Type-Cポートの故障によって仕事が止まってしまうときもある。さらに、いざ修理対応とな...
 
 END OF DOCUMENT

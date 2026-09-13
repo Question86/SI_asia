@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-13T07:30:15+00:00",
+  "generated_at": "2026-09-13T07:41:15+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -3433,9 +3433,8 @@
     },
     "domain:speakerdeck.com": {
       "title": "AI Agent時代のリアーキテクチャ戦略と実践",
-      "updated_at": "2026-09-13T07:30:15+00:00",
+      "updated_at": "2026-09-13T07:41:15+00:00",
       "network_scores": [
-        9.2,
         9.2,
         9.2,
         23.1,
@@ -3464,12 +3463,13 @@
         20.1,
         20.1,
         20.1,
+        20.1,
         20.1
       ],
-      "rolling_average": 19.11,
+      "rolling_average": 19.47,
       "rolling_peak": 23.1,
       "last_score": 20.1,
-      "z_hint": 0.99
+      "z_hint": 0.63
     },
     "title:web-nginx-cvss": {
       "title": "Webサーバー「nginx」に3件の脆弱性、「CVSS 4.0」の基本値は最高で10点満点中「9.2」／v1.30.3/v1.31.2への更新を",
@@ -3799,9 +3799,8 @@
     },
     "domain:www.nikkei.com": {
       "title": "アンソロピックCEO「AIが1年内ネット乗っ取り恐れ」 開発減速訴え - 日本経済新聞",
-      "updated_at": "2026-09-13T07:30:15+00:00",
+      "updated_at": "2026-09-13T07:41:15+00:00",
       "network_scores": [
-        14.2,
         14.2,
         14.2,
         14.2,
@@ -3830,12 +3829,13 @@
         12.1,
         12.1,
         12.1,
+        12.1,
         12.1
       ],
-      "rolling_average": 12.97,
+      "rolling_average": 12.9,
       "rolling_peak": 15.1,
       "last_score": 12.1,
-      "z_hint": -0.87
+      "z_hint": -0.8
     },
     "title:economy-moving-faster-than-our-institutions": {
       "title": "The AI economy is moving faster than our institutions",
@@ -5413,7 +5413,7 @@
     },
     "earthquake:japan:4.9": {
       "title": "M 4.9 - Bonin Islands, Japan region",
-      "updated_at": "2026-09-13T07:30:15+00:00",
+      "updated_at": "2026-09-13T07:41:15+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -5429,8 +5429,8 @@
         17.7,
         17.7,
         17.7,
-        17.7,
         20.7,
+        17.7,
         17.7,
         17.7,
         17.7,
@@ -10002,9 +10002,8 @@
     },
     "domain:note.com": {
       "title": "「AI研究者としての自分の賞味期限はあと１年」——AGI競争も終盤戦の様相を呈すシリコンバレーでは何が語られていたか｜安野貴博",
-      "updated_at": "2026-09-13T07:30:15+00:00",
+      "updated_at": "2026-09-13T07:41:15+00:00",
       "network_scores": [
-        12.2,
         12.2,
         12.2,
         12.2,
@@ -10033,12 +10032,13 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.88,
+      "rolling_average": 7.71,
       "rolling_peak": 12.2,
       "last_score": 7.1,
-      "z_hint": -0.78
+      "z_hint": -0.61
     },
     "earthquake:m 4.6 - 112 km ssw of chirilagua, el salvador:4.6": {
       "title": "M 4.6 - 112 km SSW of Chirilagua, El Salvador",
@@ -29851,9 +29851,10 @@
     },
     "title:ceo-nhk": {
       "title": "米アンソロピックCEO“AI開発ペース減速させる必要” | NHKニュース",
-      "updated_at": "2026-09-13T07:30:15+00:00",
+      "updated_at": "2026-09-13T07:41:15+00:00",
       "network_scores": [
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -29886,7 +29887,7 @@
     },
     "domain:aws.amazon.com": {
       "title": "AI の投資収益率 (ROI) を算出する | Amazon Web Services",
-      "updated_at": "2026-09-13T07:30:15+00:00",
+      "updated_at": "2026-09-13T07:41:15+00:00",
       "network_scores": [
         14.1,
         11.1,
@@ -29900,57 +29901,72 @@
         11.1,
         11.1,
         11.1,
+        11.1,
         11.1
       ],
-      "rolling_average": 11.33,
+      "rolling_average": 11.31,
       "rolling_peak": 14.1,
       "last_score": 11.1,
-      "z_hint": -0.23
+      "z_hint": -0.21
     },
     "github_repo:jihe520/mathmodelagent": {
       "title": "jihe520/MathModelAgent",
-      "updated_at": "2026-09-13T07:30:15+00:00",
+      "updated_at": "2026-09-13T07:41:15+00:00",
       "network_scores": [
         15.1,
         12.1,
         12.1,
         12.1,
         12.1,
+        12.1,
         12.1
       ],
-      "rolling_average": 12.6,
+      "rolling_average": 12.53,
       "rolling_peak": 15.1,
       "last_score": 12.1,
-      "z_hint": -0.5
+      "z_hint": -0.43
     },
     "github_repo:flowseal/zapret-discord-youtube": {
       "title": "Flowseal/zapret-discord-youtube",
-      "updated_at": "2026-09-13T07:30:15+00:00",
+      "updated_at": "2026-09-13T07:41:15+00:00",
       "network_scores": [
         10.1,
         7.1,
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.6,
+      "rolling_average": 7.53,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.5
+      "z_hint": -0.43
     },
     "title:usb-type-dell-xps": {
       "title": "なぜUSB Type-Cポートは壊れやすい？ Dell XPSを分解して分かった最新PCのトレンド",
-      "updated_at": "2026-09-13T07:30:15+00:00",
+      "updated_at": "2026-09-13T07:41:15+00:00",
       "network_scores": [
         10.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 8.1,
+      "rolling_average": 7.85,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -1.0
+      "z_hint": -0.75
+    },
+    "earthquake:m 5.2 - 43 km ese of port-olry, vanuatu:5.2": {
+      "title": "M 5.2 - 43 km ESE of Port-Olry, Vanuatu",
+      "updated_at": "2026-09-13T07:41:15+00:00",
+      "network_scores": [
+        14.7
+      ],
+      "rolling_average": 14.7,
+      "rolling_peak": 14.7,
+      "last_score": 14.7,
+      "z_hint": 0.0
     }
   }
 }
