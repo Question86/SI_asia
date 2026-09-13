@@ -1,18 +1,28 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-13T22:36:01Z_
+_Generated: 2026-09-13T22:49:15Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “M 4.9 - Bonin Islands, Japan region” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=23.0.
+Stärkste Dynamik nach Gate-Recheck: “自ら、問いに向かい合うことの有難さについて - ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.
 
 ## Top Dynamics
+
+### 自ら、問いに向かい合うことの有難さについて - ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-09-13T22:47:33+00:00` / age_days `0.0`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +1, krass gate: single-source non-official/non-identity signal capped
+- Quelle: https://kaz-ataka.hatenablog.com/entry/2026/09/13/175045
 
 ### M 4.9 - Bonin Islands, Japan region
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-13T04:08:55.040+00:00` / age_days `0.77`
+- Published: `2026-09-13T04:08:55.040+00:00` / age_days `0.78`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -22,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - Bonin Islands, Japan region” �
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.0`
-- Published: `2026-09-13T17:38:29+00:00` / age_days `0.21`
+- Published: `2026-09-13T17:38:29+00:00` / age_days `0.22`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -32,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - Bonin Islands, Japan region” �
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-08-31T18:43:10+00:00` / age_days `13.16`
+- Published: `2026-08-31T18:43:10+00:00` / age_days `13.17`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -42,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - Bonin Islands, Japan region” �
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-09-13T20:55:37+00:00` / age_days `0.07`
+- Published: `2026-09-13T20:55:37+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: 10
@@ -52,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - Bonin Islands, Japan region” �
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-09-13T20:22:09.040+00:00` / age_days `0.09`
+- Published: `2026-09-13T20:22:09.040+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -62,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - Bonin Islands, Japan region” �
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-09-13T13:01:07.040+00:00` / age_days `0.4`
+- Published: `2026-09-13T13:01:07.040+00:00` / age_days `0.41`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -72,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - Bonin Islands, Japan region” �
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.5`
-- Published: `2026-09-13T20:31:28+00:00` / age_days `0.09`
+- Published: `2026-09-13T20:31:28+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -82,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - Bonin Islands, Japan region” �
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.5`
-- Published: `2026-09-13T13:07:27+00:00` / age_days `0.39`
+- Published: `2026-09-13T13:07:27+00:00` / age_days `0.4`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -92,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - Bonin Islands, Japan region” �
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-13T20:01:16.040+00:00` / age_days `0.11`
+- Published: `2026-09-13T20:01:16.040+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -102,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - Bonin Islands, Japan region” �
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.5`
-- Published: `2026-09-13T20:06:27+00:00` / age_days `0.1`
+- Published: `2026-09-13T20:06:27+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - Bonin Islands, Japan region” �
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.5`
-- Published: `2026-09-13T07:49:09+00:00` / age_days `0.62`
+- Published: `2026-09-13T07:49:09+00:00` / age_days `0.63`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000th50
-
-### M 5.2 - 43 km ESE of Port-Olry, Vanuatu
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `16.5`
-- Published: `2026-09-13T07:41:15+00:00` / age_days `0.62`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000th4y
 
 END OF DOCUMENT
