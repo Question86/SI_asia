@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-13T01:35:54+00:00_
+_Generated: 2026-09-13T01:55:31+00:00_
 
 ## Status
 - status: `normal`
-- findings: `2`
+- findings: `3`
 
 ## Top Signals
 
@@ -15,7 +15,14 @@ _Generated: 2026-09-13T01:35:54+00:00_
 - url: https://speakerdeck.com/hokaccha/ai-agent-jidai-no-senryaku-to-jissen
 - summary: 巨大なモノリシック Rails アプリケーションの マイクロサービス化戦略 / 2019 microservices in cookpad
 
-### 2. 「AI研究者としての自分の賞味期限はあと１年」——AGI競争も終盤戦の様相を呈すシリコンバレーでは何が語られていたか｜安野貴博
+### 2. 米アンソロピックCEO“AI開発ペース減速させる必要” | NHKニュース
+- source: Hatena Bookmark Hotentry IT
+- score: `5`
+- published: `2026-09-13T00:25:21+00:00`
+- url: https://news.web.nhk/newsweb/na/nd-20260913de49934
+- summary: アメリカのAI新興企業アンソロピックのCEOは、AIが急速に進歩し、人間が制御する能力を上回る可能性があるとして、開発を減速させる必要があるとの考えを示しました。 アンソロピックのダリオ・アモデイ…
+
+### 3. 「AI研究者としての自分の賞味期限はあと１年」——AGI競争も終盤戦の様相を呈すシリコンバレーでは何が語られていたか｜安野貴博
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-09-12T22:49:40+00:00`

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-13T01:35:57+00:00",
+  "generated_at": "2026-09-13T01:55:34+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -3433,9 +3433,8 @@
     },
     "domain:speakerdeck.com": {
       "title": "AI Agent時代のリアーキテクチャ戦略と実践",
-      "updated_at": "2026-09-13T01:35:57+00:00",
+      "updated_at": "2026-09-13T01:55:34+00:00",
       "network_scores": [
-        7.1,
         7.1,
         7.1,
         7.1,
@@ -3464,12 +3463,13 @@
         9.2,
         9.2,
         23.1,
+        20.1,
         20.1
       ],
-      "rolling_average": 9.08,
+      "rolling_average": 9.51,
       "rolling_peak": 23.1,
       "last_score": 20.1,
-      "z_hint": 11.02
+      "z_hint": 10.59
     },
     "title:web-nginx-cvss": {
       "title": "Webサーバー「nginx」に3件の脆弱性、「CVSS 4.0」の基本値は最高で10点満点中「9.2」／v1.30.3/v1.31.2への更新を",
@@ -10002,7 +10002,7 @@
     },
     "domain:note.com": {
       "title": "「AI研究者としての自分の賞味期限はあと１年」——AGI競争も終盤戦の様相を呈すシリコンバレーでは何が語られていたか｜安野貴博",
-      "updated_at": "2026-09-13T01:35:57+00:00",
+      "updated_at": "2026-09-13T01:55:34+00:00",
       "network_scores": [
         12.2,
         12.2,
@@ -10032,13 +10032,13 @@
         12.2,
         12.2,
         12.2,
-        12.2,
-        10.1
+        10.1,
+        7.1
       ],
-      "rolling_average": 12.13,
+      "rolling_average": 11.96,
       "rolling_peak": 12.2,
-      "last_score": 10.1,
-      "z_hint": -2.03
+      "last_score": 7.1,
+      "z_hint": -4.86
     },
     "earthquake:m 4.6 - 112 km ssw of chirilagua, el salvador:4.6": {
       "title": "M 4.6 - 112 km SSW of Chirilagua, El Salvador",
@@ -29848,6 +29848,17 @@
       "rolling_peak": 13.1,
       "last_score": 10.1,
       "z_hint": -0.5
+    },
+    "title:ceo-nhk": {
+      "title": "米アンソロピックCEO“AI開発ペース減速させる必要” | NHKニュース",
+      "updated_at": "2026-09-13T01:55:34+00:00",
+      "network_scores": [
+        10.1
+      ],
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 0.0
     }
   }
 }

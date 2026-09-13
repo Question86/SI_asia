@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-13T01:35:57+00:00",
+  "generated_at": "2026-09-13T01:55:34+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 2,
-    "clusters": 2,
+    "findings": 3,
+    "clusters": 3,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 0,
@@ -28,18 +28,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 23.91,
+      "network_score": 23.74,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 20.1,
-      "ranking_score": 23.91,
+      "ranking_score": 23.74,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 4.41,
+      "baseline_bonus": 4.24,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -49,8 +49,8 @@
       "first_seen_at": "2026-06-19T01:58:32+00:00"
     },
     {
-      "key": "domain:note.com",
-      "title": "「AI研究者としての自分の賞味期限はあと１年」——AGI競争も終盤戦の様相を呈すシリコンバレーでは何が語られていたか｜安野貴博",
+      "key": "title:ceo-nhk",
+      "title": "米アンソロピックCEO“AI開発ペース減速させる必要” | NHKニュース",
       "sources": [
         "Hatena Bookmark Hotentry IT"
       ],
@@ -58,7 +58,7 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://note.com/takahiroanno/n/n4accbde18d56"
+        "https://news.web.nhk/newsweb/na/nd-20260913de49934"
       ],
       "finding_count": 1,
       "max_score": 5,
@@ -84,12 +84,50 @@
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
+      "first_seen_at": "2026-09-13T01:55:34+00:00"
+    },
+    {
+      "key": "domain:note.com",
+      "title": "「AI研究者としての自分の賞味期限はあと１年」——AGI競争も終盤戦の様相を呈すシリコンバレーでは何が語られていたか｜安野貴博",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://note.com/takahiroanno/n/n4accbde18d56"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 6.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 7.1,
+      "ranking_score": 6.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
       "first_seen_at": "2026-08-31T18:43:10+00:00"
     }
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-13T01:35:57Z",
+    "generated_at": "2026-09-13T01:55:35Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
