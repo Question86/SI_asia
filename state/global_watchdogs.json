@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T10:38:37+00:00",
+  "generated_at": "2026-09-13T10:45:51+00:00",
   "sections": {
     "global_security": [
       {
@@ -69,6 +69,16 @@
         "summary": "Green earthquake (Magnitude 6.5M, Depth:372km) in Indonesia 11/09/2026 21:23 UTC, 20 thousand in 100km.",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1564809",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "GDACS: Green flood alert in Croatia",
+        "summary": "Green flood alert in Croatia",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104153",
         "published_at": "",
         "metrics": {}
       },
