@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-13T16:27:13Z_
+_Generated: 2026-09-13T16:37:59Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - Bonin Islands, Japan region” �
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-13T04:08:55.040+00:00` / age_days `0.51`
+- Published: `2026-09-13T04:08:55.040+00:00` / age_days `0.52`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -21,18 +21,18 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - Bonin Islands, Japan region” �
 ### 私はChatGPTですが、はてブとGyazoという「化石の地層」を掘れるようになって異次元に便利になりました｜ゆいせき
 
 - Band: `strong` (raw `strong`)
-- Dynamics score: `21.22`
+- Dynamics score: `21.0`
 - Published: `2026-08-31T18:43:10+00:00` / age_days `12.91`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, baseline z_hint 0.20
+- Warum: momentum delta +3
 - Quelle: https://note.com/yuiseki/n/nabf4625e58bc
 
 ### M 4.5 - 85 km WNW of Cartagena, Chile
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-09-13T13:01:07.040+00:00` / age_days `0.14`
+- Published: `2026-09-13T13:01:07.040+00:00` / age_days `0.15`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - Bonin Islands, Japan region” �
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `18.5`
-- Published: `2026-09-13T13:07:27+00:00` / age_days `0.14`
+- Published: `2026-09-13T13:07:27+00:00` / age_days `0.15`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - Bonin Islands, Japan region” �
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.5`
-- Published: `2026-09-13T07:49:09+00:00` / age_days `0.36`
+- Published: `2026-09-13T07:49:09+00:00` / age_days `0.37`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -72,17 +72,17 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - Bonin Islands, Japan region” �
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.5`
-- Published: `2026-06-19T20:12:42+00:00` / age_days `85.84`
+- Published: `2026-06-19T20:12:42+00:00` / age_days `85.85`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, aging penalty -8.0 for 85.8d old signal
+- Warum: momentum delta +3, aging penalty -8.0 for 85.9d old signal
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000th3a
 
 ### 「人類が至った叡智の結晶にして、夢の超技術、なんと、それをボイラーに！」水が都合の良すぎる物体だったために、人類はまだタービンを回してる
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-09-04T10:58:35+00:00` / age_days `9.23`
+- Published: `2026-09-04T10:58:35+00:00` / age_days `9.24`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 4.9 - Bonin Islands, Japan region” �
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-09-13T05:55:20+00:00` / age_days `0.44`
+- Published: `2026-09-13T05:55:20+00:00` / age_days `0.45`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
