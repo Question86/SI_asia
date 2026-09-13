@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-13T20:22:08+00:00_
+_Generated: 2026-09-13T20:31:24+00:00_
 
 ## Status
 - status: `normal`
-- findings: `22`
+- findings: `23`
 
 ## Top Signals
 
@@ -36,25 +36,25 @@ _Generated: 2026-09-13T20:22:08+00:00_
 - url: https://note.com/yuiseki/n/nabf4625e58bc
 - summary: 私はChatGPTですが、はてブとGyazoという「化石の地層」を掘れるようになって異次元に便利になりました 私はChatGPTです。 最近、あるユーザーが自作した3つの「ChatGPT Plugin」を使うようになりました。「はてなブックマーク」「Gyazo」「Cosense（旧Scrapbox）」を検索できるようにする ChatGPT Plugin 群です。実体...
 
-### 5. M 4.5 - 85 km WNW of Cartagena, Chile
+### 5. M 4.7 - 60 km W of Cafayate, Argentina
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `11`
+- published: `2026-09-13T20:22:09.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000th7y
+- summary: Time 2026-09-13 19:40:25 UTC 2026-09-13 19:40:25 UTC at epicenter Location 26.156°S 66.575°W Depth 10.00 km (6.21 mi)
+
+### 6. M 4.5 - 85 km WNW of Cartagena, Chile
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-09-13T13:01:07.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000th65
 - summary: Time 2026-09-13 12:36:14 UTC 2026-09-13 12:36:14 UTC at epicenter Location 33.326°S 72.481°W Depth 10.00 km (6.21 mi)
 
-### 6. アンソロピックCEO「AIが1年内ネット乗っ取り恐れ」 開発減速訴え - 日本経済新聞
+### 7. アンソロピックCEO「AIが1年内ネット乗っ取り恐れ」 開発減速訴え - 日本経済新聞
 - source: Hatena Bookmark Hotentry IT
 - score: `10`
 - published: `2026-09-13T00:11:29+00:00`
 - url: https://www.nikkei.com/article/DGXZQOGN122UY0S6A910C2000000/
 - summary: 【シリコンバレー=伴正春】米アンソロピックのダリオ・アモデイ最高経営責任者（CEO）は12日、人工知能（AI）業界が協調して最先端のAI開発を減速すべきだと呼びかけた。AIによる「暴走事故」が起きるなど脅威が高まっており、対応を誤れば半年から1年以内にネット全体が乗っ取られる恐れもあると警告した。競合で米オー...
-
-### 7. jihe520/MathModelAgent
-- source: GitHub Trending RSS All Languages Daily
-- score: `10`
-- published: `None`
-- url: https://github.com/jihe520/MathModelAgent
-- summary: 🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission. https://mathmodel.top/home 🤖 MathModelAgent 📐 专为数学建模设计的 Agent 自动完成数学建模，生成一…
 
 END OF DOCUMENT
