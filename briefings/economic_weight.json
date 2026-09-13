@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-13T23:45:55+00:00",
+  "generated_at": "2026-09-13T23:53:15+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -722,7 +722,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-06T05:39:36+00:00",
-      "last_seen_at": "2026-09-13T23:45:37+00:00",
+      "last_seen_at": "2026-09-13T23:52:59+00:00",
       "status": "active"
     },
     {
@@ -892,7 +892,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-04T16:56:25+00:00",
-      "last_seen_at": "2026-09-13T23:45:37+00:00",
+      "last_seen_at": "2026-09-13T23:52:59+00:00",
       "status": "active"
     },
     {
@@ -1011,7 +1011,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-13T23:05:13+00:00",
-      "last_seen_at": "2026-09-13T23:45:37+00:00",
+      "last_seen_at": "2026-09-13T23:52:59+00:00",
       "status": "active"
     },
     {
@@ -1572,7 +1572,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-13T20:31:28+00:00",
-      "last_seen_at": "2026-09-13T23:45:37+00:00",
+      "last_seen_at": "2026-09-13T23:52:59+00:00",
       "status": "active"
     },
     {
@@ -1708,7 +1708,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-13T13:07:27+00:00",
-      "last_seen_at": "2026-09-13T23:45:37+00:00",
+      "last_seen_at": "2026-09-13T23:52:59+00:00",
       "status": "active"
     },
     {
@@ -1912,7 +1912,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-13T07:49:09+00:00",
-      "last_seen_at": "2026-09-13T23:45:37+00:00",
+      "last_seen_at": "2026-09-13T23:52:59+00:00",
       "status": "active"
     },
     {
@@ -2150,7 +2150,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-13T07:41:15+00:00",
-      "last_seen_at": "2026-09-13T23:45:37+00:00",
+      "last_seen_at": "2026-09-13T23:52:59+00:00",
       "status": "active"
     },
     {
@@ -2184,7 +2184,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-13T20:06:27+00:00",
-      "last_seen_at": "2026-09-13T23:45:37+00:00",
+      "last_seen_at": "2026-09-13T23:52:59+00:00",
       "status": "active"
     },
     {
@@ -3867,7 +3867,7 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-13T23:45:37+00:00",
+      "last_seen_at": "2026-09-13T23:52:59+00:00",
       "status": "active"
     },
     {
@@ -4037,7 +4037,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-13T22:47:33+00:00",
-      "last_seen_at": "2026-09-13T23:45:37+00:00",
+      "last_seen_at": "2026-09-13T23:52:59+00:00",
       "status": "active"
     },
     {
@@ -4088,7 +4088,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-13T17:38:29+00:00",
-      "last_seen_at": "2026-09-13T23:45:37+00:00",
+      "last_seen_at": "2026-09-13T23:52:59+00:00",
       "status": "active"
     },
     {
@@ -4789,6 +4789,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_d82c4f613f172a5831b9",
+      "title": "AIが書いた日本語に頻出する単語を指摘するtextlintプリセットを作った - ぷらすのブログ",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 114400.0,
+      "p50_usd": 11440000.0,
+      "p90_usd": 1144000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-13T23:45:37+00:00",
+      "last_seen_at": "2026-09-13T23:52:59+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_e8746c574b43d3321b15",
       "title": "AIセキュリティ短信 | 社会・産業のデジタル変革 | IPA 独立行政法人 情報処理推進機構",
       "event_classes": [
@@ -4821,23 +4838,6 @@
       "first_seen_at": "2026-09-09T08:08:20+00:00",
       "last_seen_at": "2026-09-09T23:54:37+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_d82c4f613f172a5831b9",
-      "title": "AIが書いた日本語に頻出する単語を指摘するtextlintプリセットを作った - ぷらすのブログ",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 114400.0,
-      "p50_usd": 11440000.0,
-      "p90_usd": 1144000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-13T23:45:37+00:00",
-      "last_seen_at": "2026-09-13T23:45:37+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_2a7631f0e872d9aad503",
@@ -5499,7 +5499,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T22:15:36+00:00",
-      "last_seen_at": "2026-09-13T23:45:37+00:00",
+      "last_seen_at": "2026-09-13T23:52:59+00:00",
       "status": "active"
     },
     {
@@ -5839,7 +5839,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-13T05:55:20+00:00",
-      "last_seen_at": "2026-09-13T23:45:37+00:00",
+      "last_seen_at": "2026-09-13T23:52:59+00:00",
       "status": "active"
     },
     {
@@ -6196,7 +6196,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-13T04:45:41+00:00",
-      "last_seen_at": "2026-09-13T23:45:37+00:00",
+      "last_seen_at": "2026-09-13T23:52:59+00:00",
       "status": "active"
     },
     {
@@ -6554,7 +6554,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-11T16:50:04+00:00",
-      "last_seen_at": "2026-09-13T23:45:37+00:00",
+      "last_seen_at": "2026-09-13T23:52:59+00:00",
       "status": "active"
     },
     {
@@ -6826,7 +6826,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-13T20:06:27+00:00",
-      "last_seen_at": "2026-09-13T23:45:37+00:00",
+      "last_seen_at": "2026-09-13T23:52:59+00:00",
       "status": "active"
     },
     {
@@ -7778,7 +7778,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-13T22:55:14+00:00",
-      "last_seen_at": "2026-09-13T23:45:37+00:00",
+      "last_seen_at": "2026-09-13T23:52:59+00:00",
       "status": "active"
     },
     {
@@ -8050,7 +8050,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:10:24+00:00",
-      "last_seen_at": "2026-09-13T23:45:37+00:00",
+      "last_seen_at": "2026-09-13T23:52:59+00:00",
       "status": "active"
     },
     {
@@ -9036,7 +9036,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-13T20:55:37+00:00",
-      "last_seen_at": "2026-09-13T23:45:37+00:00",
+      "last_seen_at": "2026-09-13T23:52:59+00:00",
       "status": "active"
     },
     {
