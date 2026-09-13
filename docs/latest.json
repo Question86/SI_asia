@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T20:06:24+00:00",
-  "run_id": "2026-09-13T20:06:24+00:00",
+  "generated_at": "2026-09-13T20:22:08+00:00",
+  "run_id": "2026-09-13T20:22:08+00:00",
   "date": "2026-09-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 21
+      "configured_public_sources_only": 22
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 21,
-    "displayed_findings": 21,
+    "new_relevant_findings": 1,
+    "today_file_total": 22,
+    "displayed_findings": 22,
     "high": 0,
     "medium": 3,
-    "observe": 18,
+    "observe": 19,
     "source_errors": 0
   },
   "sections": {
@@ -390,6 +390,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "3a71ebce283d801569ef"
+      },
+      {
+        "title": "マイクロソフトがRust言語をC++/C#/TSに並ぶ社内のTier 1言語にしたことを明らかに。Windowsネイティブな社内の開発環境と統合",
+        "url": "https://www.publickey1.jp/blog/26/rustcctstier_1.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-13T16:28:54+00:00",
+        "fetched_at": "2026-09-13T20:21:37+00:00",
+        "summary": "マイクロソフトがRust言語をC++/C#/TSに並ぶ社内のTier 1言語にしたことを明らかに。Windowsネイティブな社内の開発環境と統合 マイクロソフト社内において、Rust言語がC++/C#/TypeScriptに並ぶTier 1言語になったことが明らかになりました。 マイクロソフトの開発部門でRustツールチームのプリンシパルエンジニア Victo...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1f67298d37fcbdddbb47"
       },
       {
         "title": "id:aox に名指しされたので",
@@ -923,6 +944,27 @@
       "id": "3a71ebce283d801569ef"
     },
     {
+      "title": "マイクロソフトがRust言語をC++/C#/TSに並ぶ社内のTier 1言語にしたことを明らかに。Windowsネイティブな社内の開発環境と統合",
+      "url": "https://www.publickey1.jp/blog/26/rustcctstier_1.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-13T16:28:54+00:00",
+      "fetched_at": "2026-09-13T20:21:37+00:00",
+      "summary": "マイクロソフトがRust言語をC++/C#/TSに並ぶ社内のTier 1言語にしたことを明らかに。Windowsネイティブな社内の開発環境と統合 マイクロソフト社内において、Rust言語がC++/C#/TypeScriptに並ぶTier 1言語になったことが明らかになりました。 マイクロソフトの開発部門でRustツールチームのプリンシパルエンジニア Victo...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1f67298d37fcbdddbb47"
+    },
+    {
       "title": "id:aox に名指しされたので",
       "url": "https://anond.hatelabo.jp/20260913224426",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1093,62 +1135,25 @@
   ],
   "new_findings": [
     {
-      "title": "M 4.9 - 86 km SSW of Isangel, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th81",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-09-13T20:01:16.040+00:00",
-      "fetched_at": "2026-09-13T20:05:51+00:00",
-      "summary": "Time 2026-09-13 19:41:43 UTC 2026-09-13 19:41:43 UTC at epicenter Location 20.201°S 168.834°E Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "5db978510cdac64bc304"
-    },
-    {
-      "title": "重みは学習するのか、測るのか。ハエの脳が問い直すAIのつくり方",
-      "url": "https://zenn.dev/1amageek/articles/fly-connectome-and-ai",
+      "title": "マイクロソフトがRust言語をC++/C#/TSに並ぶ社内のTier 1言語にしたことを明らかに。Windowsネイティブな社内の開発環境と統合",
+      "url": "https://www.publickey1.jp/blog/26/rustcctstier_1.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-13T12:22:21+00:00",
-      "fetched_at": "2026-09-13T20:05:51+00:00",
-      "summary": "いまハエの脳が注目されている理由は2つです。ひとつは、動物1匹ぶんの神経系が、感覚から運動までつながった形でそろい始めたこと。もうひとつは、それを誰でも手元で動かせるようになったことです。 2024年の全脳モデルは、CPUの1スレッドあたり1秒ぶんのシミュレーションに約5分かかる規模でした。2025年には、Intel...",
+      "published_at": "2026-09-13T16:28:54+00:00",
+      "fetched_at": "2026-09-13T20:21:37+00:00",
+      "summary": "マイクロソフトがRust言語をC++/C#/TSに並ぶ社内のTier 1言語にしたことを明らかに。Windowsネイティブな社内の開発環境と統合 マイクロソフト社内において、Rust言語がC++/C#/TypeScriptに並ぶTier 1言語になったことが明らかになりました。 マイクロソフトの開発部門でRustツールチームのプリンシパルエンジニア Victo...",
       "matched_keywords": [
-        "AI/KI",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "ba1390e53157c42363fc"
+      "id": "1f67298d37fcbdddbb47"
     }
   ],
   "source_errors": [],
