@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-13T06:58:00+00:00",
-  "run_id": "2026-09-13T06:58:00+00:00",
+  "generated_at": "2026-09-13T07:19:12+00:00",
+  "run_id": "2026-09-13T07:19:12+00:00",
   "date": "2026-09-13",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 9,
     "displayed_findings": 9,
     "high": 0,
@@ -457,29 +457,7 @@
       "id": "97c65020323613a2fa68"
     }
   ],
-  "new_findings": [
-    {
-      "title": "なぜUSB Type-Cポートは壊れやすい？ Dell XPSを分解して分かった最新PCのトレンド",
-      "url": "https://www.itmedia.co.jp/pcuser/articles/2609/13/news009.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-13T03:35:37+00:00",
-      "fetched_at": "2026-09-13T06:57:31+00:00",
-      "summary": "ノートPCやスマートフォンのインタフェースとしてすっかり定着したUSB Type-Cだが、実はケーブルを挿しても認識されないといった、物理的な破損トラブルが少なくない。 特にノートPCは充電端子を兼ねるポートである場合が多く、USB Type-Cポートの故障によって仕事が止まってしまうときもある。さらに、いざ修理対応とな...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "17203e751ccc6a7a06f4"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
