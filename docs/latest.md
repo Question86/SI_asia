@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-13T11:16:44+00:00_
+_Generiert: 2026-09-13T11:25:44+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „AI Agent時代のリアーキテクチャ戦略と実践“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
+14 neue relevante Treffer. Stärkstes Signal: „AI Agent時代のリアーキテクチャ戦略と実践“ aus Hatena Bookmark Hotentry IT (Score 18, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -105,3 +105,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `google_trends_thailand_hot` (rss): 500 Server Error: Internal Server Error for url: https://trends.google.co.th/trending/rss?geo=TH
