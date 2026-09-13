@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-13T04:00:13+00:00",
+  "generated_at": "2026-09-13T04:23:41+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -3433,9 +3433,8 @@
     },
     "domain:speakerdeck.com": {
       "title": "AI Agent時代のリアーキテクチャ戦略と実践",
-      "updated_at": "2026-09-13T04:00:13+00:00",
+      "updated_at": "2026-09-13T04:23:41+00:00",
       "network_scores": [
-        7.1,
         7.1,
         7.1,
         7.1,
@@ -3464,12 +3463,13 @@
         20.1,
         20.1,
         20.1,
+        20.1,
         20.1
       ],
-      "rolling_average": 13.41,
+      "rolling_average": 13.84,
       "rolling_peak": 23.1,
       "last_score": 20.1,
-      "z_hint": 6.69
+      "z_hint": 6.26
     },
     "title:web-nginx-cvss": {
       "title": "Webサーバー「nginx」に3件の脆弱性、「CVSS 4.0」の基本値は最高で10点満点中「9.2」／v1.30.3/v1.31.2への更新を",
@@ -3799,9 +3799,8 @@
     },
     "domain:www.nikkei.com": {
       "title": "アンソロピックCEO「AIが1年内ネット乗っ取り恐れ」 開発減速訴え - 日本経済新聞",
-      "updated_at": "2026-09-13T04:00:13+00:00",
+      "updated_at": "2026-09-13T04:23:41+00:00",
       "network_scores": [
-        12.1,
         12.1,
         12.1,
         12.1,
@@ -3828,6 +3827,7 @@
         14.2,
         14.2,
         15.1,
+        12.1,
         12.1,
         12.1,
         12.1
@@ -5412,8 +5412,8 @@
       "z_hint": 0.0
     },
     "earthquake:japan:4.9": {
-      "title": "M 4.9 - 118 km ENE of Kuji, Japan",
-      "updated_at": "2026-09-06T23:56:14+00:00",
+      "title": "M 4.9 - Bonin Islands, Japan region",
+      "updated_at": "2026-09-13T04:23:41+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -5444,12 +5444,12 @@
         17.7,
         17.7,
         17.7,
-        17.7
+        20.7
       ],
-      "rolling_average": 17.7,
-      "rolling_peak": 17.7,
-      "last_score": 17.7,
-      "z_hint": 0.0
+      "rolling_average": 17.8,
+      "rolling_peak": 20.7,
+      "last_score": 20.7,
+      "z_hint": 2.9
     },
     "earthquake:philippines:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:35km) in Philippines 19/06/2026 18:38 UTC, 210 thousand in 100km.",
@@ -10002,9 +10002,8 @@
     },
     "domain:note.com": {
       "title": "「AI研究者としての自分の賞味期限はあと１年」——AGI競争も終盤戦の様相を呈すシリコンバレーでは何が語られていたか｜安野貴博",
-      "updated_at": "2026-09-13T04:00:13+00:00",
+      "updated_at": "2026-09-13T04:23:41+00:00",
       "network_scores": [
-        12.2,
         12.2,
         12.2,
         12.2,
@@ -10033,12 +10032,13 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 10.43,
+      "rolling_average": 10.26,
       "rolling_peak": 12.2,
       "last_score": 7.1,
-      "z_hint": -3.33
+      "z_hint": -3.16
     },
     "earthquake:m 4.6 - 112 km ssw of chirilagua, el salvador:4.6": {
       "title": "M 4.6 - 112 km SSW of Chirilagua, El Salvador",
@@ -29851,7 +29851,7 @@
     },
     "title:ceo-nhk": {
       "title": "米アンソロピックCEO“AI開発ペース減速させる必要” | NHKニュース",
-      "updated_at": "2026-09-13T04:00:13+00:00",
+      "updated_at": "2026-09-13T04:23:41+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -29862,12 +29862,13 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.4,
+      "rolling_average": 7.37,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.3
+      "z_hint": -0.27
     }
   }
 }
