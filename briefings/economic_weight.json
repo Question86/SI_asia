@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-13T08:35:48+00:00",
+  "generated_at": "2026-09-13T09:48:15+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -722,7 +722,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-06T05:39:36+00:00",
-      "last_seen_at": "2026-09-13T08:35:29+00:00",
+      "last_seen_at": "2026-09-13T09:47:54+00:00",
       "status": "active"
     },
     {
@@ -1861,7 +1861,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-13T07:49:09+00:00",
-      "last_seen_at": "2026-09-13T08:35:29+00:00",
+      "last_seen_at": "2026-09-13T09:47:54+00:00",
       "status": "active"
     },
     {
@@ -2099,7 +2099,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-13T07:41:15+00:00",
-      "last_seen_at": "2026-09-13T08:35:29+00:00",
+      "last_seen_at": "2026-09-13T09:47:54+00:00",
       "status": "active"
     },
     {
@@ -3799,7 +3799,7 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-13T08:35:29+00:00",
+      "last_seen_at": "2026-09-13T09:47:54+00:00",
       "status": "active"
     },
     {
@@ -5125,8 +5125,8 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-09T09:36:22+00:00",
-      "last_seen_at": "2026-09-09T13:31:58+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-09-13T09:47:54+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_48c5f42a809a05d55379",
@@ -5380,7 +5380,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T22:15:36+00:00",
-      "last_seen_at": "2026-09-13T08:35:29+00:00",
+      "last_seen_at": "2026-09-13T09:47:54+00:00",
       "status": "active"
     },
     {
@@ -5720,7 +5720,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-13T05:55:20+00:00",
-      "last_seen_at": "2026-09-13T08:35:29+00:00",
+      "last_seen_at": "2026-09-13T09:47:54+00:00",
       "status": "active"
     },
     {
@@ -6077,7 +6077,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-13T04:45:41+00:00",
-      "last_seen_at": "2026-09-13T08:35:29+00:00",
+      "last_seen_at": "2026-09-13T09:47:54+00:00",
       "status": "active"
     },
     {
@@ -7880,7 +7880,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-13T06:58:03+00:00",
-      "last_seen_at": "2026-09-13T08:35:29+00:00",
+      "last_seen_at": "2026-09-13T09:47:54+00:00",
       "status": "active"
     },
     {
@@ -7897,7 +7897,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:10:24+00:00",
-      "last_seen_at": "2026-09-13T08:35:29+00:00",
+      "last_seen_at": "2026-09-13T09:47:54+00:00",
       "status": "active"
     },
     {
@@ -8407,7 +8407,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-13T05:55:20+00:00",
-      "last_seen_at": "2026-09-13T08:35:29+00:00",
+      "last_seen_at": "2026-09-13T09:47:54+00:00",
       "status": "active"
     },
     {
@@ -8883,7 +8883,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-13T01:55:34+00:00",
-      "last_seen_at": "2026-09-13T08:35:29+00:00",
+      "last_seen_at": "2026-09-13T09:47:54+00:00",
       "status": "active"
     },
     {
@@ -9072,6 +9072,23 @@
       "first_seen_at": "2026-09-08T01:40:08+00:00",
       "last_seen_at": "2026-09-08T05:58:24+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_ff37459d50d48f21787b",
+      "title": "iPhone Duo、36万円超でも需要絶好調？700万台出荷でiPhoneを牽引か - iPhone Mania",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-13T09:47:54+00:00",
+      "last_seen_at": "2026-09-13T09:47:54+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_053f4fa216fa9d7c5edf",
