@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-13T20:06:55+00:00",
+  "generated_at": "2026-09-13T20:22:40+00:00",
   "events": [
     {
       "event_id": "evt_0177d8625bc83d6c8e11",
@@ -2084,12 +2084,12 @@
     {
       "event_id": "evt_5dfd470eaa06a58ab60a",
       "title": "M 4.9 - 86 km SSW of Isangel, Vanuatu",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -3399,7 +3399,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_8f19adcf428a7cb64b7e",
@@ -5120,12 +5120,12 @@
     {
       "event_id": "evt_d9dbb6225a6eb5edc4ee",
       "title": "重みは学習するのか、測るのか。ハエの脳が問い直すAIのつくり方",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -5798,6 +5798,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_f154bbd01a4526e6b250",
+      "title": "マイクロソフトがRust言語をC++/C#/TSに並ぶ社内のTier 1言語にしたことを明らかに。Windowsネイティブな社内の開発環境と統合",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_f1d3a45d338a9b45247c",
