@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-13T12:41:04Z_
+_Generated: 2026-09-13T12:49:50Z_
 
 ## Lageurteil
 
@@ -15,7 +15,7 @@ Stärkste Dynamik nach Gate-Recheck: “私はChatGPTですが、はてブとGya
 - Published: `2026-08-31T18:43:10+00:00` / age_days `12.75`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, baseline z_hint 6.88, krass gate: single-source non-official/non-identity signal capped
+- Warum: momentum delta +3, baseline z_hint 6.57, krass gate: single-source non-official/non-identity signal capped
 - Quelle: https://note.com/yuiseki/n/nabf4625e58bc
 
 ### M 4.9 - Bonin Islands, Japan region
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “私はChatGPTですが、はてブとGya
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.5`
-- Published: `2026-09-13T07:49:09+00:00` / age_days `0.2`
+- Published: `2026-09-13T07:49:09+00:00` / age_days `0.21`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “私はChatGPTですが、はてブとGya
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-09-04T10:58:35+00:00` / age_days `9.07`
+- Published: `2026-09-04T10:58:35+00:00` / age_days `9.08`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “私はChatGPTですが、はてブとGya
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-09-13T09:47:54+00:00` / age_days `0.12`
+- Published: `2026-09-13T09:47:54+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “私はChatGPTですが、はてブとGya
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-09-13T05:55:20+00:00` / age_days `0.28`
+- Published: `2026-09-13T05:55:20+00:00` / age_days `0.29`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “私はChatGPTですが、はてブとGya
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `12.0`
-- Published: `2026-09-13T07:36:40.040+00:00` / age_days `0.21`
+- Published: `2026-09-13T07:36:40.040+00:00` / age_days `0.22`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake
