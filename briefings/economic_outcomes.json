@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-13T21:20:25+00:00",
+  "generated_at": "2026-09-13T21:29:03+00:00",
   "events": [
     {
       "event_id": "evt_0177d8625bc83d6c8e11",
@@ -3140,12 +3140,12 @@
     {
       "event_id": "evt_850cc29c880c851e4489",
       "title": "テーブルの created at にサービスのドメインロジックを持たせない - めもるが",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -4302,6 +4302,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_b4b4055435c137598963",
+      "title": "AI開発「減速」をアンソロピックCEOが提案 アルトマン氏・マスク氏らも賛同",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_b4c0a858bb3bc4aed886",
@@ -6116,7 +6127,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_ff692f3789f4ee8ecab8",
