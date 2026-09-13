@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-13T21:19:55+00:00",
+  "generated_at": "2026-09-13T21:28:36+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 25,
-    "clusters": 24,
+    "findings": 26,
+    "clusters": 25,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 0,
@@ -401,8 +401,8 @@
       "first_seen_at": "2026-09-13T20:06:27+00:00"
     },
     {
-      "key": "domain:scrapbox.io",
-      "title": "テーブルの created at にサービスのドメインロジックを持たせない - めもるが",
+      "key": "title:ceo",
+      "title": "AI開発「減速」をアンソロピックCEOが提案 アルトマン氏・マスク氏らも賛同",
       "sources": [
         "Hatena Bookmark Hotentry IT"
       ],
@@ -410,7 +410,7 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://scrapbox.io/uvb-76/%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E3%81%AE_created_at_%E3%81%AB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%AD%E3%82%B8%E3%83%83%E3%82%AF%E3%82%92%E6%8C%81%E3%81%9F%E3%81%9B%E3%81%AA%E3%81%84"
+        "https://www.watch.impress.co.jp/docs/news/2140440.html"
       ],
       "finding_count": 1,
       "max_score": 5,
@@ -436,7 +436,7 @@
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-09-13T21:19:55+00:00"
+      "first_seen_at": "2026-09-13T21:28:36+00:00"
     },
     {
       "key": "domain:nyosegawa.com",
@@ -674,6 +674,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-13T20:22:12+00:00"
+    },
+    {
+      "key": "domain:scrapbox.io",
+      "title": "テーブルの created at にサービスのドメインロジックを持たせない - めもるが",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://scrapbox.io/uvb-76/%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E3%81%AE_created_at_%E3%81%AB%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9%E3%81%AE%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%AD%E3%82%B8%E3%83%83%E3%82%AF%E3%82%92%E6%8C%81%E3%81%9F%E3%81%9B%E3%81%AA%E3%81%84"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 6.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 7.1,
+      "ranking_score": 6.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-13T21:19:55+00:00"
     },
     {
       "key": "title:aox",
@@ -944,7 +982,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-13T21:19:56Z",
+    "generated_at": "2026-09-13T21:28:37Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
