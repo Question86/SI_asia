@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-13T16:40:36+00:00",
+  "generated_at": "2026-09-13T16:48:23+00:00",
   "events": [
     {
       "event_id": "evt_0177d8625bc83d6c8e11",
@@ -1232,7 +1232,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_3af8f852f301f8c1d551",
@@ -3503,12 +3503,12 @@
     {
       "event_id": "evt_9344b26203e6d67b8d78",
       "title": "id:aox に名指しされたので",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
