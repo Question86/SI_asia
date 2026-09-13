@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-13T09:43:54Z",
+  "generated_at": "2026-09-13T10:06:37Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 24,
+    "dynamics": 26,
     "bands": {
       "strong": 1,
       "watch": 9,
-      "quiet": 14
+      "quiet": 16
     },
     "bands_after_gate_recheck": {
       "strong": 1,
       "watch": 9,
-      "quiet": 14
+      "quiet": 16
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th3a",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T04:08:55.040+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "disaster"
       ],
@@ -43,35 +43,11 @@
       "summary": "Time 2026-09-13 03:50:32 UTC 2026-09-13 03:50:32 UTC at epicenter Location 26.305°N 142.253°E Depth 10.00 km (6.21 mi)"
     },
     {
-      "title": "「人類が至った叡智の結晶にして、夢の超技術、なんと、それをボイラーに！」水が都合の良すぎる物体だったために、人類はまだタービンを回してる",
-      "url": "https://togetter.com/li/2744946",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-04T10:58:35+00:00",
-      "age_days": 8.95,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 16.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
       "title": "M 5.0 - southeast of the Loyalty Islands",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th50",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T07:49:09+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -95,7 +71,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th4y",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T07:41:15+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -119,7 +95,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th3a",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-06-19T20:12:42+00:00",
-      "age_days": 85.56,
+      "age_days": 85.58,
       "topics": [
         "general"
       ],
@@ -140,11 +116,35 @@
       "summary": ""
     },
     {
+      "title": "「人類が至った叡智の結晶にして、夢の超技術、なんと、それをボイラーに！」水が都合の良すぎる物体だったために、人類はまだタービンを回してる",
+      "url": "https://togetter.com/li/2744946",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-04T10:58:35+00:00",
+      "age_days": 8.96,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "なぜUSB Type-Cポートは壊れやすい？ Dell XPSを分解して分かった最新PCのトレンド",
       "url": "https://www.itmedia.co.jp/pcuser/articles/2609/13/news009.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T06:58:03+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -168,7 +168,7 @@
       "url": "https://github.com/Flowseal/zapret-discord-youtube",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-13T05:55:20+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -192,7 +192,7 @@
       "url": "https://www.itmedia.co.jp/pcuser/articles/2609/13/news009.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T03:35:37+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [],
       "dynamics_score": 13.0,
       "raw_band": "watch",
@@ -215,7 +215,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th50",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T07:45:30.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -239,7 +239,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th4y",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-13T07:36:40.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -259,11 +259,35 @@
       "summary": "Time 2026-09-13 07:19:21 UTC 2026-09-13 07:19:21 UTC at epicenter Location 15.220°S 167.436°E Depth 135.08 km (83.94 mi)"
     },
     {
+      "title": "iPhone Duo、36万円超でも需要絶好調？700万台出荷でiPhoneを牽引か - iPhone Mania",
+      "url": "https://iphone-mania.jp/iphone18-605873/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-13T09:47:54+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 11.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "AI Agent時代のリアーキテクチャ戦略と実践",
       "url": "https://speakerdeck.com/hokaccha/ai-agent-jidai-no-senryaku-to-jissen",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 86.32,
+      "age_days": 86.34,
       "topics": [
         "ai"
       ],
@@ -290,7 +314,7 @@
       "url": "https://github.com/jihe520/MathModelAgent",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-13T05:55:20+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -316,7 +340,7 @@
       "url": "https://aws.amazon.com/jp/blogs/news/calculating-the-roi-of-ai/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T04:45:41+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -342,7 +366,7 @@
       "url": "https://speakerdeck.com/hokaccha/ai-agent-jidai-no-senryaku-to-jissen",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-12T08:17:26+00:00",
-      "age_days": 1.06,
+      "age_days": 1.08,
       "topics": [
         "ai"
       ],
@@ -367,7 +391,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN122UY0S6A910C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T00:11:29+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "ai"
       ],
@@ -393,7 +417,7 @@
       "url": "https://github.com/jihe520/MathModelAgent",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-13T05:54:46+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai",
         "macro"
@@ -420,7 +444,7 @@
       "url": "https://news.web.nhk/newsweb/na/nd-20260913de49934",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T01:55:34+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -446,7 +470,7 @@
       "url": "https://note.com/takahiroanno/n/n4accbde18d56",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 12.63,
+      "age_days": 12.64,
       "topics": [
         "ai"
       ],
@@ -472,7 +496,7 @@
       "url": "https://togetter.com/li/2744946",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T05:24:43+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -492,11 +516,35 @@
       "summary": "ダンボール神話 @card_board1909 人類が至った叡智の結晶にして、夢の超技術・核融合。 人類をエネルギー問題から永久に救った、質量を直接変換して得られる、未だかつてなき膨大な熱量。 それをなんと 今日は ボイラーにですね x.com/ekyozyu/status… 2026-09-12 01:50:46"
     },
     {
+      "title": "iPhone Duo、36万円超でも需要絶好調？700万台出荷でiPhoneを牽引か - iPhone Mania",
+      "url": "https://iphone-mania.jp/iphone18-605873/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-13T05:23:07+00:00",
+      "age_days": 0.2,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "iPhone Duoは、日本では36万円を超える高価格モデルですが、市場予想レンジの下限をわずかに下回る価格設定となっています。GF Securitiesのアナリスト、ジェフ・プー氏は、消費者の強い関心を背景に、iPhone Duoが2026年後半のiPhone出荷を牽引するとの見方を示しています。 iPhone18 Proの値上げ幅は予想よりも小規模 ..."
+    },
+    {
       "title": "アンソロピックCEO「AIが1年内ネット乗っ取り恐れ」 開発減速訴え - 日本経済新聞",
       "url": "https://www.nikkei.com/article/DGXZQOGN122UY0S6A910C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T02:10:07+00:00",
-      "age_days": 86.32,
+      "age_days": 86.33,
       "topics": [
         "ai"
       ],
@@ -523,7 +571,7 @@
       "url": "https://aws.amazon.com/jp/blogs/news/calculating-the-roi-of-ai/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-12T13:12:01+00:00",
-      "age_days": 0.86,
+      "age_days": 0.87,
       "topics": [
         "ai"
       ],
@@ -548,7 +596,7 @@
       "url": "https://news.web.nhk/newsweb/na/nd-20260913de49934",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-13T00:25:21+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "ai"
       ],
@@ -573,7 +621,7 @@
       "url": "https://note.com/takahiroanno/n/n4accbde18d56",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-12T22:49:40+00:00",
-      "age_days": 0.45,
+      "age_days": 0.47,
       "topics": [
         "ai"
       ],
@@ -598,7 +646,7 @@
       "url": "https://github.com/Flowseal/zapret-discord-youtube",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-13T05:54:46+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
