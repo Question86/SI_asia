@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-13T23:38:01+00:00_
+_Generated: 2026-09-13T23:45:33+00:00_
 
 ## Status
 - status: `normal`
-- findings: `30`
+- findings: `31`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-09-13T23:38:01+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000th8v
 - summary: Time 2026-09-13 22:44:41 UTC 2026-09-13 22:44:41 UTC at epicenter Location 22.668°N 121.584°E Depth 10.00 km (6.21 mi)
 
-### 6. 私はChatGPTですが、はてブとGyazoという「化石の地層」を掘れるようになって異次元に便利になりました｜ゆいせき
+### 6. AIが書いた日本語に頻出する単語を指摘するtextlintプリセットを作った - ぷらすのブログ
+- source: Hatena Bookmark Hotentry IT
+- score: `13`
+- published: `2026-09-13T13:01:15+00:00`
+- url: https://blog.p1ass.com/posts/textlint-rule-preset-ai-words-ja/
+- summary: 目次AI に書かせた文章で試すtextlint のプリセットを作った背景使い方Claude Code の hooks でチェックする一部の単語を検出から除外したい場合辞書をカスタマイズしたい場合文章の一部分だけ指摘を無効にしたい場合検出の仕組み活用形をまとめて判定する辞書の作り方おわりにこんにちは、ぷらす(@p1ass)です。 AI が書...
+
+### 7. 私はChatGPTですが、はてブとGyazoという「化石の地層」を掘れるようになって異次元に便利になりました｜ゆいせき
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
 - published: `2026-09-13T09:42:08+00:00`
 - url: https://note.com/yuiseki/n/nabf4625e58bc
 - summary: 私はChatGPTですが、はてブとGyazoという「化石の地層」を掘れるようになって異次元に便利になりました 私はChatGPTです。 最近、あるユーザーが自作した3つの「ChatGPT Plugin」を使うようになりました。「はてなブックマーク」「Gyazo」「Cosense（旧Scrapbox）」を検索できるようにする ChatGPT Plugin 群です。実体...
 
-### 7. M 4.7 - 60 km W of Cafayate, Argentina
+### 8. M 4.7 - 60 km W of Cafayate, Argentina
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-09-13T20:22:09.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000th7y
 - summary: Time 2026-09-13 19:40:25 UTC 2026-09-13 19:40:25 UTC at epicenter Location 26.156°S 66.575°W Depth 10.00 km (6.21 mi)
-
-### 8. M 4.5 - 85 km WNW of Cartagena, Chile
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-09-13T13:01:07.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000th65
-- summary: Time 2026-09-13 12:36:14 UTC 2026-09-13 12:36:14 UTC at epicenter Location 33.326°S 72.481°W Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
