@@ -1,28 +1,28 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-13T13:23:15Z_
+_Generated: 2026-09-13T13:35:56Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “私はChatGPTですが、はてブとGyazoという「化石の地層」を掘れるようになって異次元に便利になりました｜ゆいせき” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.
+Stärkste Dynamik nach Gate-Recheck: “私はChatGPTですが、はてブとGyazoという「化石の地層」を掘れるようになって異次元に便利になりました｜ゆいせき” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.89.
 
 ## Top Dynamics
 
 ### 私はChatGPTですが、はてブとGyazoという「化石の地層」を掘れるようになって異次元に便利になりました｜ゆいせき
 
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-08-31T18:43:10+00:00` / age_days `12.78`
+- Band: `strong` (raw `strong`)
+- Dynamics score: `26.89`
+- Published: `2026-08-31T18:43:10+00:00` / age_days `12.79`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, baseline z_hint 5.66, krass gate: single-source non-official/non-identity signal capped
+- Warum: momentum delta +3, baseline z_hint 5.36
 - Quelle: https://note.com/yuiseki/n/nabf4625e58bc
 
 ### M 4.9 - Bonin Islands, Japan region
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-13T04:08:55.040+00:00` / age_days `0.38`
+- Published: `2026-09-13T04:08:55.040+00:00` / age_days `0.39`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “私はChatGPTですが、はてブとGya
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.5`
-- Published: `2026-09-13T07:49:09+00:00` / age_days `0.23`
+- Published: `2026-09-13T07:49:09+00:00` / age_days `0.24`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -52,11 +52,21 @@ Stärkste Dynamik nach Gate-Recheck: “私はChatGPTですが、はてブとGya
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.5`
-- Published: `2026-09-13T07:41:15+00:00` / age_days `0.24`
+- Published: `2026-09-13T07:41:15+00:00` / age_days `0.25`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000th4y
+
+### M 4.5 - 85 km WNW of Cartagena, Chile
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `16.0`
+- Published: `2026-09-13T13:07:27+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +2
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000th65
 
 ### M 4.9 - Bonin Islands, Japan region
 
@@ -72,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “私はChatGPTですが、はてブとGya
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-09-04T10:58:35+00:00` / age_days `9.1`
+- Published: `2026-09-04T10:58:35+00:00` / age_days `9.11`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -82,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “私はChatGPTですが、はてブとGya
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-09-13T09:47:54+00:00` / age_days `0.15`
+- Published: `2026-09-13T09:47:54+00:00` / age_days `0.16`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -92,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “私はChatGPTですが、はてブとGya
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-09-13T06:58:03+00:00` / age_days `0.27`
+- Published: `2026-09-13T06:58:03+00:00` / age_days `0.28`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -102,27 +112,17 @@ Stärkste Dynamik nach Gate-Recheck: “私はChatGPTですが、はてブとGya
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-09-13T05:55:20+00:00` / age_days `0.31`
+- Published: `2026-09-13T05:55:20+00:00` / age_days `0.32`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
 - Quelle: https://github.com/Flowseal/zapret-discord-youtube
 
-### M 4.5 - 85 km WNW of Cartagena, Chile
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `13.5`
-- Published: `2026-09-13T13:07:27+00:00` / age_days `0.01`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000th65
-
 ### なぜUSB Type-Cポートは壊れやすい？ Dell XPSを分解して分かった最新PCのトレンド
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `13.0`
-- Published: `2026-09-13T03:35:37+00:00` / age_days `0.41`
+- Published: `2026-09-13T03:35:37+00:00` / age_days `0.42`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit
