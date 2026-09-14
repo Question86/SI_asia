@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T18:49:36+00:00",
+  "generated_at": "2026-09-14T18:57:17+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 85,
@@ -33,20 +33,20 @@
       "cross_source_confirmed": true,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 25.84,
+      "network_score": 25.63,
       "hot": true,
       "watchgraph_modules": [
         "capitals_power_centers"
       ],
       "recommended_action": "HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 30.4,
-      "ranking_score": 25.84,
+      "ranking_score": 25.63,
       "initial_reach_tier": "institutional",
       "source_reach_score": 5.0,
       "authority_bonus_capped": 3.0,
       "breadth_bonus": 5.5,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 1.34,
+      "baseline_bonus": 1.13,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -334,50 +334,6 @@
       "first_seen_at": "2026-09-14T01:57:43+00:00"
     },
     {
-      "key": "domain:www.bis.org",
-      "title": "Strengthening collaboration to preserve sovereignty: collaborative cash ecosystems - global strategies to preserve trust and sovereignty",
-      "sources": [
-        "BIS Central Bankers Speeches"
-      ],
-      "source_classes": [
-        "central_bank",
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.bis.org/speeches/20260914-strengthening-collaboration-preserve-sovereignty-collaborative-cash-ecosystems-global-strategies-preserve-trust-and",
-        "https://www.bis.org/speeches/20260907-winning-ai-era-new-playbook-indian-banks",
-        "https://www.bis.org/speeches/20260907-opening-remarks-ccbg-subcommittee-banking-supervision-and-financial-stability-meeting",
-        "https://www.bis.org/speeches/20260907-monetary-policy-and-financial-stability-snb-role-macroprudential-tools",
-        "https://www.bis.org/speeches/20260907-speech-launch-a-EUR2-commemorative-circulating-coin-mark-irelands-presidency-council-european-union",
-        "https://www.bis.org/speeches/20260914-launch-rhbpay-first-bank-owned-integrated-payment-gateway-malaysia"
-      ],
-      "finding_count": 12,
-      "max_score": 13,
-      "credibility_total": 12.6,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 15.78,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 38.2,
-      "ranking_score": 15.78,
-      "initial_reach_tier": "institutional",
-      "source_reach_score": 5.0,
-      "authority_bonus_capped": 3.0,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 2.78,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 3.0,
-      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-06-18T14:33:45+00:00"
-    },
-    {
       "key": "title:android-yamap",
       "title": "Androidアプリ「YAMAP / ヤマップ登山地図アプリ」におけるアクセス制限不備の脆弱性",
       "sources": [
@@ -566,6 +522,50 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-14T06:45:56+00:00"
+    },
+    {
+      "key": "domain:www.bis.org",
+      "title": "Strengthening collaboration to preserve sovereignty: collaborative cash ecosystems - global strategies to preserve trust and sovereignty",
+      "sources": [
+        "BIS Central Bankers Speeches"
+      ],
+      "source_classes": [
+        "central_bank",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.bis.org/speeches/20260914-strengthening-collaboration-preserve-sovereignty-collaborative-cash-ecosystems-global-strategies-preserve-trust-and",
+        "https://www.bis.org/speeches/20260907-winning-ai-era-new-playbook-indian-banks",
+        "https://www.bis.org/speeches/20260907-opening-remarks-ccbg-subcommittee-banking-supervision-and-financial-stability-meeting",
+        "https://www.bis.org/speeches/20260907-monetary-policy-and-financial-stability-snb-role-macroprudential-tools",
+        "https://www.bis.org/speeches/20260907-speech-launch-a-EUR2-commemorative-circulating-coin-mark-irelands-presidency-council-european-union",
+        "https://www.bis.org/speeches/20260914-launch-rhbpay-first-bank-owned-integrated-payment-gateway-malaysia"
+      ],
+      "finding_count": 12,
+      "max_score": 13,
+      "credibility_total": 12.6,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 15.37,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 38.2,
+      "ranking_score": 15.37,
+      "initial_reach_tier": "institutional",
+      "source_reach_score": 5.0,
+      "authority_bonus_capped": 3.0,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 2.37,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
       "key": "earthquake:indonesia:4.6",
@@ -865,18 +865,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 12.69,
+      "network_score": 12.68,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 13.1,
-      "ranking_score": 12.69,
+      "ranking_score": 12.68,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.19,
+      "baseline_bonus": 0.18,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1998,7 +1998,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-14T18:49:36Z",
+    "generated_at": "2026-09-14T18:57:17Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
