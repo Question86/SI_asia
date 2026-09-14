@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-09-14T13:53:03+00:00",
+  "generated_at": "2026-09-14T14:00:42+00:00",
   "fx_as_of": null,
-  "candidate_count": 634,
+  "candidate_count": 637,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 634
+    "pending": 637
   },
   "coverage_warning": null,
   "candidates": [
@@ -13146,6 +13146,63 @@
       "snippet": "もブラウザ拡張で収集しているデータが確認でき、リスト化していたことも踏まえると、デジタル庁においてはそもそもそのような脆弱な状況のままであった、というのは確定しています。実際、私自身も2022年、2024年、2025年と、三回にわたって「見えてるんですけど」という話はデジタル庁にしています。 ダウンロード copy ここから先は 10,694字 / 1画像 ¥ 300 Amazon Payで支払うと 最大2%還元のチャンス！ 9/30まで 購入手続きへ 9 人が高評価 ログイン #デジタル庁 #VPN #ゼロトラスト #GSS 58 神から「お前もそろそろnoteぐらい駄文練習用に使え使え使え使え使え」と言われた気がしたので、のろのろと再始動する感じのアカウント チップで応援 山本一郎（やまもといちろう） フォロー 普段は",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://note.com/kirik/n/n8e7920167c3f"
+    },
+    {
+      "amount_native": 2.0,
+      "amount_usd": null,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_3ec55ee547bedbb9d459",
+      "component_suggestion": "transfers",
+      "conversion_status": "missing_rate",
+      "currency": "EUR",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-14T14:00:42+00:00",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:transfers:dbe42a17ecc1",
+      "review_status": "pending",
+      "snippet": "Speech - launch of a €2 Commemorative Circulating Coin to mark Ireland’s Presidency of the Council of the European Union | Bank for International Settlements Skip to main content Search Close search About",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://www.bis.org/speeches/20260907-speech-launch-a-EUR2-commemorative-circulating-coin-mark-irelands-presidency-council-european-union",
+      "component_confidence": 0.55
+    },
+    {
+      "amount_native": 2.0,
+      "amount_usd": null,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_d5bd503d567354e67261",
+      "component_suggestion": "unknown",
+      "conversion_status": "missing_rate",
+      "currency": "EUR",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-14T14:00:42+00:00",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unknown:8ac35e3f332e",
+      "review_status": "pending",
+      "snippet": "Organisation & governance Charter History Back About the IFC Overview Organisation & governance Terms of Reference History Search Submit search Home Speeches Speech - launch of a €2 Commemorative Circulating Coin to mark Ireland’s Presidency of the Council of the European Union By Gabriel Makhlouf Type Speech Subtype Central banker's speech Date delivered 14 S",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://www.bis.org/speeches/20260907-speech-launch-a-EUR2-commemorative-circulating-coin-mark-irelands-presidency-council-european-union",
+      "component_confidence": 0.0
+    },
+    {
+      "amount_native": 2.0,
+      "amount_usd": null,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_416fadb3e7a779836391",
+      "component_suggestion": "unknown",
+      "conversion_status": "missing_rate",
+      "currency": "EUR",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-14T14:00:42+00:00",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unknown:f7dd16b1bb2c",
+      "review_status": "pending",
+      "snippet": "Speech Subtype Central banker's speech Date delivered 14 September 2026 Country Ireland Speech by Mr Gabriel Makhlouf, Governor of the Central Bank of Ireland, at the Launch of a €2 Commemorative Circulating Coin to mark Ireland’s Presidency of the Council of the European Union, Dublin, 6 July 2026. Good morning everyone. I am delighted to be joined this morni",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://www.bis.org/speeches/20260907-speech-launch-a-EUR2-commemorative-circulating-coin-mark-irelands-presidency-council-european-union",
+      "component_confidence": 0.0
     }
   ]
 }
