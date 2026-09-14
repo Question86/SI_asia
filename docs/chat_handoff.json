@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-14T14:35:24+00:00",
+  "generated_at": "2026-09-14T14:47:12+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 71,
-    "displayed_findings": 71,
+    "today_file_total": 73,
+    "displayed_findings": 73,
     "high": 0,
     "medium": 33,
-    "observe": 38
+    "observe": 40
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -55,6 +55,16 @@
       "section": "medium"
     },
     {
+      "title": "Strengthening collaboration to preserve sovereignty: collaborative cash ecosystems - global strategies to preserve trust and sovereignty",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-14T00:00:00+00:00",
+      "relevance_score": 13,
+      "url": "https://www.bis.org/speeches/20260914-strengthening-collaboration-preserve-sovereignty-collaborative-cash-ecosystems-global-strategies-preserve-trust-and",
+      "summary": "Keynote address by Mr Shirish Chandra Murmu, Deputy Governor of the Reserve Bank of India, at the “Focus Group Discussion on Global Cash Management 2026”, organised by Bank Indonesia, Jakarta, 13 August 2026.",
+      "section": "observe"
+    },
+    {
       "title": "Announcing 20260081 (MRO,liquidity providing), for 7 days deadline 09:30",
       "source": "ECB Open Market Operations and Communication",
       "source_type": "rss",
@@ -82,16 +92,6 @@
       "relevance_score": 12,
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914~0ffd556bc8.en.pdf",
       "summary": "Isabel Schnabel: Macroeconomic, fiscal and financial stability in a shock-prone world",
-      "section": "observe"
-    },
-    {
-      "title": "The Fed is the real crypto story, Bitcoin and Ethereum are just following",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-14T04:22:27+00:00",
-      "relevance_score": 12,
-      "url": "https://e27.co/the-fed-is-the-real-crypto-story-bitcoin-and-ethereum-are-just-following-20260914/",
-      "summary": "We have entered a cautious stretch. Bitcoin has slipped 0.72 per cent over the past 24 hours to US$76,697.14. Ethereum has fallen harder, down 1.95 per cent to US$2,474.93. This pullback reflects a broader market decline of 0.99 per cent. The dominant force b…",
       "section": "observe"
     }
   ],

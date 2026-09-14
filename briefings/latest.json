@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T14:35:24+00:00",
-  "run_id": "2026-09-14T14:35:24+00:00",
+  "generated_at": "2026-09-14T14:47:12+00:00",
+  "run_id": "2026-09-14T14:47:12+00:00",
   "date": "2026-09-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 71
+      "configured_public_sources_only": 73
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 71,
-    "displayed_findings": 71,
+    "today_file_total": 73,
+    "displayed_findings": 73,
     "high": 0,
     "medium": 33,
-    "observe": 38,
+    "observe": 40,
     "source_errors": 0
   },
   "sections": {
@@ -881,6 +881,27 @@
     ],
     "observe": [
       {
+        "title": "Strengthening collaboration to preserve sovereignty: collaborative cash ecosystems - global strategies to preserve trust and sovereignty",
+        "url": "https://www.bis.org/speeches/20260914-strengthening-collaboration-preserve-sovereignty-collaborative-cash-ecosystems-global-strategies-preserve-trust-and",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-09-14T00:00:00+00:00",
+        "fetched_at": "2026-09-14T14:46:40+00:00",
+        "summary": "Keynote address by Mr Shirish Chandra Murmu, Deputy Governor of the Reserve Bank of India, at the “Focus Group Discussion on Global Cash Management 2026”, organised by Bank Indonesia, Jakarta, 13 August 2026.",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Macro/Policy"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region india: India, Reserve Bank of India (+2.0); watchgraph region southeast_asia: Indonesia (+2.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3ab658bc26a59fa4f1ec"
+      },
+      {
         "title": "Announcing 20260081 (MRO,liquidity providing), for 7 days deadline 09:30",
         "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260081.en.html",
         "source": "ECB Open Market Operations and Communication",
@@ -1299,6 +1320,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "9dadc9c2cbaf8392f246"
+      },
+      {
+        "title": "Launch of RHBPay – the first bank-owned integrated payment gateway in Malaysia",
+        "url": "https://www.bis.org/speeches/20260914-launch-rhbpay-first-bank-owned-integrated-payment-gateway-malaysia",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-09-14T00:00:00+00:00",
+        "fetched_at": "2026-09-14T14:46:40+00:00",
+        "summary": "Keynote address by Mr Aznan Abdul Aziz, Deputy Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the RHBPay Launch Event, Kuala Lumpur, 5 August 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "cb7d4dfa4a7d97d32af0"
       },
       {
         "title": "Keynote address - Sasana Symposium 2026",
@@ -2597,6 +2638,27 @@
       "id": "5cf2379350d0def2dc88"
     },
     {
+      "title": "Strengthening collaboration to preserve sovereignty: collaborative cash ecosystems - global strategies to preserve trust and sovereignty",
+      "url": "https://www.bis.org/speeches/20260914-strengthening-collaboration-preserve-sovereignty-collaborative-cash-ecosystems-global-strategies-preserve-trust-and",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-14T00:00:00+00:00",
+      "fetched_at": "2026-09-14T14:46:40+00:00",
+      "summary": "Keynote address by Mr Shirish Chandra Murmu, Deputy Governor of the Reserve Bank of India, at the “Focus Group Discussion on Global Cash Management 2026”, organised by Bank Indonesia, Jakarta, 13 August 2026.",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Macro/Policy"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region india: India, Reserve Bank of India (+2.0); watchgraph region southeast_asia: Indonesia (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3ab658bc26a59fa4f1ec"
+    },
+    {
       "title": "Announcing 20260081 (MRO,liquidity providing), for 7 days deadline 09:30",
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260081.en.html",
       "source": "ECB Open Market Operations and Communication",
@@ -3015,6 +3077,26 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "9dadc9c2cbaf8392f246"
+    },
+    {
+      "title": "Launch of RHBPay – the first bank-owned integrated payment gateway in Malaysia",
+      "url": "https://www.bis.org/speeches/20260914-launch-rhbpay-first-bank-owned-integrated-payment-gateway-malaysia",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-14T00:00:00+00:00",
+      "fetched_at": "2026-09-14T14:46:40+00:00",
+      "summary": "Keynote address by Mr Aznan Abdul Aziz, Deputy Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the RHBPay Launch Event, Kuala Lumpur, 5 August 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cb7d4dfa4a7d97d32af0"
     },
     {
       "title": "Keynote address - Sasana Symposium 2026",
@@ -3463,45 +3545,45 @@
   ],
   "new_findings": [
     {
-      "title": "Monetary policy and financial stability at the SNB - the role of macroprudential tools",
-      "url": "https://www.bis.org/speeches/20260907-monetary-policy-and-financial-stability-snb-role-macroprudential-tools",
+      "title": "Strengthening collaboration to preserve sovereignty: collaborative cash ecosystems - global strategies to preserve trust and sovereignty",
+      "url": "https://www.bis.org/speeches/20260914-strengthening-collaboration-preserve-sovereignty-collaborative-cash-ecosystems-global-strategies-preserve-trust-and",
       "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
       "published_at": "2026-09-14T00:00:00+00:00",
-      "fetched_at": "2026-09-14T14:34:54+00:00",
-      "summary": "Speech by Mr Antoine Martin, Vice Chairman of the Governing Board of the Swiss National Bank, at the University of Basel, Basel, 16 August 2026.",
+      "fetched_at": "2026-09-14T14:46:40+00:00",
+      "summary": "Keynote address by Mr Shirish Chandra Murmu, Deputy Governor of the Reserve Bank of India, at the “Focus Group Discussion on Global Cash Management 2026”, organised by Bank Indonesia, Jakarta, 13 August 2026.",
       "matched_keywords": [
-        "macro",
+        "APAC Trend Radar",
         "Macro/Policy"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "Macro/Policy (+6.2); macro (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e3b24ad61c3b391769d2"
-    },
-    {
-      "title": "Keynote address - 2026 Youth Leadership Summit",
-      "url": "https://www.bis.org/speeches/20260907-keynote-address-2026-youth-leadership-summit",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-09-14T00:00:00+00:00",
-      "fetched_at": "2026-09-14T14:34:54+00:00",
-      "summary": "Keynote address by Mr Lesetja Kganyago, Governor of the South African Reserve Bank, at the 2026 Youth Leadership Summit, Johannesburg, 20 June 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "relevance_score": 13,
+      "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region india: India, Reserve Bank of India (+2.0); watchgraph region southeast_asia: Indonesia (+2.0)",
       "risk_or_opportunity": "opportunity",
       "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "92857c7718b7562bc33b"
+      "id": "3ab658bc26a59fa4f1ec"
+    },
+    {
+      "title": "Launch of RHBPay – the first bank-owned integrated payment gateway in Malaysia",
+      "url": "https://www.bis.org/speeches/20260914-launch-rhbpay-first-bank-owned-integrated-payment-gateway-malaysia",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-14T00:00:00+00:00",
+      "fetched_at": "2026-09-14T14:46:40+00:00",
+      "summary": "Keynote address by Mr Aznan Abdul Aziz, Deputy Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the RHBPay Launch Event, Kuala Lumpur, 5 August 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cb7d4dfa4a7d97d32af0"
     }
   ],
   "source_errors": [],

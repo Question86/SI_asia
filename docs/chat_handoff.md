@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-14T14:35:24+00:00_
+_Generated: 2026-09-14T14:47:12+00:00_
 
 ## Status
 - status: `normal`
-- findings: `71`
+- findings: `73`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-09-14T14:35:24+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3345
 - summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Microsoft Edge ausnutzen, um einen Spoofing- und einen Cross-Site-Scripting-Angriff durchzuführen.
 
-### 5. Announcing 20260081 (MRO,liquidity providing), for 7 days deadline 09:30
+### 5. Strengthening collaboration to preserve sovereignty: collaborative cash ecosystems - global strategies to preserve trust and sovereignty
+- source: BIS Central Bankers Speeches
+- score: `13`
+- published: `2026-09-14T00:00:00+00:00`
+- url: https://www.bis.org/speeches/20260914-strengthening-collaboration-preserve-sovereignty-collaborative-cash-ecosystems-global-strategies-preserve-trust-and
+- summary: Keynote address by Mr Shirish Chandra Murmu, Deputy Governor of the Reserve Bank of India, at the “Focus Group Discussion on Global Cash Management 2026”, organised by Bank Indonesia, Jakarta, 13 August 2026.
+
+### 6. Announcing 20260081 (MRO,liquidity providing), for 7 days deadline 09:30
 - source: ECB Open Market Operations and Communication
 - score: `12`
 - published: `2026-09-14T14:40:19+00:00`
 - url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260081.en.html
 - summary: Announcing 20260081 (MRO,liquidity providing), for 7 days deadline 09:30
 
-### 6. Tesla establishes Vietnam subsidiary as EV rivalry with VinFast looms
+### 7. Tesla establishes Vietnam subsidiary as EV rivalry with VinFast looms
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-09-14T09:40:16+00:00`
 - url: https://e27.co/tesla-establishes-vietnam-subsidiary-as-ev-rivalry-with-vinfast-looms-20260914/
 - summary: Tesla has formally established a Vietnamese subsidiary, marking a small but closely watched step into one of Southeast Asia’s most dynamic electric vehicle markets. According to a filing on Vietnam’s National Business Registration Portal dated September 12, T…
 
-### 7. Isabel Schnabel: Macroeconomic, fiscal and financial stability in a shock-prone world
+### 8. Isabel Schnabel: Macroeconomic, fiscal and financial stability in a shock-prone world
 - source: ECB Press Releases Speeches Interviews
 - score: `12`
 - published: `2026-09-14T09:15:00+00:00`
 - url: https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914~0ffd556bc8.en.pdf
 - summary: Isabel Schnabel: Macroeconomic, fiscal and financial stability in a shock-prone world
-
-### 8. The Fed is the real crypto story, Bitcoin and Ethereum are just following
-- source: e27 Asia Startup and Tech Feed
-- score: `12`
-- published: `2026-09-14T04:22:27+00:00`
-- url: https://e27.co/the-fed-is-the-real-crypto-story-bitcoin-and-ethereum-are-just-following-20260914/
-- summary: We have entered a cautious stretch. Bitcoin has slipped 0.72 per cent over the past 24 hours to US$76,697.14. Ethereum has fallen harder, down 1.95 per cent to US$2,474.93. This pullback reflects a broader market decline of 0.99 per cent. The dominant force b…
 
 END OF DOCUMENT

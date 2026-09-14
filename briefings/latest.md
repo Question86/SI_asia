@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-14T14:35:24+00:00_
+_Generiert: 2026-09-14T14:47:12+00:00_
 
 ## Kurzlage
 
-71 neue relevante Treffer. Stärkstes Signal: „M 5.6 - 78 km NNE of Tobelo, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
+73 neue relevante Treffer. Stärkstes Signal: „M 5.6 - 78 km NNE of Tobelo, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -198,6 +198,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Strengthening collaboration to preserve sovereignty: collaborative cash ecosystems - global strategies to preserve trust and sovereignty** — Score 13, opportunity — [Quelle](https://www.bis.org/speeches/20260914-strengthening-collaboration-preserve-sovereignty-collaborative-cash-ecosystems-global-strategies-preserve-trust-and)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-09-14T00:00:00+00:00`, fetched `2026-09-14T14:46:40+00:00`
+  - Treffer: APAC Trend Radar, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region india: India, Reserve Bank of India (+2.0); watchgraph region southeast_asia: Indonesia (+2.0)
+  - Kurz: Keynote address by Mr Shirish Chandra Murmu, Deputy Governor of the Reserve Bank of India, at the “Focus Group Discussion on Global Cash Management 2026”, organised by Bank Indonesia, Jakarta, 13 August 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Announcing 20260081 (MRO,liquidity providing), for 7 days deadline 09:30** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260081.en.html)
   - Quelle: ECB Open Market Operations and Communication / `rss`
   - Zeit: published `2026-09-14T14:40:19+00:00`, fetched `2026-09-14T13:44:03+00:00`
@@ -323,15 +332,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Piero Cipollone: The future of euro cash: trusted today, designed for tomorrow
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Speech - launch of a €2 Commemorative Circulating Coin to mark Ireland’s Presidency of the Council of the European Union** — Score 8, observation — [Quelle](https://www.bis.org/speeches/20260907-speech-launch-a-EUR2-commemorative-circulating-coin-mark-irelands-presidency-council-european-union)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-09-14T00:00:00+00:00`, fetched `2026-09-14T13:59:24+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: European Union (+2.0)
-  - Kurz: Speech by Mr Gabriel Makhlouf, Governor of the Central Bank of Ireland, at the Launch of a €2 Commemorative Circulating Coin to mark Ireland’s Presidency of the Council of the European Union, Dublin, 6 July 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
