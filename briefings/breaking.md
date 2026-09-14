@@ -1,11 +1,11 @@
 # Senna Breaking
 
-_Generiert: 2026-09-14T21:00:21+00:00_
+_Generiert: 2026-09-14T21:17:17+00:00_
 
 ## OpenAIやAnthropicなどAIベンダごとのAPIの違いを吸収し統合する「Agent Router」、Linux Foundation傘下で業界標準へ
 
-- Ranking Score: `32.5`
-- Raw Network Score: `28.1`
+- Ranking Score: `30.0`
+- Raw Network Score: `25.1`
 - Max Monitor Score: `23`
 - Reichweite: `specialist` / `2.5`
 - Early Signal: `ja`
@@ -13,13 +13,13 @@ _Generiert: 2026-09-14T21:00:21+00:00_
 - Quellen: Hatena Bookmark Hotentry IT
 - Klassen: tier3_specialist
 - Cross-source bestaetigt: nein
-- Momentum: increasing (+1)
+- Momentum: stable (+0)
 - Erste Quelle: https://www.publickey1.jp/blog/26/openaianthropicapiagent_routerlinux_foundation.html
 - Handlung: HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.
 
 ## Christine Lagarde: A new age of capital: growth, sovereignty and AI
 
-- Ranking Score: `24.62`
+- Ranking Score: `24.54`
 - Raw Network Score: `30.4`
 - Max Monitor Score: `16`
 - Reichweite: `institutional` / `5.0`

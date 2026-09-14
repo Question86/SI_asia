@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-14T21:00:20+00:00_
+_Generiert: 2026-09-14T21:17:16+00:00_
 
 ## Kurzlage
 
-90 neue relevante Treffer. Stärkstes Signal: „OpenAIやAnthropicなどAIベンダごとのAPIの違いを吸収し統合する「Agent Router」、Linux Foundation傘下で業界標準へ“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+91 neue relevante Treffer. Stärkstes Signal: „OpenAIやAnthropicなどAIベンダごとのAPIの違いを吸収し統合する「Agent Router」、Linux Foundation傘下で業界標準へ“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -30,7 +30,7 @@ _Generiert: 2026-09-14T21:00:20+00:00_
   - Zeit: `2026-09-11`
   - Kurz: Known exploited vulnerability. Added 2026-09-11. Due 2026-09-14. GitLab Community Edition and Enterprise Edition Path Traversal Vulnerability
 
-- Sensor-Hinweis: GDACS failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+- Sensor-Hinweis: GDACS failed: 503 Server Error: Service Unavailable for url: https://www.gdacs.org/xml/rss.xml
 
 ## Wirtschaft global
 
