@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T05:45:37+00:00",
-  "run_id": "2026-09-14T05:45:37+00:00",
+  "generated_at": "2026-09-14T05:53:14+00:00",
+  "run_id": "2026-09-14T05:53:14+00:00",
   "date": "2026-09-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 17,
     "displayed_findings": 17,
     "high": 0,
@@ -917,30 +917,7 @@
       "id": "38f4230187858633426d"
     }
   ],
-  "new_findings": [
-    {
-      "title": "OpenAI「Astra」は何でもできる、だからこそ“プロの指示”が必要になる (1/4)",
-      "url": "https://ascii.jp/elem/000/004/434/4434403/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-14T01:15:32+00:00",
-      "fetched_at": "2026-09-14T05:45:05+00:00",
-      "summary": "5日、OpenAIの「GPT-6 Astra」が筆者の環境でも使えるようになりました。前のバージョン「GPT-5.5 Sol」よりも、推論ベンチマークでは12倍に達するほど性能が大きく向上したとの報告もあり、注目が集まりました。果たして、その能力はこれまでのAIの常識を変えるほどの汎用性と高い性能を備えていました。ただし、GPT-6 ...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry",
-        "OpenAI"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "88cd5f28749aa34f3753"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
