@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-14T15:04:49+00:00_
+_Generated: 2026-09-14T15:24:09+00:00_
 
 ## Status
 - status: `normal`
-- findings: `75`
+- findings: `77`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-09-14T15:04:49+00:00_
 - url: https://e27.co/ai-doesnt-need-crypto-ai-agents-do-20260912/
 - summary: The AI community keeps asking: “Where’s crypto’s killer app?” They may be asking the wrong species. Blockchain never found product-market fit with humans. It may find it with machines. AI creates intelligence. Blockchain creates verification. For years, one o…
 
-### 4. [NEU] [mittel] Microsoft Edge: Schwachstelle ermöglicht Cross-Site Scripting
-- source: BSI CERT-Bund Security Advisories
+### 4. Christine Lagarde: A new age of capital: growth, sovereignty and AI
+- source: ECB Press Releases Speeches Interviews
 - score: `16`
-- published: `2026-09-14T12:37:22+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3345
-- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Microsoft Edge ausnutzen, um einen Spoofing- und einen Cross-Site-Scripting-Angriff durchzuführen.
+- published: `2026-09-14T15:15:00+00:00`
+- url: https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914_2~a3f0efbee4.en.html
+- summary: Christine Lagarde: A new age of capital: growth, sovereignty and AI
 
 ### 5. Strengthening collaboration to preserve sovereignty: collaborative cash ecosystems - global strategies to preserve trust and sovereignty
 - source: BIS Central Bankers Speeches

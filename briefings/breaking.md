@@ -1,19 +1,19 @@
 # Senna Breaking
 
-_Generiert: 2026-09-14T15:04:53+00:00_
+_Generiert: 2026-09-14T15:24:12+00:00_
 
-## Announcing 20260081 (MRO,liquidity providing), for 7 days deadline 09:30
+## Christine Lagarde: A new age of capital: growth, sovereignty and AI
 
-- Ranking Score: `23.36`
-- Raw Network Score: `24.3`
-- Max Monitor Score: `12`
+- Ranking Score: `32.0`
+- Raw Network Score: `33.4`
+- Max Monitor Score: `16`
 - Reichweite: `institutional` / `5.0`
 - Early Signal: `nein`
 - Dominanter Emitter: `ja`
 - Quellen: ECB Open Market Operations and Communication, ECB Press Releases Speeches Interviews
 - Klassen: central_bank, tier3_specialist
 - Cross-source bestaetigt: ja
-- Momentum: stable (+0)
-- Erste Quelle: http://www.ecb.europa.eu/mopo/implement/omo/html/20260081.en.html
+- Momentum: increasing (+1)
+- Erste Quelle: https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914_2~a3f0efbee4.en.html
 - Handlung: HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.
 

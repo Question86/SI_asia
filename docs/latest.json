@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T15:04:49+00:00",
-  "run_id": "2026-09-14T15:04:49+00:00",
+  "generated_at": "2026-09-14T15:24:09+00:00",
+  "run_id": "2026-09-14T15:24:09+00:00",
   "date": "2026-09-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 75
+      "configured_public_sources_only": 77
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 75,
-    "displayed_findings": 75,
+    "today_file_total": 77,
+    "displayed_findings": 77,
     "high": 0,
-    "medium": 33,
-    "observe": 42,
+    "medium": 34,
+    "observe": 43,
     "source_errors": 0
   },
   "sections": {
@@ -137,6 +137,49 @@
           "PINS"
         ],
         "id": "29197a2f7bcfd5ecce05"
+      },
+      {
+        "title": "Christine Lagarde: A new age of capital: growth, sovereignty and AI",
+        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914_2~a3f0efbee4.en.html",
+        "source": "ECB Press Releases Speeches Interviews",
+        "source_type": "rss",
+        "published_at": "2026-09-14T15:15:00+00:00",
+        "fetched_at": "2026-09-14T15:23:40+00:00",
+        "summary": "Christine Lagarde: A new age of capital: growth, sovereignty and AI",
+        "matched_keywords": [
+          "AI/KI",
+          "Macro/Policy",
+          "Watchgraph:capitals_power_centers"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "AI/KI (+3.8); Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "capitals_power_centers"
+        ],
+        "watchgraph_reasons": [
+          "capitals_power_centers: capital"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ"
+        ],
+        "id": "1d5a56a8b1278f8bbb58"
       },
       {
         "title": "[NEU] [mittel] Microsoft Edge: Schwachstelle ermöglicht Cross-Site Scripting",
@@ -1825,6 +1868,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "38f4230187858633426d"
+      },
+      {
+        "title": "AI活用で生まれた別のコスト - SmartHR Tech Blog",
+        "url": "https://tech.smarthr.jp/entry/2026/09/02/120000",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-02T06:20:18+00:00",
+        "fetched_at": "2026-09-14T15:23:40+00:00",
+        "summary": "SmartHRで給与計算機能の開発をしているプロダクトエンジニアの@rです。 開発のいたるところでAIが活用されるようになってきました。弊社でも、コーディングはもとよりPRD（プロダクト要求仕様書）の作成、チケットの作成、テスト計画書の作成、ヘルプページの作成ほかあらゆる成果物の作成でAIの利用が当たり前になって...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "bdc7775eaccbab69e790"
       }
     ]
   },
@@ -1937,6 +2001,49 @@
         "PINS"
       ],
       "id": "29197a2f7bcfd5ecce05"
+    },
+    {
+      "title": "Christine Lagarde: A new age of capital: growth, sovereignty and AI",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914_2~a3f0efbee4.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "source_type": "rss",
+      "published_at": "2026-09-14T15:15:00+00:00",
+      "fetched_at": "2026-09-14T15:23:40+00:00",
+      "summary": "Christine Lagarde: A new age of capital: growth, sovereignty and AI",
+      "matched_keywords": [
+        "AI/KI",
+        "Macro/Policy",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "AI/KI (+3.8); Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "1d5a56a8b1278f8bbb58"
     },
     {
       "title": "[NEU] [mittel] Microsoft Edge: Schwachstelle ermöglicht Cross-Site Scripting",
@@ -3623,49 +3730,93 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "38f4230187858633426d"
-    }
-  ],
-  "new_findings": [
-    {
-      "title": "Winning in the AI era - the new playbook for Indian banks",
-      "url": "https://www.bis.org/speeches/20260907-winning-ai-era-new-playbook-indian-banks",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-09-14T00:00:00+00:00",
-      "fetched_at": "2026-09-14T15:04:15+00:00",
-      "summary": "Inaugural address by Mr Sanjay Malhotra, Governor of the Reserve Bank of India, at the Annual Financial Institution Benchmarking and Calibration (FIBAC) 2026 Conference, organised jointly by the Federation of Indian Chambers of Commerce and Industry (FICCI) and the Indian Banks' Association (IBA), Mumbai, 11 August 2026.",
-      "matched_keywords": [
-        "AI/KI",
-        "Macro/Policy"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "AI/KI (+3.8); Macro/Policy (+5.0); recent (+1.0); watchgraph region india: India, Mumbai, Reserve Bank of India (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6c207dfea6e75cdc168b"
     },
     {
-      "title": "Keynote address - Global Islamic Financial Institutions Forum 2026",
-      "url": "https://www.bis.org/speeches/20260914-keynote-address-global-islamic-financial-institutions-forum-2026",
-      "source": "BIS Central Bankers Speeches",
+      "title": "AI活用で生まれた別のコスト - SmartHR Tech Blog",
+      "url": "https://tech.smarthr.jp/entry/2026/09/02/120000",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-14T00:00:00+00:00",
-      "fetched_at": "2026-09-14T15:04:15+00:00",
-      "summary": "Keynote address by Mr Adnan Zaylani Mohamad Zahid, Deputy Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the Global Islamic Financial Institutions Forum 2026, Kuala Lumpur, 6 August 2026.",
+      "published_at": "2026-09-02T06:20:18+00:00",
+      "fetched_at": "2026-09-14T15:23:40+00:00",
+      "summary": "SmartHRで給与計算機能の開発をしているプロダクトエンジニアの@rです。 開発のいたるところでAIが活用されるようになってきました。弊社でも、コーディングはもとよりPRD（プロダクト要求仕様書）の作成、チケットの作成、テスト計画書の作成、ヘルプページの作成ほかあらゆる成果物の作成でAIの利用が当たり前になって...",
       "matched_keywords": [
-        "Macro/Policy"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
+      "relevance_score": 4,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "35679d272bcff4a8cbda"
+      "id": "bdc7775eaccbab69e790"
+    }
+  ],
+  "new_findings": [
+    {
+      "title": "Christine Lagarde: A new age of capital: growth, sovereignty and AI",
+      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914_2~a3f0efbee4.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "source_type": "rss",
+      "published_at": "2026-09-14T15:15:00+00:00",
+      "fetched_at": "2026-09-14T15:23:40+00:00",
+      "summary": "Christine Lagarde: A new age of capital: growth, sovereignty and AI",
+      "matched_keywords": [
+        "AI/KI",
+        "Macro/Policy",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "AI/KI (+3.8); Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "1d5a56a8b1278f8bbb58"
+    },
+    {
+      "title": "AI活用で生まれた別のコスト - SmartHR Tech Blog",
+      "url": "https://tech.smarthr.jp/entry/2026/09/02/120000",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-02T06:20:18+00:00",
+      "fetched_at": "2026-09-14T15:23:40+00:00",
+      "summary": "SmartHRで給与計算機能の開発をしているプロダクトエンジニアの@rです。 開発のいたるところでAIが活用されるようになってきました。弊社でも、コーディングはもとよりPRD（プロダクト要求仕様書）の作成、チケットの作成、テスト計画書の作成、ヘルプページの作成ほかあらゆる成果物の作成でAIの利用が当たり前になって...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bdc7775eaccbab69e790"
     }
   ],
   "source_errors": [],
