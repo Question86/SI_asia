@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-14T08:50:31+00:00_
+_Generiert: 2026-09-14T08:59:05+00:00_
 
 ## Kurzlage
 
-26 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Check Point Security Gateway, Spark Firewall und Security Management: Mehrere Schwachstellen ermöglichen Codeausführung“ aus BSI CERT-Bund Security Advisories (Score 18, observation).
+27 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Check Point Security Gateway, Spark Firewall und Security Management: Mehrere Schwachstellen ermöglichen Codeausführung“ aus BSI CERT-Bund Security Advisories (Score 18, observation).
 
 ## Priorität Hoch
 
