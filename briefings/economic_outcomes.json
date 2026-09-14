@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-14T09:29:27+00:00",
+  "generated_at": "2026-09-14T09:46:26+00:00",
   "events": [
     {
       "event_id": "evt_0177d8625bc83d6c8e11",
@@ -4059,7 +4059,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_9fc05cea381c6dfd65ca",
@@ -4246,7 +4246,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a9168860075ad99c5a0d",
@@ -5248,6 +5248,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_d57d80ecfa7b4bcdf592",
+      "title": "Tesla establishes Vietnam subsidiary as EV rivalry with VinFast looms",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_d5c92a563cb9bfb68e88",
@@ -6413,7 +6424,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_ff692f3789f4ee8ecab8",
