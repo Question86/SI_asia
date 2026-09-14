@@ -1,8 +1,38 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-14T06:45:53+00:00",
+  "generated_at": "2026-09-14T07:09:23+00:00",
   "topics": {
+    "security": [
+      {
+        "title": "[UPDATE] [hoch] Check Point Security Gateway, Spark Firewall und Security Management: Mehrere Schwachstellen ermöglichen Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-14T07:01:31+00:00",
+        "relevance_score": 18,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3305"
+      },
+      {
+        "title": "Androidアプリ「YAMAP / ヤマップ登山地図アプリ」におけるアクセス制限不備の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-14T12:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN69877538/"
+      },
+      {
+        "title": "ExLlamaV3のexllamav3_extモジュールにおける不適切な入力検証の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-14T10:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU94022278/"
+      },
+      {
+        "title": "[UPDATE] [kritisch] Budibase: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-14T06:36:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3286"
+      }
+    ],
     "ai": [
       {
         "title": "AI doesn’t need crypto, AI agents do",
@@ -140,29 +170,6 @@
         "published_at": "2026-09-11T01:17:47+00:00",
         "relevance_score": 4,
         "url": "https://av.watch.impress.co.jp/docs/topic/2138582.html"
-      }
-    ],
-    "security": [
-      {
-        "title": "Androidアプリ「YAMAP / ヤマップ登山地図アプリ」におけるアクセス制限不備の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-14T12:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN69877538/"
-      },
-      {
-        "title": "ExLlamaV3のexllamav3_extモジュールにおける不適切な入力検証の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-14T10:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU94022278/"
-      },
-      {
-        "title": "[UPDATE] [kritisch] Budibase: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-14T06:36:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3286"
       }
     ],
     "github": [
