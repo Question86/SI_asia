@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T20:43:33+00:00",
+  "generated_at": "2026-09-14T20:51:58+00:00",
   "sections": {
     "global_security": [
       {
@@ -66,7 +66,7 @@
     "global_economy": []
   },
   "source_errors": [
-    "GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Read timed out. (read timeout=8)",
+    "GDACS failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
     "Yahoo finance failed: 401 Client Error: Unauthorized for url: https://query1.finance.yahoo.com/v7/finance/quote?symbols=BTC-USD,ETH-USD,GC%3DF,SI%3DF,GLD,SLV,SPY,QQQ,%5EGSPC,%5EIXIC,%5EDJI,%5EVIX,DX-Y.NYB,CL%3DF,COIN,MSTR,IBIT"
   ]
 }
