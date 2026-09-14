@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-14T17:46:42+00:00_
+_Generiert: 2026-09-14T17:54:23+00:00_
 
 ## Kurzlage
 
@@ -29,30 +29,8 @@ _Generiert: 2026-09-14T17:46:42+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-10`
   - Kurz: Known exploited vulnerability. Added 2026-09-10. Due 2026-09-13. MikroTik RouterOS Improper Neutralization of Argument Delimiters in a Command Vulnerability
-- **GDACS: Green flood alert in India** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104154)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in India
-- **GDACS: Green earthquake (Magnitude 6.5M, Depth:372km) in Indonesia 11/09/2026 21:23 UTC, 20 thousand in 100km.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1564809)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.5M, Depth:372km) in Indonesia 11/09/2026 21:23 UTC, 20 thousand in 100km.
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:162.179km) in Indonesia 14/09/2026 10:58 UTC, 330 thousand in MMI III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1565203)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:162.179km) in Indonesia 14/09/2026 10:58 UTC, 330 thousand in MMI III.
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in South Of Java, Indonesia 14/09/2026 09:27 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1565193)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in South Of Java, Indonesia 14/09/2026 09:27 UTC, [unknown].
-- **GDACS: Green notification for tropical cyclone FIFTEEN-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001321)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green notification for tropical cyclone FIFTEEN-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **GDACS: Green earthquake (Magnitude 5.9M, Depth:111.763km) in Indonesia 11/09/2026 11:56 UTC, 10 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1564759)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.9M, Depth:111.763km) in Indonesia 11/09/2026 11:56 UTC, 10 thousand in MMI IV.
+
+- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Read timed out. (read timeout=8)
 
 ## Wirtschaft global
 
