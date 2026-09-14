@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-14T10:02:58+00:00",
+  "generated_at": "2026-09-14T10:23:13+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 33,
-    "displayed_findings": 33,
+    "new_relevant_findings": 4,
+    "today_file_total": 37,
+    "displayed_findings": 37,
     "high": 0,
-    "medium": 14,
-    "observe": 19
+    "medium": 17,
+    "observe": 20
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -100,139 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3321",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-14T08:16:31+00:00",
-        "age_days": 0.08,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe",
-          "security high-signal: angriffe"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Daten oder den Systemzustand zu manipulieren, Denial-of-Service-Zustände herbeizuführen oder andere, nicht näher spezifizierte Angriffe durchzuführen."
-      },
-      {
-        "title": "[UPDATE] [hoch] GitLab: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3315",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-14T09:36:31+00:00",
-        "age_days": 0.03,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe, code",
-          "security high-signal: angriffe, code"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in GitLab ausnutzen, um beliebigen Code auszuführen, erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, sensible Informationen oder Anmeldedaten offenzulegen, Daten zu manipulieren, Cross-Site-Scripting-Angriffe durchzuführen oder Denial-of-Service-Zuständ…"
-      },
-      {
-        "title": "[UPDATE] [kritisch] Budibase: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3286",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-14T06:36:31+00:00",
-        "age_days": 0.15,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe, kritisch",
-          "security high-signal: angriffe, kritisch"
-        ],
-        "summary": "Ein Angreifer kann mehrere Schwachstellen in Budibase ausnutzen, um erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, SQL-Injection-Angriffe durchzuführen oder Daten zu manipulieren und offenzulegen."
-      },
-      {
-        "title": "The Fed is the real crypto story, Bitcoin and Ethereum are just following",
-        "url": "https://e27.co/the-fed-is-the-real-crypto-story-bitcoin-and-ethereum-are-just-following-20260914/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-14T04:22:27+00:00",
-        "age_days": 0.24,
-        "topics": [
-          "ai",
-          "macro"
-        ],
-        "dynamics_score": 29.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce",
-          "security high-signal: rce"
-        ],
-        "summary": "We have entered a cautious stretch. Bitcoin has slipped 0.72 per cent over the past 24 hours to US$76,697.14. Ethereum has fallen harder, down 1.95 per cent to US$2,474.93. This pullback reflects a broader market decline of 0.99 per cent. The dominant force behind this move is macro uncertainty ahead of the Federal Re…"
-      },
-      {
-        "title": "[UPDATE] [niedrig] Red Hat Enterprise Linux (GNU coreutils unexpand): Schwachstelle ermöglicht DoS und Manipulation von Dateien",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3319",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-14T09:36:31+00:00",
-        "age_days": 0.03,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: cert-bund, bsi, security, advisory"
-        ],
-        "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen oder möglicherweise den Speicher zu manipulieren."
-      }
-    ]
-  }
+  ]
 }

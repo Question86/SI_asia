@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-14T10:02:58+00:00_
+_Generiert: 2026-09-14T10:23:13+00:00_
 
 ## Kurzlage
 
-33 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Check Point Security Gateway, Spark Firewall und Security Management: Mehrere Schwachstellen ermöglichen Codeausführung“ aus BSI CERT-Bund Security Advisories (Score 18, observation).
+37 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Check Point Security Gateway, Spark Firewall und Security Management: Mehrere Schwachstellen ermöglichen Codeausführung“ aus BSI CERT-Bund Security Advisories (Score 18, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -149,6 +149,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 株式会社ヤマップが提供するAndroidアプリ「YAMAP / ヤマップ登山地図アプリ」には、WebViewに対するアクセス制限不備の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **MoneyHero’s Q2 exposes the rising cost of fintech growth in Southeast Asia** — Score 14, opportunity — [Quelle](https://e27.co/moneyheros-q2-exposes-the-rising-cost-of-fintech-growth-in-southeast-asia-20260914/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-14T10:03:10+00:00`, fetched `2026-09-14T10:22:42+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Automatisierung, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Automatisierung (+4.0); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
+  - Kurz: MoneyHero’s latest earnings tell two stories. The first is the one the NASDAQ-listed fintech aggregator wants investors to focus on: artificial intelligence automation, better approval rates, and a more efficient operating model. The second sits deeper in the numbers: falling revenue, weaker user traffic, wider losses, and a sharp rise in cash incentives used to […] The post MoneyHero’s Q2 exposes the rising cost of…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **ExLlamaV3のexllamav3_extモジュールにおける不適切な入力検証の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU94022278/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-09-14T10:00:00+09:00`, fetched `2026-09-14T01:35:59+00:00`
@@ -214,6 +223,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 5日、OpenAIの「GPT-6 Astra」が筆者の環境でも使えるようになりました。前のバージョン「GPT-5.5 Sol」よりも、推論ベンチマークでは12倍に達するほど性能が大きく向上したとの報告もあり、注目が集まりました。果たして、その能力はこれまでのAIの常識を変えるほどの汎用性と高い性能を備えていました。ただし、GPT-6 ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **The real AI economy is being built by ordinary people** — Score 11, observation — [Quelle](https://restofworld.org/2026/global-workers-using-ai-at-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-09-14T10:00:31+00:00`, fetched `2026-09-14T10:22:42+00:00`
+  - Treffer: Africa, AI/KI, Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Asia (+2.0); Africa (+2.0); recent (+1.0); watchgraph region usa: Silicon Valley (+2.0)
+  - Kurz: Far from Silicon Valley pitch decks, workers across Asia and Africa are bypassing tech industry hype to quietly rewire their daily jobs — one prompt, workflow, and local problem at a time.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **India’s IPO boom is rewriting the exit playbook for global investors** — Score 11, observation — [Quelle](https://e27.co/indias-ipo-boom-is-rewriting-the-exit-playbook-for-global-investors-20260912/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
