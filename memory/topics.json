@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-14T12:27:31+00:00",
+  "generated_at": "2026-09-14T12:49:31+00:00",
   "topics": {
     "general": [
       {
@@ -70,6 +70,20 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3305"
       },
       {
+        "title": "[NEU] [mittel] Microsoft Edge: Schwachstelle ermöglicht Cross-Site Scripting",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-14T12:37:22+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3345"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] Net-SNMP: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-14T12:37:01+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3341"
+      },
+      {
         "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service oder unspezifischer Angriff",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-14T11:36:33+00:00",
@@ -117,20 +131,6 @@
         "published_at": "2026-09-14T08:16:31+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3321"
-      },
-      {
-        "title": "Androidアプリ「YAMAP / ヤマップ登山地図アプリ」におけるアクセス制限不備の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-14T12:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN69877538/"
-      },
-      {
-        "title": "[NEU] [mittel] QT: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-14T11:51:32+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3332"
       }
     ],
     "ai": [
@@ -272,6 +272,20 @@
     ],
     "geopolitics": [
       {
+        "title": "[NEU] [mittel] Microsoft Edge: Schwachstelle ermöglicht Cross-Site Scripting",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-14T12:37:22+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3345"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] Net-SNMP: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-14T12:37:01+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3341"
+      },
+      {
         "title": "[UPDATE] [niedrig] Red Hat Enterprise Linux (GNU coreutils unexpand): Schwachstelle ermöglicht DoS und Manipulation von Dateien",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-14T09:36:31+00:00",
@@ -286,6 +300,34 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3321"
       },
       {
+        "title": "[NEU] [mittel] Citrix Systems Workspace App Windows: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-14T12:37:22+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3346"
+      },
+      {
+        "title": "[NEU] [mittel] wpa_supplicant: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-14T12:37:21+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3343"
+      },
+      {
+        "title": "[NEU] [mittel] WP Royal Royal Elementor Addons: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-14T12:37:21+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3344"
+      },
+      {
+        "title": "[NEU] [mittel] Puppet Enterprise: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-14T12:37:01+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3342"
+      },
+      {
         "title": "[NEU] [mittel] QT: Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-14T11:51:32+00:00",
@@ -298,34 +340,6 @@
         "published_at": "2026-09-14T09:15:00+00:00",
         "relevance_score": 12,
         "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914~0ffd556bc8.en.pdf"
-      },
-      {
-        "title": "The Fed is the real crypto story, Bitcoin and Ethereum are just following",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-14T04:22:27+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/the-fed-is-the-real-crypto-story-bitcoin-and-ethereum-are-just-following-20260914/"
-      },
-      {
-        "title": "Everyone has adopted AI. Almost nobody is ready for it",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-14T03:00:51+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/everyone-has-adopted-ai-almost-nobody-is-ready-for-it-20260912/"
-      },
-      {
-        "title": "JustVugg/colibri",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 8,
-        "url": "https://github.com/JustVugg/colibri"
-      },
-      {
-        "title": "Cyber-Attacken auf GitLab, ConnectWise ScreenConnect und JFrog Artifactory",
-        "source": "heise Security Alerts",
-        "published_at": "2026-09-14T07:11:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Cyber-Attacken-auf-GitLab-ConnectWise-ScreenConnect-und-JFrog-Artifactory-11451869.html"
       }
     ],
     "github": [

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-14T12:27:31+00:00_
+_Generated: 2026-09-14T12:49:31+00:00_
 
 ## Status
 - status: `normal`
-- findings: `47`
+- findings: `53`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-09-14T12:27:31+00:00_
 - url: https://e27.co/ai-doesnt-need-crypto-ai-agents-do-20260912/
 - summary: The AI community keeps asking: “Where’s crypto’s killer app?” They may be asking the wrong species. Blockchain never found product-market fit with humans. It may find it with machines. AI creates intelligence. Blockchain creates verification. For years, one o…
 
-### 4. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service oder unspezifischer Angriff
+### 4. [NEU] [mittel] Microsoft Edge: Schwachstelle ermöglicht Cross-Site Scripting
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-09-14T11:36:33+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-2057
-- summary: Ein lokaler Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder weitere unspezifische Angriffe durchzuführen.
+- published: `2026-09-14T12:37:22+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3345
+- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Microsoft Edge ausnutzen, um einen Spoofing- und einen Cross-Site-Scripting-Angriff durchzuführen.
 
 ### 5. Tesla establishes Vietnam subsidiary as EV rivalry with VinFast looms
 - source: e27 Asia Startup and Tech Feed
