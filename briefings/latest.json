@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T22:19:19+00:00",
-  "run_id": "2026-09-14T22:19:19+00:00",
+  "generated_at": "2026-09-14T22:29:57+00:00",
+  "run_id": "2026-09-14T22:29:57+00:00",
   "date": "2026-09-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 94
+      "configured_public_sources_only": 95
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 94,
-    "displayed_findings": 94,
+    "new_relevant_findings": 1,
+    "today_file_total": 95,
+    "displayed_findings": 95,
     "high": 0,
     "medium": 38,
-    "observe": 56,
+    "observe": 57,
     "source_errors": 0
   },
   "sections": {
@@ -1608,6 +1608,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2150ff852b3964e2fb5a"
+      },
+      {
+        "title": "M 5.2 - 66 km E of Kainantu, Papua New Guinea",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thhd",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-09-14T22:18:54.040+00:00",
+        "fetched_at": "2026-09-14T22:29:24+00:00",
+        "summary": "Time 2026-09-14 22:06:54 UTC 2026-09-14 22:06:54 UTC at epicenter Location 6.289°S 146.468°E Depth 125.29 km (77.85 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "f81110421eedc1c2d1ff"
       },
       {
         "title": "M 5.3 - off the coast of Michoacan, Mexico",
@@ -3971,6 +4007,42 @@
       "id": "2150ff852b3964e2fb5a"
     },
     {
+      "title": "M 5.2 - 66 km E of Kainantu, Papua New Guinea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thhd",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-14T22:18:54.040+00:00",
+      "fetched_at": "2026-09-14T22:29:24+00:00",
+      "summary": "Time 2026-09-14 22:06:54 UTC 2026-09-14 22:06:54 UTC at epicenter Location 6.289°S 146.468°E Depth 125.29 km (77.85 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "f81110421eedc1c2d1ff"
+    },
+    {
       "title": "M 5.3 - off the coast of Michoacan, Mexico",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thgs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -4753,46 +4825,40 @@
   ],
   "new_findings": [
     {
-      "title": "最近少年院に入る子供が増えつつある中、様々な要因が指摘されるが「昔は許されたことが今は許されなくなった」というのもあるのでは？",
-      "url": "https://togetter.com/li/2745568",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "M 5.2 - 66 km E of Kainantu, Papua New Guinea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thhd",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-09-14T14:01:43+00:00",
-      "fetched_at": "2026-09-14T22:18:51+00:00",
-      "summary": "なぜ少年院に入る「子ども」が増えている？過去最低から一転、元少年院長らが指摘する「コロナ禍」の傷あと - 弁護士ドットコム 【弁護士ドットコム】少年院に入る子どもが、ふたたび増え始めている。 長らく減り続け、2022年には過去最低水準まで落ち込んだが、そこから3年連続で増加。2026年も増加傾向が続いている。 ...",
+      "published_at": "2026-09-14T22:18:54.040+00:00",
+      "fetched_at": "2026-09-14T22:29:24+00:00",
+      "summary": "Time 2026-09-14 22:06:54 UTC 2026-09-14 22:06:54 UTC at epicenter Location 6.289°S 146.468°E Depth 125.29 km (77.85 mi)",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "65b3959ce3eab41488e2"
-    },
-    {
-      "title": "[スタパ齋藤の「スタパトロニクスMobile」] スマホホルダーの「17mmボールジョイント」が超便利！ 車載も自転車もパーツ交換で自由自在ッ!!",
-      "url": "https://k-tai.watch.impress.co.jp/docs/column/stapa/2139559.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-14T03:55:10+00:00",
-      "fetched_at": "2026-09-14T22:18:51+00:00",
-      "summary": "[スタパ齋藤の「スタパトロニクスMobile」] スマホホルダーの「17mmボールジョイント」が超便利！ 車載も自転車もパーツ交換で自由自在ッ!!",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "08e8e7ed147d3db6a7e9"
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "f81110421eedc1c2d1ff"
     }
   ],
   "source_errors": [],
