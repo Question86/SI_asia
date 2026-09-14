@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-09-14T21:17:17+00:00_
+_Generiert: 2026-09-14T21:27:16+00:00_
 
 ## OpenAIやAnthropicなどAIベンダごとのAPIの違いを吸収し統合する「Agent Router」、Linux Foundation傘下で業界標準へ
 
@@ -19,7 +19,7 @@ _Generiert: 2026-09-14T21:17:17+00:00_
 
 ## Christine Lagarde: A new age of capital: growth, sovereignty and AI
 
-- Ranking Score: `24.54`
+- Ranking Score: `24.5`
 - Raw Network Score: `30.4`
 - Max Monitor Score: `16`
 - Reichweite: `institutional` / `5.0`
