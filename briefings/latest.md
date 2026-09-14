@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-14T13:22:29+00:00_
+_Generiert: 2026-09-14T13:34:02+00:00_
 
 ## Kurzlage
 
-55 neue relevante Treffer. Stärkstes Signal: „M 5.6 - 78 km NNE of Tobelo, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+56 neue relevante Treffer. Stärkstes Signal: „M 5.6 - 78 km NNE of Tobelo, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -252,6 +252,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0); developer (+2.0); recent (+1.0)
   - Kurz: カミナシでソフトウェアエンジニアをしている osuzu です。 「フロントエンドエンジニアとしてのキャリアは終わりなのではないか」という話を、最近よく見かけるようになりました。AIが画面実装を担えるようになった今、フロントエンドを主戦場にし続ける意味があるのか、という問いです。 正直に言うと、私も同じ方向に...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **最近のClaude Code Desktop、使いやすさマシマシです！** — Score 10, observation — [Quelle](https://zenn.dev/goat_eat_any/articles/claude-code-desktop-app)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-09T06:01:56+00:00`, fetched `2026-09-14T13:33:32+00:00`
+  - Treffer: AI Agents, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0)
+  - Kurz: はじめに Claude CodeをまだCLIで使用していませんか？Claude Code Desktop、昔は使えるコマンドが少なかったり、そもそも重かったりなど使いにくかったですが、最近めっちゃ使いやすくなってます！ 思いつくままに、Claude Code Desktopのいいところを書いてみました！ おすすめの機能20個 1. ファイルをその場で編集で...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ever-co/ever-gauzy** — Score 10, observation — [Quelle](https://github.com/ever-co/ever-gauzy)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-09-14T06:45:22+00:00`
@@ -297,15 +306,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Die IT-Sicherheitsbehörde CISA warnt vor beobachteten Angriffen auf GitLab, ConnectWise ScreenConnect und JFrog Artifactory.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「とほほのWWW入門」運営30年で見た、プログラミング言語とWeb標準の進化史 流行に振り回されず学び続けるために** — Score 7, opportunity — [Quelle](https://codezine.jp/article/detail/29411)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-14T02:20:33+00:00`, fetched `2026-09-14T07:35:22+00:00`
-  - Treffer: developer, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); developer (+2.0); recent (+1.0)
-  - Kurz: 2026年に開設から30年を迎える個人サイト「とほほのWWW入門」。管理人の杜甫々氏は、「Developers Summit 2026 KANSAI」の基調講演で、1996年から見つめてきたプログラミング言語やWeb標準の移り変わり、そして2025年10月の定年退職後にあらためて向き合うことになったAIとの付き合い方を、30年分のエピソードとともに語...
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Empfehlungen
 
@@ -316,7 +316,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `fed_monetary_policy_press` (rss): HTTPSConnectionPool(host='www.federalreserve.gov', port=443): Read timed out. (read timeout=8)

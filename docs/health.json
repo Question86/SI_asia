@@ -1,25 +1,18 @@
 {
-  "generated_at": "2026-09-14T13:22:29+00:00",
-  "status": "warning",
+  "generated_at": "2026-09-14T13:34:02+00:00",
+  "status": "normal",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
-  "coverage_confidence": "limited",
+  "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 55,
-    "displayed_findings": 55,
+    "today_file_total": 56,
+    "displayed_findings": 56,
     "high": 0,
     "medium": 32,
-    "observe": 23,
-    "source_errors": 1
+    "observe": 24,
+    "source_errors": 0
   },
-  "source_errors": [
-    {
-      "source_id": "fed_monetary_policy_press",
-      "source_name": "Federal Reserve Monetary Policy Press Releases",
-      "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.federalreserve.gov', port=443): Read timed out. (read timeout=8)"
-    }
-  ],
+  "source_errors": [],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"
 }
