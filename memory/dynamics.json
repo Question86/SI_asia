@@ -1,14 +1,14 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-14T13:31:09Z",
+  "generated_at": "2026-09-14T13:49:05Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
+      "extreme": 2,
       "krass": 18,
-      "extreme": 1,
-      "strong": 21
+      "strong": 20
     },
     "bands_after_gate_recheck": {
       "krass": 2,
@@ -21,7 +21,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3346",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T12:37:22+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -46,7 +46,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3315",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T09:36:31+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -71,7 +71,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3305",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 16.97,
+      "age_days": 16.99,
       "topics": [
         "security",
         "infra"
@@ -83,12 +83,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 24.04,
+      "baseline_z_hint": 22.62,
       "security_high_signal": true,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 24.04",
+        "baseline z_hint 22.62",
         "high terms: rce, code, firewall",
         "security high-signal: rce, code, firewall",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
@@ -100,7 +100,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3305",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T07:01:31+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "security",
         "infra"
@@ -127,7 +127,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thcs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-01T08:46:46+00:00",
-      "age_days": 13.2,
+      "age_days": 13.21,
       "topics": [
         "general"
       ],
@@ -151,7 +151,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3343",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T12:37:21+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -175,7 +175,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3344",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T12:37:21+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -199,7 +199,7 @@
       "url": "https://jvn.jp/jp/JVN69877538/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-14T12:00:00+09:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
@@ -223,7 +223,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3332",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T11:51:32+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -247,7 +247,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1231",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T11:36:34+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -271,7 +271,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3282",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T10:14:06+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -295,7 +295,7 @@
       "url": "https://jvn.jp/vu/JVNVU94022278/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-14T10:00:00+09:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
@@ -319,7 +319,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3312",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T09:36:31+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -339,11 +339,41 @@
       "summary": "Ein lokaler Angreifer kann eine Schwachstelle in libvirt ausnutzen, um seine Privilegien zu erhöhen."
     },
     {
+      "title": "Announcing 20260081 (MRO,liquidity providing), for 7 days deadline 09:30",
+      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260081.en.html",
+      "source": "ECB Open Market Operations and Communication, ECB Press Releases Speeches Interviews",
+      "published_at": "2026-06-18T14:33:45+00:00",
+      "age_days": 87.97,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 2,
+      "momentum_delta": 3,
+      "baseline_z_hint": 12.75,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "source breadth +2",
+        "momentum delta +3",
+        "baseline z_hint 12.75",
+        "high terms: rce",
+        "security high-signal: rce",
+        "aging penalty -8.0 for 88.0d old signal",
+        "extreme gate recheck: insufficient independent/current evidence"
+      ],
+      "summary": ""
+    },
+    {
       "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service oder unspezifischer Angriff",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-2057",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T11:36:33+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -369,7 +399,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0105",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T11:36:33+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -395,7 +425,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0119",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T11:26:39+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -421,7 +451,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2595",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T11:26:36+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -447,7 +477,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3321",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T08:16:31+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -473,7 +503,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3342",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T12:37:01+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -499,7 +529,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3290",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T10:14:06+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai",
         "security"
@@ -526,7 +556,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3286",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T06:36:31+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -552,7 +582,7 @@
       "url": "https://restofworld.org/2026/global-workers-using-ai-at-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-09-14T10:00:31+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -579,7 +609,7 @@
       "url": "https://e27.co/the-fed-is-the-real-crypto-story-bitcoin-and-ethereum-are-just-following-20260914/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-14T04:22:27+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "ai",
         "macro"
@@ -606,7 +636,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3345",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T12:37:22+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -631,7 +661,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3341",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T12:37:01+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -656,7 +686,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2268",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T11:31:37+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -681,7 +711,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3319",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T09:36:31+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -706,7 +736,7 @@
       "url": "https://e27.co/ai-doesnt-need-crypto-ai-agents-do-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-14T01:36:38+00:00",
-      "age_days": 0.5,
+      "age_days": 0.51,
       "topics": [
         "ai"
       ],
@@ -733,7 +763,7 @@
       "url": "https://e27.co/moneyheros-q2-exposes-the-rising-cost-of-fintech-growth-in-southeast-asia-20260914/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-14T10:23:17+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "krass",
@@ -758,7 +788,7 @@
       "url": "https://e27.co/ai-doesnt-need-crypto-ai-agents-do-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-14T01:00:59+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "ai",
         "macro"
@@ -786,7 +816,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thcs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-14T11:19:28.533+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -812,7 +842,7 @@
       "url": "https://www.heise.de/news/Cyber-Attacken-auf-GitLab-ConnectWise-ScreenConnect-und-JFrog-Artifactory-11451869.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-14T07:11:00.000+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "security"
       ],
@@ -837,7 +867,7 @@
       "url": "https://codezine.jp/article/detail/29411",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-14T07:35:53+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [],
       "dynamics_score": 24.0,
       "raw_band": "strong",
@@ -861,7 +891,7 @@
       "url": "https://jvn.jp/jp/JVN69877538/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-14T03:22:42+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "general"
       ],
@@ -885,7 +915,7 @@
       "url": "https://jvn.jp/vu/JVNVU94022278/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-14T01:36:38+00:00",
-      "age_days": 0.5,
+      "age_days": 0.51,
       "topics": [
         "general"
       ],
@@ -909,7 +939,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thct",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-14T11:23:25.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -934,7 +964,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thc6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-14T09:45:29.040+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -959,7 +989,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thct",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-14T11:31:15+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -983,7 +1013,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th9m",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T21:47:43+00:00",
-      "age_days": 10.66,
+      "age_days": 10.67,
       "topics": [
         "general"
       ],
@@ -1001,33 +1031,6 @@
         "momentum delta +3"
       ],
       "summary": ""
-    },
-    {
-      "title": "MoneyHero’s Q2 exposes the rising cost of fintech growth in Southeast Asia",
-      "url": "https://e27.co/moneyheros-q2-exposes-the-rising-cost-of-fintech-growth-in-southeast-asia-20260914/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-14T10:03:10+00:00",
-      "age_days": 0.14,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 22.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "MoneyHero’s latest earnings tell two stories. The first is the one the NASDAQ-listed fintech aggregator wants investors to focus on: artificial intelligence automation, better approval rates, and a more efficient operating model. The second sits deeper in the numbers: falling revenue, weaker user traffic, wider losses…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] Citrix Systems Workspace App Windows: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
