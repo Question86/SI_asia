@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-14T07:59:25+00:00_
+_Generiert: 2026-09-14T08:32:30+00:00_
 
 ## Kurzlage
 
-24 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Check Point Security Gateway, Spark Firewall und Security Management: Mehrere Schwachstellen ermöglichen Codeausführung“ aus BSI CERT-Bund Security Advisories (Score 18, observation).
+26 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Check Point Security Gateway, Spark Firewall und Security Management: Mehrere Schwachstellen ermöglichen Codeausführung“ aus BSI CERT-Bund Security Advisories (Score 18, observation).
 
 ## Priorität Hoch
 
@@ -30,6 +30,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: The AI community keeps asking: “Where’s crypto’s killer app?” They may be asking the wrong species. Blockchain never found product-market fit with humans. It may find it with machines. AI creates intelligence. Blockchain creates verification. For years, one of the strongest arguments from the AI community has been that blockchain never found a meaningful product-market […] The post AI doesn’t need crypto, AI agents…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3321)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-09-14T08:16:31+00:00`, fetched `2026-09-14T08:32:01+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Daten oder den Systemzustand zu manipulieren, Denial-of-Service-Zustände herbeizuführen oder andere, nicht näher spezifizierte Angriffe durchzuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.8 - 119 km S of Dampit, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000th9m)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-14T02:03:49.040+00:00`, fetched `2026-09-14T02:27:47+00:00`

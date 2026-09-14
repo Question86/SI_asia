@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-14T07:59:25+00:00_
+_Generated: 2026-09-14T08:32:30+00:00_
 
 ## Status
 - status: `normal`
-- findings: `24`
+- findings: `26`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-09-14T07:59:25+00:00_
 - url: https://e27.co/ai-doesnt-need-crypto-ai-agents-do-20260912/
 - summary: The AI community keeps asking: “Where’s crypto’s killer app?” They may be asking the wrong species. Blockchain never found product-market fit with humans. It may find it with machines. AI creates intelligence. Blockchain creates verification. For years, one o…
 
-### 3. M 4.8 - 119 km S of Dampit, Indonesia
+### 3. [NEU] [hoch] Linux Kernel: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-09-14T08:16:31+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3321
+- summary: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Daten oder den Systemzustand zu manipulieren, Denial-of-Service-Zustände herbeizuführen oder andere, nicht näher spezifizierte Angriffe durchzuführen.
+
+### 4. M 4.8 - 119 km S of Dampit, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-09-14T02:03:49.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000th9m
 - summary: Time 2026-09-14 01:42:08 UTC 2026-09-14 01:42:08 UTC at epicenter Location 9.283°S 112.901°E Depth 33.38 km (20.74 mi)
-
-### 4. トランプ政権のサックス氏、AI「ペース調整」論に苦言 「規制がなければできないふりをやめろ」
-- source: Hatena Bookmark Hotentry IT
-- score: `15`
-- published: `2026-09-13T23:51:12+00:00`
-- url: https://www.itmedia.co.jp/news/article/2609/14/2000001433/
-- summary: 「他者の許可が必要なふりはやめろ」──米大統領科学技術諮問委員会（PCAST）共同議長のデビッド・サックス氏は9月12日（現地時間）、Xへの投稿で、米Anthropicのダリオ・アモデイCEOが同日公開したエッセイ「We Must Pace the Frontier」と、これに同調したOpenAIのサム・アルトマンCEOの投稿に反応し、ペース調整をする...
 
 ### 5. The Fed is the real crypto story, Bitcoin and Ethereum are just following
 - source: e27 Asia Startup and Tech Feed

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-14T07:59:25+00:00",
+  "generated_at": "2026-09-14T08:32:30+00:00",
   "topics": {
     "security": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-09-14T07:01:31+00:00",
         "relevance_score": 18,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3305"
+      },
+      {
+        "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-14T08:16:31+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3321"
       },
       {
         "title": "Androidアプリ「YAMAP / ヤマップ登山地図アプリ」におけるアクセス制限不備の脆弱性",
@@ -156,6 +163,43 @@
         "url": "https://e27.co/the-missing-link-in-your-consumers-mobile-app-journey-20260912/"
       }
     ],
+    "geopolitics": [
+      {
+        "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-14T08:16:31+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3321"
+      },
+      {
+        "title": "The Fed is the real crypto story, Bitcoin and Ethereum are just following",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-14T04:22:27+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/the-fed-is-the-real-crypto-story-bitcoin-and-ethereum-are-just-following-20260914/"
+      },
+      {
+        "title": "Everyone has adopted AI. Almost nobody is ready for it",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-14T03:00:51+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/everyone-has-adopted-ai-almost-nobody-is-ready-for-it-20260912/"
+      },
+      {
+        "title": "JustVugg/colibri",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 8,
+        "url": "https://github.com/JustVugg/colibri"
+      },
+      {
+        "title": "Cyber-Attacken auf GitLab, ConnectWise ScreenConnect und JFrog Artifactory",
+        "source": "heise Security Alerts",
+        "published_at": "2026-09-14T07:11:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Cyber-Attacken-auf-GitLab-ConnectWise-ScreenConnect-und-JFrog-Artifactory-11451869.html"
+      }
+    ],
     "general": [
       {
         "title": "M 4.8 - 119 km S of Dampit, Indonesia",
@@ -170,6 +214,13 @@
         "published_at": "2026-09-14T03:15:29.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tha3"
+      },
+      {
+        "title": "パナソニック、録画番組をクラウド保存できる全自動ディーガ",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-14T06:01:41+00:00",
+        "relevance_score": 5,
+        "url": "https://av.watch.impress.co.jp/docs/news/2140657.html"
       },
       {
         "title": "ノーラン版『オデュッセイア』は何が凄い？全編IMAXフィルム撮影とVFX裏側",
@@ -200,36 +251,6 @@
         "published_at": null,
         "relevance_score": 8,
         "url": "https://github.com/JustVugg/colibri"
-      }
-    ],
-    "geopolitics": [
-      {
-        "title": "The Fed is the real crypto story, Bitcoin and Ethereum are just following",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-14T04:22:27+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/the-fed-is-the-real-crypto-story-bitcoin-and-ethereum-are-just-following-20260914/"
-      },
-      {
-        "title": "Everyone has adopted AI. Almost nobody is ready for it",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-14T03:00:51+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/everyone-has-adopted-ai-almost-nobody-is-ready-for-it-20260912/"
-      },
-      {
-        "title": "JustVugg/colibri",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 8,
-        "url": "https://github.com/JustVugg/colibri"
-      },
-      {
-        "title": "Cyber-Attacken auf GitLab, ConnectWise ScreenConnect und JFrog Artifactory",
-        "source": "heise Security Alerts",
-        "published_at": "2026-09-14T07:11:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Cyber-Attacken-auf-GitLab-ConnectWise-ScreenConnect-und-JFrog-Artifactory-11451869.html"
       }
     ]
   }
