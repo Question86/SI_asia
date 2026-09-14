@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-14T02:28:17+00:00_
+_Generiert: 2026-09-14T02:48:33+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „AI doesn’t need crypto, AI agents do“ aus e27 Asia Startup and Tech Feed (Score 17, opportunity).
+11 neue relevante Treffer. Stärkstes Signal: „AI doesn’t need crypto, AI agents do“ aus e27 Asia Startup and Tech Feed (Score 17, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -113,6 +113,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **India’s IPO boom is rewriting the exit playbook for global investors** — Score 11, observation — [Quelle](https://e27.co/indias-ipo-boom-is-rewriting-the-exit-playbook-for-global-investors-20260912/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-14T02:30:22+00:00`, fetched `2026-09-14T02:48:03+00:00`
+  - Treffer: APAC Trend Radar, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: New York (+2.0); watchgraph region india: India (+2.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: For years, the conventional playbook for many of India’s most ambitious companies was to raise global capital, establish an offshore holding company and preserve the option of an eventual listing in New York or another international financial centre. That calculus is changing. India’s initial public offering (IPO) market is no longer simply growing. It is […] The post India’s IPO boom is rewriting the exit playbook…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Why Beyond Border thinks visas are now part of the founder playbook** — Score 10, observation — [Quelle](https://e27.co/why-beyond-border-thinks-visas-are-now-part-of-the-founder-playbook-20260911/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-14T01:00:36+00:00`, fetched `2026-09-14T01:35:59+00:00`
