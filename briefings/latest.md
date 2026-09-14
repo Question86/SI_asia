@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-14T17:00:55+00:00_
+_Generiert: 2026-09-14T17:18:01+00:00_
 
 ## Kurzlage
 
-83 neue relevante Treffer. Stärkstes Signal: „M 5.6 - 78 km NNE of Tobelo, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
+84 neue relevante Treffer. Stärkstes Signal: „M 5.6 - 78 km NNE of Tobelo, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -141,6 +141,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0)
   - Kurz: De multiples vulnérabilités ont été découvertes dans Google Chrome. Elles permettent à un attaquant de provoquer un problème de sécurité non spécifié par l'éditeur. Google indique que la vulnérabilité CVE-2026-87491 est activement exploitée.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Configure cost and quality in Copilot auto model selection** — Score 15, observation — [Quelle](https://github.blog/changelog/2026-09-14-configure-cost-and-quality-in-copilot-auto-model-selection)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-09-14T16:05:27+00:00`, fetched `2026-09-14T17:17:29+00:00`
+  - Treffer: Copilot, GitHub, Macro/Policy, Watchgraph:elections_unrest
+  - Watchgraph: elections_unrest
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, META, GOOGL, MSFT, RDDT, SNAP, PINS
+  - Warum relevant: Macro/Policy (+6.2); GitHub (+2.0); Copilot (+2.5); recent (+1.0); watchgraph modules elections_unrest (+3.0)
+  - Kurz: GitHub Copilot auto model selection now offers three tiers: efficiency, balance, and intelligence. Choose the tier that reflects how you want auto to weigh cost, quality, and response time for… The post Configure cost and quality in Copilot auto model selection appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.6 - 49 km E of Minami-Sōma, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000thct)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-14T11:23:25.040+00:00`, fetched `2026-09-14T11:30:40+00:00`
@@ -195,15 +204,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Scaling beyond AI pilots: Six-move Capability Cycle** — Score 14, observation — [Quelle](https://e27.co/scaling-beyond-ai-pilots-six-move-capability-cycle-20260912/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-14T01:30:10+00:00`, fetched `2026-09-14T01:35:59+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: On 27 February 2024, Klarna and OpenAI announced that its AI assistant had handled 2.3 million conversations in a month; the equivalent, Klarna said, of 700 agents, cutting resolution time from 11 minutes to under two. It was treated as a triumph. 15 months later, chief executive told Bloomberg the push had gone too far: […] The post Scaling beyond AI pilots: Six-move Capability Cycle appeared first on e27 .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
