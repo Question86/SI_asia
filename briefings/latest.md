@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-14T16:33:33+00:00_
+_Generiert: 2026-09-14T16:45:16+00:00_
 
 ## Kurzlage
 
-82 neue relevante Treffer. Stärkstes Signal: „M 5.6 - 78 km NNE of Tobelo, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
+83 neue relevante Treffer. Stärkstes Signal: „M 5.6 - 78 km NNE of Tobelo, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -270,6 +270,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Macro/Policy (+5.0); recent (+1.0); watchgraph region india: India, Mumbai, Reserve Bank of India (+2.0)
   - Kurz: Inaugural address by Mr Sanjay Malhotra, Governor of the Reserve Bank of India, at the Annual Financial Institution Benchmarking and Calibration (FIBAC) 2026 Conference, organised jointly by the Federation of Indian Chambers of Commerce and Industry (FICCI) and the Indian Banks' Association (IBA), Mumbai, 11 August 2026.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **How Fyxer built an AI executive assistant people trust** — Score 11, observation — [Quelle](https://openai.com/index/fyxer)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-09-14T12:00:00+00:00`, fetched `2026-09-14T16:44:46+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)
+  - Kurz: Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The real AI economy is being built by ordinary people** — Score 11, observation — [Quelle](https://restofworld.org/2026/global-workers-using-ai-at-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
   - Quelle: Rest of World Global Tech Feed / `rss`
   - Zeit: published `2026-09-14T10:00:31+00:00`, fetched `2026-09-14T10:22:42+00:00`
@@ -332,15 +341,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-14 16:15:05 UTC 2026-09-14 16:15:05 UTC at epicenter Location 8.945°S 157.742°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.1 - northern Mid-Atlantic Ridge** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tha3)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-14T03:15:29.040+00:00`, fetched `2026-09-14T03:22:07+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-14 02:56:17 UTC 2026-09-14 02:56:17 UTC at epicenter Location 25.536°N 45.358°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Empfehlungen
