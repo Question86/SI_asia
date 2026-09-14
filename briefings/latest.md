@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-14T13:34:02+00:00_
+_Generiert: 2026-09-14T13:44:35+00:00_
 
 ## Kurzlage
 
-56 neue relevante Treffer. Stärkstes Signal: „M 5.6 - 78 km NNE of Tobelo, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
+58 neue relevante Treffer. Stärkstes Signal: „M 5.6 - 78 km NNE of Tobelo, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,30 +29,8 @@ _Generiert: 2026-09-14T13:34:02+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-10`
   - Kurz: Known exploited vulnerability. Added 2026-09-10. Due 2026-09-13. MikroTik RouterOS Improper Neutralization of Argument Delimiters in a Command Vulnerability
-- **GDACS: Green flood alert in India** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104154)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in India
-- **GDACS: Green earthquake (Magnitude 6.5M, Depth:372km) in Indonesia 11/09/2026 21:23 UTC, 20 thousand in 100km.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1564809)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.5M, Depth:372km) in Indonesia 11/09/2026 21:23 UTC, 20 thousand in 100km.
-- **GDACS: Green earthquake (Magnitude 5.6M, Depth:162.179km) in Indonesia 14/09/2026 10:58 UTC, 330 thousand in MMI III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1565203)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.6M, Depth:162.179km) in Indonesia 14/09/2026 10:58 UTC, 330 thousand in MMI III.
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in South Of Java, Indonesia 14/09/2026 09:27 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1565193)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in South Of Java, Indonesia 14/09/2026 09:27 UTC, [unknown].
-- **GDACS: Green notification for tropical cyclone FIFTEEN-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001321)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green notification for tropical cyclone FIFTEEN-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **GDACS: Green earthquake (Magnitude 5.9M, Depth:111.763km) in Indonesia 11/09/2026 11:56 UTC, 10 thousand in MMI IV.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1564759)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.9M, Depth:111.763km) in Indonesia 11/09/2026 11:56 UTC, 10 thousand in MMI IV.
+
+- Sensor-Hinweis: GDACS failed: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 
 ## Wirtschaft global
 
@@ -189,6 +167,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Announcing 20260081 (MRO,liquidity providing), for 7 days deadline 09:30** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260081.en.html)
+  - Quelle: ECB Open Market Operations and Communication / `rss`
+  - Zeit: published `2026-09-14T14:40:19+00:00`, fetched `2026-09-14T13:44:03+00:00`
+  - Treffer: liquidity, Macro/Policy, open market operations
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)
+  - Kurz: Announcing 20260081 (MRO,liquidity providing), for 7 days deadline 09:30
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Tesla establishes Vietnam subsidiary as EV rivalry with VinFast looms** — Score 12, observation — [Quelle](https://e27.co/tesla-establishes-vietnam-subsidiary-as-ev-rivalry-with-vinfast-looms-20260914/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-14T09:40:16+00:00`, fetched `2026-09-14T09:45:18+00:00`

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-14T13:34:02+00:00_
+_Generated: 2026-09-14T13:44:35+00:00_
 
 ## Status
 - status: `normal`
-- findings: `56`
+- findings: `58`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-09-14T13:34:02+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3345
 - summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Microsoft Edge ausnutzen, um einen Spoofing- und einen Cross-Site-Scripting-Angriff durchzuführen.
 
-### 5. Tesla establishes Vietnam subsidiary as EV rivalry with VinFast looms
+### 5. Announcing 20260081 (MRO,liquidity providing), for 7 days deadline 09:30
+- source: ECB Open Market Operations and Communication
+- score: `12`
+- published: `2026-09-14T14:40:19+00:00`
+- url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260081.en.html
+- summary: Announcing 20260081 (MRO,liquidity providing), for 7 days deadline 09:30
+
+### 6. Tesla establishes Vietnam subsidiary as EV rivalry with VinFast looms
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-09-14T09:40:16+00:00`
 - url: https://e27.co/tesla-establishes-vietnam-subsidiary-as-ev-rivalry-with-vinfast-looms-20260914/
 - summary: Tesla has formally established a Vietnamese subsidiary, marking a small but closely watched step into one of Southeast Asia’s most dynamic electric vehicle markets. According to a filing on Vietnam’s National Business Registration Portal dated September 12, T…
 
-### 6. Isabel Schnabel: Macroeconomic, fiscal and financial stability in a shock-prone world
+### 7. Isabel Schnabel: Macroeconomic, fiscal and financial stability in a shock-prone world
 - source: ECB Press Releases Speeches Interviews
 - score: `12`
 - published: `2026-09-14T09:15:00+00:00`
 - url: https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914~0ffd556bc8.en.pdf
 - summary: Isabel Schnabel: Macroeconomic, fiscal and financial stability in a shock-prone world
 
-### 7. The Fed is the real crypto story, Bitcoin and Ethereum are just following
+### 8. The Fed is the real crypto story, Bitcoin and Ethereum are just following
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-09-14T04:22:27+00:00`
 - url: https://e27.co/the-fed-is-the-real-crypto-story-bitcoin-and-ethereum-are-just-following-20260914/
 - summary: We have entered a cautious stretch. Bitcoin has slipped 0.72 per cent over the past 24 hours to US$76,697.14. Ethereum has fallen harder, down 1.95 per cent to US$2,474.93. This pullback reflects a broader market decline of 0.99 per cent. The dominant force b…
-
-### 8. OpenAI「Astra」は何でもできる、だからこそ“プロの指示”が必要になる (1/4)
-- source: Hatena Bookmark Hotentry IT
-- score: `12`
-- published: `2026-09-14T01:15:32+00:00`
-- url: https://ascii.jp/elem/000/004/434/4434403/
-- summary: 5日、OpenAIの「GPT-6 Astra」が筆者の環境でも使えるようになりました。前のバージョン「GPT-5.5 Sol」よりも、推論ベンチマークでは12倍に達するほど性能が大きく向上したとの報告もあり、注目が集まりました。果たして、その能力はこれまでのAIの常識を変えるほどの汎用性と高い性能を備えていました。ただし、GPT-6 ...
 
 END OF DOCUMENT
