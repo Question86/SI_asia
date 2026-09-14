@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-14T18:57:14+00:00_
+_Generiert: 2026-09-14T19:32:18+00:00_
 
 ## Kurzlage
 
@@ -9,6 +9,10 @@ _Generiert: 2026-09-14T18:57:14+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-76461 Cisco Secure Email Gateway** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-09-14`
+  - Kurz: Known exploited vulnerability. Added 2026-09-14. Due 2026-09-17. Cisco Secure Email Gateway SQL Injection Vulnerability
 - **CISA KEV: CVE-2026-84869 ConnectWise ScreenConnect** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-09-11`
@@ -25,10 +29,6 @@ _Generiert: 2026-09-14T18:57:14+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-11`
   - Kurz: Known exploited vulnerability. Added 2026-09-11. Due 2026-09-14. GitLab Community Edition and Enterprise Edition Path Traversal Vulnerability
-- **CISA KEV: CVE-2026-86060 MikroTik RouterOS** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-10`
-  - Kurz: Known exploited vulnerability. Added 2026-09-10. Due 2026-09-13. MikroTik RouterOS Improper Neutralization of Argument Delimiters in a Command Vulnerability
 - **GDACS: Green flood alert in India** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104154)
   - Quelle: GDACS
   - Zeit: ``

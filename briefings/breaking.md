@@ -1,10 +1,10 @@
 # Senna Breaking
 
-_Generiert: 2026-09-14T18:57:17+00:00_
+_Generiert: 2026-09-14T19:32:22+00:00_
 
 ## Christine Lagarde: A new age of capital: growth, sovereignty and AI
 
-- Ranking Score: `25.63`
+- Ranking Score: `25.41`
 - Raw Network Score: `30.4`
 - Max Monitor Score: `16`
 - Reichweite: `institutional` / `5.0`
