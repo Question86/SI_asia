@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-14T14:23:37+00:00_
+_Generiert: 2026-09-14T14:35:24+00:00_
 
 ## Kurzlage
 
-69 neue relevante Treffer. Stärkstes Signal: „M 5.6 - 78 km NNE of Tobelo, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
+71 neue relevante Treffer. Stärkstes Signal: „M 5.6 - 78 km NNE of Tobelo, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
 
 ## Priorität Hoch
 
@@ -222,6 +222,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+6.2); banking (+2.5); recent (+1.0)
   - Kurz: Opening remarks by Mr Phil Mnisi, Governor of the Central Bank of Eswatini, at the CCBG Subcommittee on Banking Supervision and Financial Stability Meeting, Ezulwini, 30 July 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Monetary policy and financial stability at the SNB - the role of macroprudential tools** — Score 10, observation — [Quelle](https://www.bis.org/speeches/20260907-monetary-policy-and-financial-stability-snb-role-macroprudential-tools)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-09-14T00:00:00+00:00`, fetched `2026-09-14T14:34:54+00:00`
+  - Treffer: macro, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); macro (+2.5); recent (+1.0)
+  - Kurz: Speech by Mr Antoine Martin, Vice Chairman of the Governing Board of the Swiss National Bank, at the University of Basel, Basel, 16 August 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **最近のClaude Code Desktop、使いやすさマシマシです！** — Score 10, observation — [Quelle](https://zenn.dev/goat_eat_any/articles/claude-code-desktop-app)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-09T06:01:56+00:00`, fetched `2026-09-14T13:33:32+00:00`
@@ -266,15 +275,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: European Union (+2.0)
   - Kurz: Speech by Mr Gabriel Makhlouf, Governor of the Central Bank of Ireland, at the Launch of a €2 Commemorative Circulating Coin to mark Ireland’s Presidency of the Council of the European Union, Dublin, 6 July 2026.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Keynote address - Sasana Symposium 2026** — Score 8, observation — [Quelle](https://www.bis.org/speeches/20260907-keynote-address-sasana-symposium-2026)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-09-14T00:00:00+00:00`, fetched `2026-09-14T14:23:06+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)
-  - Kurz: Keynote address by Mr Abdul Rasheed Ghaffour, Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the Sasana Symposium 2026, Kuala Lumpur, 28 July 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

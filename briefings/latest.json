@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T14:23:37+00:00",
-  "run_id": "2026-09-14T14:23:37+00:00",
+  "generated_at": "2026-09-14T14:35:24+00:00",
+  "run_id": "2026-09-14T14:35:24+00:00",
   "date": "2026-09-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 69
+      "configured_public_sources_only": 71
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 5,
-    "today_file_total": 69,
-    "displayed_findings": 69,
+    "new_relevant_findings": 2,
+    "today_file_total": 71,
+    "displayed_findings": 71,
     "high": 0,
     "medium": 33,
-    "observe": 36,
+    "observe": 38,
     "source_errors": 0
   },
   "sections": {
@@ -1160,6 +1160,27 @@
         "id": "170c561028eaab19ba9a"
       },
       {
+        "title": "Monetary policy and financial stability at the SNB - the role of macroprudential tools",
+        "url": "https://www.bis.org/speeches/20260907-monetary-policy-and-financial-stability-snb-role-macroprudential-tools",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-09-14T00:00:00+00:00",
+        "fetched_at": "2026-09-14T14:34:54+00:00",
+        "summary": "Speech by Mr Antoine Martin, Vice Chairman of the Governing Board of the Swiss National Bank, at the University of Basel, Basel, 16 August 2026.",
+        "matched_keywords": [
+          "macro",
+          "Macro/Policy"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "Macro/Policy (+6.2); macro (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e3b24ad61c3b391769d2"
+      },
+      {
         "title": "最近のClaude Code Desktop、使いやすさマシマシです！",
         "url": "https://zenn.dev/goat_eat_any/articles/claude-code-desktop-app",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1494,6 +1515,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "08f1741cf50548a21d1a"
+      },
+      {
+        "title": "Keynote address - 2026 Youth Leadership Summit",
+        "url": "https://www.bis.org/speeches/20260907-keynote-address-2026-youth-leadership-summit",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-09-14T00:00:00+00:00",
+        "fetched_at": "2026-09-14T14:34:54+00:00",
+        "summary": "Keynote address by Mr Lesetja Kganyago, Governor of the South African Reserve Bank, at the 2026 Youth Leadership Summit, Johannesburg, 20 June 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "92857c7718b7562bc33b"
       },
       {
         "title": "Address - 56th session of the Committee on Finance, State Budget and Control of Public Spending",
@@ -2835,6 +2876,27 @@
       "id": "170c561028eaab19ba9a"
     },
     {
+      "title": "Monetary policy and financial stability at the SNB - the role of macroprudential tools",
+      "url": "https://www.bis.org/speeches/20260907-monetary-policy-and-financial-stability-snb-role-macroprudential-tools",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-14T00:00:00+00:00",
+      "fetched_at": "2026-09-14T14:34:54+00:00",
+      "summary": "Speech by Mr Antoine Martin, Vice Chairman of the Governing Board of the Swiss National Bank, at the University of Basel, Basel, 16 August 2026.",
+      "matched_keywords": [
+        "macro",
+        "Macro/Policy"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "Macro/Policy (+6.2); macro (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e3b24ad61c3b391769d2"
+    },
+    {
       "title": "最近のClaude Code Desktop、使いやすさマシマシです！",
       "url": "https://zenn.dev/goat_eat_any/articles/claude-code-desktop-app",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3171,6 +3233,26 @@
       "id": "08f1741cf50548a21d1a"
     },
     {
+      "title": "Keynote address - 2026 Youth Leadership Summit",
+      "url": "https://www.bis.org/speeches/20260907-keynote-address-2026-youth-leadership-summit",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-14T00:00:00+00:00",
+      "fetched_at": "2026-09-14T14:34:54+00:00",
+      "summary": "Keynote address by Mr Lesetja Kganyago, Governor of the South African Reserve Bank, at the 2026 Youth Leadership Summit, Johannesburg, 20 June 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "92857c7718b7562bc33b"
+    },
+    {
       "title": "Address - 56th session of the Committee on Finance, State Budget and Control of Public Spending",
       "url": "https://www.bis.org/speeches/20260907-address-56th-session-committee-finance-state-budget-and-control-public-spending",
       "source": "BIS Central Bankers Speeches",
@@ -3381,105 +3463,45 @@
   ],
   "new_findings": [
     {
-      "title": "Opening remarks - CCBG Subcommittee on Banking Supervision and Financial Stability meeting",
-      "url": "https://www.bis.org/speeches/20260907-opening-remarks-ccbg-subcommittee-banking-supervision-and-financial-stability-meeting",
+      "title": "Monetary policy and financial stability at the SNB - the role of macroprudential tools",
+      "url": "https://www.bis.org/speeches/20260907-monetary-policy-and-financial-stability-snb-role-macroprudential-tools",
       "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
       "published_at": "2026-09-14T00:00:00+00:00",
-      "fetched_at": "2026-09-14T14:23:06+00:00",
-      "summary": "Opening remarks by Mr Phil Mnisi, Governor of the Central Bank of Eswatini, at the CCBG Subcommittee on Banking Supervision and Financial Stability Meeting, Ezulwini, 30 July 2026.",
+      "fetched_at": "2026-09-14T14:34:54+00:00",
+      "summary": "Speech by Mr Antoine Martin, Vice Chairman of the Governing Board of the Swiss National Bank, at the University of Basel, Basel, 16 August 2026.",
       "matched_keywords": [
-        "banking",
+        "macro",
         "Macro/Policy"
       ],
       "relevance_score": 10,
-      "relevance_reason": "Macro/Policy (+6.2); banking (+2.5); recent (+1.0)",
+      "relevance_reason": "Macro/Policy (+6.2); macro (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "170c561028eaab19ba9a"
+      "id": "e3b24ad61c3b391769d2"
     },
     {
-      "title": "Keynote address - Sasana Symposium 2026",
-      "url": "https://www.bis.org/speeches/20260907-keynote-address-sasana-symposium-2026",
+      "title": "Keynote address - 2026 Youth Leadership Summit",
+      "url": "https://www.bis.org/speeches/20260907-keynote-address-2026-youth-leadership-summit",
       "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
       "published_at": "2026-09-14T00:00:00+00:00",
-      "fetched_at": "2026-09-14T14:23:06+00:00",
-      "summary": "Keynote address by Mr Abdul Rasheed Ghaffour, Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the Sasana Symposium 2026, Kuala Lumpur, 28 July 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3115792254443489db34"
-    },
-    {
-      "title": "Opening of the South African Reserve Bank head office campus and launch of the museum",
-      "url": "https://www.bis.org/speeches/20260914-opening-south-african-reserve-bank-head-office-campus-and-launch-museum",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-09-14T00:00:00+00:00",
-      "fetched_at": "2026-09-14T14:23:06+00:00",
-      "summary": "Address by Mr Lesetja Kganyago, Governor of the South African Reserve Bank, at the opening of the South African Reserve Bank head office campus and launch of the museum, Pretoria, 19 June 2026.",
+      "fetched_at": "2026-09-14T14:34:54+00:00",
+      "summary": "Keynote address by Mr Lesetja Kganyago, Governor of the South African Reserve Bank, at the 2026 Youth Leadership Summit, Johannesburg, 20 June 2026.",
       "matched_keywords": [
         "Macro/Policy"
       ],
       "relevance_score": 6,
       "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "08f1741cf50548a21d1a"
-    },
-    {
-      "title": "The nature, functioning and responsabilities of a financial system without physical currency",
-      "url": "https://www.bis.org/speeches/20260914-nature-functioning-and-responsabilities-financial-system-without-physical-currency",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-09-14T00:00:00+00:00",
-      "fetched_at": "2026-09-14T14:23:06+00:00",
-      "summary": "Opening speech by Mr Mugur Isărescu, Governor of the National Bank of Romania, at the seminar “The nature, functioning and responsabilities of a financial system without physical currency”, Bucharest, 4 June 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d2042cf8a1243e732a9e"
-    },
-    {
-      "title": "Address - 56th session of the Committee on Finance, State Budget and Control of Public Spending",
-      "url": "https://www.bis.org/speeches/20260907-address-56th-session-committee-finance-state-budget-and-control-public-spending",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-09-14T00:00:00+00:00",
-      "fetched_at": "2026-09-14T14:23:06+00:00",
-      "summary": "Speech by Dr Jorgovanka Tabaković, Governor of the National Bank of Serbia, at the 56th session of the Committee on Finance, State Budget and Control of Public Spending, Belgrade, 16 July 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "eccb051d84127c9ab67d"
+      "id": "92857c7718b7562bc33b"
     }
   ],
   "source_errors": [],
