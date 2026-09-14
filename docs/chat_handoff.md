@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-14T11:20:23+00:00_
+_Generated: 2026-09-14T11:31:11+00:00_
 
 ## Status
 - status: `normal`
-- findings: `39`
+- findings: `42`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-09-14T11:20:23+00:00_
 - url: https://e27.co/ai-doesnt-need-crypto-ai-agents-do-20260912/
 - summary: The AI community keeps asking: “Where’s crypto’s killer app?” They may be asking the wrong species. Blockchain never found product-market fit with humans. It may find it with machines. AI creates intelligence. Blockchain creates verification. For years, one o…
 
-### 4. [UPDATE] [niedrig] Red Hat Enterprise Linux (GNU coreutils unexpand): Schwachstelle ermöglicht DoS und Manipulation von Dateien
+### 4. [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-09-14T09:36:31+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3319
-- summary: Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen oder möglicherweise den Speicher zu manipulieren.
+- published: `2026-09-14T11:26:39+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0119
+- summary: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen um nicht näher spezifizierte Angriffe durchzuführen, die möglicherweise zu einer Denial-of-Service- Bedingung führen oder eine Speicherbeschädigung verursachen können.
 
 ### 5. Tesla establishes Vietnam subsidiary as EV rivalry with VinFast looms
 - source: e27 Asia Startup and Tech Feed
