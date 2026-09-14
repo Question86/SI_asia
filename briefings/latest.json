@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T02:48:33+00:00",
-  "run_id": "2026-09-14T02:48:33+00:00",
+  "generated_at": "2026-09-14T02:57:30+00:00",
+  "run_id": "2026-09-14T02:57:30+00:00",
   "date": "2026-09-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 11,
     "displayed_findings": 11,
     "high": 0,
@@ -631,50 +631,7 @@
       "id": "38f4230187858633426d"
     }
   ],
-  "new_findings": [
-    {
-      "title": "India’s IPO boom is rewriting the exit playbook for global investors",
-      "url": "https://e27.co/indias-ipo-boom-is-rewriting-the-exit-playbook-for-global-investors-20260912/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-14T02:30:22+00:00",
-      "fetched_at": "2026-09-14T02:48:03+00:00",
-      "summary": "For years, the conventional playbook for many of India’s most ambitious companies was to raise global capital, establish an offshore holding company and preserve the option of an eventual listing in New York or another international financial centre. That calculus is changing. India’s initial public offering (IPO) market is no longer simply growing. It is […] The post India’s IPO boom is rewriting the exit playbook…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Watchgraph:capitals_power_centers"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: New York (+2.0); watchgraph region india: India (+2.0); watchgraph modules capitals_power_centers (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "watchgraph_reasons": [
-        "capitals_power_centers: capital"
-      ],
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "BA",
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ"
-      ],
-      "id": "4017df2d0735f047aca0"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
