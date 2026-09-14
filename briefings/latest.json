@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T11:41:58+00:00",
-  "run_id": "2026-09-14T11:41:58+00:00",
+  "generated_at": "2026-09-14T11:57:41+00:00",
+  "run_id": "2026-09-14T11:57:41+00:00",
   "date": "2026-09-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 46
+      "configured_public_sources_only": 47
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 46,
-    "displayed_findings": 46,
+    "new_relevant_findings": 1,
+    "today_file_total": 47,
+    "displayed_findings": 47,
     "high": 0,
-    "medium": 25,
+    "medium": 26,
     "observe": 21,
     "source_errors": 0
   },
@@ -461,6 +461,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "3fbb4f6ad3a84f5a1bc5"
+      },
+      {
+        "title": "[NEU] [mittel] QT: Schwachstelle ermöglicht Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3332",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-14T11:51:32+00:00",
+        "fetched_at": "2026-09-14T11:57:11+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in QT ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "dcb9566e97ff5f9363c7"
       },
       {
         "title": "[UPDATE] [hoch] Python: Mehrere Schwachstellen",
@@ -1633,6 +1656,29 @@
       "id": "3fbb4f6ad3a84f5a1bc5"
     },
     {
+      "title": "[NEU] [mittel] QT: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3332",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-14T11:51:32+00:00",
+      "fetched_at": "2026-09-14T11:57:11+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in QT ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "dcb9566e97ff5f9363c7"
+    },
+    {
       "title": "[UPDATE] [hoch] Python: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1231",
       "source": "BSI CERT-Bund Security Advisories",
@@ -2367,85 +2413,13 @@
   ],
   "new_findings": [
     {
-      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0105",
+      "title": "[NEU] [mittel] QT: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3332",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-09-14T11:36:33+00:00",
-      "fetched_at": "2026-09-14T11:41:29+00:00",
-      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Linux",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ab726d41bcd3a96d0b54"
-    },
-    {
-      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen ermöglichen Denial of Service oder unspezifischer Angriff",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-2057",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-14T11:36:33+00:00",
-      "fetched_at": "2026-09-14T11:41:29+00:00",
-      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder weitere unspezifische Angriffe durchzuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Linux",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "77bfce1346fd5e5c7844"
-    },
-    {
-      "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2268",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-14T11:31:37+00:00",
-      "fetched_at": "2026-09-14T11:41:29+00:00",
-      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um Daten zu manipulieren oder einen Denial of Service herbeizuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Linux",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "564a9755444faa320983"
-    },
-    {
-      "title": "[UPDATE] [hoch] Python: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-1231",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-14T11:36:34+00:00",
-      "fetched_at": "2026-09-14T11:41:29+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Python ausnutzen, um Dateien zu manipulieren oder Sicherheitsvorkehrungen zu umgehen.",
+      "published_at": "2026-09-14T11:51:32+00:00",
+      "fetched_at": "2026-09-14T11:57:11+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in QT ausnutzen, um einen Denial of Service Angriff durchzuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2459,7 +2433,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "5ffbee623d741c386b45"
+      "id": "dcb9566e97ff5f9363c7"
     }
   ],
   "source_errors": [],
