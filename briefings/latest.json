@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T03:52:06+00:00",
-  "run_id": "2026-09-14T03:52:06+00:00",
+  "generated_at": "2026-09-14T03:59:23+00:00",
+  "run_id": "2026-09-14T03:59:23+00:00",
   "date": "2026-09-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 15,
     "displayed_findings": 15,
     "high": 0,
@@ -831,29 +831,7 @@
       "id": "38f4230187858633426d"
     }
   ],
-  "new_findings": [
-    {
-      "title": "仕様書通りだけど提案書とは違うシステムだったので訴えます",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/14/news001.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-13T23:35:38+00:00",
-      "fetched_at": "2026-09-14T03:51:27+00:00",
-      "summary": "連載目次 IT訴訟事例を例にとり、トラブルの予防策と対処法を解説する本連載。今回は久しぶりに「ユーザー企業の要件定義不備」に関する判例を紹介する。 これまで何度か取り上げたように、多くのベンダーが「自分たちの仕事は、発注者から提示された要件を確実に実現すること」と考えるのに対し、ベンダーの責任をより...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6b9c52aefd1a11ef8531"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
