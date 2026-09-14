@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T09:45:53+00:00",
+  "generated_at": "2026-09-14T09:54:39+00:00",
   "sections": {
     "global_security": [
       {
@@ -126,13 +126,13 @@
         "domain": "security",
         "severity": "watch",
         "title": "USGS earthquake M5.5 - 187 km SSW of Pelabuhanratu, Indonesia",
-        "summary": "M5.5 - 187 km SSW of Pelabuhanratu, Indonesia. PAGER alert: none. Tsunami flag: 0.",
+        "summary": "M5.5 - 187 km SSW of Pelabuhanratu, Indonesia. PAGER alert: green. Tsunami flag: 0.",
         "source": "USGS",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thc6",
         "published_at": "2026-09-14T09:27:38+00:00",
         "metrics": {
           "mag": 5.5,
-          "alert": "",
+          "alert": "green",
           "sig": 465.0,
           "tsunami": 0
         }

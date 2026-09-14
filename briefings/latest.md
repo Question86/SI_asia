@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-14T09:45:49+00:00_
+_Generiert: 2026-09-14T09:54:35+00:00_
 
 ## Kurzlage
 
@@ -56,7 +56,7 @@ _Generiert: 2026-09-14T09:45:49+00:00_
 - **USGS earthquake M5.5 - 187 km SSW of Pelabuhanratu, Indonesia** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000thc6)
   - Quelle: USGS
   - Zeit: `2026-09-14T09:27:38+00:00`
-  - Kurz: M5.5 - 187 km SSW of Pelabuhanratu, Indonesia. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M5.5 - 187 km SSW of Pelabuhanratu, Indonesia. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
