@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-14T20:52:20+00:00",
+  "generated_at": "2026-09-14T21:00:39+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -620,7 +620,7 @@
       "p90_usd": 11920000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-01T08:46:46+00:00",
-      "last_seen_at": "2026-09-14T20:51:58+00:00",
+      "last_seen_at": "2026-09-14T21:00:21+00:00",
       "status": "active"
     },
     {
@@ -637,7 +637,7 @@
       "p90_usd": 11920000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-31T08:30:56+00:00",
-      "last_seen_at": "2026-09-14T20:51:58+00:00",
+      "last_seen_at": "2026-09-14T21:00:21+00:00",
       "status": "active"
     },
     {
@@ -688,7 +688,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-30T11:56:17+00:00",
-      "last_seen_at": "2026-09-14T20:51:58+00:00",
+      "last_seen_at": "2026-09-14T21:00:21+00:00",
       "status": "active"
     },
     {
@@ -790,7 +790,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-14T11:31:15+00:00",
-      "last_seen_at": "2026-09-14T20:51:58+00:00",
+      "last_seen_at": "2026-09-14T21:00:21+00:00",
       "status": "active"
     },
     {
@@ -824,7 +824,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T21:47:43+00:00",
-      "last_seen_at": "2026-09-14T20:51:58+00:00",
+      "last_seen_at": "2026-09-14T21:00:21+00:00",
       "status": "active"
     },
     {
@@ -2953,6 +2953,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_dc084a8543d8e732372b",
+      "title": "M 5.3 - off the coast of Michoacan, Mexico",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-14T21:00:21+00:00",
+      "last_seen_at": "2026-09-14T21:00:21+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -2966,7 +2983,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-14T20:51:58+00:00",
+      "last_seen_at": "2026-09-14T21:00:21+00:00",
       "status": "active"
     },
     {
@@ -3034,7 +3051,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-14T14:00:01+00:00",
-      "last_seen_at": "2026-09-14T20:51:58+00:00",
+      "last_seen_at": "2026-09-14T21:00:21+00:00",
       "status": "active"
     },
     {
@@ -3170,7 +3187,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-14T03:22:42+00:00",
-      "last_seen_at": "2026-09-14T20:51:58+00:00",
+      "last_seen_at": "2026-09-14T21:00:21+00:00",
       "status": "active"
     },
     {
@@ -3476,7 +3493,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-14T01:36:38+00:00",
-      "last_seen_at": "2026-09-14T20:51:58+00:00",
+      "last_seen_at": "2026-09-14T21:00:21+00:00",
       "status": "active"
     },
     {
@@ -3612,7 +3629,7 @@
       "p90_usd": 1504000000.0,
       "confidence": 0.77,
       "first_seen_at": "2026-08-29T07:47:53+00:00",
-      "last_seen_at": "2026-09-14T20:51:58+00:00",
+      "last_seen_at": "2026-09-14T21:00:21+00:00",
       "status": "active"
     },
     {
@@ -3682,6 +3699,23 @@
       "first_seen_at": "2026-09-07T05:59:00+00:00",
       "last_seen_at": "2026-09-07T23:53:08+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_7e4f6afd2bbf9c5a11ce",
+      "title": "OpenAIやAnthropicなどAIベンダごとのAPIの違いを吸収し統合する「Agent Router」、Linux Foundation傘下で業界標準へ",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 122400.0,
+      "p50_usd": 12240000.0,
+      "p90_usd": 1224000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-14T21:00:21+00:00",
+      "last_seen_at": "2026-09-14T21:00:21+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_4a74a8419c453553a503",
@@ -4105,7 +4139,7 @@
       "p90_usd": 1176000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-14T01:36:38+00:00",
-      "last_seen_at": "2026-09-14T20:51:58+00:00",
+      "last_seen_at": "2026-09-14T21:00:21+00:00",
       "status": "active"
     },
     {
@@ -4343,7 +4377,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-14T16:00:35+00:00",
-      "last_seen_at": "2026-09-14T20:51:58+00:00",
+      "last_seen_at": "2026-09-14T21:00:21+00:00",
       "status": "active"
     },
     {
@@ -4547,7 +4581,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-14T17:18:05+00:00",
-      "last_seen_at": "2026-09-14T20:51:58+00:00",
+      "last_seen_at": "2026-09-14T21:00:21+00:00",
       "status": "active"
     },
     {
@@ -4564,7 +4598,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-14T01:57:43+00:00",
-      "last_seen_at": "2026-09-14T20:51:58+00:00",
+      "last_seen_at": "2026-09-14T21:00:21+00:00",
       "status": "active"
     },
     {
@@ -4666,7 +4700,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-14T06:45:56+00:00",
-      "last_seen_at": "2026-09-14T20:51:58+00:00",
+      "last_seen_at": "2026-09-14T21:00:21+00:00",
       "status": "active"
     },
     {
@@ -4734,7 +4768,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-14T10:23:17+00:00",
-      "last_seen_at": "2026-09-14T20:51:58+00:00",
+      "last_seen_at": "2026-09-14T21:00:21+00:00",
       "status": "active"
     },
     {
@@ -4853,7 +4887,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-14T01:36:38+00:00",
-      "last_seen_at": "2026-09-14T20:51:58+00:00",
+      "last_seen_at": "2026-09-14T21:00:21+00:00",
       "status": "active"
     },
     {
@@ -5381,7 +5415,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-14T09:45:53+00:00",
       "last_seen_at": "2026-09-14T20:51:58+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_d9d1e9444ff4c251a395",
@@ -5398,7 +5432,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-14T04:26:47+00:00",
       "last_seen_at": "2026-09-14T20:51:58+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_da275e7d4e672b8bea83",
@@ -6655,7 +6689,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T18:20:05+00:00",
-      "last_seen_at": "2026-09-14T20:51:58+00:00",
+      "last_seen_at": "2026-09-14T21:00:21+00:00",
       "status": "active"
     },
     {
