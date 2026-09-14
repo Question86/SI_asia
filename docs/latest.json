@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T13:44:35+00:00",
-  "run_id": "2026-09-14T13:44:35+00:00",
+  "generated_at": "2026-09-14T13:52:16+00:00",
+  "run_id": "2026-09-14T13:52:16+00:00",
   "date": "2026-09-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 58,
     "displayed_findings": 58,
     "high": 0,
@@ -2903,51 +2903,7 @@
       "id": "38f4230187858633426d"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Announcing 20260081 (MRO,liquidity providing), for 7 days deadline 09:30",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260081.en.html",
-      "source": "ECB Open Market Operations and Communication",
-      "source_type": "rss",
-      "published_at": "2026-09-14T14:40:19+00:00",
-      "fetched_at": "2026-09-14T13:44:03+00:00",
-      "summary": "Announcing 20260081 (MRO,liquidity providing), for 7 days deadline 09:30",
-      "matched_keywords": [
-        "liquidity",
-        "Macro/Policy",
-        "open market operations"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "66c7ee87cbaeb9fbf124"
-    },
-    {
-      "title": "本人限定受取郵便、27年4月から本人確認を厳格化 スマホのマイナカードにも対応",
-      "url": "https://k-tai.watch.impress.co.jp/docs/news/2140785.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-14T10:47:09+00:00",
-      "fetched_at": "2026-09-14T13:44:03+00:00",
-      "summary": "本人限定受取郵便、27年4月から本人確認を厳格化 スマホのマイナカードにも対応",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7db9a35cade1a7acbe90"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
