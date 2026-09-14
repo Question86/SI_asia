@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-14T22:56:16+00:00",
+  "generated_at": "2026-09-14T23:09:37+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 97,
-    "displayed_findings": 97,
+    "new_relevant_findings": 1,
+    "today_file_total": 98,
+    "displayed_findings": 98,
     "high": 0,
     "medium": 38,
-    "observe": 59
+    "observe": 60
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -55,6 +55,16 @@
       "section": "medium"
     },
     {
+      "title": "M 4.9 - 66 km SSW of Patea, New Zealand",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-14T23:08:12.875+00:00",
+      "relevance_score": 13,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thhv",
+      "summary": "PAGER - GREEN ShakeMap - III DYFI? - III Time 2026-09-14 22:44:46 UTC 2026-09-14 22:44:46 UTC at epicenter Location 40.330°S 174.232°E Depth 102.56 km (63.73 mi)",
+      "section": "observe"
+    },
+    {
       "title": "Strengthening collaboration to preserve sovereignty: collaborative cash ecosystems - global strategies to preserve trust and sovereignty",
       "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
@@ -82,16 +92,6 @@
       "relevance_score": 12,
       "url": "https://e27.co/tesla-establishes-vietnam-subsidiary-as-ev-rivalry-with-vinfast-looms-20260914/",
       "summary": "Tesla has formally established a Vietnamese subsidiary, marking a small but closely watched step into one of Southeast Asia’s most dynamic electric vehicle markets. According to a filing on Vietnam’s National Business Registration Portal dated September 12, T…",
-      "section": "observe"
-    },
-    {
-      "title": "Isabel Schnabel: Macroeconomic, fiscal and financial stability in a shock-prone world",
-      "source": "ECB Press Releases Speeches Interviews",
-      "source_type": "rss",
-      "published_at": "2026-09-14T09:15:00+00:00",
-      "relevance_score": 12,
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914~0ffd556bc8.en.pdf",
-      "summary": "Isabel Schnabel: Macroeconomic, fiscal and financial stability in a shock-prone world",
       "section": "observe"
     }
   ],
