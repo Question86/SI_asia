@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T10:59:31+00:00",
+  "generated_at": "2026-09-14T11:20:26+00:00",
   "sections": {
     "global_security": [
       {
@@ -94,16 +94,6 @@
       },
       {
         "domain": "security",
-        "severity": "high",
-        "title": "GDACS: Green flood alert in Maldives",
-        "summary": "Green flood alert in Maldives",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104155",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
         "severity": "medium",
         "title": "GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in South Of Java, Indonesia 14/09/2026 09:27 UTC, [unknown].",
         "summary": "Green earthquake (Magnitude 5.5M, Depth:10km) in South Of Java, Indonesia 14/09/2026 09:27 UTC, [unknown].",
@@ -131,6 +121,21 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1564759",
         "published_at": "",
         "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "watch",
+        "title": "USGS earthquake M5.6 - 78 km NNE of Tobelo, Indonesia",
+        "summary": "M5.6 - 78 km NNE of Tobelo, Indonesia. PAGER alert: none. Tsunami flag: 0.",
+        "source": "USGS",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thcs",
+        "published_at": "2026-09-14T10:58:03+00:00",
+        "metrics": {
+          "mag": 5.6,
+          "alert": "",
+          "sig": 483.0,
+          "tsunami": 0
+        }
       }
     ],
     "global_economy": []
