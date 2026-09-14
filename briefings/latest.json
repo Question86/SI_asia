@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T17:18:01+00:00",
-  "run_id": "2026-09-14T17:18:01+00:00",
+  "generated_at": "2026-09-14T17:28:07+00:00",
+  "run_id": "2026-09-14T17:28:07+00:00",
   "date": "2026-09-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 84,
     "displayed_findings": 84,
     "high": 0,
@@ -4141,58 +4141,7 @@
       "id": "bdc7775eaccbab69e790"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Configure cost and quality in Copilot auto model selection",
-      "url": "https://github.blog/changelog/2026-09-14-configure-cost-and-quality-in-copilot-auto-model-selection",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-09-14T16:05:27+00:00",
-      "fetched_at": "2026-09-14T17:17:29+00:00",
-      "summary": "GitHub Copilot auto model selection now offers three tiers: efficiency, balance, and intelligence. Choose the tier that reflects how you want auto to weigh cost, quality, and response time for… The post Configure cost and quality in Copilot auto model selection appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "Copilot",
-        "GitHub",
-        "Macro/Policy",
-        "Watchgraph:elections_unrest"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "Macro/Policy (+6.2); GitHub (+2.0); Copilot (+2.5); recent (+1.0); watchgraph modules elections_unrest (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "elections_unrest"
-      ],
-      "watchgraph_reasons": [
-        "elections_unrest: election"
-      ],
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "BA",
-        "META",
-        "GOOGL",
-        "MSFT",
-        "RDDT",
-        "SNAP",
-        "PINS",
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ"
-      ],
-      "id": "1c258801e10c1b2ef3f4"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
