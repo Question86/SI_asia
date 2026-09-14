@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T14:54:50+00:00",
-  "run_id": "2026-09-14T14:54:50+00:00",
+  "generated_at": "2026-09-14T15:04:49+00:00",
+  "run_id": "2026-09-14T15:04:49+00:00",
   "date": "2026-09-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 73
+      "configured_public_sources_only": 75
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 73,
-    "displayed_findings": 73,
+    "new_relevant_findings": 2,
+    "today_file_total": 75,
+    "displayed_findings": 75,
     "high": 0,
     "medium": 33,
-    "observe": 40,
+    "observe": 42,
     "source_errors": 0
   },
   "sections": {
@@ -1031,6 +1031,27 @@
         "id": "88cd5f28749aa34f3753"
       },
       {
+        "title": "Winning in the AI era - the new playbook for Indian banks",
+        "url": "https://www.bis.org/speeches/20260907-winning-ai-era-new-playbook-indian-banks",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-09-14T00:00:00+00:00",
+        "fetched_at": "2026-09-14T15:04:15+00:00",
+        "summary": "Inaugural address by Mr Sanjay Malhotra, Governor of the Reserve Bank of India, at the Annual Financial Institution Benchmarking and Calibration (FIBAC) 2026 Conference, organised jointly by the Federation of Indian Chambers of Commerce and Industry (FICCI) and the Indian Banks' Association (IBA), Mumbai, 11 August 2026.",
+        "matched_keywords": [
+          "AI/KI",
+          "Macro/Policy"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "AI/KI (+3.8); Macro/Policy (+5.0); recent (+1.0); watchgraph region india: India, Mumbai, Reserve Bank of India (+2.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6c207dfea6e75cdc168b"
+      },
+      {
         "title": "The real AI economy is being built by ordinary people",
         "url": "https://restofworld.org/2026/global-workers-using-ai-at-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
         "source": "Rest of World Global Tech Feed",
@@ -1360,6 +1381,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "3115792254443489db34"
+      },
+      {
+        "title": "Keynote address - Global Islamic Financial Institutions Forum 2026",
+        "url": "https://www.bis.org/speeches/20260914-keynote-address-global-islamic-financial-institutions-forum-2026",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-09-14T00:00:00+00:00",
+        "fetched_at": "2026-09-14T15:04:15+00:00",
+        "summary": "Keynote address by Mr Adnan Zaylani Mohamad Zahid, Deputy Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the Global Islamic Financial Institutions Forum 2026, Kuala Lumpur, 6 August 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "35679d272bcff4a8cbda"
       },
       {
         "title": "Vulnérabilité dans les produits Cisco (09 septembre 2026)",
@@ -2788,6 +2829,27 @@
       "id": "88cd5f28749aa34f3753"
     },
     {
+      "title": "Winning in the AI era - the new playbook for Indian banks",
+      "url": "https://www.bis.org/speeches/20260907-winning-ai-era-new-playbook-indian-banks",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-14T00:00:00+00:00",
+      "fetched_at": "2026-09-14T15:04:15+00:00",
+      "summary": "Inaugural address by Mr Sanjay Malhotra, Governor of the Reserve Bank of India, at the Annual Financial Institution Benchmarking and Calibration (FIBAC) 2026 Conference, organised jointly by the Federation of Indian Chambers of Commerce and Industry (FICCI) and the Indian Banks' Association (IBA), Mumbai, 11 August 2026.",
+      "matched_keywords": [
+        "AI/KI",
+        "Macro/Policy"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "AI/KI (+3.8); Macro/Policy (+5.0); recent (+1.0); watchgraph region india: India, Mumbai, Reserve Bank of India (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6c207dfea6e75cdc168b"
+    },
+    {
       "title": "The real AI economy is being built by ordinary people",
       "url": "https://restofworld.org/2026/global-workers-using-ai-at-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
@@ -3117,6 +3179,26 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "3115792254443489db34"
+    },
+    {
+      "title": "Keynote address - Global Islamic Financial Institutions Forum 2026",
+      "url": "https://www.bis.org/speeches/20260914-keynote-address-global-islamic-financial-institutions-forum-2026",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-14T00:00:00+00:00",
+      "fetched_at": "2026-09-14T15:04:15+00:00",
+      "summary": "Keynote address by Mr Adnan Zaylani Mohamad Zahid, Deputy Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the Global Islamic Financial Institutions Forum 2026, Kuala Lumpur, 6 August 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "35679d272bcff4a8cbda"
     },
     {
       "title": "Vulnérabilité dans les produits Cisco (09 septembre 2026)",
@@ -3543,7 +3625,49 @@
       "id": "38f4230187858633426d"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Winning in the AI era - the new playbook for Indian banks",
+      "url": "https://www.bis.org/speeches/20260907-winning-ai-era-new-playbook-indian-banks",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-14T00:00:00+00:00",
+      "fetched_at": "2026-09-14T15:04:15+00:00",
+      "summary": "Inaugural address by Mr Sanjay Malhotra, Governor of the Reserve Bank of India, at the Annual Financial Institution Benchmarking and Calibration (FIBAC) 2026 Conference, organised jointly by the Federation of Indian Chambers of Commerce and Industry (FICCI) and the Indian Banks' Association (IBA), Mumbai, 11 August 2026.",
+      "matched_keywords": [
+        "AI/KI",
+        "Macro/Policy"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "AI/KI (+3.8); Macro/Policy (+5.0); recent (+1.0); watchgraph region india: India, Mumbai, Reserve Bank of India (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6c207dfea6e75cdc168b"
+    },
+    {
+      "title": "Keynote address - Global Islamic Financial Institutions Forum 2026",
+      "url": "https://www.bis.org/speeches/20260914-keynote-address-global-islamic-financial-institutions-forum-2026",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-14T00:00:00+00:00",
+      "fetched_at": "2026-09-14T15:04:15+00:00",
+      "summary": "Keynote address by Mr Adnan Zaylani Mohamad Zahid, Deputy Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the Global Islamic Financial Institutions Forum 2026, Kuala Lumpur, 6 August 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region southeast_asia: Malaysia (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "35679d272bcff4a8cbda"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
