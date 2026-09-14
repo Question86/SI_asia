@@ -100,5 +100,141 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “The Fed is the real crypto story, Bitcoin and Ethereum are just following” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=29.0.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "The Fed is the real crypto story, Bitcoin and Ethereum are just following",
+        "url": "https://e27.co/the-fed-is-the-real-crypto-story-bitcoin-and-ethereum-are-just-following-20260914/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-14T04:22:27+00:00",
+        "age_days": 0.06,
+        "topics": [
+          "ai",
+          "macro"
+        ],
+        "dynamics_score": 29.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: rce",
+          "security high-signal: rce"
+        ],
+        "summary": "We have entered a cautious stretch. Bitcoin has slipped 0.72 per cent over the past 24 hours to US$76,697.14. Ethereum has fallen harder, down 1.95 per cent to US$2,474.93. This pullback reflects a broader market decline of 0.99 per cent. The dominant force behind this move is macro uncertainty ahead of the Federal Re…"
+      },
+      {
+        "title": "AI doesn’t need crypto, AI agents do",
+        "url": "https://e27.co/ai-doesnt-need-crypto-ai-agents-do-20260912/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-14T01:36:38+00:00",
+        "age_days": 0.17,
+        "topics": [
+          "axiom",
+          "ai"
+        ],
+        "dynamics_score": 34.0,
+        "raw_band": "extreme",
+        "dynamic_band": "extreme",
+        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 3,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +3",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "AI doesn’t need crypto, AI agents do",
+        "url": "https://e27.co/ai-doesnt-need-crypto-ai-agents-do-20260912/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-14T01:00:59+00:00",
+        "age_days": 0.2,
+        "topics": [
+          "axiom",
+          "ai",
+          "macro"
+        ],
+        "dynamics_score": 28.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "early terms: chain",
+          "AXI0M/User-Yps identity hit"
+        ],
+        "summary": "The AI community keeps asking: “Where’s crypto’s killer app?” They may be asking the wrong species. Blockchain never found product-market fit with humans. It may find it with machines. AI creates intelligence. Blockchain creates verification. For years, one of the strongest arguments from the AI community has been tha…"
+      },
+      {
+        "title": "Androidアプリ「YAMAP / ヤマップ登山地図アプリ」におけるアクセス制限不備の脆弱性",
+        "url": "https://jvn.jp/jp/JVN69877538/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-14T12:00:00+09:00",
+        "age_days": 0.11,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 26.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "security high-signal: jvn, security"
+        ],
+        "summary": "株式会社ヤマップが提供するAndroidアプリ「YAMAP / ヤマップ登山地図アプリ」には、WebViewに対するアクセス制限不備の脆弱性が存在します。"
+      },
+      {
+        "title": "ExLlamaV3のexllamav3_extモジュールにおける不適切な入力検証の脆弱性",
+        "url": "https://jvn.jp/vu/JVNVU94022278/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-14T10:00:00+09:00",
+        "age_days": 0.2,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 26.0,
+        "raw_band": "strong",
+        "dynamic_band": "strong",
+        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "security high-signal: jvn, security"
+        ],
+        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
+      }
+    ]
+  }
 }
