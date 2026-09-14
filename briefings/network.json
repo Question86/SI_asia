@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-14T11:31:15+00:00",
+  "generated_at": "2026-09-14T11:42:00+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 42,
+    "findings": 46,
     "clusters": 33,
     "cross_source_confrmed": 0,
     "hot": 0,
@@ -21,30 +21,30 @@
       ],
       "urls": [
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3305",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-2057",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0105",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2268",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0119",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2595",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3319",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3321",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3282"
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2595"
       ],
-      "finding_count": 10,
+      "finding_count": 14,
       "max_score": 18,
-      "credibility_total": 10.5,
+      "credibility_total": 14.7,
       "cross_source_confirmed": false,
-      "momentum_delta": 2,
+      "momentum_delta": 4,
       "momentum_status": "increasing",
-      "network_score": 28.88,
+      "network_score": 32.5,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 45.0,
-      "ranking_score": 28.88,
+      "raw_network_score": 59.4,
+      "ranking_score": 32.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 5.0,
-      "baseline_bonus": 4.38,
+      "momentum_bonus": 8.0,
+      "baseline_bonus": 5.0,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -133,47 +133,6 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-09-01T08:46:46+00:00"
-    },
-    {
-      "key": "earthquake:japan:4.6",
-      "title": "M 4.6 - 49 km E of Minami-Sōma, Japan",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "emergency_official",
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thct"
-      ],
-      "finding_count": 1,
-      "max_score": 15,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 16.9,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 20.7,
-      "ranking_score": 16.9,
-      "initial_reach_tier": "official",
-      "source_reach_score": 4.0,
-      "authority_bonus_capped": 2.4,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 3.0,
-      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-09-14T11:31:15+00:00"
     },
     {
       "key": "url:https://www.itmedia.co.jp/news/article/2609/14/2000001433/",
@@ -402,6 +361,47 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-14T06:45:56+00:00"
+    },
+    {
+      "key": "earthquake:japan:4.6",
+      "title": "M 4.6 - 49 km E of Minami-Sōma, Japan",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "emergency_official",
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thct"
+      ],
+      "finding_count": 1,
+      "max_score": 15,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 14.4,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 17.7,
+      "ranking_score": 14.4,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-09-14T11:31:15+00:00"
     },
     {
       "key": "earthquake:indonesia:5.5",
@@ -698,18 +698,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 12.19,
+      "network_score": 12.18,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 14.1,
-      "ranking_score": 12.19,
+      "ranking_score": 12.18,
       "initial_reach_tier": "institutional",
       "source_reach_score": 5.0,
       "authority_bonus_capped": 3.0,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.19,
+      "baseline_bonus": 0.18,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1294,7 +1294,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-14T11:31:15Z",
+    "generated_at": "2026-09-14T11:42:01Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
