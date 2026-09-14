@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T06:00:45+00:00",
-  "run_id": "2026-09-14T06:00:45+00:00",
+  "generated_at": "2026-09-14T06:45:53+00:00",
+  "run_id": "2026-09-14T06:45:53+00:00",
   "date": "2026-09-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 17
+      "configured_public_sources_only": 21
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 17,
-    "displayed_findings": 17,
+    "new_relevant_findings": 4,
+    "today_file_total": 21,
+    "displayed_findings": 21,
     "high": 0,
-    "medium": 6,
-    "observe": 11,
+    "medium": 8,
+    "observe": 13,
     "source_errors": 0
   },
   "sections": {
@@ -180,6 +180,29 @@
         "id": "9e2de6e93a1f448db80d"
       },
       {
+        "title": "[UPDATE] [kritisch] Budibase: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3286",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-14T06:36:31+00:00",
+        "fetched_at": "2026-09-14T06:45:22+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Budibase ausnutzen, um erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, SQL-Injection-Angriffe durchzuführen oder Daten zu manipulieren und offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3843618e3c16d516a755"
+      },
+      {
         "title": "Scaling beyond AI pilots: Six-move Capability Cycle",
         "url": "https://e27.co/scaling-beyond-ai-pilots-six-move-capability-cycle-20260912/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -200,6 +223,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "6861739f5eb197d5313d"
+      },
+      {
+        "title": "tech-leads-club/agent-skills",
+        "url": "https://github.com/tech-leads-club/agent-skills",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-09-14T06:45:22+00:00",
+        "summary": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence. https://agent-skills.techleads.club 🧠 Agent Skills The secure, validated skill registry for professional AI coding agents In an ecosystem where over 13% of marketplace skills contain critical vulnerabilities , Agent Skills stands apart as a hardened library of ve…",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "APAC Trend Radar",
+          "GitHub Trending"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "AI/KI (+3.0); AI Agents (+6.2); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5cf2379350d0def2dc88"
       }
     ],
     "observe": [
@@ -354,6 +400,28 @@
         "id": "812b96721355106342f8"
       },
       {
+        "title": "ever-co/ever-gauzy",
+        "url": "https://github.com/ever-co/ever-gauzy",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-09-14T06:45:22+00:00",
+        "summary": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co https://gauzy.co Ever Gauzy Platform 💡 What's New 🔥🔥🔥 we just released Ever Works - An open agentic runtime that autonomously researches, ships, and maintains entire businesses, 24/7. Please grab it now from https://github.com/ever-works/ever-works and make it ⭐⭐⭐ on GitHub! if you like Gauzy, you should also like Ever Teams - O…",
+        "matched_keywords": [
+          "AI Agents",
+          "APAC Trend Radar",
+          "GitHub Trending"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2150ff852b3964e2fb5a"
+      },
+      {
         "title": "M 5.1 - northern Mid-Atlantic Ridge",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tha3",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -388,6 +456,28 @@
           "LOW"
         ],
         "id": "5f5e9623f67b6c1d0717"
+      },
+      {
+        "title": "JustVugg/colibri",
+        "url": "https://github.com/JustVugg/colibri",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-09-14T06:45:22+00:00",
+        "summary": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 https://justvugg.github.io/colibri Website · Discord · English · 简体中文 · 繁體中文 · Italiano Tiny engine, immense model. Run frontier MoE models — 744B to 2.8T parameters — on consumer and heterogeneous hardware, in pure C with zero engine dependencies, by treating storage, RAM, and VRAM as a…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "GitHub Trending",
+          "Webentwicklung"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "88534d89732fb012a5f4"
       },
       {
         "title": "仕様書通りだけど提案書とは違うシステムだったので訴えます",
@@ -626,6 +716,29 @@
       "id": "9e2de6e93a1f448db80d"
     },
     {
+      "title": "[UPDATE] [kritisch] Budibase: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3286",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-14T06:36:31+00:00",
+      "fetched_at": "2026-09-14T06:45:22+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Budibase ausnutzen, um erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, SQL-Injection-Angriffe durchzuführen oder Daten zu manipulieren und offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3843618e3c16d516a755"
+    },
+    {
       "title": "Scaling beyond AI pilots: Six-move Capability Cycle",
       "url": "https://e27.co/scaling-beyond-ai-pilots-six-move-capability-cycle-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -646,6 +759,29 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "6861739f5eb197d5313d"
+    },
+    {
+      "title": "tech-leads-club/agent-skills",
+      "url": "https://github.com/tech-leads-club/agent-skills",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-09-14T06:45:22+00:00",
+      "summary": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence. https://agent-skills.techleads.club 🧠 Agent Skills The secure, validated skill registry for professional AI coding agents In an ecosystem where over 13% of marketplace skills contain critical vulnerabilities , Agent Skills stands apart as a hardened library of ve…",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "GitHub Trending"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "AI/KI (+3.0); AI Agents (+6.2); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5cf2379350d0def2dc88"
     },
     {
       "title": "The Fed is the real crypto story, Bitcoin and Ethereum are just following",
@@ -798,6 +934,28 @@
       "id": "812b96721355106342f8"
     },
     {
+      "title": "ever-co/ever-gauzy",
+      "url": "https://github.com/ever-co/ever-gauzy",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-09-14T06:45:22+00:00",
+      "summary": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co https://gauzy.co Ever Gauzy Platform 💡 What's New 🔥🔥🔥 we just released Ever Works - An open agentic runtime that autonomously researches, ships, and maintains entire businesses, 24/7. Please grab it now from https://github.com/ever-works/ever-works and make it ⭐⭐⭐ on GitHub! if you like Gauzy, you should also like Ever Teams - O…",
+      "matched_keywords": [
+        "AI Agents",
+        "APAC Trend Radar",
+        "GitHub Trending"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2150ff852b3964e2fb5a"
+    },
+    {
       "title": "M 5.1 - northern Mid-Atlantic Ridge",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tha3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -832,6 +990,28 @@
         "LOW"
       ],
       "id": "5f5e9623f67b6c1d0717"
+    },
+    {
+      "title": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-09-14T06:45:22+00:00",
+      "summary": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 https://justvugg.github.io/colibri Website · Discord · English · 简体中文 · 繁體中文 · Italiano Tiny engine, immense model. Run frontier MoE models — 744B to 2.8T parameters — on consumer and heterogeneous hardware, in pure C with zero engine dependencies, by treating storage, RAM, and VRAM as a…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "Webentwicklung"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "88534d89732fb012a5f4"
     },
     {
       "title": "仕様書通りだけど提案書とは違うシステムだったので訴えます",
@@ -917,7 +1097,98 @@
       "id": "38f4230187858633426d"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "[UPDATE] [kritisch] Budibase: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3286",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-14T06:36:31+00:00",
+      "fetched_at": "2026-09-14T06:45:22+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Budibase ausnutzen, um erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, SQL-Injection-Angriffe durchzuführen oder Daten zu manipulieren und offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3843618e3c16d516a755"
+    },
+    {
+      "title": "tech-leads-club/agent-skills",
+      "url": "https://github.com/tech-leads-club/agent-skills",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-09-14T06:45:22+00:00",
+      "summary": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence. https://agent-skills.techleads.club 🧠 Agent Skills The secure, validated skill registry for professional AI coding agents In an ecosystem where over 13% of marketplace skills contain critical vulnerabilities , Agent Skills stands apart as a hardened library of ve…",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "APAC Trend Radar",
+        "GitHub Trending"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "AI/KI (+3.0); AI Agents (+6.2); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5cf2379350d0def2dc88"
+    },
+    {
+      "title": "ever-co/ever-gauzy",
+      "url": "https://github.com/ever-co/ever-gauzy",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-09-14T06:45:22+00:00",
+      "summary": "Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co https://gauzy.co Ever Gauzy Platform 💡 What's New 🔥🔥🔥 we just released Ever Works - An open agentic runtime that autonomously researches, ships, and maintains entire businesses, 24/7. Please grab it now from https://github.com/ever-works/ever-works and make it ⭐⭐⭐ on GitHub! if you like Gauzy, you should also like Ever Teams - O…",
+      "matched_keywords": [
+        "AI Agents",
+        "APAC Trend Radar",
+        "GitHub Trending"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2150ff852b3964e2fb5a"
+    },
+    {
+      "title": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-09-14T06:45:22+00:00",
+      "summary": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 https://justvugg.github.io/colibri Website · Discord · English · 简体中文 · 繁體中文 · Italiano Tiny engine, immense model. Run frontier MoE models — 744B to 2.8T parameters — on consumer and heterogeneous hardware, in pure C with zero engine dependencies, by treating storage, RAM, and VRAM as a…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "Webentwicklung"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "88534d89732fb012a5f4"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
