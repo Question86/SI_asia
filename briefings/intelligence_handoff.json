@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-14T19:35:59Z",
+  "generated_at": "2026-09-14T20:13:36Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] Citrix Systems Workspace App Windows: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3346",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T12:37:22+00:00",
-      "age_days": 0.29,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -36,36 +36,11 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Citrix Systems Workspace App ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen."
     },
     {
-      "title": "[UPDATE] [hoch] GitLab: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3315",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-09-14T09:36:31+00:00",
-      "age_days": 0.42,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 31.0,
-      "raw_band": "krass",
-      "dynamic_band": "krass",
-      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": true,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: angriffe, code",
-        "security high-signal: angriffe, code"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in GitLab ausnutzen, um beliebigen Code auszuführen, erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, sensible Informationen oder Anmeldedaten offenzulegen, Daten zu manipulieren, Cross-Site-Scripting-Angriffe durchzuführen oder Denial-of-Service-Zuständ…"
-    },
-    {
       "title": "Christine Lagarde: A new age of capital: growth, sovereignty and AI",
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914_2~a3f0efbee4.en.html",
       "source": "ECB Open Market Operations and Communication, ECB Press Releases Speeches Interviews",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 88.21,
+      "age_days": 88.24,
       "topics": [
         "ai"
       ],
@@ -76,13 +51,13 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 2,
       "momentum_delta": 3,
-      "baseline_z_hint": 2.27,
+      "baseline_z_hint": 1.32,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "source breadth +2",
         "momentum delta +3",
-        "baseline z_hint 2.27",
+        "baseline z_hint 1.32",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 88.2d old signal",
@@ -95,7 +70,7 @@
       "url": "https://www.bis.org/speeches/20260907-winning-ai-era-new-playbook-indian-banks",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-09-14T00:00:00+00:00",
-      "age_days": 0.82,
+      "age_days": 0.84,
       "topics": [
         "ai",
         "macro"
@@ -124,7 +99,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-2057",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T11:36:33+00:00",
-      "age_days": 0.33,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -150,7 +125,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0105",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T11:36:33+00:00",
-      "age_days": 0.33,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -176,7 +151,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0119",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T11:26:39+00:00",
-      "age_days": 0.34,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -202,7 +177,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2595",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T11:26:36+00:00",
-      "age_days": 0.34,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -228,7 +203,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3321",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T08:16:31+00:00",
-      "age_days": 0.47,
+      "age_days": 0.5,
       "topics": [
         "security"
       ],
@@ -254,7 +229,7 @@
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1139/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-09-09T00:00:00+00:00",
-      "age_days": 5.82,
+      "age_days": 5.84,
       "topics": [
         "security"
       ],
@@ -280,7 +255,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3342",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T12:37:01+00:00",
-      "age_days": 0.29,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -306,7 +281,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3290",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T10:14:06+00:00",
-      "age_days": 0.39,
+      "age_days": 0.42,
       "topics": [
         "ai",
         "security"
@@ -327,6 +302,35 @@
         "official security but no high-signal phrase: capped at strong"
       ],
       "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in PackageKit ausnutzen, um Sicherheitsmaßnahmen zu umgehen, beliebige Befehle mit Root-Rechten auszuführen, seine Berechtigungen auf Root zu erweitern oder Daten offenzulegen und zu manipulieren."
+    },
+    {
+      "title": "Strengthening collaboration to preserve sovereignty: collaborative cash ecosystems - global strategies to preserve trust and sovereignty",
+      "url": "https://www.bis.org/speeches/20260914-strengthening-collaboration-preserve-sovereignty-collaborative-cash-ecosystems-global-strategies-preserve-trust-and",
+      "source": "BIS Central Bankers Speeches",
+      "published_at": "2026-06-18T14:33:45+00:00",
+      "age_days": 88.24,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 19.9,
+      "raw_band": "krass",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 1.92,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 1.92",
+        "high terms: rce",
+        "security high-signal: rce",
+        "aging penalty -8.0 for 88.2d old signal",
+        "stale single-source cap after 30d: no current exploitation phrase"
+      ],
+      "summary": ""
     }
   ],
   "read_order": [
@@ -338,8 +342,9 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "krass": 2,
-      "strong": 10
+      "krass": 1,
+      "strong": 10,
+      "watch": 1
     }
   }
 }
