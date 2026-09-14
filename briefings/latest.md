@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-14T20:36:10+00:00_
+_Generiert: 2026-09-14T20:43:24+00:00_
 
 ## Kurzlage
 
@@ -30,7 +30,7 @@ _Generiert: 2026-09-14T20:36:10+00:00_
   - Zeit: `2026-09-11`
   - Kurz: Known exploited vulnerability. Added 2026-09-11. Due 2026-09-14. GitLab Community Edition and Enterprise Edition Path Traversal Vulnerability
 
-- Sensor-Hinweis: GDACS failed: 503 Server Error: Service Unavailable for url: https://www.gdacs.org/xml/rss.xml
+- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Read timed out. (read timeout=8)
 
 ## Wirtschaft global
 
