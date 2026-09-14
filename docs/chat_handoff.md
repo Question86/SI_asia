@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-14T03:59:23+00:00_
+_Generated: 2026-09-14T04:26:45+00:00_
 
 ## Status
 - status: `normal`
-- findings: `15`
+- findings: `16`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-09-14T03:59:23+00:00_
 - url: https://jvn.jp/jp/JVN69877538/
 - summary: 株式会社ヤマップが提供するAndroidアプリ「YAMAP / ヤマップ登山地図アプリ」には、WebViewに対するアクセス制限不備の脆弱性が存在します。
 
-### 5. India’s IPO boom is rewriting the exit playbook for global investors
+### 5. The Fed is the real crypto story, Bitcoin and Ethereum are just following
+- source: e27 Asia Startup and Tech Feed
+- score: `12`
+- published: `2026-09-14T04:22:27+00:00`
+- url: https://e27.co/the-fed-is-the-real-crypto-story-bitcoin-and-ethereum-are-just-following-20260914/
+- summary: We have entered a cautious stretch. Bitcoin has slipped 0.72 per cent over the past 24 hours to US$76,697.14. Ethereum has fallen harder, down 1.95 per cent to US$2,474.93. This pullback reflects a broader market decline of 0.99 per cent. The dominant force b…
+
+### 6. India’s IPO boom is rewriting the exit playbook for global investors
 - source: e27 Asia Startup and Tech Feed
 - score: `11`
 - published: `2026-09-14T02:30:22+00:00`
 - url: https://e27.co/indias-ipo-boom-is-rewriting-the-exit-playbook-for-global-investors-20260912/
 - summary: For years, the conventional playbook for many of India’s most ambitious companies was to raise global capital, establish an offshore holding company and preserve the option of an eventual listing in New York or another international financial centre. That cal…
 
-### 6. Everyone has adopted AI. Almost nobody is ready for it
+### 7. Everyone has adopted AI. Almost nobody is ready for it
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-09-14T03:00:51+00:00`
 - url: https://e27.co/everyone-has-adopted-ai-almost-nobody-is-ready-for-it-20260912/
 - summary: Somewhere in the last eighteen months, the AI question quietly resolved itself. Almost nobody in Singapore asks whether to adopt anymore. Accenture said 90 per cent of organisations surveyed have moved beyond AI awareness and exploration into implementation.…
 
-### 7. Why Beyond Border thinks visas are now part of the founder playbook
+### 8. Why Beyond Border thinks visas are now part of the founder playbook
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-09-14T01:00:36+00:00`
 - url: https://e27.co/why-beyond-border-thinks-visas-are-now-part-of-the-founder-playbook-20260911/
 - summary: Beyond Border, the Singapore-founded, tech-enabled US immigration platform for founders and highly skilled professionals, has added former Airbnb China COO Kum Hong Siew to its advisory bench as Business Advisor. The appointment comes as the company, which sa…
-
-### 8. フロントエンドなんてバイブコーディングで良いこの時代に、私は - カミナシ エンジニアブログ
-- source: Hatena Bookmark Hotentry IT
-- score: `10`
-- published: `2026-09-14T00:17:47+00:00`
-- url: https://kaminashi-developer.hatenablog.jp/entry/2026/09/14/frontend-beyond-vibe-coding
-- summary: カミナシでソフトウェアエンジニアをしている osuzu です。 「フロントエンドエンジニアとしてのキャリアは終わりなのではないか」という話を、最近よく見かけるようになりました。AIが画面実装を担えるようになった今、フロントエンドを主戦場にし続ける意味があるのか、という問いです。 正直に言うと、私も同じ方向に...
 
 END OF DOCUMENT

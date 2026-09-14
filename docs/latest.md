@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-14T03:59:23+00:00_
+_Generiert: 2026-09-14T04:26:45+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „AI doesn’t need crypto, AI agents do“ aus e27 Asia Startup and Tech Feed (Score 17, opportunity).
+16 neue relevante Treffer. Stärkstes Signal: „AI doesn’t need crypto, AI agents do“ aus e27 Asia Startup and Tech Feed (Score 17, opportunity).
 
 ## Priorität Hoch
 
@@ -69,6 +69,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **The Fed is the real crypto story, Bitcoin and Ethereum are just following** — Score 12, observation — [Quelle](https://e27.co/the-fed-is-the-real-crypto-story-bitcoin-and-ethereum-are-just-following-20260914/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-14T04:22:27+00:00`, fetched `2026-09-14T04:26:06+00:00`
+  - Treffer: APAC Trend Radar, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: We have entered a cautious stretch. Bitcoin has slipped 0.72 per cent over the past 24 hours to US$76,697.14. Ethereum has fallen harder, down 1.95 per cent to US$2,474.93. This pullback reflects a broader market decline of 0.99 per cent. The dominant force behind this move is macro uncertainty ahead of the Federal Reserve’s September […] The post The Fed is the real crypto story, Bitcoin and Ethereum are just follo…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **India’s IPO boom is rewriting the exit playbook for global investors** — Score 11, observation — [Quelle](https://e27.co/indias-ipo-boom-is-rewriting-the-exit-playbook-for-global-investors-20260912/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-14T02:30:22+00:00`, fetched `2026-09-14T02:48:03+00:00`
@@ -86,15 +95,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Somewhere in the last eighteen months, the AI question quietly resolved itself. Almost nobody in Singapore asks whether to adopt anymore. Accenture said 90 per cent of organisations surveyed have moved beyond AI awareness and exploration into implementation. One in two has deployed generative AI in specific business units, while 73 per cent are experimenting […] The post Everyone has adopted AI. Almost nobody is rea…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Why Beyond Border thinks visas are now part of the founder playbook** — Score 10, observation — [Quelle](https://e27.co/why-beyond-border-thinks-visas-are-now-part-of-the-founder-playbook-20260911/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-14T01:00:36+00:00`, fetched `2026-09-14T01:35:59+00:00`
-  - Treffer: APAC Trend Radar, founder
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph region china_credible_only: China (+2.0)
-  - Kurz: Beyond Border, the Singapore-founded, tech-enabled US immigration platform for founders and highly skilled professionals, has added former Airbnb China COO Kum Hong Siew to its advisory bench as Business Advisor. The appointment comes as the company, which says it has stayed net profitable for two years while hitting a multimillion-dollar annual revenue run rate, pushes […] The post Why Beyond Border thinks visas ar…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **フロントエンドなんてバイブコーディングで良いこの時代に、私は - カミナシ エンジニアブログ** — Score 10, observation — [Quelle](https://kaminashi-developer.hatenablog.jp/entry/2026/09/14/frontend-beyond-vibe-coding)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
