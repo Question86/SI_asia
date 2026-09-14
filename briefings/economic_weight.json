@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-14T02:57:52+00:00",
+  "generated_at": "2026-09-14T03:22:59+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -807,7 +807,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T21:47:43+00:00",
-      "last_seen_at": "2026-09-14T02:57:34+00:00",
+      "last_seen_at": "2026-09-14T03:22:42+00:00",
       "status": "active"
     },
     {
@@ -2851,6 +2851,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_ed3559ae697216e75477",
+      "title": "M 5.1 - northern Mid-Atlantic Ridge",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-14T03:22:42+00:00",
+      "last_seen_at": "2026-09-14T03:22:42+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -3340,7 +3357,24 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-14T01:36:38+00:00",
-      "last_seen_at": "2026-09-14T02:57:34+00:00",
+      "last_seen_at": "2026-09-14T03:22:42+00:00",
+      "status": "active"
+    },
+    {
+      "event_id": "evt_44a8a83558fc78b768ee",
+      "title": "Androidアプリ「YAMAP / ヤマップ登山地図アプリ」におけるアクセス制限不備の脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-14T03:22:42+00:00",
+      "last_seen_at": "2026-09-14T03:22:42+00:00",
       "status": "active"
     },
     {
@@ -3969,7 +4003,7 @@
       "p90_usd": 1176000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-14T01:36:38+00:00",
-      "last_seen_at": "2026-09-14T02:57:34+00:00",
+      "last_seen_at": "2026-09-14T03:22:42+00:00",
       "status": "active"
     },
     {
@@ -4394,7 +4428,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-14T01:57:43+00:00",
-      "last_seen_at": "2026-09-14T02:57:34+00:00",
+      "last_seen_at": "2026-09-14T03:22:42+00:00",
       "status": "active"
     },
     {
@@ -4649,7 +4683,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-14T01:36:38+00:00",
-      "last_seen_at": "2026-09-14T02:57:34+00:00",
+      "last_seen_at": "2026-09-14T03:22:42+00:00",
       "status": "active"
     },
     {
@@ -5499,7 +5533,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-14T02:48:35+00:00",
-      "last_seen_at": "2026-09-14T02:57:34+00:00",
+      "last_seen_at": "2026-09-14T03:22:42+00:00",
       "status": "active"
     },
     {
@@ -6026,7 +6060,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-14T01:36:38+00:00",
-      "last_seen_at": "2026-09-14T02:57:34+00:00",
+      "last_seen_at": "2026-09-14T03:22:42+00:00",
       "status": "active"
     },
     {
@@ -6060,7 +6094,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-14T02:28:20+00:00",
-      "last_seen_at": "2026-09-14T02:57:34+00:00",
+      "last_seen_at": "2026-09-14T03:22:42+00:00",
       "status": "active"
     },
     {
@@ -6300,6 +6334,23 @@
       "first_seen_at": "2026-09-05T03:23:45+00:00",
       "last_seen_at": "2026-09-05T23:55:24+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_e9e8c48e7983c87f19be",
+      "title": "Everyone has adopted AI. Almost nobody is ready for it",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112000.0,
+      "p50_usd": 11200000.0,
+      "p90_usd": 1120000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-14T03:22:42+00:00",
+      "last_seen_at": "2026-09-14T03:22:42+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_1acbd7b0539d2ffbbf11",
@@ -8611,7 +8662,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-14T01:36:38+00:00",
-      "last_seen_at": "2026-09-14T02:57:34+00:00",
+      "last_seen_at": "2026-09-14T03:22:42+00:00",
       "status": "active"
     },
     {
@@ -9529,7 +9580,7 @@
       "p90_usd": 1072000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-14T01:36:38+00:00",
-      "last_seen_at": "2026-09-14T02:57:34+00:00",
+      "last_seen_at": "2026-09-14T03:22:42+00:00",
       "status": "active"
     },
     {
@@ -9648,7 +9699,7 @@
       "p90_usd": 1072000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-14T02:28:20+00:00",
-      "last_seen_at": "2026-09-14T02:57:34+00:00",
+      "last_seen_at": "2026-09-14T03:22:42+00:00",
       "status": "active"
     },
     {
