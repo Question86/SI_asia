@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-14T11:57:41+00:00_
+_Generiert: 2026-09-14T12:27:31+00:00_
 
 ## Kurzlage
 
@@ -53,10 +53,6 @@ _Generiert: 2026-09-14T11:57:41+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.9M, Depth:111.763km) in Indonesia 11/09/2026 11:56 UTC, 10 thousand in MMI IV.
-- **USGS earthquake M5.6 - 78 km NNE of Tobelo, Indonesia** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000thcs)
-  - Quelle: USGS
-  - Zeit: `2026-09-14T10:58:03+00:00`
-  - Kurz: M5.6 - 78 km NNE of Tobelo, Indonesia. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
