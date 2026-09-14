@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T03:22:40+00:00",
-  "run_id": "2026-09-14T03:22:40+00:00",
+  "generated_at": "2026-09-14T03:40:13+00:00",
+  "run_id": "2026-09-14T03:40:13+00:00",
   "date": "2026-09-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
+    "new_relevant_findings": 0,
     "today_file_total": 14,
     "displayed_findings": 14,
     "high": 0,
@@ -789,87 +789,7 @@
       "id": "38f4230187858633426d"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Androidアプリ「YAMAP / ヤマップ登山地図アプリ」におけるアクセス制限不備の脆弱性",
-      "url": "https://jvn.jp/jp/JVN69877538/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-09-14T12:00:00+09:00",
-      "fetched_at": "2026-09-14T03:22:07+00:00",
-      "summary": "株式会社ヤマップが提供するAndroidアプリ「YAMAP / ヤマップ登山地図アプリ」には、WebViewに対するアクセス制限不備の脆弱性が存在します。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3fbb4f6ad3a84f5a1bc5"
-    },
-    {
-      "title": "Everyone has adopted AI. Almost nobody is ready for it",
-      "url": "https://e27.co/everyone-has-adopted-ai-almost-nobody-is-ready-for-it-20260912/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-14T03:00:51+00:00",
-      "fetched_at": "2026-09-14T03:22:07+00:00",
-      "summary": "Somewhere in the last eighteen months, the AI question quietly resolved itself. Almost nobody in Singapore asks whether to adopt anymore. Accenture said 90 per cent of organisations surveyed have moved beyond AI awareness and exploration into implementation. One in two has deployed generative AI in specific business units, while 73 per cent are experimenting […] The post Everyone has adopted AI. Almost nobody is rea…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4ae343014f30710c298c"
-    },
-    {
-      "title": "M 5.1 - northern Mid-Atlantic Ridge",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tha3",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-09-14T03:15:29.040+00:00",
-      "fetched_at": "2026-09-14T03:22:07+00:00",
-      "summary": "Time 2026-09-14 02:56:17 UTC 2026-09-14 02:56:17 UTC at epicenter Location 25.536°N 45.358°W Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "5f5e9623f67b6c1d0717"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
