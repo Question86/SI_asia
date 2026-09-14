@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-14T02:57:30+00:00_
+_Generiert: 2026-09-14T03:22:40+00:00_
 
 ## Kurzlage
 
-11 neue relevante Treffer. Stärkstes Signal: „AI doesn’t need crypto, AI agents do“ aus e27 Asia Startup and Tech Feed (Score 17, opportunity).
+14 neue relevante Treffer. Stärkstes Signal: „AI doesn’t need crypto, AI agents do“ aus e27 Asia Startup and Tech Feed (Score 17, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -92,6 +92,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 「他者の許可が必要なふりはやめろ」──米大統領科学技術諮問委員会（PCAST）共同議長のデビッド・サックス氏は9月12日（現地時間）、Xへの投稿で、米Anthropicのダリオ・アモデイCEOが同日公開したエッセイ「We Must Pace the Frontier」と、これに同調したOpenAIのサム・アルトマンCEOの投稿に反応し、ペース調整をする...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Androidアプリ「YAMAP / ヤマップ登山地図アプリ」におけるアクセス制限不備の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN69877538/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-09-14T12:00:00+09:00`, fetched `2026-09-14T03:22:07+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 株式会社ヤマップが提供するAndroidアプリ「YAMAP / ヤマップ登山地図アプリ」には、WebViewに対するアクセス制限不備の脆弱性が存在します。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **ExLlamaV3のexllamav3_extモジュールにおける不適切な入力検証の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU94022278/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-09-14T10:00:00+09:00`, fetched `2026-09-14T01:35:59+00:00`
@@ -122,6 +131,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: New York (+2.0); watchgraph region india: India (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: For years, the conventional playbook for many of India’s most ambitious companies was to raise global capital, establish an offshore holding company and preserve the option of an eventual listing in New York or another international financial centre. That calculus is changing. India’s initial public offering (IPO) market is no longer simply growing. It is […] The post India’s IPO boom is rewriting the exit playbook…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Everyone has adopted AI. Almost nobody is ready for it** — Score 10, observation — [Quelle](https://e27.co/everyone-has-adopted-ai-almost-nobody-is-ready-for-it-20260912/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-14T03:00:51+00:00`, fetched `2026-09-14T03:22:07+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Somewhere in the last eighteen months, the AI question quietly resolved itself. Almost nobody in Singapore asks whether to adopt anymore. Accenture said 90 per cent of organisations surveyed have moved beyond AI awareness and exploration into implementation. One in two has deployed generative AI in specific business units, while 73 per cent are experimenting […] The post Everyone has adopted AI. Almost nobody is rea…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Why Beyond Border thinks visas are now part of the founder playbook** — Score 10, observation — [Quelle](https://e27.co/why-beyond-border-thinks-visas-are-now-part-of-the-founder-playbook-20260911/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-14T01:00:36+00:00`, fetched `2026-09-14T01:35:59+00:00`
@@ -140,6 +158,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0); developer (+2.0); recent (+1.0)
   - Kurz: カミナシでソフトウェアエンジニアをしている osuzu です。 「フロントエンドエンジニアとしてのキャリアは終わりなのではないか」という話を、最近よく見かけるようになりました。AIが画面実装を担えるようになった今、フロントエンドを主戦場にし続ける意味があるのか、という問いです。 正直に言うと、私も同じ方向に...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.1 - northern Mid-Atlantic Ridge** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tha3)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-14T03:15:29.040+00:00`, fetched `2026-09-14T03:22:07+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-14 02:56:17 UTC 2026-09-14 02:56:17 UTC at epicenter Location 25.536°N 45.358°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **越境を可能にする、人とAIのためのデザインシステム - Findy Tech Blog** — Score 5, observation — [Quelle](https://tech.findy.co.jp/entry/2026/09/14/070000)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-13T22:12:20+00:00`, fetched `2026-09-14T01:35:59+00:00`
@@ -148,15 +175,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: こんにちは！CTO室でエンジニアをやっている別府(@_nuk00_)です！ 今回の記事では、AIがデザイン案を自動で作成する時代に、なぜ管理コストのかかるデザインシステムを作ったのか。その理由と、デザインシステムの中身を紹介します。 記事は前編と後編の2つに分けています。 前編にあたるこの記事では、土台となる「人と...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The missing link in your consumer’s mobile app journey** — Score 4, observation — [Quelle](https://e27.co/the-missing-link-in-your-consumers-mobile-app-journey-20260912/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-14T02:00:38+00:00`, fetched `2026-09-14T02:27:47+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: Global app installs grew 10 per cent year-over-year in 2025, with APAC driving much of that growth. But for marketers today, getting users to install an app is only half the battle. The bigger challenge is ensuring users reach the right destination and complete purchases without unnecessary friction. That’s often where things fall apart. Today’s […] The post The missing link in your consumer’s mobile app journey app…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ノーラン版『オデュッセイア』は何が凄い？全編IMAXフィルム撮影とVFX裏側** — Score 4, observation — [Quelle](https://av.watch.impress.co.jp/docs/topic/2138582.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
