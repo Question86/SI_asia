@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-14T21:23:24Z",
+  "generated_at": "2026-09-14T21:36:17Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] Citrix Systems Workspace App Windows: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -40,7 +40,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3315",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T09:36:31+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [
         "security"
       ],
@@ -65,7 +65,7 @@
       "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914_2~a3f0efbee4.en.html",
       "source": "ECB Open Market Operations and Communication, ECB Press Releases Speeches Interviews",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 88.28,
+      "age_days": 88.29,
       "topics": [
         "ai"
       ],
@@ -76,13 +76,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 2,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.1,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "source breadth +2",
         "momentum delta +3",
-        "baseline z_hint 0.10",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 88.3d old signal",
@@ -95,7 +94,7 @@
       "url": "https://www.bis.org/speeches/20260907-winning-ai-era-new-playbook-indian-banks",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-09-14T00:00:00+00:00",
-      "age_days": 0.89,
+      "age_days": 0.9,
       "topics": [
         "ai",
         "macro"
@@ -124,7 +123,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-2057",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T11:36:33+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -150,7 +149,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0105",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T11:36:33+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -176,7 +175,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0119",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T11:26:39+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -202,7 +201,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2595",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T11:26:36+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "security"
       ],
@@ -228,7 +227,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3321",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T08:16:31+00:00",
-      "age_days": 0.55,
+      "age_days": 0.56,
       "topics": [
         "security"
       ],
@@ -254,7 +253,7 @@
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1139/",
       "source": "CERT-FR Avis de sécurité",
       "published_at": "2026-09-09T00:00:00+00:00",
-      "age_days": 5.89,
+      "age_days": 5.9,
       "topics": [
         "security"
       ],
@@ -306,7 +305,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3290",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T10:14:06+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "ai",
         "security"
