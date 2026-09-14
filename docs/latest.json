@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T19:32:18+00:00",
-  "run_id": "2026-09-14T19:32:18+00:00",
+  "generated_at": "2026-09-14T19:41:00+00:00",
+  "run_id": "2026-09-14T19:41:00+00:00",
   "date": "2026-09-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 85
+      "configured_public_sources_only": 86
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 85,
-    "displayed_findings": 85,
+    "new_relevant_findings": 1,
+    "today_file_total": 86,
+    "displayed_findings": 86,
     "high": 0,
     "medium": 37,
-    "observe": 48,
+    "observe": 49,
     "source_errors": 0
   },
   "sections": {
@@ -1203,6 +1203,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "6c207dfea6e75cdc168b"
+      },
+      {
+        "title": "M 4.8 - 106 km WSW of Alianza Cristiana, Peru",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thg5",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-09-14T19:34:52.040+00:00",
+        "fetched_at": "2026-09-14T19:40:28+00:00",
+        "summary": "Time 2026-09-14 19:16:49 UTC 2026-09-14 19:16:49 UTC at epicenter Location 3.730°S 77.361°W Depth 106.20 km (65.99 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "a1f2d8c09db7277cf62d"
       },
       {
         "title": "How Fyxer built an AI executive assistant people trust",
@@ -3298,6 +3334,42 @@
       "id": "6c207dfea6e75cdc168b"
     },
     {
+      "title": "M 4.8 - 106 km WSW of Alianza Cristiana, Peru",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thg5",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-14T19:34:52.040+00:00",
+      "fetched_at": "2026-09-14T19:40:28+00:00",
+      "summary": "Time 2026-09-14 19:16:49 UTC 2026-09-14 19:16:49 UTC at epicenter Location 3.730°S 77.361°W Depth 106.20 km (65.99 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "a1f2d8c09db7277cf62d"
+    },
+    {
       "title": "How Fyxer built an AI executive assistant people trust",
       "url": "https://openai.com/index/fyxer",
       "source": "OpenAI News RSS",
@@ -4215,7 +4287,44 @@
       "id": "bdc7775eaccbab69e790"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "M 4.8 - 106 km WSW of Alianza Cristiana, Peru",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thg5",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-14T19:34:52.040+00:00",
+      "fetched_at": "2026-09-14T19:40:28+00:00",
+      "summary": "Time 2026-09-14 19:16:49 UTC 2026-09-14 19:16:49 UTC at epicenter Location 3.730°S 77.361°W Depth 106.20 km (65.99 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "a1f2d8c09db7277cf62d"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
