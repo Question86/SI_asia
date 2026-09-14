@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-14T21:59:11+00:00_
+_Generiert: 2026-09-14T22:19:19+00:00_
 
 ## Kurzlage
 
-92 neue relevante Treffer. Stärkstes Signal: „OpenAIやAnthropicなどAIベンダごとのAPIの違いを吸収し統合する「Agent Router」、Linux Foundation傘下で業界標準へ“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+94 neue relevante Treffer. Stärkstes Signal: „OpenAIやAnthropicなどAIベンダごとのAPIの違いを吸収し統合する「Agent Router」、Linux Foundation傘下で業界標準へ“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global

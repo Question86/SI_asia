@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-09-14T21:59:13+00:00_
+_Generiert: 2026-09-14T22:19:21+00:00_
 
 ## Christine Lagarde: A new age of capital: growth, sovereignty and AI
 
