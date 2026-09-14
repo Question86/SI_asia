@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-14T07:09:23+00:00_
+_Generiert: 2026-09-14T07:35:51+00:00_
 
 ## Kurzlage
 
-22 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Check Point Security Gateway, Spark Firewall und Security Management: Mehrere Schwachstellen ermöglichen Codeausführung“ aus BSI CERT-Bund Security Advisories (Score 18, observation).
+24 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [hoch] Check Point Security Gateway, Spark Firewall und Security Management: Mehrere Schwachstellen ermöglichen Codeausführung“ aus BSI CERT-Bund Security Advisories (Score 18, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -41,10 +41,10 @@ _Generiert: 2026-09-14T07:09:23+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Croatia
-- **GDACS: Green flood alert in Slovenia** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104152)
+- **GDACS: Green flood alert in Maldives** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104155)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green flood alert in Slovenia
+  - Kurz: Green flood alert in Maldives
 - **GDACS: Green notification for tropical cyclone FIFTEEN-E-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001321)
   - Quelle: GDACS
   - Zeit: ``
@@ -225,15 +225,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Webentwicklung (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦 https://justvugg.github.io/colibri Website · Discord · English · 简体中文 · 繁體中文 · Italiano Tiny engine, immense model. Run frontier MoE models — 744B to 2.8T parameters — on consumer and heterogeneous hardware, in pure C with zero engine dependencies, by treating storage, RAM, and VRAM as a…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **仕様書通りだけど提案書とは違うシステムだったので訴えます** — Score 5, observation — [Quelle](https://atmarkit.itmedia.co.jp/ait/articles/2609/14/news001.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-13T23:35:38+00:00`, fetched `2026-09-14T03:51:27+00:00`
-  - Treffer: Hatena, hotentry
+- **Cyber-Attacken auf GitLab, ConnectWise ScreenConnect und JFrog Artifactory** — Score 7, observation — [Quelle](https://www.heise.de/news/Cyber-Attacken-auf-GitLab-ConnectWise-ScreenConnect-und-JFrog-Artifactory-11451869.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-09-14T07:11:00.000+00:00`, fetched `2026-09-14T07:35:22+00:00`
+  - Treffer: Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 連載目次 IT訴訟事例を例にとり、トラブルの予防策と対処法を解説する本連載。今回は久しぶりに「ユーザー企業の要件定義不備」に関する判例を紹介する。 これまで何度か取り上げたように、多くのベンダーが「自分たちの仕事は、発注者から提示された要件を確実に実現すること」と考えるのに対し、ベンダーの責任をより...
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Die IT-Sicherheitsbehörde CISA warnt vor beobachteten Angriffen auf GitLab, ConnectWise ScreenConnect und JFrog Artifactory.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **「とほほのWWW入門」運営30年で見た、プログラミング言語とWeb標準の進化史 流行に振り回されず学び続けるために** — Score 7, opportunity — [Quelle](https://codezine.jp/article/detail/29411)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-14T02:20:33+00:00`, fetched `2026-09-14T07:35:22+00:00`
+  - Treffer: developer, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); developer (+2.0); recent (+1.0)
+  - Kurz: 2026年に開設から30年を迎える個人サイト「とほほのWWW入門」。管理人の杜甫々氏は、「Developers Summit 2026 KANSAI」の基調講演で、1996年から見つめてきたプログラミング言語やWeb標準の移り変わり、そして2025年10月の定年退職後にあらためて向き合うことになったAIとの付き合い方を、30年分のエピソードとともに語...
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Empfehlungen
 
