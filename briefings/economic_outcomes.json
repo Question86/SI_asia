@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-14T21:27:52+00:00",
+  "generated_at": "2026-09-14T21:44:59+00:00",
   "events": [
     {
       "event_id": "evt_0177d8625bc83d6c8e11",
@@ -4458,6 +4458,17 @@
       "status": "active"
     },
     {
+      "event_id": "evt_b04ab8775d13596770da",
+      "title": "M 4.9 - 31 km WSW of Sipí, Colombia",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_b0a954142b6aba44bdb8",
       "title": "ShizenBox2における複数の脆弱性",
       "deduplicated_buckets": 0,
@@ -5368,7 +5379,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_d5c92a563cb9bfb68e88",
