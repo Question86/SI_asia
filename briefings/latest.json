@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T22:48:49+00:00",
-  "run_id": "2026-09-14T22:48:49+00:00",
+  "generated_at": "2026-09-14T22:56:16+00:00",
+  "run_id": "2026-09-14T22:56:16+00:00",
   "date": "2026-09-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 97,
     "displayed_findings": 97,
     "high": 0,
@@ -4909,51 +4909,7 @@
       "id": "bdc7775eaccbab69e790"
     }
   ],
-  "new_findings": [
-    {
-      "title": "私はこうやってWaymoに入った",
-      "url": "https://hotsuyuki.github.io/2026/09/07/how-i-joined-waymo.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-14T04:34:57+00:00",
-      "fetched_at": "2026-09-14T22:48:18+00:00",
-      "summary": "概要 はじめに：シリコンバレーで働くために米国大学院へ シリコンバレーでのソフトウェアエンジニア就活に苦戦 フルタイム就活からインターンシップ就活に方針変更 インターンシップ後に無事リターンオファーを獲得 まとめ：それなりの覚悟と計画的な戦略が必要 就活準備は渡米前から行うべき インターンシップはおすす...",
-      "matched_keywords": [
-        "GitHub",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ef58ce98fbe49c03d3f4"
-    },
-    {
-      "title": "【日報】おまえは今すぐIMAXに『オデュッセイア』をみにいけ（逆噴射聡一郎）｜ニンジャスレイヤー公式/ダイハードテイルズ",
-      "url": "https://diehardtales.com/n/nc359b58d9d57",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-14T12:39:30+00:00",
-      "fetched_at": "2026-09-14T22:48:18+00:00",
-      "summary": "よくきたな。おれは逆噴射聡一郎だ。おれは毎日ものすごい量のテキストを書いているが、だれにも読ませるつもりはない。だがおれは今回ノーランの新作『オデュッセイア』が真の男の映画だったので、何としても今すぐそれを書き残しておまえに伝えねばならないと考えた。 もし・・・おまえがまだオデッセイヤを観に行って...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "93d32e1bd7e934e24e6b"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
