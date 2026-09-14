@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-14T17:01:42+00:00",
+  "generated_at": "2026-09-14T17:18:46+00:00",
   "events": [
     {
       "event_id": "evt_0177d8625bc83d6c8e11",
@@ -2852,6 +2852,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_72e9e6f011d665a5ca4e",
+      "title": "Configure cost and quality in Copilot auto model selection",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_734158952ce25236a5e2",
       "title": "GPT-6 Astra is generally available in GitHub Copilot",
       "deduplicated_buckets": 0,
@@ -4070,7 +4081,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_9ee4a4eefa80fadb5a10",
