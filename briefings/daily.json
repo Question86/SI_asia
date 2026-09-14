@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T18:02:29+00:00",
-  "today_file_total": 84,
+  "generated_at": "2026-09-14T18:25:44+00:00",
+  "today_file_total": 85,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -106,6 +106,31 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 21.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "earthquake:indonesia:4.6",
+      "title": "M 4.6 - 157 km SSE of Labuha, Indonesia",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thfh"
+      ],
+      "finding_count": 1,
+      "max_score": 15,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 20.7,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"
@@ -457,29 +482,6 @@
       ],
       "urls": [
         "https://e27.co/the-fed-is-the-real-crypto-story-bitcoin-and-ethereum-are-just-following-20260914/"
-      ],
-      "finding_count": 1,
-      "max_score": 12,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 14.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:openai-astra",
-      "title": "OpenAI「Astra」は何でもできる、だからこそ“プロの指示”が必要になる (1/4)",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://ascii.jp/elem/000/004/434/4434403/"
       ],
       "finding_count": 1,
       "max_score": 12,
