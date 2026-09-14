@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T12:49:31+00:00",
-  "run_id": "2026-09-14T12:49:31+00:00",
+  "generated_at": "2026-09-14T12:59:10+00:00",
+  "run_id": "2026-09-14T12:59:10+00:00",
   "date": "2026-09-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 53
+      "configured_public_sources_only": 54
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 6,
-    "today_file_total": 53,
-    "displayed_findings": 53,
+    "new_relevant_findings": 1,
+    "today_file_total": 54,
+    "displayed_findings": 54,
     "high": 0,
     "medium": 32,
-    "observe": 21,
+    "observe": 22,
     "source_errors": 0
   },
   "sections": {
@@ -1212,6 +1212,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "de34ba4797eef3ea4d0c"
+      },
+      {
+        "title": "自作PC民が会社支給PCを使ったら「始業前に出社して起動だけ済ませる必要がある」という結論になった→設備更新の提案が却下される職場がしんどい",
+        "url": "https://togetter.com/li/2745459",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-14T07:58:04+00:00",
+        "fetched_at": "2026-09-14T12:58:40+00:00",
+        "summary": "ベンジャミンLAB @PCjank 【悲報】自作PC民、会社支給PCを使った結果 ①朝一番、PCの電源を入れる ②起動だけで8分かかる ③よし使うぞ、という瞬間にWindows Updateが始まる ④再起動でさらに10分溶ける ⑤家の自作PCなら3秒で立ち上がるのに ⑥「重いですね」と同僚に言うと ⑦「昔からこうだから」と諦められてる ⑧提案書を...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "073b21c1846db7fa40cb"
       },
       {
         "title": "ローカルアカウントで「Windows 11 Home」をセットアップする超簡単な方法【令和8年最新版】／あのリンクをクリックするだけ！【やじうまの杜】",
@@ -2545,6 +2566,27 @@
       "id": "de34ba4797eef3ea4d0c"
     },
     {
+      "title": "自作PC民が会社支給PCを使ったら「始業前に出社して起動だけ済ませる必要がある」という結論になった→設備更新の提案が却下される職場がしんどい",
+      "url": "https://togetter.com/li/2745459",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-14T07:58:04+00:00",
+      "fetched_at": "2026-09-14T12:58:40+00:00",
+      "summary": "ベンジャミンLAB @PCjank 【悲報】自作PC民、会社支給PCを使った結果 ①朝一番、PCの電源を入れる ②起動だけで8分かかる ③よし使うぞ、という瞬間にWindows Updateが始まる ④再起動でさらに10分溶ける ⑤家の自作PCなら3秒で立ち上がるのに ⑥「重いですね」と同僚に言うと ⑦「昔からこうだから」と諦められてる ⑧提案書を...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "073b21c1846db7fa40cb"
+    },
+    {
       "title": "ローカルアカウントで「Windows 11 Home」をセットアップする超簡単な方法【令和8年最新版】／あのリンクをクリックするだけ！【やじうまの杜】",
       "url": "https://forest.watch.impress.co.jp/docs/serial/yajiuma/2140676.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2693,144 +2735,25 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [mittel] Microsoft Edge: Schwachstelle ermöglicht Cross-Site Scripting",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3345",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "自作PC民が会社支給PCを使ったら「始業前に出社して起動だけ済ませる必要がある」という結論になった→設備更新の提案が却下される職場がしんどい",
+      "url": "https://togetter.com/li/2745459",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-14T12:37:22+00:00",
-      "fetched_at": "2026-09-14T12:49:00+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Microsoft Edge ausnutzen, um einen Spoofing- und einen Cross-Site-Scripting-Angriff durchzuführen.",
+      "published_at": "2026-09-14T07:58:04+00:00",
+      "fetched_at": "2026-09-14T12:58:40+00:00",
+      "summary": "ベンジャミンLAB @PCjank 【悲報】自作PC民、会社支給PCを使った結果 ①朝一番、PCの電源を入れる ②起動だけで8分かかる ③よし使うぞ、という瞬間にWindows Updateが始まる ④再起動でさらに10分溶ける ⑤家の自作PCなら3秒で立ち上がるのに ⑥「重いですね」と同僚に言うと ⑦「昔からこうだから」と諦められてる ⑧提案書を...",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Microsoft",
-        "Schwachstelle",
-        "Security"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "f67efd0ee40666d958e5"
-    },
-    {
-      "title": "[NEU] [UNGEPATCHT] [mittel] Net-SNMP: Schwachstelle ermöglicht Denial of Service",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3341",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-14T12:37:01+00:00",
-      "fetched_at": "2026-09-14T12:49:00+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Net-SNMP ausnutzen, um einen Denial of Service Angriff durchzuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Patch",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "21ea7c7108e089cfdb6e"
-    },
-    {
-      "title": "[NEU] [mittel] Citrix Systems Workspace App Windows: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3346",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-14T12:37:22+00:00",
-      "fetched_at": "2026-09-14T12:49:00+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Citrix Systems Workspace App ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8d3c1036d30ba699f512"
-    },
-    {
-      "title": "[NEU] [mittel] WP Royal Royal Elementor Addons: Schwachstelle ermöglicht Offenlegung von Informationen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3344",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-14T12:37:21+00:00",
-      "fetched_at": "2026-09-14T12:49:00+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in WP Royal Royal Elementor Addons ausnutzen, um Informationen offenzulegen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "dbe6bb0cb6523f41ac77"
-    },
-    {
-      "title": "[NEU] [mittel] wpa_supplicant: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3343",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-14T12:37:21+00:00",
-      "fetched_at": "2026-09-14T12:49:00+00:00",
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in wpa_supplicant ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "076c058b13e4f3cf0624"
-    },
-    {
-      "title": "[NEU] [mittel] Puppet Enterprise: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3342",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-14T12:37:01+00:00",
-      "fetched_at": "2026-09-14T12:49:00+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Puppet Enterprise ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen, was zu einer vollständigen Kompromittierung des Systems führt.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d56ea5a98c054d613b1d"
+      "id": "073b21c1846db7fa40cb"
     }
   ],
   "source_errors": [],

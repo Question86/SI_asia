@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-14T12:49:31+00:00_
+_Generiert: 2026-09-14T12:59:10+00:00_
 
 ## Kurzlage
 
-53 neue relevante Treffer. Stärkstes Signal: „M 5.6 - 78 km NNE of Tobelo, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
+54 neue relevante Treffer. Stärkstes Signal: „M 5.6 - 78 km NNE of Tobelo, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
