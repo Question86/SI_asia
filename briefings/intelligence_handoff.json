@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-14T10:14:02Z",
+  "generated_at": "2026-09-14T10:29:41Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] GitLab: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3315",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T09:36:31+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -36,66 +36,11 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in GitLab ausnutzen, um beliebigen Code auszuführen, erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, sensible Informationen oder Anmeldedaten offenzulegen, Daten zu manipulieren, Cross-Site-Scripting-Angriffe durchzuführen oder Denial-of-Service-Zuständ…"
     },
     {
-      "title": "[UPDATE] [hoch] Check Point Security Gateway, Spark Firewall und Security Management: Mehrere Schwachstellen ermöglichen Codeausführung",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3305",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 16.84,
-      "topics": [
-        "security",
-        "infra"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": true,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "high terms: rce, code, firewall",
-        "security high-signal: rce, code, firewall",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "[UPDATE] [hoch] Check Point Security Gateway, Spark Firewall und Security Management: Mehrere Schwachstellen ermöglichen Codeausführung",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3305",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-09-14T07:01:31+00:00",
-      "age_days": 0.13,
-      "topics": [
-        "security",
-        "infra"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": true,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: code, firewall",
-        "security high-signal: code, firewall",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-      ],
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Check Point Security Gateway, Check Point Spark Firewall und Check Point Security Management ausnutzen, um beliebigen Programmcode auszuführen."
-    },
-    {
       "title": "Androidアプリ「YAMAP / ヤマップ登山地図アプリ」におけるアクセス制限不備の脆弱性",
       "url": "https://jvn.jp/jp/JVN69877538/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-14T12:00:00+09:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "security"
       ],
@@ -115,35 +60,11 @@
       "summary": "株式会社ヤマップが提供するAndroidアプリ「YAMAP / ヤマップ登山地図アプリ」には、WebViewに対するアクセス制限不備の脆弱性が存在します。"
     },
     {
-      "title": "ExLlamaV3のexllamav3_extモジュールにおける不適切な入力検証の脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU94022278/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-09-14T10:00:00+09:00",
-      "age_days": 0.38,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: jvn, security"
-      ],
-      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-    },
-    {
-      "title": "[UPDATE] [hoch] libvirt: Schwachstelle ermöglicht Privilegieneskalation",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3312",
+      "title": "[UPDATE] [niedrig] CUPS: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3282",
       "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-09-14T09:36:31+00:00",
-      "age_days": 0.03,
+      "published_at": "2026-09-14T10:14:06+00:00",
+      "age_days": 0.01,
       "topics": [
         "security"
       ],
@@ -160,14 +81,14 @@
       "why": [
         "security high-signal: cert-bund, bsi, security, advisory"
       ],
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in libvirt ausnutzen, um seine Privilegien zu erhöhen."
+      "summary": "Ein Angreifer aus einem angrenzenden Netzwerk kann mehrere Schwachstellen in CUPS ausnutzen, um Informationen offenzulegen."
     },
     {
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3321",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T08:16:31+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -189,11 +110,38 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Daten oder den Systemzustand zu manipulieren, Denial-of-Service-Zustände herbeizuführen oder andere, nicht näher spezifizierte Angriffe durchzuführen."
     },
     {
+      "title": "[UPDATE] [hoch] PackageKit: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3290",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-14T10:14:06+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: root",
+        "security high-signal: root",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in PackageKit ausnutzen, um Sicherheitsmaßnahmen zu umgehen, beliebige Befehle mit Root-Rechten auszuführen, seine Berechtigungen auf Root zu erweitern oder Daten offenzulegen und zu manipulieren."
+    },
+    {
       "title": "[UPDATE] [kritisch] Budibase: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3286",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T06:36:31+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -215,11 +163,38 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Budibase ausnutzen, um erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, SQL-Injection-Angriffe durchzuführen oder Daten zu manipulieren und offenzulegen."
     },
     {
+      "title": "The real AI economy is being built by ordinary people",
+      "url": "https://restofworld.org/2026/global-workers-using-ai-at-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "published_at": "2026-09-14T10:00:31+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: local",
+        "high terms: rce, bypass",
+        "security high-signal: rce, bypass",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "Far from Silicon Valley pitch decks, workers across Asia and Africa are bypassing tech industry hype to quietly rewire their daily jobs — one prompt, workflow, and local problem at a time."
+    },
+    {
       "title": "The Fed is the real crypto story, Bitcoin and Ethereum are just following",
       "url": "https://e27.co/the-fed-is-the-real-crypto-story-bitcoin-and-ethereum-are-just-following-20260914/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-14T04:22:27+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "ai",
         "macro"
@@ -246,7 +221,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3319",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T09:36:31+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -267,11 +242,36 @@
       "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen oder möglicherweise den Speicher zu manipulieren."
     },
     {
+      "title": "MoneyHero’s Q2 exposes the rising cost of fintech growth in Southeast Asia",
+      "url": "https://e27.co/moneyheros-q2-exposes-the-rising-cost-of-fintech-growth-in-southeast-asia-20260914/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-14T10:23:17+00:00",
+      "age_days": 0.0,
+      "topics": [],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "extreme gate recheck: insufficient independent/current evidence"
+      ],
+      "summary": ""
+    },
+    {
       "title": "AI doesn’t need crypto, AI agents do",
       "url": "https://e27.co/ai-doesnt-need-crypto-ai-agents-do-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-14T01:36:38+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "ai"
       ],
@@ -298,7 +298,7 @@
       "url": "https://e27.co/ai-doesnt-need-crypto-ai-agents-do-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-14T01:00:59+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "ai",
         "macro"
