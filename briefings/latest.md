@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-14T16:22:16+00:00_
+_Generiert: 2026-09-14T16:33:33+00:00_
 
 ## Kurzlage
 
-81 neue relevante Treffer. Stärkstes Signal: „M 5.6 - 78 km NNE of Tobelo, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
+82 neue relevante Treffer. Stärkstes Signal: „M 5.6 - 78 km NNE of Tobelo, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 19, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -324,6 +324,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co https://gauzy.co Ever Gauzy Platform 💡 What's New 🔥🔥🔥 we just released Ever Works - An open agentic runtime that autonomously researches, ships, and maintains entire businesses, 24/7. Please grab it now from https://github.com/ever-works/ever-works and make it ⭐⭐⭐ on GitHub! if you like Gauzy, you should also like Ever Teams - O…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.2 - 135 km SE of Gizo, Solomon Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000thea)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-14T16:32:17.040+00:00`, fetched `2026-09-14T16:33:03+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-14 16:15:05 UTC 2026-09-14 16:15:05 UTC at epicenter Location 8.945°S 157.742°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.1 - northern Mid-Atlantic Ridge** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tha3)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-14T03:15:29.040+00:00`, fetched `2026-09-14T03:22:07+00:00`
@@ -333,15 +342,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-14 02:56:17 UTC 2026-09-14 02:56:17 UTC at epicenter Location 25.536°N 45.358°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Piero Cipollone: The future of euro cash: trusted today, designed for tomorrow** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914_1~91d3436449.en.html)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-09-14T13:00:00+00:00`, fetched `2026-09-14T13:21:50+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Piero Cipollone: The future of euro cash: trusted today, designed for tomorrow
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
