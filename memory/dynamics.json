@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-14T09:52:51Z",
+  "generated_at": "2026-09-14T10:14:02Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3315",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T09:36:31+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3305",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 16.82,
+      "age_days": 16.84,
       "topics": [
         "security",
         "infra"
@@ -60,12 +60,11 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 3.98,
+      "baseline_z_hint": 0.0,
       "security_high_signal": true,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 3.98",
         "high terms: rce, code, firewall",
         "security high-signal: rce, code, firewall",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
@@ -77,7 +76,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3305",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T07:01:31+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "security",
         "infra"
@@ -104,7 +103,7 @@
       "url": "https://jvn.jp/jp/JVN69877538/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-14T12:00:00+09:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -128,7 +127,7 @@
       "url": "https://jvn.jp/vu/JVNVU94022278/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-14T10:00:00+09:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "security"
       ],
@@ -152,7 +151,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3312",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T09:36:31+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -176,7 +175,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3321",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T08:16:31+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -202,7 +201,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3286",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T06:36:31+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -228,7 +227,7 @@
       "url": "https://e27.co/the-fed-is-the-real-crypto-story-bitcoin-and-ethereum-are-just-following-20260914/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-14T04:22:27+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai",
         "macro"
@@ -255,7 +254,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3319",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-14T09:36:31+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -280,7 +279,7 @@
       "url": "https://e27.co/ai-doesnt-need-crypto-ai-agents-do-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-14T01:36:38+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "ai"
       ],
@@ -307,7 +306,7 @@
       "url": "https://e27.co/ai-doesnt-need-crypto-ai-agents-do-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-14T01:00:59+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "ai",
         "macro"
@@ -335,7 +334,7 @@
       "url": "https://www.heise.de/news/Cyber-Attacken-auf-GitLab-ConnectWise-ScreenConnect-und-JFrog-Artifactory-11451869.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-14T07:11:00.000+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -360,7 +359,7 @@
       "url": "https://e27.co/tesla-establishes-vietnam-subsidiary-as-ev-rivalry-with-vinfast-looms-20260914/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-14T09:45:53+00:00",
-      "age_days": 0.0,
+      "age_days": 0.02,
       "topics": [
         "general"
       ],
@@ -370,12 +369,12 @@
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 2,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1"
+        "momentum delta +2"
       ],
       "summary": ""
     },
@@ -384,7 +383,7 @@
       "url": "https://codezine.jp/article/detail/29411",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-14T07:35:53+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [],
       "dynamics_score": 24.0,
       "raw_band": "strong",
@@ -408,7 +407,7 @@
       "url": "https://jvn.jp/jp/JVN69877538/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-14T03:22:42+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -432,7 +431,7 @@
       "url": "https://jvn.jp/vu/JVNVU94022278/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-14T01:36:38+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "general"
       ],
@@ -456,7 +455,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thc6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-14T09:45:29.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
@@ -481,7 +480,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th9m",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T21:47:43+00:00",
-      "age_days": 10.5,
+      "age_days": 10.52,
       "topics": [
         "general"
       ],
@@ -505,7 +504,7 @@
       "url": "https://e27.co/the-fed-is-the-real-crypto-story-bitcoin-and-ethereum-are-just-following-20260914/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-14T04:26:47+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "macro"
       ],
@@ -529,7 +528,7 @@
       "url": "https://e27.co/indias-ipo-boom-is-rewriting-the-exit-playbook-for-global-investors-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-14T02:48:35+00:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -553,7 +552,7 @@
       "url": "https://codezine.jp/article/detail/29411",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-14T02:20:33+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "ai"
       ],
@@ -580,7 +579,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thc6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-31T08:30:56+00:00",
-      "age_days": 14.06,
+      "age_days": 14.07,
       "topics": [
         "general"
       ],
@@ -605,7 +604,7 @@
       "url": "https://e27.co/why-beyond-border-thinks-visas-are-now-part-of-the-founder-playbook-20260911/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-14T01:36:38+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "general"
       ],
@@ -629,7 +628,7 @@
       "url": "https://kaminashi-developer.hatenablog.jp/entry/2026/09/14/frontend-beyond-vibe-coding",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-14T02:28:20+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -653,7 +652,7 @@
       "url": "https://github.com/ever-co/ever-gauzy",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-14T06:45:56+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -677,7 +676,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000th9m",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-14T02:03:49.040+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "disaster"
       ],
@@ -701,7 +700,7 @@
       "url": "https://github.com/JustVugg/colibri",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-14T06:45:56+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -725,7 +724,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tha3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-14T03:15:29.040+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "disaster"
       ],
@@ -750,7 +749,7 @@
       "url": "https://e27.co/the-missing-link-in-your-consumers-mobile-app-journey-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-14T02:00:38+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "macro"
       ],
@@ -776,7 +775,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tha3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-14T03:22:42+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -800,7 +799,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/14/2000001433/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-14T01:57:43+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -826,7 +825,7 @@
       "url": "https://e27.co/scaling-beyond-ai-pilots-six-move-capability-cycle-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-14T01:36:38+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "ai"
       ],
@@ -852,7 +851,7 @@
       "url": "https://github.com/tech-leads-club/agent-skills",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-14T06:45:56+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -874,11 +873,35 @@
       "summary": ""
     },
     {
+      "title": "楽天モバイル、“楽天ID未連携で自動解約”を撤回 12月以降も継続利用できる",
+      "url": "https://k-tai.watch.impress.co.jp/docs/news/2140667.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-14T08:59:07+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "パナソニック、録画番組をクラウド保存できる全自動ディーガ",
       "url": "https://av.watch.impress.co.jp/docs/news/2140657.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-14T08:32:34+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -902,7 +925,7 @@
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/14/news001.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-14T03:52:09+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -926,7 +949,7 @@
       "url": "https://ascii.jp/elem/000/004/434/4434403/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-14T05:45:40+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -952,7 +975,7 @@
       "url": "https://e27.co/the-missing-link-in-your-consumers-mobile-app-journey-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-14T02:28:20+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -976,7 +999,7 @@
       "url": "https://av.watch.impress.co.jp/docs/topic/2138582.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-14T01:36:38+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "general"
       ],
@@ -992,32 +1015,6 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Isabel Schnabel: Macroeconomic, fiscal and financial stability in a shock-prone world",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914~0ffd556bc8.en.pdf",
-      "source": "ECB Press Releases Speeches Interviews",
-      "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 87.8,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 12.74,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 1.13,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 1.13",
-        "aging penalty -8.0 for 87.8d old signal"
       ],
       "summary": ""
     }
