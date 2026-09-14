@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T16:45:16+00:00",
-  "run_id": "2026-09-14T16:45:16+00:00",
+  "generated_at": "2026-09-14T17:00:55+00:00",
+  "run_id": "2026-09-14T17:00:55+00:00",
   "date": "2026-09-14",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 83,
     "displayed_findings": 83,
     "high": 0,
@@ -4041,29 +4041,7 @@
       "id": "bdc7775eaccbab69e790"
     }
   ],
-  "new_findings": [
-    {
-      "title": "How Fyxer built an AI executive assistant people trust",
-      "url": "https://openai.com/index/fyxer",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-09-14T12:00:00+00:00",
-      "fetched_at": "2026-09-14T16:44:46+00:00",
-      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice.",
-      "matched_keywords": [
-        "AI/KI",
-        "OpenAI"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "297c2e93f1a84e5f2c98"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
