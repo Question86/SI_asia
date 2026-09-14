@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-14T03:40:13+00:00_
+_Generiert: 2026-09-14T03:52:06+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „AI doesn’t need crypto, AI agents do“ aus e27 Asia Startup and Tech Feed (Score 17, opportunity).
+15 neue relevante Treffer. Stärkstes Signal: „AI doesn’t need crypto, AI agents do“ aus e27 Asia Startup and Tech Feed (Score 17, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -167,6 +167,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-14 02:56:17 UTC 2026-09-14 02:56:17 UTC at epicenter Location 25.536°N 45.358°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **仕様書通りだけど提案書とは違うシステムだったので訴えます** — Score 5, observation — [Quelle](https://atmarkit.itmedia.co.jp/ait/articles/2609/14/news001.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-13T23:35:38+00:00`, fetched `2026-09-14T03:51:27+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 連載目次 IT訴訟事例を例にとり、トラブルの予防策と対処法を解説する本連載。今回は久しぶりに「ユーザー企業の要件定義不備」に関する判例を紹介する。 これまで何度か取り上げたように、多くのベンダーが「自分たちの仕事は、発注者から提示された要件を確実に実現すること」と考えるのに対し、ベンダーの責任をより...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **越境を可能にする、人とAIのためのデザインシステム - Findy Tech Blog** — Score 5, observation — [Quelle](https://tech.findy.co.jp/entry/2026/09/14/070000)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-13T22:12:20+00:00`, fetched `2026-09-14T01:35:59+00:00`
@@ -175,15 +184,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: こんにちは！CTO室でエンジニアをやっている別府(@_nuk00_)です！ 今回の記事では、AIがデザイン案を自動で作成する時代に、なぜ管理コストのかかるデザインシステムを作ったのか。その理由と、デザインシステムの中身を紹介します。 記事は前編と後編の2つに分けています。 前編にあたるこの記事では、土台となる「人と...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ノーラン版『オデュッセイア』は何が凄い？全編IMAXフィルム撮影とVFX裏側** — Score 4, observation — [Quelle](https://av.watch.impress.co.jp/docs/topic/2138582.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-11T01:17:47+00:00`, fetched `2026-09-14T01:35:59+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0)
-  - Kurz: ノーラン版『オデュッセイア』は何が凄い？全編IMAXフィルム撮影とVFX裏側
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
