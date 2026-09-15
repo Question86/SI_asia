@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-15T06:01:29+00:00",
+  "generated_at": "2026-09-15T06:37:22+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -260,7 +260,7 @@
       "p90_usd": 119200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-15T05:35:26+00:00",
-      "last_seen_at": "2026-09-15T06:01:10+00:00",
+      "last_seen_at": "2026-09-15T06:36:56+00:00",
       "status": "active"
     },
     {
@@ -841,8 +841,8 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T21:47:43+00:00",
-      "last_seen_at": "2026-09-14T23:55:11+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-09-15T06:36:56+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_c1ba2c0c4b505c456794",
@@ -2048,7 +2048,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-15T05:46:12+00:00",
-      "last_seen_at": "2026-09-15T06:01:10+00:00",
+      "last_seen_at": "2026-09-15T06:36:56+00:00",
       "status": "active"
     },
     {
@@ -3323,7 +3323,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-15T01:04:00+00:00",
-      "last_seen_at": "2026-09-15T06:01:10+00:00",
+      "last_seen_at": "2026-09-15T06:36:56+00:00",
       "status": "active"
     },
     {
@@ -3425,7 +3425,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-15T03:18:40+00:00",
-      "last_seen_at": "2026-09-15T06:01:10+00:00",
+      "last_seen_at": "2026-09-15T06:36:56+00:00",
       "status": "active"
     },
     {
@@ -3493,7 +3493,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-15T05:06:13+00:00",
-      "last_seen_at": "2026-09-15T06:01:10+00:00",
+      "last_seen_at": "2026-09-15T06:36:56+00:00",
       "status": "active"
     },
     {
@@ -3697,7 +3697,7 @@
       "p90_usd": 2820000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-15T06:01:10+00:00",
+      "last_seen_at": "2026-09-15T06:36:56+00:00",
       "status": "active"
     },
     {
@@ -3765,7 +3765,7 @@
       "p90_usd": 1504000000.0,
       "confidence": 0.77,
       "first_seen_at": "2026-08-29T07:47:53+00:00",
-      "last_seen_at": "2026-09-15T06:01:10+00:00",
+      "last_seen_at": "2026-09-15T06:36:56+00:00",
       "status": "active"
     },
     {
@@ -4190,7 +4190,7 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-15T06:01:10+00:00",
+      "last_seen_at": "2026-09-15T06:36:56+00:00",
       "status": "active"
     },
     {
@@ -4785,7 +4785,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-15T02:34:11+00:00",
-      "last_seen_at": "2026-09-15T06:01:10+00:00",
+      "last_seen_at": "2026-09-15T06:36:56+00:00",
       "status": "active"
     },
     {
@@ -4870,7 +4870,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-15T01:04:00+00:00",
-      "last_seen_at": "2026-09-15T06:01:10+00:00",
+      "last_seen_at": "2026-09-15T06:36:56+00:00",
       "status": "active"
     },
     {
@@ -5057,7 +5057,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-15T04:46:52+00:00",
-      "last_seen_at": "2026-09-15T06:01:10+00:00",
+      "last_seen_at": "2026-09-15T06:36:56+00:00",
       "status": "active"
     },
     {
@@ -5091,7 +5091,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-15T05:35:26+00:00",
-      "last_seen_at": "2026-09-15T06:01:10+00:00",
+      "last_seen_at": "2026-09-15T06:36:56+00:00",
       "status": "active"
     },
     {
@@ -5348,6 +5348,23 @@
       "first_seen_at": "2026-09-09T08:08:20+00:00",
       "last_seen_at": "2026-09-09T23:54:37+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_efb63d7e3ad76cb780b8",
+      "title": "Panniantong/Agent-Reach",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 114400.0,
+      "p50_usd": 11440000.0,
+      "p90_usd": 1144000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-15T06:36:56+00:00",
+      "last_seen_at": "2026-09-15T06:36:56+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_2a7631f0e872d9aad503",
@@ -6077,7 +6094,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-15T01:34:58+00:00",
-      "last_seen_at": "2026-09-15T06:01:10+00:00",
+      "last_seen_at": "2026-09-15T06:36:56+00:00",
       "status": "active"
     },
     {
@@ -6995,7 +7012,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-15T00:15:13+00:00",
-      "last_seen_at": "2026-09-15T06:01:10+00:00",
+      "last_seen_at": "2026-09-15T06:36:56+00:00",
       "status": "active"
     },
     {
@@ -7646,6 +7663,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_7e7522a67507bf52e98e",
+      "title": "666ghj/MiroFish",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-15T06:36:56+00:00",
+      "last_seen_at": "2026-09-15T06:36:56+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_050660578420f6fb8ddb",
       "title": "Why Kyoto, not Tokyo, is Japan’s real deeptech bet",
       "event_classes": [
@@ -7693,7 +7727,7 @@
       "p90_usd": 1096000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-15T01:04:00+00:00",
-      "last_seen_at": "2026-09-15T06:01:10+00:00",
+      "last_seen_at": "2026-09-15T06:36:56+00:00",
       "status": "active"
     },
     {
@@ -7710,7 +7744,7 @@
       "p90_usd": 1096000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-15T02:07:44+00:00",
-      "last_seen_at": "2026-09-15T06:01:10+00:00",
+      "last_seen_at": "2026-09-15T06:36:56+00:00",
       "status": "active"
     },
     {
@@ -7898,7 +7932,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-15T04:13:31+00:00",
       "last_seen_at": "2026-09-15T06:01:10+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_09ab265ba074c3f9efc8",
@@ -8496,6 +8530,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_9184ca738d03d16d5623",
+      "title": "multimodal-art-projection/YuE",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108800.0,
+      "p50_usd": 10880000.0,
+      "p90_usd": 1088000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-15T06:36:56+00:00",
+      "last_seen_at": "2026-09-15T06:36:56+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_0177d8625bc83d6c8e11",
       "title": "ＡＩで数学の難問を解く行為は「科学や数学界に有害だ」…世界の数学者２５人が非難の緊急声明",
       "event_classes": [
@@ -8765,7 +8816,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T05:20:00+00:00",
       "last_seen_at": "2026-09-15T06:01:10+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_22f46873227d88b36a11",
@@ -9581,7 +9632,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-15T05:35:26+00:00",
       "last_seen_at": "2026-09-15T06:01:10+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a448813d9f4d06ef2d1f",
@@ -10159,7 +10210,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-15T02:49:44+00:00",
       "last_seen_at": "2026-09-15T06:01:10+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_feb3ca2ea460394b585c",
