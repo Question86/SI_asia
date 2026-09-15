@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-15T05:46:12+00:00",
+  "generated_at": "2026-09-15T05:53:36+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -910,9 +910,8 @@
     },
     "domain:www.bis.org": {
       "title": "Shifting economic landscapes - strategic responses of small open economies",
-      "updated_at": "2026-09-15T05:46:12+00:00",
+      "updated_at": "2026-09-15T05:53:36+00:00",
       "network_scores": [
-        38.2,
         38.2,
         38.2,
         38.2,
@@ -941,12 +940,13 @@
         8.1,
         8.1,
         8.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 30.27,
+      "rolling_average": 29.27,
       "rolling_peak": 38.2,
       "last_score": 8.1,
-      "z_hint": -22.17
+      "z_hint": -21.17
     },
     "domain:www.federalreserve.gov": {
       "title": "Waller, The Economic Outlook and Some Comments on My Policy Communication",
@@ -3799,7 +3799,7 @@
     },
     "domain:www.nikkei.com": {
       "title": "トランプ氏、AI懸念を陰謀と一蹴 「高IQの大統領いれば統制は十分」 - 日本経済新聞",
-      "updated_at": "2026-09-15T05:46:12+00:00",
+      "updated_at": "2026-09-15T05:53:36+00:00",
       "network_scores": [
         12.1,
         12.1,
@@ -3810,9 +3810,9 @@
         12.1,
         12.1,
         12.1,
+        15.1,
+        15.1,
         12.1,
-        15.1,
-        15.1,
         12.1,
         12.1,
         12.1,
@@ -4487,7 +4487,7 @@
     },
     "domain:www.twcert.org": {
       "title": "華擎科技｜ASRock Polychrome SYNC/RGB software utility - 存在2個漏洞",
-      "updated_at": "2026-09-15T05:46:12+00:00",
+      "updated_at": "2026-09-15T05:53:36+00:00",
       "network_scores": [
         15.2,
         15.2,
@@ -4501,8 +4501,8 @@
         15.2,
         15.2,
         15.2,
-        15.2,
         21.2,
+        15.2,
         15.2,
         15.2,
         15.2,
@@ -4907,9 +4907,8 @@
     },
     "domain:togetter.com": {
       "title": "賃貸の退去で意味の分からない請求をされたのでClaudeに「法的にギリギリ訴えられないラインで相手のメールに対する超攻撃的な法的根拠のある返信メールを書いて欲しい」と指示した結果",
-      "updated_at": "2026-09-15T05:46:12+00:00",
+      "updated_at": "2026-09-15T05:53:36+00:00",
       "network_scores": [
-        7.1,
         7.1,
         7.1,
         7.1,
@@ -4927,6 +4926,7 @@
         9.2,
         9.2,
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -24776,9 +24776,8 @@
     },
     "title:android": {
       "title": "Androidアプリ「【保護者専用】まなびポケット」におけるアクセス制限不備の脆弱性",
-      "updated_at": "2026-09-15T05:46:12+00:00",
+      "updated_at": "2026-09-15T05:53:36+00:00",
       "network_scores": [
-        7.1,
         7.1,
         7.1,
         7.1,
@@ -24807,12 +24806,13 @@
         19.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 8.4,
+      "rolling_average": 8.7,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": 7.7
+      "z_hint": 7.4
     },
     "cve:CVE-2026-44756": {
       "title": "2026-011: Critical Vulnerabilities in SAP Kernel and NetWeaver Message Server",
@@ -32422,7 +32422,7 @@
     },
     "title:apple-ios-ipados-siri-126": {
       "title": "Apple、「iOS 27」「iPadOS 27」の一般提供を開始 ～「Siri AI」の日本語対応は年内／126件の脆弱性修正も",
-      "updated_at": "2026-09-15T05:46:12+00:00",
+      "updated_at": "2026-09-15T05:53:36+00:00",
       "network_scores": [
         14.1,
         11.1,
@@ -32443,16 +32443,17 @@
         11.1,
         11.1,
         11.1,
+        11.1,
         11.1
       ],
-      "rolling_average": 11.25,
+      "rolling_average": 11.24,
       "rolling_peak": 14.1,
       "last_score": 11.1,
-      "z_hint": -0.15
+      "z_hint": -0.14
     },
     "title:minas-windows-usb": {
       "title": "パナソニック インダストリー製MINAS A5/A6用Windows USBデバイスドライバにおけるバッファオーバーフローの脆弱性",
-      "updated_at": "2026-09-15T05:46:12+00:00",
+      "updated_at": "2026-09-15T05:53:36+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -32472,16 +32473,17 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.26,
+      "rolling_average": 16.25,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.16
+      "z_hint": -0.15
     },
     "title:use-win-hint-has-nothing-being-more-productive": {
       "title": "How to use AI to win (Hint: It has nothing to do with being more productive)",
-      "updated_at": "2026-09-15T05:46:12+00:00",
+      "updated_at": "2026-09-15T05:53:36+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -32501,16 +32503,17 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.26,
+      "rolling_average": 16.25,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.16
+      "z_hint": -0.15
     },
     "domain:xtech.nikkei.com": {
       "title": "溶接不良3万カ所弱の淀川橋梁、架け替え完了3年遅れ 部材作り直し再架設",
-      "updated_at": "2026-09-15T05:46:12+00:00",
+      "updated_at": "2026-09-15T05:53:36+00:00",
       "network_scores": [
         12.1,
         9.1,
@@ -32530,18 +32533,20 @@
         9.1,
         9.1,
         9.1,
+        9.1,
         9.1
       ],
-      "rolling_average": 9.26,
+      "rolling_average": 9.25,
       "rolling_peak": 12.1,
       "last_score": 9.1,
-      "z_hint": -0.16
+      "z_hint": -0.15
     },
     "title:what-southeast-asia-edutech-startups-can-learn-limits": {
       "title": "What Southeast Asia’s edutech startups can learn from AI’s limits in education",
-      "updated_at": "2026-09-15T05:46:12+00:00",
+      "updated_at": "2026-09-15T05:53:36+00:00",
       "network_scores": [
         16.1,
+        13.1,
         13.1,
         13.1,
         13.1,
@@ -32560,14 +32565,14 @@
         13.1,
         13.1
       ],
-      "rolling_average": 13.27,
+      "rolling_average": 13.26,
       "rolling_peak": 16.1,
       "last_score": 13.1,
-      "z_hint": -0.17
+      "z_hint": -0.16
     },
     "title:saaspocalypse-will-selective": {
       "title": "The SaaSpocalypse will be selective",
-      "updated_at": "2026-09-15T05:46:12+00:00",
+      "updated_at": "2026-09-15T05:53:36+00:00",
       "network_scores": [
         12.1,
         9.1,
@@ -32584,16 +32589,17 @@
         9.1,
         9.1,
         9.1,
+        9.1,
         9.1
       ],
-      "rolling_average": 9.29,
+      "rolling_average": 9.28,
       "rolling_peak": 12.1,
       "last_score": 9.1,
-      "z_hint": -0.19
+      "z_hint": -0.18
     },
     "title:gpt-astra-cuts-task-time-nearly-half-still": {
       "title": "GPT-6 Astra cuts AI task time nearly in half. It still can’t fix your audience data",
-      "updated_at": "2026-09-15T05:46:12+00:00",
+      "updated_at": "2026-09-15T05:53:36+00:00",
       "network_scores": [
         20.1,
         17.1,
@@ -32609,16 +32615,17 @@
         17.1,
         17.1,
         17.1,
+        17.1,
         17.1
       ],
-      "rolling_average": 17.3,
+      "rolling_average": 17.29,
       "rolling_peak": 20.1,
       "last_score": 17.1,
-      "z_hint": -0.2
+      "z_hint": -0.19
     },
     "title:waymo": {
       "title": "無人タクシー、東京で来年運行へ GO、Waymo、日本交通が合意",
-      "updated_at": "2026-09-15T05:46:12+00:00",
+      "updated_at": "2026-09-15T05:53:36+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -32633,16 +32640,17 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.31,
+      "rolling_average": 7.3,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.21
+      "z_hint": -0.2
     },
     "title:lite-rfi079i4-rfi078i4": {
       "title": "Lite-On製O-RU「FF-RFI079I4」および「FF-RFI078I4」における複数の脆弱性",
-      "updated_at": "2026-09-15T05:46:12+00:00",
+      "updated_at": "2026-09-15T05:53:36+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -32655,16 +32663,17 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.35,
+      "rolling_average": 16.33,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.25
+      "z_hint": -0.23
     },
     "title:geopolitics-scarcity-why-middle-powers-must-learn-prioritise": {
       "title": "The geopolitics of scarcity: Why middle powers must learn to prioritise",
-      "updated_at": "2026-09-15T05:46:12+00:00",
+      "updated_at": "2026-09-15T05:53:36+00:00",
       "network_scores": [
         9.1,
         6.1,
@@ -32677,16 +32686,17 @@
         6.1,
         6.1,
         6.1,
+        6.1,
         6.1
       ],
-      "rolling_average": 6.35,
+      "rolling_average": 6.33,
       "rolling_peak": 9.1,
       "last_score": 6.1,
-      "z_hint": -0.25
+      "z_hint": -0.23
     },
     "url:https://www.digital.go.jp/speech/minister-260915-01": {
       "title": "松本大臣記者会見（令和8年9月15日）動画を掲載しました",
-      "updated_at": "2026-09-15T05:46:12+00:00",
+      "updated_at": "2026-09-15T05:53:36+00:00",
       "network_scores": [
         11.1,
         8.1,
@@ -32695,75 +32705,81 @@
         8.1,
         8.1,
         8.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 8.47,
+      "rolling_average": 8.43,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -0.38
+      "z_hint": -0.33
     },
     "title:second-pitch-that-helps-foreign-founders-crack-tokyo": {
       "title": "The 90-second pitch that helps foreign founders crack Tokyo’s networking scene",
-      "updated_at": "2026-09-15T05:46:12+00:00",
+      "updated_at": "2026-09-15T05:53:36+00:00",
       "network_scores": [
         19.1,
         16.1,
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.6,
+      "rolling_average": 16.53,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.5
+      "z_hint": -0.43
     },
     "title:clarity-act-vote-could-send-crypto-73t-crash": {
       "title": "The CLARITY Act vote could send crypto to US$2.73T or crash it to US$2.6T",
-      "updated_at": "2026-09-15T05:46:12+00:00",
+      "updated_at": "2026-09-15T05:53:36+00:00",
       "network_scores": [
         24.1,
+        21.1,
         21.1
       ],
-      "rolling_average": 22.6,
+      "rolling_average": 22.1,
       "rolling_peak": 24.1,
       "last_score": 21.1,
-      "z_hint": -1.5
+      "z_hint": -1.0
     },
     "title:openai-hires-former-elastic-snowflake-exec-sanjay-deshmukh": {
       "title": "OpenAI hires former Elastic and Snowflake exec Sanjay Deshmukh to lead Asia Pacific sales",
-      "updated_at": "2026-09-15T05:46:12+00:00",
+      "updated_at": "2026-09-15T05:53:36+00:00",
       "network_scores": [
         19.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 17.6,
+      "rolling_average": 17.1,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -1.5
+      "z_hint": -1.0
     },
     "url:https://blog.tinect.jp/?p=91489": {
       "title": "「世の中には敵より味方の方が多い」という信頼感を持っていた方が、その逆よりは生きやすい",
-      "updated_at": "2026-09-15T05:46:12+00:00",
+      "updated_at": "2026-09-15T05:53:36+00:00",
       "network_scores": [
         10.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 8.6,
+      "rolling_average": 8.1,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -1.5
+      "z_hint": -1.0
     },
     "earthquake:m 4.8 - 229 km e of tadine, new caledonia:4.8": {
       "title": "M 4.8 - 229 km E of Tadine, New Caledonia",
-      "updated_at": "2026-09-15T05:46:12+00:00",
+      "updated_at": "2026-09-15T05:53:36+00:00",
       "network_scores": [
-        14.7
+        14.7,
+        11.7
       ],
-      "rolling_average": 14.7,
+      "rolling_average": 13.2,
       "rolling_peak": 14.7,
-      "last_score": 14.7,
-      "z_hint": 0.0
+      "last_score": 11.7,
+      "z_hint": -1.5
     }
   }
 }

@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-09-15T05:46:12+00:00_
+_Generiert: 2026-09-15T05:53:36+00:00_
 
 ## The CLARITY Act vote could send crypto to US$2.73T or crash it to US$2.6T
 
