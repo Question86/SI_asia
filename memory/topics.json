@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-15T11:19:38+00:00",
+  "generated_at": "2026-09-15T11:30:41+00:00",
   "topics": {
     "ai": [
       {
@@ -17,6 +17,13 @@
         "published_at": "2026-09-15T02:30:13+00:00",
         "relevance_score": 15,
         "url": "https://e27.co/gpt-6-astra-cuts-ai-task-time-nearly-in-half-it-still-cant-fix-your-audience-data-20260912/"
+      },
+      {
+        "title": "[NEU] [niedrig] vllm: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-15T11:21:32+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3357"
       },
       {
         "title": "[NEU] [hoch] Cisco Secure Email Gateway: Mehrere Schwachstellen",
@@ -66,13 +73,6 @@
         "published_at": "2026-09-14T20:43:45+00:00",
         "relevance_score": 9,
         "url": "https://forest.watch.impress.co.jp/docs/news/2140863.html"
-      },
-      {
-        "title": "TrueMoney and Fireblocks want Thai users on blockchain rails without them noticing",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-15T08:00:42+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/truemoney-and-fireblocks-want-thai-users-on-blockchain-rails-without-them-noticing-20260915/"
       }
     ],
     "economy": [
@@ -163,39 +163,39 @@
         "url": "https://jvn.jp/jp/JVN02049764/"
       },
       {
-        "title": "[NEU] [mittel] WP Royal Royal Elementor Addons: Schwachstelle ermöglicht Manipulation von Dateien",
+        "title": "[NEU] [niedrig] Fleet: Schwachstelle ermöglicht Offenlegung von Informationen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-15T11:16:31+00:00",
+        "published_at": "2026-09-15T11:26:32+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3354"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3362"
       },
       {
-        "title": "[NEU] [mittel] IBM DB2: Schwachstelle ermöglicht Manipulation von Dateien",
+        "title": "[NEU] [niedrig] Mattermost Server: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-15T11:11:31+00:00",
+        "published_at": "2026-09-15T11:26:31+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3351"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3361"
       },
       {
-        "title": "[NEU] [hoch] Cisco Secure Email Gateway: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] ffmpeg: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-15T11:11:31+00:00",
+        "published_at": "2026-09-15T11:26:31+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3353"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3360"
       },
       {
-        "title": "[NEU] [hoch] Apple iOS, iPadOS, macOS Tahoe, macOS Golden Gate, macOS Sequoia und Safari: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] IBM i: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-15T11:11:31+00:00",
+        "published_at": "2026-09-15T11:26:31+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3352"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3359"
       },
       {
-        "title": "[NEU] [hoch] Langflow: Mehrere Schwachstellen",
+        "title": "[NEU] [niedrig] vllm: Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-15T11:06:31+00:00",
+        "published_at": "2026-09-15T11:21:32+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3350"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3357"
       }
     ],
     "geopolitics": [
@@ -207,6 +207,48 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3348"
       },
       {
+        "title": "[NEU] [niedrig] Fleet: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-15T11:26:32+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3362"
+      },
+      {
+        "title": "[NEU] [niedrig] Mattermost Server: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-15T11:26:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3361"
+      },
+      {
+        "title": "[NEU] [mittel] ffmpeg: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-15T11:26:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3360"
+      },
+      {
+        "title": "[NEU] [mittel] IBM i: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-15T11:26:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3359"
+      },
+      {
+        "title": "[NEU] [niedrig] vllm: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-15T11:21:32+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3357"
+      },
+      {
+        "title": "[NEU] [mittel] GIMP Plugins: Mehrere Schwachstellen ermöglichen Codeausführung und DoS",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-15T11:21:32+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3358"
+      },
+      {
         "title": "[NEU] [mittel] WP Royal Royal Elementor Addons: Schwachstelle ermöglicht Manipulation von Dateien",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-15T11:16:31+00:00",
@@ -226,48 +268,6 @@
         "published_at": "2026-09-15T11:11:31+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3353"
-      },
-      {
-        "title": "[NEU] [hoch] Apple iOS, iPadOS, macOS Tahoe, macOS Golden Gate, macOS Sequoia und Safari: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-15T11:11:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3352"
-      },
-      {
-        "title": "[NEU] [hoch] Langflow: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-15T11:06:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3350"
-      },
-      {
-        "title": "[NEU] [hoch] Octopus Deploy Server: Schwachstelle ermöglicht Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-15T10:56:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3349"
-      },
-      {
-        "title": "[NEU] [mittel] Apple Xcode: Schwachstelle ermöglicht Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-15T10:51:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3347"
-      },
-      {
-        "title": "華擎科技｜ASRock Polychrome SYNC/RGB software utility - 存在2個漏洞",
-        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-        "published_at": "2026-09-14T10:31:00+00:00",
-        "relevance_score": 11,
-        "url": "https://www.twcert.org.tw/tw/cp-132-11205-f6677-1.html"
-      },
-      {
-        "title": "Special address - 31st CGC Awards",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-09-14T00:00:00+00:00",
-        "relevance_score": 8,
-        "url": "https://www.bis.org/speeches/20260914-special-address-31st-cgc-awards"
       }
     ],
     "general": [
