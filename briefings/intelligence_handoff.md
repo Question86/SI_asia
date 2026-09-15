@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-15T05:42:38Z_
+_Generated: 2026-09-15T05:51:21Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “Androidアプリ「【保護者専用】
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-15T14:00:00+09:00` / age_days `0.03`
+- Published: `2026-09-15T14:00:00+09:00` / age_days `0.04`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “Androidアプリ「【保護者専用】
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-15T12:00:00+09:00` / age_days `0.11`
+- Published: `2026-09-15T12:00:00+09:00` / age_days `0.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -62,17 +62,17 @@ Stärkste Dynamik nach Gate-Recheck: “Androidアプリ「【保護者専用】
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-09T12:51:45+00:00` / age_days `5.7`
+- Published: `2026-09-09T12:51:45+00:00` / age_days `5.71`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, baseline z_hint 8.00, krass gate: single-source non-official/non-identity signal capped
+- Warum: momentum delta +3, baseline z_hint 7.70, krass gate: single-source non-official/non-identity signal capped
 - Quelle: https://jvn.jp/jp/JVN72918755/
 
 ### The SaaSpocalypse will be selective
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.0`
-- Published: `2026-09-15T02:07:44+00:00` / age_days `0.15`
+- Published: `2026-09-15T02:07:44+00:00` / age_days `0.16`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “Androidアプリ「【保護者専用】
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-14T10:31:00+00:00` / age_days `0.8`
+- Published: `2026-09-14T10:31:00+00:00` / age_days `0.81`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “Androidアプリ「【保護者専用】
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-14T10:16:00+00:00` / age_days `0.81`
+- Published: `2026-09-14T10:16:00+00:00` / age_days `0.82`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “Androidアプリ「【保護者専用】
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-15T03:18:40+00:00` / age_days `0.1`
+- Published: `2026-09-15T03:18:40+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “Androidアプリ「【保護者専用】
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-15T01:04:00+00:00` / age_days `0.19`
+- Published: `2026-09-15T01:04:00+00:00` / age_days `0.2`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
