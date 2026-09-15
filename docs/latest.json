@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T13:26:48+00:00",
-  "run_id": "2026-09-15T13:26:48+00:00",
+  "generated_at": "2026-09-15T13:38:20+00:00",
+  "run_id": "2026-09-15T13:38:20+00:00",
   "date": "2026-09-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 62,
     "displayed_findings": 62,
     "high": 1,
@@ -2868,30 +2868,7 @@
       "id": "d37d0b80b1c8dd36c862"
     }
   ],
-  "new_findings": [
-    {
-      "title": "生成AIが書いたドキュメントを読みたくない - Qiita",
-      "url": "https://qiita.com/take-yoda/items/e5d9ce6618523af1ffc5",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-14T11:11:06+00:00",
-      "fetched_at": "2026-09-15T13:25:53+00:00",
-      "summary": "株式会社ブレインパッドプロダクト開発部でRtoaster GenAIの開発をしている依田です。 Claude CodeにDesign docやPRを書かせていて、「情報量は多いのに、何を決めたのかがなかなか頭に入ってこない」と感じたことはないでしょうか。私は何度もあります。読んでいるあいだずっと気を張っていないと、一番知りたい結論を...",
-      "matched_keywords": [
-        "AI Agents",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "bde2d92939d6628f7a67"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
