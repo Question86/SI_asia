@@ -1,18 +1,28 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-15T03:16:58Z_
+_Generated: 2026-09-15T03:41:33Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “パナソニック インダストリー製MINAS A5/A6用Windows USBデバイスドライバにおけるバッファオーバーフローの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.
+Stärkste Dynamik nach Gate-Recheck: “Lite-On製O-RU「FF-RFI079I4」および「FF-RFI078I4」における複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.
 
 ## Top Dynamics
+
+### Lite-On製O-RU「FF-RFI079I4」および「FF-RFI078I4」における複数の脆弱性
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `26.0`
+- Published: `2026-09-15T12:00:00+09:00` / age_days `0.03`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: security high-signal: jvn, security
+- Quelle: https://jvn.jp/jp/JVN02049764/
 
 ### パナソニック インダストリー製MINAS A5/A6用Windows USBデバイスドライバにおけるバッファオーバーフローの脆弱性
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-15T10:00:00+09:00` / age_days `0.1`
+- Published: `2026-09-15T10:00:00+09:00` / age_days `0.11`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -22,17 +32,27 @@ Stärkste Dynamik nach Gate-Recheck: “パナソニック インダストリー
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.0`
-- Published: `2026-09-15T02:07:44+00:00` / age_days `0.05`
+- Published: `2026-09-15T02:07:44+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit
 - Quelle: https://e27.co/the-saaspocalypse-will-be-selective-20260912/
 
+### Lite-On製O-RU「FF-RFI079I4」および「FF-RFI078I4」における複数の脆弱性
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `23.5`
+- Published: `2026-09-15T03:18:40+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +1
+- Quelle: https://jvn.jp/jp/JVN02049764/
+
 ### 華擎科技｜ASRock Polychrome SYNC/RGB software utility - 存在2個漏洞
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-14T10:31:00+00:00` / age_days `0.7`
+- Published: `2026-09-14T10:31:00+00:00` / age_days `0.72`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security
@@ -42,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “パナソニック インダストリー
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-14T10:16:00+00:00` / age_days `0.71`
+- Published: `2026-09-14T10:16:00+00:00` / age_days `0.73`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security
@@ -52,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “パナソニック インダストリー
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-15T01:04:00+00:00` / age_days `0.09`
+- Published: `2026-09-15T01:04:00+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -61,18 +81,18 @@ Stärkste Dynamik nach Gate-Recheck: “パナソニック インダストリー
 ### GPT-6 Astra cuts AI task time nearly in half. It still can’t fix your audience data
 
 - Band: `watch` (raw `watch`)
-- Dynamics score: `19.0`
-- Published: `2026-09-15T02:34:11+00:00` / age_days `0.03`
+- Dynamics score: `16.0`
+- Published: `2026-09-15T02:34:11+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +2, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://e27.co/gpt-6-astra-cuts-ai-task-time-nearly-in-half-it-still-cant-fix-your-audience-data-20260912/
 
 ### 溶接不良3万カ所弱の淀川橋梁、架け替え完了3年遅れ 部材作り直し再架設
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.0`
-- Published: `2026-09-15T01:04:00+00:00` / age_days `0.09`
+- Published: `2026-09-15T01:04:00+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -82,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “パナソニック インダストリー
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `15.0`
-- Published: `2026-09-15T01:04:00+00:00` / age_days `0.09`
+- Published: `2026-09-15T01:04:00+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -92,40 +112,20 @@ Stärkste Dynamik nach Gate-Recheck: “パナソニック インダストリー
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `15.0`
-- Published: `2026-09-15T02:00:53+00:00` / age_days `0.05`
+- Published: `2026-09-15T02:00:53+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
 - Quelle: https://e27.co/the-saaspocalypse-will-be-selective-20260912/
 
-### 華擎科技｜ASRock Polychrome SYNC/RGB software utility - 存在2個漏洞
+### 無人タクシー、東京で来年運行へ GO、Waymo、日本交通が合意
 
 - Band: `watch` (raw `watch`)
-- Dynamics score: `12.0`
-- Published: `2026-06-19T11:28:55+00:00` / age_days `87.66`
+- Dynamics score: `14.0`
+- Published: `2026-09-15T02:49:44+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, aging penalty -8.0 for 87.7d old signal
-- Quelle: https://www.twcert.org.tw/tw/cp-132-11205-f6677-1.html
-
-### What Southeast Asia’s edutech startups can learn from AI’s limits in education
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `12.0`
-- Published: `2026-09-15T01:34:58+00:00` / age_days `0.07`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://e27.co/what-southeast-asias-edutech-startups-can-learn-from-ais-limits-in-education-20260912/
-
-### Apple、「iOS 27」「iPadOS 27」の一般提供を開始 ～「Siri AI」の日本語対応は年内／126件の脆弱性修正も
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `10.0`
-- Published: `2026-09-15T00:15:13+00:00` / age_days `0.13`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://forest.watch.impress.co.jp/docs/news/2140863.html
+- Warum: momentum delta +3
+- Quelle: https://www.itmedia.co.jp/news/article/2609/15/2000001472/
 
 END OF DOCUMENT
