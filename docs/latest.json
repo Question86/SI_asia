@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T02:34:08+00:00",
-  "run_id": "2026-09-15T02:34:08+00:00",
+  "generated_at": "2026-09-15T02:49:40+00:00",
+  "run_id": "2026-09-15T02:49:40+00:00",
   "date": "2026-09-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 10
+      "configured_public_sources_only": 11
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 10,
-    "displayed_findings": 10,
+    "today_file_total": 11,
+    "displayed_findings": 11,
     "high": 0,
     "medium": 3,
-    "observe": 7,
+    "observe": 8,
     "source_errors": 0
   },
   "sections": {
@@ -248,6 +248,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2957bd8b3280d0b5fbb0"
+      },
+      {
+        "title": "無人タクシー、東京で来年運行へ GO、Waymo、日本交通が合意",
+        "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001472/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-15T01:09:50+00:00",
+        "fetched_at": "2026-09-15T02:49:10+00:00",
+        "summary": "配車アプリ「GO」と「Waymo」それぞれから配車できる自動運転タクシーを、段階的に100台規模で運行する計画。 正式な運行開始時期は、安全性が認められ、必要な許認可の取得が完了した後に決める。 GOは地域のタクシー事業者との連携の要となり、Waymoの自動運転技術を日本のタクシー産業に組み込むための全体設計を担う...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "4d895347c3b575d56fc7"
       }
     ]
   },
@@ -469,30 +490,50 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "2957bd8b3280d0b5fbb0"
-    }
-  ],
-  "new_findings": [
+    },
     {
-      "title": "GPT-6 Astra cuts AI task time nearly in half. It still can’t fix your audience data",
-      "url": "https://e27.co/gpt-6-astra-cuts-ai-task-time-nearly-in-half-it-still-cant-fix-your-audience-data-20260912/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "無人タクシー、東京で来年運行へ GO、Waymo、日本交通が合意",
+      "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001472/",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-15T02:30:13+00:00",
-      "fetched_at": "2026-09-15T02:33:39+00:00",
-      "summary": "OpenAI released GPT-6 Astra on September 3, and the number marketers should actually care about isn’t a reasoning score — it’s a stopwatch. In OpenAI’s own computer-use simulation, Astra finishes a task in roughly 40 minutes against about 75 minutes for its predecessor, GPT-5.6 Sol — nearly half the time for the same job. It […] The post GPT-6 Astra cuts AI task time nearly in half. It still can’t fix your audience…",
+      "published_at": "2026-09-15T01:09:50+00:00",
+      "fetched_at": "2026-09-15T02:49:10+00:00",
+      "summary": "配車アプリ「GO」と「Waymo」それぞれから配車できる自動運転タクシーを、段階的に100台規模で運行する計画。 正式な運行開始時期は、安全性が認められ、必要な許認可の取得が完了した後に決める。 GOは地域のタクシー事業者との連携の要となり、Waymoの自動運転技術を日本のタクシー産業に組み込むための全体設計を担う...",
       "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "OpenAI"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 15,
-      "relevance_reason": "OpenAI (+7.5); AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "671afd489ff5fcbafb6f"
+      "id": "4d895347c3b575d56fc7"
+    }
+  ],
+  "new_findings": [
+    {
+      "title": "無人タクシー、東京で来年運行へ GO、Waymo、日本交通が合意",
+      "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001472/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-15T01:09:50+00:00",
+      "fetched_at": "2026-09-15T02:49:10+00:00",
+      "summary": "配車アプリ「GO」と「Waymo」それぞれから配車できる自動運転タクシーを、段階的に100台規模で運行する計画。 正式な運行開始時期は、安全性が認められ、必要な許認可の取得が完了した後に決める。 GOは地域のタクシー事業者との連携の要となり、Waymoの自動運転技術を日本のタクシー産業に組み込むための全体設計を担う...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4d895347c3b575d56fc7"
     }
   ],
   "source_errors": [],

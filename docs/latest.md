@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-15T02:34:08+00:00_
+_Generiert: 2026-09-15T02:49:40+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „GPT-6 Astra cuts AI task time nearly in half. It still can’t fix your audience data“ aus e27 Asia Startup and Tech Feed (Score 15, observation).
+11 neue relevante Treffer. Stärkstes Signal: „GPT-6 Astra cuts AI task time nearly in half. It still can’t fix your audience data“ aus e27 Asia Startup and Tech Feed (Score 15, observation).
 
 ## Priorität Hoch
 
