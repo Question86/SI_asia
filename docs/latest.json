@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-15T10:59:46+00:00",
-  "run_id": "2026-09-15T10:59:46+00:00",
+  "generated_at": "2026-09-15T11:19:38+00:00",
+  "run_id": "2026-09-15T11:19:38+00:00",
   "date": "2026-09-15",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 42
+      "configured_public_sources_only": 48
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 42,
-    "displayed_findings": 42,
+    "new_relevant_findings": 6,
+    "today_file_total": 48,
+    "displayed_findings": 48,
     "high": 0,
-    "medium": 16,
+    "medium": 22,
     "observe": 26,
-    "source_errors": 1
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -225,6 +225,144 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2796644a4511143affc4"
+      },
+      {
+        "title": "[NEU] [mittel] WP Royal Royal Elementor Addons: Schwachstelle ermöglicht Manipulation von Dateien",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3354",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-15T11:16:31+00:00",
+        "fetched_at": "2026-09-15T11:19:07+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in WP Royal Royal Elementor Addons ausnutzen, um Dateien zu manipulieren.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "562e91743b8ba13eaeb8"
+      },
+      {
+        "title": "[NEU] [mittel] IBM DB2: Schwachstelle ermöglicht Manipulation von Dateien",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3351",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-15T11:11:31+00:00",
+        "fetched_at": "2026-09-15T11:19:07+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in IBM DB2 ausnutzen, um Dateien zu manipulieren.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9205a0be218365fe099e"
+      },
+      {
+        "title": "[NEU] [hoch] Cisco Secure Email Gateway: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3353",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-15T11:11:31+00:00",
+        "fetched_at": "2026-09-15T11:19:07+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Cisco Secure Email Gateway ausnutzen, um beliebigen Code auszuführen – einschließlich der Ausführung von Code mit Root-Rechten –, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren oder Denial-of-Service-Zustände herbeizuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c049ce83c01525ce4740"
+      },
+      {
+        "title": "[NEU] [hoch] Apple iOS, iPadOS, macOS Tahoe, macOS Golden Gate, macOS Sequoia und Safari: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3352",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-15T11:11:31+00:00",
+        "fetched_at": "2026-09-15T11:19:07+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Apple iOS, iPadOS, macOS Tahoe, macOS Golden Gate, macOS Sequoia and Safari ausnutzen,, um beliebigen Code mit Root- oder Kernel-Rechten auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, auf Daten zuzugreifen, diese zu manipulieren oder offenzulegen oder Denial-of-Service-Zustände herbeizuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "59cd74ff4d77eb6c41f5"
+      },
+      {
+        "title": "[NEU] [hoch] Langflow: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3350",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-15T11:06:31+00:00",
+        "fetched_at": "2026-09-15T11:19:07+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Langflow ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen, um Sicherheitsvorkehrungen zu umgehen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6e3fa1c92732d540ce2c"
+      },
+      {
+        "title": "[NEU] [hoch] Octopus Deploy Server: Schwachstelle ermöglicht Codeausführung",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3349",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-15T10:56:31+00:00",
+        "fetched_at": "2026-09-15T11:19:07+00:00",
+        "summary": "Ein Angreifer kann eine Schwachstelle in Octopus Deploy Server ausnutzen, um beliebigen Programmcode auszuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "06247148ad88a1c61752"
       },
       {
         "title": "[NEU] [mittel] Apple Xcode: Schwachstelle ermöglicht Offenlegung von Informationen",
@@ -1168,6 +1306,144 @@
       "id": "2796644a4511143affc4"
     },
     {
+      "title": "[NEU] [mittel] WP Royal Royal Elementor Addons: Schwachstelle ermöglicht Manipulation von Dateien",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3354",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-15T11:16:31+00:00",
+      "fetched_at": "2026-09-15T11:19:07+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in WP Royal Royal Elementor Addons ausnutzen, um Dateien zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "562e91743b8ba13eaeb8"
+    },
+    {
+      "title": "[NEU] [mittel] IBM DB2: Schwachstelle ermöglicht Manipulation von Dateien",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3351",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-15T11:11:31+00:00",
+      "fetched_at": "2026-09-15T11:19:07+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in IBM DB2 ausnutzen, um Dateien zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9205a0be218365fe099e"
+    },
+    {
+      "title": "[NEU] [hoch] Cisco Secure Email Gateway: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3353",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-15T11:11:31+00:00",
+      "fetched_at": "2026-09-15T11:19:07+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Cisco Secure Email Gateway ausnutzen, um beliebigen Code auszuführen – einschließlich der Ausführung von Code mit Root-Rechten –, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren oder Denial-of-Service-Zustände herbeizuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c049ce83c01525ce4740"
+    },
+    {
+      "title": "[NEU] [hoch] Apple iOS, iPadOS, macOS Tahoe, macOS Golden Gate, macOS Sequoia und Safari: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3352",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-15T11:11:31+00:00",
+      "fetched_at": "2026-09-15T11:19:07+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Apple iOS, iPadOS, macOS Tahoe, macOS Golden Gate, macOS Sequoia and Safari ausnutzen,, um beliebigen Code mit Root- oder Kernel-Rechten auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, auf Daten zuzugreifen, diese zu manipulieren oder offenzulegen oder Denial-of-Service-Zustände herbeizuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "59cd74ff4d77eb6c41f5"
+    },
+    {
+      "title": "[NEU] [hoch] Langflow: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3350",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-15T11:06:31+00:00",
+      "fetched_at": "2026-09-15T11:19:07+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Langflow ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen, um Sicherheitsvorkehrungen zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6e3fa1c92732d540ce2c"
+    },
+    {
+      "title": "[NEU] [hoch] Octopus Deploy Server: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3349",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-15T10:56:31+00:00",
+      "fetched_at": "2026-09-15T11:19:07+00:00",
+      "summary": "Ein Angreifer kann eine Schwachstelle in Octopus Deploy Server ausnutzen, um beliebigen Programmcode auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "06247148ad88a1c61752"
+    },
+    {
       "title": "[NEU] [mittel] Apple Xcode: Schwachstelle ermöglicht Offenlegung von Informationen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3347",
       "source": "BSI CERT-Bund Security Advisories",
@@ -1909,37 +2185,13 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [hoch] Microsoft Windows 11 (Secure Kernel Mode): Schwachstelle ermöglicht Privilegieneskalation",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3348",
+      "title": "[NEU] [mittel] WP Royal Royal Elementor Addons: Schwachstelle ermöglicht Manipulation von Dateien",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3354",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-09-15T10:51:31+00:00",
-      "fetched_at": "2026-09-15T10:59:03+00:00",
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Microsoft Windows 11 (Secure Kernel Mode) ausnutzen, um seine Privilegien zu erhöhen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Microsoft",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5bf75a2cb4c112807a0d"
-    },
-    {
-      "title": "[NEU] [mittel] Apple Xcode: Schwachstelle ermöglicht Offenlegung von Informationen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3347",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-15T10:51:31+00:00",
-      "fetched_at": "2026-09-15T10:59:03+00:00",
-      "summary": "Ein Angreifer kann eine Schwachstelle in Apple Xcode ausnutzen, um Informationen offenzulegen.",
+      "published_at": "2026-09-15T11:16:31+00:00",
+      "fetched_at": "2026-09-15T11:19:07+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in WP Royal Royal Elementor Addons ausnutzen, um Dateien zu manipulieren.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -1953,17 +2205,125 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "79751527b6a83c6e6a4c"
-    }
-  ],
-  "source_errors": [
+      "id": "562e91743b8ba13eaeb8"
+    },
     {
-      "source_id": "twcert_tvn_vulnerability_notes",
-      "source_name": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "title": "[NEU] [hoch] Cisco Secure Email Gateway: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3353",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f8e6f31dc10>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))"
+      "published_at": "2026-09-15T11:11:31+00:00",
+      "fetched_at": "2026-09-15T11:19:07+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Cisco Secure Email Gateway ausnutzen, um beliebigen Code auszuführen – einschließlich der Ausführung von Code mit Root-Rechten –, Sicherheitsmaßnahmen zu umgehen, Daten offenzulegen oder zu manipulieren oder Denial-of-Service-Zustände herbeizuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c049ce83c01525ce4740"
+    },
+    {
+      "title": "[NEU] [hoch] Apple iOS, iPadOS, macOS Tahoe, macOS Golden Gate, macOS Sequoia und Safari: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3352",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-15T11:11:31+00:00",
+      "fetched_at": "2026-09-15T11:19:07+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Apple iOS, iPadOS, macOS Tahoe, macOS Golden Gate, macOS Sequoia and Safari ausnutzen,, um beliebigen Code mit Root- oder Kernel-Rechten auszuführen, Berechtigungen zu erweitern, Sicherheitsmaßnahmen zu umgehen, auf Daten zuzugreifen, diese zu manipulieren oder offenzulegen oder Denial-of-Service-Zustände herbeizuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "59cd74ff4d77eb6c41f5"
+    },
+    {
+      "title": "[NEU] [mittel] IBM DB2: Schwachstelle ermöglicht Manipulation von Dateien",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3351",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-15T11:11:31+00:00",
+      "fetched_at": "2026-09-15T11:19:07+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in IBM DB2 ausnutzen, um Dateien zu manipulieren.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9205a0be218365fe099e"
+    },
+    {
+      "title": "[NEU] [hoch] Langflow: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3350",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-15T11:06:31+00:00",
+      "fetched_at": "2026-09-15T11:19:07+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Langflow ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen, um Sicherheitsvorkehrungen zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6e3fa1c92732d540ce2c"
+    },
+    {
+      "title": "[NEU] [hoch] Octopus Deploy Server: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3349",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-15T10:56:31+00:00",
+      "fetched_at": "2026-09-15T11:19:07+00:00",
+      "summary": "Ein Angreifer kann eine Schwachstelle in Octopus Deploy Server ausnutzen, um beliebigen Programmcode auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "06247148ad88a1c61752"
     }
   ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,

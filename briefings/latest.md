@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-15T10:59:46+00:00_
+_Generiert: 2026-09-15T11:19:38+00:00_
 
 ## Kurzlage
 
-42 neue relevante Treffer. Stärkstes Signal: „The CLARITY Act vote could send crypto to US$2.73T or crash it to US$2.6T“ aus e27 Asia Startup and Tech Feed (Score 19, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+48 neue relevante Treffer. Stärkstes Signal: „The CLARITY Act vote could send crypto to US$2.73T or crash it to US$2.6T“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,18 +29,6 @@ _Generiert: 2026-09-15T10:59:46+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-11`
   - Kurz: Known exploited vulnerability. Added 2026-09-11. Due 2026-09-14. GitLab Community Edition and Enterprise Edition Path Traversal Vulnerability
-- **GDACS: Green flood alert in India** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104154)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in India
-- **GDACS: Green flood alert in Nepal** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104157)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Nepal
-- **GDACS: Green flood alert in Kenya** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104159)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Kenya
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:162.179km) in Indonesia 14/09/2026 10:58 UTC, 330 thousand in MMI III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1565203)
   - Quelle: GDACS
   - Zeit: ``
@@ -307,7 +295,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `twcert_tvn_vulnerability_notes` (rss): HTTPSConnectionPool(host='www.twcert.org.tw', port=443): Max retries exceeded with url: /tw/rss-132-1.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.twcert.org.tw', port=443) at 0x7f8e6f31dc10>, 'Connection to www.twcert.org.tw timed out. (connect timeout=8)'))
