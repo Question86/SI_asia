@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-09-15T21:23:14+00:00_
+_Generiert: 2026-09-15T21:30:43+00:00_
 
 ## Version 1.0: Cisco Secure Email Gateway - Aktive Ausnutzung einer Zero-Day-Schwachstelle
 
