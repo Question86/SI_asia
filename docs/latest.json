@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T02:57:04+00:00",
-  "run_id": "2026-09-15T02:57:04+00:00",
+  "generated_at": "2026-09-15T03:18:37+00:00",
+  "run_id": "2026-09-15T03:18:37+00:00",
   "date": "2026-09-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 12
+      "configured_public_sources_only": 14
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 12,
-    "displayed_findings": 12,
+    "new_relevant_findings": 2,
+    "today_file_total": 14,
+    "displayed_findings": 14,
     "high": 0,
-    "medium": 3,
-    "observe": 9,
+    "medium": 4,
+    "observe": 10,
     "source_errors": 0
   },
   "sections": {
@@ -50,6 +50,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "671afd489ff5fcbafb6f"
+      },
+      {
+        "title": "Lite-On製O-RU「FF-RFI079I4」および「FF-RFI078I4」における複数の脆弱性",
+        "url": "https://jvn.jp/jp/JVN02049764/",
+        "source": "JVN Japan Vulnerability Notes",
+        "source_type": "rss",
+        "published_at": "2026-09-15T12:00:00+09:00",
+        "fetched_at": "2026-09-15T03:18:07+00:00",
+        "summary": "LITE-ON Technology Corporationが提供するO-RU「FF-RFI079I4」および「FF-RFI078I4」には、複数の脆弱性が存在します。",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "JVN",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2796644a4511143affc4"
       },
       {
         "title": "パナソニック インダストリー製MINAS A5/A6用Windows USBデバイスドライバにおけるバッファオーバーフローの脆弱性",
@@ -290,6 +312,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "6f70b3d1a46feae05a54"
+      },
+      {
+        "title": "The geopolitics of scarcity: Why middle powers must learn to prioritise",
+        "url": "https://e27.co/the-geopolitics-of-scarcity-why-middle-powers-must-learn-to-prioritise-20260912/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-15T03:00:14+00:00",
+        "fetched_at": "2026-09-15T03:18:07+00:00",
+        "summary": "When Keir Starmer recently argued that Britain must rebuild its hard power, much of the discussion focused on defence spending. That is understandable. After years of underinvestment, Britain faces difficult choices about military capability at a time of growing geopolitical instability. But money is only part of the challenge. Britain’s more fundamental foreign policy problem […] The post The geopolitics of scarcit…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3968f27241a5712bac63"
       }
     ]
   },
@@ -315,6 +357,28 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "671afd489ff5fcbafb6f"
+    },
+    {
+      "title": "Lite-On製O-RU「FF-RFI079I4」および「FF-RFI078I4」における複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN02049764/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-09-15T12:00:00+09:00",
+      "fetched_at": "2026-09-15T03:18:07+00:00",
+      "summary": "LITE-ON Technology Corporationが提供するO-RU「FF-RFI079I4」および「FF-RFI078I4」には、複数の脆弱性が存在します。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2796644a4511143affc4"
     },
     {
       "title": "パナソニック インダストリー製MINAS A5/A6用Windows USBデバイスドライバにおけるバッファオーバーフローの脆弱性",
@@ -553,29 +617,70 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "6f70b3d1a46feae05a54"
-    }
-  ],
-  "new_findings": [
+    },
     {
-      "title": "賃貸の退去で意味の分からない請求をされたのでClaudeに「法的にギリギリ訴えられないラインで相手のメールに対する超攻撃的な法的根拠のある返信メールを書いて欲しい」と指示した結果",
-      "url": "https://togetter.com/li/2745721",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "The geopolitics of scarcity: Why middle powers must learn to prioritise",
+      "url": "https://e27.co/the-geopolitics-of-scarcity-why-middle-powers-must-learn-to-prioritise-20260912/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-09-14T23:43:57+00:00",
-      "fetched_at": "2026-09-15T02:56:33+00:00",
-      "summary": "関宮 @sekimiya 賃貸の退去で意味のわかんない請求されてクソむかついたのでclaudeくんに「法的にギリギリ訴えられないラインで相手のメールに対する超攻撃的な法的根拠のある返信メールを書いて欲しい。文章は複数の課金AIでクロスチェックします」って相手の返信貼り付け続けて返信してたら20万くらいの退去費用がチャ...",
+      "published_at": "2026-09-15T03:00:14+00:00",
+      "fetched_at": "2026-09-15T03:18:07+00:00",
+      "summary": "When Keir Starmer recently argued that Britain must rebuild its hard power, much of the discussion focused on defence spending. That is understandable. After years of underinvestment, Britain faces difficult choices about military capability at a time of growing geopolitical instability. But money is only part of the challenge. Britain’s more fundamental foreign policy problem […] The post The geopolitics of scarcit…",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "APAC Trend Radar"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "6f70b3d1a46feae05a54"
+      "id": "3968f27241a5712bac63"
+    }
+  ],
+  "new_findings": [
+    {
+      "title": "Lite-On製O-RU「FF-RFI079I4」および「FF-RFI078I4」における複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN02049764/",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-09-15T12:00:00+09:00",
+      "fetched_at": "2026-09-15T03:18:07+00:00",
+      "summary": "LITE-ON Technology Corporationが提供するO-RU「FF-RFI079I4」および「FF-RFI078I4」には、複数の脆弱性が存在します。",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "JVN",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2796644a4511143affc4"
+    },
+    {
+      "title": "The geopolitics of scarcity: Why middle powers must learn to prioritise",
+      "url": "https://e27.co/the-geopolitics-of-scarcity-why-middle-powers-must-learn-to-prioritise-20260912/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-15T03:00:14+00:00",
+      "fetched_at": "2026-09-15T03:18:07+00:00",
+      "summary": "When Keir Starmer recently argued that Britain must rebuild its hard power, much of the discussion focused on defence spending. That is understandable. After years of underinvestment, Britain faces difficult choices about military capability at a time of growing geopolitical instability. But money is only part of the challenge. Britain’s more fundamental foreign policy problem […] The post The geopolitics of scarcit…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3968f27241a5712bac63"
     }
   ],
   "source_errors": [],
