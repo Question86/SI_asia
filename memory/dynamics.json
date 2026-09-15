@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-15T06:24:15Z",
+  "generated_at": "2026-09-15T06:52:21Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "krass": 1,
-      "strong": 11,
-      "watch": 14,
-      "quiet": 14
+      "strong": 13,
+      "watch": 17,
+      "quiet": 9
     },
     "bands_after_gate_recheck": {
-      "strong": 12,
-      "watch": 14,
-      "quiet": 14
+      "strong": 14,
+      "watch": 17,
+      "quiet": 9
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/jp/JVN72918755/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-15T14:00:00+09:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://jvn.jp/jp/JVN02049764/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-15T12:00:00+09:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -71,7 +71,7 @@
       "url": "https://jvn.jp/vu/JVNVU99837984/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-15T10:00:00+09:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -95,7 +95,7 @@
       "url": "https://e27.co/the-90-second-pitch-that-helps-foreign-founders-crack-tokyos-networking-scene-20260915/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T04:46:52+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -122,7 +122,7 @@
       "url": "https://e27.co/the-clarity-act-vote-could-send-crypto-to-us2-73t-or-crash-it-to-us2-6t-20260915/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T05:35:26+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
@@ -147,7 +147,7 @@
       "url": "https://jvn.jp/jp/JVN72918755/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-09T12:51:45+00:00",
-      "age_days": 5.73,
+      "age_days": 5.75,
       "topics": [
         "general"
       ],
@@ -158,12 +158,38 @@
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 7.1,
+      "baseline_z_hint": 6.8,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 7.10",
+        "baseline z_hint 6.80",
+        "krass gate: single-source non-official/non-identity signal capped"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "M 4.8 - 289 km WSW of Tual, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thjr",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-03T21:47:43+00:00",
+      "age_days": 11.38,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 2.9,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 2.90",
         "krass gate: single-source non-official/non-identity signal capped"
       ],
       "summary": ""
@@ -173,7 +199,7 @@
       "url": "https://e27.co/the-saaspocalypse-will-be-selective-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T02:07:44+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [],
       "dynamics_score": 24.0,
       "raw_band": "strong",
@@ -197,7 +223,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11205-f6677-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-09-14T10:31:00+00:00",
-      "age_days": 0.83,
+      "age_days": 0.85,
       "topics": [
         "security"
       ],
@@ -221,7 +247,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11202-48c1b-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-09-14T10:16:00+00:00",
-      "age_days": 0.84,
+      "age_days": 0.86,
       "topics": [
         "security"
       ],
@@ -241,11 +267,36 @@
       "summary": "思考軟體科技｜電子柵欄 - SQL Injection"
     },
     {
+      "title": "multimodal-art-projection/YuE",
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-09-15T06:36:21+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce, code",
+        "security high-signal: rce, code"
+      ],
+      "summary": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing. https://map-yue2.github.io/ Looking for the original YuE? Its code, documentation, and license are preserved on the YuE-v1 branch . YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality Compose in symb…"
+    },
+    {
       "title": "Lite-On製O-RU「FF-RFI079I4」および「FF-RFI078I4」における複数の脆弱性",
       "url": "https://jvn.jp/jp/JVN02049764/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-15T03:18:40+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -269,7 +320,7 @@
       "url": "https://jvn.jp/vu/JVNVU99837984/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-15T01:04:00+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -293,7 +344,7 @@
       "url": "https://e27.co/the-90-second-pitch-that-helps-foreign-founders-crack-tokyos-networking-scene-20260915/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T04:36:53+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -315,11 +366,59 @@
       "summary": "For all the talk of Tokyo’s growing openness to international founders, language still shapes how quickly doors open in Japan’s startup community. English-friendly meetups and conferences are far more common than they were a decade ago, but according to a new guide from Blackbox JP, the first few sentences a founder s…"
     },
     {
+      "title": "M 4.8 - 289 km WSW of Tual, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thjr",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-15T06:26:55.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 18.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "Time 2026-09-15 06:07:52 UTC 2026-09-15 06:07:52 UTC at epicenter Location 6.635°S 130.342°E Depth 83.83 km (52.09 mi)"
+    },
+    {
+      "title": "M 4.8 - 229 km E of Tadine, New Caledonia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thjj",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-15T05:46:12+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "GPT-6 Astra cuts AI task time nearly in half. It still can’t fix your audience data",
       "url": "https://e27.co/gpt-6-astra-cuts-ai-task-time-nearly-in-half-it-still-cant-fix-your-audience-data-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T02:34:11+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -345,7 +444,7 @@
       "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02761/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-15T01:04:00+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -369,7 +468,7 @@
       "url": "https://e27.co/the-clarity-act-vote-could-send-crypto-to-us2-73t-or-crash-it-to-us2-6t-20260915/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T05:25:20+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "macro"
@@ -396,7 +495,7 @@
       "url": "https://e27.co/openai-hires-former-elastic-and-snowflake-exec-sanjay-deshmukh-to-lead-asia-pacific-sales-20260915/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T05:35:26+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -422,7 +521,7 @@
       "url": "https://e27.co/how-to-use-ai-to-win-hint-it-has-nothing-to-do-with-being-more-productive-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T01:04:00+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -448,7 +547,7 @@
       "url": "https://www.digital.go.jp/speech/minister-260915-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-15T04:13:31+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -472,7 +571,7 @@
       "url": "https://e27.co/the-saaspocalypse-will-be-selective-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T02:00:53+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -494,26 +593,26 @@
       "summary": "Every AI lab telling you software is about to write itself runs its company on Slack. These are the people closest to the frontier. They say agents will soon build anything you can describe. And yet they haven’t replaced their own chat app. Or their CRM. Or their payroll. If “just build it yourself” made […] The post…"
     },
     {
-      "title": "M 4.8 - 229 km E of Tadine, New Caledonia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thjj",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-15T05:46:12+00:00",
-      "age_days": 0.03,
+      "title": "666ghj/MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-09-15T06:36:56+00:00",
+      "age_days": 0.01,
       "topics": [
         "general"
       ],
-      "dynamics_score": 14.0,
+      "dynamics_score": 14.5,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 1,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +2"
+        "momentum delta +1"
       ],
       "summary": ""
     },
@@ -522,7 +621,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001472/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-15T02:49:44+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -546,7 +645,7 @@
       "url": "https://blog.tinect.jp/?p=91489",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-15T05:35:26+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
@@ -570,7 +669,7 @@
       "url": "https://e27.co/the-geopolitics-of-scarcity-why-middle-powers-must-learn-to-prioritise-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T03:18:40+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "general"
       ],
@@ -590,11 +689,35 @@
       "summary": ""
     },
     {
+      "title": "multimodal-art-projection/YuE",
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-09-15T06:36:56+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 12.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "華擎科技｜ASRock Polychrome SYNC/RGB software utility - 存在2個漏洞",
       "url": "https://www.twcert.org.tw/tw/cp-132-11205-f6677-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 87.79,
+      "age_days": 87.81,
       "topics": [
         "general"
       ],
@@ -619,7 +742,7 @@
       "url": "https://e27.co/what-southeast-asias-edutech-startups-can-learn-from-ais-limits-in-education-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T01:34:58+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -645,7 +768,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thjj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-15T05:36:44.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -665,11 +788,39 @@
       "summary": "Time 2026-09-15 04:52:26 UTC 2026-09-15 04:52:26 UTC at epicenter Location 21.581°S 170.092°E Depth 98.74 km (61.35 mi)"
     },
     {
+      "title": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-06-19T01:58:32+00:00",
+      "age_days": 88.2,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 11.8,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 3.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 3.00",
+        "single-source AI hype brake -8.0",
+        "aging penalty -8.0 for 88.2d old signal",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Apple、「iOS 27」「iPadOS 27」の一般提供を開始 ～「Siri AI」の日本語対応は年内／126件の脆弱性修正も",
       "url": "https://forest.watch.impress.co.jp/docs/news/2140863.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-15T00:15:13+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -691,11 +842,36 @@
       "summary": ""
     },
     {
+      "title": "Special address - 31st CGC Awards",
+      "url": "https://www.bis.org/speeches/20260914-special-address-31st-cgc-awards",
+      "source": "BIS Central Bankers Speeches",
+      "published_at": "2026-06-18T14:33:45+00:00",
+      "age_days": 88.68,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "aging penalty -8.0 for 88.7d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "無人タクシー、東京で来年運行へ GO、Waymo、日本交通が合意",
       "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001472/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-15T01:09:50+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -715,11 +891,35 @@
       "summary": "配車アプリ「GO」と「Waymo」それぞれから配車できる自動運転タクシーを、段階的に100台規模で運行する計画。 正式な運行開始時期は、安全性が認められ、必要な許認可の取得が完了した後に決める。 GOは地域のタクシー事業者との連携の要となり、Waymoの自動運転技術を日本のタクシー産業に組み込むための全体設計を担う..."
     },
     {
+      "title": "Special address - 31st CGC Awards",
+      "url": "https://www.bis.org/speeches/20260914-special-address-31st-cgc-awards",
+      "source": "BIS Central Bankers Speeches",
+      "published_at": "2026-09-14T00:00:00+00:00",
+      "age_days": 1.29,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 8.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "Special address by Mr Abdul Rasheed Ghaffour, Governor of the Central Bank of Malaysia (Bank Negara Malaysia), at the 31st CGC Awards, Kuala Lumpur, 11 August 2026."
+    },
+    {
       "title": "GPT-6 Astra cuts AI task time nearly in half. It still can’t fix your audience data",
       "url": "https://e27.co/gpt-6-astra-cuts-ai-task-time-nearly-in-half-it-still-cant-fix-your-audience-data-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T02:30:13+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "ai",
         "macro"
@@ -745,7 +945,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN1500C0V10C26A9000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-14T21:49:16+00:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "ai"
       ],
@@ -771,7 +971,7 @@
       "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02761/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-14T22:14:04+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "general"
       ],
@@ -795,7 +995,7 @@
       "url": "https://e27.co/openai-hires-former-elastic-and-snowflake-exec-sanjay-deshmukh-to-lead-asia-pacific-sales-20260915/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T05:30:16+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "macro"
@@ -815,205 +1015,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "OpenAI has appointed Sanjay Deshmukh as its first Vice President of Asia Pacific sales, a hire that signals the ChatGPT maker is moving beyond product launches and into the harder work of building an enterprise sales machine across one of its fastest-growing markets. Based in Singapore, Deshmukh will lead OpenAI’s com…"
-    },
-    {
-      "title": "How to use AI to win (Hint: It has nothing to do with being more productive)",
-      "url": "https://e27.co/how-to-use-ai-to-win-hint-it-has-nothing-to-do-with-being-more-productive-20260912/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-15T01:00:05+00:00",
-      "age_days": 0.23,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "AI is automating tasks that used to take hours for humans to do. It’s pushing some costs down and it’s making some teams more productive. Don’t make the mistake, however, of thinking that using AI to do things more productively is enough to ensure your business has a competitive edge and succeeds. If you strip […] The…"
-    },
-    {
-      "title": "松本大臣記者会見（令和8年9月15日）動画を掲載しました",
-      "url": "https://www.digital.go.jp/speech/minister-260915-01",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-09-15T04:04:12+00:00",
-      "age_days": 0.1,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "松本大臣記者会見（令和8年9月15日）動画を掲載しました"
-    },
-    {
-      "title": "Shifting economic landscapes - strategic responses of small open economies",
-      "url": "https://www.bis.org/speeches/20260914-shifting-economic-landscapes-strategic-responses-small-open-economies",
-      "source": "BIS Central Bankers Speeches",
-      "published_at": "2026-09-14T00:00:00+00:00",
-      "age_days": 1.27,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "Remarks by Dr Alwyn Jordan, Deputy Governor of the Central Bank of Barbados, at the 46th Annual Review Seminar of the Central Bank of Barbados, Bridgetown, 11 August 2026."
-    },
-    {
-      "title": "Shifting economic landscapes - strategic responses of small open economies",
-      "url": "https://www.bis.org/speeches/20260914-shifting-economic-landscapes-strategic-responses-small-open-economies",
-      "source": "BIS Central Bankers Speeches",
-      "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 88.66,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 5.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "aging penalty -8.0 for 88.7d old signal"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "「世の中には敵より味方の方が多い」という信頼感を持っていた方が、その逆よりは生きやすい",
-      "url": "https://blog.tinect.jp/?p=91489",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-15T00:15:10+00:00",
-      "age_days": 0.26,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "2007年の夏に長男が生まれて、それから大体19年くらい経ちました。 途中、双子の長女次女が増援にきまして、現在は5人家族です。 長男が生まれたのは、確かまだ本格的に暑くなり始める前の初夏の月曜日、朝に妻が産気づいたので私は会社に連絡をして、割と無理やりめに休みをもらいました。 その後、長男が昼頃に生まれ..."
-    },
-    {
-      "title": "トランプ氏、AI懸念を陰謀と一蹴 「高IQの大統領いれば統制は十分」 - 日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOGN1500C0V10C26A9000000/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T02:10:07+00:00",
-      "age_days": 88.18,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 3.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 88.2d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "What Southeast Asia’s edutech startups can learn from AI’s limits in education",
-      "url": "https://e27.co/what-southeast-asias-edutech-startups-can-learn-from-ais-limits-in-education-20260912/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-15T01:30:20+00:00",
-      "age_days": 0.2,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 3.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Artificial intelligence is quickly becoming part of the education conversation. For schools, teachers, students, and education technology companies, generative AI offers obvious possibilities: faster feedback, personalised explanations, automated administrative work, and new ways to create learning materials. But the…"
-    },
-    {
-      "title": "Apple、「iOS 27」「iPadOS 27」の一般提供を開始 ～「Siri AI」の日本語対応は年内／126件の脆弱性修正も",
-      "url": "https://forest.watch.impress.co.jp/docs/news/2140863.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-14T20:43:45+00:00",
-      "age_days": 0.4,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 1.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Apple、「iOS 27」「iPadOS 27」の一般提供を開始 ～「Siri AI」の日本語対応は年内／126件の脆弱性修正も"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Androidアプリ「【保護者専用】まなびポケット」におけるアクセス制限不備の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."

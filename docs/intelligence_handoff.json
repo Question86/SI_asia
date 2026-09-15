@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-15T06:24:15Z",
+  "generated_at": "2026-09-15T06:52:21Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Androidアプリ「【保護者専用】まなびポケット」におけるアクセス制限不備の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/jp/JVN72918755/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-15T14:00:00+09:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/jp/JVN02049764/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-15T12:00:00+09:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -63,7 +63,7 @@
       "url": "https://jvn.jp/vu/JVNVU99837984/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-15T10:00:00+09:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -87,7 +87,7 @@
       "url": "https://e27.co/the-90-second-pitch-that-helps-foreign-founders-crack-tokyos-networking-scene-20260915/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T04:46:52+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -114,7 +114,7 @@
       "url": "https://e27.co/the-clarity-act-vote-could-send-crypto-to-us2-73t-or-crash-it-to-us2-6t-20260915/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T05:35:26+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
@@ -139,7 +139,7 @@
       "url": "https://jvn.jp/jp/JVN72918755/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-09T12:51:45+00:00",
-      "age_days": 5.73,
+      "age_days": 5.75,
       "topics": [
         "general"
       ],
@@ -150,12 +150,38 @@
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 7.1,
+      "baseline_z_hint": 6.8,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 7.10",
+        "baseline z_hint 6.80",
+        "krass gate: single-source non-official/non-identity signal capped"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "M 4.8 - 289 km WSW of Tual, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thjr",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-03T21:47:43+00:00",
+      "age_days": 11.38,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 2.9,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 2.90",
         "krass gate: single-source non-official/non-identity signal capped"
       ],
       "summary": ""
@@ -165,7 +191,7 @@
       "url": "https://e27.co/the-saaspocalypse-will-be-selective-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T02:07:44+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [],
       "dynamics_score": 24.0,
       "raw_band": "strong",
@@ -189,7 +215,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11205-f6677-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-09-14T10:31:00+00:00",
-      "age_days": 0.83,
+      "age_days": 0.85,
       "topics": [
         "security"
       ],
@@ -213,7 +239,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11202-48c1b-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-09-14T10:16:00+00:00",
-      "age_days": 0.84,
+      "age_days": 0.86,
       "topics": [
         "security"
       ],
@@ -233,78 +259,53 @@
       "summary": "思考軟體科技｜電子柵欄 - SQL Injection"
     },
     {
-      "title": "Lite-On製O-RU「FF-RFI079I4」および「FF-RFI078I4」における複数の脆弱性",
-      "url": "https://jvn.jp/jp/JVN02049764/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-09-15T03:18:40+00:00",
-      "age_days": 0.13,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "パナソニック インダストリー製MINAS A5/A6用Windows USBデバイスドライバにおけるバッファオーバーフローの脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU99837984/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-09-15T01:04:00+00:00",
-      "age_days": 0.22,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "The 90-second pitch that helps foreign founders crack Tokyo’s networking scene",
-      "url": "https://e27.co/the-90-second-pitch-that-helps-foreign-founders-crack-tokyos-networking-scene-20260915/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-15T04:36:53+00:00",
-      "age_days": 0.07,
+      "title": "multimodal-art-projection/YuE",
+      "url": "https://github.com/multimodal-art-projection/YuE",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-09-15T06:36:21+00:00",
+      "age_days": 0.01,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 22.0,
+      "dynamics_score": 23.0,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
+        "high terms: rce, code",
+        "security high-signal: rce, code"
       ],
-      "summary": "For all the talk of Tokyo’s growing openness to international founders, language still shapes how quickly doors open in Japan’s startup community. English-friendly meetups and conferences are far more common than they were a decade ago, but according to a new guide from Blackbox JP, the first few sentences a founder s…"
+      "summary": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing. https://map-yue2.github.io/ Looking for the original YuE? Its code, documentation, and license are preserved on the YuE-v1 branch . YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality Compose in symb…"
+    },
+    {
+      "title": "Lite-On製O-RU「FF-RFI079I4」および「FF-RFI078I4」における複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN02049764/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-09-15T03:18:40+00:00",
+      "age_days": 0.15,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
     }
   ],
   "read_order": [
