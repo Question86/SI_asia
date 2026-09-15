@@ -22,6 +22,30 @@
     "id": "9daddf74d67be9bb0adb"
   },
   {
+    "title": "[NEU] [hoch] Microsoft Windows 11 (Secure Kernel Mode): Schwachstelle ermöglicht Privilegieneskalation",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3348",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-15T10:51:31+00:00",
+    "fetched_at": "2026-09-15T10:59:03+00:00",
+    "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Microsoft Windows 11 (Secure Kernel Mode) ausnutzen, um seine Privilegien zu erhöhen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Microsoft",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Microsoft (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5bf75a2cb4c112807a0d"
+  },
+  {
     "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (libkcapi): Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3322",
     "source": "BSI CERT-Bund Security Advisories",
@@ -171,6 +195,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "2796644a4511143affc4"
+  },
+  {
+    "title": "[NEU] [mittel] Apple Xcode: Schwachstelle ermöglicht Offenlegung von Informationen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3347",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-15T10:51:31+00:00",
+    "fetched_at": "2026-09-15T10:59:03+00:00",
+    "summary": "Ein Angreifer kann eine Schwachstelle in Apple Xcode ausnutzen, um Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "79751527b6a83c6e6a4c"
   },
   {
     "title": "[UPDATE] [mittel] expat: Schwachstelle ermöglicht Denial of Service",

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-15T10:44:02+00:00_
+_Generated: 2026-09-15T10:59:46+00:00_
 
 ## Status
-- status: `normal`
-- findings: `40`
+- status: `warning`
+- findings: `42`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-09-15T10:44:02+00:00_
 - url: https://e27.co/the-clarity-act-vote-could-send-crypto-to-us2-73t-or-crash-it-to-us2-6t-20260915/
 - summary: Asian and global stocks declined today as the benchmark US 10-year Treasury yield climbed above the critical five per cent threshold. That level pressures risk assets because it raises the discount rate applied to future corporate earnings. Semiconductor shar…
 
-### 2. [UPDATE] [mittel] Red Hat Enterprise Linux (libkcapi): Mehrere Schwachstellen
+### 2. [NEU] [hoch] Microsoft Windows 11 (Secure Kernel Mode): Schwachstelle ermöglicht Privilegieneskalation
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-09-15T10:51:31+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3348
+- summary: Ein lokaler Angreifer kann eine Schwachstelle in Microsoft Windows 11 (Secure Kernel Mode) ausnutzen, um seine Privilegien zu erhöhen.
+
+### 3. [UPDATE] [mittel] Red Hat Enterprise Linux (libkcapi): Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-09-15T09:16:31+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3322
 - summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Informationen offenzulegen, Daten zu manipulieren, Speicherbeschädigungen zu verursachen oder einen Denial-of-Service-Zustand auszulösen.
 
-### 3. [UPDATE] [mittel] Red Hat Enterprise Linux (libgit2): Schwachstelle ermöglicht Denial of Service
+### 4. [UPDATE] [mittel] Red Hat Enterprise Linux (libgit2): Schwachstelle ermöglicht Denial of Service
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-09-15T09:16:31+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3333
 - summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen.
-
-### 4. M 4.8 - 289 km WSW of Tual, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-09-15T06:26:55.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000thjr
-- summary: Time 2026-09-15 06:07:52 UTC 2026-09-15 06:07:52 UTC at epicenter Location 6.635°S 130.342°E Depth 83.83 km (52.09 mi)
 
 ### 5. Panniantong/Agent-Reach
 - source: GitHub Trending RSS All Languages Daily
