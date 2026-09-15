@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T15:31:12+00:00",
-  "run_id": "2026-09-15T15:31:12+00:00",
+  "generated_at": "2026-09-15T15:42:37+00:00",
+  "run_id": "2026-09-15T15:42:37+00:00",
   "date": "2026-09-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 75,
     "displayed_findings": 75,
     "high": 1,
@@ -3500,30 +3500,7 @@
       "id": "d37d0b80b1c8dd36c862"
     }
   ],
-  "new_findings": [
-    {
-      "title": "ローカルでAIを動かして元を取るまで何年かかるかがわかる「Sunk Cost」、例えばメモリ64GBのMac Studioではどれだけの時間が必要なのか？",
-      "url": "https://gigazine.net/news/20260915-sunk-cost/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-15T12:32:12+00:00",
-      "fetched_at": "2026-09-15T15:30:43+00:00",
-      "summary": "PCの購入費用やAIの利用量などを基に、ローカルでAIを動かした場合に何年で元が取れるかを試算できるサイト「Sunk Cost」が公開されています。費用だけでなく、そのPCに収まるAIモデルや生成速度、クラウドモデルとの能力比較もまとめて確認できます。 Sunk Cost https://sunkcost.ai/ Sunk Costの画面上部には、PCの機...",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ae6b280cdb91883b7cf9"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
