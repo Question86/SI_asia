@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T15:57:46+00:00",
-  "run_id": "2026-09-15T15:57:46+00:00",
+  "generated_at": "2026-09-15T16:19:23+00:00",
+  "run_id": "2026-09-15T16:19:23+00:00",
   "date": "2026-09-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 75
+      "configured_public_sources_only": 76
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 75,
-    "displayed_findings": 75,
+    "new_relevant_findings": 1,
+    "today_file_total": 76,
+    "displayed_findings": 76,
     "high": 1,
     "medium": 30,
-    "observe": 44,
+    "observe": 45,
     "source_errors": 0
   },
   "sections": {
@@ -1143,6 +1143,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "83043d743fe8f27b2d11"
+      },
+      {
+        "title": "How Hong Kong solves tech’s hardest problem: the final mile to market",
+        "url": "https://e27.co/how-hong-kong-solves-techs-hardest-problem-the-final-mile-to-market-20260915/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-15T16:01:44+00:00",
+        "fetched_at": "2026-09-15T16:18:52+00:00",
+        "summary": "For many technology startups, the hardest part is not invention. It is everything that comes after. A breakthrough in a university lab, a working prototype, or even an early customer pilot may prove that a product can exist. It does not prove that a company can scale. To get there, founders need to pay customers, […] The post How Hong Kong solves tech’s hardest problem: the final mile to market appeared first on e27…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "founder"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d0d6bc6cadeb18c46f3b"
       },
       {
         "title": "ローカルでAIを動かして元を取るまで何年かかるかがわかる「Sunk Cost」、例えばメモリ64GBのMac Studioではどれだけの時間が必要なのか？",
@@ -2880,6 +2901,27 @@
       "id": "83043d743fe8f27b2d11"
     },
     {
+      "title": "How Hong Kong solves tech’s hardest problem: the final mile to market",
+      "url": "https://e27.co/how-hong-kong-solves-techs-hardest-problem-the-final-mile-to-market-20260915/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-15T16:01:44+00:00",
+      "fetched_at": "2026-09-15T16:18:52+00:00",
+      "summary": "For many technology startups, the hardest part is not invention. It is everything that comes after. A breakthrough in a university lab, a working prototype, or even an early customer pilot may prove that a product can exist. It does not prove that a company can scale. To get there, founders need to pay customers, […] The post How Hong Kong solves tech’s hardest problem: the final mile to market appeared first on e27…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "founder"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d0d6bc6cadeb18c46f3b"
+    },
+    {
       "title": "ローカルでAIを動かして元を取るまで何年かかるかがわかる「Sunk Cost」、例えばメモリ64GBのMac Studioではどれだけの時間が必要なのか？",
       "url": "https://gigazine.net/news/20260915-sunk-cost/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3500,7 +3542,29 @@
       "id": "d37d0b80b1c8dd36c862"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "How Hong Kong solves tech’s hardest problem: the final mile to market",
+      "url": "https://e27.co/how-hong-kong-solves-techs-hardest-problem-the-final-mile-to-market-20260915/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-15T16:01:44+00:00",
+      "fetched_at": "2026-09-15T16:18:52+00:00",
+      "summary": "For many technology startups, the hardest part is not invention. It is everything that comes after. A breakthrough in a university lab, a working prototype, or even an early customer pilot may prove that a product can exist. It does not prove that a company can scale. To get there, founders need to pay customers, […] The post How Hong Kong solves tech’s hardest problem: the final mile to market appeared first on e27…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "founder"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d0d6bc6cadeb18c46f3b"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
