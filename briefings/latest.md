@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-15T03:56:22+00:00_
+_Generiert: 2026-09-15T04:13:28+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „GPT-6 Astra cuts AI task time nearly in half. It still can’t fix your audience data“ aus e27 Asia Startup and Tech Feed (Score 15, observation).
+16 neue relevante Treffer. Stärkstes Signal: „GPT-6 Astra cuts AI task time nearly in half. It still can’t fix your audience data“ aus e27 Asia Startup and Tech Feed (Score 15, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -162,6 +162,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
   - Kurz: カナデビア（旧日立造船）による溶接不良が約2万8000カ所見つかった阪神なんば線淀川橋梁の架け替え工事の完了が、予定よりも3年遅れて2034年度となることが分かった。鋼製部材の作り直しと再架設に加え、地中障害物の撤去が必要となり、時間がかかっている。溶接不良があった箇所の施工を手掛ける日本橋梁（大阪市）は...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **松本大臣記者会見（令和8年9月15日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-260915-01)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-09-15T04:04:12+00:00`, fetched `2026-09-15T04:12:57+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 松本大臣記者会見（令和8年9月15日）動画を掲載しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Shifting economic landscapes - strategic responses of small open economies** — Score 6, observation — [Quelle](https://www.bis.org/speeches/20260914-shifting-economic-landscapes-strategic-responses-small-open-economies)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-09-14T00:00:00+00:00`, fetched `2026-09-15T04:12:57+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0)
+  - Kurz: Remarks by Dr Alwyn Jordan, Deputy Governor of the Central Bank of Barbados, at the 46th Annual Review Seminar of the Central Bank of Barbados, Bridgetown, 11 August 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The geopolitics of scarcity: Why middle powers must learn to prioritise** — Score 4, observation — [Quelle](https://e27.co/the-geopolitics-of-scarcity-why-middle-powers-must-learn-to-prioritise-20260912/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
