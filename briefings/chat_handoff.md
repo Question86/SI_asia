@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-15T08:58:26+00:00_
+_Generated: 2026-09-15T09:22:26+00:00_
 
 ## Status
 - status: `normal`
-- findings: `32`
+- findings: `37`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-09-15T08:58:26+00:00_
 - url: https://e27.co/the-clarity-act-vote-could-send-crypto-to-us2-73t-or-crash-it-to-us2-6t-20260915/
 - summary: Asian and global stocks declined today as the benchmark US 10-year Treasury yield climbed above the critical five per cent threshold. That level pressures risk assets because it raises the discount rate applied to future corporate earnings. Semiconductor shar…
 
-### 2. M 4.8 - 289 km WSW of Tual, Indonesia
+### 2. [UPDATE] [mittel] Red Hat Enterprise Linux (libkcapi): Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-09-15T09:16:31+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3322
+- summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Informationen offenzulegen, Daten zu manipulieren, Speicherbeschädigungen zu verursachen oder einen Denial-of-Service-Zustand auszulösen.
+
+### 3. [UPDATE] [mittel] Red Hat Enterprise Linux (libgit2): Schwachstelle ermöglicht Denial of Service
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-09-15T09:16:31+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3333
+- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen.
+
+### 4. M 4.8 - 289 km WSW of Tual, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-09-15T06:26:55.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000thjr
 - summary: Time 2026-09-15 06:07:52 UTC 2026-09-15 06:07:52 UTC at epicenter Location 6.635°S 130.342°E Depth 83.83 km (52.09 mi)
-
-### 3. GPT-6 Astra cuts AI task time nearly in half. It still can’t fix your audience data
-- source: e27 Asia Startup and Tech Feed
-- score: `15`
-- published: `2026-09-15T02:30:13+00:00`
-- url: https://e27.co/gpt-6-astra-cuts-ai-task-time-nearly-in-half-it-still-cant-fix-your-audience-data-20260912/
-- summary: OpenAI released GPT-6 Astra on September 3, and the number marketers should actually care about isn’t a reasoning score — it’s a stopwatch. In OpenAI’s own computer-use simulation, Astra finishes a task in roughly 40 minutes against about 75 minutes for its p…
-
-### 4. Androidアプリ「【保護者専用】まなびポケット」におけるアクセス制限不備の脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-09-15T14:00:00+09:00`
-- url: https://jvn.jp/jp/JVN72918755/
-- summary: NTTドコモビジネス株式会社が提供するAndroidアプリ「【保護者専用】まなびポケット」には、アクセス制限不備の脆弱性が存在します。
 
 ### 5. Panniantong/Agent-Reach
 - source: GitHub Trending RSS All Languages Daily

@@ -22,6 +22,54 @@
     "id": "9daddf74d67be9bb0adb"
   },
   {
+    "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (libkcapi): Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3322",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-15T09:16:31+00:00",
+    "fetched_at": "2026-09-15T09:21:52+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Informationen offenzulegen, Daten zu manipulieren, Speicherbeschädigungen zu verursachen oder einen Denial-of-Service-Zustand auszulösen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "97a3b130e561ff36f6ff"
+  },
+  {
+    "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (libgit2): Schwachstelle ermöglicht Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3333",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-15T09:16:31+00:00",
+    "fetched_at": "2026-09-15T09:21:52+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Linux",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "440b12e726bb968fdf87"
+  },
+  {
     "title": "M 4.8 - 289 km WSW of Tual, Indonesia",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thjr",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -145,6 +193,52 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "6a1312ab69dc6f77e2f2"
+  },
+  {
+    "title": "[UPDATE] [mittel] memcached: Schwachstelle ermöglicht Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3336",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-15T09:16:31+00:00",
+    "fetched_at": "2026-09-15T09:21:52+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in memcached ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8a0f86b9a079564b8cbf"
+  },
+  {
+    "title": "[UPDATE] [hoch] IBM DB2: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3308",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-15T09:16:31+00:00",
+    "fetched_at": "2026-09-15T09:21:52+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM DB2 ausnutzen, um beliebigen Programmcode auszuführen, beliebige Dateien zu schreiben, Daten zu manipulieren, sensible Informationen offenzulegen oder Denial-of-Service-Zustände zu verursachen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "83c322a4d23d5f5ca02a"
   },
   {
     "title": "OpenAI hires former Elastic and Snowflake exec Sanjay Deshmukh to lead Asia Pacific sales",
@@ -544,6 +638,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "2957bd8b3280d0b5fbb0"
+  },
+  {
+    "title": "窓口BPRアドバイザー等へデジタル大臣から感謝状を贈呈しました",
+    "url": "https://www.digital.go.jp/news/fac78de2-8cee-457e-a1ba-97db8b0a738a",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-09-15T09:00:00+00:00",
+    "fetched_at": "2026-09-15T09:21:52+00:00",
+    "summary": "窓口BPRアドバイザー等へデジタル大臣から感謝状を贈呈しました",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "778aa56cb9cb688c0801"
   },
   {
     "title": "松本大臣記者会見（令和8年9月15日）動画を掲載しました",

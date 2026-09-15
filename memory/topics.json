@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-15T08:58:26+00:00",
+  "generated_at": "2026-09-15T09:22:26+00:00",
   "topics": {
     "ai": [
       {
@@ -112,6 +112,78 @@
         "url": "https://www.bis.org/speeches/20260914-shifting-economic-landscapes-strategic-responses-small-open-economies"
       }
     ],
+    "security": [
+      {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (libkcapi): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-15T09:16:31+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3322"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (libgit2): Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-15T09:16:31+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3333"
+      },
+      {
+        "title": "Androidアプリ「【保護者専用】まなびポケット」におけるアクセス制限不備の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-15T14:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN72918755/"
+      },
+      {
+        "title": "Lite-On製O-RU「FF-RFI079I4」および「FF-RFI078I4」における複数の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-15T12:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN02049764/"
+      },
+      {
+        "title": "パナソニック インダストリー製MINAS A5/A6用Windows USBデバイスドライバにおけるバッファオーバーフローの脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-15T10:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU99837984/"
+      },
+      {
+        "title": "[UPDATE] [mittel] memcached: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-15T09:16:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3336"
+      },
+      {
+        "title": "[UPDATE] [hoch] IBM DB2: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-15T09:16:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3308"
+      },
+      {
+        "title": "華擎科技｜ASRock Polychrome SYNC/RGB software utility - 存在2個漏洞",
+        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+        "published_at": "2026-09-14T10:31:00+00:00",
+        "relevance_score": 11,
+        "url": "https://www.twcert.org.tw/tw/cp-132-11205-f6677-1.html"
+      },
+      {
+        "title": "思考軟體科技｜電子柵欄 - SQL Injection",
+        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+        "published_at": "2026-09-14T10:16:00+00:00",
+        "relevance_score": 11,
+        "url": "https://www.twcert.org.tw/tw/cp-132-11202-48c1b-1.html"
+      },
+      {
+        "title": "Angreifer missbrauchen SQL-Schwachstelle in Ciscos Secure E-Mail-Gateway",
+        "source": "heise Security Alerts",
+        "published_at": "2026-09-15T08:30:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Angreifer-missbrauchen-SQL-Schwachstelle-in-Ciscos-Secure-E-Mail-Gateway-11453346.html"
+      }
+    ],
     "general": [
       {
         "title": "M 4.8 - 289 km WSW of Tual, Indonesia",
@@ -142,6 +214,13 @@
         "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02761/"
       },
       {
+        "title": "窓口BPRアドバイザー等へデジタル大臣から感謝状を贈呈しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-09-15T09:00:00+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/news/fac78de2-8cee-457e-a1ba-97db8b0a738a"
+      },
+      {
         "title": "松本大臣記者会見（令和8年9月15日）動画を掲載しました",
         "source": "Japan Digital Agency News RSS",
         "published_at": "2026-09-15T04:04:12+00:00",
@@ -161,64 +240,6 @@
         "published_at": "2026-09-15T00:15:10+00:00",
         "relevance_score": 5,
         "url": "https://blog.tinect.jp/?p=91489"
-      }
-    ],
-    "security": [
-      {
-        "title": "Androidアプリ「【保護者専用】まなびポケット」におけるアクセス制限不備の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-15T14:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN72918755/"
-      },
-      {
-        "title": "Lite-On製O-RU「FF-RFI079I4」および「FF-RFI078I4」における複数の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-15T12:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN02049764/"
-      },
-      {
-        "title": "パナソニック インダストリー製MINAS A5/A6用Windows USBデバイスドライバにおけるバッファオーバーフローの脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-15T10:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU99837984/"
-      },
-      {
-        "title": "華擎科技｜ASRock Polychrome SYNC/RGB software utility - 存在2個漏洞",
-        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-        "published_at": "2026-09-14T10:31:00+00:00",
-        "relevance_score": 11,
-        "url": "https://www.twcert.org.tw/tw/cp-132-11205-f6677-1.html"
-      },
-      {
-        "title": "思考軟體科技｜電子柵欄 - SQL Injection",
-        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-        "published_at": "2026-09-14T10:16:00+00:00",
-        "relevance_score": 11,
-        "url": "https://www.twcert.org.tw/tw/cp-132-11202-48c1b-1.html"
-      },
-      {
-        "title": "Angreifer missbrauchen SQL-Schwachstelle in Ciscos Secure E-Mail-Gateway",
-        "source": "heise Security Alerts",
-        "published_at": "2026-09-15T08:30:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Angreifer-missbrauchen-SQL-Schwachstelle-in-Ciscos-Secure-E-Mail-Gateway-11453346.html"
-      },
-      {
-        "title": "Der Homebrew-Paketmanager bringt nun einen Sicherheitslücken-Scanner mit",
-        "source": "heise Security Alerts",
-        "published_at": "2026-09-15T08:17:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Der-Homebrew-Paketmanager-bringt-nun-einen-Sicherheitsluecken-Scanner-mit-11453380.html"
-      },
-      {
-        "title": "Außer der Reihe: Microsoft fixt Probleme und Lücken nach Windows-Updates",
-        "source": "heise Security Alerts",
-        "published_at": "2026-09-15T07:06:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Ausser-der-Reihe-Microsoft-fixt-Probleme-und-Luecken-nach-Windows-Updates-11453167.html"
       }
     ],
     "github": [
