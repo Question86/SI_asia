@@ -1,10 +1,10 @@
 # Economic Outcomes
 
-Generated: `2026-09-15T12:19:26+00:00`
+Generated: `2026-09-15T12:42:22+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
-| Multiples vulnérabilités dans Postfix (09 septembre 2026) | $0 | — | 0 | 0 | active |
+| Multiples vulnérabilités dans Postfix (09 septembre 2026) | $0 | — | 0 | 0 | dormant |
 | ＡＩで数学の難問を解く行為は「科学や数学界に有害だ」…世界の数学者２５人が非難の緊急声明 | $0 | — | 0 | 0 | dormant |
 | 松本大臣記者会見（令和8年9月15日）動画を掲載しました | $0 | — | 0 | 0 | dormant |
 | .gitignore everything by default | $0 | — | 0 | 0 | dormant |
