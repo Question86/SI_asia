@@ -1,9 +1,10 @@
 # Economic Outcomes
 
-Generated: `2026-09-15T11:57:20+00:00`
+Generated: `2026-09-15T12:19:26+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
+| Multiples vulnérabilités dans Postfix (09 septembre 2026) | $0 | — | 0 | 0 | active |
 | ＡＩで数学の難問を解く行為は「科学や数学界に有害だ」…世界の数学者２５人が非難の緊急声明 | $0 | — | 0 | 0 | dormant |
 | 松本大臣記者会見（令和8年9月15日）動画を掲載しました | $0 | — | 0 | 0 | dormant |
 | .gitignore everything by default | $0 | — | 0 | 0 | dormant |
@@ -28,4 +29,3 @@ Generated: `2026-09-15T11:57:20+00:00`
 | The ecosystem map: How to stay agile in the US-China AI battle | $0 | — | 0 | 0 | dormant |
 | Zabbix agentにおけるDLL読み込みに関する脆弱性 | $0 | — | 0 | 0 | dormant |
 | GitHub availability report: August 2026 | $0 | — | 0 | 0 | dormant |
-| [MàJ] Vulnérabilité dans Fortinet FortiOS (09 février 2024) | $0 | — | 0 | 0 | dormant |
