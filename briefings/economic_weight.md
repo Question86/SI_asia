@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-09-15T05:24:48+00:00`
+Generated: `2026-09-15T05:35:43+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -21,6 +21,7 @@ Generated: `2026-09-15T05:24:48+00:00`
 | [MàJ] Vulnérabilité dans Fortinet FortiOS (09 février 2024) | vulnerability, exploit, regulation | $12.00M | $1.20B | $120.00B | 0.31 |
 | Gitlawb/openclaude | regulation | $12.00M | $1.20B | $120.00B | 0.31 |
 | bilawalsidhu/gods-eye-view | regulation, natural_disaster | $11.92M | $1.19B | $119.20B | 0.31 |
+| The CLARITY Act vote could send crypto to US$2.73T or crash it to US$2.6T | regulation | $11.92M | $1.19B | $119.20B | 0.31 |
 | Who’s building AI for the way Southeast Asia actually speaks? | regulation | $11.84M | $1.18B | $118.40B | 0.31 |
 | When a slot opens, let the AI agent act – within limits | regulation | $11.76M | $1.18B | $117.60B | 0.31 |
 | コンテック製SolarView Compactにおける複数の脆弱性 | vulnerability, regulation | $11.52M | $1.15B | $115.20B | 0.31 |
@@ -30,7 +31,6 @@ Generated: `2026-09-15T05:24:48+00:00`
 | The SMS looks real and that’s exactly why you should be careful | regulation | $11.28M | $1.13B | $112.80B | 0.31 |
 | The AI marketing backlash story doesn’t actually fit Southeast Asia | regulation | $11.20M | $1.12B | $112.00B | 0.31 |
 | The decision discipline: How to turn insights into action | regulation | $11.20M | $1.12B | $112.00B | 0.31 |
-| M 5.1 - Owen Fracture Zone region | regulation, natural_disaster | $11.12M | $1.11B | $111.20B | 0.33 |
 
 ## Interpretation
 
