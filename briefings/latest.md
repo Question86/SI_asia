@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-15T19:43:43+00:00_
+_Generiert: 2026-09-15T19:51:55+00:00_
 
 ## Kurzlage
 
-80 neue relevante Treffer. Stärkstes Signal: „Version 1.0: Cisco Secure Email Gateway - Aktive Ausnutzung einer Zero-Day-Schwachstelle“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 30, risk).
+81 neue relevante Treffer. Stärkstes Signal: „Version 1.0: Cisco Secure Email Gateway - Aktive Ausnutzung einer Zero-Day-Schwachstelle“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 30, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -207,6 +207,15 @@ _Generiert: 2026-09-15T19:43:43+00:00_
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); watchgraph modules cyber_active_exploitation (+3.0)
   - Kurz: De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un contournement de la politique de sécurité.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Enforce GitHub Advanced Security configurations** — Score 11, observation — [Quelle](https://github.blog/changelog/2026-09-15-enforce-github-advanced-security-configurations)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-09-15T19:31:58+00:00`, fetched `2026-09-15T19:51:26+00:00`
+  - Treffer: GitHub, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+7.5); GitHub (+2.5); recent (+1.0)
+  - Kurz: Enterprise administrators can now enforce GitHub Advanced Security configurations across their organizations. This prevents both organization and repository administrators from overriding settings defined at the enterprise level, helping security and… The post Enforce GitHub Advanced Security configurations appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **What Southeast Asia’s edutech startups can learn from AI’s limits in education** — Score 11, observation — [Quelle](https://e27.co/what-southeast-asias-edutech-startups-can-learn-from-ais-limits-in-education-20260912/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-15T01:30:20+00:00`, fetched `2026-09-15T01:34:24+00:00`
@@ -296,15 +305,6 @@ _Generiert: 2026-09-15T19:43:43+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0)
   - Kurz: Amilo has completed its fourth acquisition in four years, folding Vietnam-based cross-border specialist SG Link into its network as it chases a bigger prize: becoming the operating layer for Southeast Asian merchants selling overseas. SG Link, now rebranded ShipX, connects sellers to more than 220 destinations and pools shipment volumes so smaller exporters can access freight rates […] The post Ecosystem Roundup: Am…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Multiples vulnérabilités dans les produits Adobe (09 septembre 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1140/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-09-09T00:00:00+00:00`, fetched `2026-09-15T12:18:07+00:00`
-  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
-  - Kurz: De multiples vulnérabilités ont été découvertes dans les produits Adobe. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
