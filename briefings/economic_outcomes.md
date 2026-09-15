@@ -1,10 +1,11 @@
 # Economic Outcomes
 
-Generated: `2026-09-15T03:56:52+00:00`
+Generated: `2026-09-15T04:14:04+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
 | ＡＩで数学の難問を解く行為は「科学や数学界に有害だ」…世界の数学者２５人が非難の緊急声明 | $0 | — | 0 | 0 | dormant |
+| 松本大臣記者会見（令和8年9月15日）動画を掲載しました | $0 | — | 0 | 0 | active |
 | .gitignore everything by default | $0 | — | 0 | 0 | dormant |
 | Skullcandy製ワイヤレスイヤホン「Dime 3」における不適切な認証の脆弱性 | $0 | — | 0 | 0 | dormant |
 | Southeast Asia’s chip-hub ambition is colliding with its chip-smuggling problem | $0 | — | 0 | 0 | dormant |
@@ -28,4 +29,3 @@ Generated: `2026-09-15T03:56:52+00:00`
 | Zabbix agentにおけるDLL読み込みに関する脆弱性 | $0 | — | 0 | 0 | dormant |
 | GitHub availability report: August 2026 | $0 | — | 0 | 0 | dormant |
 | [MàJ] Vulnérabilité dans Fortinet FortiOS (09 février 2024) | $0 | — | 0 | 0 | dormant |
-| マーティン・ファウラー氏来日登壇！アーキテクチャConference 2026｜11月26・27日開催 | $0 | — | 0 | 0 | dormant |
