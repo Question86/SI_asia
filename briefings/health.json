@@ -1,18 +1,31 @@
 {
-  "generated_at": "2026-09-15T11:41:19+00:00",
-  "status": "normal",
+  "generated_at": "2026-09-15T11:49:04+00:00",
+  "status": "warning",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
-  "coverage_confidence": "normal",
+  "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 55,
     "displayed_findings": 55,
     "high": 0,
     "medium": 28,
     "observe": 27,
-    "source_errors": 0
+    "source_errors": 2
   },
-  "source_errors": [],
+  "source_errors": [
+    {
+      "source_id": "e27_asia_startups_feed",
+      "source_name": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+    },
+    {
+      "source_id": "restofworld_feed",
+      "source_name": "Rest of World Global Tech Feed",
+      "source_type": "rss",
+      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+    }
+  ],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"
 }
