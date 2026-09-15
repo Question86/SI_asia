@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-15T01:54:55+00:00",
+  "generated_at": "2026-09-15T02:07:44+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -3799,7 +3799,7 @@
     },
     "domain:www.nikkei.com": {
       "title": "トランプ氏、AI懸念を陰謀と一蹴 「高IQの大統領いれば統制は十分」 - 日本経済新聞",
-      "updated_at": "2026-09-15T01:54:55+00:00",
+      "updated_at": "2026-09-15T02:07:44+00:00",
       "network_scores": [
         12.1,
         12.1,
@@ -3826,9 +3826,9 @@
         12.1,
         12.1,
         12.1,
+        15.1,
+        15.1,
         12.1,
-        15.1,
-        15.1,
         12.1,
         12.1
       ],
@@ -4487,7 +4487,7 @@
     },
     "domain:www.twcert.org": {
       "title": "華擎科技｜ASRock Polychrome SYNC/RGB software utility - 存在2個漏洞",
-      "updated_at": "2026-09-15T01:54:55+00:00",
+      "updated_at": "2026-09-15T02:07:44+00:00",
       "network_scores": [
         15.2,
         15.2,
@@ -4517,13 +4517,13 @@
         15.2,
         15.2,
         15.2,
-        15.2,
-        21.2
+        21.2,
+        15.2
       ],
       "rolling_average": 15.4,
       "rolling_peak": 21.2,
-      "last_score": 21.2,
-      "z_hint": 5.8
+      "last_score": 15.2,
+      "z_hint": -0.2
     },
     "cve:CVE-2025-55182": {
       "title": "Multiple Threat Actors Rapidly Exploit React2Shell: A Case Study of Active Compromise",
@@ -32422,68 +32422,84 @@
     },
     "title:apple-ios-ipados-siri-126": {
       "title": "Apple、「iOS 27」「iPadOS 27」の一般提供を開始 ～「Siri AI」の日本語対応は年内／126件の脆弱性修正も",
-      "updated_at": "2026-09-15T01:54:55+00:00",
+      "updated_at": "2026-09-15T02:07:44+00:00",
       "network_scores": [
         14.1,
         11.1,
         11.1,
+        11.1,
         11.1
       ],
-      "rolling_average": 11.85,
+      "rolling_average": 11.7,
       "rolling_peak": 14.1,
       "last_score": 11.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "title:minas-windows-usb": {
       "title": "パナソニック インダストリー製MINAS A5/A6用Windows USBデバイスドライバにおけるバッファオーバーフローの脆弱性",
-      "updated_at": "2026-09-15T01:54:55+00:00",
+      "updated_at": "2026-09-15T02:07:44+00:00",
       "network_scores": [
         19.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 17.1,
+      "rolling_average": 16.85,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -1.0
+      "z_hint": -0.75
     },
     "title:use-win-hint-has-nothing-being-more-productive": {
       "title": "How to use AI to win (Hint: It has nothing to do with being more productive)",
-      "updated_at": "2026-09-15T01:54:55+00:00",
+      "updated_at": "2026-09-15T02:07:44+00:00",
       "network_scores": [
         19.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 17.1,
+      "rolling_average": 16.85,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -1.0
+      "z_hint": -0.75
     },
     "domain:xtech.nikkei.com": {
       "title": "溶接不良3万カ所弱の淀川橋梁、架け替え完了3年遅れ 部材作り直し再架設",
-      "updated_at": "2026-09-15T01:54:55+00:00",
+      "updated_at": "2026-09-15T02:07:44+00:00",
       "network_scores": [
         12.1,
         9.1,
+        9.1,
         9.1
       ],
-      "rolling_average": 10.1,
+      "rolling_average": 9.85,
       "rolling_peak": 12.1,
       "last_score": 9.1,
-      "z_hint": -1.0
+      "z_hint": -0.75
     },
     "title:what-southeast-asia-edutech-startups-can-learn-limits": {
       "title": "What Southeast Asia’s edutech startups can learn from AI’s limits in education",
-      "updated_at": "2026-09-15T01:54:55+00:00",
+      "updated_at": "2026-09-15T02:07:44+00:00",
       "network_scores": [
         16.1,
+        13.1,
         13.1
       ],
-      "rolling_average": 14.6,
+      "rolling_average": 14.1,
       "rolling_peak": 16.1,
       "last_score": 13.1,
-      "z_hint": -1.5
+      "z_hint": -1.0
+    },
+    "title:saaspocalypse-will-selective": {
+      "title": "The SaaSpocalypse will be selective",
+      "updated_at": "2026-09-15T02:07:44+00:00",
+      "network_scores": [
+        12.1
+      ],
+      "rolling_average": 12.1,
+      "rolling_peak": 12.1,
+      "last_score": 12.1,
+      "z_hint": 0.0
     }
   }
 }
