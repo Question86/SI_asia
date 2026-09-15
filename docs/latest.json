@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T03:18:37+00:00",
-  "run_id": "2026-09-15T03:18:37+00:00",
+  "generated_at": "2026-09-15T03:36:19+00:00",
+  "run_id": "2026-09-15T03:36:19+00:00",
   "date": "2026-09-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 14,
     "displayed_findings": 14,
     "high": 0,
@@ -639,50 +639,7 @@
       "id": "3968f27241a5712bac63"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Lite-On製O-RU「FF-RFI079I4」および「FF-RFI078I4」における複数の脆弱性",
-      "url": "https://jvn.jp/jp/JVN02049764/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-09-15T12:00:00+09:00",
-      "fetched_at": "2026-09-15T03:18:07+00:00",
-      "summary": "LITE-ON Technology Corporationが提供するO-RU「FF-RFI079I4」および「FF-RFI078I4」には、複数の脆弱性が存在します。",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2796644a4511143affc4"
-    },
-    {
-      "title": "The geopolitics of scarcity: Why middle powers must learn to prioritise",
-      "url": "https://e27.co/the-geopolitics-of-scarcity-why-middle-powers-must-learn-to-prioritise-20260912/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-15T03:00:14+00:00",
-      "fetched_at": "2026-09-15T03:18:07+00:00",
-      "summary": "When Keir Starmer recently argued that Britain must rebuild its hard power, much of the discussion focused on defence spending. That is understandable. After years of underinvestment, Britain faces difficult choices about military capability at a time of growing geopolitical instability. But money is only part of the challenge. Britain’s more fundamental foreign policy problem […] The post The geopolitics of scarcit…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3968f27241a5712bac63"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
