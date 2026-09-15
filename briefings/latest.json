@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T19:26:41+00:00",
-  "run_id": "2026-09-15T19:26:41+00:00",
+  "generated_at": "2026-09-15T19:36:09+00:00",
+  "run_id": "2026-09-15T19:36:09+00:00",
   "date": "2026-09-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 80,
     "displayed_findings": 80,
     "high": 1,
@@ -3710,29 +3710,7 @@
       "id": "d37d0b80b1c8dd36c862"
     }
   ],
-  "new_findings": [
-    {
-      "title": "GitHub Copilot suggests custom properties definitions",
-      "url": "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-09-15T19:07:47+00:00",
-      "fetched_at": "2026-09-15T19:26:08+00:00",
-      "summary": "GitHub Copilot can now suggest allowed values when you create a custom property for repositories in your organization. This feature is in public preview for GitHub Copilot Business and Copilot… The post GitHub Copilot suggests custom properties definitions appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "Copilot",
-        "GitHub"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9e90bebb931dcc444565"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

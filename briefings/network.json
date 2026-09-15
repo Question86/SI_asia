@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T19:26:44+00:00",
+  "generated_at": "2026-09-15T19:36:12+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 80,
@@ -68,20 +68,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 24.73,
+      "network_score": 24.66,
       "hot": false,
       "watchgraph_modules": [
         "ai_agents_workflow"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 25.1,
-      "ranking_score": 24.73,
+      "ranking_score": 24.66,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.23,
+      "baseline_bonus": 0.16,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -540,20 +540,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 13.88,
+      "network_score": 13.5,
       "hot": false,
       "watchgraph_modules": [
         "capitals_power_centers"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 40.3,
-      "ranking_score": 13.88,
+      "ranking_score": 13.5,
       "initial_reach_tier": "institutional",
       "source_reach_score": 5.0,
       "authority_bonus_capped": 3.0,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.88,
+      "baseline_bonus": 0.5,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -832,44 +832,6 @@
       "first_seen_at": "2026-09-15T00:15:13+00:00"
     },
     {
-      "key": "title:github-copilot-suggests-custom-properties-definitions",
-      "title": "GitHub Copilot suggests custom properties definitions",
-      "sources": [
-        "GitHub Changelog Atom"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions"
-      ],
-      "finding_count": 1,
-      "max_score": 6,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 10.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 11.1,
-      "ranking_score": 10.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-09-15T19:26:44+00:00"
-    },
-    {
       "key": "domain:gigazine.net",
       "title": "ローカルでAIを動かして元を取るまで何年かかるかがわかる「Sunk Cost」、例えばメモリ64GBのMac Studioではどれだけの時間が必要なのか？",
       "sources": [
@@ -887,18 +849,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 9.86,
+      "network_score": 9.82,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 10.1,
-      "ranking_score": 9.86,
+      "ranking_score": 9.82,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.36,
+      "baseline_bonus": 0.32,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1291,6 +1253,44 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-09-15T05:46:12+00:00"
+    },
+    {
+      "key": "title:github-copilot-suggests-custom-properties-definitions",
+      "title": "GitHub Copilot suggests custom properties definitions",
+      "sources": [
+        "GitHub Changelog Atom"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.blog/changelog/2026-09-15-github-copilot-suggests-custom-properties-definitions"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 7.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 8.1,
+      "ranking_score": 7.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-15T19:26:44+00:00"
     },
     {
       "key": "title:bpr",
@@ -1789,7 +1789,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-15T19:26:44Z",
+    "generated_at": "2026-09-15T19:36:13Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
