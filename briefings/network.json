@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T14:34:27+00:00",
+  "generated_at": "2026-09-15T14:45:12+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 74,
@@ -7,7 +7,7 @@
     "cross_source_confrmed": 0,
     "hot": 1,
     "early_signals": 0,
-    "dominance_penalized": 2
+    "dominance_penalized": 3
   },
   "clusters": [
     {
@@ -68,20 +68,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 26.33,
+      "network_score": 26.26,
       "hot": false,
       "watchgraph_modules": [
         "ai_agents_workflow"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 25.1,
-      "ranking_score": 26.33,
+      "ranking_score": 26.26,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 1.83,
+      "baseline_bonus": 1.76,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -89,52 +89,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-06-19T01:58:32+00:00"
-    },
-    {
-      "key": "domain:www.bis.org",
-      "title": "Japan's economy and monetary policy",
-      "sources": [
-        "BIS Central Bankers Speeches"
-      ],
-      "source_classes": [
-        "central_bank",
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.bis.org/speeches/20260915-japans-economy-and-monetary-policy",
-        "https://www.bis.org/speeches/20260915-securing-ugandas-digital-future-collaboration-resilience-and-trust",
-        "https://www.bis.org/speeches/20260915-opening-statement-joint-oireachtas-committee-finance-public-service-reform-and-digitalisation-and-taoiseach",
-        "https://www.bis.org/speeches/20260915-vision-delivery-building-europes-tokenised-financial-market",
-        "https://www.bis.org/speeches/20260915-central-banks-on-chain",
-        "https://www.bis.org/speeches/20260915-opening-remarks-13th-irving-fisher-committee-conference"
-      ],
-      "finding_count": 13,
-      "max_score": 13,
-      "credibility_total": 13.65,
-      "cross_source_confirmed": false,
-      "momentum_delta": 2,
-      "momentum_status": "increasing",
-      "network_score": 26.0,
-      "hot": false,
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 46.3,
-      "ranking_score": 26.0,
-      "initial_reach_tier": "institutional",
-      "source_reach_score": 5.0,
-      "authority_bonus_capped": 3.0,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 5.0,
-      "baseline_bonus": 5.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
       "key": "title:clarity-act-vote-could-send-crypto-73t-crash",
@@ -197,18 +151,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 20.1,
+      "network_score": 20.15,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 58.0,
-      "ranking_score": 20.1,
+      "ranking_score": 20.15,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 2.6,
+      "baseline_bonus": 2.65,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -216,6 +170,52 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-08-28T14:08:37+00:00"
+    },
+    {
+      "key": "domain:www.bis.org",
+      "title": "Japan's economy and monetary policy",
+      "sources": [
+        "BIS Central Bankers Speeches"
+      ],
+      "source_classes": [
+        "central_bank",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.bis.org/speeches/20260915-japans-economy-and-monetary-policy",
+        "https://www.bis.org/speeches/20260915-securing-ugandas-digital-future-collaboration-resilience-and-trust",
+        "https://www.bis.org/speeches/20260915-opening-statement-joint-oireachtas-committee-finance-public-service-reform-and-digitalisation-and-taoiseach",
+        "https://www.bis.org/speeches/20260915-vision-delivery-building-europes-tokenised-financial-market",
+        "https://www.bis.org/speeches/20260915-central-banks-on-chain",
+        "https://www.bis.org/speeches/20260915-opening-remarks-13th-irving-fisher-committee-conference"
+      ],
+      "finding_count": 13,
+      "max_score": 13,
+      "credibility_total": 13.65,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 18.0,
+      "hot": false,
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 40.3,
+      "ranking_score": 18.0,
+      "initial_reach_tier": "institutional",
+      "source_reach_score": 5.0,
+      "authority_bonus_capped": 3.0,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 5.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
       "key": "title:gpt-astra-cuts-task-time-nearly-half-still",
@@ -620,18 +620,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 12.99,
+      "network_score": 12.93,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 12.1,
-      "ranking_score": 12.99,
+      "ranking_score": 12.93,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 1.49,
+      "baseline_bonus": 1.43,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1003,18 +1003,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 8.62,
+      "network_score": 8.56,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 13.3,
-      "ranking_score": 8.62,
+      "ranking_score": 8.56,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.12,
+      "baseline_bonus": 0.06,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1561,7 +1561,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-15T14:34:28Z",
+    "generated_at": "2026-09-15T14:45:13Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

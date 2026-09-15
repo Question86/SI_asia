@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T14:34:24+00:00",
-  "run_id": "2026-09-15T14:34:24+00:00",
+  "generated_at": "2026-09-15T14:45:10+00:00",
+  "run_id": "2026-09-15T14:45:10+00:00",
   "date": "2026-09-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 74,
     "displayed_findings": 74,
     "high": 1,
@@ -3456,48 +3456,7 @@
       "id": "d37d0b80b1c8dd36c862"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Central banks on-chain",
-      "url": "https://www.bis.org/speeches/20260915-central-banks-on-chain",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-09-15T00:00:00+00:00",
-      "fetched_at": "2026-09-15T14:33:54+00:00",
-      "summary": "Speech by Ms Isabel Schnabel, Member of the Executive Board of the European Central Bank, at \"Financial innovation: implications for payments and policy”, an economic symposium sponsored by the Federal Reserve Bank of Kansas City, Jackson Hole, Wyoming, 28 August 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3c0be9fc56aa936f6098"
-    },
-    {
-      "title": "Opening remarks - 13th Irving Fisher Committee Conference",
-      "url": "https://www.bis.org/speeches/20260915-opening-remarks-13th-irving-fisher-committee-conference",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-09-15T00:00:00+00:00",
-      "fetched_at": "2026-09-15T14:33:54+00:00",
-      "summary": "Speech (virtually) by Ms Michele Bullock, Governor of the Reserve Bank of Australia, at the 13th Biennial Irving Fisher Committee on Central Bank Statistics (IFC) Conference, 20 August 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region australia: Australia, Reserve Bank of Australia (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7c4f2ff82bb6660107fe"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
