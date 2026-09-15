@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T14:03:31+00:00",
-  "today_file_total": 68,
+  "generated_at": "2026-09-15T14:24:03+00:00",
+  "today_file_total": 72,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -42,20 +42,22 @@
       "urls": [
         "https://www.bis.org/speeches/20260915-japans-economy-and-monetary-policy",
         "https://www.bis.org/speeches/20260915-securing-ugandas-digital-future-collaboration-resilience-and-trust",
+        "https://www.bis.org/speeches/20260915-opening-statement-joint-oireachtas-committee-finance-public-service-reform-and-digitalisation-and-taoiseach",
         "https://www.bis.org/speeches/20260915-vision-delivery-building-europes-tokenised-financial-market",
         "https://www.bis.org/speeches/20260915-our-time",
-        "https://www.bis.org/speeches/20260914-special-address-31st-cgc-awards",
-        "https://www.bis.org/speeches/20260915-schweigaard-lecture-ten-questions-and-answers-about-monetary-policy"
+        "https://www.bis.org/speeches/20260914-special-address-31st-cgc-awards"
       ],
-      "finding_count": 8,
+      "finding_count": 11,
       "max_score": 13,
-      "credibility_total": 8.4,
+      "credibility_total": 11.55,
       "cross_source_confirmed": false,
-      "momentum_delta": 6,
+      "momentum_delta": 3,
       "momentum_status": "increasing",
-      "network_score": 47.8,
+      "network_score": 45.1,
       "hot": true,
-      "watchgraph_modules": [],
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
     },
     {
@@ -80,6 +82,31 @@
       "hot": true,
       "watchgraph_modules": [
         "cyber_active_exploitation"
+      ],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "domain:speakerdeck.com",
+      "title": "AIエージェントの自己改善をどう設計するか / How to Design Self-Improvement for AI Agents",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://speakerdeck.com/22mi/how-to-design-self-improvement-for-ai-agents"
+      ],
+      "finding_count": 1,
+      "max_score": 23,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 28.1,
+      "hot": true,
+      "watchgraph_modules": [
+        "ai_agents_workflow"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
     },
@@ -457,31 +484,6 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "earthquake:m 4.8 - 229 km e of tadine, new caledonia:4.8",
-      "title": "M 4.8 - 229 km E of Tadine, New Caledonia",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thjj"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 11.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     }
   ]
 }

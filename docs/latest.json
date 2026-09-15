@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T14:03:28+00:00",
-  "run_id": "2026-09-15T14:03:28+00:00",
+  "generated_at": "2026-09-15T14:24:01+00:00",
+  "run_id": "2026-09-15T14:24:01+00:00",
   "date": "2026-09-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 68
+      "configured_public_sources_only": 72
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 6,
-    "today_file_total": 68,
-    "displayed_findings": 68,
+    "new_relevant_findings": 4,
+    "today_file_total": 72,
+    "displayed_findings": 72,
     "high": 1,
-    "medium": 29,
-    "observe": 38,
+    "medium": 30,
+    "observe": 41,
     "source_errors": 0
   },
   "sections": {
@@ -66,6 +66,55 @@
       }
     ],
     "medium": [
+      {
+        "title": "AIエージェントの自己改善をどう設計するか / How to Design Self-Improvement for AI Agents",
+        "url": "https://speakerdeck.com/22mi/how-to-design-self-improvement-for-ai-agents",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-15T09:49:31+00:00",
+        "fetched_at": "2026-09-15T14:23:31+00:00",
+        "summary": "AIエージェントに改善を繰り返させても、プロンプトの加筆や出力の整形に留まり、最初の設計を見直せずに停滞することがあります。 本資料では、業務AIワークフローの構築・改善で経験した課題と関連研究をもとに、自己改善を支えるハーネスの設計を解説します。深層学習の訓練ループとの対応を手がかりに、Traini…",
+        "matched_keywords": [
+          "agent",
+          "AI Agents",
+          "AI/KI",
+          "Content-Chance",
+          "Hatena",
+          "hotentry",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 23,
+        "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); Content-Chance (+6.2); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: AI agents"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "b88f9b62218f3abb766c"
+      },
       {
         "title": "The CLARITY Act vote could send crypto to US$2.73T or crash it to US$2.6T",
         "url": "https://e27.co/the-clarity-act-vote-could-send-crypto-to-us2-73t-or-crash-it-to-us2-6t-20260915/",
@@ -991,6 +1040,48 @@
         "id": "79c4dab1c83b3cfb6651"
       },
       {
+        "title": "Opening statement - Joint Oireachtas Committee on Finance, Public Service Reform and Digitalisation, and Taoiseach",
+        "url": "https://www.bis.org/speeches/20260915-opening-statement-joint-oireachtas-committee-finance-public-service-reform-and-digitalisation-and-taoiseach",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-09-15T00:00:00+00:00",
+        "fetched_at": "2026-09-15T14:23:31+00:00",
+        "summary": "Opening statement by Mr Gabriel Makhlouf, Governor of the Central Bank of Ireland, at the Joint Oireachtas (National Parliament) Committee on Finance, Public Expenditure, Public Service Reform and Digitalisation, and Taoiseach (Head of Parliament), Dublin, 15 July 2026.",
+        "matched_keywords": [
+          "Macro/Policy",
+          "Watchgraph:capitals_power_centers"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "capitals_power_centers"
+        ],
+        "watchgraph_reasons": [
+          "capitals_power_centers: parliament"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ"
+        ],
+        "id": "9a6a0962115a66d83195"
+      },
+      {
         "title": "From vision to delivery - building Europe’s tokenised financial market",
         "url": "https://www.bis.org/speeches/20260915-vision-delivery-building-europes-tokenised-financial-market",
         "source": "BIS Central Bankers Speeches",
@@ -1366,6 +1457,46 @@
         "id": "5cb998796d511ef822d8"
       },
       {
+        "title": "Launch of the FinScope Eswatini 2026 Consumer Survey",
+        "url": "https://www.bis.org/speeches/20260915-launch-finscope-eswatini-2026-consumer-survey",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-09-15T00:00:00+00:00",
+        "fetched_at": "2026-09-15T14:23:31+00:00",
+        "summary": "Welcome remarks by Ms Felicia Dlamini-Kunene, Deputy Governor of the Central Bank of Eswatini, at the launch of the FinScope Eswatini 2026 Consumer Survey, Ezulwini, 24 July 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d8c18f68803c2e0d3715"
+      },
+      {
+        "title": "From fragility to resilience - the emerging market journey",
+        "url": "https://www.bis.org/speeches/20260915-fragility-resilience-emerging-market-journey",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-09-15T00:00:00+00:00",
+        "fetched_at": "2026-09-15T14:23:31+00:00",
+        "summary": "Address by Mr Lesetja Kganyago, Governor of the South African Reserve Bank, at the Principal and Vice-Chancellor Public Lecture and Leadership Engagement, University of South Africa, Pretoria 4 August 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c0950639c21b1403e7ca"
+      },
+      {
         "title": "Shifting economic landscapes - strategic responses of small open economies",
         "url": "https://www.bis.org/speeches/20260914-shifting-economic-landscapes-strategic-responses-small-open-economies",
         "source": "BIS Central Bankers Speeches",
@@ -1609,6 +1740,55 @@
         "S"
       ],
       "id": "f80a0286cc37919b9380"
+    },
+    {
+      "title": "AIエージェントの自己改善をどう設計するか / How to Design Self-Improvement for AI Agents",
+      "url": "https://speakerdeck.com/22mi/how-to-design-self-improvement-for-ai-agents",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-15T09:49:31+00:00",
+      "fetched_at": "2026-09-15T14:23:31+00:00",
+      "summary": "AIエージェントに改善を繰り返させても、プロンプトの加筆や出力の整形に留まり、最初の設計を見直せずに停滞することがあります。 本資料では、業務AIワークフローの構築・改善で経験した課題と関連研究をもとに、自己改善を支えるハーネスの設計を解説します。深層学習の訓練ループとの対応を手がかりに、Traini…",
+      "matched_keywords": [
+        "agent",
+        "AI Agents",
+        "AI/KI",
+        "Content-Chance",
+        "Hatena",
+        "hotentry",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 23,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); Content-Chance (+6.2); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: AI agents"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "b88f9b62218f3abb766c"
     },
     {
       "title": "The CLARITY Act vote could send crypto to US$2.73T or crash it to US$2.6T",
@@ -2533,6 +2713,48 @@
       "id": "79c4dab1c83b3cfb6651"
     },
     {
+      "title": "Opening statement - Joint Oireachtas Committee on Finance, Public Service Reform and Digitalisation, and Taoiseach",
+      "url": "https://www.bis.org/speeches/20260915-opening-statement-joint-oireachtas-committee-finance-public-service-reform-and-digitalisation-and-taoiseach",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-15T00:00:00+00:00",
+      "fetched_at": "2026-09-15T14:23:31+00:00",
+      "summary": "Opening statement by Mr Gabriel Makhlouf, Governor of the Central Bank of Ireland, at the Joint Oireachtas (National Parliament) Committee on Finance, Public Expenditure, Public Service Reform and Digitalisation, and Taoiseach (Head of Parliament), Dublin, 15 July 2026.",
+      "matched_keywords": [
+        "Macro/Policy",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: parliament"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "9a6a0962115a66d83195"
+    },
+    {
       "title": "From vision to delivery - building Europe’s tokenised financial market",
       "url": "https://www.bis.org/speeches/20260915-vision-delivery-building-europes-tokenised-financial-market",
       "source": "BIS Central Bankers Speeches",
@@ -2908,6 +3130,46 @@
       "id": "5cb998796d511ef822d8"
     },
     {
+      "title": "Launch of the FinScope Eswatini 2026 Consumer Survey",
+      "url": "https://www.bis.org/speeches/20260915-launch-finscope-eswatini-2026-consumer-survey",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-15T00:00:00+00:00",
+      "fetched_at": "2026-09-15T14:23:31+00:00",
+      "summary": "Welcome remarks by Ms Felicia Dlamini-Kunene, Deputy Governor of the Central Bank of Eswatini, at the launch of the FinScope Eswatini 2026 Consumer Survey, Ezulwini, 24 July 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d8c18f68803c2e0d3715"
+    },
+    {
+      "title": "From fragility to resilience - the emerging market journey",
+      "url": "https://www.bis.org/speeches/20260915-fragility-resilience-emerging-market-journey",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-15T00:00:00+00:00",
+      "fetched_at": "2026-09-15T14:23:31+00:00",
+      "summary": "Address by Mr Lesetja Kganyago, Governor of the South African Reserve Bank, at the Principal and Vice-Chancellor Public Lecture and Leadership Engagement, University of South Africa, Pretoria 4 August 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c0950639c21b1403e7ca"
+    },
+    {
       "title": "Shifting economic landscapes - strategic responses of small open economies",
       "url": "https://www.bis.org/speeches/20260914-shifting-economic-landscapes-strategic-responses-small-open-economies",
       "source": "BIS Central Bankers Speeches",
@@ -3116,116 +3378,104 @@
   ],
   "new_findings": [
     {
-      "title": "Japan's economy and monetary policy",
-      "url": "https://www.bis.org/speeches/20260915-japans-economy-and-monetary-policy",
-      "source": "BIS Central Bankers Speeches",
+      "title": "AIエージェントの自己改善をどう設計するか / How to Design Self-Improvement for AI Agents",
+      "url": "https://speakerdeck.com/22mi/how-to-design-self-improvement-for-ai-agents",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-15T00:00:00+00:00",
-      "fetched_at": "2026-09-15T14:02:57+00:00",
-      "summary": "Speech by Mr Ryozo Himino, Deputy Governor of the Bank of Japan, at a meeting with local leaders, Saitama, 27 August 2026.",
+      "published_at": "2026-09-15T09:49:31+00:00",
+      "fetched_at": "2026-09-15T14:23:31+00:00",
+      "summary": "AIエージェントに改善を繰り返させても、プロンプトの加筆や出力の整形に留まり、最初の設計を見直せずに停滞することがあります。 本資料では、業務AIワークフローの構築・改善で経験した課題と関連研究をもとに、自己改善を支えるハーネスの設計を解説します。深層学習の訓練ループとの対応を手がかりに、Traini…",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Macro/Policy"
+        "agent",
+        "AI Agents",
+        "AI/KI",
+        "Content-Chance",
+        "Hatena",
+        "hotentry",
+        "Watchgraph:ai_agents_workflow"
       ],
-      "relevance_score": 13,
-      "relevance_reason": "Macro/Policy (+6.2); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan, Bank of Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "aba7695a07ba8774aee9"
-    },
-    {
-      "title": "Securing Uganda's digital future - collaboration, resilience and trust",
-      "url": "https://www.bis.org/speeches/20260915-securing-ugandas-digital-future-collaboration-resilience-and-trust",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-09-15T00:00:00+00:00",
-      "fetched_at": "2026-09-15T14:02:57+00:00",
-      "summary": "Keynote address by Mr Michael Atingi-Ego, Governor of the Bank of Uganda, at the Inaugural National Cybersecurity Conference “Trust by design - building a cyber-resilient digital economy for Uganda”, Kampala, 11 August 2026.",
-      "matched_keywords": [
-        "Macro/Policy",
-        "Security"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "Security (+6.0); Macro/Policy (+5.0); recent (+1.0)",
+      "relevance_score": 23,
+      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); Content-Chance (+6.2); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
       "risk_or_opportunity": "opportunity",
       "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "001181ae649cf9096273"
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: AI agents"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "b88f9b62218f3abb766c"
     },
     {
-      "title": "From vision to delivery - building Europe’s tokenised financial market",
-      "url": "https://www.bis.org/speeches/20260915-vision-delivery-building-europes-tokenised-financial-market",
+      "title": "Opening statement - Joint Oireachtas Committee on Finance, Public Service Reform and Digitalisation, and Taoiseach",
+      "url": "https://www.bis.org/speeches/20260915-opening-statement-joint-oireachtas-committee-finance-public-service-reform-and-digitalisation-and-taoiseach",
       "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
       "published_at": "2026-09-15T00:00:00+00:00",
-      "fetched_at": "2026-09-15T14:02:57+00:00",
-      "summary": "Speech by Mr Piero Cipollone, Member of the Executive Board of the European Central Bank, at the Deutsche Bundesbank’s Symposium on “Future of payments: trends and innovations in Germany and Europe”, Frankfurt am Main, 26 August 2026.",
+      "fetched_at": "2026-09-15T14:23:31+00:00",
+      "summary": "Opening statement by Mr Gabriel Makhlouf, Governor of the Central Bank of Ireland, at the Joint Oireachtas (National Parliament) Committee on Finance, Public Expenditure, Public Service Reform and Digitalisation, and Taoiseach (Head of Parliament), Dublin, 15 July 2026.",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Macro/Policy"
+        "Macro/Policy",
+        "Watchgraph:capitals_power_centers"
       ],
       "relevance_score": 9,
-      "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0)",
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "79d48acdec4071e16627"
-    },
-    {
-      "title": "In our time",
-      "url": "https://www.bis.org/speeches/20260915-our-time",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-09-15T00:00:00+00:00",
-      "fetched_at": "2026-09-15T14:02:57+00:00",
-      "summary": "Speech by Mr Kevin Warsh, Chair of the Board of Governors of the Federal Reserve System, at \"Financial innovation: implications for payments and policy”, an economic symposium sponsored by the Federal Reserve Bank of Kansas City, Jackson Hole, Wyoming, 28 August 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
+      "watchgraph_modules": [
+        "capitals_power_centers"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f6ece43e1b44ff08df24"
-    },
-    {
-      "title": "Schweigaard Lecture - ten questions and answers about monetary policy",
-      "url": "https://www.bis.org/speeches/20260915-schweigaard-lecture-ten-questions-and-answers-about-monetary-policy",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-09-15T00:00:00+00:00",
-      "fetched_at": "2026-09-15T14:02:57+00:00",
-      "summary": "Text of the Schweigaard Lecture by Ms Ida Wolden Bache, Governor of Norges Bank (Central Bank of Norway), at the University of Oslo, Oslo, 24 August 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
+      "watchgraph_reasons": [
+        "capitals_power_centers: parliament"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0fe317b2b1d375cecb80"
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "9a6a0962115a66d83195"
     },
     {
-      "title": "Panel remarks about the European economy during a discussion on the global economic outlook at the World Economic Forum",
-      "url": "https://www.bis.org/speeches/20260915-panel-remarks-about-european-economy-during-discussion-global-economic-outlook-world-economic-forum",
+      "title": "Launch of the FinScope Eswatini 2026 Consumer Survey",
+      "url": "https://www.bis.org/speeches/20260915-launch-finscope-eswatini-2026-consumer-survey",
       "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
       "published_at": "2026-09-15T00:00:00+00:00",
-      "fetched_at": "2026-09-15T14:02:57+00:00",
-      "summary": "Panel remarks by Ms Christine Lagarde, President of the European Central Bank, at the International Business Council of the World Economic Forum, Geneva, 19 August 2026.",
+      "fetched_at": "2026-09-15T14:23:31+00:00",
+      "summary": "Welcome remarks by Ms Felicia Dlamini-Kunene, Deputy Governor of the Central Bank of Eswatini, at the launch of the FinScope Eswatini 2026 Consumer Survey, Ezulwini, 24 July 2026.",
       "matched_keywords": [
         "Macro/Policy"
       ],
@@ -3236,7 +3486,27 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "5cb998796d511ef822d8"
+      "id": "d8c18f68803c2e0d3715"
+    },
+    {
+      "title": "From fragility to resilience - the emerging market journey",
+      "url": "https://www.bis.org/speeches/20260915-fragility-resilience-emerging-market-journey",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-15T00:00:00+00:00",
+      "fetched_at": "2026-09-15T14:23:31+00:00",
+      "summary": "Address by Mr Lesetja Kganyago, Governor of the South African Reserve Bank, at the Principal and Vice-Chancellor Public Lecture and Leadership Engagement, University of South Africa, Pretoria 4 August 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c0950639c21b1403e7ca"
     }
   ],
   "source_errors": [],

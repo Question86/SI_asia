@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-15T14:03:28+00:00_
+_Generiert: 2026-09-15T14:24:01+00:00_
 
 ## Kurzlage
 
-68 neue relevante Treffer. Stärkstes Signal: „Version 1.0: Cisco Secure Email Gateway - Aktive Ausnutzung einer Zero-Day-Schwachstelle“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 30, risk).
+72 neue relevante Treffer. Stärkstes Signal: „Version 1.0: Cisco Secure Email Gateway - Aktive Ausnutzung einer Zero-Day-Schwachstelle“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 30, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -65,6 +65,15 @@ _Generiert: 2026-09-15T14:03:28+00:00_
 
 ## Priorität Mittel
 
+- **AIエージェントの自己改善をどう設計するか / How to Design Self-Improvement for AI Agents** — Score 23, opportunity — [Quelle](https://speakerdeck.com/22mi/how-to-design-self-improvement-for-ai-agents)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-15T09:49:31+00:00`, fetched `2026-09-15T14:23:31+00:00`
+  - Treffer: agent, AI Agents, AI/KI, Content-Chance, Hatena, hotentry, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); Content-Chance (+6.2); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
+  - Kurz: AIエージェントに改善を繰り返させても、プロンプトの加筆や出力の整形に留まり、最初の設計を見直せずに停滞することがあります。 本資料では、業務AIワークフローの構築・改善で経験した課題と関連研究をもとに、自己改善を支えるハーネスの設計を解説します。深層学習の訓練ループとの対応を手がかりに、Traini…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **The CLARITY Act vote could send crypto to US$2.73T or crash it to US$2.6T** — Score 19, observation — [Quelle](https://e27.co/the-clarity-act-vote-could-send-crypto-to-us2-73t-or-crash-it-to-us2-6t-20260915/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-15T05:25:20+00:00`, fetched `2026-09-15T05:34:48+00:00`
@@ -248,14 +257,14 @@ _Generiert: 2026-09-15T14:03:28+00:00_
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-15 04:52:26 UTC 2026-09-15 04:52:26 UTC at epicenter Location 21.581°S 170.092°E Depth 98.74 km (61.35 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **From vision to delivery - building Europe’s tokenised financial market** — Score 9, observation — [Quelle](https://www.bis.org/speeches/20260915-vision-delivery-building-europes-tokenised-financial-market)
+- **Opening statement - Joint Oireachtas Committee on Finance, Public Service Reform and Digitalisation, and Taoiseach** — Score 9, observation — [Quelle](https://www.bis.org/speeches/20260915-opening-statement-joint-oireachtas-committee-finance-public-service-reform-and-digitalisation-and-taoiseach)
   - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-09-15T00:00:00+00:00`, fetched `2026-09-15T14:02:57+00:00`
-  - Treffer: APAC Trend Radar, Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: Speech by Mr Piero Cipollone, Member of the Executive Board of the European Central Bank, at the Deutsche Bundesbank’s Symposium on “Future of payments: trends and innovations in Germany and Europe”, Frankfurt am Main, 26 August 2026.
+  - Zeit: published `2026-09-15T00:00:00+00:00`, fetched `2026-09-15T14:23:31+00:00`
+  - Treffer: Macro/Policy, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Opening statement by Mr Gabriel Makhlouf, Governor of the Central Bank of Ireland, at the Joint Oireachtas (National Parliament) Committee on Finance, Public Expenditure, Public Service Reform and Digitalisation, and Taoiseach (Head of Parliament), Dublin, 15 July 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Apple、「iOS 27」「iPadOS 27」の一般提供を開始 ～「Siri AI」の日本語対応は年内／126件の脆弱性修正も** — Score 9, observation — [Quelle](https://forest.watch.impress.co.jp/docs/news/2140863.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -297,9 +306,9 @@ _Generiert: 2026-09-15T14:03:28+00:00_
 ## Empfehlungen
 
 - Frühwarnsignal prüfen: Quelle, Region, betroffene Märkte/Stacks, AXI0M-Relevanz, Gegencheck, dann erst Handlung. Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Erinnerungskandidaten
 
