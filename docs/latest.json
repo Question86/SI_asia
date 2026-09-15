@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T04:46:48+00:00",
-  "run_id": "2026-09-15T04:46:48+00:00",
+  "generated_at": "2026-09-15T04:55:10+00:00",
+  "run_id": "2026-09-15T04:55:10+00:00",
   "date": "2026-09-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 17,
     "displayed_findings": 17,
     "high": 0,
@@ -763,30 +763,7 @@
       "id": "3968f27241a5712bac63"
     }
   ],
-  "new_findings": [
-    {
-      "title": "The 90-second pitch that helps foreign founders crack Tokyo’s networking scene",
-      "url": "https://e27.co/the-90-second-pitch-that-helps-foreign-founders-crack-tokyos-networking-scene-20260915/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-15T04:36:53+00:00",
-      "fetched_at": "2026-09-15T04:46:16+00:00",
-      "summary": "For all the talk of Tokyo’s growing openness to international founders, language still shapes how quickly doors open in Japan’s startup community. English-friendly meetups and conferences are far more common than they were a decade ago, but according to a new guide from Blackbox JP, the first few sentences a founder says in Japanese, however […] The post The 90-second pitch that helps foreign founders crack Tokyo’s…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Content-Chance",
-        "founder"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "APAC Trend Radar (+3.8); Content-Chance (+5.0); founder (+2.5); recent (+1.0); watchgraph region japan: Japan, Tokyo (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6845c79fa88903574d29"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
