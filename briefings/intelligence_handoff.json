@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-15T13:51:17Z",
+  "generated_at": "2026-09-15T14:15:04Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] MISP: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3370",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-15T12:06:31+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3358",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-15T11:21:32+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -65,7 +65,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3353",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-15T11:11:31+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "ai",
         "security"
@@ -91,7 +91,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3352",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-15T11:11:31+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -116,7 +116,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3349",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-15T10:56:31+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -141,7 +141,7 @@
       "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-288868-1032.html",
       "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
       "published_at": "2026-09-15T12:20:00+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "security"
@@ -166,11 +166,39 @@
       "summary": "Version 1.0: Cisco Secure Email Gateway - Aktive Ausnutzung einer Zero-Day-Schwachstelle"
     },
     {
+      "title": "Securing Uganda's digital future - collaboration, resilience and trust",
+      "url": "https://www.bis.org/speeches/20260915-securing-ugandas-digital-future-collaboration-resilience-and-trust",
+      "source": "BIS Central Bankers Speeches",
+      "published_at": "2026-09-15T00:00:00+00:00",
+      "age_days": 0.59,
+      "topics": [
+        "security",
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: security",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "Keynote address by Mr Michael Atingi-Ego, Governor of the Bank of Uganda, at the Inaugural National Cybersecurity Conference “Trust by design - building a cyber-resilient digital economy for Uganda”, Kampala, 11 August 2026."
+    },
+    {
       "title": "[NEU] [niedrig] Fleet: Schwachstelle ermöglicht Offenlegung von Informationen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3362",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-15T11:26:32+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -196,7 +224,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3361",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-15T11:26:31+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -222,7 +250,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3357",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-15T11:21:32+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "security"
@@ -249,7 +277,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3350",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-15T11:06:31+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "security"
       ],
@@ -275,7 +303,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3347",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-15T10:51:31+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -295,32 +323,6 @@
         "official security but no high-signal phrase: capped at strong"
       ],
       "summary": "Ein Angreifer kann eine Schwachstelle in Apple Xcode ausnutzen, um Informationen offenzulegen."
-    },
-    {
-      "title": "[UPDATE] [hoch] IBM DB2: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3308",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-09-15T09:16:31+00:00",
-      "age_days": 0.19,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: code",
-        "security high-signal: code",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM DB2 ausnutzen, um beliebigen Programmcode auszuführen, beliebige Dateien zu schreiben, Daten zu manipulieren, sensible Informationen offenzulegen oder Denial-of-Service-Zustände zu verursachen."
     }
   ],
   "read_order": [
