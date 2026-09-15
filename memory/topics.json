@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-15T04:55:10+00:00",
+  "generated_at": "2026-09-15T05:06:10+00:00",
   "topics": {
     "ai": [
       {
@@ -78,6 +78,13 @@
       }
     ],
     "security": [
+      {
+        "title": "Androidアプリ「【保護者専用】まなびポケット」におけるアクセス制限不備の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-15T14:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN72918755/"
+      },
       {
         "title": "Lite-On製O-RU「FF-RFI079I4」および「FF-RFI078I4」における複数の脆弱性",
         "source": "JVN Japan Vulnerability Notes",

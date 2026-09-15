@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-15T04:55:10+00:00_
+_Generiert: 2026-09-15T05:06:10+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „GPT-6 Astra cuts AI task time nearly in half. It still can’t fix your audience data“ aus e27 Asia Startup and Tech Feed (Score 15, observation).
+18 neue relevante Treffer. Stärkstes Signal: „GPT-6 Astra cuts AI task time nearly in half. It still can’t fix your audience data“ aus e27 Asia Startup and Tech Feed (Score 15, observation).
 
 ## Priorität Hoch
 
@@ -21,6 +21,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: OpenAI released GPT-6 Astra on September 3, and the number marketers should actually care about isn’t a reasoning score — it’s a stopwatch. In OpenAI’s own computer-use simulation, Astra finishes a task in roughly 40 minutes against about 75 minutes for its predecessor, GPT-5.6 Sol — nearly half the time for the same job. It […] The post GPT-6 Astra cuts AI task time nearly in half. It still can’t fix your audience…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Androidアプリ「【保護者専用】まなびポケット」におけるアクセス制限不備の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN72918755/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-09-15T14:00:00+09:00`, fetched `2026-09-15T05:05:36+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: NTTドコモビジネス株式会社が提供するAndroidアプリ「【保護者専用】まなびポケット」には、アクセス制限不備の脆弱性が存在します。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Lite-On製O-RU「FF-RFI079I4」および「FF-RFI078I4」における複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN02049764/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-09-15T12:00:00+09:00`, fetched `2026-09-15T03:18:07+00:00`
