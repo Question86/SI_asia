@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-15T05:24:28+00:00_
+_Generated: 2026-09-15T05:35:22+00:00_
 
 ## Status
 - status: `normal`
-- findings: `18`
+- findings: `21`
 
 ## Top Signals
 
-### 1. GPT-6 Astra cuts AI task time nearly in half. It still can’t fix your audience data
+### 1. The CLARITY Act vote could send crypto to US$2.73T or crash it to US$2.6T
+- source: e27 Asia Startup and Tech Feed
+- score: `19`
+- published: `2026-09-15T05:25:20+00:00`
+- url: https://e27.co/the-clarity-act-vote-could-send-crypto-to-us2-73t-or-crash-it-to-us2-6t-20260915/
+- summary: Asian and global stocks declined today as the benchmark US 10-year Treasury yield climbed above the critical five per cent threshold. That level pressures risk assets because it raises the discount rate applied to future corporate earnings. Semiconductor shar…
+
+### 2. GPT-6 Astra cuts AI task time nearly in half. It still can’t fix your audience data
 - source: e27 Asia Startup and Tech Feed
 - score: `15`
 - published: `2026-09-15T02:30:13+00:00`
 - url: https://e27.co/gpt-6-astra-cuts-ai-task-time-nearly-in-half-it-still-cant-fix-your-audience-data-20260912/
 - summary: OpenAI released GPT-6 Astra on September 3, and the number marketers should actually care about isn’t a reasoning score — it’s a stopwatch. In OpenAI’s own computer-use simulation, Astra finishes a task in roughly 40 minutes against about 75 minutes for its p…
 
-### 2. Androidアプリ「【保護者専用】まなびポケット」におけるアクセス制限不備の脆弱性
+### 3. Androidアプリ「【保護者専用】まなびポケット」におけるアクセス制限不備の脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-09-15T14:00:00+09:00`
 - url: https://jvn.jp/jp/JVN72918755/
 - summary: NTTドコモビジネス株式会社が提供するAndroidアプリ「【保護者専用】まなびポケット」には、アクセス制限不備の脆弱性が存在します。
 
-### 3. Lite-On製O-RU「FF-RFI079I4」および「FF-RFI078I4」における複数の脆弱性
+### 4. Lite-On製O-RU「FF-RFI079I4」および「FF-RFI078I4」における複数の脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-09-15T12:00:00+09:00`
 - url: https://jvn.jp/jp/JVN02049764/
 - summary: LITE-ON Technology Corporationが提供するO-RU「FF-RFI079I4」および「FF-RFI078I4」には、複数の脆弱性が存在します。
-
-### 4. パナソニック インダストリー製MINAS A5/A6用Windows USBデバイスドライバにおけるバッファオーバーフローの脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-09-15T10:00:00+09:00`
-- url: https://jvn.jp/vu/JVNVU99837984/
-- summary: パナソニック インダストリー株式会社が提供するMINAS A5/A6用Windows USBデバイスドライバには、バッファオーバーフローの脆弱性が存在します。
 
 ### 5. What Southeast Asia’s edutech startups can learn from AI’s limits in education
 - source: e27 Asia Startup and Tech Feed

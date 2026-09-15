@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-15T05:24:28+00:00_
+_Generiert: 2026-09-15T05:35:22+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „GPT-6 Astra cuts AI task time nearly in half. It still can’t fix your audience data“ aus e27 Asia Startup and Tech Feed (Score 15, observation).
+21 neue relevante Treffer. Stärkstes Signal: „The CLARITY Act vote could send crypto to US$2.73T or crash it to US$2.6T“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **The CLARITY Act vote could send crypto to US$2.73T or crash it to US$2.6T** — Score 19, observation — [Quelle](https://e27.co/the-clarity-act-vote-could-send-crypto-to-us2-73t-or-crash-it-to-us2-6t-20260915/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-15T05:25:20+00:00`, fetched `2026-09-15T05:34:48+00:00`
+  - Treffer: APAC Trend Radar, Macro/Policy, Markets/Capital Structure
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); APAC Trend Radar (+3.0); Markets/Capital Structure (+6.0); recent (+1.0); watchgraph region usa: New York (+2.0); watchgraph region japan: Tokyo (+2.0)
+  - Kurz: Asian and global stocks declined today as the benchmark US 10-year Treasury yield climbed above the critical five per cent threshold. That level pressures risk assets because it raises the discount rate applied to future corporate earnings. Semiconductor shares sold off sharply, dragging technology-heavy indices from Tokyo to New York. Investors are weighing two overlapping […] The post The CLARITY Act vote could se…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **GPT-6 Astra cuts AI task time nearly in half. It still can’t fix your audience data** — Score 15, observation — [Quelle](https://e27.co/gpt-6-astra-cuts-ai-task-time-nearly-in-half-it-still-cant-fix-your-audience-data-20260912/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-15T02:30:13+00:00`, fetched `2026-09-15T02:33:39+00:00`
@@ -48,23 +57,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: パナソニック インダストリー株式会社が提供するMINAS A5/A6用Windows USBデバイスドライバには、バッファオーバーフローの脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **The 90-second pitch that helps foreign founders crack Tokyo’s networking scene** — Score 14, opportunity — [Quelle](https://e27.co/the-90-second-pitch-that-helps-foreign-founders-crack-tokyos-networking-scene-20260915/)
+- **OpenAI hires former Elastic and Snowflake exec Sanjay Deshmukh to lead Asia Pacific sales** — Score 14, observation — [Quelle](https://e27.co/openai-hires-former-elastic-and-snowflake-exec-sanjay-deshmukh-to-lead-asia-pacific-sales-20260915/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-15T04:36:53+00:00`, fetched `2026-09-15T04:46:16+00:00`
-  - Treffer: APAC Trend Radar, Content-Chance, founder
+  - Zeit: published `2026-09-15T05:30:16+00:00`, fetched `2026-09-15T05:34:48+00:00`
+  - Treffer: APAC Trend Radar, OpenAI
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); Content-Chance (+5.0); founder (+2.5); recent (+1.0); watchgraph region japan: Japan, Tokyo (+2.0)
-  - Kurz: For all the talk of Tokyo’s growing openness to international founders, language still shapes how quickly doors open in Japan’s startup community. English-friendly meetups and conferences are far more common than they were a decade ago, but according to a new guide from Blackbox JP, the first few sentences a founder says in Japanese, however […] The post The 90-second pitch that helps foreign founders crack Tokyo’s…
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **How to use AI to win (Hint: It has nothing to do with being more productive)** — Score 14, observation — [Quelle](https://e27.co/how-to-use-ai-to-win-hint-it-has-nothing-to-do-with-being-more-productive-20260912/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-15T01:00:05+00:00`, fetched `2026-09-15T01:03:26+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Content-Chance
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0)
-  - Kurz: AI is automating tasks that used to take hours for humans to do. It’s pushing some costs down and it’s making some teams more productive. Don’t make the mistake, however, of thinking that using AI to do things more productively is enough to ensure your business has a competitive edge and succeeds. If you strip […] The post How to use AI to win (Hint: It has nothing to do with being more productive) appeared first on…
+  - Warum relevant: OpenAI (+7.5); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: OpenAI has appointed Sanjay Deshmukh as its first Vice President of Asia Pacific sales, a hire that signals the ChatGPT maker is moving beyond product launches and into the harder work of building an enterprise sales machine across one of its fastest-growing markets. Based in Singapore, Deshmukh will lead OpenAI’s commercial efforts across the region […] The post OpenAI hires former Elastic and Snowflake exec Sanjay…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
