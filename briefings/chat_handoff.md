@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-15T13:54:35+00:00_
+_Generated: 2026-09-15T14:03:28+00:00_
 
 ## Status
 - status: `normal`
-- findings: `62`
+- findings: `68`
 
 ## Top Signals
 
@@ -43,32 +43,32 @@ _Generated: 2026-09-15T13:54:35+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3333
 - summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen.
 
-### 6. Panniantong/Agent-Reach
+### 6. Japan's economy and monetary policy
+- source: BIS Central Bankers Speeches
+- score: `13`
+- published: `2026-09-15T00:00:00+00:00`
+- url: https://www.bis.org/speeches/20260915-japans-economy-and-monetary-policy
+- summary: Speech by Mr Ryozo Himino, Deputy Governor of the Bank of Japan, at a meeting with local leaders, Saitama, 27 August 2026.
+
+### 7. Panniantong/Agent-Reach
 - source: GitHub Trending RSS All Languages Daily
 - score: `13`
 - published: `None`
 - url: https://github.com/Panniantong/Agent-Reach
 - summary: Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. 👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 ·…
 
-### 7. Multiples vulnérabilités dans les produits Ivanti (09 septembre 2026)
+### 8. Securing Uganda's digital future - collaboration, resilience and trust
+- source: BIS Central Bankers Speeches
+- score: `12`
+- published: `2026-09-15T00:00:00+00:00`
+- url: https://www.bis.org/speeches/20260915-securing-ugandas-digital-future-collaboration-resilience-and-trust
+- summary: Keynote address by Mr Michael Atingi-Ego, Governor of the Bank of Uganda, at the Inaugural National Cybersecurity Conference “Trust by design - building a cyber-resilient digital economy for Uganda”, Kampala, 11 August 2026.
+
+### 9. Multiples vulnérabilités dans les produits Ivanti (09 septembre 2026)
 - source: CERT-FR Avis de sécurité
 - score: `12`
 - published: `2026-09-09T00:00:00+00:00`
 - url: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1135/
 - summary: De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un contournement de la politique de sécurité.
-
-### 8. What Southeast Asia’s edutech startups can learn from AI’s limits in education
-- source: e27 Asia Startup and Tech Feed
-- score: `11`
-- published: `2026-09-15T01:30:20+00:00`
-- url: https://e27.co/what-southeast-asias-edutech-startups-can-learn-from-ais-limits-in-education-20260912/
-- summary: Artificial intelligence is quickly becoming part of the education conversation. For schools, teachers, students, and education technology companies, generative AI offers obvious possibilities: faster feedback, personalised explanations, automated administrati…
-
-### 9. 華擎科技｜ASRock Polychrome SYNC/RGB software utility - 存在2個漏洞
-- source: TWCERT/CC TVN Vulnerability Notes RSS
-- score: `11`
-- published: `2026-09-14T10:31:00+00:00`
-- url: https://www.twcert.org.tw/tw/cp-132-11205-f6677-1.html
-- summary: 華擎科技｜ASRock Polychrome SYNC/RGB software utility - 存在2個漏洞
 
 END OF DOCUMENT

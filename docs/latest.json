@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T13:54:35+00:00",
-  "run_id": "2026-09-15T13:54:35+00:00",
+  "generated_at": "2026-09-15T14:03:28+00:00",
+  "run_id": "2026-09-15T14:03:28+00:00",
   "date": "2026-09-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 62
+      "configured_public_sources_only": 68
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 62,
-    "displayed_findings": 62,
+    "new_relevant_findings": 6,
+    "today_file_total": 68,
+    "displayed_findings": 68,
     "high": 1,
     "medium": 29,
-    "observe": 32,
+    "observe": 38,
     "source_errors": 0
   },
   "sections": {
@@ -744,6 +744,27 @@
     ],
     "observe": [
       {
+        "title": "Japan's economy and monetary policy",
+        "url": "https://www.bis.org/speeches/20260915-japans-economy-and-monetary-policy",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-09-15T00:00:00+00:00",
+        "fetched_at": "2026-09-15T14:02:57+00:00",
+        "summary": "Speech by Mr Ryozo Himino, Deputy Governor of the Bank of Japan, at a meeting with local leaders, Saitama, 27 August 2026.",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Macro/Policy"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "Macro/Policy (+6.2); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan, Bank of Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "aba7695a07ba8774aee9"
+      },
+      {
         "title": "Panniantong/Agent-Reach",
         "url": "https://github.com/Panniantong/Agent-Reach",
         "source": "GitHub Trending RSS All Languages Daily",
@@ -765,6 +786,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "9a040fe21af15577ad42"
+      },
+      {
+        "title": "Securing Uganda's digital future - collaboration, resilience and trust",
+        "url": "https://www.bis.org/speeches/20260915-securing-ugandas-digital-future-collaboration-resilience-and-trust",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-09-15T00:00:00+00:00",
+        "fetched_at": "2026-09-15T14:02:57+00:00",
+        "summary": "Keynote address by Mr Michael Atingi-Ego, Governor of the Bank of Uganda, at the Inaugural National Cybersecurity Conference “Trust by design - building a cyber-resilient digital economy for Uganda”, Kampala, 11 August 2026.",
+        "matched_keywords": [
+          "Macro/Policy",
+          "Security"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "Security (+6.0); Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "001181ae649cf9096273"
       },
       {
         "title": "Multiples vulnérabilités dans les produits Ivanti (09 septembre 2026)",
@@ -949,6 +991,27 @@
         "id": "79c4dab1c83b3cfb6651"
       },
       {
+        "title": "From vision to delivery - building Europe’s tokenised financial market",
+        "url": "https://www.bis.org/speeches/20260915-vision-delivery-building-europes-tokenised-financial-market",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-09-15T00:00:00+00:00",
+        "fetched_at": "2026-09-15T14:02:57+00:00",
+        "summary": "Speech by Mr Piero Cipollone, Member of the Executive Board of the European Central Bank, at the Deutsche Bundesbank’s Symposium on “Future of payments: trends and innovations in Germany and Europe”, Frankfurt am Main, 26 August 2026.",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Macro/Policy"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "79d48acdec4071e16627"
+      },
+      {
         "title": "Apple、「iOS 27」「iPadOS 27」の一般提供を開始 ～「Siri AI」の日本語対応は年内／126件の脆弱性修正も",
         "url": "https://forest.watch.impress.co.jp/docs/news/2140863.html",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1011,6 +1074,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "31ba7772c526f04c861a"
+      },
+      {
+        "title": "In our time",
+        "url": "https://www.bis.org/speeches/20260915-our-time",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-09-15T00:00:00+00:00",
+        "fetched_at": "2026-09-15T14:02:57+00:00",
+        "summary": "Speech by Mr Kevin Warsh, Chair of the Board of Governors of the Federal Reserve System, at \"Financial innovation: implications for payments and policy”, an economic symposium sponsored by the Federal Reserve Bank of Kansas City, Jackson Hole, Wyoming, 28 August 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f6ece43e1b44ff08df24"
       },
       {
         "title": "Special address - 31st CGC Awards",
@@ -1182,6 +1265,26 @@
         "id": "f12ef64266cc392a5a6e"
       },
       {
+        "title": "Schweigaard Lecture - ten questions and answers about monetary policy",
+        "url": "https://www.bis.org/speeches/20260915-schweigaard-lecture-ten-questions-and-answers-about-monetary-policy",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-09-15T00:00:00+00:00",
+        "fetched_at": "2026-09-15T14:02:57+00:00",
+        "summary": "Text of the Schweigaard Lecture by Ms Ida Wolden Bache, Governor of Norges Bank (Central Bank of Norway), at the University of Oslo, Oslo, 24 August 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Macro/Policy (+6.2); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0fe317b2b1d375cecb80"
+      },
+      {
         "title": "溶接不良3万カ所弱の淀川橋梁、架け替え完了3年遅れ 部材作り直し再架設",
         "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02761/",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1241,6 +1344,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "97f5ff6c621dcf15cb52"
+      },
+      {
+        "title": "Panel remarks about the European economy during a discussion on the global economic outlook at the World Economic Forum",
+        "url": "https://www.bis.org/speeches/20260915-panel-remarks-about-european-economy-during-discussion-global-economic-outlook-world-economic-forum",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-09-15T00:00:00+00:00",
+        "fetched_at": "2026-09-15T14:02:57+00:00",
+        "summary": "Panel remarks by Ms Christine Lagarde, President of the European Central Bank, at the International Business Council of the World Economic Forum, Geneva, 19 August 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5cb998796d511ef822d8"
       },
       {
         "title": "Shifting economic landscapes - strategic responses of small open economies",
@@ -2163,6 +2286,27 @@
       "id": "418b623e327877161cf5"
     },
     {
+      "title": "Japan's economy and monetary policy",
+      "url": "https://www.bis.org/speeches/20260915-japans-economy-and-monetary-policy",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-15T00:00:00+00:00",
+      "fetched_at": "2026-09-15T14:02:57+00:00",
+      "summary": "Speech by Mr Ryozo Himino, Deputy Governor of the Bank of Japan, at a meeting with local leaders, Saitama, 27 August 2026.",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Macro/Policy"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Macro/Policy (+6.2); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan, Bank of Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "aba7695a07ba8774aee9"
+    },
+    {
       "title": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "source": "GitHub Trending RSS All Languages Daily",
@@ -2184,6 +2328,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "9a040fe21af15577ad42"
+    },
+    {
+      "title": "Securing Uganda's digital future - collaboration, resilience and trust",
+      "url": "https://www.bis.org/speeches/20260915-securing-ugandas-digital-future-collaboration-resilience-and-trust",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-15T00:00:00+00:00",
+      "fetched_at": "2026-09-15T14:02:57+00:00",
+      "summary": "Keynote address by Mr Michael Atingi-Ego, Governor of the Bank of Uganda, at the Inaugural National Cybersecurity Conference “Trust by design - building a cyber-resilient digital economy for Uganda”, Kampala, 11 August 2026.",
+      "matched_keywords": [
+        "Macro/Policy",
+        "Security"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Security (+6.0); Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "001181ae649cf9096273"
     },
     {
       "title": "Multiples vulnérabilités dans les produits Ivanti (09 septembre 2026)",
@@ -2368,6 +2533,27 @@
       "id": "79c4dab1c83b3cfb6651"
     },
     {
+      "title": "From vision to delivery - building Europe’s tokenised financial market",
+      "url": "https://www.bis.org/speeches/20260915-vision-delivery-building-europes-tokenised-financial-market",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-15T00:00:00+00:00",
+      "fetched_at": "2026-09-15T14:02:57+00:00",
+      "summary": "Speech by Mr Piero Cipollone, Member of the Executive Board of the European Central Bank, at the Deutsche Bundesbank’s Symposium on “Future of payments: trends and innovations in Germany and Europe”, Frankfurt am Main, 26 August 2026.",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Macro/Policy"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "79d48acdec4071e16627"
+    },
+    {
       "title": "Apple、「iOS 27」「iPadOS 27」の一般提供を開始 ～「Siri AI」の日本語対応は年内／126件の脆弱性修正も",
       "url": "https://forest.watch.impress.co.jp/docs/news/2140863.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2430,6 +2616,26 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "31ba7772c526f04c861a"
+    },
+    {
+      "title": "In our time",
+      "url": "https://www.bis.org/speeches/20260915-our-time",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-15T00:00:00+00:00",
+      "fetched_at": "2026-09-15T14:02:57+00:00",
+      "summary": "Speech by Mr Kevin Warsh, Chair of the Board of Governors of the Federal Reserve System, at \"Financial innovation: implications for payments and policy”, an economic symposium sponsored by the Federal Reserve Bank of Kansas City, Jackson Hole, Wyoming, 28 August 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f6ece43e1b44ff08df24"
     },
     {
       "title": "Special address - 31st CGC Awards",
@@ -2601,6 +2807,26 @@
       "id": "f12ef64266cc392a5a6e"
     },
     {
+      "title": "Schweigaard Lecture - ten questions and answers about monetary policy",
+      "url": "https://www.bis.org/speeches/20260915-schweigaard-lecture-ten-questions-and-answers-about-monetary-policy",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-15T00:00:00+00:00",
+      "fetched_at": "2026-09-15T14:02:57+00:00",
+      "summary": "Text of the Schweigaard Lecture by Ms Ida Wolden Bache, Governor of Norges Bank (Central Bank of Norway), at the University of Oslo, Oslo, 24 August 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0fe317b2b1d375cecb80"
+    },
+    {
       "title": "溶接不良3万カ所弱の淀川橋梁、架け替え完了3年遅れ 部材作り直し再架設",
       "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02761/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2660,6 +2886,26 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "97f5ff6c621dcf15cb52"
+    },
+    {
+      "title": "Panel remarks about the European economy during a discussion on the global economic outlook at the World Economic Forum",
+      "url": "https://www.bis.org/speeches/20260915-panel-remarks-about-european-economy-during-discussion-global-economic-outlook-world-economic-forum",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-15T00:00:00+00:00",
+      "fetched_at": "2026-09-15T14:02:57+00:00",
+      "summary": "Panel remarks by Ms Christine Lagarde, President of the European Central Bank, at the International Business Council of the World Economic Forum, Geneva, 19 August 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5cb998796d511ef822d8"
     },
     {
       "title": "Shifting economic landscapes - strategic responses of small open economies",
@@ -2868,7 +3114,131 @@
       "id": "d37d0b80b1c8dd36c862"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Japan's economy and monetary policy",
+      "url": "https://www.bis.org/speeches/20260915-japans-economy-and-monetary-policy",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-15T00:00:00+00:00",
+      "fetched_at": "2026-09-15T14:02:57+00:00",
+      "summary": "Speech by Mr Ryozo Himino, Deputy Governor of the Bank of Japan, at a meeting with local leaders, Saitama, 27 August 2026.",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Macro/Policy"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Macro/Policy (+6.2); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan, Bank of Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "aba7695a07ba8774aee9"
+    },
+    {
+      "title": "Securing Uganda's digital future - collaboration, resilience and trust",
+      "url": "https://www.bis.org/speeches/20260915-securing-ugandas-digital-future-collaboration-resilience-and-trust",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-15T00:00:00+00:00",
+      "fetched_at": "2026-09-15T14:02:57+00:00",
+      "summary": "Keynote address by Mr Michael Atingi-Ego, Governor of the Bank of Uganda, at the Inaugural National Cybersecurity Conference “Trust by design - building a cyber-resilient digital economy for Uganda”, Kampala, 11 August 2026.",
+      "matched_keywords": [
+        "Macro/Policy",
+        "Security"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Security (+6.0); Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "001181ae649cf9096273"
+    },
+    {
+      "title": "From vision to delivery - building Europe’s tokenised financial market",
+      "url": "https://www.bis.org/speeches/20260915-vision-delivery-building-europes-tokenised-financial-market",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-15T00:00:00+00:00",
+      "fetched_at": "2026-09-15T14:02:57+00:00",
+      "summary": "Speech by Mr Piero Cipollone, Member of the Executive Board of the European Central Bank, at the Deutsche Bundesbank’s Symposium on “Future of payments: trends and innovations in Germany and Europe”, Frankfurt am Main, 26 August 2026.",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Macro/Policy"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "79d48acdec4071e16627"
+    },
+    {
+      "title": "In our time",
+      "url": "https://www.bis.org/speeches/20260915-our-time",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-15T00:00:00+00:00",
+      "fetched_at": "2026-09-15T14:02:57+00:00",
+      "summary": "Speech by Mr Kevin Warsh, Chair of the Board of Governors of the Federal Reserve System, at \"Financial innovation: implications for payments and policy”, an economic symposium sponsored by the Federal Reserve Bank of Kansas City, Jackson Hole, Wyoming, 28 August 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f6ece43e1b44ff08df24"
+    },
+    {
+      "title": "Schweigaard Lecture - ten questions and answers about monetary policy",
+      "url": "https://www.bis.org/speeches/20260915-schweigaard-lecture-ten-questions-and-answers-about-monetary-policy",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-15T00:00:00+00:00",
+      "fetched_at": "2026-09-15T14:02:57+00:00",
+      "summary": "Text of the Schweigaard Lecture by Ms Ida Wolden Bache, Governor of Norges Bank (Central Bank of Norway), at the University of Oslo, Oslo, 24 August 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0fe317b2b1d375cecb80"
+    },
+    {
+      "title": "Panel remarks about the European economy during a discussion on the global economic outlook at the World Economic Forum",
+      "url": "https://www.bis.org/speeches/20260915-panel-remarks-about-european-economy-during-discussion-global-economic-outlook-world-economic-forum",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-15T00:00:00+00:00",
+      "fetched_at": "2026-09-15T14:02:57+00:00",
+      "summary": "Panel remarks by Ms Christine Lagarde, President of the European Central Bank, at the International Business Council of the World Economic Forum, Geneva, 19 August 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5cb998796d511ef822d8"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

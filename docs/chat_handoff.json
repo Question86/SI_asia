@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-15T13:54:35+00:00",
+  "generated_at": "2026-09-15T14:03:28+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 62,
-    "displayed_findings": 62,
+    "new_relevant_findings": 6,
+    "today_file_total": 68,
+    "displayed_findings": 68,
     "high": 1,
     "medium": 29,
-    "observe": 32
+    "observe": 38
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -65,6 +65,16 @@
       "section": "medium"
     },
     {
+      "title": "Japan's economy and monetary policy",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-15T00:00:00+00:00",
+      "relevance_score": 13,
+      "url": "https://www.bis.org/speeches/20260915-japans-economy-and-monetary-policy",
+      "summary": "Speech by Mr Ryozo Himino, Deputy Governor of the Bank of Japan, at a meeting with local leaders, Saitama, 27 August 2026.",
+      "section": "observe"
+    },
+    {
       "title": "Panniantong/Agent-Reach",
       "source": "GitHub Trending RSS All Languages Daily",
       "source_type": "rss",
@@ -75,6 +85,16 @@
       "section": "observe"
     },
     {
+      "title": "Securing Uganda's digital future - collaboration, resilience and trust",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-15T00:00:00+00:00",
+      "relevance_score": 12,
+      "url": "https://www.bis.org/speeches/20260915-securing-ugandas-digital-future-collaboration-resilience-and-trust",
+      "summary": "Keynote address by Mr Michael Atingi-Ego, Governor of the Bank of Uganda, at the Inaugural National Cybersecurity Conference “Trust by design - building a cyber-resilient digital economy for Uganda”, Kampala, 11 August 2026.",
+      "section": "observe"
+    },
+    {
       "title": "Multiples vulnérabilités dans les produits Ivanti (09 septembre 2026)",
       "source": "CERT-FR Avis de sécurité",
       "source_type": "rss",
@@ -82,26 +102,6 @@
       "relevance_score": 12,
       "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1135/",
       "summary": "De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un contournement de la politique de sécurité.",
-      "section": "observe"
-    },
-    {
-      "title": "What Southeast Asia’s edutech startups can learn from AI’s limits in education",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-15T01:30:20+00:00",
-      "relevance_score": 11,
-      "url": "https://e27.co/what-southeast-asias-edutech-startups-can-learn-from-ais-limits-in-education-20260912/",
-      "summary": "Artificial intelligence is quickly becoming part of the education conversation. For schools, teachers, students, and education technology companies, generative AI offers obvious possibilities: faster feedback, personalised explanations, automated administrati…",
-      "section": "observe"
-    },
-    {
-      "title": "華擎科技｜ASRock Polychrome SYNC/RGB software utility - 存在2個漏洞",
-      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-      "source_type": "rss",
-      "published_at": "2026-09-14T10:31:00+00:00",
-      "relevance_score": 11,
-      "url": "https://www.twcert.org.tw/tw/cp-132-11205-f6677-1.html",
-      "summary": "華擎科技｜ASRock Polychrome SYNC/RGB software utility - 存在2個漏洞",
       "section": "observe"
     }
   ],
