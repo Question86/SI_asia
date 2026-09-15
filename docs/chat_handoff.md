@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-15T01:34:55+00:00_
+_Generated: 2026-09-15T01:54:53+00:00_
 
 ## Status
 - status: `normal`
-- findings: `6`
+- findings: `8`
 
 ## Top Signals
 
@@ -29,25 +29,25 @@ _Generated: 2026-09-15T01:34:55+00:00_
 - url: https://e27.co/what-southeast-asias-edutech-startups-can-learn-from-ais-limits-in-education-20260912/
 - summary: Artificial intelligence is quickly becoming part of the education conversation. For schools, teachers, students, and education technology companies, generative AI offers obvious possibilities: faster feedback, personalised explanations, automated administrati…
 
-### 4. トランプ氏、AI懸念を陰謀と一蹴 「高IQの大統領いれば統制は十分」 - 日本経済新聞
+### 4. 華擎科技｜ASRock Polychrome SYNC/RGB software utility - 存在2個漏洞
+- source: TWCERT/CC TVN Vulnerability Notes RSS
+- score: `11`
+- published: `2026-09-14T10:31:00+00:00`
+- url: https://www.twcert.org.tw/tw/cp-132-11205-f6677-1.html
+- summary: 華擎科技｜ASRock Polychrome SYNC/RGB software utility - 存在2個漏洞
+
+### 5. 思考軟體科技｜電子柵欄 - SQL Injection
+- source: TWCERT/CC TVN Vulnerability Notes RSS
+- score: `11`
+- published: `2026-09-14T10:16:00+00:00`
+- url: https://www.twcert.org.tw/tw/cp-132-11202-48c1b-1.html
+- summary: 思考軟體科技｜電子柵欄 - SQL Injection
+
+### 6. トランプ氏、AI懸念を陰謀と一蹴 「高IQの大統領いれば統制は十分」 - 日本経済新聞
 - source: Hatena Bookmark Hotentry IT
 - score: `10`
 - published: `2026-09-14T21:49:16+00:00`
 - url: https://www.nikkei.com/article/DGXZQOGN1500C0V10C26A9000000/
 - summary: 【ワシントン=甲原潤之介】トランプ米大統領は14日、人工知能（AI）が制御不能に陥るため開発を減速すべきだといった指摘にSNSで反論した。「AIやデータセンターを標的とした病的な陰謀が進行中だ」と強調し、開発の減速によって喜ぶのは「中国だけだ」と訴えた。AIを統制するのに必要なのは「強くて賢い、知能指数（IQ...
-
-### 5. Apple、「iOS 27」「iPadOS 27」の一般提供を開始 ～「Siri AI」の日本語対応は年内／126件の脆弱性修正も
-- source: Hatena Bookmark Hotentry IT
-- score: `9`
-- published: `2026-09-14T20:43:45+00:00`
-- url: https://forest.watch.impress.co.jp/docs/news/2140863.html
-- summary: Apple、「iOS 27」「iPadOS 27」の一般提供を開始 ～「Siri AI」の日本語対応は年内／126件の脆弱性修正も
-
-### 6. 溶接不良3万カ所弱の淀川橋梁、架け替え完了3年遅れ 部材作り直し再架設
-- source: Hatena Bookmark Hotentry IT
-- score: `7`
-- published: `2026-09-14T22:14:04+00:00`
-- url: https://xtech.nikkei.com/atcl/nxt/column/18/00142/02761/
-- summary: カナデビア（旧日立造船）による溶接不良が約2万8000カ所見つかった阪神なんば線淀川橋梁の架け替え工事の完了が、予定よりも3年遅れて2034年度となることが分かった。鋼製部材の作り直しと再架設に加え、地中障害物の撤去が必要となり、時間がかかっている。溶接不良があった箇所の施工を手掛ける日本橋梁（大阪市）は...
 
 END OF DOCUMENT

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T01:34:55+00:00",
-  "run_id": "2026-09-15T01:34:55+00:00",
+  "generated_at": "2026-09-15T01:54:53+00:00",
+  "run_id": "2026-09-15T01:54:53+00:00",
   "date": "2026-09-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 6
+      "configured_public_sources_only": 8
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 6,
-    "displayed_findings": 6,
+    "new_relevant_findings": 2,
+    "today_file_total": 8,
+    "displayed_findings": 8,
     "high": 0,
     "medium": 2,
-    "observe": 4,
+    "observe": 6,
     "source_errors": 0
   },
   "sections": {
@@ -96,6 +96,50 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "37b9c01c01e61a9ef1d9"
+      },
+      {
+        "title": "華擎科技｜ASRock Polychrome SYNC/RGB software utility - 存在2個漏洞",
+        "url": "https://www.twcert.org.tw/tw/cp-132-11205-f6677-1.html",
+        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+        "source_type": "rss",
+        "published_at": "2026-09-14T10:31:00+00:00",
+        "fetched_at": "2026-09-15T01:54:24+00:00",
+        "summary": "華擎科技｜ASRock Polychrome SYNC/RGB software utility - 存在2個漏洞",
+        "matched_keywords": [
+          "Security",
+          "TVN",
+          "TWCERT"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a0eaf0b00883b6794c95"
+      },
+      {
+        "title": "思考軟體科技｜電子柵欄 - SQL Injection",
+        "url": "https://www.twcert.org.tw/tw/cp-132-11202-48c1b-1.html",
+        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+        "source_type": "rss",
+        "published_at": "2026-09-14T10:16:00+00:00",
+        "fetched_at": "2026-09-15T01:54:24+00:00",
+        "summary": "思考軟體科技｜電子柵欄 - SQL Injection",
+        "matched_keywords": [
+          "Security",
+          "TVN",
+          "TWCERT"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d361d6a8df98e10362af"
       },
       {
         "title": "トランプ氏、AI懸念を陰謀と一蹴 「高IQの大統領いれば統制は十分」 - 日本経済新聞",
@@ -232,6 +276,50 @@
       "id": "37b9c01c01e61a9ef1d9"
     },
     {
+      "title": "華擎科技｜ASRock Polychrome SYNC/RGB software utility - 存在2個漏洞",
+      "url": "https://www.twcert.org.tw/tw/cp-132-11205-f6677-1.html",
+      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-14T10:31:00+00:00",
+      "fetched_at": "2026-09-15T01:54:24+00:00",
+      "summary": "華擎科技｜ASRock Polychrome SYNC/RGB software utility - 存在2個漏洞",
+      "matched_keywords": [
+        "Security",
+        "TVN",
+        "TWCERT"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a0eaf0b00883b6794c95"
+    },
+    {
+      "title": "思考軟體科技｜電子柵欄 - SQL Injection",
+      "url": "https://www.twcert.org.tw/tw/cp-132-11202-48c1b-1.html",
+      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-14T10:16:00+00:00",
+      "fetched_at": "2026-09-15T01:54:24+00:00",
+      "summary": "思考軟體科技｜電子柵欄 - SQL Injection",
+      "matched_keywords": [
+        "Security",
+        "TVN",
+        "TWCERT"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d361d6a8df98e10362af"
+    },
+    {
       "title": "トランプ氏、AI懸念を陰謀と一蹴 「高IQの大統領いれば統制は十分」 - 日本経済新聞",
       "url": "https://www.nikkei.com/article/DGXZQOGN1500C0V10C26A9000000/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -299,26 +387,48 @@
   ],
   "new_findings": [
     {
-      "title": "What Southeast Asia’s edutech startups can learn from AI’s limits in education",
-      "url": "https://e27.co/what-southeast-asias-edutech-startups-can-learn-from-ais-limits-in-education-20260912/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "華擎科技｜ASRock Polychrome SYNC/RGB software utility - 存在2個漏洞",
+      "url": "https://www.twcert.org.tw/tw/cp-132-11205-f6677-1.html",
+      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "source_type": "rss",
-      "published_at": "2026-09-15T01:30:20+00:00",
-      "fetched_at": "2026-09-15T01:34:24+00:00",
-      "summary": "Artificial intelligence is quickly becoming part of the education conversation. For schools, teachers, students, and education technology companies, generative AI offers obvious possibilities: faster feedback, personalised explanations, automated administrative work, and new ways to create learning materials. But the most important question for edutech companies may not be what AI can do. It may be […] The post What…",
+      "published_at": "2026-09-14T10:31:00+00:00",
+      "fetched_at": "2026-09-15T01:54:24+00:00",
+      "summary": "華擎科技｜ASRock Polychrome SYNC/RGB software utility - 存在2個漏洞",
       "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Southeast Asia"
+        "Security",
+        "TVN",
+        "TWCERT"
       ],
       "relevance_score": 11,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); Southeast Asia (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "37b9c01c01e61a9ef1d9"
+      "id": "a0eaf0b00883b6794c95"
+    },
+    {
+      "title": "思考軟體科技｜電子柵欄 - SQL Injection",
+      "url": "https://www.twcert.org.tw/tw/cp-132-11202-48c1b-1.html",
+      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-14T10:16:00+00:00",
+      "fetched_at": "2026-09-15T01:54:24+00:00",
+      "summary": "思考軟體科技｜電子柵欄 - SQL Injection",
+      "matched_keywords": [
+        "Security",
+        "TVN",
+        "TWCERT"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d361d6a8df98e10362af"
     }
   ],
   "source_errors": [],
