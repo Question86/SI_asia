@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-09-15T13:55:31+00:00",
+  "generated_at": "2026-09-15T14:04:20+00:00",
   "fx_as_of": null,
-  "candidate_count": 673,
+  "candidate_count": 674,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 673
+    "pending": 674
   },
   "coverage_warning": null,
   "candidates": [
@@ -2079,6 +2079,27 @@
       "snippet": ") show a $832 billion expansion in banks global cross-border claims in Q3 2025 on an exchange rate- and break-adjusted basis ( Graph 1.A ). The stock of outstanding claims rose to $45 trillion. The increase was driven predominantly (+$730 billion) by cross-border bank credit (ie loans and holdings of debt securities but excluding derivatives and other claims). 1 Cross-b",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://www.bis.org/publications/202601-commentary-ibs-gli"
+    },
+    {
+      "amount_native": 10500000000000.0,
+      "amount_usd": 10500000000000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.55,
+      "candidate_id": "cand_64716ba3bc7b79148aa8",
+      "component_suggestion": "real_resource",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-15T14:03:56+00:00",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:real_resource:9696370c4285",
+      "review_status": "pending",
+      "snippet": "and medium enterprises have already experienced some form of cyberattack. Globally, the picture is starker still: industry estimates now put the annual cost of cybercrime at some US$10.5 trillion a year — a sum that, were it a national economy, would rank among the three largest in the world. And the frontier of this risk is moving faster than our institutions can easily t",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://www.bis.org/speeches/20260915-securing-ugandas-digital-future-collaboration-resilience-and-trust",
+      "component_confidence": 0.55,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 2100000000000.0,
