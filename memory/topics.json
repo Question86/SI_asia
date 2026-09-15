@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-15T11:56:39+00:00",
+  "generated_at": "2026-09-15T12:18:41+00:00",
   "topics": {
     "ai": [
       {
@@ -54,6 +54,13 @@
         "url": "https://github.com/Panniantong/Agent-Reach"
       },
       {
+        "title": "Multiples vulnérabilités dans les produits Ivanti (09 septembre 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-09-09T00:00:00+00:00",
+        "relevance_score": 12,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1135/"
+      },
+      {
         "title": "What Southeast Asia’s edutech startups can learn from AI’s limits in education",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-09-15T01:30:20+00:00",
@@ -66,13 +73,6 @@
         "published_at": "2026-09-14T21:49:16+00:00",
         "relevance_score": 10,
         "url": "https://www.nikkei.com/article/DGXZQOGN1500C0V10C26A9000000/"
-      },
-      {
-        "title": "Apple、「iOS 27」「iPadOS 27」の一般提供を開始 ～「Siri AI」の日本語対応は年内／126件の脆弱性修正も",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-14T20:43:45+00:00",
-        "relevance_score": 9,
-        "url": "https://forest.watch.impress.co.jp/docs/news/2140863.html"
       }
     ],
     "economy": [
@@ -119,6 +119,13 @@
         "url": "https://www.bis.org/speeches/20260914-shifting-economic-landscapes-strategic-responses-small-open-economies"
       },
       {
+        "title": "Grab’s US$1.49B Atome deal signals a deeper race for SEA’s credit economy",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-15T12:11:48+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/grabs-us1-49b-atome-deal-signals-a-deeper-race-for-seas-credit-economy-20260915/"
+      },
+      {
         "title": "Where in the world is the iPhone cheapest?",
         "source": "Rest of World Global Tech Feed",
         "published_at": "2026-09-15T10:00:00+00:00",
@@ -156,6 +163,13 @@
         "url": "https://jvn.jp/jp/JVN72918755/"
       },
       {
+        "title": "[NEU] [hoch] MISP: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-15T12:06:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3370"
+      },
+      {
         "title": "Lite-On製O-RU「FF-RFI079I4」および「FF-RFI078I4」における複数の脆弱性",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-09-15T12:00:00+09:00",
@@ -189,13 +203,6 @@
         "published_at": "2026-09-15T11:26:31+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3359"
-      },
-      {
-        "title": "[NEU] [niedrig] vllm: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-15T11:21:32+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3357"
       }
     ],
     "geopolitics": [
@@ -205,6 +212,13 @@
         "published_at": "2026-09-15T10:51:31+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3348"
+      },
+      {
+        "title": "[NEU] [hoch] MISP: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-15T12:06:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3370"
       },
       {
         "title": "[NEU] [niedrig] Fleet: Schwachstelle ermöglicht Offenlegung von Informationen",
@@ -261,13 +275,6 @@
         "published_at": "2026-09-15T11:11:31+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3351"
-      },
-      {
-        "title": "[NEU] [hoch] Cisco Secure Email Gateway: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-15T11:11:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3353"
       }
     ],
     "general": [
@@ -291,6 +298,13 @@
         "published_at": "2026-09-15T05:36:44.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thjj"
+      },
+      {
+        "title": "Multiples vulnérabilités dans Postfix (09 septembre 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-09-09T00:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1141/"
       },
       {
         "title": "溶接不良3万カ所弱の淀川橋梁、架け替え完了3年遅れ 部材作り直し再架設",

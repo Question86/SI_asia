@@ -175,6 +175,29 @@
     "id": "61bfb087b7d78a5fb45c"
   },
   {
+    "title": "[NEU] [hoch] MISP: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3370",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-15T12:06:31+00:00",
+    "fetched_at": "2026-09-15T12:18:07+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in MISP ausnutzen, um erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren und offenzulegen, beliebigen Code auszuführen und Benutzer auf bösartige URLs umzuleiten.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5aac94810974ab03fec4"
+  },
+  {
     "title": "Lite-On製O-RU「FF-RFI079I4」および「FF-RFI078I4」における複数の脆弱性",
     "url": "https://jvn.jp/jp/JVN02049764/",
     "source": "JVN Japan Vulnerability Notes",
@@ -675,6 +698,42 @@
     "id": "9a040fe21af15577ad42"
   },
   {
+    "title": "Multiples vulnérabilités dans les produits Ivanti (09 septembre 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1135/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-09-09T00:00:00+00:00",
+    "fetched_at": "2026-09-15T12:18:07+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un contournement de la politique de sécurité.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité",
+      "Watchgraph:cyber_active_exploitation"
+    ],
+    "relevance_score": 12,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); watchgraph modules cyber_active_exploitation (+3.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [
+      "cyber_active_exploitation"
+    ],
+    "watchgraph_reasons": [
+      "cyber_active_exploitation: Ivanti"
+    ],
+    "market_context": [
+      "CRWD",
+      "PANW",
+      "FTNT",
+      "ZS",
+      "OKTA",
+      "NET",
+      "S"
+    ],
+    "id": "6589a9699c3348837039"
+  },
+  {
     "title": "What Southeast Asia’s edutech startups can learn from AI’s limits in education",
     "url": "https://e27.co/what-southeast-asias-edutech-startups-can-learn-from-ais-limits-in-education-20260912/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -881,6 +940,52 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "ca9c01c12db47cee209c"
+  },
+  {
+    "title": "Multiples vulnérabilités dans les produits Adobe (09 septembre 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1140/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-09-09T00:00:00+00:00",
+    "fetched_at": "2026-09-15T12:18:07+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans les produits Adobe. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7f4c012d001fc697d2b2"
+  },
+  {
+    "title": "Multiples vulnérabilités dans Postfix (09 septembre 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1141/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-09-09T00:00:00+00:00",
+    "fetched_at": "2026-09-15T12:18:07+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans Postfix. Elles permettent à un attaquant de provoquer un déni de service à distance et un contournement de la politique de sécurité.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "967524b179228b58d839"
   },
   {
     "title": "666ghj/MiroFish",
@@ -1193,6 +1298,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "6f70b3d1a46feae05a54"
+  },
+  {
+    "title": "Grab’s US$1.49B Atome deal signals a deeper race for SEA’s credit economy",
+    "url": "https://e27.co/grabs-us1-49b-atome-deal-signals-a-deeper-race-for-seas-credit-economy-20260915/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-09-15T12:11:48+00:00",
+    "fetched_at": "2026-09-15T12:18:07+00:00",
+    "summary": "Grab Holdings is done dabbling in consumer lending. The Nasdaq-listed superapp operator has announced that it will pay US$1.49 billion in cash for a controlling 60 per cent stake in Atome Financial, the buy now, pay later (BNPL) and digital lending arm of Advance Intelligence Group (AIGL). It is, by some distance, the biggest fintech […] The post Grab’s US$1.49B Atome deal signals a deeper race for SEA’s credit econ…",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2dea1415df647462a38e"
   },
   {
     "title": "The geopolitics of scarcity: Why middle powers must learn to prioritise",

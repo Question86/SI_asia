@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-15T11:56:39+00:00_
+_Generated: 2026-09-15T12:18:41+00:00_
 
 ## Status
 - status: `normal`
-- findings: `55`
+- findings: `60`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-09-15T11:56:39+00:00_
 - url: https://github.com/Panniantong/Agent-Reach
 - summary: Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. 👁️ Agent Reach 给你的 AI Agent 一键装上互联网能力 当下最稳的接入方式，替你选好、装好、体检好——接入方式会换代，你不用操心 快速开始 · English · 日本語 · 한국어 · 支持平台 ·…
 
-### 6. What Southeast Asia’s edutech startups can learn from AI’s limits in education
+### 6. Multiples vulnérabilités dans les produits Ivanti (09 septembre 2026)
+- source: CERT-FR Avis de sécurité
+- score: `12`
+- published: `2026-09-09T00:00:00+00:00`
+- url: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1135/
+- summary: De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un contournement de la politique de sécurité.
+
+### 7. What Southeast Asia’s edutech startups can learn from AI’s limits in education
 - source: e27 Asia Startup and Tech Feed
 - score: `11`
 - published: `2026-09-15T01:30:20+00:00`
 - url: https://e27.co/what-southeast-asias-edutech-startups-can-learn-from-ais-limits-in-education-20260912/
 - summary: Artificial intelligence is quickly becoming part of the education conversation. For schools, teachers, students, and education technology companies, generative AI offers obvious possibilities: faster feedback, personalised explanations, automated administrati…
 
-### 7. 華擎科技｜ASRock Polychrome SYNC/RGB software utility - 存在2個漏洞
+### 8. 華擎科技｜ASRock Polychrome SYNC/RGB software utility - 存在2個漏洞
 - source: TWCERT/CC TVN Vulnerability Notes RSS
 - score: `11`
 - published: `2026-09-14T10:31:00+00:00`
 - url: https://www.twcert.org.tw/tw/cp-132-11205-f6677-1.html
 - summary: 華擎科技｜ASRock Polychrome SYNC/RGB software utility - 存在2個漏洞
-
-### 8. 思考軟體科技｜電子柵欄 - SQL Injection
-- source: TWCERT/CC TVN Vulnerability Notes RSS
-- score: `11`
-- published: `2026-09-14T10:16:00+00:00`
-- url: https://www.twcert.org.tw/tw/cp-132-11202-48c1b-1.html
-- summary: 思考軟體科技｜電子柵欄 - SQL Injection
 
 END OF DOCUMENT

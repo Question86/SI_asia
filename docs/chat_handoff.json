@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-15T11:56:39+00:00",
+  "generated_at": "2026-09-15T12:18:41+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 55,
-    "displayed_findings": 55,
+    "new_relevant_findings": 5,
+    "today_file_total": 60,
+    "displayed_findings": 60,
     "high": 0,
-    "medium": 28,
-    "observe": 27
+    "medium": 29,
+    "observe": 31
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -65,6 +65,16 @@
       "section": "observe"
     },
     {
+      "title": "Multiples vulnérabilités dans les produits Ivanti (09 septembre 2026)",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-09-09T00:00:00+00:00",
+      "relevance_score": 12,
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1135/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un contournement de la politique de sécurité.",
+      "section": "observe"
+    },
+    {
       "title": "What Southeast Asia’s edutech startups can learn from AI’s limits in education",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -82,16 +92,6 @@
       "relevance_score": 11,
       "url": "https://www.twcert.org.tw/tw/cp-132-11205-f6677-1.html",
       "summary": "華擎科技｜ASRock Polychrome SYNC/RGB software utility - 存在2個漏洞",
-      "section": "observe"
-    },
-    {
-      "title": "思考軟體科技｜電子柵欄 - SQL Injection",
-      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-      "source_type": "rss",
-      "published_at": "2026-09-14T10:16:00+00:00",
-      "relevance_score": 11,
-      "url": "https://www.twcert.org.tw/tw/cp-132-11202-48c1b-1.html",
-      "summary": "思考軟體科技｜電子柵欄 - SQL Injection",
       "section": "observe"
     }
   ],
