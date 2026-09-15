@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-15T08:19:04Z",
+  "generated_at": "2026-09-15T08:43:20Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "krass": 1,
       "strong": 15,
-      "watch": 18,
-      "quiet": 6
+      "watch": 20,
+      "quiet": 4
     },
     "bands_after_gate_recheck": {
       "strong": 16,
-      "watch": 18,
-      "quiet": 6
+      "watch": 20,
+      "quiet": 4
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/jp/JVN72918755/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-15T14:00:00+09:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://jvn.jp/jp/JVN02049764/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-15T12:00:00+09:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -71,7 +71,7 @@
       "url": "https://jvn.jp/vu/JVNVU99837984/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-15T10:00:00+09:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -95,7 +95,7 @@
       "url": "https://e27.co/the-90-second-pitch-that-helps-foreign-founders-crack-tokyos-networking-scene-20260915/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T04:46:52+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -118,39 +118,11 @@
       "summary": ""
     },
     {
-      "title": "TrueMoney and Fireblocks want Thai users on blockchain rails without them noticing",
-      "url": "https://e27.co/truemoney-and-fireblocks-want-thai-users-on-blockchain-rails-without-them-noticing-20260915/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-15T08:06:12+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "early terms: chain",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "The CLARITY Act vote could send crypto to US$2.73T or crash it to US$2.6T",
       "url": "https://e27.co/the-clarity-act-vote-could-send-crypto-to-us2-73t-or-crash-it-to-us2-6t-20260915/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T05:35:26+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -175,7 +147,7 @@
       "url": "https://jvn.jp/jp/JVN72918755/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-09T12:51:45+00:00",
-      "age_days": 5.81,
+      "age_days": 5.83,
       "topics": [
         "general"
       ],
@@ -186,12 +158,12 @@
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 5.0,
+      "baseline_z_hint": 4.7,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 5.00",
+        "baseline z_hint 4.70",
         "krass gate: single-source non-official/non-identity signal capped"
       ],
       "summary": ""
@@ -201,7 +173,7 @@
       "url": "https://e27.co/the-saaspocalypse-will-be-selective-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T02:07:44+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [],
       "dynamics_score": 24.0,
       "raw_band": "strong",
@@ -225,7 +197,7 @@
       "url": "https://e27.co/truemoney-and-fireblocks-want-thai-users-on-blockchain-rails-without-them-noticing-20260915/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T08:00:42+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
@@ -253,7 +225,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11205-f6677-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-09-14T10:31:00+00:00",
-      "age_days": 0.91,
+      "age_days": 0.93,
       "topics": [
         "security"
       ],
@@ -277,7 +249,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11202-48c1b-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-09-14T10:16:00+00:00",
-      "age_days": 0.92,
+      "age_days": 0.94,
       "topics": [
         "security"
       ],
@@ -301,7 +273,7 @@
       "url": "https://github.com/multimodal-art-projection/YuE",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-15T06:36:21+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -326,7 +298,7 @@
       "url": "https://jvn.jp/jp/JVN02049764/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-15T03:18:40+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -350,7 +322,7 @@
       "url": "https://jvn.jp/vu/JVNVU99837984/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-15T01:04:00+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -370,11 +342,39 @@
       "summary": ""
     },
     {
+      "title": "TrueMoney and Fireblocks want Thai users on blockchain rails without them noticing",
+      "url": "https://e27.co/truemoney-and-fireblocks-want-thai-users-on-blockchain-rails-without-them-noticing-20260915/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-15T08:06:12+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "early terms: chain",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 4.8 - 289 km WSW of Tual, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thjr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T21:47:43+00:00",
-      "age_days": 11.44,
+      "age_days": 11.46,
       "topics": [
         "general"
       ],
@@ -398,7 +398,7 @@
       "url": "https://e27.co/the-90-second-pitch-that-helps-foreign-founders-crack-tokyos-networking-scene-20260915/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T04:36:53+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -420,11 +420,35 @@
       "summary": "For all the talk of Tokyo’s growing openness to international founders, language still shapes how quickly doors open in Japan’s startup community. English-friendly meetups and conferences are far more common than they were a decade ago, but according to a new guide from Blackbox JP, the first few sentences a founder s…"
     },
     {
+      "title": "Der Homebrew-Paketmanager bringt nun einen Sicherheitslücken-Scanner mit",
+      "url": "https://www.heise.de/news/Der-Homebrew-Paketmanager-bringt-nun-einen-Sicherheitsluecken-Scanner-mit-11453380.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-09-15T08:17:00.000+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: security"
+      ],
+      "summary": "Die neue Homebrew-Version 7.0.0 bietet einen integrierten Sicherheitslücken-Scanner für installierte Software und schließt acht Schwachstellen."
+    },
+    {
       "title": "Außer der Reihe: Microsoft fixt Probleme und Lücken nach Windows-Updates",
       "url": "https://www.heise.de/news/Ausser-der-Reihe-Microsoft-fixt-Probleme-und-Luecken-nach-Windows-Updates-11453167.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-15T07:06:00.000+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -448,7 +472,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thjr",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-15T06:26:55.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -472,7 +496,7 @@
       "url": "https://github.com/666ghj/MiroFish",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-15T06:36:56+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -496,7 +520,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thjj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-15T05:46:12+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -520,7 +544,7 @@
       "url": "https://e27.co/gpt-6-astra-cuts-ai-task-time-nearly-in-half-it-still-cant-fix-your-audience-data-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T02:34:11+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -546,7 +570,7 @@
       "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02761/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-15T01:04:00+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -570,7 +594,7 @@
       "url": "https://e27.co/the-clarity-act-vote-could-send-crypto-to-us2-73t-or-crash-it-to-us2-6t-20260915/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T05:25:20+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "ai",
         "macro"
@@ -593,11 +617,37 @@
       "summary": "Asian and global stocks declined today as the benchmark US 10-year Treasury yield climbed above the critical five per cent threshold. That level pressures risk assets because it raises the discount rate applied to future corporate earnings. Semiconductor shares sold off sharply, dragging technology-heavy indices from…"
     },
     {
+      "title": "Der Homebrew-Paketmanager bringt nun einen Sicherheitslücken-Scanner mit",
+      "url": "https://www.heise.de/news/Der-Homebrew-Paketmanager-bringt-nun-einen-Sicherheitsluecken-Scanner-mit-11453380.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-06-19T07:39:37+00:00",
+      "age_days": 88.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 15.81,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 4.83,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 4.83",
+        "aging penalty -8.0 for 88.0d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "OpenAI hires former Elastic and Snowflake exec Sanjay Deshmukh to lead Asia Pacific sales",
       "url": "https://e27.co/openai-hires-former-elastic-and-snowflake-exec-sanjay-deshmukh-to-lead-asia-pacific-sales-20260915/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T05:35:26+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -623,7 +673,7 @@
       "url": "https://e27.co/how-to-use-ai-to-win-hint-it-has-nothing-to-do-with-being-more-productive-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T01:04:00+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "ai"
       ],
@@ -649,7 +699,7 @@
       "url": "https://www.digital.go.jp/speech/minister-260915-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-15T04:13:31+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -673,7 +723,7 @@
       "url": "https://github.com/multimodal-art-projection/YuE",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-15T06:36:56+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -697,7 +747,7 @@
       "url": "https://e27.co/the-saaspocalypse-will-be-selective-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T02:00:53+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -723,7 +773,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001472/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-15T02:49:44+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -747,7 +797,7 @@
       "url": "https://blog.tinect.jp/?p=91489",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-15T05:35:26+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -771,7 +821,7 @@
       "url": "https://e27.co/the-geopolitics-of-scarcity-why-middle-powers-must-learn-to-prioritise-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T03:18:40+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -795,7 +845,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11205-f6677-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 87.87,
+      "age_days": 87.89,
       "topics": [
         "general"
       ],
@@ -820,7 +870,7 @@
       "url": "https://e27.co/what-southeast-asias-edutech-startups-can-learn-from-ais-limits-in-education-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T01:34:58+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -846,7 +896,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thjj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-15T05:36:44.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -870,7 +920,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2140863.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-15T00:15:13+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "ai"
       ],
@@ -896,7 +946,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001472/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-15T01:09:50+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -916,36 +966,11 @@
       "summary": "配車アプリ「GO」と「Waymo」それぞれから配車できる自動運転タクシーを、段階的に100台規模で運行する計画。 正式な運行開始時期は、安全性が認められ、必要な許認可の取得が完了した後に決める。 GOは地域のタクシー事業者との連携の要となり、Waymoの自動運転技術を日本のタクシー産業に組み込むための全体設計を担う..."
     },
     {
-      "title": "Außer der Reihe: Microsoft fixt Probleme und Lücken nach Windows-Updates",
-      "url": "https://www.heise.de/news/Ausser-der-Reihe-Microsoft-fixt-Probleme-und-Luecken-nach-Windows-Updates-11453167.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 88.03,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 8.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "aging penalty -8.0 for 88.0d old signal"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Special address - 31st CGC Awards",
       "url": "https://www.bis.org/speeches/20260914-special-address-31st-cgc-awards",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-09-14T00:00:00+00:00",
-      "age_days": 1.35,
+      "age_days": 1.36,
       "topics": [
         "macro"
       ],
@@ -969,7 +994,7 @@
       "url": "https://www.bis.org/speeches/20260914-special-address-31st-cgc-awards",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 88.74,
+      "age_days": 88.76,
       "topics": [
         "general"
       ],
@@ -985,35 +1010,9 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 88.7d old signal"
+        "aging penalty -8.0 for 88.8d old signal"
       ],
       "summary": ""
-    },
-    {
-      "title": "GPT-6 Astra cuts AI task time nearly in half. It still can’t fix your audience data",
-      "url": "https://e27.co/gpt-6-astra-cuts-ai-task-time-nearly-in-half-it-still-cant-fix-your-audience-data-20260912/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-15T02:30:13+00:00",
-      "age_days": 0.24,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 7.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "OpenAI released GPT-6 Astra on September 3, and the number marketers should actually care about isn’t a reasoning score — it’s a stopwatch. In OpenAI’s own computer-use simulation, Astra finishes a task in roughly 40 minutes against about 75 minutes for its predecessor, GPT-5.6 Sol — nearly half the time for the same…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Androidアプリ「【保護者専用】まなびポケット」におけるアクセス制限不備の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
