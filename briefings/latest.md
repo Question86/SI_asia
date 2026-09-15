@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-15T05:35:22+00:00_
+_Generiert: 2026-09-15T05:46:08+00:00_
 
 ## Kurzlage
 
-21 neue relevante Treffer. Stärkstes Signal: „The CLARITY Act vote could send crypto to US$2.73T or crash it to US$2.6T“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
+22 neue relevante Treffer. Stärkstes Signal: „The CLARITY Act vote could send crypto to US$2.73T or crash it to US$2.6T“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -154,6 +154,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
   - Kurz: 【ワシントン=甲原潤之介】トランプ米大統領は14日、人工知能（AI）が制御不能に陥るため開発を減速すべきだといった指摘にSNSで反論した。「AIやデータセンターを標的とした病的な陰謀が進行中だ」と強調し、開発の減速によって喜ぶのは「中国だけだ」と訴えた。AIを統制するのに必要なのは「強くて賢い、知能指数（IQ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.8 - 229 km E of Tadine, New Caledonia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000thjj)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-15T05:36:44.040+00:00`, fetched `2026-09-15T05:45:28+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-15 04:52:26 UTC 2026-09-15 04:52:26 UTC at epicenter Location 21.581°S 170.092°E Depth 98.74 km (61.35 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Apple、「iOS 27」「iPadOS 27」の一般提供を開始 ～「Siri AI」の日本語対応は年内／126件の脆弱性修正も** — Score 9, observation — [Quelle](https://forest.watch.impress.co.jp/docs/news/2140863.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-14T20:43:45+00:00`, fetched `2026-09-15T00:14:36+00:00`
