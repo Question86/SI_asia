@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-15T00:15:28+00:00",
+  "generated_at": "2026-09-15T01:04:19+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -3548,6 +3548,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_68f7ce6a8e9b227f760a",
+      "title": "パナソニック インダストリー製MINAS A5/A6用Windows USBデバイスドライバにおけるバッファオーバーフローの脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-15T01:04:00+00:00",
+      "last_seen_at": "2026-09-15T01:04:00+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_2f5c3cffbb9951edd868",
       "title": "Southeast Asia startup funding finds a floor, but not a rebound",
       "event_classes": [
@@ -4105,8 +4122,8 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-13T23:52:59+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-09-15T01:04:00+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_4d63c766d1a3ce54fc2b",
@@ -4940,6 +4957,23 @@
       "first_seen_at": "2026-09-14T01:36:38+00:00",
       "last_seen_at": "2026-09-14T23:55:11+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_4d8761ac52cd27298589",
+      "title": "How to use AI to win (Hint: It has nothing to do with being more productive)",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 115200.0,
+      "p50_usd": 11520000.0,
+      "p90_usd": 1152000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-15T01:04:00+00:00",
+      "last_seen_at": "2026-09-15T01:04:00+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_0fe6fa9731ff84e108db",
@@ -6812,6 +6846,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_c0dfded64dd61d6977ad",
+      "title": "Apple、「iOS 27」「iPadOS 27」の一般提供を開始 ～「Siri AI」の日本語対応は年内／126件の脆弱性修正も",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 111200.0,
+      "p50_usd": 11120000.0,
+      "p90_usd": 1112000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-15T00:15:13+00:00",
+      "last_seen_at": "2026-09-15T01:04:00+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_fd38962374a66d0fbcfa",
       "title": "Remediate Code Quality findings with agentic autofix",
       "event_classes": [
@@ -6845,23 +6896,6 @@
       "first_seen_at": "2026-09-11T01:08:28+00:00",
       "last_seen_at": "2026-09-11T13:48:13+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_c0dfded64dd61d6977ad",
-      "title": "Apple、「iOS 27」「iPadOS 27」の一般提供を開始 ～「Siri AI」の日本語対応は年内／126件の脆弱性修正も",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 111200.0,
-      "p50_usd": 11120000.0,
-      "p90_usd": 1112000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-15T00:15:13+00:00",
-      "last_seen_at": "2026-09-15T00:15:13+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_1389040925456ed4bae9",
@@ -7678,6 +7712,23 @@
       "first_seen_at": "2026-09-14T07:35:53+00:00",
       "last_seen_at": "2026-09-14T09:28:53+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_26781d29df09892baee3",
+      "title": "溶接不良3万カ所弱の淀川橋梁、架け替え完了3年遅れ 部材作り直し再架設",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 109600.0,
+      "p50_usd": 10960000.0,
+      "p90_usd": 1096000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-15T01:04:00+00:00",
+      "last_seen_at": "2026-09-15T01:04:00+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_09ab265ba074c3f9efc8",
