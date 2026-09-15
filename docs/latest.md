@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-15T08:06:09+00:00_
+_Generiert: 2026-09-15T08:32:20+00:00_
 
 ## Kurzlage
 
-29 neue relevante Treffer. Stärkstes Signal: „The CLARITY Act vote could send crypto to US$2.73T or crash it to US$2.6T“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
+30 neue relevante Treffer. Stärkstes Signal: „The CLARITY Act vote could send crypto to US$2.73T or crash it to US$2.6T“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
 
 ## Priorität Hoch
 
@@ -168,6 +168,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 https://mirofish.ai 简洁通用的群体智能引擎，预测万物 A Simple and Universal Swarm Intelligence Engine, Predicting Anything English | 中文文档 ⚡ Overview MiroFish is a next-generation AI prediction engine powered by multi-agent technology. By extracting seed information from the real world (such as breaking news, policy drafts, or financial signals),…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Der Homebrew-Paketmanager bringt nun einen Sicherheitslücken-Scanner mit** — Score 7, observation — [Quelle](https://www.heise.de/news/Der-Homebrew-Paketmanager-bringt-nun-einen-Sicherheitsluecken-Scanner-mit-11453380.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-09-15T08:17:00.000+00:00`, fetched `2026-09-15T08:31:37+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Die neue Homebrew-Version 7.0.0 bietet einen integrierten Sicherheitslücken-Scanner für installierte Software und schließt acht Schwachstellen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Außer der Reihe: Microsoft fixt Probleme und Lücken nach Windows-Updates** — Score 7, observation — [Quelle](https://www.heise.de/news/Ausser-der-Reihe-Microsoft-fixt-Probleme-und-Luecken-nach-Windows-Updates-11453167.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-09-15T07:06:00.000+00:00`, fetched `2026-09-15T07:17:15+00:00`
@@ -203,15 +212,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 松本大臣記者会見（令和8年9月15日）動画を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Shifting economic landscapes - strategic responses of small open economies** — Score 6, observation — [Quelle](https://www.bis.org/speeches/20260914-shifting-economic-landscapes-strategic-responses-small-open-economies)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-09-14T00:00:00+00:00`, fetched `2026-09-15T04:12:57+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0)
-  - Kurz: Remarks by Dr Alwyn Jordan, Deputy Governor of the Central Bank of Barbados, at the 46th Annual Review Seminar of the Central Bank of Barbados, Bridgetown, 11 August 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
