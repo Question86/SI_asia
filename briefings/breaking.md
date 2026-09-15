@@ -1,10 +1,10 @@
 # Senna Breaking
 
-_Generiert: 2026-09-15T16:19:26+00:00_
+_Generiert: 2026-09-15T16:33:06+00:00_
 
 ## Version 1.0: Cisco Secure Email Gateway - Aktive Ausnutzung einer Zero-Day-Schwachstelle
 
-- Ranking Score: `39.45`
+- Ranking Score: `39.14`
 - Raw Network Score: `32.1`
 - Max Monitor Score: `30`
 - Reichweite: `specialist` / `2.5`
