@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-15T03:51:40Z",
+  "generated_at": "2026-09-15T04:16:05Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 27,
+    "dynamics": 31,
     "bands": {
       "strong": 7,
-      "watch": 7,
-      "quiet": 13
+      "watch": 9,
+      "quiet": 15
     },
     "bands_after_gate_recheck": {
       "strong": 7,
-      "watch": 7,
-      "quiet": 13
+      "watch": 9,
+      "quiet": 15
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://jvn.jp/jp/JVN02049764/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-15T12:00:00+09:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -46,7 +46,7 @@
       "url": "https://jvn.jp/vu/JVNVU99837984/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-15T10:00:00+09:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -66,35 +66,11 @@
       "summary": "パナソニック インダストリー株式会社が提供するMINAS A5/A6用Windows USBデバイスドライバには、バッファオーバーフローの脆弱性が存在します。"
     },
     {
-      "title": "Lite-On製O-RU「FF-RFI079I4」および「FF-RFI078I4」における複数の脆弱性",
-      "url": "https://jvn.jp/jp/JVN02049764/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-09-15T03:18:40+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2"
-      ],
-      "summary": ""
-    },
-    {
       "title": "The SaaSpocalypse will be selective",
       "url": "https://e27.co/the-saaspocalypse-will-be-selective-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T02:07:44+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [],
       "dynamics_score": 24.0,
       "raw_band": "strong",
@@ -118,7 +94,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11205-f6677-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-09-14T10:31:00+00:00",
-      "age_days": 0.72,
+      "age_days": 0.74,
       "topics": [
         "security"
       ],
@@ -142,7 +118,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11202-48c1b-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-09-14T10:16:00+00:00",
-      "age_days": 0.73,
+      "age_days": 0.75,
       "topics": [
         "security"
       ],
@@ -162,11 +138,35 @@
       "summary": "思考軟體科技｜電子柵欄 - SQL Injection"
     },
     {
+      "title": "Lite-On製O-RU「FF-RFI079I4」および「FF-RFI078I4」における複数の脆弱性",
+      "url": "https://jvn.jp/jp/JVN02049764/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-09-15T03:18:40+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "パナソニック インダストリー製MINAS A5/A6用Windows USBデバイスドライバにおけるバッファオーバーフローの脆弱性",
       "url": "https://jvn.jp/vu/JVNVU99837984/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-15T01:04:00+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -190,7 +190,7 @@
       "url": "https://e27.co/gpt-6-astra-cuts-ai-task-time-nearly-in-half-it-still-cant-fix-your-audience-data-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T02:34:11+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -216,7 +216,7 @@
       "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02761/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-15T01:04:00+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -240,7 +240,7 @@
       "url": "https://e27.co/how-to-use-ai-to-win-hint-it-has-nothing-to-do-with-being-more-productive-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T01:04:00+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -266,7 +266,7 @@
       "url": "https://e27.co/the-saaspocalypse-will-be-selective-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T02:00:53+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -292,7 +292,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001472/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-15T02:49:44+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -312,11 +312,59 @@
       "summary": ""
     },
     {
+      "title": "The geopolitics of scarcity: Why middle powers must learn to prioritise",
+      "url": "https://e27.co/the-geopolitics-of-scarcity-why-middle-powers-must-learn-to-prioritise-20260912/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-15T03:18:40+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "松本大臣記者会見（令和8年9月15日）動画を掲載しました",
+      "url": "https://www.digital.go.jp/speech/minister-260915-01",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-09-15T04:13:31+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 12.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "華擎科技｜ASRock Polychrome SYNC/RGB software utility - 存在2個漏洞",
       "url": "https://www.twcert.org.tw/tw/cp-132-11205-f6677-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 87.68,
+      "age_days": 87.7,
       "topics": [
         "general"
       ],
@@ -341,7 +389,7 @@
       "url": "https://e27.co/what-southeast-asias-edutech-startups-can-learn-from-ais-limits-in-education-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T01:34:58+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -363,35 +411,11 @@
       "summary": ""
     },
     {
-      "title": "The geopolitics of scarcity: Why middle powers must learn to prioritise",
-      "url": "https://e27.co/the-geopolitics-of-scarcity-why-middle-powers-must-learn-to-prioritise-20260912/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-15T03:18:40+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Apple、「iOS 27」「iPadOS 27」の一般提供を開始 ～「Siri AI」の日本語対応は年内／126件の脆弱性修正も",
       "url": "https://forest.watch.impress.co.jp/docs/news/2140863.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-15T00:15:13+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -417,7 +441,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001472/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-15T01:09:50+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -437,11 +461,36 @@
       "summary": "配車アプリ「GO」と「Waymo」それぞれから配車できる自動運転タクシーを、段階的に100台規模で運行する計画。 正式な運行開始時期は、安全性が認められ、必要な許認可の取得が完了した後に決める。 GOは地域のタクシー事業者との連携の要となり、Waymoの自動運転技術を日本のタクシー産業に組み込むための全体設計を担う..."
     },
     {
+      "title": "Shifting economic landscapes - strategic responses of small open economies",
+      "url": "https://www.bis.org/speeches/20260914-shifting-economic-landscapes-strategic-responses-small-open-economies",
+      "source": "BIS Central Bankers Speeches",
+      "published_at": "2026-06-18T14:33:45+00:00",
+      "age_days": 88.57,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 8.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "aging penalty -8.0 for 88.6d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "GPT-6 Astra cuts AI task time nearly in half. It still can’t fix your audience data",
       "url": "https://e27.co/gpt-6-astra-cuts-ai-task-time-nearly-in-half-it-still-cant-fix-your-audience-data-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T02:30:13+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "macro"
@@ -467,7 +516,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN1500C0V10C26A9000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-14T21:49:16+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "ai"
       ],
@@ -493,7 +542,7 @@
       "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02761/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-14T22:14:04+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -517,7 +566,7 @@
       "url": "https://e27.co/how-to-use-ai-to-win-hint-it-has-nothing-to-do-with-being-more-productive-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T01:00:05+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -538,11 +587,59 @@
       "summary": "AI is automating tasks that used to take hours for humans to do. It’s pushing some costs down and it’s making some teams more productive. Don’t make the mistake, however, of thinking that using AI to do things more productively is enough to ensure your business has a competitive edge and succeeds. If you strip […] The…"
     },
     {
+      "title": "松本大臣記者会見（令和8年9月15日）動画を掲載しました",
+      "url": "https://www.digital.go.jp/speech/minister-260915-01",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-09-15T04:04:12+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "松本大臣記者会見（令和8年9月15日）動画を掲載しました"
+    },
+    {
+      "title": "Shifting economic landscapes - strategic responses of small open economies",
+      "url": "https://www.bis.org/speeches/20260914-shifting-economic-landscapes-strategic-responses-small-open-economies",
+      "source": "BIS Central Bankers Speeches",
+      "published_at": "2026-09-14T00:00:00+00:00",
+      "age_days": 1.18,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "Remarks by Dr Alwyn Jordan, Deputy Governor of the Central Bank of Barbados, at the 46th Annual Review Seminar of the Central Bank of Barbados, Bridgetown, 11 August 2026."
+    },
+    {
       "title": "トランプ氏、AI懸念を陰謀と一蹴 「高IQの大統領いれば統制は十分」 - 日本経済新聞",
       "url": "https://www.nikkei.com/article/DGXZQOGN1500C0V10C26A9000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T02:10:07+00:00",
-      "age_days": 88.07,
+      "age_days": 88.09,
       "topics": [
         "ai"
       ],
@@ -569,7 +666,7 @@
       "url": "https://e27.co/what-southeast-asias-edutech-startups-can-learn-from-ais-limits-in-education-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T01:30:20+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -594,7 +691,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2140863.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-14T20:43:45+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -619,7 +716,7 @@
       "url": "https://togetter.com/li/2745721",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T12:31:48+00:00",
-      "age_days": 87.64,
+      "age_days": 87.66,
       "topics": [
         "ai"
       ],
@@ -636,7 +733,7 @@
       "why": [
         "momentum delta +3",
         "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 87.6d old signal",
+        "aging penalty -8.0 for 87.7d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -646,7 +743,7 @@
       "url": "https://togetter.com/li/2745721",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-14T23:43:57+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -671,7 +768,7 @@
       "url": "https://e27.co/the-geopolitics-of-scarcity-why-middle-powers-must-learn-to-prioritise-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T03:00:14+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
