@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T22:22:13+00:00",
-  "run_id": "2026-09-15T22:22:13+00:00",
+  "generated_at": "2026-09-15T22:31:26+00:00",
+  "run_id": "2026-09-15T22:31:26+00:00",
   "date": "2026-09-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 84
+      "configured_public_sources_only": 85
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 84,
-    "displayed_findings": 84,
+    "new_relevant_findings": 1,
+    "today_file_total": 85,
+    "displayed_findings": 85,
     "high": 1,
     "medium": 30,
-    "observe": 53,
+    "observe": 54,
     "source_errors": 0
   },
   "sections": {
@@ -1729,6 +1729,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "91f08c62cb477cbec7ff"
+      },
+      {
+        "title": "誰かの役に立つアウトプットの作り方〜学びの循環に飛び込もう！",
+        "url": "https://speakerdeck.com/ikuodanaka/dareka-no-yakunitatsu-autoputto-no-tsukurikata-manabi-no-junkan-ni-tobikomou",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-15T15:20:23+00:00",
+        "fetched_at": "2026-09-15T22:30:56+00:00",
+        "summary": "2026/09/15 【Speaker Bootcamp】伝わる発表は準備が9割 ―自信を持つためのワークショップ https://findy.connpass.com/event/402618/",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a50e0168355c5cdb1436"
       },
       {
         "title": "バイブコーディングで GUI が壊れていく理由とその対策プロンプト",
@@ -3657,6 +3678,27 @@
       "id": "91f08c62cb477cbec7ff"
     },
     {
+      "title": "誰かの役に立つアウトプットの作り方〜学びの循環に飛び込もう！",
+      "url": "https://speakerdeck.com/ikuodanaka/dareka-no-yakunitatsu-autoputto-no-tsukurikata-manabi-no-junkan-ni-tobikomou",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-15T15:20:23+00:00",
+      "fetched_at": "2026-09-15T22:30:56+00:00",
+      "summary": "2026/09/15 【Speaker Bootcamp】伝わる発表は準備が9割 ―自信を持つためのワークショップ https://findy.connpass.com/event/402618/",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a50e0168355c5cdb1436"
+    },
+    {
       "title": "バイブコーディングで GUI が壊れていく理由とその対策プロンプト",
       "url": "https://zenn.dev/nrs/articles/9ba91aea587bf5",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3882,7 +3924,29 @@
       "id": "d37d0b80b1c8dd36c862"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "誰かの役に立つアウトプットの作り方〜学びの循環に飛び込もう！",
+      "url": "https://speakerdeck.com/ikuodanaka/dareka-no-yakunitatsu-autoputto-no-tsukurikata-manabi-no-junkan-ni-tobikomou",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-15T15:20:23+00:00",
+      "fetched_at": "2026-09-15T22:30:56+00:00",
+      "summary": "2026/09/15 【Speaker Bootcamp】伝わる発表は準備が9割 ―自信を持つためのワークショップ https://findy.connpass.com/event/402618/",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a50e0168355c5cdb1436"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
