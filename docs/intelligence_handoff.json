@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-15T11:38:43Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] GIMP Plugins: Mehrere Schwachstellen ermöglichen Codeausführung und DoS” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
+  "generated_at": "2026-09-15T12:46:04Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [hoch] MISP: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,36 @@
   ],
   "top_dynamics": [
     {
+      "title": "[NEU] [hoch] MISP: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3370",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-15T12:06:31+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 31.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in MISP ausnutzen, um erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren und offenzulegen, beliebigen Code auszuführen und Benutzer auf bösartige URLs umzuleiten."
+    },
+    {
       "title": "[NEU] [mittel] GIMP Plugins: Mehrere Schwachstellen ermöglichen Codeausführung und DoS",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3358",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-15T11:21:32+00:00",
-      "age_days": 0.01,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -40,7 +65,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3353",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-15T11:11:31+00:00",
-      "age_days": 0.02,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "security"
@@ -66,7 +91,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3352",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-15T11:11:31+00:00",
-      "age_days": 0.02,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -91,7 +116,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3349",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-15T10:56:31+00:00",
-      "age_days": 0.03,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -112,11 +137,37 @@
       "summary": "Ein Angreifer kann eine Schwachstelle in Octopus Deploy Server ausnutzen, um beliebigen Programmcode auszuführen."
     },
     {
+      "title": "Multiples vulnérabilités dans les produits Ivanti (09 septembre 2026)",
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1135/",
+      "source": "CERT-FR Avis de sécurité",
+      "published_at": "2026-09-09T00:00:00+00:00",
+      "age_days": 6.53,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 29.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: active, exploitation, code",
+        "security high-signal: active, exploitation, code, ivanti"
+      ],
+      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Ivanti. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un contournement de la politique de sécurité."
+    },
+    {
       "title": "[NEU] [niedrig] Fleet: Schwachstelle ermöglicht Offenlegung von Informationen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3362",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-15T11:26:32+00:00",
-      "age_days": 0.01,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -142,7 +193,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3361",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-15T11:26:31+00:00",
-      "age_days": 0.01,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -168,7 +219,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3357",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-15T11:21:32+00:00",
-      "age_days": 0.01,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "security"
@@ -195,7 +246,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3350",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-15T11:06:31+00:00",
-      "age_days": 0.02,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -221,7 +272,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3347",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-15T10:51:31+00:00",
-      "age_days": 0.03,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -247,7 +298,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3308",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-15T09:16:31+00:00",
-      "age_days": 0.1,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -267,56 +318,6 @@
         "official security but no high-signal phrase: capped at strong"
       ],
       "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM DB2 ausnutzen, um beliebigen Programmcode auszuführen, beliebige Dateien zu schreiben, Daten zu manipulieren, sensible Informationen offenzulegen oder Denial-of-Service-Zustände zu verursachen."
-    },
-    {
-      "title": "[NEU] [hoch] Microsoft Windows 11 (Secure Kernel Mode): Schwachstelle ermöglicht Privilegieneskalation",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3348",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-09-15T10:51:31+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cert-bund, bsi, security, advisory",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in Microsoft Windows 11 (Secure Kernel Mode) ausnutzen, um seine Privilegien zu erhöhen."
-    },
-    {
-      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (libkcapi): Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3322",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-09-15T09:16:31+00:00",
-      "age_days": 0.1,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cert-bund, bsi, security, advisory",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Informationen offenzulegen, Daten zu manipulieren, Speicherbeschädigungen zu verursachen oder einen Denial-of-Service-Zustand auszulösen."
     }
   ],
   "read_order": [
@@ -328,8 +329,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "krass": 4,
-      "strong": 8
+      "krass": 6,
+      "strong": 6
     }
   }
 }
