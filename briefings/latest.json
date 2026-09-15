@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T18:57:48+00:00",
-  "run_id": "2026-09-15T18:57:48+00:00",
+  "generated_at": "2026-09-15T19:15:31+00:00",
+  "run_id": "2026-09-15T19:15:31+00:00",
   "date": "2026-09-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 78
+      "configured_public_sources_only": 79
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 78,
-    "displayed_findings": 78,
+    "today_file_total": 79,
+    "displayed_findings": 79,
     "high": 1,
     "medium": 30,
-    "observe": 47,
+    "observe": 48,
     "source_errors": 0
   },
   "sections": {
@@ -1643,6 +1643,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "91f08c62cb477cbec7ff"
+      },
+      {
+        "title": "バイブコーディングで GUI が壊れていく理由とその対策プロンプト",
+        "url": "https://zenn.dev/nrs/articles/9ba91aea587bf5",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-15T13:00:04+00:00",
+        "fetched_at": "2026-09-15T19:15:01+00:00",
+        "summary": "TLDL AIに常駐アプリの画面を作らせる際は以下の指示を出します。 この指示をそのまま伝えてみてください。 すべてのコンポーネントを Root の配下に置き、各コンポーネントは MVP パターンの Passive View として描画に関わるパラメータだけを操作し、動作は Chain of Responsibility でイベントをバブリングさせて、ス...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5e1bd3f21a7ef8abb036"
       },
       {
         "title": "三菱、ヒートポンプ機器の熱交換性能を3倍にする新技術 - 家電 Watch",
@@ -3443,6 +3464,27 @@
       "id": "91f08c62cb477cbec7ff"
     },
     {
+      "title": "バイブコーディングで GUI が壊れていく理由とその対策プロンプト",
+      "url": "https://zenn.dev/nrs/articles/9ba91aea587bf5",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-15T13:00:04+00:00",
+      "fetched_at": "2026-09-15T19:15:01+00:00",
+      "summary": "TLDL AIに常駐アプリの画面を作らせる際は以下の指示を出します。 この指示をそのまま伝えてみてください。 すべてのコンポーネントを Root の配下に置き、各コンポーネントは MVP パターンの Passive View として描画に関わるパラメータだけを操作し、動作は Chain of Responsibility でイベントをバブリングさせて、ス...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5e1bd3f21a7ef8abb036"
+    },
+    {
       "title": "三菱、ヒートポンプ機器の熱交換性能を3倍にする新技術 - 家電 Watch",
       "url": "https://kaden.watch.impress.co.jp/docs/news/2140739.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3628,26 +3670,25 @@
   ],
   "new_findings": [
     {
-      "title": "東京で27年無人タクシー運行、既存の運転手はどうなる？--失業懸念に川鍋会長が回答",
-      "url": "https://japan.cnet.com/article/35252621/",
+      "title": "バイブコーディングで GUI が壊れていく理由とその対策プロンプト",
+      "url": "https://zenn.dev/nrs/articles/9ba91aea587bf5",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-15T06:29:51+00:00",
-      "fetched_at": "2026-09-15T18:57:16+00:00",
-      "summary": "GOと米Waymo、日本交通は同日、2027年中に東京で完全無人タクシーの商用運行を目指すと発表した。段階的に100台規模で運行する計画で、正式な開始時期は安全性の確認と必要な許認可の取得後に決まる。 川鍋氏によると、ドライバーには年間10％弱の入れ替わりがある。今後無人タクシーが普及したとしても、採用を止めるこ...",
+      "published_at": "2026-09-15T13:00:04+00:00",
+      "fetched_at": "2026-09-15T19:15:01+00:00",
+      "summary": "TLDL AIに常駐アプリの画面を作らせる際は以下の指示を出します。 この指示をそのまま伝えてみてください。 すべてのコンポーネントを Root の配下に置き、各コンポーネントは MVP パターンの Passive View として描画に関わるパラメータだけを操作し、動作は Chain of Responsibility でイベントをバブリングさせて、ス...",
       "matched_keywords": [
-        "APAC Trend Radar",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "3ece623eb11529d563ea"
+      "id": "5e1bd3f21a7ef8abb036"
     }
   ],
   "source_errors": [],
