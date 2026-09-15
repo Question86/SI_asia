@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T13:09:33+00:00",
-  "run_id": "2026-09-15T13:09:33+00:00",
+  "generated_at": "2026-09-15T13:26:48+00:00",
+  "run_id": "2026-09-15T13:26:48+00:00",
   "date": "2026-09-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 61
+      "configured_public_sources_only": 62
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 61,
-    "displayed_findings": 61,
+    "new_relevant_findings": 1,
+    "today_file_total": 62,
+    "displayed_findings": 62,
     "high": 1,
     "medium": 29,
-    "observe": 31,
+    "observe": 32,
     "source_errors": 0
   },
   "sections": {
@@ -889,6 +889,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "1207ee344fdcbddf6995"
+      },
+      {
+        "title": "生成AIが書いたドキュメントを読みたくない - Qiita",
+        "url": "https://qiita.com/take-yoda/items/e5d9ce6618523af1ffc5",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-14T11:11:06+00:00",
+        "fetched_at": "2026-09-15T13:25:53+00:00",
+        "summary": "株式会社ブレインパッドプロダクト開発部でRtoaster GenAIの開発をしている依田です。 Claude CodeにDesign docやPRを書かせていて、「情報量は多いのに、何を決めたのかがなかなか頭に入ってこない」と感じたことはないでしょうか。私は何度もあります。読んでいるあいだずっと気を張っていないと、一番知りたい結論を...",
+        "matched_keywords": [
+          "AI Agents",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "bde2d92939d6628f7a67"
       },
       {
         "title": "M 4.8 - 229 km E of Tadine, New Caledonia",
@@ -2288,6 +2310,28 @@
       "id": "1207ee344fdcbddf6995"
     },
     {
+      "title": "生成AIが書いたドキュメントを読みたくない - Qiita",
+      "url": "https://qiita.com/take-yoda/items/e5d9ce6618523af1ffc5",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-14T11:11:06+00:00",
+      "fetched_at": "2026-09-15T13:25:53+00:00",
+      "summary": "株式会社ブレインパッドプロダクト開発部でRtoaster GenAIの開発をしている依田です。 Claude CodeにDesign docやPRを書かせていて、「情報量は多いのに、何を決めたのかがなかなか頭に入ってこない」と感じたことはないでしょうか。私は何度もあります。読んでいるあいだずっと気を張っていないと、一番知りたい結論を...",
+      "matched_keywords": [
+        "AI Agents",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bde2d92939d6628f7a67"
+    },
+    {
       "title": "M 4.8 - 229 km E of Tadine, New Caledonia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thjj",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -2824,7 +2868,30 @@
       "id": "d37d0b80b1c8dd36c862"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "生成AIが書いたドキュメントを読みたくない - Qiita",
+      "url": "https://qiita.com/take-yoda/items/e5d9ce6618523af1ffc5",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-14T11:11:06+00:00",
+      "fetched_at": "2026-09-15T13:25:53+00:00",
+      "summary": "株式会社ブレインパッドプロダクト開発部でRtoaster GenAIの開発をしている依田です。 Claude CodeにDesign docやPRを書かせていて、「情報量は多いのに、何を決めたのかがなかなか頭に入ってこない」と感じたことはないでしょうか。私は何度もあります。読んでいるあいだずっと気を張っていないと、一番知りたい結論を...",
+      "matched_keywords": [
+        "AI Agents",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bde2d92939d6628f7a67"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
