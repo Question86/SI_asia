@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-15T05:30:17Z",
+  "generated_at": "2026-09-15T05:42:38Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Androidアプリ「【保護者専用】まなびポケット」におけるアクセス制限不備の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/jp/JVN72918755/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-15T14:00:00+09:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://jvn.jp/jp/JVN02049764/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-15T12:00:00+09:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -63,7 +63,7 @@
       "url": "https://jvn.jp/vu/JVNVU99837984/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-15T10:00:00+09:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -87,7 +87,7 @@
       "url": "https://e27.co/the-90-second-pitch-that-helps-foreign-founders-crack-tokyos-networking-scene-20260915/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T04:46:52+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -110,11 +110,36 @@
       "summary": ""
     },
     {
+      "title": "The CLARITY Act vote could send crypto to US$2.73T or crash it to US$2.6T",
+      "url": "https://e27.co/the-clarity-act-vote-could-send-crypto-to-us2-73t-or-crash-it-to-us2-6t-20260915/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-15T05:35:26+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "krass gate: single-source non-official/non-identity signal capped"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Androidアプリ「【保護者専用】まなびポケット」におけるアクセス制限不備の脆弱性",
       "url": "https://jvn.jp/jp/JVN72918755/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-09T12:51:45+00:00",
-      "age_days": 5.69,
+      "age_days": 5.7,
       "topics": [
         "general"
       ],
@@ -125,12 +150,12 @@
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 8.3,
+      "baseline_z_hint": 8.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 8.30",
+        "baseline z_hint 8.00",
         "krass gate: single-source non-official/non-identity signal capped"
       ],
       "summary": ""
@@ -140,7 +165,7 @@
       "url": "https://e27.co/the-saaspocalypse-will-be-selective-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T02:07:44+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [],
       "dynamics_score": 24.0,
       "raw_band": "strong",
@@ -164,7 +189,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11205-f6677-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-09-14T10:31:00+00:00",
-      "age_days": 0.79,
+      "age_days": 0.8,
       "topics": [
         "security"
       ],
@@ -188,7 +213,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11202-48c1b-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-09-14T10:16:00+00:00",
-      "age_days": 0.8,
+      "age_days": 0.81,
       "topics": [
         "security"
       ],
@@ -212,7 +237,7 @@
       "url": "https://jvn.jp/jp/JVN02049764/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-15T03:18:40+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -236,7 +261,7 @@
       "url": "https://jvn.jp/vu/JVNVU99837984/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-15T01:04:00+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -260,7 +285,7 @@
       "url": "https://e27.co/the-90-second-pitch-that-helps-foreign-founders-crack-tokyos-networking-scene-20260915/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T04:36:53+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -280,32 +305,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "For all the talk of Tokyo’s growing openness to international founders, language still shapes how quickly doors open in Japan’s startup community. English-friendly meetups and conferences are far more common than they were a decade ago, but according to a new guide from Blackbox JP, the first few sentences a founder s…"
-    },
-    {
-      "title": "GPT-6 Astra cuts AI task time nearly in half. It still can’t fix your audience data",
-      "url": "https://e27.co/gpt-6-astra-cuts-ai-task-time-nearly-in-half-it-still-cant-fix-your-audience-data-20260912/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-15T02:34:11+00:00",
-      "age_days": 0.12,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 16.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
     }
   ],
   "read_order": [
@@ -317,8 +316,7 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 11,
-      "watch": 1
+      "strong": 12
     }
   }
 }

@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-15T05:30:17Z",
+  "generated_at": "2026-09-15T05:42:38Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 35,
+    "dynamics": 40,
     "bands": {
       "krass": 1,
-      "strong": 10,
-      "watch": 9,
-      "quiet": 15
+      "strong": 11,
+      "watch": 11,
+      "quiet": 17
     },
     "bands_after_gate_recheck": {
-      "strong": 11,
-      "watch": 9,
-      "quiet": 15
+      "strong": 12,
+      "watch": 11,
+      "quiet": 17
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/jp/JVN72918755/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-15T14:00:00+09:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://jvn.jp/jp/JVN02049764/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-15T12:00:00+09:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -71,7 +71,7 @@
       "url": "https://jvn.jp/vu/JVNVU99837984/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-15T10:00:00+09:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "security"
       ],
@@ -95,7 +95,7 @@
       "url": "https://e27.co/the-90-second-pitch-that-helps-foreign-founders-crack-tokyos-networking-scene-20260915/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T04:46:52+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -118,11 +118,36 @@
       "summary": ""
     },
     {
+      "title": "The CLARITY Act vote could send crypto to US$2.73T or crash it to US$2.6T",
+      "url": "https://e27.co/the-clarity-act-vote-could-send-crypto-to-us2-73t-or-crash-it-to-us2-6t-20260915/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-15T05:35:26+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "krass gate: single-source non-official/non-identity signal capped"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Androidアプリ「【保護者専用】まなびポケット」におけるアクセス制限不備の脆弱性",
       "url": "https://jvn.jp/jp/JVN72918755/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-09T12:51:45+00:00",
-      "age_days": 5.69,
+      "age_days": 5.7,
       "topics": [
         "general"
       ],
@@ -133,12 +158,12 @@
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 8.3,
+      "baseline_z_hint": 8.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 8.30",
+        "baseline z_hint 8.00",
         "krass gate: single-source non-official/non-identity signal capped"
       ],
       "summary": ""
@@ -148,7 +173,7 @@
       "url": "https://e27.co/the-saaspocalypse-will-be-selective-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T02:07:44+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [],
       "dynamics_score": 24.0,
       "raw_band": "strong",
@@ -172,7 +197,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11205-f6677-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-09-14T10:31:00+00:00",
-      "age_days": 0.79,
+      "age_days": 0.8,
       "topics": [
         "security"
       ],
@@ -196,7 +221,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11202-48c1b-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-09-14T10:16:00+00:00",
-      "age_days": 0.8,
+      "age_days": 0.81,
       "topics": [
         "security"
       ],
@@ -220,7 +245,7 @@
       "url": "https://jvn.jp/jp/JVN02049764/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-15T03:18:40+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -244,7 +269,7 @@
       "url": "https://jvn.jp/vu/JVNVU99837984/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-15T01:04:00+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -268,7 +293,7 @@
       "url": "https://e27.co/the-90-second-pitch-that-helps-foreign-founders-crack-tokyos-networking-scene-20260915/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T04:36:53+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -290,11 +315,37 @@
       "summary": "For all the talk of Tokyo’s growing openness to international founders, language still shapes how quickly doors open in Japan’s startup community. English-friendly meetups and conferences are far more common than they were a decade ago, but according to a new guide from Blackbox JP, the first few sentences a founder s…"
     },
     {
+      "title": "OpenAI hires former Elastic and Snowflake exec Sanjay Deshmukh to lead Asia Pacific sales",
+      "url": "https://e27.co/openai-hires-former-elastic-and-snowflake-exec-sanjay-deshmukh-to-lead-asia-pacific-sales-20260915/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-15T05:35:26+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 18.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "GPT-6 Astra cuts AI task time nearly in half. It still can’t fix your audience data",
       "url": "https://e27.co/gpt-6-astra-cuts-ai-task-time-nearly-in-half-it-still-cant-fix-your-audience-data-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T02:34:11+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -320,7 +371,7 @@
       "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02761/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-15T01:04:00+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -340,11 +391,38 @@
       "summary": ""
     },
     {
+      "title": "The CLARITY Act vote could send crypto to US$2.73T or crash it to US$2.6T",
+      "url": "https://e27.co/the-clarity-act-vote-could-send-crypto-to-us2-73t-or-crash-it-to-us2-6t-20260915/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-15T05:25:20+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 16.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: critical, 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Asian and global stocks declined today as the benchmark US 10-year Treasury yield climbed above the critical five per cent threshold. That level pressures risk assets because it raises the discount rate applied to future corporate earnings. Semiconductor shares sold off sharply, dragging technology-heavy indices from…"
+    },
+    {
       "title": "How to use AI to win (Hint: It has nothing to do with being more productive)",
       "url": "https://e27.co/how-to-use-ai-to-win-hint-it-has-nothing-to-do-with-being-more-productive-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T01:04:00+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -370,7 +448,7 @@
       "url": "https://www.digital.go.jp/speech/minister-260915-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-15T04:13:31+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -420,7 +498,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001472/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-15T02:49:44+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -444,7 +522,7 @@
       "url": "https://e27.co/the-geopolitics-of-scarcity-why-middle-powers-must-learn-to-prioritise-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T03:18:40+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -468,7 +546,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11205-f6677-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-06-19T11:28:55+00:00",
-      "age_days": 87.75,
+      "age_days": 87.76,
       "topics": [
         "general"
       ],
@@ -493,7 +571,7 @@
       "url": "https://e27.co/what-southeast-asias-edutech-startups-can-learn-from-ais-limits-in-education-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T01:34:58+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -515,11 +593,35 @@
       "summary": ""
     },
     {
+      "title": "「世の中には敵より味方の方が多い」という信頼感を持っていた方が、その逆よりは生きやすい",
+      "url": "https://blog.tinect.jp/?p=91489",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-15T05:35:26+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 11.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Apple、「iOS 27」「iPadOS 27」の一般提供を開始 ～「Siri AI」の日本語対応は年内／126件の脆弱性修正も",
       "url": "https://forest.watch.impress.co.jp/docs/news/2140863.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-15T00:15:13+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -545,7 +647,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/15/2000001472/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-15T01:09:50+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -595,7 +697,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN1500C0V10C26A9000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-14T21:49:16+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "ai"
       ],
@@ -621,7 +723,7 @@
       "url": "https://xtech.nikkei.com/atcl/nxt/column/18/00142/02761/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-14T22:14:04+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -641,11 +743,37 @@
       "summary": "カナデビア（旧日立造船）による溶接不良が約2万8000カ所見つかった阪神なんば線淀川橋梁の架け替え工事の完了が、予定よりも3年遅れて2034年度となることが分かった。鋼製部材の作り直しと再架設に加え、地中障害物の撤去が必要となり、時間がかかっている。溶接不良があった箇所の施工を手掛ける日本橋梁（大阪市）は..."
     },
     {
+      "title": "OpenAI hires former Elastic and Snowflake exec Sanjay Deshmukh to lead Asia Pacific sales",
+      "url": "https://e27.co/openai-hires-former-elastic-and-snowflake-exec-sanjay-deshmukh-to-lead-asia-pacific-sales-20260915/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-15T05:30:16+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "OpenAI has appointed Sanjay Deshmukh as its first Vice President of Asia Pacific sales, a hire that signals the ChatGPT maker is moving beyond product launches and into the harder work of building an enterprise sales machine across one of its fastest-growing markets. Based in Singapore, Deshmukh will lead OpenAI’s com…"
+    },
+    {
       "title": "How to use AI to win (Hint: It has nothing to do with being more productive)",
       "url": "https://e27.co/how-to-use-ai-to-win-hint-it-has-nothing-to-do-with-being-more-productive-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T01:00:05+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -670,7 +798,7 @@
       "url": "https://www.digital.go.jp/speech/minister-260915-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-15T04:04:12+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -694,7 +822,7 @@
       "url": "https://www.bis.org/speeches/20260914-shifting-economic-landscapes-strategic-responses-small-open-economies",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-09-14T00:00:00+00:00",
-      "age_days": 1.23,
+      "age_days": 1.24,
       "topics": [
         "macro"
       ],
@@ -718,7 +846,7 @@
       "url": "https://www.bis.org/speeches/20260914-shifting-economic-landscapes-strategic-responses-small-open-economies",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 88.62,
+      "age_days": 88.63,
       "topics": [
         "macro"
       ],
@@ -739,11 +867,35 @@
       "summary": ""
     },
     {
+      "title": "「世の中には敵より味方の方が多い」という信頼感を持っていた方が、その逆よりは生きやすい",
+      "url": "https://blog.tinect.jp/?p=91489",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-15T00:15:10+00:00",
+      "age_days": 0.23,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "2007年の夏に長男が生まれて、それから大体19年くらい経ちました。 途中、双子の長女次女が増援にきまして、現在は5人家族です。 長男が生まれたのは、確かまだ本格的に暑くなり始める前の初夏の月曜日、朝に妻が産気づいたので私は会社に連絡をして、割と無理やりめに休みをもらいました。 その後、長男が昼頃に生まれ..."
+    },
+    {
       "title": "トランプ氏、AI懸念を陰謀と一蹴 「高IQの大統領いれば統制は十分」 - 日本経済新聞",
       "url": "https://www.nikkei.com/article/DGXZQOGN1500C0V10C26A9000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T02:10:07+00:00",
-      "age_days": 88.14,
+      "age_days": 88.15,
       "topics": [
         "ai"
       ],
@@ -770,7 +922,7 @@
       "url": "https://e27.co/what-southeast-asias-edutech-startups-can-learn-from-ais-limits-in-education-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-15T01:30:20+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -820,7 +972,7 @@
       "url": "https://togetter.com/li/2745721",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T12:31:48+00:00",
-      "age_days": 87.71,
+      "age_days": 87.72,
       "topics": [
         "ai"
       ],
@@ -847,7 +999,7 @@
       "url": "https://togetter.com/li/2745721",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-14T23:43:57+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -866,31 +1018,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "関宮 @sekimiya 賃貸の退去で意味のわかんない請求されてクソむかついたのでclaudeくんに「法的にギリギリ訴えられないラインで相手のメールに対する超攻撃的な法的根拠のある返信メールを書いて欲しい。文章は複数の課金AIでクロスチェックします」って相手の返信貼り付け続けて返信してたら20万くらいの退去費用がチャ..."
-    },
-    {
-      "title": "The geopolitics of scarcity: Why middle powers must learn to prioritise",
-      "url": "https://e27.co/the-geopolitics-of-scarcity-why-middle-powers-must-learn-to-prioritise-20260912/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-15T03:00:14+00:00",
-      "age_days": 0.1,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "When Keir Starmer recently argued that Britain must rebuild its hard power, much of the discussion focused on defence spending. That is understandable. After years of underinvestment, Britain faces difficult choices about military capability at a time of growing geopolitical instability. But money is only part of the…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Androidアプリ「【保護者専用】まなびポケット」におけるアクセス制限不備の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
