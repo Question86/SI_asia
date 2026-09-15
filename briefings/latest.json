@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T14:24:01+00:00",
-  "run_id": "2026-09-15T14:24:01+00:00",
+  "generated_at": "2026-09-15T14:34:24+00:00",
+  "run_id": "2026-09-15T14:34:24+00:00",
   "date": "2026-09-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 72
+      "configured_public_sources_only": 74
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 72,
-    "displayed_findings": 72,
+    "new_relevant_findings": 2,
+    "today_file_total": 74,
+    "displayed_findings": 74,
     "high": 1,
     "medium": 30,
-    "observe": 41,
+    "observe": 43,
     "source_errors": 0
   },
   "sections": {
@@ -1103,6 +1103,26 @@
         "id": "79d48acdec4071e16627"
       },
       {
+        "title": "Central banks on-chain",
+        "url": "https://www.bis.org/speeches/20260915-central-banks-on-chain",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-09-15T00:00:00+00:00",
+        "fetched_at": "2026-09-15T14:33:54+00:00",
+        "summary": "Speech by Ms Isabel Schnabel, Member of the Executive Board of the European Central Bank, at \"Financial innovation: implications for payments and policy”, an economic symposium sponsored by the Federal Reserve Bank of Kansas City, Jackson Hole, Wyoming, 28 August 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3c0be9fc56aa936f6098"
+      },
+      {
         "title": "Apple、「iOS 27」「iPadOS 27」の一般提供を開始 ～「Siri AI」の日本語対応は年内／126件の脆弱性修正も",
         "url": "https://forest.watch.impress.co.jp/docs/news/2140863.html",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1165,6 +1185,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "31ba7772c526f04c861a"
+      },
+      {
+        "title": "Opening remarks - 13th Irving Fisher Committee Conference",
+        "url": "https://www.bis.org/speeches/20260915-opening-remarks-13th-irving-fisher-committee-conference",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-09-15T00:00:00+00:00",
+        "fetched_at": "2026-09-15T14:33:54+00:00",
+        "summary": "Speech (virtually) by Ms Michele Bullock, Governor of the Reserve Bank of Australia, at the 13th Biennial Irving Fisher Committee on Central Bank Statistics (IFC) Conference, 20 August 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region australia: Australia, Reserve Bank of Australia (+2.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "7c4f2ff82bb6660107fe"
       },
       {
         "title": "In our time",
@@ -2776,6 +2816,26 @@
       "id": "79d48acdec4071e16627"
     },
     {
+      "title": "Central banks on-chain",
+      "url": "https://www.bis.org/speeches/20260915-central-banks-on-chain",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-15T00:00:00+00:00",
+      "fetched_at": "2026-09-15T14:33:54+00:00",
+      "summary": "Speech by Ms Isabel Schnabel, Member of the Executive Board of the European Central Bank, at \"Financial innovation: implications for payments and policy”, an economic symposium sponsored by the Federal Reserve Bank of Kansas City, Jackson Hole, Wyoming, 28 August 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3c0be9fc56aa936f6098"
+    },
+    {
       "title": "Apple、「iOS 27」「iPadOS 27」の一般提供を開始 ～「Siri AI」の日本語対応は年内／126件の脆弱性修正も",
       "url": "https://forest.watch.impress.co.jp/docs/news/2140863.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2838,6 +2898,26 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "31ba7772c526f04c861a"
+    },
+    {
+      "title": "Opening remarks - 13th Irving Fisher Committee Conference",
+      "url": "https://www.bis.org/speeches/20260915-opening-remarks-13th-irving-fisher-committee-conference",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-15T00:00:00+00:00",
+      "fetched_at": "2026-09-15T14:33:54+00:00",
+      "summary": "Speech (virtually) by Ms Michele Bullock, Governor of the Reserve Bank of Australia, at the 13th Biennial Irving Fisher Committee on Central Bank Statistics (IFC) Conference, 20 August 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region australia: Australia, Reserve Bank of Australia (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "7c4f2ff82bb6660107fe"
     },
     {
       "title": "In our time",
@@ -3378,135 +3458,44 @@
   ],
   "new_findings": [
     {
-      "title": "AIエージェントの自己改善をどう設計するか / How to Design Self-Improvement for AI Agents",
-      "url": "https://speakerdeck.com/22mi/how-to-design-self-improvement-for-ai-agents",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-15T09:49:31+00:00",
-      "fetched_at": "2026-09-15T14:23:31+00:00",
-      "summary": "AIエージェントに改善を繰り返させても、プロンプトの加筆や出力の整形に留まり、最初の設計を見直せずに停滞することがあります。 本資料では、業務AIワークフローの構築・改善で経験した課題と関連研究をもとに、自己改善を支えるハーネスの設計を解説します。深層学習の訓練ループとの対応を手がかりに、Traini…",
-      "matched_keywords": [
-        "agent",
-        "AI Agents",
-        "AI/KI",
-        "Content-Chance",
-        "Hatena",
-        "hotentry",
-        "Watchgraph:ai_agents_workflow"
-      ],
-      "relevance_score": 23,
-      "relevance_reason": "AI/KI (+3.8); AI Agents (+6.2); Content-Chance (+6.2); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: AI agents"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "b88f9b62218f3abb766c"
-    },
-    {
-      "title": "Opening statement - Joint Oireachtas Committee on Finance, Public Service Reform and Digitalisation, and Taoiseach",
-      "url": "https://www.bis.org/speeches/20260915-opening-statement-joint-oireachtas-committee-finance-public-service-reform-and-digitalisation-and-taoiseach",
+      "title": "Central banks on-chain",
+      "url": "https://www.bis.org/speeches/20260915-central-banks-on-chain",
       "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
       "published_at": "2026-09-15T00:00:00+00:00",
-      "fetched_at": "2026-09-15T14:23:31+00:00",
-      "summary": "Opening statement by Mr Gabriel Makhlouf, Governor of the Central Bank of Ireland, at the Joint Oireachtas (National Parliament) Committee on Finance, Public Expenditure, Public Service Reform and Digitalisation, and Taoiseach (Head of Parliament), Dublin, 15 July 2026.",
+      "fetched_at": "2026-09-15T14:33:54+00:00",
+      "summary": "Speech by Ms Isabel Schnabel, Member of the Executive Board of the European Central Bank, at \"Financial innovation: implications for payments and policy”, an economic symposium sponsored by the Federal Reserve Bank of Kansas City, Jackson Hole, Wyoming, 28 August 2026.",
       "matched_keywords": [
-        "Macro/Policy",
-        "Watchgraph:capitals_power_centers"
+        "Macro/Policy"
       ],
       "relevance_score": 9,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "watchgraph_reasons": [
-        "capitals_power_centers: parliament"
-      ],
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "BA",
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ"
-      ],
-      "id": "9a6a0962115a66d83195"
-    },
-    {
-      "title": "Launch of the FinScope Eswatini 2026 Consumer Survey",
-      "url": "https://www.bis.org/speeches/20260915-launch-finscope-eswatini-2026-consumer-survey",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-09-15T00:00:00+00:00",
-      "fetched_at": "2026-09-15T14:23:31+00:00",
-      "summary": "Welcome remarks by Ms Felicia Dlamini-Kunene, Deputy Governor of the Central Bank of Eswatini, at the launch of the FinScope Eswatini 2026 Consumer Survey, Ezulwini, 24 July 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "d8c18f68803c2e0d3715"
+      "id": "3c0be9fc56aa936f6098"
     },
     {
-      "title": "From fragility to resilience - the emerging market journey",
-      "url": "https://www.bis.org/speeches/20260915-fragility-resilience-emerging-market-journey",
+      "title": "Opening remarks - 13th Irving Fisher Committee Conference",
+      "url": "https://www.bis.org/speeches/20260915-opening-remarks-13th-irving-fisher-committee-conference",
       "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
       "published_at": "2026-09-15T00:00:00+00:00",
-      "fetched_at": "2026-09-15T14:23:31+00:00",
-      "summary": "Address by Mr Lesetja Kganyago, Governor of the South African Reserve Bank, at the Principal and Vice-Chancellor Public Lecture and Leadership Engagement, University of South Africa, Pretoria 4 August 2026.",
+      "fetched_at": "2026-09-15T14:33:54+00:00",
+      "summary": "Speech (virtually) by Ms Michele Bullock, Governor of the Reserve Bank of Australia, at the 13th Biennial Irving Fisher Committee on Central Bank Statistics (IFC) Conference, 20 August 2026.",
       "matched_keywords": [
         "Macro/Policy"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_score": 8,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region australia: Australia, Reserve Bank of Australia (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "c0950639c21b1403e7ca"
+      "id": "7c4f2ff82bb6660107fe"
     }
   ],
   "source_errors": [],
