@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-15T06:52:21Z_
+_Generated: 2026-09-15T07:16:12Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “Androidアプリ「【保護者専用】
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-15T14:00:00+09:00` / age_days `0.08`
+- Published: `2026-09-15T14:00:00+09:00` / age_days `0.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “Androidアプリ「【保護者専用】
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-15T12:00:00+09:00` / age_days `0.16`
+- Published: `2026-09-15T12:00:00+09:00` / age_days `0.18`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “Androidアプリ「【保護者専用】
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-15T10:00:00+09:00` / age_days `0.24`
+- Published: `2026-09-15T10:00:00+09:00` / age_days `0.26`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “Androidアプリ「【保護者専用】
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-15T04:46:52+00:00` / age_days `0.09`
+- Published: `2026-09-15T04:46:52+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “Androidアプリ「【保護者専用】
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-15T05:35:26+00:00` / age_days `0.05`
+- Published: `2026-09-15T05:35:26+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, krass gate: single-source non-official/non-identity signal capped
@@ -62,27 +62,17 @@ Stärkste Dynamik nach Gate-Recheck: “Androidアプリ「【保護者専用】
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-09T12:51:45+00:00` / age_days `5.75`
+- Published: `2026-09-09T12:51:45+00:00` / age_days `5.77`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, baseline z_hint 6.80, krass gate: single-source non-official/non-identity signal capped
+- Warum: momentum delta +3, baseline z_hint 6.50, krass gate: single-source non-official/non-identity signal capped
 - Quelle: https://jvn.jp/jp/JVN72918755/
-
-### M 4.8 - 289 km WSW of Tual, Indonesia
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-09-03T21:47:43+00:00` / age_days `11.38`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, baseline z_hint 2.90, krass gate: single-source non-official/non-identity signal capped
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000thjr
 
 ### The SaaSpocalypse will be selective
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.0`
-- Published: `2026-09-15T02:07:44+00:00` / age_days `0.2`
+- Published: `2026-09-15T02:07:44+00:00` / age_days `0.21`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit
@@ -92,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “Androidアプリ「【保護者専用】
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-14T10:31:00+00:00` / age_days `0.85`
+- Published: `2026-09-14T10:31:00+00:00` / age_days `0.86`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security
@@ -102,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “Androidアプリ「【保護者専用】
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-14T10:16:00+00:00` / age_days `0.86`
+- Published: `2026-09-14T10:16:00+00:00` / age_days `0.88`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security
@@ -112,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “Androidアプリ「【保護者専用】
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-15T06:36:21+00:00` / age_days `0.01`
+- Published: `2026-09-15T06:36:21+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, code, security high-signal: rce, code
@@ -122,10 +112,20 @@ Stärkste Dynamik nach Gate-Recheck: “Androidアプリ「【保護者専用】
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-15T03:18:40+00:00` / age_days `0.15`
+- Published: `2026-09-15T03:18:40+00:00` / age_days `0.16`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
 - Quelle: https://jvn.jp/jp/JVN02049764/
+
+### パナソニック インダストリー製MINAS A5/A6用Windows USBデバイスドライバにおけるバッファオーバーフローの脆弱性
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `23.0`
+- Published: `2026-09-15T01:04:00+00:00` / age_days `0.26`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3
+- Quelle: https://jvn.jp/vu/JVNVU99837984/
 
 END OF DOCUMENT
