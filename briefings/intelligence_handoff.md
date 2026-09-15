@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-15T03:41:33Z_
+_Generated: 2026-09-15T03:51:40Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “Lite-On製O-RU「FF-RFI079I4」および
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-15T12:00:00+09:00` / age_days `0.03`
+- Published: `2026-09-15T12:00:00+09:00` / age_days `0.04`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -22,11 +22,21 @@ Stärkste Dynamik nach Gate-Recheck: “Lite-On製O-RU「FF-RFI079I4」および
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-15T10:00:00+09:00` / age_days `0.11`
+- Published: `2026-09-15T10:00:00+09:00` / age_days `0.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
 - Quelle: https://jvn.jp/vu/JVNVU99837984/
+
+### Lite-On製O-RU「FF-RFI079I4」および「FF-RFI078I4」における複数の脆弱性
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `26.0`
+- Published: `2026-09-15T03:18:40+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +2
+- Quelle: https://jvn.jp/jp/JVN02049764/
 
 ### The SaaSpocalypse will be selective
 
@@ -37,16 +47,6 @@ Stärkste Dynamik nach Gate-Recheck: “Lite-On製O-RU「FF-RFI079I4」および
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit
 - Quelle: https://e27.co/the-saaspocalypse-will-be-selective-20260912/
-
-### Lite-On製O-RU「FF-RFI079I4」および「FF-RFI078I4」における複数の脆弱性
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `23.5`
-- Published: `2026-09-15T03:18:40+00:00` / age_days `0.02`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1
-- Quelle: https://jvn.jp/jp/JVN02049764/
 
 ### 華擎科技｜ASRock Polychrome SYNC/RGB software utility - 存在2個漏洞
 
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “Lite-On製O-RU「FF-RFI079I4」および
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-15T01:04:00+00:00` / age_days `0.11`
+- Published: `2026-09-15T01:04:00+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “Lite-On製O-RU「FF-RFI079I4」および
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.0`
-- Published: `2026-09-15T01:04:00+00:00` / age_days `0.11`
+- Published: `2026-09-15T01:04:00+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “Lite-On製O-RU「FF-RFI079I4」および
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `15.0`
-- Published: `2026-09-15T01:04:00+00:00` / age_days `0.11`
+- Published: `2026-09-15T01:04:00+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “Lite-On製O-RU「FF-RFI079I4」および
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `15.0`
-- Published: `2026-09-15T02:00:53+00:00` / age_days `0.07`
+- Published: `2026-09-15T02:00:53+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
