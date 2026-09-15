@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-15T21:10:59+00:00_
+_Generiert: 2026-09-15T21:23:10+00:00_
 
 ## Kurzlage
 
-82 neue relevante Treffer. Stärkstes Signal: „Version 1.0: Cisco Secure Email Gateway - Aktive Ausnutzung einer Zero-Day-Schwachstelle“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 30, risk).
+83 neue relevante Treffer. Stärkstes Signal: „Version 1.0: Cisco Secure Email Gateway - Aktive Ausnutzung einer Zero-Day-Schwachstelle“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 30, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -268,3 +268,7 @@ _Generiert: 2026-09-15T21:10:59+00:00_
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `google_trends_thailand_hot` (rss): HTTPSConnectionPool(host='trends.google.co.th', port=443): Read timed out. (read timeout=8)
