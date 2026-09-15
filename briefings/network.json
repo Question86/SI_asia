@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T18:26:26+00:00",
+  "generated_at": "2026-09-15T18:40:23+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 77,
@@ -28,20 +28,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 36.07,
+      "network_score": 35.77,
       "hot": true,
       "watchgraph_modules": [
         "cyber_active_exploitation"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 32.1,
-      "ranking_score": 36.07,
+      "ranking_score": 35.77,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.57,
+      "baseline_bonus": 0.27,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": true,
@@ -68,20 +68,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 25.06,
+      "network_score": 24.99,
       "hot": false,
       "watchgraph_modules": [
         "ai_agents_workflow"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 25.1,
-      "ranking_score": 25.06,
+      "ranking_score": 24.99,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.56,
+      "baseline_bonus": 0.49,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -208,52 +208,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-15T02:34:11+00:00"
-    },
-    {
-      "key": "domain:www.bis.org",
-      "title": "Japan's economy and monetary policy",
-      "sources": [
-        "BIS Central Bankers Speeches"
-      ],
-      "source_classes": [
-        "central_bank",
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.bis.org/speeches/20260915-japans-economy-and-monetary-policy",
-        "https://www.bis.org/speeches/20260915-securing-ugandas-digital-future-collaboration-resilience-and-trust",
-        "https://www.bis.org/speeches/20260915-opening-statement-joint-oireachtas-committee-finance-public-service-reform-and-digitalisation-and-taoiseach",
-        "https://www.bis.org/speeches/20260915-vision-delivery-building-europes-tokenised-financial-market",
-        "https://www.bis.org/speeches/20260915-central-banks-on-chain",
-        "https://www.bis.org/speeches/20260915-opening-remarks-13th-irving-fisher-committee-conference"
-      ],
-      "finding_count": 13,
-      "max_score": 13,
-      "credibility_total": 13.65,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 15.75,
-      "hot": false,
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 40.3,
-      "ranking_score": 15.75,
-      "initial_reach_tier": "institutional",
-      "source_reach_score": 5.0,
-      "authority_bonus_capped": 3.0,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 2.75,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 3.0,
-      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
       "key": "title:android",
@@ -484,6 +438,52 @@
       "first_seen_at": "2026-09-15T01:04:00+00:00"
     },
     {
+      "key": "domain:www.bis.org",
+      "title": "Japan's economy and monetary policy",
+      "sources": [
+        "BIS Central Bankers Speeches"
+      ],
+      "source_classes": [
+        "central_bank",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.bis.org/speeches/20260915-japans-economy-and-monetary-policy",
+        "https://www.bis.org/speeches/20260915-securing-ugandas-digital-future-collaboration-resilience-and-trust",
+        "https://www.bis.org/speeches/20260915-opening-statement-joint-oireachtas-committee-finance-public-service-reform-and-digitalisation-and-taoiseach",
+        "https://www.bis.org/speeches/20260915-vision-delivery-building-europes-tokenised-financial-market",
+        "https://www.bis.org/speeches/20260915-central-banks-on-chain",
+        "https://www.bis.org/speeches/20260915-opening-remarks-13th-irving-fisher-committee-conference"
+      ],
+      "finding_count": 13,
+      "max_score": 13,
+      "credibility_total": 13.65,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 15.38,
+      "hot": false,
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 40.3,
+      "ranking_score": 15.38,
+      "initial_reach_tier": "institutional",
+      "source_reach_score": 5.0,
+      "authority_bonus_capped": 3.0,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 2.38,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
       "key": "github_repo:panniantong/agent-reach",
       "title": "Panniantong/Agent-Reach",
       "sources": [
@@ -697,18 +697,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 11.73,
+      "network_score": 11.66,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 12.1,
-      "ranking_score": 11.73,
+      "ranking_score": 11.66,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.23,
+      "baseline_bonus": 0.16,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -811,18 +811,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 10.06,
+      "network_score": 10.02,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 10.1,
-      "ranking_score": 10.06,
+      "ranking_score": 10.02,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.56,
+      "baseline_bonus": 0.52,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1675,7 +1675,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-15T18:26:26Z",
+    "generated_at": "2026-09-15T18:40:23Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
