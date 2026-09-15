@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-15T08:32:20+00:00_
+_Generiert: 2026-09-15T08:49:10+00:00_
 
 ## Kurzlage
 
-30 neue relevante Treffer. Stärkstes Signal: „The CLARITY Act vote could send crypto to US$2.73T or crash it to US$2.6T“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
+32 neue relevante Treffer. Stärkstes Signal: „The CLARITY Act vote could send crypto to US$2.73T or crash it to US$2.6T“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
 
 ## Priorität Hoch
 
@@ -168,6 +168,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 https://mirofish.ai 简洁通用的群体智能引擎，预测万物 A Simple and Universal Swarm Intelligence Engine, Predicting Anything English | 中文文档 ⚡ Overview MiroFish is a next-generation AI prediction engine powered by multi-agent technology. By extracting seed information from the real world (such as breaking news, policy drafts, or financial signals),…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Angreifer missbrauchen SQL-Schwachstelle in Ciscos Secure E-Mail-Gateway** — Score 7, observation — [Quelle](https://www.heise.de/news/Angreifer-missbrauchen-SQL-Schwachstelle-in-Ciscos-Secure-E-Mail-Gateway-11453346.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-09-15T08:30:00.000+00:00`, fetched `2026-09-15T08:48:37+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Cisco warnt vor laufenden Angriffen auf eine kritische SQL-Injection-Lücke im Secure E-Mail Gateway. Updates stehen bereit.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Der Homebrew-Paketmanager bringt nun einen Sicherheitslücken-Scanner mit** — Score 7, observation — [Quelle](https://www.heise.de/news/Der-Homebrew-Paketmanager-bringt-nun-einen-Sicherheitsluecken-Scanner-mit-11453380.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-09-15T08:17:00.000+00:00`, fetched `2026-09-15T08:31:37+00:00`
@@ -203,15 +212,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
   - Kurz: カナデビア（旧日立造船）による溶接不良が約2万8000カ所見つかった阪神なんば線淀川橋梁の架け替え工事の完了が、予定よりも3年遅れて2034年度となることが分かった。鋼製部材の作り直しと再架設に加え、地中障害物の撤去が必要となり、時間がかかっている。溶接不良があった箇所の施工を手掛ける日本橋梁（大阪市）は...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **松本大臣記者会見（令和8年9月15日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-260915-01)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-09-15T04:04:12+00:00`, fetched `2026-09-15T04:12:57+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 松本大臣記者会見（令和8年9月15日）動画を掲載しました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
