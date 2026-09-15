@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-15T07:54:55+00:00_
+_Generiert: 2026-09-15T08:06:09+00:00_
 
 ## Kurzlage
 
-28 neue relevante Treffer. Stärkstes Signal: „The CLARITY Act vote could send crypto to US$2.73T or crash it to US$2.6T“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
+29 neue relevante Treffer. Stärkstes Signal: „The CLARITY Act vote could send crypto to US$2.73T or crash it to US$2.6T“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -194,6 +194,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Apple、「iOS 27」「iPadOS 27」の一般提供を開始 ～「Siri AI」の日本語対応は年内／126件の脆弱性修正も
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **TrueMoney and Fireblocks want Thai users on blockchain rails without them noticing** — Score 8, observation — [Quelle](https://e27.co/truemoney-and-fireblocks-want-thai-users-on-blockchain-rails-without-them-noticing-20260915/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-15T08:00:42+00:00`, fetched `2026-09-15T08:05:38+00:00`
+  - Treffer: APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Thailand (+2.0)
+  - Kurz: Southeast Asia’s e-wallet giants have spent a decade making digital payments boring, in the best sense. Tap to pay, scan a QR code, top up a prepaid line: no jargon, no friction, no need to understand what happens underneath. Now TrueMoney wants to apply the same trick to blockchain. The Ascend Money-backed fintech, Thailand’s leading […] The post TrueMoney and Fireblocks want Thai users on blockchain rails without…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Special address - 31st CGC Awards** — Score 8, observation — [Quelle](https://www.bis.org/speeches/20260914-special-address-31st-cgc-awards)
   - Quelle: BIS Central Bankers Speeches / `rss`
   - Zeit: published `2026-09-14T00:00:00+00:00`, fetched `2026-09-15T06:36:21+00:00`
@@ -256,15 +265,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0)
   - Kurz: Remarks by Dr Alwyn Jordan, Deputy Governor of the Central Bank of Barbados, at the 46th Annual Review Seminar of the Central Bank of Barbados, Bridgetown, 11 August 2026.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **multimodal-art-projection/YuE** — Score 6, observation — [Quelle](https://github.com/multimodal-art-projection/YuE)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-09-15T06:36:21+00:00`
-  - Treffer: AI Agents, APAC Trend Radar, GitHub Trending, Open Source
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI Agents (+5.0); Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph demote demo (x0.45)
-  - Kurz: YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing. https://map-yue2.github.io/ Looking for the original YuE? Its code, documentation, and license are preserved on the YuE-v1 branch . YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality Compose in symbols. Create in sound. 🎧 Demos · 🤗 YuE2 · 🚀 Quick start · 🤖 Agent skill · 📊 Benchmarks · 🤗 MERT2 · 🤗…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
