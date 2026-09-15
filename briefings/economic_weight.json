@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-15T05:06:33+00:00",
+  "generated_at": "2026-09-15T05:24:48+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -3289,7 +3289,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-15T01:04:00+00:00",
-      "last_seen_at": "2026-09-15T05:06:13+00:00",
+      "last_seen_at": "2026-09-15T05:24:31+00:00",
       "status": "active"
     },
     {
@@ -3391,7 +3391,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-15T03:18:40+00:00",
-      "last_seen_at": "2026-09-15T05:06:13+00:00",
+      "last_seen_at": "2026-09-15T05:24:31+00:00",
       "status": "active"
     },
     {
@@ -3444,6 +3444,23 @@
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-08-28T23:53:26+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_abb5a25f84aca61d4a54",
+      "title": "Androidアプリ「【保護者専用】まなびポケット」におけるアクセス制限不備の脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-15T05:06:13+00:00",
+      "last_seen_at": "2026-09-15T05:24:31+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_b0a954142b6aba44bdb8",
@@ -3582,23 +3599,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_abb5a25f84aca61d4a54",
-      "title": "Androidアプリ「【保護者専用】まなびポケット」におけるアクセス制限不備の脆弱性",
-      "event_classes": [
-        "vulnerability"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 288000.0,
-      "p50_usd": 28800000.0,
-      "p90_usd": 2880000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-15T05:06:13+00:00",
-      "last_seen_at": "2026-09-15T05:06:13+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_2f5c3cffbb9951edd868",
       "title": "Southeast Asia startup funding finds a floor, but not a rebound",
       "event_classes": [
@@ -3663,7 +3663,7 @@
       "p90_usd": 2820000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-15T05:06:13+00:00",
+      "last_seen_at": "2026-09-15T05:24:31+00:00",
       "status": "active"
     },
     {
@@ -3731,7 +3731,7 @@
       "p90_usd": 1504000000.0,
       "confidence": 0.77,
       "first_seen_at": "2026-08-29T07:47:53+00:00",
-      "last_seen_at": "2026-09-15T05:06:13+00:00",
+      "last_seen_at": "2026-09-15T05:24:31+00:00",
       "status": "active"
     },
     {
@@ -4156,7 +4156,7 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-15T05:06:13+00:00",
+      "last_seen_at": "2026-09-15T05:24:31+00:00",
       "status": "active"
     },
     {
@@ -4751,7 +4751,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-15T02:34:11+00:00",
-      "last_seen_at": "2026-09-15T05:06:13+00:00",
+      "last_seen_at": "2026-09-15T05:24:31+00:00",
       "status": "active"
     },
     {
@@ -4836,7 +4836,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-15T01:04:00+00:00",
-      "last_seen_at": "2026-09-15T05:06:13+00:00",
+      "last_seen_at": "2026-09-15T05:24:31+00:00",
       "status": "active"
     },
     {
@@ -5023,7 +5023,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-15T04:46:52+00:00",
-      "last_seen_at": "2026-09-15T05:06:13+00:00",
+      "last_seen_at": "2026-09-15T05:24:31+00:00",
       "status": "active"
     },
     {
@@ -6026,7 +6026,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-15T01:34:58+00:00",
-      "last_seen_at": "2026-09-15T05:06:13+00:00",
+      "last_seen_at": "2026-09-15T05:24:31+00:00",
       "status": "active"
     },
     {
@@ -6944,7 +6944,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-15T00:15:13+00:00",
-      "last_seen_at": "2026-09-15T05:06:13+00:00",
+      "last_seen_at": "2026-09-15T05:24:31+00:00",
       "status": "active"
     },
     {
@@ -7642,7 +7642,7 @@
       "p90_usd": 1096000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-15T01:04:00+00:00",
-      "last_seen_at": "2026-09-15T05:06:13+00:00",
+      "last_seen_at": "2026-09-15T05:24:31+00:00",
       "status": "active"
     },
     {
@@ -7659,7 +7659,7 @@
       "p90_usd": 1096000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-15T02:07:44+00:00",
-      "last_seen_at": "2026-09-15T05:06:13+00:00",
+      "last_seen_at": "2026-09-15T05:24:31+00:00",
       "status": "active"
     },
     {
@@ -7846,7 +7846,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-15T04:13:31+00:00",
-      "last_seen_at": "2026-09-15T05:06:13+00:00",
+      "last_seen_at": "2026-09-15T05:24:31+00:00",
       "status": "active"
     },
     {
@@ -8713,7 +8713,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T05:20:00+00:00",
-      "last_seen_at": "2026-09-15T05:06:13+00:00",
+      "last_seen_at": "2026-09-15T05:24:31+00:00",
       "status": "active"
     },
     {
@@ -10090,7 +10090,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-15T02:49:44+00:00",
-      "last_seen_at": "2026-09-15T05:06:13+00:00",
+      "last_seen_at": "2026-09-15T05:24:31+00:00",
       "status": "active"
     },
     {
@@ -10328,7 +10328,7 @@
       "p90_usd": 1072000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-15T03:18:40+00:00",
-      "last_seen_at": "2026-09-15T05:06:13+00:00",
+      "last_seen_at": "2026-09-15T05:24:31+00:00",
       "status": "active"
     },
     {
