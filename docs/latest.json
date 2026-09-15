@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T04:32:37+00:00",
-  "run_id": "2026-09-15T04:32:37+00:00",
+  "generated_at": "2026-09-15T04:46:48+00:00",
+  "run_id": "2026-09-15T04:46:48+00:00",
   "date": "2026-09-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 16
+      "configured_public_sources_only": 17
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 16,
-    "displayed_findings": 16,
+    "new_relevant_findings": 1,
+    "today_file_total": 17,
+    "displayed_findings": 17,
     "high": 0,
-    "medium": 4,
+    "medium": 5,
     "observe": 12,
     "source_errors": 0
   },
@@ -94,6 +94,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "6a1312ab69dc6f77e2f2"
+      },
+      {
+        "title": "The 90-second pitch that helps foreign founders crack Tokyo’s networking scene",
+        "url": "https://e27.co/the-90-second-pitch-that-helps-foreign-founders-crack-tokyos-networking-scene-20260915/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-15T04:36:53+00:00",
+        "fetched_at": "2026-09-15T04:46:16+00:00",
+        "summary": "For all the talk of Tokyo’s growing openness to international founders, language still shapes how quickly doors open in Japan’s startup community. English-friendly meetups and conferences are far more common than they were a decade ago, but according to a new guide from Blackbox JP, the first few sentences a founder says in Japanese, however […] The post The 90-second pitch that helps foreign founders crack Tokyo’s…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Content-Chance",
+          "founder"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "APAC Trend Radar (+3.8); Content-Chance (+5.0); founder (+2.5); recent (+1.0); watchgraph region japan: Japan, Tokyo (+2.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6845c79fa88903574d29"
       },
       {
         "title": "How to use AI to win (Hint: It has nothing to do with being more productive)",
@@ -443,6 +465,28 @@
       "id": "6a1312ab69dc6f77e2f2"
     },
     {
+      "title": "The 90-second pitch that helps foreign founders crack Tokyo’s networking scene",
+      "url": "https://e27.co/the-90-second-pitch-that-helps-foreign-founders-crack-tokyos-networking-scene-20260915/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-15T04:36:53+00:00",
+      "fetched_at": "2026-09-15T04:46:16+00:00",
+      "summary": "For all the talk of Tokyo’s growing openness to international founders, language still shapes how quickly doors open in Japan’s startup community. English-friendly meetups and conferences are far more common than they were a decade ago, but according to a new guide from Blackbox JP, the first few sentences a founder says in Japanese, however […] The post The 90-second pitch that helps foreign founders crack Tokyo’s…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Content-Chance",
+        "founder"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "APAC Trend Radar (+3.8); Content-Chance (+5.0); founder (+2.5); recent (+1.0); watchgraph region japan: Japan, Tokyo (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6845c79fa88903574d29"
+    },
+    {
       "title": "How to use AI to win (Hint: It has nothing to do with being more productive)",
       "url": "https://e27.co/how-to-use-ai-to-win-hint-it-has-nothing-to-do-with-being-more-productive-20260912/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -719,7 +763,30 @@
       "id": "3968f27241a5712bac63"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "The 90-second pitch that helps foreign founders crack Tokyo’s networking scene",
+      "url": "https://e27.co/the-90-second-pitch-that-helps-foreign-founders-crack-tokyos-networking-scene-20260915/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-15T04:36:53+00:00",
+      "fetched_at": "2026-09-15T04:46:16+00:00",
+      "summary": "For all the talk of Tokyo’s growing openness to international founders, language still shapes how quickly doors open in Japan’s startup community. English-friendly meetups and conferences are far more common than they were a decade ago, but according to a new guide from Blackbox JP, the first few sentences a founder says in Japanese, however […] The post The 90-second pitch that helps foreign founders crack Tokyo’s…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Content-Chance",
+        "founder"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "APAC Trend Radar (+3.8); Content-Chance (+5.0); founder (+2.5); recent (+1.0); watchgraph region japan: Japan, Tokyo (+2.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6845c79fa88903574d29"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

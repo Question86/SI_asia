@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-15T04:32:37+00:00_
+_Generated: 2026-09-15T04:46:48+00:00_
 
 ## Status
 - status: `normal`
-- findings: `16`
+- findings: `17`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-09-15T04:32:37+00:00_
 - url: https://jvn.jp/vu/JVNVU99837984/
 - summary: パナソニック インダストリー株式会社が提供するMINAS A5/A6用Windows USBデバイスドライバには、バッファオーバーフローの脆弱性が存在します。
 
-### 4. How to use AI to win (Hint: It has nothing to do with being more productive)
+### 4. The 90-second pitch that helps foreign founders crack Tokyo’s networking scene
 - source: e27 Asia Startup and Tech Feed
 - score: `14`
-- published: `2026-09-15T01:00:05+00:00`
-- url: https://e27.co/how-to-use-ai-to-win-hint-it-has-nothing-to-do-with-being-more-productive-20260912/
-- summary: AI is automating tasks that used to take hours for humans to do. It’s pushing some costs down and it’s making some teams more productive. Don’t make the mistake, however, of thinking that using AI to do things more productively is enough to ensure your busine…
+- published: `2026-09-15T04:36:53+00:00`
+- url: https://e27.co/the-90-second-pitch-that-helps-foreign-founders-crack-tokyos-networking-scene-20260915/
+- summary: For all the talk of Tokyo’s growing openness to international founders, language still shapes how quickly doors open in Japan’s startup community. English-friendly meetups and conferences are far more common than they were a decade ago, but according to a new…
 
 ### 5. What Southeast Asia’s edutech startups can learn from AI’s limits in education
 - source: e27 Asia Startup and Tech Feed
