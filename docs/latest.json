@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T21:48:10+00:00",
-  "run_id": "2026-09-15T21:48:10+00:00",
+  "generated_at": "2026-09-15T21:55:38+00:00",
+  "run_id": "2026-09-15T21:55:38+00:00",
   "date": "2026-09-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 84,
     "displayed_findings": 84,
     "high": 1,
@@ -3882,30 +3882,7 @@
       "id": "d37d0b80b1c8dd36c862"
     }
   ],
-  "new_findings": [
-    {
-      "title": "AIレビューは３層でまわす | ドクセル",
-      "url": "https://www.docswell.com/s/3402128/KVJYJ3-2026-09-15-202358",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-15T15:11:40+00:00",
-      "fetched_at": "2026-09-15T21:47:36+00:00",
-      "summary": "レビューは3層で回す AI ローカル・PR時・デイリー、サブスクの範囲で 自走環境整備・運用スペシャル #6 ／ 2026年9月15日（火） AI 篠田 敬廣 篠田 敬廣 経歴 大手SIerでインフラ構築・設計、プロジェクトマネジメントに 従事したのち独立 現在 Waalsforce コミュニティ JAWS-UG 趣味 サウナ 連絡先 X: @yukkie1114 導...",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9d59f9dc940eb8c2466a"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
