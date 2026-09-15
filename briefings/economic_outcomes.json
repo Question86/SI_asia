@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-15T19:44:31+00:00",
+  "generated_at": "2026-09-15T19:52:44+00:00",
   "events": [
     {
       "event_id": "evt_014823216e5b4b658b61",
@@ -3105,6 +3105,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_765d99f9651d1b14faf6",
+      "title": "Enforce GitHub Advanced Security configurations",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_76821ac3db76154c0394",
       "title": "Multiples vulnérabilités dans les produits Tenable (31 août 2026)",
       "deduplicated_buckets": 0,
@@ -3168,7 +3179,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_7a1785d51dc511810ea5",
