@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T09:58:26+00:00",
-  "run_id": "2026-09-15T09:58:26+00:00",
+  "generated_at": "2026-09-15T10:21:14+00:00",
+  "run_id": "2026-09-15T10:21:14+00:00",
   "date": "2026-09-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 38
+      "configured_public_sources_only": 40
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 38,
-    "displayed_findings": 38,
+    "new_relevant_findings": 2,
+    "today_file_total": 40,
+    "displayed_findings": 40,
     "high": 0,
-    "medium": 13,
-    "observe": 25,
+    "medium": 14,
+    "observe": 26,
     "source_errors": 0
   },
   "sections": {
@@ -201,6 +201,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2796644a4511143affc4"
+      },
+      {
+        "title": "[UPDATE] [mittel] expat: Schwachstelle ermöglicht Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2718",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-15T10:18:54+00:00",
+        "fetched_at": "2026-09-15T10:20:44+00:00",
+        "summary": "Ein lokaler Angreifer kann eine Schwachstelle in expat ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "853a048f3c835e429077"
       },
       {
         "title": "パナソニック インダストリー製MINAS A5/A6用Windows USBデバイスドライバにおけるバッファオーバーフローの脆弱性",
@@ -878,6 +901,24 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "3968f27241a5712bac63"
+      },
+      {
+        "title": "Where in the world is the iPhone cheapest?",
+        "url": "https://restofworld.org/2026/iphone-18-pro-global-prices/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "source": "Rest of World Global Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-15T10:00:00+00:00",
+        "fetched_at": "2026-09-15T10:20:44+00:00",
+        "summary": "Apple’s high-end models cost more in markets like India and Turkey owing to high taxes and import duties.",
+        "matched_keywords": [],
+        "relevance_score": 3,
+        "relevance_reason": "recent (+1.0); watchgraph region india: India (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d37d0b80b1c8dd36c862"
       }
     ]
   },
@@ -1054,6 +1095,29 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "2796644a4511143affc4"
+    },
+    {
+      "title": "[UPDATE] [mittel] expat: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2718",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-15T10:18:54+00:00",
+      "fetched_at": "2026-09-15T10:20:44+00:00",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in expat ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "853a048f3c835e429077"
     },
     {
       "title": "パナソニック インダストリー製MINAS A5/A6用Windows USBデバイスドライバにおけるバッファオーバーフローの脆弱性",
@@ -1729,9 +1793,69 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "3968f27241a5712bac63"
+    },
+    {
+      "title": "Where in the world is the iPhone cheapest?",
+      "url": "https://restofworld.org/2026/iphone-18-pro-global-prices/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-15T10:00:00+00:00",
+      "fetched_at": "2026-09-15T10:20:44+00:00",
+      "summary": "Apple’s high-end models cost more in markets like India and Turkey owing to high taxes and import duties.",
+      "matched_keywords": [],
+      "relevance_score": 3,
+      "relevance_reason": "recent (+1.0); watchgraph region india: India (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d37d0b80b1c8dd36c862"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "[UPDATE] [mittel] expat: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2718",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-15T10:18:54+00:00",
+      "fetched_at": "2026-09-15T10:20:44+00:00",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in expat ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "853a048f3c835e429077"
+    },
+    {
+      "title": "Where in the world is the iPhone cheapest?",
+      "url": "https://restofworld.org/2026/iphone-18-pro-global-prices/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-15T10:00:00+00:00",
+      "fetched_at": "2026-09-15T10:20:44+00:00",
+      "summary": "Apple’s high-end models cost more in markets like India and Turkey owing to high taxes and import duties.",
+      "matched_keywords": [],
+      "relevance_score": 3,
+      "relevance_reason": "recent (+1.0); watchgraph region india: India (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d37d0b80b1c8dd36c862"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
