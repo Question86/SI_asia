@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-15T22:31:26+00:00",
-  "run_id": "2026-09-15T22:31:26+00:00",
+  "generated_at": "2026-09-15T22:40:37+00:00",
+  "run_id": "2026-09-15T22:40:37+00:00",
   "date": "2026-09-15",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 85,
     "displayed_findings": 85,
     "high": 1,
@@ -3924,29 +3924,7 @@
       "id": "d37d0b80b1c8dd36c862"
     }
   ],
-  "new_findings": [
-    {
-      "title": "誰かの役に立つアウトプットの作り方〜学びの循環に飛び込もう！",
-      "url": "https://speakerdeck.com/ikuodanaka/dareka-no-yakunitatsu-autoputto-no-tsukurikata-manabi-no-junkan-ni-tobikomou",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-15T15:20:23+00:00",
-      "fetched_at": "2026-09-15T22:30:56+00:00",
-      "summary": "2026/09/15 【Speaker Bootcamp】伝わる発表は準備が9割 ―自信を持つためのワークショップ https://findy.connpass.com/event/402618/",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a50e0168355c5cdb1436"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
