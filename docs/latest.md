@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-15T06:57:08+00:00_
+_Generiert: 2026-09-15T07:17:43+00:00_
 
 ## Kurzlage
 
-27 neue relevante Treffer. Stärkstes Signal: „The CLARITY Act vote could send crypto to US$2.73T or crash it to US$2.6T“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
+28 neue relevante Treffer. Stärkstes Signal: „The CLARITY Act vote could send crypto to US$2.73T or crash it to US$2.6T“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
 
 ## Priorität Hoch
 
@@ -159,6 +159,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 https://mirofish.ai 简洁通用的群体智能引擎，预测万物 A Simple and Universal Swarm Intelligence Engine, Predicting Anything English | 中文文档 ⚡ Overview MiroFish is a next-generation AI prediction engine powered by multi-agent technology. By extracting seed information from the real world (such as breaking news, policy drafts, or financial signals),…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Außer der Reihe: Microsoft fixt Probleme und Lücken nach Windows-Updates** — Score 7, observation — [Quelle](https://www.heise.de/news/Ausser-der-Reihe-Microsoft-fixt-Probleme-und-Luecken-nach-Windows-Updates-11453167.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-09-15T07:06:00.000+00:00`, fetched `2026-09-15T07:17:15+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Microsoft hat ungeplante Updates für Windows außer der Reihe veröffentlicht. Sie stopfen Sicherheitslecks und beheben Probleme.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The SaaSpocalypse will be selective** — Score 7, observation — [Quelle](https://e27.co/the-saaspocalypse-will-be-selective-20260912/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-15T02:00:53+00:00`, fetched `2026-09-15T02:07:11+00:00`
@@ -203,15 +212,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI Agents (+5.0); Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph demote demo (x0.45)
   - Kurz: YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing. https://map-yue2.github.io/ Looking for the original YuE? Its code, documentation, and license are preserved on the YuE-v1 branch . YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality Compose in symbols. Create in sound. 🎧 Demos · 🤗 YuE2 · 🚀 Quick start · 🤖 Agent skill · 📊 Benchmarks · 🤗 MERT2 · 🤗…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The geopolitics of scarcity: Why middle powers must learn to prioritise** — Score 4, observation — [Quelle](https://e27.co/the-geopolitics-of-scarcity-why-middle-powers-must-learn-to-prioritise-20260912/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-15T03:00:14+00:00`, fetched `2026-09-15T03:18:07+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: When Keir Starmer recently argued that Britain must rebuild its hard power, much of the discussion focused on defence spending. That is understandable. After years of underinvestment, Britain faces difficult choices about military capability at a time of growing geopolitical instability. But money is only part of the challenge. Britain’s more fundamental foreign policy problem […] The post The geopolitics of scarcit…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
