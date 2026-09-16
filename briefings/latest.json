@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T20:28:21+00:00",
-  "run_id": "2026-09-16T20:28:21+00:00",
+  "generated_at": "2026-09-16T20:41:30+00:00",
+  "run_id": "2026-09-16T20:41:30+00:00",
   "date": "2026-09-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 91
+      "configured_public_sources_only": 94
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 91,
-    "displayed_findings": 91,
+    "new_relevant_findings": 3,
+    "today_file_total": 94,
+    "displayed_findings": 94,
     "high": 0,
     "medium": 30,
-    "observe": 61,
+    "observe": 64,
     "source_errors": 0
   },
   "sections": {
@@ -903,6 +903,42 @@
         "id": "ff2c8c1144d6f7b536f1"
       },
       {
+        "title": "M 5.0 - 29 km WSW of Sipí, Colombia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thxc",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-09-16T20:37:18.706+00:00",
+        "fetched_at": "2026-09-16T20:40:59+00:00",
+        "summary": "DYFI? - II Time 2026-09-16 20:12:52 UTC 2026-09-16 20:12:52 UTC at epicenter Location 4.524°N 76.877°W Depth 59.03 km (36.68 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Colombia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "e78acc09e83b65e7eee8"
+      },
+      {
         "title": "Reimagining advertising with AI",
         "url": "https://openai.com/index/reimagining-advertising-with-ai",
         "source": "OpenAI News RSS",
@@ -1203,6 +1239,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "6748ca2baf7ffe408511"
+      },
+      {
+        "title": "M 4.9 - 191 km ESE of Kimbe, Papua New Guinea",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thxg",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-09-16T20:37:30.040+00:00",
+        "fetched_at": "2026-09-16T20:40:59+00:00",
+        "summary": "Time 2026-09-16 20:21:24 UTC 2026-09-16 20:21:24 UTC at epicenter Location 6.107°S 151.778°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "c5bb4d583ee8bdbda1cd"
       },
       {
         "title": "Federal Reserve issues FOMC statement",
@@ -1602,6 +1674,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "a3f6921e38320461ebfa"
+      },
+      {
+        "title": "Copilot budget increase requests are generally available",
+        "url": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-09-16T20:17:18+00:00",
+        "fetched_at": "2026-09-16T20:40:59+00:00",
+        "summary": "Previously, when a member used all the Copilot AI credits available to them, they were blocked from Copilot features that consume credits. This release adds a flow for them to… The post Copilot budget increase requests are generally available appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "AI/KI",
+          "Copilot",
+          "GitHub"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.0); GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b4ac4095158856ea1ac6"
       },
       {
         "title": "Does the iPhone show us which industries AI will destroy?",
@@ -3081,6 +3175,42 @@
       "id": "ff2c8c1144d6f7b536f1"
     },
     {
+      "title": "M 5.0 - 29 km WSW of Sipí, Colombia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thxc",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-16T20:37:18.706+00:00",
+      "fetched_at": "2026-09-16T20:40:59+00:00",
+      "summary": "DYFI? - II Time 2026-09-16 20:12:52 UTC 2026-09-16 20:12:52 UTC at epicenter Location 4.524°N 76.877°W Depth 59.03 km (36.68 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Colombia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "e78acc09e83b65e7eee8"
+    },
+    {
       "title": "Reimagining advertising with AI",
       "url": "https://openai.com/index/reimagining-advertising-with-ai",
       "source": "OpenAI News RSS",
@@ -3381,6 +3511,42 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "6748ca2baf7ffe408511"
+    },
+    {
+      "title": "M 4.9 - 191 km ESE of Kimbe, Papua New Guinea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thxg",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-16T20:37:30.040+00:00",
+      "fetched_at": "2026-09-16T20:40:59+00:00",
+      "summary": "Time 2026-09-16 20:21:24 UTC 2026-09-16 20:21:24 UTC at epicenter Location 6.107°S 151.778°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "c5bb4d583ee8bdbda1cd"
     },
     {
       "title": "Federal Reserve issues FOMC statement",
@@ -3780,6 +3946,28 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "a3f6921e38320461ebfa"
+    },
+    {
+      "title": "Copilot budget increase requests are generally available",
+      "url": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-09-16T20:17:18+00:00",
+      "fetched_at": "2026-09-16T20:40:59+00:00",
+      "summary": "Previously, when a member used all the Copilot AI credits available to them, they were blocked from Copilot features that consume credits. This release adds a flow for them to… The post Copilot budget increase requests are generally available appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "AI/KI",
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b4ac4095158856ea1ac6"
     },
     {
       "title": "Does the iPhone show us which industries AI will destroy?",
@@ -4385,7 +4573,102 @@
       "id": "6c67283d1d0369882ac2"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "M 5.0 - 29 km WSW of Sipí, Colombia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thxc",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-16T20:37:18.706+00:00",
+      "fetched_at": "2026-09-16T20:40:59+00:00",
+      "summary": "DYFI? - II Time 2026-09-16 20:12:52 UTC 2026-09-16 20:12:52 UTC at epicenter Location 4.524°N 76.877°W Depth 59.03 km (36.68 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Colombia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "e78acc09e83b65e7eee8"
+    },
+    {
+      "title": "M 4.9 - 191 km ESE of Kimbe, Papua New Guinea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thxg",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-16T20:37:30.040+00:00",
+      "fetched_at": "2026-09-16T20:40:59+00:00",
+      "summary": "Time 2026-09-16 20:21:24 UTC 2026-09-16 20:21:24 UTC at epicenter Location 6.107°S 151.778°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "c5bb4d583ee8bdbda1cd"
+    },
+    {
+      "title": "Copilot budget increase requests are generally available",
+      "url": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-09-16T20:17:18+00:00",
+      "fetched_at": "2026-09-16T20:40:59+00:00",
+      "summary": "Previously, when a member used all the Copilot AI credits available to them, they were blocked from Copilot features that consume credits. This release adds a flow for them to… The post Copilot budget increase requests are generally available appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "AI/KI",
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b4ac4095158856ea1ac6"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

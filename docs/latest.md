@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-16T20:28:21+00:00_
+_Generiert: 2026-09-16T20:41:30+00:00_
 
 ## Kurzlage
 
-91 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
+94 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -186,6 +186,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); founder (+2.0); recent (+1.0)
   - Kurz: Cambodia’s startup ecosystem is still small by Southeast Asian standards, but its newest crop of founders is starting to build with a wider market in mind. Newwave Tech Foundry, a Phnom Penh-based artificial intelligence and software development company, is one example: barely two years old, it already says more than 70 per cent of its […] The post Cambodia’s Newwave wins CIFC backing to build AI tools for regional…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.0 - 29 km WSW of Sipí, Colombia** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000thxc)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-16T20:37:18.706+00:00`, fetched `2026-09-16T20:40:59+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Colombia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: DYFI? - II Time 2026-09-16 20:12:52 UTC 2026-09-16 20:12:52 UTC at epicenter Location 4.524°N 76.877°W Depth 59.03 km (36.68 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Reimagining advertising with AI** — Score 11, observation — [Quelle](https://openai.com/index/reimagining-advertising-with-ai)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-09-16T13:00:00+00:00`, fetched `2026-09-16T13:30:51+00:00`
@@ -230,15 +239,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Colombia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-16 06:18:06 UTC 2026-09-16 06:18:06 UTC at epicenter Location 4.495°N 76.782°W Depth 71.01 km (44.12 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.0 - 281 km SSE of Dunhuang, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ths9)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-16T06:11:28.040+00:00`, fetched `2026-09-16T06:34:32+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-16 05:52:03 UTC 2026-09-16 05:52:03 UTC at epicenter Location 37.708°N 95.496°E Depth 10.46 km (6.50 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **How workers are unlocking new ways of working** — Score 10, observation — [Quelle](https://openai.com/index/unlocking-new-ways-of-working)
   - Quelle: OpenAI News RSS / `rss`
