@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-16T09:41:18+00:00_
+_Generiert: 2026-09-16T09:57:26+00:00_
 
 ## Kurzlage
 
-42 neue relevante Treffer. Stärkstes Signal: „The Capital-Driven Rise of Modern Business Suites“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
+48 neue relevante Treffer. Stärkstes Signal: „The Capital-Driven Rise of Modern Business Suites“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
 
 ## Priorität Hoch
 
@@ -96,6 +96,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan, Bank of Japan (+2.0)
   - Kurz: Speech by Mr Hajime Takata, Member of the Policy Board of the Bank of Japan, at a meeting with local leaders, Sapporo, 2 September 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Plaud doubles its Singapore bet to US$15.7M. Now it has to prove the growth is real** — Score 12, observation — [Quelle](https://e27.co/plaud-doubles-its-singapore-bet-to-us15-7m-now-it-has-to-prove-the-growth-is-real-20260916/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-16T09:47:23+00:00`, fetched `2026-09-16T09:56:54+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region usa: San Francisco (+2.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Plaud, the maker of the credit-card-sized AI voice recorder that has become a fixture on lanyards and phone cases across Asia, has opened an Asia-Pacific headquarters in Singapore. The Chinese-founded, San Francisco-incorporated firm has also committed at least SGD20 million (~US$15.7 million) to the island nation. This is double the amount it pledged when it […] The post Plaud doubles its Singapore bet to US$15.7M.…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Announcing 20260082 (OT,liquidity providing), for 7 days deadline 09:45** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260082.en.html)
   - Quelle: ECB Open Market Operations and Communication / `rss`
   - Zeit: published `2026-09-16T08:15:22+00:00`, fetched `2026-09-16T07:33:13+00:00`
@@ -149,15 +158,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0)
   - Kurz: Rosaline Chow Koo has spent much of her career trying to make corporate health benefits less rigid, less opaque and, ultimately, less expensive. Her last company, CXA, attacked the problem from the employee side, giving workers more room to customise their benefits while helping employers manage costs. Now, at 65, she is coming at the […] The post CXA founder Rosaline Chow Koo returns with Covee, an AI tool for bene…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Why some Gen Z graduates are skipping AI degrees entirely, and getting better jobs because of it** — Score 10, observation — [Quelle](https://e27.co/why-some-gen-z-graduates-are-skipping-ai-degrees-entirely-and-getting-better-jobs-because-of-it-20260916/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-16T04:40:24+00:00`, fetched `2026-09-16T04:49:06+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: United States (+2.0)
-  - Kurz: In 2018, Carnegie Mellon launched the first bachelor of science degree in artificial intelligence in the United States. A handful of universities followed over the next five years. Then 2025 happened. Bachelor’s level AI programs jumped from 90 to 193 in a single year, a 114 percent expansion. Northwestern launched its own AI major in […] The post Why some Gen Z graduates are skipping AI degrees entirely, and gettin…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Bank resilience and sustainable growth - two sides of the same coin** — Score 10, observation — [Quelle](https://www.bis.org/speeches/20260916-bank-resilience-and-sustainable-growth-two-sides-same-coin)
   - Quelle: BIS Central Bankers Speeches / `rss`

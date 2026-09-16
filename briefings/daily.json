@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T09:41:21+00:00",
-  "today_file_total": 42,
+  "generated_at": "2026-09-16T09:57:30+00:00",
+  "today_file_total": 48,
   "current_clusters": [
     {
       "key": "domain:www.bis.org",
@@ -16,15 +16,16 @@
         "https://www.bis.org/speeches/20260916-bank-resilience-and-sustainable-growth-two-sides-same-coin",
         "https://www.bis.org/speeches/20260916-institutional-form-independent-central-banks-history-contemporary-challenges",
         "https://www.bis.org/speeches/20260916-monetary-policy-decision",
+        "https://www.bis.org/speeches/20260916-listening-households-expectations-behaviour-and-monetary-policy",
         "https://www.bis.org/speeches/20260916-economic-outlook-and-some-comments-my-policy-communication"
       ],
-      "finding_count": 5,
+      "finding_count": 8,
       "max_score": 13,
-      "credibility_total": 5.25,
+      "credibility_total": 8.4,
       "cross_source_confirmed": false,
-      "momentum_delta": 5,
+      "momentum_delta": 3,
       "momentum_status": "increasing",
-      "network_score": 38.5,
+      "network_score": 38.8,
       "hot": true,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
@@ -104,6 +105,30 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
+      "key": "domain:www.heise.de",
+      "title": "Angreifer attackieren Acronis Backup für cPanel/WHM und Plesk",
+      "sources": [
+        "heise Security Alerts"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.heise.de/news/Angreifer-attackieren-Acronis-Backup-fuer-cPanel-WHM-und-Plesk-11454681.html",
+        "https://www.heise.de/news/IBM-MQ-In-mehreren-Faellen-kann-Schadcode-auf-Systeme-gelangen-11454964.html"
+      ],
+      "finding_count": 2,
+      "max_score": 13,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 20.2,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "title:boom-won-help-you-scale-your-unit-economics",
       "title": "The AI boom won’t help you scale. Your unit economics will",
       "sources": [
@@ -148,6 +173,29 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "title:plaud-doubles-its-singapore-bet-now-has-prove",
+      "title": "Plaud doubles its Singapore bet to US$15.7M. Now it has to prove the growth is real",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/plaud-doubles-its-singapore-bet-to-us15-7m-now-it-has-to-prove-the-growth-is-real-20260916/"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 17.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "title:qnd",
@@ -214,29 +262,6 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 16.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "domain:www.heise.de",
-      "title": "Angreifer attackieren Acronis Backup für cPanel/WHM und Plesk",
-      "sources": [
-        "heise Security Alerts"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.heise.de/news/Angreifer-attackieren-Acronis-Backup-fuer-cPanel-WHM-und-Plesk-11454681.html"
-      ],
-      "finding_count": 1,
-      "max_score": 13,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 15.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
@@ -442,31 +467,6 @@
       ],
       "urls": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thsx"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 11.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "earthquake:m 5.0 - 60 km ssw of ocós, guatemala:5.0",
-      "title": "M 5.0 - 60 km SSW of Ocós, Guatemala",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thrz"
       ],
       "finding_count": 1,
       "max_score": 9,

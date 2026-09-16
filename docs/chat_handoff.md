@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-16T09:41:18+00:00_
+_Generated: 2026-09-16T09:57:26+00:00_
 
 ## Status
 - status: `normal`
-- findings: `42`
+- findings: `48`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-09-16T09:41:18+00:00_
 - url: https://www.bis.org/speeches/20260916-economic-activity-prices-and-monetary-policy-japan
 - summary: Speech by Mr Hajime Takata, Member of the Policy Board of the Bank of Japan, at a meeting with local leaders, Sapporo, 2 September 2026.
 
-### 7. Announcing 20260082 (OT,liquidity providing), for 7 days deadline 09:45
+### 7. Plaud doubles its Singapore bet to US$15.7M. Now it has to prove the growth is real
+- source: e27 Asia Startup and Tech Feed
+- score: `12`
+- published: `2026-09-16T09:47:23+00:00`
+- url: https://e27.co/plaud-doubles-its-singapore-bet-to-us15-7m-now-it-has-to-prove-the-growth-is-real-20260916/
+- summary: Plaud, the maker of the credit-card-sized AI voice recorder that has become a fixture on lanyards and phone cases across Asia, has opened an Asia-Pacific headquarters in Singapore. The Chinese-founded, San Francisco-incorporated firm has also committed at lea…
+
+### 8. Announcing 20260082 (OT,liquidity providing), for 7 days deadline 09:45
 - source: ECB Open Market Operations and Communication
 - score: `12`
 - published: `2026-09-16T08:15:22+00:00`
 - url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260082.en.html
 - summary: Announcing 20260082 (OT,liquidity providing), for 7 days deadline 09:45
-
-### 8. Cambodia’s Newwave wins CIFC backing to build AI tools for regional businesses
-- source: e27 Asia Startup and Tech Feed
-- score: `12`
-- published: `2026-09-16T07:45:46+00:00`
-- url: https://e27.co/cambodias-newwave-wins-cifc-backing-to-build-ai-tools-for-regional-businesses-20260916/
-- summary: Cambodia’s startup ecosystem is still small by Southeast Asian standards, but its newest crop of founders is starting to build with a wider market in mind. Newwave Tech Foundry, a Phnom Penh-based artificial intelligence and software development company, is o…
 
 END OF DOCUMENT

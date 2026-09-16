@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-16T09:41:21+00:00",
+  "generated_at": "2026-09-16T09:57:30+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 42,
-    "clusters": 36,
+    "findings": 48,
+    "clusters": 38,
     "cross_source_confrmed": 1,
     "hot": 0,
-    "early_signals": 0,
+    "early_signals": 1,
     "dominance_penalized": 7
   },
   "clusters": [
@@ -25,25 +25,26 @@
         "https://www.bis.org/speeches/20260916-bank-resilience-and-sustainable-growth-two-sides-same-coin",
         "https://www.bis.org/speeches/20260916-institutional-form-independent-central-banks-history-contemporary-challenges",
         "https://www.bis.org/speeches/20260916-monetary-policy-decision",
+        "https://www.bis.org/speeches/20260916-listening-households-expectations-behaviour-and-monetary-policy",
         "https://www.bis.org/speeches/20260916-economic-outlook-and-some-comments-my-policy-communication"
       ],
-      "finding_count": 5,
+      "finding_count": 8,
       "max_score": 13,
-      "credibility_total": 5.25,
+      "credibility_total": 8.4,
       "cross_source_confirmed": false,
-      "momentum_delta": 5,
+      "momentum_delta": 3,
       "momentum_status": "increasing",
-      "network_score": 24.0,
+      "network_score": 23.5,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 38.5,
-      "ranking_score": 24.0,
+      "raw_network_score": 38.8,
+      "ranking_score": 23.5,
       "initial_reach_tier": "institutional",
       "source_reach_score": 5.0,
       "authority_bonus_capped": 3.0,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 8.0,
+      "momentum_bonus": 7.5,
       "baseline_bonus": 0.0,
       "early_signal": false,
       "early_signal_bonus": 0.0,
@@ -52,6 +53,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "title:plaud-doubles-its-singapore-bet-now-has-prove",
+      "title": "Plaud doubles its Singapore bet to US$15.7M. Now it has to prove the growth is real",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/plaud-doubles-its-singapore-bet-to-us15-7m-now-it-has-to-prove-the-growth-is-real-20260916/"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 21.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 17.1,
+      "ranking_score": 21.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 5.5,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-16T09:57:30+00:00"
     },
     {
       "key": "title:capital-driven-rise-modern-business-suites",
@@ -153,18 +192,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 19.92,
+      "network_score": 19.78,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 20.2,
-      "ranking_score": 19.92,
+      "ranking_score": 19.78,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 2.42,
+      "baseline_bonus": 2.28,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -172,6 +211,45 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-06-19T01:58:32+00:00"
+    },
+    {
+      "key": "domain:www.heise.de",
+      "title": "Angreifer attackieren Acronis Backup für cPanel/WHM und Plesk",
+      "sources": [
+        "heise Security Alerts"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.heise.de/news/Angreifer-attackieren-Acronis-Backup-fuer-cPanel-WHM-und-Plesk-11454681.html",
+        "https://www.heise.de/news/IBM-MQ-In-mehreren-Faellen-kann-Schadcode-auf-Systeme-gelangen-11454964.html"
+      ],
+      "finding_count": 2,
+      "max_score": 13,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 19.41,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 20.2,
+      "ranking_score": 19.41,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 2.41,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T07:39:37+00:00"
     },
     {
       "key": "title:boom-won-help-you-scale-your-unit-economics",
@@ -362,44 +440,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-08-28T14:08:37+00:00"
-    },
-    {
-      "key": "domain:www.heise.de",
-      "title": "Angreifer attackieren Acronis Backup für cPanel/WHM und Plesk",
-      "sources": [
-        "heise Security Alerts"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.heise.de/news/Angreifer-attackieren-Acronis-Backup-fuer-cPanel-WHM-und-Plesk-11454681.html"
-      ],
-      "finding_count": 1,
-      "max_score": 13,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 14.96,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 15.1,
-      "ranking_score": 14.96,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.46,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-19T07:39:37+00:00"
     },
     {
       "key": "title:cambodia-newwave-wins-cifc-backing-build-tools-regional",
@@ -827,6 +867,44 @@
       "dominance_penalty": 3.0,
       "dominance_reason": "large emitter without cross-source resonance or high-signal term",
       "first_seen_at": "2026-09-16T06:35:08+00:00"
+    },
+    {
+      "key": "title:pint",
+      "title": "JP PINT 民間事業者の取組（政府調達編）―デジタル庁を更新しました",
+      "sources": [
+        "Japan Digital Agency News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.digital.go.jp/policies/electronic_invoice/968e4487-0cbb-48e7-a090-e097d925b5e7"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 11.1,
+      "ranking_score": 10.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-16T09:57:30+00:00"
     },
     {
       "key": "title:does-iphone-show-which-industries-will-destroy",
@@ -1413,7 +1491,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-16T09:41:21Z",
+    "generated_at": "2026-09-16T09:57:30Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
