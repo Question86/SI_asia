@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T08:01:24+00:00",
+  "generated_at": "2026-09-16T08:29:52+00:00",
   "sections": {
     "global_security": [
       {
@@ -61,6 +61,16 @@
         "metrics": {
           "cve": "CVE-2026-85706"
         }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "GDACS: Green flood alert in Senegal",
+        "summary": "Green flood alert in Senegal",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104161",
+        "published_at": "",
+        "metrics": {}
       },
       {
         "domain": "security",
