@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T11:57:30+00:00",
-  "run_id": "2026-09-16T11:57:30+00:00",
+  "generated_at": "2026-09-16T12:25:17+00:00",
+  "run_id": "2026-09-16T12:25:17+00:00",
   "date": "2026-09-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 75
+      "configured_public_sources_only": 77
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 7,
-    "today_file_total": 75,
-    "displayed_findings": 75,
+    "new_relevant_findings": 2,
+    "today_file_total": 77,
+    "displayed_findings": 77,
     "high": 0,
     "medium": 25,
-    "observe": 50,
+    "observe": 52,
     "source_errors": 0
   },
   "sections": {
@@ -1552,6 +1552,26 @@
         "id": "718346249cc2871a79a1"
       },
       {
+        "title": "Twenty-five years of the Central Bank of Montenegro",
+        "url": "https://www.bis.org/speeches/20260915-twenty-five-years-central-bank-montenegro",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-09-16T00:00:00+00:00",
+        "fetched_at": "2026-09-16T12:24:42+00:00",
+        "summary": "Opening remarks by Dr Irena Radović, Governor of the Central Bank of Montenegro, at the celebration to mark the 25th anniversary of the Central Bank of Montenegro, Lustica, 4 September 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Macro/Policy (+6.2); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "672b1b261080a6fb00b9"
+      },
+      {
         "title": "JP PINT 民間事業者の取組（政府調達編）―デジタル庁を更新しました",
         "url": "https://www.digital.go.jp/policies/electronic_invoice/968e4487-0cbb-48e7-a090-e097d925b5e7",
         "source": "Japan Digital Agency News RSS",
@@ -1650,6 +1670,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "05fa4bef8df9e549c237"
+      },
+      {
+        "title": "人間はどの意思決定を手放せるのか",
+        "url": "https://speakerdeck.com/kawasima/ningen-ha-dono-ishi-kettei-o-tebanaseru-no-ka",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-16T09:53:29+00:00",
+        "fetched_at": "2026-09-16T12:24:42+00:00",
+        "summary": "技術的負債に向き合うConference 2026 の発表資料です。 ぜひ最後までお読みください。",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8f35b108249ef3d6520d"
       },
       {
         "title": "内部に消火剤を仕込んだ火災予防電源タップがサンワサプライから - エルミタージュ秋葉原",
@@ -3322,6 +3363,26 @@
       "id": "718346249cc2871a79a1"
     },
     {
+      "title": "Twenty-five years of the Central Bank of Montenegro",
+      "url": "https://www.bis.org/speeches/20260915-twenty-five-years-central-bank-montenegro",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-16T00:00:00+00:00",
+      "fetched_at": "2026-09-16T12:24:42+00:00",
+      "summary": "Opening remarks by Dr Irena Radović, Governor of the Central Bank of Montenegro, at the celebration to mark the 25th anniversary of the Central Bank of Montenegro, Lustica, 4 September 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "672b1b261080a6fb00b9"
+    },
+    {
       "title": "JP PINT 民間事業者の取組（政府調達編）―デジタル庁を更新しました",
       "url": "https://www.digital.go.jp/policies/electronic_invoice/968e4487-0cbb-48e7-a090-e097d925b5e7",
       "source": "Japan Digital Agency News RSS",
@@ -3420,6 +3481,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "05fa4bef8df9e549c237"
+    },
+    {
+      "title": "人間はどの意思決定を手放せるのか",
+      "url": "https://speakerdeck.com/kawasima/ningen-ha-dono-ishi-kettei-o-tebanaseru-no-ka",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-16T09:53:29+00:00",
+      "fetched_at": "2026-09-16T12:24:42+00:00",
+      "summary": "技術的負債に向き合うConference 2026 の発表資料です。 ぜひ最後までお読みください。",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8f35b108249ef3d6520d"
     },
     {
       "title": "内部に消火剤を仕込んだ火災予防電源タップがサンワサプライから - エルミタージュ秋葉原",
@@ -3571,162 +3653,45 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [hoch] Unbound: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3392",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-16T11:46:32+00:00",
-      "fetched_at": "2026-09-16T11:57:01+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Unbound ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Speicher zu korrumpieren, einen Denial of Service zu verursachen oder Code auszuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "71f49f2b54ee42fca62b"
-    },
-    {
-      "title": "[NEU] [hoch] Apache Airflow Providers (FAB, Keycloak, Kafka, Akeyless): Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3385",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-16T11:46:32+00:00",
-      "fetched_at": "2026-09-16T11:57:01+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Apache Airflow ausnutzen, um seine Privilegien zu erhöhen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen oder Daten zu manipulieren und offenzulegen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "4cd299a76d87e54810e3"
-    },
-    {
-      "title": "[UPDATE] [mittel] bluez: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2984",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-16T11:46:32+00:00",
-      "fetched_at": "2026-09-16T11:57:01+00:00",
-      "summary": "Ein Angreifer in Bluetooth-Reichweite kann eine Schwachstelle in bluez ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "93f7621e9b71ff601a1c"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Moodle (10 septembre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1155/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-09-10T00:00:00+00:00",
-      "fetched_at": "2026-09-16T11:57:01+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Moodle. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et une injection de requêtes illégitimes par rebond (CSRF).",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "10452b47f8d5b6897f31"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits Palo Alto Networks (10 septembre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1156/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-09-10T00:00:00+00:00",
-      "fetched_at": "2026-09-16T11:57:01+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une injection de code indirecte à distance (XSS).",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "48669898a556b62d0531"
-    },
-    {
-      "title": "Multiples vulnérabilités dans MongoDB Server (10 septembre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1157/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-09-10T00:00:00+00:00",
-      "fetched_at": "2026-09-16T11:57:01+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans MongoDB Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8d8ea1dd2dec8c1d257a"
-    },
-    {
-      "title": "Financial markets as the engine of Uganda's tenfold economic transformation",
-      "url": "https://www.bis.org/speeches/20260916-financial-markets-engine-ugandas-tenfold-economic-transformation",
+      "title": "Twenty-five years of the Central Bank of Montenegro",
+      "url": "https://www.bis.org/speeches/20260915-twenty-five-years-central-bank-montenegro",
       "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
       "published_at": "2026-09-16T00:00:00+00:00",
-      "fetched_at": "2026-09-16T11:57:01+00:00",
-      "summary": "Keynote speech by Prof Augustus Nuwagaba , Deputy Governor of the Bank of Uganda, at the ACI Uganda Dealers' Meeting “Financial markets as the engine of Uganda's tenfold economic transformation”, Kololo, 28 August 2026.",
+      "fetched_at": "2026-09-16T12:24:42+00:00",
+      "summary": "Opening remarks by Dr Irena Radović, Governor of the Central Bank of Montenegro, at the celebration to mark the 25th anniversary of the Central Bank of Montenegro, Lustica, 4 September 2026.",
       "matched_keywords": [
         "Macro/Policy"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "relevance_score": 7,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "05fa4bef8df9e549c237"
+      "id": "672b1b261080a6fb00b9"
+    },
+    {
+      "title": "人間はどの意思決定を手放せるのか",
+      "url": "https://speakerdeck.com/kawasima/ningen-ha-dono-ishi-kettei-o-tebanaseru-no-ka",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-16T09:53:29+00:00",
+      "fetched_at": "2026-09-16T12:24:42+00:00",
+      "summary": "技術的負債に向き合うConference 2026 の発表資料です。 ぜひ最後までお読みください。",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8f35b108249ef3d6520d"
     }
   ],
   "source_errors": [],
