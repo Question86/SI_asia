@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-16T18:57:44+00:00_
+_Generiert: 2026-09-16T19:14:01+00:00_
 
 ## Kurzlage
 
@@ -17,6 +17,10 @@ _Generiert: 2026-09-16T18:57:44+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-16`
   - Kurz: Known exploited vulnerability. Added 2026-09-16. Due 2026-09-19. Cisco Identity Services Engine Incorrect Use of Privileged APIs Vulnerability
+- **CISA KEV: CVE-2026-87886 Acronis Backup** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-09-16`
+  - Kurz: Known exploited vulnerability. Added 2026-09-16. Due 2026-09-19. Acronis Backup Incorrect Default Permissions Vulnerability
 - **CISA KEV: CVE-2026-76461 Cisco Secure Email Gateway** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-09-14`
@@ -25,10 +29,6 @@ _Generiert: 2026-09-16T18:57:44+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-11`
   - Kurz: Known exploited vulnerability. Added 2026-09-11. Due 2026-09-14. ConnectWise ScreenConnect Improper Privilege Management and Missing Authorization Vulnerability
-- **CISA KEV: CVE-2026-42016 JFrog Artifactory** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-11`
-  - Kurz: Known exploited vulnerability. Added 2026-09-11. Due 2026-09-25. JFrog Artifactory Incorrect Authorization Vulnerability
 - **GDACS: Green flood alert in Senegal** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104161)
   - Quelle: GDACS
   - Zeit: ``

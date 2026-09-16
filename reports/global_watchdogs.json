@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T18:57:47+00:00",
+  "generated_at": "2026-09-16T19:14:04+00:00",
   "sections": {
     "global_security": [
       {
@@ -29,6 +29,18 @@
       {
         "domain": "security",
         "severity": "high",
+        "title": "CISA KEV: CVE-2026-87886 Acronis Backup",
+        "summary": "Known exploited vulnerability. Added 2026-09-16. Due 2026-09-19. Acronis Backup Incorrect Default Permissions Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-09-16",
+        "metrics": {
+          "cve": "CVE-2026-87886"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
         "title": "CISA KEV: CVE-2026-76461 Cisco Secure Email Gateway",
         "summary": "Known exploited vulnerability. Added 2026-09-14. Due 2026-09-17. Cisco Secure Email Gateway SQL Injection Vulnerability",
         "source": "CISA KEV",
@@ -48,18 +60,6 @@
         "published_at": "2026-09-11",
         "metrics": {
           "cve": "CVE-2026-84869"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-42016 JFrog Artifactory",
-        "summary": "Known exploited vulnerability. Added 2026-09-11. Due 2026-09-25. JFrog Artifactory Incorrect Authorization Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-09-11",
-        "metrics": {
-          "cve": "CVE-2026-42016"
         }
       },
       {
