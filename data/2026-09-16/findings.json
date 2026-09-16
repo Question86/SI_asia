@@ -230,6 +230,75 @@
     "id": "cab2df1178172c8817c1"
   },
   {
+    "title": "[UPDATE] [mittel] bluez: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2984",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-16T11:46:32+00:00",
+    "fetched_at": "2026-09-16T11:57:01+00:00",
+    "summary": "Ein Angreifer in Bluetooth-Reichweite kann eine Schwachstelle in bluez ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "93f7621e9b71ff601a1c"
+  },
+  {
+    "title": "[NEU] [hoch] Unbound: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3392",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-16T11:46:32+00:00",
+    "fetched_at": "2026-09-16T11:57:01+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Unbound ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Speicher zu korrumpieren, einen Denial of Service zu verursachen oder Code auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "71f49f2b54ee42fca62b"
+  },
+  {
+    "title": "[NEU] [hoch] Apache Airflow Providers (FAB, Keycloak, Kafka, Akeyless): Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3385",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-16T11:46:32+00:00",
+    "fetched_at": "2026-09-16T11:57:01+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Apache Airflow ausnutzen, um seine Privilegien zu erhöhen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen oder Daten zu manipulieren und offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4cd299a76d87e54810e3"
+  },
+  {
     "title": "[NEU] [mittel] MISP: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3411",
     "source": "BSI CERT-Bund Security Advisories",
@@ -1279,6 +1348,75 @@
     "id": "1c27a6a5e0f7a9c9f548"
   },
   {
+    "title": "Multiples vulnérabilités dans les produits Palo Alto Networks (10 septembre 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1156/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-09-10T00:00:00+00:00",
+    "fetched_at": "2026-09-16T11:57:01+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans les produits Palo Alto Networks. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une injection de code indirecte à distance (XSS).",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "48669898a556b62d0531"
+  },
+  {
+    "title": "Multiples vulnérabilités dans Moodle (10 septembre 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1155/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-09-10T00:00:00+00:00",
+    "fetched_at": "2026-09-16T11:57:01+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans Moodle. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une injection de code indirecte à distance (XSS) et une injection de requêtes illégitimes par rebond (CSRF).",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "10452b47f8d5b6897f31"
+  },
+  {
+    "title": "Multiples vulnérabilités dans MongoDB Server (10 septembre 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1157/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-09-10T00:00:00+00:00",
+    "fetched_at": "2026-09-16T11:57:01+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans MongoDB Server. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8d8ea1dd2dec8c1d257a"
+  },
+  {
     "title": "Taiwan bets on Gen Z founders to move beyond its chip-supplier image",
     "url": "https://e27.co/taiwan-bets-on-gen-z-founders-to-move-beyond-its-chip-supplier-image-20260916/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -1460,6 +1598,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "5ac5ff00ec1e7f6a9dd3"
+  },
+  {
+    "title": "Financial markets as the engine of Uganda's tenfold economic transformation",
+    "url": "https://www.bis.org/speeches/20260916-financial-markets-engine-ugandas-tenfold-economic-transformation",
+    "source": "BIS Central Bankers Speeches",
+    "source_type": "rss",
+    "published_at": "2026-09-16T00:00:00+00:00",
+    "fetched_at": "2026-09-16T11:57:01+00:00",
+    "summary": "Keynote speech by Prof Augustus Nuwagaba , Deputy Governor of the Bank of Uganda, at the ACI Uganda Dealers' Meeting “Financial markets as the engine of Uganda's tenfold economic transformation”, Kololo, 28 August 2026.",
+    "matched_keywords": [
+      "Macro/Policy"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "05fa4bef8df9e549c237"
   },
   {
     "title": "内部に消火剤を仕込んだ火災予防電源タップがサンワサプライから - エルミタージュ秋葉原",

@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-16T11:42:08+00:00",
+  "generated_at": "2026-09-16T11:57:30+00:00",
   "topics": {
     "ai": [
       {
@@ -31,6 +31,13 @@
         "published_at": "2026-09-16T02:49:52+00:00",
         "relevance_score": 16,
         "url": "https://gigazine.net/news/20260916-system-one-jev/"
+      },
+      {
+        "title": "[NEU] [hoch] Apache Airflow Providers (FAB, Keycloak, Kafka, Akeyless): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T11:46:32+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3385"
       },
       {
         "title": "Plaud doubles its Singapore bet to US$15.7M. Now it has to prove the growth is real",
@@ -66,13 +73,6 @@
         "published_at": "2026-09-16T04:40:24+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/why-some-gen-z-graduates-are-skipping-ai-degrees-entirely-and-getting-better-jobs-because-of-it-20260916/"
-      },
-      {
-        "title": "Bank resilience and sustainable growth - two sides of the same coin",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-09-16T00:00:00+00:00",
-        "relevance_score": 10,
-        "url": "https://www.bis.org/speeches/20260916-bank-resilience-and-sustainable-growth-two-sides-same-coin"
       }
     ],
     "security": [
@@ -119,32 +119,32 @@
         "url": "https://jvn.jp/jp/JVN45281119/"
       },
       {
+        "title": "[UPDATE] [mittel] bluez: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T11:46:32+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2984"
+      },
+      {
+        "title": "[NEU] [hoch] Unbound: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T11:46:32+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3392"
+      },
+      {
+        "title": "[NEU] [hoch] Apache Airflow Providers (FAB, Keycloak, Kafka, Akeyless): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T11:46:32+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3385"
+      },
+      {
         "title": "[NEU] [mittel] MISP: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-16T11:36:31+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3411"
-      },
-      {
-        "title": "[NEU] [hoch] IBM MQ: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-16T11:36:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3409"
-      },
-      {
-        "title": "[NEU] [hoch] Ghostscript: Schwachstelle ermöglicht Codeausführung und Manipulation von Daten",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-16T11:36:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3408"
-      },
-      {
-        "title": "[NEU] [hoch] Arista EOS: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-16T11:36:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3410"
       }
     ],
     "geopolitics": [
@@ -168,6 +168,20 @@
         "published_at": "2026-09-16T11:31:31+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3407"
+      },
+      {
+        "title": "[NEU] [hoch] Unbound: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T11:46:32+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3392"
+      },
+      {
+        "title": "[NEU] [hoch] Apache Airflow Providers (FAB, Keycloak, Kafka, Akeyless): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T11:46:32+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3385"
       },
       {
         "title": "[NEU] [mittel] MISP: Mehrere Schwachstellen",
@@ -203,20 +217,6 @@
         "published_at": "2026-09-16T11:31:31+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3406"
-      },
-      {
-        "title": "[NEU] [hoch] Oracle Communications: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-16T11:11:32+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3403"
-      },
-      {
-        "title": "[NEU] [hoch] Oracle Siebel CRM: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-16T11:11:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3401"
       }
     ],
     "economy": [
