@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-16T04:50:08+00:00",
+  "generated_at": "2026-09-16T04:57:28+00:00",
   "events": [
     {
       "event_id": "evt_014823216e5b4b658b61",
@@ -1408,7 +1408,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_3cb5980444e3bd7e9296",
@@ -3580,12 +3580,12 @@
     {
       "event_id": "evt_8280f49509ae066ada77",
       "title": "Why some Gen Z graduates are skipping AI degrees entirely, and getting better jobs because of it",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -4357,6 +4357,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_9c3134e419f64fd8323f",
+      "title": "CXA founder Rosaline Chow Koo returns with Covee, an AI tool for benefits brokers",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_9d04226446d45eedbb3d",
