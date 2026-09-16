@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-16T19:33:10+00:00_
+_Generated: 2026-09-16T19:41:14+00:00_
 
 ## Status
 - status: `normal`
-- findings: `90`
+- findings: `91`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-09-16T19:33:10+00:00_
 - url: https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup
 - summary: You can now use AI Scan for pull requests to find security vulnerabilities, even when CodeQL default setup isn’t enabled on a repository. Previously, AI Scan for pull requests only… The post Code scanning AI Scan no longer requires CodeQL default setup appear…
 
-### 3. The Capital-Driven Rise of Modern Business Suites
+### 3. How to connect AI usage to business value
+- source: OpenAI News RSS
+- score: `22`
+- published: `2026-09-16T12:00:00+00:00`
+- url: https://openai.com/index/how-to-connect-ai-usage-to-business-value
+- summary: Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.
+
+### 4. The Capital-Driven Rise of Modern Business Suites
 - source: e27 Asia Startup and Tech Feed
 - score: `19`
 - published: `2026-09-16T06:17:41+00:00`
 - url: https://e27.co/navigate-odoo-problem-best-erp-alternatives-singapore-price-guide-20260916/
 - summary: In the era of hyper-liquidity and ultra-low interest rates, the corporate software market witnessed an extraordinary transformation. The rapid global expansion of certain comprehensive business management applications, most notably Odoo, serves as a textbook…
-
-### 4. The AI boom won’t help you scale. Your unit economics will
-- source: e27 Asia Startup and Tech Feed
-- score: `17`
-- published: `2026-09-16T03:00:41+00:00`
-- url: https://e27.co/the-ai-boom-wont-help-you-scale-your-unit-economics-will-20260913/
-- summary: Three weeks ago I sat in on a pitch from a Jakarta fintech founder who used the word AI-powered four times in six minutes. When I asked what the model actually predicted, he could not answer. He knew the term. He did not know the mechanism. That gap is the re…
 
 ### 5. Angreifer attackieren Acronis Backup für cPanel/WHM und Plesk
 - source: heise Security Alerts

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-16T19:33:10+00:00_
+_Generiert: 2026-09-16T19:41:14+00:00_
 
 ## Kurzlage
 
-90 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
+91 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -30,6 +30,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CodeQL/Dependabot (+8.8); AI/KI (+3.8); Security (+6.0); GitHub (+2.0); recent (+1.0)
   - Kurz: You can now use AI Scan for pull requests to find security vulnerabilities, even when CodeQL default setup isn’t enabled on a repository. Previously, AI Scan for pull requests only… The post Code scanning AI Scan no longer requires CodeQL default setup appeared first on The GitHub Blog .
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **How to connect AI usage to business value** — Score 22, observation — [Quelle](https://openai.com/index/how-to-connect-ai-usage-to-business-value)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-09-16T12:00:00+00:00`, fetched `2026-09-16T19:40:42+00:00`
+  - Treffer: AI/KI, Content-Chance, OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); Content-Chance (+6.2); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0)
+  - Kurz: Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The Capital-Driven Rise of Modern Business Suites** — Score 19, observation — [Quelle](https://e27.co/navigate-odoo-problem-best-erp-alternatives-singapore-price-guide-20260916/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-16T06:17:41+00:00`, fetched `2026-09-16T06:34:32+00:00`
