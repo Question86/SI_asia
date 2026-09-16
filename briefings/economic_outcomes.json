@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-16T09:58:16+00:00",
+  "generated_at": "2026-09-16T10:18:25+00:00",
   "events": [
     {
       "event_id": "evt_014823216e5b4b658b61",
@@ -353,6 +353,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_0ec2a5279fe7669042a5",
+      "title": "M 4.7 - 6 km WSW of Port-Olry, Vanuatu",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_0fe6fa9731ff84e108db",
@@ -1243,7 +1254,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_32ac4b6ee61deef85d98",
@@ -3663,7 +3674,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_84d3f3201f12e5d043dc",
@@ -5665,7 +5676,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_cdb3544f42b3fe6f8f1e",
@@ -5923,12 +5934,12 @@
     {
       "event_id": "evt_d69ef3553b5220f71385",
       "title": "Plaud doubles its Singapore bet to US$15.7M. Now it has to prove the growth is real",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
