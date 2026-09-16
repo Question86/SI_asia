@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T21:58:44+00:00",
-  "today_file_total": 100,
+  "generated_at": "2026-09-16T22:18:10+00:00",
+  "today_file_total": 102,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -71,19 +71,46 @@
         "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
         "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
         "https://openai.com/index/reimagining-advertising-with-ai",
-        "https://openai.com/index/unlocking-new-ways-of-working"
+        "https://openai.com/index/unlocking-new-ways-of-working",
+        "https://openai.com/index/model-misalignment-reporting-framework"
       ],
-      "finding_count": 4,
+      "finding_count": 5,
       "max_score": 22,
-      "credibility_total": 4.2,
+      "credibility_total": 5.25,
       "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 30.4,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 35.5,
       "hot": true,
       "watchgraph_modules": [
         "ai_agents_workflow"
       ],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "domain:gigazine.net",
+      "title": "ChatGPT共同開発者がLLMとは異なる方法で処理するAIモデル「Jev」を開発、GPT-5.6 Terra級の性能でタスクを安価かつ超高速に実行可能",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://gigazine.net/news/20260916-system-one-jev/",
+        "https://gigazine.net/news/20260916-safari-extension-apple-intelligence/",
+        "https://gigazine.net/news/20260916-meta-one/",
+        "https://gigazine.net/news/20260916-google-dodgy-ads-gemini/"
+      ],
+      "finding_count": 4,
+      "max_score": 16,
+      "credibility_total": 4.2,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 27.4,
+      "hot": true,
+      "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
     },
     {
@@ -108,31 +135,6 @@
       "hot": true,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
-    },
-    {
-      "key": "domain:gigazine.net",
-      "title": "ChatGPT共同開発者がLLMとは異なる方法で処理するAIモデル「Jev」を開発、GPT-5.6 Terra級の性能でタスクを安価かつ超高速に実行可能",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://gigazine.net/news/20260916-system-one-jev/",
-        "https://gigazine.net/news/20260916-safari-extension-apple-intelligence/",
-        "https://gigazine.net/news/20260916-google-dodgy-ads-gemini/"
-      ],
-      "finding_count": 3,
-      "max_score": 16,
-      "credibility_total": 3.15,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 22.3,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "domain:www.ecb.europa.eu",
