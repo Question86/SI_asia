@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-16T05:58:25+00:00_
+_Generiert: 2026-09-16T06:35:04+00:00_
 
 ## Kurzlage
 
-23 neue relevante Treffer. Stärkstes Signal: „The AI boom won’t help you scale. Your unit economics will“ aus e27 Asia Startup and Tech Feed (Score 17, observation).
+28 neue relevante Treffer. Stärkstes Signal: „The Capital-Driven Rise of Modern Business Suites“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -29,6 +29,10 @@ _Generiert: 2026-09-16T05:58:25+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-11`
   - Kurz: Known exploited vulnerability. Added 2026-09-11. Due 2026-09-14. GitLab Community Edition and Enterprise Edition Path Traversal Vulnerability
+- **GDACS: Green flood alert in Sri Lanka** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104160)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Sri Lanka
 - **GDACS: Green notification for tropical cyclone TWENTYFOUR-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 97355 .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001322)
   - Quelle: GDACS
   - Zeit: ``
@@ -61,6 +65,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **The Capital-Driven Rise of Modern Business Suites** — Score 19, observation — [Quelle](https://e27.co/navigate-odoo-problem-best-erp-alternatives-singapore-price-guide-20260916/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-16T06:17:41+00:00`, fetched `2026-09-16T06:34:32+00:00`
+  - Treffer: APAC Trend Radar, Content-Chance, Macro/Policy, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: Macro/Policy (+5.0); APAC Trend Radar (+3.0); Content-Chance (+5.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: In the era of hyper-liquidity and ultra-low interest rates, the corporate software market witnessed an extraordinary transformation. The rapid global expansion of certain comprehensive business management applications, most notably Odoo, serves as a textbook example of a highly successful “capital + brand” growth narrative. Propelled by substantial venture capital injections and private equity backing, the […] The p…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The AI boom won’t help you scale. Your unit economics will** — Score 17, observation — [Quelle](https://e27.co/the-ai-boom-wont-help-you-scale-your-unit-economics-will-20260913/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-16T03:00:41+00:00`, fetched `2026-09-16T03:08:46+00:00`
@@ -109,6 +122,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 5.0 - 281 km SSE of Dunhuang, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ths9)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-16T06:11:28.040+00:00`, fetched `2026-09-16T06:34:32+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-16 05:52:03 UTC 2026-09-16 05:52:03 UTC at epicenter Location 37.708°N 95.496°E Depth 10.46 km (6.50 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **CXA founder Rosaline Chow Koo returns with Covee, an AI tool for benefits brokers** — Score 10, observation — [Quelle](https://e27.co/cxa-founder-rosaline-chow-koo-returns-with-covee-an-ai-tool-for-benefits-brokers-20260916/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-16T04:51:58+00:00`, fetched `2026-09-16T04:56:32+00:00`
@@ -136,6 +158,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
   - Kurz: 【ワシントン=八十島綾平】急速に進化する人工知能（AI）の規制を巡る議論が熱を帯びるなか、政治的に対極にいるはずのMAGA（米国を再び偉大に）派と急進左派の論客がそろってAI開発の停止や規制強化を訴え始めた。AI規制を求める米非営利団体「フューチャー・オブ・ライフ・インスティテュート（FLI）」が15日にワシン...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Homebrew/BrewUI** — Score 10, observation — [Quelle](https://github.com/Homebrew/BrewUI)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-09-16T06:34:32+00:00`
+  - Treffer: APAC Trend Radar, GitHub Trending, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); GitHub Trending (+2.0)
+  - Kurz: 📺 Homebrew's official macOS GUI 🧑‍💻 BrewUI Homebrew's official macOS GUI: making package management approachable for users who prefer graphical interfaces over Terminal, while maintaining complete transparency about underlying Homebrew operations. 💡 Motivation Enable CLI-averse users to safely discover, install, update, and manage Homebrew packages through a native SwiftUI interface that never hides what Homebrew is…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Singapore’s robotics dominance is a warning sign dressed up as good news** — Score 9, observation — [Quelle](https://e27.co/singapores-robotics-dominance-is-a-warning-sign-dressed-up-as-good-news-20260916/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-16T06:00:45+00:00`, fetched `2026-09-16T06:34:32+00:00`
+  - Treffer: APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Southeast Asia’s robotics sector just posted a record year. Look closer, and the story isn’t strength; it’s fragility wearing a big number as a costume. Tracxn’s new Robotics – SEA report says the region’s robotics companies raised US$696 million so far in 2026, blowing past the US$52 million raised in all of 2025. On its […] The post Singapore’s robotics dominance is a warning sign dressed up as good news appeared…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.0 - 60 km SSW of Ocós, Guatemala** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000thrz)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-16T04:02:44.040+00:00`, fetched `2026-09-16T04:25:10+00:00`
@@ -145,15 +185,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-16 03:45:03 UTC 2026-09-16 03:45:03 UTC at epicenter Location 14.029°N 92.454°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Japan’s Ricoh backs Singapore’s Intellect in first deal from new US$20M fund** — Score 9, observation — [Quelle](https://e27.co/japans-ricoh-backs-singapores-intellect-in-first-deal-from-new-us20m-fund-20260916/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-16T04:01:18+00:00`, fetched `2026-09-16T04:25:10+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: Ricoh, the Japanese office-equipment and digital-services giant, has made its first bet from a freshly launched corporate venture fund and it has chosen mental health as the theme. The company confirmed on Tuesday that it has invested in Intellect, a Singapore-based workplace mental-health platform, through the RICOH Innovation Fund II. Also Read: YC-backed mental health […] The post Japan’s Ricoh backs Singapore’s…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.5 - 45 km NNW of Duaca, Venezuela** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000thrm)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-16T02:21:22.040+00:00`, fetched `2026-09-16T02:30:01+00:00`
@@ -172,15 +203,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Open Source (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: VBScript廃止に備えよ！ Windowsライセンス認証の自動化はslmgr.vbsではなくPowerShellで／Microsoftが新モジュール「OSLicense」の利用を呼び掛け
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.7 - 159 km N of Caluula, Somalia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000thr6)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-16T00:10:55.040+00:00`, fetched `2026-09-16T00:13:02+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-15 23:46:59 UTC 2026-09-15 23:46:59 UTC at epicenter Location 13.412°N 50.731°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **デジタル庁調達手続マニュアルを更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/procurement/manual)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-09-16T06:00:00+00:00`, fetched `2026-09-16T06:34:32+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: デジタル庁調達手続マニュアルを更新しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **令和8年熊本地震に関する対応状況について（9月16日）** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/0346c21b-29d7-49a6-8f1a-68b0ea784bb4)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-09-16T01:00:00+00:00`, fetched `2026-09-16T01:01:25+00:00`

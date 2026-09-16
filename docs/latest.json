@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T05:58:25+00:00",
-  "run_id": "2026-09-16T05:58:25+00:00",
+  "generated_at": "2026-09-16T06:35:04+00:00",
+  "run_id": "2026-09-16T06:35:04+00:00",
   "date": "2026-09-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 23
+      "configured_public_sources_only": 28
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,61 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 23,
-    "displayed_findings": 23,
+    "new_relevant_findings": 5,
+    "today_file_total": 28,
+    "displayed_findings": 28,
     "high": 0,
-    "medium": 5,
-    "observe": 18,
+    "medium": 6,
+    "observe": 22,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [
+      {
+        "title": "The Capital-Driven Rise of Modern Business Suites",
+        "url": "https://e27.co/navigate-odoo-problem-best-erp-alternatives-singapore-price-guide-20260916/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-16T06:17:41+00:00",
+        "fetched_at": "2026-09-16T06:34:32+00:00",
+        "summary": "In the era of hyper-liquidity and ultra-low interest rates, the corporate software market witnessed an extraordinary transformation. The rapid global expansion of certain comprehensive business management applications, most notably Odoo, serves as a textbook example of a highly successful “capital + brand” growth narrative. Propelled by substantial venture capital injections and private equity backing, the […] The p…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Content-Chance",
+          "Macro/Policy",
+          "Watchgraph:capitals_power_centers"
+        ],
+        "relevance_score": 19,
+        "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.0); Content-Chance (+5.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "capitals_power_centers"
+        ],
+        "watchgraph_reasons": [
+          "capitals_power_centers: capital"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ"
+        ],
+        "id": "c147ea60402ca150cf3e"
+      },
       {
         "title": "The AI boom won’t help you scale. Your unit economics will",
         "url": "https://e27.co/the-ai-boom-wont-help-you-scale-your-unit-economics-will-20260913/",
@@ -146,6 +190,42 @@
     ],
     "observe": [
       {
+        "title": "M 5.0 - 281 km SSE of Dunhuang, China",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ths9",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-09-16T06:11:28.040+00:00",
+        "fetched_at": "2026-09-16T06:34:32+00:00",
+        "summary": "Time 2026-09-16 05:52:03 UTC 2026-09-16 05:52:03 UTC at epicenter Location 37.708°N 95.496°E Depth 10.46 km (6.50 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "b2234a327cbbf7ea565f"
+      },
+      {
         "title": "CXA founder Rosaline Chow Koo returns with Covee, an AI tool for benefits brokers",
         "url": "https://e27.co/cxa-founder-rosaline-chow-koo-returns-with-covee-an-ai-tool-for-benefits-brokers-20260916/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -209,6 +289,49 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "db41de0b2d7210a4a4b0"
+      },
+      {
+        "title": "Homebrew/BrewUI",
+        "url": "https://github.com/Homebrew/BrewUI",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "source_type": "rss",
+        "published_at": null,
+        "fetched_at": "2026-09-16T06:34:32+00:00",
+        "summary": "📺 Homebrew's official macOS GUI 🧑‍💻 BrewUI Homebrew's official macOS GUI: making package management approachable for users who prefer graphical interfaces over Terminal, while maintaining complete transparency about underlying Homebrew operations. 💡 Motivation Enable CLI-averse users to safely discover, install, update, and manage Homebrew packages through a native SwiftUI interface that never hides what Homebrew is…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "GitHub Trending",
+          "Public Health"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "APAC Trend Radar (+3.0); Public Health (+5.0); GitHub Trending (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6748ca2baf7ffe408511"
+      },
+      {
+        "title": "Singapore’s robotics dominance is a warning sign dressed up as good news",
+        "url": "https://e27.co/singapores-robotics-dominance-is-a-warning-sign-dressed-up-as-good-news-20260916/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-16T06:00:45+00:00",
+        "fetched_at": "2026-09-16T06:34:32+00:00",
+        "summary": "Southeast Asia’s robotics sector just posted a record year. Look closer, and the story isn’t strength; it’s fragility wearing a big number as a costume. Tracxn’s new Robotics – SEA report says the region’s robotics companies raised US$696 million so far in 2026, blowing past the US$52 million raised in all of 2025. On its […] The post Singapore’s robotics dominance is a warning sign dressed up as good news appeared…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Southeast Asia"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8304d70afaf06381f4c0"
       },
       {
         "title": "M 5.0 - 60 km SSW of Ocós, Guatemala",
@@ -424,6 +547,26 @@
         "id": "718346249cc2871a79a1"
       },
       {
+        "title": "デジタル庁調達手続マニュアルを更新しました",
+        "url": "https://www.digital.go.jp/procurement/manual",
+        "source": "Japan Digital Agency News RSS",
+        "source_type": "rss",
+        "published_at": "2026-09-16T06:00:00+00:00",
+        "fetched_at": "2026-09-16T06:34:32+00:00",
+        "summary": "デジタル庁調達手続マニュアルを更新しました",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "cbb717786f3e88ec08e2"
+      },
+      {
         "title": "Bitcoin falls 3.12% to $75,697.61: Did Washington just kill the rally?",
         "url": "https://e27.co/bitcoin-falls-3-12-to-75697-61-did-washington-just-kill-the-rally-20260916/",
         "source": "e27 Asia Startup and Tech Feed",
@@ -572,6 +715,50 @@
   },
   "findings": [
     {
+      "title": "The Capital-Driven Rise of Modern Business Suites",
+      "url": "https://e27.co/navigate-odoo-problem-best-erp-alternatives-singapore-price-guide-20260916/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-16T06:17:41+00:00",
+      "fetched_at": "2026-09-16T06:34:32+00:00",
+      "summary": "In the era of hyper-liquidity and ultra-low interest rates, the corporate software market witnessed an extraordinary transformation. The rapid global expansion of certain comprehensive business management applications, most notably Odoo, serves as a textbook example of a highly successful “capital + brand” growth narrative. Propelled by substantial venture capital injections and private equity backing, the […] The p…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Content-Chance",
+        "Macro/Policy",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 19,
+      "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.0); Content-Chance (+5.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "c147ea60402ca150cf3e"
+    },
+    {
       "title": "The AI boom won’t help you scale. Your unit economics will",
       "url": "https://e27.co/the-ai-boom-wont-help-you-scale-your-unit-economics-will-20260913/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -686,6 +873,42 @@
       "id": "cab2df1178172c8817c1"
     },
     {
+      "title": "M 5.0 - 281 km SSE of Dunhuang, China",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ths9",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-16T06:11:28.040+00:00",
+      "fetched_at": "2026-09-16T06:34:32+00:00",
+      "summary": "Time 2026-09-16 05:52:03 UTC 2026-09-16 05:52:03 UTC at epicenter Location 37.708°N 95.496°E Depth 10.46 km (6.50 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "b2234a327cbbf7ea565f"
+    },
+    {
       "title": "CXA founder Rosaline Chow Koo returns with Covee, an AI tool for benefits brokers",
       "url": "https://e27.co/cxa-founder-rosaline-chow-koo-returns-with-covee-an-ai-tool-for-benefits-brokers-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -749,6 +972,49 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "db41de0b2d7210a4a4b0"
+    },
+    {
+      "title": "Homebrew/BrewUI",
+      "url": "https://github.com/Homebrew/BrewUI",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-09-16T06:34:32+00:00",
+      "summary": "📺 Homebrew's official macOS GUI 🧑‍💻 BrewUI Homebrew's official macOS GUI: making package management approachable for users who prefer graphical interfaces over Terminal, while maintaining complete transparency about underlying Homebrew operations. 💡 Motivation Enable CLI-averse users to safely discover, install, update, and manage Homebrew packages through a native SwiftUI interface that never hides what Homebrew is…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "Public Health"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "APAC Trend Radar (+3.0); Public Health (+5.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6748ca2baf7ffe408511"
+    },
+    {
+      "title": "Singapore’s robotics dominance is a warning sign dressed up as good news",
+      "url": "https://e27.co/singapores-robotics-dominance-is-a-warning-sign-dressed-up-as-good-news-20260916/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-16T06:00:45+00:00",
+      "fetched_at": "2026-09-16T06:34:32+00:00",
+      "summary": "Southeast Asia’s robotics sector just posted a record year. Look closer, and the story isn’t strength; it’s fragility wearing a big number as a costume. Tracxn’s new Robotics – SEA report says the region’s robotics companies raised US$696 million so far in 2026, blowing past the US$52 million raised in all of 2025. On its […] The post Singapore’s robotics dominance is a warning sign dressed up as good news appeared…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8304d70afaf06381f4c0"
     },
     {
       "title": "M 5.0 - 60 km SSW of Ocós, Guatemala",
@@ -964,6 +1230,26 @@
       "id": "718346249cc2871a79a1"
     },
     {
+      "title": "デジタル庁調達手続マニュアルを更新しました",
+      "url": "https://www.digital.go.jp/procurement/manual",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-16T06:00:00+00:00",
+      "fetched_at": "2026-09-16T06:34:32+00:00",
+      "summary": "デジタル庁調達手続マニュアルを更新しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cbb717786f3e88ec08e2"
+    },
+    {
       "title": "Bitcoin falls 3.12% to $75,697.61: Did Washington just kill the rally?",
       "url": "https://e27.co/bitcoin-falls-3-12-to-75697-61-did-washington-just-kill-the-rally-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -1109,7 +1395,151 @@
       "id": "6c67283d1d0369882ac2"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "The Capital-Driven Rise of Modern Business Suites",
+      "url": "https://e27.co/navigate-odoo-problem-best-erp-alternatives-singapore-price-guide-20260916/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-16T06:17:41+00:00",
+      "fetched_at": "2026-09-16T06:34:32+00:00",
+      "summary": "In the era of hyper-liquidity and ultra-low interest rates, the corporate software market witnessed an extraordinary transformation. The rapid global expansion of certain comprehensive business management applications, most notably Odoo, serves as a textbook example of a highly successful “capital + brand” growth narrative. Propelled by substantial venture capital injections and private equity backing, the […] The p…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Content-Chance",
+        "Macro/Policy",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 19,
+      "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.0); Content-Chance (+5.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "c147ea60402ca150cf3e"
+    },
+    {
+      "title": "M 5.0 - 281 km SSE of Dunhuang, China",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ths9",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-16T06:11:28.040+00:00",
+      "fetched_at": "2026-09-16T06:34:32+00:00",
+      "summary": "Time 2026-09-16 05:52:03 UTC 2026-09-16 05:52:03 UTC at epicenter Location 37.708°N 95.496°E Depth 10.46 km (6.50 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "b2234a327cbbf7ea565f"
+    },
+    {
+      "title": "Homebrew/BrewUI",
+      "url": "https://github.com/Homebrew/BrewUI",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "fetched_at": "2026-09-16T06:34:32+00:00",
+      "summary": "📺 Homebrew's official macOS GUI 🧑‍💻 BrewUI Homebrew's official macOS GUI: making package management approachable for users who prefer graphical interfaces over Terminal, while maintaining complete transparency about underlying Homebrew operations. 💡 Motivation Enable CLI-averse users to safely discover, install, update, and manage Homebrew packages through a native SwiftUI interface that never hides what Homebrew is…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "GitHub Trending",
+        "Public Health"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "APAC Trend Radar (+3.0); Public Health (+5.0); GitHub Trending (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6748ca2baf7ffe408511"
+    },
+    {
+      "title": "Singapore’s robotics dominance is a warning sign dressed up as good news",
+      "url": "https://e27.co/singapores-robotics-dominance-is-a-warning-sign-dressed-up-as-good-news-20260916/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-16T06:00:45+00:00",
+      "fetched_at": "2026-09-16T06:34:32+00:00",
+      "summary": "Southeast Asia’s robotics sector just posted a record year. Look closer, and the story isn’t strength; it’s fragility wearing a big number as a costume. Tracxn’s new Robotics – SEA report says the region’s robotics companies raised US$696 million so far in 2026, blowing past the US$52 million raised in all of 2025. On its […] The post Singapore’s robotics dominance is a warning sign dressed up as good news appeared…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8304d70afaf06381f4c0"
+    },
+    {
+      "title": "デジタル庁調達手続マニュアルを更新しました",
+      "url": "https://www.digital.go.jp/procurement/manual",
+      "source": "Japan Digital Agency News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-16T06:00:00+00:00",
+      "fetched_at": "2026-09-16T06:34:32+00:00",
+      "summary": "デジタル庁調達手続マニュアルを更新しました",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cbb717786f3e88ec08e2"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
