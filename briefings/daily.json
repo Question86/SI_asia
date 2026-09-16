@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T23:19:42+00:00",
-  "today_file_total": 102,
+  "generated_at": "2026-09-16T23:30:07+00:00",
+  "today_file_total": 103,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -354,6 +354,29 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
+      "key": "domain:japan.zdnet.com",
+      "title": "スイス、「Microsoft 365」からオープンソースに移行--「アーミーナイフを振るう」",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://japan.zdnet.com/article/35252576/"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 15.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "title:plaud-doubles-its-singapore-bet-now-has-prove",
       "title": "Plaud doubles its Singapore bet to US$15.7M. Now it has to prove the growth is real",
       "sources": [
@@ -460,31 +483,6 @@
       ],
       "urls": [
         "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thse"
-      ],
-      "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 13.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "earthquake:m 5.0 - 281 km sse of dunhuang, china:5.0",
-      "title": "M 5.0 - 281 km SSE of Dunhuang, China",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ths9"
       ],
       "finding_count": 1,
       "max_score": 11,
