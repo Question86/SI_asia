@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-16T04:25:59+00:00",
+  "generated_at": "2026-09-16T04:39:29+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -553,7 +553,7 @@
       "p90_usd": 109600000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-16T02:55:29+00:00",
-      "last_seen_at": "2026-09-16T04:25:42+00:00",
+      "last_seen_at": "2026-09-16T04:39:09+00:00",
       "status": "active"
     },
     {
@@ -2189,6 +2189,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_39deab74f55b6be2a03d",
+      "title": "M 5.0 - 60 km SSW of Ocós, Guatemala",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-16T04:25:42+00:00",
+      "last_seen_at": "2026-09-16T04:39:09+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_3dbfcfc39f34a1435ef4",
       "title": "M 5.0 - Fiji region",
       "event_classes": [
@@ -2508,7 +2525,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-16T02:30:35+00:00",
-      "last_seen_at": "2026-09-16T04:25:42+00:00",
+      "last_seen_at": "2026-09-16T04:39:09+00:00",
       "status": "active"
     },
     {
@@ -3035,7 +3052,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-16T00:13:34+00:00",
-      "last_seen_at": "2026-09-16T04:25:42+00:00",
+      "last_seen_at": "2026-09-16T04:39:09+00:00",
       "status": "active"
     },
     {
@@ -3124,23 +3141,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_39deab74f55b6be2a03d",
-      "title": "M 5.0 - 60 km SSW of Ocós, Guatemala",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-09-16T04:25:42+00:00",
-      "last_seen_at": "2026-09-16T04:25:42+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -3188,7 +3188,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-16T04:25:42+00:00",
+      "last_seen_at": "2026-09-16T04:39:09+00:00",
       "status": "active"
     },
     {
@@ -3375,7 +3375,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-16T03:09:18+00:00",
-      "last_seen_at": "2026-09-16T04:25:42+00:00",
+      "last_seen_at": "2026-09-16T04:39:09+00:00",
       "status": "active"
     },
     {
@@ -3749,7 +3749,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-16T03:09:18+00:00",
-      "last_seen_at": "2026-09-16T04:25:42+00:00",
+      "last_seen_at": "2026-09-16T04:39:09+00:00",
       "status": "active"
     },
     {
@@ -3902,7 +3902,7 @@
       "p90_usd": 1232000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
-      "last_seen_at": "2026-09-16T04:25:42+00:00",
+      "last_seen_at": "2026-09-16T04:39:09+00:00",
       "status": "active"
     },
     {
@@ -4310,7 +4310,7 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-16T04:25:42+00:00",
+      "last_seen_at": "2026-09-16T04:39:09+00:00",
       "status": "active"
     },
     {
@@ -4446,7 +4446,7 @@
       "p90_usd": 1176000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-16T03:09:18+00:00",
-      "last_seen_at": "2026-09-16T04:25:42+00:00",
+      "last_seen_at": "2026-09-16T04:39:09+00:00",
       "status": "active"
     },
     {
@@ -7115,7 +7115,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-16T04:01:46+00:00",
-      "last_seen_at": "2026-09-16T04:25:42+00:00",
+      "last_seen_at": "2026-09-16T04:39:09+00:00",
       "status": "active"
     },
     {
@@ -7187,6 +7187,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_fb1384baa846e093faea",
+      "title": "Japan’s Ricoh backs Singapore’s Intellect in first deal from new US$20M fund",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 111200.0,
+      "p50_usd": 11120000.0,
+      "p90_usd": 1112000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-16T04:25:42+00:00",
+      "last_seen_at": "2026-09-16T04:39:09+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_fd38962374a66d0fbcfa",
       "title": "Remediate Code Quality findings with agentic autofix",
       "event_classes": [
@@ -7220,23 +7237,6 @@
       "first_seen_at": "2026-09-11T01:08:28+00:00",
       "last_seen_at": "2026-09-11T13:48:13+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_fb1384baa846e093faea",
-      "title": "Japan’s Ricoh backs Singapore’s Intellect in first deal from new US$20M fund",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 111200.0,
-      "p50_usd": 11120000.0,
-      "p90_usd": 1112000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-16T04:25:42+00:00",
-      "last_seen_at": "2026-09-16T04:25:42+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_014823216e5b4b658b61",
@@ -7970,6 +7970,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_f2dab5c5b40cdef9e9d5",
+      "title": "Does the iPhone show us which industries AI will destroy?",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-16T04:39:09+00:00",
+      "last_seen_at": "2026-09-16T04:39:09+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_050660578420f6fb8ddb",
       "title": "Why Kyoto, not Tokyo, is Japan’s real deeptech bet",
       "event_classes": [
@@ -8085,7 +8102,7 @@
       "p90_usd": 1096000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-16T02:30:35+00:00",
-      "last_seen_at": "2026-09-16T04:25:42+00:00",
+      "last_seen_at": "2026-09-16T04:39:09+00:00",
       "status": "active"
     },
     {
@@ -8391,7 +8408,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-16T01:02:01+00:00",
-      "last_seen_at": "2026-09-16T04:25:42+00:00",
+      "last_seen_at": "2026-09-16T04:39:09+00:00",
       "status": "active"
     },
     {
@@ -8410,6 +8427,23 @@
       "first_seen_at": "2026-09-09T03:25:57+00:00",
       "last_seen_at": "2026-09-09T05:01:23+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_4495b72a53f7add8c0d4",
+      "title": "Bitcoin falls 3.12% to $75,697.61: Did Washington just kill the rally?",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108800.0,
+      "p50_usd": 10880000.0,
+      "p90_usd": 1088000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-16T04:25:42+00:00",
+      "last_seen_at": "2026-09-16T04:39:09+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_46ad72fcf2259d7d169d",
@@ -8888,23 +8922,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_4495b72a53f7add8c0d4",
-      "title": "Bitcoin falls 3.12% to $75,697.61: Did Washington just kill the rally?",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108800.0,
-      "p50_usd": 10880000.0,
-      "p90_usd": 1088000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-16T04:25:42+00:00",
-      "last_seen_at": "2026-09-16T04:25:42+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_0177d8625bc83d6c8e11",
       "title": "ＡＩで数学の難問を解く行為は「科学や数学界に有害だ」…世界の数学者２５人が非難の緊急声明",
       "event_classes": [
@@ -9258,7 +9275,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:10:24+00:00",
-      "last_seen_at": "2026-09-16T04:25:42+00:00",
+      "last_seen_at": "2026-09-16T04:39:09+00:00",
       "status": "active"
     },
     {
@@ -9326,7 +9343,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-16T00:13:34+00:00",
-      "last_seen_at": "2026-09-16T04:25:42+00:00",
+      "last_seen_at": "2026-09-16T04:39:09+00:00",
       "status": "active"
     },
     {
@@ -9649,7 +9666,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-16T01:31:39+00:00",
-      "last_seen_at": "2026-09-16T04:25:42+00:00",
+      "last_seen_at": "2026-09-16T04:39:09+00:00",
       "status": "active"
     },
     {
@@ -10654,6 +10671,23 @@
       "first_seen_at": "2026-09-08T01:40:08+00:00",
       "last_seen_at": "2026-09-08T05:58:24+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_6e2792531010293ee152",
+      "title": "マンガ原稿をクラウドに上げただけでGoogleアカウントBAN Gmailも道連れ……日本では合法なのになぜ？",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-16T04:39:09+00:00",
+      "last_seen_at": "2026-09-16T04:39:09+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_053f4fa216fa9d7c5edf",
