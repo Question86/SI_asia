@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-16T02:30:31+00:00_
+_Generated: 2026-09-16T02:55:26+00:00_
 
 ## Status
 - status: `normal`
-- findings: `10`
+- findings: `11`
 
 ## Top Signals
 
@@ -36,11 +36,11 @@ _Generated: 2026-09-16T02:30:31+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000thr6
 - summary: Time 2026-09-15 23:46:59 UTC 2026-09-15 23:46:59 UTC at epicenter Location 13.412°N 50.731°E Depth 10.00 km (6.21 mi)
 
-### 5. Asia’s research-tech companies: Millions of users and nearly invisible to funders and customers
+### 5. Entering Taiwan: A practical resource map for foreign founders
 - source: e27 Asia Startup and Tech Feed
 - score: `7`
-- published: `2026-09-16T02:00:48+00:00`
-- url: https://e27.co/asias-research-tech-companies-millions-of-users-and-nearly-invisible-to-funders-and-customers-20260913/
-- summary: A new class of AI tools has changed how research gets done. These tools help researchers gather and present their work, sift thousands of papers in minutes, flag fabricated data in submissions, and, more broadly, are authoring the future of scientific present…
+- published: `2026-09-16T02:30:32+00:00`
+- url: https://e27.co/entering-taiwan-a-practical-resource-map-for-foreign-founders-20260913/
+- summary: Foreign founders entering Taiwan should organise their research around decisions, not a long directory of programmes. The useful question is not simply what support exists, but which resource removes the next obstacle to testing a business. As the operator of…
 
 END OF DOCUMENT
