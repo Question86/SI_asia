@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T01:52:32+00:00",
-  "run_id": "2026-09-16T01:52:32+00:00",
+  "generated_at": "2026-09-16T02:01:03+00:00",
+  "run_id": "2026-09-16T02:01:03+00:00",
   "date": "2026-09-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 6,
     "displayed_findings": 6,
     "high": 0,
@@ -321,30 +321,7 @@
       "id": "6c67283d1d0369882ac2"
     }
   ],
-  "new_findings": [
-    {
-      "title": "AI脅威論で異形タッグ、MAGA派バノン氏と急進左派サンダース氏 - 日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOGN15C3B0V10C26A9000000/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-15T21:35:20+00:00",
-      "fetched_at": "2026-09-16T01:51:59+00:00",
-      "summary": "【ワシントン=八十島綾平】急速に進化する人工知能（AI）の規制を巡る議論が熱を帯びるなか、政治的に対極にいるはずのMAGA（米国を再び偉大に）派と急進左派の論客がそろってAI開発の停止や規制強化を訴え始めた。AI規制を求める米非営利団体「フューチャー・オブ・ライフ・インスティテュート（FLI）」が15日にワシン...",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "db41de0b2d7210a4a4b0"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
