@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-16T20:41:50+00:00",
+  "generated_at": "2026-09-16T20:49:21+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -825,7 +825,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-31T04:36:22+00:00",
-      "last_seen_at": "2026-09-16T20:41:33+00:00",
+      "last_seen_at": "2026-09-16T20:49:03+00:00",
       "status": "active"
     },
     {
@@ -910,7 +910,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-16T15:31:24+00:00",
-      "last_seen_at": "2026-09-16T20:41:33+00:00",
+      "last_seen_at": "2026-09-16T20:49:03+00:00",
       "status": "active"
     },
     {
@@ -1373,6 +1373,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_2c9909b827c7823d9b0f",
+      "title": "M 5.0 - 29 km WSW of Sipí, Colombia",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1128000.0,
+      "p50_usd": 112800000.0,
+      "p90_usd": 11280000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-16T20:41:33+00:00",
+      "last_seen_at": "2026-09-16T20:49:03+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_300e23dbbf1c1d85813e",
       "title": "M 4.7 - 62 km SSE of Palca, Peru",
       "event_classes": [
@@ -1505,7 +1522,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-16T06:56:18+00:00",
-      "last_seen_at": "2026-09-16T20:41:33+00:00",
+      "last_seen_at": "2026-09-16T20:49:03+00:00",
       "status": "active"
     },
     {
@@ -1743,7 +1760,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-16T07:33:48+00:00",
-      "last_seen_at": "2026-09-16T20:41:33+00:00",
+      "last_seen_at": "2026-09-16T20:49:03+00:00",
       "status": "active"
     },
     {
@@ -2051,23 +2068,6 @@
       "first_seen_at": "2026-08-29T11:40:09+00:00",
       "last_seen_at": "2026-08-29T23:58:25+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_2c9909b827c7823d9b0f",
-      "title": "M 5.0 - 29 km WSW of Sipí, Colombia",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1128000.0,
-      "p50_usd": 112800000.0,
-      "p90_usd": 11280000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-09-16T20:41:33+00:00",
-      "last_seen_at": "2026-09-16T20:41:33+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_058a0e17878f3797ed5c",
@@ -2441,6 +2441,23 @@
       "confidence": 0.328,
       "first_seen_at": "2026-08-31T10:12:45+00:00",
       "last_seen_at": "2026-08-31T12:13:30+00:00",
+      "status": "dormant"
+    },
+    {
+      "event_id": "evt_529f08f25a121eec137a",
+      "title": "M 4.9 - 191 km ESE of Kimbe, Papua New Guinea",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-16T20:41:33+00:00",
+      "last_seen_at": "2026-09-16T20:41:33+00:00",
       "status": "dormant"
     },
     {
@@ -3294,8 +3311,8 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_529f08f25a121eec137a",
-      "title": "M 4.9 - 191 km ESE of Kimbe, Papua New Guinea",
+      "event_id": "evt_0fa3a44650efecd2cbfa",
+      "title": "M 4.9 - Kermadec Islands, New Zealand",
       "event_classes": [
         "natural_disaster"
       ],
@@ -3306,8 +3323,8 @@
       "p50_usd": 111200000.0,
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
-      "first_seen_at": "2026-09-16T20:41:33+00:00",
-      "last_seen_at": "2026-09-16T20:41:33+00:00",
+      "first_seen_at": "2026-09-16T20:49:03+00:00",
+      "last_seen_at": "2026-09-16T20:49:03+00:00",
       "status": "active"
     },
     {
@@ -3324,7 +3341,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-16T20:41:33+00:00",
+      "last_seen_at": "2026-09-16T20:49:03+00:00",
       "status": "active"
     },
     {
@@ -3358,7 +3375,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-16T20:41:33+00:00",
+      "last_seen_at": "2026-09-16T20:49:03+00:00",
       "status": "active"
     },
     {
@@ -3545,7 +3562,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-16T03:09:18+00:00",
-      "last_seen_at": "2026-09-16T20:41:33+00:00",
+      "last_seen_at": "2026-09-16T20:49:03+00:00",
       "status": "active"
     },
     {
@@ -3919,7 +3936,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-16T03:09:18+00:00",
-      "last_seen_at": "2026-09-16T20:41:33+00:00",
+      "last_seen_at": "2026-09-16T20:49:03+00:00",
       "status": "active"
     },
     {
@@ -4055,7 +4072,7 @@
       "p90_usd": 1504000000.0,
       "confidence": 0.77,
       "first_seen_at": "2026-08-29T07:47:53+00:00",
-      "last_seen_at": "2026-09-16T20:41:33+00:00",
+      "last_seen_at": "2026-09-16T20:49:03+00:00",
       "status": "active"
     },
     {
@@ -4072,7 +4089,7 @@
       "p90_usd": 1232000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
-      "last_seen_at": "2026-09-16T20:41:33+00:00",
+      "last_seen_at": "2026-09-16T20:49:03+00:00",
       "status": "active"
     },
     {
@@ -4174,7 +4191,7 @@
       "p90_usd": 1216000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-16T14:21:58+00:00",
-      "last_seen_at": "2026-09-16T20:41:33+00:00",
+      "last_seen_at": "2026-09-16T20:49:03+00:00",
       "status": "active"
     },
     {
@@ -4395,7 +4412,7 @@
       "p90_usd": 1192000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-16T06:35:08+00:00",
-      "last_seen_at": "2026-09-16T20:41:33+00:00",
+      "last_seen_at": "2026-09-16T20:49:03+00:00",
       "status": "active"
     },
     {
@@ -4650,7 +4667,7 @@
       "p90_usd": 1176000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-16T03:09:18+00:00",
-      "last_seen_at": "2026-09-16T20:41:33+00:00",
+      "last_seen_at": "2026-09-16T20:49:03+00:00",
       "status": "active"
     },
     {
@@ -4786,7 +4803,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-16T20:41:33+00:00",
+      "last_seen_at": "2026-09-16T20:49:03+00:00",
       "status": "active"
     },
     {
@@ -5908,7 +5925,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-16T20:41:33+00:00",
+      "last_seen_at": "2026-09-16T20:49:03+00:00",
       "status": "active"
     },
     {
@@ -5959,7 +5976,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-16T07:53:39+00:00",
-      "last_seen_at": "2026-09-16T20:41:33+00:00",
+      "last_seen_at": "2026-09-16T20:49:03+00:00",
       "status": "active"
     },
     {
@@ -6010,7 +6027,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-16T09:57:30+00:00",
-      "last_seen_at": "2026-09-16T20:41:33+00:00",
+      "last_seen_at": "2026-09-16T20:49:03+00:00",
       "status": "active"
     },
     {
@@ -7387,7 +7404,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T18:20:05+00:00",
-      "last_seen_at": "2026-09-16T20:41:33+00:00",
+      "last_seen_at": "2026-09-16T20:49:03+00:00",
       "status": "active"
     },
     {
