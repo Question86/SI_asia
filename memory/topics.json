@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-16T13:59:08+00:00",
+  "generated_at": "2026-09-16T14:21:54+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-09-16T11:11:31+00:00",
         "relevance_score": 23,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3402"
+      },
+      {
+        "title": "Code scanning AI Scan no longer requires CodeQL default setup",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-09-16T13:26:06+00:00",
+        "relevance_score": 22,
+        "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup"
       },
       {
         "title": "The Capital-Driven Rise of Modern Business Suites",
@@ -66,13 +73,6 @@
         "published_at": "2026-09-16T10:00:00+00:00",
         "relevance_score": 11,
         "url": "https://restofworld.org/2026/ai-us-chips-chinese-open-source-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
-      },
-      {
-        "title": "CXA founder Rosaline Chow Koo returns with Covee, an AI tool for benefits brokers",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-16T04:51:58+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/cxa-founder-rosaline-chow-koo-returns-with-covee-an-ai-tool-for-benefits-brokers-20260916/"
       }
     ],
     "security": [
@@ -82,6 +82,13 @@
         "published_at": "2026-09-16T11:11:31+00:00",
         "relevance_score": 23,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3402"
+      },
+      {
+        "title": "Code scanning AI Scan no longer requires CodeQL default setup",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-09-16T13:26:06+00:00",
+        "relevance_score": 22,
+        "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup"
       },
       {
         "title": "[NEU] [hoch] Pixel Patchday September 2026: Mehrere Schwachstellen",
@@ -138,13 +145,6 @@
         "published_at": "2026-09-16T11:46:32+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3385"
-      },
-      {
-        "title": "[NEU] [mittel] MISP: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-16T11:36:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3411"
       }
     ],
     "geopolitics": [
@@ -217,6 +217,29 @@
         "published_at": "2026-09-16T11:31:31+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3406"
+      }
+    ],
+    "github": [
+      {
+        "title": "Code scanning AI Scan no longer requires CodeQL default setup",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-09-16T13:26:06+00:00",
+        "relevance_score": 22,
+        "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup"
+      },
+      {
+        "title": "Homebrew/BrewUI",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 10,
+        "url": "https://github.com/Homebrew/BrewUI"
+      },
+      {
+        "title": "Singapore’s robotics dominance is a warning sign dressed up as good news",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-16T06:00:45+00:00",
+        "relevance_score": 9,
+        "url": "https://e27.co/singapores-robotics-dominance-is-a-warning-sign-dressed-up-as-good-news-20260916/"
       }
     ],
     "economy": [
@@ -361,22 +384,6 @@
         "published_at": "2026-09-16T00:10:55.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thr6"
-      }
-    ],
-    "github": [
-      {
-        "title": "Homebrew/BrewUI",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 10,
-        "url": "https://github.com/Homebrew/BrewUI"
-      },
-      {
-        "title": "Singapore’s robotics dominance is a warning sign dressed up as good news",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-16T06:00:45+00:00",
-        "relevance_score": 9,
-        "url": "https://e27.co/singapores-robotics-dominance-is-a-warning-sign-dressed-up-as-good-news-20260916/"
       }
     ]
   }

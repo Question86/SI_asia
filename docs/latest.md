@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-16T13:59:08+00:00_
+_Generiert: 2026-09-16T14:21:54+00:00_
 
 ## Kurzlage
 
-81 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
+82 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -20,6 +20,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); Supply Chain Security (+10.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Supply Chain ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Code scanning AI Scan no longer requires CodeQL default setup** — Score 22, risk — [Quelle](https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-09-16T13:26:06+00:00`, fetched `2026-09-16T14:21:17+00:00`
+  - Treffer: AI/KI, CodeQL/Dependabot, GitHub, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CodeQL/Dependabot (+8.8); AI/KI (+3.8); Security (+6.0); GitHub (+2.0); recent (+1.0)
+  - Kurz: You can now use AI Scan for pull requests to find security vulnerabilities, even when CodeQL default setup isn’t enabled on a repository. Previously, AI Scan for pull requests only… The post Code scanning AI Scan no longer requires CodeQL default setup appeared first on The GitHub Blog .
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **The Capital-Driven Rise of Modern Business Suites** — Score 19, observation — [Quelle](https://e27.co/navigate-odoo-problem-best-erp-alternatives-singapore-price-guide-20260916/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
