@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T21:51:14+00:00",
-  "run_id": "2026-09-16T21:51:14+00:00",
+  "generated_at": "2026-09-16T21:58:40+00:00",
+  "run_id": "2026-09-16T21:58:40+00:00",
   "date": "2026-09-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 100,
     "displayed_findings": 100,
     "high": 0,
@@ -4855,30 +4855,7 @@
       "id": "ad3fa9becfab1167d7d4"
     }
   ],
-  "new_findings": [
-    {
-      "title": "GitHub - Gabberflast/academic-pptx-skill: A Claude Skill for creating academic presentations (conference talks, seminar slides, thesis defenses, grant briefings). Enforces action titles, structured argument, exhibit discipline, citation standards, and com",
-      "url": "https://github.com/Gabberflast/academic-pptx-skill",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-16T12:58:13+00:00",
-      "fetched_at": "2026-09-16T21:50:35+00:00",
-      "summary": "A Claude Skill for creating high-quality academic presentations: conference talks, seminar slides, thesis defenses, and grant briefings. Also includes a PDF which summarizes the advice (does not require use of Claude). This skill overrides Claude's default design-forward presentation style and re...",
-      "matched_keywords": [
-        "GitHub",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "mixed",
-      "recommended_action": "Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b060abcb49d0c45e6967"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
