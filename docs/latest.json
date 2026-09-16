@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T21:25:15+00:00",
-  "run_id": "2026-09-16T21:25:15+00:00",
+  "generated_at": "2026-09-16T21:34:20+00:00",
+  "run_id": "2026-09-16T21:34:20+00:00",
   "date": "2026-09-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 98,
     "displayed_findings": 98,
     "high": 0,
@@ -4771,30 +4771,7 @@
       "id": "ad3fa9becfab1167d7d4"
     }
   ],
-  "new_findings": [
-    {
-      "title": "「APIキーは.envに」はもはや通用しない AIエージェントの“内通者化”をどう防ぐ？",
-      "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/17/news006.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-16T07:51:41+00:00",
-      "fetched_at": "2026-09-16T21:24:46+00:00",
-      "summary": "選択肢も出そろってきています。OSS・セルフホスト系では「Infisical」「HashiCorp Vault」、OAuthトークンの保管に特化した「Nango」などがあり、マネージドベンダー系では「AWS Secrets Manager」「1Password」「Aembit」「WorkOS」「Arcade」といった名前が挙がります。共通する思想はシンプルです。エージェントに鍵...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry",
-        "Open Source"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "Open Source (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b15f7a736802df20098c"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
