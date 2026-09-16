@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-16T04:49:35+00:00_
+_Generiert: 2026-09-16T04:57:00+00:00_
 
 ## Kurzlage
 
-21 neue relevante Treffer. Stärkstes Signal: „The AI boom won’t help you scale. Your unit economics will“ aus e27 Asia Startup and Tech Feed (Score 17, observation).
+22 neue relevante Treffer. Stärkstes Signal: „The AI boom won’t help you scale. Your unit economics will“ aus e27 Asia Startup and Tech Feed (Score 17, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -100,6 +100,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **CXA founder Rosaline Chow Koo returns with Covee, an AI tool for benefits brokers** — Score 10, observation — [Quelle](https://e27.co/cxa-founder-rosaline-chow-koo-returns-with-covee-an-ai-tool-for-benefits-brokers-20260916/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-16T04:51:58+00:00`, fetched `2026-09-16T04:56:32+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, founder
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0)
+  - Kurz: Rosaline Chow Koo has spent much of her career trying to make corporate health benefits less rigid, less opaque and, ultimately, less expensive. Her last company, CXA, attacked the problem from the employee side, giving workers more room to customise their benefits while helping employers manage costs. Now, at 65, she is coming at the […] The post CXA founder Rosaline Chow Koo returns with Covee, an AI tool for bene…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Why some Gen Z graduates are skipping AI degrees entirely, and getting better jobs because of it** — Score 10, observation — [Quelle](https://e27.co/why-some-gen-z-graduates-are-skipping-ai-degrees-entirely-and-getting-better-jobs-because-of-it-20260916/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-16T04:40:24+00:00`, fetched `2026-09-16T04:49:06+00:00`
@@ -163,15 +172,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-15 23:46:59 UTC 2026-09-15 23:46:59 UTC at epicenter Location 13.412°N 50.731°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Does the iPhone show us which industries AI will destroy?** — Score 8, observation — [Quelle](https://e27.co/does-the-iphone-show-us-which-industries-ai-will-destroy-20260916/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-16T04:30:00+00:00`, fetched `2026-09-16T04:38:31+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: The iPhone did not destroy the compact camera because it was a better camera. It destroyed much of the market because it was already in people’s pockets. A dedicated camera could take better photographs. A specialist GPS unit could navigate more reliably. An iPod could be a better music player. But owning the specialist device […] The post Does the iPhone show us which industries AI will destroy? appeared first on e…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **令和8年熊本地震に関する対応状況について（9月16日）** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/0346c21b-29d7-49a6-8f1a-68b0ea784bb4)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-09-16T01:00:00+00:00`, fetched `2026-09-16T01:01:25+00:00`
