@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-16T11:30:10+00:00_
+_Generated: 2026-09-16T11:42:08+00:00_
 
 ## Status
 - status: `normal`
-- findings: `62`
+- findings: `68`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-09-16T11:30:10+00:00_
 - url: https://e27.co/the-ai-boom-wont-help-you-scale-your-unit-economics-will-20260913/
 - summary: Three weeks ago I sat in on a pitch from a Jakarta fintech founder who used the word AI-powered four times in six minutes. When I asked what the model actually predicted, he could not answer. He knew the term. He did not know the mechanism. That gap is the re…
 
-### 4. [UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen
+### 4. [NEU] [hoch] Pixel Patchday September 2026: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-09-16T10:53:18+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1326
-- summary: Ein lokaler Angreifer kann eine Schwachstellen im Linux Kernel ausnutzen, um Sicherheitsvorkehrungen zu umgehen.
+- published: `2026-09-16T11:31:31+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3407
+- summary: Ein Angreifer kann mehrere Schwachstellen in Google Android Pixel ausnutzen, um seine Privilegien zu erhöhen, beliebigen Code auszuführen, einen Denial-of-Service-Zustand herbeizuführen und vertrauliche Informationen offenzulegen.
 
 ### 5. Angreifer attackieren Acronis Backup für cPanel/WHM und Plesk
 - source: heise Security Alerts

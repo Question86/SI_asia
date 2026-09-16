@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-16T11:30:10+00:00",
+  "generated_at": "2026-09-16T11:42:08+00:00",
   "topics": {
     "ai": [
       {
@@ -84,6 +84,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3402"
       },
       {
+        "title": "[NEU] [hoch] Pixel Patchday September 2026: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T11:31:31+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3407"
+      },
+      {
         "title": "[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-16T10:53:18+00:00",
@@ -112,39 +119,32 @@
         "url": "https://jvn.jp/jp/JVN45281119/"
       },
       {
-        "title": "[NEU] [hoch] Oracle Communications: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] MISP: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-16T11:11:32+00:00",
+        "published_at": "2026-09-16T11:36:31+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3403"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3411"
       },
       {
-        "title": "[NEU] [hoch] Oracle Siebel CRM: Mehrere Schwachstellen",
+        "title": "[NEU] [hoch] IBM MQ: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-16T11:11:31+00:00",
+        "published_at": "2026-09-16T11:36:31+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3401"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3409"
       },
       {
-        "title": "[NEU] [hoch] Oracle Financial Services Applications: Mehrere Schwachstellen",
+        "title": "[NEU] [hoch] Ghostscript: Schwachstelle ermöglicht Codeausführung und Manipulation von Daten",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-16T11:11:31+00:00",
+        "published_at": "2026-09-16T11:36:31+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3398"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3408"
       },
       {
-        "title": "[NEU] [hoch] Oracle Enterprise Manager: Mehrere Schwachstellen",
+        "title": "[NEU] [hoch] Arista EOS: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-16T11:11:31+00:00",
+        "published_at": "2026-09-16T11:36:31+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3399"
-      },
-      {
-        "title": "[NEU] [hoch] Oracle E-Business Suite: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-16T11:11:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3400"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3410"
       }
     ],
     "geopolitics": [
@@ -163,6 +163,48 @@
         "url": "https://e27.co/navigate-odoo-problem-best-erp-alternatives-singapore-price-guide-20260916/"
       },
       {
+        "title": "[NEU] [hoch] Pixel Patchday September 2026: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T11:31:31+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3407"
+      },
+      {
+        "title": "[NEU] [mittel] MISP: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T11:36:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3411"
+      },
+      {
+        "title": "[NEU] [hoch] IBM MQ: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T11:36:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3409"
+      },
+      {
+        "title": "[NEU] [hoch] Ghostscript: Schwachstelle ermöglicht Codeausführung und Manipulation von Daten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T11:36:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3408"
+      },
+      {
+        "title": "[NEU] [hoch] Arista EOS: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T11:36:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3410"
+      },
+      {
+        "title": "[NEU] [hoch] GIMP: Schwachstelle ermöglicht Codeausführung und Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T11:31:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3406"
+      },
+      {
         "title": "[NEU] [hoch] Oracle Communications: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-16T11:11:32+00:00",
@@ -175,48 +217,6 @@
         "published_at": "2026-09-16T11:11:31+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3401"
-      },
-      {
-        "title": "[NEU] [hoch] Oracle Financial Services Applications: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-16T11:11:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3398"
-      },
-      {
-        "title": "[NEU] [hoch] Oracle Enterprise Manager: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-16T11:11:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3399"
-      },
-      {
-        "title": "[NEU] [hoch] Oracle E-Business Suite: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-16T11:11:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3400"
-      },
-      {
-        "title": "Economic activity, prices, and monetary policy in Japan",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-09-16T00:00:00+00:00",
-        "relevance_score": 13,
-        "url": "https://www.bis.org/speeches/20260916-economic-activity-prices-and-monetary-policy-japan"
-      },
-      {
-        "title": "Announcing 20260082 (OT,liquidity providing), for 7 days deadline 09:45",
-        "source": "ECB Open Market Operations and Communication",
-        "published_at": "2026-09-16T08:15:22+00:00",
-        "relevance_score": 12,
-        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260082.en.html"
-      },
-      {
-        "title": "Cambodia’s Newwave wins CIFC backing to build AI tools for regional businesses",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-16T07:45:46+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/cambodias-newwave-wins-cifc-backing-to-build-ai-tools-for-regional-businesses-20260916/"
       }
     ],
     "economy": [
