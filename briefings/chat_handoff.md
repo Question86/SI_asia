@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-16T07:45:24+00:00_
+_Generated: 2026-09-16T07:53:37+00:00_
 
 ## Status
 - status: `normal`
-- findings: `34`
+- findings: `35`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-09-16T07:45:24+00:00_
 - url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260082.en.html
 - summary: Announcing 20260082 (OT,liquidity providing), for 7 days deadline 09:45
 
-### 7. M 4.8 - 47 km WSW of Bahía Solano, Colombia
+### 7. Cambodia’s Newwave wins CIFC backing to build AI tools for regional businesses
+- source: e27 Asia Startup and Tech Feed
+- score: `12`
+- published: `2026-09-16T07:45:46+00:00`
+- url: https://e27.co/cambodias-newwave-wins-cifc-backing-to-build-ai-tools-for-regional-businesses-20260916/
+- summary: Cambodia’s startup ecosystem is still small by Southeast Asian standards, but its newest crop of founders is starting to build with a wider market in mind. Newwave Tech Foundry, a Phnom Penh-based artificial intelligence and software development company, is o…
+
+### 8. M 4.8 - 47 km WSW of Bahía Solano, Colombia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-09-16T07:28:25.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000thsp
 - summary: Time 2026-09-16 07:02:13 UTC 2026-09-16 07:02:13 UTC at epicenter Location 6.097°N 77.812°W Depth 10.00 km (6.21 mi)
-
-### 8. M 4.6 - 23 km SW of Sipí, Colombia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-09-16T06:45:35.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000thse
-- summary: Time 2026-09-16 06:18:06 UTC 2026-09-16 06:18:06 UTC at epicenter Location 4.495°N 76.782°W Depth 71.01 km (44.12 mi)
 
 END OF DOCUMENT
