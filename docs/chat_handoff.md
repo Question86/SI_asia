@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-16T05:16:02+00:00_
+_Generated: 2026-09-16T05:50:56+00:00_
 
 ## Status
 - status: `normal`
-- findings: `22`
+- findings: `23`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-09-16T05:16:02+00:00_
 - url: https://jvn.jp/vu/JVNVU93448623/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 3. QNDにおける複数の脆弱性
+### 3. ChatGPT共同開発者がLLMとは異なる方法で処理するAIモデル「Jev」を開発、GPT-5.6 Terra級の性能でタスクを安価かつ超高速に実行可能
+- source: Hatena Bookmark Hotentry IT
+- score: `16`
+- published: `2026-09-16T02:49:52+00:00`
+- url: https://gigazine.net/news/20260916-system-one-jev/
+- summary: AI企業のTypeSafe AIが大規模言語モデル(LLM)とは異なるアプローチでタスクを解決するAI「System One Models」と、System One Modelsの第1弾モデルである「Jev」を現地時間の2026年9月15日に発表しました。TypeSafe AIはChatGPTの開発に携わったAI研究者であるディオゴ・アルメイダ氏がCEOを務める企業で、LLMとは根本的...
+
+### 4. QNDにおける複数の脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-09-16T12:00:15+09:00`
 - url: https://jvn.jp/jp/JVN95825631/
 - summary: クオリティソフト株式会社が提供するQNDには、複数の脆弱性が存在します。
-
-### 4. XikeStor製Layer3スイッチのコンフィグレーションデータダウンロード機能における認証欠如の脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-09-16T12:00:00+09:00`
-- url: https://jvn.jp/jp/JVN45281119/
-- summary: XikeStor製Layer3スイッチは、認証なしにコンフィグレーションデータをダウンロード可能です。
 
 ### 5. CXA founder Rosaline Chow Koo returns with Covee, an AI tool for benefits brokers
 - source: e27 Asia Startup and Tech Feed

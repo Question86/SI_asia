@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-16T05:16:02+00:00_
+_Generiert: 2026-09-16T05:50:56+00:00_
 
 ## Kurzlage
 
-22 neue relevante Treffer. Stärkstes Signal: „The AI boom won’t help you scale. Your unit economics will“ aus e27 Asia Startup and Tech Feed (Score 17, observation).
+23 neue relevante Treffer. Stärkstes Signal: „The AI boom won’t help you scale. Your unit economics will“ aus e27 Asia Startup and Tech Feed (Score 17, observation).
 
 ## Priorität Hoch
 
@@ -30,6 +30,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **ChatGPT共同開発者がLLMとは異なる方法で処理するAIモデル「Jev」を開発、GPT-5.6 Terra級の性能でタスクを安価かつ超高速に実行可能** — Score 16, observation — [Quelle](https://gigazine.net/news/20260916-system-one-jev/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-16T02:49:52+00:00`, fetched `2026-09-16T05:50:24+00:00`
+  - Treffer: AI/KI, Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: AI企業のTypeSafe AIが大規模言語モデル(LLM)とは異なるアプローチでタスクを解決するAI「System One Models」と、System One Modelsの第1弾モデルである「Jev」を現地時間の2026年9月15日に発表しました。TypeSafe AIはChatGPTの開発に携わったAI研究者であるディオゴ・アルメイダ氏がCEOを務める企業で、LLMとは根本的...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **QNDにおける複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN95825631/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-09-16T12:00:15+09:00`, fetched `2026-09-16T03:08:46+00:00`
