@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-16T02:30:51+00:00",
+  "generated_at": "2026-09-16T02:55:46+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -538,6 +538,23 @@
       "first_seen_at": "2026-09-01T02:30:55+00:00",
       "last_seen_at": "2026-09-01T07:12:59+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_3ccf046dc5a105a205f2",
+      "title": "Entering Taiwan: A practical resource map for foreign founders",
+      "event_classes": [
+        "regulation"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 10960000.0,
+      "p50_usd": 1096000000.0,
+      "p90_usd": 109600000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-16T02:55:29+00:00",
+      "last_seen_at": "2026-09-16T02:55:29+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_47b8a9d882d1643b48e7",
@@ -2478,6 +2495,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_7f93c3b500ec5be49c4f",
+      "title": "M 4.5 - 45 km NNW of Duaca, Venezuela",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-16T02:30:35+00:00",
+      "last_seen_at": "2026-09-16T02:55:29+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_8010b354f2b1a19c2d5c",
       "title": "M 4.8 - 17 km WSW of Lixoúri, Greece",
       "event_classes": [
@@ -3001,7 +3035,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-16T00:13:34+00:00",
-      "last_seen_at": "2026-09-16T02:30:35+00:00",
+      "last_seen_at": "2026-09-16T02:55:29+00:00",
       "status": "active"
     },
     {
@@ -3090,23 +3124,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_7f93c3b500ec5be49c4f",
-      "title": "M 4.5 - 45 km NNW of Duaca, Venezuela",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-09-16T02:30:35+00:00",
-      "last_seen_at": "2026-09-16T02:30:35+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -3154,7 +3171,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-16T02:30:35+00:00",
+      "last_seen_at": "2026-09-16T02:55:29+00:00",
       "status": "active"
     },
     {
@@ -3834,7 +3851,7 @@
       "p90_usd": 1232000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
-      "last_seen_at": "2026-09-16T02:30:35+00:00",
+      "last_seen_at": "2026-09-16T02:55:29+00:00",
       "status": "active"
     },
     {
@@ -4242,7 +4259,7 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-16T02:30:35+00:00",
+      "last_seen_at": "2026-09-16T02:55:29+00:00",
       "status": "active"
     },
     {
@@ -7953,6 +7970,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_7414f27d6e9f6150512a",
+      "title": "Asia’s research-tech companies: Millions of users and nearly invisible to funders and customers",
+      "event_classes": [
+        "research"
+      ],
+      "capital_channels": [
+        "revenue"
+      ],
+      "p10_usd": 109600.0,
+      "p50_usd": 10960000.0,
+      "p90_usd": 1096000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-16T02:30:35+00:00",
+      "last_seen_at": "2026-09-16T02:55:29+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_8769dcdba6d77bfe9bc7",
       "title": "Will Bitcoin hold US$77,000 or drag the market to US$2.51T? The September 10 answer",
       "event_classes": [
@@ -8087,23 +8121,6 @@
       "first_seen_at": "2026-09-14T07:35:53+00:00",
       "last_seen_at": "2026-09-14T09:28:53+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_7414f27d6e9f6150512a",
-      "title": "Asia’s research-tech companies: Millions of users and nearly invisible to funders and customers",
-      "event_classes": [
-        "research"
-      ],
-      "capital_channels": [
-        "revenue"
-      ],
-      "p10_usd": 109600.0,
-      "p50_usd": 10960000.0,
-      "p90_usd": 1096000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-16T02:30:35+00:00",
-      "last_seen_at": "2026-09-16T02:30:35+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_01f8d7013bd851003572",
@@ -8272,7 +8289,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-16T01:02:01+00:00",
-      "last_seen_at": "2026-09-16T02:30:35+00:00",
+      "last_seen_at": "2026-09-16T02:55:29+00:00",
       "status": "active"
     },
     {
@@ -9122,7 +9139,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:10:24+00:00",
-      "last_seen_at": "2026-09-16T02:30:35+00:00",
+      "last_seen_at": "2026-09-16T02:55:29+00:00",
       "status": "active"
     },
     {
@@ -9190,7 +9207,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-16T00:13:34+00:00",
-      "last_seen_at": "2026-09-16T02:30:35+00:00",
+      "last_seen_at": "2026-09-16T02:55:29+00:00",
       "status": "active"
     },
     {
@@ -9513,7 +9530,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-16T01:31:39+00:00",
-      "last_seen_at": "2026-09-16T02:30:35+00:00",
+      "last_seen_at": "2026-09-16T02:55:29+00:00",
       "status": "active"
     },
     {
