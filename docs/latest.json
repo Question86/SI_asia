@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T21:42:50+00:00",
-  "run_id": "2026-09-16T21:42:50+00:00",
+  "generated_at": "2026-09-16T21:51:14+00:00",
+  "run_id": "2026-09-16T21:51:14+00:00",
   "date": "2026-09-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 99
+      "configured_public_sources_only": 100
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 99,
-    "displayed_findings": 99,
+    "today_file_total": 100,
+    "displayed_findings": 100,
     "high": 0,
     "medium": 30,
-    "observe": 69,
+    "observe": 70,
     "source_errors": 0
   },
   "sections": {
@@ -1732,6 +1732,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "b4ac4095158856ea1ac6"
+      },
+      {
+        "title": "GitHub - Gabberflast/academic-pptx-skill: A Claude Skill for creating academic presentations (conference talks, seminar slides, thesis defenses, grant briefings). Enforces action titles, structured argument, exhibit discipline, citation standards, and com",
+        "url": "https://github.com/Gabberflast/academic-pptx-skill",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-16T12:58:13+00:00",
+        "fetched_at": "2026-09-16T21:50:35+00:00",
+        "summary": "A Claude Skill for creating high-quality academic presentations: conference talks, seminar slides, thesis defenses, and grant briefings. Also includes a PDF which summarizes the advice (does not require use of Claude). This skill overrides Claude's default design-forward presentation style and re...",
+        "matched_keywords": [
+          "GitHub",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "mixed",
+        "recommended_action": "Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b060abcb49d0c45e6967"
       },
       {
         "title": "「APIキーは.envに」はもはや通用しない AIエージェントの“内通者化”をどう防ぐ？",
@@ -4125,6 +4147,28 @@
       "id": "b4ac4095158856ea1ac6"
     },
     {
+      "title": "GitHub - Gabberflast/academic-pptx-skill: A Claude Skill for creating academic presentations (conference talks, seminar slides, thesis defenses, grant briefings). Enforces action titles, structured argument, exhibit discipline, citation standards, and com",
+      "url": "https://github.com/Gabberflast/academic-pptx-skill",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-16T12:58:13+00:00",
+      "fetched_at": "2026-09-16T21:50:35+00:00",
+      "summary": "A Claude Skill for creating high-quality academic presentations: conference talks, seminar slides, thesis defenses, and grant briefings. Also includes a PDF which summarizes the advice (does not require use of Claude). This skill overrides Claude's default design-forward presentation style and re...",
+      "matched_keywords": [
+        "GitHub",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "mixed",
+      "recommended_action": "Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b060abcb49d0c45e6967"
+    },
+    {
       "title": "「APIキーは.envに」はもはや通用しない AIエージェントの“内通者化”をどう防ぐ？",
       "url": "https://atmarkit.itmedia.co.jp/ait/articles/2609/17/news006.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4813,24 +4857,26 @@
   ],
   "new_findings": [
     {
-      "title": "Automate SSO authorization for classic PATs and SSH keys",
-      "url": "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys",
-      "source": "GitHub Changelog Atom",
+      "title": "GitHub - Gabberflast/academic-pptx-skill: A Claude Skill for creating academic presentations (conference talks, seminar slides, thesis defenses, grant briefings). Enforces action titles, structured argument, exhibit discipline, citation standards, and com",
+      "url": "https://github.com/Gabberflast/academic-pptx-skill",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-16T20:20:16+00:00",
-      "fetched_at": "2026-09-16T21:42:18+00:00",
-      "summary": "Enterprise admins can now automate SSO authorization for existing classic personal access tokens (PATs) and SSH keys for organizations in GitHub Enterprise Cloud, replacing manual per-organization authorization by your developers.… The post Automate SSO authorization for classic PATs and SSH keys appeared first on The GitHub Blog .",
+      "published_at": "2026-09-16T12:58:13+00:00",
+      "fetched_at": "2026-09-16T21:50:35+00:00",
+      "summary": "A Claude Skill for creating high-quality academic presentations: conference talks, seminar slides, thesis defenses, and grant briefings. Also includes a PDF which summarizes the advice (does not require use of Claude). This skill overrides Claude's default design-forward presentation style and re...",
       "matched_keywords": [
-        "GitHub"
+        "GitHub",
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 3,
-      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_score": 8,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "mixed",
+      "recommended_action": "Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "ffb07b4f3dc6171ce385"
+      "id": "b060abcb49d0c45e6967"
     }
   ],
   "source_errors": [],
