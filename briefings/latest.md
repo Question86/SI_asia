@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-16T18:02:08+00:00_
+_Generiert: 2026-09-16T18:25:57+00:00_
 
 ## Kurzlage
 
-89 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
+90 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -13,6 +13,10 @@ _Generiert: 2026-09-16T18:02:08+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-16`
   - Kurz: Known exploited vulnerability. Added 2026-09-16. Due 2026-09-19. Google Pixel Improper Authorization Vulnerability
+- **CISA KEV: CVE-2026-76460 Cisco Identity Services Engine** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-09-16`
+  - Kurz: Known exploited vulnerability. Added 2026-09-16. Due 2026-09-19. Cisco Identity Services Engine Incorrect Use of Privileged APIs Vulnerability
 - **CISA KEV: CVE-2026-76461 Cisco Secure Email Gateway** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-09-14`
@@ -25,10 +29,6 @@ _Generiert: 2026-09-16T18:02:08+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-11`
   - Kurz: Known exploited vulnerability. Added 2026-09-11. Due 2026-09-25. JFrog Artifactory Incorrect Authorization Vulnerability
-- **CISA KEV: CVE-2026-42018 JFrog Artifactory** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-11`
-  - Kurz: Known exploited vulnerability. Added 2026-09-11. Due 2026-09-25. JFrog Artifactory Improper Authentication Vulnerability
 - **GDACS: Green flood alert in Senegal** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104161)
   - Quelle: GDACS
   - Zeit: ``

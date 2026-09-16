@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T18:02:11+00:00",
+  "generated_at": "2026-09-16T18:26:00+00:00",
   "sections": {
     "global_security": [
       {
@@ -12,6 +12,18 @@
         "published_at": "2026-09-16",
         "metrics": {
           "cve": "CVE-2026-58704"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-76460 Cisco Identity Services Engine",
+        "summary": "Known exploited vulnerability. Added 2026-09-16. Due 2026-09-19. Cisco Identity Services Engine Incorrect Use of Privileged APIs Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-09-16",
+        "metrics": {
+          "cve": "CVE-2026-76460"
         }
       },
       {
@@ -48,18 +60,6 @@
         "published_at": "2026-09-11",
         "metrics": {
           "cve": "CVE-2026-42016"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-42018 JFrog Artifactory",
-        "summary": "Known exploited vulnerability. Added 2026-09-11. Due 2026-09-25. JFrog Artifactory Improper Authentication Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-09-11",
-        "metrics": {
-          "cve": "CVE-2026-42018"
         }
       },
       {
