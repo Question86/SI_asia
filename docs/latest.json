@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T01:01:58+00:00",
-  "run_id": "2026-09-16T01:01:58+00:00",
+  "generated_at": "2026-09-16T01:31:37+00:00",
+  "run_id": "2026-09-16T01:31:37+00:00",
   "date": "2026-09-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 4
+      "configured_public_sources_only": 5
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 4,
-    "displayed_findings": 4,
+    "today_file_total": 5,
+    "displayed_findings": 5,
     "high": 0,
     "medium": 1,
-    "observe": 3,
+    "observe": 4,
     "source_errors": 0
   },
   "sections": {
@@ -130,6 +130,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "6f1d236633aa35aeab7a"
+      },
+      {
+        "title": "MSI、ゴッホの名画を天板にあしらったCore Ultra X9搭載14型2in1",
+        "url": "https://pc.watch.impress.co.jp/docs/news/2141086.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-15T07:47:07+00:00",
+        "fetched_at": "2026-09-16T01:31:08+00:00",
+        "summary": "MSI、ゴッホの名画を天板にあしらったCore Ultra X9搭載14型2in1",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6c67283d1d0369882ac2"
       }
     ]
   },
@@ -233,28 +254,50 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "6f1d236633aa35aeab7a"
-    }
-  ],
-  "new_findings": [
+    },
     {
-      "title": "令和8年熊本地震に関する対応状況について（9月16日）",
-      "url": "https://www.digital.go.jp/news/0346c21b-29d7-49a6-8f1a-68b0ea784bb4",
-      "source": "Japan Digital Agency News RSS",
+      "title": "MSI、ゴッホの名画を天板にあしらったCore Ultra X9搭載14型2in1",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2141086.html",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-16T01:00:00+00:00",
-      "fetched_at": "2026-09-16T01:01:25+00:00",
-      "summary": "令和8年熊本地震に関する対応状況について（9月16日）",
+      "published_at": "2026-09-15T07:47:07+00:00",
+      "fetched_at": "2026-09-16T01:31:08+00:00",
+      "summary": "MSI、ゴッホの名画を天板にあしらったCore Ultra X9搭載14型2in1",
       "matched_keywords": [
-        "APAC Trend Radar"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "5ac5ff00ec1e7f6a9dd3"
+      "id": "6c67283d1d0369882ac2"
+    }
+  ],
+  "new_findings": [
+    {
+      "title": "MSI、ゴッホの名画を天板にあしらったCore Ultra X9搭載14型2in1",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2141086.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-15T07:47:07+00:00",
+      "fetched_at": "2026-09-16T01:31:08+00:00",
+      "summary": "MSI、ゴッホの名画を天板にあしらったCore Ultra X9搭載14型2in1",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6c67283d1d0369882ac2"
     }
   ],
   "source_errors": [],
