@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-16T04:25:39+00:00_
+_Generiert: 2026-09-16T04:39:06+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „The AI boom won’t help you scale. Your unit economics will“ aus e27 Asia Startup and Tech Feed (Score 17, observation).
+20 neue relevante Treffer. Stärkstes Signal: „The AI boom won’t help you scale. Your unit economics will“ aus e27 Asia Startup and Tech Feed (Score 17, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -154,6 +154,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-15 23:46:59 UTC 2026-09-15 23:46:59 UTC at epicenter Location 13.412°N 50.731°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Does the iPhone show us which industries AI will destroy?** — Score 8, observation — [Quelle](https://e27.co/does-the-iphone-show-us-which-industries-ai-will-destroy-20260916/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-16T04:30:00+00:00`, fetched `2026-09-16T04:38:31+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: The iPhone did not destroy the compact camera because it was a better camera. It destroyed much of the market because it was already in people’s pockets. A dedicated camera could take better photographs. A specialist GPS unit could navigate more reliably. An iPod could be a better music player. But owning the specialist device […] The post Does the iPhone show us which industries AI will destroy? appeared first on e…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Entering Taiwan: A practical resource map for foreign founders** — Score 7, observation — [Quelle](https://e27.co/entering-taiwan-a-practical-resource-map-for-foreign-founders-20260913/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-16T02:30:32+00:00`, fetched `2026-09-16T02:54:57+00:00`
@@ -162,15 +171,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.8); founder (+2.5); recent (+1.0)
   - Kurz: Foreign founders entering Taiwan should organise their research around decisions, not a long directory of programmes. The useful question is not simply what support exists, but which resource removes the next obstacle to testing a business. As the operator of EZStartup, I approach this as a sequencing problem: validate the commercial opportunity, identify the appropriate […] The post Entering Taiwan: A practical res…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Asia’s research-tech companies: Millions of users and nearly invisible to funders and customers** — Score 7, observation — [Quelle](https://e27.co/asias-research-tech-companies-millions-of-users-and-nearly-invisible-to-funders-and-customers-20260913/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-16T02:00:48+00:00`, fetched `2026-09-16T02:30:01+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: A new class of AI tools has changed how research gets done. These tools help researchers gather and present their work, sift thousands of papers in minutes, flag fabricated data in submissions, and, more broadly, are authoring the future of scientific presentation and communication. Already, millions of scientists use them, but outside the lab, almost […] The post Asia’s research-tech companies: Millions of users an…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **令和8年熊本地震に関する対応状況について（9月16日）** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/0346c21b-29d7-49a6-8f1a-68b0ea784bb4)
   - Quelle: Japan Digital Agency News RSS / `rss`
@@ -181,14 +181,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 令和8年熊本地震に関する対応状況について（9月16日）
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **社長はエンジニア｜平田 はる香** — Score 5, observation — [Quelle](https://note.com/wazawazapan/n/nd438d0a5bc37)
+- **マンガ原稿をクラウドに上げただけでGoogleアカウントBAN Gmailも道連れ……日本では合法なのになぜ？** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2609/16/2000001527/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-16T00:21:19+00:00`, fetched `2026-09-16T02:30:01+00:00`
+  - Zeit: published `2026-09-16T03:30:21+00:00`, fetched `2026-09-16T04:38:31+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: コードも書けない地方のパン屋が、AIで会社をつくり変えた話ご無沙汰しています。長野県東御市（とうみし）で小売業を営む、株式会社わざわざの代表取締役、平田はる香です。 突然ですが、以前のわざわざでは週に1度、2時間ほどの経営会議を開いていました。それが今は、月に一度のMTGで足りるようになりました。理由は...
+  - Kurz: 誰にも見せるつもりのない原稿をクラウドに置いただけで、メールも含めたアカウントごと失う──「うわこい」「あきそら」といった青年向け漫画を手掛ける漫画家の糸杉柾宏氏は5月、昔描いた漫画のデータをGoogleドライブにアップロードしている途中で警告を受け、再審査請求も却下されてGoogleアカウントを停止されたとい...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
