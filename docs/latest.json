@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T18:25:57+00:00",
-  "run_id": "2026-09-16T18:25:57+00:00",
+  "generated_at": "2026-09-16T18:39:53+00:00",
+  "run_id": "2026-09-16T18:39:53+00:00",
   "date": "2026-09-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 90,
     "displayed_findings": 90,
     "high": 0,
@@ -4293,29 +4293,7 @@
       "id": "6c67283d1d0369882ac2"
     }
   ],
-  "new_findings": [
-    {
-      "title": "「Tailscaleやめたい」の7つの技術的指摘を2026年9月時点で再検証 | Velumesh",
-      "url": "https://velumesh.jp/blog/blog-2026-09-16.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-16T09:20:47+00:00",
-      "fetched_at": "2026-09-16T18:25:23+00:00",
-      "summary": "修正された問題、現在も残る問題、RFC解釈を一次情報で確認する 2026年9月16日 著者: 竹洞 陽一郎 2026年5月5日に公開された「Tailscaleやめたい」という記事では、Tailscaleについて、LinuxのDNS設定、EDNS、100.64.0.0/10、netfilter、MTU、アクセス制御、SSOという7つの観点から具体的な問題点が指摘されています。 ...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b60caf4b1ebe8d2d46d7"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
