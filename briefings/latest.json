@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T15:20:04+00:00",
-  "run_id": "2026-09-16T15:20:04+00:00",
+  "generated_at": "2026-09-16T15:31:20+00:00",
+  "run_id": "2026-09-16T15:31:20+00:00",
   "date": "2026-09-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 83
+      "configured_public_sources_only": 85
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 83,
-    "displayed_findings": 83,
+    "new_relevant_findings": 2,
+    "today_file_total": 85,
+    "displayed_findings": 85,
     "high": 0,
-    "medium": 27,
+    "medium": 29,
     "observe": 56,
     "source_errors": 0
   },
@@ -237,6 +237,65 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "2896208f87a79eeca20d"
+      },
+      {
+        "title": "Helping older adults use AI in everyday life",
+        "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-09-16T16:00:00+00:00",
+        "fetched_at": "2026-09-16T15:30:46+00:00",
+        "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "OpenAI"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); AI Agents (+5.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "526ced969bee4e12b151"
+      },
+      {
+        "title": "M 5.0 - 5 km NE of Mitsukaidō, Japan",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thv6",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-09-16T15:29:44.280+00:00",
+        "fetched_at": "2026-09-16T15:30:46+00:00",
+        "summary": "DYFI? - III Time 2026-09-16 15:07:38 UTC 2026-09-16 15:07:38 UTC at epicenter Location 36.056°N 140.021°E Depth 77.35 km (48.06 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "f3c2d00b85f618cafcfd"
       },
       {
         "title": "M 4.9 - 64 km E of Kinablangan, Philippines",
@@ -2211,6 +2270,65 @@
       "id": "2896208f87a79eeca20d"
     },
     {
+      "title": "Helping older adults use AI in everyday life",
+      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-16T16:00:00+00:00",
+      "fetched_at": "2026-09-16T15:30:46+00:00",
+      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "OpenAI"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); AI Agents (+5.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "526ced969bee4e12b151"
+    },
+    {
+      "title": "M 5.0 - 5 km NE of Mitsukaidō, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thv6",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-16T15:29:44.280+00:00",
+      "fetched_at": "2026-09-16T15:30:46+00:00",
+      "summary": "DYFI? - III Time 2026-09-16 15:07:38 UTC 2026-09-16 15:07:38 UTC at epicenter Location 36.056°N 140.021°E Depth 77.35 km (48.06 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "f3c2d00b85f618cafcfd"
+    },
+    {
       "title": "M 4.9 - 64 km E of Kinablangan, Philippines",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thti",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -3971,26 +4089,63 @@
   ],
   "new_findings": [
     {
-      "title": "Claude Codeで開発期間を2.5か月から1か月に縮めた「ハーネス」の設計手法 - SmartHR Tech Blog",
-      "url": "https://tech.smarthr.jp/entry/2026/09/16/110205",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Helping older adults use AI in everyday life",
+      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "source": "OpenAI News RSS",
       "source_type": "rss",
-      "published_at": "2026-09-16T06:59:14+00:00",
-      "fetched_at": "2026-09-16T15:19:34+00:00",
-      "summary": "こんにちは。SmartHRの情シス領域でプロダクトエンジニアをしているaniです。 入社して3か月が経ちました。この3か月で取り組んだのは、情シスプロダクトに新しい機能を1つ追加する開発です。まだ世に出していない機能なので、以降は「今回の機能」と書きます。当初の見積もりは実質工数でおおよそ2.5か月ほどでしたが、...",
+      "published_at": "2026-09-16T16:00:00+00:00",
+      "fetched_at": "2026-09-16T15:30:46+00:00",
+      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
       "matched_keywords": [
         "AI Agents",
-        "Hatena",
-        "hotentry"
+        "AI/KI",
+        "OpenAI"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 15,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); AI Agents (+5.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "208478ed6fc4b15a7a04"
+      "id": "526ced969bee4e12b151"
+    },
+    {
+      "title": "M 5.0 - 5 km NE of Mitsukaidō, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thv6",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-16T15:29:44.280+00:00",
+      "fetched_at": "2026-09-16T15:30:46+00:00",
+      "summary": "DYFI? - III Time 2026-09-16 15:07:38 UTC 2026-09-16 15:07:38 UTC at epicenter Location 36.056°N 140.021°E Depth 77.35 km (48.06 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "f3c2d00b85f618cafcfd"
     }
   ],
   "source_errors": [],
