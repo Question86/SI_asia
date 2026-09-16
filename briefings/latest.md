@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-16T04:39:06+00:00_
+_Generiert: 2026-09-16T04:49:35+00:00_
 
 ## Kurzlage
 
-20 neue relevante Treffer. Stärkstes Signal: „The AI boom won’t help you scale. Your unit economics will“ aus e27 Asia Startup and Tech Feed (Score 17, observation).
+21 neue relevante Treffer. Stärkstes Signal: „The AI boom won’t help you scale. Your unit economics will“ aus e27 Asia Startup and Tech Feed (Score 17, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -100,6 +100,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Why some Gen Z graduates are skipping AI degrees entirely, and getting better jobs because of it** — Score 10, observation — [Quelle](https://e27.co/why-some-gen-z-graduates-are-skipping-ai-degrees-entirely-and-getting-better-jobs-because-of-it-20260916/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-16T04:40:24+00:00`, fetched `2026-09-16T04:49:06+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: United States (+2.0)
+  - Kurz: In 2018, Carnegie Mellon launched the first bachelor of science degree in artificial intelligence in the United States. A handful of universities followed over the next five years. Then 2025 happened. Bachelor’s level AI programs jumped from 90 to 193 in a single year, a 114 percent expansion. Northwestern launched its own AI major in […] The post Why some Gen Z graduates are skipping AI degrees entirely, and gettin…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AI脅威論で異形タッグ、MAGA派バノン氏と急進左派サンダース氏 - 日本経済新聞** — Score 10, observation — [Quelle](https://www.nikkei.com/article/DGXZQOGN15C3B0V10C26A9000000/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-15T21:35:20+00:00`, fetched `2026-09-16T01:51:59+00:00`
@@ -162,15 +171,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: The iPhone did not destroy the compact camera because it was a better camera. It destroyed much of the market because it was already in people’s pockets. A dedicated camera could take better photographs. A specialist GPS unit could navigate more reliably. An iPod could be a better music player. But owning the specialist device […] The post Does the iPhone show us which industries AI will destroy? appeared first on e…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Entering Taiwan: A practical resource map for foreign founders** — Score 7, observation — [Quelle](https://e27.co/entering-taiwan-a-practical-resource-map-for-foreign-founders-20260913/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-16T02:30:32+00:00`, fetched `2026-09-16T02:54:57+00:00`
-  - Treffer: APAC Trend Radar, founder
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); founder (+2.5); recent (+1.0)
-  - Kurz: Foreign founders entering Taiwan should organise their research around decisions, not a long directory of programmes. The useful question is not simply what support exists, but which resource removes the next obstacle to testing a business. As the operator of EZStartup, I approach this as a sequencing problem: validate the commercial opportunity, identify the appropriate […] The post Entering Taiwan: A practical res…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **令和8年熊本地震に関する対応状況について（9月16日）** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/0346c21b-29d7-49a6-8f1a-68b0ea784bb4)
   - Quelle: Japan Digital Agency News RSS / `rss`

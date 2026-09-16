@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T04:39:06+00:00",
-  "run_id": "2026-09-16T04:39:06+00:00",
+  "generated_at": "2026-09-16T04:49:35+00:00",
+  "run_id": "2026-09-16T04:49:35+00:00",
   "date": "2026-09-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 20
+      "configured_public_sources_only": 21
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 20,
-    "displayed_findings": 20,
+    "new_relevant_findings": 1,
+    "today_file_total": 21,
+    "displayed_findings": 21,
     "high": 0,
     "medium": 4,
-    "observe": 16,
+    "observe": 17,
     "source_errors": 0
   },
   "sections": {
@@ -122,6 +122,27 @@
       }
     ],
     "observe": [
+      {
+        "title": "Why some Gen Z graduates are skipping AI degrees entirely, and getting better jobs because of it",
+        "url": "https://e27.co/why-some-gen-z-graduates-are-skipping-ai-degrees-entirely-and-getting-better-jobs-because-of-it-20260916/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-16T04:40:24+00:00",
+        "fetched_at": "2026-09-16T04:49:06+00:00",
+        "summary": "In 2018, Carnegie Mellon launched the first bachelor of science degree in artificial intelligence in the United States. A handful of universities followed over the next five years. Then 2025 happened. Bachelor’s level AI programs jumped from 90 to 193 in a single year, a 114 percent expansion. Northwestern launched its own AI major in […] The post Why some Gen Z graduates are skipping AI degrees entirely, and gettin…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: United States (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6e60a752e911972784ed"
+      },
       {
         "title": "AI脅威論で異形タッグ、MAGA派バノン氏と急進左派サンダース氏 - 日本経済新聞",
         "url": "https://www.nikkei.com/article/DGXZQOGN15C3B0V10C26A9000000/",
@@ -597,6 +618,27 @@
       "id": "cab2df1178172c8817c1"
     },
     {
+      "title": "Why some Gen Z graduates are skipping AI degrees entirely, and getting better jobs because of it",
+      "url": "https://e27.co/why-some-gen-z-graduates-are-skipping-ai-degrees-entirely-and-getting-better-jobs-because-of-it-20260916/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-16T04:40:24+00:00",
+      "fetched_at": "2026-09-16T04:49:06+00:00",
+      "summary": "In 2018, Carnegie Mellon launched the first bachelor of science degree in artificial intelligence in the United States. A handful of universities followed over the next five years. Then 2025 happened. Bachelor’s level AI programs jumped from 90 to 193 in a single year, a 114 percent expansion. Northwestern launched its own AI major in […] The post Why some Gen Z graduates are skipping AI degrees entirely, and gettin…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: United States (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6e60a752e911972784ed"
+    },
+    {
       "title": "AI脅威論で異形タッグ、MAGA派バノン氏と急進左派サンダース氏 - 日本経済新聞",
       "url": "https://www.nikkei.com/article/DGXZQOGN15C3B0V10C26A9000000/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -979,46 +1021,25 @@
   ],
   "new_findings": [
     {
-      "title": "Does the iPhone show us which industries AI will destroy?",
-      "url": "https://e27.co/does-the-iphone-show-us-which-industries-ai-will-destroy-20260916/",
+      "title": "Why some Gen Z graduates are skipping AI degrees entirely, and getting better jobs because of it",
+      "url": "https://e27.co/why-some-gen-z-graduates-are-skipping-ai-degrees-entirely-and-getting-better-jobs-because-of-it-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-09-16T04:30:00+00:00",
-      "fetched_at": "2026-09-16T04:38:31+00:00",
-      "summary": "The iPhone did not destroy the compact camera because it was a better camera. It destroyed much of the market because it was already in people’s pockets. A dedicated camera could take better photographs. A specialist GPS unit could navigate more reliably. An iPod could be a better music player. But owning the specialist device […] The post Does the iPhone show us which industries AI will destroy? appeared first on e…",
+      "published_at": "2026-09-16T04:40:24+00:00",
+      "fetched_at": "2026-09-16T04:49:06+00:00",
+      "summary": "In 2018, Carnegie Mellon launched the first bachelor of science degree in artificial intelligence in the United States. A handful of universities followed over the next five years. Then 2025 happened. Bachelor’s level AI programs jumped from 90 to 193 in a single year, a 114 percent expansion. Northwestern launched its own AI major in […] The post Why some Gen Z graduates are skipping AI degrees entirely, and gettin…",
       "matched_keywords": [
         "AI/KI",
         "APAC Trend Radar"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: United States (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "19bd897315ea7ce5d6c0"
-    },
-    {
-      "title": "マンガ原稿をクラウドに上げただけでGoogleアカウントBAN Gmailも道連れ……日本では合法なのになぜ？",
-      "url": "https://www.itmedia.co.jp/news/article/2609/16/2000001527/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-16T03:30:21+00:00",
-      "fetched_at": "2026-09-16T04:38:31+00:00",
-      "summary": "誰にも見せるつもりのない原稿をクラウドに置いただけで、メールも含めたアカウントごと失う──「うわこい」「あきそら」といった青年向け漫画を手掛ける漫画家の糸杉柾宏氏は5月、昔描いた漫画のデータをGoogleドライブにアップロードしている途中で警告を受け、再審査請求も却下されてGoogleアカウントを停止されたとい...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3b5ebe0c59fff06e5796"
+      "id": "6e60a752e911972784ed"
     }
   ],
   "source_errors": [],
