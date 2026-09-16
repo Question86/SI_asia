@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-16T09:49:32Z_
+_Generated: 2026-09-16T10:14:22Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Flowise: Mehrere Schwach
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `31.0`
-- Published: `2026-09-16T07:36:31+00:00` / age_days `0.09`
+- Published: `2026-09-16T07:36:31+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, 10, security high-signal: code, 10
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Flowise: Mehrere Schwach
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-16T12:00:15+09:00` / age_days `0.28`
+- Published: `2026-09-16T12:00:15+09:00` / age_days `0.3`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Flowise: Mehrere Schwach
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-16T12:00:00+09:00` / age_days `0.28`
+- Published: `2026-09-16T12:00:00+09:00` / age_days `0.3`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Flowise: Mehrere Schwach
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-16T00:26:53+00:00` / age_days `0.39`
+- Published: `2026-09-16T00:26:53+00:00` / age_days `0.41`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Flowise: Mehrere Schwach
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `25.0`
-- Published: `2026-09-16T07:37:00.000+00:00` / age_days `0.09`
+- Published: `2026-09-16T07:37:00.000+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Flowise: Mehrere Schwach
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-18T14:33:45+00:00` / age_days `89.8`
+- Published: `2026-06-18T14:33:45+00:00` / age_days `89.82`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: source breadth +2, momentum delta +3, high terms: rce, security high-signal: rce, aging penalty -8.0 for 89.8d old signal, extreme gate recheck: insufficient independent/current evidence
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Flowise: Mehrere Schwach
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-16T02:55:29+00:00` / age_days `0.29`
+- Published: `2026-09-16T02:55:29+00:00` / age_days `0.3`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Flowise: Mehrere Schwach
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-16T09:00:00+09:00` / age_days `0.41`
+- Published: `2026-09-16T09:00:00+09:00` / age_days `0.43`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cisa, jvn, security, advisory, official security but no high-signal phrase: capped at strong
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Flowise: Mehrere Schwach
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-16T04:40:24+00:00` / age_days `0.21`
+- Published: `2026-09-16T04:40:24+00:00` / age_days `0.23`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -102,30 +102,30 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Flowise: Mehrere Schwach
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-18T14:33:45+00:00` / age_days `89.8`
+- Published: `2026-06-18T14:33:45+00:00` / age_days `89.82`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: momentum delta +5, high terms: rce, security high-signal: rce, aging penalty -8.0 for 89.8d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
+- Warum: momentum delta +3, high terms: rce, security high-signal: rce, aging penalty -8.0 for 89.8d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://www.bis.org/speeches/20260916-economic-activity-prices-and-monetary-policy-japan
+
+### IBM MQ: In mehreren Fällen kann Schadcode auf Systeme gelangen
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `24.0`
+- Published: `2026-09-16T09:39:00.000+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: code, security high-signal: code
+- Quelle: https://www.heise.de/news/IBM-MQ-In-mehreren-Faellen-kann-Schadcode-auf-Systeme-gelangen-11454964.html
 
 ### Entering Taiwan: A practical resource map for foreign founders
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.0`
-- Published: `2026-09-16T02:30:32+00:00` / age_days `0.3`
+- Published: `2026-09-16T02:30:32+00:00` / age_days `0.32`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce
 - Quelle: https://e27.co/entering-taiwan-a-practical-resource-map-for-foreign-founders-20260913/
-
-### Bitcoin falls 3.12% to $75,697.61: Did Washington just kill the rally?
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `23.0`
-- Published: `2026-09-16T04:05:17+00:00` / age_days `0.24`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: rce, security high-signal: rce
-- Quelle: https://e27.co/bitcoin-falls-3-12-to-75697-61-did-washington-just-kill-the-rally-20260916/
 
 END OF DOCUMENT
