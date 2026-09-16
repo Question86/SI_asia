@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-16T07:15:08+00:00",
+  "generated_at": "2026-09-16T07:34:21+00:00",
   "events": [
     {
       "event_id": "evt_014823216e5b4b658b61",
@@ -1463,7 +1463,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_3d903945c8c0f303c3f9",
@@ -1650,7 +1650,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_43d91c6b0a97611c8e6c",
@@ -4282,6 +4282,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_9829beb8b530d4809b35",
+      "title": "M 4.8 - 47 km WSW of Bahía Solano, Colombia",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_98617587cf72a4eb8087",
       "title": "コンテック製無線LAN FLEXLANシリーズにおける複数の脆弱性",
       "deduplicated_buckets": 0,
@@ -6853,7 +6864,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_f31b5cac417886e18f27",

@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-09-16T07:15:07+00:00",
-  "candidate_count": 735,
+  "generated_at": "2026-09-16T07:34:21+00:00",
+  "candidate_count": 738,
   "candidates": [
     {
       "amount_native": 1400000000000.0,
@@ -1370,6 +1370,42 @@
       "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914_2~a3f0efbee4.en.html"
     },
     {
+      "candidate_id": "cand_446672619553be942b1f",
+      "event_id": "evt_43856848b80264610146",
+      "source_url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260082.en.html",
+      "observed_at": "2026-09-16T07:34:12+00:00",
+      "currency": "EUR",
+      "amount_native": 2.0,
+      "amount_usd": null,
+      "conversion_status": "pending_fx",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_43856848b80264610146:unclassified",
+      "attribution_probability": null,
+      "snippet": "ed-stained banknotes Environment, health and safety Product environmental footprint Research and development Images and reproduction rules Information and training materials Coins €2 €1 50 cent 20 cent 10 cent 5 cent 2 cent 1 cent Common sides €2 commemorative coins Security features Collector coins Joining the euro area Bulgaria (2026) Croatia (2023) Lithuani",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "primary_hint",
+      "candidate_confidence": 0.6,
+      "review_status": "pending"
+    },
+    {
+      "candidate_id": "cand_9e21b9755099797f2e2e",
+      "event_id": "evt_43856848b80264610146",
+      "source_url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260082.en.html",
+      "observed_at": "2026-09-16T07:34:12+00:00",
+      "currency": "EUR",
+      "amount_native": 2.0,
+      "amount_usd": null,
+      "conversion_status": "pending_fx",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_43856848b80264610146:unclassified",
+      "attribution_probability": null,
+      "snippet": "ronmental footprint Research and development Images and reproduction rules Information and training materials Coins €2 €1 50 cent 20 cent 10 cent 5 cent 2 cent 1 cent Common sides €2 commemorative coins Security features Collector coins Joining the euro area Bulgaria (2026) Croatia (2023) Lithuania (2015) Latvia (2014) Estonia (2011) Slovakia (2009) Cyprus (200",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "primary_hint",
+      "candidate_confidence": 0.6,
+      "review_status": "pending"
+    },
+    {
       "amount_native": 1.0,
       "amount_usd": null,
       "attribution_probability": null,
@@ -1758,6 +1794,24 @@
       "snippet": "tter Cookie 保存后仅供 agent-reach doctor 检查配置是否齐全；直接运行上游 twitter 命令前，仍需在当前进程环境中显式设置 TWITTER_AUTH_TOKEN 和 TWITTER_CT0 。 🔒 Cookie 只存在你本地，不上传不外传。代码完全开源，随时可审查。 💻 本地电脑不需要代理。代理只有部署在服务器上才需要（~$1/月）。 快速上手 ⚠️ OpenClaw 用户请先确认 exec 权限已开启 Agent Reach 依赖 Agent 执行 shell 命令（ pip install 、 mcporter 、 twitter 等）。如果你的 OpenClaw 使用了默认的 messaging 工具配置，Agent 将无法执行命令。 安装前请先开启 exec 权限 ： o",
       "source_priority": "primary_hint",
       "source_url": "https://github.com/Panniantong/Agent-Reach"
+    },
+    {
+      "candidate_id": "cand_3d76b387f93fad90cbef",
+      "event_id": "evt_43856848b80264610146",
+      "source_url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260082.en.html",
+      "observed_at": "2026-09-16T07:34:12+00:00",
+      "currency": "EUR",
+      "amount_native": 1.0,
+      "amount_usd": null,
+      "conversion_status": "pending_fx",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_43856848b80264610146:unclassified",
+      "attribution_probability": null,
+      "snippet": "stained banknotes Environment, health and safety Product environmental footprint Research and development Images and reproduction rules Information and training materials Coins €2 €1 50 cent 20 cent 10 cent 5 cent 2 cent 1 cent Common sides €2 commemorative coins Security features Collector coins Joining the euro area Bulgaria (2026) Croatia (2023) Lithuania (2",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "primary_hint",
+      "candidate_confidence": 0.6,
+      "review_status": "pending"
     },
     {
       "amount_native": 0.52,
