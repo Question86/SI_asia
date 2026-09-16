@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-16T20:41:30+00:00",
+  "generated_at": "2026-09-16T20:49:01+00:00",
   "topics": {
     "ai": [
       {
@@ -247,6 +247,13 @@
         "published_at": "2026-09-16T20:17:18+00:00",
         "relevance_score": 8,
         "url": "https://github.blog/changelog/2026-09-16-copilot-budget-increase-requests-are-generally-available"
+      },
+      {
+        "title": "SCIM user responses now include a profileUrl attribute",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-09-16T20:19:58+00:00",
+        "relevance_score": 3,
+        "url": "https://github.blog/changelog/2026-09-16-scim-user-responses-now-include-a-profileurl-attribute"
       }
     ],
     "economy": [
@@ -365,6 +372,13 @@
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ths9"
       },
       {
+        "title": "M 4.9 - Kermadec Islands, New Zealand",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-16T20:43:23.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thxb"
+      },
+      {
         "title": "M 4.9 - 191 km ESE of Kimbe, Papua New Guinea",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-09-16T20:37:30.040+00:00",
@@ -384,13 +398,6 @@
         "published_at": "2026-09-16T10:10:04.040+00:00",
         "relevance_score": 9,
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tht8"
-      },
-      {
-        "title": "M 5.0 - 60 km SSW of Ocós, Guatemala",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-16T04:02:44.040+00:00",
-        "relevance_score": 9,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thrz"
       }
     ]
   }
