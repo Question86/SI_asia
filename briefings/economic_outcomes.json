@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-16T10:18:25+00:00",
+  "generated_at": "2026-09-16T10:32:41+00:00",
   "events": [
     {
       "event_id": "evt_014823216e5b4b658b61",
@@ -357,13 +357,13 @@
     {
       "event_id": "evt_0ec2a5279fe7669042a5",
       "title": "M 4.7 - 6 km WSW of Port-Olry, Vanuatu",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_0fe6fa9731ff84e108db",
@@ -1254,7 +1254,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_32ac4b6ee61deef85d98",
