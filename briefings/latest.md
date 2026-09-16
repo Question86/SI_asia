@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-16T13:18:34+00:00_
+_Generiert: 2026-09-16T13:31:24+00:00_
 
 ## Kurzlage
 
-80 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
+81 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -203,6 +203,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); founder (+2.0); recent (+1.0)
   - Kurz: Cambodia’s startup ecosystem is still small by Southeast Asian standards, but its newest crop of founders is starting to build with a wider market in mind. Newwave Tech Foundry, a Phnom Penh-based artificial intelligence and software development company, is one example: barely two years old, it already says more than 70 per cent of its […] The post Cambodia’s Newwave wins CIFC backing to build AI tools for regional…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Reimagining advertising with AI** — Score 11, observation — [Quelle](https://openai.com/index/reimagining-advertising-with-ai)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-09-16T13:00:00+00:00`, fetched `2026-09-16T13:30:51+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)
+  - Kurz: Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Playing both sides of the U.S.-China AI “Cold War”** — Score 11, observation — [Quelle](https://restofworld.org/2026/ai-us-chips-chinese-open-source-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
   - Quelle: Rest of World Global Tech Feed / `rss`
   - Zeit: published `2026-09-16T10:00:00+00:00`, fetched `2026-09-16T10:17:13+00:00`
@@ -283,15 +292,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: ECB wage tracker at 2.7% in H1 2027, pointing to a modest uptick in negotiated wage growth
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **VBScript廃止に備えよ！ Windowsライセンス認証の自動化はslmgr.vbsではなくPowerShellで／Microsoftが新モジュール「OSLicense」の利用を呼び掛け** — Score 9, observation — [Quelle](https://forest.watch.impress.co.jp/docs/news/2141127.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-16T00:26:53+00:00`, fetched `2026-09-16T04:01:12+00:00`
-  - Treffer: Hatena, hotentry, Open Source
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Open Source (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: VBScript廃止に備えよ！ Windowsライセンス認証の自動化はslmgr.vbsではなくPowerShellで／Microsoftが新モジュール「OSLicense」の利用を呼び掛け
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
