@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-16T16:19:01+00:00_
+_Generiert: 2026-09-16T16:32:06+00:00_
 
 ## Kurzlage
 
-85 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
+86 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
 
 ## Priorität Hoch
 
@@ -231,6 +231,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-16 05:52:03 UTC 2026-09-16 05:52:03 UTC at epicenter Location 37.708°N 95.496°E Depth 10.46 km (6.50 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **How workers are unlocking new ways of working** — Score 10, observation — [Quelle](https://openai.com/index/unlocking-new-ways-of-working)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-09-16T09:00:00+00:00`, fetched `2026-09-16T16:31:34+00:00`
+  - Treffer: AI/KI, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)
+  - Kurz: New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **CXA founder Rosaline Chow Koo returns with Covee, an AI tool for benefits brokers** — Score 10, observation — [Quelle](https://e27.co/cxa-founder-rosaline-chow-koo-returns-with-covee-an-ai-tool-for-benefits-brokers-20260916/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-16T04:51:58+00:00`, fetched `2026-09-16T04:56:32+00:00`
@@ -257,15 +266,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
   - Kurz: 【ワシントン=八十島綾平】急速に進化する人工知能（AI）の規制を巡る議論が熱を帯びるなか、政治的に対極にいるはずのMAGA（米国を再び偉大に）派と急進左派の論客がそろってAI開発の停止や規制強化を訴え始めた。AI規制を求める米非営利団体「フューチャー・オブ・ライフ・インスティテュート（FLI）」が15日にワシン...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Homebrew/BrewUI** — Score 10, observation — [Quelle](https://github.com/Homebrew/BrewUI)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-09-16T06:34:32+00:00`
-  - Treffer: APAC Trend Radar, GitHub Trending, Public Health
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); GitHub Trending (+2.0)
-  - Kurz: 📺 Homebrew's official macOS GUI 🧑‍💻 BrewUI Homebrew's official macOS GUI: making package management approachable for users who prefer graphical interfaces over Terminal, while maintaining complete transparency about underlying Homebrew operations. 💡 Motivation Enable CLI-averse users to safely discover, install, update, and manage Homebrew packages through a native SwiftUI interface that never hides what Homebrew is…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
