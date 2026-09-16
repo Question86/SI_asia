@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-16T07:33:44+00:00_
+_Generiert: 2026-09-16T07:45:24+00:00_
 
 ## Kurzlage
 
-31 neue relevante Treffer. Stärkstes Signal: „The Capital-Driven Rise of Modern Business Suites“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
+34 neue relevante Treffer. Stärkstes Signal: „The Capital-Driven Rise of Modern Business Suites“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -119,9 +119,27 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: XikeStor製Layer3スイッチは、認証なしにコンフィグレーションデータをダウンロード可能です。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [hoch] Flowise: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3102)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-09-16T07:36:31+00:00`, fetched `2026-09-16T07:44:49+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Flowise ausnutzen, um erweiterte Berechtigungen – einschließlich Administratorzugriff – zu erlangen, um beliebigen Code auszuführen, SQL-Injection durchzuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen oder einen Denial-of-Service-Zustand auszulösen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
+- **Angreifer attackieren Acronis Backup für cPanel/WHM und Plesk** — Score 13, observation — [Quelle](https://www.heise.de/news/Angreifer-attackieren-Acronis-Backup-fuer-cPanel-WHM-und-Plesk-11454681.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-09-16T07:37:00.000+00:00`, fetched `2026-09-16T07:44:49+00:00`
+  - Treffer: GitHub Actions, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub Actions (+6.2); Security (+6.0); recent (+1.0)
+  - Kurz: Aufgrund von laufenden Attacken müssen Admins Acronis Backup für cPanel/WHM und Plesk aktualisieren.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Announcing 20260082 (OT,liquidity providing), for 7 days deadline 09:45** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260082.en.html)
   - Quelle: ECB Open Market Operations and Communication / `rss`
   - Zeit: published `2026-09-16T08:15:22+00:00`, fetched `2026-09-16T07:33:13+00:00`
@@ -230,14 +248,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 令和8年熊本地震に関する対応状況について（9月16日）
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **マンガ原稿をクラウドに上げただけでGoogleアカウントBAN Gmailも道連れ……日本では合法なのになぜ？** — Score 5, observation — [Quelle](https://www.itmedia.co.jp/news/article/2609/16/2000001527/)
+- **「Gyazo」への不正アクセスによる情報漏えいに関するお知らせとお詫び** — Score 5, observation — [Quelle](https://corp.helpfeel.com/news/news-20260916-1)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-16T03:30:21+00:00`, fetched `2026-09-16T04:38:31+00:00`
+  - Zeit: published `2026-09-16T06:39:20+00:00`, fetched `2026-09-16T07:44:49+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 誰にも見せるつもりのない原稿をクラウドに置いただけで、メールも含めたアカウントごと失う──「うわこい」「あきそら」といった青年向け漫画を手掛ける漫画家の糸杉柾宏氏は5月、昔描いた漫画のデータをGoogleドライブにアップロードしている途中で警告を受け、再審査請求も却下されてGoogleアカウントを停止されたとい...
+  - Kurz: 株式会社Helpfeel（本社：京都府京都市、代表取締役 CEO：洛西一周、以下：当社）が提供する画像共有サービス「Gyazo」において、第三者による不正アクセスが発生し、ユーザー情報およびアップロードされた画像に関するメタデータの一部が外部に漏えいしたことを確認いたしました。 現在、不正アクセスに利用された経路...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

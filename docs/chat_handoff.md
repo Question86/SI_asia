@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-16T07:33:44+00:00_
+_Generated: 2026-09-16T07:45:24+00:00_
 
 ## Status
 - status: `normal`
-- findings: `31`
+- findings: `34`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-09-16T07:33:44+00:00_
 - url: https://gigazine.net/news/20260916-system-one-jev/
 - summary: AI企業のTypeSafe AIが大規模言語モデル(LLM)とは異なるアプローチでタスクを解決するAI「System One Models」と、System One Modelsの第1弾モデルである「Jev」を現地時間の2026年9月15日に発表しました。TypeSafe AIはChatGPTの開発に携わったAI研究者であるディオゴ・アルメイダ氏がCEOを務める企業で、LLMとは根本的...
 
-### 5. Announcing 20260082 (OT,liquidity providing), for 7 days deadline 09:45
+### 5. Angreifer attackieren Acronis Backup für cPanel/WHM und Plesk
+- source: heise Security Alerts
+- score: `13`
+- published: `2026-09-16T07:37:00.000+00:00`
+- url: https://www.heise.de/news/Angreifer-attackieren-Acronis-Backup-fuer-cPanel-WHM-und-Plesk-11454681.html
+- summary: Aufgrund von laufenden Attacken müssen Admins Acronis Backup für cPanel/WHM und Plesk aktualisieren.
+
+### 6. Announcing 20260082 (OT,liquidity providing), for 7 days deadline 09:45
 - source: ECB Open Market Operations and Communication
 - score: `12`
 - published: `2026-09-16T08:15:22+00:00`
 - url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260082.en.html
 - summary: Announcing 20260082 (OT,liquidity providing), for 7 days deadline 09:45
 
-### 6. M 4.8 - 47 km WSW of Bahía Solano, Colombia
+### 7. M 4.8 - 47 km WSW of Bahía Solano, Colombia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-09-16T07:28:25.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000thsp
 - summary: Time 2026-09-16 07:02:13 UTC 2026-09-16 07:02:13 UTC at epicenter Location 6.097°N 77.812°W Depth 10.00 km (6.21 mi)
 
-### 7. M 4.6 - 23 km SW of Sipí, Colombia
+### 8. M 4.6 - 23 km SW of Sipí, Colombia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-09-16T06:45:35.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000thse
 - summary: Time 2026-09-16 06:18:06 UTC 2026-09-16 06:18:06 UTC at epicenter Location 4.495°N 76.782°W Depth 71.01 km (44.12 mi)
-
-### 8. M 5.0 - 281 km SSE of Dunhuang, China
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-09-16T06:11:28.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ths9
-- summary: Time 2026-09-16 05:52:03 UTC 2026-09-16 05:52:03 UTC at epicenter Location 37.708°N 95.496°E Depth 10.46 km (6.50 mi)
 
 END OF DOCUMENT
