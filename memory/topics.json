@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-16T10:31:49+00:00",
+  "generated_at": "2026-09-16T10:58:04+00:00",
   "topics": {
     "ai": [
       {
@@ -221,6 +221,13 @@
     ],
     "security": [
       {
+        "title": "[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T10:53:18+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1326"
+      },
+      {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月15日）",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-09-16T09:00:00+09:00",
@@ -240,6 +247,13 @@
         "published_at": "2026-09-16T12:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/jp/JVN45281119/"
+      },
+      {
+        "title": "[UPDATE] [mittel] libpng: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T10:52:55+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1023"
       },
       {
         "title": "[UPDATE] [hoch] Arista EOS: Mehrere Schwachstellen",

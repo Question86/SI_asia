@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T10:31:49+00:00",
-  "run_id": "2026-09-16T10:31:49+00:00",
+  "generated_at": "2026-09-16T10:58:04+00:00",
+  "run_id": "2026-09-16T10:58:04+00:00",
   "date": "2026-09-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 52
+      "configured_public_sources_only": 55
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 52,
-    "displayed_findings": 52,
+    "new_relevant_findings": 3,
+    "today_file_total": 55,
+    "displayed_findings": 55,
     "high": 0,
-    "medium": 8,
-    "observe": 44,
+    "medium": 10,
+    "observe": 45,
     "source_errors": 0
   },
   "sections": {
@@ -96,6 +96,30 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "b4a36763d5474b04b042"
+      },
+      {
+        "title": "[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1326",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-16T10:53:18+00:00",
+        "fetched_at": "2026-09-16T10:57:27+00:00",
+        "summary": "Ein lokaler Angreifer kann eine Schwachstellen im Linux Kernel ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "83e6417084b8079f440a"
       },
       {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月15日）",
@@ -186,6 +210,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "cab2df1178172c8817c1"
+      },
+      {
+        "title": "[UPDATE] [mittel] libpng: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1023",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-16T10:52:55+00:00",
+        "fetched_at": "2026-09-16T10:57:27+00:00",
+        "summary": "Ein lokaler Angreifer kann eine Schwachstelle in libpng ausnutzen, um Informationen offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8d50cef1168a2016e0e7"
       },
       {
         "title": "[UPDATE] [hoch] Arista EOS: Mehrere Schwachstellen",
@@ -1148,6 +1195,27 @@
         "id": "5ac5ff00ec1e7f6a9dd3"
       },
       {
+        "title": "内部に消火剤を仕込んだ火災予防電源タップがサンワサプライから - エルミタージュ秋葉原",
+        "url": "https://www.gdm.or.jp/pressrelease/2026/0916/652592",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-16T08:54:03+00:00",
+        "fetched_at": "2026-09-16T10:57:27+00:00",
+        "summary": "内部に消火剤を仕込んだ火災予防電源タップがサンワサプライから 2026.09.16 16:32 更新 2026.09.16 配信 消火剤入りシートを内蔵、内部で初期消火を行い延焼を予防 サンワサプライ株式会社（本社：岡山市北区）は2026年9月16日、消火剤入りシートを内蔵した火災予防タップ「TAP-AC3WN2-FPS」「TAP-TSH3」シリーズを発表...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "4682cfd27c025eefe40f"
+      },
+      {
         "title": "「Gyazo」への不正アクセスによる情報漏えいに関するお知らせとお詫び",
         "url": "https://corp.helpfeel.com/news/news-20260916-1",
         "source": "Hatena Bookmark Hotentry IT",
@@ -1345,6 +1413,30 @@
       "id": "b4a36763d5474b04b042"
     },
     {
+      "title": "[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1326",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-16T10:53:18+00:00",
+      "fetched_at": "2026-09-16T10:57:27+00:00",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstellen im Linux Kernel ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "83e6417084b8079f440a"
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月15日）",
       "url": "https://jvn.jp/vu/JVNVU93448623/",
       "source": "JVN Japan Vulnerability Notes",
@@ -1433,6 +1525,29 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "cab2df1178172c8817c1"
+    },
+    {
+      "title": "[UPDATE] [mittel] libpng: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1023",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-16T10:52:55+00:00",
+      "fetched_at": "2026-09-16T10:57:27+00:00",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in libpng ausnutzen, um Informationen offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8d50cef1168a2016e0e7"
     },
     {
       "title": "[UPDATE] [hoch] Arista EOS: Mehrere Schwachstellen",
@@ -2393,6 +2508,27 @@
       "id": "5ac5ff00ec1e7f6a9dd3"
     },
     {
+      "title": "内部に消火剤を仕込んだ火災予防電源タップがサンワサプライから - エルミタージュ秋葉原",
+      "url": "https://www.gdm.or.jp/pressrelease/2026/0916/652592",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-16T08:54:03+00:00",
+      "fetched_at": "2026-09-16T10:57:27+00:00",
+      "summary": "内部に消火剤を仕込んだ火災予防電源タップがサンワサプライから 2026.09.16 16:32 更新 2026.09.16 配信 消火剤入りシートを内蔵、内部で初期消火を行い延焼を予防 サンワサプライ株式会社（本社：岡山市北区）は2026年9月16日、消火剤入りシートを内蔵した火災予防タップ「TAP-AC3WN2-FPS」「TAP-TSH3」シリーズを発表...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4682cfd27c025eefe40f"
+    },
+    {
       "title": "「Gyazo」への不正アクセスによる情報漏えいに関するお知らせとお詫び",
       "url": "https://corp.helpfeel.com/news/news-20260916-1",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2521,13 +2657,37 @@
   ],
   "new_findings": [
     {
-      "title": "[UPDATE] [hoch] Arista EOS: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3287",
+      "title": "[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1326",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-09-16T10:23:49+00:00",
-      "fetched_at": "2026-09-16T10:31:15+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Arista EOS ausnutzen, um erweiterte Berechtigungen, sogar Administratorrechte, zu erlangen, beliebigen Code, einschließlich Root-Code, auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen sowie Denial-of-Service-Zustände herbeizuführen.",
+      "published_at": "2026-09-16T10:53:18+00:00",
+      "fetched_at": "2026-09-16T10:57:27+00:00",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstellen im Linux Kernel ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "83e6417084b8079f440a"
+    },
+    {
+      "title": "[UPDATE] [mittel] libpng: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1023",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-16T10:52:55+00:00",
+      "fetched_at": "2026-09-16T10:57:27+00:00",
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in libpng ausnutzen, um Informationen offenzulegen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2541,27 +2701,28 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "8c5d08afa27f0540933a"
+      "id": "8d50cef1168a2016e0e7"
     },
     {
-      "title": "Oracle patcht mehr als 650 Sicherheitslücken",
-      "url": "https://www.heise.de/news/Oracle-patcht-mehr-als-650-Sicherheitsluecken-11455024.html",
-      "source": "heise Security Alerts",
+      "title": "内部に消火剤を仕込んだ火災予防電源タップがサンワサプライから - エルミタージュ秋葉原",
+      "url": "https://www.gdm.or.jp/pressrelease/2026/0916/652592",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-16T10:19:00.000+00:00",
-      "fetched_at": "2026-09-16T10:31:15+00:00",
-      "summary": "Das Oracle Critical Security Patch Update bringt Softwareflicken für mehr als 650 Lücken. Darunter sind diverse mit kritischem Risiko.",
+      "published_at": "2026-09-16T08:54:03+00:00",
+      "fetched_at": "2026-09-16T10:57:27+00:00",
+      "summary": "内部に消火剤を仕込んだ火災予防電源タップがサンワサプライから 2026.09.16 16:32 更新 2026.09.16 配信 消火剤入りシートを内蔵、内部で初期消火を行い延焼を予防 サンワサプライ株式会社（本社：岡山市北区）は2026年9月16日、消火剤入りシートを内蔵した火災予防タップ「TAP-AC3WN2-FPS」「TAP-TSH3」シリーズを発表...",
       "matched_keywords": [
-        "Security"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "bdb42cb6eef4457aa3fb"
+      "id": "4682cfd27c025eefe40f"
     }
   ],
   "source_errors": [],
