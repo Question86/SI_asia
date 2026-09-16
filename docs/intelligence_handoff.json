@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-16T00:36:01Z",
+  "generated_at": "2026-09-16T01:12:23Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory（2026年09月15日）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU93448623/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-16T09:00:00+09:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -40,25 +40,23 @@
       "url": "https://jvn.jp/vu/JVNVU93448623/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 88.94,
+      "age_days": 88.97,
       "topics": [
         "general"
       ],
-      "dynamics_score": 19.9,
-      "raw_band": "strong",
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 2.9,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 2.90",
-        "aging penalty -8.0 for 88.9d old signal",
-        "stale single-source cap: max watch after 14d without fresh resonance"
+        "aging penalty -8.0 for 89.0d old signal"
       ],
       "summary": ""
     },
@@ -67,7 +65,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thr6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-16T00:10:55.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -88,15 +86,15 @@
       "summary": "Time 2026-09-15 23:46:59 UTC 2026-09-15 23:46:59 UTC at epicenter Location 13.412°N 50.731°E Depth 10.00 km (6.21 mi)"
     },
     {
-      "title": "M 4.7 - 159 km N of Caluula, Somalia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thr6",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-16T00:13:34+00:00",
-      "age_days": 0.02,
+      "title": "令和8年熊本地震に関する対応状況について（9月16日）",
+      "url": "https://www.digital.go.jp/news/0346c21b-29d7-49a6-8f1a-68b0ea784bb4",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-09-16T01:02:01+00:00",
+      "age_days": 0.01,
       "topics": [
         "general"
       ],
-      "dynamics_score": 13.4,
+      "dynamics_score": 12.5,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
@@ -112,11 +110,11 @@
       "summary": ""
     },
     {
-      "title": "「Java 27」正式リリース。全環境でG1 GCがデフォルトに、TLS 1.3用に耐量子暗号のハイブリッドキー交換など新機能",
-      "url": "https://www.publickey1.jp/blog/26/java_27g1_gctls_13.html",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "M 4.7 - 159 km N of Caluula, Somalia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thr6",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-16T00:13:34+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
@@ -139,8 +137,56 @@
       "title": "「Java 27」正式リリース。全環境でG1 GCがデフォルトに、TLS 1.3用に耐量子暗号のハイブリッドキー交換など新機能",
       "url": "https://www.publickey1.jp/blog/26/java_27g1_gctls_13.html",
       "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-16T00:13:34+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 9.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "令和8年熊本地震に関する対応状況について（9月16日）",
+      "url": "https://www.digital.go.jp/news/0346c21b-29d7-49a6-8f1a-68b0ea784bb4",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-09-16T01:00:00+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "令和8年熊本地震に関する対応状況について（9月16日）"
+    },
+    {
+      "title": "「Java 27」正式リリース。全環境でG1 GCがデフォルトに、TLS 1.3用に耐量子暗号のハイブリッドキー交換など新機能",
+      "url": "https://www.publickey1.jp/blog/26/java_27g1_gctls_13.html",
+      "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-15T15:25:18+00:00",
-      "age_days": 0.38,
+      "age_days": 0.41,
       "topics": [
         "ai"
       ],
@@ -172,7 +218,7 @@
     "bands_after_gate_recheck": {
       "strong": 1,
       "watch": 3,
-      "quiet": 2
+      "quiet": 4
     }
   }
 }
