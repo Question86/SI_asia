@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-16T01:12:23Z",
+  "generated_at": "2026-09-16T01:36:35Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory（2026年09月15日）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU93448623/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-16T09:00:00+09:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://jvn.jp/vu/JVNVU93448623/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 88.97,
+      "age_days": 88.98,
       "topics": [
         "general"
       ],
@@ -65,7 +65,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thr6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-16T00:10:55.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -86,35 +86,35 @@
       "summary": "Time 2026-09-15 23:46:59 UTC 2026-09-15 23:46:59 UTC at epicenter Location 13.412°N 50.731°E Depth 10.00 km (6.21 mi)"
     },
     {
-      "title": "令和8年熊本地震に関する対応状況について（9月16日）",
-      "url": "https://www.digital.go.jp/news/0346c21b-29d7-49a6-8f1a-68b0ea784bb4",
-      "source": "Japan Digital Agency News RSS",
-      "published_at": "2026-09-16T01:02:01+00:00",
-      "age_days": 0.01,
+      "title": "M 4.7 - 159 km N of Caluula, Somalia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thr6",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-16T00:13:34+00:00",
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
-      "dynamics_score": 12.5,
+      "dynamics_score": 14.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 2,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1"
+        "momentum delta +2"
       ],
       "summary": ""
     },
     {
-      "title": "M 4.7 - 159 km N of Caluula, Somalia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thr6",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-16T00:13:34+00:00",
-      "age_days": 0.04,
+      "title": "MSI、ゴッホの名画を天板にあしらったCore Ultra X9搭載14型2in1",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2141086.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-16T01:31:39+00:00",
+      "age_days": 0.0,
       "topics": [
         "general"
       ],
@@ -138,11 +138,35 @@
       "url": "https://www.publickey1.jp/blog/26/java_27g1_gctls_13.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-16T00:13:34+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
-      "dynamics_score": 9.0,
+      "dynamics_score": 11.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "令和8年熊本地震に関する対応状況について（9月16日）",
+      "url": "https://www.digital.go.jp/news/0346c21b-29d7-49a6-8f1a-68b0ea784bb4",
+      "source": "Japan Digital Agency News RSS",
+      "published_at": "2026-09-16T01:02:01+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -158,11 +182,35 @@
       "summary": ""
     },
     {
+      "title": "MSI、ゴッホの名画を天板にあしらったCore Ultra X9搭載14型2in1",
+      "url": "https://pc.watch.impress.co.jp/docs/news/2141086.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-15T07:47:07+00:00",
+      "age_days": 0.74,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10"
+      ],
+      "summary": "MSI、ゴッホの名画を天板にあしらったCore Ultra X9搭載14型2in1"
+    },
+    {
       "title": "令和8年熊本地震に関する対応状況について（9月16日）",
       "url": "https://www.digital.go.jp/news/0346c21b-29d7-49a6-8f1a-68b0ea784bb4",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-16T01:00:00+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "general"
       ],
@@ -186,7 +234,7 @@
       "url": "https://www.publickey1.jp/blog/26/java_27g1_gctls_13.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-15T15:25:18+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "ai"
       ],
@@ -218,7 +266,7 @@
     "bands_after_gate_recheck": {
       "strong": 1,
       "watch": 3,
-      "quiet": 4
+      "quiet": 6
     }
   }
 }
