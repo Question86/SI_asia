@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-16T09:57:26+00:00_
+_Generiert: 2026-09-16T10:17:43+00:00_
 
 ## Kurzlage
 
-48 neue relevante Treffer. Stärkstes Signal: „The Capital-Driven Rise of Modern Business Suites“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
+50 neue relevante Treffer. Stärkstes Signal: „The Capital-Driven Rise of Modern Business Suites“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
 
 ## Priorität Hoch
 
@@ -123,6 +123,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); founder (+2.0); recent (+1.0)
   - Kurz: Cambodia’s startup ecosystem is still small by Southeast Asian standards, but its newest crop of founders is starting to build with a wider market in mind. Newwave Tech Foundry, a Phnom Penh-based artificial intelligence and software development company, is one example: barely two years old, it already says more than 70 per cent of its […] The post Cambodia’s Newwave wins CIFC backing to build AI tools for regional…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Playing both sides of the U.S.-China AI “Cold War”** — Score 11, observation — [Quelle](https://restofworld.org/2026/ai-us-chips-chinese-open-source-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-09-16T10:00:00+00:00`, fetched `2026-09-16T10:17:13+00:00`
+  - Treffer: AI/KI, Asia, Latin America
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Asia (+2.0); Latin America (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)
+  - Kurz: From Latin America to Southeast Asia, countries are dividing their AI investments between the two superpowers rather than choosing one over the other.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.8 - 47 km WSW of Bahía Solano, Colombia** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000thsp)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-16T07:28:25.040+00:00`, fetched `2026-09-16T07:33:13+00:00`
@@ -204,15 +213,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Open Source (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: VBScript廃止に備えよ！ Windowsライセンス認証の自動化はslmgr.vbsではなくPowerShellで／Microsoftが新モジュール「OSLicense」の利用を呼び掛け
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The institutional form of independent central banks - from history to contemporary challenges** — Score 9, opportunity — [Quelle](https://www.bis.org/speeches/20260916-institutional-form-independent-central-banks-history-contemporary-challenges)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-09-16T00:00:00+00:00`, fetched `2026-09-16T09:40:47+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: London (+2.0)
-  - Kurz: Speech by Mr Andrew Bailey, Governor of the Bank of England, at the LSE TRIUM Anniversary Conference, London, 4 September 2026.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Empfehlungen
 

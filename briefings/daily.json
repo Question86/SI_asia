@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T09:57:30+00:00",
-  "today_file_total": 48,
+  "generated_at": "2026-09-16T10:17:46+00:00",
+  "today_file_total": 50,
   "current_clusters": [
     {
       "key": "domain:www.bis.org",
@@ -23,9 +23,9 @@
       "max_score": 13,
       "credibility_total": 8.4,
       "cross_source_confirmed": false,
-      "momentum_delta": 3,
-      "momentum_status": "increasing",
-      "network_score": 38.8,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 29.8,
       "hot": true,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
@@ -105,30 +105,6 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "domain:www.heise.de",
-      "title": "Angreifer attackieren Acronis Backup für cPanel/WHM und Plesk",
-      "sources": [
-        "heise Security Alerts"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.heise.de/news/Angreifer-attackieren-Acronis-Backup-fuer-cPanel-WHM-und-Plesk-11454681.html",
-        "https://www.heise.de/news/IBM-MQ-In-mehreren-Faellen-kann-Schadcode-auf-Systeme-gelangen-11454964.html"
-      ],
-      "finding_count": 2,
-      "max_score": 13,
-      "credibility_total": 2.1,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 20.2,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
       "key": "title:boom-won-help-you-scale-your-unit-economics",
       "title": "The AI boom won’t help you scale. Your unit economics will",
       "sources": [
@@ -175,24 +151,25 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "title:plaud-doubles-its-singapore-bet-now-has-prove",
-      "title": "Plaud doubles its Singapore bet to US$15.7M. Now it has to prove the growth is real",
+      "key": "domain:www.heise.de",
+      "title": "Angreifer attackieren Acronis Backup für cPanel/WHM und Plesk",
       "sources": [
-        "e27 Asia Startup and Tech Feed"
+        "heise Security Alerts"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://e27.co/plaud-doubles-its-singapore-bet-to-us15-7m-now-it-has-to-prove-the-growth-is-real-20260916/"
+        "https://www.heise.de/news/Angreifer-attackieren-Acronis-Backup-fuer-cPanel-WHM-und-Plesk-11454681.html",
+        "https://www.heise.de/news/IBM-MQ-In-mehreren-Faellen-kann-Schadcode-auf-Systeme-gelangen-11454964.html"
       ],
-      "finding_count": 1,
-      "max_score": 12,
-      "credibility_total": 1.05,
+      "finding_count": 2,
+      "max_score": 13,
+      "credibility_total": 2.1,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 17.1,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 17.2,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
@@ -262,6 +239,77 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 16.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:restofworld.org",
+      "title": "Playing both sides of the U.S.-China AI “Cold War”",
+      "sources": [
+        "Rest of World Global Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://restofworld.org/2026/ai-us-chips-chinese-open-source-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 16.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "earthquake:m 4.7 - 6 km wsw of port-olry, vanuatu:4.7",
+      "title": "M 4.7 - 6 km WSW of Port-Olry, Vanuatu",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tht8"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 14.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "title:plaud-doubles-its-singapore-bet-now-has-prove",
+      "title": "Plaud doubles its Singapore bet to US$15.7M. Now it has to prove the growth is real",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/plaud-doubles-its-singapore-bet-to-us15-7m-now-it-has-to-prove-the-growth-is-real-20260916/"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 14.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
@@ -432,54 +480,6 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "github_repo:homebrew/brewui",
-      "title": "Homebrew/BrewUI",
-      "sources": [
-        "GitHub Trending RSS All Languages Daily"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://github.com/Homebrew/BrewUI"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 12.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "earthquake:m 5.1 - 172 km ese of saipan, northern mariana islands:5.1",
-      "title": "M 5.1 - 172 km ESE of Saipan, Northern Mariana Islands",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thsx"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 11.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     }
   ]
 }

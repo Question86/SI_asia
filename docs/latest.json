@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T09:57:26+00:00",
-  "run_id": "2026-09-16T09:57:26+00:00",
+  "generated_at": "2026-09-16T10:17:43+00:00",
+  "run_id": "2026-09-16T10:17:43+00:00",
   "date": "2026-09-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 48
+      "configured_public_sources_only": 50
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 6,
-    "today_file_total": 48,
-    "displayed_findings": 48,
+    "new_relevant_findings": 2,
+    "today_file_total": 50,
+    "displayed_findings": 50,
     "high": 0,
     "medium": 7,
-    "observe": 41,
+    "observe": 43,
     "source_errors": 0
   },
   "sections": {
@@ -321,6 +321,28 @@
         "id": "ff2c8c1144d6f7b536f1"
       },
       {
+        "title": "Playing both sides of the U.S.-China AI “Cold War”",
+        "url": "https://restofworld.org/2026/ai-us-chips-chinese-open-source-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "source": "Rest of World Global Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-16T10:00:00+00:00",
+        "fetched_at": "2026-09-16T10:17:13+00:00",
+        "summary": "From Latin America to Southeast Asia, countries are dividing their AI investments between the two superpowers rather than choosing one over the other.",
+        "matched_keywords": [
+          "AI/KI",
+          "Asia",
+          "Latin America"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "AI/KI (+3.8); Asia (+2.0); Latin America (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b8828bec48f4a545b195"
+      },
+      {
         "title": "M 4.8 - 47 km WSW of Bahía Solano, Colombia",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thsp",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -535,6 +557,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "6748ca2baf7ffe408511"
+      },
+      {
+        "title": "M 4.7 - 6 km WSW of Port-Olry, Vanuatu",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tht8",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-09-16T10:10:04.040+00:00",
+        "fetched_at": "2026-09-16T10:17:13+00:00",
+        "summary": "Time 2026-09-16 09:41:47 UTC 2026-09-16 09:41:47 UTC at epicenter Location 15.066°S 167.016°E Depth 60.69 km (37.71 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "4ded188f2d3915f3af3b"
       },
       {
         "title": "M 5.1 - 172 km ESE of Saipan, Northern Mariana Islands",
@@ -1465,6 +1523,28 @@
       "id": "ff2c8c1144d6f7b536f1"
     },
     {
+      "title": "Playing both sides of the U.S.-China AI “Cold War”",
+      "url": "https://restofworld.org/2026/ai-us-chips-chinese-open-source-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-16T10:00:00+00:00",
+      "fetched_at": "2026-09-16T10:17:13+00:00",
+      "summary": "From Latin America to Southeast Asia, countries are dividing their AI investments between the two superpowers rather than choosing one over the other.",
+      "matched_keywords": [
+        "AI/KI",
+        "Asia",
+        "Latin America"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "AI/KI (+3.8); Asia (+2.0); Latin America (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b8828bec48f4a545b195"
+    },
+    {
       "title": "M 4.8 - 47 km WSW of Bahía Solano, Colombia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thsp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1679,6 +1759,42 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "6748ca2baf7ffe408511"
+    },
+    {
+      "title": "M 4.7 - 6 km WSW of Port-Olry, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tht8",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-16T10:10:04.040+00:00",
+      "fetched_at": "2026-09-16T10:17:13+00:00",
+      "summary": "Time 2026-09-16 09:41:47 UTC 2026-09-16 09:41:47 UTC at epicenter Location 15.066°S 167.016°E Depth 60.69 km (37.71 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "4ded188f2d3915f3af3b"
     },
     {
       "title": "M 5.1 - 172 km ESE of Saipan, Northern Mariana Islands",
@@ -2319,125 +2435,62 @@
   ],
   "new_findings": [
     {
-      "title": "Plaud doubles its Singapore bet to US$15.7M. Now it has to prove the growth is real",
-      "url": "https://e27.co/plaud-doubles-its-singapore-bet-to-us15-7m-now-it-has-to-prove-the-growth-is-real-20260916/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "Playing both sides of the U.S.-China AI “Cold War”",
+      "url": "https://restofworld.org/2026/ai-us-chips-chinese-open-source-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-09-16T09:47:23+00:00",
-      "fetched_at": "2026-09-16T09:56:54+00:00",
-      "summary": "Plaud, the maker of the credit-card-sized AI voice recorder that has become a fixture on lanyards and phone cases across Asia, has opened an Asia-Pacific headquarters in Singapore. The Chinese-founded, San Francisco-incorporated firm has also committed at least SGD20 million (~US$15.7 million) to the island nation. This is double the amount it pledged when it […] The post Plaud doubles its Singapore bet to US$15.7M.…",
+      "published_at": "2026-09-16T10:00:00+00:00",
+      "fetched_at": "2026-09-16T10:17:13+00:00",
+      "summary": "From Latin America to Southeast Asia, countries are dividing their AI investments between the two superpowers rather than choosing one over the other.",
       "matched_keywords": [
         "AI/KI",
-        "APAC Trend Radar"
+        "Asia",
+        "Latin America"
       ],
-      "relevance_score": 12,
-      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region usa: San Francisco (+2.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "relevance_score": 11,
+      "relevance_reason": "AI/KI (+3.8); Asia (+2.0); Latin America (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "951d479da0632802ef89"
+      "id": "b8828bec48f4a545b195"
     },
     {
-      "title": "Listening to households - expectations, behaviour and monetary policy",
-      "url": "https://www.bis.org/speeches/20260916-listening-households-expectations-behaviour-and-monetary-policy",
-      "source": "BIS Central Bankers Speeches",
+      "title": "M 4.7 - 6 km WSW of Port-Olry, Vanuatu",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tht8",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-09-16T00:00:00+00:00",
-      "fetched_at": "2026-09-16T09:56:54+00:00",
-      "summary": "Speech by Mr Boris Vujčić, Vice-President of the European Central Bank, at the inauguration of the Alexander von Humboldt Professorship awarded to Professor Michael Weber at the European School of Management and Technology (ESMT) Berlin, Berlin, 1 September 2026.",
+      "published_at": "2026-09-16T10:10:04.040+00:00",
+      "fetched_at": "2026-09-16T10:17:13+00:00",
+      "summary": "Time 2026-09-16 09:41:47 UTC 2026-09-16 09:41:47 UTC at epicenter Location 15.066°S 167.016°E Depth 60.69 km (37.71 mi)",
       "matched_keywords": [
-        "Macro/Policy"
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
       "relevance_score": 9,
-      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: Berlin (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a3f6921e38320461ebfa"
-    },
-    {
-      "title": "From heritage to renewal - building Europe’s future",
-      "url": "https://www.bis.org/speeches/20260916-heritage-renewal-building-europes-future",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-09-16T00:00:00+00:00",
-      "fetched_at": "2026-09-16T09:56:54+00:00",
-      "summary": "Speech by Dr Joachim Nagel, President of the Deutsche Bundesbank, at the the gala dinner of the Deutsche Bundesbank on the occasion of the external ECB Governing Council meeting, Berlin, 9 September 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: Berlin, ECB (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "724fc1ec54d408437250"
-    },
-    {
-      "title": "Emerging technologies in finance - the imperatives of purpose, prudence, and policy",
-      "url": "https://www.bis.org/speeches/20260916-emerging-technologies-finance-imperatives-purpose-prudence-and-policy",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-09-16T00:00:00+00:00",
-      "fetched_at": "2026-09-16T09:56:54+00:00",
-      "summary": "Keynote address by Mr Rohit Jain, Deputy Governor of the Reserve Bank of India, at theGlobal Fintech Fest 2026, Mumba, 9 September 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region india: India, Reserve Bank of India (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1c27a6a5e0f7a9c9f548"
-    },
-    {
-      "title": "IBM MQ: In mehreren Fällen kann Schadcode auf Systeme gelangen",
-      "url": "https://www.heise.de/news/IBM-MQ-In-mehreren-Faellen-kann-Schadcode-auf-Systeme-gelangen-11454964.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-09-16T09:39:00.000+00:00",
-      "fetched_at": "2026-09-16T09:56:54+00:00",
-      "summary": "In aktuellen Versionen von IBMs Middleware MQ haben die Entwickler mehrere Schwachstellen geschlossen. Bislang gibt es keine dokumentierten Attacken.",
-      "matched_keywords": [
-        "Security"
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "fa26e1895d23f105aec5"
-    },
-    {
-      "title": "JP PINT 民間事業者の取組（政府調達編）―デジタル庁を更新しました",
-      "url": "https://www.digital.go.jp/policies/electronic_invoice/968e4487-0cbb-48e7-a090-e097d925b5e7",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-09-16T09:44:54+00:00",
-      "fetched_at": "2026-09-16T09:56:54+00:00",
-      "summary": "JP PINT 民間事業者の取組（政府調達編）―デジタル庁を更新しました",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c10010bb5a7ccc6b08e2"
+      "id": "4ded188f2d3915f3af3b"
     }
   ],
   "source_errors": [],
