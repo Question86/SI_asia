@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T05:50:56+00:00",
-  "run_id": "2026-09-16T05:50:56+00:00",
+  "generated_at": "2026-09-16T05:58:25+00:00",
+  "run_id": "2026-09-16T05:58:25+00:00",
   "date": "2026-09-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 23,
     "displayed_findings": 23,
     "high": 0,
@@ -1109,31 +1109,7 @@
       "id": "6c67283d1d0369882ac2"
     }
   ],
-  "new_findings": [
-    {
-      "title": "ChatGPT共同開発者がLLMとは異なる方法で処理するAIモデル「Jev」を開発、GPT-5.6 Terra級の性能でタスクを安価かつ超高速に実行可能",
-      "url": "https://gigazine.net/news/20260916-system-one-jev/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-16T02:49:52+00:00",
-      "fetched_at": "2026-09-16T05:50:24+00:00",
-      "summary": "AI企業のTypeSafe AIが大規模言語モデル(LLM)とは異なるアプローチでタスクを解決するAI「System One Models」と、System One Modelsの第1弾モデルである「Jev」を現地時間の2026年9月15日に発表しました。TypeSafe AIはChatGPTの開発に携わったAI研究者であるディオゴ・アルメイダ氏がCEOを務める企業で、LLMとは根本的...",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry",
-        "OpenAI"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2896208f87a79eeca20d"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
