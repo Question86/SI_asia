@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-16T02:01:03+00:00",
+  "generated_at": "2026-09-16T02:30:31+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 6,
-    "displayed_findings": 6,
+    "new_relevant_findings": 4,
+    "today_file_total": 10,
+    "displayed_findings": 10,
     "high": 0,
     "medium": 1,
-    "observe": 5
+    "observe": 9
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -35,6 +35,16 @@
       "section": "observe"
     },
     {
+      "title": "M 4.5 - 45 km NNW of Duaca, Venezuela",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-16T02:21:22.040+00:00",
+      "relevance_score": 9,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thrm",
+      "summary": "Time 2026-09-16 01:37:17 UTC 2026-09-16 01:37:17 UTC at epicenter Location 10.684°N 69.278°W Depth 10.00 km (6.21 mi)",
+      "section": "observe"
+    },
+    {
       "title": "M 4.7 - 159 km N of Caluula, Somalia",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
@@ -45,23 +55,13 @@
       "section": "observe"
     },
     {
-      "title": "令和8年熊本地震に関する対応状況について（9月16日）",
-      "source": "Japan Digital Agency News RSS",
+      "title": "Asia’s research-tech companies: Millions of users and nearly invisible to funders and customers",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-09-16T01:00:00+00:00",
-      "relevance_score": 6,
-      "url": "https://www.digital.go.jp/news/0346c21b-29d7-49a6-8f1a-68b0ea784bb4",
-      "summary": "令和8年熊本地震に関する対応状況について（9月16日）",
-      "section": "observe"
-    },
-    {
-      "title": "「Java 27」正式リリース。全環境でG1 GCがデフォルトに、TLS 1.3用に耐量子暗号のハイブリッドキー交換など新機能",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-15T15:25:18+00:00",
-      "relevance_score": 5,
-      "url": "https://www.publickey1.jp/blog/26/java_27g1_gctls_13.html",
-      "summary": "「Java 27」正式リリース。全環境でG1 GCがデフォルトに、TLS 1.3用に耐量子暗号のハイブリッドキー交換など新機能 オラクルはJavaの最新バージョン「Java 27」正式版をリリースしました。 Java 27 is now available! #Java27 #JDK27 #OpenJDK Download now: https://t.co/0ZwSLt09RU Release notes: https://t.co/MwnBi...",
+      "published_at": "2026-09-16T02:00:48+00:00",
+      "relevance_score": 7,
+      "url": "https://e27.co/asias-research-tech-companies-millions-of-users-and-nearly-invisible-to-funders-and-customers-20260913/",
+      "summary": "A new class of AI tools has changed how research gets done. These tools help researchers gather and present their work, sift thousands of papers in minutes, flag fabricated data in submissions, and, more broadly, are authoring the future of scientific present…",
       "section": "observe"
     }
   ],
@@ -70,136 +70,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “CISA ICS Advisory / ICS Medical Advisory（2026年09月15日）” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=28.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月15日）",
-        "url": "https://jvn.jp/vu/JVNVU93448623/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-16T09:00:00+09:00",
-        "age_days": 0.1,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: cisa, jvn, security, advisory"
-        ],
-        "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-      },
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月15日）",
-        "url": "https://jvn.jp/vu/JVNVU93448623/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-06-19T01:58:32+00:00",
-        "age_days": 89.02,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 17.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "aging penalty -8.0 for 89.0d old signal"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "M 4.7 - 159 km N of Caluula, Somalia",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thr6",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-16T00:10:55.040+00:00",
-        "age_days": 0.1,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 17.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake",
-          "high terms: 10"
-        ],
-        "summary": "Time 2026-09-15 23:46:59 UTC 2026-09-15 23:46:59 UTC at epicenter Location 13.412°N 50.731°E Depth 10.00 km (6.21 mi)"
-      },
-      {
-        "title": "M 4.7 - 159 km N of Caluula, Somalia",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thr6",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-16T00:13:34+00:00",
-        "age_days": 0.09,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 16.5,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "令和8年熊本地震に関する対応状況について（9月16日）",
-        "url": "https://www.digital.go.jp/news/0346c21b-29d7-49a6-8f1a-68b0ea784bb4",
-        "source": "Japan Digital Agency News RSS",
-        "published_at": "2026-09-16T01:02:01+00:00",
-        "age_days": 0.06,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 15.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }

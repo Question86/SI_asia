@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T02:01:03+00:00",
-  "run_id": "2026-09-16T02:01:03+00:00",
+  "generated_at": "2026-09-16T02:30:31+00:00",
+  "run_id": "2026-09-16T02:30:31+00:00",
   "date": "2026-09-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 6
+      "configured_public_sources_only": 10
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 6,
-    "displayed_findings": 6,
+    "new_relevant_findings": 4,
+    "today_file_total": 10,
+    "displayed_findings": 10,
     "high": 0,
     "medium": 1,
-    "observe": 5,
+    "observe": 9,
     "source_errors": 0
   },
   "sections": {
@@ -77,6 +77,42 @@
         "id": "db41de0b2d7210a4a4b0"
       },
       {
+        "title": "M 4.5 - 45 km NNW of Duaca, Venezuela",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thrm",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-09-16T02:21:22.040+00:00",
+        "fetched_at": "2026-09-16T02:30:01+00:00",
+        "summary": "Time 2026-09-16 01:37:17 UTC 2026-09-16 01:37:17 UTC at epicenter Location 10.684°N 69.278°W Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "cb33eabdb7c137d64a42"
+      },
+      {
         "title": "M 4.7 - 159 km N of Caluula, Somalia",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thr6",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -113,6 +149,27 @@
         "id": "cf7b1837feafcc52a5f3"
       },
       {
+        "title": "Asia’s research-tech companies: Millions of users and nearly invisible to funders and customers",
+        "url": "https://e27.co/asias-research-tech-companies-millions-of-users-and-nearly-invisible-to-funders-and-customers-20260913/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-16T02:00:48+00:00",
+        "fetched_at": "2026-09-16T02:30:01+00:00",
+        "summary": "A new class of AI tools has changed how research gets done. These tools help researchers gather and present their work, sift thousands of papers in minutes, flag fabricated data in submissions, and, more broadly, are authoring the future of scientific presentation and communication. Already, millions of scientists use them, but outside the lab, almost […] The post Asia’s research-tech companies: Millions of users an…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "718346249cc2871a79a1"
+      },
+      {
         "title": "令和8年熊本地震に関する対応状況について（9月16日）",
         "url": "https://www.digital.go.jp/news/0346c21b-29d7-49a6-8f1a-68b0ea784bb4",
         "source": "Japan Digital Agency News RSS",
@@ -131,6 +188,48 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "5ac5ff00ec1e7f6a9dd3"
+      },
+      {
+        "title": "社長はエンジニア｜平田 はる香",
+        "url": "https://note.com/wazawazapan/n/nd438d0a5bc37",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-16T00:21:19+00:00",
+        "fetched_at": "2026-09-16T02:30:01+00:00",
+        "summary": "コードも書けない地方のパン屋が、AIで会社をつくり変えた話ご無沙汰しています。長野県東御市（とうみし）で小売業を営む、株式会社わざわざの代表取締役、平田はる香です。 突然ですが、以前のわざわざでは週に1度、2時間ほどの経営会議を開いていました。それが今は、月に一度のMTGで足りるようになりました。理由は...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d5d796b60ee1453820c6"
+      },
+      {
+        "title": "Googleは自社製高性能AIで怪しい広告をブロックできるはずなのに一体なぜ配信し続けているのか？",
+        "url": "https://gigazine.net/news/20260916-google-dodgy-ads-gemini/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-15T21:03:15+00:00",
+        "fetched_at": "2026-09-16T02:30:01+00:00",
+        "summary": "ウェブサイトを閲覧していると「スマートフォンの容量不足」や「ウイルス感染」を知らせる画面に偽装した詐欺広告が高頻度で表示されます。また、詐欺広告の中には「次へ」とか「ダウンロード」といったウェブサイトのUIの一部に偽装したものも存在しており、非常に悪質です。ソフトウェア開発者のクリス・グリーニング...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "cd21c90838248362b509"
       },
       {
         "title": "「Java 27」正式リリース。全環境でG1 GCがデフォルトに、TLS 1.3用に耐量子暗号のハイブリッドキー交換など新機能",
@@ -223,6 +322,42 @@
       "id": "db41de0b2d7210a4a4b0"
     },
     {
+      "title": "M 4.5 - 45 km NNW of Duaca, Venezuela",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thrm",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-16T02:21:22.040+00:00",
+      "fetched_at": "2026-09-16T02:30:01+00:00",
+      "summary": "Time 2026-09-16 01:37:17 UTC 2026-09-16 01:37:17 UTC at epicenter Location 10.684°N 69.278°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "cb33eabdb7c137d64a42"
+    },
+    {
       "title": "M 4.7 - 159 km N of Caluula, Somalia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thr6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -259,6 +394,27 @@
       "id": "cf7b1837feafcc52a5f3"
     },
     {
+      "title": "Asia’s research-tech companies: Millions of users and nearly invisible to funders and customers",
+      "url": "https://e27.co/asias-research-tech-companies-millions-of-users-and-nearly-invisible-to-funders-and-customers-20260913/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-16T02:00:48+00:00",
+      "fetched_at": "2026-09-16T02:30:01+00:00",
+      "summary": "A new class of AI tools has changed how research gets done. These tools help researchers gather and present their work, sift thousands of papers in minutes, flag fabricated data in submissions, and, more broadly, are authoring the future of scientific presentation and communication. Already, millions of scientists use them, but outside the lab, almost […] The post Asia’s research-tech companies: Millions of users an…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "718346249cc2871a79a1"
+    },
+    {
       "title": "令和8年熊本地震に関する対応状況について（9月16日）",
       "url": "https://www.digital.go.jp/news/0346c21b-29d7-49a6-8f1a-68b0ea784bb4",
       "source": "Japan Digital Agency News RSS",
@@ -277,6 +433,48 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "5ac5ff00ec1e7f6a9dd3"
+    },
+    {
+      "title": "社長はエンジニア｜平田 はる香",
+      "url": "https://note.com/wazawazapan/n/nd438d0a5bc37",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-16T00:21:19+00:00",
+      "fetched_at": "2026-09-16T02:30:01+00:00",
+      "summary": "コードも書けない地方のパン屋が、AIで会社をつくり変えた話ご無沙汰しています。長野県東御市（とうみし）で小売業を営む、株式会社わざわざの代表取締役、平田はる香です。 突然ですが、以前のわざわざでは週に1度、2時間ほどの経営会議を開いていました。それが今は、月に一度のMTGで足りるようになりました。理由は...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d5d796b60ee1453820c6"
+    },
+    {
+      "title": "Googleは自社製高性能AIで怪しい広告をブロックできるはずなのに一体なぜ配信し続けているのか？",
+      "url": "https://gigazine.net/news/20260916-google-dodgy-ads-gemini/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-15T21:03:15+00:00",
+      "fetched_at": "2026-09-16T02:30:01+00:00",
+      "summary": "ウェブサイトを閲覧していると「スマートフォンの容量不足」や「ウイルス感染」を知らせる画面に偽装した詐欺広告が高頻度で表示されます。また、詐欺広告の中には「次へ」とか「ダウンロード」といったウェブサイトのUIの一部に偽装したものも存在しており、非常に悪質です。ソフトウェア開発者のクリス・グリーニング...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cd21c90838248362b509"
     },
     {
       "title": "「Java 27」正式リリース。全環境でG1 GCがデフォルトに、TLS 1.3用に耐量子暗号のハイブリッドキー交換など新機能",
@@ -321,7 +519,107 @@
       "id": "6c67283d1d0369882ac2"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "M 4.5 - 45 km NNW of Duaca, Venezuela",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thrm",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-16T02:21:22.040+00:00",
+      "fetched_at": "2026-09-16T02:30:01+00:00",
+      "summary": "Time 2026-09-16 01:37:17 UTC 2026-09-16 01:37:17 UTC at epicenter Location 10.684°N 69.278°W Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "cb33eabdb7c137d64a42"
+    },
+    {
+      "title": "Asia’s research-tech companies: Millions of users and nearly invisible to funders and customers",
+      "url": "https://e27.co/asias-research-tech-companies-millions-of-users-and-nearly-invisible-to-funders-and-customers-20260913/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-16T02:00:48+00:00",
+      "fetched_at": "2026-09-16T02:30:01+00:00",
+      "summary": "A new class of AI tools has changed how research gets done. These tools help researchers gather and present their work, sift thousands of papers in minutes, flag fabricated data in submissions, and, more broadly, are authoring the future of scientific presentation and communication. Already, millions of scientists use them, but outside the lab, almost […] The post Asia’s research-tech companies: Millions of users an…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "AI/KI (+3.0); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "718346249cc2871a79a1"
+    },
+    {
+      "title": "社長はエンジニア｜平田 はる香",
+      "url": "https://note.com/wazawazapan/n/nd438d0a5bc37",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-16T00:21:19+00:00",
+      "fetched_at": "2026-09-16T02:30:01+00:00",
+      "summary": "コードも書けない地方のパン屋が、AIで会社をつくり変えた話ご無沙汰しています。長野県東御市（とうみし）で小売業を営む、株式会社わざわざの代表取締役、平田はる香です。 突然ですが、以前のわざわざでは週に1度、2時間ほどの経営会議を開いていました。それが今は、月に一度のMTGで足りるようになりました。理由は...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d5d796b60ee1453820c6"
+    },
+    {
+      "title": "Googleは自社製高性能AIで怪しい広告をブロックできるはずなのに一体なぜ配信し続けているのか？",
+      "url": "https://gigazine.net/news/20260916-google-dodgy-ads-gemini/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-15T21:03:15+00:00",
+      "fetched_at": "2026-09-16T02:30:01+00:00",
+      "summary": "ウェブサイトを閲覧していると「スマートフォンの容量不足」や「ウイルス感染」を知らせる画面に偽装した詐欺広告が高頻度で表示されます。また、詐欺広告の中には「次へ」とか「ダウンロード」といったウェブサイトのUIの一部に偽装したものも存在しており、非常に悪質です。ソフトウェア開発者のクリス・グリーニング...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cd21c90838248362b509"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
