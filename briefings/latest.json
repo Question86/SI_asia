@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T23:30:03+00:00",
-  "run_id": "2026-09-16T23:30:03+00:00",
+  "generated_at": "2026-09-16T23:40:00+00:00",
+  "run_id": "2026-09-16T23:40:00+00:00",
   "date": "2026-09-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 103,
     "displayed_findings": 103,
     "high": 0,
@@ -4981,30 +4981,7 @@
       "id": "ad3fa9becfab1167d7d4"
     }
   ],
-  "new_findings": [
-    {
-      "title": "スイス、「Microsoft 365」からオープンソースに移行--「アーミーナイフを振るう」",
-      "url": "https://japan.zdnet.com/article/35252576/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-16T02:13:10+00:00",
-      "fetched_at": "2026-09-16T23:29:32+00:00",
-      "summary": "スイス連邦政府は数千人の職員を対象にオープンソースを活用したデジタル主権を持つ職場環境の整備を進めている。その一方で、スイス軍のサイバー部隊は、機密性の高い業務を中心に「Microsoft 365」からの移行をより速いペースで進めている。 同国は、オーストリア、フランス、ドイツ、アイルランドなどの欧州各国の政...",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c917bdf2efbaa5e77032"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
