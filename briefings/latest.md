@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-16T13:31:24+00:00_
+_Generiert: 2026-09-16T13:42:53+00:00_
 
 ## Kurzlage
 
@@ -9,6 +9,10 @@ _Generiert: 2026-09-16T13:31:24+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-58704 Google Pixel** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-09-16`
+  - Kurz: Known exploited vulnerability. Added 2026-09-16. Due 2026-09-19. Google Pixel Improper Authorization Vulnerability
 - **CISA KEV: CVE-2026-76461 Cisco Secure Email Gateway** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-09-14`
@@ -25,10 +29,6 @@ _Generiert: 2026-09-16T13:31:24+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-11`
   - Kurz: Known exploited vulnerability. Added 2026-09-11. Due 2026-09-25. JFrog Artifactory Improper Authentication Vulnerability
-- **CISA KEV: CVE-2026-85706 GitLab Community Edition and Enterprise Edition** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-11`
-  - Kurz: Known exploited vulnerability. Added 2026-09-11. Due 2026-09-14. GitLab Community Edition and Enterprise Edition Path Traversal Vulnerability
 - **GDACS: Green flood alert in Senegal** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104161)
   - Quelle: GDACS
   - Zeit: ``

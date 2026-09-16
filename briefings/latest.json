@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T13:31:24+00:00",
-  "run_id": "2026-09-16T13:31:24+00:00",
+  "generated_at": "2026-09-16T13:42:53+00:00",
+  "run_id": "2026-09-16T13:42:53+00:00",
   "date": "2026-09-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 81,
     "displayed_findings": 81,
     "high": 0,
@@ -3879,29 +3879,7 @@
       "id": "6c67283d1d0369882ac2"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Reimagining advertising with AI",
-      "url": "https://openai.com/index/reimagining-advertising-with-ai",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-09-16T13:00:00+00:00",
-      "fetched_at": "2026-09-16T13:30:51+00:00",
-      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
-      "matched_keywords": [
-        "AI/KI",
-        "OpenAI"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "03c000c8f6f5ecc2e92b"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

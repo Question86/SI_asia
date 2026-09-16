@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-09-16T13:31:28+00:00",
+  "generated_at": "2026-09-16T13:42:56+00:00",
   "sections": {
     "global_security": [
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-58704 Google Pixel",
+        "summary": "Known exploited vulnerability. Added 2026-09-16. Due 2026-09-19. Google Pixel Improper Authorization Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-09-16",
+        "metrics": {
+          "cve": "CVE-2026-58704"
+        }
+      },
       {
         "domain": "security",
         "severity": "high",
@@ -48,18 +60,6 @@
         "published_at": "2026-09-11",
         "metrics": {
           "cve": "CVE-2026-42018"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-85706 GitLab Community Edition and Enterprise Edition",
-        "summary": "Known exploited vulnerability. Added 2026-09-11. Due 2026-09-14. GitLab Community Edition and Enterprise Edition Path Traversal Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-09-11",
-        "metrics": {
-          "cve": "CVE-2026-85706"
         }
       },
       {
