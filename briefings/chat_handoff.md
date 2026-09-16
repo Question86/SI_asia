@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-16T03:54:10+00:00_
+_Generated: 2026-09-16T04:01:43+00:00_
 
 ## Status
 - status: `normal`
-- findings: `14`
+- findings: `15`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-09-16T03:54:10+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000thrm
 - summary: Time 2026-09-16 01:37:17 UTC 2026-09-16 01:37:17 UTC at epicenter Location 10.684°N 69.278°W Depth 10.00 km (6.21 mi)
 
-### 7. M 4.7 - 159 km N of Caluula, Somalia
+### 7. VBScript廃止に備えよ！ Windowsライセンス認証の自動化はslmgr.vbsではなくPowerShellで／Microsoftが新モジュール「OSLicense」の利用を呼び掛け
+- source: Hatena Bookmark Hotentry IT
+- score: `9`
+- published: `2026-09-16T00:26:53+00:00`
+- url: https://forest.watch.impress.co.jp/docs/news/2141127.html
+- summary: VBScript廃止に備えよ！ Windowsライセンス認証の自動化はslmgr.vbsではなくPowerShellで／Microsoftが新モジュール「OSLicense」の利用を呼び掛け
+
+### 8. M 4.7 - 159 km N of Caluula, Somalia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-09-16T00:10:55.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000thr6
 - summary: Time 2026-09-15 23:46:59 UTC 2026-09-15 23:46:59 UTC at epicenter Location 13.412°N 50.731°E Depth 10.00 km (6.21 mi)
-
-### 8. Entering Taiwan: A practical resource map for foreign founders
-- source: e27 Asia Startup and Tech Feed
-- score: `7`
-- published: `2026-09-16T02:30:32+00:00`
-- url: https://e27.co/entering-taiwan-a-practical-resource-map-for-foreign-founders-20260913/
-- summary: Foreign founders entering Taiwan should organise their research around decisions, not a long directory of programmes. The useful question is not simply what support exists, but which resource removes the next obstacle to testing a business. As the operator of…
 
 END OF DOCUMENT
