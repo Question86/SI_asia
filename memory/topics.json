@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-16T10:17:43+00:00",
+  "generated_at": "2026-09-16T10:31:49+00:00",
   "topics": {
     "ai": [
       {
@@ -242,6 +242,13 @@
         "url": "https://jvn.jp/jp/JVN45281119/"
       },
       {
+        "title": "[UPDATE] [hoch] Arista EOS: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-16T10:23:49+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3287"
+      },
+      {
         "title": "[UPDATE] [hoch] Flowise: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-16T07:36:31+00:00",
@@ -254,6 +261,13 @@
         "published_at": "2026-09-16T07:37:00.000+00:00",
         "relevance_score": 13,
         "url": "https://www.heise.de/news/Angreifer-attackieren-Acronis-Backup-fuer-cPanel-WHM-und-Plesk-11454681.html"
+      },
+      {
+        "title": "Oracle patcht mehr als 650 Sicherheitslücken",
+        "source": "heise Security Alerts",
+        "published_at": "2026-09-16T10:19:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Oracle-patcht-mehr-als-650-Sicherheitsluecken-11455024.html"
       },
       {
         "title": "IBM MQ: In mehreren Fällen kann Schadcode auf Systeme gelangen",

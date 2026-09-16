@@ -158,6 +158,29 @@
     "id": "cab2df1178172c8817c1"
   },
   {
+    "title": "[UPDATE] [hoch] Arista EOS: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3287",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-16T10:23:49+00:00",
+    "fetched_at": "2026-09-16T10:31:15+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Arista EOS ausnutzen, um erweiterte Berechtigungen, sogar Administratorrechte, zu erlangen, beliebigen Code, einschließlich Root-Code, auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen sowie Denial-of-Service-Zustände herbeizuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8c5d08afa27f0540933a"
+  },
+  {
     "title": "[UPDATE] [hoch] Flowise: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3102",
     "source": "BSI CERT-Bund Security Advisories",
@@ -929,6 +952,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "1c27a6a5e0f7a9c9f548"
+  },
+  {
+    "title": "Oracle patcht mehr als 650 Sicherheitslücken",
+    "url": "https://www.heise.de/news/Oracle-patcht-mehr-als-650-Sicherheitsluecken-11455024.html",
+    "source": "heise Security Alerts",
+    "source_type": "rss",
+    "published_at": "2026-09-16T10:19:00.000+00:00",
+    "fetched_at": "2026-09-16T10:31:15+00:00",
+    "summary": "Das Oracle Critical Security Patch Update bringt Softwareflicken für mehr als 650 Lücken. Darunter sind diverse mit kritischem Risiko.",
+    "matched_keywords": [
+      "Security"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Security (+6.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "bdb42cb6eef4457aa3fb"
   },
   {
     "title": "IBM MQ: In mehreren Fällen kann Schadcode auf Systeme gelangen",

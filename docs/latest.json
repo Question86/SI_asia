@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T10:17:43+00:00",
-  "run_id": "2026-09-16T10:17:43+00:00",
+  "generated_at": "2026-09-16T10:31:49+00:00",
+  "run_id": "2026-09-16T10:31:49+00:00",
   "date": "2026-09-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 50
+      "configured_public_sources_only": 52
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 50,
-    "displayed_findings": 50,
+    "today_file_total": 52,
+    "displayed_findings": 52,
     "high": 0,
-    "medium": 7,
-    "observe": 43,
+    "medium": 8,
+    "observe": 44,
     "source_errors": 0
   },
   "sections": {
@@ -186,6 +186,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "cab2df1178172c8817c1"
+      },
+      {
+        "title": "[UPDATE] [hoch] Arista EOS: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3287",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-16T10:23:49+00:00",
+        "fetched_at": "2026-09-16T10:31:15+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Arista EOS ausnutzen, um erweiterte Berechtigungen, sogar Administratorrechte, zu erlangen, beliebigen Code, einschließlich Root-Code, auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen sowie Denial-of-Service-Zustände herbeizuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8c5d08afa27f0540933a"
       },
       {
         "title": "[UPDATE] [hoch] Flowise: Mehrere Schwachstellen",
@@ -963,6 +986,26 @@
         "id": "1c27a6a5e0f7a9c9f548"
       },
       {
+        "title": "Oracle patcht mehr als 650 Sicherheitslücken",
+        "url": "https://www.heise.de/news/Oracle-patcht-mehr-als-650-Sicherheitsluecken-11455024.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-09-16T10:19:00.000+00:00",
+        "fetched_at": "2026-09-16T10:31:15+00:00",
+        "summary": "Das Oracle Critical Security Patch Update bringt Softwareflicken für mehr als 650 Lücken. Darunter sind diverse mit kritischem Risiko.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "bdb42cb6eef4457aa3fb"
+      },
+      {
         "title": "IBM MQ: In mehreren Fällen kann Schadcode auf Systeme gelangen",
         "url": "https://www.heise.de/news/IBM-MQ-In-mehreren-Faellen-kann-Schadcode-auf-Systeme-gelangen-11454964.html",
         "source": "heise Security Alerts",
@@ -1390,6 +1433,29 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "cab2df1178172c8817c1"
+    },
+    {
+      "title": "[UPDATE] [hoch] Arista EOS: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3287",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-16T10:23:49+00:00",
+      "fetched_at": "2026-09-16T10:31:15+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Arista EOS ausnutzen, um erweiterte Berechtigungen, sogar Administratorrechte, zu erlangen, beliebigen Code, einschließlich Root-Code, auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen sowie Denial-of-Service-Zustände herbeizuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8c5d08afa27f0540933a"
     },
     {
       "title": "[UPDATE] [hoch] Flowise: Mehrere Schwachstellen",
@@ -2165,6 +2231,26 @@
       "id": "1c27a6a5e0f7a9c9f548"
     },
     {
+      "title": "Oracle patcht mehr als 650 Sicherheitslücken",
+      "url": "https://www.heise.de/news/Oracle-patcht-mehr-als-650-Sicherheitsluecken-11455024.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-09-16T10:19:00.000+00:00",
+      "fetched_at": "2026-09-16T10:31:15+00:00",
+      "summary": "Das Oracle Critical Security Patch Update bringt Softwareflicken für mehr als 650 Lücken. Darunter sind diverse mit kritischem Risiko.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bdb42cb6eef4457aa3fb"
+    },
+    {
       "title": "IBM MQ: In mehreren Fällen kann Schadcode auf Systeme gelangen",
       "url": "https://www.heise.de/news/IBM-MQ-In-mehreren-Faellen-kann-Schadcode-auf-Systeme-gelangen-11454964.html",
       "source": "heise Security Alerts",
@@ -2435,62 +2521,47 @@
   ],
   "new_findings": [
     {
-      "title": "Playing both sides of the U.S.-China AI “Cold War”",
-      "url": "https://restofworld.org/2026/ai-us-chips-chinese-open-source-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
-      "source": "Rest of World Global Tech Feed",
+      "title": "[UPDATE] [hoch] Arista EOS: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3287",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-09-16T10:00:00+00:00",
-      "fetched_at": "2026-09-16T10:17:13+00:00",
-      "summary": "From Latin America to Southeast Asia, countries are dividing their AI investments between the two superpowers rather than choosing one over the other.",
+      "published_at": "2026-09-16T10:23:49+00:00",
+      "fetched_at": "2026-09-16T10:31:15+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Arista EOS ausnutzen, um erweiterte Berechtigungen, sogar Administratorrechte, zu erlangen, beliebigen Code, einschließlich Root-Code, auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen sowie Denial-of-Service-Zustände herbeizuführen.",
       "matched_keywords": [
-        "AI/KI",
-        "Asia",
-        "Latin America"
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "AI/KI (+3.8); Asia (+2.0); Latin America (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "b8828bec48f4a545b195"
+      "id": "8c5d08afa27f0540933a"
     },
     {
-      "title": "M 4.7 - 6 km WSW of Port-Olry, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tht8",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "Oracle patcht mehr als 650 Sicherheitslücken",
+      "url": "https://www.heise.de/news/Oracle-patcht-mehr-als-650-Sicherheitsluecken-11455024.html",
+      "source": "heise Security Alerts",
       "source_type": "rss",
-      "published_at": "2026-09-16T10:10:04.040+00:00",
-      "fetched_at": "2026-09-16T10:17:13+00:00",
-      "summary": "Time 2026-09-16 09:41:47 UTC 2026-09-16 09:41:47 UTC at epicenter Location 15.066°S 167.016°E Depth 60.69 km (37.71 mi)",
+      "published_at": "2026-09-16T10:19:00.000+00:00",
+      "fetched_at": "2026-09-16T10:31:15+00:00",
+      "summary": "Das Oracle Critical Security Patch Update bringt Softwareflicken für mehr als 650 Lücken. Darunter sind diverse mit kritischem Risiko.",
       "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
+        "Security"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "4ded188f2d3915f3af3b"
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bdb42cb6eef4457aa3fb"
     }
   ],
   "source_errors": [],
