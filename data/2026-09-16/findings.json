@@ -1,5 +1,29 @@
 [
   {
+    "title": "[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3402",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-16T11:11:31+00:00",
+    "fetched_at": "2026-09-16T11:17:39+00:00",
+    "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Supply Chain ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security",
+      "Supply Chain Security"
+    ],
+    "relevance_score": 23,
+    "relevance_reason": "Security (+6.0); Supply Chain Security (+10.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3a30480594027d85c2c4"
+  },
+  {
     "title": "The Capital-Driven Rise of Modern Business Suites",
     "url": "https://e27.co/navigate-odoo-problem-best-erp-alternatives-singapore-price-guide-20260916/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -180,6 +204,121 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "cab2df1178172c8817c1"
+  },
+  {
+    "title": "[NEU] [hoch] Oracle Communications: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3403",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-16T11:11:32+00:00",
+    "fetched_at": "2026-09-16T11:17:39+00:00",
+    "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Communications ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "de0a0aee504389ed8bd3"
+  },
+  {
+    "title": "[NEU] [hoch] Oracle Siebel CRM: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3401",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-16T11:11:31+00:00",
+    "fetched_at": "2026-09-16T11:17:39+00:00",
+    "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Siebel CRM ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0eb595981221b0f777a7"
+  },
+  {
+    "title": "[NEU] [hoch] Oracle Financial Services Applications: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3398",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-16T11:11:31+00:00",
+    "fetched_at": "2026-09-16T11:17:39+00:00",
+    "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Financial Services Applications ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "337989b721817cd3a707"
+  },
+  {
+    "title": "[NEU] [hoch] Oracle Enterprise Manager: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3399",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-16T11:11:31+00:00",
+    "fetched_at": "2026-09-16T11:17:39+00:00",
+    "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Enterprise Manager ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "fbde4307ba9d529800d1"
+  },
+  {
+    "title": "[NEU] [hoch] Oracle E-Business Suite: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3400",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-16T11:11:31+00:00",
+    "fetched_at": "2026-09-16T11:17:39+00:00",
+    "summary": "Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle E-Business Suite ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5481b189cb1ed6feac8f"
   },
   {
     "title": "[UPDATE] [mittel] libpng: Schwachstelle ermöglicht Offenlegung von Informationen",
@@ -999,6 +1138,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "1c27a6a5e0f7a9c9f548"
+  },
+  {
+    "title": "Taiwan bets on Gen Z founders to move beyond its chip-supplier image",
+    "url": "https://e27.co/taiwan-bets-on-gen-z-founders-to-move-beyond-its-chip-supplier-image-20260916/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-09-16T10:58:20+00:00",
+    "fetched_at": "2026-09-16T11:17:39+00:00",
+    "summary": "Taipei’s newest startup gathering didn’t pretend Gen Z needed a seat at the kids’ table. It gave them the microphone instead, and put YouTube’s and Twitch’s co-founders in the audience listening back. The inaugural Boba Tech Summit ran September 9 and 10 in Taipei, pulling in more than 300 attendees from over 15 countries for […] The post Taiwan bets on Gen Z founders to move beyond its chip-supplier image appeared…",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "founder"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "APAC Trend Radar (+3.8); founder (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "opportunity",
+    "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f97738d31e29b5ed7258"
   },
   {
     "title": "Oracle patcht mehr als 650 Sicherheitslücken",
