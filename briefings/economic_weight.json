@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-16T01:02:20+00:00",
+  "generated_at": "2026-09-16T01:31:56+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -3001,7 +3001,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-16T00:13:34+00:00",
-      "last_seen_at": "2026-09-16T01:02:01+00:00",
+      "last_seen_at": "2026-09-16T01:31:39+00:00",
       "status": "active"
     },
     {
@@ -3137,7 +3137,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-16T01:02:01+00:00",
+      "last_seen_at": "2026-09-16T01:31:39+00:00",
       "status": "active"
     },
     {
@@ -8225,6 +8225,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_3d903945c8c0f303c3f9",
+      "title": "令和8年熊本地震に関する対応状況について（9月16日）",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108800.0,
+      "p50_usd": 10880000.0,
+      "p90_usd": 1088000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-16T01:02:01+00:00",
+      "last_seen_at": "2026-09-16T01:31:39+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_3f701013340eb030b8e8",
       "title": "Enterprise-managed sandbox in Copilot for JetBrains",
       "event_classes": [
@@ -8718,23 +8735,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_3d903945c8c0f303c3f9",
-      "title": "令和8年熊本地震に関する対応状況について（9月16日）",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108800.0,
-      "p50_usd": 10880000.0,
-      "p90_usd": 1088000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-16T01:02:01+00:00",
-      "last_seen_at": "2026-09-16T01:02:01+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_0177d8625bc83d6c8e11",
       "title": "ＡＩで数学の難問を解く行為は「科学や数学界に有害だ」…世界の数学者２５人が非難の緊急声明",
       "event_classes": [
@@ -9156,7 +9156,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-16T00:13:34+00:00",
-      "last_seen_at": "2026-09-16T01:02:01+00:00",
+      "last_seen_at": "2026-09-16T01:31:39+00:00",
       "status": "active"
     },
     {
@@ -10467,6 +10467,23 @@
       "first_seen_at": "2026-09-08T01:40:08+00:00",
       "last_seen_at": "2026-09-08T05:58:24+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_747551e3e134455269b0",
+      "title": "MSI、ゴッホの名画を天板にあしらったCore Ultra X9搭載14型2in1",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-16T01:31:39+00:00",
+      "last_seen_at": "2026-09-16T01:31:39+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_053f4fa216fa9d7c5edf",
