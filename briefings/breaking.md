@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-09-16T03:28:45+00:00_
+_Generiert: 2026-09-16T03:45:39+00:00_
 
 ## The AI boom won’t help you scale. Your unit economics will
 
