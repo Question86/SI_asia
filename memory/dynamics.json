@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-16T04:40:59Z",
+  "generated_at": "2026-09-16T04:51:08Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 2,
+      "krass": 3,
       "strong": 9,
-      "watch": 13,
-      "quiet": 16
+      "watch": 14,
+      "quiet": 14
     },
     "bands_after_gate_recheck": {
-      "strong": 11,
-      "watch": 13,
-      "quiet": 16
+      "strong": 12,
+      "watch": 14,
+      "quiet": 14
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/jp/JVN95825631/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-16T12:00:15+09:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://jvn.jp/jp/JVN45281119/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-16T12:00:00+09:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -96,7 +96,7 @@
       "url": "https://e27.co/entering-taiwan-a-practical-resource-map-for-foreign-founders-20260913/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-16T02:55:29+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -144,11 +144,37 @@
       "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
     },
     {
+      "title": "Why some Gen Z graduates are skipping AI degrees entirely, and getting better jobs because of it",
+      "url": "https://e27.co/why-some-gen-z-graduates-are-skipping-ai-degrees-entirely-and-getting-better-jobs-because-of-it-20260916/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-16T04:40:24+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "In 2018, Carnegie Mellon launched the first bachelor of science degree in artificial intelligence in the United States. A handful of universities followed over the next five years. Then 2025 happened. Bachelor’s level AI programs jumped from 90 to 193 in a single year, a 114 percent expansion. Northwestern launched it…"
+    },
+    {
       "title": "Entering Taiwan: A practical resource map for foreign founders",
       "url": "https://e27.co/entering-taiwan-a-practical-resource-map-for-foreign-founders-20260913/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-16T02:30:32+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "ai"
       ],
@@ -173,7 +199,7 @@
       "url": "https://e27.co/asias-research-tech-companies-millions-of-users-and-nearly-invisible-to-funders-and-customers-20260913/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-16T02:30:35+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [],
       "dynamics_score": 24.0,
       "raw_band": "strong",
@@ -197,7 +223,7 @@
       "url": "https://e27.co/bitcoin-falls-3-12-to-75697-61-did-washington-just-kill-the-rally-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-16T04:05:17+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai",
         "macro"
@@ -223,7 +249,7 @@
       "url": "https://jvn.jp/jp/JVN95825631/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-16T03:09:18+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -247,7 +273,7 @@
       "url": "https://jvn.jp/jp/JVN45281119/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-16T03:09:18+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -271,7 +297,7 @@
       "url": "https://e27.co/asias-research-tech-companies-millions-of-users-and-nearly-invisible-to-funders-and-customers-20260913/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-16T02:00:48+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -298,7 +324,7 @@
       "url": "https://e27.co/the-ai-boom-wont-help-you-scale-your-unit-economics-will-20260913/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-16T03:09:18+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -320,11 +346,35 @@
       "summary": ""
     },
     {
+      "title": "VBScript廃止に備えよ！ Windowsライセンス認証の自動化はslmgr.vbsではなくPowerShellで／Microsoftが新モジュール「OSLicense」の利用を呼び掛け",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2141127.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-16T04:01:46+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 18.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月15日）",
       "url": "https://jvn.jp/vu/JVNVU93448623/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 89.11,
+      "age_days": 89.12,
       "topics": [
         "general"
       ],
@@ -424,7 +474,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thrm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-16T02:30:35+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -468,11 +518,11 @@
       "summary": ""
     },
     {
-      "title": "VBScript廃止に備えよ！ Windowsライセンス認証の自動化はslmgr.vbsではなくPowerShellで／Microsoftが新モジュール「OSLicense」の利用を呼び掛け",
-      "url": "https://forest.watch.impress.co.jp/docs/news/2141127.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-16T04:01:46+00:00",
-      "age_days": 0.03,
+      "title": "Japan’s Ricoh backs Singapore’s Intellect in first deal from new US$20M fund",
+      "url": "https://e27.co/japans-ricoh-backs-singapores-intellect-in-first-deal-from-new-us20m-fund-20260916/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-16T04:25:42+00:00",
+      "age_days": 0.02,
       "topics": [
         "general"
       ],
@@ -496,7 +546,7 @@
       "url": "https://www.digital.go.jp/news/0346c21b-29d7-49a6-8f1a-68b0ea784bb4",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-16T01:02:01+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -512,6 +562,30 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "M 5.0 - 60 km SSW of Ocós, Guatemala",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thrz",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-16T04:25:42+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2"
       ],
       "summary": ""
     },
@@ -568,7 +642,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/2141086.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-16T01:31:39+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -588,59 +662,11 @@
       "summary": ""
     },
     {
-      "title": "Japan’s Ricoh backs Singapore’s Intellect in first deal from new US$20M fund",
-      "url": "https://e27.co/japans-ricoh-backs-singapores-intellect-in-first-deal-from-new-us20m-fund-20260916/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-16T04:25:42+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 13.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 5.0 - 60 km SSW of Ocós, Guatemala",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thrz",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-16T04:25:42+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "MSI、ゴッホの名画を天板にあしらったCore Ultra X9搭載14型2in1",
       "url": "https://pc.watch.impress.co.jp/docs/news/2141086.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-15T07:47:07+00:00",
-      "age_days": 0.87,
+      "age_days": 0.88,
       "topics": [
         "general"
       ],
@@ -664,7 +690,7 @@
       "url": "https://e27.co/the-ai-boom-wont-help-you-scale-your-unit-economics-will-20260913/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-16T03:00:41+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -709,6 +735,32 @@
       "summary": "Ricoh, the Japanese office-equipment and digital-services giant, has made its first bet from a freshly launched corporate venture fund and it has chosen mental health as the theme. The company confirmed on Tuesday that it has invested in Intellect, a Singapore-based workplace mental-health platform, through the RICOH…"
     },
     {
+      "title": "Why some Gen Z graduates are skipping AI degrees entirely, and getting better jobs because of it",
+      "url": "https://e27.co/why-some-gen-z-graduates-are-skipping-ai-degrees-entirely-and-getting-better-jobs-because-of-it-20260916/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-16T04:49:38+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 8.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "AI脅威論で異形タッグ、MAGA派バノン氏と急進左派サンダース氏 - 日本経済新聞",
       "url": "https://www.nikkei.com/article/DGXZQOGN15C3B0V10C26A9000000/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -735,37 +787,11 @@
       "summary": "【ワシントン=八十島綾平】急速に進化する人工知能（AI）の規制を巡る議論が熱を帯びるなか、政治的に対極にいるはずのMAGA（米国を再び偉大に）派と急進左派の論客がそろってAI開発の停止や規制強化を訴え始めた。AI規制を求める米非営利団体「フューチャー・オブ・ライフ・インスティテュート（FLI）」が15日にワシン..."
     },
     {
-      "title": "Does the iPhone show us which industries AI will destroy?",
-      "url": "https://e27.co/does-the-iphone-show-us-which-industries-ai-will-destroy-20260916/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-16T04:39:09+00:00",
-      "age_days": 0.0,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 6.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "令和8年熊本地震に関する対応状況について（9月16日）",
       "url": "https://www.digital.go.jp/news/0346c21b-29d7-49a6-8f1a-68b0ea784bb4",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-16T01:00:00+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -785,15 +811,41 @@
       "summary": "令和8年熊本地震に関する対応状況について（9月16日）"
     },
     {
-      "title": "マンガ原稿をクラウドに上げただけでGoogleアカウントBAN Gmailも道連れ……日本では合法なのになぜ？",
-      "url": "https://www.itmedia.co.jp/news/article/2609/16/2000001527/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-16T04:39:09+00:00",
-      "age_days": 0.0,
+      "title": "Bitcoin falls 3.12% to $75,697.61: Did Washington just kill the rally?",
+      "url": "https://e27.co/bitcoin-falls-3-12-to-75697-61-did-washington-just-kill-the-rally-20260916/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-16T04:25:42+00:00",
+      "age_days": 0.02,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 3.5,
+      "dynamics_score": 4.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +2",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Does the iPhone show us which industries AI will destroy?",
+      "url": "https://e27.co/does-the-iphone-show-us-which-industries-ai-will-destroy-20260916/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-16T04:39:09+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 4.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -815,7 +867,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN15C3B0V10C26A9000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T02:10:07+00:00",
-      "age_days": 89.1,
+      "age_days": 89.11,
       "topics": [
         "ai"
       ],
@@ -838,15 +890,15 @@
       "summary": ""
     },
     {
-      "title": "Bitcoin falls 3.12% to $75,697.61: Did Washington just kill the rally?",
-      "url": "https://e27.co/bitcoin-falls-3-12-to-75697-61-did-washington-just-kill-the-rally-20260916/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-16T04:25:42+00:00",
+      "title": "マンガ原稿をクラウドに上げただけでGoogleアカウントBAN Gmailも道連れ……日本では合法なのになぜ？",
+      "url": "https://www.itmedia.co.jp/news/article/2609/16/2000001527/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-16T04:39:09+00:00",
       "age_days": 0.01,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 2.0,
+      "dynamics_score": 1.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -868,7 +920,7 @@
       "url": "https://gigazine.net/news/20260916-google-dodgy-ads-gemini/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 89.11,
+      "age_days": 89.12,
       "topics": [
         "ai"
       ],
@@ -921,7 +973,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/16/2000001527/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-16T03:30:21+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -946,7 +998,7 @@
       "url": "https://note.com/wazawazapan/n/nd438d0a5bc37",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-16T00:21:19+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -965,56 +1017,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "コードも書けない地方のパン屋が、AIで会社をつくり変えた話ご無沙汰しています。長野県東御市（とうみし）で小売業を営む、株式会社わざわざの代表取締役、平田はる香です。 突然ですが、以前のわざわざでは週に1度、2時間ほどの経営会議を開いていました。それが今は、月に一度のMTGで足りるようになりました。理由は..."
-    },
-    {
-      "title": "Googleは自社製高性能AIで怪しい広告をブロックできるはずなのに一体なぜ配信し続けているのか？",
-      "url": "https://gigazine.net/news/20260916-google-dodgy-ads-gemini/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-15T21:03:15+00:00",
-      "age_days": 0.32,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "ウェブサイトを閲覧していると「スマートフォンの容量不足」や「ウイルス感染」を知らせる画面に偽装した詐欺広告が高頻度で表示されます。また、詐欺広告の中には「次へ」とか「ダウンロード」といったウェブサイトのUIの一部に偽装したものも存在しており、非常に悪質です。ソフトウェア開発者のクリス・グリーニング..."
-    },
-    {
-      "title": "「Java 27」正式リリース。全環境でG1 GCがデフォルトに、TLS 1.3用に耐量子暗号のハイブリッドキー交換など新機能",
-      "url": "https://www.publickey1.jp/blog/26/java_27g1_gctls_13.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-15T15:25:18+00:00",
-      "age_days": 0.55,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "「Java 27」正式リリース。全環境でG1 GCがデフォルトに、TLS 1.3用に耐量子暗号のハイブリッドキー交換など新機能 オラクルはJavaの最新バージョン「Java 27」正式版をリリースしました。 Java 27 is now available! #Java27 #JDK27 #OpenJDK Download now: https://t.co/0ZwSLt09RU Release notes: https://t.co/MwnBi..."
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “QNDにおける複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
