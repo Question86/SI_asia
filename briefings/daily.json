@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T01:31:39+00:00",
-  "today_file_total": 5,
+  "generated_at": "2026-09-16T01:52:35+00:00",
+  "today_file_total": 6,
   "current_clusters": [
     {
       "key": "title:cisa-ics-advisory-ics-medical-advisory-2026",
@@ -26,6 +26,29 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
+      "key": "domain:www.nikkei.com",
+      "title": "AI脅威論で異形タッグ、MAGA派バノン氏と急進左派サンダース氏 - 日本経済新聞",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.nikkei.com/article/DGXZQOGN15C3B0V10C26A9000000/"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 15.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "earthquake:m 4.7 - 159 km n of caluula, somalia:4.7",
       "title": "M 4.7 - 159 km N of Caluula, Somalia",
       "sources": [
@@ -49,29 +72,6 @@
         "earthquakes_tsunami"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "title:msi-core-ultra-2in1",
-      "title": "MSI、ゴッホの名画を天板にあしらったCore Ultra X9搭載14型2in1",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://pc.watch.impress.co.jp/docs/news/2141086.html"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 10.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "url:https://www.digital.go.jp/news/0346c21b-29d7-49a6-8f1a-68b0ea784bb4",
@@ -107,6 +107,29 @@
       ],
       "urls": [
         "https://www.publickey1.jp/blog/26/java_27g1_gctls_13.html"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 7.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:msi-core-ultra-2in1",
+      "title": "MSI、ゴッホの名画を天板にあしらったCore Ultra X9搭載14型2in1",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://pc.watch.impress.co.jp/docs/news/2141086.html"
       ],
       "finding_count": 1,
       "max_score": 5,

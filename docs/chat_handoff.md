@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-16T01:31:37+00:00_
+_Generated: 2026-09-16T01:52:32+00:00_
 
 ## Status
 - status: `normal`
-- findings: `5`
+- findings: `6`
 
 ## Top Signals
 
@@ -15,32 +15,32 @@ _Generated: 2026-09-16T01:31:37+00:00_
 - url: https://jvn.jp/vu/JVNVU93448623/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 2. M 4.7 - 159 km N of Caluula, Somalia
+### 2. AI脅威論で異形タッグ、MAGA派バノン氏と急進左派サンダース氏 - 日本経済新聞
+- source: Hatena Bookmark Hotentry IT
+- score: `10`
+- published: `2026-09-15T21:35:20+00:00`
+- url: https://www.nikkei.com/article/DGXZQOGN15C3B0V10C26A9000000/
+- summary: 【ワシントン=八十島綾平】急速に進化する人工知能（AI）の規制を巡る議論が熱を帯びるなか、政治的に対極にいるはずのMAGA（米国を再び偉大に）派と急進左派の論客がそろってAI開発の停止や規制強化を訴え始めた。AI規制を求める米非営利団体「フューチャー・オブ・ライフ・インスティテュート（FLI）」が15日にワシン...
+
+### 3. M 4.7 - 159 km N of Caluula, Somalia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-09-16T00:10:55.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000thr6
 - summary: Time 2026-09-15 23:46:59 UTC 2026-09-15 23:46:59 UTC at epicenter Location 13.412°N 50.731°E Depth 10.00 km (6.21 mi)
 
-### 3. 令和8年熊本地震に関する対応状況について（9月16日）
+### 4. 令和8年熊本地震に関する対応状況について（9月16日）
 - source: Japan Digital Agency News RSS
 - score: `6`
 - published: `2026-09-16T01:00:00+00:00`
 - url: https://www.digital.go.jp/news/0346c21b-29d7-49a6-8f1a-68b0ea784bb4
 - summary: 令和8年熊本地震に関する対応状況について（9月16日）
 
-### 4. 「Java 27」正式リリース。全環境でG1 GCがデフォルトに、TLS 1.3用に耐量子暗号のハイブリッドキー交換など新機能
+### 5. 「Java 27」正式リリース。全環境でG1 GCがデフォルトに、TLS 1.3用に耐量子暗号のハイブリッドキー交換など新機能
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-09-15T15:25:18+00:00`
 - url: https://www.publickey1.jp/blog/26/java_27g1_gctls_13.html
 - summary: 「Java 27」正式リリース。全環境でG1 GCがデフォルトに、TLS 1.3用に耐量子暗号のハイブリッドキー交換など新機能 オラクルはJavaの最新バージョン「Java 27」正式版をリリースしました。 Java 27 is now available! #Java27 #JDK27 #OpenJDK Download now: https://t.co/0ZwSLt09RU Release notes: https://t.co/MwnBi...
-
-### 5. MSI、ゴッホの名画を天板にあしらったCore Ultra X9搭載14型2in1
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-09-15T07:47:07+00:00`
-- url: https://pc.watch.impress.co.jp/docs/news/2141086.html
-- summary: MSI、ゴッホの名画を天板にあしらったCore Ultra X9搭載14型2in1
 
 END OF DOCUMENT
