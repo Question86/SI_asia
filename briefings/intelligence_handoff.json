@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-16T10:50:12Z",
+  "generated_at": "2026-09-16T11:13:04Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Arista EOS: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3287",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-16T10:23:49+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3102",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-16T07:36:31+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -65,7 +65,7 @@
       "url": "https://jvn.jp/jp/JVN95825631/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-16T12:00:15+09:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -89,7 +89,7 @@
       "url": "https://jvn.jp/jp/JVN45281119/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-16T12:00:00+09:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -109,61 +109,11 @@
       "summary": "XikeStor製Layer3スイッチは、認証なしにコンフィグレーションデータをダウンロード可能です。"
     },
     {
-      "title": "VBScript廃止に備えよ！ Windowsライセンス認証の自動化はslmgr.vbsではなくPowerShellで／Microsoftが新モジュール「OSLicense」の利用を呼び掛け",
-      "url": "https://forest.watch.impress.co.jp/docs/news/2141127.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-16T00:26:53+00:00",
-      "age_days": 0.43,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: rce",
-        "security high-signal: rce"
-      ],
-      "summary": "VBScript廃止に備えよ！ Windowsライセンス認証の自動化はslmgr.vbsではなくPowerShellで／Microsoftが新モジュール「OSLicense」の利用を呼び掛け"
-    },
-    {
-      "title": "Angreifer attackieren Acronis Backup für cPanel/WHM und Plesk",
-      "url": "https://www.heise.de/news/Angreifer-attackieren-Acronis-Backup-fuer-cPanel-WHM-und-Plesk-11454681.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-09-16T07:37:00.000+00:00",
-      "age_days": 0.13,
-      "topics": [
-        "ai",
-        "security"
-      ],
-      "dynamics_score": 25.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: security"
-      ],
-      "summary": "Aufgrund von laufenden Attacken müssen Admins Acronis Backup für cPanel/WHM und Plesk aktualisieren."
-    },
-    {
       "title": "Announcing 20260082 (OT,liquidity providing), for 7 days deadline 09:45",
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260082.en.html",
       "source": "ECB Open Market Operations and Communication, ECB Press Releases Speeches Interviews",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 89.84,
+      "age_days": 89.86,
       "topics": [
         "general"
       ],
@@ -182,7 +132,7 @@
         "momentum delta +3",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 89.8d old signal",
+        "aging penalty -8.0 for 89.9d old signal",
         "extreme gate recheck: insufficient independent/current evidence"
       ],
       "summary": ""
@@ -192,7 +142,7 @@
       "url": "https://e27.co/entering-taiwan-a-practical-resource-map-for-foreign-founders-20260913/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-16T02:55:29+00:00",
-      "age_days": 0.33,
+      "age_days": 0.35,
       "topics": [
         "ai"
       ],
@@ -215,11 +165,62 @@
       "summary": ""
     },
     {
+      "title": "[UPDATE] [mittel] libpng: Schwachstelle ermöglicht Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1023",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-16T10:52:55+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: 10",
+        "security high-signal: 10",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in libpng ausnutzen, um Informationen offenzulegen."
+    },
+    {
+      "title": "[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1326",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-16T10:53:18+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein lokaler Angreifer kann eine Schwachstellen im Linux Kernel ausnutzen, um Sicherheitsvorkehrungen zu umgehen."
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月15日）",
       "url": "https://jvn.jp/vu/JVNVU93448623/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-16T09:00:00+09:00",
-      "age_days": 0.45,
+      "age_days": 0.47,
       "topics": [
         "security"
       ],
@@ -244,7 +245,7 @@
       "url": "https://restofworld.org/2026/ai-us-chips-chinese-open-source-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-09-16T10:00:00+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -270,7 +271,7 @@
       "url": "https://e27.co/why-some-gen-z-graduates-are-skipping-ai-degrees-entirely-and-getting-better-jobs-because-of-it-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-16T04:40:24+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "ai"
       ],
@@ -296,7 +297,7 @@
       "url": "https://www.bis.org/speeches/20260916-economic-activity-prices-and-monetary-policy-japan",
       "source": "BIS Central Bankers Speeches",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 89.84,
+      "age_days": 89.86,
       "topics": [
         "general"
       ],
@@ -314,7 +315,7 @@
         "momentum delta +3",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 89.8d old signal",
+        "aging penalty -8.0 for 89.9d old signal",
         "stale single-source cap after 30d: no current exploitation phrase"
       ],
       "summary": ""
