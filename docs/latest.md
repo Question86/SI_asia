@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-16T09:27:46+00:00_
+_Generiert: 2026-09-16T09:41:18+00:00_
 
 ## Kurzlage
 
-37 neue relevante Treffer. Stärkstes Signal: „The Capital-Driven Rise of Modern Business Suites“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
+42 neue relevante Treffer. Stärkstes Signal: „The Capital-Driven Rise of Modern Business Suites“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
 
 ## Priorität Hoch
 
@@ -87,6 +87,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: GitHub Actions (+6.2); Security (+6.0); recent (+1.0)
   - Kurz: Aufgrund von laufenden Attacken müssen Admins Acronis Backup für cPanel/WHM und Plesk aktualisieren.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Economic activity, prices, and monetary policy in Japan** — Score 13, observation — [Quelle](https://www.bis.org/speeches/20260916-economic-activity-prices-and-monetary-policy-japan)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-09-16T00:00:00+00:00`, fetched `2026-09-16T09:40:47+00:00`
+  - Treffer: APAC Trend Radar, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan, Bank of Japan (+2.0)
+  - Kurz: Speech by Mr Hajime Takata, Member of the Policy Board of the Bank of Japan, at a meeting with local leaders, Sapporo, 2 September 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Announcing 20260082 (OT,liquidity providing), for 7 days deadline 09:45** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260082.en.html)
   - Quelle: ECB Open Market Operations and Communication / `rss`
   - Zeit: published `2026-09-16T08:15:22+00:00`, fetched `2026-09-16T07:33:13+00:00`
@@ -150,6 +159,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: United States (+2.0)
   - Kurz: In 2018, Carnegie Mellon launched the first bachelor of science degree in artificial intelligence in the United States. A handful of universities followed over the next five years. Then 2025 happened. Bachelor’s level AI programs jumped from 90 to 193 in a single year, a 114 percent expansion. Northwestern launched its own AI major in […] The post Why some Gen Z graduates are skipping AI degrees entirely, and gettin…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Bank resilience and sustainable growth - two sides of the same coin** — Score 10, observation — [Quelle](https://www.bis.org/speeches/20260916-bank-resilience-and-sustainable-growth-two-sides-same-coin)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-09-16T00:00:00+00:00`, fetched `2026-09-16T09:40:47+00:00`
+  - Treffer: banking, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); banking (+2.0); recent (+1.0); watchgraph region europe: Brussels (+2.0)
+  - Kurz: Contribution by Prof Claudia Buch, Chair of the Supervisory Board of the European Central Bank, at the Bruegel Annual Meetings panel “Future-proofing European banking”, Brussels, 2 September 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AI脅威論で異形タッグ、MAGA派バノン氏と急進左派サンダース氏 - 日本経済新聞** — Score 10, observation — [Quelle](https://www.nikkei.com/article/DGXZQOGN15C3B0V10C26A9000000/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-15T21:35:20+00:00`, fetched `2026-09-16T01:51:59+00:00`
@@ -186,33 +204,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Open Source (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: VBScript廃止に備えよ！ Windowsライセンス認証の自動化はslmgr.vbsではなくPowerShellで／Microsoftが新モジュール「OSLicense」の利用を呼び掛け
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **デジタル庁調達手続マニュアルを更新しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/procurement/manual)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-09-16T06:00:00+00:00`, fetched `2026-09-16T06:34:32+00:00`
-  - Treffer: APAC Trend Radar
+- **The institutional form of independent central banks - from history to contemporary challenges** — Score 9, opportunity — [Quelle](https://www.bis.org/speeches/20260916-institutional-form-independent-central-banks-history-contemporary-challenges)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-09-16T00:00:00+00:00`, fetched `2026-09-16T09:40:47+00:00`
+  - Treffer: Macro/Policy
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: デジタル庁調達手続マニュアルを更新しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **令和8年熊本地震に関する対応状況について（9月16日）** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/0346c21b-29d7-49a6-8f1a-68b0ea784bb4)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-09-16T01:00:00+00:00`, fetched `2026-09-16T01:01:25+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 令和8年熊本地震に関する対応状況について（9月16日）
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「Gyazo」への不正アクセスによる情報漏えいに関するお知らせとお詫び** — Score 5, observation — [Quelle](https://corp.helpfeel.com/news/news-20260916-1)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-16T06:39:20+00:00`, fetched `2026-09-16T07:44:49+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 株式会社Helpfeel（本社：京都府京都市、代表取締役 CEO：洛西一周、以下：当社）が提供する画像共有サービス「Gyazo」において、第三者による不正アクセスが発生し、ユーザー情報およびアップロードされた画像に関するメタデータの一部が外部に漏えいしたことを確認いたしました。 現在、不正アクセスに利用された経路...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: London (+2.0)
+  - Kurz: Speech by Mr Andrew Bailey, Governor of the Bank of England, at the LSE TRIUM Anniversary Conference, London, 4 September 2026.
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Empfehlungen
 

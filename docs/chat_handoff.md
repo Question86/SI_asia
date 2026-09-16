@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-16T09:27:46+00:00_
+_Generated: 2026-09-16T09:41:18+00:00_
 
 ## Status
 - status: `normal`
-- findings: `37`
+- findings: `42`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-09-16T09:27:46+00:00_
 - url: https://www.heise.de/news/Angreifer-attackieren-Acronis-Backup-fuer-cPanel-WHM-und-Plesk-11454681.html
 - summary: Aufgrund von laufenden Attacken müssen Admins Acronis Backup für cPanel/WHM und Plesk aktualisieren.
 
-### 6. Announcing 20260082 (OT,liquidity providing), for 7 days deadline 09:45
+### 6. Economic activity, prices, and monetary policy in Japan
+- source: BIS Central Bankers Speeches
+- score: `13`
+- published: `2026-09-16T00:00:00+00:00`
+- url: https://www.bis.org/speeches/20260916-economic-activity-prices-and-monetary-policy-japan
+- summary: Speech by Mr Hajime Takata, Member of the Policy Board of the Bank of Japan, at a meeting with local leaders, Sapporo, 2 September 2026.
+
+### 7. Announcing 20260082 (OT,liquidity providing), for 7 days deadline 09:45
 - source: ECB Open Market Operations and Communication
 - score: `12`
 - published: `2026-09-16T08:15:22+00:00`
 - url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260082.en.html
 - summary: Announcing 20260082 (OT,liquidity providing), for 7 days deadline 09:45
 
-### 7. Cambodia’s Newwave wins CIFC backing to build AI tools for regional businesses
+### 8. Cambodia’s Newwave wins CIFC backing to build AI tools for regional businesses
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-09-16T07:45:46+00:00`
 - url: https://e27.co/cambodias-newwave-wins-cifc-backing-to-build-ai-tools-for-regional-businesses-20260916/
 - summary: Cambodia’s startup ecosystem is still small by Southeast Asian standards, but its newest crop of founders is starting to build with a wider market in mind. Newwave Tech Foundry, a Phnom Penh-based artificial intelligence and software development company, is o…
-
-### 8. M 4.8 - 47 km WSW of Bahía Solano, Colombia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-09-16T07:28:25.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000thsp
-- summary: Time 2026-09-16 07:02:13 UTC 2026-09-16 07:02:13 UTC at epicenter Location 6.097°N 77.812°W Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
