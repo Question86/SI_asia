@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-16T21:34:23+00:00",
+  "generated_at": "2026-09-16T21:42:53+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 98,
-    "clusters": 61,
+    "findings": 99,
+    "clusters": 62,
     "cross_source_confrmed": 1,
     "hot": 0,
     "early_signals": 0,
@@ -31,20 +31,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 25.78,
+      "network_score": 25.63,
       "hot": false,
       "watchgraph_modules": [
         "ai_agents_workflow"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 30.4,
-      "ranking_score": 25.78,
+      "ranking_score": 25.63,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 2.28,
+      "baseline_bonus": 2.13,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -273,18 +273,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 17.54,
+      "network_score": 17.52,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 22.3,
-      "ranking_score": 17.54,
+      "ranking_score": 17.52,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.04,
+      "baseline_bonus": 0.02,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -2018,6 +2018,44 @@
       "first_seen_at": "2026-09-16T01:02:01+00:00"
     },
     {
+      "key": "title:automate-sso-authorization-classic-pats-ssh-keys",
+      "title": "Automate SSO authorization for classic PATs and SSH keys",
+      "sources": [
+        "GitHub Changelog Atom"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.blog/changelog/2026-09-16-automate-sso-authorization-for-classic-pats-and-ssh-keys"
+      ],
+      "finding_count": 1,
+      "max_score": 3,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 7.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 8.1,
+      "ranking_score": 7.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-16T21:42:53+00:00"
+    },
+    {
       "key": "domain:speakerdeck.com",
       "title": "人間はどの意思決定を手放せるのか",
       "sources": [
@@ -2400,7 +2438,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-16T21:34:23Z",
+    "generated_at": "2026-09-16T21:42:54Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
