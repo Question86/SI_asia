@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-16T08:55:53+00:00_
+_Generiert: 2026-09-16T09:10:13+00:00_
 
 ## Kurzlage
 
-36 neue relevante Treffer. Stärkstes Signal: „The Capital-Driven Rise of Modern Business Suites“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
+37 neue relevante Treffer. Stärkstes Signal: „The Capital-Driven Rise of Modern Business Suites“ aus e27 Asia Startup and Tech Feed (Score 19, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
