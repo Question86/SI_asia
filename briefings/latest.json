@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T14:21:54+00:00",
-  "run_id": "2026-09-16T14:21:54+00:00",
+  "generated_at": "2026-09-16T14:33:09+00:00",
+  "run_id": "2026-09-16T14:33:09+00:00",
   "date": "2026-09-16",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 82,
     "displayed_findings": 82,
     "high": 0,
@@ -3925,31 +3925,7 @@
       "id": "6c67283d1d0369882ac2"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Code scanning AI Scan no longer requires CodeQL default setup",
-      "url": "https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-09-16T13:26:06+00:00",
-      "fetched_at": "2026-09-16T14:21:17+00:00",
-      "summary": "You can now use AI Scan for pull requests to find security vulnerabilities, even when CodeQL default setup isn’t enabled on a repository. Previously, AI Scan for pull requests only… The post Code scanning AI Scan no longer requires CodeQL default setup appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "AI/KI",
-        "CodeQL/Dependabot",
-        "GitHub",
-        "Security"
-      ],
-      "relevance_score": 22,
-      "relevance_reason": "CodeQL/Dependabot (+8.8); AI/KI (+3.8); Security (+6.0); GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "003fbfd6145c696a0cda"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

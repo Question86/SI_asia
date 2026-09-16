@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-16T14:21:54+00:00_
+_Generiert: 2026-09-16T14:33:09+00:00_
 
 ## Kurzlage
 
@@ -37,10 +37,10 @@ _Generiert: 2026-09-16T14:21:54+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Sri Lanka
-- **GDACS: Green notification for tropical cyclone TWENTYFOUR-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001322)
+- **GDACS: Green notification for tropical cyclone DUJUAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001322)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green notification for tropical cyclone TWENTYFOUR-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+  - Kurz: Green notification for tropical cyclone DUJUAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 - **GDACS: Green earthquake (Magnitude 5.6M, Depth:162.179km) in Indonesia 14/09/2026 10:58 UTC, 330 thousand in MMI III.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1565203)
   - Quelle: GDACS
   - Zeit: ``
