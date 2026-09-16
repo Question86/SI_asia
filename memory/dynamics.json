@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-16T05:42:32Z",
+  "generated_at": "2026-09-16T06:23:53Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "krass": 3,
       "strong": 9,
-      "watch": 14,
-      "quiet": 14
+      "watch": 15,
+      "quiet": 13
     },
     "bands_after_gate_recheck": {
       "strong": 12,
-      "watch": 14,
-      "quiet": 14
+      "watch": 15,
+      "quiet": 13
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/jp/JVN95825631/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-16T12:00:15+09:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://jvn.jp/jp/JVN45281119/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-16T12:00:00+09:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -71,7 +71,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2141127.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-16T00:26:53+00:00",
-      "age_days": 0.22,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -96,7 +96,7 @@
       "url": "https://e27.co/entering-taiwan-a-practical-resource-map-for-foreign-founders-20260913/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-16T02:55:29+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -123,7 +123,7 @@
       "url": "https://jvn.jp/vu/JVNVU93448623/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-16T09:00:00+09:00",
-      "age_days": 0.24,
+      "age_days": 0.27,
       "topics": [
         "security"
       ],
@@ -148,7 +148,7 @@
       "url": "https://e27.co/why-some-gen-z-graduates-are-skipping-ai-degrees-entirely-and-getting-better-jobs-because-of-it-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-16T04:40:24+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -174,7 +174,7 @@
       "url": "https://e27.co/entering-taiwan-a-practical-resource-map-for-foreign-founders-20260913/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-16T02:30:32+00:00",
-      "age_days": 0.13,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -199,7 +199,7 @@
       "url": "https://e27.co/asias-research-tech-companies-millions-of-users-and-nearly-invisible-to-funders-and-customers-20260913/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-16T02:30:35+00:00",
-      "age_days": 0.13,
+      "age_days": 0.16,
       "topics": [],
       "dynamics_score": 24.0,
       "raw_band": "strong",
@@ -223,7 +223,7 @@
       "url": "https://e27.co/bitcoin-falls-3-12-to-75697-61-did-washington-just-kill-the-rally-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-16T04:05:17+00:00",
-      "age_days": 0.07,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "macro"
@@ -249,7 +249,7 @@
       "url": "https://jvn.jp/jp/JVN95825631/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-16T03:09:18+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -273,7 +273,7 @@
       "url": "https://jvn.jp/jp/JVN45281119/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-16T03:09:18+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -297,7 +297,7 @@
       "url": "https://e27.co/asias-research-tech-companies-millions-of-users-and-nearly-invisible-to-funders-and-customers-20260913/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-16T02:00:48+00:00",
-      "age_days": 0.15,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -320,11 +320,39 @@
       "summary": "A new class of AI tools has changed how research gets done. These tools help researchers gather and present their work, sift thousands of papers in minutes, flag fabricated data in submissions, and, more broadly, are authoring the future of scientific presentation and communication. Already, millions of scientists use…"
     },
     {
+      "title": "ChatGPT共同開発者がLLMとは異なる方法で処理するAIモデル「Jev」を開発、GPT-5.6 Terra級の性能でタスクを安価かつ超高速に実行可能",
+      "url": "https://gigazine.net/news/20260916-system-one-jev/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T01:58:32+00:00",
+      "age_days": 89.18,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 19.17,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 10.43,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 10.43",
+        "single-source AI hype brake -8.0",
+        "aging penalty -8.0 for 89.2d old signal",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "The AI boom won’t help you scale. Your unit economics will",
       "url": "https://e27.co/the-ai-boom-wont-help-you-scale-your-unit-economics-will-20260913/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-16T03:09:18+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -350,7 +378,7 @@
       "url": "https://e27.co/japans-ricoh-backs-singapores-intellect-in-first-deal-from-new-us20m-fund-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-16T04:25:42+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -374,7 +402,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2141127.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-16T04:01:46+00:00",
-      "age_days": 0.07,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -398,7 +426,7 @@
       "url": "https://jvn.jp/vu/JVNVU93448623/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 89.16,
+      "age_days": 89.18,
       "topics": [
         "general"
       ],
@@ -423,7 +451,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thrz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-16T04:02:44.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -448,7 +476,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thrm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-16T02:21:22.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.17,
       "topics": [
         "disaster"
       ],
@@ -473,7 +501,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thr6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-16T00:10:55.040+00:00",
-      "age_days": 0.23,
+      "age_days": 0.26,
       "topics": [
         "disaster"
       ],
@@ -498,7 +526,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thrz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-16T04:25:42+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -522,7 +550,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thrm",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-16T02:30:35+00:00",
-      "age_days": 0.13,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -546,7 +574,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thr6",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-16T00:13:34+00:00",
-      "age_days": 0.23,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -570,7 +598,7 @@
       "url": "https://www.digital.go.jp/news/0346c21b-29d7-49a6-8f1a-68b0ea784bb4",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-16T01:02:01+00:00",
-      "age_days": 0.19,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -594,7 +622,7 @@
       "url": "https://note.com/wazawazapan/n/nd438d0a5bc37",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 15.46,
+      "age_days": 15.49,
       "topics": [
         "general"
       ],
@@ -618,7 +646,7 @@
       "url": "https://www.publickey1.jp/blog/26/java_27g1_gctls_13.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-16T00:13:34+00:00",
-      "age_days": 0.23,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -642,7 +670,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/2141086.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-16T01:31:39+00:00",
-      "age_days": 0.17,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -662,11 +690,63 @@
       "summary": ""
     },
     {
+      "title": "CXA founder Rosaline Chow Koo returns with Covee, an AI tool for benefits brokers",
+      "url": "https://e27.co/cxa-founder-rosaline-chow-koo-returns-with-covee-an-ai-tool-for-benefits-brokers-20260916/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-16T04:57:02+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 11.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Why some Gen Z graduates are skipping AI degrees entirely, and getting better jobs because of it",
+      "url": "https://e27.co/why-some-gen-z-graduates-are-skipping-ai-degrees-entirely-and-getting-better-jobs-because-of-it-20260916/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-16T04:49:38+00:00",
+      "age_days": 0.07,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 11.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "MSI、ゴッホの名画を天板にあしらったCore Ultra X9搭載14型2in1",
       "url": "https://pc.watch.impress.co.jp/docs/news/2141086.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-15T07:47:07+00:00",
-      "age_days": 0.91,
+      "age_days": 0.94,
       "topics": [
         "general"
       ],
@@ -690,7 +770,7 @@
       "url": "https://e27.co/does-the-iphone-show-us-which-industries-ai-will-destroy-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-16T04:39:09+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -716,7 +796,7 @@
       "url": "https://e27.co/the-ai-boom-wont-help-you-scale-your-unit-economics-will-20260913/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-16T03:00:41+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -741,7 +821,7 @@
       "url": "https://e27.co/japans-ricoh-backs-singapores-intellect-in-first-deal-from-new-us20m-fund-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-16T04:01:18+00:00",
-      "age_days": 0.07,
+      "age_days": 0.1,
       "topics": [
         "macro"
       ],
@@ -761,37 +841,36 @@
       "summary": "Ricoh, the Japanese office-equipment and digital-services giant, has made its first bet from a freshly launched corporate venture fund and it has chosen mental health as the theme. The company confirmed on Tuesday that it has invested in Intellect, a Singapore-based workplace mental-health platform, through the RICOH…"
     },
     {
-      "title": "Why some Gen Z graduates are skipping AI degrees entirely, and getting better jobs because of it",
-      "url": "https://e27.co/why-some-gen-z-graduates-are-skipping-ai-degrees-entirely-and-getting-better-jobs-because-of-it-20260916/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-16T04:49:38+00:00",
-      "age_days": 0.04,
+      "title": "ChatGPT共同開発者がLLMとは異なる方法で処理するAIモデル「Jev」を開発、GPT-5.6 Terra級の性能でタスクを安価かつ超高速に実行可能",
+      "url": "https://gigazine.net/news/20260916-system-one-jev/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-16T02:49:52+00:00",
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 8.5,
+      "dynamics_score": 8.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 0,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +2",
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],
-      "summary": ""
+      "summary": "AI企業のTypeSafe AIが大規模言語モデル(LLM)とは異なるアプローチでタスクを解決するAI「System One Models」と、System One Modelsの第1弾モデルである「Jev」を現地時間の2026年9月15日に発表しました。TypeSafe AIはChatGPTの開発に携わったAI研究者であるディオゴ・アルメイダ氏がCEOを務める企業で、LLMとは根本的..."
     },
     {
       "title": "Bitcoin falls 3.12% to $75,697.61: Did Washington just kill the rally?",
       "url": "https://e27.co/bitcoin-falls-3-12-to-75697-61-did-washington-just-kill-the-rally-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-16T04:25:42+00:00",
-      "age_days": 0.05,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -817,7 +896,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN15C3B0V10C26A9000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-15T21:35:20+00:00",
-      "age_days": 0.34,
+      "age_days": 0.37,
       "topics": [
         "ai"
       ],
@@ -839,37 +918,11 @@
       "summary": "【ワシントン=八十島綾平】急速に進化する人工知能（AI）の規制を巡る議論が熱を帯びるなか、政治的に対極にいるはずのMAGA（米国を再び偉大に）派と急進左派の論客がそろってAI開発の停止や規制強化を訴え始めた。AI規制を求める米非営利団体「フューチャー・オブ・ライフ・インスティテュート（FLI）」が15日にワシン..."
     },
     {
-      "title": "CXA founder Rosaline Chow Koo returns with Covee, an AI tool for benefits brokers",
-      "url": "https://e27.co/cxa-founder-rosaline-chow-koo-returns-with-covee-an-ai-tool-for-benefits-brokers-20260916/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-16T04:57:02+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "マンガ原稿をクラウドに上げただけでGoogleアカウントBAN Gmailも道連れ……日本では合法なのになぜ？",
       "url": "https://www.itmedia.co.jp/news/article/2609/16/2000001527/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-16T04:39:09+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -895,7 +948,7 @@
       "url": "https://www.digital.go.jp/news/0346c21b-29d7-49a6-8f1a-68b0ea784bb4",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-16T01:00:00+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -919,7 +972,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN15C3B0V10C26A9000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T02:10:07+00:00",
-      "age_days": 89.15,
+      "age_days": 89.18,
       "topics": [
         "ai"
       ],
@@ -936,7 +989,7 @@
       "why": [
         "momentum delta +3",
         "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 89.1d old signal",
+        "aging penalty -8.0 for 89.2d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -946,7 +999,7 @@
       "url": "https://e27.co/cxa-founder-rosaline-chow-koo-returns-with-covee-an-ai-tool-for-benefits-brokers-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-16T04:51:58+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "macro"
@@ -966,59 +1019,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Rosaline Chow Koo has spent much of her career trying to make corporate health benefits less rigid, less opaque and, ultimately, less expensive. Her last company, CXA, attacked the problem from the employee side, giving workers more room to customise their benefits while helping employers manage costs. Now, at 65, she…"
-    },
-    {
-      "title": "Googleは自社製高性能AIで怪しい広告をブロックできるはずなのに一体なぜ配信し続けているのか？",
-      "url": "https://gigazine.net/news/20260916-google-dodgy-ads-gemini/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 89.16,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 89.2d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Does the iPhone show us which industries AI will destroy?",
-      "url": "https://e27.co/does-the-iphone-show-us-which-industries-ai-will-destroy-20260916/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-16T04:30:00+00:00",
-      "age_days": 0.05,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "The iPhone did not destroy the compact camera because it was a better camera. It destroyed much of the market because it was already in people’s pockets. A dedicated camera could take better photographs. A specialist GPS unit could navigate more reliably. An iPod could be a better music player. But owning the speciali…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “QNDにおける複数の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
