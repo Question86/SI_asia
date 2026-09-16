@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-09-16T02:01:28+00:00",
+  "generated_at": "2026-09-16T02:31:04+00:00",
   "fx_as_of": null,
-  "candidate_count": 684,
+  "candidate_count": 688,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 684
+    "pending": 688
   },
   "coverage_warning": null,
   "candidates": [
@@ -8108,6 +8108,48 @@
       "source_url": "https://e27.co/how-hong-kong-solves-techs-hardest-problem-the-final-mile-to-market-20260915/"
     },
     {
+      "amount_native": 50000000.0,
+      "amount_usd": 50000000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.55,
+      "candidate_id": "cand_cc561e9ddd4d258c414e",
+      "component_suggestion": "capital_allocation",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_7414f27d6e9f6150512a",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-16T02:30:55+00:00",
+      "overlap_group_suggestion": "evt_7414f27d6e9f6150512a:capital_allocation:16a051a7b684",
+      "review_status": "pending",
+      "snippet": "data Defi E-Commerce Hardware Retail Artificial Intelligence Cryptocurrency Education Healthtech Software As A Service View all Startups --> POSTS STARTUPS Tech Innovators secured $50 million in funding from Venture Capitalist Alpha, paving the way for groundbreaking advancements in artificial intelligence. Discover the power of AI in transforming your daily tasks! Wit",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://e27.co/asias-research-tech-companies-millions-of-users-and-nearly-invisible-to-funders-and-customers-20260913/",
+      "component_confidence": 0.55,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
+    },
+    {
+      "amount_native": 50000000.0,
+      "amount_usd": 50000000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.55,
+      "candidate_id": "cand_502403cd11e3e9f5eb51",
+      "component_suggestion": "capital_allocation",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_7414f27d6e9f6150512a",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-16T02:30:55+00:00",
+      "overlap_group_suggestion": "evt_7414f27d6e9f6150512a:capital_allocation:f3a8ffe32888",
+      "review_status": "pending",
+      "snippet": "cial intelligence. Discover the power of AI in transforming your daily tasks! With intelligent algorithms, we enhance productivity and streamline workflows. AI Innovations Secures $50 Million in Funding from Visionary Investor Experience the future with AI-driven solutions that simplify complex processes and boost efficiency in your work environment. View all Posts Xam",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://e27.co/asias-research-tech-companies-millions-of-users-and-nearly-invisible-to-funders-and-customers-20260913/",
+      "component_confidence": 0.55,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
+    },
+    {
       "amount_native": 44000000.0,
       "amount_usd": 44000000.0,
       "attribution_probability": null,
@@ -14166,6 +14208,44 @@
       "snippet": "ports increasing by only 2.7%, driven by imports of intermediate goods, and with both primary and secondary income contributing positively, the current account deficit narrowed to EUR 560 mn, which is almost 70% lower in y-o-y terms. Over the same period, the net FDI inflow fully covered the current account deficit. And before I thank you for your attention, I would l",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://www.bis.org/speeches/20260907-address-56th-session-committee-finance-state-budget-and-control-public-spending"
+    },
+    {
+      "amount_native": 3000.0,
+      "amount_usd": null,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_6c3b36d744fee0a7acca",
+      "component_suggestion": "unknown",
+      "conversion_status": "missing_rate",
+      "currency": "JPY",
+      "event_id": "evt_2e9d9ec03302056d3575",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-16T02:30:59+00:00",
+      "overlap_group_suggestion": "evt_2e9d9ec03302056d3575:unknown:c9d85ffa3e8b",
+      "review_status": "pending",
+      "snippet": "社長はエンジニア｜平田 はる香 投稿 ログイン 会員登録 社長はエンジニア 130 返金可 平田 はる香 2026年9月16日 07:41 ¥3,000 コードも書けない地方のパン屋が、AIで会社をつくり変えた話 ご無沙汰しています。長野県東御市（とうみし）で小売業を営む、株式会社わざわざの代表取締役、平田はる香です。 突然ですが、以前のわざわざでは週に1度、2時間ほどの経営会議を開いていました。それが今は、月に一度のMTGで足りるようになりました。理由は単純で、経営の状況がほぼリアルタイムで掴めるようになっ",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://note.com/wazawazapan/n/nd438d0a5bc37",
+      "component_confidence": 0.0
+    },
+    {
+      "amount_native": 3000.0,
+      "amount_usd": null,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_5a4f3960ea5a967a577c",
+      "component_suggestion": "unknown",
+      "conversion_status": "missing_rate",
+      "currency": "JPY",
+      "event_id": "evt_2e9d9ec03302056d3575",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-16T02:30:59+00:00",
+      "overlap_group_suggestion": "evt_2e9d9ec03302056d3575:unknown:096dfc284655",
+      "review_status": "pending",
+      "snippet": "。これからが本番です。これからのわざわざがどんな風に変わっていくのか、誰より私自身が楽しみにしています。また、ご報告できる日をお楽しみに。 有料版：巻末付録(実際に作ったものと解説) 有料版では具体的に何を作ったのか？どんな使い方をしているのか？本編には登場しない細かい機能を主に解説します。 ダウンロード copy ここから先は 7,436字 / 20画像 ¥ 3,000 Amazon Payで支払うと 最大2%還元のチャンス！ 9/30まで 購入手続きへ 3 人が高評価 ログイン #AI #データ #商品 #システム #開発 #店舗 #長野 #パン屋 #小売業 130 この記事が気に入ったらチップで応援してみませんか？ チップで応援 平田 はる香 フォロー 株式会社わざわざ代表取締役 長野県東御市でパンと日用品の店「わざわざ",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://note.com/wazawazapan/n/nd438d0a5bc37",
+      "component_confidence": 0.0
     }
   ]
 }
