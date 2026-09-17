@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-17T19:39:11+00:00_
+_Generiert: 2026-09-17T19:46:42+00:00_
 
 ## Kurzlage
 
-70 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [mittel] Red Hat Enterprise Linux (firewalld, leapp-repository, tesseract): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 18, observation).
+71 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [mittel] Red Hat Enterprise Linux (firewalld, leapp-repository, tesseract): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 18, observation).
 
 ## Priorität Hoch
 
@@ -249,14 +249,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
   - Kurz: A customer in Jakarta spends 20 minutes explaining a billing dispute to a chatbot, gets bounced to a human agent, and has to start the story over from scratch. Multiply that across the millions of AI-mediated conversations happening daily across the region, and you get a sense of the trust deficit quietly building beneath Asia […] The post “AI amnesia” is quietly costing Southeast Asian brands their customers appear…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.7 - 107 km SE of Vilyuchinsk, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti1h)
+- **M 4.9 - northern Mid-Atlantic Ridge** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti5b)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-17T14:02:07.040+00:00`, fetched `2026-09-17T14:22:32+00:00`
+  - Zeit: published `2026-09-17T19:40:19.040+00:00`, fetched `2026-09-17T19:46:14+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-17 13:30:49 UTC 2026-09-17 13:30:49 UTC at epicenter Location 52.233°N 159.498°E Depth 57.43 km (35.68 mi)
+  - Kurz: Time 2026-09-17 19:19:06 UTC 2026-09-17 19:19:06 UTC at epicenter Location 30.162°N 42.149°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Empfehlungen
