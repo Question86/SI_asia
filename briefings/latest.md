@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-17T11:42:14+00:00_
+_Generiert: 2026-09-17T11:57:56+00:00_
 
 ## Kurzlage
 
-53 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [mittel] Red Hat Enterprise Linux (firewalld, leapp-repository, tesseract): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 18, observation).
+57 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [mittel] Red Hat Enterprise Linux (firewalld, leapp-repository, tesseract): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 18, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -50,7 +50,7 @@ _Generiert: 2026-09-17T11:42:14+00:00_
 
 - Kein aktives Signal aus den konfigurierten globalen Sensoren.
 
-- Sensor-Hinweis: Yahoo finance failed: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v7/finance/quote?symbols=BTC-USD,ETH-USD,GC%3DF,SI%3DF,GLD,SLV,SPY,QQQ,%5EGSPC,%5EIXIC,%5EDJI,%5EVIX,DX-Y.NYB,CL%3DF,COIN,MSTR,IBIT
+- Sensor-Hinweis: Yahoo finance failed: 401 Client Error: Unauthorized for url: https://query1.finance.yahoo.com/v7/finance/quote?symbols=BTC-USD,ETH-USD,GC%3DF,SI%3DF,GLD,SLV,SPY,QQQ,%5EGSPC,%5EIXIC,%5EDJI,%5EVIX,DX-Y.NYB,CL%3DF,COIN,MSTR,IBIT
 
 <!-- SENNA_GLOBAL_WATCHDOGS:END -->
 
@@ -79,14 +79,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); Webentwicklung (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
   - Kurz: Ein Angreifer kann mehrere Schwachstellen in Atlassian Bamboo, Bitbucket, Confluence, Fisheye/Crucible, Jira Software und Jira Service Management ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, serverseitige Request-Forgery-Angriffe (SSRF) durchzuführen, Cross-Site-Scripting-Angriffe zu starten, sensible Informationen offenzulegen, Daten zu manipulieren oder Denial-of-Service-Zust…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3412)
+- **[NEU] [mittel] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3438)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-09-17T09:31:32+00:00`, fetched `2026-09-17T09:44:14+00:00`
+  - Zeit: published `2026-09-17T11:41:31+00:00`, fetched `2026-09-17T11:57:27+00:00`
   - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um Speicher zu beschädigen oder offenzulegen, den Kernel oder den Systemzustand zu manipulieren oder Denial-of-Service-Zustände, einschließlich Kernel-Abstürzen, zu verursachen.
+  - Kurz: Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service zu verursachen oder eine nicht näher spezifizierte Auswirkung zu erzielen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Paid to be quoted: The creator revenue line Southeast Asia hasn’t priced yet** — Score 16, observation — [Quelle](https://e27.co/paid-to-be-quoted-the-creator-revenue-line-southeast-asia-hasnt-priced-yet-20260914/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`

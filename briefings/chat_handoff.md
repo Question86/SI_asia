@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-17T11:42:14+00:00_
+_Generated: 2026-09-17T11:57:56+00:00_
 
 ## Status
 - status: `normal`
-- findings: `53`
+- findings: `57`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-09-17T11:42:14+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3376
 - summary: Ein Angreifer kann mehrere Schwachstellen in Atlassian Bamboo, Bitbucket, Confluence, Fisheye/Crucible, Jira Software und Jira Service Management ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, serverseitige Request-Forgery…
 
-### 3. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen
+### 3. [NEU] [mittel] Linux Kernel: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-09-17T11:41:31+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3438
+- summary: Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service zu verursachen oder eine nicht näher spezifizierte Auswirkung zu erzielen.
+
+### 4. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-09-17T09:31:32+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3412
 - summary: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um Speicher zu beschädigen oder offenzulegen, den Kernel oder den Systemzustand zu manipulieren oder Denial-of-Service-Zustände, einschließlich Kernel-Abstürzen, zu verursachen.
-
-### 4. Paid to be quoted: The creator revenue line Southeast Asia hasn’t priced yet
-- source: e27 Asia Startup and Tech Feed
-- score: `16`
-- published: `2026-09-17T03:00:21+00:00`
-- url: https://e27.co/paid-to-be-quoted-the-creator-revenue-line-southeast-asia-hasnt-priced-yet-20260914/
-- summary: When we run citation checks for clients at ESBO Ltd, my agency, the sources assistants quote for buying questions are rarely brand websites or big media. They are creators: a YouTube comparison from someone who tested four products on camera, or a forum threa…
 
 ### 5. Warnung vor Cyberattacken auf Google Pixel, Cisco ISE und Acronis Backup
 - source: heise Security Alerts
