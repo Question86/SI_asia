@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T17:18:00+00:00",
-  "run_id": "2026-09-17T17:18:00+00:00",
+  "generated_at": "2026-09-17T17:28:08+00:00",
+  "run_id": "2026-09-17T17:28:08+00:00",
   "date": "2026-09-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 69,
     "displayed_findings": 69,
     "high": 0,
@@ -3383,29 +3383,7 @@
       "id": "451e6aa48c585d187515"
     }
   ],
-  "new_findings": [
-    {
-      "title": "日本標準時の供給サービスにおける異常の発生について｜2026年｜NICT-情報通信研究機構",
-      "url": "https://www.nict.go.jp/publicity/topics/2026/09/11-1.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-17T10:11:39+00:00",
-      "fetched_at": "2026-09-17T17:17:33+00:00",
-      "summary": "2026年9月9日、公開NTPに関わる装置に異常が発生し、冗長系の一部から誤った時刻が配信されました。ユーザーの皆さまにはご迷惑をおかけしたことをお詫び申し上げます。 原因について調査を進めておりますが、現在までに判明しております状況について、ご説明申し上げます。",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e805b8c3c0e2a4790ebd"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
