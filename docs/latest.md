@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-17T09:12:15+00:00_
+_Generiert: 2026-09-17T09:30:35+00:00_
 
 ## Kurzlage
 
-35 neue relevante Treffer. Stärkstes Signal: „Paid to be quoted: The creator revenue line Southeast Asia hasn’t priced yet“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
+36 neue relevante Treffer. Stärkstes Signal: „Paid to be quoted: The creator revenue line Southeast Asia hasn’t priced yet“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
 
 ## Priorität Hoch
 
@@ -132,14 +132,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: ここのところ、動画編集ツールのエージェンティックAI対応が続いている。ここまで米Adobeの「ChatGPT」用プラグインと、新進気鋭の編集ツール「Palmier Pro」をご紹介した。3つめは「DaVinci Resolve」である。 9月8日に公開された新バージョン21.1ではさまざまな機能強化が図られているところだが、最大の特徴はエージ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Databricks doubles down on Singapore with US$350M AI investment plan** — Score 10, observation — [Quelle](https://e27.co/databricks-doubles-down-on-singapore-with-us350m-ai-investment-plan-20260917/)
+- **“AI amnesia” is quietly costing Southeast Asian brands their customers** — Score 10, observation — [Quelle](https://e27.co/ai-amnesia-is-quietly-costing-southeast-asian-brands-their-customers-20260917/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-17T05:25:11+00:00`, fetched `2026-09-17T05:33:13+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
+  - Zeit: published `2026-09-17T09:19:12+00:00`, fetched `2026-09-17T09:30:01+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: Databricks is putting more weight behind Singapore as large companies across Asia shift from experimenting with artificial intelligence to trying to run it safely inside their core operations. The US data and AI company said it will invest more than US$350 million in Singapore over the next three years, expand into a new 32,000-square-foot regional […] The post Databricks doubles down on Singapore with US$350M AI in…
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
+  - Kurz: A customer in Jakarta spends 20 minutes explaining a billing dispute to a chatbot, gets bounced to a human agent, and has to start the story over from scratch. Multiply that across the millions of AI-mediated conversations happening daily across the region, and you get a sense of the trust deficit quietly building beneath Asia […] The post “AI amnesia” is quietly costing Southeast Asian brands their customers appear…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.0 - South Atlantic Ocean** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000thzz)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
