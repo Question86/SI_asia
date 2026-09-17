@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T03:15:13+00:00",
-  "run_id": "2026-09-17T03:15:13+00:00",
+  "generated_at": "2026-09-17T03:34:43+00:00",
+  "run_id": "2026-09-17T03:34:43+00:00",
   "date": "2026-09-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 14
+      "configured_public_sources_only": 15
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 14,
-    "displayed_findings": 14,
+    "today_file_total": 15,
+    "displayed_findings": 15,
     "high": 0,
     "medium": 3,
-    "observe": 11,
+    "observe": 12,
     "source_errors": 0
   },
   "sections": {
@@ -249,6 +249,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "6a62ea0199c14b06397b"
+      },
+      {
+        "title": "副詞誤訳シリーズ（翻訳書の『明らかに』『効果的に』『技術的に』には特に要注意） - hsjoihs’s diary",
+        "url": "https://hsjoihs.hatenablog.com/entry/2026/09/17/101650",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-17T02:18:17+00:00",
+        "fetched_at": "2026-09-17T03:34:14+00:00",
+        "summary": "TL;DR 「（本当にそうというわけではないが、）事実上」と訳すべき effectively が「効果的に」と訳されてしまう 「見たところどうやら〜のようである」と訳すべき apparently が「明らかに」と訳されてしまう 「一見まるで〜かのように見える（しかし、実際にはそうではないので、見かけに騙されてはいけない）」の意味...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0800040a596dd46b8de7"
       },
       {
         "title": "WELQ問題からE-E-A-Tへ。SEOが社会に与えた影響と功罪｜住太陽×辻正浩対談 第3回 | Web担当者Forum",
@@ -557,6 +578,27 @@
       "id": "6a62ea0199c14b06397b"
     },
     {
+      "title": "副詞誤訳シリーズ（翻訳書の『明らかに』『効果的に』『技術的に』には特に要注意） - hsjoihs’s diary",
+      "url": "https://hsjoihs.hatenablog.com/entry/2026/09/17/101650",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-17T02:18:17+00:00",
+      "fetched_at": "2026-09-17T03:34:14+00:00",
+      "summary": "TL;DR 「（本当にそうというわけではないが、）事実上」と訳すべき effectively が「効果的に」と訳されてしまう 「見たところどうやら〜のようである」と訳すべき apparently が「明らかに」と訳されてしまう 「一見まるで〜かのように見える（しかし、実際にはそうではないので、見かけに騙されてはいけない）」の意味...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0800040a596dd46b8de7"
+    },
+    {
       "title": "WELQ問題からE-E-A-Tへ。SEOが社会に与えた影響と功罪｜住太陽×辻正浩対談 第3回 | Web担当者Forum",
       "url": "https://webtan.impress.co.jp/e/2026/09/17/53178",
       "source": "Hatena Bookmark Hotentry IT",
@@ -643,27 +685,25 @@
   ],
   "new_findings": [
     {
-      "title": "Paid to be quoted: The creator revenue line Southeast Asia hasn’t priced yet",
-      "url": "https://e27.co/paid-to-be-quoted-the-creator-revenue-line-southeast-asia-hasnt-priced-yet-20260914/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "副詞誤訳シリーズ（翻訳書の『明らかに』『効果的に』『技術的に』には特に要注意） - hsjoihs’s diary",
+      "url": "https://hsjoihs.hatenablog.com/entry/2026/09/17/101650",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-17T03:00:21+00:00",
-      "fetched_at": "2026-09-17T03:14:40+00:00",
-      "summary": "When we run citation checks for clients at ESBO Ltd, my agency, the sources assistants quote for buying questions are rarely brand websites or big media. They are creators: a YouTube comparison from someone who tested four products on camera, or a forum thread with real numbers in it. The people being quoted are, almost […] The post Paid to be quoted: The creator revenue line Southeast Asia hasn’t priced yet appeare…",
+      "published_at": "2026-09-17T02:18:17+00:00",
+      "fetched_at": "2026-09-17T03:34:14+00:00",
+      "summary": "TL;DR 「（本当にそうというわけではないが、）事実上」と訳すべき effectively が「効果的に」と訳されてしまう 「見たところどうやら〜のようである」と訳すべき apparently が「明らかに」と訳されてしまう 「一見まるで〜かのように見える（しかし、実際にはそうではないので、見かけに騙されてはいけない）」の意味...",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Public Health",
-        "Southeast Asia",
-        "Webentwicklung"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 16,
-      "relevance_reason": "Webentwicklung (+3.0); APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region europe: Paris (+2.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "2b9f58a345a13215acde"
+      "id": "0800040a596dd46b8de7"
     }
   ],
   "source_errors": [],
