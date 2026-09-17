@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T14:34:48+00:00",
-  "today_file_total": 65,
+  "generated_at": "2026-09-17T14:45:24+00:00",
+  "today_file_total": 66,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -103,8 +103,8 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "earthquake:alaska:6.4",
-      "title": "M 6.4 - 163 km WSW of Nikolski, Alaska",
+      "key": "earthquake:alaska:6.5",
+      "title": "M 6.5 - 166 km W of Nikolski, Alaska",
       "sources": [
         "USGS M4.5+ Earthquakes Past Hour"
       ],
@@ -112,7 +112,7 @@
         "tier1_official"
       ],
       "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026slmipb"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti1p"
       ],
       "finding_count": 1,
       "max_score": 11,
@@ -337,6 +337,31 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
+      "key": "earthquake:alaska:6.4",
+      "title": "M 6.4 - 163 km WSW of Nikolski, Alaska",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026slmipb"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 13.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
       "key": "title:mobile-next-trillion-won-come-connectivity",
       "title": "Mobile’s next US$4.5 trillion won’t come from connectivity",
       "sources": [
@@ -439,29 +464,6 @@
       ],
       "urls": [
         "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1163/"
-      ],
-      "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 13.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:multiples-vuln-rabilit-dans-noyau-linux-ubuntu-septembre",
-      "title": "Multiples vulnérabilités dans le noyau Linux d'Ubuntu (11 septembre 2026)",
-      "sources": [
-        "CERT-FR Avis de sécurité"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1162/"
       ],
       "finding_count": 1,
       "max_score": 11,

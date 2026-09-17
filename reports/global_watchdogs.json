@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-17T14:34:48+00:00",
+  "generated_at": "2026-09-17T14:45:24+00:00",
   "sections": {
     "global_security": [
       {
         "domain": "security",
         "severity": "high",
-        "title": "USGS earthquake M6.4 - 163 km WSW of Nikolski, Alaska",
-        "summary": "M6.4 - 163 km WSW of Nikolski, Alaska. PAGER alert: none. Tsunami flag: 1.",
+        "title": "USGS earthquake M6.5 - 166 km W of Nikolski, Alaska",
+        "summary": "M6.5 - 166 km W of Nikolski, Alaska. PAGER alert: none. Tsunami flag: 1.",
         "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026slmipb",
-        "published_at": "2026-09-17T14:19:53+00:00",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti1p",
+        "published_at": "2026-09-17T14:19:52+00:00",
         "metrics": {
-          "mag": 6.4,
+          "mag": 6.5,
           "alert": "",
-          "sig": 631.0,
+          "sig": 651.0,
           "tsunami": 1
         }
       },
@@ -76,6 +76,16 @@
         "metrics": {
           "cve": "CVE-2026-84869"
         }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "GDACS: Green earthquake (Magnitude 6.3M, Depth:83km) in United States 17/09/2026 14:19 UTC, Few people affected in MMI&gt;=III.",
+        "summary": "Green earthquake (Magnitude 6.3M, Depth:83km) in United States 17/09/2026 14:19 UTC, Few people affected in MMI&gt;=III.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1566678",
+        "published_at": "",
+        "metrics": {}
       },
       {
         "domain": "security",
