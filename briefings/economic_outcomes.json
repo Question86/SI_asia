@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-17T05:23:15+00:00",
+  "generated_at": "2026-09-17T05:34:15+00:00",
   "events": [
     {
       "event_id": "evt_014823216e5b4b658b61",
@@ -1441,7 +1441,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_3aabbe1ecdc7bfaba097",
@@ -2255,7 +2255,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_54b7eba72ac81a7ece83",
@@ -3217,12 +3217,12 @@
     {
       "event_id": "evt_71924c44e4fcd7888f80",
       "title": "Why FinSight thinks Physical AI is mispriced by a decade of data, not dollars",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -3245,7 +3245,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_728175d4a33061652d12",
@@ -4071,6 +4071,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_8b292a5fd573fa52e0e5",
+      "title": "Databricks doubles down on Singapore with US$350M AI investment plan",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_8c7c3f3ea645209ebeb4",
