@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-17T06:00:13+00:00",
+  "generated_at": "2026-09-17T06:36:33+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 24,
-    "clusters": 24,
+    "findings": 26,
+    "clusters": 26,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 1,
@@ -11,42 +11,42 @@
   },
   "clusters": [
     {
-      "key": "title:databricks-doubles-down-singapore-350m-investment-plan",
-      "title": "Databricks doubles down on Singapore with US$350M AI investment plan",
+      "key": "github_repo:cloudflare/security-audit-skill",
+      "title": "cloudflare/security-audit-skill",
       "sources": [
-        "e27 Asia Startup and Tech Feed"
+        "GitHub Trending RSS All Languages Daily"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://e27.co/databricks-doubles-down-on-singapore-with-us350m-ai-investment-plan-20260917/"
+        "https://github.com/cloudflare/security-audit-skill"
       ],
       "finding_count": 1,
-      "max_score": 10,
+      "max_score": 12,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 17.5,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 21.5,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 12.1,
-      "ranking_score": 17.5,
+      "raw_network_score": 17.1,
+      "ranking_score": 21.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
+      "momentum_bonus": 2.5,
       "baseline_bonus": 0.0,
       "early_signal": true,
-      "early_signal_bonus": 6.0,
+      "early_signal_bonus": 5.5,
       "high_signal": false,
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-09-17T05:33:45+00:00"
+      "first_seen_at": "2026-09-17T06:36:33+00:00"
     },
     {
       "key": "title:paid-quoted-creator-revenue-line-southeast-asia-hasn",
@@ -256,18 +256,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 14.54,
+      "network_score": 14.46,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 13.1,
-      "ranking_score": 14.54,
+      "ranking_score": 14.46,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 2.04,
+      "baseline_bonus": 1.96,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -427,6 +427,82 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-17T02:56:43+00:00"
+    },
+    {
+      "key": "github_repo:abue-ammar/tinycast",
+      "title": "abue-ammar/tinycast",
+      "sources": [
+        "GitHub Trending RSS All Languages Daily"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.com/abue-ammar/tinycast"
+      ],
+      "finding_count": 1,
+      "max_score": 8,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 12.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "raw_network_score": 13.1,
+      "ranking_score": 12.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-17T06:36:33+00:00"
+    },
+    {
+      "key": "title:databricks-doubles-down-singapore-350m-investment-plan",
+      "title": "Databricks doubles down on Singapore with US$350M AI investment plan",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/databricks-doubles-down-on-singapore-with-us350m-ai-investment-plan-20260917/"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 11.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 12.1,
+      "ranking_score": 11.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-17T05:33:45+00:00"
     },
     {
       "key": "title:your-team-finished-course-can-they-challenge-machine",
@@ -928,7 +1004,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-17T06:00:13Z",
+    "generated_at": "2026-09-17T06:36:33Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

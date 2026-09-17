@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-17T06:00:09+00:00",
+  "generated_at": "2026-09-17T06:36:30+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 24,
-    "displayed_findings": 24,
+    "new_relevant_findings": 2,
+    "today_file_total": 26,
+    "displayed_findings": 26,
     "high": 0,
     "medium": 5,
-    "observe": 19
+    "observe": 21
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -75,6 +75,16 @@
       "section": "observe"
     },
     {
+      "title": "cloudflare/security-audit-skill",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "relevance_score": 12,
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "summary": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led…",
+      "section": "observe"
+    },
+    {
       "title": "Mobile’s next US$4.5 trillion won’t come from connectivity",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -83,16 +93,6 @@
       "url": "https://e27.co/mobiles-next-us4-5-trillion-wont-come-from-connectivity-20260914/",
       "summary": "The GSMA published its Mobile Economy 2026 report at Barcelona in March, and the arithmetic inside it is worth sitting with rather than skimming. Mobile technologies and services contributed US$7.6 trillion to global GDP in 2025, or 6.4 per cent of the total.…",
       "section": "observe"
-    },
-    {
-      "title": "高速な判断に特化したAI - TypeSafe「Jev」 と System One Model｜npaka",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-16T23:12:42+00:00",
-      "relevance_score": 11,
-      "url": "https://note.com/npaka/n/n6f8dd30a5fa4",
-      "summary": "高速な判断に特化したAI「Jev」と「System One Model」についてまとめました。 1. はじめに2026年9月15日、TypeSafe AIが新しいAIモデル「Jev」を発表しました。 Jevの特徴は、ChatGPTのように文章を生成するのではなく、 入力された状況から、型付きの判断とその確率を高速に返す ことに特化している点です。 応答時間...",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -100,138 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Paid to be quoted: The creator revenue line Southeast Asia hasn’t priced yet” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Paid to be quoted: The creator revenue line Southeast Asia hasn’t priced yet",
-        "url": "https://e27.co/paid-to-be-quoted-the-creator-revenue-line-southeast-asia-hasnt-priced-yet-20260914/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-17T03:00:21+00:00",
-        "age_days": 0.14,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce",
-          "security high-signal: rce"
-        ],
-        "summary": "When we run citation checks for clients at ESBO Ltd, my agency, the sources assistants quote for buying questions are rarely brand websites or big media. They are creators: a YouTube comparison from someone who tested four products on camera, or a forum thread with real numbers in it. The people being quoted are, almo…"
-      },
-      {
-        "title": "Sentry Seerにおける攻撃者が制御する入力が管理者権限で実行される脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU91019649/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-17T09:30:00+09:00",
-        "age_days": 0.25,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "security high-signal: 10"
-        ],
-        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-      },
-      {
-        "title": "[UPDATE] [hoch] Netgate pfSense: Schwachstelle ermöglicht Codeausführung",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3386",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-17T05:31:31+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code, auth",
-          "security high-signal: code, auth"
-        ],
-        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Netgate pfSense ausnutzen, um Sicherheitsmaßnahmen zu umgehen und beliebigen PHP-Code und Shell-Befehle auszuführen."
-      },
-      {
-        "title": "Mobile’s next US$4.5 trillion won’t come from connectivity",
-        "url": "https://e27.co/mobiles-next-us4-5-trillion-wont-come-from-connectivity-20260914/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-17T01:30:56+00:00",
-        "age_days": 0.2,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce",
-          "security high-signal: rce"
-        ],
-        "summary": "The GSMA published its Mobile Economy 2026 report at Barcelona in March, and the arithmetic inside it is worth sitting with rather than skimming. Mobile technologies and services contributed US$7.6 trillion to global GDP in 2025, or 6.4 per cent of the total. By 2030, that reaches US$11.3 trillion, or 8.4 per cent. Ov…"
-      },
-      {
-        "title": "スマートフォンアプリ「東北電力 よりそうｅねっと」におけるハードコードされた暗号鍵使用の脆弱性",
-        "url": "https://jvn.jp/jp/JVN93985674/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-17T14:00:00+09:00",
-        "age_days": 0.06,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "東北電力株式会社が提供するスマートフォンアプリ「東北電力 よりそうｅねっと」には、ハードコードされた暗号鍵使用の脆弱性が存在します。"
-      }
-    ]
-  }
+  ]
 }
