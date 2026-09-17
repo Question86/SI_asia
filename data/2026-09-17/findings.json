@@ -89,6 +89,29 @@
     "id": "9d500b358c7c0af0842c"
   },
   {
+    "title": "[UPDATE] [hoch] Netgate pfSense: Schwachstelle ermöglicht Codeausführung",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3386",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-17T05:31:31+00:00",
+    "fetched_at": "2026-09-17T05:33:13+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Netgate pfSense ausnutzen, um Sicherheitsmaßnahmen zu umgehen und beliebigen PHP-Code und Shell-Befehle auszuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "f449b704b198d2ae2dec"
+  },
+  {
     "title": "Why did Bitcoin and Ethereum move in near-perfect lockstep after the Fed rate hike?",
     "url": "https://e27.co/why-did-bitcoin-and-ethereum-move-in-near-perfect-lockstep-after-the-fed-rate-hike-20260917/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -195,6 +218,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "11c133776af50d97ad96"
+  },
+  {
+    "title": "Databricks doubles down on Singapore with US$350M AI investment plan",
+    "url": "https://e27.co/databricks-doubles-down-on-singapore-with-us350m-ai-investment-plan-20260917/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-09-17T05:25:11+00:00",
+    "fetched_at": "2026-09-17T05:33:13+00:00",
+    "summary": "Databricks is putting more weight behind Singapore as large companies across Asia shift from experimenting with artificial intelligence to trying to run it safely inside their core operations. The US data and AI company said it will invest more than US$350 million in Singapore over the next three years, expand into a new 32,000-square-foot regional […] The post Databricks doubles down on Singapore with US$350M AI in…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0a040310a7233505d76b"
   },
   {
     "title": "Your team finished the AI course. Can they challenge the machine?",

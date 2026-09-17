@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T05:22:44+00:00",
-  "run_id": "2026-09-17T05:22:44+00:00",
+  "generated_at": "2026-09-17T05:33:42+00:00",
+  "run_id": "2026-09-17T05:33:42+00:00",
   "date": "2026-09-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 21
+      "configured_public_sources_only": 23
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 21,
-    "displayed_findings": 21,
+    "today_file_total": 23,
+    "displayed_findings": 23,
     "high": 0,
-    "medium": 4,
-    "observe": 17,
+    "medium": 5,
+    "observe": 18,
     "source_errors": 0
   },
   "sections": {
@@ -117,6 +117,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "9d500b358c7c0af0842c"
+      },
+      {
+        "title": "[UPDATE] [hoch] Netgate pfSense: Schwachstelle ermöglicht Codeausführung",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3386",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-17T05:31:31+00:00",
+        "fetched_at": "2026-09-17T05:33:13+00:00",
+        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Netgate pfSense ausnutzen, um Sicherheitsmaßnahmen zu umgehen und beliebigen PHP-Code und Shell-Befehle auszuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f449b704b198d2ae2dec"
       }
     ],
     "observe": [
@@ -227,6 +250,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "11c133776af50d97ad96"
+      },
+      {
+        "title": "Databricks doubles down on Singapore with US$350M AI investment plan",
+        "url": "https://e27.co/databricks-doubles-down-on-singapore-with-us350m-ai-investment-plan-20260917/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-17T05:25:11+00:00",
+        "fetched_at": "2026-09-17T05:33:13+00:00",
+        "summary": "Databricks is putting more weight behind Singapore as large companies across Asia shift from experimenting with artificial intelligence to trying to run it safely inside their core operations. The US data and AI company said it will invest more than US$350 million in Singapore over the next three years, expand into a new 32,000-square-foot regional […] The post Databricks doubles down on Singapore with US$350M AI in…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "0a040310a7233505d76b"
       },
       {
         "title": "Your team finished the AI course. Can they challenge the machine?",
@@ -591,6 +635,29 @@
       "id": "9d500b358c7c0af0842c"
     },
     {
+      "title": "[UPDATE] [hoch] Netgate pfSense: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3386",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-17T05:31:31+00:00",
+      "fetched_at": "2026-09-17T05:33:13+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Netgate pfSense ausnutzen, um Sicherheitsmaßnahmen zu umgehen und beliebigen PHP-Code und Shell-Befehle auszuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f449b704b198d2ae2dec"
+    },
+    {
       "title": "Why did Bitcoin and Ethereum move in near-perfect lockstep after the Fed rate hike?",
       "url": "https://e27.co/why-did-bitcoin-and-ethereum-move-in-near-perfect-lockstep-after-the-fed-rate-hike-20260917/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -697,6 +764,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "11c133776af50d97ad96"
+    },
+    {
+      "title": "Databricks doubles down on Singapore with US$350M AI investment plan",
+      "url": "https://e27.co/databricks-doubles-down-on-singapore-with-us350m-ai-investment-plan-20260917/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-17T05:25:11+00:00",
+      "fetched_at": "2026-09-17T05:33:13+00:00",
+      "summary": "Databricks is putting more weight behind Singapore as large companies across Asia shift from experimenting with artificial intelligence to trying to run it safely inside their core operations. The US data and AI company said it will invest more than US$350 million in Singapore over the next three years, expand into a new 32,000-square-foot regional […] The post Databricks doubles down on Singapore with US$350M AI in…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "0a040310a7233505d76b"
     },
     {
       "title": "Your team finished the AI course. Can they challenge the machine?",
@@ -971,47 +1059,48 @@
   ],
   "new_findings": [
     {
-      "title": "高速な判断に特化したAI - TypeSafe「Jev」 と System One Model｜npaka",
-      "url": "https://note.com/npaka/n/n6f8dd30a5fa4",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "[UPDATE] [hoch] Netgate pfSense: Schwachstelle ermöglicht Codeausführung",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3386",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-09-16T23:12:42+00:00",
-      "fetched_at": "2026-09-17T05:22:12+00:00",
-      "summary": "高速な判断に特化したAI「Jev」と「System One Model」についてまとめました。 1. はじめに2026年9月15日、TypeSafe AIが新しいAIモデル「Jev」を発表しました。 Jevの特徴は、ChatGPTのように文章を生成するのではなく、 入力された状況から、型付きの判断とその確率を高速に返す ことに特化している点です。 応答時間...",
+      "published_at": "2026-09-17T05:31:31+00:00",
+      "fetched_at": "2026-09-17T05:33:13+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Netgate pfSense ausnutzen, um Sicherheitsmaßnahmen zu umgehen und beliebigen PHP-Code und Shell-Befehle auszuführen.",
       "matched_keywords": [
-        "Hatena",
-        "hotentry",
-        "OpenAI"
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "8f745f80889b21a22c45"
+      "id": "f449b704b198d2ae2dec"
     },
     {
-      "title": "Why FinSight thinks Physical AI is mispriced by a decade of data, not dollars",
-      "url": "https://e27.co/why-finsight-thinks-physical-ai-is-mispriced-by-a-decade-of-data-not-dollars-20260917/",
+      "title": "Databricks doubles down on Singapore with US$350M AI investment plan",
+      "url": "https://e27.co/databricks-doubles-down-on-singapore-with-us350m-ai-investment-plan-20260917/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-09-17T05:01:41+00:00",
-      "fetched_at": "2026-09-17T05:22:12+00:00",
-      "summary": "Here’s a simple way to think about FinSight Ventures: it is a late-stage fund that likes the places most investors avoid, and it has a one-line rule for deciding when to write a cheque: 35 per cent a year, in dollars, or it walks. The Uzbekistan-based firm invests in AI, cloud, enterprise software and fintech, […] The post Why FinSight thinks Physical AI is mispriced by a decade of data, not dollars appeared first o…",
+      "published_at": "2026-09-17T05:25:11+00:00",
+      "fetched_at": "2026-09-17T05:33:13+00:00",
+      "summary": "Databricks is putting more weight behind Singapore as large companies across Asia shift from experimenting with artificial intelligence to trying to run it safely inside their core operations. The US data and AI company said it will invest more than US$350 million in Singapore over the next three years, expand into a new 32,000-square-foot regional […] The post Databricks doubles down on Singapore with US$350M AI in…",
       "matched_keywords": [
         "AI/KI",
         "APAC Trend Radar"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+      "relevance_score": 10,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "c14797b3be879c71f1b1"
+      "id": "0a040310a7233505d76b"
     }
   ],
   "source_errors": [],

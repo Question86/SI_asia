@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-17T05:22:44+00:00_
+_Generiert: 2026-09-17T05:33:42+00:00_
 
 ## Kurzlage
 
-21 neue relevante Treffer. Stärkstes Signal: „Paid to be quoted: The creator revenue line Southeast Asia hasn’t priced yet“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
+23 neue relevante Treffer. Stärkstes Signal: „Paid to be quoted: The creator revenue line Southeast Asia hasn’t priced yet“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
 
 ## Priorität Hoch
 
@@ -48,6 +48,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [hoch] Netgate pfSense: Schwachstelle ermöglicht Codeausführung** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3386)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-09-17T05:31:31+00:00`, fetched `2026-09-17T05:33:13+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Netgate pfSense ausnutzen, um Sicherheitsmaßnahmen zu umgehen und beliebigen PHP-Code und Shell-Befehle auszuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -96,14 +105,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: ここのところ、動画編集ツールのエージェンティックAI対応が続いている。ここまで米Adobeの「ChatGPT」用プラグインと、新進気鋭の編集ツール「Palmier Pro」をご紹介した。3つめは「DaVinci Resolve」である。 9月8日に公開された新バージョン21.1ではさまざまな機能強化が図られているところだが、最大の特徴はエージ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Your team finished the AI course. Can they challenge the machine?** — Score 10, observation — [Quelle](https://e27.co/your-team-finished-the-ai-course-can-they-challenge-the-machine-20260914/)
+- **Databricks doubles down on Singapore with US$350M AI investment plan** — Score 10, observation — [Quelle](https://e27.co/databricks-doubles-down-on-singapore-with-us350m-ai-investment-plan-20260917/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-17T02:00:52+00:00`, fetched `2026-09-17T02:02:02+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, founder
+  - Zeit: published `2026-09-17T05:25:11+00:00`, fetched `2026-09-17T05:33:13+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0)
-  - Kurz: A dashboard can tell a founder how many employees completed an AI course. It cannot tell whether those employees know when an AI answer is wrong. My work in adult learning has taught me to take that gap seriously. The distinction is becoming urgent. The World Economic Forum’s Future of Jobs Report 2025 found that […] The post Your team finished the AI course. Can they challenge the machine? appeared first on e27 .
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Databricks is putting more weight behind Singapore as large companies across Asia shift from experimenting with artificial intelligence to trying to run it safely inside their core operations. The US data and AI company said it will invest more than US$350 million in Singapore over the next three years, expand into a new 32,000-square-foot regional […] The post Databricks doubles down on Singapore with US$350M AI in…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.3 - 155 km SSE of Hihifo, Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000thz3)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
