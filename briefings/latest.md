@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-17T16:45:33+00:00_
+_Generiert: 2026-09-17T16:53:29+00:00_
 
 ## Kurzlage
 
-67 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [mittel] Red Hat Enterprise Linux (firewalld, leapp-repository, tesseract): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 18, observation).
+68 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [mittel] Red Hat Enterprise Linux (firewalld, leapp-repository, tesseract): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 18, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -279,6 +279,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)
   - Kurz: De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à l'intégrité des données.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Ubuntu 26 generally available and latest migration** — Score 10, observation — [Quelle](https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-09-17T16:27:16+00:00`, fetched `2026-09-17T16:53:00+00:00`
+  - Treffer: Actions, GitHub, GitHub Actions
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub Actions (+5.0); GitHub (+2.0); Actions (+2.0); recent (+1.0)
+  - Kurz: The Ubuntu 26.04 runner image for GitHub Actions is now out of public preview and fully supported for production workflows on both x64 and arm64. As part of this release,… The post Ubuntu 26 generally available and latest migration appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **“AI amnesia” is quietly costing Southeast Asian brands their customers** — Score 10, observation — [Quelle](https://e27.co/ai-amnesia-is-quietly-costing-southeast-asian-brands-their-customers-20260917/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-17T09:19:12+00:00`, fetched `2026-09-17T09:30:01+00:00`
@@ -297,15 +306,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-17 13:30:49 UTC 2026-09-17 13:30:49 UTC at epicenter Location 52.233°N 159.498°E Depth 57.43 km (35.68 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Migrating the GitHub Copilot runtime to Rust, using Copilot** — Score 9, observation — [Quelle](https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/)
-  - Quelle: GitHub Blog Atom / `rss`
-  - Zeit: published `2026-09-17T00:26:43+00:00`, fetched `2026-09-17T01:02:02+00:00`
-  - Treffer: AI/KI, Copilot, GitHub
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
-  - Kurz: A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took. The post Migrating the GitHub Copilot runtime to Rust, using Copilot appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
