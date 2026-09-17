@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T13:31:57+00:00",
-  "run_id": "2026-09-17T13:31:57+00:00",
+  "generated_at": "2026-09-17T13:43:22+00:00",
+  "run_id": "2026-09-17T13:43:22+00:00",
   "date": "2026-09-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 63,
     "displayed_findings": 63,
     "high": 0,
@@ -3035,29 +3035,7 @@
       "id": "451e6aa48c585d187515"
     }
   ],
-  "new_findings": [
-    {
-      "title": "ドローン攻撃を受けたAWS中東データセンター、半年の復旧作業の末に「一部データは回復不能」",
-      "url": "https://www.itmedia.co.jp/news/article/2609/17/2000001590/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-17T09:19:49+00:00",
-      "fetched_at": "2026-09-17T13:31:26+00:00",
-      "summary": "米Amazon Web Services（AWS）は9月15日（太平洋夏時間）、3月にイランのドローン攻撃を受けた中東のデータセンターについて、バーレーンリージョンとアラブ首長国連邦（UAE）リージョンの一部に保存されていたデータやリソースへのアクセスを復旧できないと発表した。両リージョンでは物理的な被害が発生し、AWSが約半...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e32cb6a0ebc5912a8900"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
