@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-17T13:59:52+00:00",
+  "generated_at": "2026-09-17T14:23:55+00:00",
   "events": [
     {
       "event_id": "evt_014823216e5b4b658b61",
@@ -6490,7 +6490,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_dd24c6e024fe6ad0cd2a",
@@ -6898,6 +6898,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_e6fef3113214c14755f3",
+      "title": "M 4.7 - 107 km SE of Vilyuchinsk, Russia",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_e7accc74314c5b76e589",
