@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-09-17T07:56:00+00:00",
+  "generated_at": "2026-09-17T08:09:32+00:00",
   "fx_as_of": null,
-  "candidate_count": 771,
+  "candidate_count": 774,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 771
+    "pending": 774
   },
   "coverage_warning": null,
   "candidates": [
@@ -9125,6 +9125,48 @@
       "source_url": "https://e27.co/databricks-doubles-down-on-singapore-with-us350m-ai-investment-plan-20260917/"
     },
     {
+      "amount_native": 50000000.0,
+      "amount_usd": 50000000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.55,
+      "candidate_id": "cand_5b454cac5c75ea57ea42",
+      "component_suggestion": "capital_allocation",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_e7eb9774be7e686a2b99",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-17T08:09:29+00:00",
+      "overlap_group_suggestion": "evt_e7eb9774be7e686a2b99:capital_allocation:16a051a7b684",
+      "review_status": "pending",
+      "snippet": "data Defi E-Commerce Hardware Retail Artificial Intelligence Cryptocurrency Education Healthtech Software As A Service View all Startups --> POSTS STARTUPS Tech Innovators secured $50 million in funding from Venture Capitalist Alpha, paving the way for groundbreaking advancements in artificial intelligence. Discover the power of AI in transforming your daily tasks! Wit",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://e27.co/temasek-backed-xora-leads-hang-tens-us53m-seed-round-20260917/",
+      "component_confidence": 0.55,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
+    },
+    {
+      "amount_native": 50000000.0,
+      "amount_usd": 50000000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.55,
+      "candidate_id": "cand_7cc9c44618844c44ff60",
+      "component_suggestion": "capital_allocation",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_e7eb9774be7e686a2b99",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-17T08:09:29+00:00",
+      "overlap_group_suggestion": "evt_e7eb9774be7e686a2b99:capital_allocation:f3a8ffe32888",
+      "review_status": "pending",
+      "snippet": "cial intelligence. Discover the power of AI in transforming your daily tasks! With intelligent algorithms, we enhance productivity and streamline workflows. AI Innovations Secures $50 Million in Funding from Visionary Investor Experience the future with AI-driven solutions that simplify complex processes and boost efficiency in your work environment. View all Posts Xam",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://e27.co/temasek-backed-xora-leads-hang-tens-us53m-seed-round-20260917/",
+      "component_confidence": 0.55,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
+    },
+    {
       "amount_native": 44000000.0,
       "amount_usd": 44000000.0,
       "attribution_probability": null,
@@ -11849,6 +11891,27 @@
       "snippet": "hinese technology company focused on mobile phones and telecommunications, and is seen as a poster child for China’s global tech ambitions. READ MORE and iFlytek. The rest, around $189 million, will go to a separate supercomputer that Brazil is currently tendering, but expecting to source from Nvidia. “The strategy is not to depend on a single company, technology or cou",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://restofworld.org/2026/ai-us-chips-chinese-open-source-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+    },
+    {
+      "amount_native": 53000000.0,
+      "amount_usd": 53000000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_c3dc958908bfc2d8f913",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_e7eb9774be7e686a2b99",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-17T08:09:29+00:00",
+      "overlap_group_suggestion": "evt_e7eb9774be7e686a2b99:unknown:5d0c931c1a46",
+      "review_status": "pending",
+      "snippet": "Temasek-backed Xora leads Hang Ten's US$53M seed extension round | e27 --> Verify Your Email Address Your account contact email hasn't been verified yet. Please verify your email address Go to Edit Profile Send Email Verifi",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://e27.co/temasek-backed-xora-leads-hang-tens-us53m-seed-round-20260917/",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 20000000.0,
