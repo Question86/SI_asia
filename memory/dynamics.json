@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-17T11:12:59Z",
+  "generated_at": "2026-09-17T11:27:00Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 8,
-      "strong": 22,
-      "watch": 10
+      "krass": 11,
+      "strong": 23,
+      "watch": 6
     },
     "bands_after_gate_recheck": {
       "krass": 1,
-      "strong": 29,
-      "watch": 10
+      "strong": 33,
+      "watch": 6
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3386",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-17T05:31:31+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3382",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 19.88,
+      "age_days": 19.89,
       "topics": [
         "security",
         "infra"
@@ -58,13 +58,13 @@
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.59,
+      "momentum_delta": 4,
+      "baseline_z_hint": 21.31,
       "security_high_signal": true,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +3",
-        "baseline z_hint 0.59",
+        "momentum delta +4",
+        "baseline z_hint 21.31",
         "high terms: rce, firewall",
         "security high-signal: rce, firewall",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
@@ -76,7 +76,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3382",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-17T10:19:45+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security",
         "infra"
@@ -103,7 +103,7 @@
       "url": "https://www.heise.de/news/Warnung-vor-Cyberattacken-auf-Google-Pixel-Cisco-ISE-und-Acronis-Backup-11456146.html",
       "source": "heise Security Alerts",
       "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 90.15,
+      "age_days": 90.16,
       "topics": [
         "security"
       ],
@@ -120,7 +120,7 @@
       "why": [
         "momentum delta +3",
         "security high-signal: google",
-        "aging penalty -8.0 for 90.1d old signal"
+        "aging penalty -8.0 for 90.2d old signal"
       ],
       "summary": ""
     },
@@ -129,7 +129,7 @@
       "url": "https://jvn.jp/jp/JVN93985674/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-17T14:00:00+09:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "security"
       ],
@@ -149,11 +149,35 @@
       "summary": "東北電力株式会社が提供するスマートフォンアプリ「東北電力 よりそうｅねっと」には、ハードコードされた暗号鍵使用の脆弱性が存在します。"
     },
     {
+      "title": "[NEU] [mittel] drawio: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3430",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-17T11:11:31+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in drawio ausnutzen, um Informationen offenzulegen."
+    },
+    {
       "title": "[UPDATE] [hoch] PCRE2 (Perl Compatible Regular Expressions): Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3334",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-17T10:19:45+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -177,7 +201,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3383",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-17T09:31:31+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -201,7 +225,7 @@
       "url": "https://jvn.jp/vu/JVNVU94390979/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-17T09:30:15+09:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "security"
       ],
@@ -225,7 +249,7 @@
       "url": "https://www.heise.de/news/Warnung-vor-Cyberattacken-auf-Google-Pixel-Cisco-ISE-und-Acronis-Backup-11456146.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-17T07:30:00.000+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -249,7 +273,7 @@
       "url": "https://github.com/abue-ammar/tinycast",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-17T06:36:33+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [],
       "dynamics_score": 25.0,
       "raw_band": "strong",
@@ -273,7 +297,7 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-17T06:36:33+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai",
         "security"
@@ -300,7 +324,7 @@
       "url": "https://e27.co/paid-to-be-quoted-the-creator-revenue-line-southeast-asia-hasnt-priced-yet-20260914/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-17T03:00:21+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "ai"
       ],
@@ -326,7 +350,7 @@
       "url": "https://github.com/abue-ammar/tinycast",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-17T06:35:58+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -350,11 +374,89 @@
       "summary": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history. https://abue-ammar.github.io/tinycast/ Tinycast A tiny, fully native macOS launcher. One hotkey, everything you reach for all day, under 100 MB of RAM. SwiftUI and AppKit, zero third-party dependencies , no Electron and no telemetry. It al…"
     },
     {
+      "title": "[NEU] [hoch] Check Point Security Management: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3429",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-17T11:11:31+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Check Point Security Management ausnutzen, um beliebigen Programmcode mit Administratorrechten auszuführen."
+    },
+    {
+      "title": "[NEU] [hoch] Apache Nifi: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3432",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-17T11:11:32+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: auth",
+        "security high-signal: auth",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein entfernter, authentisierter Angreifer kann mehrere Schwachstellen in Apache Nifi ausnutzen, um Sicherheitsvorkehrungen zu umgehen, Daten offenzulegen und zu manipulieren oder Denial-of-Service-Zustände herbeizuführen."
+    },
+    {
+      "title": "[NEU] [hoch] Cisco Nexus Dashboard: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3431",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-17T11:11:31+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Cisco Nexus Dashboard ausnutzen, um seine Privilegien zu erhöhen, um beliebigen Programmcode auszuführen, um Sicherheitsvorkehrungen zu umgehen, um Informationen offenzulegen, um einen SQL-Injection Angriff durchzuführen und um Dateien zu manipulieren."
+    },
+    {
       "title": "[UPDATE] [hoch] Mozilla Firefox und Thunderbird: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3375",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-17T10:19:45+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -380,7 +482,7 @@
       "url": "https://jvn.jp/vu/JVNVU91019649/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-17T09:30:00+09:00",
-      "age_days": 0.45,
+      "age_days": 0.46,
       "topics": [
         "security"
       ],
@@ -406,7 +508,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3412",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-17T09:31:32+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -431,7 +533,7 @@
       "url": "https://e27.co/mobiles-next-us4-5-trillion-wont-come-from-connectivity-20260914/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-17T01:30:56+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "ai"
       ],
@@ -457,7 +559,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3376",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-17T10:19:45+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -483,7 +585,7 @@
       "url": "https://restofworld.org/2026/south-africa-ai-data-center-protests/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-09-17T10:00:00+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -510,7 +612,7 @@
       "url": "https://prtimes.jp/main/html/rd/p/000000268.000045379.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-17T01:54:13+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "ai"
       ],
@@ -537,7 +639,7 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-17T06:35:58+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "ai",
         "security",
@@ -563,7 +665,7 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-knipsen-Firewalls-von-Cisco-aus-11456078.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-17T08:08:00.000+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security",
         "infra"
@@ -589,7 +691,7 @@
       "url": "https://jvn.jp/jp/JVN93985674/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-17T05:01:53+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -613,7 +715,7 @@
       "url": "https://jvn.jp/vu/JVNVU94390979/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-17T01:02:39+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "general"
       ],
@@ -637,7 +739,7 @@
       "url": "https://jvn.jp/vu/JVNVU91019649/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-17T01:02:39+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "general"
       ],
@@ -661,7 +763,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thzp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-17T06:37:49.040+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -686,7 +788,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thzp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-04T05:31:26+00:00",
-      "age_days": 13.24,
+      "age_days": 13.25,
       "topics": [
         "general"
       ],
@@ -710,7 +812,7 @@
       "url": "https://e27.co/why-did-bitcoin-and-ethereum-move-in-near-perfect-lockstep-after-the-fed-rate-hike-20260917/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-17T04:10:16+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "macro"
       ],
@@ -734,7 +836,7 @@
       "url": "https://prtimes.jp/main/html/rd/p/000000268.000045379.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-17T01:01:47+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "ai"
       ],
@@ -761,7 +863,7 @@
       "url": "https://e27.co/mobiles-next-us4-5-trillion-wont-come-from-connectivity-20260914/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-17T01:33:00+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "general"
       ],
@@ -796,12 +898,12 @@
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 11.6,
+      "baseline_z_hint": 8.3,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 11.60",
+        "baseline z_hint 8.30",
         "high terms: code",
         "single-source AI hype brake -8.0",
         "aging penalty -8.0 for 90.4d old signal",
@@ -839,7 +941,7 @@
       "url": "https://e27.co/temasek-backed-xora-leads-hang-tens-us53m-seed-round-20260917/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-17T08:09:08+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -863,7 +965,7 @@
       "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
       "source": "GitHub Blog Atom",
       "published_at": "2026-09-17T01:02:39+00:00",
-      "age_days": 0.42,
+      "age_days": 0.43,
       "topics": [
         "general"
       ],
@@ -887,7 +989,7 @@
       "url": "https://e27.co/paid-to-be-quoted-the-creator-revenue-line-southeast-asia-hasnt-priced-yet-20260914/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-17T03:15:18+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "ai"
       ],
@@ -913,7 +1015,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thzz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-17T07:07:36.040+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "disaster"
       ],
@@ -932,104 +1034,6 @@
         "high terms: 10"
       ],
       "summary": "Time 2026-09-17 06:48:41 UTC 2026-09-17 06:48:41 UTC at epicenter Location 22.587°S 20.346°W Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 5.3 - 191 km SE of Mata-Utu, Wallis and Futuna",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thzw",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-17T07:02:10.040+00:00",
-      "age_days": 0.17,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-09-17 06:42:41 UTC 2026-09-17 06:42:41 UTC at epicenter Location 14.479°S 174.896°W Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 5.3 - 155 km SSE of Hihifo, Tonga",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thz3",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-17T04:24:31.040+00:00",
-      "age_days": 0.28,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "Time 2026-09-17 04:06:53 UTC 2026-09-17 04:06:53 UTC at epicenter Location 17.323°S 173.448°W Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 5.0 - South Atlantic Ocean",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thzz",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-17T07:22:34+00:00",
-      "age_days": 0.16,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 16.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 5.3 - 191 km SE of Mata-Utu, Wallis and Futuna",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thzw",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-17T07:22:34+00:00",
-      "age_days": 0.16,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 16.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Netgate pfSense: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
