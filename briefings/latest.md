@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-17T01:02:36+00:00_
+_Generiert: 2026-09-17T01:32:56+00:00_
 
 ## Kurzlage
 
-5 neue relevante Treffer. Stärkstes Signal: „MLflowのdspyとstatsmodelsフレーバーにおけるpickleのデシリアライズ制御回避の脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
+6 neue relevante Treffer. Stärkstes Signal: „MLflowのdspyとstatsmodelsフレーバーにおけるpickleのデシリアライズ制御回避の脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -86,6 +86,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Mobile’s next US$4.5 trillion won’t come from connectivity** — Score 11, observation — [Quelle](https://e27.co/mobiles-next-us4-5-trillion-wont-come-from-connectivity-20260914/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-17T01:30:56+00:00`, fetched `2026-09-17T01:32:24+00:00`
+  - Treffer: APAC Trend Radar, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: METI (+2.0)
+  - Kurz: The GSMA published its Mobile Economy 2026 report at Barcelona in March, and the arithmetic inside it is worth sitting with rather than skimming. Mobile technologies and services contributed US$7.6 trillion to global GDP in 2025, or 6.4 per cent of the total. By 2030, that reaches US$11.3 trillion, or 8.4 per cent. Over the […] The post Mobile’s next US$4.5 trillion won’t come from connectivity appeared first on e27…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Migrating the GitHub Copilot runtime to Rust, using Copilot** — Score 9, observation — [Quelle](https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/)
   - Quelle: GitHub Blog Atom / `rss`
   - Zeit: published `2026-09-17T00:26:43+00:00`, fetched `2026-09-17T01:02:02+00:00`
