@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-17T23:26:45+00:00_
+_Generated: 2026-09-17T23:43:45+00:00_
 
 ## Status
 - status: `normal`
-- findings: `78`
+- findings: `79`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-09-17T23:26:45+00:00_
 - url: https://www.heise.de/news/Warnung-vor-Cyberattacken-auf-Google-Pixel-Cisco-ISE-und-Acronis-Backup-11456146.html
 - summary: Bösartige Akteure greifen Lücken in Google Pixel, Cisco ISE und Acronis Backup für cPanel/WHM und Plesk an. Updates schützen.
 
-### 6. Why did Bitcoin and Ethereum move in near-perfect lockstep after the Fed rate hike?
+### 6. 『マネーフォワード ME』、2026年9月17日(木)より「Apps in ChatGPT」で利用できるアプリの提供を開始
+- source: Hatena Bookmark Hotentry IT
+- score: `12`
+- published: `2026-09-17T09:48:12+00:00`
+- url: https://prtimes.jp/main/html/rd/p/000001675.000008962.html
+- summary: マネーフォワードホーム株式会社は、2026年9月17日（木）より、OpenAIが提供する「Apps in ChatGPT」（※1）で利用できる『マネーフォワード ME』アプリ（以下、本アプリ）の提供を開始しました。ユーザーが接続を許可すると、『マネーフォワード ME』のデータをChatGPTの会話内で活用し、自然な対話を通じてお金の不安や...
+
+### 7. Why did Bitcoin and Ethereum move in near-perfect lockstep after the Fed rate hike?
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-09-17T04:07:37+00:00`
 - url: https://e27.co/why-did-bitcoin-and-ethereum-move-in-near-perfect-lockstep-after-the-fed-rate-hike-20260917/
 - summary: Bitcoin rose 0.82 per cent in 24 hours to US$76,318.25. Ethereum gained 0.80 per cent to US$2,418.94. The total crypto market cap increased one per cent, and the broader crypto market rose 0.99 per cent. These numbers point to a single conclusion. A relief bo…
 
-### 7. LLMの193倍速い“判断だけのAI”「Jev」、ChatGPTの共著研究者が開発
+### 8. LLMの193倍速い“判断だけのAI”「Jev」、ChatGPTの共著研究者が開発
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
 - published: `2026-09-16T21:37:20+00:00`
 - url: https://pc.watch.impress.co.jp/docs/news/2141599.html
 - summary: LLMの193倍速い“判断だけのAI”「Jev」、ChatGPTの共著研究者が開発
-
-### 8. cloudflare/security-audit-skill
-- source: GitHub Trending RSS All Languages Daily
-- score: `12`
-- published: `None`
-- url: https://github.com/cloudflare/security-audit-skill
-- summary: A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led…
 
 END OF DOCUMENT

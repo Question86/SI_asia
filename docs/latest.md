@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-17T23:26:45+00:00_
+_Generiert: 2026-09-17T23:43:45+00:00_
 
 ## Kurzlage
 
-78 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [mittel] Red Hat Enterprise Linux (firewalld, leapp-repository, tesseract): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 18, observation).
+79 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [mittel] Red Hat Enterprise Linux (firewalld, leapp-repository, tesseract): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 18, observation).
 
 ## Priorität Hoch
 
@@ -141,6 +141,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: GitHub Actions (+6.2); Security (+6.0); recent (+1.0)
   - Kurz: Bösartige Akteure greifen Lücken in Google Pixel, Cisco ISE und Acronis Backup für cPanel/WHM und Plesk an. Updates schützen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **『マネーフォワード ME』、2026年9月17日(木)より「Apps in ChatGPT」で利用できるアプリの提供を開始** — Score 12, observation — [Quelle](https://prtimes.jp/main/html/rd/p/000001675.000008962.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-17T09:48:12+00:00`, fetched `2026-09-17T23:43:14+00:00`
+  - Treffer: Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: マネーフォワードホーム株式会社は、2026年9月17日（木）より、OpenAIが提供する「Apps in ChatGPT」（※1）で利用できる『マネーフォワード ME』アプリ（以下、本アプリ）の提供を開始しました。ユーザーが接続を許可すると、『マネーフォワード ME』のデータをChatGPTの会話内で活用し、自然な対話を通じてお金の不安や...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Why did Bitcoin and Ethereum move in near-perfect lockstep after the Fed rate hike?** — Score 12, observation — [Quelle](https://e27.co/why-did-bitcoin-and-ethereum-move-in-near-perfect-lockstep-after-the-fed-rate-hike-20260917/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-17T04:07:37+00:00`, fetched `2026-09-17T04:09:41+00:00`
@@ -203,15 +212,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: METI (+2.0)
   - Kurz: The GSMA published its Mobile Economy 2026 report at Barcelona in March, and the arithmetic inside it is worth sitting with rather than skimming. Mobile technologies and services contributed US$7.6 trillion to global GDP in 2025, or 6.4 per cent of the total. By 2030, that reaches US$11.3 trillion, or 8.4 per cent. Over the […] The post Mobile’s next US$4.5 trillion won’t come from connectivity appeared first on e27…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **高速な判断に特化したAI - TypeSafe「Jev」 と System One Model｜npaka** — Score 11, observation — [Quelle](https://note.com/npaka/n/n6f8dd30a5fa4)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-16T23:12:42+00:00`, fetched `2026-09-17T05:22:12+00:00`
-  - Treffer: Hatena, hotentry, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 高速な判断に特化したAI「Jev」と「System One Model」についてまとめました。 1. はじめに2026年9月15日、TypeSafe AIが新しいAIモデル「Jev」を発表しました。 Jevの特徴は、ChatGPTのように文章を生成するのではなく、 入力された状況から、型付きの判断とその確率を高速に返す ことに特化している点です。 応答時間...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Multiples vulnérabilités dans le noyau Linux de SUSE (11 septembre 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1164/)
   - Quelle: CERT-FR Avis de sécurité / `rss`
