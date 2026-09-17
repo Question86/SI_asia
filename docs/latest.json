@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T12:27:51+00:00",
-  "run_id": "2026-09-17T12:27:51+00:00",
+  "generated_at": "2026-09-17T12:49:01+00:00",
+  "run_id": "2026-09-17T12:49:01+00:00",
   "date": "2026-09-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 58,
     "displayed_findings": 58,
     "high": 0,
@@ -2807,31 +2807,7 @@
       "id": "451e6aa48c585d187515"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Claude Codeの Agent Skills は、ときどき見直したほうがいい - じゃあ、おうちで学べる",
-      "url": "https://syu-m-5151.hatenablog.com/entry/2026/09/17/140349",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-17T05:46:22+00:00",
-      "fetched_at": "2026-09-17T12:27:19+00:00",
-      "summary": "はじめに 2025年12月に「Claude Codeの Agent Skills は設定したほうがいい」という記事を書きました。必要な手順を必要なときに読み込ませる仕組みとして、Skillsを紹介した記事です。ただ、後半では設定が増えるほど管理が難しくなる話もしました。どれが使われているのか。似た説明のSkillが、互いの出番を奪っていな...",
-      "matched_keywords": [
-        "agent",
-        "AI Agents",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ae5f0d0d666f5ce593c7"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

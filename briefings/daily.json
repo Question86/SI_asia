@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T12:27:55+00:00",
+  "generated_at": "2026-09-17T12:49:03+00:00",
   "today_file_total": 58,
   "current_clusters": [
     {
@@ -29,29 +29,6 @@
       "hot": true,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
-    },
-    {
-      "key": "domain:syu-m-5151.hatenablog.com",
-      "title": "Claude Codeの Agent Skills は、ときどき見直したほうがいい - じゃあ、おうちで学べる",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://syu-m-5151.hatenablog.com/entry/2026/09/17/140349"
-      ],
-      "finding_count": 1,
-      "max_score": 14,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 19.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "title:paid-quoted-creator-revenue-line-southeast-asia-hasn",
@@ -218,6 +195,29 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "domain:syu-m-5151.hatenablog.com",
+      "title": "Claude Codeの Agent Skills は、ときどき見直したほうがいい - じゃあ、おうちで学べる",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://syu-m-5151.hatenablog.com/entry/2026/09/17/140349"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 16.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "domain:speakerdeck.com",
