@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-17T11:58:35+00:00",
+  "generated_at": "2026-09-17T12:28:32+00:00",
   "events": [
     {
       "event_id": "evt_014823216e5b4b658b61",
@@ -2970,7 +2970,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_6c896b2a676fb71f16c8",
@@ -6557,6 +6557,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_dfb6d8ece97a3fe62d94",
+      "title": "Claude Codeの Agent Skills は、ときどき見直したほうがいい - じゃあ、おうちで学べる",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_dfcc8d1302695dc8f41f",
