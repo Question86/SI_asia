@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-17T22:02:14+00:00",
+  "generated_at": "2026-09-17T22:20:09+00:00",
   "events": [
     {
       "event_id": "evt_014823216e5b4b658b61",
@@ -1079,6 +1079,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_28d372a7de61eb91a1dd",
+      "title": "Agentic CLI customizations now in the usage metrics API",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_2a7631f0e872d9aad503",
@@ -2706,7 +2717,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_620225625978c23a2aaa",
