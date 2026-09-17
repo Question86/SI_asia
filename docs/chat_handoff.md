@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-17T10:00:48+00:00_
+_Generated: 2026-09-17T10:22:09+00:00_
 
 ## Status
 - status: `normal`
-- findings: `38`
+- findings: `43`
 
 ## Top Signals
 
-### 1. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen
+### 1. [UPDATE] [mittel] Red Hat Enterprise Linux (firewalld, leapp-repository, tesseract): Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `18`
+- published: `2026-09-17T10:19:45+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3382
+- summary: Ein lokaler Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um beliebigen Code auszuführen, einschließlich der Ausführung von Code mit Root-Rechten, um Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder einen Denial-of-Se…
+
+### 2. [UPDATE] [hoch] Atlassian Bamboo, Bitbucket, Confluence, Fisheye/Crucible, Jira Software und Jira Service Management: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `17`
+- published: `2026-09-17T10:19:45+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3376
+- summary: Ein Angreifer kann mehrere Schwachstellen in Atlassian Bamboo, Bitbucket, Confluence, Fisheye/Crucible, Jira Software und Jira Service Management ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, serverseitige Request-Forgery…
+
+### 3. [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-09-17T09:31:32+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3412
 - summary: Ein Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um Speicher zu beschädigen oder offenzulegen, den Kernel oder den Systemzustand zu manipulieren oder Denial-of-Service-Zustände, einschließlich Kernel-Abstürzen, zu verursachen.
 
-### 2. Paid to be quoted: The creator revenue line Southeast Asia hasn’t priced yet
+### 4. Paid to be quoted: The creator revenue line Southeast Asia hasn’t priced yet
 - source: e27 Asia Startup and Tech Feed
 - score: `16`
 - published: `2026-09-17T03:00:21+00:00`
 - url: https://e27.co/paid-to-be-quoted-the-creator-revenue-line-southeast-asia-hasnt-priced-yet-20260914/
 - summary: When we run citation checks for clients at ESBO Ltd, my agency, the sources assistants quote for buying questions are rarely brand websites or big media. They are creators: a YouTube comparison from someone who tested four products on camera, or a forum threa…
-
-### 3. M 5.2 - 132 km E of Bitung, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-09-17T06:37:49.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000thzp
-- summary: Time 2026-09-17 06:20:48 UTC 2026-09-17 06:20:48 UTC at epicenter Location 1.316°N 126.309°E Depth 10.00 km (6.21 mi)
-
-### 4. スマートフォンアプリ「東北電力 よりそうｅねっと」におけるハードコードされた暗号鍵使用の脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-09-17T14:00:00+09:00`
-- url: https://jvn.jp/jp/JVN93985674/
-- summary: 東北電力株式会社が提供するスマートフォンアプリ「東北電力 よりそうｅねっと」には、ハードコードされた暗号鍵使用の脆弱性が存在します。
 
 ### 5. Warnung vor Cyberattacken auf Google Pixel, Cisco ISE und Acronis Backup
 - source: heise Security Alerts

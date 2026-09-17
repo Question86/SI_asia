@@ -1,9 +1,23 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-17T10:00:48+00:00",
+  "generated_at": "2026-09-17T10:22:09+00:00",
   "topics": {
     "security": [
+      {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (firewalld, leapp-repository, tesseract): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-17T10:19:45+00:00",
+        "relevance_score": 18,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3382"
+      },
+      {
+        "title": "[UPDATE] [hoch] Atlassian Bamboo, Bitbucket, Confluence, Fisheye/Crucible, Jira Software und Jira Service Management: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-17T10:19:45+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3376"
+      },
       {
         "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
@@ -17,6 +31,20 @@
         "published_at": "2026-09-17T14:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/jp/JVN93985674/"
+      },
+      {
+        "title": "[UPDATE] [hoch] PCRE2 (Perl Compatible Regular Expressions): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-17T10:19:45+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3334"
+      },
+      {
+        "title": "[UPDATE] [hoch] Mozilla Firefox und Thunderbird: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-17T10:19:45+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3375"
       },
       {
         "title": "[UPDATE] [mittel] QT: Schwachstelle ermöglicht Denial of Service",
@@ -45,13 +73,15 @@
         "published_at": "2026-09-17T05:31:31+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3386"
-      },
+      }
+    ],
+    "github": [
       {
-        "title": "Warnung vor Cyberattacken auf Google Pixel, Cisco ISE und Acronis Backup",
-        "source": "heise Security Alerts",
-        "published_at": "2026-09-17T07:30:00.000+00:00",
-        "relevance_score": 13,
-        "url": "https://www.heise.de/news/Warnung-vor-Cyberattacken-auf-Google-Pixel-Cisco-ISE-und-Acronis-Backup-11456146.html"
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (firewalld, leapp-repository, tesseract): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-17T10:19:45+00:00",
+        "relevance_score": 18,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3382"
       },
       {
         "title": "cloudflare/security-audit-skill",
@@ -61,11 +91,83 @@
         "url": "https://github.com/cloudflare/security-audit-skill"
       },
       {
-        "title": "Jetzt patchen! Angreifer knipsen Firewalls von Cisco aus",
+        "title": "Mobile’s next US$4.5 trillion won’t come from connectivity",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-17T01:30:56+00:00",
+        "relevance_score": 11,
+        "url": "https://e27.co/mobiles-next-us4-5-trillion-wont-come-from-connectivity-20260914/"
+      },
+      {
+        "title": "Your team finished the AI course. Can they challenge the machine?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-17T02:00:52+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/your-team-finished-the-ai-course-can-they-challenge-the-machine-20260914/"
+      },
+      {
+        "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-09-17T00:26:43+00:00",
+        "relevance_score": 9,
+        "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/"
+      },
+      {
+        "title": "abue-ammar/tinycast",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 8,
+        "url": "https://github.com/abue-ammar/tinycast"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "[UPDATE] [hoch] Atlassian Bamboo, Bitbucket, Confluence, Fisheye/Crucible, Jira Software und Jira Service Management: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-17T10:19:45+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3376"
+      },
+      {
+        "title": "South Africa joins the global resistance against American data centers",
+        "source": "Rest of World Global Tech Feed",
+        "published_at": "2026-09-17T10:00:00+00:00",
+        "relevance_score": 14,
+        "url": "https://restofworld.org/2026/south-africa-ai-data-center-protests/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+      },
+      {
+        "title": "Warnung vor Cyberattacken auf Google Pixel, Cisco ISE und Acronis Backup",
         "source": "heise Security Alerts",
-        "published_at": "2026-09-17T08:08:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-knipsen-Firewalls-von-Cisco-aus-11456078.html"
+        "published_at": "2026-09-17T07:30:00.000+00:00",
+        "relevance_score": 13,
+        "url": "https://www.heise.de/news/Warnung-vor-Cyberattacken-auf-Google-Pixel-Cisco-ISE-und-Acronis-Backup-11456146.html"
+      },
+      {
+        "title": "Why did Bitcoin and Ethereum move in near-perfect lockstep after the Fed rate hike?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-17T04:07:37+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/why-did-bitcoin-and-ethereum-move-in-near-perfect-lockstep-after-the-fed-rate-hike-20260917/"
+      },
+      {
+        "title": "cloudflare/security-audit-skill",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 12,
+        "url": "https://github.com/cloudflare/security-audit-skill"
+      },
+      {
+        "title": "Why FinSight thinks Physical AI is mispriced by a decade of data, not dollars",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-17T05:01:41+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/why-finsight-thinks-physical-ai-is-mispriced-by-a-decade-of-data-not-dollars-20260917/"
+      },
+      {
+        "title": "Why Singapore investors hold more Apple than Singtel, and why it should worry you",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-17T02:30:18+00:00",
+        "relevance_score": 5,
+        "url": "https://e27.co/why-singapore-investors-hold-more-apple-than-singtel-and-why-it-should-worry-you-20260523/"
       }
     ],
     "ai": [
@@ -75,6 +177,13 @@
         "published_at": "2026-09-17T03:00:21+00:00",
         "relevance_score": 16,
         "url": "https://e27.co/paid-to-be-quoted-the-creator-revenue-line-southeast-asia-hasnt-priced-yet-20260914/"
+      },
+      {
+        "title": "South Africa joins the global resistance against American data centers",
+        "source": "Rest of World Global Tech Feed",
+        "published_at": "2026-09-17T10:00:00+00:00",
+        "relevance_score": 14,
+        "url": "https://restofworld.org/2026/south-africa-ai-data-center-protests/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
       },
       {
         "title": "MLflowのdspyとstatsmodelsフレーバーにおけるpickleのデシリアライズ制御回避の脆弱性",
@@ -131,13 +240,6 @@
         "published_at": "2026-09-17T05:25:11+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/databricks-doubles-down-on-singapore-with-us350m-ai-investment-plan-20260917/"
-      },
-      {
-        "title": "Your team finished the AI course. Can they challenge the machine?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-17T02:00:52+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/your-team-finished-the-ai-course-can-they-challenge-the-machine-20260914/"
       }
     ],
     "general": [
@@ -212,43 +314,6 @@
         "url": "https://internet.watch.impress.co.jp/docs/special/2139536.html"
       }
     ],
-    "geopolitics": [
-      {
-        "title": "Warnung vor Cyberattacken auf Google Pixel, Cisco ISE und Acronis Backup",
-        "source": "heise Security Alerts",
-        "published_at": "2026-09-17T07:30:00.000+00:00",
-        "relevance_score": 13,
-        "url": "https://www.heise.de/news/Warnung-vor-Cyberattacken-auf-Google-Pixel-Cisco-ISE-und-Acronis-Backup-11456146.html"
-      },
-      {
-        "title": "Why did Bitcoin and Ethereum move in near-perfect lockstep after the Fed rate hike?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-17T04:07:37+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/why-did-bitcoin-and-ethereum-move-in-near-perfect-lockstep-after-the-fed-rate-hike-20260917/"
-      },
-      {
-        "title": "cloudflare/security-audit-skill",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 12,
-        "url": "https://github.com/cloudflare/security-audit-skill"
-      },
-      {
-        "title": "Why FinSight thinks Physical AI is mispriced by a decade of data, not dollars",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-17T05:01:41+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/why-finsight-thinks-physical-ai-is-mispriced-by-a-decade-of-data-not-dollars-20260917/"
-      },
-      {
-        "title": "Why Singapore investors hold more Apple than Singtel, and why it should worry you",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-17T02:30:18+00:00",
-        "relevance_score": 5,
-        "url": "https://e27.co/why-singapore-investors-hold-more-apple-than-singtel-and-why-it-should-worry-you-20260523/"
-      }
-    ],
     "economy": [
       {
         "title": "Why did Bitcoin and Ethereum move in near-perfect lockstep after the Fed rate hike?",
@@ -270,43 +335,6 @@
         "published_at": "2026-09-17T01:30:56+00:00",
         "relevance_score": 11,
         "url": "https://e27.co/mobiles-next-us4-5-trillion-wont-come-from-connectivity-20260914/"
-      }
-    ],
-    "github": [
-      {
-        "title": "cloudflare/security-audit-skill",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 12,
-        "url": "https://github.com/cloudflare/security-audit-skill"
-      },
-      {
-        "title": "Mobile’s next US$4.5 trillion won’t come from connectivity",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-17T01:30:56+00:00",
-        "relevance_score": 11,
-        "url": "https://e27.co/mobiles-next-us4-5-trillion-wont-come-from-connectivity-20260914/"
-      },
-      {
-        "title": "Your team finished the AI course. Can they challenge the machine?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-17T02:00:52+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/your-team-finished-the-ai-course-can-they-challenge-the-machine-20260914/"
-      },
-      {
-        "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-        "source": "GitHub Blog Atom",
-        "published_at": "2026-09-17T00:26:43+00:00",
-        "relevance_score": 9,
-        "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/"
-      },
-      {
-        "title": "abue-ammar/tinycast",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 8,
-        "url": "https://github.com/abue-ammar/tinycast"
       }
     ]
   }
