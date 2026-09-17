@@ -1,49 +1,56 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-17T02:56:39+00:00_
+_Generated: 2026-09-17T03:15:13+00:00_
 
 ## Status
 - status: `normal`
-- findings: `13`
+- findings: `14`
 
 ## Top Signals
 
-### 1. MLflowのdspyとstatsmodelsフレーバーにおけるpickleのデシリアライズ制御回避の脆弱性
+### 1. Paid to be quoted: The creator revenue line Southeast Asia hasn’t priced yet
+- source: e27 Asia Startup and Tech Feed
+- score: `16`
+- published: `2026-09-17T03:00:21+00:00`
+- url: https://e27.co/paid-to-be-quoted-the-creator-revenue-line-southeast-asia-hasnt-priced-yet-20260914/
+- summary: When we run citation checks for clients at ESBO Ltd, my agency, the sources assistants quote for buying questions are rarely brand websites or big media. They are creators: a YouTube comparison from someone who tested four products on camera, or a forum threa…
+
+### 2. MLflowのdspyとstatsmodelsフレーバーにおけるpickleのデシリアライズ制御回避の脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-09-17T09:30:15+09:00`
 - url: https://jvn.jp/vu/JVNVU94390979/
 - summary: CERT/CCから本件に関するアドバイザリが公表されました。
 
-### 2. Sentry Seerにおける攻撃者が制御する入力が管理者権限で実行される脆弱性
+### 3. Sentry Seerにおける攻撃者が制御する入力が管理者権限で実行される脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-09-17T09:30:00+09:00`
 - url: https://jvn.jp/vu/JVNVU91019649/
 - summary: CERT/CCから本件に関するアドバイザリが公表されました。
 
-### 3. LLMの193倍速い“判断だけのAI”「Jev」、ChatGPTの共著研究者が開発
+### 4. LLMの193倍速い“判断だけのAI”「Jev」、ChatGPTの共著研究者が開発
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
 - published: `2026-09-16T21:37:20+00:00`
 - url: https://pc.watch.impress.co.jp/docs/news/2141599.html
 - summary: LLMの193倍速い“判断だけのAI”「Jev」、ChatGPTの共著研究者が開発
 
-### 4. Mobile’s next US$4.5 trillion won’t come from connectivity
+### 5. Mobile’s next US$4.5 trillion won’t come from connectivity
 - source: e27 Asia Startup and Tech Feed
 - score: `11`
 - published: `2026-09-17T01:30:56+00:00`
 - url: https://e27.co/mobiles-next-us4-5-trillion-wont-come-from-connectivity-20260914/
 - summary: The GSMA published its Mobile Economy 2026 report at Barcelona in March, and the arithmetic inside it is worth sitting with rather than skimming. Mobile technologies and services contributed US$7.6 trillion to global GDP in 2025, or 6.4 per cent of the total.…
 
-### 5. “ほったらかしAI動画編集”を「DaVinci Resolve」で試す これが今のベストチョイスかも
+### 6. “ほったらかしAI動画編集”を「DaVinci Resolve」で試す これが今のベストチョイスかも
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-09-16T09:15:57+00:00`
 - url: https://www.itmedia.co.jp/news/article/2609/16/2000001551/
 - summary: ここのところ、動画編集ツールのエージェンティックAI対応が続いている。ここまで米Adobeの「ChatGPT」用プラグインと、新進気鋭の編集ツール「Palmier Pro」をご紹介した。3つめは「DaVinci Resolve」である。 9月8日に公開された新バージョン21.1ではさまざまな機能強化が図られているところだが、最大の特徴はエージ...
 
-### 6. Your team finished the AI course. Can they challenge the machine?
+### 7. Your team finished the AI course. Can they challenge the machine?
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-09-17T02:00:52+00:00`

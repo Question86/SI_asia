@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-17T02:56:39+00:00",
+  "generated_at": "2026-09-17T03:15:13+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 13,
-    "displayed_findings": 13,
+    "new_relevant_findings": 1,
+    "today_file_total": 14,
+    "displayed_findings": 14,
     "high": 0,
-    "medium": 2,
+    "medium": 3,
     "observe": 11
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "Paid to be quoted: The creator revenue line Southeast Asia hasn’t priced yet",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-17T03:00:21+00:00",
+      "relevance_score": 16,
+      "url": "https://e27.co/paid-to-be-quoted-the-creator-revenue-line-southeast-asia-hasnt-priced-yet-20260914/",
+      "summary": "When we run citation checks for clients at ESBO Ltd, my agency, the sources assistants quote for buying questions are rarely brand websites or big media. They are creators: a YouTube comparison from someone who tested four products on camera, or a forum threa…",
+      "section": "medium"
+    },
     {
       "title": "MLflowのdspyとstatsmodelsフレーバーにおけるpickleのデシリアライズ制御回避の脆弱性",
       "source": "JVN Japan Vulnerability Notes",
