@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-09-17T17:46:27+00:00_
+_Generiert: 2026-09-17T17:54:26+00:00_
 
 ## Workflow execution protections in GitHub Actions generally available
 
