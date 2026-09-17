@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-09-17T10:01:23+00:00",
+  "generated_at": "2026-09-17T10:22:43+00:00",
   "fx_as_of": null,
-  "candidate_count": 776,
+  "candidate_count": 781,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 776
+    "pending": 781
   },
   "coverage_warning": null,
   "candidates": [
@@ -326,6 +326,27 @@
       "snippet": "for 60% of the total cost of ownership of a one-gigawatt AI data center ”, Epoch AI , 14 May). 19 gigawatts multiplied by USD 38 billion equals around USD 720 billion, or roughly €600 billion at current exchange rates. This should be treated as an upper bound, since the gap covers data centre capacity of all types, while the cost estimate is for GPU-dense AI facilities",
       "source_priority": "primary_hint",
       "source_url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260914_2~a3f0efbee4.en.html"
+    },
+    {
+      "amount_native": 8000000000.0,
+      "amount_usd": 8000000000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.63,
+      "candidate_id": "cand_2fa214c8fe552e56a28a",
+      "component_suggestion": "real_resource",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_cc17b4bd401d2aacd3f1",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-17T10:22:32+00:00",
+      "overlap_group_suggestion": "evt_cc17b4bd401d2aacd3f1:real_resource:7b233a7a3f03",
+      "review_status": "pending",
+      "snippet": "data center capacity, which is less than 1% of global data center capacity , despite having a fifth of the world’s population. To increase capacity to 1 gigawatt could cost up to $8 billion, Isiadinso said. “And at 1 gigawatt, we will still be behind India, we will be behind Malaysia. Malaysia has 2 gigawatts of capacity,” he said. African nations need data centers t",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://restofworld.org/2026/south-africa-ai-data-center-protests/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "component_confidence": 0.55,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 444000000.0,
@@ -2487,6 +2508,27 @@
       "snippet": "most $560 billion in foreign claims on GCC countries. The bulk of these claims were vis-à-vis borrowers in United Arab Emirates ($261 billion), Saudi Arabia ($127 billion), Qatar ($108 billion) and Kuwait ($31 billion) ( Graph 4.B ). In contrast, against the backdrop of longstanding sanctions, foreign claims on Iran remained very small, amounting to just $44 million on",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://www.bis.org/publications/202604-commentary-ibs-gli"
+    },
+    {
+      "amount_native": 99360000000.0,
+      "amount_usd": 99360000000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.55,
+      "candidate_id": "cand_ddbfdb39a3dfe909905a",
+      "component_suggestion": "valuation",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_cc17b4bd401d2aacd3f1",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-17T10:22:32+00:00",
+      "overlap_group_suggestion": "evt_cc17b4bd401d2aacd3f1:valuation:24db6d77c53a",
+      "review_status": "pending",
+      "snippet": "er operators, which provides facilities to hyperscalers and other clients. It has benefited from the AI boom, with its market capitalization rising over 30% since last December to $99.36 billion as of September 16. The groups say Equinix’s data centers would compete with residents for already-scarce water and electricity. “Our members know what it is to queue for water, t",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://restofworld.org/2026/south-africa-ai-data-center-protests/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "component_confidence": 0.55,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 31000000000.0,
@@ -11851,6 +11893,27 @@
       "source_url": "https://www.bis.org/publications/202601-commentary-ibs-gli"
     },
     {
+      "amount_native": 1500000000.0,
+      "amount_usd": 1500000000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_0369453f75cf937af983",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_cc17b4bd401d2aacd3f1",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-17T10:22:32+00:00",
+      "overlap_group_suggestion": "evt_cc17b4bd401d2aacd3f1:unknown:5102ac0da10d",
+      "review_status": "pending",
+      "snippet": "Hafeez Floris/Foxglove Microsoft has committed 5.4 billion rand ($300 million) by 2027 to expand its digital and AI infrastructure in South Africa. Amazon Web Services will invest $1.5 billion until 2029 to expand AI capabilities across Africa. In South Africa, Equinix plans to invest $438 million. “This is a strategic moment for African countries precisely because comp",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://restofworld.org/2026/south-africa-ai-data-center-protests/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
+    },
+    {
       "amount_native": 980000000.0,
       "amount_usd": 980000000.0,
       "attribution_probability": null,
@@ -11872,6 +11935,27 @@
       "source_url": "https://e27.co/tiktok-deepens-vietnam-commerce-bet-with-us980m-logistics-project-in-ho-chi-minh-city-20260910/"
     },
     {
+      "amount_native": 438000000.0,
+      "amount_usd": 438000000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_ccad63f7154d009b2b54",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_cc17b4bd401d2aacd3f1",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-17T10:22:32+00:00",
+      "overlap_group_suggestion": "evt_cc17b4bd401d2aacd3f1:unknown:741ae68ed95b",
+      "review_status": "pending",
+      "snippet": "al and AI infrastructure in South Africa. Amazon Web Services will invest $1.5 billion until 2029 to expand AI capabilities across Africa. In South Africa, Equinix plans to invest $438 million. “This is a strategic moment for African countries precisely because companies want access to new markets and locations,” Rachel Adams, founder of the Global Center on AI Governan",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://restofworld.org/2026/south-africa-ai-data-center-protests/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
+    },
+    {
       "amount_native": 400000000.0,
       "amount_usd": 400000000.0,
       "attribution_probability": null,
@@ -11891,6 +11975,27 @@
       "snippet": "Circle to acquire Tazapay for US$400M as USDC push moves into cross-border payments | e27 --> Verify Your Email Address Your account contact email hasn't been verified yet. Please verify your email address Go to Edit",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://e27.co/circle-to-acquire-tazapay-as-usdc-push-moves-into-cross-border-payments-20260909/"
+    },
+    {
+      "amount_native": 300000000.0,
+      "amount_usd": 300000000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_66ad3e0f72e2746634a6",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_cc17b4bd401d2aacd3f1",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-17T10:22:32+00:00",
+      "overlap_group_suggestion": "evt_cc17b4bd401d2aacd3f1:unknown:4741040d55cf",
+      "review_status": "pending",
+      "snippet": "m the Housing Assembly at a protest outside the Civic Planning Centre in Cape Town, South Africa on July 14, 2026. Hafeez Floris/Foxglove Microsoft has committed 5.4 billion rand ($300 million) by 2027 to expand its digital and AI infrastructure in South Africa. Amazon Web Services will invest $1.5 billion until 2029 to expand AI capabilities across Africa. In South Afr",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://restofworld.org/2026/south-africa-ai-data-center-protests/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 270000000.0,
