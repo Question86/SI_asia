@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T07:47:31+00:00",
+  "generated_at": "2026-09-17T07:55:31+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 32,
@@ -47,44 +47,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-17T03:15:18+00:00"
-    },
-    {
-      "key": "domain:www.heise.de",
-      "title": "Warnung vor Cyberattacken auf Google Pixel, Cisco ISE und Acronis Backup",
-      "sources": [
-        "heise Security Alerts"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.heise.de/news/Warnung-vor-Cyberattacken-auf-Google-Pixel-Cisco-ISE-und-Acronis-Backup-11456146.html"
-      ],
-      "finding_count": 1,
-      "max_score": 13,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 17.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 18.1,
-      "ranking_score": 17.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-19T07:39:37+00:00"
     },
     {
       "key": "url:https://jvn.jp/jp/jvn93985674/",
@@ -239,6 +201,44 @@
       "first_seen_at": "2026-08-28T14:08:37+00:00"
     },
     {
+      "key": "domain:www.heise.de",
+      "title": "Warnung vor Cyberattacken auf Google Pixel, Cisco ISE und Acronis Backup",
+      "sources": [
+        "heise Security Alerts"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.heise.de/news/Warnung-vor-Cyberattacken-auf-Google-Pixel-Cisco-ISE-und-Acronis-Backup-11456146.html"
+      ],
+      "finding_count": 1,
+      "max_score": 13,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 14.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 15.1,
+      "ranking_score": 14.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T07:39:37+00:00"
+    },
+    {
       "key": "earthquake:indonesia:5.2",
       "title": "M 5.2 - 132 km E of Bitung, Indonesia",
       "sources": [
@@ -297,18 +297,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 14.14,
+      "network_score": 14.06,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 13.1,
-      "ranking_score": 14.14,
+      "ranking_score": 14.06,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 1.64,
+      "baseline_bonus": 1.56,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -620,44 +620,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-17T01:02:39+00:00"
-    },
-    {
-      "key": "domain:togetter.com",
-      "title": "買ったばかりのMacBook Pro M5のキーボードとモニターの間に薄い紙資料を挟んだまま閉じて、短時間持ち運んだらモニターが潰れた→キーボードカバーもダメ、注意して下さい",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://togetter.com/li/2746655"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 10.16,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 10.1,
-      "ranking_score": 10.16,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 1.16,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-19T12:31:48+00:00"
     },
     {
       "key": "title:why-finsight-thinks-physical-mispriced-decade-data-not",
@@ -1014,6 +976,44 @@
       "first_seen_at": "2026-09-17T04:45:40+00:00"
     },
     {
+      "key": "domain:togetter.com",
+      "title": "買ったばかりのMacBook Pro M5のキーボードとモニターの間に薄い紙資料を挟んだまま閉じて、短時間持ち運んだらモニターが潰れた→キーボードカバーもダメ、注意して下さい",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://togetter.com/li/2746655"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 6.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 7.1,
+      "ranking_score": 6.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T12:31:48+00:00"
+    },
+    {
       "key": "title:why-singapore-investors-hold-more-apple-than-singtel",
       "title": "Why Singapore investors hold more Apple than Singtel, and why it should worry you",
       "sources": [
@@ -1244,7 +1244,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-17T07:47:32Z",
+    "generated_at": "2026-09-17T07:55:31Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
