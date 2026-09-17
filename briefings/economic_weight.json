@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-17T04:30:09+00:00",
+  "generated_at": "2026-09-17T04:45:55+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -2750,6 +2750,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_8d8148f763bb012436ab",
+      "title": "M 5.3 - 155 km SSE of Hihifo, Tonga",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-17T04:29:52+00:00",
+      "last_seen_at": "2026-09-17T04:45:40+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_93cf84ab18e48292c116",
       "title": "M 4.8 - 292 km WNW of Houma, Tonga",
       "event_classes": [
@@ -3328,23 +3345,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_8d8148f763bb012436ab",
-      "title": "M 5.3 - 155 km SSE of Hihifo, Tonga",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-09-17T04:29:52+00:00",
-      "last_seen_at": "2026-09-17T04:29:52+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -3800,7 +3800,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-17T01:02:39+00:00",
-      "last_seen_at": "2026-09-17T04:29:52+00:00",
+      "last_seen_at": "2026-09-17T04:45:40+00:00",
       "status": "active"
     },
     {
@@ -3902,7 +3902,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-17T01:02:39+00:00",
-      "last_seen_at": "2026-09-17T04:29:52+00:00",
+      "last_seen_at": "2026-09-17T04:45:40+00:00",
       "status": "active"
     },
     {
@@ -4905,7 +4905,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-17T03:15:18+00:00",
-      "last_seen_at": "2026-09-17T04:29:52+00:00",
+      "last_seen_at": "2026-09-17T04:45:40+00:00",
       "status": "active"
     },
     {
@@ -5908,7 +5908,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-17T02:56:43+00:00",
-      "last_seen_at": "2026-09-17T04:29:52+00:00",
+      "last_seen_at": "2026-09-17T04:45:40+00:00",
       "status": "active"
     },
     {
@@ -5925,7 +5925,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-17T04:10:16+00:00",
-      "last_seen_at": "2026-09-17T04:29:52+00:00",
+      "last_seen_at": "2026-09-17T04:45:40+00:00",
       "status": "active"
     },
     {
@@ -6418,7 +6418,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-17T02:56:43+00:00",
-      "last_seen_at": "2026-09-17T04:29:52+00:00",
+      "last_seen_at": "2026-09-17T04:45:40+00:00",
       "status": "active"
     },
     {
@@ -6792,7 +6792,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-17T01:33:00+00:00",
-      "last_seen_at": "2026-09-17T04:29:52+00:00",
+      "last_seen_at": "2026-09-17T04:45:40+00:00",
       "status": "active"
     },
     {
@@ -7489,7 +7489,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-17T02:02:37+00:00",
-      "last_seen_at": "2026-09-17T04:29:52+00:00",
+      "last_seen_at": "2026-09-17T04:45:40+00:00",
       "status": "active"
     },
     {
@@ -7574,7 +7574,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-17T01:02:39+00:00",
-      "last_seen_at": "2026-09-17T04:29:52+00:00",
+      "last_seen_at": "2026-09-17T04:45:40+00:00",
       "status": "active"
     },
     {
@@ -8544,7 +8544,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-17T01:54:13+00:00",
-      "last_seen_at": "2026-09-17T04:29:52+00:00",
+      "last_seen_at": "2026-09-17T04:45:40+00:00",
       "status": "active"
     },
     {
@@ -9500,6 +9500,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_ec7119a39f5b85bdb04b",
+      "title": "Nobody gives you time to explain. That’s the real fundraising problem",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108800.0,
+      "p50_usd": 10880000.0,
+      "p90_usd": 1088000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-17T04:45:40+00:00",
+      "last_seen_at": "2026-09-17T04:45:40+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_0177d8625bc83d6c8e11",
       "title": "ＡＩで数学の難問を解く行為は「科学や数学界に有害だ」…世界の数学者２５人が非難の緊急声明",
       "event_classes": [
@@ -9649,7 +9666,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-17T01:02:39+00:00",
-      "last_seen_at": "2026-09-17T04:29:52+00:00",
+      "last_seen_at": "2026-09-17T04:45:40+00:00",
       "status": "active"
     },
     {
@@ -9887,7 +9904,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-17T03:34:45+00:00",
-      "last_seen_at": "2026-09-17T04:29:52+00:00",
+      "last_seen_at": "2026-09-17T04:45:40+00:00",
       "status": "active"
     },
     {
@@ -9921,7 +9938,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-31T00:59:38+00:00",
-      "last_seen_at": "2026-09-17T04:29:52+00:00",
+      "last_seen_at": "2026-09-17T04:45:40+00:00",
       "status": "active"
     },
     {
@@ -10040,7 +10057,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-17T02:32:02+00:00",
-      "last_seen_at": "2026-09-17T04:29:52+00:00",
+      "last_seen_at": "2026-09-17T04:45:40+00:00",
       "status": "active"
     },
     {
@@ -10057,7 +10074,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-17T00:13:57+00:00",
-      "last_seen_at": "2026-09-17T04:29:52+00:00",
+      "last_seen_at": "2026-09-17T04:45:40+00:00",
       "status": "active"
     },
     {
@@ -10975,7 +10992,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-17T02:32:02+00:00",
-      "last_seen_at": "2026-09-17T04:29:52+00:00",
+      "last_seen_at": "2026-09-17T04:45:40+00:00",
       "status": "active"
     },
     {
