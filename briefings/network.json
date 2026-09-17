@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-17T21:38:55+00:00",
+  "generated_at": "2026-09-17T21:46:15+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 72,
-    "clusters": 52,
+    "findings": 73,
+    "clusters": 53,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 0,
@@ -1244,6 +1244,44 @@
       "first_seen_at": "2026-09-17T06:36:33+00:00"
     },
     {
+      "key": "domain:qiita.com",
+      "title": "オントロジー？ナレッジグラフ？AI時代のデータ基盤用語をざっくり理解する - Qiita",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier4_platform_social"
+      ],
+      "urls": [
+        "https://qiita.com/yushibats/items/d4e3e0186f4d8eb83874?utm_source=dlvr.it&utm_medium=twitter"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 0.75,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 9.18,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 9.5,
+      "ranking_score": 9.18,
+      "initial_reach_tier": "social",
+      "source_reach_score": 2.0,
+      "authority_bonus_capped": 1.2,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.48,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T01:58:32+00:00"
+    },
+    {
       "key": "domain:openai.com",
       "title": "Introducing Astra for Law",
       "sources": [
@@ -2024,7 +2062,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-17T21:38:55Z",
+    "generated_at": "2026-09-17T21:46:16Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
