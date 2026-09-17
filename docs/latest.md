@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-17T01:54:10+00:00_
+_Generiert: 2026-09-17T02:02:33+00:00_
 
 ## Kurzlage
 
-7 neue relevante Treffer. Stärkstes Signal: „MLflowのdspyとstatsmodelsフレーバーにおけるpickleのデシリアライズ制御回避の脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
+8 neue relevante Treffer. Stärkstes Signal: „MLflowのdspyとstatsmodelsフレーバーにおけるpickleのデシリアライズ制御回避の脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
 
 ## Priorität Hoch
 
@@ -41,6 +41,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: METI (+2.0)
   - Kurz: The GSMA published its Mobile Economy 2026 report at Barcelona in March, and the arithmetic inside it is worth sitting with rather than skimming. Mobile technologies and services contributed US$7.6 trillion to global GDP in 2025, or 6.4 per cent of the total. By 2030, that reaches US$11.3 trillion, or 8.4 per cent. Over the […] The post Mobile’s next US$4.5 trillion won’t come from connectivity appeared first on e27…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Your team finished the AI course. Can they challenge the machine?** — Score 10, observation — [Quelle](https://e27.co/your-team-finished-the-ai-course-can-they-challenge-the-machine-20260914/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-17T02:00:52+00:00`, fetched `2026-09-17T02:02:02+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, founder
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0)
+  - Kurz: A dashboard can tell a founder how many employees completed an AI course. It cannot tell whether those employees know when an AI answer is wrong. My work in adult learning has taught me to take that gap seriously. The distinction is becoming urgent. The World Economic Forum’s Future of Jobs Report 2025 found that […] The post Your team finished the AI course. Can they challenge the machine? appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Migrating the GitHub Copilot runtime to Rust, using Copilot** — Score 9, observation — [Quelle](https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/)
   - Quelle: GitHub Blog Atom / `rss`
