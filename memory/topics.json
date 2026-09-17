@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-17T17:28:08+00:00",
+  "generated_at": "2026-09-17T17:39:22+00:00",
   "topics": {
     "security": [
       {
@@ -84,6 +84,13 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3382"
       },
       {
+        "title": "Workflow execution protections in GitHub Actions generally available",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-09-17T15:45:26+00:00",
+        "relevance_score": 17,
+        "url": "https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available"
+      },
+      {
         "title": "cloudflare/security-audit-skill",
         "source": "GitHub Trending RSS All Languages Daily",
         "published_at": null,
@@ -124,6 +131,78 @@
         "published_at": null,
         "relevance_score": 8,
         "url": "https://github.com/abue-ammar/tinycast"
+      }
+    ],
+    "ai": [
+      {
+        "title": "Workflow execution protections in GitHub Actions generally available",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-09-17T15:45:26+00:00",
+        "relevance_score": 17,
+        "url": "https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available"
+      },
+      {
+        "title": "Paid to be quoted: The creator revenue line Southeast Asia hasn’t priced yet",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-17T03:00:21+00:00",
+        "relevance_score": 16,
+        "url": "https://e27.co/paid-to-be-quoted-the-creator-revenue-line-southeast-asia-hasnt-priced-yet-20260914/"
+      },
+      {
+        "title": "[NEU] [mittel] vllm: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-17T11:26:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3437"
+      },
+      {
+        "title": "South Africa joins the global resistance against American data centers",
+        "source": "Rest of World Global Tech Feed",
+        "published_at": "2026-09-17T10:00:00+00:00",
+        "relevance_score": 14,
+        "url": "https://restofworld.org/2026/south-africa-ai-data-center-protests/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+      },
+      {
+        "title": "MLflowのdspyとstatsmodelsフレーバーにおけるpickleのデシリアライズ制御回避の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-17T09:30:15+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU94390979/"
+      },
+      {
+        "title": "Claude Codeの Agent Skills は、ときどき見直したほうがいい - じゃあ、おうちで学べる",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-17T05:46:22+00:00",
+        "relevance_score": 14,
+        "url": "https://syu-m-5151.hatenablog.com/entry/2026/09/17/140349"
+      },
+      {
+        "title": "Claude Codeを「使うほど育つ」AI秘書にするノウハウ",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-17T05:02:37+00:00",
+        "relevance_score": 14,
+        "url": "https://speakerdeck.com/minorun365/claude-code-o-tsukau-hodo-sodatsu-ai-hisho-ni-suru-nouhau"
+      },
+      {
+        "title": "Why did Bitcoin and Ethereum move in near-perfect lockstep after the Fed rate hike?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-17T04:07:37+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/why-did-bitcoin-and-ethereum-move-in-near-perfect-lockstep-after-the-fed-rate-hike-20260917/"
+      },
+      {
+        "title": "LLMの193倍速い“判断だけのAI”「Jev」、ChatGPTの共著研究者が開発",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-16T21:37:20+00:00",
+        "relevance_score": 12,
+        "url": "https://pc.watch.impress.co.jp/docs/news/2141599.html"
+      },
+      {
+        "title": "cloudflare/security-audit-skill",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 12,
+        "url": "https://github.com/cloudflare/security-audit-skill"
       }
     ],
     "geopolitics": [
@@ -196,78 +275,6 @@
         "published_at": "2026-09-17T11:16:31+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3433"
-      }
-    ],
-    "ai": [
-      {
-        "title": "Paid to be quoted: The creator revenue line Southeast Asia hasn’t priced yet",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-17T03:00:21+00:00",
-        "relevance_score": 16,
-        "url": "https://e27.co/paid-to-be-quoted-the-creator-revenue-line-southeast-asia-hasnt-priced-yet-20260914/"
-      },
-      {
-        "title": "[NEU] [mittel] vllm: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-17T11:26:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3437"
-      },
-      {
-        "title": "South Africa joins the global resistance against American data centers",
-        "source": "Rest of World Global Tech Feed",
-        "published_at": "2026-09-17T10:00:00+00:00",
-        "relevance_score": 14,
-        "url": "https://restofworld.org/2026/south-africa-ai-data-center-protests/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
-      },
-      {
-        "title": "MLflowのdspyとstatsmodelsフレーバーにおけるpickleのデシリアライズ制御回避の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-17T09:30:15+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU94390979/"
-      },
-      {
-        "title": "Claude Codeの Agent Skills は、ときどき見直したほうがいい - じゃあ、おうちで学べる",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-17T05:46:22+00:00",
-        "relevance_score": 14,
-        "url": "https://syu-m-5151.hatenablog.com/entry/2026/09/17/140349"
-      },
-      {
-        "title": "Claude Codeを「使うほど育つ」AI秘書にするノウハウ",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-17T05:02:37+00:00",
-        "relevance_score": 14,
-        "url": "https://speakerdeck.com/minorun365/claude-code-o-tsukau-hodo-sodatsu-ai-hisho-ni-suru-nouhau"
-      },
-      {
-        "title": "Why did Bitcoin and Ethereum move in near-perfect lockstep after the Fed rate hike?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-17T04:07:37+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/why-did-bitcoin-and-ethereum-move-in-near-perfect-lockstep-after-the-fed-rate-hike-20260917/"
-      },
-      {
-        "title": "LLMの193倍速い“判断だけのAI”「Jev」、ChatGPTの共著研究者が開発",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-16T21:37:20+00:00",
-        "relevance_score": 12,
-        "url": "https://pc.watch.impress.co.jp/docs/news/2141599.html"
-      },
-      {
-        "title": "cloudflare/security-audit-skill",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 12,
-        "url": "https://github.com/cloudflare/security-audit-skill"
-      },
-      {
-        "title": "高速な判断に特化したAI - TypeSafe「Jev」 と System One Model｜npaka",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-16T23:12:42+00:00",
-        "relevance_score": 11,
-        "url": "https://note.com/npaka/n/n6f8dd30a5fa4"
       }
     ],
     "general": [
