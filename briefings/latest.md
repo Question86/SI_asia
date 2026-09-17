@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-17T03:55:41+00:00_
+_Generiert: 2026-09-17T04:10:12+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „Paid to be quoted: The creator revenue line Southeast Asia hasn’t priced yet“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
+16 neue relevante Treffer. Stärkstes Signal: „Paid to be quoted: The creator revenue line Southeast Asia hasn’t priced yet“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -95,6 +95,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Why did Bitcoin and Ethereum move in near-perfect lockstep after the Fed rate hike?** — Score 12, observation — [Quelle](https://e27.co/why-did-bitcoin-and-ethereum-move-in-near-perfect-lockstep-after-the-fed-rate-hike-20260917/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-17T04:07:37+00:00`, fetched `2026-09-17T04:09:41+00:00`
+  - Treffer: APAC Trend Radar, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: Bitcoin rose 0.82 per cent in 24 hours to US$76,318.25. Ethereum gained 0.80 per cent to US$2,418.94. The total crypto market cap increased one per cent, and the broader crypto market rose 0.99 per cent. These numbers point to a single conclusion. A relief bounce tied to the Federal Reserve lifted the entire asset class. […] The post Why did Bitcoin and Ethereum move in near-perfect lockstep after the Fed rate hike?…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **LLMの193倍速い“判断だけのAI”「Jev」、ChatGPTの共著研究者が開発** — Score 12, observation — [Quelle](https://pc.watch.impress.co.jp/docs/news/2141599.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-16T21:37:20+00:00`, fetched `2026-09-17T02:56:10+00:00`
@@ -149,15 +158,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: エンジニアプラットフォームを提供するファインディ株式会社（本社：東京都品川区、代表取締役：山田 裕一朗、以下「ファインディ」）は、2026年10月16日（金）にベルサール汐留で開催する「AI×開発組織Summit 2026」の申込者数が500名を突破したことをお知らせします。 ◆ 申込者の約6割が「AI前提の開発プロセスの標準...
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Why Singapore investors hold more Apple than Singtel, and why it should worry you** — Score 5, observation — [Quelle](https://e27.co/why-singapore-investors-hold-more-apple-than-singtel-and-why-it-should-worry-you-20260523/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-17T02:30:18+00:00`, fetched `2026-09-17T02:31:27+00:00`
-  - Treffer: APAC Trend Radar, Public Health
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); Public Health (+5.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph demote portfolio (x0.45)
-  - Kurz: Last month, I sat across from Kenny, a software engineer in his early thirties, based in Singapore, someone who reads financial news, has a brokerage account, and thinks carefully about his money. I asked him about his portfolio. He listed: Apple, Microsoft, Google, Nvidia, and Amazon. I asked about Singapore stocks. He paused. “I don’t […] The post Why Singapore investors hold more Apple than Singtel, and why it sh…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
