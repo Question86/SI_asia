@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-17T10:33:36+00:00_
+_Generiert: 2026-09-17T10:44:56+00:00_
 
 ## Kurzlage
 
@@ -29,6 +29,10 @@ _Generiert: 2026-09-17T10:33:36+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-11`
   - Kurz: Known exploited vulnerability. Added 2026-09-11. Due 2026-09-14. ConnectWise ScreenConnect Improper Privilege Management and Missing Authorization Vulnerability
+- **GDACS: Green flood alert in Democratic Republic of Congo** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104166)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Democratic Republic of Congo
 - **GDACS: Green flood alert in Senegal** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104161)
   - Quelle: GDACS
   - Zeit: ``

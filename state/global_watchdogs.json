@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T10:33:39+00:00",
+  "generated_at": "2026-09-17T10:45:00+00:00",
   "sections": {
     "global_security": [
       {
@@ -61,6 +61,16 @@
         "metrics": {
           "cve": "CVE-2026-84869"
         }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "GDACS: Green flood alert in Democratic Republic of Congo",
+        "summary": "Green flood alert in Democratic Republic of Congo",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104166",
+        "published_at": "",
+        "metrics": {}
       },
       {
         "domain": "security",
