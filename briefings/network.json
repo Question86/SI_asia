@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T22:46:10+00:00",
+  "generated_at": "2026-09-17T22:54:14+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 78,
@@ -1322,44 +1322,6 @@
       "first_seen_at": "2026-09-17T06:36:33+00:00"
     },
     {
-      "key": "domain:nomolk.hatenablog.com",
-      "title": "なぜ世界中のハッカーが変なデバイスで『DOOM』を動かしているのか～デジカメから妊娠検査キット、ハエの中枢神経系まで - nomolkのブログ",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://nomolk.hatenablog.com/entry/2026/09/18/020558"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 9.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 10.1,
-      "ranking_score": 9.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-09-17T22:46:10+00:00"
-    },
-    {
       "key": "domain:openai.com",
       "title": "Introducing Astra for Law",
       "sources": [
@@ -1756,6 +1718,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-17T04:45:40+00:00"
+    },
+    {
+      "key": "domain:nomolk.hatenablog.com",
+      "title": "なぜ世界中のハッカーが変なデバイスで『DOOM』を動かしているのか～デジカメから妊娠検査キット、ハエの中枢神経系まで - nomolkのブログ",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://nomolk.hatenablog.com/entry/2026/09/18/020558"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 6.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 7.1,
+      "ranking_score": 6.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-17T22:46:10+00:00"
     },
     {
       "key": "title:typesafe-jev-llm",
@@ -2254,7 +2254,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-17T22:46:10Z",
+    "generated_at": "2026-09-17T22:54:15Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
