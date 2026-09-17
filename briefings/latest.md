@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-17T14:53:05+00:00_
+_Generiert: 2026-09-17T15:00:45+00:00_
 
 ## Kurzlage
 
@@ -9,10 +9,10 @@ _Generiert: 2026-09-17T14:53:05+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
-- **USGS earthquake M6.5 - 166 km W of Nikolski, Alaska** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti1p)
+- **USGS earthquake M6.5 - 165 km W of Nikolski, Alaska** — high — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti1p)
   - Quelle: USGS
-  - Zeit: `2026-09-17T14:19:52+00:00`
-  - Kurz: M6.5 - 166 km W of Nikolski, Alaska. PAGER alert: green. Tsunami flag: 1.
+  - Zeit: `2026-09-17T14:19:53+00:00`
+  - Kurz: M6.5 - 165 km W of Nikolski, Alaska. PAGER alert: green. Tsunami flag: 1.
 - **CISA KEV: CVE-2026-58704 Google Pixel** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-09-16`
@@ -33,10 +33,10 @@ _Generiert: 2026-09-17T14:53:05+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-11`
   - Kurz: Known exploited vulnerability. Added 2026-09-11. Due 2026-09-14. ConnectWise ScreenConnect Improper Privilege Management and Missing Authorization Vulnerability
-- **GDACS: Green earthquake (Magnitude 6.5M, Depth:108.383km) in Fox Islands, Aleutian Islands 17/09/2026 14:19 UTC, Few people affected in MMI&gt;=III.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1566678)
+- **GDACS: Green earthquake (Magnitude 6.5M, Depth:108.383km) in Fox Islands, Aleutian Islands 17/09/2026 14:19 UTC, [unknown].** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1566678)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.5M, Depth:108.383km) in Fox Islands, Aleutian Islands 17/09/2026 14:19 UTC, Few people affected in MMI&gt;=III.
+  - Kurz: Green earthquake (Magnitude 6.5M, Depth:108.383km) in Fox Islands, Aleutian Islands 17/09/2026 14:19 UTC, [unknown].
 - **GDACS: Green flood alert in Democratic Republic of Congo** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104166)
   - Quelle: GDACS
   - Zeit: ``
