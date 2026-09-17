@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-17T11:00:23+00:00",
+  "generated_at": "2026-09-17T11:20:05+00:00",
   "topics": {
     "security": [
       {
@@ -26,11 +26,39 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3412"
       },
       {
+        "title": "[NEU] [hoch] Check Point Security Management: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-17T11:11:31+00:00",
+        "relevance_score": 15,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3429"
+      },
+      {
         "title": "スマートフォンアプリ「東北電力 よりそうｅねっと」におけるハードコードされた暗号鍵使用の脆弱性",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-09-17T14:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/jp/JVN93985674/"
+      },
+      {
+        "title": "[NEU] [hoch] Apache Nifi: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-17T11:11:32+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3432"
+      },
+      {
+        "title": "[NEU] [mittel] drawio: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-17T11:11:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3430"
+      },
+      {
+        "title": "[NEU] [hoch] Cisco Nexus Dashboard: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-17T11:11:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3431"
       },
       {
         "title": "[UPDATE] [hoch] PCRE2 (Perl Compatible Regular Expressions): Mehrere Schwachstellen",
@@ -45,34 +73,6 @@
         "published_at": "2026-09-17T10:19:45+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3375"
-      },
-      {
-        "title": "[UPDATE] [mittel] QT: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-17T09:31:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3383"
-      },
-      {
-        "title": "MLflowのdspyとstatsmodelsフレーバーにおけるpickleのデシリアライズ制御回避の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-17T09:30:15+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU94390979/"
-      },
-      {
-        "title": "Sentry Seerにおける攻撃者が制御する入力が管理者権限で実行される脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-17T09:30:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU91019649/"
-      },
-      {
-        "title": "[UPDATE] [hoch] Netgate pfSense: Schwachstelle ermöglicht Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-17T05:31:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3386"
       }
     ],
     "github": [
@@ -128,6 +128,34 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3376"
       },
       {
+        "title": "[NEU] [hoch] Check Point Security Management: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-17T11:11:31+00:00",
+        "relevance_score": 15,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3429"
+      },
+      {
+        "title": "[NEU] [hoch] Apache Nifi: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-17T11:11:32+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3432"
+      },
+      {
+        "title": "[NEU] [mittel] drawio: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-17T11:11:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3430"
+      },
+      {
+        "title": "[NEU] [hoch] Cisco Nexus Dashboard: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-17T11:11:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3431"
+      },
+      {
         "title": "South Africa joins the global resistance against American data centers",
         "source": "Rest of World Global Tech Feed",
         "published_at": "2026-09-17T10:00:00+00:00",
@@ -161,13 +189,6 @@
         "published_at": "2026-09-17T05:01:41+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/why-finsight-thinks-physical-ai-is-mispriced-by-a-decade-of-data-not-dollars-20260917/"
-      },
-      {
-        "title": "Why Singapore investors hold more Apple than Singtel, and why it should worry you",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-17T02:30:18+00:00",
-        "relevance_score": 5,
-        "url": "https://e27.co/why-singapore-investors-hold-more-apple-than-singtel-and-why-it-should-worry-you-20260523/"
       }
     ],
     "ai": [
