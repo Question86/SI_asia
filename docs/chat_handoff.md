@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-17T05:01:49+00:00_
+_Generated: 2026-09-17T05:22:44+00:00_
 
 ## Status
 - status: `normal`
-- findings: `19`
+- findings: `21`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-09-17T05:01:49+00:00_
 - url: https://e27.co/mobiles-next-us4-5-trillion-wont-come-from-connectivity-20260914/
 - summary: The GSMA published its Mobile Economy 2026 report at Barcelona in March, and the arithmetic inside it is worth sitting with rather than skimming. Mobile technologies and services contributed US$7.6 trillion to global GDP in 2025, or 6.4 per cent of the total.…
 
-### 8. “ほったらかしAI動画編集”を「DaVinci Resolve」で試す これが今のベストチョイスかも
+### 8. 高速な判断に特化したAI - TypeSafe「Jev」 と System One Model｜npaka
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
-- published: `2026-09-16T09:15:57+00:00`
-- url: https://www.itmedia.co.jp/news/article/2609/16/2000001551/
-- summary: ここのところ、動画編集ツールのエージェンティックAI対応が続いている。ここまで米Adobeの「ChatGPT」用プラグインと、新進気鋭の編集ツール「Palmier Pro」をご紹介した。3つめは「DaVinci Resolve」である。 9月8日に公開された新バージョン21.1ではさまざまな機能強化が図られているところだが、最大の特徴はエージ...
+- published: `2026-09-16T23:12:42+00:00`
+- url: https://note.com/npaka/n/n6f8dd30a5fa4
+- summary: 高速な判断に特化したAI「Jev」と「System One Model」についてまとめました。 1. はじめに2026年9月15日、TypeSafe AIが新しいAIモデル「Jev」を発表しました。 Jevの特徴は、ChatGPTのように文章を生成するのではなく、 入力された状況から、型付きの判断とその確率を高速に返す ことに特化している点です。 応答時間...
 
 END OF DOCUMENT

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T05:01:49+00:00",
-  "run_id": "2026-09-17T05:01:49+00:00",
+  "generated_at": "2026-09-17T05:22:44+00:00",
+  "run_id": "2026-09-17T05:22:44+00:00",
   "date": "2026-09-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 19
+      "configured_public_sources_only": 21
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 19,
-    "displayed_findings": 19,
+    "new_relevant_findings": 2,
+    "today_file_total": 21,
+    "displayed_findings": 21,
     "high": 0,
     "medium": 4,
-    "observe": 15,
+    "observe": 17,
     "source_errors": 0
   },
   "sections": {
@@ -185,6 +185,28 @@
         "id": "cf2bebb5918c337820d5"
       },
       {
+        "title": "高速な判断に特化したAI - TypeSafe「Jev」 と System One Model｜npaka",
+        "url": "https://note.com/npaka/n/n6f8dd30a5fa4",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-16T23:12:42+00:00",
+        "fetched_at": "2026-09-17T05:22:12+00:00",
+        "summary": "高速な判断に特化したAI「Jev」と「System One Model」についてまとめました。 1. はじめに2026年9月15日、TypeSafe AIが新しいAIモデル「Jev」を発表しました。 Jevの特徴は、ChatGPTのように文章を生成するのではなく、 入力された状況から、型付きの判断とその確率を高速に返す ことに特化している点です。 応答時間...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry",
+          "OpenAI"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "8f745f80889b21a22c45"
+      },
+      {
         "title": "“ほったらかしAI動画編集”を「DaVinci Resolve」で試す これが今のベストチョイスかも",
         "url": "https://www.itmedia.co.jp/news/article/2609/16/2000001551/",
         "source": "Hatena Bookmark Hotentry IT",
@@ -285,6 +307,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "c6bc494da2b1ea3145c8"
+      },
+      {
+        "title": "Why FinSight thinks Physical AI is mispriced by a decade of data, not dollars",
+        "url": "https://e27.co/why-finsight-thinks-physical-ai-is-mispriced-by-a-decade-of-data-not-dollars-20260917/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-17T05:01:41+00:00",
+        "fetched_at": "2026-09-17T05:22:12+00:00",
+        "summary": "Here’s a simple way to think about FinSight Ventures: it is a late-stage fund that likes the places most investors avoid, and it has a one-line rule for deciding when to write a cheque: 35 per cent a year, in dollars, or it walks. The Uzbekistan-based firm invests in AI, cloud, enterprise software and fintech, […] The post Why FinSight thinks Physical AI is mispriced by a decade of data, not dollars appeared first o…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c14797b3be879c71f1b1"
       },
       {
         "title": "【調査】AI前提の開発組織への移行、約8割が「プロセスの標準化・AI成果の定量化」に課題",
@@ -612,6 +655,28 @@
       "id": "cf2bebb5918c337820d5"
     },
     {
+      "title": "高速な判断に特化したAI - TypeSafe「Jev」 と System One Model｜npaka",
+      "url": "https://note.com/npaka/n/n6f8dd30a5fa4",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-16T23:12:42+00:00",
+      "fetched_at": "2026-09-17T05:22:12+00:00",
+      "summary": "高速な判断に特化したAI「Jev」と「System One Model」についてまとめました。 1. はじめに2026年9月15日、TypeSafe AIが新しいAIモデル「Jev」を発表しました。 Jevの特徴は、ChatGPTのように文章を生成するのではなく、 入力された状況から、型付きの判断とその確率を高速に返す ことに特化している点です。 応答時間...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "OpenAI"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "8f745f80889b21a22c45"
+    },
+    {
       "title": "“ほったらかしAI動画編集”を「DaVinci Resolve」で試す これが今のベストチョイスかも",
       "url": "https://www.itmedia.co.jp/news/article/2609/16/2000001551/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -712,6 +777,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "c6bc494da2b1ea3145c8"
+    },
+    {
+      "title": "Why FinSight thinks Physical AI is mispriced by a decade of data, not dollars",
+      "url": "https://e27.co/why-finsight-thinks-physical-ai-is-mispriced-by-a-decade-of-data-not-dollars-20260917/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-17T05:01:41+00:00",
+      "fetched_at": "2026-09-17T05:22:12+00:00",
+      "summary": "Here’s a simple way to think about FinSight Ventures: it is a late-stage fund that likes the places most investors avoid, and it has a one-line rule for deciding when to write a cheque: 35 per cent a year, in dollars, or it walks. The Uzbekistan-based firm invests in AI, cloud, enterprise software and fintech, […] The post Why FinSight thinks Physical AI is mispriced by a decade of data, not dollars appeared first o…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c14797b3be879c71f1b1"
     },
     {
       "title": "【調査】AI前提の開発組織への移行、約8割が「プロセスの標準化・AI成果の定量化」に課題",
@@ -885,26 +971,47 @@
   ],
   "new_findings": [
     {
-      "title": "スマートフォンアプリ「東北電力 よりそうｅねっと」におけるハードコードされた暗号鍵使用の脆弱性",
-      "url": "https://jvn.jp/jp/JVN93985674/",
-      "source": "JVN Japan Vulnerability Notes",
+      "title": "高速な判断に特化したAI - TypeSafe「Jev」 と System One Model｜npaka",
+      "url": "https://note.com/npaka/n/n6f8dd30a5fa4",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-17T14:00:00+09:00",
-      "fetched_at": "2026-09-17T05:01:19+00:00",
-      "summary": "東北電力株式会社が提供するスマートフォンアプリ「東北電力 よりそうｅねっと」には、ハードコードされた暗号鍵使用の脆弱性が存在します。",
+      "published_at": "2026-09-16T23:12:42+00:00",
+      "fetched_at": "2026-09-17T05:22:12+00:00",
+      "summary": "高速な判断に特化したAI「Jev」と「System One Model」についてまとめました。 1. はじめに2026年9月15日、TypeSafe AIが新しいAIモデル「Jev」を発表しました。 Jevの特徴は、ChatGPTのように文章を生成するのではなく、 入力された状況から、型付きの判断とその確率を高速に返す ことに特化している点です。 応答時間...",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
+        "Hatena",
+        "hotentry",
+        "OpenAI"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "relevance_score": 11,
+      "relevance_reason": "OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "c20a33af256cf2c40632"
+      "id": "8f745f80889b21a22c45"
+    },
+    {
+      "title": "Why FinSight thinks Physical AI is mispriced by a decade of data, not dollars",
+      "url": "https://e27.co/why-finsight-thinks-physical-ai-is-mispriced-by-a-decade-of-data-not-dollars-20260917/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-17T05:01:41+00:00",
+      "fetched_at": "2026-09-17T05:22:12+00:00",
+      "summary": "Here’s a simple way to think about FinSight Ventures: it is a late-stage fund that likes the places most investors avoid, and it has a one-line rule for deciding when to write a cheque: 35 per cent a year, in dollars, or it walks. The Uzbekistan-based firm invests in AI, cloud, enterprise software and fintech, […] The post Why FinSight thinks Physical AI is mispriced by a decade of data, not dollars appeared first o…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c14797b3be879c71f1b1"
     }
   ],
   "source_errors": [],
