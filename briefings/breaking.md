@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-09-17T22:29:07+00:00_
+_Generiert: 2026-09-17T22:39:05+00:00_
 
 ## Agentic CLI customizations now in the usage metrics API
 
