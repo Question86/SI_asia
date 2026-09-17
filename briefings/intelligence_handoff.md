@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-17T09:40:27Z_
+_Generated: 2026-09-17T09:50:20Z_
 
 ## Lageurteil
 
@@ -12,27 +12,17 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Netgate pfSense: Schwach
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `31.0`
-- Published: `2026-09-17T05:31:31+00:00` / age_days `0.17`
+- Published: `2026-09-17T05:31:31+00:00` / age_days `0.18`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, auth, security high-signal: code, auth
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3386
-
-### [UPDATE] [hoch] Netgate pfSense: Schwachstelle ermöglicht Codeausführung
-
-- Band: `strong` (raw `extreme`)
-- Dynamics score: `24.9`
-- Published: `2026-08-28T14:08:37+00:00` / age_days `19.81`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: momentum delta +3, high terms: code, security high-signal: code, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3386
 
 ### Warnung vor Cyberattacken auf Google Pixel, Cisco ISE und Acronis Backup
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-06-19T07:39:37+00:00` / age_days `90.08`
+- Published: `2026-06-19T07:39:37+00:00` / age_days `90.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, security high-signal: google, aging penalty -8.0 for 90.1d old signal
@@ -42,17 +32,27 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Netgate pfSense: Schwach
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-17T14:00:00+09:00` / age_days `0.19`
+- Published: `2026-09-17T14:00:00+09:00` / age_days `0.2`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
 - Quelle: https://jvn.jp/jp/JVN93985674/
 
+### [UPDATE] [mittel] QT: Schwachstelle ermöglicht Denial of Service
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `26.0`
+- Published: `2026-09-17T09:31:31+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: security high-signal: cert-bund, bsi, security, advisory
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3383
+
 ### MLflowのdspyとstatsmodelsフレーバーにおけるpickleのデシリアライズ制御回避の脆弱性
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-17T09:30:15+09:00` / age_days `0.38`
+- Published: `2026-09-17T09:30:15+09:00` / age_days `0.39`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Netgate pfSense: Schwach
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `25.0`
-- Published: `2026-09-17T07:30:00.000+00:00` / age_days `0.09`
+- Published: `2026-09-17T07:30:00.000+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security, google
@@ -102,30 +102,30 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Netgate pfSense: Schwach
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-17T09:30:00+09:00` / age_days `0.38`
+- Published: `2026-09-17T09:30:00+09:00` / age_days `0.39`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
 - Quelle: https://jvn.jp/vu/JVNVU91019649/
 
+### [UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-09-17T09:31:32+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: security high-signal: cert-bund, bsi, security, advisory, official security but no high-signal phrase: capped at strong
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3412
+
 ### Mobile’s next US$4.5 trillion won’t come from connectivity
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-17T01:30:56+00:00` / age_days `0.34`
+- Published: `2026-09-17T01:30:56+00:00` / age_days `0.35`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
 - Quelle: https://e27.co/mobiles-next-us4-5-trillion-wont-come-from-connectivity-20260914/
-
-### cloudflare/security-audit-skill
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `24.0`
-- Published: `2026-09-17T06:35:58+00:00` / age_days `0.13`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: security high-signal: security, cloud
-- Quelle: https://github.com/cloudflare/security-audit-skill
 
 END OF DOCUMENT
