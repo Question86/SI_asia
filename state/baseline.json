@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-17T04:29:52+00:00",
+  "generated_at": "2026-09-17T04:45:40+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -8500,7 +8500,7 @@
     },
     "title:yahoo": {
       "title": "「人類皆殺しにしかねない」元開発者が警鐘のAI “AI著作物”で前例なき裁判 文学賞も席巻 突きつけられた深刻な問い（関西テレビ） - Yahoo!ニュース",
-      "updated_at": "2026-09-17T04:29:52+00:00",
+      "updated_at": "2026-09-17T04:45:40+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -8522,8 +8522,8 @@
         7.1,
         7.1,
         7.1,
-        7.1,
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -35641,7 +35641,104 @@
     },
     "url:https://internet.watch.impress.co.jp/docs/special/2139536.html": {
       "title": "いい加減「ドパガキ」を卒業したい！ 20代ライターがスマホ依存から脱却するために考えたこと（前編）",
-      "updated_at": "2026-09-17T04:29:52+00:00",
+      "updated_at": "2026-09-17T04:45:40+00:00",
+      "network_scores": [
+        10.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1,
+        7.1
+      ],
+      "rolling_average": 7.3,
+      "rolling_peak": 10.1,
+      "last_score": 7.1,
+      "z_hint": -0.2
+    },
+    "title:mlflow-dspy-statsmodels-pickle": {
+      "title": "MLflowのdspyとstatsmodelsフレーバーにおけるpickleのデシリアライズ制御回避の脆弱性",
+      "updated_at": "2026-09-17T04:45:40+00:00",
+      "network_scores": [
+        19.1,
+        16.1,
+        16.1,
+        16.1,
+        16.1,
+        16.1,
+        16.1,
+        16.1,
+        16.1,
+        16.1,
+        16.1,
+        16.1,
+        16.1,
+        16.1
+      ],
+      "rolling_average": 16.31,
+      "rolling_peak": 19.1,
+      "last_score": 16.1,
+      "z_hint": -0.21
+    },
+    "title:sentry-seer": {
+      "title": "Sentry Seerにおける攻撃者が制御する入力が管理者権限で実行される脆弱性",
+      "updated_at": "2026-09-17T04:45:40+00:00",
+      "network_scores": [
+        19.1,
+        16.1,
+        16.1,
+        16.1,
+        16.1,
+        16.1,
+        16.1,
+        16.1,
+        16.1,
+        16.1,
+        16.1,
+        16.1,
+        16.1,
+        16.1
+      ],
+      "rolling_average": 16.31,
+      "rolling_peak": 19.1,
+      "last_score": 16.1,
+      "z_hint": -0.21
+    },
+    "title:migrating-github-copilot-runtime-rust-using-copilot": {
+      "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+      "updated_at": "2026-09-17T04:45:40+00:00",
+      "network_scores": [
+        14.1,
+        11.1,
+        11.1,
+        11.1,
+        11.1,
+        11.1,
+        11.1,
+        11.1,
+        11.1,
+        11.1,
+        11.1,
+        11.1,
+        11.1,
+        11.1
+      ],
+      "rolling_average": 11.31,
+      "rolling_peak": 14.1,
+      "last_score": 11.1,
+      "z_hint": -0.21
+    },
+    "title:gb10": {
+      "title": "【レビュー】 GB10搭載のデル小型AI機を社内のAI専任ではない技術スタッフが1カ月試用、向いたのは「放置して任せる」仕事",
+      "updated_at": "2026-09-17T04:45:40+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -35663,103 +35760,12 @@
       "last_score": 7.1,
       "z_hint": -0.21
     },
-    "title:mlflow-dspy-statsmodels-pickle": {
-      "title": "MLflowのdspyとstatsmodelsフレーバーにおけるpickleのデシリアライズ制御回避の脆弱性",
-      "updated_at": "2026-09-17T04:29:52+00:00",
-      "network_scores": [
-        19.1,
-        16.1,
-        16.1,
-        16.1,
-        16.1,
-        16.1,
-        16.1,
-        16.1,
-        16.1,
-        16.1,
-        16.1,
-        16.1,
-        16.1
-      ],
-      "rolling_average": 16.33,
-      "rolling_peak": 19.1,
-      "last_score": 16.1,
-      "z_hint": -0.23
-    },
-    "title:sentry-seer": {
-      "title": "Sentry Seerにおける攻撃者が制御する入力が管理者権限で実行される脆弱性",
-      "updated_at": "2026-09-17T04:29:52+00:00",
-      "network_scores": [
-        19.1,
-        16.1,
-        16.1,
-        16.1,
-        16.1,
-        16.1,
-        16.1,
-        16.1,
-        16.1,
-        16.1,
-        16.1,
-        16.1,
-        16.1
-      ],
-      "rolling_average": 16.33,
-      "rolling_peak": 19.1,
-      "last_score": 16.1,
-      "z_hint": -0.23
-    },
-    "title:migrating-github-copilot-runtime-rust-using-copilot": {
-      "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-      "updated_at": "2026-09-17T04:29:52+00:00",
-      "network_scores": [
-        14.1,
-        11.1,
-        11.1,
-        11.1,
-        11.1,
-        11.1,
-        11.1,
-        11.1,
-        11.1,
-        11.1,
-        11.1,
-        11.1,
-        11.1
-      ],
-      "rolling_average": 11.33,
-      "rolling_peak": 14.1,
-      "last_score": 11.1,
-      "z_hint": -0.23
-    },
-    "title:gb10": {
-      "title": "【レビュー】 GB10搭載のデル小型AI機を社内のAI専任ではない技術スタッフが1カ月試用、向いたのは「放置して任せる」仕事",
-      "updated_at": "2026-09-17T04:29:52+00:00",
-      "network_scores": [
-        10.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1,
-        7.1
-      ],
-      "rolling_average": 7.33,
-      "rolling_peak": 10.1,
-      "last_score": 7.1,
-      "z_hint": -0.23
-    },
     "title:mobile-next-trillion-won-come-connectivity": {
       "title": "Mobile’s next US$4.5 trillion won’t come from connectivity",
-      "updated_at": "2026-09-17T04:29:52+00:00",
+      "updated_at": "2026-09-17T04:45:40+00:00",
       "network_scores": [
         16.1,
+        13.1,
         13.1,
         13.1,
         13.1,
@@ -35772,16 +35778,17 @@
         13.1,
         13.1
       ],
-      "rolling_average": 13.35,
+      "rolling_average": 13.33,
       "rolling_peak": 16.1,
       "last_score": 13.1,
-      "z_hint": -0.25
+      "z_hint": -0.23
     },
     "url:https://prtimes.jp/main/html/rd/p/000000268.000045379.html": {
       "title": "【調査】AI前提の開発組織への移行、約8割が「プロセスの標準化・AI成果の定量化」に課題",
-      "updated_at": "2026-09-17T04:29:52+00:00",
+      "updated_at": "2026-09-17T04:45:40+00:00",
       "network_scores": [
         13.1,
+        10.1,
         10.1,
         10.1,
         10.1,
@@ -35793,14 +35800,14 @@
         10.1,
         10.1
       ],
-      "rolling_average": 10.37,
+      "rolling_average": 10.35,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -0.27
+      "z_hint": -0.25
     },
     "title:your-team-finished-course-can-they-challenge-machine": {
       "title": "Your team finished the AI course. Can they challenge the machine?",
-      "updated_at": "2026-09-17T04:29:52+00:00",
+      "updated_at": "2026-09-17T04:45:40+00:00",
       "network_scores": [
         15.1,
         12.1,
@@ -35811,16 +35818,17 @@
         12.1,
         12.1,
         12.1,
+        12.1,
         12.1
       ],
-      "rolling_average": 12.4,
+      "rolling_average": 12.37,
       "rolling_peak": 15.1,
       "last_score": 12.1,
-      "z_hint": -0.3
+      "z_hint": -0.27
     },
     "title:why-singapore-investors-hold-more-apple-than-singtel": {
       "title": "Why Singapore investors hold more Apple than Singtel, and why it should worry you",
-      "updated_at": "2026-09-17T04:29:52+00:00",
+      "updated_at": "2026-09-17T04:45:40+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -35830,16 +35838,17 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.43,
+      "rolling_average": 7.4,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.33
+      "z_hint": -0.3
     },
     "title:welq-seo-web-forum": {
       "title": "WELQ問題からE-E-A-Tへ。SEOが社会に与えた影響と功罪｜住太陽×辻正浩対談 第3回 | Web担当者Forum",
-      "updated_at": "2026-09-17T04:29:52+00:00",
+      "updated_at": "2026-09-17T04:45:40+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -35849,16 +35858,17 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.43,
+      "rolling_average": 7.4,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.33
+      "z_hint": -0.3
     },
     "title:llm-193-jev-chatgpt": {
       "title": "LLMの193倍速い“判断だけのAI”「Jev」、ChatGPTの共著研究者が開発",
-      "updated_at": "2026-09-17T04:29:52+00:00",
+      "updated_at": "2026-09-17T04:45:40+00:00",
       "network_scores": [
         17.1,
         14.1,
@@ -35866,16 +35876,17 @@
         14.1,
         14.1,
         14.1,
+        14.1,
         14.1
       ],
-      "rolling_average": 14.53,
+      "rolling_average": 14.47,
       "rolling_peak": 17.1,
       "last_score": 14.1,
-      "z_hint": -0.43
+      "z_hint": -0.37
     },
     "title:davinci-resolve": {
       "title": "“ほったらかしAI動画編集”を「DaVinci Resolve」で試す これが今のベストチョイスかも",
-      "updated_at": "2026-09-17T04:29:52+00:00",
+      "updated_at": "2026-09-17T04:45:40+00:00",
       "network_scores": [
         16.1,
         13.1,
@@ -35883,65 +35894,81 @@
         13.1,
         13.1,
         13.1,
+        13.1,
         13.1
       ],
-      "rolling_average": 13.53,
+      "rolling_average": 13.47,
       "rolling_peak": 16.1,
       "last_score": 13.1,
-      "z_hint": -0.43
+      "z_hint": -0.37
     },
     "title:paid-quoted-creator-revenue-line-southeast-asia-hasn": {
       "title": "Paid to be quoted: The creator revenue line Southeast Asia hasn’t priced yet",
-      "updated_at": "2026-09-17T04:29:52+00:00",
+      "updated_at": "2026-09-17T04:45:40+00:00",
       "network_scores": [
         21.1,
         18.1,
         18.1,
         18.1,
         18.1,
+        18.1,
         18.1
       ],
-      "rolling_average": 18.6,
+      "rolling_average": 18.53,
       "rolling_peak": 21.1,
       "last_score": 18.1,
-      "z_hint": -0.5
+      "z_hint": -0.43
     },
     "domain:hsjoihs.hatenablog.com": {
       "title": "副詞誤訳シリーズ（翻訳書の『明らかに』『効果的に』『技術的に』には特に要注意） - hsjoihs’s diary",
-      "updated_at": "2026-09-17T04:29:52+00:00",
+      "updated_at": "2026-09-17T04:45:40+00:00",
       "network_scores": [
         10.1,
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.7,
+      "rolling_average": 7.6,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.6
+      "z_hint": -0.5
     },
     "title:why-did-bitcoin-ethereum-move-near-perfect-lockstep": {
       "title": "Why did Bitcoin and Ethereum move in near-perfect lockstep after the Fed rate hike?",
-      "updated_at": "2026-09-17T04:29:52+00:00",
+      "updated_at": "2026-09-17T04:45:40+00:00",
       "network_scores": [
         17.1,
+        14.1,
         14.1
       ],
-      "rolling_average": 15.6,
+      "rolling_average": 15.1,
       "rolling_peak": 17.1,
       "last_score": 14.1,
-      "z_hint": -1.5
+      "z_hint": -1.0
     },
     "earthquake:m 5.3 - 155 km sse of hihifo, tonga:5.3": {
       "title": "M 5.3 - 155 km SSE of Hihifo, Tonga",
-      "updated_at": "2026-09-17T04:29:52+00:00",
+      "updated_at": "2026-09-17T04:45:40+00:00",
       "network_scores": [
-        14.7
+        14.7,
+        11.7
       ],
-      "rolling_average": 14.7,
+      "rolling_average": 13.2,
       "rolling_peak": 14.7,
-      "last_score": 14.7,
+      "last_score": 11.7,
+      "z_hint": -1.5
+    },
+    "title:nobody-gives-you-time-explain-that-real-fundraising": {
+      "title": "Nobody gives you time to explain. That’s the real fundraising problem",
+      "updated_at": "2026-09-17T04:45:40+00:00",
+      "network_scores": [
+        11.1
+      ],
+      "rolling_average": 11.1,
+      "rolling_peak": 11.1,
+      "last_score": 11.1,
       "z_hint": 0.0
     }
   }

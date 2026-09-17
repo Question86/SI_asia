@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-17T04:29:49+00:00_
+_Generiert: 2026-09-17T04:45:37+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „Paid to be quoted: The creator revenue line Southeast Asia hasn’t priced yet“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
+18 neue relevante Treffer. Stärkstes Signal: „Paid to be quoted: The creator revenue line Southeast Asia hasn’t priced yet“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -49,8 +49,6 @@ _Generiert: 2026-09-17T04:29:49+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in South Of Java, Indonesia 14/09/2026 09:27 UTC, [unknown].
-
-- Sensor-Hinweis: USGS failed: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 ## Wirtschaft global
 
