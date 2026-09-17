@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-17T04:40:58Z",
+  "generated_at": "2026-09-17T04:51:00Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “MLflowのdspyとstatsmodelsフレーバーにおけるpickleのデシリアライズ制御回避の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU94390979/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-17T09:30:15+09:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -39,7 +39,7 @@
       "url": "https://e27.co/paid-to-be-quoted-the-creator-revenue-line-southeast-asia-hasnt-priced-yet-20260914/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-17T03:00:21+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -65,7 +65,7 @@
       "url": "https://jvn.jp/vu/JVNVU91019649/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-17T09:30:00+09:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -91,7 +91,7 @@
       "url": "https://e27.co/mobiles-next-us4-5-trillion-wont-come-from-connectivity-20260914/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-17T01:30:56+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -140,11 +140,35 @@
       "summary": ""
     },
     {
+      "title": "Why did Bitcoin and Ethereum move in near-perfect lockstep after the Fed rate hike?",
+      "url": "https://e27.co/why-did-bitcoin-and-ethereum-move-in-near-perfect-lockstep-after-the-fed-rate-hike-20260917/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-17T04:10:16+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 24.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2"
+      ],
+      "summary": ""
+    },
+    {
       "title": "MLflowのdspyとstatsmodelsフレーバーにおけるpickleのデシリアライズ制御回避の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU94390979/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-17T01:02:39+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -168,7 +192,7 @@
       "url": "https://jvn.jp/vu/JVNVU91019649/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-17T01:02:39+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -188,35 +212,11 @@
       "summary": ""
     },
     {
-      "title": "Why did Bitcoin and Ethereum move in near-perfect lockstep after the Fed rate hike?",
-      "url": "https://e27.co/why-did-bitcoin-and-ethereum-move-in-near-perfect-lockstep-after-the-fed-rate-hike-20260917/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-17T04:10:16+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 21.5,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "【調査】AI前提の開発組織への移行、約8割が「プロセスの標準化・AI成果の定量化」に課題",
       "url": "https://prtimes.jp/main/html/rd/p/000000268.000045379.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-17T01:01:47+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -243,7 +243,7 @@
       "url": "https://e27.co/mobiles-next-us4-5-trillion-wont-come-from-connectivity-20260914/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-17T01:33:00+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -267,7 +267,7 @@
       "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
       "source": "GitHub Blog Atom",
       "published_at": "2026-09-17T01:02:39+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -291,7 +291,7 @@
       "url": "https://e27.co/paid-to-be-quoted-the-creator-revenue-line-southeast-asia-hasnt-priced-yet-20260914/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-17T03:15:18+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
