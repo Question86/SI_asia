@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-17T21:53:50+00:00_
+_Generiert: 2026-09-17T22:01:29+00:00_
 
 ## Kurzlage
 
-73 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [mittel] Red Hat Enterprise Linux (firewalld, leapp-repository, tesseract): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 18, observation).
+74 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [mittel] Red Hat Enterprise Linux (firewalld, leapp-repository, tesseract): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 18, observation).
 
 ## Priorität Hoch
 
@@ -177,6 +177,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: ShakeMap - V DYFI? - III Time 2026-09-17 14:19:53 UTC 2026-09-17 14:19:53 UTC at epicenter Location 52.544°N 171.186°W Depth 114.80 km (71.33 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Claude Code「スキル」が凄すぎる…毎日のコピペ指示を“全自動化”する神スキル5選** — Score 11, observation — [Quelle](https://www.sbbit.jp/article/cont1/186367)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-17T11:02:25+00:00`, fetched `2026-09-17T22:01:00+00:00`
+  - Treffer: AI Agents, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: Claude Codeを日常的に使い始めてから、ある違和感に気づきました。「Gmailの未読メールを、件名・送信者・日時で整理して、優先度が高いものから順番に、見やすい形でまとめて」といったように、毎朝、同じ内容の指示（プロンプト）を打ち込んでいたのです。このように、繰り返し頼む作業を毎回ゼロから指示していては...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Mobile’s next US$4.5 trillion won’t come from connectivity** — Score 11, observation — [Quelle](https://e27.co/mobiles-next-us4-5-trillion-wont-come-from-connectivity-20260914/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-17T01:30:56+00:00`, fetched `2026-09-17T01:32:24+00:00`
@@ -194,15 +203,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 高速な判断に特化したAI「Jev」と「System One Model」についてまとめました。 1. はじめに2026年9月15日、TypeSafe AIが新しいAIモデル「Jev」を発表しました。 Jevの特徴は、ChatGPTのように文章を生成するのではなく、 入力された状況から、型付きの判断とその確率を高速に返す ことに特化している点です。 応答時間...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **“ほったらかしAI動画編集”を「DaVinci Resolve」で試す これが今のベストチョイスかも** — Score 11, observation — [Quelle](https://www.itmedia.co.jp/news/article/2609/16/2000001551/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-16T09:15:57+00:00`, fetched `2026-09-17T02:56:10+00:00`
-  - Treffer: Hatena, hotentry, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: ここのところ、動画編集ツールのエージェンティックAI対応が続いている。ここまで米Adobeの「ChatGPT」用プラグインと、新進気鋭の編集ツール「Palmier Pro」をご紹介した。3つめは「DaVinci Resolve」である。 9月8日に公開された新バージョン21.1ではさまざまな機能強化が図られているところだが、最大の特徴はエージ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Multiples vulnérabilités dans le noyau Linux de SUSE (11 septembre 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1164/)
   - Quelle: CERT-FR Avis de sécurité / `rss`
