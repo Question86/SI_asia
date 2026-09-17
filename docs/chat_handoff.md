@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-17T22:01:29+00:00_
+_Generated: 2026-09-17T22:19:35+00:00_
 
 ## Status
 - status: `normal`
-- findings: `74`
+- findings: `77`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-09-17T22:01:29+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3382
 - summary: Ein lokaler Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um beliebigen Code auszuführen, einschließlich der Ausführung von Code mit Root-Rechten, um Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder einen Denial-of-Se…
 
-### 2. Workflow execution protections in GitHub Actions generally available
+### 2. Agentic CLI customizations now in the usage metrics API
+- source: GitHub Changelog Atom
+- score: `17`
+- published: `2026-09-17T21:08:50+00:00`
+- url: https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api
+- summary: GitHub Copilot expands existing CLI report coverage with agentic activity metrics for skills, custom agents, Model Context Protocol (MCP) servers, slash commands, and plugins. What’s new The fields appear in… The post Agentic CLI customizations now in the usa…
+
+### 3. Workflow execution protections in GitHub Actions generally available
 - source: GitHub Changelog Atom
 - score: `17`
 - published: `2026-09-17T15:45:26+00:00`
 - url: https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available
 - summary: Workflow execution protections for GitHub Actions, previously in public preview, are now generally available for GitHub Enterprise, organizations, and repositories. Execution protections let you define an allowlist that controls who… The post Workflow executi…
 
-### 3. [UPDATE] [hoch] Atlassian Bamboo, Bitbucket, Confluence, Fisheye/Crucible, Jira Software und Jira Service Management: Mehrere Schwachstellen
+### 4. [UPDATE] [hoch] Atlassian Bamboo, Bitbucket, Confluence, Fisheye/Crucible, Jira Software und Jira Service Management: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `17`
 - published: `2026-09-17T10:19:45+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3376
 - summary: Ein Angreifer kann mehrere Schwachstellen in Atlassian Bamboo, Bitbucket, Confluence, Fisheye/Crucible, Jira Software und Jira Service Management ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, serverseitige Request-Forgery…
-
-### 4. [NEU] [mittel] Linux Kernel: Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-09-17T11:41:31+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3438
-- summary: Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service zu verursachen oder eine nicht näher spezifizierte Auswirkung zu erzielen.
 
 ### 5. Warnung vor Cyberattacken auf Google Pixel, Cisco ISE und Acronis Backup
 - source: heise Security Alerts

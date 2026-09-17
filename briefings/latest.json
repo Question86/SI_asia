@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T22:01:29+00:00",
-  "run_id": "2026-09-17T22:01:29+00:00",
+  "generated_at": "2026-09-17T22:19:35+00:00",
+  "run_id": "2026-09-17T22:19:35+00:00",
   "date": "2026-09-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 74
+      "configured_public_sources_only": 77
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 74,
-    "displayed_findings": 74,
+    "new_relevant_findings": 3,
+    "today_file_total": 77,
+    "displayed_findings": 77,
     "high": 0,
-    "medium": 29,
-    "observe": 45,
+    "medium": 30,
+    "observe": 47,
     "source_errors": 0
   },
   "sections": {
@@ -53,6 +53,53 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "3d4f4be25be946d75ba5"
+      },
+      {
+        "title": "Agentic CLI customizations now in the usage metrics API",
+        "url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-09-17T21:08:50+00:00",
+        "fetched_at": "2026-09-17T22:19:06+00:00",
+        "summary": "GitHub Copilot expands existing CLI report coverage with agentic activity metrics for skills, custom agents, Model Context Protocol (MCP) servers, slash commands, and plugins. What’s new The fields appear in… The post Agentic CLI customizations now in the usage metrics API appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "Copilot",
+          "GitHub",
+          "Watchgraph:ai_agents_workflow"
+        ],
+        "relevance_score": 17,
+        "relevance_reason": "AI/KI (+3.0); AI Agents (+6.2); GitHub (+2.0); Copilot (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "ai_agents_workflow"
+        ],
+        "watchgraph_reasons": [
+          "ai_agents_workflow: MCP"
+        ],
+        "market_context": [
+          "NVDA",
+          "AMD",
+          "TSM",
+          "ASML",
+          "AVGO",
+          "MU",
+          "005930.KS",
+          "000660.KS",
+          "8035.T",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM",
+          "META",
+          "GOOGL",
+          "RDDT",
+          "SNAP",
+          "PINS"
+        ],
+        "id": "99490e574631df94a8e8"
       },
       {
         "title": "Workflow execution protections in GitHub Actions generally available",
@@ -1535,6 +1582,27 @@
         "id": "4a56b0673a327a476b25"
       },
       {
+        "title": "Copilot impact dashboard now shows feature engagement",
+        "url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-09-17T21:47:27+00:00",
+        "fetched_at": "2026-09-17T22:19:06+00:00",
+        "summary": "The Copilot impact dashboard now shows how many active users regularly use key Copilot features. Enterprise administrators can quickly see which experiences are widely adopted and which may need more… The post Copilot impact dashboard now shows feature engagement appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "Copilot",
+          "GitHub"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b96c50d649bb0a77ea31"
+      },
+      {
         "title": "松本大臣退任記者会見（令和8年9月17日）動画を掲載しました",
         "url": "https://www.digital.go.jp/speech/minister-260917-01",
         "source": "Japan Digital Agency News RSS",
@@ -1574,6 +1642,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "ba2d0cbe50842cdf3b1d"
+      },
+      {
+        "title": "TypeSafeのJevを正しく驚く、それってLLMでできませんか？",
+        "url": "https://zenn.dev/nwn/articles/824026c76116e0",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-17T14:05:53+00:00",
+        "fetched_at": "2026-09-17T22:19:06+00:00",
+        "summary": "Jevとは？ TypeSafe AIの「Jev」は、文章を生成する代わりに、ソフトウェアがそのまま使える判断と確率を高速に返すモデルです。 詳しい説明に関しては公式サイトに譲ります これをみて正直なところ「それは既存のLLMでもできるのでは？」と思ってしまいました。 JSON出力 まず注目したのはこのデモです。 LLMでJSON出力...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "31eabdc6b34488504a69"
       },
       {
         "title": "オントロジー？ナレッジグラフ？AI時代のデータ基盤用語をざっくり理解する - Qiita",
@@ -1854,6 +1943,53 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "3d4f4be25be946d75ba5"
+    },
+    {
+      "title": "Agentic CLI customizations now in the usage metrics API",
+      "url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-09-17T21:08:50+00:00",
+      "fetched_at": "2026-09-17T22:19:06+00:00",
+      "summary": "GitHub Copilot expands existing CLI report coverage with agentic activity metrics for skills, custom agents, Model Context Protocol (MCP) servers, slash commands, and plugins. What’s new The fields appear in… The post Agentic CLI customizations now in the usage metrics API appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "Copilot",
+        "GitHub",
+        "Watchgraph:ai_agents_workflow"
+      ],
+      "relevance_score": 17,
+      "relevance_reason": "AI/KI (+3.0); AI Agents (+6.2); GitHub (+2.0); Copilot (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: MCP"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "99490e574631df94a8e8"
     },
     {
       "title": "Workflow execution protections in GitHub Actions generally available",
@@ -3334,6 +3470,27 @@
       "id": "4a56b0673a327a476b25"
     },
     {
+      "title": "Copilot impact dashboard now shows feature engagement",
+      "url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-09-17T21:47:27+00:00",
+      "fetched_at": "2026-09-17T22:19:06+00:00",
+      "summary": "The Copilot impact dashboard now shows how many active users regularly use key Copilot features. Enterprise administrators can quickly see which experiences are widely adopted and which may need more… The post Copilot impact dashboard now shows feature engagement appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b96c50d649bb0a77ea31"
+    },
+    {
       "title": "松本大臣退任記者会見（令和8年9月17日）動画を掲載しました",
       "url": "https://www.digital.go.jp/speech/minister-260917-01",
       "source": "Japan Digital Agency News RSS",
@@ -3373,6 +3530,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "ba2d0cbe50842cdf3b1d"
+    },
+    {
+      "title": "TypeSafeのJevを正しく驚く、それってLLMでできませんか？",
+      "url": "https://zenn.dev/nwn/articles/824026c76116e0",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-17T14:05:53+00:00",
+      "fetched_at": "2026-09-17T22:19:06+00:00",
+      "summary": "Jevとは？ TypeSafe AIの「Jev」は、文章を生成する代わりに、ソフトウェアがそのまま使える判断と確率を高速に返すモデルです。 詳しい説明に関しては公式サイトに譲ります これをみて正直なところ「それは既存のLLMでもできるのでは？」と思ってしまいました。 JSON出力 まず注目したのはこのデモです。 LLMでJSON出力...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "31eabdc6b34488504a69"
     },
     {
       "title": "オントロジー？ナレッジグラフ？AI時代のデータ基盤用語をざっくり理解する - Qiita",
@@ -3629,26 +3807,93 @@
   ],
   "new_findings": [
     {
-      "title": "Claude Code「スキル」が凄すぎる…毎日のコピペ指示を“全自動化”する神スキル5選",
-      "url": "https://www.sbbit.jp/article/cont1/186367",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Agentic CLI customizations now in the usage metrics API",
+      "url": "https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api",
+      "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "published_at": "2026-09-17T11:02:25+00:00",
-      "fetched_at": "2026-09-17T22:01:00+00:00",
-      "summary": "Claude Codeを日常的に使い始めてから、ある違和感に気づきました。「Gmailの未読メールを、件名・送信者・日時で整理して、優先度が高いものから順番に、見やすい形でまとめて」といったように、毎朝、同じ内容の指示（プロンプト）を打ち込んでいたのです。このように、繰り返し頼む作業を毎回ゼロから指示していては...",
+      "published_at": "2026-09-17T21:08:50+00:00",
+      "fetched_at": "2026-09-17T22:19:06+00:00",
+      "summary": "GitHub Copilot expands existing CLI report coverage with agentic activity metrics for skills, custom agents, Model Context Protocol (MCP) servers, slash commands, and plugins. What’s new The fields appear in… The post Agentic CLI customizations now in the usage metrics API appeared first on The GitHub Blog .",
       "matched_keywords": [
         "AI Agents",
-        "Hatena",
-        "hotentry"
+        "AI/KI",
+        "Copilot",
+        "GitHub",
+        "Watchgraph:ai_agents_workflow"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 17,
+      "relevance_reason": "AI/KI (+3.0); AI Agents (+6.2); GitHub (+2.0); Copilot (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "watchgraph_reasons": [
+        "ai_agents_workflow: MCP"
+      ],
+      "market_context": [
+        "NVDA",
+        "AMD",
+        "TSM",
+        "ASML",
+        "AVGO",
+        "MU",
+        "005930.KS",
+        "000660.KS",
+        "8035.T",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM",
+        "META",
+        "GOOGL",
+        "RDDT",
+        "SNAP",
+        "PINS"
+      ],
+      "id": "99490e574631df94a8e8"
+    },
+    {
+      "title": "Copilot impact dashboard now shows feature engagement",
+      "url": "https://github.blog/changelog/2026-09-17-copilot-impact-dashboard-now-shows-feature-engagement",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-09-17T21:47:27+00:00",
+      "fetched_at": "2026-09-17T22:19:06+00:00",
+      "summary": "The Copilot impact dashboard now shows how many active users regularly use key Copilot features. Enterprise administrators can quickly see which experiences are widely adopted and which may need more… The post Copilot impact dashboard now shows feature engagement appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "GitHub (+2.0); Copilot (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "e2edf0dda84e2fa32cf7"
+      "id": "b96c50d649bb0a77ea31"
+    },
+    {
+      "title": "TypeSafeのJevを正しく驚く、それってLLMでできませんか？",
+      "url": "https://zenn.dev/nwn/articles/824026c76116e0",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-17T14:05:53+00:00",
+      "fetched_at": "2026-09-17T22:19:06+00:00",
+      "summary": "Jevとは？ TypeSafe AIの「Jev」は、文章を生成する代わりに、ソフトウェアがそのまま使える判断と確率を高速に返すモデルです。 詳しい説明に関しては公式サイトに譲ります これをみて正直なところ「それは既存のLLMでもできるのでは？」と思ってしまいました。 JSON出力 まず注目したのはこのデモです。 LLMでJSON出力...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "31eabdc6b34488504a69"
     }
   ],
   "source_errors": [],
