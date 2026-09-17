@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T11:31:15+00:00",
-  "run_id": "2026-09-17T11:31:15+00:00",
+  "generated_at": "2026-09-17T11:42:14+00:00",
+  "run_id": "2026-09-17T11:42:14+00:00",
   "date": "2026-09-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 52
+      "configured_public_sources_only": 53
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 52,
-    "displayed_findings": 52,
+    "new_relevant_findings": 1,
+    "today_file_total": 53,
+    "displayed_findings": 53,
     "high": 0,
-    "medium": 22,
+    "medium": 23,
     "observe": 30,
     "source_errors": 0
   },
@@ -206,6 +206,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "c20a33af256cf2c40632"
+      },
+      {
+        "title": "[NEU] [mittel] vllm: Schwachstelle ermöglicht Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3437",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-17T11:26:31+00:00",
+        "fetched_at": "2026-09-17T11:41:37+00:00",
+        "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in vllm ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "58c4fef4a4951f68fd37"
       },
       {
         "title": "[NEU] [mittel] MikroTik RouterOS: Mehrere Schwachstellen",
@@ -1460,6 +1483,29 @@
       "id": "c20a33af256cf2c40632"
     },
     {
+      "title": "[NEU] [mittel] vllm: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3437",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-17T11:26:31+00:00",
+      "fetched_at": "2026-09-17T11:41:37+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in vllm ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "58c4fef4a4951f68fd37"
+    },
+    {
       "title": "[NEU] [mittel] MikroTik RouterOS: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3436",
       "source": "BSI CERT-Bund Security Advisories",
@@ -2531,13 +2577,13 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [mittel] MikroTik RouterOS: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3436",
+      "title": "[NEU] [mittel] vllm: Schwachstelle ermöglicht Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3437",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-09-17T11:21:31+00:00",
-      "fetched_at": "2026-09-17T11:30:45+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in MikroTik RouterOS ausnutzen, um vertrauliche Speicherinhalte offenzulegen und einen Denial-of-Service-Zustand herbeizuführen.",
+      "published_at": "2026-09-17T11:26:31+00:00",
+      "fetched_at": "2026-09-17T11:41:37+00:00",
+      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in vllm ausnutzen, um einen Denial of Service Angriff durchzuführen.",
       "matched_keywords": [
         "BSI",
         "CERT-Bund",
@@ -2551,76 +2597,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "65da9eff551e9a9be51d"
-    },
-    {
-      "title": "[NEU] [mittel] Budibase: Schwachstelle ermöglicht Offenlegung von Informationen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3435",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-17T11:21:31+00:00",
-      "fetched_at": "2026-09-17T11:30:45+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Budibase ausnutzen, um Informationen offenzulegen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2ac8be5925b1e639358b"
-    },
-    {
-      "title": "[NEU] [hoch] Eclipse Jetty: Schwachstelle ermöglicht Darstellen falscher Informationen und Offenlegung",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3434",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-17T11:16:31+00:00",
-      "fetched_at": "2026-09-17T11:30:45+00:00",
-      "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Eclipse Jetty ausnutzen, um falsche Informationen darzustellen und Informationen offenzulegen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "70c678f111b3a3182b0b"
-    },
-    {
-      "title": "[NEU] [hoch] Tanium Endpoint Management: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3433",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-17T11:16:31+00:00",
-      "fetched_at": "2026-09-17T11:30:45+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Tanium Endpoint Management ausnutzen, um Dateien zu manipulieren, um Informationen offenzulegen, um einen SQL-Injection Angriff durchzuführen und um Sicherheitsvorkehrungen zu umgehen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5629d13a627a70bd6e05"
+      "id": "58c4fef4a4951f68fd37"
     }
   ],
   "source_errors": [],
