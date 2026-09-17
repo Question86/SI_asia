@@ -178,6 +178,98 @@
     "id": "c20a33af256cf2c40632"
   },
   {
+    "title": "[NEU] [mittel] MikroTik RouterOS: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3436",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-17T11:21:31+00:00",
+    "fetched_at": "2026-09-17T11:30:45+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in MikroTik RouterOS ausnutzen, um vertrauliche Speicherinhalte offenzulegen und einen Denial-of-Service-Zustand herbeizuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "65da9eff551e9a9be51d"
+  },
+  {
+    "title": "[NEU] [mittel] Budibase: Schwachstelle ermöglicht Offenlegung von Informationen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3435",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-17T11:21:31+00:00",
+    "fetched_at": "2026-09-17T11:30:45+00:00",
+    "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Budibase ausnutzen, um Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2ac8be5925b1e639358b"
+  },
+  {
+    "title": "[NEU] [hoch] Tanium Endpoint Management: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3433",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-17T11:16:31+00:00",
+    "fetched_at": "2026-09-17T11:30:45+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Tanium Endpoint Management ausnutzen, um Dateien zu manipulieren, um Informationen offenzulegen, um einen SQL-Injection Angriff durchzuführen und um Sicherheitsvorkehrungen zu umgehen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5629d13a627a70bd6e05"
+  },
+  {
+    "title": "[NEU] [hoch] Eclipse Jetty: Schwachstelle ermöglicht Darstellen falscher Informationen und Offenlegung",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3434",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-17T11:16:31+00:00",
+    "fetched_at": "2026-09-17T11:30:45+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Eclipse Jetty ausnutzen, um falsche Informationen darzustellen und Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "70c678f111b3a3182b0b"
+  },
+  {
     "title": "[NEU] [hoch] Apache Nifi: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3432",
     "source": "BSI CERT-Bund Security Advisories",

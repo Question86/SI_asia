@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-17T11:20:05+00:00",
+  "generated_at": "2026-09-17T11:31:15+00:00",
   "topics": {
     "security": [
       {
@@ -40,39 +40,39 @@
         "url": "https://jvn.jp/jp/JVN93985674/"
       },
       {
+        "title": "[NEU] [mittel] MikroTik RouterOS: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-17T11:21:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3436"
+      },
+      {
+        "title": "[NEU] [mittel] Budibase: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-17T11:21:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3435"
+      },
+      {
+        "title": "[NEU] [hoch] Tanium Endpoint Management: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-17T11:16:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3433"
+      },
+      {
+        "title": "[NEU] [hoch] Eclipse Jetty: Schwachstelle ermöglicht Darstellen falscher Informationen und Offenlegung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-17T11:16:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3434"
+      },
+      {
         "title": "[NEU] [hoch] Apache Nifi: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-17T11:11:32+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3432"
-      },
-      {
-        "title": "[NEU] [mittel] drawio: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-17T11:11:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3430"
-      },
-      {
-        "title": "[NEU] [hoch] Cisco Nexus Dashboard: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-17T11:11:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3431"
-      },
-      {
-        "title": "[UPDATE] [hoch] PCRE2 (Perl Compatible Regular Expressions): Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-17T10:19:45+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3334"
-      },
-      {
-        "title": "[UPDATE] [hoch] Mozilla Firefox und Thunderbird: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-17T10:19:45+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3375"
       }
     ],
     "github": [
@@ -135,6 +135,34 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3429"
       },
       {
+        "title": "[NEU] [mittel] MikroTik RouterOS: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-17T11:21:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3436"
+      },
+      {
+        "title": "[NEU] [mittel] Budibase: Schwachstelle ermöglicht Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-17T11:21:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3435"
+      },
+      {
+        "title": "[NEU] [hoch] Tanium Endpoint Management: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-17T11:16:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3433"
+      },
+      {
+        "title": "[NEU] [hoch] Eclipse Jetty: Schwachstelle ermöglicht Darstellen falscher Informationen und Offenlegung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-17T11:16:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3434"
+      },
+      {
         "title": "[NEU] [hoch] Apache Nifi: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-17T11:11:32+00:00",
@@ -161,34 +189,6 @@
         "published_at": "2026-09-17T10:00:00+00:00",
         "relevance_score": 14,
         "url": "https://restofworld.org/2026/south-africa-ai-data-center-protests/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
-      },
-      {
-        "title": "Warnung vor Cyberattacken auf Google Pixel, Cisco ISE und Acronis Backup",
-        "source": "heise Security Alerts",
-        "published_at": "2026-09-17T07:30:00.000+00:00",
-        "relevance_score": 13,
-        "url": "https://www.heise.de/news/Warnung-vor-Cyberattacken-auf-Google-Pixel-Cisco-ISE-und-Acronis-Backup-11456146.html"
-      },
-      {
-        "title": "Why did Bitcoin and Ethereum move in near-perfect lockstep after the Fed rate hike?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-17T04:07:37+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/why-did-bitcoin-and-ethereum-move-in-near-perfect-lockstep-after-the-fed-rate-hike-20260917/"
-      },
-      {
-        "title": "cloudflare/security-audit-skill",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 12,
-        "url": "https://github.com/cloudflare/security-audit-skill"
-      },
-      {
-        "title": "Why FinSight thinks Physical AI is mispriced by a decade of data, not dollars",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-17T05:01:41+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/why-finsight-thinks-physical-ai-is-mispriced-by-a-decade-of-data-not-dollars-20260917/"
       }
     ],
     "ai": [
