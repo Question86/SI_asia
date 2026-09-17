@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-17T13:59:11+00:00_
+_Generiert: 2026-09-17T14:23:01+00:00_
 
 ## Kurzlage
 
-63 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [mittel] Red Hat Enterprise Linux (firewalld, leapp-repository, tesseract): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 18, observation).
+64 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [mittel] Red Hat Enterprise Linux (firewalld, leapp-repository, tesseract): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 18, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -262,6 +262,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
   - Kurz: A customer in Jakarta spends 20 minutes explaining a billing dispute to a chatbot, gets bounced to a human agent, and has to start the story over from scratch. Multiply that across the millions of AI-mediated conversations happening daily across the region, and you get a sense of the trust deficit quietly building beneath Asia […] The post “AI amnesia” is quietly costing Southeast Asian brands their customers appear…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.7 - 107 km SE of Vilyuchinsk, Russia** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti1h)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-17T14:02:07.040+00:00`, fetched `2026-09-17T14:22:32+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-17 13:30:49 UTC 2026-09-17 13:30:49 UTC at epicenter Location 52.233°N 159.498°E Depth 57.43 km (35.68 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.0 - South Atlantic Ocean** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000thzz)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-17T07:07:36.040+00:00`, fetched `2026-09-17T07:22:00+00:00`
@@ -279,15 +288,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-17 06:42:41 UTC 2026-09-17 06:42:41 UTC at epicenter Location 14.479°S 174.896°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.8 - 64 km SSE of Lakatoro, Vanuatu** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000thzs)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-17T06:49:38.040+00:00`, fetched `2026-09-17T06:57:22+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-17 06:32:13 UTC 2026-09-17 06:32:13 UTC at epicenter Location 16.663°S 167.557°E Depth 36.73 km (22.82 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Migrating the GitHub Copilot runtime to Rust, using Copilot** — Score 9, observation — [Quelle](https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/)
   - Quelle: GitHub Blog Atom / `rss`
