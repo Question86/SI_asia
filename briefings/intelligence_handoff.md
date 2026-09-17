@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-17T05:14:33Z_
+_Generated: 2026-09-17T05:30:00Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “スマートフォンアプリ「東北�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-17T14:00:00+09:00` / age_days `0.01`
+- Published: `2026-09-17T14:00:00+09:00` / age_days `0.02`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -22,27 +22,17 @@ Stärkste Dynamik nach Gate-Recheck: “スマートフォンアプリ「東北�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-17T09:30:15+09:00` / age_days `0.2`
+- Published: `2026-09-17T09:30:15+09:00` / age_days `0.21`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
 - Quelle: https://jvn.jp/vu/JVNVU94390979/
 
-### スマートフォンアプリ「東北電力 よりそうｅねっと」におけるハードコードされた暗号鍵使用の脆弱性
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `26.0`
-- Published: `2026-09-17T05:01:53+00:00` / age_days `0.01`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1
-- Quelle: https://jvn.jp/jp/JVN93985674/
-
 ### Paid to be quoted: The creator revenue line Southeast Asia hasn’t priced yet
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-17T03:00:21+00:00` / age_days `0.09`
+- Published: `2026-09-17T03:00:21+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, official security but no high-signal phrase: capped at strong
@@ -52,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “スマートフォンアプリ「東北�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-17T09:30:00+09:00` / age_days `0.2`
+- Published: `2026-09-17T09:30:00+09:00` / age_days `0.21`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
@@ -62,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “スマートフォンアプリ「東北�
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-17T01:30:56+00:00` / age_days `0.16`
+- Published: `2026-09-17T01:30:56+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -72,17 +62,27 @@ Stärkste Dynamik nach Gate-Recheck: “スマートフォンアプリ「東北�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.9`
-- Published: `2026-09-17T01:54:13+00:00` / age_days `0.14`
+- Published: `2026-09-17T01:54:13+00:00` / age_days `0.15`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
 - Quelle: https://prtimes.jp/main/html/rd/p/000000268.000045379.html
 
+### スマートフォンアプリ「東北電力 よりそうｅねっと」におけるハードコードされた暗号鍵使用の脆弱性
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `23.5`
+- Published: `2026-09-17T05:01:53+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +1
+- Quelle: https://jvn.jp/jp/JVN93985674/
+
 ### MLflowのdspyとstatsmodelsフレーバーにおけるpickleのデシリアライズ制御回避の脆弱性
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-17T01:02:39+00:00` / age_days `0.17`
+- Published: `2026-09-17T01:02:39+00:00` / age_days `0.19`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “スマートフォンアプリ「東北�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-17T01:02:39+00:00` / age_days `0.17`
+- Published: `2026-09-17T01:02:39+00:00` / age_days `0.19`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “スマートフォンアプリ「東北�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-09-17T04:10:16+00:00` / age_days `0.04`
+- Published: `2026-09-17T04:10:16+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “スマートフォンアプリ「東北�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-09-17T01:01:47+00:00` / age_days `0.18`
+- Published: `2026-09-17T01:01:47+00:00` / age_days `0.19`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “スマートフォンアプリ「東北�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.0`
-- Published: `2026-09-17T01:33:00+00:00` / age_days `0.15`
+- Published: `2026-09-17T01:33:00+00:00` / age_days `0.16`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
