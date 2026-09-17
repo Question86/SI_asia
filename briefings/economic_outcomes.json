@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-17T05:02:31+00:00",
+  "generated_at": "2026-09-17T05:23:15+00:00",
   "events": [
     {
       "event_id": "evt_014823216e5b4b658b61",
@@ -473,7 +473,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_164cc1afee592ac2b935",
@@ -1221,7 +1221,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_2f5c3cffbb9951edd868",
@@ -1809,12 +1809,12 @@
     {
       "event_id": "evt_46a471a9fe7f5d7d06ed",
       "title": "スマートフォンアプリ「東北電力 よりそうｅねっと」におけるハードコードされた暗号鍵使用の脆弱性",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -3213,6 +3213,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_71924c44e4fcd7888f80",
+      "title": "Why FinSight thinks Physical AI is mispriced by a decade of data, not dollars",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_71e5cad8a4d0f19b8ca8",
