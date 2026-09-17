@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-17T02:02:33+00:00_
+_Generiert: 2026-09-17T02:31:59+00:00_
 
 ## Kurzlage
 
-8 neue relevante Treffer. Stärkstes Signal: „MLflowのdspyとstatsmodelsフレーバーにおけるpickleのデシリアライズ制御回避の脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
+11 neue relevante Treffer. Stärkstes Signal: „MLflowのdspyとstatsmodelsフレーバーにおけるpickleのデシリアライズ制御回避の脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -122,23 +122,32 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: エンジニアプラットフォームを提供するファインディ株式会社（本社：東京都品川区、代表取締役：山田 裕一朗、以下「ファインディ」）は、2026年10月16日（金）にベルサール汐留で開催する「AI×開発組織Summit 2026」の申込者数が500名を突破したことをお知らせします。 ◆ 申込者の約6割が「AI前提の開発プロセスの標準...
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **いい加減「ドパガキ」を卒業したい！ 20代ライターがスマホ依存から脱却するために考えたこと（前編）** — Score 5, observation — [Quelle](https://internet.watch.impress.co.jp/docs/special/2139536.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-16T22:53:29+00:00`, fetched `2026-09-17T00:13:21+00:00`
-  - Treffer: Hatena, hotentry
+- **Why Singapore investors hold more Apple than Singtel, and why it should worry you** — Score 5, observation — [Quelle](https://e27.co/why-singapore-investors-hold-more-apple-than-singtel-and-why-it-should-worry-you-20260523/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-17T02:30:18+00:00`, fetched `2026-09-17T02:31:27+00:00`
+  - Treffer: APAC Trend Radar, Public Health
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: いい加減「ドパガキ」を卒業したい！ 20代ライターがスマホ依存から脱却するために考えたこと（前編）
+  - Warum relevant: APAC Trend Radar (+3.8); Public Health (+5.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph demote portfolio (x0.45)
+  - Kurz: Last month, I sat across from Kenny, a software engineer in his early thirties, based in Singapore, someone who reads financial news, has a brokerage account, and thinks carefully about his money. I asked him about his portfolio. He listed: Apple, Microsoft, Google, Nvidia, and Amazon. I asked about Singapore stocks. He paused. “I don’t […] The post Why Singapore investors hold more Apple than Singtel, and why it sh…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **【レビュー】 GB10搭載のデル小型AI機を社内のAI専任ではない技術スタッフが1カ月試用、向いたのは「放置して任せる」仕事** — Score 5, observation — [Quelle](https://pc.watch.impress.co.jp/docs/topic/review/2138219.html)
+- **WELQ問題からE-E-A-Tへ。SEOが社会に与えた影響と功罪｜住太陽×辻正浩対談 第3回 | Web担当者Forum** — Score 5, observation — [Quelle](https://webtan.impress.co.jp/e/2026/09/17/53178)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-16T21:48:52+00:00`, fetched `2026-09-17T01:02:02+00:00`
+  - Zeit: published `2026-09-17T00:14:15+00:00`, fetched `2026-09-17T02:31:27+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 【レビュー】 GB10搭載のデル小型AI機を社内のAI専任ではない技術スタッフが1カ月試用、向いたのは「放置して任せる」仕事
+  - Kurz: 本連載では、SEO黎明期からSEOに携わってきた住太陽氏が、専門家とともにSEOの歴史を振り返っていく。 第1回：90年代終わり～2011年 第2回：2012年～2015年 第3回：2016年～2023年頃 第4回：2024年～現在 第5回：これからのSEOを展望 第3回は、WELQ（ウェルク）問題が社会的に取り沙汰された2016年からAI検索が広まる前...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **「人類皆殺しにしかねない」元開発者が警鐘のAI “AI著作物”で前例なき裁判 文学賞も席巻 突きつけられた深刻な問い（関西テレビ） - Yahoo!ニュース** — Score 5, observation — [Quelle](https://news.yahoo.co.jp/articles/b9ffd8c385784a798a16c90cbd56bd2b0d713cf7)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-17T00:09:08+00:00`, fetched `2026-09-17T02:31:27+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 今月、世界中のSNSに衝撃的な投稿が拡散しました。 【Xより】「AIが2020年代末までに私たちを皆殺しにしかねない」 大手AI開発企業の元研究者が書き込んだこの言葉は、またたく間に世界中へと広がりました。 実は今、AIの危険性をめぐる議論が各国で加速しています。 ことしに入り、オープンAIやアンソロピックなど大手...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

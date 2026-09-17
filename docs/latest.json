@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T02:02:33+00:00",
-  "run_id": "2026-09-17T02:02:33+00:00",
+  "generated_at": "2026-09-17T02:31:59+00:00",
+  "run_id": "2026-09-17T02:31:59+00:00",
   "date": "2026-09-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 8
+      "configured_public_sources_only": 11
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 8,
-    "displayed_findings": 8,
+    "new_relevant_findings": 3,
+    "today_file_total": 11,
+    "displayed_findings": 11,
     "high": 0,
     "medium": 2,
-    "observe": 6,
+    "observe": 9,
     "source_errors": 0
   },
   "sections": {
@@ -161,6 +161,69 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "02fb76314da5de5d18b8"
+      },
+      {
+        "title": "Why Singapore investors hold more Apple than Singtel, and why it should worry you",
+        "url": "https://e27.co/why-singapore-investors-hold-more-apple-than-singtel-and-why-it-should-worry-you-20260523/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-17T02:30:18+00:00",
+        "fetched_at": "2026-09-17T02:31:27+00:00",
+        "summary": "Last month, I sat across from Kenny, a software engineer in his early thirties, based in Singapore, someone who reads financial news, has a brokerage account, and thinks carefully about his money. I asked him about his portfolio. He listed: Apple, Microsoft, Google, Nvidia, and Amazon. I asked about Singapore stocks. He paused. “I don’t […] The post Why Singapore investors hold more Apple than Singtel, and why it sh…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Public Health"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "APAC Trend Radar (+3.8); Public Health (+5.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph demote portfolio (x0.45)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6a62ea0199c14b06397b"
+      },
+      {
+        "title": "WELQ問題からE-E-A-Tへ。SEOが社会に与えた影響と功罪｜住太陽×辻正浩対談 第3回 | Web担当者Forum",
+        "url": "https://webtan.impress.co.jp/e/2026/09/17/53178",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-17T00:14:15+00:00",
+        "fetched_at": "2026-09-17T02:31:27+00:00",
+        "summary": "本連載では、SEO黎明期からSEOに携わってきた住太陽氏が、専門家とともにSEOの歴史を振り返っていく。 第1回：90年代終わり～2011年 第2回：2012年～2015年 第3回：2016年～2023年頃 第4回：2024年～現在 第5回：これからのSEOを展望 第3回は、WELQ（ウェルク）問題が社会的に取り沙汰された2016年からAI検索が広まる前...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ab57850c32423e7c4c53"
+      },
+      {
+        "title": "「人類皆殺しにしかねない」元開発者が警鐘のAI “AI著作物”で前例なき裁判 文学賞も席巻 突きつけられた深刻な問い（関西テレビ） - Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/articles/b9ffd8c385784a798a16c90cbd56bd2b0d713cf7",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-17T00:09:08+00:00",
+        "fetched_at": "2026-09-17T02:31:27+00:00",
+        "summary": "今月、世界中のSNSに衝撃的な投稿が拡散しました。 【Xより】「AIが2020年代末までに私たちを皆殺しにしかねない」 大手AI開発企業の元研究者が書き込んだこの言葉は、またたく間に世界中へと広がりました。 実は今、AIの危険性をめぐる議論が各国で加速しています。 ことしに入り、オープンAIやアンソロピックなど大手...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9c2da8fe4459661f3d6c"
       },
       {
         "title": "いい加減「ドパガキ」を卒業したい！ 20代ライターがスマホ依存から脱却するために考えたこと（前編）",
@@ -339,6 +402,69 @@
       "id": "02fb76314da5de5d18b8"
     },
     {
+      "title": "Why Singapore investors hold more Apple than Singtel, and why it should worry you",
+      "url": "https://e27.co/why-singapore-investors-hold-more-apple-than-singtel-and-why-it-should-worry-you-20260523/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-17T02:30:18+00:00",
+      "fetched_at": "2026-09-17T02:31:27+00:00",
+      "summary": "Last month, I sat across from Kenny, a software engineer in his early thirties, based in Singapore, someone who reads financial news, has a brokerage account, and thinks carefully about his money. I asked him about his portfolio. He listed: Apple, Microsoft, Google, Nvidia, and Amazon. I asked about Singapore stocks. He paused. “I don’t […] The post Why Singapore investors hold more Apple than Singtel, and why it sh…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Public Health"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "APAC Trend Radar (+3.8); Public Health (+5.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph demote portfolio (x0.45)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6a62ea0199c14b06397b"
+    },
+    {
+      "title": "WELQ問題からE-E-A-Tへ。SEOが社会に与えた影響と功罪｜住太陽×辻正浩対談 第3回 | Web担当者Forum",
+      "url": "https://webtan.impress.co.jp/e/2026/09/17/53178",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-17T00:14:15+00:00",
+      "fetched_at": "2026-09-17T02:31:27+00:00",
+      "summary": "本連載では、SEO黎明期からSEOに携わってきた住太陽氏が、専門家とともにSEOの歴史を振り返っていく。 第1回：90年代終わり～2011年 第2回：2012年～2015年 第3回：2016年～2023年頃 第4回：2024年～現在 第5回：これからのSEOを展望 第3回は、WELQ（ウェルク）問題が社会的に取り沙汰された2016年からAI検索が広まる前...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ab57850c32423e7c4c53"
+    },
+    {
+      "title": "「人類皆殺しにしかねない」元開発者が警鐘のAI “AI著作物”で前例なき裁判 文学賞も席巻 突きつけられた深刻な問い（関西テレビ） - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/b9ffd8c385784a798a16c90cbd56bd2b0d713cf7",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-17T00:09:08+00:00",
+      "fetched_at": "2026-09-17T02:31:27+00:00",
+      "summary": "今月、世界中のSNSに衝撃的な投稿が拡散しました。 【Xより】「AIが2020年代末までに私たちを皆殺しにしかねない」 大手AI開発企業の元研究者が書き込んだこの言葉は、またたく間に世界中へと広がりました。 実は今、AIの危険性をめぐる議論が各国で加速しています。 ことしに入り、オープンAIやアンソロピックなど大手...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9c2da8fe4459661f3d6c"
+    },
+    {
       "title": "いい加減「ドパガキ」を卒業したい！ 20代ライターがスマホ依存から脱却するために考えたこと（前編）",
       "url": "https://internet.watch.impress.co.jp/docs/special/2139536.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -383,26 +509,67 @@
   ],
   "new_findings": [
     {
-      "title": "Your team finished the AI course. Can they challenge the machine?",
-      "url": "https://e27.co/your-team-finished-the-ai-course-can-they-challenge-the-machine-20260914/",
+      "title": "Why Singapore investors hold more Apple than Singtel, and why it should worry you",
+      "url": "https://e27.co/why-singapore-investors-hold-more-apple-than-singtel-and-why-it-should-worry-you-20260523/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-09-17T02:00:52+00:00",
-      "fetched_at": "2026-09-17T02:02:02+00:00",
-      "summary": "A dashboard can tell a founder how many employees completed an AI course. It cannot tell whether those employees know when an AI answer is wrong. My work in adult learning has taught me to take that gap seriously. The distinction is becoming urgent. The World Economic Forum’s Future of Jobs Report 2025 found that […] The post Your team finished the AI course. Can they challenge the machine? appeared first on e27 .",
+      "published_at": "2026-09-17T02:30:18+00:00",
+      "fetched_at": "2026-09-17T02:31:27+00:00",
+      "summary": "Last month, I sat across from Kenny, a software engineer in his early thirties, based in Singapore, someone who reads financial news, has a brokerage account, and thinks carefully about his money. I asked him about his portfolio. He listed: Apple, Microsoft, Google, Nvidia, and Amazon. I asked about Singapore stocks. He paused. “I don’t […] The post Why Singapore investors hold more Apple than Singtel, and why it sh…",
       "matched_keywords": [
-        "AI/KI",
         "APAC Trend Radar",
-        "founder"
+        "Public Health"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "APAC Trend Radar (+3.8); Public Health (+5.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph demote portfolio (x0.45)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "e95022b96cce25a68dc1"
+      "id": "6a62ea0199c14b06397b"
+    },
+    {
+      "title": "WELQ問題からE-E-A-Tへ。SEOが社会に与えた影響と功罪｜住太陽×辻正浩対談 第3回 | Web担当者Forum",
+      "url": "https://webtan.impress.co.jp/e/2026/09/17/53178",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-17T00:14:15+00:00",
+      "fetched_at": "2026-09-17T02:31:27+00:00",
+      "summary": "本連載では、SEO黎明期からSEOに携わってきた住太陽氏が、専門家とともにSEOの歴史を振り返っていく。 第1回：90年代終わり～2011年 第2回：2012年～2015年 第3回：2016年～2023年頃 第4回：2024年～現在 第5回：これからのSEOを展望 第3回は、WELQ（ウェルク）問題が社会的に取り沙汰された2016年からAI検索が広まる前...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ab57850c32423e7c4c53"
+    },
+    {
+      "title": "「人類皆殺しにしかねない」元開発者が警鐘のAI “AI著作物”で前例なき裁判 文学賞も席巻 突きつけられた深刻な問い（関西テレビ） - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/b9ffd8c385784a798a16c90cbd56bd2b0d713cf7",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-17T00:09:08+00:00",
+      "fetched_at": "2026-09-17T02:31:27+00:00",
+      "summary": "今月、世界中のSNSに衝撃的な投稿が拡散しました。 【Xより】「AIが2020年代末までに私たちを皆殺しにしかねない」 大手AI開発企業の元研究者が書き込んだこの言葉は、またたく間に世界中へと広がりました。 実は今、AIの危険性をめぐる議論が各国で加速しています。 ことしに入り、オープンAIやアンソロピックなど大手...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9c2da8fe4459661f3d6c"
     }
   ],
   "source_errors": [],
