@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-17T14:23:40+00:00",
+  "generated_at": "2026-09-17T14:35:08+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -927,7 +927,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-04T05:31:26+00:00",
-      "last_seen_at": "2026-09-17T14:23:04+00:00",
+      "last_seen_at": "2026-09-17T14:34:48+00:00",
       "status": "active"
     },
     {
@@ -2068,6 +2068,23 @@
       "first_seen_at": "2026-08-29T11:40:09+00:00",
       "last_seen_at": "2026-08-29T23:58:25+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_43a66ad3fda61d859fca",
+      "title": "M 6.4 - 163 km WSW of Nikolski, Alaska",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1128000.0,
+      "p50_usd": 112800000.0,
+      "p90_usd": 11280000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-17T14:34:48+00:00",
+      "last_seen_at": "2026-09-17T14:34:48+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_058a0e17878f3797ed5c",
@@ -3243,6 +3260,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_e6fef3113214c14755f3",
+      "title": "M 4.7 - 107 km SE of Vilyuchinsk, Russia",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-17T14:23:04+00:00",
+      "last_seen_at": "2026-09-17T14:23:04+00:00",
+      "status": "dormant"
+    },
+    {
       "event_id": "evt_ed3559ae697216e75477",
       "title": "M 5.1 - northern Mid-Atlantic Ridge",
       "event_classes": [
@@ -3396,23 +3430,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_e6fef3113214c14755f3",
-      "title": "M 4.7 - 107 km SE of Vilyuchinsk, Russia",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-09-17T14:23:04+00:00",
-      "last_seen_at": "2026-09-17T14:23:04+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_720c7d526b3baeebcacf",
       "title": "[NEU] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "event_classes": [
@@ -3426,7 +3443,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-17T14:23:04+00:00",
+      "last_seen_at": "2026-09-17T14:34:48+00:00",
       "status": "active"
     },
     {
@@ -3647,7 +3664,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-17T05:01:53+00:00",
-      "last_seen_at": "2026-09-17T14:23:04+00:00",
+      "last_seen_at": "2026-09-17T14:34:48+00:00",
       "status": "active"
     },
     {
@@ -3885,7 +3902,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-17T01:02:39+00:00",
-      "last_seen_at": "2026-09-17T14:23:04+00:00",
+      "last_seen_at": "2026-09-17T14:34:48+00:00",
       "status": "active"
     },
     {
@@ -3987,7 +4004,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-17T01:02:39+00:00",
-      "last_seen_at": "2026-09-17T14:23:04+00:00",
+      "last_seen_at": "2026-09-17T14:34:48+00:00",
       "status": "active"
     },
     {
@@ -4990,7 +5007,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-17T03:15:18+00:00",
-      "last_seen_at": "2026-09-17T14:23:04+00:00",
+      "last_seen_at": "2026-09-17T14:34:48+00:00",
       "status": "active"
     },
     {
@@ -5568,7 +5585,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-17T12:27:55+00:00",
-      "last_seen_at": "2026-09-17T14:23:04+00:00",
+      "last_seen_at": "2026-09-17T14:34:48+00:00",
       "status": "active"
     },
     {
@@ -6010,7 +6027,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-17T02:56:43+00:00",
-      "last_seen_at": "2026-09-17T14:23:04+00:00",
+      "last_seen_at": "2026-09-17T14:34:48+00:00",
       "status": "active"
     },
     {
@@ -6027,7 +6044,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-17T04:10:16+00:00",
-      "last_seen_at": "2026-09-17T14:23:04+00:00",
+      "last_seen_at": "2026-09-17T14:34:48+00:00",
       "status": "active"
     },
     {
@@ -6061,7 +6078,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-17T06:36:33+00:00",
-      "last_seen_at": "2026-09-17T14:23:04+00:00",
+      "last_seen_at": "2026-09-17T14:34:48+00:00",
       "status": "active"
     },
     {
@@ -6146,7 +6163,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-17T14:23:04+00:00",
+      "last_seen_at": "2026-09-17T14:34:48+00:00",
       "status": "active"
     },
     {
@@ -6418,7 +6435,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-17T12:58:59+00:00",
-      "last_seen_at": "2026-09-17T14:23:04+00:00",
+      "last_seen_at": "2026-09-17T14:34:48+00:00",
       "status": "active"
     },
     {
@@ -6554,7 +6571,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-17T02:56:43+00:00",
-      "last_seen_at": "2026-09-17T14:23:04+00:00",
+      "last_seen_at": "2026-09-17T14:34:48+00:00",
       "status": "active"
     },
     {
@@ -6724,7 +6741,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T13:58:29+00:00",
-      "last_seen_at": "2026-09-17T14:23:04+00:00",
+      "last_seen_at": "2026-09-17T14:34:48+00:00",
       "status": "active"
     },
     {
@@ -6792,7 +6809,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T22:15:36+00:00",
-      "last_seen_at": "2026-09-17T14:23:04+00:00",
+      "last_seen_at": "2026-09-17T14:34:48+00:00",
       "status": "active"
     },
     {
@@ -6809,7 +6826,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-17T12:58:59+00:00",
-      "last_seen_at": "2026-09-17T14:23:04+00:00",
+      "last_seen_at": "2026-09-17T14:34:48+00:00",
       "status": "active"
     },
     {
@@ -6860,7 +6877,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T10:20:20+00:00",
-      "last_seen_at": "2026-09-17T14:23:04+00:00",
+      "last_seen_at": "2026-09-17T14:34:48+00:00",
       "status": "active"
     },
     {
@@ -6945,7 +6962,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-17T01:33:00+00:00",
-      "last_seen_at": "2026-09-17T14:23:04+00:00",
+      "last_seen_at": "2026-09-17T14:34:48+00:00",
       "status": "active"
     },
     {
@@ -10159,7 +10176,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-02T01:10:24+00:00",
-      "last_seen_at": "2026-09-17T14:23:04+00:00",
+      "last_seen_at": "2026-09-17T14:34:48+00:00",
       "status": "active"
     },
     {

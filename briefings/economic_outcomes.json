@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-17T14:23:55+00:00",
+  "generated_at": "2026-09-17T14:35:23+00:00",
   "events": [
     {
       "event_id": "evt_014823216e5b4b658b61",
@@ -1717,6 +1717,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_43a66ad3fda61d859fca",
+      "title": "M 6.4 - 163 km WSW of Nikolski, Alaska",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_43d91c6b0a97611c8e6c",
@@ -6902,13 +6913,13 @@
     {
       "event_id": "evt_e6fef3113214c14755f3",
       "title": "M 4.7 - 107 km SE of Vilyuchinsk, Russia",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_e7accc74314c5b76e589",
