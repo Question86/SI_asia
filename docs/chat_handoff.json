@@ -30,5 +30,62 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “いい加減「ドパガキ」を卒業したい！ 20代ライターがスマホ依存から脱却するために考えたこと（前編）” — Die Dynamik wirkt aktuell wie Hintergrundrauschen. Band=quiet, score=11.5.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "いい加減「ドパガキ」を卒業したい！ 20代ライターがスマホ依存から脱却するために考えたこと（前編）",
+        "url": "https://internet.watch.impress.co.jp/docs/special/2139536.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-17T00:13:57+00:00",
+        "age_days": 0.02,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 11.5,
+        "raw_band": "quiet",
+        "dynamic_band": "quiet",
+        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 1,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +1"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "いい加減「ドパガキ」を卒業したい！ 20代ライターがスマホ依存から脱却するために考えたこと（前編）",
+        "url": "https://internet.watch.impress.co.jp/docs/special/2139536.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-16T22:53:29+00:00",
+        "age_days": 0.07,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 5.0,
+        "raw_band": "quiet",
+        "dynamic_band": "quiet",
+        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+        "senna_line": "Beobachten, nicht aufblasen.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": false,
+        "single_source_ai_capped": false,
+        "why": [
+          "no strong comparative reason"
+        ],
+        "summary": "いい加減「ドパガキ」を卒業したい！ 20代ライターがスマホ依存から脱却するために考えたこと（前編）"
+      }
+    ]
+  }
 }
