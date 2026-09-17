@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T05:44:37+00:00",
-  "run_id": "2026-09-17T05:44:37+00:00",
+  "generated_at": "2026-09-17T06:00:09+00:00",
+  "run_id": "2026-09-17T06:00:09+00:00",
   "date": "2026-09-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 24,
     "displayed_findings": 24,
     "high": 0,
@@ -1097,28 +1097,7 @@
       "id": "451e6aa48c585d187515"
     }
   ],
-  "new_findings": [
-    {
-      "title": "松本大臣退任記者会見（令和8年9月17日）動画を掲載しました",
-      "url": "https://www.digital.go.jp/speech/minister-260917-01",
-      "source": "Japan Digital Agency News RSS",
-      "source_type": "rss",
-      "published_at": "2026-09-17T05:33:33+00:00",
-      "fetched_at": "2026-09-17T05:44:10+00:00",
-      "summary": "松本大臣退任記者会見（令和8年9月17日）動画を掲載しました",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8fdef435fab49e92a9a3"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
