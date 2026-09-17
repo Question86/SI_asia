@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T23:43:45+00:00",
-  "run_id": "2026-09-17T23:43:45+00:00",
+  "generated_at": "2026-09-17T23:51:50+00:00",
+  "run_id": "2026-09-17T23:51:50+00:00",
   "date": "2026-09-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 79
+      "configured_public_sources_only": 80
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 79,
-    "displayed_findings": 79,
+    "today_file_total": 80,
+    "displayed_findings": 80,
     "high": 0,
     "medium": 30,
-    "observe": 49,
+    "observe": 50,
     "source_errors": 0
   },
   "sections": {
@@ -1685,6 +1685,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "b010d1c4070ddf65e23c"
+      },
+      {
+        "title": "[法林岳之の「週刊モバイルCATCH UP」]ローミング終了の「楽天モバイル」とはどう付き合う？",
+        "url": "https://k-tai.watch.impress.co.jp/docs/column/mobile_catchup/2141810.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-17T15:28:43+00:00",
+        "fetched_at": "2026-09-17T23:51:21+00:00",
+        "summary": "[法林岳之の「週刊モバイルCATCH UP」]ローミング終了の「楽天モバイル」とはどう付き合う？",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "bd108f653b000840d96a"
       },
       {
         "title": "TypeSafeのJevを正しく驚く、それってLLMでできませんか？",
@@ -3618,6 +3639,27 @@
       "id": "b010d1c4070ddf65e23c"
     },
     {
+      "title": "[法林岳之の「週刊モバイルCATCH UP」]ローミング終了の「楽天モバイル」とはどう付き合う？",
+      "url": "https://k-tai.watch.impress.co.jp/docs/column/mobile_catchup/2141810.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-17T15:28:43+00:00",
+      "fetched_at": "2026-09-17T23:51:21+00:00",
+      "summary": "[法林岳之の「週刊モバイルCATCH UP」]ローミング終了の「楽天モバイル」とはどう付き合う？",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "bd108f653b000840d96a"
+    },
+    {
       "title": "TypeSafeのJevを正しく驚く、それってLLMでできませんか？",
       "url": "https://zenn.dev/nwn/articles/824026c76116e0",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3893,26 +3935,25 @@
   ],
   "new_findings": [
     {
-      "title": "『マネーフォワード ME』、2026年9月17日(木)より「Apps in ChatGPT」で利用できるアプリの提供を開始",
-      "url": "https://prtimes.jp/main/html/rd/p/000001675.000008962.html",
+      "title": "[法林岳之の「週刊モバイルCATCH UP」]ローミング終了の「楽天モバイル」とはどう付き合う？",
+      "url": "https://k-tai.watch.impress.co.jp/docs/column/mobile_catchup/2141810.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-17T09:48:12+00:00",
-      "fetched_at": "2026-09-17T23:43:14+00:00",
-      "summary": "マネーフォワードホーム株式会社は、2026年9月17日（木）より、OpenAIが提供する「Apps in ChatGPT」（※1）で利用できる『マネーフォワード ME』アプリ（以下、本アプリ）の提供を開始しました。ユーザーが接続を許可すると、『マネーフォワード ME』のデータをChatGPTの会話内で活用し、自然な対話を通じてお金の不安や...",
+      "published_at": "2026-09-17T15:28:43+00:00",
+      "fetched_at": "2026-09-17T23:51:21+00:00",
+      "summary": "[法林岳之の「週刊モバイルCATCH UP」]ローミング終了の「楽天モバイル」とはどう付き合う？",
       "matched_keywords": [
         "Hatena",
-        "hotentry",
-        "OpenAI"
+        "hotentry"
       ],
-      "relevance_score": 12,
-      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "43bd3526bc197e751780"
+      "id": "bd108f653b000840d96a"
     }
   ],
   "source_errors": [],
