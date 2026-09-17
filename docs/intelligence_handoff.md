@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-17T07:17:39Z_
+_Generated: 2026-09-17T07:40:55Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Netgate pfSense: Schwach
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `31.0`
-- Published: `2026-09-17T05:31:31+00:00` / age_days `0.07`
+- Published: `2026-09-17T05:31:31+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, auth, security high-signal: code, auth
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Netgate pfSense: Schwach
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-08-28T14:08:37+00:00` / age_days `19.71`
+- Published: `2026-08-28T14:08:37+00:00` / age_days `19.73`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, high terms: code, security high-signal: code, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Netgate pfSense: Schwach
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-17T14:00:00+09:00` / age_days `0.1`
+- Published: `2026-09-17T14:00:00+09:00` / age_days `0.11`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -42,27 +42,37 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Netgate pfSense: Schwach
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-17T09:30:15+09:00` / age_days `0.28`
+- Published: `2026-09-17T09:30:15+09:00` / age_days `0.3`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
 - Quelle: https://jvn.jp/vu/JVNVU94390979/
 
+### abue-ammar/tinycast
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `25.0`
+- Published: `2026-09-17T06:36:33+00:00` / age_days `0.04`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit
+- Quelle: https://github.com/abue-ammar/tinycast
+
 ### cloudflare/security-audit-skill
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-17T06:36:33+00:00` / age_days `0.03`
+- Published: `2026-09-17T06:36:33+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: momentum delta +1, security high-signal: security, cloud, krass gate recheck: needs multi-source, identity, or official high-signal phrase
+- Warum: momentum delta +3, security high-signal: security, cloud, krass gate recheck: needs multi-source, identity, or official high-signal phrase
 - Quelle: https://github.com/cloudflare/security-audit-skill
 
 ### Paid to be quoted: The creator revenue line Southeast Asia hasn’t priced yet
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-17T03:00:21+00:00` / age_days `0.18`
+- Published: `2026-09-17T03:00:21+00:00` / age_days `0.19`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, official security but no high-signal phrase: capped at strong
@@ -72,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Netgate pfSense: Schwach
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-17T06:35:58+00:00` / age_days `0.03`
+- Published: `2026-09-17T06:35:58+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, 10, security high-signal: rce, 10, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -82,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Netgate pfSense: Schwach
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-17T09:30:00+09:00` / age_days `0.28`
+- Published: `2026-09-17T09:30:00+09:00` / age_days `0.3`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
@@ -92,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Netgate pfSense: Schwach
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-17T01:30:56+00:00` / age_days `0.24`
+- Published: `2026-09-17T01:30:56+00:00` / age_days `0.26`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -102,27 +112,17 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Netgate pfSense: Schwach
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.9`
-- Published: `2026-09-17T01:54:13+00:00` / age_days `0.22`
+- Published: `2026-09-17T01:54:13+00:00` / age_days `0.24`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
 - Quelle: https://prtimes.jp/main/html/rd/p/000000268.000045379.html
 
-### M 5.2 - 132 km E of Bitung, Indonesia
-
-- Band: `strong` (raw `krass`)
-- Dynamics score: `24.9`
-- Published: `2026-09-04T05:31:26+00:00` / age_days `13.07`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, baseline z_hint 2.90, krass gate: single-source non-official/non-identity signal capped
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000thzp
-
 ### cloudflare/security-audit-skill
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.0`
-- Published: `2026-09-17T06:35:58+00:00` / age_days `0.03`
+- Published: `2026-09-17T06:35:58+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security, cloud
