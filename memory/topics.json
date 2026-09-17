@@ -1,8 +1,73 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-17T09:30:35+00:00",
+  "generated_at": "2026-09-17T09:44:47+00:00",
   "topics": {
+    "security": [
+      {
+        "title": "[UPDATE] [mittel] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-17T09:31:32+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3412"
+      },
+      {
+        "title": "スマートフォンアプリ「東北電力 よりそうｅねっと」におけるハードコードされた暗号鍵使用の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-17T14:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN93985674/"
+      },
+      {
+        "title": "[UPDATE] [mittel] QT: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-17T09:31:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3383"
+      },
+      {
+        "title": "MLflowのdspyとstatsmodelsフレーバーにおけるpickleのデシリアライズ制御回避の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-17T09:30:15+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU94390979/"
+      },
+      {
+        "title": "Sentry Seerにおける攻撃者が制御する入力が管理者権限で実行される脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-17T09:30:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU91019649/"
+      },
+      {
+        "title": "[UPDATE] [hoch] Netgate pfSense: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-17T05:31:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3386"
+      },
+      {
+        "title": "Warnung vor Cyberattacken auf Google Pixel, Cisco ISE und Acronis Backup",
+        "source": "heise Security Alerts",
+        "published_at": "2026-09-17T07:30:00.000+00:00",
+        "relevance_score": 13,
+        "url": "https://www.heise.de/news/Warnung-vor-Cyberattacken-auf-Google-Pixel-Cisco-ISE-und-Acronis-Backup-11456146.html"
+      },
+      {
+        "title": "cloudflare/security-audit-skill",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 12,
+        "url": "https://github.com/cloudflare/security-audit-skill"
+      },
+      {
+        "title": "Jetzt patchen! Angreifer knipsen Firewalls von Cisco aus",
+        "source": "heise Security Alerts",
+        "published_at": "2026-09-17T08:08:00.000+00:00",
+        "relevance_score": 7,
+        "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-knipsen-Firewalls-von-Cisco-aus-11456078.html"
+      }
+    ],
     "ai": [
       {
         "title": "Paid to be quoted: The creator revenue line Southeast Asia hasn’t priced yet",
@@ -145,57 +210,6 @@
         "published_at": "2026-09-16T22:53:29+00:00",
         "relevance_score": 5,
         "url": "https://internet.watch.impress.co.jp/docs/special/2139536.html"
-      }
-    ],
-    "security": [
-      {
-        "title": "スマートフォンアプリ「東北電力 よりそうｅねっと」におけるハードコードされた暗号鍵使用の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-17T14:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/jp/JVN93985674/"
-      },
-      {
-        "title": "MLflowのdspyとstatsmodelsフレーバーにおけるpickleのデシリアライズ制御回避の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-17T09:30:15+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU94390979/"
-      },
-      {
-        "title": "Sentry Seerにおける攻撃者が制御する入力が管理者権限で実行される脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-17T09:30:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU91019649/"
-      },
-      {
-        "title": "[UPDATE] [hoch] Netgate pfSense: Schwachstelle ermöglicht Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-17T05:31:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3386"
-      },
-      {
-        "title": "Warnung vor Cyberattacken auf Google Pixel, Cisco ISE und Acronis Backup",
-        "source": "heise Security Alerts",
-        "published_at": "2026-09-17T07:30:00.000+00:00",
-        "relevance_score": 13,
-        "url": "https://www.heise.de/news/Warnung-vor-Cyberattacken-auf-Google-Pixel-Cisco-ISE-und-Acronis-Backup-11456146.html"
-      },
-      {
-        "title": "cloudflare/security-audit-skill",
-        "source": "GitHub Trending RSS All Languages Daily",
-        "published_at": null,
-        "relevance_score": 12,
-        "url": "https://github.com/cloudflare/security-audit-skill"
-      },
-      {
-        "title": "Jetzt patchen! Angreifer knipsen Firewalls von Cisco aus",
-        "source": "heise Security Alerts",
-        "published_at": "2026-09-17T08:08:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-knipsen-Firewalls-von-Cisco-aus-11456078.html"
       }
     ],
     "geopolitics": [
