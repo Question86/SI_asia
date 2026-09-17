@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-17T06:36:30+00:00_
+_Generated: 2026-09-17T06:57:51+00:00_
 
 ## Status
 - status: `normal`
-- findings: `26`
+- findings: `28`
 
 ## Top Signals
 
@@ -15,25 +15,25 @@ _Generated: 2026-09-17T06:36:30+00:00_
 - url: https://e27.co/paid-to-be-quoted-the-creator-revenue-line-southeast-asia-hasnt-priced-yet-20260914/
 - summary: When we run citation checks for clients at ESBO Ltd, my agency, the sources assistants quote for buying questions are rarely brand websites or big media. They are creators: a YouTube comparison from someone who tested four products on camera, or a forum threa…
 
-### 2. スマートフォンアプリ「東北電力 よりそうｅねっと」におけるハードコードされた暗号鍵使用の脆弱性
+### 2. M 5.2 - 132 km E of Bitung, Indonesia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-09-17T06:37:49.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000thzp
+- summary: Time 2026-09-17 06:20:48 UTC 2026-09-17 06:20:48 UTC at epicenter Location 1.316°N 126.309°E Depth 10.00 km (6.21 mi)
+
+### 3. スマートフォンアプリ「東北電力 よりそうｅねっと」におけるハードコードされた暗号鍵使用の脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-09-17T14:00:00+09:00`
 - url: https://jvn.jp/jp/JVN93985674/
 - summary: 東北電力株式会社が提供するスマートフォンアプリ「東北電力 よりそうｅねっと」には、ハードコードされた暗号鍵使用の脆弱性が存在します。
 
-### 3. MLflowのdspyとstatsmodelsフレーバーにおけるpickleのデシリアライズ制御回避の脆弱性
+### 4. MLflowのdspyとstatsmodelsフレーバーにおけるpickleのデシリアライズ制御回避の脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-09-17T09:30:15+09:00`
 - url: https://jvn.jp/vu/JVNVU94390979/
-- summary: CERT/CCから本件に関するアドバイザリが公表されました。
-
-### 4. Sentry Seerにおける攻撃者が制御する入力が管理者権限で実行される脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-09-17T09:30:00+09:00`
-- url: https://jvn.jp/vu/JVNVU91019649/
 - summary: CERT/CCから本件に関するアドバイザリが公表されました。
 
 ### 5. Why did Bitcoin and Ethereum move in near-perfect lockstep after the Fed rate hike?
