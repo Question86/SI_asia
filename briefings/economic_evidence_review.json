@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-09-17T00:14:19+00:00",
+  "generated_at": "2026-09-17T01:03:01+00:00",
   "fx_as_of": null,
-  "candidate_count": 749,
+  "candidate_count": 753,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 749
+    "pending": 753
   },
   "coverage_warning": null,
   "candidates": [
@@ -9398,6 +9398,27 @@
       "source_url": "https://restofworld.org/2026/global-workers-using-ai-at-work/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
     },
     {
+      "amount_native": 120000.0,
+      "amount_usd": 120000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.55,
+      "candidate_id": "cand_9eeb1b25f6f22a21d93f",
+      "component_suggestion": "real_resource",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_574beed208af3af2acc2",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-17T01:02:58+00:00",
+      "overlap_group_suggestion": "evt_574beed208af3af2acc2:real_resource:cb9e3239c4a3",
+      "review_status": "pending",
+      "snippet": "cached input read tokens, ~4.2 billion cached input write tokens, ~900 million fresh input tokens, and ~600 million output tokens. The monetary bill for all those tokens came to ~$120,000. Of course, these tokens weren’t spending themselves. The cost for using a significant amount of a developer’s time guiding these agents should also be factored in. However, I was",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
+      "component_confidence": 0.55,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
+    },
+    {
       "amount_native": 5000.0,
       "amount_usd": 5000.0,
       "attribution_probability": null,
@@ -10190,6 +10211,27 @@
       "snippet": "erican company based in his hometown Hsinchu, the heart of Taiwan’s semiconductor industry. He said the role gave him a chance to work on an ambitious AI-chip design project and a $120,000 salary, doubling the industry average, which would help pay off his two children’s private elementary education. But several months into his new role, the engineer, who was 32 at t",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://restofworld.org/2026/taiwan-china-chip-investigations/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
+    },
+    {
+      "amount_native": 120000.0,
+      "amount_usd": 120000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.43,
+      "candidate_id": "cand_465c809817bbd0acc39f",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_574beed208af3af2acc2",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-17T01:02:58+00:00",
+      "overlap_group_suggestion": "evt_574beed208af3af2acc2:unknown:835e25012f92",
+      "review_status": "pending",
+      "snippet": "re of pull requests approximates the share of my time, that works out to roughly three weeks dedicated to the port. In other words, the rough bill for the porting effort was about $120,000 in attributed token spend plus three weeks of a developer’s time. That said, the end-to-end Rust migration was not 100% a single developer; it’s been a team effort. @stevesanderson",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 39500000000000.0,
@@ -14035,6 +14077,27 @@
       "source_url": "https://e27.co/the-clarity-act-vote-could-send-crypto-to-us2-73t-or-crash-it-to-us2-6t-20260915/"
     },
     {
+      "amount_native": 2.0,
+      "amount_usd": 2.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_6062592275bcf6f6574f",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_574beed208af3af2acc2",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-17T01:02:58+00:00",
+      "overlap_group_suggestion": "evt_574beed208af3af2acc2:unknown:d5b2bce84836",
+      "review_status": "pending",
+      "snippet": "including a rate for input tokens that are read from the cache. The discounts are steep! Often providers bill cache hits at a 90% discount, so for example a provider might charge $2.00 for 1 million input tokens but only $0.20 for 1 million cached input read tokens. In other words, you really, really want to maintain good prompt caching so that your bill is an or",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
+    },
+    {
       "amount_native": 1.5,
       "amount_usd": 1.5,
       "attribution_probability": null,
@@ -14285,6 +14348,27 @@
       "snippet": "iew GitHub Copilot Codex Cursor Bugbot Socket Security 費用（私の契約で） 無料（プレビュー、月間行数制限） Cognition 無料（Devin アカウント要） GitHub Copilot Pro のプラン内 OpenAI ChatGPT プラン内のクレジット Cursor Pro 以上に包含。1回 $1〜1.5 相当を使用量枠から消費 Socket public は無料 性格 セキュリティ寄り。誤検知あり 提案 diff 付きで質が高い 差分の一般的なレビュー ローカルと同じ Codex が PR でも読む バグ検出特化 依存パッケージの供給網リスク に実証リポジトリ（pj-pilot）の直近PRで実測したレビュアー。費用は各社公式（2026年8〜9月時点",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://www.docswell.com/s/3402128/KVJYJ3-2026-09-15-202358"
+    },
+    {
+      "amount_native": 0.2,
+      "amount_usd": 0.2,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_e856e72bbe9155cd16b7",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_574beed208af3af2acc2",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-17T01:02:58+00:00",
+      "overlap_group_suggestion": "evt_574beed208af3af2acc2:unknown:32759fff81bd",
+      "review_status": "pending",
+      "snippet": "e read from the cache. The discounts are steep! Often providers bill cache hits at a 90% discount, so for example a provider might charge $2.00 for 1 million input tokens but only $0.20 for 1 million cached input read tokens. In other words, you really, really want to maintain good prompt caching so that your bill is an order of magnitude smaller. The data from th",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 274000.0,
