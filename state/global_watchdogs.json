@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-09-17T14:45:24+00:00",
+  "generated_at": "2026-09-17T14:53:09+00:00",
   "sections": {
     "global_security": [
       {
         "domain": "security",
         "severity": "high",
         "title": "USGS earthquake M6.5 - 166 km W of Nikolski, Alaska",
-        "summary": "M6.5 - 166 km W of Nikolski, Alaska. PAGER alert: none. Tsunami flag: 1.",
+        "summary": "M6.5 - 166 km W of Nikolski, Alaska. PAGER alert: green. Tsunami flag: 1.",
         "source": "USGS",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti1p",
         "published_at": "2026-09-17T14:19:52+00:00",
         "metrics": {
           "mag": 6.5,
-          "alert": "",
+          "alert": "green",
           "sig": 651.0,
           "tsunami": 1
         }
@@ -80,8 +80,8 @@
       {
         "domain": "security",
         "severity": "high",
-        "title": "GDACS: Green earthquake (Magnitude 6.3M, Depth:83km) in United States 17/09/2026 14:19 UTC, Few people affected in MMI&gt;=III.",
-        "summary": "Green earthquake (Magnitude 6.3M, Depth:83km) in United States 17/09/2026 14:19 UTC, Few people affected in MMI&gt;=III.",
+        "title": "GDACS: Green earthquake (Magnitude 6.5M, Depth:108.383km) in Fox Islands, Aleutian Islands 17/09/2026 14:19 UTC, Few people affected in MMI&gt;=III.",
+        "summary": "Green earthquake (Magnitude 6.5M, Depth:108.383km) in Fox Islands, Aleutian Islands 17/09/2026 14:19 UTC, Few people affected in MMI&gt;=III.",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1566678",
         "published_at": "",

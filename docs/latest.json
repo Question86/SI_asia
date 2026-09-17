@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-17T14:45:20+00:00",
-  "run_id": "2026-09-17T14:45:20+00:00",
+  "generated_at": "2026-09-17T14:53:05+00:00",
+  "run_id": "2026-09-17T14:53:05+00:00",
   "date": "2026-09-17",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 66
+      "configured_public_sources_only": 67
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,12 +19,12 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 66,
-    "displayed_findings": 66,
+    "today_file_total": 67,
+    "displayed_findings": 67,
     "high": 0,
     "medium": 28,
-    "observe": 38,
-    "source_errors": 1
+    "observe": 39,
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -1472,6 +1472,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "e32cb6a0ebc5912a8900"
+      },
+      {
+        "title": "パスキーは破られていないのに突破される——デバイスコードフロー攻撃とEntra IDでの対策 - APC 技術ブログ",
+        "url": "https://techblog.ap-com.co.jp/entry/2026/09/17/103525",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-17T08:49:29+00:00",
+        "fetched_at": "2026-09-17T14:52:32+00:00",
+        "summary": "目次 目次 はじめに パスキーとは サインインの仕組み Entra IDでのパスキー対応について パスキーが突破されること：デバイスコードフロー攻撃 デバイスコードフローとは 攻撃のメカニズム デバイスコードフロー攻撃の対策 Entra IDの条件付きアクセスによるブロック 除外設定が必要なケース Microsoft Entra ID Protec...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b26a02e7fdbcc8c79e02"
       },
       {
         "title": "買ったばかりのMacBook Pro M5のキーボードとモニターの間に薄い紙資料を挟んだまま閉じて、短時間持ち運んだらモニターが潰れた→キーボードカバーもダメ、注意して下さい",
@@ -3087,6 +3108,27 @@
       "id": "e32cb6a0ebc5912a8900"
     },
     {
+      "title": "パスキーは破られていないのに突破される——デバイスコードフロー攻撃とEntra IDでの対策 - APC 技術ブログ",
+      "url": "https://techblog.ap-com.co.jp/entry/2026/09/17/103525",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-17T08:49:29+00:00",
+      "fetched_at": "2026-09-17T14:52:32+00:00",
+      "summary": "目次 目次 はじめに パスキーとは サインインの仕組み Entra IDでのパスキー対応について パスキーが突破されること：デバイスコードフロー攻撃 デバイスコードフローとは 攻撃のメカニズム デバイスコードフロー攻撃の対策 Entra IDの条件付きアクセスによるブロック 除外設定が必要なケース Microsoft Entra ID Protec...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b26a02e7fdbcc8c79e02"
+    },
+    {
       "title": "買ったばかりのMacBook Pro M5のキーボードとモニターの間に薄い紙資料を挟んだまま閉じて、短時間持ち運んだらモニターが潰れた→キーボードカバーもダメ、注意して下さい",
       "url": "https://togetter.com/li/2746655",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3257,51 +3299,28 @@
   ],
   "new_findings": [
     {
-      "title": "M 6.5 - 166 km W of Nikolski, Alaska",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti1p",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "パスキーは破られていないのに突破される——デバイスコードフロー攻撃とEntra IDでの対策 - APC 技術ブログ",
+      "url": "https://techblog.ap-com.co.jp/entry/2026/09/17/103525",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-17T14:44:37.460+00:00",
-      "fetched_at": "2026-09-17T14:44:44+00:00",
-      "summary": "ShakeMap - V DYFI? - III Time 2026-09-17 14:19:52 UTC 2026-09-17 14:19:52 UTC at epicenter Location 52.772°N 171.311°W Depth 108.38 km (67.35 mi)",
+      "published_at": "2026-09-17T08:49:29+00:00",
+      "fetched_at": "2026-09-17T14:52:32+00:00",
+      "summary": "目次 目次 はじめに パスキーとは サインインの仕組み Entra IDでのパスキー対応について パスキーが突破されること：デバイスコードフロー攻撃 デバイスコードフローとは 攻撃のメカニズム デバイスコードフロー攻撃の対策 Entra IDの条件付きアクセスによるブロック 除外設定が必要なケース Microsoft Entra ID Protec...",
       "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "ShakeMap",
-        "Watchgraph:earthquakes_tsunami"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake, ShakeMap"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "dfce638513819cefa4cc"
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b26a02e7fdbcc8c79e02"
     }
   ],
-  "source_errors": [
-    {
-      "source_id": "e27_asia_startups_feed",
-      "source_name": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "error": "500 Server Error: Internal Server Error for url: https://e27.co/index_wp.php/feed/"
-    }
-  ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
