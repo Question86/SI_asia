@@ -1,19 +1,49 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-17T00:13:53+00:00",
+  "generated_at": "2026-09-17T01:02:36+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 1,
-    "displayed_findings": 1,
+    "new_relevant_findings": 4,
+    "today_file_total": 5,
+    "displayed_findings": 5,
     "high": 0,
-    "medium": 0,
-    "observe": 1
+    "medium": 2,
+    "observe": 3
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "MLflowのdspyとstatsmodelsフレーバーにおけるpickleのデシリアライズ制御回避の脆弱性",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-09-17T09:30:15+09:00",
+      "relevance_score": 14,
+      "url": "https://jvn.jp/vu/JVNVU94390979/",
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+      "section": "medium"
+    },
+    {
+      "title": "Sentry Seerにおける攻撃者が制御する入力が管理者権限で実行される脆弱性",
+      "source": "JVN Japan Vulnerability Notes",
+      "source_type": "rss",
+      "published_at": "2026-09-17T09:30:00+09:00",
+      "relevance_score": 14,
+      "url": "https://jvn.jp/vu/JVNVU91019649/",
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+      "section": "medium"
+    },
+    {
+      "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+      "source": "GitHub Blog Atom",
+      "source_type": "rss",
+      "published_at": "2026-09-17T00:26:43+00:00",
+      "relevance_score": 9,
+      "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
+      "summary": "A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took. The post Migrating the GitHub Copilot runtime to Rust, using Copilot appeared first on The GitHub Blog .",
+      "section": "observe"
+    },
     {
       "title": "いい加減「ドパガキ」を卒業したい！ 20代ライターがスマホ依存から脱却するために考えたこと（前編）",
       "source": "Hatena Bookmark Hotentry IT",
@@ -23,6 +53,16 @@
       "url": "https://internet.watch.impress.co.jp/docs/special/2139536.html",
       "summary": "いい加減「ドパガキ」を卒業したい！ 20代ライターがスマホ依存から脱却するために考えたこと（前編）",
       "section": "observe"
+    },
+    {
+      "title": "【レビュー】 GB10搭載のデル小型AI機を社内のAI専任ではない技術スタッフが1カ月試用、向いたのは「放置して任せる」仕事",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-16T21:48:52+00:00",
+      "relevance_score": 5,
+      "url": "https://pc.watch.impress.co.jp/docs/topic/review/2138219.html",
+      "summary": "【レビュー】 GB10搭載のデル小型AI機を社内のAI専任ではない技術スタッフが1カ月試用、向いたのは「放置して任せる」仕事",
+      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -30,62 +70,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “いい加減「ドパガキ」を卒業したい！ 20代ライターがスマホ依存から脱却するために考えたこと（前編）” — Die Dynamik wirkt aktuell wie Hintergrundrauschen. Band=quiet, score=11.5.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "いい加減「ドパガキ」を卒業したい！ 20代ライターがスマホ依存から脱却するために考えたこと（前編）",
-        "url": "https://internet.watch.impress.co.jp/docs/special/2139536.html",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-17T00:13:57+00:00",
-        "age_days": 0.02,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 11.5,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +1"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "いい加減「ドパガキ」を卒業したい！ 20代ライターがスマホ依存から脱却するために考えたこと（前編）",
-        "url": "https://internet.watch.impress.co.jp/docs/special/2139536.html",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-16T22:53:29+00:00",
-        "age_days": 0.07,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 5.0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "no strong comparative reason"
-        ],
-        "summary": "いい加減「ドパガキ」を卒業したい！ 20代ライターがスマホ依存から脱却するために考えたこと（前編）"
-      }
-    ]
-  }
+  ]
 }

@@ -1,8 +1,56 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-17T00:13:53+00:00",
+  "generated_at": "2026-09-17T01:02:36+00:00",
   "topics": {
+    "ai": [
+      {
+        "title": "MLflowのdspyとstatsmodelsフレーバーにおけるpickleのデシリアライズ制御回避の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-17T09:30:15+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU94390979/"
+      },
+      {
+        "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-09-17T00:26:43+00:00",
+        "relevance_score": 9,
+        "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/"
+      },
+      {
+        "title": "【レビュー】 GB10搭載のデル小型AI機を社内のAI専任ではない技術スタッフが1カ月試用、向いたのは「放置して任せる」仕事",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-16T21:48:52+00:00",
+        "relevance_score": 5,
+        "url": "https://pc.watch.impress.co.jp/docs/topic/review/2138219.html"
+      }
+    ],
+    "security": [
+      {
+        "title": "MLflowのdspyとstatsmodelsフレーバーにおけるpickleのデシリアライズ制御回避の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-17T09:30:15+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU94390979/"
+      },
+      {
+        "title": "Sentry Seerにおける攻撃者が制御する入力が管理者権限で実行される脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-17T09:30:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU91019649/"
+      }
+    ],
+    "github": [
+      {
+        "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+        "source": "GitHub Blog Atom",
+        "published_at": "2026-09-17T00:26:43+00:00",
+        "relevance_score": 9,
+        "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/"
+      }
+    ],
     "general": [
       {
         "title": "いい加減「ドパガキ」を卒業したい！ 20代ライターがスマホ依存から脱却するために考えたこと（前編）",
