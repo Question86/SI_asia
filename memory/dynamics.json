@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-17T07:50:38Z",
+  "generated_at": "2026-09-17T08:20:11Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 7,
-      "strong": 15,
+      "krass": 6,
+      "strong": 16,
       "watch": 18
     },
     "bands_after_gate_recheck": {
       "krass": 1,
-      "strong": 20,
-      "watch": 19
+      "strong": 21,
+      "watch": 18
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3386",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-17T05:31:31+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3386",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 19.74,
+      "age_days": 19.76,
       "topics": [
         "security"
       ],
@@ -70,11 +70,37 @@
       "summary": ""
     },
     {
+      "title": "Warnung vor Cyberattacken auf Google Pixel, Cisco ISE und Acronis Backup",
+      "url": "https://www.heise.de/news/Warnung-vor-Cyberattacken-auf-Google-Pixel-Cisco-ISE-und-Acronis-Backup-11456146.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-06-19T07:39:37+00:00",
+      "age_days": 90.03,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "security high-signal: google",
+        "aging penalty -8.0 for 90.0d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "スマートフォンアプリ「東北電力 よりそうｅねっと」におけるハードコードされた暗号鍵使用の脆弱性",
       "url": "https://jvn.jp/jp/JVN93985674/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-17T14:00:00+09:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -98,7 +124,7 @@
       "url": "https://jvn.jp/vu/JVNVU94390979/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-17T09:30:15+09:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -122,7 +148,7 @@
       "url": "https://www.heise.de/news/Warnung-vor-Cyberattacken-auf-Google-Pixel-Cisco-ISE-und-Acronis-Backup-11456146.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-17T07:30:00.000+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -146,7 +172,7 @@
       "url": "https://github.com/abue-ammar/tinycast",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-17T06:36:33+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [],
       "dynamics_score": 25.0,
       "raw_band": "strong",
@@ -170,7 +196,7 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-17T06:36:33+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "security"
@@ -197,7 +223,7 @@
       "url": "https://e27.co/paid-to-be-quoted-the-creator-revenue-line-southeast-asia-hasnt-priced-yet-20260914/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-17T03:00:21+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -223,7 +249,7 @@
       "url": "https://github.com/abue-ammar/tinycast",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-17T06:35:58+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -251,7 +277,7 @@
       "url": "https://jvn.jp/vu/JVNVU91019649/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-17T09:30:00+09:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -277,7 +303,7 @@
       "url": "https://e27.co/mobiles-next-us4-5-trillion-wont-come-from-connectivity-20260914/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-17T01:30:56+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -303,7 +329,7 @@
       "url": "https://prtimes.jp/main/html/rd/p/000000268.000045379.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-17T01:54:13+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "ai"
       ],
@@ -330,7 +356,7 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-17T06:35:58+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "security",
@@ -356,7 +382,7 @@
       "url": "https://jvn.jp/jp/JVN93985674/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-17T05:01:53+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -380,7 +406,7 @@
       "url": "https://jvn.jp/vu/JVNVU94390979/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-17T01:02:39+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -404,7 +430,7 @@
       "url": "https://jvn.jp/vu/JVNVU91019649/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-17T01:02:39+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -428,7 +454,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thzp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-17T06:37:49.040+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -453,7 +479,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thzp",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-04T05:31:26+00:00",
-      "age_days": 13.1,
+      "age_days": 13.12,
       "topics": [
         "general"
       ],
@@ -477,7 +503,7 @@
       "url": "https://e27.co/why-did-bitcoin-and-ethereum-move-in-near-perfect-lockstep-after-the-fed-rate-hike-20260917/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-17T04:10:16+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "macro"
       ],
@@ -501,7 +527,7 @@
       "url": "https://prtimes.jp/main/html/rd/p/000000268.000045379.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-17T01:01:47+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -528,7 +554,7 @@
       "url": "https://e27.co/mobiles-next-us4-5-trillion-wont-come-from-connectivity-20260914/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-17T01:33:00+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -548,38 +574,11 @@
       "summary": ""
     },
     {
-      "title": "Warnung vor Cyberattacken auf Google Pixel, Cisco ISE und Acronis Backup",
-      "url": "https://www.heise.de/news/Warnung-vor-Cyberattacken-auf-Google-Pixel-Cisco-ISE-und-Acronis-Backup-11456146.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 90.01,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 19.9,
-      "raw_band": "krass",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "security high-signal: google",
-        "aging penalty -8.0 for 90.0d old signal",
-        "stale single-source cap after 30d: no current exploitation phrase"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
       "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
       "source": "GitHub Blog Atom",
       "published_at": "2026-09-17T01:02:39+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -603,7 +602,7 @@
       "url": "https://e27.co/paid-to-be-quoted-the-creator-revenue-line-southeast-asia-hasnt-priced-yet-20260914/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-17T03:15:18+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "ai"
       ],
@@ -629,7 +628,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thzz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-17T07:07:36.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -654,7 +653,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thzw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-17T07:02:10.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -679,7 +678,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thz3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-17T04:24:31.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -700,29 +699,50 @@
       "summary": "Time 2026-09-17 04:06:53 UTC 2026-09-17 04:06:53 UTC at epicenter Location 17.323°S 173.448°W Depth 10.00 km (6.21 mi)"
     },
     {
-      "title": "高速な判断に特化したAI - TypeSafe「Jev」 と System One Model｜npaka",
-      "url": "https://note.com/npaka/n/n6f8dd30a5fa4",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 16.55,
+      "title": "M 5.0 - South Atlantic Ocean",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thzz",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-17T07:22:34+00:00",
+      "age_days": 0.04,
       "topics": [
-        "ai"
+        "general"
       ],
-      "dynamics_score": 16.51,
+      "dynamics_score": 16.5,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 4.1,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3",
-        "baseline z_hint 4.10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "M 5.3 - 191 km SE of Mata-Utu, Wallis and Futuna",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thzw",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-17T07:22:34+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
       ],
       "summary": ""
     },
@@ -731,7 +751,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thzs",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-17T06:57:53+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -755,7 +775,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thz3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-17T04:29:52+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -775,11 +795,62 @@
       "summary": ""
     },
     {
+      "title": "高速な判断に特化したAI - TypeSafe「Jev」 と System One Model｜npaka",
+      "url": "https://note.com/npaka/n/n6f8dd30a5fa4",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-08-31T18:43:10+00:00",
+      "age_days": 16.57,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 16.07,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 3.7,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 3.70",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Temasek-backed Xora leads Hang Ten’s US$53M seed round",
+      "url": "https://e27.co/temasek-backed-xora-leads-hang-tens-us53m-seed-round-20260917/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-17T08:09:08+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 15.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "松本大臣退任記者会見（令和8年9月17日）動画を掲載しました",
       "url": "https://www.digital.go.jp/speech/minister-260917-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-17T05:44:40+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -799,59 +870,11 @@
       "summary": ""
     },
     {
-      "title": "M 5.0 - South Atlantic Ocean",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thzz",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-17T07:22:34+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 5.3 - 191 km SE of Mata-Utu, Wallis and Futuna",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thzw",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-17T07:22:34+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Why Singapore investors hold more Apple than Singtel, and why it should worry you",
       "url": "https://e27.co/why-singapore-investors-hold-more-apple-than-singtel-and-why-it-should-worry-you-20260523/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-17T02:32:02+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -875,7 +898,7 @@
       "url": "https://hsjoihs.hatenablog.com/entry/2026/09/17/101650",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-17T03:34:45+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -899,7 +922,7 @@
       "url": "https://webtan.impress.co.jp/e/2026/09/17/53178",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-17T02:32:02+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -923,7 +946,7 @@
       "url": "https://internet.watch.impress.co.jp/docs/special/2139536.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-17T00:13:57+00:00",
-      "age_days": 0.32,
+      "age_days": 0.34,
       "topics": [
         "general"
       ],
@@ -947,7 +970,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/2141599.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-17T02:56:43+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -973,7 +996,7 @@
       "url": "https://www.itmedia.co.jp/news/article/2609/16/2000001551/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-17T02:56:43+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -993,30 +1016,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
-    },
-    {
-      "title": "M 4.8 - 64 km SSE of Lakatoro, Vanuatu",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000thzs",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-17T06:49:38.040+00:00",
-      "age_days": 0.04,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake"
-      ],
-      "summary": "Time 2026-09-17 06:32:13 UTC 2026-09-17 06:32:13 UTC at epicenter Location 16.663°S 167.557°E Depth 36.73 km (22.82 mi)"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Netgate pfSense: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0."
