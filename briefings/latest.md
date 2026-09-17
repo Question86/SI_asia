@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-17T10:44:56+00:00_
+_Generiert: 2026-09-17T11:00:23+00:00_
 
 ## Kurzlage
 
-43 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [mittel] Red Hat Enterprise Linux (firewalld, leapp-repository, tesseract): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 18, observation).
+44 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [mittel] Red Hat Enterprise Linux (firewalld, leapp-repository, tesseract): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 18, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,14 +33,14 @@ _Generiert: 2026-09-17T10:44:56+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Democratic Republic of Congo
+- **GDACS: Green flood alert in Ecuador** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104167)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Ecuador
 - **GDACS: Green flood alert in Senegal** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104161)
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Senegal
-- **GDACS: Green flood alert in Sri Lanka** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104160)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Sri Lanka
 - **GDACS: Green notification for tropical cyclone DUJUAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001322)
   - Quelle: GDACS
   - Zeit: ``
@@ -150,6 +150,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Claude Codeを「使うほど育つ」AI秘書にするノウハウ** — Score 14, observation — [Quelle](https://speakerdeck.com/minorun365/claude-code-o-tsukau-hodo-sodatsu-ai-hisho-ni-suru-nouhau)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-17T05:02:37+00:00`, fetched `2026-09-17T10:59:52+00:00`
+  - Treffer: AI Agents, AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: ［みのるん式］ビジネスパーソンのためのClaude Code仕事術 https://www.amazon.co.jp/dp/4297159392
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 

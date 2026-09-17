@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T10:44:56+00:00",
-  "run_id": "2026-09-17T10:44:56+00:00",
+  "generated_at": "2026-09-17T11:00:23+00:00",
+  "run_id": "2026-09-17T11:00:23+00:00",
   "date": "2026-09-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 43
+      "configured_public_sources_only": 44
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 43,
-    "displayed_findings": 43,
+    "new_relevant_findings": 1,
+    "today_file_total": 44,
+    "displayed_findings": 44,
     "high": 0,
-    "medium": 13,
+    "medium": 14,
     "observe": 30,
     "source_errors": 0
   },
@@ -369,6 +369,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "f449b704b198d2ae2dec"
+      },
+      {
+        "title": "Claude Codeを「使うほど育つ」AI秘書にするノウハウ",
+        "url": "https://speakerdeck.com/minorun365/claude-code-o-tsukau-hodo-sodatsu-ai-hisho-ni-suru-nouhau",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-17T05:02:37+00:00",
+        "fetched_at": "2026-09-17T10:59:52+00:00",
+        "summary": "［みのるん式］ビジネスパーソンのためのClaude Code仕事術 https://www.amazon.co.jp/dp/4297159392",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "AI/KI (+3.0); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1a0ddeb16c839a9212a8"
       }
     ],
     "observe": [
@@ -1416,6 +1439,29 @@
       "id": "f449b704b198d2ae2dec"
     },
     {
+      "title": "Claude Codeを「使うほど育つ」AI秘書にするノウハウ",
+      "url": "https://speakerdeck.com/minorun365/claude-code-o-tsukau-hodo-sodatsu-ai-hisho-ni-suru-nouhau",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-17T05:02:37+00:00",
+      "fetched_at": "2026-09-17T10:59:52+00:00",
+      "summary": "［みのるん式］ビジネスパーソンのためのClaude Code仕事術 https://www.amazon.co.jp/dp/4297159392",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "AI/KI (+3.0); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1a0ddeb16c839a9212a8"
+    },
+    {
       "title": "Warnung vor Cyberattacken auf Google Pixel, Cisco ISE und Acronis Backup",
       "url": "https://www.heise.de/news/Warnung-vor-Cyberattacken-auf-Google-Pixel-Cisco-ISE-und-Acronis-Backup-11456146.html",
       "source": "heise Security Alerts",
@@ -2115,7 +2161,31 @@
       "id": "451e6aa48c585d187515"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Claude Codeを「使うほど育つ」AI秘書にするノウハウ",
+      "url": "https://speakerdeck.com/minorun365/claude-code-o-tsukau-hodo-sodatsu-ai-hisho-ni-suru-nouhau",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-17T05:02:37+00:00",
+      "fetched_at": "2026-09-17T10:59:52+00:00",
+      "summary": "［みのるん式］ビジネスパーソンのためのClaude Code仕事術 https://www.amazon.co.jp/dp/4297159392",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "AI/KI (+3.0); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1a0ddeb16c839a9212a8"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
