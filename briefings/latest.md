@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-17T02:48:58+00:00_
+_Generiert: 2026-09-17T02:56:39+00:00_
 
 ## Kurzlage
 
-11 neue relevante Treffer. Stärkstes Signal: „MLflowのdspyとstatsmodelsフレーバーにおけるpickleのデシリアライズ制御回避の脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
+13 neue relevante Treffer. Stärkstes Signal: „MLflowのdspyとstatsmodelsフレーバーにおけるpickleのデシリアライズ制御回避の脆弱性“ aus JVN Japan Vulnerability Notes (Score 14, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -86,6 +86,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **LLMの193倍速い“判断だけのAI”「Jev」、ChatGPTの共著研究者が開発** — Score 12, observation — [Quelle](https://pc.watch.impress.co.jp/docs/news/2141599.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-16T21:37:20+00:00`, fetched `2026-09-17T02:56:10+00:00`
+  - Treffer: Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: LLMの193倍速い“判断だけのAI”「Jev」、ChatGPTの共著研究者が開発
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Mobile’s next US$4.5 trillion won’t come from connectivity** — Score 11, observation — [Quelle](https://e27.co/mobiles-next-us4-5-trillion-wont-come-from-connectivity-20260914/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-17T01:30:56+00:00`, fetched `2026-09-17T01:32:24+00:00`
@@ -94,6 +103,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: METI (+2.0)
   - Kurz: The GSMA published its Mobile Economy 2026 report at Barcelona in March, and the arithmetic inside it is worth sitting with rather than skimming. Mobile technologies and services contributed US$7.6 trillion to global GDP in 2025, or 6.4 per cent of the total. By 2030, that reaches US$11.3 trillion, or 8.4 per cent. Over the […] The post Mobile’s next US$4.5 trillion won’t come from connectivity appeared first on e27…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **“ほったらかしAI動画編集”を「DaVinci Resolve」で試す これが今のベストチョイスかも** — Score 11, observation — [Quelle](https://www.itmedia.co.jp/news/article/2609/16/2000001551/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-16T09:15:57+00:00`, fetched `2026-09-17T02:56:10+00:00`
+  - Treffer: Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: ここのところ、動画編集ツールのエージェンティックAI対応が続いている。ここまで米Adobeの「ChatGPT」用プラグインと、新進気鋭の編集ツール「Palmier Pro」をご紹介した。3つめは「DaVinci Resolve」である。 9月8日に公開された新バージョン21.1ではさまざまな機能強化が図られているところだが、最大の特徴はエージ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Your team finished the AI course. Can they challenge the machine?** — Score 10, observation — [Quelle](https://e27.co/your-team-finished-the-ai-course-can-they-challenge-the-machine-20260914/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -130,24 +148,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.8); Public Health (+5.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph demote portfolio (x0.45)
   - Kurz: Last month, I sat across from Kenny, a software engineer in his early thirties, based in Singapore, someone who reads financial news, has a brokerage account, and thinks carefully about his money. I asked him about his portfolio. He listed: Apple, Microsoft, Google, Nvidia, and Amazon. I asked about Singapore stocks. He paused. “I don’t […] The post Why Singapore investors hold more Apple than Singtel, and why it sh…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **WELQ問題からE-E-A-Tへ。SEOが社会に与えた影響と功罪｜住太陽×辻正浩対談 第3回 | Web担当者Forum** — Score 5, observation — [Quelle](https://webtan.impress.co.jp/e/2026/09/17/53178)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-17T00:14:15+00:00`, fetched `2026-09-17T02:31:27+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 本連載では、SEO黎明期からSEOに携わってきた住太陽氏が、専門家とともにSEOの歴史を振り返っていく。 第1回：90年代終わり～2011年 第2回：2012年～2015年 第3回：2016年～2023年頃 第4回：2024年～現在 第5回：これからのSEOを展望 第3回は、WELQ（ウェルク）問題が社会的に取り沙汰された2016年からAI検索が広まる前...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「人類皆殺しにしかねない」元開発者が警鐘のAI “AI著作物”で前例なき裁判 文学賞も席巻 突きつけられた深刻な問い（関西テレビ） - Yahoo!ニュース** — Score 5, observation — [Quelle](https://news.yahoo.co.jp/articles/b9ffd8c385784a798a16c90cbd56bd2b0d713cf7)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-17T00:09:08+00:00`, fetched `2026-09-17T02:31:27+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 今月、世界中のSNSに衝撃的な投稿が拡散しました。 【Xより】「AIが2020年代末までに私たちを皆殺しにしかねない」 大手AI開発企業の元研究者が書き込んだこの言葉は、またたく間に世界中へと広がりました。 実は今、AIの危険性をめぐる議論が各国で加速しています。 ことしに入り、オープンAIやアンソロピックなど大手...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
