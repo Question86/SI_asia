@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-17T08:09:04+00:00_
+_Generiert: 2026-09-17T08:33:08+00:00_
 
 ## Kurzlage
 
-33 neue relevante Treffer. Stärkstes Signal: „Paid to be quoted: The creator revenue line Southeast Asia hasn’t priced yet“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
+34 neue relevante Treffer. Stärkstes Signal: „Paid to be quoted: The creator revenue line Southeast Asia hasn’t priced yet“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -239,6 +239,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history. https://abue-ammar.github.io/tinycast/ Tinycast A tiny, fully native macOS launcher. One hotkey, everything you reach for all day, under 100 MB of RAM. SwiftUI and AppKit, zero third-party dependencies , no Electron and no telemetry. It also runs real Raycast extensions , rendered as native SwiftUI. Free, open source, and staying that wa…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Jetzt patchen! Angreifer knipsen Firewalls von Cisco aus** — Score 7, observation — [Quelle](https://www.heise.de/news/Jetzt-patchen-Angreifer-knipsen-Firewalls-von-Cisco-aus-11456078.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-09-17T08:08:00.000+00:00`, fetched `2026-09-17T08:32:40+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Der Netzwerkausrüster Cisco hat zahlreiche Sicherheitslücken in seinen Produkten geschlossen. Es laufen bereits Attacken.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **松本大臣退任記者会見（令和8年9月17日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-260917-01)
   - Quelle: Japan Digital Agency News RSS / `rss`
   - Zeit: published `2026-09-17T05:33:33+00:00`, fetched `2026-09-17T05:44:10+00:00`
