@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-09-17T17:28:28+00:00`
+Generated: `2026-09-17T17:39:46+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -25,12 +25,12 @@ Generated: `2026-09-17T17:28:28+00:00`
 | bilawalsidhu/gods-eye-view | regulation, natural_disaster | $11.92M | $1.19B | $119.20B | 0.31 |
 | Who’s building AI for the way Southeast Asia actually speaks? | regulation | $11.84M | $1.18B | $118.40B | 0.31 |
 | When a slot opens, let the AI agent act – within limits | regulation | $11.76M | $1.18B | $117.60B | 0.31 |
+| Workflow execution protections in GitHub Actions generally available | regulation | $11.76M | $1.18B | $117.60B | 0.31 |
 | コンテック製SolarView Compactにおける複数の脆弱性 | vulnerability, regulation | $11.52M | $1.15B | $115.20B | 0.31 |
 | チームの人数が減っても仕事を回す ── AIとGitHub Actionsによる開発ワークフロー改善 - ZOZO TECH BLOG | regulation | $11.44M | $1.14B | $114.40B | 0.31 |
 | Multiples vulnérabilités dans les produits Ivanti (09 septembre 2026) | exploit, regulation | $11.36M | $1.14B | $113.60B | 0.31 |
 | Control GitHub Actions cache access with cache-mode | regulation | $11.36M | $1.14B | $113.60B | 0.31 |
 | GitHub Actions: Early September 2026 updates | regulation | $11.36M | $1.14B | $113.60B | 0.31 |
-| The SMS looks real and that’s exactly why you should be careful | regulation | $11.28M | $1.13B | $112.80B | 0.31 |
 
 ## Interpretation
 
