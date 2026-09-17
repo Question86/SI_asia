@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-17T04:54:12+00:00",
+  "generated_at": "2026-09-17T05:01:49+00:00",
   "topics": {
     "ai": [
       {
@@ -76,6 +76,13 @@
       }
     ],
     "security": [
+      {
+        "title": "スマートフォンアプリ「東北電力 よりそうｅねっと」におけるハードコードされた暗号鍵使用の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-17T14:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/jp/JVN93985674/"
+      },
       {
         "title": "MLflowのdspyとstatsmodelsフレーバーにおけるpickleのデシリアライズ制御回避の脆弱性",
         "source": "JVN Japan Vulnerability Notes",
