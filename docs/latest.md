@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-16T23:55:22+00:00_
+_Generiert: 2026-09-17T00:13:53+00:00_
 
 ## Kurzlage
 
-104 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 23, risk).
+1 neue relevante Treffer. Stärkstes Signal: „いい加減「ドパガキ」を卒業したい！ 20代ライターがスマホ依存から脱却するために考えたこと（前編）“ aus Hatena Bookmark Hotentry IT (Score 5, observation).
 
 ## Priorität Hoch
 
@@ -12,275 +12,23 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
-- **[NEU] [hoch] Oracle Supply Chain: Mehrere Schwachstellen** — Score 23, risk — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3402)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-09-16T11:11:31+00:00`, fetched `2026-09-16T11:17:39+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security, Supply Chain Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); Supply Chain Security (+10.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
-  - Kurz: Ein entfernter, anonymer oder authentisierter Angreifer kann mehrere Schwachstellen in Oracle Supply Chain ausnutzen, um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Code scanning AI Scan no longer requires CodeQL default setup** — Score 22, risk — [Quelle](https://github.blog/changelog/2026-09-16-code-scanning-ai-scan-no-longer-requires-codeql-default-setup)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-09-16T13:26:06+00:00`, fetched `2026-09-16T14:21:17+00:00`
-  - Treffer: AI/KI, CodeQL/Dependabot, GitHub, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CodeQL/Dependabot (+8.8); AI/KI (+3.8); Security (+6.0); GitHub (+2.0); recent (+1.0)
-  - Kurz: You can now use AI Scan for pull requests to find security vulnerabilities, even when CodeQL default setup isn’t enabled on a repository. Previously, AI Scan for pull requests only… The post Code scanning AI Scan no longer requires CodeQL default setup appeared first on The GitHub Blog .
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **How to connect AI usage to business value** — Score 22, observation — [Quelle](https://openai.com/index/how-to-connect-ai-usage-to-business-value)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-09-16T12:00:00+00:00`, fetched `2026-09-16T19:40:42+00:00`
-  - Treffer: AI/KI, Content-Chance, OpenAI, Watchgraph:ai_agents_workflow
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); Content-Chance (+6.2); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph markets via ai_compute, dev_infra, platform_reputation: TEAM (+2.0)
-  - Kurz: Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The Capital-Driven Rise of Modern Business Suites** — Score 19, observation — [Quelle](https://e27.co/navigate-odoo-problem-best-erp-alternatives-singapore-price-guide-20260916/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-16T06:17:41+00:00`, fetched `2026-09-16T06:34:32+00:00`
-  - Treffer: APAC Trend Radar, Content-Chance, Macro/Policy, Watchgraph:capitals_power_centers
-  - Watchgraph: capitals_power_centers
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
-  - Warum relevant: Macro/Policy (+5.0); APAC Trend Radar (+3.0); Content-Chance (+5.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)
-  - Kurz: In the era of hyper-liquidity and ultra-low interest rates, the corporate software market witnessed an extraordinary transformation. The rapid global expansion of certain comprehensive business management applications, most notably Odoo, serves as a textbook example of a highly successful “capital + brand” growth narrative. Propelled by substantial venture capital injections and private equity backing, the […] The p…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The AI boom won’t help you scale. Your unit economics will** — Score 17, observation — [Quelle](https://e27.co/the-ai-boom-wont-help-you-scale-your-unit-economics-will-20260913/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-16T03:00:41+00:00`, fetched `2026-09-16T03:08:46+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, founder, Public Health, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.0); founder (+2.0); recent (+1.0)
-  - Kurz: Three weeks ago I sat in on a pitch from a Jakarta fintech founder who used the word AI-powered four times in six minutes. When I asked what the model actually predicted, he could not answer. He knew the term. He did not know the mechanism. That gap is the real story of Southeast Asia’s […] The post The AI boom won’t help you scale. Your unit economics will appeared first on e27 .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[NEU] [hoch] Pixel Patchday September 2026: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3407)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-09-16T11:31:31+00:00`, fetched `2026-09-16T11:41:39+00:00`
-  - Treffer: BSI, CERT-Bund, Patch, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Google Android Pixel ausnutzen, um seine Privilegien zu erhöhen, beliebigen Code auszuführen, einen Denial-of-Service-Zustand herbeizuführen und vertrauliche Informationen offenzulegen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [mittel] Linux Kernel: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1326)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-09-16T10:53:18+00:00`, fetched `2026-09-16T10:57:27+00:00`
-  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein lokaler Angreifer kann eine Schwachstellen im Linux Kernel ausnutzen, um Sicherheitsvorkehrungen zu umgehen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **CISA ICS Advisory / ICS Medical Advisory（2026年09月15日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU93448623/)
-  - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-09-16T09:00:00+09:00`, fetched `2026-09-16T00:13:02+00:00`
-  - Treffer: advisory, APAC Trend Radar, JVN, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **ChatGPT共同開発者がLLMとは異なる方法で処理するAIモデル「Jev」を開発、GPT-5.6 Terra級の性能でタスクを安価かつ超高速に実行可能** — Score 16, observation — [Quelle](https://gigazine.net/news/20260916-system-one-jev/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-16T02:49:52+00:00`, fetched `2026-09-16T05:50:24+00:00`
-  - Treffer: AI/KI, Hatena, hotentry, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: AI企業のTypeSafe AIが大規模言語モデル(LLM)とは異なるアプローチでタスクを解決するAI「System One Models」と、System One Modelsの第1弾モデルである「Jev」を現地時間の2026年9月15日に発表しました。TypeSafe AIはChatGPTの開発に携わったAI研究者であるディオゴ・アルメイダ氏がCEOを務める企業で、LLMとは根本的...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Helping older adults use AI in everyday life** — Score 15, observation — [Quelle](https://openai.com/index/helping-older-adults-use-ai-in-everyday-life)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-09-16T16:00:00+00:00`, fetched `2026-09-16T15:30:46+00:00`
-  - Treffer: AI Agents, AI/KI, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); AI Agents (+5.0)
-  - Kurz: OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.0 - 5 km NE of Mitsukaidō, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000thv6)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-16T15:29:44.280+00:00`, fetched `2026-09-16T15:30:46+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: DYFI? - III Time 2026-09-16 15:07:38 UTC 2026-09-16 15:07:38 UTC at epicenter Location 36.056°N 140.021°E Depth 77.35 km (48.06 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.9 - 64 km E of Kinablangan, Philippines** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000thti)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-16T12:29:25.040+00:00`, fetched `2026-09-16T12:44:22+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-16 11:50:12 UTC 2026-09-16 11:50:12 UTC at epicenter Location 7.751°N 127.133°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **QNDにおける複数の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN95825631/)
-  - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-09-16T12:00:15+09:00`, fetched `2026-09-16T03:08:46+00:00`
-  - Treffer: APAC Trend Radar, JVN, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: クオリティソフト株式会社が提供するQNDには、複数の脆弱性が存在します。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **XikeStor製Layer3スイッチのコンフィグレーションデータダウンロード機能における認証欠如の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN45281119/)
-  - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-09-16T12:00:00+09:00`, fetched `2026-09-16T03:08:46+00:00`
-  - Treffer: APAC Trend Radar, JVN, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: XikeStor製Layer3スイッチは、認証なしにコンフィグレーションデータをダウンロード可能です。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+Keine neuen mittleren Treffer.
 
 ## Nur beobachten
 
-- **Angreifer attackieren Acronis Backup für cPanel/WHM und Plesk** — Score 13, observation — [Quelle](https://www.heise.de/news/Angreifer-attackieren-Acronis-Backup-fuer-cPanel-WHM-und-Plesk-11454681.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-09-16T07:37:00.000+00:00`, fetched `2026-09-16T07:44:49+00:00`
-  - Treffer: GitHub Actions, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub Actions (+6.2); Security (+6.0); recent (+1.0)
-  - Kurz: Aufgrund von laufenden Attacken müssen Admins Acronis Backup für cPanel/WHM und Plesk aktualisieren.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Economic activity, prices, and monetary policy in Japan** — Score 13, observation — [Quelle](https://www.bis.org/speeches/20260916-economic-activity-prices-and-monetary-policy-japan)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-09-16T00:00:00+00:00`, fetched `2026-09-16T09:40:47+00:00`
-  - Treffer: APAC Trend Radar, Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan, Bank of Japan (+2.0)
-  - Kurz: Speech by Mr Hajime Takata, Member of the Policy Board of the Bank of Japan, at a meeting with local leaders, Sapporo, 2 September 2026.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Plaud doubles its Singapore bet to US$15.7M. Now it has to prove the growth is real** — Score 12, observation — [Quelle](https://e27.co/plaud-doubles-its-singapore-bet-to-us15-7m-now-it-has-to-prove-the-growth-is-real-20260916/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-16T09:47:23+00:00`, fetched `2026-09-16T09:56:54+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region usa: San Francisco (+2.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: Plaud, the maker of the credit-card-sized AI voice recorder that has become a fixture on lanyards and phone cases across Asia, has opened an Asia-Pacific headquarters in Singapore. The Chinese-founded, San Francisco-incorporated firm has also committed at least SGD20 million (~US$15.7 million) to the island nation. This is double the amount it pledged when it […] The post Plaud doubles its Singapore bet to US$15.7M.…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Announcing 20260082 (OT,liquidity providing), for 7 days deadline 09:45** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260082.en.html)
-  - Quelle: ECB Open Market Operations and Communication / `rss`
-  - Zeit: published `2026-09-16T08:15:22+00:00`, fetched `2026-09-16T07:33:13+00:00`
-  - Treffer: liquidity, Macro/Policy, open market operations
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)
-  - Kurz: Announcing 20260082 (OT,liquidity providing), for 7 days deadline 09:45
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Cambodia’s Newwave wins CIFC backing to build AI tools for regional businesses** — Score 12, observation — [Quelle](https://e27.co/cambodias-newwave-wins-cifc-backing-to-build-ai-tools-for-regional-businesses-20260916/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-16T07:45:46+00:00`, fetched `2026-09-16T07:53:08+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, founder, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); founder (+2.0); recent (+1.0)
-  - Kurz: Cambodia’s startup ecosystem is still small by Southeast Asian standards, but its newest crop of founders is starting to build with a wider market in mind. Newwave Tech Foundry, a Phnom Penh-based artificial intelligence and software development company, is one example: barely two years old, it already says more than 70 per cent of its […] The post Cambodia’s Newwave wins CIFC backing to build AI tools for regional…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.0 - 29 km WSW of Sipí, Colombia** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000thxc)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-16T20:37:18.706+00:00`, fetched `2026-09-16T20:40:59+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Colombia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: DYFI? - II Time 2026-09-16 20:12:52 UTC 2026-09-16 20:12:52 UTC at epicenter Location 4.524°N 76.877°W Depth 59.03 km (36.68 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Reimagining advertising with AI** — Score 11, observation — [Quelle](https://openai.com/index/reimagining-advertising-with-ai)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-09-16T13:00:00+00:00`, fetched `2026-09-16T13:30:51+00:00`
-  - Treffer: AI/KI, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); recent (+1.0)
-  - Kurz: Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Playing both sides of the U.S.-China AI “Cold War”** — Score 11, observation — [Quelle](https://restofworld.org/2026/ai-us-chips-chinese-open-source-models/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
-  - Quelle: Rest of World Global Tech Feed / `rss`
-  - Zeit: published `2026-09-16T10:00:00+00:00`, fetched `2026-09-16T10:17:13+00:00`
-  - Treffer: AI/KI, Asia, Latin America
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); Asia (+2.0); Latin America (+2.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)
-  - Kurz: From Latin America to Southeast Asia, countries are dividing their AI investments between the two superpowers rather than choosing one over the other.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.8 - 47 km WSW of Bahía Solano, Colombia** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000thsp)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-16T07:28:25.040+00:00`, fetched `2026-09-16T07:33:13+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Colombia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-16 07:02:13 UTC 2026-09-16 07:02:13 UTC at epicenter Location 6.097°N 77.812°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Claude Codeで開発期間を2.5か月から1か月に縮めた「ハーネス」の設計手法 - SmartHR Tech Blog** — Score 11, observation — [Quelle](https://tech.smarthr.jp/entry/2026/09/16/110205)
+- **いい加減「ドパガキ」を卒業したい！ 20代ライターがスマホ依存から脱却するために考えたこと（前編）** — Score 5, observation — [Quelle](https://internet.watch.impress.co.jp/docs/special/2139536.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-16T06:59:14+00:00`, fetched `2026-09-16T15:19:34+00:00`
-  - Treffer: AI Agents, Hatena, hotentry
+  - Zeit: published `2026-09-16T22:53:29+00:00`, fetched `2026-09-17T00:13:21+00:00`
+  - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: こんにちは。SmartHRの情シス領域でプロダクトエンジニアをしているaniです。 入社して3か月が経ちました。この3か月で取り組んだのは、情シスプロダクトに新しい機能を1つ追加する開発です。まだ世に出していない機能なので、以降は「今回の機能」と書きます。当初の見積もりは実質工数でおおよそ2.5か月ほどでしたが、...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.6 - 23 km SW of Sipí, Colombia** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000thse)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-16T06:45:35.040+00:00`, fetched `2026-09-16T06:55:44+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Colombia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-16 06:18:06 UTC 2026-09-16 06:18:06 UTC at epicenter Location 4.495°N 76.782°W Depth 71.01 km (44.12 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **How workers are unlocking new ways of working** — Score 10, observation — [Quelle](https://openai.com/index/unlocking-new-ways-of-working)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-09-16T09:00:00+00:00`, fetched `2026-09-16T16:31:34+00:00`
-  - Treffer: AI/KI, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); recent (+1.0)
-  - Kurz: New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **CXA founder Rosaline Chow Koo returns with Covee, an AI tool for benefits brokers** — Score 10, observation — [Quelle](https://e27.co/cxa-founder-rosaline-chow-koo-returns-with-covee-an-ai-tool-for-benefits-brokers-20260916/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-16T04:51:58+00:00`, fetched `2026-09-16T04:56:32+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, founder
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0)
-  - Kurz: Rosaline Chow Koo has spent much of her career trying to make corporate health benefits less rigid, less opaque and, ultimately, less expensive. Her last company, CXA, attacked the problem from the employee side, giving workers more room to customise their benefits while helping employers manage costs. Now, at 65, she is coming at the […] The post CXA founder Rosaline Chow Koo returns with Covee, an AI tool for bene…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **スイス、「Microsoft 365」からオープンソースに移行--「アーミーナイフを振るう」** — Score 10, observation — [Quelle](https://japan.zdnet.com/article/35252576/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-16T02:13:10+00:00`, fetched `2026-09-16T23:29:32+00:00`
-  - Treffer: APAC Trend Radar, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: スイス連邦政府は数千人の職員を対象にオープンソースを活用したデジタル主権を持つ職場環境の整備を進めている。その一方で、スイス軍のサイバー部隊は、機密性の高い業務を中心に「Microsoft 365」からの移行をより速いペースで進めている。 同国は、オーストリア、フランス、ドイツ、アイルランドなどの欧州各国の政...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Bank resilience and sustainable growth - two sides of the same coin** — Score 10, observation — [Quelle](https://www.bis.org/speeches/20260916-bank-resilience-and-sustainable-growth-two-sides-same-coin)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-09-16T00:00:00+00:00`, fetched `2026-09-16T09:40:47+00:00`
-  - Treffer: banking, Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); banking (+2.0); recent (+1.0); watchgraph region europe: Brussels (+2.0)
-  - Kurz: Contribution by Prof Claudia Buch, Chair of the Supervisory Board of the European Central Bank, at the Bruegel Annual Meetings panel “Future-proofing European banking”, Brussels, 2 September 2026.
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: いい加減「ドパガキ」を卒業したい！ 20代ライターがスマホ依存から脱却するために考えたこと（前編）
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
-- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Keine direkte Handlung. Konfigurierte Quellen weiter prüfen.
 
 ## Erinnerungskandidaten
 
