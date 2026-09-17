@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-17T07:36:45+00:00_
+_Generiert: 2026-09-17T07:47:27+00:00_
 
 ## Kurzlage
 
-30 neue relevante Treffer. Stärkstes Signal: „Paid to be quoted: The creator revenue line Southeast Asia hasn’t priced yet“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
+32 neue relevante Treffer. Stärkstes Signal: „Paid to be quoted: The creator revenue line Southeast Asia hasn’t priced yet“ aus e27 Asia Startup and Tech Feed (Score 16, observation).
 
 ## Priorität Hoch
 
@@ -69,6 +69,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Warnung vor Cyberattacken auf Google Pixel, Cisco ISE und Acronis Backup** — Score 13, observation — [Quelle](https://www.heise.de/news/Warnung-vor-Cyberattacken-auf-Google-Pixel-Cisco-ISE-und-Acronis-Backup-11456146.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-09-17T07:30:00.000+00:00`, fetched `2026-09-17T07:46:57+00:00`
+  - Treffer: GitHub Actions, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub Actions (+6.2); Security (+6.0); recent (+1.0)
+  - Kurz: Bösartige Akteure greifen Lücken in Google Pixel, Cisco ISE und Acronis Backup für cPanel/WHM und Plesk an. Updates schützen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Why did Bitcoin and Ethereum move in near-perfect lockstep after the Fed rate hike?** — Score 12, observation — [Quelle](https://e27.co/why-did-bitcoin-and-ethereum-move-in-near-perfect-lockstep-after-the-fed-rate-hike-20260917/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-17T04:07:37+00:00`, fetched `2026-09-17T04:09:41+00:00`
