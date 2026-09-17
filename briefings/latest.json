@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T08:33:08+00:00",
-  "run_id": "2026-09-17T08:33:08+00:00",
+  "generated_at": "2026-09-17T08:47:42+00:00",
+  "run_id": "2026-09-17T08:47:42+00:00",
   "date": "2026-09-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 34,
     "displayed_findings": 34,
     "high": 0,
@@ -1643,28 +1643,7 @@
       "id": "451e6aa48c585d187515"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Jetzt patchen! Angreifer knipsen Firewalls von Cisco aus",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-knipsen-Firewalls-von-Cisco-aus-11456078.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-09-17T08:08:00.000+00:00",
-      "fetched_at": "2026-09-17T08:32:40+00:00",
-      "summary": "Der Netzwerkausrüster Cisco hat zahlreiche Sicherheitslücken in seinen Produkten geschlossen. Es laufen bereits Attacken.",
-      "matched_keywords": [
-        "Security"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "968eb09adb51a49b827a"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
