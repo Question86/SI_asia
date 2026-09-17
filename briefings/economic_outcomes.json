@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-17T14:35:23+00:00",
+  "generated_at": "2026-09-17T14:46:01+00:00",
   "events": [
     {
       "event_id": "evt_014823216e5b4b658b61",
@@ -1342,7 +1342,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_358307179d74d73444f9",
@@ -1721,12 +1721,12 @@
     {
       "event_id": "evt_43a66ad3fda61d859fca",
       "title": "M 6.4 - 163 km WSW of Nikolski, Alaska",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -7272,6 +7272,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_f0a33126cc2409071c67",
+      "title": "M 6.5 - 166 km W of Nikolski, Alaska",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_f0ac46f40882508b5efa",
