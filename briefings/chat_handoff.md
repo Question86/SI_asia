@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-17T01:32:56+00:00_
+_Generated: 2026-09-17T01:54:10+00:00_
 
 ## Status
 - status: `normal`
-- findings: `6`
+- findings: `7`
 
 ## Top Signals
 
@@ -36,18 +36,18 @@ _Generated: 2026-09-17T01:32:56+00:00_
 - url: https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/
 - summary: A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took. The post Migrating the GitHub Copilot runtime to Rust, using Copilot appeared first on The GitHub Blog .
 
-### 5. いい加減「ドパガキ」を卒業したい！ 20代ライターがスマホ依存から脱却するために考えたこと（前編）
+### 5. 【調査】AI前提の開発組織への移行、約8割が「プロセスの標準化・AI成果の定量化」に課題
+- source: Hatena Bookmark Hotentry IT
+- score: `8`
+- published: `2026-09-17T01:01:47+00:00`
+- url: https://prtimes.jp/main/html/rd/p/000000268.000045379.html
+- summary: エンジニアプラットフォームを提供するファインディ株式会社（本社：東京都品川区、代表取締役：山田 裕一朗、以下「ファインディ」）は、2026年10月16日（金）にベルサール汐留で開催する「AI×開発組織Summit 2026」の申込者数が500名を突破したことをお知らせします。 ◆ 申込者の約6割が「AI前提の開発プロセスの標準...
+
+### 6. いい加減「ドパガキ」を卒業したい！ 20代ライターがスマホ依存から脱却するために考えたこと（前編）
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-09-16T22:53:29+00:00`
 - url: https://internet.watch.impress.co.jp/docs/special/2139536.html
 - summary: いい加減「ドパガキ」を卒業したい！ 20代ライターがスマホ依存から脱却するために考えたこと（前編）
-
-### 6. 【レビュー】 GB10搭載のデル小型AI機を社内のAI専任ではない技術スタッフが1カ月試用、向いたのは「放置して任せる」仕事
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-09-16T21:48:52+00:00`
-- url: https://pc.watch.impress.co.jp/docs/topic/review/2138219.html
-- summary: 【レビュー】 GB10搭載のデル小型AI機を社内のAI専任ではない技術スタッフが1カ月試用、向いたのは「放置して任せる」仕事
 
 END OF DOCUMENT

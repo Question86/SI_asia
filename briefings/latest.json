@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-17T01:32:56+00:00",
-  "run_id": "2026-09-17T01:32:56+00:00",
+  "generated_at": "2026-09-17T01:54:10+00:00",
+  "run_id": "2026-09-17T01:54:10+00:00",
   "date": "2026-09-17",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 6
+      "configured_public_sources_only": 7
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 6,
-    "displayed_findings": 6,
+    "today_file_total": 7,
+    "displayed_findings": 7,
     "high": 0,
     "medium": 2,
-    "observe": 4,
+    "observe": 5,
     "source_errors": 0
   },
   "sections": {
@@ -117,6 +117,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "c6bc494da2b1ea3145c8"
+      },
+      {
+        "title": "【調査】AI前提の開発組織への移行、約8割が「プロセスの標準化・AI成果の定量化」に課題",
+        "url": "https://prtimes.jp/main/html/rd/p/000000268.000045379.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-17T01:01:47+00:00",
+        "fetched_at": "2026-09-17T01:53:38+00:00",
+        "summary": "エンジニアプラットフォームを提供するファインディ株式会社（本社：東京都品川区、代表取締役：山田 裕一朗、以下「ファインディ」）は、2026年10月16日（金）にベルサール汐留で開催する「AI×開発組織Summit 2026」の申込者数が500名を突破したことをお知らせします。 ◆ 申込者の約6割が「AI前提の開発プロセスの標準...",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "02fb76314da5de5d18b8"
       },
       {
         "title": "いい加減「ドパガキ」を卒業したい！ 20代ライターがスマホ依存から脱却するために考えたこと（前編）",
@@ -251,6 +273,28 @@
       "id": "c6bc494da2b1ea3145c8"
     },
     {
+      "title": "【調査】AI前提の開発組織への移行、約8割が「プロセスの標準化・AI成果の定量化」に課題",
+      "url": "https://prtimes.jp/main/html/rd/p/000000268.000045379.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-17T01:01:47+00:00",
+      "fetched_at": "2026-09-17T01:53:38+00:00",
+      "summary": "エンジニアプラットフォームを提供するファインディ株式会社（本社：東京都品川区、代表取締役：山田 裕一朗、以下「ファインディ」）は、2026年10月16日（金）にベルサール汐留で開催する「AI×開発組織Summit 2026」の申込者数が500名を突破したことをお知らせします。 ◆ 申込者の約6割が「AI前提の開発プロセスの標準...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "02fb76314da5de5d18b8"
+    },
+    {
       "title": "いい加減「ドパガキ」を卒業したい！ 20代ライターがスマホ依存から脱却するために考えたこと（前編）",
       "url": "https://internet.watch.impress.co.jp/docs/special/2139536.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -295,25 +339,26 @@
   ],
   "new_findings": [
     {
-      "title": "Mobile’s next US$4.5 trillion won’t come from connectivity",
-      "url": "https://e27.co/mobiles-next-us4-5-trillion-wont-come-from-connectivity-20260914/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "【調査】AI前提の開発組織への移行、約8割が「プロセスの標準化・AI成果の定量化」に課題",
+      "url": "https://prtimes.jp/main/html/rd/p/000000268.000045379.html",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-17T01:30:56+00:00",
-      "fetched_at": "2026-09-17T01:32:24+00:00",
-      "summary": "The GSMA published its Mobile Economy 2026 report at Barcelona in March, and the arithmetic inside it is worth sitting with rather than skimming. Mobile technologies and services contributed US$7.6 trillion to global GDP in 2025, or 6.4 per cent of the total. By 2030, that reaches US$11.3 trillion, or 8.4 per cent. Over the […] The post Mobile’s next US$4.5 trillion won’t come from connectivity appeared first on e27…",
+      "published_at": "2026-09-17T01:01:47+00:00",
+      "fetched_at": "2026-09-17T01:53:38+00:00",
+      "summary": "エンジニアプラットフォームを提供するファインディ株式会社（本社：東京都品川区、代表取締役：山田 裕一朗、以下「ファインディ」）は、2026年10月16日（金）にベルサール汐留で開催する「AI×開発組織Summit 2026」の申込者数が500名を突破したことをお知らせします。 ◆ 申込者の約6割が「AI前提の開発プロセスの標準...",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Macro/Policy"
+        "AI/KI",
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: METI (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "cf2bebb5918c337820d5"
+      "id": "02fb76314da5de5d18b8"
     }
   ],
   "source_errors": [],
