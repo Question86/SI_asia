@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-09-18T06:02:01+00:00`
+Generated: `2026-09-18T06:36:01+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -10,6 +10,7 @@ Generated: `2026-09-18T06:02:01+00:00`
 | .gitignore everything by default | $0 | — | 0 | 0 | dormant |
 | Skullcandy製ワイヤレスイヤホン「Dime 3」における不適切な認証の脆弱性 | $0 | — | 0 | 0 | dormant |
 | Southeast Asia’s chip-hub ambition is colliding with its chip-smuggling problem | $0 | — | 0 | 0 | dormant |
+| How we use AI to turn one article into audience-specific versions | $0 | — | 0 | 0 | active |
 | WebMCPがアツいので見てほしい \| DevelopersIO | $0 | — | 0 | 0 | dormant |
 | Why Kyoto, not Tokyo, is Japan’s real deeptech bet | $0 | — | 0 | 0 | dormant |
 | M 6.2 - South Sandwich Islands region | $0 | — | 0 | 0 | dormant |
@@ -25,7 +26,6 @@ Generated: `2026-09-18T06:02:01+00:00`
 | AWSをゲームで学べる「AWS Cloud Quest」に新バージョン「AWS Cloud Quest 2.0」登場！ AIによるバーチャル顧客と対話し、要件を聞き出して正しくソリューションに落とし込め | $0 | — | 0 | 0 | dormant |
 | New API endpoint provides privacy-safe star history data | $0 | — | 0 | 0 | dormant |
 | JetBrains/go-modern-guidelines | $0 | — | 0 | 0 | dormant |
-| 古川大臣就任記者会見（令和8年9月18日）動画を掲載しました | $0 | — | 0 | 0 | active |
+| 古川大臣就任記者会見（令和8年9月18日）動画を掲載しました | $0 | — | 0 | 0 | dormant |
 | M 5.1 - 81 km ESE of Isangel, Vanuatu | $0 | — | 0 | 0 | dormant |
 | 松本大臣記者会見（令和8年9月11日）動画を掲載しました | $0 | — | 0 | 0 | dormant |
-| M 5.6 - 82 km SE of Maba, Indonesia | $0 | — | 0 | 0 | dormant |
