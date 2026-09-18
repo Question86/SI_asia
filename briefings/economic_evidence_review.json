@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-18T09:35:17+00:00",
+  "generated_at": "2026-09-18T09:45:18+00:00",
   "fx_as_of": null,
   "candidate_count": 867,
   "promoted_count": 0,
@@ -17821,20 +17821,20 @@
       "attribution_probability": null,
       "candidate_confidence": 0.35,
       "candidate_id": "cand_1edcb0d150953ba26a1c",
+      "component_confidence": 0.0,
       "component_suggestion": "unknown",
       "conversion_status": "not_required",
       "currency": "USD",
       "event_id": "evt_38af120b7ca545f90d66",
       "extraction_method": "regex_context_v1",
+      "fx_as_of": null,
+      "fx_rate_to_usd": 1.0,
       "observed_at": "2026-09-18T09:35:15+00:00",
       "overlap_group_suggestion": "evt_38af120b7ca545f90d66:unknown:418fc5d9925d",
       "review_status": "pending",
       "snippet": "現実的です Playwirght によるブラウザ自動操作 簡単なフォームを作り、商品をカートに入れ、購入する、という一連の画面操作をやらせる 判断自体は高速ですが、単独ではエラーから復旧できないのが観測されました。Claude にログを監視させ、補助させることで 96% 以上の精度になりました わかったこと 本当に安い MOBA風のゲームを 1戦やらせて、 $0.0001 出力無料 モデルとしての性能自体がすごく高いというわけではない 1リクエスト/レスポンスは 500ms ぐらい 真価は並列度。256個の質問を同時に投げて、同時にそのスコアが得られる confidence 値が便利 0.96 以上のときはほぼ確信している 0.4 以下は間違ってる可能性が高い つまり、0.4 以下だと別のモデルにフォールバックするといい Cl",
       "source_priority": "secondary_or_unknown",
-      "source_url": "https://zenn.dev/mizchi/articles/jev-is-gpu-for-llms",
-      "component_confidence": 0.0,
-      "fx_rate_to_usd": 1.0,
-      "fx_as_of": null
+      "source_url": "https://zenn.dev/mizchi/articles/jev-is-gpu-for-llms"
     }
   ]
 }
