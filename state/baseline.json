@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-18T08:27:11+00:00",
+  "generated_at": "2026-09-18T08:59:57+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -99,7 +99,7 @@
     },
     "domain:openai.com": {
       "title": "How Cooley is accelerating IPO work with ChatGPT",
-      "updated_at": "2026-09-18T08:27:11+00:00",
+      "updated_at": "2026-09-18T08:59:57+00:00",
       "network_scores": [
         10.1,
         10.1,
@@ -990,9 +990,8 @@
     },
     "domain:www.ecb.europa.eu": {
       "title": "Euro area monthly balance of payments: July 2026",
-      "updated_at": "2026-09-18T08:27:11+00:00",
+      "updated_at": "2026-09-18T08:59:57+00:00",
       "network_scores": [
-        22.2,
         22.2,
         22.2,
         22.2,
@@ -1021,12 +1020,13 @@
         10.1,
         10.1,
         10.1,
-        31.3
+        31.3,
+        25.3
       ],
-      "rolling_average": 19.78,
+      "rolling_average": 19.88,
       "rolling_peak": 31.3,
-      "last_score": 31.3,
-      "z_hint": 11.52
+      "last_score": 25.3,
+      "z_hint": 5.42
     },
     "domain:snyk.io": {
       "title": "The full Snyk AI Security Platform, free for open source maintainers",
@@ -2129,7 +2129,7 @@
     },
     "earthquake:japan:5.0": {
       "title": "M 5.0 - Izu Islands, Japan region",
-      "updated_at": "2026-09-18T08:27:11+00:00",
+      "updated_at": "2026-09-18T08:59:57+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -2156,8 +2156,8 @@
         17.7,
         17.7,
         17.7,
-        17.7,
         20.7,
+        17.7,
         17.7,
         17.7,
         17.7
@@ -2810,7 +2810,7 @@
     },
     "title:cisa-ics-advisory-ics-medical-advisory-2026": {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月17日）",
-      "updated_at": "2026-09-18T08:27:11+00:00",
+      "updated_at": "2026-09-18T08:59:57+00:00",
       "network_scores": [
         18.1,
         18.1,
@@ -4263,7 +4263,7 @@
     },
     "domain:www.heise.de": {
       "title": "Root-Sicherheitslücke gefährdet Check Point Security Management and Log Servers",
-      "updated_at": "2026-09-18T08:27:11+00:00",
+      "updated_at": "2026-09-18T08:59:57+00:00",
       "network_scores": [
         17.2,
         17.2,
@@ -4292,14 +4292,14 @@
         17.2,
         17.2,
         17.2,
-        17.2,
         13.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 16.83,
+      "rolling_average": 16.59,
       "rolling_peak": 17.2,
       "last_score": 10.1,
-      "z_hint": -6.73
+      "z_hint": -6.49
     },
     "earthquake:m 4.9 - 169 km e of petropavlovsk-kamchatsky, russia:4.9": {
       "title": "M 4.9 - 169 km E of Petropavlovsk-Kamchatsky, Russia",
@@ -5096,7 +5096,7 @@
     },
     "earthquake:m 4.7 - fiji region:4.7": {
       "title": "M 4.7 - Fiji region",
-      "updated_at": "2026-09-18T08:27:11+00:00",
+      "updated_at": "2026-09-18T08:59:57+00:00",
       "network_scores": [
         11.7,
         14.7,
@@ -5104,12 +5104,13 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 12.13,
+      "rolling_average": 12.08,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.43
+      "z_hint": -0.38
     },
     "title:gmktec-ps4-evo-evo-oculink": {
       "title": "GMKtec、PS4サイズミニPC「EVO-X3」29日発売。EVO-X2にないOCuLink搭載",
@@ -5729,9 +5730,8 @@
     },
     "domain:wid.cert-bund.de": {
       "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (corosync, libevent, libsoup): Mehrere Schwachstellen",
-      "updated_at": "2026-09-18T08:27:11+00:00",
+      "updated_at": "2026-09-18T08:59:57+00:00",
       "network_scores": [
-        60.0,
         60.0,
         60.0,
         60.0,
@@ -5760,12 +5760,13 @@
         25.3,
         22.3,
         27.4,
+        24.4,
         24.4
       ],
-      "rolling_average": 46.87,
+      "rolling_average": 45.68,
       "rolling_peak": 60.0,
       "last_score": 24.4,
-      "z_hint": -22.47
+      "z_hint": -21.28
     },
     "title:why-every-warehouse-singapore-will-run-safety-monitoring": {
       "title": "Why every warehouse in Singapore will run on AI safety monitoring within five years",
@@ -10095,9 +10096,8 @@
     },
     "domain:note.com": {
       "title": "「1合」という単位にとらわれないご飯の炊き方｜ツジメシ",
-      "updated_at": "2026-09-18T08:27:11+00:00",
+      "updated_at": "2026-09-18T08:59:57+00:00",
       "network_scores": [
-        13.1,
         13.1,
         13.1,
         13.1,
@@ -10126,12 +10126,13 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 11.8,
+      "rolling_average": 11.6,
       "rolling_peak": 13.1,
       "last_score": 7.1,
-      "z_hint": -4.7
+      "z_hint": -4.5
     },
     "earthquake:m 4.6 - 112 km ssw of chirilagua, el salvador:4.6": {
       "title": "M 4.6 - 112 km SSW of Chirilagua, El Salvador",
@@ -18998,14 +18999,14 @@
     },
     "earthquake:japan:4.5": {
       "title": "M 4.5 - Izu Islands, Japan region",
-      "updated_at": "2026-09-18T08:27:11+00:00",
+      "updated_at": "2026-09-18T08:59:57+00:00",
       "network_scores": [
         17.7,
         17.7,
         17.7,
         17.7,
-        17.7,
         20.7,
+        17.7,
         17.7,
         17.7,
         17.7,
@@ -31662,10 +31663,10 @@
     },
     "earthquake:japan:4.6": {
       "title": "M 4.6 - 20 km ESE of Tsunō, Japan",
-      "updated_at": "2026-09-18T08:27:11+00:00",
+      "updated_at": "2026-09-18T08:59:57+00:00",
       "network_scores": [
-        17.7,
         20.7,
+        17.7,
         17.7,
         17.7,
         17.7,
@@ -37416,7 +37417,7 @@
     },
     "title:dokploy": {
       "title": "DokployにおけるOSコマンドインジェクションの脆弱性",
-      "updated_at": "2026-09-18T08:27:11+00:00",
+      "updated_at": "2026-09-18T08:59:57+00:00",
       "network_scores": [
         16.1,
         16.1,
@@ -37456,9 +37457,9 @@
     },
     "title:founder-minister-pivot-isn-problem-asean-missing-governance": {
       "title": "The founder-to-minister pivot isn’t the problem, ASEAN’s missing governance infrastructure is",
-      "updated_at": "2026-09-18T08:27:11+00:00",
+      "updated_at": "2026-09-18T08:59:57+00:00",
       "network_scores": [
-        19.1,
+        16.1,
         16.1,
         16.1,
         16.1,
@@ -37489,16 +37490,17 @@
         16.1,
         16.1
       ],
-      "rolling_average": 16.2,
-      "rolling_peak": 19.1,
+      "rolling_average": 16.1,
+      "rolling_peak": 16.1,
       "last_score": 16.1,
-      "z_hint": -0.1
+      "z_hint": -0.0
     },
     "title:dena": {
       "title": "経営「AIでラクして早く帰って」→社員「帰らない」 工数最大9割減のDeNAも悩むAI効率化の壁",
-      "updated_at": "2026-09-18T08:27:11+00:00",
+      "updated_at": "2026-09-18T08:59:57+00:00",
       "network_scores": [
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -37535,9 +37537,10 @@
     },
     "title:what-maybank-10b-bet-reveals-about-market-readiness": {
       "title": "What Maybank’s US$10B bet reveals about market readiness: A view from two emerging ecosystems",
-      "updated_at": "2026-09-18T08:27:11+00:00",
+      "updated_at": "2026-09-18T08:59:57+00:00",
       "network_scores": [
         9.1,
+        6.1,
         6.1,
         6.1,
         6.1,
@@ -37572,7 +37575,7 @@
     },
     "title:waymo-singapore-entry-raises-stakes-autonomous-mobility-asia": {
       "title": "Waymo’s Singapore entry raises the stakes for autonomous mobility in Asia",
-      "updated_at": "2026-09-18T08:27:11+00:00",
+      "updated_at": "2026-09-18T08:59:57+00:00",
       "network_scores": [
         14.1,
         11.1,
@@ -37593,16 +37596,45 @@
         11.1,
         11.1,
         11.1,
+        11.1,
         11.1
       ],
-      "rolling_average": 11.25,
+      "rolling_average": 11.24,
       "rolling_peak": 14.1,
       "last_score": 11.1,
-      "z_hint": -0.15
+      "z_hint": -0.14
     },
     "title:did-fed-just-accidentally-kick-off-next-crypto": {
       "title": "Did the Fed just accidentally kick off the next crypto bull run? Or just a dead cat bounce?",
-      "updated_at": "2026-09-18T08:27:11+00:00",
+      "updated_at": "2026-09-18T08:59:57+00:00",
+      "network_scores": [
+        15.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1
+      ],
+      "rolling_average": 12.27,
+      "rolling_peak": 15.1,
+      "last_score": 12.1,
+      "z_hint": -0.17
+    },
+    "title:when-per-cent-world-funding-goes-two-firms": {
+      "title": "When 43 per cent of the world’s funding goes to two firms, where does that leave SEA?",
+      "updated_at": "2026-09-18T08:59:57+00:00",
       "network_scores": [
         15.1,
         12.1,
@@ -37627,35 +37659,9 @@
       "last_score": 12.1,
       "z_hint": -0.18
     },
-    "title:when-per-cent-world-funding-goes-two-firms": {
-      "title": "When 43 per cent of the world’s funding goes to two firms, where does that leave SEA?",
-      "updated_at": "2026-09-18T08:27:11+00:00",
-      "network_scores": [
-        15.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1
-      ],
-      "rolling_average": 12.29,
-      "rolling_peak": 15.1,
-      "last_score": 12.1,
-      "z_hint": -0.19
-    },
     "title:tsubame-report-overflow-apr-jun-2026": {
       "title": "TSUBAME Report Overflow (Apr-Jun 2026)",
-      "updated_at": "2026-09-18T08:27:11+00:00",
+      "updated_at": "2026-09-18T08:59:57+00:00",
       "network_scores": [
         18.1,
         15.1,
@@ -37670,16 +37676,17 @@
         15.1,
         15.1,
         15.1,
+        15.1,
         15.1
       ],
-      "rolling_average": 15.31,
+      "rolling_average": 15.3,
       "rolling_peak": 18.1,
       "last_score": 15.1,
-      "z_hint": -0.21
+      "z_hint": -0.2
     },
     "title:economy-quietly-exposing-what-organisations-truly-value-about": {
       "title": "The AI economy is quietly exposing what organisations truly value about humans",
-      "updated_at": "2026-09-18T08:27:11+00:00",
+      "updated_at": "2026-09-18T08:59:57+00:00",
       "network_scores": [
         13.1,
         10.1,
@@ -37694,16 +37701,17 @@
         10.1,
         10.1,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 10.31,
+      "rolling_average": 10.3,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -0.21
+      "z_hint": -0.2
     },
     "domain:minorun365.connpass.com": {
       "title": "今話題のAI「Jev」って何？ 宇宙最速で学ぶ会",
-      "updated_at": "2026-09-18T08:27:11+00:00",
+      "updated_at": "2026-09-18T08:59:57+00:00",
       "network_scores": [
         13.1,
         10.1,
@@ -37716,16 +37724,81 @@
         10.1,
         10.1,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 10.35,
+      "rolling_average": 10.33,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -0.25
+      "z_hint": -0.23
     },
     "title:read-vapt-report-without-panicking": {
       "title": "How to read a VAPT report without panicking",
-      "updated_at": "2026-09-18T08:27:11+00:00",
+      "updated_at": "2026-09-18T08:59:57+00:00",
+      "network_scores": [
+        15.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1,
+        12.1
+      ],
+      "rolling_average": 12.35,
+      "rolling_peak": 15.1,
+      "last_score": 12.1,
+      "z_hint": -0.25
+    },
+    "github_repo:tencent/browserskill": {
+      "title": "Tencent/BrowserSkill",
+      "updated_at": "2026-09-18T08:59:57+00:00",
+      "network_scores": [
+        28.1,
+        25.1,
+        25.1,
+        25.1,
+        25.1,
+        25.1,
+        25.1,
+        25.1,
+        25.1,
+        25.1,
+        25.1
+      ],
+      "rolling_average": 25.37,
+      "rolling_peak": 28.1,
+      "last_score": 25.1,
+      "z_hint": -0.27
+    },
+    "github_repo:alphaxiv/openresearch": {
+      "title": "alphaXiv/OpenResearch",
+      "updated_at": "2026-09-18T08:59:57+00:00",
+      "network_scores": [
+        24.1,
+        21.1,
+        21.1,
+        21.1,
+        21.1,
+        21.1,
+        21.1,
+        21.1,
+        21.1,
+        21.1,
+        21.1
+      ],
+      "rolling_average": 21.37,
+      "rolling_peak": 24.1,
+      "last_score": 21.1,
+      "z_hint": -0.27
+    },
+    "github_repo:anthropics/claude-code": {
+      "title": "anthropics/claude-code",
+      "updated_at": "2026-09-18T08:59:57+00:00",
       "network_scores": [
         15.1,
         12.1,
@@ -37744,69 +37817,9 @@
       "last_score": 12.1,
       "z_hint": -0.27
     },
-    "github_repo:tencent/browserskill": {
-      "title": "Tencent/BrowserSkill",
-      "updated_at": "2026-09-18T08:27:11+00:00",
-      "network_scores": [
-        28.1,
-        25.1,
-        25.1,
-        25.1,
-        25.1,
-        25.1,
-        25.1,
-        25.1,
-        25.1,
-        25.1
-      ],
-      "rolling_average": 25.4,
-      "rolling_peak": 28.1,
-      "last_score": 25.1,
-      "z_hint": -0.3
-    },
-    "github_repo:alphaxiv/openresearch": {
-      "title": "alphaXiv/OpenResearch",
-      "updated_at": "2026-09-18T08:27:11+00:00",
-      "network_scores": [
-        24.1,
-        21.1,
-        21.1,
-        21.1,
-        21.1,
-        21.1,
-        21.1,
-        21.1,
-        21.1,
-        21.1
-      ],
-      "rolling_average": 21.4,
-      "rolling_peak": 24.1,
-      "last_score": 21.1,
-      "z_hint": -0.3
-    },
-    "github_repo:anthropics/claude-code": {
-      "title": "anthropics/claude-code",
-      "updated_at": "2026-09-18T08:27:11+00:00",
-      "network_scores": [
-        15.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1,
-        12.1
-      ],
-      "rolling_average": 12.4,
-      "rolling_peak": 15.1,
-      "last_score": 12.1,
-      "z_hint": -0.3
-    },
     "url:https://www.digital.go.jp/speech/minister-260918-01": {
       "title": "古川大臣就任記者会見（令和8年9月18日）動画を掲載しました",
-      "updated_at": "2026-09-18T08:27:11+00:00",
+      "updated_at": "2026-09-18T08:59:57+00:00",
       "network_scores": [
         11.1,
         8.1,
@@ -37817,16 +37830,17 @@
         8.1,
         8.1,
         8.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 8.4,
+      "rolling_average": 8.37,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -0.3
+      "z_hint": -0.27
     },
     "title:gsma-says-smartphone-costs-could-deepen-coming-divide": {
       "title": "GSMA says smartphone costs could deepen the coming AI divide",
-      "updated_at": "2026-09-18T08:27:11+00:00",
+      "updated_at": "2026-09-18T08:59:57+00:00",
       "network_scores": [
         20.1,
         17.1,
@@ -37836,16 +37850,17 @@
         17.1,
         17.1,
         17.1,
+        17.1,
         17.1
       ],
-      "rolling_average": 17.43,
+      "rolling_average": 17.4,
       "rolling_peak": 20.1,
       "last_score": 17.1,
-      "z_hint": -0.33
+      "z_hint": -0.3
     },
     "title:use-turn-one-article-audience-specific-versions": {
       "title": "How we use AI to turn one article into audience-specific versions",
-      "updated_at": "2026-09-18T08:27:11+00:00",
+      "updated_at": "2026-09-18T08:59:57+00:00",
       "network_scores": [
         15.1,
         12.1,
@@ -37854,16 +37869,17 @@
         12.1,
         12.1,
         12.1,
+        12.1,
         12.1
       ],
-      "rolling_average": 12.47,
+      "rolling_average": 12.43,
       "rolling_peak": 15.1,
       "last_score": 12.1,
-      "z_hint": -0.37
+      "z_hint": -0.33
     },
     "title:oss-ver": {
       "title": "ガバメントAI 源内OSS Ver 2.0の計画に関する全国オンライン説明会を開催しました",
-      "updated_at": "2026-09-18T08:27:11+00:00",
+      "updated_at": "2026-09-18T08:59:57+00:00",
       "network_scores": [
         11.1,
         8.1,
@@ -37872,16 +37888,17 @@
         8.1,
         8.1,
         8.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 8.47,
+      "rolling_average": 8.43,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -0.38
+      "z_hint": -0.33
     },
     "title:public-medical-hub": {
       "title": "Public Medical Hub システム利用規約（医療機関等向け）の改正について",
-      "updated_at": "2026-09-18T08:27:11+00:00",
+      "updated_at": "2026-09-18T08:59:57+00:00",
       "network_scores": [
         11.1,
         8.1,
@@ -37890,16 +37907,17 @@
         8.1,
         8.1,
         8.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 8.47,
+      "rolling_average": 8.43,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -0.38
+      "z_hint": -0.33
     },
     "earthquake:m 4.7 - 40 km ssw of sipí, colombia:4.7": {
       "title": "M 4.7 - 40 km SSW of Sipí, Colombia",
-      "updated_at": "2026-09-18T08:27:11+00:00",
+      "updated_at": "2026-09-18T08:59:57+00:00",
       "network_scores": [
         16.7,
         13.7,
@@ -37907,25 +37925,38 @@
         13.7,
         13.7,
         13.7,
+        13.7,
         13.7
       ],
-      "rolling_average": 14.13,
+      "rolling_average": 14.08,
       "rolling_peak": 16.7,
       "last_score": 13.7,
-      "z_hint": -0.43
+      "z_hint": -0.38
     },
     "title:isc-bind-2026": {
       "title": "ISC BINDにおける複数の脆弱性（2026年9月）",
-      "updated_at": "2026-09-18T08:27:11+00:00",
+      "updated_at": "2026-09-18T08:59:57+00:00",
       "network_scores": [
         19.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 17.1,
+      "rolling_average": 16.85,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -1.0
+      "z_hint": -0.75
+    },
+    "title:ecosystem-roundup-funding-boom-has-southeast-asia-sized": {
+      "title": "Ecosystem Roundup: The AI funding boom has a Southeast Asia-sized blind spot",
+      "updated_at": "2026-09-18T08:59:57+00:00",
+      "network_scores": [
+        24.1
+      ],
+      "rolling_average": 24.1,
+      "rolling_peak": 24.1,
+      "last_score": 24.1,
+      "z_hint": 0.0
     }
   }
 }

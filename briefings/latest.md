@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-18T08:27:08+00:00_
+_Generiert: 2026-09-18T08:59:55+00:00_
 
 ## Kurzlage
 
-36 neue relevante Treffer. Stärkstes Signal: „Tencent/BrowserSkill“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+37 neue relevante Treffer. Stärkstes Signal: „Tencent/BrowserSkill“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -74,6 +74,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); AI Agents (+5.0); Automatisierung (+4.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
   - Kurz: Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent. BrowserSkill Let AI agents use your browser without interrupting your work. English · 中文 BrowserSkill connects Cursor, Claude Code, Codex, OpenClaw, CodeBuddy, WorkBuddy, Pi, Hermes Agent, DeepSeek Harness, and other AI agents to your already logged-in browser. Need…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Ecosystem Roundup: The AI funding boom has a Southeast Asia-sized blind spot** — Score 19, observation — [Quelle](https://e27.co/ecosystem-roundup-the-ai-funding-boom-has-a-southeast-asia-sized-blind-spot-20260918/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-18T08:52:58+00:00`, fetched `2026-09-18T08:59:27+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, funding, OpenAI, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); funding (+2.5); recent (+1.0)
+  - Kurz: Crunchbase’s first-half 2026 numbers looked like an industry-wide win: global venture funding hit US$510 billion, smashing the previous half-year record. Look closer and the picture curdles. OpenAI and Anthropic alone absorbed 43 per cent of every venture dollar deployed on the planet in six months, with Anthropic’s US$65-billion raise alone equal to nearly a third of […] The post Ecosystem Roundup: The AI funding b…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **alphaXiv/OpenResearch** — Score 19, opportunity — [Quelle](https://github.com/alphaXiv/OpenResearch)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-09-18T05:53:28+00:00`
@@ -324,8 +333,8 @@ Keine neuen Hochprioritäts-Treffer.
 ## Empfehlungen
 
 - Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 

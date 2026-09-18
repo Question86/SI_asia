@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-18T08:27:08+00:00_
+_Generated: 2026-09-18T08:59:55+00:00_
 
 ## Status
 - status: `normal`
-- findings: `36`
+- findings: `37`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-09-18T08:27:08+00:00_
 - url: https://github.com/Tencent/BrowserSkill
 - summary: Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent. BrowserSkill Let AI agents use your browser without interrupting your work. English · 中文 BrowserSkill conn…
 
-### 2. alphaXiv/OpenResearch
+### 2. Ecosystem Roundup: The AI funding boom has a Southeast Asia-sized blind spot
+- source: e27 Asia Startup and Tech Feed
+- score: `19`
+- published: `2026-09-18T08:52:58+00:00`
+- url: https://e27.co/ecosystem-roundup-the-ai-funding-boom-has-a-southeast-asia-sized-blind-spot-20260918/
+- summary: Crunchbase’s first-half 2026 numbers looked like an industry-wide win: global venture funding hit US$510 billion, smashing the previous half-year record. Look closer and the picture curdles. OpenAI and Anthropic alone absorbed 43 per cent of every venture dol…
+
+### 3. alphaXiv/OpenResearch
 - source: GitHub Trending RSS All Languages Daily
 - score: `19`
 - published: `None`
 - url: https://github.com/alphaXiv/OpenResearch
 - summary: Turn your coding agents into research agents https://openresearch.sh/ OpenResearch The local-first workspace for research agents and autoresearch. Turn Claude Code, Codex, OpenCode, or Cursor into research agents that can review literature, develop hypotheses…
 
-### 3. CISA ICS Advisory / ICS Medical Advisory（2026年09月17日）
+### 4. CISA ICS Advisory / ICS Medical Advisory（2026年09月17日）
 - source: JVN Japan Vulnerability Notes
 - score: `16`
 - published: `2026-09-18T09:30:15+09:00`
 - url: https://jvn.jp/vu/JVNVU91030326/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
-
-### 4. [UPDATE] [hoch] Red Hat Enterprise Linux (corosync, libevent, libsoup): Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-09-18T07:47:27+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3419
-- summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen oder Denial-of-Service-Zustände herbeizuführen.
 
 ### 5. Euro area monthly balance of payments: July 2026
 - source: ECB Statistical Press Releases
