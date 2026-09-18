@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-18T04:39:45+00:00_
+_Generated: 2026-09-18T04:49:14+00:00_
 
 ## Status
 - status: `normal`
-- findings: `10`
+- findings: `11`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-09-18T04:39:45+00:00_
 - url: https://jvn.jp/vu/JVNVU94707104/
 - summary: CERT/CCから本件に関するアドバイザリが公表されました。
 
-### 5. Did the Fed just accidentally kick off the next crypto bull run? Or just a dead cat bounce?
+### 5. When 43 per cent of the world’s funding goes to two firms, where does that leave SEA?
+- source: e27 Asia Startup and Tech Feed
+- score: `10`
+- published: `2026-09-18T04:46:43+00:00`
+- url: https://e27.co/when-43-per-cent-of-the-worlds-funding-goes-to-two-firms-where-does-that-leave-sea-20260918/
+- summary: Crunchbase’s numbers for the first half of 2026 are the kind that are supposed to make an entire industry feel good. Global venture funding hit US$510 billion, beating the whole of 2025 in six months and smashing the previous half-year record of US$375 billio…
+
+### 6. Did the Fed just accidentally kick off the next crypto bull run? Or just a dead cat bounce?
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-09-18T04:38:05+00:00`
 - url: https://e27.co/did-the-fed-just-accidentally-kick-off-the-next-crypto-bull-run-or-just-a-dead-cat-bounce-20260918/
 - summary: On September 18, 2026, global markets rose together. Asian stocks and bonds gained as oil extended its decline. European equities climbed. The STOXX 600 rose 0.9 per cent to 642.6 points. Mining and automotive sectors led those gains. The FTSE index gained 1.…
 
-### 6. Waymo’s Singapore entry raises the stakes for autonomous mobility in Asia
+### 7. Waymo’s Singapore entry raises the stakes for autonomous mobility in Asia
 - source: e27 Asia Startup and Tech Feed
 - score: `9`
 - published: `2026-09-18T03:52:38+00:00`
 - url: https://e27.co/waymos-singapore-entry-raises-the-stakes-for-autonomous-mobility-in-asia-20260918/
 - summary: Waymo is preparing to bring its driverless ride-hailing service to Singapore in 2028, marking one of the most closely watched tests yet of whether fully autonomous mobility can work in a dense, highly regulated Southeast Asian city. The Alphabet-owned autonom…
 
-### 7. How Cooley is accelerating IPO work with ChatGPT
+### 8. How Cooley is accelerating IPO work with ChatGPT
 - source: OpenAI News RSS
 - score: `8`
 - published: `2026-09-17T12:00:00+00:00`
 - url: https://openai.com/index/cooley-gopublic
 - summary: Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.
-
-### 8. 経営「AIでラクして早く帰って」→社員「帰らない」 工数最大9割減のDeNAも悩むAI効率化の壁
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-09-17T23:32:09+00:00`
-- url: https://www.itmedia.co.jp/news/article/2609/18/2000001484/
-- summary: 「効率化とは、仕事を減らすことではなく、同じ時間に詰め込める仕事を増やすことだった」──8月に話題になった「はてな匿名ダイアリー」の記事で、匿名の投稿者は「AIで効率化したのに仕事は一向に楽にならない」と書き、SNSの話題を席巻した。 実際にAIオールインを掲げるDeNAの南場智子会長も、講演で「楽になった分、...
 
 END OF DOCUMENT

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T04:39:45+00:00",
-  "run_id": "2026-09-18T04:39:45+00:00",
+  "generated_at": "2026-09-18T04:49:14+00:00",
+  "run_id": "2026-09-18T04:49:14+00:00",
   "date": "2026-09-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 10
+      "configured_public_sources_only": 11
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 10,
-    "displayed_findings": 10,
+    "today_file_total": 11,
+    "displayed_findings": 11,
     "high": 0,
     "medium": 5,
-    "observe": 5,
+    "observe": 6,
     "source_errors": 0
   },
   "sections": {
@@ -186,6 +186,49 @@
       }
     ],
     "observe": [
+      {
+        "title": "When 43 per cent of the world’s funding goes to two firms, where does that leave SEA?",
+        "url": "https://e27.co/when-43-per-cent-of-the-worlds-funding-goes-to-two-firms-where-does-that-leave-sea-20260918/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-18T04:46:43+00:00",
+        "fetched_at": "2026-09-18T04:48:46+00:00",
+        "summary": "Crunchbase’s numbers for the first half of 2026 are the kind that are supposed to make an entire industry feel good. Global venture funding hit US$510 billion, beating the whole of 2025 in six months and smashing the previous half-year record of US$375 billion set in the second half of 2021. Startup capital, by the […] The post When 43 per cent of the world’s funding goes to two firms, where does that leave SEA? app…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "funding",
+          "Watchgraph:capitals_power_centers"
+        ],
+        "relevance_score": 10,
+        "relevance_reason": "APAC Trend Radar (+3.0); funding (+2.5); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "capitals_power_centers"
+        ],
+        "watchgraph_reasons": [
+          "capitals_power_centers: capital"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "BA",
+          "SPY",
+          "QQQ",
+          "DAX",
+          "EWU",
+          "INDA",
+          "EWJ",
+          "EWY",
+          "EWA",
+          "EWC",
+          "EWZ"
+        ],
+        "id": "067a4ae0efb8e55d54c6"
+      },
       {
         "title": "Did the Fed just accidentally kick off the next crypto bull run? Or just a dead cat bounce?",
         "url": "https://e27.co/did-the-fed-just-accidentally-kick-off-the-next-crypto-bull-run-or-just-a-dead-cat-bounce-20260918/",
@@ -448,6 +491,49 @@
       "id": "56763e04c1b6fb9ba989"
     },
     {
+      "title": "When 43 per cent of the world’s funding goes to two firms, where does that leave SEA?",
+      "url": "https://e27.co/when-43-per-cent-of-the-worlds-funding-goes-to-two-firms-where-does-that-leave-sea-20260918/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-18T04:46:43+00:00",
+      "fetched_at": "2026-09-18T04:48:46+00:00",
+      "summary": "Crunchbase’s numbers for the first half of 2026 are the kind that are supposed to make an entire industry feel good. Global venture funding hit US$510 billion, beating the whole of 2025 in six months and smashing the previous half-year record of US$375 billion set in the second half of 2021. Startup capital, by the […] The post When 43 per cent of the world’s funding goes to two firms, where does that leave SEA? app…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "funding",
+        "Watchgraph:capitals_power_centers"
+      ],
+      "relevance_score": 10,
+      "relevance_reason": "APAC Trend Radar (+3.0); funding (+2.5); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "067a4ae0efb8e55d54c6"
+    },
+    {
       "title": "Did the Fed just accidentally kick off the next crypto bull run? Or just a dead cat bounce?",
       "url": "https://e27.co/did-the-fed-just-accidentally-kick-off-the-next-crypto-bull-run-or-just-a-dead-cat-bounce-20260918/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -553,25 +639,47 @@
   ],
   "new_findings": [
     {
-      "title": "Did the Fed just accidentally kick off the next crypto bull run? Or just a dead cat bounce?",
-      "url": "https://e27.co/did-the-fed-just-accidentally-kick-off-the-next-crypto-bull-run-or-just-a-dead-cat-bounce-20260918/",
+      "title": "When 43 per cent of the world’s funding goes to two firms, where does that leave SEA?",
+      "url": "https://e27.co/when-43-per-cent-of-the-worlds-funding-goes-to-two-firms-where-does-that-leave-sea-20260918/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-09-18T04:38:05+00:00",
-      "fetched_at": "2026-09-18T04:39:14+00:00",
-      "summary": "On September 18, 2026, global markets rose together. Asian stocks and bonds gained as oil extended its decline. European equities climbed. The STOXX 600 rose 0.9 per cent to 642.6 points. Mining and automotive sectors led those gains. The FTSE index gained 1.2 per cent. That marked its best one-day performance in over two months. […] The post Did the Fed just accidentally kick off the next crypto bull run? Or just a…",
+      "published_at": "2026-09-18T04:46:43+00:00",
+      "fetched_at": "2026-09-18T04:48:46+00:00",
+      "summary": "Crunchbase’s numbers for the first half of 2026 are the kind that are supposed to make an entire industry feel good. Global venture funding hit US$510 billion, beating the whole of 2025 in six months and smashing the previous half-year record of US$375 billion set in the second half of 2021. Startup capital, by the […] The post When 43 per cent of the world’s funding goes to two firms, where does that leave SEA? app…",
       "matched_keywords": [
         "APAC Trend Radar",
-        "Macro/Policy"
+        "funding",
+        "Watchgraph:capitals_power_centers"
       ],
       "relevance_score": 10,
-      "relevance_reason": "Macro/Policy (+6.2); APAC Trend Radar (+3.0); recent (+1.0)",
+      "relevance_reason": "APAC Trend Radar (+3.0); funding (+2.5); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "2dac08c2f0eff4759713"
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "watchgraph_reasons": [
+        "capitals_power_centers: capital"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "BA",
+        "SPY",
+        "QQQ",
+        "DAX",
+        "EWU",
+        "INDA",
+        "EWJ",
+        "EWY",
+        "EWA",
+        "EWC",
+        "EWZ"
+      ],
+      "id": "067a4ae0efb8e55d54c6"
     }
   ],
   "source_errors": [],
