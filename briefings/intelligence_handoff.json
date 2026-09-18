@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-18T08:52:11Z",
+  "generated_at": "2026-09-18T09:14:34Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Red Hat Enterprise Linux (corosync, libevent, libsoup): Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3419",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-18T07:47:27+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://www.heise.de/news/Root-Sicherheitsluecke-gefaehrdet-Check-Point-Security-Management-and-Log-Servers-11457947.html",
       "source": "heise Security Alerts",
       "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 91.05,
+      "age_days": 91.07,
       "topics": [
         "security"
       ],
@@ -67,7 +67,7 @@
       "url": "https://jvn.jp/vu/JVNVU97703430/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-18T16:45:00+09:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -91,7 +91,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3418",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-18T07:26:31+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -115,7 +115,7 @@
       "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp260918~ef4843e4f5.en.html",
       "source": "ECB Press Releases Speeches Interviews, ECB Statistical Press Releases",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 91.76,
+      "age_days": 91.78,
       "topics": [
         "general"
       ],
@@ -126,13 +126,13 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 2,
       "momentum_delta": 3,
-      "baseline_z_hint": 11.52,
+      "baseline_z_hint": 5.42,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "source breadth +2",
         "momentum delta +3",
-        "baseline z_hint 11.52",
+        "baseline z_hint 5.42",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 91.8d old signal",
@@ -145,7 +145,7 @@
       "url": "https://github.com/Tencent/BrowserSkill",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-18T05:53:28+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "ai",
         "macro"
@@ -174,7 +174,7 @@
       "url": "https://jvn.jp/vu/JVNVU91030326/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-18T09:30:15+09:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -200,7 +200,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3380",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-18T07:11:31+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -226,7 +226,7 @@
       "url": "https://jvn.jp/vu/JVNVU94707104/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-18T09:30:00+09:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "security"
       ],
@@ -252,7 +252,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3071",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-18T05:51:31+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -278,7 +278,7 @@
       "url": "https://github.com/alphaXiv/OpenResearch",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-18T05:54:02+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "extreme",
@@ -303,7 +303,7 @@
       "url": "https://github.com/alphaXiv/OpenResearch",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-18T05:53:28+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
