@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-18T09:23:09+00:00_
+_Generiert: 2026-09-18T09:34:44+00:00_
 
 ## Kurzlage
 
-38 neue relevante Treffer. Stärkstes Signal: „Tencent/BrowserSkill“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+39 neue relevante Treffer. Stärkstes Signal: „Tencent/BrowserSkill“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -213,6 +213,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: ECB Consumer Expectations Survey results – August 2026
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **既存の LLM が CPU なら、 Jev はその GPU 版みたいなやつ** — Score 9, observation — [Quelle](https://zenn.dev/mizchi/articles/jev-is-gpu-for-llms)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-18T07:47:56+00:00`, fetched `2026-09-18T09:34:15+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: Jev を一晩叩いたので、その感想を書きます。タイトルは超大雑把な要約です。 実験結果 まず実験ログを置いておきます。 公式のクックブックの条件を変えた追試 https://docs.typesafe.ai/cookbooks/skill_suggestion チェス対戦 5戦やって、Claude 5 Sonnet には全勝 LoL をミニマルにしたような MOBA ゲームをリアルタ...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.7 - Fiji region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti83)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-18T06:58:48.040+00:00`, fetched `2026-09-18T07:10:51+00:00`
@@ -266,15 +275,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: ガバメントAI 源内OSS Ver 2.0の計画に関する全国オンライン説明会を開催しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Public Medical Hub システム利用規約（医療機関等向け）の改正について** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/6ab83796-e631-4c64-ba13-9b3938056693)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-09-18T06:00:00+00:00`, fetched `2026-09-18T06:34:55+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: Public Medical Hub システム利用規約（医療機関等向け）の改正について
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

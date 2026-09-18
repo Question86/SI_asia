@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-09-18T09:23:12+00:00_
+_Generiert: 2026-09-18T09:34:46+00:00_
 
 ## Ecosystem Roundup: The AI funding boom has a Southeast Asia-sized blind spot
 
@@ -19,7 +19,7 @@ _Generiert: 2026-09-18T09:23:12+00:00_
 
 ## Euro area monthly balance of payments: July 2026
 
-- Ranking Score: `23.62`
+- Ranking Score: `23.58`
 - Raw Network Score: `25.3`
 - Max Monitor Score: `13`
 - Reichweite: `institutional` / `5.0`
