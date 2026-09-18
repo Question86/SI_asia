@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-18T05:38:47+00:00_
+_Generiert: 2026-09-18T05:46:27+00:00_
 
 ## Kurzlage
 
-14 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月17日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+15 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月17日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -122,6 +122,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); JPCERT (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: This TSUBAME Report Overflow series discusses observation trends from TSUBAME sensors both in Japan and overseas, as well as other topics not covered in the JPCERT/CC Quarterly Report. This article covers monitoring results from April to June 2026. Note: Starting...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **How to read a VAPT report without panicking** — Score 10, observation — [Quelle](https://e27.co/how-to-read-a-vapt-report-without-panicking-20260823-2/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-18T05:45:15+00:00`, fetched `2026-09-18T05:45:57+00:00`
+  - Treffer: APAC Trend Radar, Content-Chance
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0)
+  - Kurz: I’ve watched the same movie play out too many times: a management team receives a penetration testing report, sees a wall of findings with scary-sounding names, and immediately assumes their platform is on fire. It’s not on fire. It’s almost never on fire. But the report sure makes it look like it is. And that’s […] The post How to read a VAPT report without panicking appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **When 43 per cent of the world’s funding goes to two firms, where does that leave SEA?** — Score 10, observation — [Quelle](https://e27.co/when-43-per-cent-of-the-worlds-funding-goes-to-two-firms-where-does-that-leave-sea-20260918/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-18T04:46:43+00:00`, fetched `2026-09-18T04:48:46+00:00`
@@ -139,15 +148,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: On September 18, 2026, global markets rose together. Asian stocks and bonds gained as oil extended its decline. European equities climbed. The STOXX 600 rose 0.9 per cent to 642.6 points. Mining and automotive sectors led those gains. The FTSE index gained 1.2 per cent. That marked its best one-day performance in over two months. […] The post Did the Fed just accidentally kick off the next crypto bull run? Or just a…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Waymo’s Singapore entry raises the stakes for autonomous mobility in Asia** — Score 9, observation — [Quelle](https://e27.co/waymos-singapore-entry-raises-the-stakes-for-autonomous-mobility-in-asia-20260918/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-18T03:52:38+00:00`, fetched `2026-09-18T03:54:16+00:00`
-  - Treffer: APAC Trend Radar, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
-  - Kurz: Waymo is preparing to bring its driverless ride-hailing service to Singapore in 2028, marking one of the most closely watched tests yet of whether fully autonomous mobility can work in a dense, highly regulated Southeast Asian city. The Alphabet-owned autonomous vehicle company said it is working with Singapore’s Ministry of Transport and Land Transport Authority […] The post Waymo’s Singapore entry raises the stake…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **今話題のAI「Jev」って何？ 宇宙最速で学ぶ会** — Score 8, observation — [Quelle](https://speakerdeck.com/minorun365/konwadai-no-ai-jev-tte-nani-uchuu-saisoku-de-manabu-kai)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
