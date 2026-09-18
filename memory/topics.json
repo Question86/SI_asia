@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-18T07:43:11+00:00",
+  "generated_at": "2026-09-18T07:51:13+00:00",
   "topics": {
     "ai": [
       {
@@ -133,6 +133,13 @@
         "published_at": "2026-09-18T07:11:31+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3380"
+      },
+      {
+        "title": "ISC BINDにおける複数の脆弱性（2026年9月）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-18T16:45:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU97703430/"
       },
       {
         "title": "DokployにおけるOSコマンドインジェクションの脆弱性",
