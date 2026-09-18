@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T05:26:46+00:00",
-  "run_id": "2026-09-18T05:26:46+00:00",
+  "generated_at": "2026-09-18T05:38:47+00:00",
+  "run_id": "2026-09-18T05:38:47+00:00",
   "date": "2026-09-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 13
+      "configured_public_sources_only": 14
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 13,
-    "displayed_findings": 13,
+    "new_relevant_findings": 1,
+    "today_file_total": 14,
+    "displayed_findings": 14,
     "high": 0,
     "medium": 5,
-    "observe": 8,
+    "observe": 9,
     "source_errors": 0
   },
   "sections": {
@@ -313,6 +313,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "0b884ab71f1920ee1b10"
+      },
+      {
+        "title": "今話題のAI「Jev」って何？ 宇宙最速で学ぶ会",
+        "url": "https://speakerdeck.com/minorun365/konwadai-no-ai-jev-tte-nani-uchuu-saisoku-de-manabu-kai",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-18T03:54:06+00:00",
+        "fetched_at": "2026-09-18T05:38:15+00:00",
+        "summary": "今話題のAI「Jev」って何？ 宇宙最速で学ぶ会 - connpass https://minorun365.connpass.com/event/407308/",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d207d3f08b48e1698d1b"
       },
       {
         "title": "How Cooley is accelerating IPO work with ChatGPT",
@@ -662,6 +684,28 @@
       "id": "0b884ab71f1920ee1b10"
     },
     {
+      "title": "今話題のAI「Jev」って何？ 宇宙最速で学ぶ会",
+      "url": "https://speakerdeck.com/minorun365/konwadai-no-ai-jev-tte-nani-uchuu-saisoku-de-manabu-kai",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-18T03:54:06+00:00",
+      "fetched_at": "2026-09-18T05:38:15+00:00",
+      "summary": "今話題のAI「Jev」って何？ 宇宙最速で学ぶ会 - connpass https://minorun365.connpass.com/event/407308/",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d207d3f08b48e1698d1b"
+    },
+    {
       "title": "How Cooley is accelerating IPO work with ChatGPT",
       "url": "https://openai.com/index/cooley-gopublic",
       "source": "OpenAI News RSS",
@@ -723,7 +767,30 @@
       "id": "bb43607b89f913240c01"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "今話題のAI「Jev」って何？ 宇宙最速で学ぶ会",
+      "url": "https://speakerdeck.com/minorun365/konwadai-no-ai-jev-tte-nani-uchuu-saisoku-de-manabu-kai",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-18T03:54:06+00:00",
+      "fetched_at": "2026-09-18T05:38:15+00:00",
+      "summary": "今話題のAI「Jev」って何？ 宇宙最速で学ぶ会 - connpass https://minorun365.connpass.com/event/407308/",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d207d3f08b48e1698d1b"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

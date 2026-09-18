@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-18T05:26:46+00:00_
+_Generiert: 2026-09-18T05:38:47+00:00_
 
 ## Kurzlage
 
-13 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月17日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+14 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月17日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 ## Priorität Hoch
 
@@ -95,6 +95,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Waymo is preparing to bring its driverless ride-hailing service to Singapore in 2028, marking one of the most closely watched tests yet of whether fully autonomous mobility can work in a dense, highly regulated Southeast Asian city. The Alphabet-owned autonomous vehicle company said it is working with Singapore’s Ministry of Transport and Land Transport Authority […] The post Waymo’s Singapore entry raises the stake…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **今話題のAI「Jev」って何？ 宇宙最速で学ぶ会** — Score 8, observation — [Quelle](https://speakerdeck.com/minorun365/konwadai-no-ai-jev-tte-nani-uchuu-saisoku-de-manabu-kai)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-18T03:54:06+00:00`, fetched `2026-09-18T05:38:15+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 今話題のAI「Jev」って何？ 宇宙最速で学ぶ会 - connpass https://minorun365.connpass.com/event/407308/
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **How Cooley is accelerating IPO work with ChatGPT** — Score 8, observation — [Quelle](https://openai.com/index/cooley-gopublic)
   - Quelle: OpenAI News RSS / `rss`
