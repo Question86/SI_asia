@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-18T11:47:18+00:00_
+_Generated: 2026-09-18T11:54:13+00:00_
 
 ## Status
 - status: `normal`
-- findings: `58`
+- findings: `59`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-09-18T11:47:18+00:00_
 - url: https://restofworld.org/2026/robot-tax-ai-wealth-redistribution/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
 - summary: In an excerpt from his book, “Innovate for Impact: A Roadmap to Sustainable Technology Beyond AI,” Alessandro Crimi explains that a tax on automation is more effective than retraining labor.
 
-### 8. M 4.7 - 40 km SSW of Sipí, Colombia
-- source: USGS M4.5+ Earthquakes Past Hour
+### 8. Atlassian: Angreifer können Confluence Data Center ausspionieren
+- source: heise Security Alerts
 - score: `11`
-- published: `2026-09-18T06:53:54.114+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti7x
-- summary: DYFI? - III Time 2026-09-18 06:17:03 UTC 2026-09-18 06:17:03 UTC at epicenter Location 4.322°N 76.793°W Depth 68.37 km (42.49 mi)
+- published: `2026-09-18T11:41:00.000+00:00`
+- url: https://www.heise.de/news/Atlassian-Angreifer-koennen-Confluence-Data-Center-ausspionieren-11458267.html
+- summary: Atlassian hat zahlreiche Sicherheitslücken in Bitbucket, Jira & Co. geschlossen. Admins sollten die verfügbaren Sicherheitspatches zeitnah installieren.
 
 END OF DOCUMENT

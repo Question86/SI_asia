@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-18T11:47:18+00:00_
+_Generiert: 2026-09-18T11:54:13+00:00_
 
 ## Kurzlage
 
-58 neue relevante Treffer. Stärkstes Signal: „Tencent/BrowserSkill“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+59 neue relevante Treffer. Stärkstes Signal: „Tencent/BrowserSkill“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -217,6 +217,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Automatisierung (+4.0); technology (+2.0); labor (+2.0); recent (+1.0)
   - Kurz: In an excerpt from his book, “Innovate for Impact: A Roadmap to Sustainable Technology Beyond AI,” Alessandro Crimi explains that a tax on automation is more effective than retraining labor.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Atlassian: Angreifer können Confluence Data Center ausspionieren** — Score 11, observation — [Quelle](https://www.heise.de/news/Atlassian-Angreifer-koennen-Confluence-Data-Center-ausspionieren-11458267.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-09-18T11:41:00.000+00:00`, fetched `2026-09-18T11:53:40+00:00`
+  - Treffer: Security, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Webentwicklung (+3.8); recent (+1.0)
+  - Kurz: Atlassian hat zahlreiche Sicherheitslücken in Bitbucket, Jira & Co. geschlossen. Admins sollten die verfügbaren Sicherheitspatches zeitnah installieren.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.7 - 40 km SSW of Sipí, Colombia** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti7x)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-18T06:53:54.114+00:00`, fetched `2026-09-18T06:55:48+00:00`
@@ -315,15 +324,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+7.5); recent (+1.0)
   - Kurz: Ein Sicherheitsupdate schließt eine kritische Schadcode-Schwachstelle in Check Point Security Management and Log Servers.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Boris Vujčić: Interview with Reuters** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260918~33f023fe26.en.html)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-09-18T06:00:00+00:00`, fetched `2026-09-18T06:34:55+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Boris Vujčić: Interview with Reuters
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
