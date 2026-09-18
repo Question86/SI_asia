@@ -1,22 +1,7 @@
 {
-  "generated_at": "2026-09-18T14:06:42+00:00",
+  "generated_at": "2026-09-18T14:24:39+00:00",
   "sections": {
     "global_security": [
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "USGS earthquake M6.5 - 169 km W of Nikolski, Alaska",
-        "summary": "M6.5 - 169 km W of Nikolski, Alaska. PAGER alert: green. Tsunami flag: 1.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti1p",
-        "published_at": "2026-09-17T14:19:52+00:00",
-        "metrics": {
-          "mag": 6.5,
-          "alert": "green",
-          "sig": 653.0,
-          "tsunami": 1
-        }
-      },
       {
         "domain": "security",
         "severity": "high",
