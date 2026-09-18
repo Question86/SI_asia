@@ -1,28 +1,28 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-18T01:12:48Z",
+  "generated_at": "2026-09-18T01:36:24Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 6,
+    "dynamics": 8,
     "bands": {
       "krass": 2,
-      "strong": 1,
-      "watch": 1,
+      "strong": 2,
+      "watch": 2,
       "quiet": 2
     },
     "bands_after_gate_recheck": {
-      "strong": 3,
-      "watch": 1,
+      "strong": 4,
+      "watch": 2,
       "quiet": 2
     }
   },
   "top_dynamics": [
     {
-      "title": "DokployにおけるOSコマンドインジェクションの脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU94707104/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-09-18T00:53:45+00:00",
+      "title": "The founder-to-minister pivot isn’t the problem, ASEAN’s missing governance infrastructure is",
+      "url": "https://e27.co/the-founder-to-minister-pivot-isnt-the-problem-aseans-missing-governance-infrastructure-is-20260916/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-18T01:15:29+00:00",
       "age_days": 0.01,
       "topics": [
         "general"
@@ -47,7 +47,7 @@
       "url": "https://jvn.jp/vu/JVNVU91030326/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-18T09:30:15+09:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -73,7 +73,7 @@
       "url": "https://jvn.jp/vu/JVNVU94707104/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-18T09:30:00+09:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -95,38 +95,84 @@
       "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
     },
     {
+      "title": "DokployにおけるOSコマンドインジェクションの脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU94707104/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-09-18T00:53:45+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 23.5,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月17日）",
       "url": "https://jvn.jp/vu/JVNVU91030326/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 90.97,
+      "age_days": 90.98,
       "topics": [
         "general"
       ],
-      "dynamics_score": 19.9,
-      "raw_band": "strong",
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 2.9,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 2.90",
-        "aging penalty -8.0 for 91.0d old signal",
-        "stale single-source cap: max watch after 14d without fresh resonance"
+        "aging penalty -8.0 for 91.0d old signal"
       ],
       "summary": ""
+    },
+    {
+      "title": "The founder-to-minister pivot isn’t the problem, ASEAN’s missing governance infrastructure is",
+      "url": "https://e27.co/the-founder-to-minister-pivot-isnt-the-problem-aseans-missing-governance-infrastructure-is-20260916/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-18T01:00:01+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "The first generation of ASEAN’s unicorn founders is moving on. Some have stepped back from operational roles. Some have moved into investing. A few have taken government appointments and, more recently, moved back out of them. The question I keep coming back to, fifteen years into a risk career that has run alongside…"
     },
     {
       "title": "How Cooley is accelerating IPO work with ChatGPT",
       "url": "https://openai.com/index/cooley-gopublic",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 92.19,
+      "age_days": 92.2,
       "topics": [
         "general"
       ],
@@ -152,7 +198,7 @@
       "url": "https://openai.com/index/cooley-gopublic",
       "source": "OpenAI News RSS",
       "published_at": "2026-09-17T12:00:00+00:00",
-      "age_days": 0.55,
+      "age_days": 0.57,
       "topics": [
         "ai"
       ],
@@ -173,5 +219,5 @@
       "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most."
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “DokployにおけるOSコマンドインジェクションの脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “The founder-to-minister pivot isn’t the problem, ASEAN’s missing governance infrastructure is” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
 }
