@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-18T14:52:58+00:00_
+_Generated: 2026-09-18T15:00:47+00:00_
 
 ## Status
 - status: `normal`
-- findings: `73`
+- findings: `78`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-09-18T14:52:58+00:00_
 - url: https://e27.co/ecosystem-roundup-the-ai-funding-boom-has-a-southeast-asia-sized-blind-spot-20260918/
 - summary: Crunchbase’s first-half 2026 numbers looked like an industry-wide win: global venture funding hit US$510 billion, smashing the previous half-year record. Look closer and the picture curdles. OpenAI and Anthropic alone absorbed 43 per cent of every venture dol…
 
-### 3. alphaXiv/OpenResearch
+### 3. Multiples vulnérabilités dans Microsoft Edge (14 septembre 2026)
+- source: CERT-FR Avis de sécurité
+- score: `19`
+- published: `2026-09-14T00:00:00+00:00`
+- url: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1171/
+- summary: De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur. Microsoft indique que la vulnérabilité CVE-20…
+
+### 4. alphaXiv/OpenResearch
 - source: GitHub Trending RSS All Languages Daily
 - score: `19`
 - published: `None`
 - url: https://github.com/alphaXiv/OpenResearch
 - summary: Turn your coding agents into research agents https://openresearch.sh/ OpenResearch The local-first workspace for research agents and autoresearch. Turn Claude Code, Codex, OpenCode, or Cursor into research agents that can review literature, develop hypotheses…
-
-### 4. [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-09-18T12:21:39+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0844
-- summary: Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder andere, nicht genauer beschriebene Auswirkungen erzielen.
 
 ### 5. M 4.8 - 5 km SW of Guánica, Puerto Rico
 - source: USGS M4.5+ Earthquakes Past Hour

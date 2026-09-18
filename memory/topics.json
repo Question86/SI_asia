@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-18T14:52:58+00:00",
+  "generated_at": "2026-09-18T15:00:47+00:00",
   "topics": {
     "ai": [
       {
@@ -121,6 +121,13 @@
     ],
     "security": [
       {
+        "title": "Multiples vulnérabilités dans Microsoft Edge (14 septembre 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-09-14T00:00:00+00:00",
+        "relevance_score": 19,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1171/"
+      },
+      {
         "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-18T12:21:39+00:00",
@@ -182,16 +189,16 @@
         "published_at": "2026-09-18T07:11:31+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3380"
-      },
-      {
-        "title": "[UPDATE] [hoch] IBM Security Verify Access: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-18T11:36:33+00:00",
-        "relevance_score": 15,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2253"
       }
     ],
     "geopolitics": [
+      {
+        "title": "Multiples vulnérabilités dans Microsoft Edge (14 septembre 2026)",
+        "source": "CERT-FR Avis de sécurité",
+        "published_at": "2026-09-14T00:00:00+00:00",
+        "relevance_score": 19,
+        "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1171/"
+      },
       {
         "title": "[NEU] [UNGEPATCHT] [hoch] Grafana: Schwachstelle ermöglicht Codeausführung",
         "source": "BSI CERT-Bund Security Advisories",
@@ -254,16 +261,16 @@
         "published_at": "2026-09-18T10:31:31+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3445"
-      },
-      {
-        "title": "[NEU] [hoch] Google Chrome: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-18T10:26:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3443"
       }
     ],
     "general": [
+      {
+        "title": "M 5.2 - 189 km SSW of Pelabuhanratu, Indonesia",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-18T14:55:45.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tib8"
+      },
       {
         "title": "M 4.7 - 34 km NNE of Ruteng, Indonesia",
         "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -326,13 +333,6 @@
         "published_at": "2026-09-18T08:19:23+00:00",
         "relevance_score": 10,
         "url": "https://japan.cnet.com/article/35252798/"
-      },
-      {
-        "title": "When 43 per cent of the world’s funding goes to two firms, where does that leave SEA?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-18T04:46:43+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/when-43-per-cent-of-the-worlds-funding-goes-to-two-firms-where-does-that-leave-sea-20260918/"
       }
     ],
     "economy": [

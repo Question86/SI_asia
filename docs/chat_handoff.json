@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-18T14:52:58+00:00",
+  "generated_at": "2026-09-18T15:00:47+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 73,
-    "displayed_findings": 73,
+    "new_relevant_findings": 5,
+    "today_file_total": 78,
+    "displayed_findings": 78,
     "high": 0,
-    "medium": 39,
-    "observe": 34
+    "medium": 41,
+    "observe": 37
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -35,6 +35,16 @@
       "section": "medium"
     },
     {
+      "title": "Multiples vulnérabilités dans Microsoft Edge (14 septembre 2026)",
+      "source": "CERT-FR Avis de sécurité",
+      "source_type": "rss",
+      "published_at": "2026-09-14T00:00:00+00:00",
+      "relevance_score": 19,
+      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1171/",
+      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur. Microsoft indique que la vulnérabilité CVE-20…",
+      "section": "medium"
+    },
+    {
       "title": "alphaXiv/OpenResearch",
       "source": "GitHub Trending RSS All Languages Daily",
       "source_type": "rss",
@@ -42,16 +52,6 @@
       "relevance_score": 19,
       "url": "https://github.com/alphaXiv/OpenResearch",
       "summary": "Turn your coding agents into research agents https://openresearch.sh/ OpenResearch The local-first workspace for research agents and autoresearch. Turn Claude Code, Codex, OpenCode, or Cursor into research agents that can review literature, develop hypotheses…",
-      "section": "medium"
-    },
-    {
-      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-18T12:21:39+00:00",
-      "relevance_score": 16,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0844",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder andere, nicht genauer beschriebene Auswirkungen erzielen.",
       "section": "medium"
     },
     {

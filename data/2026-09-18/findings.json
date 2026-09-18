@@ -73,6 +73,32 @@
     "id": "bd013f8561a198534736"
   },
   {
+    "title": "Multiples vulnérabilités dans Microsoft Edge (14 septembre 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1171/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-09-14T00:00:00+00:00",
+    "fetched_at": "2026-09-18T15:00:12+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur. Microsoft indique que la vulnérabilité CVE-2026-87491 est activement exploitée.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "Microsoft",
+      "Security",
+      "sécurité",
+      "vulnérabilité",
+      "éditeur"
+    ],
+    "relevance_score": 19,
+    "relevance_reason": "Security (+6.0); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0); Microsoft (+2.5)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "254e179fcf5ef23ece93"
+  },
+  {
     "title": "alphaXiv/OpenResearch",
     "url": "https://github.com/alphaXiv/OpenResearch",
     "source": "GitHub Trending RSS All Languages Daily",
@@ -333,6 +359,43 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "7558778822769b3a9cc4"
+  },
+  {
+    "title": "M 5.2 - 189 km SSW of Pelabuhanratu, Indonesia",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tib8",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-09-18T14:55:45.040+00:00",
+    "fetched_at": "2026-09-18T15:00:12+00:00",
+    "summary": "Time 2026-09-18 14:36:17 UTC 2026-09-18 14:36:17 UTC at epicenter Location 8.581°S 105.911°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "ad028d77d7513154dc56"
   },
   {
     "title": "M 4.7 - 34 km NNE of Ruteng, Indonesia",
@@ -1707,6 +1770,75 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "ec9c575e98b36f3aa299"
+  },
+  {
+    "title": "Multiples vulnérabilités dans les produits Apple (15 septembre 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1172/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-09-15T00:00:00+00:00",
+    "fetched_at": "2026-09-18T15:00:12+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans les produits Apple. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et un déni de service à distance.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9cbc7bb3db3a26b8f203"
+  },
+  {
+    "title": "Multiples vulnérabilités dans Python (14 septembre 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1167/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-09-14T00:00:00+00:00",
+    "fetched_at": "2026-09-18T15:00:12+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans Python. Certaines d'entre elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e16185fd1bc00b60bd5f"
+  },
+  {
+    "title": "Multiples vulnérabilités dans MISP (14 septembre 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1170/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-09-14T00:00:00+00:00",
+    "fetched_at": "2026-09-18T15:00:12+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans MISP. Certaines d'entre elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "af23cb2a435a5fbea408"
   },
   {
     "title": "ガバメントAI 源内OSS Ver 2.0の計画に関する全国オンライン説明会を開催しました",
