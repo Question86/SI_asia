@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-18T16:57:20+00:00_
+_Generiert: 2026-09-18T17:12:46+00:00_
 
 ## Kurzlage
 
-81 neue relevante Treffer. Stärkstes Signal: „Tencent/BrowserSkill“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+82 neue relevante Treffer. Stärkstes Signal: „Tencent/BrowserSkill“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -195,6 +195,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Automatisierung (+4.0); technology (+2.0); labor (+2.0); recent (+1.0)
   - Kurz: In an excerpt from his book, “Innovate for Impact: A Roadmap to Sustainable Technology Beyond AI,” Alessandro Crimi explains that a tax on automation is more effective than retraining labor.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **M 5.2 - 28 km NE of Villa Presidente Frei, Chile** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tid4)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-18T17:11:04.020+00:00`, fetched `2026-09-18T17:12:14+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: DYFI? - IV Time 2026-09-18 16:52:07 UTC 2026-09-18 16:52:07 UTC at epicenter Location 33.311°S 70.334°W Depth 100.01 km (62.14 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Stage-only npm tokens for safer automation** — Score 11, opportunity — [Quelle](https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-09-18T16:37:50+00:00`, fetched `2026-09-18T16:56:49+00:00`
@@ -204,15 +213,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Automatisierung (+5.0); GitHub (+2.0); recent (+1.0); watchgraph modules software_supply_chain (+3.0)
   - Kurz: You can now select Read and write (stage only) when creating an npm granular access token. This lets your automated workflows stage package versions for review without giving the token… The post Stage-only npm tokens for safer automation appeared first on The GitHub Blog .
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **M 4.6 - 204 km N of Daocheng, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti9a)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-18T12:27:45.040+00:00`, fetched `2026-09-18T12:30:40+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-18 12:09:48 UTC 2026-09-18 12:09:48 UTC at epicenter Location 30.853°N 99.922°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Atlassian: Angreifer können Confluence Data Center ausspionieren** — Score 11, observation — [Quelle](https://www.heise.de/news/Atlassian-Angreifer-koennen-Confluence-Data-Center-ausspionieren-11458267.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-09-18T11:41:00.000+00:00`, fetched `2026-09-18T11:53:40+00:00`
