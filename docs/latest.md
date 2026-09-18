@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-18T13:55:26+00:00_
+_Generiert: 2026-09-18T14:06:39+00:00_
 
 ## Kurzlage
 
-72 neue relevante Treffer. Stärkstes Signal: „Tencent/BrowserSkill“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+73 neue relevante Treffer. Stärkstes Signal: „Tencent/BrowserSkill“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -150,6 +150,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 4.8 - 5 km SW of Guánica, Puerto Rico** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/pr2026261000)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-18T14:05:14.221+00:00`, fetched `2026-09-18T14:06:10+00:00`
+  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: PAGER - GREEN ShakeMap - IV DYFI? - V Time 2026-09-18 13:19:35 UTC 2026-09-18 13:19:35 UTC at epicenter Location 17.939°N 66.946°W Depth 7.00 km (4.35 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.6 - 12 km SE of La Parguera, Puerto Rico** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiar)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-18T13:46:26.410+00:00`, fetched `2026-09-18T13:47:21+00:00`
@@ -204,15 +213,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); Webentwicklung (+3.8); recent (+1.0)
   - Kurz: Atlassian hat zahlreiche Sicherheitslücken in Bitbucket, Jira & Co. geschlossen. Admins sollten die verfügbaren Sicherheitspatches zeitnah installieren.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.7 - 40 km SSW of Sipí, Colombia** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti7x)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-18T06:53:54.114+00:00`, fetched `2026-09-18T06:55:48+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Colombia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: DYFI? - III Time 2026-09-18 06:17:03 UTC 2026-09-18 06:17:03 UTC at epicenter Location 4.322°N 76.793°W Depth 68.37 km (42.49 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **桓基科技｜OAKlouds - 存在2個漏洞** — Score 11, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-11210-11cb0-1.html)
   - Quelle: TWCERT/CC TVN Vulnerability Notes RSS / `rss`
   - Zeit: published `2026-09-18T02:00:00+00:00`, fetched `2026-09-18T10:42:37+00:00`
