@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-18T08:18:31Z",
+  "generated_at": "2026-09-18T08:42:14Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Red Hat Enterprise Linux (corosync, libevent, libsoup): Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3419",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-18T07:47:27+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -36,11 +36,38 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen oder Denial-of-Service-Zustände herbeizuführen."
     },
     {
+      "title": "Root-Sicherheitslücke gefährdet Check Point Security Management and Log Servers",
+      "url": "https://www.heise.de/news/Root-Sicherheitsluecke-gefaehrdet-Check-Point-Security-Management-and-Log-Servers-11457947.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-06-19T07:39:37+00:00",
+      "age_days": 91.04,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "high terms: root",
+        "security high-signal: root",
+        "aging penalty -8.0 for 91.0d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "ISC BINDにおける複数の脆弱性（2026年9月）",
       "url": "https://jvn.jp/vu/JVNVU97703430/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-18T16:45:00+09:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -64,7 +91,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3418",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-18T07:26:31+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -84,36 +111,41 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Keycloak ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen und um Informationen offenzulegen."
     },
     {
-      "title": "Root-Sicherheitslücke gefährdet Check Point Security Management and Log Servers",
-      "url": "https://www.heise.de/news/Root-Sicherheitsluecke-gefaehrdet-Check-Point-Security-Management-and-Log-Servers-11457947.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-09-18T07:47:00.000+00:00",
-      "age_days": 0.02,
+      "title": "Euro area monthly balance of payments: July 2026",
+      "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp260918~ef4843e4f5.en.html",
+      "source": "ECB Press Releases Speeches Interviews, ECB Statistical Press Releases",
+      "published_at": "2026-06-18T14:33:45+00:00",
+      "age_days": 91.76,
       "topics": [
-        "security"
+        "general"
       ],
-      "dynamics_score": 25.0,
-      "raw_band": "strong",
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
+      "source_count": 2,
+      "momentum_delta": 3,
+      "baseline_z_hint": 11.52,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "high terms: kritisch, code, root",
-        "security high-signal: kritisch, code, root"
+        "source breadth +2",
+        "momentum delta +3",
+        "baseline z_hint 11.52",
+        "high terms: rce",
+        "security high-signal: rce",
+        "aging penalty -8.0 for 91.8d old signal",
+        "extreme gate recheck: insufficient independent/current evidence"
       ],
-      "summary": "Ein Sicherheitsupdate schließt eine kritische Schadcode-Schwachstelle in Check Point Security Management and Log Servers."
+      "summary": ""
     },
     {
       "title": "Tencent/BrowserSkill",
       "url": "https://github.com/Tencent/BrowserSkill",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-18T05:53:28+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "ai",
         "macro"
@@ -142,7 +174,7 @@
       "url": "https://jvn.jp/vu/JVNVU91030326/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-18T09:30:15+09:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -168,7 +200,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3380",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-18T07:11:31+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -194,7 +226,7 @@
       "url": "https://jvn.jp/vu/JVNVU94707104/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-18T09:30:00+09:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -220,7 +252,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3071",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-18T05:51:31+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -246,7 +278,7 @@
       "url": "https://github.com/alphaXiv/OpenResearch",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-18T05:54:02+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "extreme",
@@ -271,7 +303,7 @@
       "url": "https://github.com/alphaXiv/OpenResearch",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-18T05:53:28+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -293,34 +325,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Turn your coding agents into research agents https://openresearch.sh/ OpenResearch The local-first workspace for research agents and autoresearch. Turn Claude Code, Codex, OpenCode, or Cursor into research agents that can review literature, develop hypotheses, run experiments, and produce research artifacts. macOS 11+…"
-    },
-    {
-      "title": "Root-Sicherheitslücke gefährdet Check Point Security Management and Log Servers",
-      "url": "https://www.heise.de/news/Root-Sicherheitsluecke-gefaehrdet-Check-Point-Security-Management-and-Log-Servers-11457947.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 91.03,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 19.9,
-      "raw_band": "krass",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "high terms: root",
-        "security high-signal: root",
-        "aging penalty -8.0 for 91.0d old signal",
-        "stale single-source cap after 30d: no current exploitation phrase"
-      ],
-      "summary": ""
     }
   ],
   "read_order": [
@@ -333,8 +337,7 @@
   "counts": {
     "bands_after_gate_recheck": {
       "krass": 1,
-      "strong": 10,
-      "watch": 1
+      "strong": 11
     }
   }
 }
