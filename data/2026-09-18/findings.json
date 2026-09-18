@@ -335,6 +335,43 @@
     "id": "7558778822769b3a9cc4"
   },
   {
+    "title": "M 4.7 - 34 km NNE of Ruteng, Indonesia",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti9c",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-09-18T12:45:09.040+00:00",
+    "fetched_at": "2026-09-18T12:48:59+00:00",
+    "summary": "Time 2026-09-18 12:20:56 UTC 2026-09-18 12:20:56 UTC at epicenter Location 8.321°S 120.572°E Depth 10.00 km (6.21 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "b97cca2e3110b2e8efdc"
+  },
+  {
     "title": "[UPDATE] [hoch] IBM Security Verify Access: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2253",
     "source": "BSI CERT-Bund Security Advisories",
@@ -511,6 +548,75 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "aed280378bae467d4801"
+  },
+  {
+    "title": "[UPDATE] [mittel] Xen: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1851",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-18T12:38:24+00:00",
+    "fetched_at": "2026-09-18T12:48:59+00:00",
+    "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in Xen ausnutzen, um erweiterte Privilegien zu erlangen, Daten zu manipulieren, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand zu verursachen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "e4fe6f79d87cafce50f5"
+  },
+  {
+    "title": "[UPDATE] [hoch] AMD ARM und EPYC Prozessoren: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1859",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-18T12:38:24+00:00",
+    "fetched_at": "2026-09-18T12:48:59+00:00",
+    "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in AMD ARM und EPYC Prozessoren ausnutzen, um Sicherheitsvorkehrungen zu umgehen und Daten zu manipulieren.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "edd0b84bbbbf7eef3ae2"
+  },
+  {
+    "title": "[UPDATE] [hoch] Synology DiskStation Manager: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1125",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-18T12:38:22+00:00",
+    "fetched_at": "2026-09-18T12:48:59+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Synology DiskStation Manager ausnutzen, um Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, vertrauliche Informationen offenzulegen oder einen Denial-of-Service-Zustand zu verursachen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "0d6afe39e298743fc317"
   },
   {
     "title": "[NEU] [hoch] MongoDB C Driver und Entity Framework Core Provider: Mehrere Schwachstellen",
@@ -1320,6 +1426,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "47aa53e826c8f3a0036f"
+  },
+  {
+    "title": "緊急で社内Jev勉強会を開催したらアイデアがバンバン出て頭が柔らかくなった - LayerX エンジニアブログ",
+    "url": "https://tech.layerx.co.jp/entry/2026/09/18/185816",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-09-18T10:21:35+00:00",
+    "fetched_at": "2026-09-18T12:48:59+00:00",
+    "summary": "こんにちは。バクラク事業部でエンジニアをしているpon)です。 社内で TypeSafe AI の Jev を題材にした勉強会を開催し、社内のエンジニアが50人以上参加してくれました！ 30分の短い会でしたが、終わってみるとサービスにJevを組みこむアイデアが50件を超えました。この記事では、なぜわざわざ勉強会という形にしたのか...",
+    "matched_keywords": [
+      "AI/KI",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4cc8029820e78834b2b7"
   },
   {
     "title": "Root-Sicherheitslücke gefährdet Check Point Security Management and Log Servers",

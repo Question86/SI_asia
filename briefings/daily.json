@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T12:31:09+00:00",
-  "today_file_total": 63,
+  "generated_at": "2026-09-18T12:49:33+00:00",
+  "today_file_total": 68,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -19,13 +19,13 @@
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3444",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0305"
       ],
-      "finding_count": 22,
+      "finding_count": 25,
       "max_score": 16,
-      "credibility_total": 23.1,
+      "credibility_total": 26.25,
       "cross_source_confirmed": false,
       "momentum_delta": 3,
       "momentum_status": "increasing",
-      "network_score": 71.2,
+      "network_score": 77.5,
       "hot": true,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
@@ -128,6 +128,31 @@
         "ai_agents_workflow"
       ],
       "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
+    },
+    {
+      "key": "earthquake:indonesia:4.7",
+      "title": "M 4.7 - 34 km NNE of Ruteng, Indonesia",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti9c"
+      ],
+      "finding_count": 1,
+      "max_score": 15,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 20.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "title:cisa-ics-advisory-ics-medical-advisory-2026",
@@ -249,31 +274,6 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "earthquake:m 4.6 - 204 km n of daocheng, china:4.6",
-      "title": "M 4.6 - 204 km N of Daocheng, China",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti9a"
-      ],
-      "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 16.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "title:isc-bind-2026",
@@ -417,6 +417,31 @@
       "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
     },
     {
+      "key": "earthquake:m 4.6 - 204 km n of daocheng, china:4.6",
+      "title": "M 4.6 - 204 km N of Daocheng, China",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti9a"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 13.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
       "key": "earthquake:m 4.7 - 40 km ssw of sipí, colombia:4.7",
       "title": "M 4.7 - 40 km SSW of Sipí, Colombia",
       "sources": [
@@ -463,29 +488,6 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "domain:japan.cnet.com",
-      "title": "ネコの新種、100年以上ぶりに発見",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://japan.cnet.com/article/35252798/"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 12.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     }
   ]
 }
