@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-18T12:31:43+00:00",
+  "generated_at": "2026-09-18T12:50:05+00:00",
   "events": [
     {
       "event_id": "evt_014823216e5b4b658b61",
@@ -2057,7 +2057,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_4a104f3be147ee0920ed",
@@ -5032,12 +5032,12 @@
     {
       "event_id": "evt_9e6829d6549203d03ca3",
       "title": "M 4.6 - 204 km N of Daocheng, China",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -5093,7 +5093,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a0a48f18e523a40ddacf",
