@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T22:31:30+00:00",
-  "run_id": "2026-09-18T22:31:30+00:00",
+  "generated_at": "2026-09-18T22:40:24+00:00",
+  "run_id": "2026-09-18T22:40:24+00:00",
   "date": "2026-09-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 92,
     "displayed_findings": 92,
     "high": 0,
@@ -4769,29 +4769,7 @@
       "id": "7950d3e52d8593b530bd"
     }
   ],
-  "new_findings": [
-    {
-      "title": "SemIf — local decisions in your browser",
-      "url": "https://openjev.com/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-17T08:58:15+00:00",
-      "fetched_at": "2026-09-18T22:30:57+00:00",
-      "summary": "A live, local experiment Decision model in your browser. A local model can either read probabilities for your allowed options without decoding them, or write the same kind of distribution token by token. Pick a size, run both on your own GPU, and measure the difference.",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "dd0dcc4b833a4f57d0de"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
