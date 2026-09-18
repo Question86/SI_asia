@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-09-18T00:36:20Z",
+  "generated_at": "2026-09-18T01:12:48Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -23,44 +23,19 @@
   ],
   "current_dynamic_memory_candidates": [
     {
-      "title": "cloudflare/security-audit-skill",
+      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月17日）",
       "band": "krass",
       "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
     },
     {
-      "title": "Paid to be quoted: The creator revenue line Southeast Asia hasn’t priced yet",
+      "title": "DokployにおけるOSコマンドインジェクションの脆弱性",
       "band": "krass",
       "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
     },
     {
-      "title": "abue-ammar/tinycast",
-      "band": "krass",
-      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
-    },
-    {
-      "title": "[NEU] [hoch] Check Point Security Management: Schwachstelle ermöglicht Ausführen von beliebigem Programmcode mit Administratorrechten",
-      "band": "krass",
-      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
-    },
-    {
-      "title": "[NEU] [mittel] Nextcloud: Schwachstelle ermöglicht Codeausführung",
-      "band": "krass",
-      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
-    },
-    {
-      "title": "[NEU] [mittel] vllm: Schwachstelle ermöglicht Denial of Service",
-      "band": "krass",
-      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
-    },
-    {
-      "title": "[NEU] [mittel] Budibase: Schwachstelle ermöglicht Offenlegung von Informationen",
-      "band": "krass",
-      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
-    },
-    {
-      "title": "[NEU] [hoch] Apache Nifi: Mehrere Schwachstellen",
-      "band": "krass",
-      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
+      "title": "DokployにおけるOSコマンドインジェクションの脆弱性",
+      "band": "strong",
+      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     }
   ]
 }
