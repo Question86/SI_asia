@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T20:41:58+00:00",
-  "run_id": "2026-09-18T20:41:58+00:00",
+  "generated_at": "2026-09-18T20:57:18+00:00",
+  "run_id": "2026-09-18T20:57:18+00:00",
   "date": "2026-09-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 89,
     "displayed_findings": 89,
     "high": 0,
@@ -4645,29 +4645,7 @@
       "id": "7950d3e52d8593b530bd"
     }
   ],
-  "new_findings": [
-    {
-      "title": "出版取次の日販、米AI企業に書籍を大量販売か 業界団体が説明要求（朝日新聞） - Yahoo!ニュース",
-      "url": "https://news.yahoo.co.jp/articles/212f2a1ec5d3862735a3a456429c4d816bf5d178",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-18T14:14:24+00:00",
-      "fetched_at": "2026-09-18T20:41:29+00:00",
-      "summary": "出版取次大手の日販グループホールディングスが米AI（人工知能）開発企業アンソロピックに大量の書籍を販売していたとして、日本の出版社約380社が所属する業界団体「日本書籍出版協会（書協）」が日販に事実確認を求める書面を送ったことが18日、わかった。販売された書籍はアンソロピックがAI学習に使用した可能性もあ...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d9ea7e91e636963da71a"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
