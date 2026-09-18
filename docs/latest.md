@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-18T03:46:39+00:00_
+_Generiert: 2026-09-18T03:54:48+00:00_
 
 ## Kurzlage
 
-8 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月17日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+9 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月17日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 ## Priorität Hoch
 
@@ -60,6 +60,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Waymo’s Singapore entry raises the stakes for autonomous mobility in Asia** — Score 9, observation — [Quelle](https://e27.co/waymos-singapore-entry-raises-the-stakes-for-autonomous-mobility-in-asia-20260918/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-18T03:52:38+00:00`, fetched `2026-09-18T03:54:16+00:00`
+  - Treffer: APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Waymo is preparing to bring its driverless ride-hailing service to Singapore in 2028, marking one of the most closely watched tests yet of whether fully autonomous mobility can work in a dense, highly regulated Southeast Asian city. The Alphabet-owned autonomous vehicle company said it is working with Singapore’s Ministry of Transport and Land Transport Authority […] The post Waymo’s Singapore entry raises the stake…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **How Cooley is accelerating IPO work with ChatGPT** — Score 8, observation — [Quelle](https://openai.com/index/cooley-gopublic)
   - Quelle: OpenAI News RSS / `rss`
   - Zeit: published `2026-09-17T12:00:00+00:00`, fetched `2026-09-18T00:53:09+00:00`
