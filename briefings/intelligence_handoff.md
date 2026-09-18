@@ -1,22 +1,12 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-18T05:40:37Z_
+_Generated: 2026-09-18T05:49:08Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “TSUBAME Report Overflow (Apr-Jun 2026)” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=25.0.
+Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory（2026年09月17日）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.
 
 ## Top Dynamics
-
-### TSUBAME Report Overflow (Apr-Jun 2026)
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `25.0`
-- Published: `2026-09-18T05:12:31+00:00` / age_days `0.02`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +2
-- Quelle: https://blogs.jpcert.or.jp/en/2026/09/tsubame_overflow_2026-04-06.html
 
 ### CISA ICS Advisory / ICS Medical Advisory（2026年09月17日）
 
@@ -42,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “TSUBAME Report Overflow (Apr-Jun 2026)�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-18T00:53:45+00:00` / age_days `0.2`
+- Published: `2026-09-18T00:53:45+00:00` / age_days `0.21`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -52,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “TSUBAME Report Overflow (Apr-Jun 2026)�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-18T01:15:29+00:00` / age_days `0.18`
+- Published: `2026-09-18T01:15:29+00:00` / age_days `0.19`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -77,6 +67,16 @@ Stärkste Dynamik nach Gate-Recheck: “TSUBAME Report Overflow (Apr-Jun 2026)�
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti70
+
+### TSUBAME Report Overflow (Apr-Jun 2026)
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `22.0`
+- Published: `2026-09-18T05:12:31+00:00` / age_days `0.03`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3
+- Quelle: https://blogs.jpcert.or.jp/en/2026/09/tsubame_overflow_2026-04-06.html
 
 ### When 43 per cent of the world’s funding goes to two firms, where does that leave SEA?
 
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “TSUBAME Report Overflow (Apr-Jun 2026)�
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `91.15`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `91.16`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, aging penalty -8.0 for 91.2d old signal
