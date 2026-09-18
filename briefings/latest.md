@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-18T16:42:18+00:00_
+_Generiert: 2026-09-18T16:57:20+00:00_
 
 ## Kurzlage
 
-80 neue relevante Treffer. Stärkstes Signal: „Tencent/BrowserSkill“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+81 neue relevante Treffer. Stärkstes Signal: „Tencent/BrowserSkill“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -244,6 +244,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Automatisierung (+4.0); technology (+2.0); labor (+2.0); recent (+1.0)
   - Kurz: In an excerpt from his book, “Innovate for Impact: A Roadmap to Sustainable Technology Beyond AI,” Alessandro Crimi explains that a tax on automation is more effective than retraining labor.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Stage-only npm tokens for safer automation** — Score 11, opportunity — [Quelle](https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-09-18T16:37:50+00:00`, fetched `2026-09-18T16:56:49+00:00`
+  - Treffer: Automatisierung, GitHub, Watchgraph:software_supply_chain
+  - Watchgraph: software_supply_chain
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, CRWD, PANW, FTNT, ZS, OKTA, NET, S
+  - Warum relevant: Automatisierung (+5.0); GitHub (+2.0); recent (+1.0); watchgraph modules software_supply_chain (+3.0)
+  - Kurz: You can now select Read and write (stage only) when creating an npm granular access token. This lets your automated workflows stage package versions for review without giving the token… The post Stage-only npm tokens for safer automation appeared first on The GitHub Blog .
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **M 4.6 - 204 km N of Daocheng, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti9a)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-18T12:27:45.040+00:00`, fetched `2026-09-18T12:30:40+00:00`
@@ -324,15 +333,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: ECB Consumer Expectations Survey results – August 2026
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **既存の LLM が CPU なら、 Jev はその GPU 版みたいなやつ** — Score 9, observation — [Quelle](https://zenn.dev/mizchi/articles/jev-is-gpu-for-llms)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-18T07:47:56+00:00`, fetched `2026-09-18T09:34:15+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: Jev を一晩叩いたので、その感想を書きます。タイトルは超大雑把な要約です。 実験結果 まず実験ログを置いておきます。 公式のクックブックの条件を変えた追試 https://docs.typesafe.ai/cookbooks/skill_suggestion チェス対戦 5戦やって、Claude 5 Sonnet には全勝 LoL をミニマルにしたような MOBA ゲームをリアルタ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

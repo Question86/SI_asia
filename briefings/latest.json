@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T16:42:18+00:00",
-  "run_id": "2026-09-18T16:42:18+00:00",
+  "generated_at": "2026-09-18T16:57:20+00:00",
+  "run_id": "2026-09-18T16:57:20+00:00",
   "date": "2026-09-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 80
+      "configured_public_sources_only": 81
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 80,
-    "displayed_findings": 80,
+    "new_relevant_findings": 1,
+    "today_file_total": 81,
+    "displayed_findings": 81,
     "high": 0,
     "medium": 42,
-    "observe": 38,
+    "observe": 39,
     "source_errors": 0
   },
   "sections": {
@@ -1302,6 +1302,49 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "4eb5899a6645067c167f"
+      },
+      {
+        "title": "Stage-only npm tokens for safer automation",
+        "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-09-18T16:37:50+00:00",
+        "fetched_at": "2026-09-18T16:56:49+00:00",
+        "summary": "You can now select Read and write (stage only) when creating an npm granular access token. This lets your automated workflows stage package versions for review without giving the token… The post Stage-only npm tokens for safer automation appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "Automatisierung",
+          "GitHub",
+          "Watchgraph:software_supply_chain"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Automatisierung (+5.0); GitHub (+2.0); recent (+1.0); watchgraph modules software_supply_chain (+3.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [
+          "software_supply_chain"
+        ],
+        "watchgraph_reasons": [
+          "software_supply_chain: npm"
+        ],
+        "market_context": [
+          "LMT",
+          "RTX",
+          "NOC",
+          "GD",
+          "RHM.DE",
+          "CRWD",
+          "PANW",
+          "FTNT",
+          "ZS",
+          "OKTA",
+          "NET",
+          "S",
+          "MSFT",
+          "GTLB",
+          "FROG",
+          "TEAM"
+        ],
+        "id": "b1bd857034045b412fc5"
       },
       {
         "title": "M 4.6 - 204 km N of Daocheng, China",
@@ -3357,6 +3400,49 @@
       "id": "4eb5899a6645067c167f"
     },
     {
+      "title": "Stage-only npm tokens for safer automation",
+      "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-09-18T16:37:50+00:00",
+      "fetched_at": "2026-09-18T16:56:49+00:00",
+      "summary": "You can now select Read and write (stage only) when creating an npm granular access token. This lets your automated workflows stage package versions for review without giving the token… The post Stage-only npm tokens for safer automation appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Automatisierung",
+        "GitHub",
+        "Watchgraph:software_supply_chain"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Automatisierung (+5.0); GitHub (+2.0); recent (+1.0); watchgraph modules software_supply_chain (+3.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [
+        "software_supply_chain"
+      ],
+      "watchgraph_reasons": [
+        "software_supply_chain: npm"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM"
+      ],
+      "id": "b1bd857034045b412fc5"
+    },
+    {
       "title": "M 4.6 - 204 km N of Daocheng, China",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti9a",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -4135,7 +4221,51 @@
       "id": "bb43607b89f913240c01"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Stage-only npm tokens for safer automation",
+      "url": "https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-09-18T16:37:50+00:00",
+      "fetched_at": "2026-09-18T16:56:49+00:00",
+      "summary": "You can now select Read and write (stage only) when creating an npm granular access token. This lets your automated workflows stage package versions for review without giving the token… The post Stage-only npm tokens for safer automation appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Automatisierung",
+        "GitHub",
+        "Watchgraph:software_supply_chain"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Automatisierung (+5.0); GitHub (+2.0); recent (+1.0); watchgraph modules software_supply_chain (+3.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [
+        "software_supply_chain"
+      ],
+      "watchgraph_reasons": [
+        "software_supply_chain: npm"
+      ],
+      "market_context": [
+        "LMT",
+        "RTX",
+        "NOC",
+        "GD",
+        "RHM.DE",
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S",
+        "MSFT",
+        "GTLB",
+        "FROG",
+        "TEAM"
+      ],
+      "id": "b1bd857034045b412fc5"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
