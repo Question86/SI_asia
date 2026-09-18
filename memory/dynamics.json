@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-18T09:31:12Z",
+  "generated_at": "2026-09-18T09:48:58Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 4,
       "krass": 5,
-      "strong": 13,
-      "watch": 18
+      "strong": 14,
+      "watch": 17
     },
     "bands_after_gate_recheck": {
       "krass": 1,
-      "strong": 21,
-      "watch": 18
+      "strong": 22,
+      "watch": 17
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3419",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-18T07:47:27+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://www.heise.de/news/Root-Sicherheitsluecke-gefaehrdet-Check-Point-Security-Management-and-Log-Servers-11457947.html",
       "source": "heise Security Alerts",
       "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 91.08,
+      "age_days": 91.09,
       "topics": [
         "security"
       ],
@@ -75,7 +75,7 @@
       "url": "https://jvn.jp/vu/JVNVU97703430/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-18T16:45:00+09:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "security"
       ],
@@ -95,11 +95,35 @@
       "summary": "ISC（Internet Systems Consortium）から、ISC BINDの複数の脆弱性が公開されました。"
     },
     {
+      "title": "[UPDATE] [mittel] Internet Systems Consortium BIND: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3420",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-18T09:41:31+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein entfernter Angreifer kann mehrere Schwachstellen in Internet Systems Consortium BIND ausnutzen, um Daten zu manipulieren, Sicherheitsmaßnahmen zu umgehen oder Denial-of-Service-Zustände herbeizuführen."
+    },
+    {
       "title": "[UPDATE] [mittel] Keycloak: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3418",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-18T07:26:31+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -123,7 +147,7 @@
       "url": "https://www.heise.de/news/Root-Sicherheitsluecke-gefaehrdet-Check-Point-Security-Management-and-Log-Servers-11457947.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-18T07:47:00.000+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -148,7 +172,7 @@
       "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp260918~ef4843e4f5.en.html",
       "source": "ECB Press Releases Speeches Interviews, ECB Statistical Press Releases",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 91.79,
+      "age_days": 91.8,
       "topics": [
         "general"
       ],
@@ -159,13 +183,13 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 2,
       "momentum_delta": 3,
-      "baseline_z_hint": 5.31,
+      "baseline_z_hint": 5.11,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "source breadth +2",
         "momentum delta +3",
-        "baseline z_hint 5.31",
+        "baseline z_hint 5.11",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 91.8d old signal",
@@ -178,7 +202,7 @@
       "url": "https://github.com/Tencent/BrowserSkill",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-18T05:53:28+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "macro"
@@ -207,7 +231,7 @@
       "url": "https://jvn.jp/vu/JVNVU91030326/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-18T09:30:15+09:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -233,7 +257,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3380",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-18T07:11:31+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security"
       ],
@@ -259,7 +283,7 @@
       "url": "https://jvn.jp/vu/JVNVU94707104/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-18T09:30:00+09:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "security"
       ],
@@ -285,7 +309,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3071",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-18T05:51:31+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -311,7 +335,7 @@
       "url": "https://github.com/alphaXiv/OpenResearch",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-18T05:54:02+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "extreme",
@@ -336,7 +360,7 @@
       "url": "https://github.com/alphaXiv/OpenResearch",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-18T05:53:28+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -364,7 +388,7 @@
       "url": "https://github.com/Tencent/BrowserSkill",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-18T05:54:02+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -391,7 +415,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3419",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 20.81,
+      "age_days": 20.82,
       "topics": [
         "security"
       ],
@@ -418,7 +442,7 @@
       "url": "https://jvn.jp/vu/JVNVU97703430/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-18T07:51:17+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -442,7 +466,7 @@
       "url": "https://jvn.jp/vu/JVNVU94707104/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-18T00:53:45+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "general"
       ],
@@ -466,7 +490,7 @@
       "url": "https://e27.co/the-founder-to-minister-pivot-isnt-the-problem-aseans-missing-governance-infrastructure-is-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-18T01:15:29+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "general"
       ],
@@ -490,7 +514,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti79",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T01:09:44+00:00",
-      "age_days": 13.35,
+      "age_days": 13.36,
       "topics": [
         "general"
       ],
@@ -514,7 +538,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti70",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-14T11:31:15+00:00",
-      "age_days": 3.92,
+      "age_days": 3.93,
       "topics": [
         "general"
       ],
@@ -538,7 +562,7 @@
       "url": "https://blogs.jpcert.or.jp/en/2026/09/tsubame_overflow_2026-04-06.html",
       "source": "JPCERT/CC English Blog Atom",
       "published_at": "2026-09-18T05:12:31+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -562,22 +586,22 @@
       "url": "https://e27.co/ecosystem-roundup-the-ai-funding-boom-has-a-southeast-asia-sized-blind-spot-20260918/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-18T08:59:57+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 20.5,
+      "dynamics_score": 20.0,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +1",
+        "momentum delta +3",
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],
@@ -588,7 +612,7 @@
       "url": "https://e27.co/when-43-per-cent-of-the-worlds-funding-goes-to-two-firms-where-does-that-leave-sea-20260918/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-18T04:49:17+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "general"
       ],
@@ -612,7 +636,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti7x",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-18T06:56:22+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -636,7 +660,7 @@
       "url": "https://e27.co/what-maybanks-us10b-bet-reveals-about-market-readiness-a-view-from-two-emerging-ecosystems-20260915/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-18T02:07:09+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "macro"
       ],
@@ -661,7 +685,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti89",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-18T07:41:22.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -685,7 +709,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti79",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-18T02:40:23.040+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "disaster"
       ],
@@ -709,7 +733,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti70",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-18T01:28:31.040+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "disaster"
       ],
@@ -733,7 +757,7 @@
       "url": "https://jvn.jp/vu/JVNVU91030326/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 91.31,
+      "age_days": 91.33,
       "topics": [
         "general"
       ],
@@ -758,7 +782,7 @@
       "url": "https://e27.co/gsma-says-smartphone-costs-could-deepen-the-coming-ai-divide-20260918/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-18T06:01:34+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -784,7 +808,7 @@
       "url": "https://github.com/anthropics/claude-code",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-18T05:54:02+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -811,7 +835,7 @@
       "url": "https://e27.co/ecosystem-roundup-the-ai-funding-boom-has-a-southeast-asia-sized-blind-spot-20260918/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-18T08:52:58+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -837,7 +861,7 @@
       "url": "https://e27.co/sbi-joins-dtcpays-us25m-round-to-bridge-japan-sea-stablecoin-corridors-20260918/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-18T09:23:12+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "general"
       ],
@@ -847,12 +871,12 @@
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 2,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1"
+        "momentum delta +2"
       ],
       "summary": ""
     },
@@ -861,7 +885,7 @@
       "url": "https://www.digital.go.jp/news/6ab83796-e631-4c64-ba13-9b3938056693",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-18T06:35:24+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -885,7 +909,7 @@
       "url": "https://www.digital.go.jp/speech/minister-260918-01",
       "source": "Japan Digital Agency News RSS",
       "published_at": "2026-09-18T05:54:02+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -909,7 +933,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti89",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-06-18T20:05:28+00:00",
-      "age_days": 91.56,
+      "age_days": 91.57,
       "topics": [
         "general"
       ],
@@ -934,7 +958,7 @@
       "url": "https://note.com/tsujimeshi/n/nf81f3a9daa1f",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-31T18:43:10+00:00",
-      "age_days": 17.62,
+      "age_days": 17.63,
       "topics": [
         "general"
       ],
@@ -958,7 +982,7 @@
       "url": "https://e27.co/the-founder-to-minister-pivot-isnt-the-problem-aseans-missing-governance-infrastructure-is-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-18T01:00:01+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "macro"
       ],
@@ -982,7 +1006,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti7x",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-18T06:53:54.114+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -1000,30 +1024,6 @@
         "early terms: earthquake"
       ],
       "summary": "DYFI? - III Time 2026-09-18 06:17:03 UTC 2026-09-18 06:17:03 UTC at epicenter Location 4.322°N 76.793°W Depth 68.37 km (42.49 mi)"
-    },
-    {
-      "title": "Euro area monthly balance of payments: July 2026",
-      "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp260918~ef4843e4f5.en.html",
-      "source": "ECB Statistical Press Releases",
-      "published_at": "2026-09-18T08:00:00+00:00",
-      "age_days": 0.06,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 13.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "Euro area monthly balance of payments: July 2026"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Red Hat Enterprise Linux (corosync, libevent, libsoup): Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
