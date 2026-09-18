@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T19:47:40+00:00",
-  "run_id": "2026-09-18T19:47:40+00:00",
+  "generated_at": "2026-09-18T19:55:05+00:00",
+  "run_id": "2026-09-18T19:55:05+00:00",
   "date": "2026-09-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 88,
     "displayed_findings": 88,
     "high": 0,
@@ -4603,29 +4603,7 @@
       "id": "7950d3e52d8593b530bd"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Uberで2人前の寿司を頼んだのに1人前セットが届いた。料金は2人前払っていて、領収書も送ったのに、Uberから「返金できない」と言われた→トラブル対応の杜撰さを示す報告相次ぐ",
-      "url": "https://togetter.com/li/2747370",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-18T15:43:31+00:00",
-      "fetched_at": "2026-09-18T19:47:05+00:00",
-      "summary": "ぺあこ @__k_r_o_n__ うーばーの人間と話したけど返金対象外って言われて、今日消費者センターに電話したらうーばーの方からメールか電話するよーってなった。サブスク入ってるのにな。お店には連絡してない。ちなみに1人前用の商品は別にある。2人で食うから2人前を頼んだんやで pic.x.com/TkCHa50Ovd 2026-09-18 15:43:53",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "70e9f7a89f09bb327ab7"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
