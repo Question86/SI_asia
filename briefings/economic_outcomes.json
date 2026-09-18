@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-18T06:56:56+00:00",
+  "generated_at": "2026-09-18T07:11:54+00:00",
   "events": [
     {
       "event_id": "evt_014823216e5b4b658b61",
@@ -137,12 +137,12 @@
     {
       "event_id": "evt_05cbed2934e911c87662",
       "title": "M 4.7 - 40 km SSW of Sipí, Colombia",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -1364,7 +1364,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_32070e6674bea3fca14d",
@@ -5303,6 +5303,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_a99dba47f4b0e273be1f",
+      "title": "M 4.7 - Fiji region",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_aa29dd4888359becb13a",
