@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-18T18:56:53+00:00_
+_Generiert: 2026-09-18T19:30:46+00:00_
 
 ## Kurzlage
 
-83 neue relevante Treffer. Stärkstes Signal: „Tencent/BrowserSkill“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+86 neue relevante Treffer. Stärkstes Signal: „Tencent/BrowserSkill“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -17,6 +17,10 @@ _Generiert: 2026-09-18T18:56:53+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-18`
   - Kurz: Known exploited vulnerability. Added 2026-09-18. Due 2026-09-21. Linux Kernel Out-of-Bounds Write Vulnerability
+- **CISA KEV: CVE-2025-39682 Linux Kernel** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-09-18`
+  - Kurz: Known exploited vulnerability. Added 2026-09-18. Due 2026-09-21. Linux Kernel Improper Check for Unusual or Exceptional Conditions Vulnerability
 - **CISA KEV: CVE-2026-58704 Google Pixel** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-09-16`
@@ -25,10 +29,6 @@ _Generiert: 2026-09-18T18:56:53+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-16`
   - Kurz: Known exploited vulnerability. Added 2026-09-16. Due 2026-09-19. Cisco Identity Services Engine Incorrect Use of Privileged APIs Vulnerability
-- **CISA KEV: CVE-2026-87886 Acronis Backup** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-16`
-  - Kurz: Known exploited vulnerability. Added 2026-09-16. Due 2026-09-19. Acronis Backup Incorrect Default Permissions Vulnerability
 - **GDACS: Green flood alert in Thailand** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104169)
   - Quelle: GDACS
   - Zeit: ``
@@ -178,6 +178,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)
   - Kurz: The global rush to build artificial intelligence may be making the basic gateway to the internet more expensive for the people who need it most. That is the uncomfortable warning from the GSMA’s State of Mobile Internet Connectivity Report 2026, released in Hong Kong on September 18. The industry body, which represents mobile operators and […] The post GSMA says smartphone costs could deepen the coming AI divide app…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **GitHub Copilot weekly releases — September 14** — Score 14, observation — [Quelle](https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-09-18T19:21:22+00:00`, fetched `2026-09-18T19:30:17+00:00`
+  - Treffer: Copilot, GitHub, Macro/Policy, Watchgraph:elections_unrest
+  - Watchgraph: elections_unrest
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, META, GOOGL, MSFT, RDDT, SNAP, PINS
+  - Warum relevant: Macro/Policy (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0); watchgraph modules elections_unrest (+3.0)
+  - Kurz: This week, GitHub Copilot adds new model selection options, code review updates, and Sentry integration in the Copilot app. There are also updates for admins, plus new agent features in… The post GitHub Copilot weekly releases — September 14 appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **ISC BINDにおける複数の脆弱性（2026年9月）** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU97703430/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-09-18T16:45:00+09:00`, fetched `2026-09-18T07:50:42+00:00`
@@ -187,15 +196,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: ISC（Internet Systems Consortium）から、ISC BINDの複数の脆弱性が公開されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Bowman, The Final Chapter on Modernizing Bank Regulatory Stress Testing** — Score 14, observation — [Quelle](https://www.federalreserve.gov/newsevents/speech/bowman20260918a.htm)
-  - Quelle: Federal Reserve Speeches and Testimony / `rss`
-  - Zeit: published `2026-09-18T13:30:00+00:00`, fetched `2026-09-18T13:47:21+00:00`
-  - Treffer: Macro/Policy, speech, testimony
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region europe: London (+2.0); watchgraph region usa: Federal Reserve (+2.0)
-  - Kurz: Speech At the Luncheon of the Lord Mayor City of London at Mansion House, London, United Kingdom
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 

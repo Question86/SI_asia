@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T18:56:55+00:00",
+  "generated_at": "2026-09-18T19:30:50+00:00",
   "sections": {
     "global_security": [
       {
@@ -29,6 +29,18 @@
       {
         "domain": "security",
         "severity": "high",
+        "title": "CISA KEV: CVE-2025-39682 Linux Kernel",
+        "summary": "Known exploited vulnerability. Added 2026-09-18. Due 2026-09-21. Linux Kernel Improper Check for Unusual or Exceptional Conditions Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-09-18",
+        "metrics": {
+          "cve": "CVE-2025-39682"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
         "title": "CISA KEV: CVE-2026-58704 Google Pixel",
         "summary": "Known exploited vulnerability. Added 2026-09-16. Due 2026-09-19. Google Pixel Improper Authorization Vulnerability",
         "source": "CISA KEV",
@@ -48,18 +60,6 @@
         "published_at": "2026-09-16",
         "metrics": {
           "cve": "CVE-2026-76460"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-87886 Acronis Backup",
-        "summary": "Known exploited vulnerability. Added 2026-09-16. Due 2026-09-19. Acronis Backup Incorrect Default Permissions Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-09-16",
-        "metrics": {
-          "cve": "CVE-2026-87886"
         }
       },
       {
