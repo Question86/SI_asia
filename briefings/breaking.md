@@ -1,10 +1,10 @@
 # Senna Breaking
 
-_Generiert: 2026-09-18T10:21:14+00:00_
+_Generiert: 2026-09-18T10:32:39+00:00_
 
 ## Euro area monthly balance of payments: July 2026
 
-- Ranking Score: `23.42`
+- Ranking Score: `23.38`
 - Raw Network Score: `25.3`
 - Max Monitor Score: `13`
 - Reichweite: `institutional` / `5.0`
