@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-18T04:56:43+00:00",
+  "generated_at": "2026-09-18T05:12:28+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 11,
-    "displayed_findings": 11,
+    "new_relevant_findings": 2,
+    "today_file_total": 13,
+    "displayed_findings": 13,
     "high": 0,
     "medium": 5,
-    "observe": 6
+    "observe": 8
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -55,6 +55,16 @@
       "section": "medium"
     },
     {
+      "title": "TSUBAME Report Overflow (Apr-Jun 2026)",
+      "source": "JPCERT/CC English Blog Atom",
+      "source_type": "rss",
+      "published_at": "2026-09-18T05:00:00+00:00",
+      "relevance_score": 13,
+      "url": "https://blogs.jpcert.or.jp/en/2026/09/tsubame_overflow_2026-04-06.html",
+      "summary": "This TSUBAME Report Overflow series discusses observation trends from TSUBAME sensors both in Japan and overseas, as well as other topics not covered in the JPCERT/CC Quarterly Report. This article covers monitoring results from April to June 2026. Note: Star…",
+      "section": "observe"
+    },
+    {
       "title": "When 43 per cent of the world’s funding goes to two firms, where does that leave SEA?",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -82,16 +92,6 @@
       "relevance_score": 9,
       "url": "https://e27.co/waymos-singapore-entry-raises-the-stakes-for-autonomous-mobility-in-asia-20260918/",
       "summary": "Waymo is preparing to bring its driverless ride-hailing service to Singapore in 2028, marking one of the most closely watched tests yet of whether fully autonomous mobility can work in a dense, highly regulated Southeast Asian city. The Alphabet-owned autonom…",
-      "section": "observe"
-    },
-    {
-      "title": "How Cooley is accelerating IPO work with ChatGPT",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-09-17T12:00:00+00:00",
-      "relevance_score": 8,
-      "url": "https://openai.com/index/cooley-gopublic",
-      "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
       "section": "observe"
     }
   ],

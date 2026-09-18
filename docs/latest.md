@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-18T04:56:43+00:00_
+_Generiert: 2026-09-18T05:12:28+00:00_
 
 ## Kurzlage
 
-11 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月17日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+13 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月17日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 ## Priorität Hoch
 
@@ -60,6 +60,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **TSUBAME Report Overflow (Apr-Jun 2026)** — Score 13, observation — [Quelle](https://blogs.jpcert.or.jp/en/2026/09/tsubame_overflow_2026-04-06.html)
+  - Quelle: JPCERT/CC English Blog Atom / `rss`
+  - Zeit: published `2026-09-18T05:00:00+00:00`, fetched `2026-09-18T05:11:57+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, JPCERT
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); JPCERT (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: This TSUBAME Report Overflow series discusses observation trends from TSUBAME sensors both in Japan and overseas, as well as other topics not covered in the JPCERT/CC Quarterly Report. This article covers monitoring results from April to June 2026. Note: Starting...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **When 43 per cent of the world’s funding goes to two firms, where does that leave SEA?** — Score 10, observation — [Quelle](https://e27.co/when-43-per-cent-of-the-worlds-funding-goes-to-two-firms-where-does-that-leave-sea-20260918/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-18T04:46:43+00:00`, fetched `2026-09-18T04:48:46+00:00`
