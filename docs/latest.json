@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T09:34:44+00:00",
-  "run_id": "2026-09-18T09:34:44+00:00",
+  "generated_at": "2026-09-18T09:44:44+00:00",
+  "run_id": "2026-09-18T09:44:44+00:00",
   "date": "2026-09-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 39
+      "configured_public_sources_only": 40
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,10 +19,10 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 39,
-    "displayed_findings": 39,
+    "today_file_total": 40,
+    "displayed_findings": 40,
     "high": 0,
-    "medium": 15,
+    "medium": 16,
     "observe": 24,
     "source_errors": 0
   },
@@ -374,6 +374,29 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "aed280378bae467d4801"
+      },
+      {
+        "title": "[UPDATE] [mittel] Internet Systems Consortium BIND: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3420",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-18T09:41:31+00:00",
+        "fetched_at": "2026-09-18T09:44:16+00:00",
+        "summary": "Ein entfernter Angreifer kann mehrere Schwachstellen in Internet Systems Consortium BIND ausnutzen, um Daten zu manipulieren, Sicherheitsmaßnahmen zu umgehen oder Denial-of-Service-Zustände herbeizuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f08453f6c77d04456b94"
       },
       {
         "title": "DokployにおけるOSコマンドインジェクションの脆弱性",
@@ -1384,6 +1407,29 @@
       "id": "aed280378bae467d4801"
     },
     {
+      "title": "[UPDATE] [mittel] Internet Systems Consortium BIND: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3420",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-18T09:41:31+00:00",
+      "fetched_at": "2026-09-18T09:44:16+00:00",
+      "summary": "Ein entfernter Angreifer kann mehrere Schwachstellen in Internet Systems Consortium BIND ausnutzen, um Daten zu manipulieren, Sicherheitsmaßnahmen zu umgehen oder Denial-of-Service-Zustände herbeizuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f08453f6c77d04456b94"
+    },
+    {
       "title": "DokployにおけるOSコマンドインジェクションの脆弱性",
       "url": "https://jvn.jp/vu/JVNVU94707104/",
       "source": "JVN Japan Vulnerability Notes",
@@ -2043,26 +2089,27 @@
   ],
   "new_findings": [
     {
-      "title": "既存の LLM が CPU なら、 Jev はその GPU 版みたいなやつ",
-      "url": "https://zenn.dev/mizchi/articles/jev-is-gpu-for-llms",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "[UPDATE] [mittel] Internet Systems Consortium BIND: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3420",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-09-18T07:47:56+00:00",
-      "fetched_at": "2026-09-18T09:34:15+00:00",
-      "summary": "Jev を一晩叩いたので、その感想を書きます。タイトルは超大雑把な要約です。 実験結果 まず実験ログを置いておきます。 公式のクックブックの条件を変えた追試 https://docs.typesafe.ai/cookbooks/skill_suggestion チェス対戦 5戦やって、Claude 5 Sonnet には全勝 LoL をミニマルにしたような MOBA ゲームをリアルタ...",
+      "published_at": "2026-09-18T09:41:31+00:00",
+      "fetched_at": "2026-09-18T09:44:16+00:00",
+      "summary": "Ein entfernter Angreifer kann mehrere Schwachstellen in Internet Systems Consortium BIND ausnutzen, um Daten zu manipulieren, Sicherheitsmaßnahmen zu umgehen oder Denial-of-Service-Zustände herbeizuführen.",
       "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "1fcd53a7fba12fd297e2"
+      "id": "f08453f6c77d04456b94"
     }
   ],
   "source_errors": [],

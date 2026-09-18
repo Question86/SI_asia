@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-18T09:34:44+00:00_
+_Generiert: 2026-09-18T09:44:44+00:00_
 
 ## Kurzlage
 
-39 neue relevante Treffer. Stärkstes Signal: „Tencent/BrowserSkill“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+40 neue relevante Treffer. Stärkstes Signal: „Tencent/BrowserSkill“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -164,6 +164,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: ISC（Internet Systems Consortium）から、ISC BINDの複数の脆弱性が公開されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [mittel] Internet Systems Consortium BIND: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3420)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-09-18T09:41:31+00:00`, fetched `2026-09-18T09:44:16+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter Angreifer kann mehrere Schwachstellen in Internet Systems Consortium BIND ausnutzen, um Daten zu manipulieren, Sicherheitsmaßnahmen zu umgehen oder Denial-of-Service-Zustände herbeizuführen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **DokployにおけるOSコマンドインジェクションの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU94707104/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-09-18T09:30:00+09:00`, fetched `2026-09-18T00:53:09+00:00`
@@ -173,15 +182,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [mittel] Keycloak: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3418)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-09-18T07:26:31+00:00`, fetched `2026-09-18T07:42:43+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Keycloak ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen und um Informationen offenzulegen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The founder-to-minister pivot isn’t the problem, ASEAN’s missing governance infrastructure is** — Score 14, observation — [Quelle](https://e27.co/the-founder-to-minister-pivot-isnt-the-problem-aseans-missing-governance-infrastructure-is-20260916/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-18T01:00:01+00:00`, fetched `2026-09-18T01:14:52+00:00`
