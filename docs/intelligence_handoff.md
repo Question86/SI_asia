@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-18T11:36:43Z_
+_Generated: 2026-09-18T11:49:38Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [hoch] Grafana: Schwa
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `33.0`
-- Published: `2026-09-18T11:01:32+00:00` / age_days `0.02`
+- Published: `2026-09-18T11:01:32+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [hoch] Grafana: Schwa
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `33.0`
-- Published: `2026-09-18T10:06:34+00:00` / age_days `0.06`
+- Published: `2026-09-18T10:06:34+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code
@@ -32,47 +32,47 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [hoch] Grafana: Schwa
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `33.0`
-- Published: `2026-09-18T07:47:27+00:00` / age_days `0.16`
+- Published: `2026-09-18T07:47:27+00:00` / age_days `0.17`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code
 - Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3419
 
+### [UPDATE] [hoch] IBM Security Verify Access: Mehrere Schwachstellen
+
+- Band: `krass` (raw `krass`)
+- Dynamics score: `32.0`
+- Published: `2026-09-18T11:36:33+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: angriffe, code, security high-signal: angriffe, code
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2253
+
 ### [NEU] [niedrig] MISP: Mehrere Schwachstellen
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `31.0`
-- Published: `2026-09-18T11:01:32+00:00` / age_days `0.02`
+- Published: `2026-09-18T11:01:32+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: angriffe, code, auth, security high-signal: angriffe, code, auth
 - Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3451
 
-### [NEU] [hoch] Google Chrome: Mehrere Schwachstellen
-
-- Band: `krass` (raw `krass`)
-- Dynamics score: `31.0`
-- Published: `2026-09-18T10:26:31+00:00` / age_days `0.05`
-- Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
-- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: high terms: angriffe, code, security high-signal: angriffe, code
-- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3443
-
 ### Euro area monthly balance of payments: July 2026
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-18T14:33:45+00:00` / age_days `91.88`
+- Published: `2026-06-18T14:33:45+00:00` / age_days `91.89`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: source breadth +2, momentum delta +3, baseline z_hint 4.28, high terms: rce, security high-signal: rce, aging penalty -8.0 for 91.9d old signal, extreme gate recheck: insufficient independent/current evidence
+- Warum: source breadth +2, momentum delta +3, baseline z_hint 4.07, high terms: rce, security high-signal: rce, aging penalty -8.0 for 91.9d old signal, extreme gate recheck: insufficient independent/current evidence
 - Quelle: https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp260918~ef4843e4f5.en.html
 
 ### Tencent/BrowserSkill
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-18T05:53:28+00:00` / age_days `0.24`
+- Published: `2026-09-18T05:53:28+00:00` / age_days `0.25`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, code, security high-signal: rce, code, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [hoch] Grafana: Schwa
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-18T10:00:00+00:00` / age_days `0.07`
+- Published: `2026-09-18T10:00:00+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [hoch] Grafana: Schwa
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-18T09:30:15+09:00` / age_days `0.46`
+- Published: `2026-09-18T09:30:15+09:00` / age_days `0.47`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [hoch] Grafana: Schwa
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-18T07:11:31+00:00` / age_days `0.18`
+- Published: `2026-09-18T07:11:31+00:00` / age_days `0.19`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [hoch] Grafana: Schwa
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-18T11:01:31+00:00` / age_days `0.02`
+- Published: `2026-09-18T11:01:31+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
