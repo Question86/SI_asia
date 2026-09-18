@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T05:54:02+00:00",
-  "today_file_total": 20,
+  "generated_at": "2026-09-18T06:01:34+00:00",
+  "today_file_total": 21,
   "current_clusters": [
     {
       "key": "github_repo:tencent/browserskill",
@@ -18,9 +18,9 @@
       "max_score": 23,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 28.1,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 25.1,
       "hot": true,
       "watchgraph_modules": [
         "ai_agents_workflow"
@@ -43,34 +43,34 @@
       "max_score": 19,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 24.1,
-      "hot": true,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 21.1,
+      "hot": false,
       "watchgraph_modules": [
         "ai_agents_workflow"
       ],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
     },
     {
-      "key": "domain:wid.cert-bund.de",
-      "title": "[UPDATE] [kritisch] vm2: Mehrere Schwachstellen",
+      "key": "title:gsma-says-smartphone-costs-could-deepen-coming-divide",
+      "title": "GSMA says smartphone costs could deepen the coming AI divide",
       "sources": [
-        "BSI CERT-Bund Security Advisories"
+        "e27 Asia Startup and Tech Feed"
       ],
       "source_classes": [
         "tier3_specialist"
       ],
       "urls": [
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3071"
+        "https://e27.co/gsma-says-smartphone-costs-could-deepen-the-coming-ai-divide-20260918/"
       ],
       "finding_count": 1,
-      "max_score": 14,
+      "max_score": 15,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 19.1,
+      "network_score": 20.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
@@ -172,6 +172,29 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
+      "key": "domain:wid.cert-bund.de",
+      "title": "[UPDATE] [kritisch] vm2: Mehrere Schwachstellen",
+      "sources": [
+        "BSI CERT-Bund Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3071"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 16.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "title:founder-minister-pivot-isn-problem-asean-missing-governance",
       "title": "The founder-to-minister pivot isn’t the problem, ASEAN’s missing governance infrastructure is",
       "sources": [
@@ -214,29 +237,6 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 15.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "github_repo:anthropics/claude-code",
-      "title": "anthropics/claude-code",
-      "sources": [
-        "GitHub Trending RSS All Languages Daily"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://github.com/anthropics/claude-code"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
       "network_score": 15.1,
       "hot": false,
       "watchgraph_modules": [],
@@ -314,6 +314,29 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
+      "key": "github_repo:anthropics/claude-code",
+      "title": "anthropics/claude-code",
+      "sources": [
+        "GitHub Trending RSS All Languages Daily"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.com/anthropics/claude-code"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 12.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "title:waymo-singapore-entry-raises-stakes-autonomous-mobility-asia",
       "title": "Waymo’s Singapore entry raises the stakes for autonomous mobility in Asia",
       "sources": [
@@ -331,29 +354,6 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 11.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "url:https://www.digital.go.jp/speech/minister-260918-01",
-      "title": "古川大臣就任記者会見（令和8年9月18日）動画を掲載しました",
-      "sources": [
-        "Japan Digital Agency News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.digital.go.jp/speech/minister-260918-01"
-      ],
-      "finding_count": 1,
-      "max_score": 6,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
       "network_score": 11.1,
       "hot": false,
       "watchgraph_modules": [],
@@ -429,6 +429,29 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
+      "key": "url:https://www.digital.go.jp/speech/minister-260918-01",
+      "title": "古川大臣就任記者会見（令和8年9月18日）動画を掲載しました",
+      "sources": [
+        "Japan Digital Agency News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.digital.go.jp/speech/minister-260918-01"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 8.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "title:dena",
       "title": "経営「AIでラクして早く帰って」→社員「帰らない」 工数最大9割減のDeNAも悩むAI効率化の壁",
       "sources": [
@@ -447,29 +470,6 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 7.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:what-maybank-10b-bet-reveals-about-market-readiness",
-      "title": "What Maybank’s US$10B bet reveals about market readiness: A view from two emerging ecosystems",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/what-maybanks-us10b-bet-reveals-about-market-readiness-a-view-from-two-emerging-ecosystems-20260915/"
-      ],
-      "finding_count": 1,
-      "max_score": 4,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 6.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."

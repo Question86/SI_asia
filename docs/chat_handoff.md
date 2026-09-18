@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-18T05:53:58+00:00_
+_Generated: 2026-09-18T06:01:29+00:00_
 
 ## Status
-- status: `warning`
-- findings: `20`
+- status: `normal`
+- findings: `21`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-09-18T05:53:58+00:00_
 - url: https://jvn.jp/vu/JVNVU91030326/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 4. M 4.5 - Izu Islands, Japan region
-- source: USGS M4.5+ Earthquakes Past Hour
+### 4. GSMA says smartphone costs could deepen the coming AI divide
+- source: e27 Asia Startup and Tech Feed
 - score: `15`
-- published: `2026-09-18T02:40:23.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti79
-- summary: Time 2026-09-18 02:12:28 UTC 2026-09-18 02:12:28 UTC at epicenter Location 32.340°N 141.376°E Depth 36.30 km (22.55 mi)
+- published: `2026-09-18T06:00:04+00:00`
+- url: https://e27.co/gsma-says-smartphone-costs-could-deepen-the-coming-ai-divide-20260918/
+- summary: The global rush to build artificial intelligence may be making the basic gateway to the internet more expensive for the people who need it most. That is the uncomfortable warning from the GSMA’s State of Mobile Internet Connectivity Report 2026, released in H…
 
 ### 5. TSUBAME Report Overflow (Apr-Jun 2026)
 - source: JPCERT/CC English Blog Atom
