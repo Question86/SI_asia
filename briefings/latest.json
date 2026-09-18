@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T07:58:39+00:00",
-  "run_id": "2026-09-18T07:58:39+00:00",
+  "generated_at": "2026-09-18T08:27:08+00:00",
+  "run_id": "2026-09-18T08:27:08+00:00",
   "date": "2026-09-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 34
+      "configured_public_sources_only": 36
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 2,
-    "today_file_total": 34,
-    "displayed_findings": 34,
+    "today_file_total": 36,
+    "displayed_findings": 36,
     "high": 0,
     "medium": 14,
-    "observe": 20,
+    "observe": 22,
     "source_errors": 0
   },
   "sections": {
@@ -458,6 +458,28 @@
     ],
     "observe": [
       {
+        "title": "Euro area monthly balance of payments: July 2026",
+        "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp260918~ef4843e4f5.en.html",
+        "source": "ECB Statistical Press Releases",
+        "source_type": "rss",
+        "published_at": "2026-09-18T08:00:00+00:00",
+        "fetched_at": "2026-09-18T08:26:38+00:00",
+        "summary": "Euro area monthly balance of payments: July 2026",
+        "matched_keywords": [
+          "balance of payments",
+          "euro area",
+          "Macro/Policy"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "Macro/Policy (+5.0); balance of payments (+2.5); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "d6e0b962a55a951e608d"
+      },
+      {
         "title": "TSUBAME Report Overflow (Apr-Jun 2026)",
         "url": "https://blogs.jpcert.or.jp/en/2026/09/tsubame_overflow_2026-04-06.html",
         "source": "JPCERT/CC English Blog Atom",
@@ -643,6 +665,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "100822aadc7601649686"
+      },
+      {
+        "title": "ECB Consumer Expectations Survey results – August 2026",
+        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260918~295b3ab978.en.html",
+        "source": "ECB Press Releases Speeches Interviews",
+        "source_type": "rss",
+        "published_at": "2026-09-18T08:00:00+00:00",
+        "fetched_at": "2026-09-18T08:26:38+00:00",
+        "summary": "ECB Consumer Expectations Survey results – August 2026",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "161b4179afdd3380dd15"
       },
       {
         "title": "M 4.7 - Fiji region",
@@ -1356,6 +1398,28 @@
       "id": "56763e04c1b6fb9ba989"
     },
     {
+      "title": "Euro area monthly balance of payments: July 2026",
+      "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp260918~ef4843e4f5.en.html",
+      "source": "ECB Statistical Press Releases",
+      "source_type": "rss",
+      "published_at": "2026-09-18T08:00:00+00:00",
+      "fetched_at": "2026-09-18T08:26:38+00:00",
+      "summary": "Euro area monthly balance of payments: July 2026",
+      "matched_keywords": [
+        "balance of payments",
+        "euro area",
+        "Macro/Policy"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "Macro/Policy (+5.0); balance of payments (+2.5); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "d6e0b962a55a951e608d"
+    },
+    {
       "title": "TSUBAME Report Overflow (Apr-Jun 2026)",
       "url": "https://blogs.jpcert.or.jp/en/2026/09/tsubame_overflow_2026-04-06.html",
       "source": "JPCERT/CC English Blog Atom",
@@ -1541,6 +1605,26 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "100822aadc7601649686"
+    },
+    {
+      "title": "ECB Consumer Expectations Survey results – August 2026",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260918~295b3ab978.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "source_type": "rss",
+      "published_at": "2026-09-18T08:00:00+00:00",
+      "fetched_at": "2026-09-18T08:26:38+00:00",
+      "summary": "ECB Consumer Expectations Survey results – August 2026",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "161b4179afdd3380dd15"
     },
     {
       "title": "M 4.7 - Fiji region",
@@ -1827,48 +1911,46 @@
   ],
   "new_findings": [
     {
-      "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (corosync, libevent, libsoup): Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3419",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "Euro area monthly balance of payments: July 2026",
+      "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp260918~ef4843e4f5.en.html",
+      "source": "ECB Statistical Press Releases",
       "source_type": "rss",
-      "published_at": "2026-09-18T07:47:27+00:00",
-      "fetched_at": "2026-09-18T07:58:08+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen oder Denial-of-Service-Zustände herbeizuführen.",
+      "published_at": "2026-09-18T08:00:00+00:00",
+      "fetched_at": "2026-09-18T08:26:38+00:00",
+      "summary": "Euro area monthly balance of payments: July 2026",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Linux",
-        "Schwachstelle",
-        "Security"
+        "balance of payments",
+        "euro area",
+        "Macro/Policy"
       ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "relevance_score": 13,
+      "relevance_reason": "Macro/Policy (+5.0); balance of payments (+2.5); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "9350b1f9f54b6eb6ac64"
+      "id": "d6e0b962a55a951e608d"
     },
     {
-      "title": "Root-Sicherheitslücke gefährdet Check Point Security Management and Log Servers",
-      "url": "https://www.heise.de/news/Root-Sicherheitsluecke-gefaehrdet-Check-Point-Security-Management-and-Log-Servers-11457947.html",
-      "source": "heise Security Alerts",
+      "title": "ECB Consumer Expectations Survey results – August 2026",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260918~295b3ab978.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
       "source_type": "rss",
-      "published_at": "2026-09-18T07:47:00.000+00:00",
-      "fetched_at": "2026-09-18T07:58:08+00:00",
-      "summary": "Ein Sicherheitsupdate schließt eine kritische Schadcode-Schwachstelle in Check Point Security Management and Log Servers.",
+      "published_at": "2026-09-18T08:00:00+00:00",
+      "fetched_at": "2026-09-18T08:26:38+00:00",
+      "summary": "ECB Consumer Expectations Survey results – August 2026",
       "matched_keywords": [
-        "Security"
+        "Macro/Policy"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "Security (+7.5); recent (+1.0)",
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "e0208695c401ed2e6504"
+      "id": "161b4179afdd3380dd15"
     }
   ],
   "source_errors": [],

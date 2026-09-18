@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-18T07:58:39+00:00_
+_Generiert: 2026-09-18T08:27:08+00:00_
 
 ## Kurzlage
 
-34 neue relevante Treffer. Stärkstes Signal: „Tencent/BrowserSkill“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+36 neue relevante Treffer. Stärkstes Signal: „Tencent/BrowserSkill“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -185,6 +185,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Euro area monthly balance of payments: July 2026** — Score 13, observation — [Quelle](https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp260918~ef4843e4f5.en.html)
+  - Quelle: ECB Statistical Press Releases / `rss`
+  - Zeit: published `2026-09-18T08:00:00+00:00`, fetched `2026-09-18T08:26:38+00:00`
+  - Treffer: balance of payments, euro area, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); balance of payments (+2.5); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Euro area monthly balance of payments: July 2026
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **TSUBAME Report Overflow (Apr-Jun 2026)** — Score 13, observation — [Quelle](https://blogs.jpcert.or.jp/en/2026/09/tsubame_overflow_2026-04-06.html)
   - Quelle: JPCERT/CC English Blog Atom / `rss`
   - Zeit: published `2026-09-18T05:00:00+00:00`, fetched `2026-09-18T05:11:57+00:00`
@@ -238,6 +247,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. https://code.claude.com/docs/en/overview Claude Code Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by ex…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ECB Consumer Expectations Survey results – August 2026** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260918~295b3ab978.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-09-18T08:00:00+00:00`, fetched `2026-09-18T08:26:38+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: ECB Consumer Expectations Survey results – August 2026
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.7 - Fiji region** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti83)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
@@ -301,24 +319,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: Public Medical Hub システム利用規約（医療機関等向け）の改正について
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **古川大臣就任記者会見（令和8年9月18日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-260918-01)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-09-18T05:47:06+00:00`, fetched `2026-09-18T05:53:28+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 古川大臣就任記者会見（令和8年9月18日）動画を掲載しました
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「1合」という単位にとらわれないご飯の炊き方｜ツジメシ** — Score 5, observation — [Quelle](https://note.com/tsujimeshi/n/nf81f3a9daa1f)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-18T02:47:56+00:00`, fetched `2026-09-18T06:55:48+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: note実質1回目は、ごはんの炊き方について、です。 といっても、ご飯の美味しい炊き方については多くの方が解説されているので、ここでは味ではなく、主にに少量炊くときの利便性の話をします。 ＜結論から見たい方は下の「水加減は全体の重量で！」までスクロールしてください＞ （うちに１合の計量カップがないのでCha...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

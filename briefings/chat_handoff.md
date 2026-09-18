@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-18T07:58:39+00:00_
+_Generated: 2026-09-18T08:27:08+00:00_
 
 ## Status
 - status: `normal`
-- findings: `34`
+- findings: `36`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-09-18T07:58:39+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3419
 - summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen oder Denial-of-Service-Zustände herbeizuführen.
 
-### 5. TSUBAME Report Overflow (Apr-Jun 2026)
+### 5. Euro area monthly balance of payments: July 2026
+- source: ECB Statistical Press Releases
+- score: `13`
+- published: `2026-09-18T08:00:00+00:00`
+- url: https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp260918~ef4843e4f5.en.html
+- summary: Euro area monthly balance of payments: July 2026
+
+### 6. TSUBAME Report Overflow (Apr-Jun 2026)
 - source: JPCERT/CC English Blog Atom
 - score: `13`
 - published: `2026-09-18T05:00:00+00:00`
 - url: https://blogs.jpcert.or.jp/en/2026/09/tsubame_overflow_2026-04-06.html
 - summary: This TSUBAME Report Overflow series discusses observation trends from TSUBAME sensors both in Japan and overseas, as well as other topics not covered in the JPCERT/CC Quarterly Report. This article covers monitoring results from April to June 2026. Note: Star…
 
-### 6. M 4.7 - 40 km SSW of Sipí, Colombia
+### 7. M 4.7 - 40 km SSW of Sipí, Colombia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-09-18T06:53:54.114+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti7x
 - summary: DYFI? - III Time 2026-09-18 06:17:03 UTC 2026-09-18 06:17:03 UTC at epicenter Location 4.322°N 76.793°W Depth 68.37 km (42.49 mi)
 
-### 7. How we use AI to turn one article into audience-specific versions
+### 8. How we use AI to turn one article into audience-specific versions
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-09-18T06:00:58+00:00`
 - url: https://e27.co/how-we-use-ai-to-turn-one-article-into-audience-specific-versions-20260918/
 - summary: A founder may want the main business argument. A marketing lead may care about campaign angles. A sales lead may look for customer objections. A busy operator may only want the practical steps. The core idea can be the same, but the way it is framed often nee…
-
-### 8. How to read a VAPT report without panicking
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-09-18T05:45:15+00:00`
-- url: https://e27.co/how-to-read-a-vapt-report-without-panicking-20260823-2/
-- summary: I’ve watched the same movie play out too many times: a management team receives a penetration testing report, sees a wall of findings with scary-sounding names, and immediately assumes their platform is on fire. It’s not on fire. It’s almost never on fire. Bu…
 
 END OF DOCUMENT
