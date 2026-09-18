@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-18T09:00:30+00:00",
+  "generated_at": "2026-09-18T09:23:50+00:00",
   "events": [
     {
       "event_id": "evt_014823216e5b4b658b61",
@@ -280,12 +280,12 @@
     {
       "event_id": "evt_09434b47a53a3966aade",
       "title": "Ecosystem Roundup: The AI funding boom has a Southeast Asia-sized blind spot",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -6677,7 +6677,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_da275e7d4e672b8bea83",
@@ -7657,6 +7657,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_f1fb0aafe4ca9389f07e",
+      "title": "SBI joins dtcpay’s US$25M round to bridge Japan, SEA stablecoin corridors",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_f28cd82d792d72cfd6ec",
