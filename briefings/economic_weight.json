@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-18T04:57:05+00:00",
+  "generated_at": "2026-09-18T05:12:47+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -876,7 +876,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-14T11:31:15+00:00",
-      "last_seen_at": "2026-09-18T04:56:47+00:00",
+      "last_seen_at": "2026-09-18T05:12:31+00:00",
       "status": "active"
     },
     {
@@ -893,7 +893,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-05T01:09:44+00:00",
-      "last_seen_at": "2026-09-18T04:56:47+00:00",
+      "last_seen_at": "2026-09-18T05:12:31+00:00",
       "status": "active"
     },
     {
@@ -3528,7 +3528,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-18T04:56:47+00:00",
+      "last_seen_at": "2026-09-18T05:12:31+00:00",
       "status": "active"
     },
     {
@@ -4021,7 +4021,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-18T00:53:45+00:00",
-      "last_seen_at": "2026-09-18T04:56:47+00:00",
+      "last_seen_at": "2026-09-18T05:12:31+00:00",
       "status": "active"
     },
     {
@@ -4259,7 +4259,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-18T04:49:17+00:00",
-      "last_seen_at": "2026-09-18T04:56:47+00:00",
+      "last_seen_at": "2026-09-18T05:12:31+00:00",
       "status": "active"
     },
     {
@@ -5058,7 +5058,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-18T04:56:47+00:00",
+      "last_seen_at": "2026-09-18T05:12:31+00:00",
       "status": "active"
     },
     {
@@ -5432,7 +5432,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-18T01:15:29+00:00",
-      "last_seen_at": "2026-09-18T04:56:47+00:00",
+      "last_seen_at": "2026-09-18T05:12:31+00:00",
       "status": "active"
     },
     {
@@ -6029,6 +6029,23 @@
       "first_seen_at": "2026-09-09T08:08:20+00:00",
       "last_seen_at": "2026-09-09T23:54:37+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_524a07c790d9ea9a8e59",
+      "title": "TSUBAME Report Overflow (Apr-Jun 2026)",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "infrastructure"
+      ],
+      "p10_usd": 114400.0,
+      "p50_usd": 11440000.0,
+      "p90_usd": 1144000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-18T05:12:31+00:00",
+      "last_seen_at": "2026-09-18T05:12:31+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_2a7631f0e872d9aad503",
@@ -7812,7 +7829,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-18T04:39:50+00:00",
-      "last_seen_at": "2026-09-18T04:56:47+00:00",
+      "last_seen_at": "2026-09-18T05:12:31+00:00",
       "status": "active"
     },
     {
@@ -8050,7 +8067,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-18T03:54:52+00:00",
-      "last_seen_at": "2026-09-18T04:56:47+00:00",
+      "last_seen_at": "2026-09-18T05:12:31+00:00",
       "status": "active"
     },
     {
@@ -9005,6 +9022,23 @@
       "first_seen_at": "2026-09-17T01:54:13+00:00",
       "last_seen_at": "2026-09-17T06:57:53+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_167b383cd8de8c57b62c",
+      "title": "The AI economy is quietly exposing what organisations truly value about humans",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-18T05:12:31+00:00",
+      "last_seen_at": "2026-09-18T05:12:31+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_050660578420f6fb8ddb",
@@ -10091,7 +10125,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-18T01:38:21+00:00",
-      "last_seen_at": "2026-09-18T04:56:47+00:00",
+      "last_seen_at": "2026-09-18T05:12:31+00:00",
       "status": "active"
     },
     {
@@ -12029,7 +12063,7 @@
       "p90_usd": 1072000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-18T02:07:09+00:00",
-      "last_seen_at": "2026-09-18T04:56:47+00:00",
+      "last_seen_at": "2026-09-18T05:12:31+00:00",
       "status": "active"
     },
     {
