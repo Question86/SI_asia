@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-18T15:42:45+00:00",
+  "generated_at": "2026-09-18T15:58:09+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 80,
     "clusters": 51,
     "cross_source_confrmed": 1,
     "hot": 0,
-    "early_signals": 1,
+    "early_signals": 0,
     "dominance_penalized": 12
   },
   "clusters": [
@@ -51,46 +51,6 @@
       "first_seen_at": "2026-09-18T05:54:02+00:00"
     },
     {
-      "key": "title:should-you-read-code-rag-dead-did-skills",
-      "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
-      "sources": [
-        "GitHub Blog Atom"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/"
-      ],
-      "finding_count": 1,
-      "max_score": 16,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 23.0,
-      "hot": false,
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 18.1,
-      "ranking_score": 23.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-09-18T15:20:58+00:00"
-    },
-    {
       "key": "domain:wid.cert-bund.de",
       "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
       "sources": [
@@ -113,18 +73,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 22.23,
+      "network_score": 21.64,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 68.5,
-      "ranking_score": 22.23,
+      "ranking_score": 21.64,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 4.73,
+      "baseline_bonus": 4.14,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -132,44 +92,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-08-28T14:08:37+00:00"
-    },
-    {
-      "key": "cve:CVE-2026-87491",
-      "title": "Multiples vulnérabilités dans Microsoft Edge (14 septembre 2026)",
-      "sources": [
-        "CERT-FR Avis de sécurité"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1171/"
-      ],
-      "finding_count": 1,
-      "max_score": 19,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 21.5,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 21.1,
-      "ranking_score": 21.5,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 1.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-09-14T14:00:01+00:00"
     },
     {
       "key": "domain:www.ecb.europa.eu",
@@ -212,6 +134,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
+      "key": "cve:CVE-2026-87491",
+      "title": "Multiples vulnérabilités dans Microsoft Edge (14 septembre 2026)",
+      "sources": [
+        "CERT-FR Avis de sécurité"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1171/"
+      ],
+      "finding_count": 1,
+      "max_score": 19,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 21.46,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 21.1,
+      "ranking_score": 21.46,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.96,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-14T14:00:01+00:00"
     },
     {
       "key": "title:ecosystem-roundup-funding-boom-has-southeast-asia-sized",
@@ -290,6 +250,46 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-18T05:54:02+00:00"
+    },
+    {
+      "key": "title:should-you-read-code-rag-dead-did-skills",
+      "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+      "sources": [
+        "GitHub Blog Atom"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/"
+      ],
+      "finding_count": 1,
+      "max_score": 16,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 17.5,
+      "hot": false,
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 18.1,
+      "ranking_score": 17.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-18T15:20:58+00:00"
     },
     {
       "key": "title:cisa-ics-advisory-ics-medical-advisory-2026",
@@ -503,18 +503,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 15.19,
+      "network_score": 15.12,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 18.2,
-      "ranking_score": 15.19,
+      "ranking_score": 15.12,
       "initial_reach_tier": "institutional",
       "source_reach_score": 5.0,
       "authority_bonus_capped": 3.0,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 1.19,
+      "baseline_bonus": 1.12,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -786,18 +786,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 14.06,
+      "network_score": 13.96,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 17.3,
-      "ranking_score": 14.06,
+      "ranking_score": 13.96,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 1.56,
+      "baseline_bonus": 1.46,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -2007,7 +2007,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-18T15:42:45Z",
+    "generated_at": "2026-09-18T15:58:09Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
