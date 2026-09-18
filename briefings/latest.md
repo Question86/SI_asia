@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-18T02:07:07+00:00_
+_Generiert: 2026-09-18T02:34:11+00:00_
 
 ## Kurzlage
 
@@ -45,10 +45,10 @@ _Generiert: 2026-09-18T02:07:07+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Ecuador
-- **GDACS: Green notification for tropical cyclone DUJUAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 71450 .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001322)
+- **GDACS: Green notification for tropical cyclone DUJUAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001322)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green notification for tropical cyclone DUJUAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 71450 .
+  - Kurz: Green notification for tropical cyclone DUJUAN-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 
 ## Wirtschaft global
 

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T02:07:07+00:00",
-  "run_id": "2026-09-18T02:07:07+00:00",
+  "generated_at": "2026-09-18T02:34:11+00:00",
+  "run_id": "2026-09-18T02:34:11+00:00",
   "date": "2026-09-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 7,
     "displayed_findings": 7,
     "high": 0,
@@ -393,28 +393,7 @@
       "id": "bb43607b89f913240c01"
     }
   ],
-  "new_findings": [
-    {
-      "title": "What Maybank’s US$10B bet reveals about market readiness: A view from two emerging ecosystems",
-      "url": "https://e27.co/what-maybanks-us10b-bet-reveals-about-market-readiness-a-view-from-two-emerging-ecosystems-20260915/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-18T02:00:38+00:00",
-      "fetched_at": "2026-09-18T02:06:35+00:00",
-      "summary": "Part of my work as an international market expansion specialist, supporting government and companies in the process of promoting and attracting opportunities, is reading a market’s readiness not just through headlines, but through the infrastructure underneath: banking systems, regulatory friction, and the everyday experience of the people actually trying to operate there. That’s what pulled […] The post What Mayban…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "bb43607b89f913240c01"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
