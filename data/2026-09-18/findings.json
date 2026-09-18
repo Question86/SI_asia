@@ -143,6 +143,43 @@
     "id": "7558778822769b3a9cc4"
   },
   {
+    "title": "M 5.0 - Izu Islands, Japan region",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti89",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-09-18T07:41:22.040+00:00",
+    "fetched_at": "2026-09-18T07:42:43+00:00",
+    "summary": "Time 2026-09-18 07:19:28 UTC 2026-09-18 07:19:28 UTC at epicenter Location 32.243°N 141.576°E Depth 35.29 km (21.93 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "291c3fc16f06845a811b"
+  },
+  {
     "title": "GSMA says smartphone costs could deepen the coming AI divide",
     "url": "https://e27.co/gsma-says-smartphone-costs-could-deepen-the-coming-ai-divide-20260918/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -259,6 +296,29 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "8d5cc81931188d2a1515"
+  },
+  {
+    "title": "[UPDATE] [mittel] Keycloak: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3418",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-18T07:26:31+00:00",
+    "fetched_at": "2026-09-18T07:42:43+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Keycloak ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um seine Privilegien zu erhöhen, um einen Denial of Service Angriff durchzuführen und um Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "cfcf67ca7f2a988e2a54"
   },
   {
     "title": "[UPDATE] [kritisch] vm2: Mehrere Schwachstellen",
