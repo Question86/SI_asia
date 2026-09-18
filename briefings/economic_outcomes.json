@@ -1,7 +1,18 @@
 {
   "version": 1,
-  "generated_at": "2026-09-18T13:29:49+00:00",
+  "generated_at": "2026-09-18T13:48:32+00:00",
   "events": [
+    {
+      "event_id": "evt_010865faf79d8c1f952b",
+      "title": "M 4.6 - 12 km SE of La Parguera, Puerto Rico",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
     {
       "event_id": "evt_014823216e5b4b658b61",
       "title": "Multiples vulnérabilités dans Postfix (09 septembre 2026)",
@@ -143,7 +154,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_05e942d062d6ba3c45b9",
@@ -2871,7 +2882,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_626d8a2c1716a9eae3bd",
@@ -3316,13 +3327,13 @@
     {
       "event_id": "evt_6eefe27dd6d336605c66",
       "title": "M 4.6 - 3 km SW of Guánica, Puerto Rico",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_6ef9858e5729ad423588",
