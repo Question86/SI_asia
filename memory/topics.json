@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-18T07:51:13+00:00",
+  "generated_at": "2026-09-18T07:58:39+00:00",
   "topics": {
     "ai": [
       {
@@ -128,6 +128,13 @@
         "url": "https://jvn.jp/vu/JVNVU91030326/"
       },
       {
+        "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (corosync, libevent, libsoup): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-18T07:47:27+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3419"
+      },
+      {
         "title": "[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-18T07:11:31+00:00",
@@ -161,6 +168,13 @@
         "published_at": "2026-09-18T05:51:31+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3071"
+      },
+      {
+        "title": "Root-Sicherheitslücke gefährdet Check Point Security Management and Log Servers",
+        "source": "heise Security Alerts",
+        "published_at": "2026-09-18T07:47:00.000+00:00",
+        "relevance_score": 8,
+        "url": "https://www.heise.de/news/Root-Sicherheitsluecke-gefaehrdet-Check-Point-Security-Management-and-Log-Servers-11457947.html"
       }
     ],
     "general": [

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T07:51:13+00:00",
-  "run_id": "2026-09-18T07:51:13+00:00",
+  "generated_at": "2026-09-18T07:58:39+00:00",
+  "run_id": "2026-09-18T07:58:39+00:00",
   "date": "2026-09-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 32
+      "configured_public_sources_only": 34
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 32,
-    "displayed_findings": 32,
+    "new_relevant_findings": 2,
+    "today_file_total": 34,
+    "displayed_findings": 34,
     "high": 0,
-    "medium": 13,
-    "observe": 19,
+    "medium": 14,
+    "observe": 20,
     "source_errors": 0
   },
   "sections": {
@@ -147,6 +147,30 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "c3549576b76ed359ed26"
+      },
+      {
+        "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (corosync, libevent, libsoup): Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3419",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-18T07:47:27+00:00",
+        "fetched_at": "2026-09-18T07:58:08+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen oder Denial-of-Service-Zustände herbeizuführen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Linux",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "9350b1f9f54b6eb6ac64"
       },
       {
         "title": "[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen",
@@ -678,6 +702,26 @@
         "id": "47aa53e826c8f3a0036f"
       },
       {
+        "title": "Root-Sicherheitslücke gefährdet Check Point Security Management and Log Servers",
+        "url": "https://www.heise.de/news/Root-Sicherheitsluecke-gefaehrdet-Check-Point-Security-Management-and-Log-Servers-11457947.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-09-18T07:47:00.000+00:00",
+        "fetched_at": "2026-09-18T07:58:08+00:00",
+        "summary": "Ein Sicherheitsupdate schließt eine kritische Schadcode-Schwachstelle in Check Point Security Management and Log Servers.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Security (+7.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e0208695c401ed2e6504"
+      },
+      {
         "title": "Boris Vujčić: Interview with Reuters",
         "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260918~33f023fe26.en.html",
         "source": "ECB Press Releases Speeches Interviews",
@@ -1003,6 +1047,30 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "c3549576b76ed359ed26"
+    },
+    {
+      "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (corosync, libevent, libsoup): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3419",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-18T07:47:27+00:00",
+      "fetched_at": "2026-09-18T07:58:08+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen oder Denial-of-Service-Zustände herbeizuführen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "9350b1f9f54b6eb6ac64"
     },
     {
       "title": "[UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen",
@@ -1532,6 +1600,26 @@
       "id": "47aa53e826c8f3a0036f"
     },
     {
+      "title": "Root-Sicherheitslücke gefährdet Check Point Security Management and Log Servers",
+      "url": "https://www.heise.de/news/Root-Sicherheitsluecke-gefaehrdet-Check-Point-Security-Management-and-Log-Servers-11457947.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-09-18T07:47:00.000+00:00",
+      "fetched_at": "2026-09-18T07:58:08+00:00",
+      "summary": "Ein Sicherheitsupdate schließt eine kritische Schadcode-Schwachstelle in Check Point Security Management and Log Servers.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Security (+7.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e0208695c401ed2e6504"
+    },
+    {
       "title": "Boris Vujčić: Interview with Reuters",
       "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260918~33f023fe26.en.html",
       "source": "ECB Press Releases Speeches Interviews",
@@ -1739,26 +1827,48 @@
   ],
   "new_findings": [
     {
-      "title": "ISC BINDにおける複数の脆弱性（2026年9月）",
-      "url": "https://jvn.jp/vu/JVNVU97703430/",
-      "source": "JVN Japan Vulnerability Notes",
+      "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (corosync, libevent, libsoup): Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3419",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-09-18T16:45:00+09:00",
-      "fetched_at": "2026-09-18T07:50:42+00:00",
-      "summary": "ISC（Internet Systems Consortium）から、ISC BINDの複数の脆弱性が公開されました。",
+      "published_at": "2026-09-18T07:47:27+00:00",
+      "fetched_at": "2026-09-18T07:58:08+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen oder Denial-of-Service-Zustände herbeizuführen.",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "JVN",
+        "BSI",
+        "CERT-Bund",
+        "Linux",
+        "Schwachstelle",
         "Security"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "relevance_score": 16,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "aed280378bae467d4801"
+      "id": "9350b1f9f54b6eb6ac64"
+    },
+    {
+      "title": "Root-Sicherheitslücke gefährdet Check Point Security Management and Log Servers",
+      "url": "https://www.heise.de/news/Root-Sicherheitsluecke-gefaehrdet-Check-Point-Security-Management-and-Log-Servers-11457947.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-09-18T07:47:00.000+00:00",
+      "fetched_at": "2026-09-18T07:58:08+00:00",
+      "summary": "Ein Sicherheitsupdate schließt eine kritische Schadcode-Schwachstelle in Check Point Security Management and Log Servers.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Security (+7.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e0208695c401ed2e6504"
     }
   ],
   "source_errors": [],
