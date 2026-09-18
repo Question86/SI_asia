@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-18T00:54:03+00:00",
+  "generated_at": "2026-09-18T01:15:47+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -3528,7 +3528,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-18T00:53:45+00:00",
+      "last_seen_at": "2026-09-18T01:15:29+00:00",
       "status": "active"
     },
     {
@@ -4008,6 +4008,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_b7b75ab2afd481834d5f",
+      "title": "DokployにおけるOSコマンドインジェクションの脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-18T00:53:45+00:00",
+      "last_seen_at": "2026-09-18T01:15:29+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_c39c68387b68393d229a",
       "title": "Hugging Face製Transformersにおけるユーザー同意確認前のリモートコード不正キャッシュの脆弱性",
       "event_classes": [
@@ -4142,23 +4159,6 @@
       "first_seen_at": "2026-09-16T03:09:18+00:00",
       "last_seen_at": "2026-09-16T23:55:27+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_b7b75ab2afd481834d5f",
-      "title": "DokployにおけるOSコマンドインジェクションの脆弱性",
-      "event_classes": [
-        "vulnerability"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 288000.0,
-      "p50_usd": 28800000.0,
-      "p90_usd": 2880000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-18T00:53:45+00:00",
-      "last_seen_at": "2026-09-18T00:53:45+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_2f5c3cffbb9951edd868",
@@ -5041,7 +5041,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-18T00:53:45+00:00",
+      "last_seen_at": "2026-09-18T01:15:29+00:00",
       "status": "active"
     },
     {
@@ -5723,6 +5723,23 @@
       "first_seen_at": "2026-09-15T05:35:26+00:00",
       "last_seen_at": "2026-09-15T23:55:14+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_070b081f5eeabbc39c41",
+      "title": "The founder-to-minister pivot isn’t the problem, ASEAN’s missing governance infrastructure is",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "infrastructure"
+      ],
+      "p10_usd": 115200.0,
+      "p50_usd": 11520000.0,
+      "p90_usd": 1152000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-18T01:15:29+00:00",
+      "last_seen_at": "2026-09-18T01:15:29+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_0fe6fa9731ff84e108db",
