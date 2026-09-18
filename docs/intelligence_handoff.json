@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-18T03:41:28Z",
+  "generated_at": "2026-09-18T03:51:20Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “CISA ICS Advisory / ICS Medical Advisory（2026年09月17日）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://jvn.jp/vu/JVNVU91030326/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-18T09:30:15+09:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -41,7 +41,7 @@
       "url": "https://jvn.jp/vu/JVNVU94707104/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-18T09:30:00+09:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "security"
       ],
@@ -91,7 +91,7 @@
       "url": "https://e27.co/the-founder-to-minister-pivot-isnt-the-problem-aseans-missing-governance-infrastructure-is-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-18T01:15:29+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -139,7 +139,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti70",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-14T11:31:15+00:00",
-      "age_days": 3.67,
+      "age_days": 3.68,
       "topics": [
         "general"
       ],
@@ -188,7 +188,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti79",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-18T02:40:23.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -212,7 +212,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti70",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-18T01:28:31.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -236,7 +236,7 @@
       "url": "https://jvn.jp/vu/JVNVU91030326/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 91.07,
+      "age_days": 91.08,
       "topics": [
         "general"
       ],
@@ -261,7 +261,7 @@
       "url": "https://e27.co/the-founder-to-minister-pivot-isnt-the-problem-aseans-missing-governance-infrastructure-is-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-18T01:00:01+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "macro"
       ],
@@ -285,23 +285,23 @@
       "url": "https://openai.com/index/cooley-gopublic",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 92.29,
+      "age_days": 92.3,
       "topics": [
         "general"
       ],
-      "dynamics_score": 9.74,
+      "dynamics_score": 9.69,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.67,
+      "baseline_z_hint": 0.63,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 0.67",
+        "baseline z_hint 0.63",
         "aging penalty -8.0 for 92.3d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
