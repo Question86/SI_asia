@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T11:54:13+00:00",
-  "run_id": "2026-09-18T11:54:13+00:00",
+  "generated_at": "2026-09-18T12:02:19+00:00",
+  "run_id": "2026-09-18T12:02:19+00:00",
   "date": "2026-09-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 59,
     "displayed_findings": 59,
     "high": 0,
@@ -2955,29 +2955,7 @@
       "id": "bb43607b89f913240c01"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Atlassian: Angreifer können Confluence Data Center ausspionieren",
-      "url": "https://www.heise.de/news/Atlassian-Angreifer-koennen-Confluence-Data-Center-ausspionieren-11458267.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-09-18T11:41:00.000+00:00",
-      "fetched_at": "2026-09-18T11:53:40+00:00",
-      "summary": "Atlassian hat zahlreiche Sicherheitslücken in Bitbucket, Jira & Co. geschlossen. Admins sollten die verfügbaren Sicherheitspatches zeitnah installieren.",
-      "matched_keywords": [
-        "Security",
-        "Webentwicklung"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Security (+6.0); Webentwicklung (+3.8); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0f877dd0e3c9a7892a5c"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
