@@ -346,6 +346,29 @@
     "id": "aed280378bae467d4801"
   },
   {
+    "title": "[UPDATE] [mittel] libTIFF: Schwachstelle ermöglicht Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3338",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-18T09:56:59+00:00",
+    "fetched_at": "2026-09-18T09:59:06+00:00",
+    "summary": "Ein lokaler Angreifer kann eine Schwachstelle in libTIFF ausnutzen, um einen Denial-of-Service-Zustand oder eine Speicherbeschädigung zu verursachen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "3906f80c20a4650e31d5"
+  },
+  {
     "title": "[UPDATE] [mittel] Internet Systems Consortium BIND: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3420",
     "source": "BSI CERT-Bund Security Advisories",
