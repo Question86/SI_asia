@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-18T14:35:13+00:00_
+_Generiert: 2026-09-18T14:45:42+00:00_
 
 ## Kurzlage
 
@@ -9,6 +9,14 @@ _Generiert: 2026-09-18T14:35:13+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2025-39964 Linux Kernel** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-09-18`
+  - Kurz: Known exploited vulnerability. Added 2026-09-18. Due 2026-09-21. Linux Kernel Race Condition Vulnerability
+- **CISA KEV: CVE-2026-53266 Linux Kernel** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-09-18`
+  - Kurz: Known exploited vulnerability. Added 2026-09-18. Due 2026-09-21. Linux Kernel Out-of-Bounds Write Vulnerability
 - **CISA KEV: CVE-2026-58704 Google Pixel** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-09-16`
@@ -21,14 +29,6 @@ _Generiert: 2026-09-18T14:35:13+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-16`
   - Kurz: Known exploited vulnerability. Added 2026-09-16. Due 2026-09-19. Acronis Backup Incorrect Default Permissions Vulnerability
-- **CISA KEV: CVE-2026-76461 Cisco Secure Email Gateway** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-14`
-  - Kurz: Known exploited vulnerability. Added 2026-09-14. Due 2026-09-17. Cisco Secure Email Gateway SQL Injection Vulnerability
-- **CISA KEV: CVE-2026-84869 ConnectWise ScreenConnect** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-11`
-  - Kurz: Known exploited vulnerability. Added 2026-09-11. Due 2026-09-14. ConnectWise ScreenConnect Improper Privilege Management and Missing Authorization Vulnerability
 - **GDACS: Green flood alert in Thailand** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104169)
   - Quelle: GDACS
   - Zeit: ``
