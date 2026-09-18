@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-09-18T05:47:07+00:00`
+Generated: `2026-09-18T05:54:30+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -25,7 +25,7 @@ Generated: `2026-09-18T05:47:07+00:00`
 | AWSをゲームで学べる「AWS Cloud Quest」に新バージョン「AWS Cloud Quest 2.0」登場！ AIによるバーチャル顧客と対話し、要件を聞き出して正しくソリューションに落とし込め | $0 | — | 0 | 0 | dormant |
 | New API endpoint provides privacy-safe star history data | $0 | — | 0 | 0 | dormant |
 | JetBrains/go-modern-guidelines | $0 | — | 0 | 0 | dormant |
+| 古川大臣就任記者会見（令和8年9月18日）動画を掲載しました | $0 | — | 0 | 0 | active |
 | M 5.1 - 81 km ESE of Isangel, Vanuatu | $0 | — | 0 | 0 | dormant |
 | 松本大臣記者会見（令和8年9月11日）動画を掲載しました | $0 | — | 0 | 0 | dormant |
 | M 5.6 - 82 km SE of Maba, Indonesia | $0 | — | 0 | 0 | dormant |
-| The ecosystem map: How to stay agile in the US-China AI battle | $0 | — | 0 | 0 | dormant |
