@@ -263,6 +263,29 @@
     "id": "7558778822769b3a9cc4"
   },
   {
+    "title": "[UPDATE] [hoch] IBM Security Verify Access: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2253",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-18T11:36:33+00:00",
+    "fetched_at": "2026-09-18T11:39:00+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM Security Verify Access ausnutzen, um erweiterte Berechtigungen zu erlangen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren, sensible Informationen offenzulegen und andere, nicht näher bezeichnete Angriffe durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "27b056d125d4a6a69945"
+  },
+  {
     "title": "M 5.0 - Izu Islands, Japan region",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti89",
     "source": "USGS M4.5+ Earthquakes Past Hour",
