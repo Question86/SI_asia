@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T09:44:44+00:00",
-  "run_id": "2026-09-18T09:44:44+00:00",
+  "generated_at": "2026-09-18T09:52:24+00:00",
+  "run_id": "2026-09-18T09:52:24+00:00",
   "date": "2026-09-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 40
+      "configured_public_sources_only": 41
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 40,
-    "displayed_findings": 40,
+    "today_file_total": 41,
+    "displayed_findings": 41,
     "high": 0,
     "medium": 16,
-    "observe": 24,
+    "observe": 25,
     "source_errors": 0
   },
   "sections": {
@@ -994,6 +994,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "17230b5aacac19dfe1cf"
+      },
+      {
+        "title": "自転車の空気入れが超ラクに! 愛車すべてをクリックバルブ対応にしよう",
+        "url": "https://kaden.watch.impress.co.jp/docs/column/ebike-everyday/2130387.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-18T02:50:58+00:00",
+        "fetched_at": "2026-09-18T09:51:54+00:00",
+        "summary": "自転車の空気入れが超ラクに! 愛車すべてをクリックバルブ対応にしよう",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "42526bffbc5cd0ecae43"
       },
       {
         "title": "「1合」という単位にとらわれないご飯の炊き方｜ツジメシ",
@@ -2025,6 +2046,27 @@
       "id": "17230b5aacac19dfe1cf"
     },
     {
+      "title": "自転車の空気入れが超ラクに! 愛車すべてをクリックバルブ対応にしよう",
+      "url": "https://kaden.watch.impress.co.jp/docs/column/ebike-everyday/2130387.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-18T02:50:58+00:00",
+      "fetched_at": "2026-09-18T09:51:54+00:00",
+      "summary": "自転車の空気入れが超ラクに! 愛車すべてをクリックバルブ対応にしよう",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "42526bffbc5cd0ecae43"
+    },
+    {
       "title": "「1合」という単位にとらわれないご飯の炊き方｜ツジメシ",
       "url": "https://note.com/tsujimeshi/n/nf81f3a9daa1f",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2089,27 +2131,25 @@
   ],
   "new_findings": [
     {
-      "title": "[UPDATE] [mittel] Internet Systems Consortium BIND: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3420",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "自転車の空気入れが超ラクに! 愛車すべてをクリックバルブ対応にしよう",
+      "url": "https://kaden.watch.impress.co.jp/docs/column/ebike-everyday/2130387.html",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-18T09:41:31+00:00",
-      "fetched_at": "2026-09-18T09:44:16+00:00",
-      "summary": "Ein entfernter Angreifer kann mehrere Schwachstellen in Internet Systems Consortium BIND ausnutzen, um Daten zu manipulieren, Sicherheitsmaßnahmen zu umgehen oder Denial-of-Service-Zustände herbeizuführen.",
+      "published_at": "2026-09-18T02:50:58+00:00",
+      "fetched_at": "2026-09-18T09:51:54+00:00",
+      "summary": "自転車の空気入れが超ラクに! 愛車すべてをクリックバルブ対応にしよう",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "f08453f6c77d04456b94"
+      "id": "42526bffbc5cd0ecae43"
     }
   ],
   "source_errors": [],
