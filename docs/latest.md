@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-18T06:01:29+00:00_
+_Generiert: 2026-09-18T06:35:22+00:00_
 
 ## Kurzlage
 
-21 neue relevante Treffer. Stärkstes Signal: „Tencent/BrowserSkill“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+25 neue relevante Treffer. Stärkstes Signal: „Tencent/BrowserSkill“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
 
 ## Priorität Hoch
 
@@ -105,6 +105,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); JPCERT (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: This TSUBAME Report Overflow series discusses observation trends from TSUBAME sensors both in Japan and overseas, as well as other topics not covered in the JPCERT/CC Quarterly Report. This article covers monitoring results from April to June 2026. Note: Starting...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **How we use AI to turn one article into audience-specific versions** — Score 10, observation — [Quelle](https://e27.co/how-we-use-ai-to-turn-one-article-into-audience-specific-versions-20260918/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-18T06:00:58+00:00`, fetched `2026-09-18T06:34:55+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, founder
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0)
+  - Kurz: A founder may want the main business argument. A marketing lead may care about campaign angles. A sales lead may look for customer objections. A busy operator may only want the practical steps. The core idea can be the same, but the way it is framed often needs to change. That was the problem we […] The post How we use AI to turn one article into audience-specific versions appeared first on e27 .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **How to read a VAPT report without panicking** — Score 10, observation — [Quelle](https://e27.co/how-to-read-a-vapt-report-without-panicking-20260823-2/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-18T05:45:15+00:00`, fetched `2026-09-18T05:45:57+00:00`
@@ -123,15 +132,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); funding (+2.5); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Crunchbase’s numbers for the first half of 2026 are the kind that are supposed to make an entire industry feel good. Global venture funding hit US$510 billion, beating the whole of 2025 in six months and smashing the previous half-year record of US$375 billion set in the second half of 2021. Startup capital, by the […] The post When 43 per cent of the world’s funding goes to two firms, where does that leave SEA? app…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Did the Fed just accidentally kick off the next crypto bull run? Or just a dead cat bounce?** — Score 10, observation — [Quelle](https://e27.co/did-the-fed-just-accidentally-kick-off-the-next-crypto-bull-run-or-just-a-dead-cat-bounce-20260918/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-18T04:38:05+00:00`, fetched `2026-09-18T04:39:14+00:00`
-  - Treffer: APAC Trend Radar, Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: On September 18, 2026, global markets rose together. Asian stocks and bonds gained as oil extended its decline. European equities climbed. The STOXX 600 rose 0.9 per cent to 642.6 points. Mining and automotive sectors led those gains. The FTSE index gained 1.2 per cent. That marked its best one-day performance in over two months. […] The post Did the Fed just accidentally kick off the next crypto bull run? Or just a…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **anthropics/claude-code** — Score 10, observation — [Quelle](https://github.com/anthropics/claude-code)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-09-18T05:53:28+00:00`
@@ -140,6 +140,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. https://code.claude.com/docs/en/overview Claude Code Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by ex…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Boris Vujčić: Interview with Reuters** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260918~33f023fe26.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-09-18T06:00:00+00:00`, fetched `2026-09-18T06:34:55+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Boris Vujčić: Interview with Reuters
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **今話題のAI「Jev」って何？ 宇宙最速で学ぶ会** — Score 8, observation — [Quelle](https://speakerdeck.com/minorun365/konwadai-no-ai-jev-tte-nani-uchuu-saisoku-de-manabu-kai)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -158,6 +167,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+7.5); recent (+1.0)
   - Kurz: Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ガバメントAI 源内OSS Ver 2.0の計画に関する全国オンライン説明会を開催しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/e525db0b-eac1-49e2-9ef4-6d2e24208498)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-09-18T06:00:00+00:00`, fetched `2026-09-18T06:34:55+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: ガバメントAI 源内OSS Ver 2.0の計画に関する全国オンライン説明会を開催しました
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Public Medical Hub システム利用規約（医療機関等向け）の改正について** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/6ab83796-e631-4c64-ba13-9b3938056693)
+  - Quelle: Japan Digital Agency News RSS / `rss`
+  - Zeit: published `2026-09-18T06:00:00+00:00`, fetched `2026-09-18T06:34:55+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: Public Medical Hub システム利用規約（医療機関等向け）の改正について
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **古川大臣就任記者会見（令和8年9月18日）動画を掲載しました** — Score 6, observation — [Quelle](https://www.digital.go.jp/speech/minister-260918-01)
   - Quelle: Japan Digital Agency News RSS / `rss`
