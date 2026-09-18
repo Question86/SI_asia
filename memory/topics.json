@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-18T10:32:36+00:00",
+  "generated_at": "2026-09-18T10:43:08+00:00",
   "topics": {
     "ai": [
       {
@@ -121,6 +121,13 @@
     ],
     "security": [
       {
+        "title": "[NEU] [mittel] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-18T10:31:31+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3444"
+      },
+      {
         "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (libsoup): Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-18T10:06:34+00:00",
@@ -156,6 +163,13 @@
         "url": "https://jvn.jp/vu/JVNVU97703430/"
       },
       {
+        "title": "[NEU] [mittel] libxml2: Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-18T10:31:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3445"
+      },
+      {
         "title": "[NEU] [hoch] Google Chrome: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-18T10:26:31+00:00",
@@ -175,20 +189,78 @@
         "published_at": "2026-09-18T10:06:34+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0843"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "[NEU] [mittel] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-18T10:31:31+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3444"
       },
       {
-        "title": "[UPDATE] [mittel] libTIFF: Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-18T09:56:59+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3338"
+        "title": "GSMA says smartphone costs could deepen the coming AI divide",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-18T06:00:04+00:00",
+        "relevance_score": 15,
+        "url": "https://e27.co/gsma-says-smartphone-costs-could-deepen-the-coming-ai-divide-20260918/"
       },
       {
-        "title": "[UPDATE] [mittel] Internet Systems Consortium BIND: Mehrere Schwachstellen",
+        "title": "[NEU] [mittel] libxml2: Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-18T09:41:31+00:00",
+        "published_at": "2026-09-18T10:31:31+00:00",
         "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3420"
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3445"
+      },
+      {
+        "title": "[NEU] [hoch] Google Chrome: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-18T10:26:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3443"
+      },
+      {
+        "title": "The founder-to-minister pivot isn’t the problem, ASEAN’s missing governance infrastructure is",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-18T01:00:01+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/the-founder-to-minister-pivot-isnt-the-problem-aseans-missing-governance-infrastructure-is-20260916/"
+      },
+      {
+        "title": "Euro area monthly balance of payments: July 2026",
+        "source": "ECB Statistical Press Releases",
+        "published_at": "2026-09-18T08:00:00+00:00",
+        "relevance_score": 13,
+        "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp260918~ef4843e4f5.en.html"
+      },
+      {
+        "title": "Did the Fed just accidentally kick off the next crypto bull run? Or just a dead cat bounce?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-18T04:38:05+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/did-the-fed-just-accidentally-kick-off-the-next-crypto-bull-run-or-just-a-dead-cat-bounce-20260918/"
+      },
+      {
+        "title": "ECB Consumer Expectations Survey results – August 2026",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-09-18T08:00:00+00:00",
+        "relevance_score": 9,
+        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260918~295b3ab978.en.html"
+      },
+      {
+        "title": "Boris Vujčić: Interview with Reuters",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-09-18T06:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260918~33f023fe26.en.html"
+      },
+      {
+        "title": "What Maybank’s US$10B bet reveals about market readiness: A view from two emerging ecosystems",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-18T02:00:38+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/what-maybanks-us10b-bet-reveals-about-market-readiness-a-view-from-two-emerging-ecosystems-20260915/"
       }
     ],
     "general": [
@@ -261,64 +333,6 @@
         "published_at": "2026-09-18T02:47:56+00:00",
         "relevance_score": 5,
         "url": "https://note.com/tsujimeshi/n/nf81f3a9daa1f"
-      }
-    ],
-    "geopolitics": [
-      {
-        "title": "GSMA says smartphone costs could deepen the coming AI divide",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-18T06:00:04+00:00",
-        "relevance_score": 15,
-        "url": "https://e27.co/gsma-says-smartphone-costs-could-deepen-the-coming-ai-divide-20260918/"
-      },
-      {
-        "title": "[NEU] [hoch] Google Chrome: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-18T10:26:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3443"
-      },
-      {
-        "title": "The founder-to-minister pivot isn’t the problem, ASEAN’s missing governance infrastructure is",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-18T01:00:01+00:00",
-        "relevance_score": 14,
-        "url": "https://e27.co/the-founder-to-minister-pivot-isnt-the-problem-aseans-missing-governance-infrastructure-is-20260916/"
-      },
-      {
-        "title": "Euro area monthly balance of payments: July 2026",
-        "source": "ECB Statistical Press Releases",
-        "published_at": "2026-09-18T08:00:00+00:00",
-        "relevance_score": 13,
-        "url": "https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp260918~ef4843e4f5.en.html"
-      },
-      {
-        "title": "Did the Fed just accidentally kick off the next crypto bull run? Or just a dead cat bounce?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-18T04:38:05+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/did-the-fed-just-accidentally-kick-off-the-next-crypto-bull-run-or-just-a-dead-cat-bounce-20260918/"
-      },
-      {
-        "title": "ECB Consumer Expectations Survey results – August 2026",
-        "source": "ECB Press Releases Speeches Interviews",
-        "published_at": "2026-09-18T08:00:00+00:00",
-        "relevance_score": 9,
-        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260918~295b3ab978.en.html"
-      },
-      {
-        "title": "Boris Vujčić: Interview with Reuters",
-        "source": "ECB Press Releases Speeches Interviews",
-        "published_at": "2026-09-18T06:00:00+00:00",
-        "relevance_score": 8,
-        "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260918~33f023fe26.en.html"
-      },
-      {
-        "title": "What Maybank’s US$10B bet reveals about market readiness: A view from two emerging ecosystems",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-18T02:00:38+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/what-maybanks-us10b-bet-reveals-about-market-readiness-a-view-from-two-emerging-ecosystems-20260915/"
       }
     ],
     "economy": [

@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-18T10:32:39+00:00",
-  "today_file_total": 47,
+  "generated_at": "2026-09-18T10:43:12+00:00",
+  "today_file_total": 50,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
-      "title": "[UPDATE] [hoch] Red Hat Enterprise Linux (libsoup): Mehrere Schwachstellen",
+      "title": "[NEU] [mittel] Linux Kernel: Mehrere Schwachstellen",
       "sources": [
         "BSI CERT-Bund Security Advisories"
       ],
@@ -12,20 +12,20 @@
         "tier3_specialist"
       ],
       "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3444",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0305",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3419",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3380",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3443",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1159",
-        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0843"
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3445",
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3443"
       ],
-      "finding_count": 10,
+      "finding_count": 12,
       "max_score": 16,
-      "credibility_total": 10.5,
+      "credibility_total": 12.6,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
+      "momentum_delta": 2,
       "momentum_status": "increasing",
-      "network_score": 40.0,
+      "network_score": 47.2,
       "hot": true,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
@@ -322,6 +322,29 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
+      "key": "domain:www.twcert.org",
+      "title": "桓基科技｜OAKlouds - 存在2個漏洞",
+      "sources": [
+        "TWCERT/CC TVN Vulnerability Notes RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.twcert.org.tw/tw/cp-132-11210-11cb0-1.html"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 16.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
       "key": "title:tsubame-report-overflow-apr-jun-2026",
       "title": "TSUBAME Report Overflow (Apr-Jun 2026)",
       "sources": [
@@ -461,29 +484,6 @@
       "watchgraph_modules": [
         "capitals_power_centers"
       ],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:did-fed-just-accidentally-kick-off-next-crypto",
-      "title": "Did the Fed just accidentally kick off the next crypto bull run? Or just a dead cat bounce?",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/did-the-fed-just-accidentally-kick-off-the-next-crypto-bull-run-or-just-a-dead-cat-bounce-20260918/"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 12.1,
-      "hot": false,
-      "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     }
   ]
