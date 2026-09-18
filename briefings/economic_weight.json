@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-17T23:59:35+00:00",
+  "generated_at": "2026-09-18T00:54:03+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -330,7 +330,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-17T17:39:26+00:00",
       "last_seen_at": "2026-09-17T23:59:20+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_75e4a763fc2490608331",
@@ -945,7 +945,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-04T05:31:26+00:00",
       "last_seen_at": "2026-09-17T23:59:20+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_c3299ce8e5250f27b3ad",
@@ -1472,7 +1472,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-17T14:34:48+00:00",
       "last_seen_at": "2026-09-17T23:59:20+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_43dc847ef4b3c7d64f98",
@@ -2067,7 +2067,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-17T14:45:24+00:00",
       "last_seen_at": "2026-09-17T23:59:20+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_f0ac46f40882508b5efa",
@@ -3495,7 +3495,7 @@
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-09-17T23:59:20+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_f8de791871e85abc0655",
@@ -3528,8 +3528,8 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-16T23:55:27+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-09-18T00:53:45+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_6bd9db655618cf846ffa",
@@ -3716,7 +3716,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-17T05:01:53+00:00",
       "last_seen_at": "2026-09-17T23:59:20+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_58f5233cfe81d2f20f2f",
@@ -3954,7 +3954,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-17T01:02:39+00:00",
       "last_seen_at": "2026-09-17T23:59:20+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_abb5a25f84aca61d4a54",
@@ -4056,7 +4056,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-17T01:02:39+00:00",
       "last_seen_at": "2026-09-17T23:59:20+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_cdd40d6d8c9a9b73ed8f",
@@ -4142,6 +4142,23 @@
       "first_seen_at": "2026-09-16T03:09:18+00:00",
       "last_seen_at": "2026-09-16T23:55:27+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_b7b75ab2afd481834d5f",
+      "title": "DokployにおけるOSコマンドインジェクションの脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-18T00:53:45+00:00",
+      "last_seen_at": "2026-09-18T00:53:45+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_2f5c3cffbb9951edd868",
@@ -4753,7 +4770,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-17T22:19:38+00:00",
       "last_seen_at": "2026-09-17T23:59:20+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_4d63c766d1a3ce54fc2b",
@@ -5008,7 +5025,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-13T17:38:29+00:00",
       "last_seen_at": "2026-09-17T23:59:20+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_9ed1bb780b2101265c00",
@@ -5024,8 +5041,8 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-16T23:55:27+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-09-18T00:53:45+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_a71916846dd64406ffc2",
@@ -5076,7 +5093,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-17T03:15:18+00:00",
       "last_seen_at": "2026-09-17T23:59:20+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_c269eeb694e7b53bd5ce",
@@ -5654,7 +5671,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-17T12:27:55+00:00",
       "last_seen_at": "2026-09-17T23:59:20+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_e3d2c52dc5b9bdf7f078",
@@ -6079,7 +6096,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-17T23:43:48+00:00",
       "last_seen_at": "2026-09-17T23:59:20+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_6f6660fed98a0b91454c",
@@ -6113,7 +6130,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-17T02:56:43+00:00",
       "last_seen_at": "2026-09-17T23:59:20+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_838dc66329a201a435ed",
@@ -6130,7 +6147,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-17T04:10:16+00:00",
       "last_seen_at": "2026-09-17T23:59:20+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_83d565fc838495a8dbed",
@@ -6164,7 +6181,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-17T06:36:33+00:00",
       "last_seen_at": "2026-09-17T23:59:20+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_9456487d5a1476b33ffb",
@@ -6249,7 +6266,7 @@
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-09-17T23:59:20+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_b829f0ea9ec991d5011b",
@@ -6895,7 +6912,7 @@
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T22:15:36+00:00",
       "last_seen_at": "2026-09-17T23:59:20+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_b485f903de3649c75cda",
@@ -6963,7 +6980,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T10:20:20+00:00",
       "last_seen_at": "2026-09-17T23:59:20+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_d44ba16b5cae98333f94",
@@ -7048,7 +7065,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-17T01:33:00+00:00",
       "last_seen_at": "2026-09-17T23:59:20+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_f8c820dc2fe980be70d5",
