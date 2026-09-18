@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-18T01:15:47+00:00",
+  "generated_at": "2026-09-18T01:38:40+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -876,8 +876,8 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-14T11:31:15+00:00",
-      "last_seen_at": "2026-09-14T23:55:11+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-09-18T01:38:21+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_8791ef1d70e8b95e43a7",
@@ -3528,7 +3528,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-18T01:15:29+00:00",
+      "last_seen_at": "2026-09-18T01:38:21+00:00",
       "status": "active"
     },
     {
@@ -4021,7 +4021,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-18T00:53:45+00:00",
-      "last_seen_at": "2026-09-18T01:15:29+00:00",
+      "last_seen_at": "2026-09-18T01:38:21+00:00",
       "status": "active"
     },
     {
@@ -5041,7 +5041,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-18T01:15:29+00:00",
+      "last_seen_at": "2026-09-18T01:38:21+00:00",
       "status": "active"
     },
     {
@@ -5402,6 +5402,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_070b081f5eeabbc39c41",
+      "title": "The founder-to-minister pivot isn’t the problem, ASEAN’s missing governance infrastructure is",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "infrastructure"
+      ],
+      "p10_usd": 115200.0,
+      "p50_usd": 11520000.0,
+      "p90_usd": 1152000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-18T01:15:29+00:00",
+      "last_seen_at": "2026-09-18T01:38:21+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_088bfa5231048a3752af",
       "title": "JetBrains/go-modern-guidelines",
       "event_classes": [
@@ -5723,23 +5740,6 @@
       "first_seen_at": "2026-09-15T05:35:26+00:00",
       "last_seen_at": "2026-09-15T23:55:14+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_070b081f5eeabbc39c41",
-      "title": "The founder-to-minister pivot isn’t the problem, ASEAN’s missing governance infrastructure is",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "infrastructure"
-      ],
-      "p10_usd": 115200.0,
-      "p50_usd": 11520000.0,
-      "p90_usd": 1152000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-18T01:15:29+00:00",
-      "last_seen_at": "2026-09-18T01:15:29+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_0fe6fa9731ff84e108db",
@@ -11793,6 +11793,23 @@
       "first_seen_at": "2026-09-08T01:40:08+00:00",
       "last_seen_at": "2026-09-08T05:58:24+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_0ca39938e61ffa2df0ea",
+      "title": "経営「AIでラクして早く帰って」→社員「帰らない」 工数最大9割減のDeNAも悩むAI効率化の壁",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-18T01:38:21+00:00",
+      "last_seen_at": "2026-09-18T01:38:21+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_053f4fa216fa9d7c5edf",
