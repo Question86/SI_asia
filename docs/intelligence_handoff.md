@@ -1,18 +1,28 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-18T07:32:27Z_
+_Generated: 2026-09-18T07:49:22Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “Tencent/BrowserSkill” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.
+Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] Keycloak: Mehrere Schwachstellen” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.
 
 ## Top Dynamics
+
+### [UPDATE] [mittel] Keycloak: Mehrere Schwachstellen
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `26.0`
+- Published: `2026-09-18T07:26:31+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: security high-signal: cert-bund, bsi, security, advisory
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3418
 
 ### Tencent/BrowserSkill
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-18T05:53:28+00:00` / age_days `0.07`
+- Published: `2026-09-18T05:53:28+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, code, security high-signal: rce, code, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -22,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “Tencent/BrowserSkill” — Die Dynamik 
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-18T09:30:15+09:00` / age_days `0.29`
+- Published: `2026-09-18T09:30:15+09:00` / age_days `0.3`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
@@ -32,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “Tencent/BrowserSkill” — Die Dynamik 
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-18T07:11:31+00:00` / age_days `0.01`
+- Published: `2026-09-18T07:11:31+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -42,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “Tencent/BrowserSkill” — Die Dynamik 
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-18T09:30:00+09:00` / age_days `0.29`
+- Published: `2026-09-18T09:30:00+09:00` / age_days `0.31`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
@@ -52,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “Tencent/BrowserSkill” — Die Dynamik 
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-18T05:51:31+00:00` / age_days `0.07`
+- Published: `2026-09-18T05:51:31+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: kritisch, code, security high-signal: kritisch, code, official security but no high-signal phrase: capped at strong
@@ -62,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “Tencent/BrowserSkill” — Die Dynamik 
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-18T05:54:02+00:00` / age_days `0.07`
+- Published: `2026-09-18T05:54:02+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -72,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “Tencent/BrowserSkill” — Die Dynamik 
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-18T05:53:28+00:00` / age_days `0.07`
+- Published: `2026-09-18T05:53:28+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: early terms: local, high terms: code, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -82,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “Tencent/BrowserSkill” — Die Dynamik 
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-18T05:54:02+00:00` / age_days `0.07`
+- Published: `2026-09-18T05:54:02+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -92,17 +102,17 @@ Stärkste Dynamik nach Gate-Recheck: “Tencent/BrowserSkill” — Die Dynamik 
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-08-28T14:08:37+00:00` / age_days `20.72`
+- Published: `2026-08-28T14:08:37+00:00` / age_days `20.74`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: momentum delta +3, security high-signal: google, microsoft, extreme gate: needs multi-source high-signal, official security, or identity relevance
+- Warum: momentum delta +3, high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3380
 
 ### DokployにおけるOSコマンドインジェクションの脆弱性
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-18T00:53:45+00:00` / age_days `0.28`
+- Published: `2026-09-18T00:53:45+00:00` / age_days `0.29`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -112,20 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “Tencent/BrowserSkill” — Die Dynamik 
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-18T01:15:29+00:00` / age_days `0.26`
+- Published: `2026-09-18T01:15:29+00:00` / age_days `0.27`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
 - Quelle: https://e27.co/the-founder-to-minister-pivot-isnt-the-problem-aseans-missing-governance-infrastructure-is-20260916/
-
-### M 4.5 - Izu Islands, Japan region
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `22.5`
-- Published: `2026-09-05T01:09:44+00:00` / age_days `13.27`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti79
 
 END OF DOCUMENT
