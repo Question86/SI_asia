@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-18T23:39:46+00:00_
+_Generiert: 2026-09-18T23:47:27+00:00_
 
 ## Kurzlage
 
@@ -45,10 +45,14 @@ _Generiert: 2026-09-18T23:39:46+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Somalia
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:94.054km) in Kermadec Islands Region 18/09/2026 23:18 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1566905)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:94.054km) in Kermadec Islands Region 18/09/2026 23:18 UTC, [unknown].
 - **USGS earthquake M5.5 - Kermadec Islands region** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tigd)
   - Quelle: USGS
   - Zeit: `2026-09-18T23:18:28+00:00`
-  - Kurz: M5.5 - Kermadec Islands region. PAGER alert: none. Tsunami flag: 0.
+  - Kurz: M5.5 - Kermadec Islands region. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
