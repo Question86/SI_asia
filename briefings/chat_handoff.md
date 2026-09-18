@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-18T09:59:36+00:00_
+_Generated: 2026-09-18T10:21:10+00:00_
 
 ## Status
 - status: `normal`
-- findings: `42`
+- findings: `46`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-09-18T09:59:36+00:00_
 - url: https://github.com/alphaXiv/OpenResearch
 - summary: Turn your coding agents into research agents https://openresearch.sh/ OpenResearch The local-first workspace for research agents and autoresearch. Turn Claude Code, Codex, OpenCode, or Cursor into research agents that can review literature, develop hypotheses…
 
-### 4. CISA ICS Advisory / ICS Medical Advisory（2026年09月17日）
-- source: JVN Japan Vulnerability Notes
+### 4. [UPDATE] [hoch] Red Hat Enterprise Linux (libsoup): Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-09-18T09:30:15+09:00`
-- url: https://jvn.jp/vu/JVNVU91030326/
-- summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
+- published: `2026-09-18T10:06:34+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-0305
+- summary: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um beliebigen Code auszuführen oder einen Denial-of-Service-Zustand zu verursachen.
 
 ### 5. Euro area monthly balance of payments: July 2026
 - source: ECB Statistical Press Releases
@@ -50,18 +50,18 @@ _Generated: 2026-09-18T09:59:36+00:00_
 - url: https://blogs.jpcert.or.jp/en/2026/09/tsubame_overflow_2026-04-06.html
 - summary: This TSUBAME Report Overflow series discusses observation trends from TSUBAME sensors both in Japan and overseas, as well as other topics not covered in the JPCERT/CC Quarterly Report. This article covers monitoring results from April to June 2026. Note: Star…
 
-### 7. M 4.7 - 40 km SSW of Sipí, Colombia
+### 7. The case for a robot tax to redistribute wealth
+- source: Rest of World Global Tech Feed
+- score: `12`
+- published: `2026-09-18T10:00:00+00:00`
+- url: https://restofworld.org/2026/robot-tax-ai-wealth-redistribution/?utm_source=rss&utm_medium=rss&utm_campaign=feeds
+- summary: In an excerpt from his book, “Innovate for Impact: A Roadmap to Sustainable Technology Beyond AI,” Alessandro Crimi explains that a tax on automation is more effective than retraining labor.
+
+### 8. M 4.7 - 40 km SSW of Sipí, Colombia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-09-18T06:53:54.114+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti7x
 - summary: DYFI? - III Time 2026-09-18 06:17:03 UTC 2026-09-18 06:17:03 UTC at epicenter Location 4.322°N 76.793°W Depth 68.37 km (42.49 mi)
-
-### 8. How we use AI to turn one article into audience-specific versions
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-09-18T06:00:58+00:00`
-- url: https://e27.co/how-we-use-ai-to-turn-one-article-into-audience-specific-versions-20260918/
-- summary: A founder may want the main business argument. A marketing lead may care about campaign angles. A sales lead may look for customer objections. A busy operator may only want the practical steps. The core idea can be the same, but the way it is framed often nee…
 
 END OF DOCUMENT
