@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-18T07:11:23+00:00_
+_Generated: 2026-09-18T07:29:00+00:00_
 
 ## Status
 - status: `normal`
-- findings: `28`
+- findings: `29`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-09-18T07:11:23+00:00_
 - url: https://jvn.jp/vu/JVNVU91030326/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 4. GSMA says smartphone costs could deepen the coming AI divide
-- source: e27 Asia Startup and Tech Feed
-- score: `15`
-- published: `2026-09-18T06:00:04+00:00`
-- url: https://e27.co/gsma-says-smartphone-costs-could-deepen-the-coming-ai-divide-20260918/
-- summary: The global rush to build artificial intelligence may be making the basic gateway to the internet more expensive for the people who need it most. That is the uncomfortable warning from the GSMA’s State of Mobile Internet Connectivity Report 2026, released in H…
+### 4. [UPDATE] [hoch] Google Chrome / Microsoft Edge: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-09-18T07:11:31+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3380
+- summary: Ein Angreifer kann mehrere Schwachstellen in Google Chrome / Microsoft Edge ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, erweiterte Berechtigungen zu erlangen, Daten zu manipulieren oder offenzulegen oder Denial-of-Servi…
 
 ### 5. TSUBAME Report Overflow (Apr-Jun 2026)
 - source: JPCERT/CC English Blog Atom
