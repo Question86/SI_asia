@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-17T23:59:20+00:00",
+  "generated_at": "2026-09-18T00:53:45+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -98,10 +98,9 @@
       "z_hint": 0.0
     },
     "domain:openai.com": {
-      "title": "Introducing Astra for Law",
-      "updated_at": "2026-09-17T23:59:20+00:00",
+      "title": "How Cooley is accelerating IPO work with ChatGPT",
+      "updated_at": "2026-09-18T00:53:45+00:00",
       "network_scores": [
-        32.5,
         32.5,
         32.5,
         32.5,
@@ -130,12 +129,13 @@
         9.1,
         9.1,
         9.1,
-        9.1
+        9.1,
+        10.1
       ],
-      "rolling_average": 16.22,
+      "rolling_average": 15.47,
       "rolling_peak": 32.5,
-      "last_score": 9.1,
-      "z_hint": -7.12
+      "last_score": 10.1,
+      "z_hint": -5.37
     },
     "title:read-remote-repository-content-github-cli": {
       "title": "Read remote repository content with GitHub CLI",
@@ -2809,8 +2809,8 @@
       "z_hint": 0.0
     },
     "title:cisa-ics-advisory-ics-medical-advisory-2026": {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月15日）",
-      "updated_at": "2026-09-16T23:55:27+00:00",
+      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月17日）",
+      "updated_at": "2026-09-18T00:53:45+00:00",
       "network_scores": [
         18.1,
         18.1,
@@ -2841,12 +2841,12 @@
         18.1,
         18.1,
         18.1,
-        18.1
+        21.1
       ],
-      "rolling_average": 18.1,
-      "rolling_peak": 18.1,
-      "last_score": 18.1,
-      "z_hint": -0.0
+      "rolling_average": 18.2,
+      "rolling_peak": 21.1,
+      "last_score": 21.1,
+      "z_hint": 2.9
     },
     "github_repo:universal-debloater-alliance/universal-android-debloater-next-generation": {
       "title": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
@@ -37407,6 +37407,17 @@
       "rolling_peak": 10.1,
       "last_score": 7.1,
       "z_hint": -1.5
+    },
+    "title:dokploy": {
+      "title": "DokployにおけるOSコマンドインジェクションの脆弱性",
+      "updated_at": "2026-09-18T00:53:45+00:00",
+      "network_scores": [
+        19.1
+      ],
+      "rolling_average": 19.1,
+      "rolling_peak": 19.1,
+      "last_score": 19.1,
+      "z_hint": 0.0
     }
   }
 }

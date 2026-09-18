@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-17T23:59:15+00:00_
+_Generiert: 2026-09-18T00:53:42+00:00_
 
 ## Kurzlage
 
-80 neue relevante Treffer. Stärkstes Signal: „[UPDATE] [mittel] Red Hat Enterprise Linux (firewalld, leapp-repository, tesseract): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 18, observation).
+3 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月17日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 ## Priorität Hoch
 
@@ -12,265 +12,39 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
-- **[UPDATE] [mittel] Red Hat Enterprise Linux (firewalld, leapp-repository, tesseract): Mehrere Schwachstellen** — Score 18, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3382)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-09-17T10:19:45+00:00`, fetched `2026-09-17T10:21:38+00:00`
-  - Treffer: BSI, CERT-Bund, Firewall, Linux, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); Firewall (+2.5); recent (+1.0)
-  - Kurz: Ein lokaler Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um beliebigen Code auszuführen, einschließlich der Ausführung von Code mit Root-Rechten, um Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder einen Denial-of-Service-Zustand auszulösen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Agentic CLI customizations now in the usage metrics API** — Score 17, observation — [Quelle](https://github.blog/changelog/2026-09-17-agentic-cli-customizations-now-in-the-usage-metrics-api)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-09-17T21:08:50+00:00`, fetched `2026-09-17T22:19:06+00:00`
-  - Treffer: AI Agents, AI/KI, Copilot, GitHub, Watchgraph:ai_agents_workflow
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: AI/KI (+3.0); AI Agents (+6.2); GitHub (+2.0); Copilot (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
-  - Kurz: GitHub Copilot expands existing CLI report coverage with agentic activity metrics for skills, custom agents, Model Context Protocol (MCP) servers, slash commands, and plugins. What’s new The fields appear in… The post Agentic CLI customizations now in the usage metrics API appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Workflow execution protections in GitHub Actions generally available** — Score 17, observation — [Quelle](https://github.blog/changelog/2026-09-17-workflow-execution-protections-in-github-actions-generally-available)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-09-17T15:45:26+00:00`, fetched `2026-09-17T17:38:52+00:00`
-  - Treffer: Actions, GitHub, GitHub Actions, Public Health
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub Actions (+6.2); Public Health (+5.0); GitHub (+2.5); Actions (+2.5); recent (+1.0)
-  - Kurz: Workflow execution protections for GitHub Actions, previously in public preview, are now generally available for GitHub Enterprise, organizations, and repositories. Execution protections let you define an allowlist that controls who… The post Workflow execution protections in GitHub Actions generally available appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [hoch] Atlassian Bamboo, Bitbucket, Confluence, Fisheye/Crucible, Jira Software und Jira Service Management: Mehrere Schwachstellen** — Score 17, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3376)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-09-17T10:19:45+00:00`, fetched `2026-09-17T10:21:38+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security, Webentwicklung
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); Webentwicklung (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Atlassian Bamboo, Bitbucket, Confluence, Fisheye/Crucible, Jira Software und Jira Service Management ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, serverseitige Request-Forgery-Angriffe (SSRF) durchzuführen, Cross-Site-Scripting-Angriffe zu starten, sensible Informationen offenzulegen, Daten zu manipulieren oder Denial-of-Service-Zust…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[NEU] [mittel] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3438)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-09-17T11:41:31+00:00`, fetched `2026-09-17T11:57:27+00:00`
-  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein lokaler Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen, um einen Denial of Service zu verursachen oder eine nicht näher spezifizierte Auswirkung zu erzielen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Paid to be quoted: The creator revenue line Southeast Asia hasn’t priced yet** — Score 16, observation — [Quelle](https://e27.co/paid-to-be-quoted-the-creator-revenue-line-southeast-asia-hasnt-priced-yet-20260914/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-17T03:00:21+00:00`, fetched `2026-09-17T03:14:40+00:00`
-  - Treffer: APAC Trend Radar, Public Health, Southeast Asia, Webentwicklung
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Webentwicklung (+3.0); APAC Trend Radar (+3.0); Public Health (+5.0); Southeast Asia (+2.5); recent (+1.0); watchgraph region europe: Paris (+2.0)
-  - Kurz: When we run citation checks for clients at ESBO Ltd, my agency, the sources assistants quote for buying questions are rarely brand websites or big media. They are creators: a YouTube comparison from someone who tested four products on camera, or a forum thread with real numbers in it. The people being quoted are, almost […] The post Paid to be quoted: The creator revenue line Southeast Asia hasn’t priced yet appeare…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 5.2 - 132 km E of Bitung, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000thzp)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-17T06:37:49.040+00:00`, fetched `2026-09-17T06:57:22+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-17 06:20:48 UTC 2026-09-17 06:20:48 UTC at epicenter Location 1.316°N 126.309°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **スマートフォンアプリ「東北電力 よりそうｅねっと」におけるハードコードされた暗号鍵使用の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/jp/JVN93985674/)
+- **CISA ICS Advisory / ICS Medical Advisory（2026年09月17日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU91030326/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-09-17T14:00:00+09:00`, fetched `2026-09-17T05:01:19+00:00`
-  - Treffer: APAC Trend Radar, JVN, Security
+  - Zeit: published `2026-09-18T09:30:15+09:00`, fetched `2026-09-18T00:53:09+00:00`
+  - Treffer: advisory, APAC Trend Radar, JVN, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 東北電力株式会社が提供するスマートフォンアプリ「東北電力 よりそうｅねっと」には、ハードコードされた暗号鍵使用の脆弱性が存在します。
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **South Africa joins the global resistance against American data centers** — Score 14, observation — [Quelle](https://restofworld.org/2026/south-africa-ai-data-center-protests/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
-  - Quelle: Rest of World Global Tech Feed / `rss`
-  - Zeit: published `2026-09-17T10:00:00+00:00`, fetched `2026-09-17T10:21:38+00:00`
-  - Treffer: Africa, AI/KI, Macro/Policy, Watchgraph:elections_unrest
-  - Watchgraph: elections_unrest
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, META, GOOGL, MSFT, RDDT, SNAP, PINS
-  - Warum relevant: AI/KI (+3.0); Macro/Policy (+5.0); Africa (+2.5); recent (+1.0); watchgraph modules elections_unrest (+3.0)
-  - Kurz: “A massive data center is trying to jump the queue and take our land, water, and energy.”
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **MLflowのdspyとstatsmodelsフレーバーにおけるpickleのデシリアライズ制御回避の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU94390979/)
+- **DokployにおけるOSコマンドインジェクションの脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU94707104/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-09-17T09:30:15+09:00`, fetched `2026-09-17T01:02:02+00:00`
+  - Zeit: published `2026-09-18T09:30:00+09:00`, fetched `2026-09-18T00:53:09+00:00`
   - Treffer: APAC Trend Radar, JVN, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Sentry Seerにおける攻撃者が制御する入力が管理者権限で実行される脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU91019649/)
-  - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-09-17T09:30:00+09:00`, fetched `2026-09-17T01:02:02+00:00`
-  - Treffer: APAC Trend Radar, JVN, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Claude Codeの Agent Skills は、ときどき見直したほうがいい - じゃあ、おうちで学べる** — Score 14, observation — [Quelle](https://syu-m-5151.hatenablog.com/entry/2026/09/17/140349)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-17T05:46:22+00:00`, fetched `2026-09-17T12:27:19+00:00`
-  - Treffer: agent, AI Agents, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)
-  - Kurz: はじめに 2025年12月に「Claude Codeの Agent Skills は設定したほうがいい」という記事を書きました。必要な手順を必要なときに読み込ませる仕組みとして、Skillsを紹介した記事です。ただ、後半では設定が増えるほど管理が難しくなる話もしました。どれが使われているのか。似た説明のSkillが、互いの出番を奪っていな...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Claude Codeを「使うほど育つ」AI秘書にするノウハウ** — Score 14, observation — [Quelle](https://speakerdeck.com/minorun365/claude-code-o-tsukau-hodo-sodatsu-ai-hisho-ni-suru-nouhau)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-17T05:02:37+00:00`, fetched `2026-09-17T10:59:52+00:00`
-  - Treffer: AI Agents, AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: ［みのるん式］ビジネスパーソンのためのClaude Code仕事術 https://www.amazon.co.jp/dp/4297159392
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
-- **Warnung vor Cyberattacken auf Google Pixel, Cisco ISE und Acronis Backup** — Score 13, observation — [Quelle](https://www.heise.de/news/Warnung-vor-Cyberattacken-auf-Google-Pixel-Cisco-ISE-und-Acronis-Backup-11456146.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-09-17T07:30:00.000+00:00`, fetched `2026-09-17T07:46:57+00:00`
-  - Treffer: GitHub Actions, Security
+- **How Cooley is accelerating IPO work with ChatGPT** — Score 8, observation — [Quelle](https://openai.com/index/cooley-gopublic)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-09-17T12:00:00+00:00`, fetched `2026-09-18T00:53:09+00:00`
+  - Treffer: OpenAI
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub Actions (+6.2); Security (+6.0); recent (+1.0)
-  - Kurz: Bösartige Akteure greifen Lücken in Google Pixel, Cisco ISE und Acronis Backup für cPanel/WHM und Plesk an. Updates schützen.
+  - Warum relevant: OpenAI (+7.5); recent (+1.0)
+  - Kurz: Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **『マネーフォワード ME』、2026年9月17日(木)より「Apps in ChatGPT」で利用できるアプリの提供を開始** — Score 12, observation — [Quelle](https://prtimes.jp/main/html/rd/p/000001675.000008962.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-17T09:48:12+00:00`, fetched `2026-09-17T23:43:14+00:00`
-  - Treffer: Hatena, hotentry, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: マネーフォワードホーム株式会社は、2026年9月17日（木）より、OpenAIが提供する「Apps in ChatGPT」（※1）で利用できる『マネーフォワード ME』アプリ（以下、本アプリ）の提供を開始しました。ユーザーが接続を許可すると、『マネーフォワード ME』のデータをChatGPTの会話内で活用し、自然な対話を通じてお金の不安や...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Why did Bitcoin and Ethereum move in near-perfect lockstep after the Fed rate hike?** — Score 12, observation — [Quelle](https://e27.co/why-did-bitcoin-and-ethereum-move-in-near-perfect-lockstep-after-the-fed-rate-hike-20260917/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-17T04:07:37+00:00`, fetched `2026-09-17T04:09:41+00:00`
-  - Treffer: APAC Trend Radar, Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
-  - Kurz: Bitcoin rose 0.82 per cent in 24 hours to US$76,318.25. Ethereum gained 0.80 per cent to US$2,418.94. The total crypto market cap increased one per cent, and the broader crypto market rose 0.99 per cent. These numbers point to a single conclusion. A relief bounce tied to the Federal Reserve lifted the entire asset class. […] The post Why did Bitcoin and Ethereum move in near-perfect lockstep after the Fed rate hike?…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **LLMの193倍速い“判断だけのAI”「Jev」、ChatGPTの共著研究者が開発** — Score 12, observation — [Quelle](https://pc.watch.impress.co.jp/docs/news/2141599.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-16T21:37:20+00:00`, fetched `2026-09-17T02:56:10+00:00`
-  - Treffer: Hatena, hotentry, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: LLMの193倍速い“判断だけのAI”「Jev」、ChatGPTの共著研究者が開発
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **cloudflare/security-audit-skill** — Score 12, observation — [Quelle](https://github.com/cloudflare/security-audit-skill)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-09-17T06:35:58+00:00`
-  - Treffer: APAC Trend Radar, GitHub Trending, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+7.5); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings security-audit A coding-agent skill that turns your agent into a security auditor. It orchestrates isolated agents through reconnaissance, coverage-led hunting, candidate validation, structured output, independent record verification, and target-neutral reporting. This is the skill that seeded Cloudflare's vul…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 6.5 - 166 km W of Nikolski, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti1p)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-17T14:44:37.460+00:00`, fetched `2026-09-17T14:44:44+00:00`
-  - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: ShakeMap - V DYFI? - III Time 2026-09-17 14:19:52 UTC 2026-09-17 14:19:52 UTC at epicenter Location 52.772°N 171.311°W Depth 108.38 km (67.35 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 6.4 - 163 km WSW of Nikolski, Alaska** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/aka2026slmipb)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-17T14:33:44.040+00:00`, fetched `2026-09-17T14:34:13+00:00`
-  - Treffer: Climate/Disaster Infrastructure, ShakeMap, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: ShakeMap - V DYFI? - III Time 2026-09-17 14:19:53 UTC 2026-09-17 14:19:53 UTC at epicenter Location 52.544°N 171.186°W Depth 114.80 km (71.33 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Claude Code「スキル」が凄すぎる…毎日のコピペ指示を“全自動化”する神スキル5選** — Score 11, observation — [Quelle](https://www.sbbit.jp/article/cont1/186367)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-17T11:02:25+00:00`, fetched `2026-09-17T22:01:00+00:00`
-  - Treffer: AI Agents, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: Claude Codeを日常的に使い始めてから、ある違和感に気づきました。「Gmailの未読メールを、件名・送信者・日時で整理して、優先度が高いものから順番に、見やすい形でまとめて」といったように、毎朝、同じ内容の指示（プロンプト）を打ち込んでいたのです。このように、繰り返し頼む作業を毎回ゼロから指示していては...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Mobile’s next US$4.5 trillion won’t come from connectivity** — Score 11, observation — [Quelle](https://e27.co/mobiles-next-us4-5-trillion-wont-come-from-connectivity-20260914/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-17T01:30:56+00:00`, fetched `2026-09-17T01:32:24+00:00`
-  - Treffer: APAC Trend Radar, Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: METI (+2.0)
-  - Kurz: The GSMA published its Mobile Economy 2026 report at Barcelona in March, and the arithmetic inside it is worth sitting with rather than skimming. Mobile technologies and services contributed US$7.6 trillion to global GDP in 2025, or 6.4 per cent of the total. By 2030, that reaches US$11.3 trillion, or 8.4 per cent. Over the […] The post Mobile’s next US$4.5 trillion won’t come from connectivity appeared first on e27…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Multiples vulnérabilités dans le noyau Linux de SUSE (11 septembre 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1164/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-09-11T00:00:00+00:00`, fetched `2026-09-17T12:58:23+00:00`
-  - Treffer: avis, CERT-FR, Linux, sécurité, vulnérabilité
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)
-  - Kurz: De multiples vulnérabilités ont été découvertes dans le noyau Linux de SUSE. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire, une élévation de privilèges et un déni de service à distance.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Multiples vulnérabilités dans le noyau Linux de Debian LTS (11 septembre 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1163/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-09-11T00:00:00+00:00`, fetched `2026-09-17T12:58:23+00:00`
-  - Treffer: avis, CERT-FR, Linux, sécurité, vulnérabilité
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)
-  - Kurz: De multiples vulnérabilités ont été découvertes dans le noyau Linux de Debian LTS. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, une atteinte à la confidentialité des données et un déni de service.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Multiples vulnérabilités dans le noyau Linux d'Ubuntu (11 septembre 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1162/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-09-11T00:00:00+00:00`, fetched `2026-09-17T12:58:23+00:00`
-  - Treffer: avis, CERT-FR, Linux, sécurité, vulnérabilité
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Linux (+2.5)
-  - Kurz: De multiples vulnérabilités ont été découvertes dans le noyau Linux d'Ubuntu. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à l'intégrité des données.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Ubuntu 26 generally available and latest migration** — Score 10, observation — [Quelle](https://github.blog/changelog/2026-09-17-ubuntu-26-generally-available-and-latest-migration)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-09-17T16:27:16+00:00`, fetched `2026-09-17T16:53:00+00:00`
-  - Treffer: Actions, GitHub, GitHub Actions
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub Actions (+5.0); GitHub (+2.0); Actions (+2.0); recent (+1.0)
-  - Kurz: The Ubuntu 26.04 runner image for GitHub Actions is now out of public preview and fully supported for production workflows on both x64 and arm64. As part of this release,… The post Ubuntu 26 generally available and latest migration appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **“AI amnesia” is quietly costing Southeast Asian brands their customers** — Score 10, observation — [Quelle](https://e27.co/ai-amnesia-is-quietly-costing-southeast-asian-brands-their-customers-20260917/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-17T09:19:12+00:00`, fetched `2026-09-17T09:30:01+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0)
-  - Kurz: A customer in Jakarta spends 20 minutes explaining a billing dispute to a chatbot, gets bounced to a human agent, and has to start the story over from scratch. Multiply that across the millions of AI-mediated conversations happening daily across the region, and you get a sense of the trust deficit quietly building beneath Asia […] The post “AI amnesia” is quietly costing Southeast Asian brands their customers appear…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.9 - northern Mid-Atlantic Ridge** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti5b)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-17T19:40:19.040+00:00`, fetched `2026-09-17T19:46:14+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-17 19:19:06 UTC 2026-09-17 19:19:06 UTC at epicenter Location 30.162°N 42.149°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Empfehlungen
 
-- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
