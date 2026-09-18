@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-18T02:34:11+00:00_
+_Generated: 2026-09-18T02:49:24+00:00_
 
 ## Status
 - status: `normal`
-- findings: `7`
+- findings: `8`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-09-18T02:34:11+00:00_
 - url: https://jvn.jp/vu/JVNVU91030326/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 2. M 4.6 - 20 km ESE of Tsunō, Japan
+### 2. M 4.5 - Izu Islands, Japan region
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-09-18T02:40:23.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti79
+- summary: Time 2026-09-18 02:12:28 UTC 2026-09-18 02:12:28 UTC at epicenter Location 32.340°N 141.376°E Depth 36.30 km (22.55 mi)
+
+### 3. M 4.6 - 20 km ESE of Tsunō, Japan
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-09-18T01:28:31.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti70
 - summary: Time 2026-09-18 01:07:30 UTC 2026-09-18 01:07:30 UTC at epicenter Location 32.162°N 131.754°E Depth 53.95 km (33.52 mi)
 
-### 3. DokployにおけるOSコマンドインジェクションの脆弱性
+### 4. DokployにおけるOSコマンドインジェクションの脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-09-18T09:30:00+09:00`
 - url: https://jvn.jp/vu/JVNVU94707104/
 - summary: CERT/CCから本件に関するアドバイザリが公表されました。
-
-### 4. The founder-to-minister pivot isn’t the problem, ASEAN’s missing governance infrastructure is
-- source: e27 Asia Startup and Tech Feed
-- score: `14`
-- published: `2026-09-18T01:00:01+00:00`
-- url: https://e27.co/the-founder-to-minister-pivot-isnt-the-problem-aseans-missing-governance-infrastructure-is-20260916/
-- summary: The first generation of ASEAN’s unicorn founders is moving on. Some have stepped back from operational roles. Some have moved into investing. A few have taken government appointments and, more recently, moved back out of them. The question I keep coming back…
 
 ### 5. How Cooley is accelerating IPO work with ChatGPT
 - source: OpenAI News RSS
