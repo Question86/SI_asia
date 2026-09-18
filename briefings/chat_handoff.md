@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-18T05:46:27+00:00_
+_Generated: 2026-09-18T05:53:58+00:00_
 
 ## Status
-- status: `normal`
-- findings: `15`
+- status: `warning`
+- findings: `20`
 
 ## Top Signals
 
-### 1. CISA ICS Advisory / ICS Medical Advisory（2026年09月17日）
+### 1. Tencent/BrowserSkill
+- source: GitHub Trending RSS All Languages Daily
+- score: `23`
+- published: `None`
+- url: https://github.com/Tencent/BrowserSkill
+- summary: Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent. BrowserSkill Let AI agents use your browser without interrupting your work. English · 中文 BrowserSkill conn…
+
+### 2. alphaXiv/OpenResearch
+- source: GitHub Trending RSS All Languages Daily
+- score: `19`
+- published: `None`
+- url: https://github.com/alphaXiv/OpenResearch
+- summary: Turn your coding agents into research agents https://openresearch.sh/ OpenResearch The local-first workspace for research agents and autoresearch. Turn Claude Code, Codex, OpenCode, or Cursor into research agents that can review literature, develop hypotheses…
+
+### 3. CISA ICS Advisory / ICS Medical Advisory（2026年09月17日）
 - source: JVN Japan Vulnerability Notes
 - score: `16`
 - published: `2026-09-18T09:30:15+09:00`
 - url: https://jvn.jp/vu/JVNVU91030326/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 2. M 4.5 - Izu Islands, Japan region
+### 4. M 4.5 - Izu Islands, Japan region
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-09-18T02:40:23.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti79
 - summary: Time 2026-09-18 02:12:28 UTC 2026-09-18 02:12:28 UTC at epicenter Location 32.340°N 141.376°E Depth 36.30 km (22.55 mi)
-
-### 3. M 4.6 - 20 km ESE of Tsunō, Japan
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-09-18T01:28:31.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti70
-- summary: Time 2026-09-18 01:07:30 UTC 2026-09-18 01:07:30 UTC at epicenter Location 32.162°N 131.754°E Depth 53.95 km (33.52 mi)
-
-### 4. DokployにおけるOSコマンドインジェクションの脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-09-18T09:30:00+09:00`
-- url: https://jvn.jp/vu/JVNVU94707104/
-- summary: CERT/CCから本件に関するアドバイザリが公表されました。
 
 ### 5. TSUBAME Report Overflow (Apr-Jun 2026)
 - source: JPCERT/CC English Blog Atom

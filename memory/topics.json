@@ -1,93 +1,36 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-18T05:46:27+00:00",
+  "generated_at": "2026-09-18T05:53:58+00:00",
   "topics": {
-    "security": [
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月17日）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-18T09:30:15+09:00",
-        "relevance_score": 16,
-        "url": "https://jvn.jp/vu/JVNVU91030326/"
-      },
-      {
-        "title": "DokployにおけるOSコマンドインジェクションの脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-18T09:30:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU94707104/"
-      }
-    ],
-    "general": [
-      {
-        "title": "M 4.5 - Izu Islands, Japan region",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-18T02:40:23.040+00:00",
-        "relevance_score": 15,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti79"
-      },
-      {
-        "title": "M 4.6 - 20 km ESE of Tsunō, Japan",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-18T01:28:31.040+00:00",
-        "relevance_score": 15,
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti70"
-      },
-      {
-        "title": "When 43 per cent of the world’s funding goes to two firms, where does that leave SEA?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-18T04:46:43+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/when-43-per-cent-of-the-worlds-funding-goes-to-two-firms-where-does-that-leave-sea-20260918/"
-      }
-    ],
-    "geopolitics": [
-      {
-        "title": "The founder-to-minister pivot isn’t the problem, ASEAN’s missing governance infrastructure is",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-18T01:00:01+00:00",
-        "relevance_score": 14,
-        "url": "https://e27.co/the-founder-to-minister-pivot-isnt-the-problem-aseans-missing-governance-infrastructure-is-20260916/"
-      },
-      {
-        "title": "Did the Fed just accidentally kick off the next crypto bull run? Or just a dead cat bounce?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-18T04:38:05+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/did-the-fed-just-accidentally-kick-off-the-next-crypto-bull-run-or-just-a-dead-cat-bounce-20260918/"
-      },
-      {
-        "title": "What Maybank’s US$10B bet reveals about market readiness: A view from two emerging ecosystems",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-18T02:00:38+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/what-maybanks-us10b-bet-reveals-about-market-readiness-a-view-from-two-emerging-ecosystems-20260915/"
-      }
-    ],
-    "github": [
-      {
-        "title": "TSUBAME Report Overflow (Apr-Jun 2026)",
-        "source": "JPCERT/CC English Blog Atom",
-        "published_at": "2026-09-18T05:00:00+00:00",
-        "relevance_score": 13,
-        "url": "https://blogs.jpcert.or.jp/en/2026/09/tsubame_overflow_2026-04-06.html"
-      },
-      {
-        "title": "How to read a VAPT report without panicking",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-18T05:45:15+00:00",
-        "relevance_score": 10,
-        "url": "https://e27.co/how-to-read-a-vapt-report-without-panicking-20260823-2/"
-      }
-    ],
     "ai": [
       {
+        "title": "Tencent/BrowserSkill",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 23,
+        "url": "https://github.com/Tencent/BrowserSkill"
+      },
+      {
+        "title": "alphaXiv/OpenResearch",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 19,
+        "url": "https://github.com/alphaXiv/OpenResearch"
+      },
+      {
         "title": "Did the Fed just accidentally kick off the next crypto bull run? Or just a dead cat bounce?",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-09-18T04:38:05+00:00",
         "relevance_score": 10,
         "url": "https://e27.co/did-the-fed-just-accidentally-kick-off-the-next-crypto-bull-run-or-just-a-dead-cat-bounce-20260918/"
+      },
+      {
+        "title": "anthropics/claude-code",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 10,
+        "url": "https://github.com/anthropics/claude-code"
       },
       {
         "title": "Waymo’s Singapore entry raises the stakes for autonomous mobility in Asia",
@@ -123,6 +66,119 @@
         "published_at": "2026-09-17T23:32:09+00:00",
         "relevance_score": 5,
         "url": "https://www.itmedia.co.jp/news/article/2609/18/2000001484/"
+      }
+    ],
+    "github": [
+      {
+        "title": "Tencent/BrowserSkill",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 23,
+        "url": "https://github.com/Tencent/BrowserSkill"
+      },
+      {
+        "title": "alphaXiv/OpenResearch",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 19,
+        "url": "https://github.com/alphaXiv/OpenResearch"
+      },
+      {
+        "title": "TSUBAME Report Overflow (Apr-Jun 2026)",
+        "source": "JPCERT/CC English Blog Atom",
+        "published_at": "2026-09-18T05:00:00+00:00",
+        "relevance_score": 13,
+        "url": "https://blogs.jpcert.or.jp/en/2026/09/tsubame_overflow_2026-04-06.html"
+      },
+      {
+        "title": "How to read a VAPT report without panicking",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-18T05:45:15+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/how-to-read-a-vapt-report-without-panicking-20260823-2/"
+      },
+      {
+        "title": "anthropics/claude-code",
+        "source": "GitHub Trending RSS All Languages Daily",
+        "published_at": null,
+        "relevance_score": 10,
+        "url": "https://github.com/anthropics/claude-code"
+      }
+    ],
+    "security": [
+      {
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月17日）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-18T09:30:15+09:00",
+        "relevance_score": 16,
+        "url": "https://jvn.jp/vu/JVNVU91030326/"
+      },
+      {
+        "title": "DokployにおけるOSコマンドインジェクションの脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-18T09:30:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU94707104/"
+      },
+      {
+        "title": "[UPDATE] [kritisch] vm2: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-18T05:51:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3071"
+      }
+    ],
+    "general": [
+      {
+        "title": "M 4.5 - Izu Islands, Japan region",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-18T02:40:23.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti79"
+      },
+      {
+        "title": "M 4.6 - 20 km ESE of Tsunō, Japan",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-18T01:28:31.040+00:00",
+        "relevance_score": 15,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti70"
+      },
+      {
+        "title": "When 43 per cent of the world’s funding goes to two firms, where does that leave SEA?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-18T04:46:43+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/when-43-per-cent-of-the-worlds-funding-goes-to-two-firms-where-does-that-leave-sea-20260918/"
+      },
+      {
+        "title": "古川大臣就任記者会見（令和8年9月18日）動画を掲載しました",
+        "source": "Japan Digital Agency News RSS",
+        "published_at": "2026-09-18T05:47:06+00:00",
+        "relevance_score": 6,
+        "url": "https://www.digital.go.jp/speech/minister-260918-01"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "The founder-to-minister pivot isn’t the problem, ASEAN’s missing governance infrastructure is",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-18T01:00:01+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/the-founder-to-minister-pivot-isnt-the-problem-aseans-missing-governance-infrastructure-is-20260916/"
+      },
+      {
+        "title": "Did the Fed just accidentally kick off the next crypto bull run? Or just a dead cat bounce?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-18T04:38:05+00:00",
+        "relevance_score": 10,
+        "url": "https://e27.co/did-the-fed-just-accidentally-kick-off-the-next-crypto-bull-run-or-just-a-dead-cat-bounce-20260918/"
+      },
+      {
+        "title": "What Maybank’s US$10B bet reveals about market readiness: A view from two emerging ecosystems",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-18T02:00:38+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/what-maybanks-us10b-bet-reveals-about-market-readiness-a-view-from-two-emerging-ecosystems-20260915/"
       }
     ],
     "economy": [
