@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-18T06:35:22+00:00_
+_Generated: 2026-09-18T06:56:18+00:00_
 
 ## Status
 - status: `normal`
-- findings: `25`
+- findings: `27`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-09-18T06:35:22+00:00_
 - url: https://blogs.jpcert.or.jp/en/2026/09/tsubame_overflow_2026-04-06.html
 - summary: This TSUBAME Report Overflow series discusses observation trends from TSUBAME sensors both in Japan and overseas, as well as other topics not covered in the JPCERT/CC Quarterly Report. This article covers monitoring results from April to June 2026. Note: Star…
 
-### 6. How we use AI to turn one article into audience-specific versions
+### 6. M 4.7 - 40 km SSW of Sipí, Colombia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `11`
+- published: `2026-09-18T06:53:54.114+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti7x
+- summary: DYFI? - III Time 2026-09-18 06:17:03 UTC 2026-09-18 06:17:03 UTC at epicenter Location 4.322°N 76.793°W Depth 68.37 km (42.49 mi)
+
+### 7. How we use AI to turn one article into audience-specific versions
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-09-18T06:00:58+00:00`
 - url: https://e27.co/how-we-use-ai-to-turn-one-article-into-audience-specific-versions-20260918/
 - summary: A founder may want the main business argument. A marketing lead may care about campaign angles. A sales lead may look for customer objections. A busy operator may only want the practical steps. The core idea can be the same, but the way it is framed often nee…
 
-### 7. How to read a VAPT report without panicking
+### 8. How to read a VAPT report without panicking
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-09-18T05:45:15+00:00`
 - url: https://e27.co/how-to-read-a-vapt-report-without-panicking-20260823-2/
 - summary: I’ve watched the same movie play out too many times: a management team receives a penetration testing report, sees a wall of findings with scary-sounding names, and immediately assumes their platform is on fire. It’s not on fire. It’s almost never on fire. Bu…
-
-### 8. When 43 per cent of the world’s funding goes to two firms, where does that leave SEA?
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-09-18T04:46:43+00:00`
-- url: https://e27.co/when-43-per-cent-of-the-worlds-funding-goes-to-two-firms-where-does-that-leave-sea-20260918/
-- summary: Crunchbase’s numbers for the first half of 2026 are the kind that are supposed to make an entire industry feel good. Global venture funding hit US$510 billion, beating the whole of 2025 in six months and smashing the previous half-year record of US$375 billio…
 
 END OF DOCUMENT
