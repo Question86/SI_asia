@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-18T00:53:42+00:00_
+_Generated: 2026-09-18T01:15:25+00:00_
 
 ## Status
 - status: `normal`
-- findings: `3`
+- findings: `4`
 
 ## Top Signals
 
@@ -22,7 +22,14 @@ _Generated: 2026-09-18T00:53:42+00:00_
 - url: https://jvn.jp/vu/JVNVU94707104/
 - summary: CERT/CCから本件に関するアドバイザリが公表されました。
 
-### 3. How Cooley is accelerating IPO work with ChatGPT
+### 3. The founder-to-minister pivot isn’t the problem, ASEAN’s missing governance infrastructure is
+- source: e27 Asia Startup and Tech Feed
+- score: `14`
+- published: `2026-09-18T01:00:01+00:00`
+- url: https://e27.co/the-founder-to-minister-pivot-isnt-the-problem-aseans-missing-governance-infrastructure-is-20260916/
+- summary: The first generation of ASEAN’s unicorn founders is moving on. Some have stepped back from operational roles. Some have moved into investing. A few have taken government appointments and, more recently, moved back out of them. The question I keep coming back…
+
+### 4. How Cooley is accelerating IPO work with ChatGPT
 - source: OpenAI News RSS
 - score: `8`
 - published: `2026-09-17T12:00:00+00:00`

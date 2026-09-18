@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T00:53:42+00:00",
-  "run_id": "2026-09-18T00:53:42+00:00",
+  "generated_at": "2026-09-18T01:15:25+00:00",
+  "run_id": "2026-09-18T01:15:25+00:00",
   "date": "2026-09-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 3
+      "configured_public_sources_only": 4
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 3,
-    "displayed_findings": 3,
+    "new_relevant_findings": 1,
+    "today_file_total": 4,
+    "displayed_findings": 4,
     "high": 0,
-    "medium": 2,
+    "medium": 3,
     "observe": 1,
     "source_errors": 0
   },
@@ -73,6 +73,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "8d5cc81931188d2a1515"
+      },
+      {
+        "title": "The founder-to-minister pivot isn’t the problem, ASEAN’s missing governance infrastructure is",
+        "url": "https://e27.co/the-founder-to-minister-pivot-isnt-the-problem-aseans-missing-governance-infrastructure-is-20260916/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-18T01:00:01+00:00",
+        "fetched_at": "2026-09-18T01:14:52+00:00",
+        "summary": "The first generation of ASEAN’s unicorn founders is moving on. Some have stepped back from operational roles. Some have moved into investing. A few have taken government appointments and, more recently, moved back out of them. The question I keep coming back to, fifteen years into a risk career that has run alongside this generation’s […] The post The founder-to-minister pivot isn’t the problem, ASEAN’s missing gove…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "founder",
+          "Watchgraph:agriculture_food_fertilizer"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: ASEAN (+2.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [
+          "agriculture_food_fertilizer"
+        ],
+        "watchgraph_reasons": [
+          "agriculture_food_fertilizer: corn"
+        ],
+        "market_context": [
+          "ADM",
+          "BG",
+          "DE",
+          "NTR",
+          "CF",
+          "MOS",
+          "wheat",
+          "corn",
+          "soy"
+        ],
+        "id": "56763e04c1b6fb9ba989"
       }
     ],
     "observe": [
@@ -145,6 +181,42 @@
       "id": "8d5cc81931188d2a1515"
     },
     {
+      "title": "The founder-to-minister pivot isn’t the problem, ASEAN’s missing governance infrastructure is",
+      "url": "https://e27.co/the-founder-to-minister-pivot-isnt-the-problem-aseans-missing-governance-infrastructure-is-20260916/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-18T01:00:01+00:00",
+      "fetched_at": "2026-09-18T01:14:52+00:00",
+      "summary": "The first generation of ASEAN’s unicorn founders is moving on. Some have stepped back from operational roles. Some have moved into investing. A few have taken government appointments and, more recently, moved back out of them. The question I keep coming back to, fifteen years into a risk career that has run alongside this generation’s […] The post The founder-to-minister pivot isn’t the problem, ASEAN’s missing gove…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "founder",
+        "Watchgraph:agriculture_food_fertilizer"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: ASEAN (+2.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [
+        "agriculture_food_fertilizer"
+      ],
+      "watchgraph_reasons": [
+        "agriculture_food_fertilizer: corn"
+      ],
+      "market_context": [
+        "ADM",
+        "BG",
+        "DE",
+        "NTR",
+        "CF",
+        "MOS",
+        "wheat",
+        "corn",
+        "soy"
+      ],
+      "id": "56763e04c1b6fb9ba989"
+    },
+    {
       "title": "How Cooley is accelerating IPO work with ChatGPT",
       "url": "https://openai.com/index/cooley-gopublic",
       "source": "OpenAI News RSS",
@@ -167,69 +239,40 @@
   ],
   "new_findings": [
     {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月17日）",
-      "url": "https://jvn.jp/vu/JVNVU91030326/",
-      "source": "JVN Japan Vulnerability Notes",
+      "title": "The founder-to-minister pivot isn’t the problem, ASEAN’s missing governance infrastructure is",
+      "url": "https://e27.co/the-founder-to-minister-pivot-isnt-the-problem-aseans-missing-governance-infrastructure-is-20260916/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-09-18T09:30:15+09:00",
-      "fetched_at": "2026-09-18T00:53:09+00:00",
-      "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
-      "matched_keywords": [
-        "advisory",
-        "APAC Trend Radar",
-        "JVN",
-        "Security"
-      ],
-      "relevance_score": 16,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c3549576b76ed359ed26"
-    },
-    {
-      "title": "DokployにおけるOSコマンドインジェクションの脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU94707104/",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-09-18T09:30:00+09:00",
-      "fetched_at": "2026-09-18T00:53:09+00:00",
-      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+      "published_at": "2026-09-18T01:00:01+00:00",
+      "fetched_at": "2026-09-18T01:14:52+00:00",
+      "summary": "The first generation of ASEAN’s unicorn founders is moving on. Some have stepped back from operational roles. Some have moved into investing. A few have taken government appointments and, more recently, moved back out of them. The question I keep coming back to, fifteen years into a risk career that has run alongside this generation’s […] The post The founder-to-minister pivot isn’t the problem, ASEAN’s missing gove…",
       "matched_keywords": [
         "APAC Trend Radar",
-        "JVN",
-        "Security"
+        "founder",
+        "Watchgraph:agriculture_food_fertilizer"
       ],
       "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8d5cc81931188d2a1515"
-    },
-    {
-      "title": "How Cooley is accelerating IPO work with ChatGPT",
-      "url": "https://openai.com/index/cooley-gopublic",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-09-17T12:00:00+00:00",
-      "fetched_at": "2026-09-18T00:53:09+00:00",
-      "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters most.",
-      "matched_keywords": [
-        "OpenAI"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+      "relevance_reason": "APAC Trend Radar (+3.0); founder (+2.5); recent (+1.0); watchgraph region southeast_asia: ASEAN (+2.0); watchgraph modules agriculture_food_fertilizer (+3.0); watchgraph markets via agriculture_food: corn (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ec9c575e98b36f3aa299"
+      "watchgraph_modules": [
+        "agriculture_food_fertilizer"
+      ],
+      "watchgraph_reasons": [
+        "agriculture_food_fertilizer: corn"
+      ],
+      "market_context": [
+        "ADM",
+        "BG",
+        "DE",
+        "NTR",
+        "CF",
+        "MOS",
+        "wheat",
+        "corn",
+        "soy"
+      ],
+      "id": "56763e04c1b6fb9ba989"
     }
   ],
   "source_errors": [],
