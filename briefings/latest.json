@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T03:54:48+00:00",
-  "run_id": "2026-09-18T03:54:48+00:00",
+  "generated_at": "2026-09-18T04:04:09+00:00",
+  "run_id": "2026-09-18T04:04:09+00:00",
   "date": "2026-09-18",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 9,
     "displayed_findings": 9,
     "high": 0,
@@ -509,29 +509,7 @@
       "id": "bb43607b89f913240c01"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Waymo’s Singapore entry raises the stakes for autonomous mobility in Asia",
-      "url": "https://e27.co/waymos-singapore-entry-raises-the-stakes-for-autonomous-mobility-in-asia-20260918/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-18T03:52:38+00:00",
-      "fetched_at": "2026-09-18T03:54:16+00:00",
-      "summary": "Waymo is preparing to bring its driverless ride-hailing service to Singapore in 2028, marking one of the most closely watched tests yet of whether fully autonomous mobility can work in a dense, highly regulated Southeast Asian city. The Alphabet-owned autonomous vehicle company said it is working with Singapore’s Ministry of Transport and Land Transport Authority […] The post Waymo’s Singapore entry raises the stake…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Southeast Asia"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "APAC Trend Radar (+3.8); Southeast Asia (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "47aa53e826c8f3a0036f"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
