@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-09-18T12:02:59+00:00`
+Generated: `2026-09-18T12:31:43+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -10,7 +10,7 @@ Generated: `2026-09-18T12:02:59+00:00`
 | .gitignore everything by default | $0 | — | 0 | 0 | dormant |
 | Skullcandy製ワイヤレスイヤホン「Dime 3」における不適切な認証の脆弱性 | $0 | — | 0 | 0 | dormant |
 | Southeast Asia’s chip-hub ambition is colliding with its chip-smuggling problem | $0 | — | 0 | 0 | dormant |
-| How we use AI to turn one article into audience-specific versions | $0 | — | 0 | 0 | active |
+| How we use AI to turn one article into audience-specific versions | $0 | — | 0 | 0 | dormant |
 | WebMCPがアツいので見てほしい \| DevelopersIO | $0 | — | 0 | 0 | dormant |
 | Why Kyoto, not Tokyo, is Japan’s real deeptech bet | $0 | — | 0 | 0 | dormant |
 | M 6.2 - South Sandwich Islands region | $0 | — | 0 | 0 | dormant |
