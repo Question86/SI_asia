@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T21:28:50+00:00",
-  "today_file_total": 29,
+  "generated_at": "2026-09-19T21:39:16+00:00",
+  "today_file_total": 30,
   "current_clusters": [
     {
       "key": "domain:syu-m-5151.hatenablog.com",
@@ -295,6 +295,29 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
+      "key": "title:jev-lint",
+      "title": "jev-lint: コード中の命名やコメントが嘘になってないかを高速に確認",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://zenn.dev/mizchi/articles/jev-lint-intro"
+      ],
+      "finding_count": 1,
+      "max_score": 8,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 13.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "domain:speakerdeck.com",
       "title": "AIに任せた品質は、誰が見立てるのか - AI時代のテストマネジメント",
       "sources": [
@@ -452,29 +475,6 @@
       ],
       "urls": [
         "https://news.jp/i/1473810070062515120"
-      ],
-      "finding_count": 1,
-      "max_score": 8,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 10.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "domain:gigazine.net",
-      "title": "世界37カ国のうち日本を含むほとんどの国で「AIは雇用増加ではなく雇用喪失を引き起こす」と予想されていることが判明",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://gigazine.net/news/20260918-more-people-expect-ai-job-loss/"
       ],
       "finding_count": 1,
       "max_score": 8,

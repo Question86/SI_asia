@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T21:28:48+00:00",
-  "run_id": "2026-09-19T21:28:48+00:00",
+  "generated_at": "2026-09-19T21:39:12+00:00",
+  "run_id": "2026-09-19T21:39:12+00:00",
   "date": "2026-09-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 29
+      "configured_public_sources_only": 30
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 29,
-    "displayed_findings": 29,
+    "new_relevant_findings": 1,
+    "today_file_total": 30,
+    "displayed_findings": 30,
     "high": 0,
     "medium": 7,
-    "observe": 22,
+    "observe": 23,
     "source_errors": 0
   },
   "sections": {
@@ -643,6 +643,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "05b63797412fe39a8c78"
+      },
+      {
+        "title": "jev-lint: コード中の命名やコメントが嘘になってないかを高速に確認",
+        "url": "https://zenn.dev/mizchi/articles/jev-lint-intro",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-19T15:59:25+00:00",
+        "fetched_at": "2026-09-19T21:38:43+00:00",
+        "summary": "jev-lint とは 気づいたら関数名が実態とズレていたり、昔書いたテストケース名やコメントが嘘になっていた、という問題に遭遇したことはありませんか？ それに対して、jev-lint というツールを作りました。 詳細はリポジトリ内の skill を AI に読ませればわかると思いますが、 npx -y jev-lint で動きます。 jev-lint ...",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2249bad955364fb9ec41"
       },
       {
         "title": "AIに任せた品質は、誰が見立てるのか - AI時代のテストマネジメント",
@@ -1475,6 +1497,28 @@
       "id": "05b63797412fe39a8c78"
     },
     {
+      "title": "jev-lint: コード中の命名やコメントが嘘になってないかを高速に確認",
+      "url": "https://zenn.dev/mizchi/articles/jev-lint-intro",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-19T15:59:25+00:00",
+      "fetched_at": "2026-09-19T21:38:43+00:00",
+      "summary": "jev-lint とは 気づいたら関数名が実態とズレていたり、昔書いたテストケース名やコメントが嘘になっていた、という問題に遭遇したことはありませんか？ それに対して、jev-lint というツールを作りました。 詳細はリポジトリ内の skill を AI に読ませればわかると思いますが、 npx -y jev-lint で動きます。 jev-lint ...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2249bad955364fb9ec41"
+    },
+    {
       "title": "AIに任せた品質は、誰が見立てるのか - AI時代のテストマネジメント",
       "url": "https://speakerdeck.com/nakanao/ai-ni-makaseta-hinshitsu-ha-dare-ga-mitateru-no-ka-ai-jidai-no-tesuto-manejimento",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1689,7 +1733,30 @@
       "id": "ed07d610899bb0b33dff"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "jev-lint: コード中の命名やコメントが嘘になってないかを高速に確認",
+      "url": "https://zenn.dev/mizchi/articles/jev-lint-intro",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-19T15:59:25+00:00",
+      "fetched_at": "2026-09-19T21:38:43+00:00",
+      "summary": "jev-lint とは 気づいたら関数名が実態とズレていたり、昔書いたテストケース名やコメントが嘘になっていた、という問題に遭遇したことはありませんか？ それに対して、jev-lint というツールを作りました。 詳細はリポジトリ内の skill を AI に読ませればわかると思いますが、 npx -y jev-lint で動きます。 jev-lint ...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2249bad955364fb9ec41"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
