@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-09-18T23:55:37+00:00`
+Generated: `2026-09-19T00:10:44+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -21,7 +21,7 @@ Generated: `2026-09-18T23:55:37+00:00`
 | 「三省堂書店池袋本店」閉店へ 11年の歴史に幕、惜しむ声続々 | $0 | — | 0 | 0 | dormant |
 | M 5.0 - 53 km W of Cafayate, Argentina | $0 | — | 0 | 0 | dormant |
 | AIのせいでエンジニアの75％を解雇したCSSフレームワークのTailwind、Shopifyによる買収を発表。今後も安定的な開発を維持すると | $0 | — | 0 | 0 | dormant |
-| The founder-to-minister pivot isn’t the problem, ASEAN’s missing governance infrastructure is | $0 | — | 0 | 0 | active |
+| The founder-to-minister pivot isn’t the problem, ASEAN’s missing governance infrastructure is | $0 | — | 0 | 0 | dormant |
 | M 5.0 - 281 km SSE of Dunhuang, China | $0 | — | 0 | 0 | dormant |
 | M 5.8 - Kermadec Islands, New Zealand | $0 | — | 0 | 0 | dormant |
 | GitHub Advanced Security expands trial availability | $0 | — | 0 | 0 | dormant |
