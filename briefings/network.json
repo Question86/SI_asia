@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-19T02:01:19+00:00",
+  "generated_at": "2026-09-19T02:28:57+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 4,
-    "clusters": 4,
+    "findings": 5,
+    "clusters": 5,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 0,
@@ -11,8 +11,8 @@
   },
   "clusters": [
     {
-      "key": "title:newsjp",
-      "title": "米軍、AI誤報で作戦計画 中国船に「核部品」、直前中止 | NEWSjp",
+      "key": "domain:forbesjapan.com",
+      "title": "学位なしで年収1500万円超を狙える「無料のAI認定資格」3選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
       "sources": [
         "Hatena Bookmark Hotentry IT"
       ],
@@ -20,20 +20,20 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://news.jp/i/1473810070062515120"
+        "https://forbesjapan.com/articles/detail/104778"
       ],
       "finding_count": 1,
-      "max_score": 8,
+      "max_score": 11,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
-      "network_score": 12.0,
+      "network_score": 15.0,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 13.1,
-      "ranking_score": 12.0,
+      "raw_network_score": 16.1,
+      "ranking_score": 15.0,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
@@ -46,7 +46,7 @@
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-09-19T02:01:19+00:00"
+      "first_seen_at": "2026-09-19T02:28:57+00:00"
     },
     {
       "key": "domain:www.nikkei.com",
@@ -85,6 +85,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-06-19T02:10:07+00:00"
+    },
+    {
+      "key": "title:newsjp",
+      "title": "米軍、AI誤報で作戦計画 中国船に「核部品」、直前中止 | NEWSjp",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://news.jp/i/1473810070062515120"
+      ],
+      "finding_count": 1,
+      "max_score": 8,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 9.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 10.1,
+      "ranking_score": 9.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-19T02:01:19+00:00"
     },
     {
       "key": "domain:gigazine.net",
@@ -165,7 +203,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-19T02:01:19Z",
+    "generated_at": "2026-09-19T02:28:58Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

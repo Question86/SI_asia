@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T02:01:15+00:00",
-  "run_id": "2026-09-19T02:01:15+00:00",
+  "generated_at": "2026-09-19T02:28:54+00:00",
+  "run_id": "2026-09-19T02:28:54+00:00",
   "date": "2026-09-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 4
+      "configured_public_sources_only": 5
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,17 +19,39 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 4,
-    "displayed_findings": 4,
+    "today_file_total": 5,
+    "displayed_findings": 5,
     "high": 0,
     "medium": 0,
-    "observe": 4,
+    "observe": 5,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [],
     "observe": [
+      {
+        "title": "学位なしで年収1500万円超を狙える「無料のAI認定資格」3選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+        "url": "https://forbesjapan.com/articles/detail/104778",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-18T09:39:13+00:00",
+        "fetched_at": "2026-09-19T02:28:24+00:00",
+        "summary": "Indeedによれば、2025年12月に全求人のうちAIに言及したものは4.2％に達し、同プラットフォームで過去最高を記録した。知識労働（ナレッジワーク）領域では、データ・アナリティクス系求人の約45％がAIに触れている。 一方でLinkedInの報告では、AI関連求人は2023年以降おおよそ2倍に増え、標準的なAI求人の提示報酬は約...",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "39f549120d2b4f279d79"
+      },
       {
         "title": "米アンソロピックが生物学の実験施設 AIを創薬に活用 - 日本経済新聞",
         "url": "https://www.nikkei.com/article/DGXZQOGN18CET0Y6A910C2000000/",
@@ -122,6 +144,28 @@
   },
   "findings": [
     {
+      "title": "学位なしで年収1500万円超を狙える「無料のAI認定資格」3選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+      "url": "https://forbesjapan.com/articles/detail/104778",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-18T09:39:13+00:00",
+      "fetched_at": "2026-09-19T02:28:24+00:00",
+      "summary": "Indeedによれば、2025年12月に全求人のうちAIに言及したものは4.2％に達し、同プラットフォームで過去最高を記録した。知識労働（ナレッジワーク）領域では、データ・アナリティクス系求人の約45％がAIに触れている。 一方でLinkedInの報告では、AI関連求人は2023年以降おおよそ2倍に増え、標準的なAI求人の提示報酬は約...",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "39f549120d2b4f279d79"
+    },
+    {
       "title": "米アンソロピックが生物学の実験施設 AIを創薬に活用 - 日本経済新聞",
       "url": "https://www.nikkei.com/article/DGXZQOGN18CET0Y6A910C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -212,26 +256,26 @@
   ],
   "new_findings": [
     {
-      "title": "米軍、AI誤報で作戦計画 中国船に「核部品」、直前中止 | NEWSjp",
-      "url": "https://news.jp/i/1473810070062515120",
+      "title": "学位なしで年収1500万円超を狙える「無料のAI認定資格」3選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
+      "url": "https://forbesjapan.com/articles/detail/104778",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-18T23:35:39+00:00",
-      "fetched_at": "2026-09-19T02:00:43+00:00",
-      "summary": "【ワシントン共同】米CNNテレビは18日、米軍がイランと交戦中だった今年春、人工知能（AI）を利用して作成された誤った情報を基に、中東海域で中国船に対する軍事作戦を計画していたと報じた。「核兵器開発計画の部品を運搬している」との内容で、直前に誤報だと判明し、中止したという。関係者の話としている。 中国船...",
+      "published_at": "2026-09-18T09:39:13+00:00",
+      "fetched_at": "2026-09-19T02:28:24+00:00",
+      "summary": "Indeedによれば、2025年12月に全求人のうちAIに言及したものは4.2％に達し、同プラットフォームで過去最高を記録した。知識労働（ナレッジワーク）領域では、データ・アナリティクス系求人の約45％がAIに触れている。 一方でLinkedInの報告では、AI関連求人は2023年以降おおよそ2倍に増え、標準的なAI求人の提示報酬は約...",
       "matched_keywords": [
-        "AI/KI",
+        "APAC Trend Radar",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 11,
+      "relevance_reason": "APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "b6d1380fc684c330a5d0"
+      "id": "39f549120d2b4f279d79"
     }
   ],
   "source_errors": [],
