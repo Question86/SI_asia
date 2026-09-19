@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-19T07:09:01+00:00_
+_Generiert: 2026-09-19T07:23:59+00:00_
 
 ## Kurzlage
 
-11 neue relevante Treffer. Stärkstes Signal: „GitHub - tamaratran/fast-jev-compaction: Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.“ aus Hatena Bookmark Hotentry IT (Score 20, observation).
+12 neue relevante Treffer. Stärkstes Signal: „Codexを使うなら、config.tomlとAGENTS.mdを押さえておきたい - じゃあ、おうちで学べる“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -65,6 +65,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Codexを使うなら、config.tomlとAGENTS.mdを押さえておきたい - じゃあ、おうちで学べる** — Score 23, observation — [Quelle](https://syu-m-5151.hatenablog.com/entry/2026/09/19/112330)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-19T02:40:03+00:00`, fetched `2026-09-19T07:23:30+00:00`
+  - Treffer: agent, AI Agents, Hatena, hotentry, OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+7.5); AI Agents (+5.0); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: はじめに Claude Codeでは、settings.jsonとCLAUDE.mdを分けて設定する話を書きました。Codexにも、実行する環境を設定するファイルと、仕事の進め方を伝えるファイルがあります。config.toml と AGENTS.md です。 さらにClaude Codeの公式リポジトリにも、AGENTS.mdを読み込むagents-md modが追加されました。CodexとCl...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **GitHub - tamaratran/fast-jev-compaction: Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.** — Score 20, observation — [Quelle](https://github.com/tamaratran/fast-jev-compaction)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-18T16:33:31+00:00`, fetched `2026-09-19T04:24:22+00:00`
