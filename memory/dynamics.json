@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-19T07:49:04Z",
+  "generated_at": "2026-09-19T08:16:31Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 29,
@@ -22,7 +22,7 @@
       "url": "https://syu-m-5151.hatenablog.com/entry/2026/09/19/112330",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-17T12:27:55+00:00",
-      "age_days": 1.81,
+      "age_days": 1.83,
       "topics": [
         "ai"
       ],
@@ -33,12 +33,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 8.0,
+      "baseline_z_hint": 7.7,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 8.00",
+        "baseline z_hint 7.70",
         "high terms: rce, code",
         "security high-signal: rce, code",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
@@ -50,7 +50,7 @@
       "url": "https://github.com/tamaratran/fast-jev-compaction",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T04:24:55+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -73,37 +73,11 @@
       "summary": ""
     },
     {
-      "title": "M 4.6 - 57 km ESE of Koseda, Japan",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tii4",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-14T11:31:15+00:00",
-      "age_days": 4.85,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 2.9,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 2.90",
-        "krass gate: single-source non-official/non-identity signal capped"
-      ],
-      "summary": ""
-    },
-    {
       "title": "M 5.2 - 210 km WNW of Abepura, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tih8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-19T04:33:48.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -124,11 +98,35 @@
       "summary": "Time 2026-09-19 04:18:35 UTC 2026-09-19 04:18:35 UTC at epicenter Location 1.856°S 138.888°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 4.6 - 57 km ESE of Koseda, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tii4",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-14T11:31:15+00:00",
+      "age_days": 4.86,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 22.5,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Codexを使うなら、config.tomlとAGENTS.mdを押さえておきたい - じゃあ、おうちで学べる",
       "url": "https://syu-m-5151.hatenablog.com/entry/2026/09/19/112330",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T02:40:03+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -154,7 +152,7 @@
       "url": "https://github.com/tamaratran/fast-jev-compaction",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-18T16:33:31+00:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [
         "ai"
       ],
@@ -181,7 +179,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tih8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-04T05:31:26+00:00",
-      "age_days": 15.1,
+      "age_days": 15.11,
       "topics": [
         "general"
       ],
@@ -208,7 +206,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tii3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-19T07:29:12.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -233,7 +231,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tii4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-19T07:37:40.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -257,23 +255,23 @@
       "url": "https://openai.com/index/australian-youth-safety-blueprint",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 93.46,
+      "age_days": 93.48,
       "topics": [
         "general"
       ],
-      "dynamics_score": 17.89,
+      "dynamics_score": 17.67,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 2.63,
+      "baseline_z_hint": 2.43,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 2.63",
+        "baseline z_hint 2.43",
         "aging penalty -8.0 for 93.5d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
@@ -284,7 +282,7 @@
       "url": "https://github.com/browser-use/jev-ultrafast",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T00:56:48+00:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -304,11 +302,35 @@
       "summary": ""
     },
     {
+      "title": "M 4.9 - 117 km NW of Barranca, Peru",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tii3",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-19T07:33:09+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2"
+      ],
+      "summary": ""
+    },
+    {
       "title": "【福田昭のセミコン業界最前線】 DRAMとNANDの暴騰で、想定外の急激な膨張を続ける2026年の半導体市場",
       "url": "https://pc.watch.impress.co.jp/docs/column/semicon/2142421.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T06:18:56+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -332,7 +354,7 @@
       "url": "https://www.itmedia.co.jp/mobile/articles/2609/19/news002.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-09T12:51:45+00:00",
-      "age_days": 9.79,
+      "age_days": 9.81,
       "topics": [
         "general"
       ],
@@ -352,35 +374,11 @@
       "summary": ""
     },
     {
-      "title": "M 4.9 - 117 km NW of Barranca, Peru",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tii3",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-19T07:33:09+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 13.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "学位なしで年収1500万円超を狙える「無料のAI認定資格」3選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
       "url": "https://forbesjapan.com/articles/detail/104778",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T02:28:57+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -406,7 +404,7 @@
       "url": "https://news.jp/i/1473810070062515120",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T02:01:19+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -432,7 +430,7 @@
       "url": "https://forbesjapan.com/articles/detail/104778",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-18T09:39:13+00:00",
-      "age_days": 0.92,
+      "age_days": 0.94,
       "topics": [
         "ai"
       ],
@@ -458,7 +456,7 @@
       "url": "https://github.com/browser-use/jev-ultrafast",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-17T06:48:22+00:00",
-      "age_days": 2.04,
+      "age_days": 2.06,
       "topics": [
         "general"
       ],
@@ -482,7 +480,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN190C40Z10C26A9000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T01:53:51+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "ai"
       ],
@@ -508,7 +506,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN18CET0Y6A910C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-18T22:51:23+00:00",
-      "age_days": 0.37,
+      "age_days": 0.39,
       "topics": [
         "ai"
       ],
@@ -534,7 +532,7 @@
       "url": "https://openai.com/index/australian-youth-safety-blueprint",
       "source": "OpenAI News RSS",
       "published_at": "2026-09-18T12:00:00+00:00",
-      "age_days": 0.83,
+      "age_days": 0.84,
       "topics": [
         "ai"
       ],
@@ -559,7 +557,7 @@
       "url": "https://news.web.nhk/newsweb/na/nd-20260919de51229",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 21.74,
+      "age_days": 21.76,
       "topics": [
         "ai"
       ],
@@ -576,7 +574,7 @@
       "why": [
         "momentum delta +3",
         "single-source AI hype brake -8.0",
-        "aging penalty -0.3 for 21.7d old signal",
+        "aging penalty -0.3 for 21.8d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -586,7 +584,7 @@
       "url": "https://news.jp/i/1473810070062515120",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-18T23:35:39+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "ai"
       ],
@@ -612,7 +610,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/column/semicon/2142421.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T03:40:11+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -636,7 +634,7 @@
       "url": "https://www.itmedia.co.jp/mobile/articles/2609/19/news002.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T01:13:17+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -660,25 +658,25 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN190C40Z10C26A9000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T02:10:07+00:00",
-      "age_days": 92.24,
+      "age_days": 92.25,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 3.86,
+      "dynamics_score": 3.89,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.78,
+      "baseline_z_hint": 0.81,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 0.78",
+        "baseline z_hint 0.81",
         "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 92.2d old signal",
+        "aging penalty -8.0 for 92.3d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -688,7 +686,7 @@
       "url": "https://gigazine.net/news/20260918-more-people-expect-ai-job-loss/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 92.24,
+      "age_days": 92.26,
       "topics": [
         "ai"
       ],
@@ -705,7 +703,7 @@
       "why": [
         "momentum delta +3",
         "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 92.2d old signal",
+        "aging penalty -8.0 for 92.3d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -715,7 +713,7 @@
       "url": "https://gigazine.net/news/20260918-more-people-expect-ai-job-loss/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-18T07:39:00+00:00",
-      "age_days": 1.01,
+      "age_days": 1.03,
       "topics": [
         "ai"
       ],
@@ -740,7 +738,7 @@
       "url": "https://news.web.nhk/newsweb/na/nd-20260919de51229",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T04:41:01+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
