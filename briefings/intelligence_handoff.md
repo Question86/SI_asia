@@ -1,28 +1,28 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-19T15:49:23Z_
+_Generated: 2026-09-19T16:12:52Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “東プレから分割キーボード「REALFORCE RS1」登場｜79キー日本語配列・有線接続 - TALPKEYBOARD BLOG” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.
+Stärkste Dynamik nach Gate-Recheck: “東プレから分割キーボード「REALFORCE RS1」登場｜79キー日本語配列・有線接続 - TALPKEYBOARD BLOG” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.
 
 ## Top Dynamics
 
 ### 東プレから分割キーボード「REALFORCE RS1」登場｜79キー日本語配列・有線接続 - TALPKEYBOARD BLOG
 
-- Band: `strong` (raw `strong`)
-- Dynamics score: `26.0`
-- Published: `2026-09-19T15:38:44+00:00` / age_days `0.01`
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-09-19T15:38:44+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: momentum delta +1, high terms: rce, security high-signal: rce
+- Warum: momentum delta +3, high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
 - Quelle: https://www.talpkeyboard.com/entry/topre-realforcers1-keyboard-info
 
 ### Codexを使うなら、config.tomlとAGENTS.mdを押さえておきたい - じゃあ、おうちで学べる
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-17T12:27:55+00:00` / age_days `2.14`
+- Published: `2026-09-17T12:27:55+00:00` / age_days `2.16`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, high terms: rce, code, security high-signal: rce, code, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “東プレから分割キーボード「R
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.9`
-- Published: `2026-09-19T04:24:55+00:00` / age_days `0.48`
+- Published: `2026-09-19T04:24:55+00:00` / age_days `0.49`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -41,18 +41,18 @@ Stärkste Dynamik nach Gate-Recheck: “東プレから分割キーボード「R
 ### M 4.6 - 25 km NW of Ushibukamachi, Japan
 
 - Band: `strong` (raw `strong`)
-- Dynamics score: `23.12`
-- Published: `2026-09-14T11:31:15+00:00` / age_days `5.18`
+- Dynamics score: `23.0`
+- Published: `2026-09-14T11:31:15+00:00` / age_days `5.2`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, baseline z_hint 0.89
+- Warum: momentum delta +3, baseline z_hint 0.71
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tijd
 
 ### M 4.6 - 25 km NW of Ushibukamachi, Japan
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-19T12:32:50.117+00:00` / age_days `0.14`
+- Published: `2026-09-19T12:32:50.117+00:00` / age_days `0.15`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10, 9.8
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “東プレから分割キーボード「R
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-19T08:02:59.040+00:00` / age_days `0.32`
+- Published: `2026-09-19T08:02:59.040+00:00` / age_days `0.34`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “東プレから分割キーボード「R
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-19T04:33:48.040+00:00` / age_days `0.47`
+- Published: `2026-09-19T04:33:48.040+00:00` / age_days `0.49`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “東プレから分割キーボード「R
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.0`
-- Published: `2026-09-19T09:01:46+00:00` / age_days `0.28`
+- Published: `2026-09-19T09:01:46+00:00` / age_days `0.3`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, 10, security high-signal: rce, 10
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “東プレから分割キーボード「R
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-09-19T14:18:56+00:00` / age_days `0.06`
+- Published: `2026-09-19T14:18:56+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “東プレから分割キーボード「R
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.0`
-- Published: `2026-09-19T02:40:03+00:00` / age_days `0.55`
+- Published: `2026-09-19T02:40:03+00:00` / age_days `0.56`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “東プレから分割キーボード「R
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.0`
-- Published: `2026-09-18T16:33:31+00:00` / age_days `0.97`
+- Published: `2026-09-18T16:33:31+00:00` / age_days `0.99`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: early terms: supply, chain, high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “東プレから分割キーボード「R
 
 - Band: `watch` (raw `krass`)
 - Dynamics score: `19.9`
-- Published: `2026-09-03T21:47:43+00:00` / age_days `15.75`
+- Published: `2026-09-03T21:47:43+00:00` / age_days `15.77`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: 10, krass gate: single-source non-official/non-identity signal capped, stale single-source cap: max watch after 14d without fresh resonance

@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-19T15:49:23Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “東プレから分割キーボード「REALFORCE RS1」登場｜79キー日本語配列・有線接続 - TALPKEYBOARD BLOG” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
+  "generated_at": "2026-09-19T16:12:52Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “東プレから分割キーボード「REALFORCE RS1」登場｜79キー日本語配列・有線接続 - TALPKEYBOARD BLOG” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -15,24 +15,25 @@
       "url": "https://www.talpkeyboard.com/entry/topre-realforcers1-keyboard-info",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T15:38:44+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "general"
       ],
-      "dynamics_score": 26.0,
-      "raw_band": "strong",
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1",
+        "momentum delta +3",
         "high terms: rce",
-        "security high-signal: rce"
+        "security high-signal: rce",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
       ],
       "summary": ""
     },
@@ -41,7 +42,7 @@
       "url": "https://syu-m-5151.hatenablog.com/entry/2026/09/19/112330",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-17T12:27:55+00:00",
-      "age_days": 2.14,
+      "age_days": 2.16,
       "topics": [
         "ai"
       ],
@@ -68,7 +69,7 @@
       "url": "https://github.com/tamaratran/fast-jev-compaction",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T04:24:55+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "ai"
       ],
@@ -95,23 +96,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tijd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-14T11:31:15+00:00",
-      "age_days": 5.18,
+      "age_days": 5.2,
       "topics": [
         "general"
       ],
-      "dynamics_score": 23.12,
+      "dynamics_score": 23.0,
       "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.89,
+      "baseline_z_hint": 0.71,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 0.89"
+        "baseline z_hint 0.71"
       ],
       "summary": ""
     },
@@ -120,7 +121,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tijd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-19T12:32:50.117+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "disaster"
       ],
@@ -145,7 +146,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiib",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-19T08:02:59.040+00:00",
-      "age_days": 0.32,
+      "age_days": 0.34,
       "topics": [
         "disaster"
       ],
@@ -170,7 +171,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tih8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-19T04:33:48.040+00:00",
-      "age_days": 0.47,
+      "age_days": 0.49,
       "topics": [
         "disaster"
       ],
@@ -195,7 +196,7 @@
       "url": "https://www.talpkeyboard.com/entry/topre-realforcers1-keyboard-info",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T09:01:46+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "general"
       ],
@@ -220,7 +221,7 @@
       "url": "https://jev-guide.take-otani.workers.dev/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T14:18:56+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -244,7 +245,7 @@
       "url": "https://syu-m-5151.hatenablog.com/entry/2026/09/19/112330",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T02:40:03+00:00",
-      "age_days": 0.55,
+      "age_days": 0.56,
       "topics": [
         "ai"
       ],
@@ -270,7 +271,7 @@
       "url": "https://github.com/tamaratran/fast-jev-compaction",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-18T16:33:31+00:00",
-      "age_days": 0.97,
+      "age_days": 0.99,
       "topics": [
         "ai"
       ],
@@ -297,7 +298,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiib",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T21:47:43+00:00",
-      "age_days": 15.75,
+      "age_days": 15.77,
       "topics": [
         "general"
       ],
