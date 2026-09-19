@@ -1,7 +1,32 @@
 {
-  "generated_at": "2026-09-19T04:03:18+00:00",
-  "today_file_total": 5,
+  "generated_at": "2026-09-19T04:24:55+00:00",
+  "today_file_total": 6,
   "current_clusters": [
+    {
+      "key": "github_repo:tamaratran/fast-jev-compaction",
+      "title": "GitHub - tamaratran/fast-jev-compaction: Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.com/tamaratran/fast-jev-compaction"
+      ],
+      "finding_count": 1,
+      "max_score": 20,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 25.1,
+      "hot": true,
+      "watchgraph_modules": [
+        "software_supply_chain"
+      ],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
     {
       "key": "domain:forbesjapan.com",
       "title": "学位なしで年収1500万円超を狙える「無料のAI認定資格」3選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
