@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-19T12:00:55+00:00",
+  "generated_at": "2026-09-19T12:28:01+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 20,
-    "displayed_findings": 20,
+    "new_relevant_findings": 1,
+    "today_file_total": 21,
+    "displayed_findings": 21,
     "high": 0,
     "medium": 6,
-    "observe": 14
+    "observe": 15
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -65,6 +65,16 @@
       "section": "observe"
     },
     {
+      "title": "Claude Mods 入門 | Claude Codeを自由にカスタマイズする",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-19T03:46:21+00:00",
+      "relevance_score": 11,
+      "url": "https://zenn.dev/nogu66/articles/claude-code-function-hooks-claude-mods",
+      "summary": "本記事は Claude Code Issue #91870 で議論中の暫定仕様（2026年9月19日時点）をもとにしています。APIは今後変更される可能性があるため、最新情報は公式サイトを参照してください。 noguです。 先日、Claude CodeにClaude Modsという機能が公開されました。 これは、TypeScriptの関数を用いて、Claude Codeの機能や見...",
+      "section": "observe"
+    },
+    {
       "title": "学位なしで年収1500万円超を狙える「無料のAI認定資格」3選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
@@ -83,16 +93,6 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN190C40Z10C26A9000000/",
       "summary": "【シリコンバレー=伴正春】米グーグルが開発中の人工知能（AI）が5月に実在する外部企業3社のシステムに侵入していたことが18日わかった。評価テストで誤ってインターネットに接続できる設定になっていた。AI自身が侵入に気付き、動作を止めたという。米紙ウォール・ストリート・ジャーナル（WSJ）が報じた。グーグルは...",
       "section": "observe"
-    },
-    {
-      "title": "米アンソロピックが生物学の実験施設 AIを創薬に活用 - 日本経済新聞",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-18T22:51:23+00:00",
-      "relevance_score": 10,
-      "url": "https://www.nikkei.com/article/DGXZQOGN18CET0Y6A910C2000000/",
-      "summary": "【シリコンバレー=山田遼太郎】米新興アンソロピックが人工知能（AI）を応用し、生物学の研究をする実験施設を設けたことが18日明らかになった。ロイター通信が報じた。希少疾患の治療薬の開発などを目指しているとみられる。ロイターによると、アンソロピックは細胞や試薬を用いて実験する「ウエットラボ」と呼ばれる施...",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -100,142 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Codexを使うなら、config.tomlとAGENTS.mdを押さえておきたい - じゃあ、おうちで学べる” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Codexを使うなら、config.tomlとAGENTS.mdを押さえておきたい - じゃあ、おうちで学べる",
-        "url": "https://syu-m-5151.hatenablog.com/entry/2026/09/19/112330",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-17T12:27:55+00:00",
-        "age_days": 1.99,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.8,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "baseline z_hint 0.80",
-          "high terms: rce, code",
-          "security high-signal: rce, code",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "GitHub - tamaratran/fast-jev-compaction: Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verba…",
-        "url": "https://github.com/tamaratran/fast-jev-compaction",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-19T04:24:55+00:00",
-        "age_days": 0.33,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "high terms: code",
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "M 4.8 - 210 km W of Abepura, Indonesia",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiib",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-19T08:02:59.040+00:00",
-        "age_days": 0.18,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 23.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake",
-          "high terms: 10"
-        ],
-        "summary": "Time 2026-09-19 07:44:25 UTC 2026-09-19 07:44:25 UTC at epicenter Location 2.587°S 138.738°E Depth 10.00 km (6.21 mi)"
-      },
-      {
-        "title": "M 5.2 - 210 km WNW of Abepura, Indonesia",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tih8",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-19T04:33:48.040+00:00",
-        "age_days": 0.32,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 23.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake",
-          "high terms: 10"
-        ],
-        "summary": "Time 2026-09-19 04:18:35 UTC 2026-09-19 04:18:35 UTC at epicenter Location 1.856°S 138.888°E Depth 10.00 km (6.21 mi)"
-      },
-      {
-        "title": "M 4.6 - 57 km ESE of Koseda, Japan",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tii4",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-14T11:31:15+00:00",
-        "age_days": 5.03,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 22.5,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }

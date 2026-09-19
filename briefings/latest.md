@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-19T12:00:55+00:00_
+_Generiert: 2026-09-19T12:28:01+00:00_
 
 ## Kurzlage
 
-20 neue relevante Treffer. Stärkstes Signal: „Codexを使うなら、config.tomlとAGENTS.mdを押さえておきたい - じゃあ、おうちで学べる“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+21 neue relevante Treffer. Stärkstes Signal: „Codexを使うなら、config.tomlとAGENTS.mdを押さえておきたい - じゃあ、おうちで学べる“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -131,6 +131,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-19 07:12:27 UTC 2026-09-19 07:12:27 UTC at epicenter Location 4.013°S 77.349°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Claude Mods 入門 | Claude Codeを自由にカスタマイズする** — Score 11, observation — [Quelle](https://zenn.dev/nogu66/articles/claude-code-function-hooks-claude-mods)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-19T03:46:21+00:00`, fetched `2026-09-19T12:27:30+00:00`
+  - Treffer: AI Agents, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 本記事は Claude Code Issue #91870 で議論中の暫定仕様（2026年9月19日時点）をもとにしています。APIは今後変更される可能性があるため、最新情報は公式サイトを参照してください。 noguです。 先日、Claude CodeにClaude Modsという機能が公開されました。 これは、TypeScriptの関数を用いて、Claude Codeの機能や見...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **学位なしで年収1500万円超を狙える「無料のAI認定資格」3選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）** — Score 11, observation — [Quelle](https://forbesjapan.com/articles/detail/104778)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-18T09:39:13+00:00`, fetched `2026-09-19T02:28:24+00:00`
@@ -148,15 +157,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
   - Kurz: 【シリコンバレー=伴正春】米グーグルが開発中の人工知能（AI）が5月に実在する外部企業3社のシステムに侵入していたことが18日わかった。評価テストで誤ってインターネットに接続できる設定になっていた。AI自身が侵入に気付き、動作を止めたという。米紙ウォール・ストリート・ジャーナル（WSJ）が報じた。グーグルは...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **米アンソロピックが生物学の実験施設 AIを創薬に活用 - 日本経済新聞** — Score 10, observation — [Quelle](https://www.nikkei.com/article/DGXZQOGN18CET0Y6A910C2000000/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-18T22:51:23+00:00`, fetched `2026-09-19T01:21:50+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
-  - Kurz: 【シリコンバレー=山田遼太郎】米新興アンソロピックが人工知能（AI）を応用し、生物学の研究をする実験施設を設けたことが18日明らかになった。ロイター通信が報じた。希少疾患の治療薬の開発などを目指しているとみられる。ロイターによると、アンソロピックは細胞や試薬を用いて実験する「ウエットラボ」と呼ばれる施...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.8 - 18 km SW of Mongar, Bhutan** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiiz)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`

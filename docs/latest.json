@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T12:00:55+00:00",
-  "run_id": "2026-09-19T12:00:55+00:00",
+  "generated_at": "2026-09-19T12:28:01+00:00",
+  "run_id": "2026-09-19T12:28:01+00:00",
   "date": "2026-09-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 20
+      "configured_public_sources_only": 21
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 20,
-    "displayed_findings": 20,
+    "new_relevant_findings": 1,
+    "today_file_total": 21,
+    "displayed_findings": 21,
     "high": 0,
     "medium": 6,
-    "observe": 14,
+    "observe": 15,
     "source_errors": 0
   },
   "sections": {
@@ -293,6 +293,28 @@
           "LOW"
         ],
         "id": "c413e2621cd624fd1ed3"
+      },
+      {
+        "title": "Claude Mods 入門 | Claude Codeを自由にカスタマイズする",
+        "url": "https://zenn.dev/nogu66/articles/claude-code-function-hooks-claude-mods",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-19T03:46:21+00:00",
+        "fetched_at": "2026-09-19T12:27:30+00:00",
+        "summary": "本記事は Claude Code Issue #91870 で議論中の暫定仕様（2026年9月19日時点）をもとにしています。APIは今後変更される可能性があるため、最新情報は公式サイトを参照してください。 noguです。 先日、Claude CodeにClaude Modsという機能が公開されました。 これは、TypeScriptの関数を用いて、Claude Codeの機能や見...",
+        "matched_keywords": [
+          "AI Agents",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "cd306803d9f12e169195"
       },
       {
         "title": "学位なしで年収1500万円超を狙える「無料のAI認定資格」3選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
@@ -886,6 +908,28 @@
       "id": "c413e2621cd624fd1ed3"
     },
     {
+      "title": "Claude Mods 入門 | Claude Codeを自由にカスタマイズする",
+      "url": "https://zenn.dev/nogu66/articles/claude-code-function-hooks-claude-mods",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-19T03:46:21+00:00",
+      "fetched_at": "2026-09-19T12:27:30+00:00",
+      "summary": "本記事は Claude Code Issue #91870 で議論中の暫定仕様（2026年9月19日時点）をもとにしています。APIは今後変更される可能性があるため、最新情報は公式サイトを参照してください。 noguです。 先日、Claude CodeにClaude Modsという機能が公開されました。 これは、TypeScriptの関数を用いて、Claude Codeの機能や見...",
+      "matched_keywords": [
+        "AI Agents",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cd306803d9f12e169195"
+    },
+    {
       "title": "学位なしで年収1500万円超を狙える「無料のAI認定資格」3選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
       "url": "https://forbesjapan.com/articles/detail/104778",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1211,7 +1255,30 @@
       "id": "ed07d610899bb0b33dff"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Claude Mods 入門 | Claude Codeを自由にカスタマイズする",
+      "url": "https://zenn.dev/nogu66/articles/claude-code-function-hooks-claude-mods",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-19T03:46:21+00:00",
+      "fetched_at": "2026-09-19T12:27:30+00:00",
+      "summary": "本記事は Claude Code Issue #91870 で議論中の暫定仕様（2026年9月19日時点）をもとにしています。APIは今後変更される可能性があるため、最新情報は公式サイトを参照してください。 noguです。 先日、Claude CodeにClaude Modsという機能が公開されました。 これは、TypeScriptの関数を用いて、Claude Codeの機能や見...",
+      "matched_keywords": [
+        "AI Agents",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cd306803d9f12e169195"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
