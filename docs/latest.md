@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-19T05:56:42+00:00_
+_Generiert: 2026-09-19T06:18:53+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „GitHub - tamaratran/fast-jev-compaction: Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.“ aus Hatena Bookmark Hotentry IT (Score 20, observation).
+11 neue relevante Treffer. Stärkstes Signal: „GitHub - tamaratran/fast-jev-compaction: Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.“ aus Hatena Bookmark Hotentry IT (Score 20, observation).
 
 ## Priorität Hoch
 
