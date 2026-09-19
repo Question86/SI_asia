@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-19T02:44:59+00:00_
+_Generiert: 2026-09-19T02:53:18+00:00_
 
 ## Kurzlage
 
-5 neue relevante Treffer. Stärkstes Signal: „学位なしで年収1500万円超を狙える「無料のAI認定資格」3選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）“ aus Hatena Bookmark Hotentry IT (Score 11, observation).
+5 neue relevante Treffer. Stärkstes Signal: „学位なしで年収1500万円超を狙える「無料のAI認定資格」3選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）“ aus Hatena Bookmark Hotentry IT (Score 11, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -51,3 +51,7 @@ Keine neuen mittleren Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `e27_asia_startups_feed` (rss): 500 Server Error: Internal Server Error for url: https://e27.co/index_wp.php/feed/
