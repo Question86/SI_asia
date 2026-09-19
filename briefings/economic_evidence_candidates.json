@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-09-19T21:29:13+00:00",
-  "candidate_count": 869,
+  "generated_at": "2026-09-19T21:39:59+00:00",
+  "candidate_count": 871,
   "candidates": [
     {
       "amount_native": 1755400000000.0,
@@ -17144,6 +17144,24 @@
       "source_url": "https://www.docswell.com/s/3402128/KVJYJ3-2026-09-15-202358"
     },
     {
+      "candidate_id": "cand_feb4ed371367940d755e",
+      "event_id": "evt_b6fb52cecf38c467c1d5",
+      "source_url": "https://zenn.dev/mizchi/articles/jev-lint-intro",
+      "observed_at": "2026-09-19T21:39:53+00:00",
+      "currency": "USD",
+      "amount_native": 5.0,
+      "amount_usd": 5.0,
+      "conversion_status": "not_required",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_b6fb52cecf38c467c1d5:unclassified",
+      "attribution_probability": null,
+      "snippet": "055) 1 関数の diff に絞って検査して 0.02 円、数ファイルの diff で 0.1〜1 円 --dry-run で送る前に見積もれますが、実測より 1 割ほど高めに出ます。あくまで参考値です。繰り返しコード全文を送るような用途だとさすがに膨れそうですね。会社で使うぐらいなら誤差です。 これを作ってる過程で、typesafe の最初に配られた $5 の最初のトークンを使い切りました。 作ってみた感想 jev を使った新規性と実用性を考えたとき、やはり「静的検査で取りこぼす処理に、脳を入れて対応する」というのが、自分にとっては一番自然に思えました。 前に作った similarity という類似コード検査も、結局がコピペを繰り返す対策だったので、AIに対する検査器を書く、というのは今後も重要だと考えています",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "secondary_or_unknown",
+      "candidate_confidence": 0.35,
+      "review_status": "pending"
+    },
+    {
       "amount_native": 4.0,
       "amount_usd": 4.0,
       "attribution_probability": null,
@@ -17787,6 +17805,24 @@
       "snippet": "ったら、 石炭の消費は減らずに増えた 安くなると、割に合わなかった使い方が増える TypeSafe は、知能も同じ道をたどると見ている 13 何が嬉しいの？ 発表ブログの比較表から 学習のさせ方 返ってくるもの 生成のしかた 速さ 料金 自信 これまでの LLM 人の好みに合わせる（RLHF） 文字列。パースが要る 1トークンずつ順番に 3〜329秒 入力 $0.2〜10、出力は約5倍 聞いても過大 Jev 較正された判断（RLCD） 型の決まった値と確率 1回の呼び出しで同時に 0.07〜0.5秒 入力 $0.042、出力 $0 常に確信度を返す 14 出力トークンは無料。計測するまでもない安さ 入力は 100万トークンで $0.042。10億トークンでも $42 出力の欄は「FREE（too cheap to me",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://speakerdeck.com/minorun365/konwadai-no-ai-jev-tte-nani-uchuu-saisoku-de-manabu-kai"
+    },
+    {
+      "candidate_id": "cand_241ce4be7d7b2b635880",
+      "event_id": "evt_b6fb52cecf38c467c1d5",
+      "source_url": "https://zenn.dev/mizchi/articles/jev-lint-intro",
+      "observed_at": "2026-09-19T21:39:53+00:00",
+      "currency": "USD",
+      "amount_native": 0.055,
+      "amount_usd": 0.055,
+      "conversion_status": "not_required",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_b6fb52cecf38c467c1d5:unclassified",
+      "attribution_probability": null,
+      "snippet": "auto を付けると、ルール単位のバッチとどちらが安いかを送る前に見積もって選びます。ルール単位はリクエスト数が減る代わりに精度が少し落ちるので、デフォルトにはしていません。 コスト感 jev-lint 自体に、ビルトインのルールで検査を掛けたところ、 約 9,800 行、22 ルール、1,950 subject に対して、7.7 秒掛かって約 8 円 ($0.055) 1 関数の diff に絞って検査して 0.02 円、数ファイルの diff で 0.1〜1 円 --dry-run で送る前に見積もれますが、実測より 1 割ほど高めに出ます。あくまで参考値です。繰り返しコード全文を送るような用途だとさすがに膨れそうですね。会社で使うぐらいなら誤差です。 これを作ってる過程で、typesafe の最初に配られた $5",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "secondary_or_unknown",
+      "candidate_confidence": 0.35,
+      "review_status": "pending"
     },
     {
       "amount_native": 0.042,
