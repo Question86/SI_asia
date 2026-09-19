@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-19T12:51:07Z",
+  "generated_at": "2026-09-19T13:12:27Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -22,7 +22,7 @@
       "url": "https://syu-m-5151.hatenablog.com/entry/2026/09/19/112330",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-17T12:27:55+00:00",
-      "age_days": 2.02,
+      "age_days": 2.03,
       "topics": [
         "ai"
       ],
@@ -33,12 +33,11 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.2,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 0.20",
         "high terms: rce, code",
         "security high-signal: rce, code",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
@@ -50,7 +49,7 @@
       "url": "https://github.com/tamaratran/fast-jev-compaction",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T04:24:55+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "ai"
       ],
@@ -77,24 +76,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tijd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-14T11:31:15+00:00",
-      "age_days": 5.06,
+      "age_days": 5.07,
       "topics": [
         "general"
       ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
+      "dynamics_score": 24.35,
+      "raw_band": "strong",
       "dynamic_band": "strong",
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 5.41,
+      "baseline_z_hint": 2.23,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 5.41",
-        "krass gate: single-source non-official/non-identity signal capped"
+        "baseline z_hint 2.23"
       ],
       "summary": ""
     },
@@ -103,7 +101,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tijd",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-19T12:32:50.117+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -128,7 +126,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiib",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-19T08:02:59.040+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "disaster"
       ],
@@ -153,7 +151,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tih8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-19T04:33:48.040+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "disaster"
       ],
@@ -178,7 +176,7 @@
       "url": "https://syu-m-5151.hatenablog.com/entry/2026/09/19/112330",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T02:40:03+00:00",
-      "age_days": 0.42,
+      "age_days": 0.44,
       "topics": [
         "ai"
       ],
@@ -204,7 +202,7 @@
       "url": "https://github.com/tamaratran/fast-jev-compaction",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-18T16:33:31+00:00",
-      "age_days": 0.85,
+      "age_days": 0.86,
       "topics": [
         "ai"
       ],
@@ -231,7 +229,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiib",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T21:47:43+00:00",
-      "age_days": 15.63,
+      "age_days": 15.64,
       "topics": [
         "general"
       ],
@@ -258,7 +256,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tih8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-04T05:31:26+00:00",
-      "age_days": 15.31,
+      "age_days": 15.32,
       "topics": [
         "general"
       ],
@@ -285,7 +283,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tijf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-19T12:39:10.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
@@ -310,7 +308,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tii3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-19T07:29:12.040+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -335,7 +333,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tii3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-19T07:33:09+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -359,7 +357,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tii4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-19T07:37:40.040+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "disaster"
       ],
@@ -379,11 +377,38 @@
       "summary": "Time 2026-09-19 07:08:23 UTC 2026-09-19 07:08:23 UTC at epicenter Location 30.167°N 131.190°E Depth 38.54 km (23.95 mi)"
     },
     {
+      "title": "Claude Mods 入門 | Claude Codeを自由にカスタマイズする",
+      "url": "https://zenn.dev/nogu66/articles/claude-code-function-hooks-claude-mods",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-19T12:28:04+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "high terms: code",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "GitHub - browser-use/jev-ultrafast: i. am. speed.",
       "url": "https://github.com/browser-use/jev-ultrafast",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T00:56:48+00:00",
-      "age_days": 0.5,
+      "age_days": 0.51,
       "topics": [
         "general"
       ],
@@ -407,7 +432,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiiz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-19T10:49:16.064+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -432,7 +457,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiiz",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-19T10:55:14+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -456,7 +481,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiis",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-04T07:23:48+00:00",
-      "age_days": 15.23,
+      "age_days": 15.24,
       "topics": [
         "general"
       ],
@@ -480,7 +505,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiim",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-19T09:48:38+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -504,22 +529,22 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tijf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-19T12:44:17+00:00",
-      "age_days": 0.0,
+      "age_days": 0.02,
       "topics": [
         "general"
       ],
-      "dynamics_score": 15.4,
+      "dynamics_score": 16.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 2,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1"
+        "momentum delta +2"
       ],
       "summary": ""
     },
@@ -528,7 +553,7 @@
       "url": "https://openai.com/index/australian-youth-safety-blueprint",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 93.67,
+      "age_days": 93.69,
       "topics": [
         "general"
       ],
@@ -554,7 +579,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/column/semicon/2142421.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T06:18:56+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -578,7 +603,7 @@
       "url": "https://www.itmedia.co.jp/mobile/articles/2609/19/news002.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-09T12:51:45+00:00",
-      "age_days": 10.0,
+      "age_days": 10.01,
       "topics": [
         "general"
       ],
@@ -598,38 +623,11 @@
       "summary": ""
     },
     {
-      "title": "Claude Mods 入門 | Claude Codeを自由にカスタマイズする",
-      "url": "https://zenn.dev/nogu66/articles/claude-code-function-hooks-claude-mods",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-19T12:28:04+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 12.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "high terms: code",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "学位なしで年収1500万円超を狙える「無料のAI認定資格」3選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
       "url": "https://forbesjapan.com/articles/detail/104778",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T02:28:57+00:00",
-      "age_days": 0.43,
+      "age_days": 0.45,
       "topics": [
         "ai"
       ],
@@ -655,7 +653,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiis",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-19T10:15:13.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -679,7 +677,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiim",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-19T09:46:41.040+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -703,7 +701,7 @@
       "url": "https://news.jp/i/1473810070062515120",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T02:01:19+00:00",
-      "age_days": 0.45,
+      "age_days": 0.47,
       "topics": [
         "ai"
       ],
@@ -729,7 +727,7 @@
       "url": "https://zenn.dev/nogu66/articles/claude-code-function-hooks-claude-mods",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T03:46:21+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "ai"
       ],
@@ -755,7 +753,7 @@
       "url": "https://forbesjapan.com/articles/detail/104778",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-18T09:39:13+00:00",
-      "age_days": 1.13,
+      "age_days": 1.15,
       "topics": [
         "ai"
       ],
@@ -781,7 +779,7 @@
       "url": "https://github.com/browser-use/jev-ultrafast",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-17T06:48:22+00:00",
-      "age_days": 2.25,
+      "age_days": 2.27,
       "topics": [
         "general"
       ],
@@ -805,7 +803,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN190C40Z10C26A9000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T01:53:51+00:00",
-      "age_days": 0.46,
+      "age_days": 0.47,
       "topics": [
         "ai"
       ],
@@ -831,7 +829,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN18CET0Y6A910C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-18T22:51:23+00:00",
-      "age_days": 0.58,
+      "age_days": 0.6,
       "topics": [
         "ai"
       ],
@@ -857,7 +855,7 @@
       "url": "https://openai.com/index/australian-youth-safety-blueprint",
       "source": "OpenAI News RSS",
       "published_at": "2026-09-18T12:00:00+00:00",
-      "age_days": 1.04,
+      "age_days": 1.05,
       "topics": [
         "ai"
       ],
@@ -882,11 +880,11 @@
       "url": "https://news.web.nhk/newsweb/na/nd-20260919de51229",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 21.95,
+      "age_days": 21.96,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 5.67,
+      "dynamics_score": 5.66,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -899,7 +897,7 @@
       "why": [
         "momentum delta +3",
         "single-source AI hype brake -8.0",
-        "aging penalty -0.3 for 21.9d old signal",
+        "aging penalty -0.3 for 22.0d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -909,7 +907,7 @@
       "url": "https://news.jp/i/1473810070062515120",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-18T23:35:39+00:00",
-      "age_days": 0.55,
+      "age_days": 0.57,
       "topics": [
         "ai"
       ],
@@ -935,7 +933,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/column/semicon/2142421.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T03:40:11+00:00",
-      "age_days": 0.38,
+      "age_days": 0.4,
       "topics": [
         "general"
       ],
@@ -959,7 +957,7 @@
       "url": "https://www.itmedia.co.jp/mobile/articles/2609/19/news002.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T01:13:17+00:00",
-      "age_days": 0.48,
+      "age_days": 0.5,
       "topics": [
         "general"
       ],
@@ -983,7 +981,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN190C40Z10C26A9000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T02:10:07+00:00",
-      "age_days": 92.45,
+      "age_days": 92.46,
       "topics": [
         "ai"
       ],
@@ -1000,7 +998,7 @@
       "why": [
         "momentum delta +3",
         "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 92.4d old signal",
+        "aging penalty -8.0 for 92.5d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -1010,7 +1008,7 @@
       "url": "https://speakerdeck.com/nakanao/ai-ni-makaseta-hinshitsu-ha-dare-ga-mitateru-no-ka-ai-jidai-no-tesuto-manejimento",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 92.45,
+      "age_days": 92.47,
       "topics": [
         "ai"
       ],
