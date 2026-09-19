@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T22:38:47+00:00",
-  "run_id": "2026-09-19T22:38:47+00:00",
+  "generated_at": "2026-09-19T22:46:20+00:00",
+  "run_id": "2026-09-19T22:46:20+00:00",
   "date": "2026-09-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 32,
     "displayed_findings": 32,
     "high": 0,
@@ -1817,29 +1817,7 @@
       "id": "4e5242c1cf3e84a47875"
     }
   ],
-  "new_findings": [
-    {
-      "title": "データセンター、お金を払わず水を1億1000万リットル使用 | ギズモード・ジャパン",
-      "url": "https://www.gizmodo.jp/article/georgia-data-center-secretly-guzzled-30-million-gallons-of-water-before-paying-a-dime-rfk/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-19T15:30:11+00:00",
-      "fetched_at": "2026-09-19T22:38:17+00:00",
-      "summary": "2026年5月16日の記事を編集して再掲載しています。 データセンターはどうして積極的に評判を悪くするのやら…。 昨年、ジョージア州フェイエットビルにある富裕層向けの高級住宅地Annelise Parkの住民たちが、水圧が異常に低下していることに気づきはじめました。 報告を受けた郡の水道局が調査したところ、衝撃的な事実...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b8f701435da2d98091f9"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
