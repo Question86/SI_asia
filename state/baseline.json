@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-19T05:01:21+00:00",
+  "generated_at": "2026-09-19T05:20:33+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -98,10 +98,9 @@
       "z_hint": 0.0
     },
     "domain:openai.com": {
-      "title": "How Cooley is accelerating IPO work with ChatGPT",
-      "updated_at": "2026-09-18T23:55:00+00:00",
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "updated_at": "2026-09-19T05:20:33+00:00",
       "network_scores": [
-        10.1,
         10.1,
         10.1,
         10.1,
@@ -130,12 +129,13 @@
         12.2,
         12.2,
         12.2,
-        12.2
+        12.2,
+        19.1
       ],
-      "rolling_average": 10.97,
-      "rolling_peak": 15.2,
-      "last_score": 12.2,
-      "z_hint": 1.23
+      "rolling_average": 11.27,
+      "rolling_peak": 19.1,
+      "last_score": 19.1,
+      "z_hint": 7.83
     },
     "title:read-remote-repository-content-github-cli": {
       "title": "Read remote repository content with GitHub CLI",
@@ -2759,7 +2759,7 @@
     },
     "domain:gigazine.net": {
       "title": "世界37カ国のうち日本を含むほとんどの国で「AIは雇用増加ではなく雇用喪失を引き起こす」と予想されていることが判明",
-      "updated_at": "2026-09-19T05:01:21+00:00",
+      "updated_at": "2026-09-19T05:20:33+00:00",
       "network_scores": [
         10.1,
         10.1,
@@ -2771,8 +2771,8 @@
         10.1,
         10.1,
         10.1,
-        10.1,
         13.1,
+        10.1,
         10.1,
         10.1,
         10.1,
@@ -3886,9 +3886,8 @@
     },
     "domain:www.nikkei.com": {
       "title": "GoogleのAIも他社システムに侵入 事故直後に停止、公表せず - 日本経済新聞",
-      "updated_at": "2026-09-19T05:01:21+00:00",
+      "updated_at": "2026-09-19T05:20:33+00:00",
       "network_scores": [
-        12.1,
         12.1,
         12.1,
         12.1,
@@ -3917,12 +3916,13 @@
         17.2,
         14.2,
         14.2,
+        14.2,
         14.2
       ],
-      "rolling_average": 12.58,
+      "rolling_average": 12.65,
       "rolling_peak": 17.2,
       "last_score": 14.2,
-      "z_hint": 1.62
+      "z_hint": 1.55
     },
     "title:economy-moving-faster-than-our-institutions": {
       "title": "The AI economy is moving faster than our institutions",
@@ -17774,7 +17774,7 @@
     },
     "earthquake:indonesia:5.2": {
       "title": "M 5.2 - 210 km WNW of Abepura, Indonesia",
-      "updated_at": "2026-09-19T05:01:21+00:00",
+      "updated_at": "2026-09-19T05:20:33+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -17801,8 +17801,8 @@
         17.7,
         17.7,
         17.7,
-        17.7,
         20.7,
+        17.7,
         17.7,
         17.7,
         17.7
@@ -24891,8 +24891,8 @@
       "z_hint": 0.0
     },
     "title:android": {
-      "title": "Androidアプリ「【保護者専用】まなびポケット」におけるアクセス制限不備の脆弱性",
-      "updated_at": "2026-09-15T23:55:14+00:00",
+      "title": "Androidでおサイフケータイを使いたくない理由 初期化で消えないデータと売却時の落とし穴",
+      "updated_at": "2026-09-19T05:20:33+00:00",
       "network_scores": [
         16.1,
         16.1,
@@ -24923,12 +24923,12 @@
         16.1,
         16.1,
         16.1,
-        16.1
+        10.1
       ],
-      "rolling_average": 16.1,
+      "rolling_average": 15.9,
       "rolling_peak": 16.1,
-      "last_score": 16.1,
-      "z_hint": -0.0
+      "last_score": 10.1,
+      "z_hint": -5.8
     },
     "cve:CVE-2026-44756": {
       "title": "2026-011: Critical Vulnerabilities in SAP Kernel and NetWeaver Message Server",
@@ -39008,7 +39008,7 @@
     },
     "github_repo:browser-use/jev-ultrafast": {
       "title": "GitHub - browser-use/jev-ultrafast: i. am. speed.",
-      "updated_at": "2026-09-19T05:01:21+00:00",
+      "updated_at": "2026-09-19T05:20:33+00:00",
       "network_scores": [
         13.1,
         10.1,
@@ -39028,16 +39028,17 @@
         10.1,
         10.1,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 10.26,
+      "rolling_average": 10.25,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -0.16
+      "z_hint": -0.15
     },
     "title:newsjp": {
       "title": "米軍、AI誤報で作戦計画 中国船に「核部品」、直前中止 | NEWSjp",
-      "updated_at": "2026-09-19T05:01:21+00:00",
+      "updated_at": "2026-09-19T05:20:33+00:00",
       "network_scores": [
         13.1,
         10.1,
@@ -39053,16 +39054,17 @@
         10.1,
         10.1,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 10.3,
+      "rolling_average": 10.29,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -0.2
+      "z_hint": -0.19
     },
     "domain:forbesjapan.com": {
       "title": "学位なしで年収1500万円超を狙える「無料のAI認定資格」3選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
-      "updated_at": "2026-09-19T05:01:21+00:00",
+      "updated_at": "2026-09-19T05:20:33+00:00",
       "network_scores": [
         16.1,
         13.1,
@@ -39077,27 +39079,29 @@
         13.1,
         13.1,
         13.1,
+        13.1,
         13.1
       ],
-      "rolling_average": 13.31,
+      "rolling_average": 13.3,
       "rolling_peak": 16.1,
       "last_score": 13.1,
-      "z_hint": -0.21
+      "z_hint": -0.2
     },
     "github_repo:tamaratran/fast-jev-compaction": {
       "title": "GitHub - tamaratran/fast-jev-compaction: Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
-      "updated_at": "2026-09-19T05:01:21+00:00",
+      "updated_at": "2026-09-19T05:20:33+00:00",
       "network_scores": [
         25.1,
         22.1,
         22.1,
         22.1,
+        22.1,
         22.1
       ],
-      "rolling_average": 22.7,
+      "rolling_average": 22.6,
       "rolling_peak": 25.1,
       "last_score": 22.1,
-      "z_hint": -0.6
+      "z_hint": -0.5
     }
   }
 }

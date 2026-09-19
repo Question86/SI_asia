@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-19T05:01:18+00:00_
+_Generiert: 2026-09-19T05:20:29+00:00_
 
 ## Kurzlage
 
-8 neue relevante Treffer. Stärkstes Signal: „GitHub - tamaratran/fast-jev-compaction: Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.“ aus Hatena Bookmark Hotentry IT (Score 20, observation).
+10 neue relevante Treffer. Stärkstes Signal: „GitHub - tamaratran/fast-jev-compaction: Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.“ aus Hatena Bookmark Hotentry IT (Score 20, observation).
 
 ## Priorität Hoch
 
@@ -30,6 +30,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-19 04:18:35 UTC 2026-09-19 04:18:35 UTC at epicenter Location 1.856°S 138.888°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Introducing the Australian Youth Safety Blueprint** — Score 14, observation — [Quelle](https://openai.com/index/australian-youth-safety-blueprint)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-09-18T12:00:00+00:00`, fetched `2026-09-19T05:19:42+00:00`
+  - Treffer: AI/KI, OpenAI, safety
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); safety (+2.5); recent (+1.0); watchgraph region australia: Australia (+2.0)
+  - Kurz: OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 

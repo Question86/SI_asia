@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-19T05:01:18+00:00_
+_Generated: 2026-09-19T05:20:29+00:00_
 
 ## Status
 - status: `normal`
-- findings: `8`
+- findings: `10`
 
 ## Top Signals
 
@@ -22,28 +22,35 @@ _Generated: 2026-09-19T05:01:18+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tih8
 - summary: Time 2026-09-19 04:18:35 UTC 2026-09-19 04:18:35 UTC at epicenter Location 1.856°S 138.888°E Depth 10.00 km (6.21 mi)
 
-### 3. 学位なしで年収1500万円超を狙える「無料のAI認定資格」3選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）
+### 3. Introducing the Australian Youth Safety Blueprint
+- source: OpenAI News RSS
+- score: `14`
+- published: `2026-09-18T12:00:00+00:00`
+- url: https://openai.com/index/australian-youth-safety-blueprint
+- summary: OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.
+
+### 4. 学位なしで年収1500万円超を狙える「無料のAI認定資格」3選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-09-18T09:39:13+00:00`
 - url: https://forbesjapan.com/articles/detail/104778
 - summary: Indeedによれば、2025年12月に全求人のうちAIに言及したものは4.2％に達し、同プラットフォームで過去最高を記録した。知識労働（ナレッジワーク）領域では、データ・アナリティクス系求人の約45％がAIに触れている。 一方でLinkedInの報告では、AI関連求人は2023年以降おおよそ2倍に増え、標準的なAI求人の提示報酬は約...
 
-### 4. GoogleのAIも他社システムに侵入 事故直後に停止、公表せず - 日本経済新聞
+### 5. GoogleのAIも他社システムに侵入 事故直後に停止、公表せず - 日本経済新聞
 - source: Hatena Bookmark Hotentry IT
 - score: `10`
 - published: `2026-09-19T01:53:51+00:00`
 - url: https://www.nikkei.com/article/DGXZQOGN190C40Z10C26A9000000/
 - summary: 【シリコンバレー=伴正春】米グーグルが開発中の人工知能（AI）が5月に実在する外部企業3社のシステムに侵入していたことが18日わかった。評価テストで誤ってインターネットに接続できる設定になっていた。AI自身が侵入に気付き、動作を止めたという。米紙ウォール・ストリート・ジャーナル（WSJ）が報じた。グーグルは...
 
-### 5. 米アンソロピックが生物学の実験施設 AIを創薬に活用 - 日本経済新聞
+### 6. 米アンソロピックが生物学の実験施設 AIを創薬に活用 - 日本経済新聞
 - source: Hatena Bookmark Hotentry IT
 - score: `10`
 - published: `2026-09-18T22:51:23+00:00`
 - url: https://www.nikkei.com/article/DGXZQOGN18CET0Y6A910C2000000/
 - summary: 【シリコンバレー=山田遼太郎】米新興アンソロピックが人工知能（AI）を応用し、生物学の研究をする実験施設を設けたことが18日明らかになった。ロイター通信が報じた。希少疾患の治療薬の開発などを目指しているとみられる。ロイターによると、アンソロピックは細胞や試薬を用いて実験する「ウエットラボ」と呼ばれる施...
 
-### 6. 米軍、AI誤報で作戦計画 中国船に「核部品」、直前中止 | NEWSjp
+### 7. 米軍、AI誤報で作戦計画 中国船に「核部品」、直前中止 | NEWSjp
 - source: Hatena Bookmark Hotentry IT
 - score: `8`
 - published: `2026-09-18T23:35:39+00:00`
