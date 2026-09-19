@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-19T23:26:51+00:00_
+_Generiert: 2026-09-19T23:43:44+00:00_
 
 ## Kurzlage
 
-32 neue relevante Treffer. Stärkstes Signal: „Codexを使うなら、config.tomlとAGENTS.mdを押さえておきたい - じゃあ、おうちで学べる“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+33 neue relevante Treffer. Stärkstes Signal: „Codexを使うなら、config.tomlとAGENTS.mdを押さえておきたい - じゃあ、おうちで学べる“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 ## Priorität Hoch
 
