@@ -1,19 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-19T05:12:46Z",
+  "generated_at": "2026-09-19T05:26:46Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 15,
+    "dynamics": 19,
     "bands": {
       "strong": 3,
-      "watch": 3,
-      "quiet": 9
+      "watch": 5,
+      "quiet": 11
     },
     "bands_after_gate_recheck": {
       "strong": 3,
-      "watch": 3,
-      "quiet": 9
+      "watch": 5,
+      "quiet": 11
     }
   },
   "top_dynamics": [
@@ -22,7 +22,7 @@
       "url": "https://github.com/tamaratran/fast-jev-compaction",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T04:24:55+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
@@ -49,7 +49,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tih8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-19T04:33:48.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -74,7 +74,7 @@
       "url": "https://github.com/tamaratran/fast-jev-compaction",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-18T16:33:31+00:00",
-      "age_days": 0.53,
+      "age_days": 0.54,
       "topics": [
         "ai"
       ],
@@ -97,11 +97,39 @@
       "summary": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim. Also usable as an npm library. Most context compaction asks an LLM to summarize old turns. A s..."
     },
     {
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "url": "https://openai.com/index/australian-youth-safety-blueprint",
+      "source": "OpenAI News RSS",
+      "published_at": "2026-06-17T20:44:40+00:00",
+      "age_days": 93.36,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 19.9,
+      "raw_band": "strong",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 7.83,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 7.83",
+        "aging penalty -8.0 for 93.4d old signal",
+        "stale single-source cap: max watch after 14d without fresh resonance",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 5.2 - 210 km WNW of Abepura, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tih8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-04T05:31:26+00:00",
-      "age_days": 14.99,
+      "age_days": 15.0,
       "topics": [
         "general"
       ],
@@ -128,7 +156,7 @@
       "url": "https://github.com/browser-use/jev-ultrafast",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T00:56:48+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -148,11 +176,35 @@
       "summary": ""
     },
     {
+      "title": "Androidでおサイフケータイを使いたくない理由 初期化で消えないデータと売却時の落とし穴",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2609/19/news002.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-09T12:51:45+00:00",
+      "age_days": 9.69,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "学位なしで年収1500万円超を狙える「無料のAI認定資格」3選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
       "url": "https://forbesjapan.com/articles/detail/104778",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T02:28:57+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -178,7 +230,7 @@
       "url": "https://news.jp/i/1473810070062515120",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T02:01:19+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -204,7 +256,7 @@
       "url": "https://forbesjapan.com/articles/detail/104778",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-18T09:39:13+00:00",
-      "age_days": 0.81,
+      "age_days": 0.82,
       "topics": [
         "ai"
       ],
@@ -230,7 +282,7 @@
       "url": "https://github.com/browser-use/jev-ultrafast",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-17T06:48:22+00:00",
-      "age_days": 1.93,
+      "age_days": 1.94,
       "topics": [
         "general"
       ],
@@ -254,7 +306,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN190C40Z10C26A9000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T01:53:51+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -280,7 +332,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN18CET0Y6A910C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-18T22:51:23+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "ai"
       ],
@@ -302,11 +354,36 @@
       "summary": "【シリコンバレー=山田遼太郎】米新興アンソロピックが人工知能（AI）を応用し、生物学の研究をする実験施設を設けたことが18日明らかになった。ロイター通信が報じた。希少疾患の治療薬の開発などを目指しているとみられる。ロイターによると、アンソロピックは細胞や試薬を用いて実験する「ウエットラボ」と呼ばれる施..."
     },
     {
+      "title": "Introducing the Australian Youth Safety Blueprint",
+      "url": "https://openai.com/index/australian-youth-safety-blueprint",
+      "source": "OpenAI News RSS",
+      "published_at": "2026-09-18T12:00:00+00:00",
+      "age_days": 0.73,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people."
+    },
+    {
       "title": "米軍、AI誤報で作戦計画 中国船に「核部品」、直前中止 | NEWSjp",
       "url": "https://news.jp/i/1473810070062515120",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-18T23:35:39+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -328,27 +405,51 @@
       "summary": "【ワシントン共同】米CNNテレビは18日、米軍がイランと交戦中だった今年春、人工知能（AI）を利用して作成された誤った情報を基に、中東海域で中国船に対する軍事作戦を計画していたと報じた。「核兵器開発計画の部品を運搬している」との内容で、直前に誤報だと判明し、中止したという。関係者の話としている。 中国船..."
     },
     {
+      "title": "Androidでおサイフケータイを使いたくない理由 初期化で消えないデータと売却時の落とし穴",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2609/19/news002.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-19T01:13:17+00:00",
+      "age_days": 0.18,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "皆さん、突然だが、Androidスマートフォンで「おサイフケータイ」を使っているだろうか？ 私は今後も使いたくない。 最も大きな理由はこれだ。一部の機種において本体をリセットしてもおサイフケータイのデータは残るという、その不便極まりない仕様があるためだ。 通常の初期化では消えないデータと売却時の不利益 お..."
+    },
+    {
       "title": "GoogleのAIも他社システムに侵入 事故直後に停止、公表せず - 日本経済新聞",
       "url": "https://www.nikkei.com/article/DGXZQOGN190C40Z10C26A9000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T02:10:07+00:00",
-      "age_days": 92.13,
+      "age_days": 92.14,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 4.78,
+      "dynamics_score": 4.7,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 1.62,
+      "baseline_z_hint": 1.55,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 1.62",
+        "baseline z_hint 1.55",
         "single-source AI hype brake -8.0",
         "aging penalty -8.0 for 92.1d old signal",
         "single-source AI cap enforced after phrase recheck"
@@ -360,7 +461,7 @@
       "url": "https://gigazine.net/news/20260918-more-people-expect-ai-job-loss/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 92.13,
+      "age_days": 92.14,
       "topics": [
         "ai"
       ],
@@ -387,7 +488,7 @@
       "url": "https://gigazine.net/news/20260918-more-people-expect-ai-job-loss/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-18T07:39:00+00:00",
-      "age_days": 0.9,
+      "age_days": 0.91,
       "topics": [
         "ai"
       ],
