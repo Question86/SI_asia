@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T16:56:29+00:00",
+  "generated_at": "2026-09-19T17:08:09+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 28,
@@ -148,20 +148,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 14.5,
+      "network_score": 14.47,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "raw_network_score": 20.4,
-      "ranking_score": 14.5,
+      "ranking_score": 14.47,
       "initial_reach_tier": "official",
       "source_reach_score": 4.0,
       "authority_bonus_capped": 2.4,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.1,
+      "baseline_bonus": 0.07,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -406,45 +406,6 @@
       "first_seen_at": "2026-06-19T02:10:07+00:00"
     },
     {
-      "key": "title:nhk",
-      "title": "AIとの対話だけで完成! 広がる“アプリ開発革命” | NHKニュース",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://news.web.nhk/newsweb/na/nd-20260918de50982",
-        "https://news.web.nhk/newsweb/na/nd-20260919de51229"
-      ],
-      "finding_count": 2,
-      "max_score": 5,
-      "credibility_total": 2.1,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 10.97,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 12.2,
-      "ranking_score": 10.97,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 1.97,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-08-28T14:08:37+00:00"
-    },
-    {
       "key": "title:opencode-litellm",
       "title": "全社に OpenCode + LiteLLM を導入してコストを抑えつつ AI 活用を進めている話",
       "sources": [
@@ -583,18 +544,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 9.66,
+      "network_score": 9.63,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 12.2,
-      "ranking_score": 9.66,
+      "ranking_score": 9.63,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.16,
+      "baseline_bonus": 0.13,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -841,6 +802,45 @@
       "first_seen_at": "2026-09-19T09:48:38+00:00"
     },
     {
+      "key": "title:nhk",
+      "title": "AIとの対話だけで完成! 広がる“アプリ開発革命” | NHKニュース",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://news.web.nhk/newsweb/na/nd-20260918de50982",
+        "https://news.web.nhk/newsweb/na/nd-20260919de51229"
+      ],
+      "finding_count": 2,
+      "max_score": 5,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 7.24,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 9.2,
+      "ranking_score": 7.24,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.74,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-08-28T14:08:37+00:00"
+    },
+    {
       "key": "domain:www.yodobashi.com",
       "title": "東プレから分割キーボード「REALFORCE RS1」登場｜79キー日本語配列・有線接続 - TALPKEYBOARD BLOG",
       "sources": [
@@ -957,7 +957,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-19T16:56:30Z",
+    "generated_at": "2026-09-19T17:08:10Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
