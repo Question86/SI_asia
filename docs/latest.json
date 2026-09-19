@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T21:53:53+00:00",
-  "run_id": "2026-09-19T21:53:53+00:00",
+  "generated_at": "2026-09-19T22:01:01+00:00",
+  "run_id": "2026-09-19T22:01:01+00:00",
   "date": "2026-09-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 30
+      "configured_public_sources_only": 31
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 30,
-    "displayed_findings": 30,
+    "new_relevant_findings": 1,
+    "today_file_total": 31,
+    "displayed_findings": 31,
     "high": 0,
     "medium": 7,
-    "observe": 23,
+    "observe": 24,
     "source_errors": 0
   },
   "sections": {
@@ -879,6 +879,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "ed07d610899bb0b33dff"
+      },
+      {
+        "title": "私たちはなぜキーボードでローマ字入力をしているのか - 株式会社ナカニシヤ出版",
+        "url": "https://www.nakanishiya.co.jp/book/b10205207.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-17T22:04:37+00:00",
+        "fetched_at": "2026-09-19T22:00:31+00:00",
+        "summary": "かつて、百花繚乱とも呼ぶべき、多様な日本語入力装置があった！ 日本語ワープロ導入期、多種多様な日本語入力装置はなぜ開発され、そして消えていったのか 装置を提供する側の考える技術とそれを使う側の技能とが鬩ぎあい定着に至る不安定な歴史に迫る キーボードという一見不便な装置をなぜ私たちが日々使っているのか...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "4e5242c1cf3e84a47875"
       }
     ]
   },
@@ -1731,9 +1752,52 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "ed07d610899bb0b33dff"
+    },
+    {
+      "title": "私たちはなぜキーボードでローマ字入力をしているのか - 株式会社ナカニシヤ出版",
+      "url": "https://www.nakanishiya.co.jp/book/b10205207.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-17T22:04:37+00:00",
+      "fetched_at": "2026-09-19T22:00:31+00:00",
+      "summary": "かつて、百花繚乱とも呼ぶべき、多様な日本語入力装置があった！ 日本語ワープロ導入期、多種多様な日本語入力装置はなぜ開発され、そして消えていったのか 装置を提供する側の考える技術とそれを使う側の技能とが鬩ぎあい定着に至る不安定な歴史に迫る キーボードという一見不便な装置をなぜ私たちが日々使っているのか...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4e5242c1cf3e84a47875"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "私たちはなぜキーボードでローマ字入力をしているのか - 株式会社ナカニシヤ出版",
+      "url": "https://www.nakanishiya.co.jp/book/b10205207.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-17T22:04:37+00:00",
+      "fetched_at": "2026-09-19T22:00:31+00:00",
+      "summary": "かつて、百花繚乱とも呼ぶべき、多様な日本語入力装置があった！ 日本語ワープロ導入期、多種多様な日本語入力装置はなぜ開発され、そして消えていったのか 装置を提供する側の考える技術とそれを使う側の技能とが鬩ぎあい定着に至る不安定な歴史に迫る キーボードという一見不便な装置をなぜ私たちが日々使っているのか...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4e5242c1cf3e84a47875"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
