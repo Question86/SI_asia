@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-19T07:57:42+00:00_
+_Generated: 2026-09-19T08:20:28+00:00_
 
 ## Status
 - status: `normal`
-- findings: `15`
+- findings: `16`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-09-19T07:57:42+00:00_
 - url: https://github.com/tamaratran/fast-jev-compaction
 - summary: Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim. Also usable as an npm library. Most context compaction a…
 
-### 3. M 4.6 - 57 km ESE of Koseda, Japan
+### 3. M 4.8 - 210 km W of Abepura, Indonesia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-09-19T08:02:59.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiib
+- summary: Time 2026-09-19 07:44:25 UTC 2026-09-19 07:44:25 UTC at epicenter Location 2.587°S 138.738°E Depth 10.00 km (6.21 mi)
+
+### 4. M 4.6 - 57 km ESE of Koseda, Japan
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-09-19T07:37:40.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tii4
 - summary: Time 2026-09-19 07:08:23 UTC 2026-09-19 07:08:23 UTC at epicenter Location 30.167°N 131.190°E Depth 38.54 km (23.95 mi)
-
-### 4. M 5.2 - 210 km WNW of Abepura, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-09-19T04:33:48.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tih8
-- summary: Time 2026-09-19 04:18:35 UTC 2026-09-19 04:18:35 UTC at epicenter Location 1.856°S 138.888°E Depth 10.00 km (6.21 mi)
 
 ### 5. M 4.9 - 117 km NW of Barranca, Peru
 - source: USGS M4.5+ Earthquakes Past Hour
