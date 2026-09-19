@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-19T05:26:46Z_
+_Generated: 2026-09-19T05:38:17Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - tamaratran/fast-jev-compaction:
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.9`
-- Published: `2026-09-19T04:24:55+00:00` / age_days `0.04`
+- Published: `2026-09-19T04:24:55+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -42,10 +42,10 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - tamaratran/fast-jev-compaction:
 
 - Band: `watch` (raw `strong`)
 - Dynamics score: `19.9`
-- Published: `2026-06-17T20:44:40+00:00` / age_days `93.36`
+- Published: `2026-06-17T20:44:40+00:00` / age_days `93.37`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +3, baseline z_hint 7.83, aging penalty -8.0 for 93.4d old signal, stale single-source cap: max watch after 14d without fresh resonance, single-source AI cap enforced after phrase recheck
+- Warum: momentum delta +3, baseline z_hint 4.63, aging penalty -8.0 for 93.4d old signal, stale single-source cap: max watch after 14d without fresh resonance, single-source AI cap enforced after phrase recheck
 - Quelle: https://openai.com/index/australian-youth-safety-blueprint
 
 ### M 5.2 - 210 km WNW of Abepura, Indonesia
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - tamaratran/fast-jev-compaction:
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-19T00:56:48+00:00` / age_days `0.19`
+- Published: `2026-09-19T00:56:48+00:00` / age_days `0.2`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -71,8 +71,8 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - tamaratran/fast-jev-compaction:
 ### Androidでおサイフケータイを使いたくない理由 初期化で消えないデータと売却時の落とし穴
 
 - Band: `watch` (raw `watch`)
-- Dynamics score: `16.5`
-- Published: `2026-09-09T12:51:45+00:00` / age_days `9.69`
+- Dynamics score: `14.0`
+- Published: `2026-09-09T12:51:45+00:00` / age_days `9.7`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - tamaratran/fast-jev-compaction:
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `12.0`
-- Published: `2026-09-19T02:28:57+00:00` / age_days `0.12`
+- Published: `2026-09-19T02:28:57+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - tamaratran/fast-jev-compaction:
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `9.0`
-- Published: `2026-09-19T02:01:19+00:00` / age_days `0.14`
+- Published: `2026-09-19T02:01:19+00:00` / age_days `0.15`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - tamaratran/fast-jev-compaction:
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `8.0`
-- Published: `2026-09-18T09:39:13+00:00` / age_days `0.82`
+- Published: `2026-09-18T09:39:13+00:00` / age_days `0.83`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - tamaratran/fast-jev-compaction:
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `8.0`
-- Published: `2026-09-17T06:48:22+00:00` / age_days `1.94`
+- Published: `2026-09-17T06:48:22+00:00` / age_days `1.95`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - tamaratran/fast-jev-compaction:
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `7.0`
-- Published: `2026-09-19T01:53:51+00:00` / age_days `0.15`
+- Published: `2026-09-19T01:53:51+00:00` / age_days `0.16`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
