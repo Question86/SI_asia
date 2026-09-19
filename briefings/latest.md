@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-18T23:54:57+00:00_
+_Generiert: 2026-09-19T00:10:22+00:00_
 
 ## Kurzlage
 
-93 neue relevante Treffer. Stärkstes Signal: „Tencent/BrowserSkill“ aus GitHub Trending RSS All Languages Daily (Score 23, opportunity).
+Keine neuen relevanten Treffer aus den konfigurierten öffentlichen Quellen.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -58,7 +58,7 @@ _Generiert: 2026-09-18T23:54:57+00:00_
 
 - Kein aktives Signal aus den konfigurierten globalen Sensoren.
 
-- Sensor-Hinweis: Yahoo finance failed: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v7/finance/quote?symbols=BTC-USD,ETH-USD,GC%3DF,SI%3DF,GLD,SLV,SPY,QQQ,%5EGSPC,%5EIXIC,%5EDJI,%5EVIX,DX-Y.NYB,CL%3DF,COIN,MSTR,IBIT
+- Sensor-Hinweis: Yahoo finance failed: 401 Client Error: Unauthorized for url: https://query1.finance.yahoo.com/v7/finance/quote?symbols=BTC-USD,ETH-USD,GC%3DF,SI%3DF,GLD,SLV,SPY,QQQ,%5EGSPC,%5EIXIC,%5EDJI,%5EVIX,DX-Y.NYB,CL%3DF,COIN,MSTR,IBIT
 
 <!-- SENNA_GLOBAL_WATCHDOGS:END -->
 
@@ -69,285 +69,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
-- **Tencent/BrowserSkill** — Score 23, opportunity — [Quelle](https://github.com/Tencent/BrowserSkill)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-09-18T05:53:28+00:00`
-  - Treffer: AI Agents, AI/KI, APAC Trend Radar, Automatisierung, GitHub Trending, OpenAI, Watchgraph:ai_agents_workflow
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); AI Agents (+5.0); Automatisierung (+4.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
-  - Kurz: Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent. BrowserSkill Let AI agents use your browser without interrupting your work. English · 中文 BrowserSkill connects Cursor, Claude Code, Codex, OpenClaw, CodeBuddy, WorkBuddy, Pi, Hermes Agent, DeepSeek Harness, and other AI agents to your already logged-in browser. Need…
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Ecosystem Roundup: The AI funding boom has a Southeast Asia-sized blind spot** — Score 19, observation — [Quelle](https://e27.co/ecosystem-roundup-the-ai-funding-boom-has-a-southeast-asia-sized-blind-spot-20260918/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-18T08:52:58+00:00`, fetched `2026-09-18T08:59:27+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, funding, OpenAI, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+6.0); AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.5); funding (+2.5); recent (+1.0)
-  - Kurz: Crunchbase’s first-half 2026 numbers looked like an industry-wide win: global venture funding hit US$510 billion, smashing the previous half-year record. Look closer and the picture curdles. OpenAI and Anthropic alone absorbed 43 per cent of every venture dollar deployed on the planet in six months, with Anthropic’s US$65-billion raise alone equal to nearly a third of […] The post Ecosystem Roundup: The AI funding b…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Multiples vulnérabilités dans Microsoft Edge (14 septembre 2026)** — Score 19, risk — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1171/)
-  - Quelle: CERT-FR Avis de sécurité / `rss`
-  - Zeit: published `2026-09-14T00:00:00+00:00`, fetched `2026-09-18T15:00:12+00:00`
-  - Treffer: avis, CERT-FR, Microsoft, Security, sécurité, vulnérabilité, éditeur
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0); Microsoft (+2.5)
-  - Kurz: De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer un contournement de la politique de sécurité et un problème de sécurité non spécifié par l'éditeur. Microsoft indique que la vulnérabilité CVE-2026-87491 est activement exploitée.
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **alphaXiv/OpenResearch** — Score 19, opportunity — [Quelle](https://github.com/alphaXiv/OpenResearch)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-09-18T05:53:28+00:00`
-  - Treffer: AI Agents, APAC Trend Radar, GitHub Trending, OpenAI, Watchgraph:ai_agents_workflow
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: OpenAI (+6.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
-  - Kurz: Turn your coding agents into research agents https://openresearch.sh/ OpenResearch The local-first workspace for research agents and autoresearch. Turn Claude Code, Codex, OpenCode, or Cursor into research agents that can review literature, develop hypotheses, run experiments, and produce research artifacts. macOS 11+ · Windows beta requires Git for Windows Get started Install the CLI on macOS or Linux, then launch…
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Should you read the code, is RAG dead, and did Skills kill MCP?** — Score 16, observation — [Quelle](https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/)
-  - Quelle: GitHub Blog Atom / `rss`
-  - Zeit: published `2026-09-18T15:00:00+00:00`, fetched `2026-09-18T15:20:19+00:00`
-  - Treffer: AI Agents, AI/KI, GitHub, Watchgraph:ai_agents_workflow
-  - Watchgraph: ai_agents_workflow
-  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
-  - Warum relevant: AI/KI (+3.8); AI Agents (+6.2); GitHub (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
-  - Kurz: We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast. The post Should you read the code, is RAG dead, and did Skills kill MCP? appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0844)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-09-18T12:21:39+00:00`, fetched `2026-09-18T12:30:40+00:00`
-  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um einen Denial of Service Angriff durchzuführen oder andere, nicht genauer beschriebene Auswirkungen erzielen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-0453)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-09-18T12:21:35+00:00`, fetched `2026-09-18T12:30:40+00:00`
-  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter Angreifer kann mehrere Schwachstellen im Linux Kernel ausnutzen um die Vertraulichkeit, Integrität und Verfügbarkeit zu gefährden.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2025-2194)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-09-18T12:06:41+00:00`, fetched `2026-09-18T12:30:40+00:00`
-  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein lokaler Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um nicht näher spezifizierte Angriffe durchzuführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **CISA ICS Advisory / ICS Medical Advisory（2026年09月17日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU91030326/)
-  - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-09-18T09:30:15+09:00`, fetched `2026-09-18T00:53:09+00:00`
-  - Treffer: advisory, APAC Trend Radar, JVN, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.2 - 189 km SSW of Pelabuhanratu, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tib8)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-18T14:55:45.040+00:00`, fetched `2026-09-18T15:00:12+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-18 14:36:17 UTC 2026-09-18 14:36:17 UTC at epicenter Location 8.581°S 105.911°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.7 - 34 km NNE of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti9c)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-18T12:45:09.040+00:00`, fetched `2026-09-18T12:48:59+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-18 12:20:56 UTC 2026-09-18 12:20:56 UTC at epicenter Location 8.321°S 120.572°E Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.0 - Izu Islands, Japan region** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000ti89)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-18T07:41:22.040+00:00`, fetched `2026-09-18T07:42:43+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-18 07:19:28 UTC 2026-09-18 07:19:28 UTC at epicenter Location 32.243°N 141.576°E Depth 35.29 km (21.93 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **GSMA says smartphone costs could deepen the coming AI divide** — Score 15, observation — [Quelle](https://e27.co/gsma-says-smartphone-costs-could-deepen-the-coming-ai-divide-20260918/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-18T06:00:04+00:00`, fetched `2026-09-18T06:00:58+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Public Health
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Public Health (+5.0); recent (+1.0); watchgraph region china_credible_only: Hong Kong (+2.0)
-  - Kurz: The global rush to build artificial intelligence may be making the basic gateway to the internet more expensive for the people who need it most. That is the uncomfortable warning from the GSMA’s State of Mobile Internet Connectivity Report 2026, released in Hong Kong on September 18. The industry body, which represents mobile operators and […] The post GSMA says smartphone costs could deepen the coming AI divide app…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **GitHub Copilot weekly releases — September 14** — Score 14, observation — [Quelle](https://github.blog/changelog/2026-09-18-github-copilot-weekly-releases-september-14)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-09-18T19:21:22+00:00`, fetched `2026-09-18T19:30:17+00:00`
-  - Treffer: Copilot, GitHub, Macro/Policy, Watchgraph:elections_unrest
-  - Watchgraph: elections_unrest
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, META, GOOGL, MSFT, RDDT, SNAP, PINS
-  - Warum relevant: Macro/Policy (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0); watchgraph modules elections_unrest (+3.0)
-  - Kurz: This week, GitHub Copilot adds new model selection options, code review updates, and Sentry integration in the Copilot app. There are also updates for admins, plus new agent features in… The post GitHub Copilot weekly releases — September 14 appeared first on The GitHub Blog .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ISC BINDにおける複数の脆弱性（2026年9月）** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU97703430/)
-  - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-09-18T16:45:00+09:00`, fetched `2026-09-18T07:50:42+00:00`
-  - Treffer: APAC Trend Radar, JVN, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: ISC（Internet Systems Consortium）から、ISC BINDの複数の脆弱性が公開されました。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+Keine neuen mittleren Treffer.
 
 ## Nur beobachten
 
-- **M 4.8 - 5 km SW of Guánica, Puerto Rico** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/pr2026261000)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-18T14:05:14.221+00:00`, fetched `2026-09-18T14:06:10+00:00`
-  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: PAGER - GREEN ShakeMap - IV DYFI? - V Time 2026-09-18 13:19:35 UTC 2026-09-18 13:19:35 UTC at epicenter Location 17.939°N 66.946°W Depth 7.00 km (4.35 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.6 - 12 km SE of La Parguera, Puerto Rico** — Score 13, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiar)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-18T13:46:26.410+00:00`, fetched `2026-09-18T13:47:21+00:00`
-  - Treffer: Climate/Disaster Infrastructure, PAGER, ShakeMap, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: PAGER - GREEN ShakeMap - IV DYFI? - V Time 2026-09-18 13:19:34 UTC 2026-09-18 13:19:34 UTC at epicenter Location 17.884°N 66.982°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Euro area monthly balance of payments: July 2026** — Score 13, observation — [Quelle](https://www.ecb.europa.eu//press/stats/bop/2026/html/ecb.bp260918~ef4843e4f5.en.html)
-  - Quelle: ECB Statistical Press Releases / `rss`
-  - Zeit: published `2026-09-18T08:00:00+00:00`, fetched `2026-09-18T08:26:38+00:00`
-  - Treffer: balance of payments, euro area, Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); balance of payments (+2.5); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Euro area monthly balance of payments: July 2026
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **TSUBAME Report Overflow (Apr-Jun 2026)** — Score 13, observation — [Quelle](https://blogs.jpcert.or.jp/en/2026/09/tsubame_overflow_2026-04-06.html)
-  - Quelle: JPCERT/CC English Blog Atom / `rss`
-  - Zeit: published `2026-09-18T05:00:00+00:00`, fetched `2026-09-18T05:11:57+00:00`
-  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, JPCERT
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.0); JPCERT (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: This TSUBAME Report Overflow series discusses observation trends from TSUBAME sensors both in Japan and overseas, as well as other topics not covered in the JPCERT/CC Quarterly Report. This article covers monitoring results from April to June 2026. Note: Starting...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The case for a robot tax to redistribute wealth** — Score 12, opportunity — [Quelle](https://restofworld.org/2026/robot-tax-ai-wealth-redistribution/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
-  - Quelle: Rest of World Global Tech Feed / `rss`
-  - Zeit: published `2026-09-18T10:00:00+00:00`, fetched `2026-09-18T10:20:42+00:00`
-  - Treffer: AI/KI, Automatisierung, labor, technology
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Automatisierung (+4.0); technology (+2.0); labor (+2.0); recent (+1.0)
-  - Kurz: In an excerpt from his book, “Innovate for Impact: A Roadmap to Sustainable Technology Beyond AI,” Alessandro Crimi explains that a tax on automation is more effective than retraining labor.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **M 5.2 - 28 km NE of Villa Presidente Frei, Chile** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tid4)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-18T17:11:04.020+00:00`, fetched `2026-09-18T17:12:14+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: DYFI? - IV Time 2026-09-18 16:52:07 UTC 2026-09-18 16:52:07 UTC at epicenter Location 33.311°S 70.334°W Depth 100.01 km (62.14 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Stage-only npm tokens for safer automation** — Score 11, opportunity — [Quelle](https://github.blog/changelog/2026-09-18-stage-only-npm-tokens-for-safer-automation)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-09-18T16:37:50+00:00`, fetched `2026-09-18T16:56:49+00:00`
-  - Treffer: Automatisierung, GitHub, Watchgraph:software_supply_chain
-  - Watchgraph: software_supply_chain
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, CRWD, PANW, FTNT, ZS, OKTA, NET, S
-  - Warum relevant: Automatisierung (+5.0); GitHub (+2.0); recent (+1.0); watchgraph modules software_supply_chain (+3.0)
-  - Kurz: You can now select Read and write (stage only) when creating an npm granular access token. This lets your automated workflows stage package versions for review without giving the token… The post Stage-only npm tokens for safer automation appeared first on The GitHub Blog .
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Atlassian: Angreifer können Confluence Data Center ausspionieren** — Score 11, observation — [Quelle](https://www.heise.de/news/Atlassian-Angreifer-koennen-Confluence-Data-Center-ausspionieren-11458267.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-09-18T11:41:00.000+00:00`, fetched `2026-09-18T11:53:40+00:00`
-  - Treffer: Security, Webentwicklung
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); Webentwicklung (+3.8); recent (+1.0)
-  - Kurz: Atlassian hat zahlreiche Sicherheitslücken in Bitbucket, Jira & Co. geschlossen. Admins sollten die verfügbaren Sicherheitspatches zeitnah installieren.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **桓基科技｜OAKlouds - 存在2個漏洞** — Score 11, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-11210-11cb0-1.html)
-  - Quelle: TWCERT/CC TVN Vulnerability Notes RSS / `rss`
-  - Zeit: published `2026-09-18T02:00:00+00:00`, fetched `2026-09-18T10:42:37+00:00`
-  - Treffer: Security, TVN, TWCERT
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)
-  - Kurz: 桓基科技｜OAKlouds - 存在2個漏洞
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **ネコの新種、100年以上ぶりに発見** — Score 10, observation — [Quelle](https://japan.cnet.com/article/35252798/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-18T08:19:23+00:00`, fetched `2026-09-18T11:28:45+00:00`
-  - Treffer: APAC Trend Radar, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 生息地は、ボリビアのアンデス山脈東斜面に広がる雲霧林「ユンガス」だ。体は一般的なイエネコより小さい。Leopardus属には、南北アメリカ大陸に分布する小型ネコ科動物が含まれ、代表例にはオセロットやコロコロ（パンパスネコ）がいる。 研究には、パオラ・ノガレス＝アスカランス（Paola Nogales-Ascarrunz）氏やジョ...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **How we use AI to turn one article into audience-specific versions** — Score 10, observation — [Quelle](https://e27.co/how-we-use-ai-to-turn-one-article-into-audience-specific-versions-20260918/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-18T06:00:58+00:00`, fetched `2026-09-18T06:34:55+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, founder
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); founder (+2.0); recent (+1.0)
-  - Kurz: A founder may want the main business argument. A marketing lead may care about campaign angles. A sales lead may look for customer objections. A busy operator may only want the practical steps. The core idea can be the same, but the way it is framed often needs to change. That was the problem we […] The post How we use AI to turn one article into audience-specific versions appeared first on e27 .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **How to read a VAPT report without panicking** — Score 10, observation — [Quelle](https://e27.co/how-to-read-a-vapt-report-without-panicking-20260823-2/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-18T05:45:15+00:00`, fetched `2026-09-18T05:45:57+00:00`
-  - Treffer: APAC Trend Radar, Content-Chance
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Content-Chance (+6.2); recent (+1.0)
-  - Kurz: I’ve watched the same movie play out too many times: a management team receives a penetration testing report, sees a wall of findings with scary-sounding names, and immediately assumes their platform is on fire. It’s not on fire. It’s almost never on fire. But the report sure makes it look like it is. And that’s […] The post How to read a VAPT report without panicking appeared first on e27 .
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **When 43 per cent of the world’s funding goes to two firms, where does that leave SEA?** — Score 10, observation — [Quelle](https://e27.co/when-43-per-cent-of-the-worlds-funding-goes-to-two-firms-where-does-that-leave-sea-20260918/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-18T04:46:43+00:00`, fetched `2026-09-18T04:48:46+00:00`
-  - Treffer: APAC Trend Radar, funding, Watchgraph:capitals_power_centers
-  - Watchgraph: capitals_power_centers
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
-  - Warum relevant: APAC Trend Radar (+3.0); funding (+2.5); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
-  - Kurz: Crunchbase’s numbers for the first half of 2026 are the kind that are supposed to make an entire industry feel good. Global venture funding hit US$510 billion, beating the whole of 2025 in six months and smashing the previous half-year record of US$375 billion set in the second half of 2021. Startup capital, by the […] The post When 43 per cent of the world’s funding goes to two firms, where does that leave SEA? app…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **anthropics/claude-code** — Score 10, observation — [Quelle](https://github.com/anthropics/claude-code)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-09-18T05:53:28+00:00`
-  - Treffer: AI Agents, APAC Trend Radar, GitHub Trending
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. https://code.claude.com/docs/en/overview Claude Code Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by ex…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **ECB Consumer Expectations Survey results – August 2026** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260918~295b3ab978.en.html)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-09-18T08:00:00+00:00`, fetched `2026-09-18T08:26:38+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: ECB Consumer Expectations Survey results – August 2026
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+Keine neuen Beobachtungssignale.
 
 ## Empfehlungen
 
-- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Keine direkte Handlung. Konfigurierte Quellen weiter prüfen.
 
 ## Erinnerungskandidaten
 
