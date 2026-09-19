@@ -1,18 +1,18 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-19T10:12:11Z",
+  "generated_at": "2026-09-19T10:25:10Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 35,
+    "dynamics": 37,
     "bands": {
       "strong": 7,
-      "watch": 12,
+      "watch": 14,
       "quiet": 16
     },
     "bands_after_gate_recheck": {
       "strong": 7,
-      "watch": 12,
+      "watch": 14,
       "quiet": 16
     }
   },
@@ -33,12 +33,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 4.4,
+      "baseline_z_hint": 4.1,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 4.40",
+        "baseline z_hint 4.10",
         "high terms: rce, code",
         "security high-signal: rce, code",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
@@ -50,7 +50,7 @@
       "url": "https://github.com/tamaratran/fast-jev-compaction",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T04:24:55+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -77,7 +77,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiib",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-19T08:02:59.040+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -102,7 +102,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tih8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-19T04:33:48.040+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -151,7 +151,7 @@
       "url": "https://syu-m-5151.hatenablog.com/entry/2026/09/19/112330",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T02:40:03+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "ai"
       ],
@@ -204,7 +204,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiib",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-03T21:47:43+00:00",
-      "age_days": 15.52,
+      "age_days": 15.53,
       "topics": [
         "general"
       ],
@@ -231,7 +231,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tih8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-04T05:31:26+00:00",
-      "age_days": 15.19,
+      "age_days": 15.2,
       "topics": [
         "general"
       ],
@@ -254,11 +254,37 @@
       "summary": ""
     },
     {
+      "title": "M 5.0 - South Sandwich Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiis",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-04T07:23:48+00:00",
+      "age_days": 15.13,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 19.9,
+      "raw_band": "strong",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 2.9,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 2.90",
+        "stale single-source cap: max watch after 14d without fresh resonance"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 4.9 - 117 km NW of Barranca, Peru",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tii3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-19T07:29:12.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -283,7 +309,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tii3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-19T07:33:09+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -307,7 +333,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tii4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-19T07:37:40.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -351,53 +377,53 @@
       "summary": ""
     },
     {
+      "title": "M 4.8 - 268 km NNW of Kuril’sk, Russia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiim",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-19T09:48:38+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Introducing the Australian Youth Safety Blueprint",
       "url": "https://openai.com/index/australian-youth-safety-blueprint",
       "source": "OpenAI News RSS",
       "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 93.56,
+      "age_days": 93.57,
       "topics": [
         "general"
       ],
-      "dynamics_score": 15.75,
+      "dynamics_score": 15.61,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.68,
+      "baseline_z_hint": 0.55,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 0.68",
+        "baseline z_hint 0.55",
         "aging penalty -8.0 for 93.6d old signal",
         "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 4.8 - 268 km NNW of Kuril’sk, Russia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiim",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-19T09:48:38+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2"
       ],
       "summary": ""
     },
@@ -406,7 +432,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/column/semicon/2142421.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T06:18:56+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -430,7 +456,7 @@
       "url": "https://www.itmedia.co.jp/mobile/articles/2609/19/news002.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-09T12:51:45+00:00",
-      "age_days": 9.89,
+      "age_days": 9.9,
       "topics": [
         "general"
       ],
@@ -454,7 +480,7 @@
       "url": "https://forbesjapan.com/articles/detail/104778",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T02:28:57+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "ai"
       ],
@@ -476,11 +502,35 @@
       "summary": ""
     },
     {
+      "title": "M 5.0 - South Sandwich Islands region",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiis",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-19T10:15:13.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "Time 2026-09-19 09:59:59 UTC 2026-09-19 09:59:59 UTC at epicenter Location 55.626°S 28.112°W Depth 77.62 km (48.23 mi)"
+    },
+    {
       "title": "M 4.8 - 268 km NNW of Kuril’sk, Russia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiim",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-19T09:46:41.040+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -504,7 +554,7 @@
       "url": "https://news.jp/i/1473810070062515120",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T02:01:19+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "ai"
       ],
@@ -530,7 +580,7 @@
       "url": "https://forbesjapan.com/articles/detail/104778",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-18T09:39:13+00:00",
-      "age_days": 1.02,
+      "age_days": 1.03,
       "topics": [
         "ai"
       ],
@@ -556,7 +606,7 @@
       "url": "https://github.com/browser-use/jev-ultrafast",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-17T06:48:22+00:00",
-      "age_days": 2.14,
+      "age_days": 2.15,
       "topics": [
         "general"
       ],
@@ -580,7 +630,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN190C40Z10C26A9000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T01:53:51+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "ai"
       ],
@@ -606,7 +656,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN18CET0Y6A910C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-18T22:51:23+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "ai"
       ],
@@ -661,7 +711,7 @@
       "topics": [
         "ai"
       ],
-      "dynamics_score": 5.71,
+      "dynamics_score": 5.7,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -684,7 +734,7 @@
       "url": "https://news.jp/i/1473810070062515120",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-18T23:35:39+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "ai"
       ],
@@ -710,7 +760,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/column/semicon/2142421.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T03:40:11+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -734,7 +784,7 @@
       "url": "https://www.itmedia.co.jp/mobile/articles/2609/19/news002.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T01:13:17+00:00",
-      "age_days": 0.37,
+      "age_days": 0.38,
       "topics": [
         "general"
       ],
@@ -754,15 +804,15 @@
       "summary": "皆さん、突然だが、Androidスマートフォンで「おサイフケータイ」を使っているだろうか？ 私は今後も使いたくない。 最も大きな理由はこれだ。一部の機種において本体をリセットしてもおサイフケータイのデータは残るという、その不便極まりない仕様があるためだ。 通常の初期化では消えないデータと売却時の不利益 お..."
     },
     {
-      "title": "AIに任せた品質は、誰が見立てるのか - AI時代のテストマネジメント",
-      "url": "https://speakerdeck.com/nakanao/ai-ni-makaseta-hinshitsu-ha-dare-ga-mitateru-no-ka-ai-jidai-no-tesuto-manejimento",
+      "title": "GoogleのAIも他社システムに侵入 事故直後に停止、公表せず - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOGN190C40Z10C26A9000000/",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T01:58:32+00:00",
+      "published_at": "2026-06-19T02:10:07+00:00",
       "age_days": 92.34,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 3.5,
+      "dynamics_score": 3.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -781,39 +831,11 @@
       "summary": ""
     },
     {
-      "title": "GoogleのAIも他社システムに侵入 事故直後に停止、公表せず - 日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOGN190C40Z10C26A9000000/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T02:10:07+00:00",
-      "age_days": 92.33,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 3.05,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.04,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 0.04",
-        "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 92.3d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "世界37カ国のうち日本を含むほとんどの国で「AIは雇用増加ではなく雇用喪失を引き起こす」と予想されていることが判明",
-      "url": "https://gigazine.net/news/20260918-more-people-expect-ai-job-loss/",
+      "title": "AIに任せた品質は、誰が見立てるのか - AI時代のテストマネジメント",
+      "url": "https://speakerdeck.com/nakanao/ai-ni-makaseta-hinshitsu-ha-dare-ga-mitateru-no-ka-ai-jidai-no-tesuto-manejimento",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 92.34,
+      "age_days": 92.35,
       "topics": [
         "ai"
       ],
@@ -830,7 +852,34 @@
       "why": [
         "momentum delta +3",
         "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 92.3d old signal",
+        "aging penalty -8.0 for 92.4d old signal",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "世界37カ国のうち日本を含むほとんどの国で「AIは雇用増加ではなく雇用喪失を引き起こす」と予想されていることが判明",
+      "url": "https://gigazine.net/news/20260918-more-people-expect-ai-job-loss/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T01:58:32+00:00",
+      "age_days": 92.35,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 1.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "aging penalty -8.0 for 92.4d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -840,7 +889,7 @@
       "url": "https://speakerdeck.com/nakanao/ai-ni-makaseta-hinshitsu-ha-dare-ga-mitateru-no-ka-ai-jidai-no-tesuto-manejimento",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T06:37:26+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -865,7 +914,7 @@
       "url": "https://gigazine.net/news/20260918-more-people-expect-ai-job-loss/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-18T07:39:00+00:00",
-      "age_days": 1.11,
+      "age_days": 1.12,
       "topics": [
         "ai"
       ],
@@ -890,7 +939,7 @@
       "url": "https://news.web.nhk/newsweb/na/nd-20260919de51229",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T04:41:01+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
