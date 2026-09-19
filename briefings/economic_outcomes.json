@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-19T04:25:22+00:00",
+  "generated_at": "2026-09-19T04:36:56+00:00",
   "events": [
     {
       "event_id": "evt_010865faf79d8c1f952b",
@@ -1886,12 +1886,12 @@
     {
       "event_id": "evt_440acae1456b879c0d72",
       "title": "GitHub - tamaratran/fast-jev-compaction: Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -6094,7 +6094,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_c1e510aa3c1eddc64868",
