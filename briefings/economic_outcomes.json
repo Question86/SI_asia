@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-19T13:19:23+00:00",
+  "generated_at": "2026-09-19T13:29:21+00:00",
   "events": [
     {
       "event_id": "evt_010865faf79d8c1f952b",
@@ -1738,7 +1738,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_3f21aee55d5ed0a7e0b4",
@@ -4852,6 +4852,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_95dc4709ac250981c75f",
+      "title": "全社に OpenCode + LiteLLM を導入してコストを抑えつつ AI 活用を進めている話",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_9621801164f24dea86ea",
