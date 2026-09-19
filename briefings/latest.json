@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T01:22:19+00:00",
-  "run_id": "2026-09-19T01:22:19+00:00",
+  "generated_at": "2026-09-19T01:39:09+00:00",
+  "run_id": "2026-09-19T01:39:09+00:00",
   "date": "2026-09-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 3,
     "displayed_findings": 3,
     "high": 0,
@@ -166,30 +166,7 @@
       "id": "8bdacd940b230fd1369b"
     }
   ],
-  "new_findings": [
-    {
-      "title": "米アンソロピックが生物学の実験施設 AIを創薬に活用 - 日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOGN18CET0Y6A910C2000000/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-18T22:51:23+00:00",
-      "fetched_at": "2026-09-19T01:21:50+00:00",
-      "summary": "【シリコンバレー=山田遼太郎】米新興アンソロピックが人工知能（AI）を応用し、生物学の研究をする実験施設を設けたことが18日明らかになった。ロイター通信が報じた。希少疾患の治療薬の開発などを目指しているとみられる。ロイターによると、アンソロピックは細胞や試薬を用いて実験する「ウエットラボ」と呼ばれる施...",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "203b07de5d9353ce78c8"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
