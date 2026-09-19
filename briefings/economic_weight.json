@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-19T00:57:03+00:00",
+  "generated_at": "2026-09-19T01:22:42+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -4497,7 +4497,7 @@
       "p90_usd": 1232000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
-      "last_seen_at": "2026-09-19T00:56:48+00:00",
+      "last_seen_at": "2026-09-19T01:22:22+00:00",
       "status": "active"
     },
     {
@@ -4973,8 +4973,8 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-16T12:58:22+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-09-19T01:22:22+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_28d372a7de61eb91a1dd",
@@ -9160,6 +9160,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_bdd807cdb4257b4c4817",
+      "title": "GitHub - browser-use/jev-ultrafast: i. am. speed.",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-19T00:56:48+00:00",
+      "last_seen_at": "2026-09-19T01:22:22+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_c2927e9cf87dfb53f198",
       "title": "I built an AI that keeps receipts. The mistakes became the useful part",
       "event_classes": [
@@ -9379,23 +9396,6 @@
       "first_seen_at": "2026-09-17T01:54:13+00:00",
       "last_seen_at": "2026-09-17T06:57:53+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_bdd807cdb4257b4c4817",
-      "title": "GitHub - browser-use/jev-ultrafast: i. am. speed.",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 110400.0,
-      "p50_usd": 11040000.0,
-      "p90_usd": 1104000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-19T00:56:48+00:00",
-      "last_seen_at": "2026-09-19T00:56:48+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_050660578420f6fb8ddb",
