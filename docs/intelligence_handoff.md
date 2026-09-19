@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-19T13:50:04Z_
+_Generated: 2026-09-19T14:12:06Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “Codexを使うなら、config.tomlとAGE
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-17T12:27:55+00:00` / age_days `2.06`
+- Published: `2026-09-17T12:27:55+00:00` / age_days `2.07`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, high terms: rce, code, security high-signal: rce, code, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “Codexを使うなら、config.tomlとAGE
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.9`
-- Published: `2026-09-19T04:24:55+00:00` / age_days `0.39`
+- Published: `2026-09-19T04:24:55+00:00` / age_days `0.41`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -31,18 +31,18 @@ Stärkste Dynamik nach Gate-Recheck: “Codexを使うなら、config.tomlとAGE
 ### M 4.6 - 25 km NW of Ushibukamachi, Japan
 
 - Band: `strong` (raw `strong`)
-- Dynamics score: `24.07`
-- Published: `2026-09-14T11:31:15+00:00` / age_days `5.1`
+- Dynamics score: `23.87`
+- Published: `2026-09-14T11:31:15+00:00` / age_days `5.11`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, baseline z_hint 1.97
+- Warum: momentum delta +3, baseline z_hint 1.79
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tijd
 
 ### M 4.6 - 25 km NW of Ushibukamachi, Japan
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-19T12:32:50.117+00:00` / age_days `0.05`
+- Published: `2026-09-19T12:32:50.117+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10, 9.8
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “Codexを使うなら、config.tomlとAGE
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-19T08:02:59.040+00:00` / age_days `0.24`
+- Published: `2026-09-19T08:02:59.040+00:00` / age_days `0.26`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “Codexを使うなら、config.tomlとAGE
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-19T04:33:48.040+00:00` / age_days `0.39`
+- Published: `2026-09-19T04:33:48.040+00:00` / age_days `0.4`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “Codexを使うなら、config.tomlとAGE
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.0`
-- Published: `2026-09-19T02:40:03+00:00` / age_days `0.47`
+- Published: `2026-09-19T02:40:03+00:00` / age_days `0.48`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “Codexを使うなら、config.tomlとAGE
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.0`
-- Published: `2026-09-18T16:33:31+00:00` / age_days `0.89`
+- Published: `2026-09-18T16:33:31+00:00` / age_days `0.9`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: early terms: supply, chain, high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “Codexを使うなら、config.tomlとAGE
 
 - Band: `watch` (raw `krass`)
 - Dynamics score: `19.9`
-- Published: `2026-09-03T21:47:43+00:00` / age_days `15.67`
+- Published: `2026-09-03T21:47:43+00:00` / age_days `15.68`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: 10, krass gate: single-source non-official/non-identity signal capped, stale single-source cap: max watch after 14d without fresh resonance
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “Codexを使うなら、config.tomlとAGE
 
 - Band: `watch` (raw `krass`)
 - Dynamics score: `19.9`
-- Published: `2026-09-04T05:31:26+00:00` / age_days `15.35`
+- Published: `2026-09-04T05:31:26+00:00` / age_days `15.36`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: 10, krass gate: single-source non-official/non-identity signal capped, stale single-source cap: max watch after 14d without fresh resonance
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “Codexを使うなら、config.tomlとAGE
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-09-19T12:39:10.040+00:00` / age_days `0.05`
+- Published: `2026-09-19T12:39:10.040+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “Codexを使うなら、config.tomlとAGE
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-09-19T07:29:12.040+00:00` / age_days `0.26`
+- Published: `2026-09-19T07:29:12.040+00:00` / age_days `0.28`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
