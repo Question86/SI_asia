@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-19T07:33:06+00:00_
+_Generated: 2026-09-19T07:42:20+00:00_
 
 ## Status
 - status: `normal`
-- findings: `14`
+- findings: `15`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-09-19T07:33:06+00:00_
 - url: https://github.com/tamaratran/fast-jev-compaction
 - summary: Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim. Also usable as an npm library. Most context compaction a…
 
-### 3. M 5.2 - 210 km WNW of Abepura, Indonesia
+### 3. M 4.6 - 57 km ESE of Koseda, Japan
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-09-19T07:37:40.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tii4
+- summary: Time 2026-09-19 07:08:23 UTC 2026-09-19 07:08:23 UTC at epicenter Location 30.167°N 131.190°E Depth 38.54 km (23.95 mi)
+
+### 4. M 5.2 - 210 km WNW of Abepura, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-09-19T04:33:48.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tih8
 - summary: Time 2026-09-19 04:18:35 UTC 2026-09-19 04:18:35 UTC at epicenter Location 1.856°S 138.888°E Depth 10.00 km (6.21 mi)
-
-### 4. Introducing the Australian Youth Safety Blueprint
-- source: OpenAI News RSS
-- score: `14`
-- published: `2026-09-18T12:00:00+00:00`
-- url: https://openai.com/index/australian-youth-safety-blueprint
-- summary: OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.
 
 ### 5. M 4.9 - 117 km NW of Barranca, Peru
 - source: USGS M4.5+ Earthquakes Past Hour

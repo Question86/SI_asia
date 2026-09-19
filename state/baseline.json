@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-19T07:33:09+00:00",
+  "generated_at": "2026-09-19T07:42:23+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -99,9 +99,8 @@
     },
     "domain:openai.com": {
       "title": "Introducing the Australian Youth Safety Blueprint",
-      "updated_at": "2026-09-19T07:33:09+00:00",
+      "updated_at": "2026-09-19T07:42:23+00:00",
       "network_scores": [
-        10.1,
         10.1,
         10.1,
         10.1,
@@ -130,12 +129,13 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 13.27,
+      "rolling_average": 13.47,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": 2.83
+      "z_hint": 2.63
     },
     "title:read-remote-repository-content-github-cli": {
       "title": "Read remote repository content with GitHub CLI",
@@ -2759,9 +2759,9 @@
     },
     "domain:gigazine.net": {
       "title": "世界37カ国のうち日本を含むほとんどの国で「AIは雇用増加ではなく雇用喪失を引き起こす」と予想されていることが判明",
-      "updated_at": "2026-09-19T07:33:09+00:00",
+      "updated_at": "2026-09-19T07:42:23+00:00",
       "network_scores": [
-        13.1,
+        10.1,
         10.1,
         10.1,
         10.1,
@@ -2792,10 +2792,10 @@
         10.1,
         10.1
       ],
-      "rolling_average": 10.2,
-      "rolling_peak": 13.1,
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
       "last_score": 10.1,
-      "z_hint": -0.1
+      "z_hint": 0.0
     },
     "title:acrab-raises-350m-advance-agentic-compute-infrastructure": {
       "title": "Acrab raises US$350M to advance Agentic AI compute infrastructure",
@@ -3886,9 +3886,8 @@
     },
     "domain:www.nikkei.com": {
       "title": "GoogleのAIも他社システムに侵入 事故直後に停止、公表せず - 日本経済新聞",
-      "updated_at": "2026-09-19T07:33:09+00:00",
+      "updated_at": "2026-09-19T07:42:23+00:00",
       "network_scores": [
-        12.1,
         15.1,
         12.1,
         12.1,
@@ -3917,12 +3916,13 @@
         14.2,
         14.2,
         14.2,
+        14.2,
         14.2
       ],
-      "rolling_average": 13.35,
+      "rolling_average": 13.42,
       "rolling_peak": 17.2,
       "last_score": 14.2,
-      "z_hint": 0.85
+      "z_hint": 0.78
     },
     "title:economy-moving-faster-than-our-institutions": {
       "title": "The AI economy is moving faster than our institutions",
@@ -6492,7 +6492,7 @@
     },
     "title:nhk": {
       "title": "グーグルの生成AI サイバー能力試験中に他社のシステムに侵入 | NHKニュース",
-      "updated_at": "2026-09-19T07:33:09+00:00",
+      "updated_at": "2026-09-19T07:42:23+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -6509,12 +6509,13 @@
         7.1,
         7.1,
         7.1,
-        10.1
+        10.1,
+        7.1
       ],
-      "rolling_average": 7.47,
+      "rolling_average": 7.45,
       "rolling_peak": 10.1,
-      "last_score": 10.1,
-      "z_hint": 2.63
+      "last_score": 7.1,
+      "z_hint": -0.35
     },
     "title:anthropic-mhs": {
       "title": "Anthropic、AIで物理機器を制御する共通規格「MHS」発表 将来オープンソース化へ",
@@ -17775,7 +17776,7 @@
     },
     "earthquake:indonesia:5.2": {
       "title": "M 5.2 - 210 km WNW of Abepura, Indonesia",
-      "updated_at": "2026-09-19T07:33:09+00:00",
+      "updated_at": "2026-09-19T07:42:23+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -17791,8 +17792,8 @@
         17.7,
         17.7,
         17.7,
-        17.7,
         20.7,
+        17.7,
         17.7,
         17.7,
         17.7,
@@ -24893,9 +24894,8 @@
     },
     "title:android": {
       "title": "Androidでおサイフケータイを使いたくない理由 初期化で消えないデータと売却時の落とし穴",
-      "updated_at": "2026-09-19T07:33:09+00:00",
+      "updated_at": "2026-09-19T07:42:23+00:00",
       "network_scores": [
-        16.1,
         16.1,
         16.1,
         16.1,
@@ -24924,12 +24924,13 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 12.9,
+      "rolling_average": 12.6,
       "rolling_peak": 16.1,
       "last_score": 7.1,
-      "z_hint": -5.8
+      "z_hint": -5.5
     },
     "cve:CVE-2026-44756": {
       "title": "2026-011: Critical Vulnerabilities in SAP Kernel and NetWeaver Message Server",
@@ -31685,8 +31686,8 @@
       "z_hint": 0.0
     },
     "earthquake:japan:4.6": {
-      "title": "M 4.6 - 20 km ESE of Tsunō, Japan",
-      "updated_at": "2026-09-18T23:55:00+00:00",
+      "title": "M 4.6 - 57 km ESE of Koseda, Japan",
+      "updated_at": "2026-09-19T07:42:23+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -31717,12 +31718,12 @@
         17.7,
         17.7,
         17.7,
-        17.7
+        20.7
       ],
-      "rolling_average": 17.7,
-      "rolling_peak": 17.7,
-      "last_score": 17.7,
-      "z_hint": 0.0
+      "rolling_average": 17.8,
+      "rolling_peak": 20.7,
+      "last_score": 20.7,
+      "z_hint": 2.9
     },
     "title:claude-code-desktop": {
       "title": "最近のClaude Code Desktop、使いやすさマシマシです！",
@@ -36860,7 +36861,7 @@
     },
     "domain:syu-m-5151.hatenablog.com": {
       "title": "Codexを使うなら、config.tomlとAGENTS.mdを押さえておきたい - じゃあ、おうちで学べる",
-      "updated_at": "2026-09-19T07:33:09+00:00",
+      "updated_at": "2026-09-19T07:42:23+00:00",
       "network_scores": [
         16.1,
         16.1,
@@ -36889,14 +36890,14 @@
         16.1,
         16.1,
         16.1,
-        16.1,
         28.1,
+        25.1,
         25.1
       ],
-      "rolling_average": 16.8,
+      "rolling_average": 17.1,
       "rolling_peak": 28.1,
       "last_score": 25.1,
-      "z_hint": 8.3
+      "z_hint": 8.0
     },
     "title:multiples-vuln-rabilit-dans-noyau-linux-suse-septembre": {
       "title": "Multiples vulnérabilités dans le noyau Linux de SUSE (11 septembre 2026)",
@@ -39009,9 +39010,9 @@
     },
     "github_repo:browser-use/jev-ultrafast": {
       "title": "GitHub - browser-use/jev-ultrafast: i. am. speed.",
-      "updated_at": "2026-09-19T07:33:09+00:00",
+      "updated_at": "2026-09-19T07:42:23+00:00",
       "network_scores": [
-        13.1,
+        10.1,
         10.1,
         10.1,
         10.1,
@@ -39042,14 +39043,14 @@
         10.1,
         10.1
       ],
-      "rolling_average": 10.2,
-      "rolling_peak": 13.1,
+      "rolling_average": 10.1,
+      "rolling_peak": 10.1,
       "last_score": 10.1,
-      "z_hint": -0.1
+      "z_hint": 0.0
     },
     "title:newsjp": {
       "title": "米軍、AI誤報で作戦計画 中国船に「核部品」、直前中止 | NEWSjp",
-      "updated_at": "2026-09-19T07:33:09+00:00",
+      "updated_at": "2026-09-19T07:42:23+00:00",
       "network_scores": [
         13.1,
         10.1,
@@ -39076,18 +39077,20 @@
         10.1,
         10.1,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 10.22,
+      "rolling_average": 10.21,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -0.12
+      "z_hint": -0.11
     },
     "domain:forbesjapan.com": {
       "title": "学位なしで年収1500万円超を狙える「無料のAI認定資格」3選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
-      "updated_at": "2026-09-19T07:33:09+00:00",
+      "updated_at": "2026-09-19T07:42:23+00:00",
       "network_scores": [
         16.1,
+        13.1,
         13.1,
         13.1,
         13.1,
@@ -39120,7 +39123,7 @@
     },
     "github_repo:tamaratran/fast-jev-compaction": {
       "title": "GitHub - tamaratran/fast-jev-compaction: Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.",
-      "updated_at": "2026-09-19T07:33:09+00:00",
+      "updated_at": "2026-09-19T07:42:23+00:00",
       "network_scores": [
         25.1,
         22.1,
@@ -39137,39 +39140,42 @@
         22.1,
         22.1,
         22.1,
+        22.1,
         22.1
       ],
-      "rolling_average": 22.29,
+      "rolling_average": 22.28,
       "rolling_peak": 25.1,
       "last_score": 22.1,
-      "z_hint": -0.19
+      "z_hint": -0.18
     },
     "title:dram-nand-2026": {
       "title": "【福田昭のセミコン業界最前線】 DRAMとNANDの暴騰で、想定外の急激な膨張を続ける2026年の半導体市場",
-      "updated_at": "2026-09-19T07:33:09+00:00",
+      "updated_at": "2026-09-19T07:42:23+00:00",
       "network_scores": [
         10.1,
         7.1,
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.6,
+      "rolling_average": 7.53,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.5
+      "z_hint": -0.43
     },
     "earthquake:m 4.9 - 117 km nw of barranca, peru:4.9": {
       "title": "M 4.9 - 117 km NW of Barranca, Peru",
-      "updated_at": "2026-09-19T07:33:09+00:00",
+      "updated_at": "2026-09-19T07:42:23+00:00",
       "network_scores": [
-        16.7
+        16.7,
+        13.7
       ],
-      "rolling_average": 16.7,
+      "rolling_average": 15.2,
       "rolling_peak": 16.7,
-      "last_score": 16.7,
-      "z_hint": 0.0
+      "last_score": 13.7,
+      "z_hint": -1.5
     }
   }
 }
