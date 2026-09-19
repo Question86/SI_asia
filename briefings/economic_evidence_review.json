@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-09-19T14:01:45+00:00",
+  "generated_at": "2026-09-19T14:19:28+00:00",
   "fx_as_of": null,
-  "candidate_count": 867,
+  "candidate_count": 868,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 867
+    "pending": 868
   },
   "coverage_warning": null,
   "candidates": [
@@ -12058,6 +12058,27 @@
       "snippet": "喚起）（警察庁） #StopRansomware: CL0P Ransomware Gang Exploits CVE-2023-34362 MOVEit Vulnerability（CISA） Notice of Data Security Incident（Aesto Health、2026年6月24日） Software provider fined £3m following 2022 ransomware attack（英国 ICO、Advanced Computer Software Group） 不正アクセスによる個人情報流出の可能性に関するご報告とお詫び（富士フイルムメディカル） 個人情報漏えいに関する調査結果のご報告とお詫び（シミックヘルスケア・インスティテュート） Breach Portal: N",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://scgajge12.hatenablog.com/entry/closed_network_security"
+    },
+    {
+      "amount_native": 0.00022,
+      "amount_usd": 0.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.55,
+      "candidate_id": "cand_ea6b11c592f01bc95c46",
+      "component_suggestion": "real_resource",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_aded2857bce4fe598bda",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-19T14:19:19+00:00",
+      "overlap_group_suggestion": "evt_aded2857bce4fe598bda:real_resource:90b4c25bb4a1",
+      "review_status": "pending",
+      "snippet": "敗 Claude 4 種・GPT-5.6 3 種と各 60 秒 × 2 試合。うち 7 試合は相手が 60 秒もたずに積み上がりました。 SPEED · 1 手あたり 289 ms 最大 34 個の置き方を 1 リクエストで全部採点してこの速さ。最速の LLM（Haiku 4.5）の 2.5 倍、Opus 5 の 9 倍です。 COST · 1 手あたり $0.00022 同じくらい丁寧に置ける Opus 5 の 56 分の 1。時間制限なしで置き方の質だけを比べても、最上位 LLM と同水準でした。 LESSON 1 · 聞き方がすべて 最初の Jev は 44 手で自滅した 評価基準を「穴を作れば 0 点」と書いたら、Jev はそれを忠実に守って、穴のない壁と溝だけの盤面を築いて終了。モデルは同じまま、5 段階の基準・差分",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://jev-guide.take-otani.workers.dev/",
+      "component_confidence": 0.55,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 236000000000.0,
