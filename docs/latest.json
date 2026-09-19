@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T14:18:52+00:00",
-  "run_id": "2026-09-19T14:18:52+00:00",
+  "generated_at": "2026-09-19T14:28:39+00:00",
+  "run_id": "2026-09-19T14:28:39+00:00",
   "date": "2026-09-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 26,
     "displayed_findings": 26,
     "high": 0,
@@ -1533,31 +1533,7 @@
       "id": "ed07d610899bb0b33dff"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Jev 図解ガイド",
-      "url": "https://jev-guide.take-otani.workers.dev/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-17T13:45:28+00:00",
-      "fetched_at": "2026-09-19T14:18:19+00:00",
-      "summary": "TypeSafe / System One model 文章ではなく、 判断を返す AI。 Jev（ジェヴ）は、自然言語を理解したうえで「どれか」「どの程度か」「Yes か No か」を型のある値と確率で返すモデルです。テキストを生成しないので、パースもリトライも不要。返ってきた値は、そのまま if 文・並べ替え・しきい値判定に使えます。 応答...",
-      "matched_keywords": [
-        "AI/KI",
-        "Content-Chance",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "AI/KI (+3.0); Content-Chance (+5.0); Hatena (+2.0); hotentry (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ac32591a560bf2148241"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
