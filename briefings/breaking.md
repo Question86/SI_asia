@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-09-19T04:36:35+00:00_
+_Generiert: 2026-09-19T04:46:43+00:00_
 
 ## GitHub - tamaratran/fast-jev-compaction: Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim.
 
