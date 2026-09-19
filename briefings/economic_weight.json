@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-19T00:10:44+00:00",
+  "generated_at": "2026-09-19T00:57:03+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -4497,8 +4497,8 @@
       "p90_usd": 1232000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-06-20T02:49:51+00:00",
-      "last_seen_at": "2026-09-16T23:55:27+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-09-19T00:56:48+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_47eecb9fd7e4eb30b620",
@@ -9379,6 +9379,23 @@
       "first_seen_at": "2026-09-17T01:54:13+00:00",
       "last_seen_at": "2026-09-17T06:57:53+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_bdd807cdb4257b4c4817",
+      "title": "GitHub - browser-use/jev-ultrafast: i. am. speed.",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-19T00:56:48+00:00",
+      "last_seen_at": "2026-09-19T00:56:48+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_050660578420f6fb8ddb",
