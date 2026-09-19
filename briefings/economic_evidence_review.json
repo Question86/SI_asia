@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-09-19T16:01:21+00:00",
+  "generated_at": "2026-09-19T16:21:12+00:00",
   "fx_as_of": null,
-  "candidate_count": 868,
+  "candidate_count": 869,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 868
+    "pending": 869
   },
   "coverage_warning": null,
   "candidates": [
@@ -11411,6 +11411,27 @@
       "snippet": "bong 0 450 Code Reviewing Like a Champion maltzj 528 40k The Director’s Chair: Orchestrating AI for Truly Effective Learning tmiket 1 300 Data-driven link building: lessons from a $708K investment (BrightonSEO talk) szymonslowik 1 1.3k Design and Strategy: How to Deal with People Who Don’t \"Get\" Design morganepeng 133 19k Future Trends and Review - Lecture 12 - W",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://speakerdeck.com/minorun365/konwadai-no-ai-jev-tte-nani-uchuu-saisoku-de-manabu-kai"
+    },
+    {
+      "amount_native": 708000.0,
+      "amount_usd": 708000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.55,
+      "candidate_id": "cand_0d6e226c24bbc09523a4",
+      "component_suggestion": "capital_allocation",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_a9168860075ad99c5a0d",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-19T16:21:06+00:00",
+      "overlap_group_suggestion": "evt_a9168860075ad99c5a0d:capital_allocation:a5b72ca71bd8",
+      "review_status": "pending",
+      "snippet": "design skipperchong 2 380 Tips & Tricks on How to Get Your First Job In Tech honzajavorek 1 740 [SF Ruby Conf 2025] Rails X palkan 3 1.4k Data-driven link building: lessons from a $708K investment (BrightonSEO talk) szymonslowik 1 1.3k Testing 201, or: Great Expectations jmmastey 46 8.3k The #1 spot is gone: here's how to win anyway tamaranovitovic 4 1.2k Transcr",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://speakerdeck.com/nakanao/ai-ni-makaseta-hinshitsu-ha-dare-ga-mitateru-no-ka-ai-jidai-no-tesuto-manejimento",
+      "component_confidence": 0.55,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 200000.0,
