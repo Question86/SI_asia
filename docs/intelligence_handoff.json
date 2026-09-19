@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-19T07:39:58Z",
+  "generated_at": "2026-09-19T07:49:04Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Codexを使うなら、config.tomlとAGENTS.mdを押さえておきたい - じゃあ、おうちで学べる” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://syu-m-5151.hatenablog.com/entry/2026/09/19/112330",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-17T12:27:55+00:00",
-      "age_days": 1.8,
+      "age_days": 1.81,
       "topics": [
         "ai"
       ],
@@ -26,12 +26,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 8.3,
+      "baseline_z_hint": 8.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 8.30",
+        "baseline z_hint 8.00",
         "high terms: rce, code",
         "security high-signal: rce, code",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
@@ -66,11 +66,37 @@
       "summary": ""
     },
     {
+      "title": "M 4.6 - 57 km ESE of Koseda, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tii4",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-14T11:31:15+00:00",
+      "age_days": 4.85,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 2.9,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 2.90",
+        "krass gate: single-source non-official/non-identity signal capped"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 5.2 - 210 km WNW of Abepura, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tih8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-19T04:33:48.040+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -121,7 +147,7 @@
       "url": "https://github.com/tamaratran/fast-jev-compaction",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-18T16:33:31+00:00",
-      "age_days": 0.63,
+      "age_days": 0.64,
       "topics": [
         "ai"
       ],
@@ -148,7 +174,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tih8",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-04T05:31:26+00:00",
-      "age_days": 15.09,
+      "age_days": 15.1,
       "topics": [
         "general"
       ],
@@ -196,6 +222,30 @@
       "summary": "Time 2026-09-19 07:12:27 UTC 2026-09-19 07:12:27 UTC at epicenter Location 4.013°S 77.349°W Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 4.6 - 57 km ESE of Koseda, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tii4",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-19T07:37:40.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 18.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "Time 2026-09-19 07:08:23 UTC 2026-09-19 07:08:23 UTC at epicenter Location 30.167°N 131.190°E Depth 38.54 km (23.95 mi)"
+    },
+    {
       "title": "Introducing the Australian Youth Safety Blueprint",
       "url": "https://openai.com/index/australian-youth-safety-blueprint",
       "source": "OpenAI News RSS",
@@ -204,19 +254,19 @@
       "topics": [
         "general"
       ],
-      "dynamics_score": 18.11,
+      "dynamics_score": 17.89,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 2.83,
+      "baseline_z_hint": 2.63,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 2.83",
+        "baseline z_hint 2.63",
         "aging penalty -8.0 for 93.5d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
@@ -227,7 +277,7 @@
       "url": "https://github.com/browser-use/jev-ultrafast",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T00:56:48+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "general"
       ],
@@ -247,59 +297,11 @@
       "summary": ""
     },
     {
-      "title": "M 4.9 - 117 km NW of Barranca, Peru",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tii3",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-19T07:33:09+00:00",
-      "age_days": 0.0,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 15.4,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "【福田昭のセミコン業界最前線】 DRAMとNANDの暴騰で、想定外の急激な膨張を続ける2026年の半導体市場",
       "url": "https://pc.watch.impress.co.jp/docs/column/semicon/2142421.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T06:18:56+00:00",
       "age_days": 0.06,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 14.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Androidでおサイフケータイを使いたくない理由 初期化で消えないデータと売却時の落とし穴",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2609/19/news002.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-09T12:51:45+00:00",
-      "age_days": 9.78,
       "topics": [
         "general"
       ],
@@ -328,8 +330,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 5,
-      "watch": 7
+      "strong": 6,
+      "watch": 6
     }
   }
 }
