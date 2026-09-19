@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-19T15:01:04+00:00_
+_Generiert: 2026-09-19T15:18:13+00:00_
 
 ## Kurzlage
 
@@ -41,10 +41,10 @@ _Generiert: 2026-09-19T15:01:04+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Honduras
-- **GDACS: Green flood alert in Indonesia** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104168)
+- **GDACS: Green notification for tropical cyclone SIX-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001323)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green flood alert in Indonesia
+  - Kurz: Green notification for tropical cyclone SIX-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 - **GDACS: Green earthquake (Magnitude 5.5M, Depth:94.054km) in Kermadec Islands Region 18/09/2026 23:18 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1566905)
   - Quelle: GDACS
   - Zeit: ``
