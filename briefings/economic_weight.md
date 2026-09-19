@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-09-19T04:03:37+00:00`
+Generated: `2026-09-19T04:25:16+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -8,6 +8,7 @@ Generated: `2026-09-19T04:03:37+00:00`
 |---|---|---:|---:|---:|---:|
 | Why every warehouse in Singapore will run on AI safety monitoring within five years | natural_disaster, conflict | $122.40M | $12.24B | $1.22T | 0.31 |
 | Singaporean founders’ Lightsage bags US$4M to decode how AI agents choose software | conflict | $121.60M | $12.16B | $1.22T | 0.31 |
+| GitHub - tamaratran/fast-jev-compaction: Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim. | regulation, conflict | $120.00M | $12.00B | $1.20T | 0.31 |
 | anomalyco/opencode | conflict | $115.20M | $11.52B | $1.15T | 0.31 |
 | npm extends recovery-code security holds to all accounts | conflict | $115.20M | $11.52B | $1.15T | 0.31 |
 | Warsh, In Our Time | conflict | $113.60M | $11.36B | $1.14T | 0.31 |
@@ -30,7 +31,6 @@ Generated: `2026-09-19T04:03:37+00:00`
 | コンテック製SolarView Compactにおける複数の脆弱性 | vulnerability, regulation | $11.52M | $1.15B | $115.20B | 0.31 |
 | チームの人数が減っても仕事を回す ── AIとGitHub Actionsによる開発ワークフロー改善 - ZOZO TECH BLOG | regulation | $11.44M | $1.14B | $114.40B | 0.31 |
 | Multiples vulnérabilités dans les produits Ivanti (09 septembre 2026) | exploit, regulation | $11.36M | $1.14B | $113.60B | 0.31 |
-| Control GitHub Actions cache access with cache-mode | regulation | $11.36M | $1.14B | $113.60B | 0.31 |
 
 ## Interpretation
 
