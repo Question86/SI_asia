@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-19T12:28:01+00:00_
+_Generated: 2026-09-19T12:44:14+00:00_
 
 ## Status
 - status: `normal`
-- findings: `21`
+- findings: `23`
 
 ## Top Signals
 
@@ -22,46 +22,46 @@ _Generated: 2026-09-19T12:28:01+00:00_
 - url: https://github.com/tamaratran/fast-jev-compaction
 - summary: Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim. Also usable as an npm library. Most context compaction a…
 
-### 3. M 4.8 - 210 km W of Abepura, Indonesia
+### 3. M 4.6 - 25 km NW of Ushibukamachi, Japan
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-09-19T12:32:50.117+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tijd
+- summary: DYFI? - III Time 2026-09-19 12:07:12 UTC 2026-09-19 12:07:12 UTC at epicenter Location 32.380°N 129.857°E Depth 10.00 km (6.21 mi)
+
+### 4. M 4.8 - 210 km W of Abepura, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-09-19T08:02:59.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiib
 - summary: Time 2026-09-19 07:44:25 UTC 2026-09-19 07:44:25 UTC at epicenter Location 2.587°S 138.738°E Depth 10.00 km (6.21 mi)
 
-### 4. M 4.6 - 57 km ESE of Koseda, Japan
+### 5. M 4.5 - 273 km NNW of Dêqên, China
 - source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-09-19T07:37:40.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tii4
-- summary: Time 2026-09-19 07:08:23 UTC 2026-09-19 07:08:23 UTC at epicenter Location 30.167°N 131.190°E Depth 38.54 km (23.95 mi)
+- score: `11`
+- published: `2026-09-19T12:39:10.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tijf
+- summary: Time 2026-09-19 12:19:55 UTC 2026-09-19 12:19:55 UTC at epicenter Location 32.071°N 89.224°E Depth 10.00 km (6.21 mi)
 
-### 5. M 4.9 - 117 km NW of Barranca, Peru
+### 6. M 4.9 - 117 km NW of Barranca, Peru
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-09-19T07:29:12.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tii3
 - summary: Time 2026-09-19 07:12:27 UTC 2026-09-19 07:12:27 UTC at epicenter Location 4.013°S 77.349°W Depth 10.00 km (6.21 mi)
 
-### 6. Claude Mods 入門 | Claude Codeを自由にカスタマイズする
+### 7. Claude Mods 入門 | Claude Codeを自由にカスタマイズする
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-09-19T03:46:21+00:00`
 - url: https://zenn.dev/nogu66/articles/claude-code-function-hooks-claude-mods
 - summary: 本記事は Claude Code Issue #91870 で議論中の暫定仕様（2026年9月19日時点）をもとにしています。APIは今後変更される可能性があるため、最新情報は公式サイトを参照してください。 noguです。 先日、Claude CodeにClaude Modsという機能が公開されました。 これは、TypeScriptの関数を用いて、Claude Codeの機能や見...
 
-### 7. 学位なしで年収1500万円超を狙える「無料のAI認定資格」3選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）
+### 8. 学位なしで年収1500万円超を狙える「無料のAI認定資格」3選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-09-18T09:39:13+00:00`
 - url: https://forbesjapan.com/articles/detail/104778
 - summary: Indeedによれば、2025年12月に全求人のうちAIに言及したものは4.2％に達し、同プラットフォームで過去最高を記録した。知識労働（ナレッジワーク）領域では、データ・アナリティクス系求人の約45％がAIに触れている。 一方でLinkedInの報告では、AI関連求人は2023年以降おおよそ2倍に増え、標準的なAI求人の提示報酬は約...
-
-### 8. GoogleのAIも他社システムに侵入 事故直後に停止、公表せず - 日本経済新聞
-- source: Hatena Bookmark Hotentry IT
-- score: `10`
-- published: `2026-09-19T01:53:51+00:00`
-- url: https://www.nikkei.com/article/DGXZQOGN190C40Z10C26A9000000/
-- summary: 【シリコンバレー=伴正春】米グーグルが開発中の人工知能（AI）が5月に実在する外部企業3社のシステムに侵入していたことが18日わかった。評価テストで誤ってインターネットに接続できる設定になっていた。AI自身が侵入に気付き、動作を止めたという。米紙ウォール・ストリート・ジャーナル（WSJ）が報じた。グーグルは...
 
 END OF DOCUMENT
