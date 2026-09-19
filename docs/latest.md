@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-19T23:51:05+00:00_
+_Generiert: 2026-09-19T23:58:11+00:00_
 
 ## Kurzlage
 
-33 neue relevante Treffer. Stärkstes Signal: „Codexを使うなら、config.tomlとAGENTS.mdを押さえておきたい - じゃあ、おうちで学べる“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+34 neue relevante Treffer. Stärkstes Signal: „Codexを使うなら、config.tomlとAGENTS.mdを押さえておきたい - じゃあ、おうちで学べる“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -69,6 +69,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **アルトマン氏、OpenAI内部モデルがトップ数学者を超越と明かす 学界に未曾有の焦燥感 — BigGo ファイナンス** — Score 12, observation — [Quelle](https://finance.biggo.jp/news/6c25d38e-2d47-4da2-91cc-b30b32792794)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-18T22:34:05+00:00`, fetched `2026-09-19T23:57:40+00:00`
+  - Treffer: Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 注：7つの難題の賞金は各100万ドル（約1.6億円）で、2000年5月にパリで発表された。ポアンカレ予想はこれまでで唯一正式認定された解答であり、グリゴリー・ペレルマンが2003年に証明を発表、2010年に賞金授与が決定したが辞退した。 市場関係者の情報によれば、先週「ナビエ・ストークス方程式」が突破されたとの報道は...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Jev 図解ガイド** — Score 12, observation — [Quelle](https://jev-guide.take-otani.workers.dev/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-17T13:45:28+00:00`, fetched `2026-09-19T14:18:19+00:00`
@@ -104,15 +113,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 本記事は Claude Code Issue #91870 で議論中の暫定仕様（2026年9月19日時点）をもとにしています。APIは今後変更される可能性があるため、最新情報は公式サイトを参照してください。 noguです。 先日、Claude CodeにClaude Modsという機能が公開されました。 これは、TypeScriptの関数を用いて、Claude Codeの機能や見...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **学位なしで年収1500万円超を狙える「無料のAI認定資格」3選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）** — Score 11, observation — [Quelle](https://forbesjapan.com/articles/detail/104778)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-18T09:39:13+00:00`, fetched `2026-09-19T02:28:24+00:00`
-  - Treffer: APAC Trend Radar, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: Indeedによれば、2025年12月に全求人のうちAIに言及したものは4.2％に達し、同プラットフォームで過去最高を記録した。知識労働（ナレッジワーク）領域では、データ・アナリティクス系求人の約45％がAIに触れている。 一方でLinkedInの報告では、AI関連求人は2023年以降おおよそ2倍に増え、標準的なAI求人の提示報酬は約...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.2 - Reykjanes Ridge** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tild)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`

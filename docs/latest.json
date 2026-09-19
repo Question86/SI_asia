@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T23:51:05+00:00",
-  "run_id": "2026-09-19T23:51:05+00:00",
+  "generated_at": "2026-09-19T23:58:11+00:00",
+  "run_id": "2026-09-19T23:58:11+00:00",
   "date": "2026-09-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 33
+      "configured_public_sources_only": 34
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 33,
-    "displayed_findings": 33,
+    "new_relevant_findings": 1,
+    "today_file_total": 34,
+    "displayed_findings": 34,
     "high": 0,
     "medium": 7,
-    "observe": 26,
+    "observe": 27,
     "source_errors": 0
   },
   "sections": {
@@ -295,6 +295,28 @@
       }
     ],
     "observe": [
+      {
+        "title": "アルトマン氏、OpenAI内部モデルがトップ数学者を超越と明かす 学界に未曾有の焦燥感 — BigGo ファイナンス",
+        "url": "https://finance.biggo.jp/news/6c25d38e-2d47-4da2-91cc-b30b32792794",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-18T22:34:05+00:00",
+        "fetched_at": "2026-09-19T23:57:40+00:00",
+        "summary": "注：7つの難題の賞金は各100万ドル（約1.6億円）で、2000年5月にパリで発表された。ポアンカレ予想はこれまでで唯一正式認定された解答であり、グリゴリー・ペレルマンが2003年に証明を発表、2010年に賞金授与が決定したが辞退した。 市場関係者の情報によれば、先週「ナビエ・ストークス方程式」が突破されたとの報道は...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry",
+          "OpenAI"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "24f55bb2881748c88251"
+      },
       {
         "title": "Jev 図解ガイド",
         "url": "https://jev-guide.take-otani.workers.dev/",
@@ -1211,6 +1233,28 @@
       "id": "55b646c03b9fa785238f"
     },
     {
+      "title": "アルトマン氏、OpenAI内部モデルがトップ数学者を超越と明かす 学界に未曾有の焦燥感 — BigGo ファイナンス",
+      "url": "https://finance.biggo.jp/news/6c25d38e-2d47-4da2-91cc-b30b32792794",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-18T22:34:05+00:00",
+      "fetched_at": "2026-09-19T23:57:40+00:00",
+      "summary": "注：7つの難題の賞金は各100万ドル（約1.6億円）で、2000年5月にパリで発表された。ポアンカレ予想はこれまでで唯一正式認定された解答であり、グリゴリー・ペレルマンが2003年に証明を発表、2010年に賞金授与が決定したが辞退した。 市場関係者の情報によれば、先週「ナビエ・ストークス方程式」が突破されたとの報道は...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "OpenAI"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "24f55bb2881748c88251"
+    },
+    {
       "title": "Jev 図解ガイド",
       "url": "https://jev-guide.take-otani.workers.dev/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1859,7 +1903,30 @@
       "id": "4e5242c1cf3e84a47875"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "アルトマン氏、OpenAI内部モデルがトップ数学者を超越と明かす 学界に未曾有の焦燥感 — BigGo ファイナンス",
+      "url": "https://finance.biggo.jp/news/6c25d38e-2d47-4da2-91cc-b30b32792794",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-18T22:34:05+00:00",
+      "fetched_at": "2026-09-19T23:57:40+00:00",
+      "summary": "注：7つの難題の賞金は各100万ドル（約1.6億円）で、2000年5月にパリで発表された。ポアンカレ予想はこれまでで唯一正式認定された解答であり、グリゴリー・ペレルマンが2003年に証明を発表、2010年に賞金授与が決定したが辞退した。 市場関係者の情報によれば、先週「ナビエ・ストークス方程式」が突破されたとの報道は...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry",
+        "OpenAI"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "24f55bb2881748c88251"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

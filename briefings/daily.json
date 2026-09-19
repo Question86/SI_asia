@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T23:51:09+00:00",
-  "today_file_total": 33,
+  "generated_at": "2026-09-19T23:58:15+00:00",
+  "today_file_total": 34,
   "current_clusters": [
     {
       "key": "domain:syu-m-5151.hatenablog.com",
@@ -127,6 +127,29 @@
         "earthquakes_tsunami"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "title:openai-biggo",
+      "title": "アルトマン氏、OpenAI内部モデルがトップ数学者を超越と明かす 学界に未曾有の焦燥感 — BigGo ファイナンス",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://finance.biggo.jp/news/6c25d38e-2d47-4da2-91cc-b30b32792794"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 17.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "domain:openai.com",
@@ -452,29 +475,6 @@
       ],
       "urls": [
         "https://zenn.dev/mizchi/articles/jev-lint-intro"
-      ],
-      "finding_count": 1,
-      "max_score": 8,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 10.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:newsjp",
-      "title": "米軍、AI誤報で作戦計画 中国船に「核部品」、直前中止 | NEWSjp",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://news.jp/i/1473810070062515120"
       ],
       "finding_count": 1,
       "max_score": 8,

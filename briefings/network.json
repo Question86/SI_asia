@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-19T23:51:09+00:00",
+  "generated_at": "2026-09-19T23:58:15+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 33,
-    "clusters": 29,
+    "findings": 34,
+    "clusters": 30,
     "cross_source_confrmed": 0,
     "hot": 0,
-    "early_signals": 0,
+    "early_signals": 1,
     "dominance_penalized": 9
   },
   "clusters": [
@@ -49,6 +49,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-17T12:27:55+00:00"
+    },
+    {
+      "key": "title:openai-biggo",
+      "title": "アルトマン氏、OpenAI内部モデルがトップ数学者を超越と明かす 学界に未曾有の焦燥感 — BigGo ファイナンス",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://finance.biggo.jp/news/6c25d38e-2d47-4da2-91cc-b30b32792794"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 21.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 17.1,
+      "ranking_score": 21.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": true,
+      "early_signal_bonus": 5.5,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-19T23:58:15+00:00"
     },
     {
       "key": "github_repo:tamaratran/fast-jev-compaction",
@@ -1150,7 +1188,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-19T23:51:09Z",
+    "generated_at": "2026-09-19T23:58:15Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
