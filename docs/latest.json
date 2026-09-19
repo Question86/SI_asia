@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T05:20:29+00:00",
-  "run_id": "2026-09-19T05:20:29+00:00",
+  "generated_at": "2026-09-19T05:31:27+00:00",
+  "run_id": "2026-09-19T05:31:27+00:00",
   "date": "2026-09-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 10,
     "displayed_findings": 10,
     "high": 0,
@@ -551,51 +551,7 @@
       "id": "ed07d610899bb0b33dff"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Introducing the Australian Youth Safety Blueprint",
-      "url": "https://openai.com/index/australian-youth-safety-blueprint",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-09-18T12:00:00+00:00",
-      "fetched_at": "2026-09-19T05:19:42+00:00",
-      "summary": "OpenAI introduces the Australian Youth Safety Blueprint, a six-pillar roadmap for safer AI experiences that protect and empower young people.",
-      "matched_keywords": [
-        "AI/KI",
-        "OpenAI",
-        "safety"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); safety (+2.5); recent (+1.0); watchgraph region australia: Australia (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "55b646c03b9fa785238f"
-    },
-    {
-      "title": "Androidでおサイフケータイを使いたくない理由 初期化で消えないデータと売却時の落とし穴",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2609/19/news002.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-19T01:13:17+00:00",
-      "fetched_at": "2026-09-19T05:19:42+00:00",
-      "summary": "皆さん、突然だが、Androidスマートフォンで「おサイフケータイ」を使っているだろうか？ 私は今後も使いたくない。 最も大きな理由はこれだ。一部の機種において本体をリセットしてもおサイフケータイのデータは残るという、その不便極まりない仕様があるためだ。 通常の初期化では消えないデータと売却時の不利益 お...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ed07d610899bb0b33dff"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
