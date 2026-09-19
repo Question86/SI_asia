@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-19T00:56:45+00:00",
+  "generated_at": "2026-09-19T01:22:19+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 2,
-    "displayed_findings": 2,
+    "new_relevant_findings": 1,
+    "today_file_total": 3,
+    "displayed_findings": 3,
     "high": 0,
     "medium": 0,
-    "observe": 2
+    "observe": 3
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "米アンソロピックが生物学の実験施設 AIを創薬に活用 - 日本経済新聞",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-18T22:51:23+00:00",
+      "relevance_score": 10,
+      "url": "https://www.nikkei.com/article/DGXZQOGN18CET0Y6A910C2000000/",
+      "summary": "【シリコンバレー=山田遼太郎】米新興アンソロピックが人工知能（AI）を応用し、生物学の研究をする実験施設を設けたことが18日明らかになった。ロイター通信が報じた。希少疾患の治療薬の開発などを目指しているとみられる。ロイターによると、アンソロピックは細胞や試薬を用いて実験する「ウエットラボ」と呼ばれる施...",
+      "section": "observe"
+    },
     {
       "title": "世界37カ国のうち日本を含むほとんどの国で「AIは雇用増加ではなく雇用喪失を引き起こす」と予想されていることが判明",
       "source": "Hatena Bookmark Hotentry IT",
@@ -40,113 +50,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “GitHub - browser-use/jev-ultrafast: i. am. speed.” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=14.5.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "GitHub - browser-use/jev-ultrafast: i. am. speed.",
-        "url": "https://github.com/browser-use/jev-ultrafast",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-19T00:56:48+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 14.5,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +1"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "GitHub - browser-use/jev-ultrafast: i. am. speed.",
-        "url": "https://github.com/browser-use/jev-ultrafast",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-17T06:48:22+00:00",
-        "age_days": 1.76,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 8.0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "no strong comparative reason"
-        ],
-        "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert"
-      },
-      {
-        "title": "世界37カ国のうち日本を含むほとんどの国で「AIは雇用増加ではなく雇用喪失を引き起こす」と予想されていることが判明",
-        "url": "https://gigazine.net/news/20260918-more-people-expect-ai-job-loss/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-06-19T01:58:32+00:00",
-        "age_days": 91.97,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 4.48,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.89,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "baseline z_hint 0.89",
-          "single-source AI hype brake -8.0",
-          "aging penalty -8.0 for 92.0d old signal"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "世界37カ国のうち日本を含むほとんどの国で「AIは雇用増加ではなく雇用喪失を引き起こす」と予想されていることが判明",
-        "url": "https://gigazine.net/news/20260918-more-people-expect-ai-job-loss/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-18T07:39:00+00:00",
-        "age_days": 0.73,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 0,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": "生成AIはこれまで人間の労働者が担っていたさまざまなタスクを代替することが可能で、AIの導入によって雇用が減少するのではないかとの懸念が高まっています。中には「AIは産業革命のように、一部の仕事を消し去る代わりに新たな仕事も生み出す」という意見もありますが、アメリカのピュー研究所が世界37カ国を対象に行..."
-      }
-    ]
-  }
+  ]
 }
