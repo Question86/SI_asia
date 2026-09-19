@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-19T06:46:45Z_
+_Generated: 2026-09-19T07:14:03Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - tamaratran/fast-jev-compaction:
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `24.9`
-- Published: `2026-09-19T04:24:55+00:00` / age_days `0.1`
+- Published: `2026-09-19T04:24:55+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - tamaratran/fast-jev-compaction:
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-19T04:33:48.040+00:00` / age_days `0.09`
+- Published: `2026-09-19T04:33:48.040+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - tamaratran/fast-jev-compaction:
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.0`
-- Published: `2026-09-18T16:33:31+00:00` / age_days `0.59`
+- Published: `2026-09-18T16:33:31+00:00` / age_days `0.61`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: early terms: supply, chain, high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - tamaratran/fast-jev-compaction:
 
 - Band: `watch` (raw `krass`)
 - Dynamics score: `19.9`
-- Published: `2026-09-04T05:31:26+00:00` / age_days `15.05`
+- Published: `2026-09-04T05:31:26+00:00` / age_days `15.07`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: 10, krass gate: single-source non-official/non-identity signal capped, stale single-source cap: max watch after 14d without fresh resonance
@@ -51,28 +51,38 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - tamaratran/fast-jev-compaction:
 ### Introducing the Australian Youth Safety Blueprint
 
 - Band: `watch` (raw `watch`)
-- Dynamics score: `18.99`
-- Published: `2026-06-17T20:44:40+00:00` / age_days `93.42`
+- Dynamics score: `18.55`
+- Published: `2026-06-17T20:44:40+00:00` / age_days `93.44`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +3, baseline z_hint 3.63, aging penalty -8.0 for 93.4d old signal, single-source AI cap enforced after phrase recheck
+- Warum: momentum delta +3, baseline z_hint 3.23, aging penalty -8.0 for 93.4d old signal, single-source AI cap enforced after phrase recheck
 - Quelle: https://openai.com/index/australian-youth-safety-blueprint
 
 ### GitHub - browser-use/jev-ultrafast: i. am. speed.
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-19T00:56:48+00:00` / age_days `0.24`
+- Published: `2026-09-19T00:56:48+00:00` / age_days `0.26`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
 - Quelle: https://github.com/browser-use/jev-ultrafast
 
+### 【福田昭のセミコン業界最前線】 DRAMとNANDの暴騰で、想定外の急激な膨張を続ける2026年の半導体市場
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `14.0`
+- Published: `2026-09-19T06:18:56+00:00` / age_days `0.04`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3
+- Quelle: https://pc.watch.impress.co.jp/docs/column/semicon/2142421.html
+
 ### Androidでおサイフケータイを使いたくない理由 初期化で消えないデータと売却時の落とし穴
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-09-09T12:51:45+00:00` / age_days `9.75`
+- Published: `2026-09-09T12:51:45+00:00` / age_days `9.77`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -82,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - tamaratran/fast-jev-compaction:
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `12.0`
-- Published: `2026-09-19T02:28:57+00:00` / age_days `0.18`
+- Published: `2026-09-19T02:28:57+00:00` / age_days `0.2`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -92,27 +102,17 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - tamaratran/fast-jev-compaction:
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `9.0`
-- Published: `2026-09-19T02:01:19+00:00` / age_days `0.2`
+- Published: `2026-09-19T02:01:19+00:00` / age_days `0.22`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://news.jp/i/1473810070062515120
 
-### 【福田昭のセミコン業界最前線】 DRAMとNANDの暴騰で、想定外の急激な膨張を続ける2026年の半導体市場
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `9.0`
-- Published: `2026-09-19T06:18:56+00:00` / age_days `0.02`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1
-- Quelle: https://pc.watch.impress.co.jp/docs/column/semicon/2142421.html
-
 ### 学位なしで年収1500万円超を狙える「無料のAI認定資格」3選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `8.0`
-- Published: `2026-09-18T09:39:13+00:00` / age_days `0.88`
+- Published: `2026-09-18T09:39:13+00:00` / age_days `0.9`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: 10, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “GitHub - tamaratran/fast-jev-compaction:
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `8.0`
-- Published: `2026-09-17T06:48:22+00:00` / age_days `2.0`
+- Published: `2026-09-17T06:48:22+00:00` / age_days `2.02`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
