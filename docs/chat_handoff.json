@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-19T14:01:13+00:00",
+  "generated_at": "2026-09-19T14:18:52+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 25,
-    "displayed_findings": 25,
+    "new_relevant_findings": 1,
+    "today_file_total": 26,
+    "displayed_findings": 26,
     "high": 0,
     "medium": 7,
-    "observe": 18
+    "observe": 19
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -55,6 +55,16 @@
       "section": "medium"
     },
     {
+      "title": "Jev 図解ガイド",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-17T13:45:28+00:00",
+      "relevance_score": 12,
+      "url": "https://jev-guide.take-otani.workers.dev/",
+      "summary": "TypeSafe / System One model 文章ではなく、 判断を返す AI。 Jev（ジェヴ）は、自然言語を理解したうえで「どれか」「どの程度か」「Yes か No か」を型のある値と確率で返すモデルです。テキストを生成しないので、パースもリトライも不要。返ってきた値は、そのまま if 文・並べ替え・しきい値判定に使えます。 応答...",
+      "section": "observe"
+    },
+    {
       "title": "M 4.5 - 273 km NNW of Dêqên, China",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
@@ -83,16 +93,6 @@
       "url": "https://zenn.dev/nogu66/articles/claude-code-function-hooks-claude-mods",
       "summary": "本記事は Claude Code Issue #91870 で議論中の暫定仕様（2026年9月19日時点）をもとにしています。APIは今後変更される可能性があるため、最新情報は公式サイトを参照してください。 noguです。 先日、Claude CodeにClaude Modsという機能が公開されました。 これは、TypeScriptの関数を用いて、Claude Codeの機能や見...",
       "section": "observe"
-    },
-    {
-      "title": "学位なしで年収1500万円超を狙える「無料のAI認定資格」3選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-18T09:39:13+00:00",
-      "relevance_score": 11,
-      "url": "https://forbesjapan.com/articles/detail/104778",
-      "summary": "Indeedによれば、2025年12月に全求人のうちAIに言及したものは4.2％に達し、同プラットフォームで過去最高を記録した。知識労働（ナレッジワーク）領域では、データ・アナリティクス系求人の約45％がAIに触れている。 一方でLinkedInの報告では、AI関連求人は2023年以降おおよそ2倍に増え、標準的なAI求人の提示報酬は約...",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -100,142 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Codexを使うなら、config.tomlとAGENTS.mdを押さえておきたい - じゃあ、おうちで学べる” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Codexを使うなら、config.tomlとAGENTS.mdを押さえておきたい - じゃあ、おうちで学べる",
-        "url": "https://syu-m-5151.hatenablog.com/entry/2026/09/19/112330",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-17T12:27:55+00:00",
-        "age_days": 2.07,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "high terms: rce, code",
-          "security high-signal: rce, code",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "GitHub - tamaratran/fast-jev-compaction: Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verba…",
-        "url": "https://github.com/tamaratran/fast-jev-compaction",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-19T04:24:55+00:00",
-        "age_days": 0.41,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "high terms: code",
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "M 4.6 - 25 km NW of Ushibukamachi, Japan",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tijd",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-14T11:31:15+00:00",
-        "age_days": 5.11,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 23.87,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 1.79,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "baseline z_hint 1.79"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "M 4.6 - 25 km NW of Ushibukamachi, Japan",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tijd",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-19T12:32:50.117+00:00",
-        "age_days": 0.07,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 23.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake",
-          "high terms: 10, 9.8"
-        ],
-        "summary": "DYFI? - III Time 2026-09-19 12:07:12 UTC 2026-09-19 12:07:12 UTC at epicenter Location 32.380°N 129.857°E Depth 10.00 km (6.21 mi)"
-      },
-      {
-        "title": "M 4.8 - 210 km W of Abepura, Indonesia",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiib",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-19T08:02:59.040+00:00",
-        "age_days": 0.26,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 23.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake",
-          "high terms: 10"
-        ],
-        "summary": "Time 2026-09-19 07:44:25 UTC 2026-09-19 07:44:25 UTC at epicenter Location 2.587°S 138.738°E Depth 10.00 km (6.21 mi)"
-      }
-    ]
-  }
+  ]
 }

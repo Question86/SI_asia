@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-19T14:01:13+00:00_
+_Generiert: 2026-09-19T14:18:52+00:00_
 
 ## Kurzlage
 
-25 neue relevante Treffer. Stärkstes Signal: „Codexを使うなら、config.tomlとAGENTS.mdを押さえておきたい - じゃあ、おうちで学べる“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+26 neue relevante Treffer. Stärkstes Signal: „Codexを使うなら、config.tomlとAGENTS.mdを押さえておきたい - じゃあ、おうちで学べる“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -69,6 +69,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **Jev 図解ガイド** — Score 12, observation — [Quelle](https://jev-guide.take-otani.workers.dev/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-17T13:45:28+00:00`, fetched `2026-09-19T14:18:19+00:00`
+  - Treffer: AI/KI, Content-Chance, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Content-Chance (+5.0); Hatena (+2.0); hotentry (+2.0)
+  - Kurz: TypeSafe / System One model 文章ではなく、 判断を返す AI。 Jev（ジェヴ）は、自然言語を理解したうえで「どれか」「どの程度か」「Yes か No か」を型のある値と確率で返すモデルです。テキストを生成しないので、パースもリトライも不要。返ってきた値は、そのまま if 文・並べ替え・しきい値判定に使えます。 応答...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.5 - 273 km NNW of Dêqên, China** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tijf)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-19T12:39:10.040+00:00`, fetched `2026-09-19T12:43:42+00:00`
@@ -104,15 +113,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: Indeedによれば、2025年12月に全求人のうちAIに言及したものは4.2％に達し、同プラットフォームで過去最高を記録した。知識労働（ナレッジワーク）領域では、データ・アナリティクス系求人の約45％がAIに触れている。 一方でLinkedInの報告では、AI関連求人は2023年以降おおよそ2倍に増え、標準的なAI求人の提示報酬は約...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **GoogleのAIも他社システムに侵入 事故直後に停止、公表せず - 日本経済新聞** — Score 10, observation — [Quelle](https://www.nikkei.com/article/DGXZQOGN190C40Z10C26A9000000/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-19T01:53:51+00:00`, fetched `2026-09-19T04:35:59+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
-  - Kurz: 【シリコンバレー=伴正春】米グーグルが開発中の人工知能（AI）が5月に実在する外部企業3社のシステムに侵入していたことが18日わかった。評価テストで誤ってインターネットに接続できる設定になっていた。AI自身が侵入に気付き、動作を止めたという。米紙ウォール・ストリート・ジャーナル（WSJ）が報じた。グーグルは...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.8 - 18 km SW of Mongar, Bhutan** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiiz)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-19T14:01:13+00:00_
+_Generated: 2026-09-19T14:18:52+00:00_
 
 ## Status
 - status: `normal`
-- findings: `25`
+- findings: `26`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-09-19T14:01:13+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiib
 - summary: Time 2026-09-19 07:44:25 UTC 2026-09-19 07:44:25 UTC at epicenter Location 2.587°S 138.738°E Depth 10.00 km (6.21 mi)
 
-### 5. M 4.5 - 273 km NNW of Dêqên, China
+### 5. Jev 図解ガイド
+- source: Hatena Bookmark Hotentry IT
+- score: `12`
+- published: `2026-09-17T13:45:28+00:00`
+- url: https://jev-guide.take-otani.workers.dev/
+- summary: TypeSafe / System One model 文章ではなく、 判断を返す AI。 Jev（ジェヴ）は、自然言語を理解したうえで「どれか」「どの程度か」「Yes か No か」を型のある値と確率で返すモデルです。テキストを生成しないので、パースもリトライも不要。返ってきた値は、そのまま if 文・並べ替え・しきい値判定に使えます。 応答...
+
+### 6. M 4.5 - 273 km NNW of Dêqên, China
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-09-19T12:39:10.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tijf
 - summary: Time 2026-09-19 12:19:55 UTC 2026-09-19 12:19:55 UTC at epicenter Location 32.071°N 89.224°E Depth 10.00 km (6.21 mi)
 
-### 6. M 4.9 - 117 km NW of Barranca, Peru
+### 7. M 4.9 - 117 km NW of Barranca, Peru
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-09-19T07:29:12.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tii3
 - summary: Time 2026-09-19 07:12:27 UTC 2026-09-19 07:12:27 UTC at epicenter Location 4.013°S 77.349°W Depth 10.00 km (6.21 mi)
 
-### 7. Claude Mods 入門 | Claude Codeを自由にカスタマイズする
+### 8. Claude Mods 入門 | Claude Codeを自由にカスタマイズする
 - source: Hatena Bookmark Hotentry IT
 - score: `11`
 - published: `2026-09-19T03:46:21+00:00`
 - url: https://zenn.dev/nogu66/articles/claude-code-function-hooks-claude-mods
 - summary: 本記事は Claude Code Issue #91870 で議論中の暫定仕様（2026年9月19日時点）をもとにしています。APIは今後変更される可能性があるため、最新情報は公式サイトを参照してください。 noguです。 先日、Claude CodeにClaude Modsという機能が公開されました。 これは、TypeScriptの関数を用いて、Claude Codeの機能や見...
-
-### 8. 学位なしで年収1500万円超を狙える「無料のAI認定資格」3選 | Forbes JAPAN 公式サイト（フォーブス ジャパン）
-- source: Hatena Bookmark Hotentry IT
-- score: `11`
-- published: `2026-09-18T09:39:13+00:00`
-- url: https://forbesjapan.com/articles/detail/104778
-- summary: Indeedによれば、2025年12月に全求人のうちAIに言及したものは4.2％に達し、同プラットフォームで過去最高を記録した。知識労働（ナレッジワーク）領域では、データ・アナリティクス系求人の約45％がAIに触れている。 一方でLinkedInの報告では、AI関連求人は2023年以降おおよそ2倍に増え、標準的なAI求人の提示報酬は約...
 
 END OF DOCUMENT
