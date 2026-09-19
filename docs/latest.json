@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T09:56:27+00:00",
-  "run_id": "2026-09-19T09:56:27+00:00",
+  "generated_at": "2026-09-19T10:09:45+00:00",
+  "run_id": "2026-09-19T10:09:45+00:00",
   "date": "2026-09-19",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 17
+      "configured_public_sources_only": 18
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 17,
-    "displayed_findings": 17,
+    "new_relevant_findings": 1,
+    "today_file_total": 18,
+    "displayed_findings": 18,
     "high": 0,
     "medium": 6,
-    "observe": 11,
+    "observe": 12,
     "source_errors": 0
   },
   "sections": {
@@ -395,6 +395,28 @@
           "LOW"
         ],
         "id": "0f03f550309a63574ca1"
+      },
+      {
+        "title": "AIに任せた品質は、誰が見立てるのか - AI時代のテストマネジメント",
+        "url": "https://speakerdeck.com/nakanao/ai-ni-makaseta-hinshitsu-ha-dare-ga-mitateru-no-ka-ai-jidai-no-tesuto-manejimento",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-19T06:37:26+00:00",
+        "fetched_at": "2026-09-19T10:09:15+00:00",
+        "summary": "JaSST'26 Niigata の講演資料です。AIにテストを任せるとき、テスト計画・分析設計・実行・レポーティング・成果物レビュー・精度改善の6つの工程で、人が何を決め、何を渡し、何を確かめるかを整理しました。",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "4f57d484e667631d6c02"
       },
       {
         "title": "米軍、AI誤報で作戦計画 中国船に「核部品」、直前中止 | NEWSjp",
@@ -894,6 +916,28 @@
       "id": "0f03f550309a63574ca1"
     },
     {
+      "title": "AIに任せた品質は、誰が見立てるのか - AI時代のテストマネジメント",
+      "url": "https://speakerdeck.com/nakanao/ai-ni-makaseta-hinshitsu-ha-dare-ga-mitateru-no-ka-ai-jidai-no-tesuto-manejimento",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-19T06:37:26+00:00",
+      "fetched_at": "2026-09-19T10:09:15+00:00",
+      "summary": "JaSST'26 Niigata の講演資料です。AIにテストを任せるとき、テスト計画・分析設計・実行・レポーティング・成果物レビュー・精度改善の6つの工程で、人が何を決め、何を渡し、何を確かめるかを整理しました。",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4f57d484e667631d6c02"
+    },
+    {
       "title": "米軍、AI誤報で作戦計画 中国船に「核部品」、直前中止 | NEWSjp",
       "url": "https://news.jp/i/1473810070062515120",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1023,7 +1067,30 @@
       "id": "ed07d610899bb0b33dff"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "AIに任せた品質は、誰が見立てるのか - AI時代のテストマネジメント",
+      "url": "https://speakerdeck.com/nakanao/ai-ni-makaseta-hinshitsu-ha-dare-ga-mitateru-no-ka-ai-jidai-no-tesuto-manejimento",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-19T06:37:26+00:00",
+      "fetched_at": "2026-09-19T10:09:15+00:00",
+      "summary": "JaSST'26 Niigata の講演資料です。AIにテストを任せるとき、テスト計画・分析設計・実行・レポーティング・成果物レビュー・精度改善の6つの工程で、人が何を決め、何を渡し、何を確かめるかを整理しました。",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4f57d484e667631d6c02"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
