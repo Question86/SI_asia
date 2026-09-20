@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-20T21:09:02+00:00_
+_Generated: 2026-09-20T21:21:17+00:00_
 
 ## Status
 - status: `normal`
-- findings: `31`
+- findings: `32`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-09-20T21:09:02+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tipl
 - summary: Time 2026-09-20 07:28:22 UTC 2026-09-20 07:28:22 UTC at epicenter Location 28.395°N 129.341°E Depth 68.83 km (42.77 mi)
 
-### 5. M 5.4 - 68 km NNE of Kainantu, Papua New Guinea
+### 5. M 5.7 - south of Africa
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `13`
+- published: `2026-09-20T21:17:53.477+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tit5
+- summary: PAGER - GREEN ShakeMap - I Time 2026-09-20 20:54:37 UTC 2026-09-20 20:54:37 UTC at epicenter Location 48.428°S 31.235°E Depth 10.00 km (6.21 mi)
+
+### 6. M 5.4 - 68 km NNE of Kainantu, Papua New Guinea
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-09-20T13:15:50.182+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tirh
 - summary: PAGER - GREEN ShakeMap - IV DYFI? - V Time 2026-09-20 12:45:53 UTC 2026-09-20 12:45:53 UTC at epicenter Location 5.771°S 146.204°E Depth 116.02 km (72.09 mi)
 
-### 6. M 6.4 - 49 km NNE of Kainantu, Papua New Guinea
+### 7. M 6.4 - 49 km NNE of Kainantu, Papua New Guinea
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `13`
 - published: `2026-09-20T09:39:14.752+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiqc
 - summary: PAGER - GREEN ShakeMap - V DYFI? - IV Time 2026-09-20 09:17:35 UTC 2026-09-20 09:17:35 UTC at epicenter Location 5.902°S 146.092°E Depth 104.33 km (64.83 mi)
 
-### 7. 「Jev」とは “文章を書かないAI”がなぜ話題に？ 元OpenAI研究者が開発、「“スマートなif文”と考えてみて」
+### 8. 「Jev」とは “文章を書かないAI”がなぜ話題に？ 元OpenAI研究者が開発、「“スマートなif文”と考えてみて」
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
 - published: `2026-09-20T10:54:06+00:00`
 - url: https://www.itmedia.co.jp/aiplus/article/2609/20/2000001664/
 - summary: 米スタートアップのTypeSafe AIが9月15日（現地時間）に発表したAIモデル「Jev」（ジェヴ）が、海外や日本のAIコミュニティで大きな注目を集めている。創業者であるディオゴ・アルメイダ氏の発表はX上で3700万回以上表示されている（9月20日時点）。 JevはChatGPTのように「会話するAI」ではない。その代わり、ユーザー...
-
-### 8. M 5.3 - 64 km W of Cafayate, Argentina
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `11`
-- published: `2026-09-20T09:05:33.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiq2
-- summary: Time 2026-09-20 08:47:54 UTC 2026-09-20 08:47:54 UTC at epicenter Location 25.987°S 66.612°W Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT
