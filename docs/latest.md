@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-20T05:22:14+00:00_
+_Generiert: 2026-09-20T05:31:56+00:00_
 
 ## Kurzlage
 
-10 neue relevante Treffer. Stärkstes Signal: „wkhtmltopdfの次どうするか問題2026“ aus Hatena Bookmark Hotentry IT (Score 10, observation).
+11 neue relevante Treffer. Stärkstes Signal: „wkhtmltopdfの次どうするか問題2026“ aus Hatena Bookmark Hotentry IT (Score 10, observation).
 
 ## Priorität Hoch
 
@@ -25,6 +25,15 @@ Keine neuen mittleren Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Tokyo (+2.0)
   - Kurz: 2026/09/17 に開催されたRailsTokyo#6 での発表資料です https://railstokyo.connpass.com/event/400709/
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.0 - 103 km W of Hihifo, Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tip2)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-20T05:23:42.040+00:00`, fetched `2026-09-20T05:31:21+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-20 05:07:03 UTC 2026-09-20 05:07:03 UTC at epicenter Location 15.893°S 174.764°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.3 - 108 km ESE of Yigo Village, Guam** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tinl)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-20T03:59:07.040+00:00`, fetched `2026-09-20T04:02:02+00:00`
@@ -42,15 +51,6 @@ Keine neuen mittleren Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-20 02:44:21 UTC 2026-09-20 02:44:21 UTC at epicenter Location 15.040°N 60.558°W Depth 46.42 km (28.85 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.3 - Reykjanes Ridge** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000timy)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-20T01:13:40.040+00:00`, fetched `2026-09-20T01:32:38+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-20 00:58:14 UTC 2026-09-20 00:58:14 UTC at epicenter Location 57.121°N 33.546°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **C#の現在地 進化の歴史と、AI時代の.NET Everywhere** — Score 8, observation — [Quelle](https://speakerdeck.com/neuecc/c-no-genzaichi-shinka-no-rekishi-to-ai-jidai-no-net-everywhere)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
