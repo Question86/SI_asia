@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-20T01:33:08+00:00_
+_Generated: 2026-09-20T01:54:08+00:00_
 
 ## Status
 - status: `normal`
-- findings: `3`
+- findings: `4`
 
 ## Top Signals
 
@@ -22,7 +22,14 @@ _Generated: 2026-09-20T01:33:08+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000timw
 - summary: Time 2026-09-20 00:33:21 UTC 2026-09-20 00:33:21 UTC at epicenter Location 15.961°S 174.597°W Depth 10.00 km (6.21 mi)
 
-### 3. ヨドバシ.com - 東プレ Topre REALFORCE RS1キーボード 左右分割式 79キー 日本語配列 ダークグレー S1UJ11 通販【全品無料配達】
+### 3. 生成AIセキュリティを学んで変わった「AIを安全に使う」という考え方 - Qiita
+- source: Hatena Bookmark Hotentry IT
+- score: `5`
+- published: `2026-09-19T13:07:19+00:00`
+- url: https://qiita.com/kf_webdev/items/cbd1d7bb724676a3b686
+- summary: Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? はじめに 現在、Webエンジニアを目指して学習を進める中で、AI駆動開発についても学んでいます。今回は、Happiness Chainのカリキュラムで生成AIセキュリティについて学ぶ機会があ...
+
+### 4. ヨドバシ.com - 東プレ Topre REALFORCE RS1キーボード 左右分割式 79キー 日本語配列 ダークグレー S1UJ11 通販【全品無料配達】
 - source: Hatena Bookmark Hotentry IT
 - score: `5`
 - published: `2026-09-19T10:23:21+00:00`

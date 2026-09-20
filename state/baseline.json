@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-20T01:33:12+00:00",
+  "generated_at": "2026-09-20T01:54:11+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -3603,10 +3603,9 @@
       "z_hint": 0.0
     },
     "domain:qiita.com": {
-      "title": "オントロジー？ナレッジグラフ？AI時代のデータ基盤用語をざっくり理解する - Qiita",
-      "updated_at": "2026-09-17T23:59:20+00:00",
+      "title": "生成AIセキュリティを学んで変わった「AIを安全に使う」という考え方 - Qiita",
+      "updated_at": "2026-09-20T01:54:11+00:00",
       "network_scores": [
-        6.1,
         6.1,
         6.1,
         6.1,
@@ -3635,12 +3634,13 @@
         6.5,
         6.5,
         6.5,
-        6.5
+        6.5,
+        10.1
       ],
-      "rolling_average": 6.39,
-      "rolling_peak": 9.5,
-      "last_score": 6.5,
-      "z_hint": 0.11
+      "rolling_average": 6.52,
+      "rolling_peak": 10.1,
+      "last_score": 10.1,
+      "z_hint": 3.58
     },
     "github_repo:yairm210/unciv": {
       "title": "yairm210/Unciv",
@@ -39503,7 +39503,7 @@
     },
     "domain:www.yodobashi.com": {
       "title": "ヨドバシ.com - 東プレ Topre REALFORCE RS1キーボード 左右分割式 79キー 日本語配列 ダークグレー S1UJ11 通販【全品無料配達】",
-      "updated_at": "2026-09-20T01:33:12+00:00",
+      "updated_at": "2026-09-20T01:54:11+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -39631,25 +39631,27 @@
     },
     "earthquake:m 5.3 - reykjanes ridge:5.3": {
       "title": "M 5.3 - Reykjanes Ridge",
-      "updated_at": "2026-09-20T01:33:12+00:00",
+      "updated_at": "2026-09-20T01:54:11+00:00",
       "network_scores": [
-        14.7
+        14.7,
+        11.7
       ],
-      "rolling_average": 14.7,
+      "rolling_average": 13.2,
       "rolling_peak": 14.7,
-      "last_score": 14.7,
-      "z_hint": 0.0
+      "last_score": 11.7,
+      "z_hint": -1.5
     },
     "earthquake:m 4.9 - 85 km w of hihifo, tonga:4.9": {
       "title": "M 4.9 - 85 km W of Hihifo, Tonga",
-      "updated_at": "2026-09-20T01:33:12+00:00",
+      "updated_at": "2026-09-20T01:54:11+00:00",
       "network_scores": [
-        14.7
+        14.7,
+        11.7
       ],
-      "rolling_average": 14.7,
+      "rolling_average": 13.2,
       "rolling_peak": 14.7,
-      "last_score": 14.7,
-      "z_hint": 0.0
+      "last_score": 11.7,
+      "z_hint": -1.5
     }
   }
 }
