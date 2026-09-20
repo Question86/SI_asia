@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-20T02:01:42+00:00",
-  "run_id": "2026-09-20T02:01:42+00:00",
+  "generated_at": "2026-09-20T02:31:05+00:00",
+  "run_id": "2026-09-20T02:31:05+00:00",
   "date": "2026-09-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 5,
     "displayed_findings": 5,
     "high": 0,
@@ -304,29 +304,7 @@
       "id": "89bd06905dede16a8289"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Jevのキラーアプリ、「意味で探す grep」を作った",
-      "url": "https://zenn.dev/uehaj/articles/jev-semgrep-grep-by-meaning",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-19T13:14:02+00:00",
-      "fetched_at": "2026-09-20T02:01:13+00:00",
-      "summary": "本記事は筆者個人の見解であり、所属する組織の公式見解ではありません。 また、ここで使う TypeSafe の System One API は公開されて間もないものです。この領域は仕様が頻繁に、かつ大きく変わります。本文の記述は執筆時点(2026年9月, @uehaj/semgrep 0.2.0 / Node v23.10.0 で確認)のものなので、最新の挙動は公式ド...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1a2496ddd105c22f7a20"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
