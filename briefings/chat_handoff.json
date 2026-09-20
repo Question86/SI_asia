@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-20T09:56:07+00:00",
+  "generated_at": "2026-09-20T10:09:10+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 22,
-    "displayed_findings": 22,
+    "new_relevant_findings": 1,
+    "today_file_total": 23,
+    "displayed_findings": 23,
     "high": 0,
     "medium": 3,
-    "observe": 19
+    "observe": 20
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -65,6 +65,16 @@
       "section": "observe"
     },
     {
+      "title": "AIバブルはこうして終わる 金利高と収穫逓減「死の交差」 - 日本経済新聞",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-20T06:15:13+00:00",
+      "relevance_score": 10,
+      "url": "https://www.nikkei.com/article/DGXZQOUB164ZN0W6A910C2000000/",
+      "summary": "米国のアンソロピックやオープンAIが人工知能（AI）開発の減速を呼びかけるのは暴走への歯止めだけが理由ではないはずだ。いずれAIが資本を食い潰してしまうディストピアが脳裏をよぎるからだろう。AI産業は難問に直面している。追加投資に比べ追加収益はそれほど大きくならないという「収穫逓減の法則」だ。先人が、農...",
+      "section": "observe"
+    },
+    {
       "title": "wkhtmltopdfの次どうするか問題2026",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
@@ -72,16 +82,6 @@
       "relevance_score": 10,
       "url": "https://speakerdeck.com/willnet/wkhtmltopdf-no-tsugi-dou-suru-ka-mondai-2026",
       "summary": "2026/09/17 に開催されたRailsTokyo#6 での発表資料です https://railstokyo.connpass.com/event/400709/",
-      "section": "observe"
-    },
-    {
-      "title": "M 4.9 - 93 km ESE of Yigo Village, Guam",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-09-20T07:03:54.040+00:00",
-      "relevance_score": 9,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tipi",
-      "summary": "Time 2026-09-20 06:47:56 UTC 2026-09-20 06:47:56 UTC at epicenter Location 13.265°N 145.708°E Depth 10.00 km (6.21 mi)",
       "section": "observe"
     }
   ],
