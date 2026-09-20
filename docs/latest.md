@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-20T01:54:08+00:00_
+_Generiert: 2026-09-20T02:01:42+00:00_
 
 ## Kurzlage
 
-4 neue relevante Treffer. Stärkstes Signal: „M 5.3 - Reykjanes Ridge“ aus USGS M4.5+ Earthquakes Past Hour (Score 9, risk).
+5 neue relevante Treffer. Stärkstes Signal: „M 5.3 - Reykjanes Ridge“ aus USGS M4.5+ Earthquakes Past Hour (Score 9, risk).
 
 ## Priorität Hoch
 
@@ -34,6 +34,15 @@ Keine neuen mittleren Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-20 00:33:21 UTC 2026-09-20 00:33:21 UTC at epicenter Location 15.961°S 174.597°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Jevのキラーアプリ、「意味で探す grep」を作った** — Score 5, observation — [Quelle](https://zenn.dev/uehaj/articles/jev-semgrep-grep-by-meaning)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-19T13:14:02+00:00`, fetched `2026-09-20T02:01:13+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 本記事は筆者個人の見解であり、所属する組織の公式見解ではありません。 また、ここで使う TypeSafe の System One API は公開されて間もないものです。この領域は仕様が頻繁に、かつ大きく変わります。本文の記述は執筆時点(2026年9月, @uehaj/semgrep 0.2.0 / Node v23.10.0 で確認)のものなので、最新の挙動は公式ド...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **生成AIセキュリティを学んで変わった「AIを安全に使う」という考え方 - Qiita** — Score 5, observation — [Quelle](https://qiita.com/kf_webdev/items/cbd1d7bb724676a3b686)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-19T13:07:19+00:00`, fetched `2026-09-20T01:53:40+00:00`
