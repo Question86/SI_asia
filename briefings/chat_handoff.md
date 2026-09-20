@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-20T06:57:02+00:00_
+_Generated: 2026-09-20T07:29:02+00:00_
 
 ## Status
 - status: `normal`
-- findings: `15`
+- findings: `17`
 
 ## Top Signals
 
@@ -29,25 +29,25 @@ _Generated: 2026-09-20T06:57:02+00:00_
 - url: https://speakerdeck.com/willnet/wkhtmltopdf-no-tsugi-dou-suru-ka-mondai-2026
 - summary: 2026/09/17 に開催されたRailsTokyo#6 での発表資料です https://railstokyo.connpass.com/event/400709/
 
-### 4. M 5.0 - 103 km W of Hihifo, Tonga
+### 4. M 4.9 - 93 km ESE of Yigo Village, Guam
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `9`
+- published: `2026-09-20T07:03:54.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tipi
+- summary: Time 2026-09-20 06:47:56 UTC 2026-09-20 06:47:56 UTC at epicenter Location 13.265°N 145.708°E Depth 10.00 km (6.21 mi)
+
+### 5. M 5.0 - 103 km W of Hihifo, Tonga
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-09-20T05:23:42.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tip2
 - summary: Time 2026-09-20 05:07:03 UTC 2026-09-20 05:07:03 UTC at epicenter Location 15.893°S 174.764°W Depth 10.00 km (6.21 mi)
 
-### 5. M 5.3 - 108 km ESE of Yigo Village, Guam
+### 6. M 5.3 - 108 km ESE of Yigo Village, Guam
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-09-20T03:59:07.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tinl
 - summary: Time 2026-09-20 03:43:24 UTC 2026-09-20 03:43:24 UTC at epicenter Location 13.057°N 145.759°E Depth 10.00 km (6.21 mi)
-
-### 6. M 4.5 - 54 km ENE of Sainte-Marie, Martinique
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-09-20T03:00:16.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tinf
-- summary: Time 2026-09-20 02:44:21 UTC 2026-09-20 02:44:21 UTC at epicenter Location 15.040°N 60.558°W Depth 46.42 km (28.85 mi)
 
 END OF DOCUMENT
