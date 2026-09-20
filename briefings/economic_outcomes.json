@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-20T21:09:39+00:00",
+  "generated_at": "2026-09-20T21:21:49+00:00",
   "events": [
     {
       "event_id": "evt_010865faf79d8c1f952b",
@@ -3311,7 +3311,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_69db9d5d8c2f7b26746c",
@@ -4599,6 +4599,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_8bad9c641b4a3f03eb41",
+      "title": "M 5.7 - south of Africa",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_8c1d2b7c4b74541eb344",
