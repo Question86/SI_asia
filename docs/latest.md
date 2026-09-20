@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-20T12:46:06+00:00_
+_Generiert: 2026-09-20T12:54:29+00:00_
 
 ## Kurzlage
 
-25 neue relevante Treffer. Stärkstes Signal: „trycua/cua“ aus GitHub Trending RSS All Languages Daily (Score 20, opportunity).
+26 neue relevante Treffer. Stärkstes Signal: „trycua/cua“ aus GitHub Trending RSS All Languages Daily (Score 20, opportunity).
 
 ## Priorität Hoch
 
@@ -78,14 +78,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Tokyo (+2.0)
   - Kurz: 2026/09/17 に開催されたRailsTokyo#6 での発表資料です https://railstokyo.connpass.com/event/400709/
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **M 4.9 - 93 km ESE of Yigo Village, Guam** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tipi)
+- **M 4.8 - 92 km W of Lata, Solomon Islands** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tirf)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-20T07:03:54.040+00:00`, fetched `2026-09-20T07:28:26+00:00`
+  - Zeit: published `2026-09-20T12:50:47.040+00:00`, fetched `2026-09-20T12:53:53+00:00`
   - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
   - Watchgraph: earthquakes_tsunami
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-20 06:47:56 UTC 2026-09-20 06:47:56 UTC at epicenter Location 13.265°N 145.708°E Depth 10.00 km (6.21 mi)
+  - Kurz: Time 2026-09-20 12:24:22 UTC 2026-09-20 12:24:22 UTC at epicenter Location 10.645°S 164.956°E Depth 33.90 km (21.06 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **5分でJev入門（すぐ使う） - Qiita** — Score 8, observation — [Quelle](https://qiita.com/Ninagawa123/items/8ec3f5fe18c20fab1b2a)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
