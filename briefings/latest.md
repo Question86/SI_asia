@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-20T09:40:43+00:00_
+_Generiert: 2026-09-20T09:48:42+00:00_
 
 ## Kurzlage
 
@@ -33,6 +33,10 @@ _Generiert: 2026-09-20T09:40:43+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Thailand
+- **GDACS: Green earthquake (Magnitude 6.4M, Depth:104.329km) in Papua New Guinea 20/09/2026 09:17 UTC, 6 thousand in MMI V.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1567112)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6.4M, Depth:104.329km) in Papua New Guinea 20/09/2026 09:17 UTC, 6 thousand in MMI V.
 - **GDACS: Green flood alert in Cyprus** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104175)
   - Quelle: GDACS
   - Zeit: ``

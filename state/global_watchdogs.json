@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T09:40:46+00:00",
+  "generated_at": "2026-09-20T09:48:45+00:00",
   "sections": {
     "global_security": [
       {
@@ -75,6 +75,16 @@
       {
         "domain": "security",
         "severity": "high",
+        "title": "GDACS: Green earthquake (Magnitude 6.4M, Depth:104.329km) in Papua New Guinea 20/09/2026 09:17 UTC, 6 thousand in MMI V.",
+        "summary": "Green earthquake (Magnitude 6.4M, Depth:104.329km) in Papua New Guinea 20/09/2026 09:17 UTC, 6 thousand in MMI V.",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1567112",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "high",
         "title": "GDACS: Green flood alert in Cyprus",
         "summary": "Green flood alert in Cyprus",
         "source": "GDACS",
@@ -103,7 +113,7 @@
         "metrics": {
           "mag": 6.4,
           "alert": "green",
-          "sig": 631.0,
+          "sig": 634.0,
           "tsunami": 0
         }
       },
