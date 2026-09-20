@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-20T02:56:01+00:00",
+  "generated_at": "2026-09-20T03:11:04+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -3604,9 +3604,8 @@
     },
     "domain:qiita.com": {
       "title": "生成AIセキュリティを学んで変わった「AIを安全に使う」という考え方 - Qiita",
-      "updated_at": "2026-09-20T02:56:01+00:00",
+      "updated_at": "2026-09-20T03:11:04+00:00",
       "network_scores": [
-        6.1,
         6.1,
         6.1,
         6.1,
@@ -3635,12 +3634,13 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 6.65,
+      "rolling_average": 6.69,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": 0.45
+      "z_hint": 0.41
     },
     "github_repo:yairm210/unciv": {
       "title": "yairm210/Unciv",
@@ -39503,7 +39503,7 @@
     },
     "domain:www.yodobashi.com": {
       "title": "ヨドバシ.com - 東プレ Topre REALFORCE RS1キーボード 左右分割式 79キー 日本語配列 ダークグレー S1UJ11 通販【全品無料配達】",
-      "updated_at": "2026-09-20T02:56:01+00:00",
+      "updated_at": "2026-09-20T03:11:04+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -39631,59 +39631,74 @@
     },
     "earthquake:m 5.3 - reykjanes ridge:5.3": {
       "title": "M 5.3 - Reykjanes Ridge",
-      "updated_at": "2026-09-20T02:56:01+00:00",
+      "updated_at": "2026-09-20T03:11:04+00:00",
       "network_scores": [
         14.7,
         11.7,
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 12.2,
+      "rolling_average": 12.13,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.5
+      "z_hint": -0.43
     },
     "earthquake:m 4.9 - 85 km w of hihifo, tonga:4.9": {
       "title": "M 4.9 - 85 km W of Hihifo, Tonga",
-      "updated_at": "2026-09-20T02:56:01+00:00",
+      "updated_at": "2026-09-20T03:11:04+00:00",
       "network_scores": [
         14.7,
         11.7,
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 12.2,
+      "rolling_average": 12.13,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.5
+      "z_hint": -0.43
     },
     "title:jev-grep": {
       "title": "Jevのキラーアプリ、「意味で探す grep」を作った",
-      "updated_at": "2026-09-20T02:56:01+00:00",
+      "updated_at": "2026-09-20T03:11:04+00:00",
       "network_scores": [
         10.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.85,
+      "rolling_average": 7.7,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "domain:csharpkaigi.net": {
       "title": "C#の現在地 進化の歴史と、AI時代の.NET Everywhere",
-      "updated_at": "2026-09-20T02:56:01+00:00",
+      "updated_at": "2026-09-20T03:11:04+00:00",
       "network_scores": [
-        13.1
+        13.1,
+        10.1
       ],
-      "rolling_average": 13.1,
+      "rolling_average": 11.6,
       "rolling_peak": 13.1,
-      "last_score": 13.1,
+      "last_score": 10.1,
+      "z_hint": -1.5
+    },
+    "earthquake:m 4.5 - 54 km ene of sainte-marie, martinique:4.5": {
+      "title": "M 4.5 - 54 km ENE of Sainte-Marie, Martinique",
+      "updated_at": "2026-09-20T03:11:04+00:00",
+      "network_scores": [
+        14.7
+      ],
+      "rolling_average": 14.7,
+      "rolling_peak": 14.7,
+      "last_score": 14.7,
       "z_hint": 0.0
     }
   }

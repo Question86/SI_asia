@@ -1,5 +1,41 @@
 [
   {
+    "title": "M 4.5 - 54 km ENE of Sainte-Marie, Martinique",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tinf",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-09-20T03:00:16.040+00:00",
+    "fetched_at": "2026-09-20T03:10:33+00:00",
+    "summary": "Time 2026-09-20 02:44:21 UTC 2026-09-20 02:44:21 UTC at epicenter Location 15.040°N 60.558°W Depth 46.42 km (28.85 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 9,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "97da2f76eb5dde71cda8"
+  },
+  {
     "title": "M 5.3 - Reykjanes Ridge",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000timy",
     "source": "USGS M4.5+ Earthquakes Past Hour",

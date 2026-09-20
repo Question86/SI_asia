@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-20T02:55:57+00:00_
+_Generiert: 2026-09-20T03:11:01+00:00_
 
 ## Kurzlage
 
-6 neue relevante Treffer. Stärkstes Signal: „M 5.3 - Reykjanes Ridge“ aus USGS M4.5+ Earthquakes Past Hour (Score 9, risk).
+7 neue relevante Treffer. Stärkstes Signal: „M 4.5 - 54 km ENE of Sainte-Marie, Martinique“ aus USGS M4.5+ Earthquakes Past Hour (Score 9, risk).
 
 ## Priorität Hoch
 
@@ -16,6 +16,15 @@ Keine neuen mittleren Treffer.
 
 ## Nur beobachten
 
+- **M 4.5 - 54 km ENE of Sainte-Marie, Martinique** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tinf)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-20T03:00:16.040+00:00`, fetched `2026-09-20T03:10:33+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-20 02:44:21 UTC 2026-09-20 02:44:21 UTC at epicenter Location 15.040°N 60.558°W Depth 46.42 km (28.85 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.3 - Reykjanes Ridge** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000timy)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-20T01:13:40.040+00:00`, fetched `2026-09-20T01:32:38+00:00`
