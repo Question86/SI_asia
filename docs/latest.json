@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-20T23:40:01+00:00",
-  "run_id": "2026-09-20T23:40:01+00:00",
+  "generated_at": "2026-09-20T23:47:14+00:00",
+  "run_id": "2026-09-20T23:47:14+00:00",
   "date": "2026-09-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 37
+      "configured_public_sources_only": 38
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 37,
-    "displayed_findings": 37,
+    "today_file_total": 38,
+    "displayed_findings": 38,
     "high": 0,
     "medium": 5,
-    "observe": 32,
+    "observe": 33,
     "source_errors": 0
   },
   "sections": {
@@ -476,6 +476,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "f714d677dec0526a3410"
+      },
+      {
+        "title": "M 5.0 - 16 km WSW of Shikotan, Russia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiu3",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-09-20T23:41:59.040+00:00",
+        "fetched_at": "2026-09-20T23:46:46+00:00",
+        "summary": "Time 2026-09-20 23:25:38 UTC 2026-09-20 23:25:38 UTC at epicenter Location 43.744°N 146.534°E Depth 64.94 km (40.35 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "06989629941ebab94f38"
       },
       {
         "title": "M 4.7 - southeast of the Loyalty Islands",
@@ -1555,6 +1591,42 @@
       "id": "f714d677dec0526a3410"
     },
     {
+      "title": "M 5.0 - 16 km WSW of Shikotan, Russia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiu3",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-20T23:41:59.040+00:00",
+      "fetched_at": "2026-09-20T23:46:46+00:00",
+      "summary": "Time 2026-09-20 23:25:38 UTC 2026-09-20 23:25:38 UTC at epicenter Location 43.744°N 146.534°E Depth 64.94 km (40.35 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "06989629941ebab94f38"
+    },
+    {
       "title": "M 4.7 - southeast of the Loyalty Islands",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000titt",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -2185,28 +2257,40 @@
   ],
   "new_findings": [
     {
-      "title": "GitHub - minorun365/agent-builder-skills: AWSでAIエージェントのWebアプリを作るためのスキル集（Bedrock AgentCore・Strands Agents・AWS CDK・Lambda Web Adapter・Cognito・SSE）",
-      "url": "https://github.com/minorun365/agent-builder-skills",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "M 5.0 - 16 km WSW of Shikotan, Russia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiu3",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-09-20T14:59:58+00:00",
-      "fetched_at": "2026-09-20T23:39:27+00:00",
-      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert",
+      "published_at": "2026-09-20T23:41:59.040+00:00",
+      "fetched_at": "2026-09-20T23:46:46+00:00",
+      "summary": "Time 2026-09-20 23:25:38 UTC 2026-09-20 23:25:38 UTC at epicenter Location 43.744°N 146.534°E Depth 64.94 km (40.35 mi)",
       "matched_keywords": [
-        "agent",
-        "AI Agents",
-        "GitHub",
-        "Hatena",
-        "hotentry"
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 16,
-      "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); agent (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "1e82221c96ded1126c09"
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "06989629941ebab94f38"
     }
   ],
   "source_errors": [],
