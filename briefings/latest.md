@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-20T19:00:41+00:00_
+_Generiert: 2026-09-20T19:15:53+00:00_
 
 ## Kurzlage
 
@@ -41,10 +41,6 @@ _Generiert: 2026-09-20T19:00:41+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Philippines
-- **GDACS: Green flood alert in Cyprus** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104175)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Cyprus
 - **USGS earthquake M6.4 - 49 km NNE of Kainantu, Papua New Guinea** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiqc)
   - Quelle: USGS
   - Zeit: `2026-09-20T09:17:35+00:00`
