@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-20T12:30:04+00:00",
-  "run_id": "2026-09-20T12:30:04+00:00",
+  "generated_at": "2026-09-20T12:46:06+00:00",
+  "run_id": "2026-09-20T12:46:06+00:00",
   "date": "2026-09-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 25,
     "displayed_findings": 25,
     "high": 0,
@@ -1475,29 +1475,7 @@
       "id": "adfbfa48c5b70763e69b"
     }
   ],
-  "new_findings": [
-    {
-      "title": "iPhone Duoは重すぎる？ Pro Maxを1年使った私が気になったのは、重さよりTouch ID – @tarosite",
-      "url": "https://tarosite.net/tech/2026/09/20/iphone-duo-weight-and-touch-id/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-20T07:13:03+00:00",
-      "fetched_at": "2026-09-20T12:29:29+00:00",
-      "summary": "10月23日に発売されるiPhone Duo。9月18日に、Apple Showcaseの中で、iPhone Duoに極めて短時間、触れる機会がありましたので、その様子をお伝えします。 発表を見ただけのタイミングで興味を持ったポイントは、9つ記事としてまとめています。自分も、これを踏まえての短時間のハンズオンとなりました。 @tarosite: iPho...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "3b50687f9ff2aacb05fb"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
