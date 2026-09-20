@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-20T21:11:55Z_
+_Generated: 2026-09-20T21:23:42Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “trycua/cua” — Die Dynamik liegt übe
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-20T06:43:44+00:00` / age_days `0.6`
+- Published: `2026-09-20T06:43:44+00:00` / age_days `0.61`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: early terms: local, high terms: rce, security high-signal: rce, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “trycua/cua” — Die Dynamik liegt übe
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-19T15:38:44+00:00` / age_days `1.23`
+- Published: `2026-09-19T15:38:44+00:00` / age_days `1.24`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “trycua/cua” — Die Dynamik liegt übe
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-20T06:44:20+00:00` / age_days `0.6`
+- Published: `2026-09-20T06:44:20+00:00` / age_days `0.61`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: code, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “trycua/cua” — Die Dynamik liegt übe
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-20T06:44:20+00:00` / age_days `0.6`
+- Published: `2026-09-20T06:44:20+00:00` / age_days `0.61`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “trycua/cua” — Die Dynamik liegt übe
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-20T06:43:44+00:00` / age_days `0.6`
+- Published: `2026-09-20T06:43:44+00:00` / age_days `0.61`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: code, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “trycua/cua” — Die Dynamik liegt übe
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.5`
-- Published: `2026-09-12T20:54:37+00:00` / age_days `8.01`
+- Published: `2026-09-12T20:54:37+00:00` / age_days `8.02`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “trycua/cua” — Die Dynamik liegt übe
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.0`
-- Published: `2026-09-19T10:23:21+00:00` / age_days `1.45`
+- Published: `2026-09-19T10:23:21+00:00` / age_days `1.46`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, 10, security high-signal: rce, 10
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “trycua/cua” — Die Dynamik liegt übe
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.0`
-- Published: `2026-09-20T06:43:44+00:00` / age_days `0.6`
+- Published: `2026-09-20T06:43:44+00:00` / age_days `0.61`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “trycua/cua” — Die Dynamik liegt übe
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.5`
-- Published: `2026-09-20T05:31:59+00:00` / age_days `0.65`
+- Published: `2026-09-20T05:31:59+00:00` / age_days `0.66`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: 10
@@ -102,30 +102,30 @@ Stärkste Dynamik nach Gate-Recheck: “trycua/cua” — Die Dynamik liegt übe
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.5`
-- Published: `2026-09-20T04:02:34+00:00` / age_days `0.71`
+- Published: `2026-09-20T04:02:34+00:00` / age_days `0.72`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: 10
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tinl
 
+### M 5.7 - south of Africa
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `21.0`
+- Published: `2026-09-20T21:17:53.477+00:00` / age_days `0.0`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tit5
+
 ### M 4.7 - 54 km SE of Shima, Japan
 
 - Band: `watch` (raw `strong`)
 - Dynamics score: `19.9`
-- Published: `2026-08-29T16:09:35+00:00` / age_days `22.21`
+- Published: `2026-08-29T16:09:35+00:00` / age_days `22.22`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, aging penalty -0.4 for 22.2d old signal, stale single-source cap: max watch after 14d without fresh resonance
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tirt
-
-### wkhtmltopdfの次どうするか問題2026
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `19.0`
-- Published: `2026-09-20T04:25:06+00:00` / age_days `0.7`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3
-- Quelle: https://speakerdeck.com/willnet/wkhtmltopdf-no-tsugi-dou-suru-ka-mondai-2026
 
 END OF DOCUMENT
