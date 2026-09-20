@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-20T14:02:52+00:00",
-  "run_id": "2026-09-20T14:02:52+00:00",
+  "generated_at": "2026-09-20T14:19:27+00:00",
+  "run_id": "2026-09-20T14:19:27+00:00",
   "date": "2026-09-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 28
+      "configured_public_sources_only": 29
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 28,
-    "displayed_findings": 28,
+    "new_relevant_findings": 1,
+    "today_file_total": 29,
+    "displayed_findings": 29,
     "high": 0,
     "medium": 3,
-    "observe": 25,
+    "observe": 26,
     "source_errors": 0
   },
   "sections": {
@@ -570,6 +570,28 @@
           "LOW"
         ],
         "id": "6f98a7a5f0fab2bfaf1a"
+      },
+      {
+        "title": "GitHub - dmtrKovalenko/bashka: Stop running unverified bash scripts to install software! curl <url> | bashKA for static verification of bash script safty and managing installed software",
+        "url": "https://github.com/dmtrKovalenko/bashka",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-20T07:02:16+00:00",
+        "fetched_at": "2026-09-20T14:18:56+00:00",
+        "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert",
+        "matched_keywords": [
+          "GitHub",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f2d3e47f3c5ce1832eda"
       },
       {
         "title": "5分でJev入門（すぐ使う） - Qiita",
@@ -1390,6 +1412,28 @@
       "id": "6f98a7a5f0fab2bfaf1a"
     },
     {
+      "title": "GitHub - dmtrKovalenko/bashka: Stop running unverified bash scripts to install software! curl <url> | bashKA for static verification of bash script safty and managing installed software",
+      "url": "https://github.com/dmtrKovalenko/bashka",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-20T07:02:16+00:00",
+      "fetched_at": "2026-09-20T14:18:56+00:00",
+      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert",
+      "matched_keywords": [
+        "GitHub",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f2d3e47f3c5ce1832eda"
+    },
+    {
       "title": "5分でJev入門（すぐ使う） - Qiita",
       "url": "https://qiita.com/Ninagawa123/items/8ec3f5fe18c20fab1b2a",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1665,7 +1709,30 @@
       "id": "adfbfa48c5b70763e69b"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "GitHub - dmtrKovalenko/bashka: Stop running unverified bash scripts to install software! curl <url> | bashKA for static verification of bash script safty and managing installed software",
+      "url": "https://github.com/dmtrKovalenko/bashka",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-20T07:02:16+00:00",
+      "fetched_at": "2026-09-20T14:18:56+00:00",
+      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert",
+      "matched_keywords": [
+        "GitHub",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f2d3e47f3c5ce1832eda"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
