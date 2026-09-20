@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-20T05:05:51+00:00",
+  "generated_at": "2026-09-20T05:22:34+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -2407,7 +2407,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-20T01:33:12+00:00",
-      "last_seen_at": "2026-09-20T05:05:34+00:00",
+      "last_seen_at": "2026-09-20T05:22:17+00:00",
       "status": "active"
     },
     {
@@ -2577,7 +2577,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-20T01:33:12+00:00",
-      "last_seen_at": "2026-09-20T05:05:34+00:00",
+      "last_seen_at": "2026-09-20T05:22:17+00:00",
       "status": "active"
     },
     {
@@ -3121,7 +3121,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-20T03:11:04+00:00",
-      "last_seen_at": "2026-09-20T05:05:34+00:00",
+      "last_seen_at": "2026-09-20T05:22:17+00:00",
       "status": "active"
     },
     {
@@ -3172,7 +3172,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-20T04:02:34+00:00",
-      "last_seen_at": "2026-09-20T05:05:34+00:00",
+      "last_seen_at": "2026-09-20T05:22:17+00:00",
       "status": "active"
     },
     {
@@ -8170,7 +8170,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-20T04:25:06+00:00",
-      "last_seen_at": "2026-09-20T05:05:34+00:00",
+      "last_seen_at": "2026-09-20T05:22:17+00:00",
       "status": "active"
     },
     {
@@ -9140,7 +9140,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-20T02:56:01+00:00",
-      "last_seen_at": "2026-09-20T05:05:34+00:00",
+      "last_seen_at": "2026-09-20T05:22:17+00:00",
       "status": "active"
     },
     {
@@ -11231,7 +11231,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T12:58:27+00:00",
-      "last_seen_at": "2026-09-20T05:05:34+00:00",
+      "last_seen_at": "2026-09-20T05:22:17+00:00",
       "status": "active"
     },
     {
@@ -11418,7 +11418,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-20T02:01:44+00:00",
-      "last_seen_at": "2026-09-20T05:05:34+00:00",
+      "last_seen_at": "2026-09-20T05:22:17+00:00",
       "status": "active"
     },
     {
@@ -12680,6 +12680,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_c45b057fdf8f516f5e77",
+      "title": "jsonize で JSON を Unix パイプラインの共通言語にする",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-20T05:22:17+00:00",
+      "last_seen_at": "2026-09-20T05:22:17+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_053f4fa216fa9d7c5edf",
       "title": "Bitcoin drops to US$76,796.54 as 91% S&P 500 correlation exposes crypto’s macro trap",
       "event_classes": [
@@ -13017,7 +13034,7 @@
       "p90_usd": 1040000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-20T00:59:16+00:00",
-      "last_seen_at": "2026-09-20T05:05:34+00:00",
+      "last_seen_at": "2026-09-20T05:22:17+00:00",
       "status": "active"
     }
   ]
