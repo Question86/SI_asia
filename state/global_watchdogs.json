@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T21:48:18+00:00",
+  "generated_at": "2026-09-20T21:55:32+00:00",
   "sections": {
     "global_security": [
       {
@@ -136,21 +136,6 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1566905",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.7 - south of Africa",
-        "summary": "M5.7 - south of Africa. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tit5",
-        "published_at": "2026-09-20T20:54:37+00:00",
-        "metrics": {
-          "mag": 5.7,
-          "alert": "green",
-          "sig": 500.0,
-          "tsunami": 0
-        }
       }
     ],
     "global_economy": []

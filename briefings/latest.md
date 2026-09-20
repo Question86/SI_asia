@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-20T21:48:14+00:00_
+_Generiert: 2026-09-20T21:55:28+00:00_
 
 ## Kurzlage
 
@@ -57,10 +57,6 @@ _Generiert: 2026-09-20T21:48:14+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:94.054km) in Kermadec Islands Region 18/09/2026 23:18 UTC, [unknown].
-- **USGS earthquake M5.7 - south of Africa** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tit5)
-  - Quelle: USGS
-  - Zeit: `2026-09-20T20:54:37+00:00`
-  - Kurz: M5.7 - south of Africa. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
