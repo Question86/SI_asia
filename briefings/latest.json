@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-20T04:25:03+00:00",
-  "run_id": "2026-09-20T04:25:03+00:00",
+  "generated_at": "2026-09-20T04:37:38+00:00",
+  "run_id": "2026-09-20T04:37:38+00:00",
   "date": "2026-09-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 9,
     "displayed_findings": 9,
     "high": 0,
@@ -536,30 +536,7 @@
       "id": "89bd06905dede16a8289"
     }
   ],
-  "new_findings": [
-    {
-      "title": "wkhtmltopdfの次どうするか問題2026",
-      "url": "https://speakerdeck.com/willnet/wkhtmltopdf-no-tsugi-dou-suru-ka-mondai-2026",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-19T23:57:27+00:00",
-      "fetched_at": "2026-09-20T04:24:36+00:00",
-      "summary": "2026/09/17 に開催されたRailsTokyo#6 での発表資料です https://railstokyo.connpass.com/event/400709/",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Tokyo (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f714d677dec0526a3410"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
