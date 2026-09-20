@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-20T21:36:07Z",
+  "generated_at": "2026-09-20T22:12:10Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “trycua/cua” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://github.com/trycua/cua",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-20T06:43:44+00:00",
-      "age_days": 0.62,
+      "age_days": 0.64,
       "topics": [
         "ai"
       ],
@@ -44,7 +44,7 @@
       "url": "https://www.yodobashi.com/product/100000001010215183/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T15:38:44+00:00",
-      "age_days": 1.25,
+      "age_days": 1.27,
       "topics": [
         "general"
       ],
@@ -71,7 +71,7 @@
       "url": "https://github.com/coder/coder",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-20T06:44:20+00:00",
-      "age_days": 0.62,
+      "age_days": 0.64,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "extreme",
@@ -97,7 +97,7 @@
       "url": "https://github.com/trycua/cua",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-20T06:44:20+00:00",
-      "age_days": 0.62,
+      "age_days": 0.64,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "extreme",
@@ -122,7 +122,7 @@
       "url": "https://github.com/coder/coder",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-20T06:43:44+00:00",
-      "age_days": 0.62,
+      "age_days": 0.64,
       "topics": [
         "ai"
       ],
@@ -149,7 +149,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tipl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T20:54:37+00:00",
-      "age_days": 8.03,
+      "age_days": 8.05,
       "topics": [
         "general"
       ],
@@ -173,7 +173,7 @@
       "url": "https://www.yodobashi.com/product/100000001010215183/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T10:23:21+00:00",
-      "age_days": 1.47,
+      "age_days": 1.49,
       "topics": [
         "general"
       ],
@@ -198,7 +198,7 @@
       "url": "https://github.com/Open-Dev-Society/OpenStock",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-20T06:43:44+00:00",
-      "age_days": 0.62,
+      "age_days": 0.64,
       "topics": [
         "ai",
         "macro"
@@ -224,7 +224,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tip2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-20T05:31:59+00:00",
-      "age_days": 0.67,
+      "age_days": 0.69,
       "topics": [
         "general"
       ],
@@ -249,7 +249,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tinl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-20T04:02:34+00:00",
-      "age_days": 0.73,
+      "age_days": 0.76,
       "topics": [
         "general"
       ],
@@ -274,7 +274,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tit5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-20T21:17:53.477+00:00",
-      "age_days": 0.01,
+      "age_days": 0.04,
       "topics": [
         "disaster"
       ],
@@ -295,28 +295,26 @@
       "summary": "PAGER - GREEN ShakeMap - I Time 2026-09-20 20:54:37 UTC 2026-09-20 20:54:37 UTC at epicenter Location 48.428°S 31.235°E Depth 10.00 km (6.21 mi)"
     },
     {
-      "title": "M 4.7 - 54 km SE of Shima, Japan",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tirt",
+      "title": "M 5.7 - south of Africa",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tit5",
       "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-08-29T16:09:35+00:00",
-      "age_days": 22.23,
+      "published_at": "2026-09-20T21:21:20+00:00",
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
-      "dynamics_score": 19.9,
+      "dynamics_score": 20.5,
       "raw_band": "strong",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3",
-        "aging penalty -0.4 for 22.2d old signal",
-        "stale single-source cap: max watch after 14d without fresh resonance"
+        "momentum delta +3"
       ],
       "summary": ""
     }
@@ -330,8 +328,7 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 11,
-      "watch": 1
+      "strong": 12
     }
   }
 }
