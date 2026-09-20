@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-20T07:40:25+00:00_
+_Generiert: 2026-09-20T07:47:58+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „trycua/cua“ aus GitHub Trending RSS All Languages Daily (Score 20, opportunity).
+19 neue relevante Treffer. Stärkstes Signal: „trycua/cua“ aus GitHub Trending RSS All Languages Daily (Score 20, opportunity).
 
 ## Priorität Hoch
 
@@ -30,6 +30,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: Secure environments for developers and their agents https://coder.com Self-Hosted Cloud Development Environments and AI Agents Quickstart | Docs | Why Coder | Premium Coder is a self-hosted platform for cloud development environments and AI coding agents. Workspaces are defined with Terraform, connected through a secure Wireguard® tunnel, and automatically shut down when not used. Coder Agents runs a native AI codin…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **M 5.1 - 14 km WNW of Naze, Japan** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tipl)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-20T07:45:57.040+00:00`, fetched `2026-09-20T07:47:31+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-20 07:28:22 UTC 2026-09-20 07:28:22 UTC at epicenter Location 28.395°N 129.341°E Depth 68.83 km (42.77 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
@@ -100,6 +109,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Empfehlungen
 
 - Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 
