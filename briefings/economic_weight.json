@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-20T21:49:11+00:00",
+  "generated_at": "2026-09-20T21:55:50+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1047,7 +1047,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-29T16:09:35+00:00",
-      "last_seen_at": "2026-09-20T21:48:18+00:00",
+      "last_seen_at": "2026-09-20T21:55:32+00:00",
       "status": "active"
     },
     {
@@ -1115,7 +1115,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-12T20:54:37+00:00",
-      "last_seen_at": "2026-09-20T21:48:18+00:00",
+      "last_seen_at": "2026-09-20T21:55:32+00:00",
       "status": "active"
     },
     {
@@ -1268,7 +1268,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-20T21:21:20+00:00",
-      "last_seen_at": "2026-09-20T21:48:18+00:00",
+      "last_seen_at": "2026-09-20T21:55:32+00:00",
       "status": "active"
     },
     {
@@ -1336,7 +1336,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-20T13:19:14+00:00",
-      "last_seen_at": "2026-09-20T21:48:18+00:00",
+      "last_seen_at": "2026-09-20T21:55:32+00:00",
       "status": "active"
     },
     {
@@ -1370,7 +1370,7 @@
       "p90_usd": 11440000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-20T09:40:46+00:00",
-      "last_seen_at": "2026-09-20T21:48:18+00:00",
+      "last_seen_at": "2026-09-20T21:55:32+00:00",
       "status": "active"
     },
     {
@@ -1850,6 +1850,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_7ae29791ea25e308c8f8",
+      "title": "M 4.7 - 234 km SSE of False Pass, Alaska",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1128000.0,
+      "p50_usd": 112800000.0,
+      "p90_usd": 11280000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-20T21:48:18+00:00",
+      "last_seen_at": "2026-09-20T21:55:32+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_7b7b5be85a9a06f472d6",
       "title": "M 4.5 - 9 km WNW of Quicacha, Peru",
       "event_classes": [
@@ -1948,7 +1965,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-20T09:20:21+00:00",
-      "last_seen_at": "2026-09-20T21:48:18+00:00",
+      "last_seen_at": "2026-09-20T21:55:32+00:00",
       "status": "active"
     },
     {
@@ -2360,23 +2377,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_7ae29791ea25e308c8f8",
-      "title": "M 4.7 - 234 km SSE of False Pass, Alaska",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1128000.0,
-      "p50_usd": 112800000.0,
-      "p90_usd": 11280000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-09-20T21:48:18+00:00",
-      "last_seen_at": "2026-09-20T21:48:18+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_058a0e17878f3797ed5c",
       "title": "M 4.6 - 170 km ESE of Kuril’sk, Russia",
       "event_classes": [
@@ -2509,7 +2509,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-20T01:33:12+00:00",
-      "last_seen_at": "2026-09-20T21:48:18+00:00",
+      "last_seen_at": "2026-09-20T21:55:32+00:00",
       "status": "active"
     },
     {
@@ -2594,7 +2594,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-20T12:54:33+00:00",
-      "last_seen_at": "2026-09-20T21:48:18+00:00",
+      "last_seen_at": "2026-09-20T21:55:32+00:00",
       "status": "active"
     },
     {
@@ -2696,8 +2696,8 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-20T01:33:12+00:00",
-      "last_seen_at": "2026-09-20T21:40:17+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-09-20T21:55:32+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_39deab74f55b6be2a03d",
@@ -3240,7 +3240,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-20T03:11:04+00:00",
-      "last_seen_at": "2026-09-20T21:48:18+00:00",
+      "last_seen_at": "2026-09-20T21:55:32+00:00",
       "status": "active"
     },
     {
@@ -3291,7 +3291,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-20T04:02:34+00:00",
-      "last_seen_at": "2026-09-20T21:48:18+00:00",
+      "last_seen_at": "2026-09-20T21:55:32+00:00",
       "status": "active"
     },
     {
@@ -3529,7 +3529,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-20T07:29:06+00:00",
-      "last_seen_at": "2026-09-20T21:48:18+00:00",
+      "last_seen_at": "2026-09-20T21:55:32+00:00",
       "status": "active"
     },
     {
@@ -3767,7 +3767,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-20T05:31:59+00:00",
-      "last_seen_at": "2026-09-20T21:48:18+00:00",
+      "last_seen_at": "2026-09-20T21:55:32+00:00",
       "status": "active"
     },
     {
@@ -4974,7 +4974,7 @@
       "p90_usd": 1200000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-20T06:44:20+00:00",
-      "last_seen_at": "2026-09-20T21:48:18+00:00",
+      "last_seen_at": "2026-09-20T21:55:32+00:00",
       "status": "active"
     },
     {
@@ -5314,7 +5314,7 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-20T21:48:18+00:00",
+      "last_seen_at": "2026-09-20T21:55:32+00:00",
       "status": "active"
     },
     {
@@ -5705,7 +5705,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-20T06:44:20+00:00",
-      "last_seen_at": "2026-09-20T21:48:18+00:00",
+      "last_seen_at": "2026-09-20T21:55:32+00:00",
       "status": "active"
     },
     {
@@ -6776,7 +6776,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-20T17:29:42+00:00",
-      "last_seen_at": "2026-09-20T21:48:18+00:00",
+      "last_seen_at": "2026-09-20T21:55:32+00:00",
       "status": "active"
     },
     {
@@ -8374,7 +8374,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-20T04:25:06+00:00",
-      "last_seen_at": "2026-09-20T21:48:18+00:00",
+      "last_seen_at": "2026-09-20T21:55:32+00:00",
       "status": "active"
     },
     {
@@ -8988,6 +8988,23 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-15T12:18:45+00:00",
       "last_seen_at": "2026-09-15T12:18:45+00:00",
+      "status": "dormant"
+    },
+    {
+      "event_id": "evt_04d8fddefc11c63fc1c0",
+      "title": "GitHub - minorun365/minorun-marp-skill: Marpで登壇スライドを作るための、ストーリー・図・デザインバランスのスキル集と黒地テーマ、検査ツール",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-20T21:48:18+00:00",
+      "last_seen_at": "2026-09-20T21:48:18+00:00",
       "status": "dormant"
     },
     {
@@ -9924,23 +9941,6 @@
       "first_seen_at": "2026-09-17T01:54:13+00:00",
       "last_seen_at": "2026-09-17T06:57:53+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_04d8fddefc11c63fc1c0",
-      "title": "GitHub - minorun365/minorun-marp-skill: Marpで登壇スライドを作るための、ストーリー・図・デザインバランスのスキル集と黒地テーマ、検査ツール",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 110400.0,
-      "p50_usd": 11040000.0,
-      "p90_usd": 1104000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-20T21:48:18+00:00",
-      "last_seen_at": "2026-09-20T21:48:18+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_050660578420f6fb8ddb",
@@ -11452,7 +11452,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T12:58:27+00:00",
-      "last_seen_at": "2026-09-20T21:48:18+00:00",
+      "last_seen_at": "2026-09-20T21:55:32+00:00",
       "status": "active"
     },
     {
