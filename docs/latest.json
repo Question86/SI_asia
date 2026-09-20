@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-20T10:55:14+00:00",
-  "run_id": "2026-09-20T10:55:14+00:00",
+  "generated_at": "2026-09-20T11:05:08+00:00",
+  "run_id": "2026-09-20T11:05:08+00:00",
   "date": "2026-09-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 24,
     "displayed_findings": 24,
     "high": 0,
@@ -1433,29 +1433,7 @@
       "id": "adfbfa48c5b70763e69b"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Jevはサイコロを振らない｜「較正された確率」の意外な落とし穴｜林寛太 Kanta Hayashi",
-      "url": "https://note.com/kantahayashiai/n/n4c54eed30787",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-20T03:46:30+00:00",
-      "fetched_at": "2026-09-20T10:54:43+00:00",
-      "summary": "Jevは、文章を生成せずに、選択や真偽判定などの「判断」を確率とともに返す、TypeSafe AIの判断特化型モデルだ。速度とコストが魅力的で、人々の発想を刺激した点で、優れたプロダクトだと思う。 ただ、最近の熱狂を見ていると、何でもJevでいけるかのような話になっている。Jevは「システム1（直感的・即時の判断）」...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9bd9ab57b7858d51531a"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
