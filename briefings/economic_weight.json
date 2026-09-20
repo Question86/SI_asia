@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-20T02:56:19+00:00",
+  "generated_at": "2026-09-20T03:11:20+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -2407,7 +2407,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-20T01:33:12+00:00",
-      "last_seen_at": "2026-09-20T02:56:01+00:00",
+      "last_seen_at": "2026-09-20T03:11:04+00:00",
       "status": "active"
     },
     {
@@ -2577,7 +2577,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-20T01:33:12+00:00",
-      "last_seen_at": "2026-09-20T02:56:01+00:00",
+      "last_seen_at": "2026-09-20T03:11:04+00:00",
       "status": "active"
     },
     {
@@ -3752,6 +3752,23 @@
       "first_seen_at": "2026-09-10T18:56:53+00:00",
       "last_seen_at": "2026-09-10T18:56:53+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_8dd71ce3a99b8458c6a5",
+      "title": "M 4.5 - 54 km ENE of Sainte-Marie, Martinique",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-20T03:11:04+00:00",
+      "last_seen_at": "2026-09-20T03:11:04+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_720c7d526b3baeebcacf",
@@ -9076,6 +9093,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_6995f7acb482eec5e60b",
+      "title": "C#の現在地 進化の歴史と、AI時代の.NET Everywhere",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 110400.0,
+      "p50_usd": 11040000.0,
+      "p90_usd": 1104000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-20T02:56:01+00:00",
+      "last_seen_at": "2026-09-20T03:11:04+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_6db17a52a659563574f1",
       "title": "深刻化する“サイバー蝗害”―Linuxカーネルソースに群がる貪欲で超非効率な「AIイナゴ」たち | gihyo.jp",
       "event_classes": [
@@ -9652,23 +9686,6 @@
       "first_seen_at": "2026-09-17T01:54:13+00:00",
       "last_seen_at": "2026-09-17T06:57:53+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_6995f7acb482eec5e60b",
-      "title": "C#の現在地 進化の歴史と、AI時代の.NET Everywhere",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 110400.0,
-      "p50_usd": 11040000.0,
-      "p90_usd": 1104000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-20T02:56:01+00:00",
-      "last_seen_at": "2026-09-20T02:56:01+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_050660578420f6fb8ddb",
@@ -11180,7 +11197,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T12:58:27+00:00",
-      "last_seen_at": "2026-09-20T02:56:01+00:00",
+      "last_seen_at": "2026-09-20T03:11:04+00:00",
       "status": "active"
     },
     {
@@ -11367,7 +11384,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-20T02:01:44+00:00",
-      "last_seen_at": "2026-09-20T02:56:01+00:00",
+      "last_seen_at": "2026-09-20T03:11:04+00:00",
       "status": "active"
     },
     {
@@ -12966,7 +12983,7 @@
       "p90_usd": 1040000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-20T00:59:16+00:00",
-      "last_seen_at": "2026-09-20T02:56:01+00:00",
+      "last_seen_at": "2026-09-20T03:11:04+00:00",
       "status": "active"
     }
   ]
