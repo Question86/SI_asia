@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T11:28:43+00:00",
+  "generated_at": "2026-09-20T11:39:37+00:00",
   "sections": {
     "global_security": [
       {
@@ -75,20 +75,10 @@
       {
         "domain": "security",
         "severity": "high",
-        "title": "GDACS: Green earthquake (Magnitude 6.4M, Depth:104.329km) in Papua New Guinea 20/09/2026 09:17 UTC, 6 thousand in MMI V.",
-        "summary": "Green earthquake (Magnitude 6.4M, Depth:104.329km) in Papua New Guinea 20/09/2026 09:17 UTC, 6 thousand in MMI V.",
+        "title": "GDACS: Green earthquake (Magnitude 6.4M, Depth:104.329km) in Papua New Guinea 20/09/2026 09:17 UTC, 50 thousand in MMI V.",
+        "summary": "Green earthquake (Magnitude 6.4M, Depth:104.329km) in Papua New Guinea 20/09/2026 09:17 UTC, 50 thousand in MMI V.",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1567112",
-        "published_at": "",
-        "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "GDACS: Green flood alert in Cyprus",
-        "summary": "Green flood alert in Cyprus",
-        "source": "GDACS",
-        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104175",
         "published_at": "",
         "metrics": {}
       },
@@ -99,6 +89,16 @@
         "summary": "Green flood alert in Philippines",
         "source": "GDACS",
         "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104176",
+        "published_at": "",
+        "metrics": {}
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "GDACS: Green flood alert in Cyprus",
+        "summary": "Green flood alert in Cyprus",
+        "source": "GDACS",
+        "url": "https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104175",
         "published_at": "",
         "metrics": {}
       },
