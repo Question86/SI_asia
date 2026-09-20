@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-09-20T20:56:29+00:00",
+  "generated_at": "2026-09-20T21:09:38+00:00",
   "fx_as_of": null,
-  "candidate_count": 890,
+  "candidate_count": 891,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 890
+    "pending": 891
   },
   "coverage_warning": null,
   "candidates": [
@@ -11579,6 +11579,27 @@
       "snippet": "ce: A Defence of Solitary Play codingconduct 1 520 Exploring anti-patterns in Rails aemeredith 4 510 Bash Introduction 62gerente 615 220k Data-driven link building: lessons from a $708K investment (BrightonSEO talk) szymonslowik 1 1.3k Transcript C#の現在地 進化の歴史と、AI時代の.NET Everywhere 2026-09-19 C# Kaigi 2026 Yoshifumi Kawai / Cysharp, Inc. About Speaker 河合 宜文 / Kawa",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://speakerdeck.com/neuecc/c-no-genzaichi-shinka-no-rekishi-to-ai-jidai-no-net-everywhere"
+    },
+    {
+      "amount_native": 708000.0,
+      "amount_usd": 708000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.55,
+      "candidate_id": "cand_865e1679753756547820",
+      "component_suggestion": "capital_allocation",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_a61d1a7e4acb13f6d63c",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-20T21:09:35+00:00",
+      "overlap_group_suggestion": "evt_a61d1a7e4acb13f6d63c:capital_allocation:adda6676fdfe",
+      "review_status": "pending",
+      "snippet": "erezcruz 330 41k Designing Powerful Visuals for Engaging Learning tmiket 1 550 Bootstrapping a Software Product garrettdimon PRO 306 120k Data-driven link building: lessons from a $708K investment (BrightonSEO talk) szymonslowik 1 1.3k The innovator’s Mindset - Leading Through an Era of Exponential Change - McGill University 2025 jdejongh PRO 1 340 Conquering PDF",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://speakerdeck.com/willnet/wkhtmltopdf-no-tsugi-dou-suru-ka-mondai-2026",
+      "component_confidence": 0.55,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 200000.0,
