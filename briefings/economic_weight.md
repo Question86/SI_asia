@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-09-20T14:03:14+00:00`
+Generated: `2026-09-20T14:19:48+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -19,6 +19,7 @@ Generated: `2026-09-20T14:03:14+00:00`
 | Multiples vulnérabilités dans les produits VMware (07 septembre 2026) | conflict | $112.00M | $11.20B | $1.12T | 0.31 |
 | Singapore’s robotics dominance is a warning sign dressed up as good news | conflict | $111.20M | $11.12B | $1.11T | 0.31 |
 | Forward Deployed Learner: Enabling 22-year-olds to build domain expertise and judgement in the post AI world | conflict | $110.40M | $11.04B | $1.10T | 0.31 |
+| GitHub - dmtrKovalenko/bashka: Stop running unverified bash scripts to install software! curl <url> \| bashKA for static verification of bash script safty and managing installed software | conflict | $110.40M | $11.04B | $1.10T | 0.31 |
 | Version 1.0: Deutsche Institutionen über TerminalFix-Kampagne kompromittiert | conflict | $109.60M | $10.96B | $1.10T | 0.31 |
 | CodeQL 2.26.4 improves GitHub actions security detections | regulation | $12.40M | $1.24B | $124.00B | 0.31 |
 | [MàJ] Vulnérabilité dans Fortinet FortiOS (09 février 2024) | vulnerability, exploit, regulation | $12.00M | $1.20B | $120.00B | 0.31 |
@@ -30,7 +31,6 @@ Generated: `2026-09-20T14:03:14+00:00`
 | When a slot opens, let the AI agent act – within limits | regulation | $11.76M | $1.18B | $117.60B | 0.31 |
 | コンテック製SolarView Compactにおける複数の脆弱性 | vulnerability, regulation | $11.52M | $1.15B | $115.20B | 0.31 |
 | チームの人数が減っても仕事を回す ── AIとGitHub Actionsによる開発ワークフロー改善 - ZOZO TECH BLOG | regulation | $11.44M | $1.14B | $114.40B | 0.31 |
-| Multiples vulnérabilités dans les produits Ivanti (09 septembre 2026) | exploit, regulation | $11.36M | $1.14B | $113.60B | 0.31 |
 
 ## Interpretation
 
