@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-20T03:54:42+00:00_
+_Generiert: 2026-09-20T04:02:30+00:00_
 
 ## Kurzlage
 
-7 neue relevante Treffer. Stärkstes Signal: „M 4.5 - 54 km ENE of Sainte-Marie, Martinique“ aus USGS M4.5+ Earthquakes Past Hour (Score 9, risk).
+8 neue relevante Treffer. Stärkstes Signal: „M 5.3 - 108 km ESE of Yigo Village, Guam“ aus USGS M4.5+ Earthquakes Past Hour (Score 9, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -61,6 +61,15 @@ Keine neuen mittleren Treffer.
 
 ## Nur beobachten
 
+- **M 5.3 - 108 km ESE of Yigo Village, Guam** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tinl)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-20T03:59:07.040+00:00`, fetched `2026-09-20T04:02:02+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-20 03:43:24 UTC 2026-09-20 03:43:24 UTC at epicenter Location 13.057°N 145.759°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.5 - 54 km ENE of Sainte-Marie, Martinique** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tinf)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-20T03:00:16.040+00:00`, fetched `2026-09-20T03:10:33+00:00`
@@ -78,15 +87,6 @@ Keine neuen mittleren Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-20 00:58:14 UTC 2026-09-20 00:58:14 UTC at epicenter Location 57.121°N 33.546°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.9 - 85 km W of Hihifo, Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000timw)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-20T01:05:27.040+00:00`, fetched `2026-09-20T01:32:38+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-20 00:33:21 UTC 2026-09-20 00:33:21 UTC at epicenter Location 15.961°S 174.597°W Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **C#の現在地 進化の歴史と、AI時代の.NET Everywhere** — Score 8, observation — [Quelle](https://speakerdeck.com/neuecc/c-no-genzaichi-shinka-no-rekishi-to-ai-jidai-no-net-everywhere)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

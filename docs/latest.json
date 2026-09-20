@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-20T03:54:42+00:00",
-  "run_id": "2026-09-20T03:54:42+00:00",
+  "generated_at": "2026-09-20T04:02:30+00:00",
+  "run_id": "2026-09-20T04:02:30+00:00",
   "date": "2026-09-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 7
+      "configured_public_sources_only": 8
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,18 +18,54 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 7,
-    "displayed_findings": 7,
+    "new_relevant_findings": 1,
+    "today_file_total": 8,
+    "displayed_findings": 8,
     "high": 0,
     "medium": 0,
-    "observe": 7,
+    "observe": 8,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [],
     "observe": [
+      {
+        "title": "M 5.3 - 108 km ESE of Yigo Village, Guam",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tinl",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-09-20T03:59:07.040+00:00",
+        "fetched_at": "2026-09-20T04:02:02+00:00",
+        "summary": "Time 2026-09-20 03:43:24 UTC 2026-09-20 03:43:24 UTC at epicenter Location 13.057°N 145.759°E Depth 10.00 km (6.21 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "36b0a783b23bb4df19ff"
+      },
       {
         "title": "M 4.5 - 54 km ENE of Sainte-Marie, Martinique",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tinf",
@@ -227,6 +263,42 @@
   },
   "findings": [
     {
+      "title": "M 5.3 - 108 km ESE of Yigo Village, Guam",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tinl",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-20T03:59:07.040+00:00",
+      "fetched_at": "2026-09-20T04:02:02+00:00",
+      "summary": "Time 2026-09-20 03:43:24 UTC 2026-09-20 03:43:24 UTC at epicenter Location 13.057°N 145.759°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "36b0a783b23bb4df19ff"
+    },
+    {
       "title": "M 4.5 - 54 km ENE of Sainte-Marie, Martinique",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tinf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -420,7 +492,44 @@
       "id": "89bd06905dede16a8289"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "M 5.3 - 108 km ESE of Yigo Village, Guam",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tinl",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-20T03:59:07.040+00:00",
+      "fetched_at": "2026-09-20T04:02:02+00:00",
+      "summary": "Time 2026-09-20 03:43:24 UTC 2026-09-20 03:43:24 UTC at epicenter Location 13.057°N 145.759°E Depth 10.00 km (6.21 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "36b0a783b23bb4df19ff"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
