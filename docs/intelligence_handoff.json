@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-20T01:17:10Z",
+  "generated_at": "2026-09-20T01:49:11Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “ヨドバシ.com - 東プレ Topre REALFORCE RS1キーボード 左右分割式 79キー 日本語配列 ダークグレー S1UJ11 通販【全品無料配達】” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://www.yodobashi.com/product/100000001010215183/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T15:38:44+00:00",
-      "age_days": 0.4,
+      "age_days": 0.42,
       "topics": [
         "general"
       ],
@@ -42,7 +42,7 @@
       "url": "https://www.yodobashi.com/product/100000001010215183/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T10:23:21+00:00",
-      "age_days": 0.62,
+      "age_days": 0.64,
       "topics": [
         "general"
       ],
@@ -61,6 +61,104 @@
         "security high-signal: rce, 10"
       ],
       "summary": "東プレ Topre REALFORCE RS1キーボード 左右分割式 79キー 日本語配列 ダークグレー S1UJ11 ￥55,000550 ゴールドポイント（1％還元）ただいま予約受付中！発売日にお届け日本全国配達料金無料"
+    },
+    {
+      "title": "M 5.3 - Reykjanes Ridge",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000timy",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-20T01:13:40.040+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-09-20 00:58:14 UTC 2026-09-20 00:58:14 UTC at epicenter Location 57.121°N 33.546°W Depth 10.00 km (6.21 mi)"
+    },
+    {
+      "title": "M 4.9 - 85 km W of Hihifo, Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000timw",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-20T01:05:27.040+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-09-20 00:33:21 UTC 2026-09-20 00:33:21 UTC at epicenter Location 15.961°S 174.597°W Depth 10.00 km (6.21 mi)"
+    },
+    {
+      "title": "M 5.3 - Reykjanes Ridge",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000timy",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-20T01:33:12+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 13.4,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "M 4.9 - 85 km W of Hihifo, Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000timw",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-20T01:33:12+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 13.4,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
     }
   ],
   "read_order": [
@@ -72,7 +170,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 2
+      "strong": 2,
+      "watch": 4
     }
   }
 }
