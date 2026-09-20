@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-20T02:53:56Z_
+_Generated: 2026-09-20T03:16:41Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “ヨドバシ.com - 東プレ Topre REALF
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-19T15:38:44+00:00` / age_days `0.47`
+- Published: `2026-09-19T15:38:44+00:00` / age_days `0.48`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “ヨドバシ.com - 東プレ Topre REALF
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.0`
-- Published: `2026-09-19T10:23:21+00:00` / age_days `0.69`
+- Published: `2026-09-19T10:23:21+00:00` / age_days `0.7`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, 10, security high-signal: rce, 10
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “ヨドバシ.com - 東プレ Topre REALF
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-20T01:13:40.040+00:00` / age_days `0.07`
+- Published: `2026-09-20T01:13:40.040+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “ヨドバシ.com - 東プレ Topre REALF
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-20T01:05:27.040+00:00` / age_days `0.08`
+- Published: `2026-09-20T01:05:27.040+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “ヨドバシ.com - 東プレ Topre REALF
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.5`
-- Published: `2026-09-20T01:33:12+00:00` / age_days `0.06`
+- Published: `2026-09-20T01:33:12+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “ヨドバシ.com - 東プレ Topre REALF
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.5`
-- Published: `2026-09-20T01:33:12+00:00` / age_days `0.06`
+- Published: `2026-09-20T01:33:12+00:00` / age_days `0.07`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -70,42 +70,62 @@ Stärkste Dynamik nach Gate-Recheck: “ヨドバシ.com - 東プレ Topre REALF
 
 ### Jevのキラーアプリ、「意味で探す grep」を作った
 
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `11.5`
-- Published: `2026-09-20T02:01:44+00:00` / age_days `0.04`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Band: `watch` (raw `watch`)
+- Dynamics score: `14.0`
+- Published: `2026-09-20T02:01:44+00:00` / age_days `0.05`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +2
+- Warum: momentum delta +3
 - Quelle: https://zenn.dev/uehaj/articles/jev-semgrep-grep-by-meaning
 
 ### Jevのキラーアプリ、「意味で探す grep」を作った
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `10.0`
-- Published: `2026-09-19T13:14:02+00:00` / age_days `0.57`
+- Published: `2026-09-19T13:14:02+00:00` / age_days `0.59`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: high terms: 10
 - Quelle: https://zenn.dev/uehaj/articles/jev-semgrep-grep-by-meaning
 
+### M 4.5 - 54 km ENE of Sainte-Marie, Martinique
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `5.4`
+- Published: `2026-09-20T03:11:04+00:00` / age_days `0.0`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: momentum delta +1, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tinf
+
+### C#の現在地 進化の歴史と、AI時代の.NET Everywhere
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `4.0`
+- Published: `2026-09-20T02:56:01+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: momentum delta +1, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://speakerdeck.com/neuecc/c-no-genzaichi-shinka-no-rekishi-to-ai-jidai-no-net-everywhere
+
+### M 4.5 - 54 km ENE of Sainte-Marie, Martinique
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `4.0`
+- Published: `2026-09-20T03:00:16.040+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: early terms: earthquake, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tinf
+
 ### 生成AIセキュリティを学んで変わった「AIを安全に使う」という考え方 - Qiita
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `0`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `93.04`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `93.05`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +3, baseline z_hint 0.48, single-source AI hype brake -8.0, aging penalty -8.0 for 93.0d old signal, single-source AI cap enforced after phrase recheck
-- Quelle: https://qiita.com/kf_webdev/items/cbd1d7bb724676a3b686
-
-### 生成AIセキュリティを学んで変わった「AIを安全に使う」という考え方 - Qiita
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `0`
-- Published: `2026-09-19T13:07:19+00:00` / age_days `0.57`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: early terms: chain, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Warum: momentum delta +3, baseline z_hint 0.41, single-source AI hype brake -8.0, aging penalty -8.0 for 93.1d old signal, single-source AI cap enforced after phrase recheck
 - Quelle: https://qiita.com/kf_webdev/items/cbd1d7bb724676a3b686
 
 END OF DOCUMENT
