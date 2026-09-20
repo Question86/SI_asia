@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-20T01:33:34+00:00",
+  "generated_at": "2026-09-20T01:54:29+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -2394,6 +2394,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_13517cc8baa2f5e3b6d6",
+      "title": "M 5.3 - Reykjanes Ridge",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-20T01:33:12+00:00",
+      "last_seen_at": "2026-09-20T01:54:11+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_1d1729a9b41d908ddabc",
       "title": "M 5.0 - southeast of the Loyalty Islands",
       "event_classes": [
@@ -2545,6 +2562,23 @@
       "first_seen_at": "2026-09-12T02:33:27+00:00",
       "last_seen_at": "2026-09-12T23:54:55+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_38a28ff4425619f3a6d6",
+      "title": "M 4.9 - 85 km W of Hihifo, Tonga",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-20T01:33:12+00:00",
+      "last_seen_at": "2026-09-20T01:54:11+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_39deab74f55b6be2a03d",
@@ -3718,40 +3752,6 @@
       "first_seen_at": "2026-09-10T18:56:53+00:00",
       "last_seen_at": "2026-09-10T18:56:53+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_13517cc8baa2f5e3b6d6",
-      "title": "M 5.3 - Reykjanes Ridge",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-09-20T01:33:12+00:00",
-      "last_seen_at": "2026-09-20T01:33:12+00:00",
-      "status": "active"
-    },
-    {
-      "event_id": "evt_38a28ff4425619f3a6d6",
-      "title": "M 4.9 - 85 km W of Hihifo, Tonga",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-09-20T01:33:12+00:00",
-      "last_seen_at": "2026-09-20T01:33:12+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_720c7d526b3baeebcacf",
@@ -11163,8 +11163,8 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T12:58:27+00:00",
-      "last_seen_at": "2026-09-15T18:50:34+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-09-20T01:54:11+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_3bf882e0f0d8589a296b",
@@ -12932,7 +12932,7 @@
       "p90_usd": 1040000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-20T00:59:16+00:00",
-      "last_seen_at": "2026-09-20T01:33:12+00:00",
+      "last_seen_at": "2026-09-20T01:54:11+00:00",
       "status": "active"
     }
   ]

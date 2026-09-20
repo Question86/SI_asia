@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-20T01:33:36+00:00",
+  "generated_at": "2026-09-20T01:54:31+00:00",
   "events": [
     {
       "event_id": "evt_010865faf79d8c1f952b",
@@ -511,12 +511,12 @@
     {
       "event_id": "evt_13517cc8baa2f5e3b6d6",
       "title": "M 5.3 - Reykjanes Ridge",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -1600,12 +1600,12 @@
     {
       "event_id": "evt_38a28ff4425619f3a6d6",
       "title": "M 4.9 - 85 km W of Hihifo, Tonga",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -1661,7 +1661,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_3af8f852f301f8c1d551",
