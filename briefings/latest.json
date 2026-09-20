@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-20T17:29:39+00:00",
-  "run_id": "2026-09-20T17:29:39+00:00",
+  "generated_at": "2026-09-20T17:39:48+00:00",
+  "run_id": "2026-09-20T17:39:48+00:00",
   "date": "2026-09-20",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 31,
     "displayed_findings": 31,
     "high": 0,
@@ -1827,30 +1827,7 @@
       "id": "adfbfa48c5b70763e69b"
     }
   ],
-  "new_findings": [
-    {
-      "title": "「Jev」とは “文章を書かないAI”がなぜ話題に？ 元OpenAI研究者が開発、「“スマートなif文”と考えてみて」",
-      "url": "https://www.itmedia.co.jp/aiplus/article/2609/20/2000001664/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-20T10:54:06+00:00",
-      "fetched_at": "2026-09-20T17:29:09+00:00",
-      "summary": "米スタートアップのTypeSafe AIが9月15日（現地時間）に発表したAIモデル「Jev」（ジェヴ）が、海外や日本のAIコミュニティで大きな注目を集めている。創業者であるディオゴ・アルメイダ氏の発表はX上で3700万回以上表示されている（9月20日時点）。 JevはChatGPTのように「会話するAI」ではない。その代わり、ユーザー...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry",
-        "OpenAI"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "742dacd1c516516f0ab4"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
