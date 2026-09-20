@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-20T08:59:39+00:00_
+_Generated: 2026-09-20T09:20:18+00:00_
 
 ## Status
 - status: `normal`
-- findings: `19`
+- findings: `20`
 
 ## Top Signals
 
@@ -29,32 +29,32 @@ _Generated: 2026-09-20T08:59:39+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tipl
 - summary: Time 2026-09-20 07:28:22 UTC 2026-09-20 07:28:22 UTC at epicenter Location 28.395°N 129.341°E Depth 68.83 km (42.77 mi)
 
-### 4. wkhtmltopdfの次どうするか問題2026
+### 4. M 5.3 - 64 km W of Cafayate, Argentina
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `11`
+- published: `2026-09-20T09:05:33.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiq2
+- summary: Time 2026-09-20 08:47:54 UTC 2026-09-20 08:47:54 UTC at epicenter Location 25.987°S 66.612°W Depth 10.00 km (6.21 mi)
+
+### 5. wkhtmltopdfの次どうするか問題2026
 - source: Hatena Bookmark Hotentry IT
 - score: `10`
 - published: `2026-09-19T23:57:27+00:00`
 - url: https://speakerdeck.com/willnet/wkhtmltopdf-no-tsugi-dou-suru-ka-mondai-2026
 - summary: 2026/09/17 に開催されたRailsTokyo#6 での発表資料です https://railstokyo.connpass.com/event/400709/
 
-### 5. M 4.9 - 93 km ESE of Yigo Village, Guam
+### 6. M 4.9 - 93 km ESE of Yigo Village, Guam
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-09-20T07:03:54.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tipi
 - summary: Time 2026-09-20 06:47:56 UTC 2026-09-20 06:47:56 UTC at epicenter Location 13.265°N 145.708°E Depth 10.00 km (6.21 mi)
 
-### 6. M 5.0 - 103 km W of Hihifo, Tonga
+### 7. M 5.0 - 103 km W of Hihifo, Tonga
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-09-20T05:23:42.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tip2
 - summary: Time 2026-09-20 05:07:03 UTC 2026-09-20 05:07:03 UTC at epicenter Location 15.893°S 174.764°W Depth 10.00 km (6.21 mi)
-
-### 7. M 5.3 - 108 km ESE of Yigo Village, Guam
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-09-20T03:59:07.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tinl
-- summary: Time 2026-09-20 03:43:24 UTC 2026-09-20 03:43:24 UTC at epicenter Location 13.057°N 145.759°E Depth 10.00 km (6.21 mi)
 
 END OF DOCUMENT

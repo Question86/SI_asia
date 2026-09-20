@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-20T08:59:39+00:00_
+_Generiert: 2026-09-20T09:20:18+00:00_
 
 ## Kurzlage
 
-19 neue relevante Treffer. Stärkstes Signal: „trycua/cua“ aus GitHub Trending RSS All Languages Daily (Score 20, opportunity).
+20 neue relevante Treffer. Stärkstes Signal: „trycua/cua“ aus GitHub Trending RSS All Languages Daily (Score 20, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -41,10 +41,14 @@ _Generiert: 2026-09-20T08:59:39+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Philippines
-- **GDACS: Green notification for tropical cyclone SIX-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001323)
+- **GDACS: Green notification for tropical cyclone ODALYS-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001324)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green notification for tropical cyclone SIX-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+  - Kurz: Green notification for tropical cyclone ODALYS-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+- **GDACS: Green notification for tropical cyclone FAY-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001323)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green notification for tropical cyclone FAY-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 - **GDACS: Green earthquake (Magnitude 5.5M, Depth:94.054km) in Kermadec Islands Region 18/09/2026 23:18 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1566905)
   - Quelle: GDACS
   - Zeit: ``
@@ -95,6 +99,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **M 5.3 - 64 km W of Cafayate, Argentina** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiq2)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-20T09:05:33.040+00:00`, fetched `2026-09-20T09:19:51+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Argentina (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-20 08:47:54 UTC 2026-09-20 08:47:54 UTC at epicenter Location 25.987°S 66.612°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **wkhtmltopdfの次どうするか問題2026** — Score 10, observation — [Quelle](https://speakerdeck.com/willnet/wkhtmltopdf-no-tsugi-dou-suru-ka-mondai-2026)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-19T23:57:27+00:00`, fetched `2026-09-20T04:24:36+00:00`
@@ -121,15 +134,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-20 05:07:03 UTC 2026-09-20 05:07:03 UTC at epicenter Location 15.893°S 174.764°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 5.3 - 108 km ESE of Yigo Village, Guam** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tinl)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-20T03:59:07.040+00:00`, fetched `2026-09-20T04:02:02+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-20 03:43:24 UTC 2026-09-20 03:43:24 UTC at epicenter Location 13.057°N 145.759°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **5分でJev入門（すぐ使う） - Qiita** — Score 8, observation — [Quelle](https://qiita.com/Ninagawa123/items/8ec3f5fe18c20fab1b2a)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
