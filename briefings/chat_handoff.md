@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-20T23:28:37+00:00_
+_Generated: 2026-09-20T23:40:01+00:00_
 
 ## Status
 - status: `normal`
-- findings: `36`
+- findings: `37`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-09-20T23:28:37+00:00_
 - url: https://github.com/trycua/cua
 - summary: Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation. https://cua.ai Give AI agents computers they can use. Cua provides open-source desktop automation, isolated cloud desktops, local m…
 
-### 2. coder/coder
+### 2. GitHub - minorun365/agent-builder-skills: AWSでAIエージェントのWebアプリを作るためのスキル集（Bedrock AgentCore・Strands Agents・AWS CDK・Lambda Web Adapter・Cognito・SSE）
+- source: Hatena Bookmark Hotentry IT
+- score: `16`
+- published: `2026-09-20T14:59:58+00:00`
+- url: https://github.com/minorun365/agent-builder-skills
+- summary: You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
+
+### 3. coder/coder
 - source: GitHub Trending RSS All Languages Daily
 - score: `16`
 - published: `None`
 - url: https://github.com/coder/coder
 - summary: Secure environments for developers and their agents https://coder.com Self-Hosted Cloud Development Environments and AI Agents Quickstart | Docs | Why Coder | Premium Coder is a self-hosted platform for cloud development environments and AI coding agents. Wor…
 
-### 3. M 4.7 - 54 km SE of Shima, Japan
+### 4. M 4.7 - 54 km SE of Shima, Japan
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-09-20T14:33:23.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tirt
 - summary: Time 2026-09-20 13:54:56 UTC 2026-09-20 13:54:56 UTC at epicenter Location 33.968°N 137.228°E Depth 354.93 km (220.54 mi)
-
-### 4. M 5.1 - 14 km WNW of Naze, Japan
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-09-20T07:45:57.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tipl
-- summary: Time 2026-09-20 07:28:22 UTC 2026-09-20 07:28:22 UTC at epicenter Location 28.395°N 129.341°E Depth 68.83 km (42.77 mi)
 
 ### 5. M 5.7 - south of Africa
 - source: USGS M4.5+ Earthquakes Past Hour
