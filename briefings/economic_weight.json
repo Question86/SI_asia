@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-20T02:02:00+00:00",
+  "generated_at": "2026-09-20T02:31:27+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -2407,7 +2407,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-20T01:33:12+00:00",
-      "last_seen_at": "2026-09-20T02:01:44+00:00",
+      "last_seen_at": "2026-09-20T02:31:09+00:00",
       "status": "active"
     },
     {
@@ -2577,7 +2577,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-20T01:33:12+00:00",
-      "last_seen_at": "2026-09-20T02:01:44+00:00",
+      "last_seen_at": "2026-09-20T02:31:09+00:00",
       "status": "active"
     },
     {
@@ -11163,7 +11163,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T12:58:27+00:00",
-      "last_seen_at": "2026-09-20T02:01:44+00:00",
+      "last_seen_at": "2026-09-20T02:31:09+00:00",
       "status": "active"
     },
     {
@@ -11335,6 +11335,23 @@
       "first_seen_at": "2026-09-04T02:28:18+00:00",
       "last_seen_at": "2026-09-04T04:58:50+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_5aab90b0cdfb10faa840",
+      "title": "Jevのキラーアプリ、「意味で探す grep」を作った",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-20T02:01:44+00:00",
+      "last_seen_at": "2026-09-20T02:31:09+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_5adf68bfbe2f6c29a67c",
@@ -12595,23 +12612,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_5aab90b0cdfb10faa840",
-      "title": "Jevのキラーアプリ、「意味で探す grep」を作った",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 108000.0,
-      "p50_usd": 10800000.0,
-      "p90_usd": 1080000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-20T02:01:44+00:00",
-      "last_seen_at": "2026-09-20T02:01:44+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_053f4fa216fa9d7c5edf",
       "title": "Bitcoin drops to US$76,796.54 as 91% S&P 500 correlation exposes crypto’s macro trap",
       "event_classes": [
@@ -12949,7 +12949,7 @@
       "p90_usd": 1040000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-20T00:59:16+00:00",
-      "last_seen_at": "2026-09-20T02:01:44+00:00",
+      "last_seen_at": "2026-09-20T02:31:09+00:00",
       "status": "active"
     }
   ]
