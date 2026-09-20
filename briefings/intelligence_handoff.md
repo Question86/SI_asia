@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-20T05:38:53Z_
+_Generated: 2026-09-20T05:49:25Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “ヨドバシ.com - 東プレ Topre REALF
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-19T15:38:44+00:00` / age_days `0.58`
+- Published: `2026-09-19T15:38:44+00:00` / age_days `0.59`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “ヨドバシ.com - 東プレ Topre REALF
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.0`
-- Published: `2026-09-19T10:23:21+00:00` / age_days `0.8`
+- Published: `2026-09-19T10:23:21+00:00` / age_days `0.81`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, 10, security high-signal: rce, 10
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “ヨドバシ.com - 東プレ Topre REALF
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-09-20T04:25:06+00:00` / age_days `0.05`
+- Published: `2026-09-20T04:25:06+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -51,18 +51,8 @@ Stärkste Dynamik nach Gate-Recheck: “ヨドバシ.com - 東プレ Topre REALF
 ### M 5.0 - 103 km W of Hihifo, Tonga
 
 - Band: `watch` (raw `watch`)
-- Dynamics score: `18.4`
-- Published: `2026-09-20T05:31:59+00:00` / age_days `0.0`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1, high terms: 10
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tip2
-
-### M 5.0 - 103 km W of Hihifo, Tonga
-
-- Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-20T05:23:42.040+00:00` / age_days `0.01`
+- Published: `2026-09-20T05:23:42.040+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -72,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “ヨドバシ.com - 東プレ Topre REALF
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-20T03:59:07.040+00:00` / age_days `0.07`
+- Published: `2026-09-20T03:59:07.040+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -82,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “ヨドバシ.com - 東プレ Topre REALF
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-20T01:13:40.040+00:00` / age_days `0.18`
+- Published: `2026-09-20T01:13:40.040+00:00` / age_days `0.19`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -92,17 +82,27 @@ Stärkste Dynamik nach Gate-Recheck: “ヨドバシ.com - 東プレ Topre REALF
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `17.0`
-- Published: `2026-09-20T01:05:27.040+00:00` / age_days `0.19`
+- Published: `2026-09-20T01:05:27.040+00:00` / age_days `0.2`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000timw
 
+### M 5.0 - 103 km W of Hihifo, Tonga
+
+- Band: `watch` (raw `watch`)
+- Dynamics score: `16.5`
+- Published: `2026-09-20T05:31:59+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +1, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tip2
+
 ### M 5.3 - Reykjanes Ridge
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.5`
-- Published: `2026-09-20T01:33:12+00:00` / age_days `0.17`
+- Published: `2026-09-20T01:33:12+00:00` / age_days `0.18`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “ヨドバシ.com - 東プレ Topre REALF
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `16.5`
-- Published: `2026-09-20T01:33:12+00:00` / age_days `0.17`
+- Published: `2026-09-20T01:33:12+00:00` / age_days `0.18`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “ヨドバシ.com - 東プレ Topre REALF
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-09-20T02:01:44+00:00` / age_days `0.15`
+- Published: `2026-09-20T02:01:44+00:00` / age_days `0.16`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3

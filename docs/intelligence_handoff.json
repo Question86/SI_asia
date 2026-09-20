@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-20T05:38:53Z",
+  "generated_at": "2026-09-20T05:49:25Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “ヨドバシ.com - 東プレ Topre REALFORCE RS1キーボード 左右分割式 79キー 日本語配列 ダークグレー S1UJ11 通販【全品無料配達】” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://www.yodobashi.com/product/100000001010215183/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T15:38:44+00:00",
-      "age_days": 0.58,
+      "age_days": 0.59,
       "topics": [
         "general"
       ],
@@ -42,7 +42,7 @@
       "url": "https://www.yodobashi.com/product/100000001010215183/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T10:23:21+00:00",
-      "age_days": 0.8,
+      "age_days": 0.81,
       "topics": [
         "general"
       ],
@@ -92,7 +92,7 @@
       "url": "https://speakerdeck.com/willnet/wkhtmltopdf-no-tsugi-dou-suru-ka-mondai-2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-20T04:25:06+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -115,33 +115,8 @@
       "title": "M 5.0 - 103 km W of Hihifo, Tonga",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tip2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-20T05:31:59+00:00",
-      "age_days": 0.0,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 18.4,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1",
-        "high terms: 10"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 5.0 - 103 km W of Hihifo, Tonga",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tip2",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-20T05:23:42.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
@@ -166,7 +141,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tinl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-20T03:59:07.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "disaster"
       ],
@@ -191,7 +166,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000timy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-20T01:13:40.040+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -216,7 +191,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000timw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-20T01:05:27.040+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -237,11 +212,36 @@
       "summary": "Time 2026-09-20 00:33:21 UTC 2026-09-20 00:33:21 UTC at epicenter Location 15.961°S 174.597°W Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "M 5.0 - 103 km W of Hihifo, Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tip2",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-20T05:31:59+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1",
+        "high terms: 10"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 5.3 - Reykjanes Ridge",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000timy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-20T01:33:12+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -265,7 +265,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000timw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-20T01:33:12+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -289,7 +289,7 @@
       "url": "https://zenn.dev/uehaj/articles/jev-semgrep-grep-by-meaning",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-20T02:01:44+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
