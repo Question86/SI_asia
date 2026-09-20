@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-20T05:05:32+00:00_
+_Generiert: 2026-09-20T05:22:14+00:00_
 
 ## Kurzlage
 
-9 neue relevante Treffer. Stärkstes Signal: „wkhtmltopdfの次どうするか問題2026“ aus Hatena Bookmark Hotentry IT (Score 10, observation).
+10 neue relevante Treffer. Stärkstes Signal: „wkhtmltopdfの次どうするか問題2026“ aus Hatena Bookmark Hotentry IT (Score 10, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -106,14 +106,14 @@ Keine neuen mittleren Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: C# Kaigi 2026 https://csharpkaigi.net/
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Jevのキラーアプリ、「意味で探す grep」を作った** — Score 5, observation — [Quelle](https://zenn.dev/uehaj/articles/jev-semgrep-grep-by-meaning)
+- **jsonize で JSON を Unix パイプラインの共通言語にする** — Score 5, observation — [Quelle](https://debimate.jp/post/ja/2026-09-16-jsonize%E3%81%A7json%E3%82%92unix%E3%83%91%E3%82%A4%E3%83%97%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%AE%E5%85%B1%E9%80%9A%E8%A8%80%E8%AA%9E%E3%81%AB%E3%81%99%E3%82%8B/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-19T13:14:02+00:00`, fetched `2026-09-20T02:01:13+00:00`
+  - Zeit: published `2026-09-20T02:53:17+00:00`, fetched `2026-09-20T05:21:44+00:00`
   - Treffer: Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 本記事は筆者個人の見解であり、所属する組織の公式見解ではありません。 また、ここで使う TypeSafe の System One API は公開されて間もないものです。この領域は仕様が頻繁に、かつ大きく変わります。本文の記述は執筆時点(2026年9月, @uehaj/semgrep 0.2.0 / Node v23.10.0 で確認)のものなので、最新の挙動は公式ド...
+  - Kurz: 前書き：JSON, JSON, JSON…#最近、自作コマンドには必ず JSON 出力機能を追加しています。JSON はソフトウェアにとって扱いやすいフォーマットなので、出力を別のツールから再利用しやすくなります。 当然ですが、世の中の全てのコマンドに JSON 出力機能が搭載されているわけではありません。開発者たちに「JSON 出力を...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
