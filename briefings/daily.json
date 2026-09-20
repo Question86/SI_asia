@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-20T13:47:03+00:00",
-  "today_file_total": 27,
+  "generated_at": "2026-09-20T13:54:36+00:00",
+  "today_file_total": 28,
   "current_clusters": [
     {
       "key": "github_repo:trycua/cua",
@@ -171,6 +171,30 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
+      "network_score": 12.2,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:togetter.com",
+      "title": "大分県の別府温泉では約100℃の源泉を竹で細かく分散して通すことで、自然にお湯を冷ます技術が発展していた「昔の人の知恵だなぁ…」",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://togetter.com/li/2748029",
+        "https://togetter.com/li/2747784"
+      ],
+      "finding_count": 2,
+      "max_score": 5,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
       "network_score": 12.2,
       "hot": false,
       "watchgraph_modules": [],
@@ -454,29 +478,6 @@
       ],
       "urls": [
         "https://note.com/kantahayashiai/n/n4c54eed30787"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 7.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:jsonize-json-unix",
-      "title": "jsonize で JSON を Unix パイプラインの共通言語にする",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://debimate.jp/post/ja/2026-09-16-jsonize%E3%81%A7json%E3%82%92unix%E3%83%91%E3%82%A4%E3%83%97%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%AE%E5%85%B1%E9%80%9A%E8%A8%80%E8%AA%9E%E3%81%AB%E3%81%99%E3%82%8B/"
       ],
       "finding_count": 1,
       "max_score": 5,
