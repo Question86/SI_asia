@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-09-20T06:20:56Z",
+  "generated_at": "2026-09-20T06:47:23Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -23,7 +23,17 @@
   ],
   "current_dynamic_memory_candidates": [
     {
+      "title": "trycua/cua",
+      "band": "extreme",
+      "reason": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil."
+    },
+    {
       "title": "ヨドバシ.com - 東プレ Topre REALFORCE RS1キーボード 左右分割式 79キー 日本語配列 ダークグレー S1UJ11 通販【全品無料配達】",
+      "band": "krass",
+      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
+    },
+    {
+      "title": "coder/coder",
       "band": "krass",
       "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
     },
@@ -33,7 +43,22 @@
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     },
     {
-      "title": "M 5.3 - 108 km ESE of Yigo Village, Guam",
+      "title": "Open-Dev-Society/OpenStock",
+      "band": "strong",
+      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
+    },
+    {
+      "title": "trycua/cua",
+      "band": "strong",
+      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
+    },
+    {
+      "title": "coder/coder",
+      "band": "strong",
+      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
+    },
+    {
+      "title": "M 5.0 - 103 km W of Hihifo, Tonga",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     }

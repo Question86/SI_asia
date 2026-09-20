@@ -1,29 +1,59 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-20T06:20:56Z",
+  "generated_at": "2026-09-20T06:47:23Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 22,
+    "dynamics": 30,
     "bands": {
-      "krass": 1,
-      "strong": 2,
-      "watch": 10,
-      "quiet": 9
+      "extreme": 1,
+      "krass": 2,
+      "strong": 6,
+      "watch": 9,
+      "quiet": 12
     },
     "bands_after_gate_recheck": {
-      "strong": 3,
-      "watch": 10,
-      "quiet": 9
+      "strong": 9,
+      "watch": 9,
+      "quiet": 12
     }
   },
   "top_dynamics": [
+    {
+      "title": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-09-20T06:43:44+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: local",
+        "high terms: rce",
+        "security high-signal: rce",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "extreme gate recheck: insufficient independent/current evidence"
+      ],
+      "summary": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation. https://cua.ai Give AI agents computers they can use. Cua provides open-source desktop automation, isolated cloud desktops, local macOS VMs, specialist decision models, and benchmarks for eva…"
+    },
     {
       "title": "ヨドバシ.com - 東プレ Topre REALFORCE RS1キーボード 左右分割式 79キー 日本語配列 ダークグレー S1UJ11 通販【全品無料配達】",
       "url": "https://www.yodobashi.com/product/100000001010215183/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T15:38:44+00:00",
-      "age_days": 0.61,
+      "age_days": 0.63,
       "topics": [
         "general"
       ],
@@ -46,11 +76,89 @@
       "summary": ""
     },
     {
+      "title": "coder/coder",
+      "url": "https://github.com/coder/coder",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-09-20T06:43:44+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: code",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Secure environments for developers and their agents https://coder.com Self-Hosted Cloud Development Environments and AI Agents Quickstart | Docs | Why Coder | Premium Coder is a self-hosted platform for cloud development environments and AI coding agents. Workspaces are defined with Terraform, connected through a secu…"
+    },
+    {
+      "title": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-09-20T06:44:20+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "coder/coder",
+      "url": "https://github.com/coder/coder",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-09-20T06:44:20+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "high terms: code",
+        "krass gate: single-source non-official/non-identity signal capped"
+      ],
+      "summary": ""
+    },
+    {
       "title": "ヨドバシ.com - 東プレ Topre REALFORCE RS1キーボード 左右分割式 79キー 日本語配列 ダークグレー S1UJ11 通販【全品無料配達】",
       "url": "https://www.yodobashi.com/product/100000001010215183/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T10:23:21+00:00",
-      "age_days": 0.83,
+      "age_days": 0.85,
       "topics": [
         "general"
       ],
@@ -71,11 +179,62 @@
       "summary": "東プレ Topre REALFORCE RS1キーボード 左右分割式 79キー 日本語配列 ダークグレー S1UJ11 ￥55,000550 ゴールドポイント（1％還元）ただいま予約受付中！発売日にお届け日本全国配達料金無料"
     },
     {
+      "title": "Open-Dev-Society/OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-09-20T06:43:44+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai",
+        "macro"
+      ],
+      "dynamics_score": 22.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce"
+      ],
+      "summary": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free. https://openstock-ods.vercel.app New from Open Dev Society: kitbash . Before you build, find out which parts already…"
+    },
+    {
+      "title": "M 5.0 - 103 km W of Hihifo, Tonga",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tip2",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-20T05:31:59+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 21.5,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "high terms: 10"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 5.3 - 108 km ESE of Yigo Village, Guam",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tinl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-20T04:02:34+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -100,7 +259,7 @@
       "url": "https://speakerdeck.com/willnet/wkhtmltopdf-no-tsugi-dou-suru-ka-mondai-2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-20T04:25:06+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -123,33 +282,8 @@
       "title": "M 5.0 - 103 km W of Hihifo, Tonga",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tip2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-20T05:31:59+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 19.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2",
-        "high terms: 10"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 5.0 - 103 km W of Hihifo, Tonga",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tip2",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-20T05:23:42.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "disaster"
       ],
@@ -174,7 +308,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tinl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-20T03:59:07.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -199,7 +333,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000timy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-20T01:13:40.040+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "disaster"
       ],
@@ -224,7 +358,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000timw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-20T01:05:27.040+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "disaster"
       ],
@@ -249,7 +383,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000timy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-20T01:33:12+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -273,7 +407,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000timw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-20T01:33:12+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -297,7 +431,7 @@
       "url": "https://debimate.jp/post/ja/2026-09-16-jsonize%E3%81%A7json%E3%82%92unix%E3%83%91%E3%82%A4%E3%83%97%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%AE%E5%85%B1%E9%80%9A%E8%A8%80%E8%AA%9E%E3%81%AB%E3%81%99%E3%82%8B/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-20T05:22:17+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -321,7 +455,7 @@
       "url": "https://zenn.dev/uehaj/articles/jev-semgrep-grep-by-meaning",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-20T02:01:44+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "general"
       ],
@@ -341,11 +475,59 @@
       "summary": ""
     },
     {
+      "title": "iPhone 18 Proに保護フィルムを貼るとFace ID認証できない不具合 原因は“赤外線カメラの位置”",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2609/19/news026.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-20T06:44:20+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 11.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Open-Dev-Society/OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-09-20T06:44:20+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 11.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Jevのキラーアプリ、「意味で探す grep」を作った",
       "url": "https://zenn.dev/uehaj/articles/jev-semgrep-grep-by-meaning",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T13:14:02+00:00",
-      "age_days": 0.71,
+      "age_days": 0.73,
       "topics": [
         "general"
       ],
@@ -369,7 +551,7 @@
       "url": "https://speakerdeck.com/neuecc/c-no-genzaichi-shinka-no-rekishi-to-ai-jidai-no-net-everywhere",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-20T02:56:01+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -395,7 +577,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tinf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-20T03:11:04+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -421,7 +603,7 @@
       "url": "https://debimate.jp/post/ja/2026-09-16-jsonize%E3%81%A7json%E3%82%92unix%E3%83%91%E3%82%A4%E3%83%97%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%AE%E5%85%B1%E9%80%9A%E8%A8%80%E8%AA%9E%E3%81%AB%E3%81%99%E3%82%8B/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-20T02:53:17+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -441,11 +623,35 @@
       "summary": "前書き：JSON, JSON, JSON…#最近、自作コマンドには必ず JSON 出力機能を追加しています。JSON はソフトウェアにとって扱いやすいフォーマットなので、出力を別のツールから再利用しやすくなります。 当然ですが、世の中の全てのコマンドに JSON 出力機能が搭載されているわけではありません。開発者たちに「JSON 出力を..."
     },
     {
+      "title": "iPhone 18 Proに保護フィルムを貼るとFace ID認証できない不具合 原因は“赤外線カメラの位置”",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2609/19/news026.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-19T10:03:23+00:00",
+      "age_days": 0.86,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "9月18日に発売された「iPhone 18 Pro」と「iPhone 18 Pro Max」にて、保護フィルムの一部製品を貼ると、Face IDによる顔認証が正常に動作しない場合があるという。複数のアクセサリーメーカーが告知している。 不具合対象のフィルムについて、各社は以下の通り案内している。 トリニティ：「for iPhone 画面保護フィルム..."
+    },
+    {
       "title": "M 4.5 - 54 km ENE of Sainte-Marie, Martinique",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tinf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-20T03:00:16.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "disaster"
@@ -472,7 +678,7 @@
       "url": "https://speakerdeck.com/willnet/wkhtmltopdf-no-tsugi-dou-suru-ka-mondai-2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T23:57:27+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -497,7 +703,7 @@
       "url": "https://qiita.com/kf_webdev/items/cbd1d7bb724676a3b686",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 93.18,
+      "age_days": 93.2,
       "topics": [
         "ai"
       ],
@@ -508,12 +714,12 @@
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.12,
+      "baseline_z_hint": 0.1,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 0.12",
+        "baseline z_hint 0.10",
         "single-source AI hype brake -8.0",
         "aging penalty -8.0 for 93.2d old signal",
         "single-source AI cap enforced after phrase recheck"
@@ -525,7 +731,7 @@
       "url": "https://speakerdeck.com/neuecc/c-no-genzaichi-shinka-no-rekishi-to-ai-jidai-no-net-everywhere",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T05:47:30+00:00",
-      "age_days": 1.02,
+      "age_days": 1.04,
       "topics": [
         "ai"
       ],
@@ -550,7 +756,7 @@
       "url": "https://qiita.com/kf_webdev/items/cbd1d7bb724676a3b686",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T13:07:19+00:00",
-      "age_days": 0.72,
+      "age_days": 0.74,
       "topics": [
         "ai"
       ],
@@ -572,5 +778,5 @@
       "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? はじめに 現在、Webエンジニアを目指して学習を進める中で、AI駆動開発についても学んでいます。今回は、Happiness Chainのカリキュラムで生成AIセキュリティについて学ぶ機会があ..."
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “ヨドバシ.com - 東プレ Topre REALFORCE RS1キーボード 左右分割式 79キー 日本語配列 ダークグレー S1UJ11 通販【全品無料配達】” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “trycua/cua” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
 }
