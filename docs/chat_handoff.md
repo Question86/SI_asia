@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-20T17:21:17+00:00_
+_Generated: 2026-09-20T17:29:39+00:00_
 
 ## Status
 - status: `normal`
-- findings: `30`
+- findings: `31`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-09-20T17:21:17+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiqc
 - summary: PAGER - GREEN ShakeMap - V DYFI? - IV Time 2026-09-20 09:17:35 UTC 2026-09-20 09:17:35 UTC at epicenter Location 5.902°S 146.092°E Depth 104.33 km (64.83 mi)
 
-### 7. M 5.3 - 64 km W of Cafayate, Argentina
+### 7. 「Jev」とは “文章を書かないAI”がなぜ話題に？ 元OpenAI研究者が開発、「“スマートなif文”と考えてみて」
+- source: Hatena Bookmark Hotentry IT
+- score: `12`
+- published: `2026-09-20T10:54:06+00:00`
+- url: https://www.itmedia.co.jp/aiplus/article/2609/20/2000001664/
+- summary: 米スタートアップのTypeSafe AIが9月15日（現地時間）に発表したAIモデル「Jev」（ジェヴ）が、海外や日本のAIコミュニティで大きな注目を集めている。創業者であるディオゴ・アルメイダ氏の発表はX上で3700万回以上表示されている（9月20日時点）。 JevはChatGPTのように「会話するAI」ではない。その代わり、ユーザー...
+
+### 8. M 5.3 - 64 km W of Cafayate, Argentina
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-09-20T09:05:33.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiq2
 - summary: Time 2026-09-20 08:47:54 UTC 2026-09-20 08:47:54 UTC at epicenter Location 25.987°S 66.612°W Depth 10.00 km (6.21 mi)
-
-### 8. AIバブルはこうして終わる 金利高と収穫逓減「死の交差」 - 日本経済新聞
-- source: Hatena Bookmark Hotentry IT
-- score: `10`
-- published: `2026-09-20T06:15:13+00:00`
-- url: https://www.nikkei.com/article/DGXZQOUB164ZN0W6A910C2000000/
-- summary: 米国のアンソロピックやオープンAIが人工知能（AI）開発の減速を呼びかけるのは暴走への歯止めだけが理由ではないはずだ。いずれAIが資本を食い潰してしまうディストピアが脳裏をよぎるからだろう。AI産業は難問に直面している。追加投資に比べ追加収益はそれほど大きくならないという「収穫逓減の法則」だ。先人が、農...
 
 END OF DOCUMENT

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-20T17:21:17+00:00_
+_Generiert: 2026-09-20T17:29:39+00:00_
 
 ## Kurzlage
 
-30 neue relevante Treffer. Stärkstes Signal: „trycua/cua“ aus GitHub Trending RSS All Languages Daily (Score 20, opportunity).
+31 neue relevante Treffer. Stärkstes Signal: „trycua/cua“ aus GitHub Trending RSS All Languages Daily (Score 20, opportunity).
 
 ## Priorität Hoch
 
@@ -69,6 +69,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); PAGER (+2.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: PAGER - GREEN ShakeMap - V DYFI? - IV Time 2026-09-20 09:17:35 UTC 2026-09-20 09:17:35 UTC at epicenter Location 5.902°S 146.092°E Depth 104.33 km (64.83 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **「Jev」とは “文章を書かないAI”がなぜ話題に？ 元OpenAI研究者が開発、「“スマートなif文”と考えてみて」** — Score 12, observation — [Quelle](https://www.itmedia.co.jp/aiplus/article/2609/20/2000001664/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-20T10:54:06+00:00`, fetched `2026-09-20T17:29:09+00:00`
+  - Treffer: Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 米スタートアップのTypeSafe AIが9月15日（現地時間）に発表したAIモデル「Jev」（ジェヴ）が、海外や日本のAIコミュニティで大きな注目を集めている。創業者であるディオゴ・アルメイダ氏の発表はX上で3700万回以上表示されている（9月20日時点）。 JevはChatGPTのように「会話するAI」ではない。その代わり、ユーザー...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.3 - 64 km W of Cafayate, Argentina** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiq2)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-20T09:05:33.040+00:00`, fetched `2026-09-20T09:19:51+00:00`
@@ -95,15 +104,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Tokyo (+2.0)
   - Kurz: 2026/09/17 に開催されたRailsTokyo#6 での発表資料です https://railstokyo.connpass.com/event/400709/
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **GitHub - dmtrKovalenko/bashka: Stop running unverified bash scripts to install software! curl <url> | bashKA for static verification of bash script safty and managing installed software** — Score 8, observation — [Quelle](https://github.com/dmtrKovalenko/bashka)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-20T07:02:16+00:00`, fetched `2026-09-20T14:18:56+00:00`
-  - Treffer: GitHub, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)
-  - Kurz: You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Open-Dev-Society/OpenStock** — Score 5, observation — [Quelle](https://github.com/Open-Dev-Society/OpenStock)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
