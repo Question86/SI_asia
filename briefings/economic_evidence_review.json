@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-09-20T11:47:45+00:00",
+  "generated_at": "2026-09-20T11:55:14+00:00",
   "fx_as_of": null,
-  "candidate_count": 880,
+  "candidate_count": 881,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 880
+    "pending": 881
   },
   "coverage_warning": null,
   "candidates": [
@@ -11453,6 +11453,27 @@
       "snippet": "今話題のAI「Jev」って何？ 宇宙最速で学ぶ会 minorun365 PRO 26 14k Featured See All Featured The AI Search Optimization Roadmap by Aleyda Solis aleyda 1 6.2k Data-driven link building: lessons from a $708K investment (BrightonSEO talk) szymonslowik 1 1.3k Exploring anti-patterns in Rails aemeredith 4 510 Agile Leadership in an Agile Organization kimpetersen PRO 0 230 Save Time (by C",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://speakerdeck.com/nakanao/ai-ni-makaseta-hinshitsu-ha-dare-ga-mitateru-no-ka-ai-jidai-no-tesuto-manejimento"
+    },
+    {
+      "amount_native": 708000.0,
+      "amount_usd": 708000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.55,
+      "candidate_id": "cand_be83ff8427cc7acd8aa6",
+      "component_suggestion": "capital_allocation",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_6995f7acb482eec5e60b",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-20T11:55:10+00:00",
+      "overlap_group_suggestion": "evt_6995f7acb482eec5e60b:capital_allocation:97e54ae258a6",
+      "review_status": "pending",
+      "snippet": "atured See All Featured <Decoding/> the Language of Devs - We Love SEO 2024 nikkihalliwell 1 330 Embracing the Ebb and Flow colly 88 5.2k Data-driven link building: lessons from a $708K investment (BrightonSEO talk) szymonslowik 1 1.3k We Analyzed 250 Million AI Search Results: Here's What I Found joshbly 1 1.9k Let's Do A Bunch of Simple Stuff to Make Websites F",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://speakerdeck.com/neuecc/c-no-genzaichi-shinka-no-rekishi-to-ai-jidai-no-net-everywhere",
+      "component_confidence": 0.55,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 200000.0,
