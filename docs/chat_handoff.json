@@ -1,97 +1,27 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-19T23:58:11+00:00",
+  "generated_at": "2026-09-20T00:59:14+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 34,
-    "displayed_findings": 34,
+    "today_file_total": 1,
+    "displayed_findings": 1,
     "high": 0,
-    "medium": 7,
-    "observe": 27
+    "medium": 0,
+    "observe": 1
   },
   "source_errors_count": 0,
   "top_signals": [
     {
-      "title": "Codexを使うなら、config.tomlとAGENTS.mdを押さえておきたい - じゃあ、おうちで学べる",
+      "title": "ヨドバシ.com - 東プレ Topre REALFORCE RS1キーボード 左右分割式 79キー 日本語配列 ダークグレー S1UJ11 通販【全品無料配達】",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-19T02:40:03+00:00",
-      "relevance_score": 23,
-      "url": "https://syu-m-5151.hatenablog.com/entry/2026/09/19/112330",
-      "summary": "はじめに Claude Codeでは、settings.jsonとCLAUDE.mdを分けて設定する話を書きました。Codexにも、実行する環境を設定するファイルと、仕事の進め方を伝えるファイルがあります。config.toml と AGENTS.md です。 さらにClaude Codeの公式リポジトリにも、AGENTS.mdを読み込むagents-md modが追加されました。CodexとCl...",
-      "section": "medium"
-    },
-    {
-      "title": "GitHub - tamaratran/fast-jev-compaction: Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stal…",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-18T16:33:31+00:00",
-      "relevance_score": 20,
-      "url": "https://github.com/tamaratran/fast-jev-compaction",
-      "summary": "Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim. Also usable as an npm library. Most context compaction a…",
-      "section": "medium"
-    },
-    {
-      "title": "M 4.6 - 25 km NW of Ushibukamachi, Japan",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-09-19T12:32:50.117+00:00",
-      "relevance_score": 15,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tijd",
-      "summary": "DYFI? - III Time 2026-09-19 12:07:12 UTC 2026-09-19 12:07:12 UTC at epicenter Location 32.380°N 129.857°E Depth 10.00 km (6.21 mi)",
-      "section": "medium"
-    },
-    {
-      "title": "M 4.8 - 210 km W of Abepura, Indonesia",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-09-19T08:02:59.040+00:00",
-      "relevance_score": 15,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiib",
-      "summary": "Time 2026-09-19 07:44:25 UTC 2026-09-19 07:44:25 UTC at epicenter Location 2.587°S 138.738°E Depth 10.00 km (6.21 mi)",
-      "section": "medium"
-    },
-    {
-      "title": "アルトマン氏、OpenAI内部モデルがトップ数学者を超越と明かす 学界に未曾有の焦燥感 — BigGo ファイナンス",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-18T22:34:05+00:00",
-      "relevance_score": 12,
-      "url": "https://finance.biggo.jp/news/6c25d38e-2d47-4da2-91cc-b30b32792794",
-      "summary": "注：7つの難題の賞金は各100万ドル（約1.6億円）で、2000年5月にパリで発表された。ポアンカレ予想はこれまでで唯一正式認定された解答であり、グリゴリー・ペレルマンが2003年に証明を発表、2010年に賞金授与が決定したが辞退した。 市場関係者の情報によれば、先週「ナビエ・ストークス方程式」が突破されたとの報道は...",
-      "section": "observe"
-    },
-    {
-      "title": "Jev 図解ガイド",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-17T13:45:28+00:00",
-      "relevance_score": 12,
-      "url": "https://jev-guide.take-otani.workers.dev/",
-      "summary": "TypeSafe / System One model 文章ではなく、 判断を返す AI。 Jev（ジェヴ）は、自然言語を理解したうえで「どれか」「どの程度か」「Yes か No か」を型のある値と確率で返すモデルです。テキストを生成しないので、パースもリトライも不要。返ってきた値は、そのまま if 文・並べ替え・しきい値判定に使えます。 応答...",
-      "section": "observe"
-    },
-    {
-      "title": "M 4.5 - 273 km NNW of Dêqên, China",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-09-19T12:39:10.040+00:00",
-      "relevance_score": 11,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tijf",
-      "summary": "Time 2026-09-19 12:19:55 UTC 2026-09-19 12:19:55 UTC at epicenter Location 32.071°N 89.224°E Depth 10.00 km (6.21 mi)",
-      "section": "observe"
-    },
-    {
-      "title": "M 4.9 - 117 km NW of Barranca, Peru",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-09-19T07:29:12.040+00:00",
-      "relevance_score": 11,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tii3",
-      "summary": "Time 2026-09-19 07:12:27 UTC 2026-09-19 07:12:27 UTC at epicenter Location 4.013°S 77.349°W Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-09-19T10:23:21+00:00",
+      "relevance_score": 5,
+      "url": "https://www.yodobashi.com/product/100000001010215183/",
+      "summary": "東プレ Topre REALFORCE RS1キーボード 左右分割式 79キー 日本語配列 ダークグレー S1UJ11 ￥55,000550 ゴールドポイント（1％還元）ただいま予約受付中！発売日にお届け日本全国配達料金無料",
       "section": "observe"
     }
   ],
@@ -100,143 +30,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “東プレから分割キーボード「REALFORCE RS1」登場｜79キー日本語配列・有線接続 - TALPKEYBOARD BLOG” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "東プレから分割キーボード「REALFORCE RS1」登場｜79キー日本語配列・有線接続 - TALPKEYBOARD BLOG",
-        "url": "https://www.talpkeyboard.com/entry/topre-realforcers1-keyboard-info",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-19T15:38:44+00:00",
-        "age_days": 0.38,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "high terms: rce",
-          "security high-signal: rce"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Codexを使うなら、config.tomlとAGENTS.mdを押さえておきたい - じゃあ、おうちで学べる",
-        "url": "https://syu-m-5151.hatenablog.com/entry/2026/09/19/112330",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-17T12:27:55+00:00",
-        "age_days": 2.51,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 24.9,
-        "raw_band": "extreme",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "high terms: rce, code",
-          "security high-signal: rce, code",
-          "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "東プレから分割キーボード「REALFORCE RS1」登場｜79キー日本語配列・有線接続 - TALPKEYBOARD BLOG",
-        "url": "https://www.talpkeyboard.com/entry/topre-realforcers1-keyboard-info",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-19T09:01:46+00:00",
-        "age_days": 0.65,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 22.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce, 10",
-          "security high-signal: rce, 10"
-        ],
-        "summary": "https://www.yodobashi.com/product/100000001010215183/ 東プレのREALFORCEシリーズから、左右分割型のキーボード「REALFORCE RS1」が登場しています。 2026年9月19日時点では、ヨドバシ.comとビックカメラ.comに商品ページが掲載されています。REALFORCE公式サイトではまだ大きく案内されていないようですが、量販店側..."
-      },
-      {
-        "title": "GitHub - tamaratran/fast-jev-compaction: Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verba…",
-        "url": "https://github.com/tamaratran/fast-jev-compaction",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-19T04:24:55+00:00",
-        "age_days": 0.84,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +3",
-          "high terms: code",
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "M 4.6 - 25 km NW of Ushibukamachi, Japan",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tijd",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-19T12:32:50.117+00:00",
-        "age_days": 0.51,
-        "topics": [
-          "disaster"
-        ],
-        "dynamics_score": 23.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "early terms: earthquake",
-          "high terms: 10, 9.8"
-        ],
-        "summary": "DYFI? - III Time 2026-09-19 12:07:12 UTC 2026-09-19 12:07:12 UTC at epicenter Location 32.380°N 129.857°E Depth 10.00 km (6.21 mi)"
-      }
-    ]
-  }
+  ]
 }
