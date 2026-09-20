@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-20T12:04:14+00:00",
-  "today_file_total": 24,
+  "generated_at": "2026-09-20T12:30:09+00:00",
+  "today_file_total": 25,
   "current_clusters": [
     {
       "key": "github_repo:trycua/cua",
@@ -371,6 +371,29 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
+      "key": "domain:tarosite.net",
+      "title": "iPhone Duoは重すぎる？ Pro Maxを1年使った私が気になったのは、重さよりTouch ID – @tarosite",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://tarosite.net/tech/2026/09/20/iphone-duo-weight-and-touch-id/"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "domain:note.com",
       "title": "Jevはサイコロを振らない｜「較正された確率」の意外な落とし穴｜林寛太 Kanta Hayashi",
       "sources": [
@@ -450,29 +473,6 @@
       ],
       "urls": [
         "https://togetter.com/li/2747784"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 7.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:jev-grep",
-      "title": "Jevのキラーアプリ、「意味で探す grep」を作った",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://zenn.dev/uehaj/articles/jev-semgrep-grep-by-meaning"
       ],
       "finding_count": 1,
       "max_score": 5,
