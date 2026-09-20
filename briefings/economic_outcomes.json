@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-20T23:40:27+00:00",
+  "generated_at": "2026-09-20T23:47:40+00:00",
   "events": [
     {
       "event_id": "evt_010865faf79d8c1f952b",
@@ -4741,7 +4741,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_8e6601de88b8e0ae4672",
@@ -6095,6 +6095,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_b55446b315fb3610ca43",
+      "title": "M 5.0 - 16 km WSW of Shikotan, Russia",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_b606e6c8f1b42a79721d",
@@ -8409,12 +8420,12 @@
     {
       "event_id": "evt_f8de1a6e0e17c13ce568",
       "title": "GitHub - minorun365/agent-builder-skills: AWSでAIエージェントのWebアプリを作るためのスキル集（Bedrock AgentCore・Strands Agents・AWS CDK・Lambda Web Adapter・Cognito・SSE）",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
