@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-20T07:14:08Z",
+  "generated_at": "2026-09-20T07:49:25Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 30,
+    "dynamics": 37,
     "bands": {
-      "extreme": 2,
+      "extreme": 3,
       "krass": 2,
       "strong": 5,
-      "watch": 9,
+      "watch": 15,
       "quiet": 12
     },
     "bands_after_gate_recheck": {
-      "strong": 9,
-      "watch": 9,
+      "strong": 10,
+      "watch": 15,
       "quiet": 12
     }
   },
@@ -24,7 +24,7 @@
       "url": "https://github.com/trycua/cua",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-20T06:43:44+00:00",
-      "age_days": 0.02,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -53,7 +53,7 @@
       "url": "https://www.yodobashi.com/product/100000001010215183/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T15:38:44+00:00",
-      "age_days": 0.65,
+      "age_days": 0.67,
       "topics": [
         "general"
       ],
@@ -80,7 +80,7 @@
       "url": "https://github.com/coder/coder",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-20T06:44:20+00:00",
-      "age_days": 0.02,
+      "age_days": 0.05,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "extreme",
@@ -88,13 +88,38 @@
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +1",
+        "momentum delta +3",
         "high terms: code",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "extreme gate recheck: insufficient independent/current evidence"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-09-20T06:44:20+00:00",
+      "age_days": 0.05,
+      "topics": [],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
         "AXI0M/User-Yps identity hit",
         "identity recheck: no AXI0M/User-Yps phrase hit",
         "extreme gate recheck: insufficient independent/current evidence"
@@ -106,7 +131,7 @@
       "url": "https://github.com/coder/coder",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-20T06:43:44+00:00",
-      "age_days": 0.02,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -129,11 +154,11 @@
       "summary": "Secure environments for developers and their agents https://coder.com Self-Hosted Cloud Development Environments and AI Agents Quickstart | Docs | Why Coder | Premium Coder is a self-hosted platform for cloud development environments and AI coding agents. Workspaces are defined with Terraform, connected through a secu…"
     },
     {
-      "title": "trycua/cua",
-      "url": "https://github.com/trycua/cua",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-09-20T06:44:20+00:00",
-      "age_days": 0.02,
+      "title": "M 5.1 - 14 km WNW of Naze, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tipl",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-12T20:54:37+00:00",
+      "age_days": 7.45,
       "topics": [
         "general"
       ],
@@ -143,12 +168,13 @@
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
+      "momentum_delta": 3,
+      "baseline_z_hint": 2.68,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +1",
+        "momentum delta +3",
+        "baseline z_hint 2.68",
         "krass gate: single-source non-official/non-identity signal capped"
       ],
       "summary": ""
@@ -158,7 +184,7 @@
       "url": "https://www.yodobashi.com/product/100000001010215183/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T10:23:21+00:00",
-      "age_days": 0.87,
+      "age_days": 0.89,
       "topics": [
         "general"
       ],
@@ -183,7 +209,7 @@
       "url": "https://github.com/Open-Dev-Society/OpenStock",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-20T06:43:44+00:00",
-      "age_days": 0.02,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "macro"
@@ -209,7 +235,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tip2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-20T05:31:59+00:00",
-      "age_days": 0.07,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -234,7 +260,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tinl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-20T04:02:34+00:00",
-      "age_days": 0.13,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -259,7 +285,7 @@
       "url": "https://speakerdeck.com/willnet/wkhtmltopdf-no-tsugi-dou-suru-ka-mondai-2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-20T04:25:06+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -279,11 +305,60 @@
       "summary": ""
     },
     {
+      "title": "M 5.1 - 14 km WNW of Naze, Japan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tipl",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-20T07:45:57.040+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 18.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake"
+      ],
+      "summary": "Time 2026-09-20 07:28:22 UTC 2026-09-20 07:28:22 UTC at epicenter Location 28.395°N 129.341°E Depth 68.83 km (42.77 mi)"
+    },
+    {
+      "title": "M 4.9 - 93 km ESE of Yigo Village, Guam",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tipi",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-20T07:03:54.040+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 17.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-09-20 06:47:56 UTC 2026-09-20 06:47:56 UTC at epicenter Location 13.265°N 145.708°E Depth 10.00 km (6.21 mi)"
+    },
+    {
       "title": "M 5.0 - 103 km W of Hihifo, Tonga",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tip2",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-20T05:23:42.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -308,7 +383,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tinl",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-20T03:59:07.040+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "disaster"
       ],
@@ -333,7 +408,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000timy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-20T01:13:40.040+00:00",
-      "age_days": 0.25,
+      "age_days": 0.27,
       "topics": [
         "disaster"
       ],
@@ -358,7 +433,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000timw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-20T01:05:27.040+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "disaster"
       ],
@@ -383,7 +458,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000timy",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-20T01:33:12+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -407,7 +482,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000timw",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-20T01:33:12+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "general"
       ],
@@ -427,11 +502,35 @@
       "summary": ""
     },
     {
+      "title": "M 4.9 - 93 km ESE of Yigo Village, Guam",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tipi",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-20T07:29:06+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2"
+      ],
+      "summary": ""
+    },
+    {
       "title": "jsonize で JSON を Unix パイプラインの共通言語にする",
       "url": "https://debimate.jp/post/ja/2026-09-16-jsonize%E3%81%A7json%E3%82%92unix%E3%83%91%E3%82%A4%E3%83%97%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%AE%E5%85%B1%E9%80%9A%E8%A8%80%E8%AA%9E%E3%81%AB%E3%81%99%E3%82%8B/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-20T05:22:17+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -455,7 +554,7 @@
       "url": "https://zenn.dev/uehaj/articles/jev-semgrep-grep-by-meaning",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-20T02:01:44+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "general"
       ],
@@ -475,11 +574,111 @@
       "summary": ""
     },
     {
+      "title": "iPhone 18 Proに保護フィルムを貼るとFace ID認証できない不具合 原因は“赤外線カメラの位置”",
+      "url": "https://www.itmedia.co.jp/mobile/articles/2609/19/news026.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-20T06:44:20+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Open-Dev-Society/OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-09-20T06:44:20+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "5分でJev入門（すぐ使う） - Qiita",
+      "url": "https://qiita.com/Ninagawa123/items/8ec3f5fe18c20fab1b2a",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T01:58:32+00:00",
+      "age_days": 93.24,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 13.96,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 4.51,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 4.51",
+        "aging penalty -8.0 for 93.2d old signal"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "「DMM GAMESさんのブースのキャンギャル、ほぼ全裸でしたよね？？？」このTGSの感想に令和だというのに画像も無しにスレ立てを咎める麻呂が乱立…なお件の美女の画像も",
+      "url": "https://togetter.com/li/2747784",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T12:31:48+00:00",
+      "age_days": 92.8,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 11.69,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 2.9,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 2.90",
+        "aging penalty -8.0 for 92.8d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Jevのキラーアプリ、「意味で探す grep」を作った",
       "url": "https://zenn.dev/uehaj/articles/jev-semgrep-grep-by-meaning",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T13:14:02+00:00",
-      "age_days": 0.75,
+      "age_days": 0.77,
       "topics": [
         "general"
       ],
@@ -503,7 +702,7 @@
       "url": "https://speakerdeck.com/neuecc/c-no-genzaichi-shinka-no-rekishi-to-ai-jidai-no-net-everywhere",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-20T02:56:01+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -525,59 +724,11 @@
       "summary": ""
     },
     {
-      "title": "iPhone 18 Proに保護フィルムを貼るとFace ID認証できない不具合 原因は“赤外線カメラの位置”",
-      "url": "https://www.itmedia.co.jp/mobile/articles/2609/19/news026.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-20T06:44:20+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 9.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Open-Dev-Society/OpenStock",
-      "url": "https://github.com/Open-Dev-Society/OpenStock",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-09-20T06:44:20+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 9.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "M 4.5 - 54 km ENE of Sainte-Marie, Martinique",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tinf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-20T03:11:04+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -603,7 +754,7 @@
       "url": "https://debimate.jp/post/ja/2026-09-16-jsonize%E3%81%A7json%E3%82%92unix%E3%83%91%E3%82%A4%E3%83%97%E3%83%A9%E3%82%A4%E3%83%B3%E3%81%AE%E5%85%B1%E9%80%9A%E8%A8%80%E8%AA%9E%E3%81%AB%E3%81%99%E3%82%8B/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-20T02:53:17+00:00",
-      "age_days": 0.18,
+      "age_days": 0.21,
       "topics": [
         "general"
       ],
@@ -627,7 +778,7 @@
       "url": "https://www.itmedia.co.jp/mobile/articles/2609/19/news026.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T10:03:23+00:00",
-      "age_days": 0.88,
+      "age_days": 0.91,
       "topics": [
         "general"
       ],
@@ -651,7 +802,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tinf",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-20T03:00:16.040+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "ai",
         "disaster"
@@ -678,7 +829,7 @@
       "url": "https://speakerdeck.com/willnet/wkhtmltopdf-no-tsugi-dou-suru-ka-mondai-2026",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T23:57:27+00:00",
-      "age_days": 0.3,
+      "age_days": 0.33,
       "topics": [
         "ai"
       ],
@@ -699,11 +850,11 @@
       "summary": "2026/09/17 に開催されたRailsTokyo#6 での発表資料です https://railstokyo.connpass.com/event/400709/"
     },
     {
-      "title": "生成AIセキュリティを学んで変わった「AIを安全に使う」という考え方 - Qiita",
-      "url": "https://qiita.com/kf_webdev/items/cbd1d7bb724676a3b686",
+      "title": "5分でJev入門（すぐ使う） - Qiita",
+      "url": "https://qiita.com/Ninagawa123/items/8ec3f5fe18c20fab1b2a",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 93.22,
+      "published_at": "2026-09-20T04:26:19+00:00",
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -713,25 +864,22 @@
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.08,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +3",
-        "baseline z_hint 0.08",
         "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 93.2d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
-      "summary": ""
+      "summary": "せっかちな人むけのコンパクト記事 やること Jevをちょっと触ってみます。 Jevは超短い回答だけを超速で返してくれるAIです。 その他の凄さや可能性などはプロ驚き屋さんの動画などでどうぞ。 ここでは本当にちょっと使うところだけやります。 TypeSafe ai にアクセス まず↑のサイトにアクセスします。 実はすぐには使..."
     },
     {
       "title": "C#の現在地 進化の歴史と、AI時代の.NET Everywhere",
       "url": "https://speakerdeck.com/neuecc/c-no-genzaichi-shinka-no-rekishi-to-ai-jidai-no-net-everywhere",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T05:47:30+00:00",
-      "age_days": 1.06,
+      "age_days": 1.08,
       "topics": [
         "ai"
       ],
@@ -752,11 +900,36 @@
       "summary": "C# Kaigi 2026 https://csharpkaigi.net/"
     },
     {
+      "title": "「DMM GAMESさんのブースのキャンギャル、ほぼ全裸でしたよね？？？」このTGSの感想に令和だというのに画像も無しにスレ立てを咎める麻呂が乱立…なお件の美女の画像も",
+      "url": "https://togetter.com/li/2747784",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-19T18:31:57+00:00",
+      "age_days": 0.55,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "MOCHIKIN😎モチキン @mochiking_z あとすみません。誰1人言及してなくて不安になってきたんですが、調べても出てこないし、気になっていることがあります。 DMM GAMESさんのブースのキャンギャル、ほぼ全裸でしたよね？？？ 2026-09-18 23:22:32 MOCHIKIN😎モチキン @mochiking_z 墓場文庫 / 都市伝説解体センター開発中..."
+    },
+    {
       "title": "生成AIセキュリティを学んで変わった「AIを安全に使う」という考え方 - Qiita",
       "url": "https://qiita.com/kf_webdev/items/cbd1d7bb724676a3b686",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T13:07:19+00:00",
-      "age_days": 0.75,
+      "age_days": 0.78,
       "topics": [
         "ai"
       ],
