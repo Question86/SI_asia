@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-09-20T14:30:09+00:00",
+  "generated_at": "2026-09-20T14:40:02+00:00",
   "fx_as_of": null,
-  "candidate_count": 888,
+  "candidate_count": 889,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 888
+    "pending": 889
   },
   "coverage_warning": null,
   "candidates": [
@@ -11537,6 +11537,27 @@
       "snippet": "67k Context Engineering - Making Every Token Count addyosmani 9 1.1k Large-scale JavaScript Application Architecture addyosmani 515 110k Data-driven link building: lessons from a $708K investment (BrightonSEO talk) szymonslowik 1 1.3k 職位にかかわらず全員がリーダーシップを発揮するチーム作り / Building a team where everyone can demonstrate leadership regardless of position madoxten 69 65k T",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://speakerdeck.com/neuecc/c-no-genzaichi-shinka-no-rekishi-to-ai-jidai-no-net-everywhere"
+    },
+    {
+      "amount_native": 708000.0,
+      "amount_usd": 708000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.55,
+      "candidate_id": "cand_f04f723ef278142dac57",
+      "component_suggestion": "capital_allocation",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_a61d1a7e4acb13f6d63c",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-20T14:39:59+00:00",
+      "overlap_group_suggestion": "evt_a61d1a7e4acb13f6d63c:capital_allocation:cca1d915fa52",
+      "review_status": "pending",
+      "snippet": "460 SEO for Brand Visibility & Recognition aleyda 0 4.7k Conquering PDFs: document understanding beyond plain text inesmontani PRO 4 3.1k Data-driven link building: lessons from a $708K investment (BrightonSEO talk) szymonslowik 1 1.3k How to build an LLM SEO readiness audit: a practical framework nmsamuel 1 910 Building a A Zero-Code AI SEO Workflow portentint P",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://speakerdeck.com/willnet/wkhtmltopdf-no-tsugi-dou-suru-ka-mondai-2026",
+      "component_confidence": 0.55,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 200000.0,
