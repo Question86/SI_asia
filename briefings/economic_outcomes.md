@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-09-20T21:40:43+00:00`
+Generated: `2026-09-20T21:49:21+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -11,6 +11,7 @@ Generated: `2026-09-20T21:40:43+00:00`
 | .gitignore everything by default | $0 | — | 0 | 0 | dormant |
 | Skullcandy製ワイヤレスイヤホン「Dime 3」における不適切な認証の脆弱性 | $0 | — | 0 | 0 | dormant |
 | Southeast Asia’s chip-hub ambition is colliding with its chip-smuggling problem | $0 | — | 0 | 0 | dormant |
+| GitHub - minorun365/minorun-marp-skill: Marpで登壇スライドを作るための、ストーリー・図・デザインバランスのスキル集と黒地テーマ、検査ツール | $0 | — | 0 | 0 | active |
 | How we use AI to turn one article into audience-specific versions | $0 | — | 0 | 0 | dormant |
 | WebMCPがアツいので見てほしい \| DevelopersIO | $0 | — | 0 | 0 | dormant |
 | Why Kyoto, not Tokyo, is Japan’s real deeptech bet | $0 | — | 0 | 0 | dormant |
@@ -28,4 +29,3 @@ Generated: `2026-09-20T21:40:43+00:00`
 | AWSをゲームで学べる「AWS Cloud Quest」に新バージョン「AWS Cloud Quest 2.0」登場！ AIによるバーチャル顧客と対話し、要件を聞き出して正しくソリューションに落とし込め | $0 | — | 0 | 0 | dormant |
 | New API endpoint provides privacy-safe star history data | $0 | — | 0 | 0 | dormant |
 | JetBrains/go-modern-guidelines | $0 | — | 0 | 0 | dormant |
-| 古川大臣就任記者会見（令和8年9月18日）動画を掲載しました | $0 | — | 0 | 0 | dormant |
