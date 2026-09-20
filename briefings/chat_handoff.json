@@ -1,19 +1,39 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-20T05:56:57+00:00",
+  "generated_at": "2026-09-20T06:44:15+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 11,
-    "displayed_findings": 11,
+    "new_relevant_findings": 4,
+    "today_file_total": 15,
+    "displayed_findings": 15,
     "high": 0,
-    "medium": 0,
-    "observe": 11
+    "medium": 2,
+    "observe": 13
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "trycua/cua",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "relevance_score": 20,
+      "url": "https://github.com/trycua/cua",
+      "summary": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation. https://cua.ai Give AI agents computers they can use. Cua provides open-source desktop automation, isolated cloud desktops, local m…",
+      "section": "medium"
+    },
+    {
+      "title": "coder/coder",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "source_type": "rss",
+      "published_at": null,
+      "relevance_score": 16,
+      "url": "https://github.com/coder/coder",
+      "summary": "Secure environments for developers and their agents https://coder.com Self-Hosted Cloud Development Environments and AI Agents Quickstart | Docs | Why Coder | Premium Coder is a self-hosted platform for cloud development environments and AI coding agents. Wor…",
+      "section": "medium"
+    },
     {
       "title": "wkhtmltopdfの次どうするか問題2026",
       "source": "Hatena Bookmark Hotentry IT",
@@ -60,139 +80,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “ヨドバシ.com - 東プレ Topre REALFORCE RS1キーボード 左右分割式 79キー 日本語配列 ダークグレー S1UJ11 通販【全品無料配達】” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "ヨドバシ.com - 東プレ Topre REALFORCE RS1キーボード 左右分割式 79キー 日本語配列 ダークグレー S1UJ11 通販【全品無料配達】",
-        "url": "https://www.yodobashi.com/product/100000001010215183/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-19T15:38:44+00:00",
-        "age_days": 0.61,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "high terms: rce",
-          "security high-signal: rce"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "ヨドバシ.com - 東プレ Topre REALFORCE RS1キーボード 左右分割式 79キー 日本語配列 ダークグレー S1UJ11 通販【全品無料配達】",
-        "url": "https://www.yodobashi.com/product/100000001010215183/",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-19T10:23:21+00:00",
-        "age_days": 0.83,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 22.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce, 10",
-          "security high-signal: rce, 10"
-        ],
-        "summary": "東プレ Topre REALFORCE RS1キーボード 左右分割式 79キー 日本語配列 ダークグレー S1UJ11 ￥55,000550 ゴールドポイント（1％還元）ただいま予約受付中！発売日にお届け日本全国配達料金無料"
-      },
-      {
-        "title": "M 5.3 - 108 km ESE of Yigo Village, Guam",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tinl",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-20T04:02:34+00:00",
-        "age_days": 0.1,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 21.5,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "high terms: 10"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "wkhtmltopdfの次どうするか問題2026",
-        "url": "https://speakerdeck.com/willnet/wkhtmltopdf-no-tsugi-dou-suru-ka-mondai-2026",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-20T04:25:06+00:00",
-        "age_days": 0.08,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 19.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "M 5.0 - 103 km W of Hihifo, Tonga",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tip2",
-        "source": "USGS M4.5+ Earthquakes Past Hour",
-        "published_at": "2026-09-20T05:31:59+00:00",
-        "age_days": 0.03,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 19.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 2,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +2",
-          "high terms: 10"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }
