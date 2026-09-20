@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-20T21:40:12+00:00_
+_Generiert: 2026-09-20T21:48:14+00:00_
 
 ## Kurzlage
 
-32 neue relevante Treffer. Stärkstes Signal: „trycua/cua“ aus GitHub Trending RSS All Languages Daily (Score 20, opportunity).
+34 neue relevante Treffer. Stärkstes Signal: „trycua/cua“ aus GitHub Trending RSS All Languages Daily (Score 20, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global

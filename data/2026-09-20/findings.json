@@ -305,6 +305,43 @@
     "id": "742dacd1c516516f0ab4"
   },
   {
+    "title": "M 4.7 - 234 km SSE of False Pass, Alaska",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026srnyvl",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-09-20T21:46:54.964+00:00",
+    "fetched_at": "2026-09-20T21:47:42+00:00",
+    "summary": "ShakeMap - II Time 2026-09-20 21:06:22 UTC 2026-09-20 21:06:22 UTC at epicenter Location 52.812°N 162.524°W Depth 19.40 km (12.05 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "ShakeMap",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); ShakeMap (+2.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake, ShakeMap"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "a4a081cf863600f70f1e"
+  },
+  {
     "title": "M 5.3 - 64 km W of Cafayate, Argentina",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiq2",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -635,6 +672,28 @@
       "LOW"
     ],
     "id": "6f98a7a5f0fab2bfaf1a"
+  },
+  {
+    "title": "GitHub - minorun365/minorun-marp-skill: Marpで登壇スライドを作るための、ストーリー・図・デザインバランスのスキル集と黒地テーマ、検査ツール",
+    "url": "https://github.com/minorun365/minorun-marp-skill",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-09-20T14:35:15+00:00",
+    "fetched_at": "2026-09-20T21:47:42+00:00",
+    "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert",
+    "matched_keywords": [
+      "GitHub",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "98234b8c1aad8ceab40c"
   },
   {
     "title": "GitHub - dmtrKovalenko/bashka: Stop running unverified bash scripts to install software! curl <url> | bashKA for static verification of bash script safty and managing installed software",
