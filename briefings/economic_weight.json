@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-20T04:02:50+00:00",
+  "generated_at": "2026-09-20T04:25:21+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -2407,7 +2407,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-20T01:33:12+00:00",
-      "last_seen_at": "2026-09-20T04:02:34+00:00",
+      "last_seen_at": "2026-09-20T04:25:06+00:00",
       "status": "active"
     },
     {
@@ -2577,7 +2577,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-20T01:33:12+00:00",
-      "last_seen_at": "2026-09-20T04:02:34+00:00",
+      "last_seen_at": "2026-09-20T04:25:06+00:00",
       "status": "active"
     },
     {
@@ -3121,7 +3121,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-20T03:11:04+00:00",
-      "last_seen_at": "2026-09-20T04:02:34+00:00",
+      "last_seen_at": "2026-09-20T04:25:06+00:00",
       "status": "active"
     },
     {
@@ -3157,6 +3157,23 @@
       "first_seen_at": "2026-09-10T14:23:12+00:00",
       "last_seen_at": "2026-09-10T14:23:12+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_9a93fcb3246f1eb6756b",
+      "title": "M 5.3 - 108 km ESE of Yigo Village, Guam",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-20T04:02:34+00:00",
+      "last_seen_at": "2026-09-20T04:25:06+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_9bb3d038caab21897797",
@@ -3769,23 +3786,6 @@
       "first_seen_at": "2026-09-10T18:56:53+00:00",
       "last_seen_at": "2026-09-10T18:56:53+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_9a93fcb3246f1eb6756b",
-      "title": "M 5.3 - 108 km ESE of Yigo Village, Guam",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1112000.0,
-      "p50_usd": 111200000.0,
-      "p90_usd": 11120000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-09-20T04:02:34+00:00",
-      "last_seen_at": "2026-09-20T04:02:34+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_720c7d526b3baeebcacf",
@@ -8446,6 +8446,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_a61d1a7e4acb13f6d63c",
+      "title": "wkhtmltopdfの次どうするか問題2026",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112000.0,
+      "p50_usd": 11200000.0,
+      "p90_usd": 1120000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-20T04:25:06+00:00",
+      "last_seen_at": "2026-09-20T04:25:06+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_1acbd7b0539d2ffbbf11",
       "title": "AI の投資収益率 (ROI) を算出する | Amazon Web Services",
       "event_classes": [
@@ -9123,7 +9140,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-20T02:56:01+00:00",
-      "last_seen_at": "2026-09-20T04:02:34+00:00",
+      "last_seen_at": "2026-09-20T04:25:06+00:00",
       "status": "active"
     },
     {
@@ -11214,7 +11231,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T12:58:27+00:00",
-      "last_seen_at": "2026-09-20T04:02:34+00:00",
+      "last_seen_at": "2026-09-20T04:25:06+00:00",
       "status": "active"
     },
     {
@@ -11401,7 +11418,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-20T02:01:44+00:00",
-      "last_seen_at": "2026-09-20T04:02:34+00:00",
+      "last_seen_at": "2026-09-20T04:25:06+00:00",
       "status": "active"
     },
     {
@@ -13000,7 +13017,7 @@
       "p90_usd": 1040000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-20T00:59:16+00:00",
-      "last_seen_at": "2026-09-20T04:02:34+00:00",
+      "last_seen_at": "2026-09-20T04:25:06+00:00",
       "status": "active"
     }
   ]
