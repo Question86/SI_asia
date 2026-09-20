@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-20T22:21:37+00:00",
+  "generated_at": "2026-09-20T22:30:42+00:00",
   "events": [
     {
       "event_id": "evt_010865faf79d8c1f952b",
@@ -528,7 +528,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_1389040925456ed4bae9",
@@ -1397,7 +1397,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_2f5c3cffbb9951edd868",
@@ -1639,7 +1639,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_38af120b7ca545f90d66",
@@ -2080,6 +2080,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_4655047bbd253ac38d1f",
+      "title": "M 4.7 - southeast of the Loyalty Islands",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_46a471a9fe7f5d7d06ed",
