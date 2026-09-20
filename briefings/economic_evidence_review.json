@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-09-20T09:31:17+00:00",
+  "generated_at": "2026-09-20T09:41:11+00:00",
   "fx_as_of": null,
-  "candidate_count": 872,
+  "candidate_count": 873,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 872
+    "pending": 873
   },
   "coverage_warning": null,
   "candidates": [
@@ -17940,6 +17940,25 @@
       "snippet": "現実的です Playwirght によるブラウザ自動操作 簡単なフォームを作り、商品をカートに入れ、購入する、という一連の画面操作をやらせる 判断自体は高速ですが、単独ではエラーから復旧できないのが観測されました。Claude にログを監視させ、補助させることで 96% 以上の精度になりました わかったこと 本当に安い MOBA風のゲームを 1戦やらせて、 $0.0001 出力無料 モデルとしての性能自体がすごく高いというわけではない 1リクエスト/レスポンスは 500ms ぐらい 真価は並列度。256個の質問を同時に投げて、同時にそのスコアが得られる confidence 値が便利 0.96 以上のときはほぼ確信している 0.4 以下は間違ってる可能性が高い つまり、0.4 以下だと別のモデルにフォールバックするといい Cl",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://zenn.dev/mizchi/articles/jev-is-gpu-for-llms"
+    },
+    {
+      "amount_native": 199.0,
+      "amount_usd": null,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_0e8848dfe99766674cb3",
+      "component_suggestion": "unknown",
+      "conversion_status": "missing_rate",
+      "currency": "JPY",
+      "event_id": "evt_5dea9ef673840adb6350",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-20T09:41:08+00:00",
+      "overlap_group_suggestion": "evt_5dea9ef673840adb6350:unknown:d8889a4e1215",
+      "review_status": "pending",
+      "snippet": "びっしりやり取りのロールプレイが書いてあって各国語（当然日本語も）で何百枚も。 騙される方がどうかしてると思ってたけど あれだけ一生懸命やってるの見ると１００人に 一人か二人は騙されるよねって思った 2026-09-20 00:08:28 いちばんやさしいプログラミングの教本 人気講師が教えるすべての言語に共通する基礎知識 「いちばんやさしい教本」シリーズ ¥199 廣瀬 豪 Amazonで価格を見る 🔥【あと6時間】Kindleマンガ50％還元 注目の旬マンガ多数！ 全巻買っても実質半額 実践 Rust プログラミング入門 第2版 初田直也,山口聖弘,吉川哲史,豊田優貴,松本健太郎 Amazonで価格を見る 🔥【あと6時間】Kindleマンガ50％還元 注目の旬マンガ多数！ 全巻買っても実質半額 Webデザイン・スタン",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://posfie.com/@mumimushunyu/p/Q9gnECY",
+      "component_confidence": 0.0
     }
   ]
 }
