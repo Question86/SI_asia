@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-20T04:02:30+00:00_
+_Generiert: 2026-09-20T04:25:03+00:00_
 
 ## Kurzlage
 
-8 neue relevante Treffer. Stärkstes Signal: „M 5.3 - 108 km ESE of Yigo Village, Guam“ aus USGS M4.5+ Earthquakes Past Hour (Score 9, risk).
+9 neue relevante Treffer. Stärkstes Signal: „wkhtmltopdfの次どうするか問題2026“ aus Hatena Bookmark Hotentry IT (Score 10, observation).
 
 ## Priorität Hoch
 
@@ -16,6 +16,15 @@ Keine neuen mittleren Treffer.
 
 ## Nur beobachten
 
+- **wkhtmltopdfの次どうするか問題2026** — Score 10, observation — [Quelle](https://speakerdeck.com/willnet/wkhtmltopdf-no-tsugi-dou-suru-ka-mondai-2026)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-19T23:57:27+00:00`, fetched `2026-09-20T04:24:36+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Tokyo (+2.0)
+  - Kurz: 2026/09/17 に開催されたRailsTokyo#6 での発表資料です https://railstokyo.connpass.com/event/400709/
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.3 - 108 km ESE of Yigo Village, Guam** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tinl)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-20T03:59:07.040+00:00`, fetched `2026-09-20T04:02:02+00:00`
@@ -60,15 +69,6 @@ Keine neuen mittleren Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 本記事は筆者個人の見解であり、所属する組織の公式見解ではありません。 また、ここで使う TypeSafe の System One API は公開されて間もないものです。この領域は仕様が頻繁に、かつ大きく変わります。本文の記述は執筆時点(2026年9月, @uehaj/semgrep 0.2.0 / Node v23.10.0 で確認)のものなので、最新の挙動は公式ド...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **生成AIセキュリティを学んで変わった「AIを安全に使う」という考え方 - Qiita** — Score 5, observation — [Quelle](https://qiita.com/kf_webdev/items/cbd1d7bb724676a3b686)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-19T13:07:19+00:00`, fetched `2026-09-20T01:53:40+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? はじめに 現在、Webエンジニアを目指して学習を進める中で、AI駆動開発についても学んでいます。今回は、Happiness Chainのカリキュラムで生成AIセキュリティについて学ぶ機会があ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

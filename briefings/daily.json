@@ -1,7 +1,30 @@
 {
-  "generated_at": "2026-09-20T04:02:34+00:00",
-  "today_file_total": 8,
+  "generated_at": "2026-09-20T04:25:06+00:00",
+  "today_file_total": 9,
   "current_clusters": [
+    {
+      "key": "domain:railstokyo.connpass.com",
+      "title": "wkhtmltopdfの次どうするか問題2026",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://speakerdeck.com/willnet/wkhtmltopdf-no-tsugi-dou-suru-ka-mondai-2026"
+      ],
+      "finding_count": 1,
+      "max_score": 10,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 15.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
     {
       "key": "earthquake:m 5.3 - 108 km ese of yigo village, guam:5.3",
       "title": "M 5.3 - 108 km ESE of Yigo Village, Guam",
@@ -18,9 +41,9 @@
       "max_score": 9,
       "credibility_total": 1.35,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 14.7,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 11.7,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"
