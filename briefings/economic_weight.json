@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-19T23:58:34+00:00",
+  "generated_at": "2026-09-20T00:59:34+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -55,7 +55,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-19T04:24:55+00:00",
       "last_seen_at": "2026-09-19T23:58:15+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_b606e6c8f1b42a79721d",
@@ -912,7 +912,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-14T11:31:15+00:00",
       "last_seen_at": "2026-09-19T23:58:15+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_8791ef1d70e8b95e43a7",
@@ -946,7 +946,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-03T21:47:43+00:00",
       "last_seen_at": "2026-09-19T23:58:15+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_b47b2e67825e83c18adc",
@@ -980,7 +980,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-04T05:31:26+00:00",
       "last_seen_at": "2026-09-19T23:58:15+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_c3299ce8e5250f27b3ad",
@@ -1660,7 +1660,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-19T12:44:17+00:00",
       "last_seen_at": "2026-09-19T23:58:15+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_5c7b8a5d47c19f4e96b8",
@@ -1966,7 +1966,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-19T07:33:09+00:00",
       "last_seen_at": "2026-09-19T23:58:15+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_adb252945edb1fa40335",
@@ -2459,7 +2459,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-19T09:48:38+00:00",
       "last_seen_at": "2026-09-19T23:58:15+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_269e51615ab3d44782d4",
@@ -2527,7 +2527,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-04T07:23:48+00:00",
       "last_seen_at": "2026-09-19T23:58:15+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_368ec51aca92307b5567",
@@ -3190,7 +3190,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-19T20:48:10+00:00",
       "last_seen_at": "2026-09-19T23:58:15+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_b25e1c4e89af56d39744",
@@ -3632,7 +3632,7 @@
       "confidence": 0.328,
       "first_seen_at": "2026-09-19T10:55:14+00:00",
       "last_seen_at": "2026-09-19T23:58:15+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_eef0d0f11ee49427a3c4",
@@ -5077,7 +5077,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-09-19T23:58:15+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_28d372a7de61eb91a1dd",
@@ -5383,7 +5383,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
       "last_seen_at": "2026-09-19T23:58:15+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a71916846dd64406ffc2",
@@ -6046,7 +6046,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-17T12:27:55+00:00",
       "last_seen_at": "2026-09-19T23:58:15+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_e3d2c52dc5b9bdf7f078",
@@ -6440,6 +6440,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_355e608fadf347600c63",
+      "title": "アルトマン氏、OpenAI内部モデルがトップ数学者を超越と明かす 学界に未曾有の焦燥感 — BigGo ファイナンス",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 113600.0,
+      "p50_usd": 11360000.0,
+      "p90_usd": 1136000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-19T23:58:15+00:00",
+      "last_seen_at": "2026-09-19T23:58:15+00:00",
+      "status": "dormant"
+    },
+    {
       "event_id": "evt_4e0adb1edff1cc4884ae",
       "title": "skills/plugins/show-me/skills/show-me/SKILL.md at main · humanlayer/skills",
       "event_classes": [
@@ -6675,7 +6692,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-19T14:18:56+00:00",
       "last_seen_at": "2026-09-19T23:58:15+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_b829f0ea9ec991d5011b",
@@ -6831,23 +6848,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_355e608fadf347600c63",
-      "title": "アルトマン氏、OpenAI内部モデルがトップ数学者を超越と明かす 学界に未曾有の焦燥感 — BigGo ファイナンス",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 113600.0,
-      "p50_usd": 11360000.0,
-      "p90_usd": 1136000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-19T23:58:15+00:00",
-      "last_seen_at": "2026-09-19T23:58:15+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_0794940ba82f2ab5dd23",
       "title": "GitHub Advanced Security expands trial availability",
       "event_classes": [
@@ -6947,7 +6947,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-19T12:28:04+00:00",
       "last_seen_at": "2026-09-19T23:58:15+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_30fc444b91657318fc37",
@@ -7338,7 +7338,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-19T02:28:57+00:00",
       "last_seen_at": "2026-09-19T23:58:15+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_99397910c1bd5bbe64ac",
@@ -7372,7 +7372,7 @@
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T22:15:36+00:00",
       "last_seen_at": "2026-09-19T23:58:15+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_b485f903de3649c75cda",
@@ -8545,7 +8545,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-19T13:28:53+00:00",
       "last_seen_at": "2026-09-19T23:58:15+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a122b74412cb01a77bca",
@@ -9362,7 +9362,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-19T21:39:16+00:00",
       "last_seen_at": "2026-09-19T23:58:15+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_bdd807cdb4257b4c4817",
@@ -12883,6 +12883,23 @@
       "first_seen_at": "2026-06-20T02:49:51+00:00",
       "last_seen_at": "2026-06-20T02:49:51+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_8446b7d5bac96b0e623c",
+      "title": "ヨドバシ.com - 東プレ Topre REALFORCE RS1キーボード 左右分割式 79キー 日本語配列 ダークグレー S1UJ11 通販【全品無料配達】",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 104000.0,
+      "p50_usd": 10400000.0,
+      "p90_usd": 1040000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-20T00:59:16+00:00",
+      "last_seen_at": "2026-09-20T00:59:16+00:00",
+      "status": "active"
     }
   ]
 }
