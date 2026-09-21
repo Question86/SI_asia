@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-21T06:01:38+00:00_
+_Generated: 2026-09-21T06:47:19+00:00_
 
 ## Status
 - status: `normal`
-- findings: `23`
+- findings: `28`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-09-21T06:01:38+00:00_
 - url: https://e27.co/crypto-is-dead-apparently-not-says-y-combinator-blockchain-is-still-worth-building-20260918/
 - summary: Every cycle, people say that crypto is dead. By retail, and by funding. Attention moves on to the next bubble, this time it is AI. However, when Y Combinator published its list of Biggest Startup Opportunities of 2026, crypto kept its place alongside AI, heal…
 
-### 8. M 4.7 - 156 km NNW of Hicks Bay, New Zealand
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `9`
-- published: `2026-09-21T04:44:02.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tivi
-- summary: Time 2026-09-21 04:28:40 UTC 2026-09-21 04:28:40 UTC at epicenter Location 36.246°S 177.798°E Depth 213.01 km (132.36 mi)
+### 8. anthropics/financial-services
+- source: GitHub Trending RSS All Languages Daily
+- score: `10`
+- published: `None`
+- url: https://github.com/anthropics/financial-services
+- summary: Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is available two ways from one source :…
 
 END OF DOCUMENT
