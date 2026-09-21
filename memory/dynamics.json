@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-21T06:30:54Z",
+  "generated_at": "2026-09-21T07:08:29Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 2,
-      "strong": 6,
-      "watch": 13,
-      "quiet": 19
+      "krass": 4,
+      "strong": 8,
+      "watch": 15,
+      "quiet": 13
     },
     "bands_after_gate_recheck": {
-      "strong": 8,
-      "watch": 13,
-      "quiet": 19
+      "strong": 11,
+      "watch": 16,
+      "quiet": 13
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://e27.co/why-singapore-smes-should-treat-cybersecurity-as-a-sales-issue-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T03:00:15+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "security",
         "macro"
@@ -45,11 +45,37 @@
       "summary": "Consider a small services firm preparing to win its first major corporate account. The proposal is strong. The pricing is competitive. The team has shown that it can deliver. Then the prospective customer asks a different set of questions. Where will our information be stored? Who can access it? What happens when an e…"
     },
     {
+      "title": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-09-21T06:46:47+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is available two ways from one source : install it as a Claude Cowork plugin, or deploy it through t…"
+    },
+    {
       "title": "The AI productivity paradox: Why finance must move beyond automation",
       "url": "https://e27.co/the-ai-productivity-paradox-why-finance-must-move-beyond-automation-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T02:33:04+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -76,7 +102,7 @@
       "url": "https://www.du-soleil.com/entry/unify-into-google-ai-pro",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-21T01:03:04+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -103,7 +129,7 @@
       "url": "https://e27.co/why-singapore-smes-should-treat-cybersecurity-as-a-sales-issue-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T03:27:24+00:00",
-      "age_days": 0.13,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -129,7 +155,7 @@
       "url": "https://www.du-soleil.com/entry/unify-into-google-ai-pro",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-20T09:58:00+00:00",
-      "age_days": 0.86,
+      "age_days": 0.88,
       "topics": [
         "ai",
         "macro"
@@ -156,7 +182,7 @@
       "url": "https://e27.co/itm-semiconductors-vietnam-unit-hit-by-fraud-and-widening-losses-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T04:32:33+00:00",
-      "age_days": 0.08,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -177,11 +203,36 @@
       "summary": ""
     },
     {
+      "title": "Warnung vor Angriffen auf Linux-Schwachstellen",
+      "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Linux-Schwachstellen-11459555.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-09-21T06:16:00.000+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: angriffe",
+        "security high-signal: angriffe"
+      ],
+      "summary": "Die US-amerikanische IT-Sicherheitsbehörde CISA warnt vor beobachteten Angriffen auf Linux-Lücken. Updates stehen bereit."
+    },
+    {
       "title": "M 5.5 - 35 km NNE of Ruteng, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiur",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-21T01:57:30.040+00:00",
-      "age_days": 0.19,
+      "age_days": 0.22,
       "topics": [
         "disaster"
       ],
@@ -202,11 +253,36 @@
       "summary": "Time 2026-09-21 01:41:36 UTC 2026-09-21 01:41:36 UTC at epicenter Location 8.307°S 120.579°E Depth 10.00 km (6.21 mi)"
     },
     {
+      "title": "BuilderIO/agent-native",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-09-21T06:46:47+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 21.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce, code",
+        "security high-signal: rce, code"
+      ],
+      "summary": "A framework for building agentic apps https://www.agent-native.com Agent-Native Agent-Native is an open-source TypeScript framework for building agents that pair autonomous work with a purpose-built UI. Define each capability once as an action : the agent uses it as a tool, and the UI calls it from code. Quick start n…"
+    },
+    {
       "title": "The AI productivity paradox: Why finance must move beyond automation",
       "url": "https://e27.co/the-ai-productivity-paradox-why-finance-must-move-beyond-automation-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T02:30:36+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "macro"
@@ -229,11 +305,39 @@
       "summary": "For decades, productivity in finance meant closing the books faster, reducing transaction costs and improving reporting. Artificial intelligence changes that equation, because it can do more than execute routine work. It can interpret variances, detect anomalies, generate forecasts, test scenarios and recommend action…"
     },
     {
+      "title": "Warnung vor Angriffen auf Linux-Schwachstellen",
+      "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Linux-Schwachstellen-11459555.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-06-19T07:39:37+00:00",
+      "age_days": 93.98,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 19.9,
+      "raw_band": "krass",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "high terms: angriffe",
+        "security high-signal: angriffe",
+        "aging penalty -8.0 for 94.0d old signal",
+        "stale single-source cap after 30d: no current exploitation phrase"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 5.5 - 35 km NNE of Ruteng, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiur",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-31T08:30:56+00:00",
-      "age_days": 20.92,
+      "age_days": 20.94,
       "topics": [
         "general"
       ],
@@ -254,11 +358,36 @@
       "summary": ""
     },
     {
+      "title": "開発環境を信頼できる状態に保つ - モヒカン技術ブログ",
+      "url": "https://blog.pinkumohikan.com/entry/reliable-dev-environment",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-05T09:54:14+00:00",
+      "age_days": 15.88,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 19.69,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 2.9,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 2.90"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 4.5 - 4 km W of Victor Raul, Peru",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tivb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-21T04:10:56+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "general"
       ],
@@ -282,7 +411,7 @@
       "url": "https://gigazine.net/news/20260921-google-pixel-watch-review/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-21T01:03:04+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],
@@ -302,11 +431,35 @@
       "summary": ""
     },
     {
+      "title": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-09-21T06:47:23+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 16.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 4.7 - 156 km NNW of Hicks Bay, New Zealand",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tivi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-21T04:49:43+00:00",
-      "age_days": 0.07,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -330,7 +483,7 @@
       "url": "https://e27.co/01f-group-backs-dana-as-indonesias-digital-payments-race-enters-its-next-phase-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T02:50:56+00:00",
-      "age_days": 0.15,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -354,7 +507,7 @@
       "url": "https://e27.co/crypto-is-dead-apparently-not-says-y-combinator-blockchain-is-still-worth-building-20260918/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T01:03:04+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -381,7 +534,7 @@
       "url": "https://zenn.dev/cybernetics/articles/71ea975d935414",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T14:18:56+00:00",
-      "age_days": 1.67,
+      "age_days": 1.7,
       "topics": [
         "general"
       ],
@@ -405,7 +558,7 @@
       "url": "https://k-tai.watch.impress.co.jp/docs/column/mca/2141525.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-21T05:34:20+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -429,7 +582,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tivb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-21T04:09:41.040+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "disaster"
       ],
@@ -453,7 +606,7 @@
       "url": "https://e27.co/can-ethereum-clear-us2672-this-week-and-unlock-a-run-to-us3000-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T05:20:35+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -477,7 +630,7 @@
       "url": "https://e27.co/why-i-prefer-boring-businesses-in-a-market-obsessed-with-the-next-big-thing-20260918/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T01:38:24+00:00",
-      "age_days": 0.2,
+      "age_days": 0.23,
       "topics": [
         "macro"
       ],
@@ -501,7 +654,7 @@
       "url": "https://github.com/fallow-rs/fallow",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-21T01:03:04+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -528,7 +681,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tivi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-21T04:44:02.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -548,11 +701,35 @@
       "summary": "Time 2026-09-21 04:28:40 UTC 2026-09-21 04:28:40 UTC at epicenter Location 36.246°S 177.798°E Depth 213.01 km (132.36 mi)"
     },
     {
+      "title": "paperless-ngx/paperless-ngx",
+      "url": "https://github.com/paperless-ngx/paperless-ngx",
+      "source": "GitHub Trending RSS All Languages Daily",
+      "published_at": "2026-09-21T06:47:23+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 11.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "ITM Semiconductor’s Vietnam unit hit by fraud and widening losses",
       "url": "https://e27.co/itm-semiconductors-vietnam-unit-hit-by-fraud-and-widening-losses-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T04:26:25+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -577,7 +754,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiui",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-21T01:25:41.887+00:00",
-      "age_days": 0.21,
+      "age_days": 0.24,
       "topics": [
         "ai",
         "disaster"
@@ -605,7 +782,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiui",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-21T01:38:24+00:00",
-      "age_days": 0.2,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -631,7 +808,7 @@
       "url": "https://e27.co/vinfasts-ride-hailing-arm-green-sm-takes-on-jakartas-ojek-economy-with-e-scooters-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T05:34:20+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -657,7 +834,7 @@
       "url": "https://e27.co/sustainability-reporting-is-not-the-goal-better-business-decisions-are-20260918/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T02:33:04+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -683,7 +860,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/column/nishikawa/2142517.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-21T01:59:26+00:00",
-      "age_days": 0.19,
+      "age_days": 0.21,
       "topics": [
         "ai"
       ],
@@ -709,7 +886,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/news/2142515.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-21T05:20:35+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -735,7 +912,7 @@
       "url": "https://qiita.com/ktdatascience/items/666a82fcdf3dc4af00d7",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 94.19,
+      "age_days": 94.22,
       "topics": [
         "general"
       ],
@@ -760,7 +937,7 @@
       "url": "https://zenn.dev/nomhiro/articles/jev-cosmosdb-rag-filter-poc",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-21T02:33:04+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -786,7 +963,7 @@
       "url": "https://e27.co/crypto-is-dead-apparently-not-says-y-combinator-blockchain-is-still-worth-building-20260918/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T01:00:51+00:00",
-      "age_days": 0.23,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -812,7 +989,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOUC148W70U6A710C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T02:10:07+00:00",
-      "age_days": 94.18,
+      "age_days": 94.21,
       "topics": [
         "ai"
       ],
@@ -840,7 +1017,7 @@
       "url": "https://zenn.dev/cybernetics/articles/71ea975d935414",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-20T21:36:04+00:00",
-      "age_days": 0.37,
+      "age_days": 0.4,
       "topics": [
         "ai",
         "security"
@@ -859,180 +1036,6 @@
         "no strong comparative reason"
       ],
       "summary": "はじめに 最近、TypeSafe AIから公開されたJevについて考えている。 Jevを最初に見たときは、「LLMよりずっと軽くて速い分類器」という理解だった。自由に文章を書くモデルではなく、与えられた状態を見て、Choice、Score、Noulのような型付きの判断を返す。 たとえば、ある問い合わせが請求なのか不具合なのか、緊急度..."
-    },
-    {
-      "title": "なぜSMS認証は弱いと言われるのか - Qiita",
-      "url": "https://qiita.com/ktdatascience/items/666a82fcdf3dc4af00d7",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-20T04:16:01+00:00",
-      "age_days": 1.09,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "はじめに 海外で現地のSIMに差し替えた初日、銀行アプリにログインしようとして「SMSで確認コードを送信しました」の画面で止まりました。日本の番号のSIMは机の上。コードは日本の番号に飛んでいく。届くわけがない。結局その旅の間、銀行には一度も入れませんでした。 一方で、同じ旅の間も認証アプリの6桁は普通に出..."
-    },
-    {
-      "title": "国産AIへ機械に「マイナンバー」 官民でデータ収集、DMG森など100社 - 日本経済新聞",
-      "url": "https://www.nikkei.com/article/DGXZQOUC148W70U6A710C2000000/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-20T20:44:59+00:00",
-      "age_days": 0.41,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 4.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "high terms: 10",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "政府とDMG森精機やコマツなど機械大手が連携しロボットなどを自律的に動かすフィジカルAI（人工知能）の実装に向けた学習データを収集する。工場内の機械に住民の「マイナンバー」のような共通ID（個体識別番号）を割り当て、メーカーの垣根を越えて製造データを吸い上げる。政府は2040年までに日本のAIロボット産業を世..."
-    },
-    {
-      "title": "Why I prefer boring businesses in a market obsessed with the next big thing",
-      "url": "https://e27.co/why-i-prefer-boring-businesses-in-a-market-obsessed-with-the-next-big-thing-20260918/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-21T01:30:32+00:00",
-      "age_days": 0.21,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 4.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "The startup world naturally rewards novelty. A new technology, a massive addressable market and a story about changing the world will always attract attention. I understand the appeal. I have spent much of my career around digital media, technology and entrepreneurs. But as an investor and operator, I have gradually b…"
-    },
-    {
-      "title": "Geminiが使えるスマートウォッチ「Google Pixel Watch 5」を使ってみた",
-      "url": "https://gigazine.net/news/20260921-google-pixel-watch-review/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-20T23:01:58+00:00",
-      "age_days": 0.31,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "外観レビューに続いて「Google Pixel Watch 5」を実際に使ってみました。ワークアウトや睡眠測定を行っています。 Google Pixel Watch 5 - AI が導く、もっといい自分へ https://store.google.com/jp/product/pixel_watch_5?hl=ja 初回使用時はBluetoothによるペアリングが必要。PixelスマートフォンでなくともAndroid 1..."
-    },
-    {
-      "title": "01F Group backs DANA as Indonesia’s digital payments race enters its next phase",
-      "url": "https://e27.co/01f-group-backs-dana-as-indonesias-digital-payments-race-enters-its-next-phase-20260921/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-21T02:35:35+00:00",
-      "age_days": 0.16,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "In Indonesia, the real test for digital finance is no longer whether people can pay with their phones in Jakarta malls. It is whether the same tools can work reliably for a food seller in Makassar, a small retailer in Solo, or a family-run business in a Tier 3 city that still relies heavily on […] The post 01F Group b…"
-    },
-    {
-      "title": "VinFast’s ride-hailing arm Green SM takes on Jakarta’s ojek economy with e-scooters",
-      "url": "https://e27.co/vinfasts-ride-hailing-arm-green-sm-takes-on-jakartas-ojek-economy-with-e-scooters-20260921/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-21T05:30:38+00:00",
-      "age_days": 0.04,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "Vingroup-backed ride-hailing outfit Green SM has switched on an electric motorbike service in Jakarta, its first stab at two-wheeled mobility outside Vietnam and a direct shot at the informal-turned-digital ojek economy that Grab and Gojek have spent a decade wiring into Indonesian daily life. The launch, announced la…"
-    },
-    {
-      "title": "Sustainability reporting is not the goal. Better business decisions are",
-      "url": "https://e27.co/sustainability-reporting-is-not-the-goal-better-business-decisions-are-20260918/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-21T02:00:11+00:00",
-      "age_days": 0.19,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "A company can spend months collecting sustainability data, mapping risks and preparing a polished report, yet still fail to answer a fundamental business question: what should we do differently because of what we have learned? This question is becoming increasingly important as sustainability expectations spread acros…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Why Singapore SMEs should treat cybersecurity as a sales issue” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
