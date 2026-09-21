@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-21T13:31:04+00:00",
+  "generated_at": "2026-09-21T13:43:21+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -775,7 +775,7 @@
       "p90_usd": 11920000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-31T08:30:56+00:00",
-      "last_seen_at": "2026-09-21T13:30:44+00:00",
+      "last_seen_at": "2026-09-21T13:43:03+00:00",
       "status": "active"
     },
     {
@@ -809,7 +809,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-29T08:36:29+00:00",
-      "last_seen_at": "2026-09-21T13:30:44+00:00",
+      "last_seen_at": "2026-09-21T13:43:03+00:00",
       "status": "active"
     },
     {
@@ -1574,7 +1574,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-21T04:10:56+00:00",
-      "last_seen_at": "2026-09-21T13:30:44+00:00",
+      "last_seen_at": "2026-09-21T13:43:03+00:00",
       "status": "active"
     },
     {
@@ -2135,7 +2135,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-18T17:12:50+00:00",
-      "last_seen_at": "2026-09-21T13:30:44+00:00",
+      "last_seen_at": "2026-09-21T13:43:03+00:00",
       "status": "active"
     },
     {
@@ -2220,7 +2220,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-30T05:39:01+00:00",
-      "last_seen_at": "2026-09-21T13:30:44+00:00",
+      "last_seen_at": "2026-09-21T13:43:03+00:00",
       "status": "active"
     },
     {
@@ -4039,7 +4039,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-21T13:30:44+00:00",
+      "last_seen_at": "2026-09-21T13:43:03+00:00",
       "status": "active"
     },
     {
@@ -4245,6 +4245,23 @@
       "first_seen_at": "2026-09-11T01:30:59+00:00",
       "last_seen_at": "2026-09-11T23:53:56+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_3eeea5703efbbc5d1adc",
+      "title": "Multiples vulnérabilités dans les produits Cisco (15 septembre 2026)",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-21T13:30:44+00:00",
+      "last_seen_at": "2026-09-21T13:43:03+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_44a8a83558fc78b768ee",
@@ -4740,23 +4757,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_3eeea5703efbbc5d1adc",
-      "title": "Multiples vulnérabilités dans les produits Cisco (15 septembre 2026)",
-      "event_classes": [
-        "vulnerability"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 288000.0,
-      "p50_usd": 28800000.0,
-      "p90_usd": 2880000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-21T13:30:44+00:00",
-      "last_seen_at": "2026-09-21T13:30:44+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_2f5c3cffbb9951edd868",
       "title": "Southeast Asia startup funding finds a floor, but not a rebound",
       "event_classes": [
@@ -4923,7 +4923,7 @@
       "p90_usd": 1504000000.0,
       "confidence": 0.77,
       "first_seen_at": "2026-08-29T07:47:53+00:00",
-      "last_seen_at": "2026-09-21T13:30:44+00:00",
+      "last_seen_at": "2026-09-21T13:43:03+00:00",
       "status": "active"
     },
     {
@@ -4957,7 +4957,7 @@
       "p90_usd": 1224000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-21T01:03:04+00:00",
-      "last_seen_at": "2026-09-21T13:30:44+00:00",
+      "last_seen_at": "2026-09-21T13:43:03+00:00",
       "status": "active"
     },
     {
@@ -5059,7 +5059,7 @@
       "p90_usd": 1216000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-21T11:02:29+00:00",
-      "last_seen_at": "2026-09-21T13:30:44+00:00",
+      "last_seen_at": "2026-09-21T13:43:03+00:00",
       "status": "active"
     },
     {
@@ -5263,7 +5263,7 @@
       "p90_usd": 1192000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-21T03:27:24+00:00",
-      "last_seen_at": "2026-09-21T13:30:44+00:00",
+      "last_seen_at": "2026-09-21T13:43:03+00:00",
       "status": "active"
     },
     {
@@ -5501,7 +5501,7 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-21T04:32:33+00:00",
-      "last_seen_at": "2026-09-21T13:30:44+00:00",
+      "last_seen_at": "2026-09-21T13:43:03+00:00",
       "status": "active"
     },
     {
@@ -5807,7 +5807,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-21T13:30:44+00:00",
+      "last_seen_at": "2026-09-21T13:43:03+00:00",
       "status": "active"
     },
     {
@@ -6215,7 +6215,7 @@
       "p90_usd": 1160000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-21T08:33:56+00:00",
-      "last_seen_at": "2026-09-21T13:30:44+00:00",
+      "last_seen_at": "2026-09-21T13:43:03+00:00",
       "status": "active"
     },
     {
@@ -6504,7 +6504,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-21T07:12:07+00:00",
-      "last_seen_at": "2026-09-21T13:30:44+00:00",
+      "last_seen_at": "2026-09-21T13:43:03+00:00",
       "status": "active"
     },
     {
@@ -6674,7 +6674,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-21T02:33:04+00:00",
-      "last_seen_at": "2026-09-21T13:30:44+00:00",
+      "last_seen_at": "2026-09-21T13:43:03+00:00",
       "status": "active"
     },
     {
@@ -6831,6 +6831,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_d59144f763d03cab2105",
+      "title": "Multiples vulnérabilités dans Microsoft Edge (15 septembre 2026)",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 114400.0,
+      "p50_usd": 11440000.0,
+      "p90_usd": 1144000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-21T13:30:44+00:00",
+      "last_seen_at": "2026-09-21T13:43:03+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_d82c4f613f172a5831b9",
       "title": "AIが書いた日本語に頻出する単語を指摘するtextlintプリセットを作った - ぷらすのブログ",
       "event_classes": [
@@ -6897,23 +6914,6 @@
       "first_seen_at": "2026-09-09T08:08:20+00:00",
       "last_seen_at": "2026-09-09T23:54:37+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_d59144f763d03cab2105",
-      "title": "Multiples vulnérabilités dans Microsoft Edge (15 septembre 2026)",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 114400.0,
-      "p50_usd": 11440000.0,
-      "p90_usd": 1144000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-21T13:30:44+00:00",
-      "last_seen_at": "2026-09-21T13:30:44+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_2a7631f0e872d9aad503",
@@ -7218,7 +7218,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-21T13:30:44+00:00",
+      "last_seen_at": "2026-09-21T13:43:03+00:00",
       "status": "active"
     },
     {
@@ -7575,8 +7575,8 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-21T01:03:04+00:00",
-      "last_seen_at": "2026-09-21T12:57:07+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-09-21T13:43:03+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_48c5f42a809a05d55379",
@@ -7712,6 +7712,23 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-10T13:39:57+00:00",
       "last_seen_at": "2026-09-10T15:57:40+00:00",
+      "status": "dormant"
+    },
+    {
+      "event_id": "evt_6b7aff2a2d64884388e6",
+      "title": "Vulnérabilité dans Microsoft Windows (15 septembre 2026)",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112800.0,
+      "p50_usd": 11280000.0,
+      "p90_usd": 1128000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-21T13:30:44+00:00",
+      "last_seen_at": "2026-09-21T13:30:44+00:00",
       "status": "dormant"
     },
     {
@@ -8104,23 +8121,6 @@
       "first_seen_at": "2026-09-08T05:58:24+00:00",
       "last_seen_at": "2026-09-08T22:21:16+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_6b7aff2a2d64884388e6",
-      "title": "Vulnérabilité dans Microsoft Windows (15 septembre 2026)",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 112800.0,
-      "p50_usd": 11280000.0,
-      "p90_usd": 1128000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-21T13:30:44+00:00",
-      "last_seen_at": "2026-09-21T13:30:44+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_017c171d5d17c6c8b19a",
@@ -9071,7 +9071,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T18:20:05+00:00",
-      "last_seen_at": "2026-09-21T13:30:44+00:00",
+      "last_seen_at": "2026-09-21T13:43:03+00:00",
       "status": "active"
     },
     {
