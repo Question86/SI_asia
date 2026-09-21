@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-20T23:49:24Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “trycua/cua” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
+  "generated_at": "2026-09-21T00:39:51Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “国産AIへ機械に「マイナンバー」 官民でデータ収集、DMG森など100社 - 日本経済新聞” — Die Dynamik wirkt aktuell wie Hintergrundrauschen. Band=quiet, score=5.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,125 +11,46 @@
   ],
   "top_dynamics": [
     {
-      "title": "trycua/cua",
-      "url": "https://github.com/trycua/cua",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-09-20T06:43:44+00:00",
-      "age_days": 0.71,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: local",
-        "high terms: rce",
-        "security high-signal: rce",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "extreme gate recheck: insufficient independent/current evidence"
-      ],
-      "summary": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation. https://cua.ai Give AI agents computers they can use. Cua provides open-source desktop automation, isolated cloud desktops, local macOS VMs, specialist decision models, and benchmarks for eva…"
-    },
-    {
-      "title": "ヨドバシ.com - 東プレ Topre REALFORCE RS1キーボード 左右分割式 79キー 日本語配列 ダークグレー S1UJ11 通販【全品無料配達】",
-      "url": "https://www.yodobashi.com/product/100000001010215183/",
+      "title": "国産AIへ機械に「マイナンバー」 官民でデータ収集、DMG森など100社 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUC148W70U6A710C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-19T15:38:44+00:00",
-      "age_days": 1.34,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "high terms: rce",
-        "security high-signal: rce",
-        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "coder/coder",
-      "url": "https://github.com/coder/coder",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-09-20T06:44:20+00:00",
-      "age_days": 0.71,
-      "topics": [],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "high terms: code",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "extreme gate recheck: insufficient independent/current evidence"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "trycua/cua",
-      "url": "https://github.com/trycua/cua",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-09-20T06:44:20+00:00",
-      "age_days": 0.71,
-      "topics": [],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "extreme gate recheck: insufficient independent/current evidence"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "coder/coder",
-      "url": "https://github.com/coder/coder",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-09-20T06:43:44+00:00",
-      "age_days": 0.71,
+      "published_at": "2026-06-19T02:10:07+00:00",
+      "age_days": 93.94,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "aging penalty -8.0 for 93.9d old signal",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "国産AIへ機械に「マイナンバー」 官民でデータ収集、DMG森など100社 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOUC148W70U6A710C2000000/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-20T20:44:59+00:00",
+      "age_days": 0.16,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 4.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 0,
@@ -137,186 +58,11 @@
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "high terms: code",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],
-      "summary": "Secure environments for developers and their agents https://coder.com Self-Hosted Cloud Development Environments and AI Agents Quickstart | Docs | Why Coder | Premium Coder is a self-hosted platform for cloud development environments and AI coding agents. Workspaces are defined with Terraform, connected through a secu…"
-    },
-    {
-      "title": "M 5.1 - 14 km WNW of Naze, Japan",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tipl",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-12T20:54:37+00:00",
-      "age_days": 8.12,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 22.5,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "ヨドバシ.com - 東プレ Topre REALFORCE RS1キーボード 左右分割式 79キー 日本語配列 ダークグレー S1UJ11 通販【全品無料配達】",
-      "url": "https://www.yodobashi.com/product/100000001010215183/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-19T10:23:21+00:00",
-      "age_days": 1.56,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 22.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: rce, 10",
-        "security high-signal: rce, 10"
-      ],
-      "summary": "東プレ Topre REALFORCE RS1キーボード 左右分割式 79キー 日本語配列 ダークグレー S1UJ11 ￥55,000550 ゴールドポイント（1％還元）ただいま予約受付中！発売日にお届け日本全国配達料金無料"
-    },
-    {
-      "title": "Open-Dev-Society/OpenStock",
-      "url": "https://github.com/Open-Dev-Society/OpenStock",
-      "source": "GitHub Trending RSS All Languages Daily",
-      "published_at": "2026-09-20T06:43:44+00:00",
-      "age_days": 0.71,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 22.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "high terms: rce",
-        "security high-signal: rce"
-      ],
-      "summary": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free. https://openstock-ods.vercel.app New from Open Dev Society: kitbash . Before you build, find out which parts already…"
-    },
-    {
-      "title": "M 5.0 - 103 km W of Hihifo, Tonga",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tip2",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-20T05:31:59+00:00",
-      "age_days": 0.76,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 21.5,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "high terms: 10"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 5.3 - 108 km ESE of Yigo Village, Guam",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tinl",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-20T04:02:34+00:00",
-      "age_days": 0.82,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 21.5,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "high terms: 10"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "M 5.7 - south of Africa",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tit5",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-20T21:17:53.477+00:00",
-      "age_days": 0.11,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 21.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "early terms: earthquake",
-        "high terms: 10"
-      ],
-      "summary": "PAGER - GREEN ShakeMap - I Time 2026-09-20 20:54:37 UTC 2026-09-20 20:54:37 UTC at epicenter Location 48.428°S 31.235°E Depth 10.00 km (6.21 mi)"
-    },
-    {
-      "title": "M 5.7 - south of Africa",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tit5",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-20T21:21:20+00:00",
-      "age_days": 0.1,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 20.5,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
+      "summary": "政府とDMG森精機やコマツなど機械大手が連携しロボットなどを自律的に動かすフィジカルAI（人工知能）の実装に向けた学習データを収集する。工場内の機械に住民の「マイナンバー」のような共通ID（個体識別番号）を割り当て、メーカーの垣根を越えて製造データを吸い上げる。政府は2040年までに日本のAIロボット産業を世..."
     }
   ],
   "read_order": [
@@ -328,7 +74,7 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 12
+      "quiet": 2
     }
   }
 }
