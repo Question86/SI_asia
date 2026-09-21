@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-21T04:11:11+00:00",
+  "generated_at": "2026-09-21T04:32:54+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -775,7 +775,7 @@
       "p90_usd": 11920000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-31T08:30:56+00:00",
-      "last_seen_at": "2026-09-21T04:10:56+00:00",
+      "last_seen_at": "2026-09-21T04:32:33+00:00",
       "status": "active"
     },
     {
@@ -1559,6 +1559,23 @@
       "first_seen_at": "2026-09-16T20:41:33+00:00",
       "last_seen_at": "2026-09-16T23:55:27+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_2def76395ca90a95c178",
+      "title": "M 4.5 - 4 km W of Victor Raul, Peru",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1128000.0,
+      "p50_usd": 112800000.0,
+      "p90_usd": 11280000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-21T04:10:56+00:00",
+      "last_seen_at": "2026-09-21T04:32:33+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_300e23dbbf1c1d85813e",
@@ -2377,23 +2394,6 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_2def76395ca90a95c178",
-      "title": "M 4.5 - 4 km W of Victor Raul, Peru",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1128000.0,
-      "p50_usd": 112800000.0,
-      "p90_usd": 11280000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-09-21T04:10:56+00:00",
-      "last_seen_at": "2026-09-21T04:10:56+00:00",
-      "status": "active"
-    },
-    {
       "event_id": "evt_058a0e17878f3797ed5c",
       "title": "M 4.6 - 170 km ESE of Kuril’sk, Russia",
       "event_classes": [
@@ -2441,7 +2441,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-21T01:38:24+00:00",
-      "last_seen_at": "2026-09-21T04:10:56+00:00",
+      "last_seen_at": "2026-09-21T04:32:33+00:00",
       "status": "active"
     },
     {
@@ -4906,7 +4906,7 @@
       "p90_usd": 1224000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-21T01:03:04+00:00",
-      "last_seen_at": "2026-09-21T04:10:56+00:00",
+      "last_seen_at": "2026-09-21T04:32:33+00:00",
       "status": "active"
     },
     {
@@ -5195,7 +5195,7 @@
       "p90_usd": 1192000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-21T03:27:24+00:00",
-      "last_seen_at": "2026-09-21T04:10:56+00:00",
+      "last_seen_at": "2026-09-21T04:32:33+00:00",
       "status": "active"
     },
     {
@@ -5416,7 +5416,24 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-21T04:10:56+00:00",
+      "last_seen_at": "2026-09-21T04:32:33+00:00",
+      "status": "active"
+    },
+    {
+      "event_id": "evt_ddafeb5abed4dc8b9f0d",
+      "title": "ITM Semiconductor’s Vietnam unit hit by fraud and widening losses",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 118400.0,
+      "p50_usd": 11840000.0,
+      "p90_usd": 1184000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-21T04:32:33+00:00",
+      "last_seen_at": "2026-09-21T04:32:33+00:00",
       "status": "active"
     },
     {
@@ -6555,7 +6572,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-21T02:33:04+00:00",
-      "last_seen_at": "2026-09-21T04:10:56+00:00",
+      "last_seen_at": "2026-09-21T04:32:33+00:00",
       "status": "active"
     },
     {
@@ -7099,7 +7116,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-19T14:18:56+00:00",
-      "last_seen_at": "2026-09-21T04:10:56+00:00",
+      "last_seen_at": "2026-09-21T04:32:33+00:00",
       "status": "active"
     },
     {
@@ -7439,7 +7456,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-21T01:03:04+00:00",
-      "last_seen_at": "2026-09-21T04:10:56+00:00",
+      "last_seen_at": "2026-09-21T04:32:33+00:00",
       "status": "active"
     },
     {
@@ -10024,7 +10041,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-21T01:03:04+00:00",
-      "last_seen_at": "2026-09-21T04:10:56+00:00",
+      "last_seen_at": "2026-09-21T04:32:33+00:00",
       "status": "active"
     },
     {
@@ -10313,7 +10330,7 @@
       "p90_usd": 1096000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-21T02:50:56+00:00",
-      "last_seen_at": "2026-09-21T04:10:56+00:00",
+      "last_seen_at": "2026-09-21T04:32:33+00:00",
       "status": "active"
     },
     {
@@ -10704,7 +10721,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-21T02:33:04+00:00",
-      "last_seen_at": "2026-09-21T04:10:56+00:00",
+      "last_seen_at": "2026-09-21T04:32:33+00:00",
       "status": "active"
     },
     {
@@ -10993,7 +11010,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-21T01:03:04+00:00",
-      "last_seen_at": "2026-09-21T04:10:56+00:00",
+      "last_seen_at": "2026-09-21T04:32:33+00:00",
       "status": "active"
     },
     {
@@ -11673,7 +11690,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T12:58:27+00:00",
-      "last_seen_at": "2026-09-21T04:10:56+00:00",
+      "last_seen_at": "2026-09-21T04:32:33+00:00",
       "status": "active"
     },
     {
@@ -11741,7 +11758,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-21T01:59:26+00:00",
-      "last_seen_at": "2026-09-21T04:10:56+00:00",
+      "last_seen_at": "2026-09-21T04:32:33+00:00",
       "status": "active"
     },
     {
@@ -12812,7 +12829,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-21T02:33:04+00:00",
-      "last_seen_at": "2026-09-21T04:10:56+00:00",
+      "last_seen_at": "2026-09-21T04:32:33+00:00",
       "status": "active"
     },
     {
@@ -13441,7 +13458,7 @@
       "p90_usd": 1072000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-21T01:38:24+00:00",
-      "last_seen_at": "2026-09-21T04:10:56+00:00",
+      "last_seen_at": "2026-09-21T04:32:33+00:00",
       "status": "active"
     },
     {

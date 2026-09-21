@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-21T04:11:21+00:00",
+  "generated_at": "2026-09-21T04:33:04+00:00",
   "events": [
     {
       "event_id": "evt_010865faf79d8c1f952b",
@@ -1391,12 +1391,12 @@
     {
       "event_id": "evt_2def76395ca90a95c178",
       "title": "M 4.5 - 4 km W of Victor Raul, Peru",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -7470,6 +7470,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_ddafeb5abed4dc8b9f0d",
+      "title": "ITM Semiconductor’s Vietnam unit hit by fraud and widening losses",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_ddb3feee8c417946fb8c",
