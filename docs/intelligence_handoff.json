@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-21T07:08:29Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Why Singapore SMEs should treat cybersecurity as a sales issue” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
+  "generated_at": "2026-09-21T07:55:44Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Ant International Launches Industry’s First Full-Stack AI-Native Solutions for Payment, Account, FX, Treasury and Growth Operations for Global Businesses” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,63 @@
   ],
   "top_dynamics": [
     {
+      "title": "Ant International Launches Industry’s First Full-Stack AI-Native Solutions for Payment, Account, FX, Treasury and Growth Operations for Global Businesses",
+      "url": "https://e27.co/ant-international-launches-industrys-first-full-stack-ai-native-solutions-for-payment-account-fx-treasury-and-growth-operations-for-global-businesses-20260921/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-21T06:48:28+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: security"
+      ],
+      "summary": "In an industry first, Ant International launched a full stack of AI-native solutions for payment, account, FX, treasury and growth operations for global businesses. Unveiled at Ant International’s annual VOYAGE executive merchant forum, the AI-native product suite is built on a 2-layered security architecture, and Ant…"
+    },
+    {
+      "title": "Warnung vor Angriffen auf Linux-Schwachstellen",
+      "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Linux-Schwachstellen-11459555.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-06-19T07:39:37+00:00",
+      "age_days": 94.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 25.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "high terms: angriffe",
+        "security high-signal: angriffe",
+        "aging penalty -8.0 for 94.0d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Why Singapore SMEs should treat cybersecurity as a sales issue",
       "url": "https://e27.co/why-singapore-smes-should-treat-cybersecurity-as-a-sales-issue-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T03:00:15+00:00",
-      "age_days": 0.17,
+      "age_days": 0.21,
       "topics": [
         "security",
         "macro"
@@ -41,7 +93,7 @@
       "url": "https://github.com/anthropics/financial-services",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-21T06:46:47+00:00",
-      "age_days": 0.02,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -67,7 +119,7 @@
       "url": "https://e27.co/the-ai-productivity-paradox-why-finance-must-move-beyond-automation-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T02:33:04+00:00",
-      "age_days": 0.19,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -94,7 +146,7 @@
       "url": "https://www.du-soleil.com/entry/unify-into-google-ai-pro",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-21T01:03:04+00:00",
-      "age_days": 0.25,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
@@ -121,7 +173,7 @@
       "url": "https://e27.co/why-singapore-smes-should-treat-cybersecurity-as-a-sales-issue-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T03:27:24+00:00",
-      "age_days": 0.15,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -147,7 +199,7 @@
       "url": "https://www.du-soleil.com/entry/unify-into-google-ai-pro",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-20T09:58:00+00:00",
-      "age_days": 0.88,
+      "age_days": 0.92,
       "topics": [
         "ai",
         "macro"
@@ -174,7 +226,7 @@
       "url": "https://e27.co/itm-semiconductors-vietnam-unit-hit-by-fraud-and-widening-losses-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T04:32:33+00:00",
-      "age_days": 0.11,
+      "age_days": 0.14,
       "topics": [
         "general"
       ],
@@ -199,7 +251,7 @@
       "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Linux-Schwachstellen-11459555.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-21T06:16:00.000+00:00",
-      "age_days": 0.04,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -220,11 +272,11 @@
       "summary": "Die US-amerikanische IT-Sicherheitsbehörde CISA warnt vor beobachteten Angriffen auf Linux-Lücken. Updates stehen bereit."
     },
     {
-      "title": "M 5.5 - 35 km NNE of Ruteng, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiur",
+      "title": "M 5.0 - 34 km WNW of Luwuk, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiw4",
       "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-21T01:57:30.040+00:00",
-      "age_days": 0.22,
+      "published_at": "2026-09-21T07:51:52.040+00:00",
+      "age_days": 0.0,
       "topics": [
         "disaster"
       ],
@@ -240,16 +292,16 @@
       "single_source_ai_capped": false,
       "why": [
         "early terms: earthquake",
-        "high terms: 10"
+        "high terms: 9.8"
       ],
-      "summary": "Time 2026-09-21 01:41:36 UTC 2026-09-21 01:41:36 UTC at epicenter Location 8.307°S 120.579°E Depth 10.00 km (6.21 mi)"
+      "summary": "Time 2026-09-21 07:31:07 UTC 2026-09-21 07:31:07 UTC at epicenter Location 0.856°S 122.496°E Depth 9.86 km (6.13 mi)"
     },
     {
       "title": "BuilderIO/agent-native",
       "url": "https://github.com/BuilderIO/agent-native",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-21T06:46:47+00:00",
-      "age_days": 0.02,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -268,61 +320,6 @@
         "security high-signal: rce, code"
       ],
       "summary": "A framework for building agentic apps https://www.agent-native.com Agent-Native Agent-Native is an open-source TypeScript framework for building agents that pair autonomous work with a purpose-built UI. Define each capability once as an action : the agent uses it as a tool, and the UI calls it from code. Quick start n…"
-    },
-    {
-      "title": "The AI productivity paradox: Why finance must move beyond automation",
-      "url": "https://e27.co/the-ai-productivity-paradox-why-finance-must-move-beyond-automation-20260920/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-21T02:30:36+00:00",
-      "age_days": 0.19,
-      "topics": [
-        "ai",
-        "macro"
-      ],
-      "dynamics_score": 21.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "For decades, productivity in finance meant closing the books faster, reducing transaction costs and improving reporting. Artificial intelligence changes that equation, because it can do more than execute routine work. It can interpret variances, detect anomalies, generate forecasts, test scenarios and recommend action…"
-    },
-    {
-      "title": "Warnung vor Angriffen auf Linux-Schwachstellen",
-      "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Linux-Schwachstellen-11459555.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 93.98,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 19.9,
-      "raw_band": "krass",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "high terms: angriffe",
-        "security high-signal: angriffe",
-        "aging penalty -8.0 for 94.0d old signal",
-        "stale single-source cap after 30d: no current exploitation phrase"
-      ],
-      "summary": ""
     }
   ],
   "read_order": [
@@ -334,8 +331,7 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 11,
-      "watch": 1
+      "strong": 12
     }
   }
 }
