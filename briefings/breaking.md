@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-09-21T11:21:41+00:00_
+_Generiert: 2026-09-21T11:32:50+00:00_
 
 ## HarnessTax: How Much Does the Harness Matter for Coding Agents?
 
