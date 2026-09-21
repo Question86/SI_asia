@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-21T01:38:22+00:00_
+_Generated: 2026-09-21T01:59:23+00:00_
 
 ## Status
 - status: `normal`
-- findings: `7`
+- findings: `10`
 
 ## Top Signals
 
@@ -15,28 +15,35 @@ _Generated: 2026-09-21T01:38:22+00:00_
 - url: https://www.du-soleil.com/entry/unify-into-google-ai-pro
 - summary: AIサブスクをGeminiに一本化した これまでプライベートで行なってきた開発作業や文章執筆において、Claude Code や OpenAI Codex などさまざまな AI サービスを試してきた。自腹で月額200ドルのプランを契約していた時期さえあったのだけど、仕事でのAI利用が一般化し、その反動として休日にはMacやスマートフォンなどを...
 
-### 2. Crypto is dead? Apparently not, says Y Combinator – Blockchain is still worth building
+### 2. M 5.5 - 35 km NNE of Ruteng, Indonesia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-09-21T01:57:30.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiur
+- summary: Time 2026-09-21 01:41:36 UTC 2026-09-21 01:41:36 UTC at epicenter Location 8.307°S 120.579°E Depth 10.00 km (6.21 mi)
+
+### 3. Crypto is dead? Apparently not, says Y Combinator – Blockchain is still worth building
 - source: e27 Asia Startup and Tech Feed
 - score: `11`
 - published: `2026-09-21T01:00:51+00:00`
 - url: https://e27.co/crypto-is-dead-apparently-not-says-y-combinator-blockchain-is-still-worth-building-20260918/
 - summary: Every cycle, people say that crypto is dead. By retail, and by funding. Attention moves on to the next bubble, this time it is AI. However, when Y Combinator published its list of Biggest Startup Opportunities of 2026, crypto kept its place alongside AI, heal…
 
-### 3. M 4.9 - 26 km SE of Saimbeyli, Turkey
+### 4. M 4.9 - 26 km SE of Saimbeyli, Turkey
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-09-21T01:25:41.887+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiui
 - summary: DYFI? - III Time 2026-09-21 01:02:04 UTC 2026-09-21 01:02:04 UTC at epicenter Location 37.814°N 36.299°E Depth 10.00 km (6.21 mi)
 
-### 4. Geminiが使えるスマートウォッチ「Google Pixel Watch 5」を使ってみた
+### 5. Geminiが使えるスマートウォッチ「Google Pixel Watch 5」を使ってみた
 - source: Hatena Bookmark Hotentry IT
 - score: `8`
 - published: `2026-09-20T23:01:58+00:00`
 - url: https://gigazine.net/news/20260921-google-pixel-watch-review/
 - summary: 外観レビューに続いて「Google Pixel Watch 5」を実際に使ってみました。ワークアウトや睡眠測定を行っています。 Google Pixel Watch 5 - AI が導く、もっといい自分へ https://store.google.com/jp/product/pixel_watch_5?hl=ja 初回使用時はBluetoothによるペアリングが必要。PixelスマートフォンでなくともAndroid 1...
 
-### 5. 国産AIへ機械に「マイナンバー」 官民でデータ収集、DMG森など100社 - 日本経済新聞
+### 6. 国産AIへ機械に「マイナンバー」 官民でデータ収集、DMG森など100社 - 日本経済新聞
 - source: Hatena Bookmark Hotentry IT
 - score: `7`
 - published: `2026-09-20T20:44:59+00:00`
