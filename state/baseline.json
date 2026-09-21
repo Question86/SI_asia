@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-21T00:09:01+00:00",
+  "generated_at": "2026-09-21T01:03:04+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -3886,7 +3886,7 @@
     },
     "domain:www.nikkei.com": {
       "title": "国産AIへ機械に「マイナンバー」 官民でデータ収集、DMG森など100社 - 日本経済新聞",
-      "updated_at": "2026-09-21T00:09:01+00:00",
+      "updated_at": "2026-09-21T01:03:04+00:00",
       "network_scores": [
         12.1,
         12.1,
@@ -3916,13 +3916,13 @@
         12.1,
         12.1,
         12.1,
-        12.1,
+        9.1,
         9.1
       ],
-      "rolling_average": 12.0,
+      "rolling_average": 11.9,
       "rolling_peak": 12.1,
       "last_score": 9.1,
-      "z_hint": -2.9
+      "z_hint": -2.8
     },
     "title:economy-moving-faster-than-our-institutions": {
       "title": "The AI economy is moving faster than our institutions",
@@ -40640,6 +40640,50 @@
       "rolling_peak": 14.7,
       "last_score": 11.7,
       "z_hint": -1.5
+    },
+    "domain:www.du-soleil.com": {
+      "title": "Google AI Pro(2,900円)へのAIサブスク統一でYouTube Premium LiteとGoogle Cloud費用と色々が実質無料 - 太陽がまぶしかったから",
+      "updated_at": "2026-09-21T01:03:04+00:00",
+      "network_scores": [
+        28.1
+      ],
+      "rolling_average": 28.1,
+      "rolling_peak": 28.1,
+      "last_score": 28.1,
+      "z_hint": 0.0
+    },
+    "title:crypto-dead-apparently-not-says-combinator-blockchain-still": {
+      "title": "Crypto is dead? Apparently not, says Y Combinator – Blockchain is still worth building",
+      "updated_at": "2026-09-21T01:03:04+00:00",
+      "network_scores": [
+        16.1
+      ],
+      "rolling_average": 16.1,
+      "rolling_peak": 16.1,
+      "last_score": 16.1,
+      "z_hint": 0.0
+    },
+    "domain:store.google.com": {
+      "title": "Geminiが使えるスマートウォッチ「Google Pixel Watch 5」を使ってみた",
+      "updated_at": "2026-09-21T01:03:04+00:00",
+      "network_scores": [
+        13.1
+      ],
+      "rolling_average": 13.1,
+      "rolling_peak": 13.1,
+      "last_score": 13.1,
+      "z_hint": 0.0
+    },
+    "github_repo:fallow-rs/fallow": {
+      "title": "GitHub - fallow-rs/fallow: Codebase intelligence for TypeScript and JavaScript. Free static layer: unused code, duplication, circular deps, complexity hotspots, architecture boundaries. Optional paid runtime layer: hot-path review and cold-path deletion e",
+      "updated_at": "2026-09-21T01:03:04+00:00",
+      "network_scores": [
+        11.1
+      ],
+      "rolling_average": 11.1,
+      "rolling_peak": 11.1,
+      "last_score": 11.1,
+      "z_hint": 0.0
     }
   }
 }
