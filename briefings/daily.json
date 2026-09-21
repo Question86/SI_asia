@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T23:44:45+00:00",
-  "today_file_total": 89,
+  "generated_at": "2026-09-21T23:52:21+00:00",
+  "today_file_total": 90,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -332,6 +332,30 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
+      "key": "domain:www.nikkei.com",
+      "title": "中国AIのKimi、米Claudeに｢代理回答｣させる アンソロピックが指摘 - 日本経済新聞",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.nikkei.com/article/DGXZQOGN15BV70V10C26A9000000/",
+        "https://www.nikkei.com/article/DGXZQOUC148W70U6A710C2000000/"
+      ],
+      "finding_count": 2,
+      "max_score": 10,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 17.2,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
       "key": "title:sea-venture-capital-shifts-mega-rounds-saas",
       "title": "SEA’s venture capital shifts from mega-rounds to AI and SaaS",
       "sources": [
@@ -470,31 +494,6 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "earthquake:m 4.5 - 5 km sw of san antonio, colombia:4.5",
-      "title": "M 4.5 - 5 km SW of San Antonio, Colombia",
-      "sources": [
-        "USGS M4.5+ Earthquakes Past Hour"
-      ],
-      "source_classes": [
-        "tier1_official"
-      ],
-      "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tizt"
-      ],
-      "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.35,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 13.7,
-      "hot": false,
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     }
   ]
 }

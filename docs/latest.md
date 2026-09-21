@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-21T23:44:43+00:00_
+_Generiert: 2026-09-21T23:52:19+00:00_
 
 ## Kurzlage
 
-89 neue relevante Treffer. Stärkstes Signal: „Google AI Pro(2,900円)へのAIサブスク統一でYouTube Premium LiteとGoogle Cloud費用と色々が実質無料 - 太陽がまぶしかったから“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+90 neue relevante Treffer. Stärkstes Signal: „Google AI Pro(2,900円)へのAIサブスク統一でYouTube Premium LiteとGoogle Cloud費用と色々が実質無料 - 太陽がまぶしかったから“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -276,14 +276,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)
   - Kurz: Une vulnérabilité a été découverte dans Microsoft Windows. Elle permet à un attaquant de provoquer une élévation de privilèges.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **anthropics/financial-services** — Score 10, observation — [Quelle](https://github.com/anthropics/financial-services)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-09-21T06:46:47+00:00`
-  - Treffer: AI Agents, APAC Trend Radar, GitHub Trending
+- **中国AIのKimi、米Claudeに｢代理回答｣させる アンソロピックが指摘 - 日本経済新聞** — Score 10, observation — [Quelle](https://www.nikkei.com/article/DGXZQOGN15BV70V10C26A9000000/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-21T19:48:44+00:00`, fetched `2026-09-21T23:51:51+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is available two ways from one source : install it as a Claude Cowork plugin, or deploy it through the Claude Managed Agents API behind your own workflow engine. Same system prompt, same skills — you…
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
+  - Kurz: 【シリコンバレー=山田遼太郎】米アンソロピックが中国企業による人工知能（AI）の新たな不正使用を指摘している。利用者の質問をアンソロピックの高性能AI「クロード」に転送し、その回答を自社AIの回答だと装って示すケースが確認されたという。やり取りのデータを自社AIに学習させ、性能を高めようとしたとみられる。...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
