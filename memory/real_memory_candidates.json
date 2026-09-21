@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-09-21T10:14:55Z",
+  "generated_at": "2026-09-21T10:31:13Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -22,11 +22,6 @@
     }
   ],
   "current_dynamic_memory_candidates": [
-    {
-      "title": "Eurosystem brings central bank money to tokenised finance",
-      "band": "krass",
-      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
-    },
     {
       "title": "[NEU] [UNGEPATCHT] [kritisch] D-LINK Router DIR-822A: Schwachstelle ermöglicht Codeausführung",
       "band": "krass",
@@ -59,6 +54,11 @@
     },
     {
       "title": "[NEU] [mittel] Red Hat Enterprise Linux (abrt): Mehrere Schwachstellen ermöglichen Manipulation von Dateien",
+      "band": "krass",
+      "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
+    },
+    {
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (perl-Net-DNS): Schwachstelle ermöglicht Denial of Service",
       "band": "krass",
       "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
     }

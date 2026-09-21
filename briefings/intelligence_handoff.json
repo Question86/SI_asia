@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-21T10:14:55Z",
+  "generated_at": "2026-09-21T10:31:13Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [kritisch] D-LINK Router DIR-822A: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3468",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-21T09:56:32+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3469",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-21T10:01:31+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -65,7 +65,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3456",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-21T08:46:33+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -90,7 +90,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3461",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-21T08:46:32+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "security"
@@ -112,11 +112,35 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in HCL BigFix ausnutzen, um Sicherheitsmaßnahmen zu umgehen, erweiterte Berechtigungen zu erlangen, beliebigen Code auszuführen, Daten offenzulegen oder zu manipulieren, SQL-Injection- oder Cross-Site-Scripting-Angriffe durchzuführen oder serverseitige Request-Forgery- sowie B…"
     },
     {
+      "title": "[UPDATE] [mittel] GNU libc: Schwachstelle ermöglicht nicht spezifizierten Angriff",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3063",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-21T10:16:31+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 26.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: cert-bund, bsi, security, advisory"
+      ],
+      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in GNU libc ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen."
+    },
+    {
       "title": "[NEU] [mittel] IBM i: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3471",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-21T10:01:31+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -140,7 +164,7 @@
       "url": "https://e27.co/seas-venture-capital-shifts-from-mega-rounds-to-ai-and-saas-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T08:20:51+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -166,7 +190,7 @@
       "url": "https://e27.co/why-singapore-smes-should-treat-cybersecurity-as-a-sales-issue-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T03:00:15+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "security",
         "macro"
@@ -192,7 +216,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3470",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-21T10:01:31+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "security"
       ],
@@ -217,7 +241,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3447",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-21T08:46:31+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -242,7 +266,7 @@
       "url": "https://github.com/anthropics/financial-services",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-21T06:46:47+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -268,7 +292,7 @@
       "url": "https://e27.co/the-ai-productivity-paradox-why-finance-must-move-beyond-automation-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T02:33:04+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "ai"
       ],
@@ -289,34 +313,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
-    },
-    {
-      "title": "Eurosystem brings central bank money to tokenised finance",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921~e754847a7b.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
-      "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 94.82,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 19.9,
-      "raw_band": "krass",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "high terms: rce",
-        "security high-signal: rce",
-        "aging penalty -8.0 for 94.8d old signal",
-        "stale single-source cap after 30d: no current exploitation phrase"
-      ],
-      "summary": ""
     }
   ],
   "read_order": [
@@ -329,8 +325,7 @@
   "counts": {
     "bands_after_gate_recheck": {
       "krass": 4,
-      "strong": 7,
-      "watch": 1
+      "strong": 8
     }
   }
 }
