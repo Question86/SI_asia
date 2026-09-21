@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-21T08:33:52+00:00_
+_Generated: 2026-09-21T08:51:25+00:00_
 
 ## Status
 - status: `normal`
-- findings: `33`
+- findings: `38`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-09-21T08:33:52+00:00_
 - url: https://e27.co/itm-semiconductors-vietnam-unit-hit-by-fraud-and-widening-losses-20260921/
 - summary: A fraud case at ITM Semiconductor’s Vietnam subsidiary has exposed a deeper problem at the South Korean battery components maker: its Vietnamese operation is not only dealing with an employee embezzlement case, but also a sharp deterioration in its financial…
 
-### 4. SEA’s venture capital shifts from mega-rounds to AI and SaaS
-- source: e27 Asia Startup and Tech Feed
-- score: `15`
-- published: `2026-09-21T08:20:51+00:00`
-- url: https://e27.co/seas-venture-capital-shifts-from-mega-rounds-to-ai-and-saas-20260921/
-- summary: Southeast Asia’s startup funding story is no longer being written by consumer super-apps or e-commerce land grabs. According to Tracxn data covering equity venture funding across eight major technology verticals from 2020 to July 9, 2026, Southeast Asian tech…
+### 4. [UPDATE] [mittel] Red Hat Enterprise Linux (perl-Net-DNS): Schwachstelle ermöglicht Denial of Service
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-09-21T08:46:31+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3447
+- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen.
 
 ### 5. The AI productivity paradox: Why finance must move beyond automation
 - source: e27 Asia Startup and Tech Feed

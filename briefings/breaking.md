@@ -1,19 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-09-21T08:33:56+00:00_
+_Generiert: 2026-09-21T08:51:29+00:00_
 
-## SEA’s venture capital shifts from mega-rounds to AI and SaaS
-
-- Ranking Score: `24.5`
-- Raw Network Score: `20.1`
-- Max Monitor Score: `15`
-- Reichweite: `specialist` / `2.5`
-- Early Signal: `ja`
-- Dominanter Emitter: `nein`
-- Quellen: e27 Asia Startup and Tech Feed
-- Klassen: tier3_specialist
-- Cross-source bestaetigt: nein
-- Momentum: increasing (+1)
-- Erste Quelle: https://e27.co/seas-venture-capital-shifts-from-mega-rounds-to-ai-and-saas-20260921/
-- Handlung: HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.
+Keine Breaking-Signale. Kleine Signale bleiben im Network Hub sichtbar.
 
