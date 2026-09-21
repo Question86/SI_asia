@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-21T10:54:49+00:00_
+_Generated: 2026-09-21T11:02:25+00:00_
 
 ## Status
 - status: `normal`
-- findings: `56`
+- findings: `59`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-09-21T10:54:49+00:00_
 - url: https://www.du-soleil.com/entry/unify-into-google-ai-pro
 - summary: AIサブスクをGeminiに一本化した これまでプライベートで行なってきた開発作業や文章執筆において、Claude Code や OpenAI Codex などさまざまな AI サービスを試してきた。自腹で月額200ドルのプランを契約していた時期さえあったのだけど、仕事でのAI利用が一般化し、その反動として休日にはMacやスマートフォンなどを...
 
-### 2. Why Singapore SMEs should treat cybersecurity as a sales issue
+### 2. HarnessTax: How Much Does the Harness Matter for Coding Agents?
+- source: Hatena Bookmark Hotentry IT
+- score: `22`
+- published: `2026-09-17T23:10:09+00:00`
+- url: https://harnesstax.github.io/
+- summary: What does a coding-agent harness actually add, and at what cost? It turns out your Claude models may not need Claude Code… We evaluate 21 model–harness pairs spanning seven models and three harnesses—Claude Code, Codex CLI, and Pi—on SWE-bench Lite and Termin…
+
+### 3. Why Singapore SMEs should treat cybersecurity as a sales issue
 - source: e27 Asia Startup and Tech Feed
 - score: `19`
 - published: `2026-09-21T03:00:15+00:00`
 - url: https://e27.co/why-singapore-smes-should-treat-cybersecurity-as-a-sales-issue-20260920/
 - summary: Consider a small services firm preparing to win its first major corporate account. The proposal is strong. The pricing is competitive. The team has shown that it can deliver. Then the prospective customer asks a different set of questions. Where will our info…
 
-### 3. ITM Semiconductor’s Vietnam unit hit by fraud and widening losses
+### 4. ITM Semiconductor’s Vietnam unit hit by fraud and widening losses
 - source: e27 Asia Startup and Tech Feed
 - score: `18`
 - published: `2026-09-21T04:26:25+00:00`
 - url: https://e27.co/itm-semiconductors-vietnam-unit-hit-by-fraud-and-widening-losses-20260921/
 - summary: A fraud case at ITM Semiconductor’s Vietnam subsidiary has exposed a deeper problem at the South Korean battery components maker: its Vietnamese operation is not only dealing with an employee embezzlement case, but also a sharp deterioration in its financial…
-
-### 4. [NEU] [hoch] WordPress: Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `17`
-- published: `2026-09-21T10:06:31+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3472
-- summary: Ein Angreifer kann mehrere Schwachstellen in WordPress ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, Cross-Site-Scripting-Angriffe durchzuführen oder Daten zu manipulieren und offenzulegen.
 
 ### 5. The AI productivity paradox: Why finance must move beyond automation
 - source: e27 Asia Startup and Tech Feed
