@@ -1,29 +1,55 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-21T03:18:25Z",
+  "generated_at": "2026-09-21T03:44:34Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 28,
+    "dynamics": 30,
     "bands": {
-      "krass": 1,
-      "strong": 4,
-      "watch": 6,
-      "quiet": 17
+      "krass": 2,
+      "strong": 5,
+      "watch": 7,
+      "quiet": 16
     },
     "bands_after_gate_recheck": {
-      "strong": 5,
-      "watch": 6,
-      "quiet": 17
+      "strong": 7,
+      "watch": 7,
+      "quiet": 16
     }
   },
   "top_dynamics": [
+    {
+      "title": "Why Singapore SMEs should treat cybersecurity as a sales issue",
+      "url": "https://e27.co/why-singapore-smes-should-treat-cybersecurity-as-a-sales-issue-20260920/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-21T03:00:15+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security",
+        "macro"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: security",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "Consider a small services firm preparing to win its first major corporate account. The proposal is strong. The pricing is competitive. The team has shown that it can deliver. Then the prospective customer asks a different set of questions. Where will our information be stored? Who can access it? What happens when an e…"
+    },
     {
       "title": "The AI productivity paradox: Why finance must move beyond automation",
       "url": "https://e27.co/the-ai-productivity-paradox-why-finance-must-move-beyond-automation-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T02:33:04+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -33,15 +59,41 @@
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +2",
+        "momentum delta +3",
         "AXI0M/User-Yps identity hit",
         "identity recheck: no AXI0M/User-Yps phrase hit",
         "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Why Singapore SMEs should treat cybersecurity as a sales issue",
+      "url": "https://e27.co/why-singapore-smes-should-treat-cybersecurity-as-a-sales-issue-20260920/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-21T03:27:24+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "security high-signal: security",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
     },
@@ -50,7 +102,7 @@
       "url": "https://www.du-soleil.com/entry/unify-into-google-ai-pro",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-21T01:03:04+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -77,7 +129,7 @@
       "url": "https://www.du-soleil.com/entry/unify-into-google-ai-pro",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-20T09:58:00+00:00",
-      "age_days": 0.72,
+      "age_days": 0.74,
       "topics": [
         "ai",
         "macro"
@@ -104,7 +156,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiur",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-21T01:57:30.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -129,7 +181,7 @@
       "url": "https://e27.co/the-ai-productivity-paradox-why-finance-must-move-beyond-automation-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T02:30:36+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "ai",
         "macro"
@@ -156,7 +208,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiur",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-31T08:30:56+00:00",
-      "age_days": 20.78,
+      "age_days": 20.8,
       "topics": [
         "general"
       ],
@@ -181,7 +233,7 @@
       "url": "https://gigazine.net/news/20260921-google-pixel-watch-review/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-21T01:03:04+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "general"
       ],
@@ -205,7 +257,7 @@
       "url": "https://e27.co/crypto-is-dead-apparently-not-says-y-combinator-blockchain-is-still-worth-building-20260918/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T01:03:04+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -232,7 +284,7 @@
       "url": "https://zenn.dev/cybernetics/articles/71ea975d935414",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T14:18:56+00:00",
-      "age_days": 1.54,
+      "age_days": 1.56,
       "topics": [
         "general"
       ],
@@ -252,11 +304,35 @@
       "summary": ""
     },
     {
+      "title": "01F Group backs DANA as Indonesia’s digital payments race enters its next phase",
+      "url": "https://e27.co/01f-group-backs-dana-as-indonesias-digital-payments-race-enters-its-next-phase-20260921/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-21T02:50:56+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 13.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +2"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Why I prefer boring businesses in a market obsessed with the next big thing",
       "url": "https://e27.co/why-i-prefer-boring-businesses-in-a-market-obsessed-with-the-next-big-thing-20260918/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T01:38:24+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "macro"
       ],
@@ -280,7 +356,7 @@
       "url": "https://github.com/fallow-rs/fallow",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-21T01:03:04+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -303,35 +379,11 @@
       "summary": ""
     },
     {
-      "title": "01F Group backs DANA as Indonesia’s digital payments race enters its next phase",
-      "url": "https://e27.co/01f-group-backs-dana-as-indonesias-digital-payments-race-enters-its-next-phase-20260921/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-21T02:50:56+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 11.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "M 4.9 - 26 km SE of Saimbeyli, Turkey",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiui",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-21T01:25:41.887+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "disaster"
@@ -359,7 +411,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiui",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-21T01:38:24+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -381,10 +433,62 @@
       "summary": ""
     },
     {
+      "title": "Sustainability reporting is not the goal. Better business decisions are",
+      "url": "https://e27.co/sustainability-reporting-is-not-the-goal-better-business-decisions-are-20260918/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-21T02:33:04+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 7.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "【西川和久の不定期コラム】 Qwen3.8で動画解析→生成AI動画プロンプト化してみた。LM Studioも対応",
       "url": "https://pc.watch.impress.co.jp/docs/column/nishikawa/2142517.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-21T01:59:26+00:00",
+      "age_days": 0.07,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 6.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "文章を生成しないAI「Jev」でCosmos DBのRAG検索結果をフィルタしてみた",
+      "url": "https://zenn.dev/nomhiro/articles/jev-cosmosdb-rag-filter-poc",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-21T02:33:04+00:00",
       "age_days": 0.05,
       "topics": [
         "ai"
@@ -411,7 +515,7 @@
       "url": "https://e27.co/crypto-is-dead-apparently-not-says-y-combinator-blockchain-is-still-worth-building-20260918/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T01:00:51+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -437,7 +541,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOUC148W70U6A710C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T02:10:07+00:00",
-      "age_days": 94.05,
+      "age_days": 94.07,
       "topics": [
         "ai"
       ],
@@ -455,7 +559,7 @@
         "momentum delta +3",
         "high terms: 10",
         "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 94.0d old signal",
+        "aging penalty -8.0 for 94.1d old signal",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
@@ -465,7 +569,7 @@
       "url": "https://zenn.dev/cybernetics/articles/71ea975d935414",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-20T21:36:04+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "ai",
         "security"
@@ -486,37 +590,11 @@
       "summary": "はじめに 最近、TypeSafe AIから公開されたJevについて考えている。 Jevを最初に見たときは、「LLMよりずっと軽くて速い分類器」という理解だった。自由に文章を書くモデルではなく、与えられた状態を見て、Choice、Score、Noulのような型付きの判断を返す。 たとえば、ある問い合わせが請求なのか不具合なのか、緊急度..."
     },
     {
-      "title": "Sustainability reporting is not the goal. Better business decisions are",
-      "url": "https://e27.co/sustainability-reporting-is-not-the-goal-better-business-decisions-are-20260918/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-21T02:33:04+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 4.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +2",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "国産AIへ機械に「マイナンバー」 官民でデータ収集、DMG森など100社 - 日本経済新聞",
       "url": "https://www.nikkei.com/article/DGXZQOUC148W70U6A710C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-20T20:44:59+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
@@ -542,7 +620,7 @@
       "url": "https://e27.co/why-i-prefer-boring-businesses-in-a-market-obsessed-with-the-next-big-thing-20260918/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T01:30:32+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "macro"
       ],
@@ -562,37 +640,11 @@
       "summary": "The startup world naturally rewards novelty. A new technology, a massive addressable market and a story about changing the world will always attract attention. I understand the appeal. I have spent much of my career around digital media, technology and entrepreneurs. But as an investor and operator, I have gradually b…"
     },
     {
-      "title": "文章を生成しないAI「Jev」でCosmos DBのRAG検索結果をフィルタしてみた",
-      "url": "https://zenn.dev/nomhiro/articles/jev-cosmosdb-rag-filter-poc",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-21T02:33:04+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 3.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +2",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Geminiが使えるスマートウォッチ「Google Pixel Watch 5」を使ってみた",
       "url": "https://gigazine.net/news/20260921-google-pixel-watch-review/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-20T23:01:58+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "ai"
       ],
@@ -617,7 +669,7 @@
       "url": "https://e27.co/01f-group-backs-dana-as-indonesias-digital-payments-race-enters-its-next-phase-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T02:35:35+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -642,7 +694,7 @@
       "url": "https://e27.co/sustainability-reporting-is-not-the-goal-better-business-decisions-are-20260918/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T02:00:11+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -667,7 +719,7 @@
       "url": "https://github.com/fallow-rs/fallow",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-04-22T23:31:43+00:00",
-      "age_days": 151.16,
+      "age_days": 151.18,
       "topics": [
         "ai"
       ],
@@ -694,7 +746,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/column/nishikawa/2142517.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-20T21:55:14+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -719,7 +771,7 @@
       "url": "https://zenn.dev/nomhiro/articles/jev-cosmosdb-rag-filter-poc",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T08:43:11+00:00",
-      "age_days": 1.77,
+      "age_days": 1.79,
       "topics": [
         "ai"
       ],
@@ -740,5 +792,5 @@
       "summary": "はじめに Jevが話題ですねー この頃わたしのXのタイムラインが、Jevだけで7割くらい埋まるようになりました。TypeSafe AIが2026年9月15日に発表した「Jev」というAIモデルです。文章を一切生成せず、「Choice（選択）」「Score（段階評価）」「Noul（Yes/No確率）」の3種類の判断だけを返すという分類器のようなモデル..."
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “The AI productivity paradox: Why finance must move beyond automation” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Why Singapore SMEs should treat cybersecurity as a sales issue” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
 }
