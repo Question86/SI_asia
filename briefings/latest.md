@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-21T22:57:51+00:00_
+_Generiert: 2026-09-21T23:14:52+00:00_
 
 ## Kurzlage
 
-88 neue relevante Treffer. Stärkstes Signal: „Google AI Pro(2,900円)へのAIサブスク統一でYouTube Premium LiteとGoogle Cloud費用と色々が実質無料 - 太陽がまぶしかったから“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+89 neue relevante Treffer. Stärkstes Signal: „Google AI Pro(2,900円)へのAIサブスク統一でYouTube Premium LiteとGoogle Cloud費用と色々が実質無料 - 太陽がまぶしかったから“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -323,6 +323,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); funding (+2.0); recent (+1.0); watchgraph region europe: NATO (+2.0)
   - Kurz: Every cycle, people say that crypto is dead. By retail, and by funding. Attention moves on to the next bubble, this time it is AI. However, when Y Combinator published its list of Biggest Startup Opportunities of 2026, crypto kept its place alongside AI, healthcare, defence, enterprise software, and climate technology. What surprised me was […] The post Crypto is dead? Apparently not, says Y Combinator – Blockchain…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **AIでMVを作るのは想像以上に大変だった 制作34時間、繰り返した“ダメ出し”でわかったこと (1/6)** — Score 11, observation — [Quelle](https://ascii.jp/elem/000/004/436/4436544/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-20T22:42:42+00:00`, fetched `2026-09-21T23:14:13+00:00`
+  - Treffer: Hatena, hotentry, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: GPT-6 Astraで作ったMVの話です。 9月3日に公開されたGPT-6 Astraは、アートに対する理解力も表現力も、これまでと比べて劇的に向上しています。特定の楽曲に合わせて、方針の設計も含め、ミュージックビデオ（MV）を作らせたらどうなるのか実験しました。そのまま任せると意図と違う方向へ進むこともあるため、人間が適...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Vulnérabilité dans Microsoft Windows (15 septembre 2026)** — Score 11, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1174/)
   - Quelle: CERT-FR Avis de sécurité / `rss`
   - Zeit: published `2026-09-15T00:00:00+00:00`, fetched `2026-09-21T13:30:05+00:00`
@@ -340,15 +349,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Claude for Financial Services Reference agents, skills, and data connectors for the financial-services workflows we see most — investment banking, equity research, private equity, and wealth management. Everything here is available two ways from one source : install it as a Claude Cowork plugin, or deploy it through the Claude Managed Agents API behind your own workflow engine. Same system prompt, same skills — you…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Eurosystem brings central bank money to tokenised finance** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921~e754847a7b.en.html)
-  - Quelle: ECB Press Releases Speeches Interviews / `rss`
-  - Zeit: published `2026-09-21T10:00:00+00:00`, fetched `2026-09-21T10:05:38+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
-  - Kurz: Eurosystem brings central bank money to tokenised finance
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
