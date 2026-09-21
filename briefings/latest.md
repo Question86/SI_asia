@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-21T01:03:00+00:00_
+_Generiert: 2026-09-21T01:38:22+00:00_
 
 ## Kurzlage
 
-5 neue relevante Treffer. Stärkstes Signal: „Google AI Pro(2,900円)へのAIサブスク統一でYouTube Premium LiteとGoogle Cloud費用と色々が実質無料 - 太陽がまぶしかったから“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+7 neue relevante Treffer. Stärkstes Signal: „Google AI Pro(2,900円)へのAIサブスク統一でYouTube Premium LiteとGoogle Cloud費用と色々が実質無料 - 太陽がまぶしかったから“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -94,6 +94,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); funding (+2.0); recent (+1.0); watchgraph region europe: NATO (+2.0)
   - Kurz: Every cycle, people say that crypto is dead. By retail, and by funding. Attention moves on to the next bubble, this time it is AI. However, when Y Combinator published its list of Biggest Startup Opportunities of 2026, crypto kept its place alongside AI, healthcare, defence, enterprise software, and climate technology. What surprised me was […] The post Crypto is dead? Apparently not, says Y Combinator – Blockchain…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.9 - 26 km SE of Saimbeyli, Turkey** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiui)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-21T01:25:41.887+00:00`, fetched `2026-09-21T01:37:55+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: DYFI? - III Time 2026-09-21 01:02:04 UTC 2026-09-21 01:02:04 UTC at epicenter Location 37.814°N 36.299°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Geminiが使えるスマートウォッチ「Google Pixel Watch 5」を使ってみた** — Score 8, observation — [Quelle](https://gigazine.net/news/20260921-google-pixel-watch-review/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-20T23:01:58+00:00`, fetched `2026-09-21T01:02:24+00:00`
@@ -120,6 +129,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.5)
   - Kurz: You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Why I prefer boring businesses in a market obsessed with the next big thing** — Score 4, observation — [Quelle](https://e27.co/why-i-prefer-boring-businesses-in-a-market-obsessed-with-the-next-big-thing-20260918/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-21T01:30:32+00:00`, fetched `2026-09-21T01:37:55+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: The startup world naturally rewards novelty. A new technology, a massive addressable market and a story about changing the world will always attract attention. I understand the appeal. I have spent much of my career around digital media, technology and entrepreneurs. But as an investor and operator, I have gradually become more interested in businesses […] The post Why I prefer boring businesses in a market obsessed…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
