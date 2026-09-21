@@ -1,14 +1,18 @@
 # Senna Briefing
 
-_Generiert: 2026-09-21T19:04:30+00:00_
+_Generiert: 2026-09-21T19:20:13+00:00_
 
 ## Kurzlage
 
-82 neue relevante Treffer. Stärkstes Signal: „Google AI Pro(2,900円)へのAIサブスク統一でYouTube Premium LiteとGoogle Cloud費用と色々が実質無料 - 太陽がまぶしかったから“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+83 neue relevante Treffer. Stärkstes Signal: „Google AI Pro(2,900円)へのAIサブスク統一でYouTube Premium LiteとGoogle Cloud費用と色々が実質無料 - 太陽がまぶしかったから“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-7273 Zyxel GS1900 Series Switches** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-09-21`
+  - Kurz: Known exploited vulnerability. Added 2026-09-21. Due 2026-09-24. Zyxel GS1900 Series Switches Stack-Based Buffer Overflow Vulnerability
 - **CISA KEV: CVE-2025-39964 Linux Kernel** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-09-18`
@@ -25,10 +29,6 @@ _Generiert: 2026-09-21T19:04:30+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-16`
   - Kurz: Known exploited vulnerability. Added 2026-09-16. Due 2026-09-19. Google Pixel Improper Authorization Vulnerability
-- **CISA KEV: CVE-2026-76460 Cisco Identity Services Engine** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-16`
-  - Kurz: Known exploited vulnerability. Added 2026-09-16. Due 2026-09-19. Cisco Identity Services Engine Incorrect Use of Privileged APIs Vulnerability
 - **GDACS: Green flood alert in Thailand** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104169)
   - Quelle: GDACS
   - Zeit: ``
@@ -269,6 +269,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)
   - Kurz: Announcing 20260083 (MRO,liquidity providing), for 7 days deadline 09:30
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.5 - 5 km SW of San Antonio, Colombia** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tizt)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-21T19:17:39.040+00:00`, fetched `2026-09-21T19:19:45+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Colombia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-21 18:48:44 UTC 2026-09-21 18:48:44 UTC at epicenter Location 3.876°N 75.512°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Grok 4.7 is now available in GitHub Copilot** — Score 11, observation — [Quelle](https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-09-21T14:54:12+00:00`, fetched `2026-09-21T16:54:05+00:00`
@@ -295,15 +304,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Chile (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - I Time 2026-09-21 11:48:28 UTC 2026-09-21 11:48:28 UTC at epicenter Location 22.364°S 71.868°W Depth 10.00 km (6.21 mi)
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **M 4.5 - 4 km W of Victor Raul, Peru** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tivb)
-  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
-  - Zeit: published `2026-09-21T04:09:41.040+00:00`, fetched `2026-09-21T04:10:23+00:00`
-  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
-  - Watchgraph: earthquakes_tsunami
-  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
-  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
-  - Kurz: Time 2026-09-21 03:58:24 UTC 2026-09-21 03:58:24 UTC at epicenter Location 8.397°S 78.865°W Depth 73.09 km (45.41 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Crypto is dead? Apparently not, says Y Combinator – Blockchain is still worth building** — Score 11, observation — [Quelle](https://e27.co/crypto-is-dead-apparently-not-says-y-combinator-blockchain-is-still-worth-building-20260918/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
