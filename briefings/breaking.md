@@ -1,11 +1,11 @@
 # Senna Breaking
 
-_Generiert: 2026-09-21T13:43:03+00:00_
+_Generiert: 2026-09-21T13:51:46+00:00_
 
 ## Announcing 20260083 (MRO,liquidity providing), for 7 days deadline 09:30
 
-- Ranking Score: `26.11`
-- Raw Network Score: `27.3`
+- Ranking Score: `22.43`
+- Raw Network Score: `24.3`
 - Max Monitor Score: `12`
 - Reichweite: `institutional` / `5.0`
 - Early Signal: `nein`
@@ -13,7 +13,7 @@ _Generiert: 2026-09-21T13:43:03+00:00_
 - Quellen: ECB Open Market Operations and Communication, ECB Press Releases Speeches Interviews
 - Klassen: central_bank, tier3_specialist
 - Cross-source bestaetigt: ja
-- Momentum: increasing (+1)
+- Momentum: stable (+0)
 - Erste Quelle: http://www.ecb.europa.eu/mopo/implement/omo/html/20260083.en.html
 - Handlung: HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.
 
