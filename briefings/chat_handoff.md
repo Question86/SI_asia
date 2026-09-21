@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-21T17:18:26+00:00_
+_Generated: 2026-09-21T17:28:55+00:00_
 
 ## Status
 - status: `normal`
-- findings: `79`
+- findings: `81`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-09-21T17:18:26+00:00_
 - url: https://e27.co/why-singapore-smes-should-treat-cybersecurity-as-a-sales-issue-20260920/
 - summary: Consider a small services firm preparing to win its first major corporate account. The proposal is strong. The pricing is competitive. The team has shown that it can deliver. Then the prospective customer asks a different set of questions. Where will our info…
 
-### 5. The AI productivity paradox: Why finance must move beyond automation
+### 5. Building standards for the next phase of AI
+- source: OpenAI News RSS
+- score: `13`
+- published: `2026-09-21T10:00:00+00:00`
+- url: https://openai.com/index/building-standards-next-phase-ai
+- summary: OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.
+
+### 6. The AI productivity paradox: Why finance must move beyond automation
 - source: e27 Asia Startup and Tech Feed
 - score: `13`
 - published: `2026-09-21T02:30:36+00:00`
 - url: https://e27.co/the-ai-productivity-paradox-why-finance-must-move-beyond-automation-20260920/
 - summary: For decades, productivity in finance meant closing the books faster, reducing transaction costs and improving reporting. Artificial intelligence changes that equation, because it can do more than execute routine work. It can interpret variances, detect anomal…
 
-### 6. Economic activity, prices, and monetary policy in Japan
+### 7. Economic activity, prices, and monetary policy in Japan
 - source: BIS Central Bankers Speeches
 - score: `13`
 - published: `2026-09-21T00:00:00+00:00`
 - url: https://www.bis.org/speeches/20260921-economic-activity-prices-and-monetary-policy-japan
 - summary: Speech by Mr Kazuyuki Masu, Member of the Policy Board of the Bank of Japan, at a meeting with local leaders, Fukui, 10 September 2026.
 
-### 7. Building the financial system of the future - trusted, connected and resilient
+### 8. Building the financial system of the future - trusted, connected and resilient
 - source: BIS Central Bankers Speeches
 - score: `13`
 - published: `2026-09-21T00:00:00+00:00`
 - url: https://www.bis.org/speeches/20260921-building-financial-system-future-trusted-connected-and-resilient
 - summary: Special address by Mr Chia Der Jiun, Managing Director of the Monetary Authority of Singapore, at the Global Fintech Festival 2026, Mumbai, 11 September 2026.
-
-### 8. Multiples vulnérabilités dans Microsoft Edge (15 septembre 2026)
-- source: CERT-FR Avis de sécurité
-- score: `13`
-- published: `2026-09-15T00:00:00+00:00`
-- url: https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1173/
-- summary: De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur.
 
 END OF DOCUMENT
