@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-21T12:57:55+00:00",
+  "generated_at": "2026-09-21T13:31:53+00:00",
   "events": [
     {
       "event_id": "evt_010865faf79d8c1f952b",
@@ -44,7 +44,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_017c3d08edef1ec4ff45",
@@ -1298,7 +1298,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_28d372a7de61eb91a1dd",
@@ -1928,6 +1928,17 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_3eeea5703efbbc5d1adc",
+      "title": "Multiples vulnérabilités dans les produits Cisco (15 septembre 2026)",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
+    },
+    {
       "event_id": "evt_3f21aee55d5ed0a7e0b4",
       "title": "M 4.6 - 113 km NE of Hengchun, Taiwan",
       "deduplicated_buckets": 0,
@@ -2134,7 +2145,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_4469274d9f642c799f53",
@@ -3543,6 +3554,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_6b7aff2a2d64884388e6",
+      "title": "Vulnérabilité dans Microsoft Windows (15 septembre 2026)",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_6bd9db655618cf846ffa",
@@ -5610,7 +5632,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_9ee4a4eefa80fadb5a10",
@@ -6061,7 +6083,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_ae717dff57a257a2a25a",
@@ -7327,6 +7349,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_d59144f763d03cab2105",
+      "title": "Multiples vulnérabilités dans Microsoft Edge (15 septembre 2026)",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_d5c92a563cb9bfb68e88",
