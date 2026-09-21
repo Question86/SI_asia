@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T03:27:21+00:00",
-  "run_id": "2026-09-21T03:27:21+00:00",
+  "generated_at": "2026-09-21T04:10:54+00:00",
+  "run_id": "2026-09-21T04:10:54+00:00",
   "date": "2026-09-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 15
+      "configured_public_sources_only": 17
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 15,
-    "displayed_findings": 15,
+    "new_relevant_findings": 2,
+    "today_file_total": 17,
+    "displayed_findings": 17,
     "high": 0,
     "medium": 3,
-    "observe": 12,
+    "observe": 14,
     "source_errors": 0
   },
   "sections": {
@@ -159,6 +159,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "88e9233b3f49dbbf9e9d"
+      },
+      {
+        "title": "M 4.5 - 4 km W of Victor Raul, Peru",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tivb",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-09-21T04:09:41.040+00:00",
+        "fetched_at": "2026-09-21T04:10:23+00:00",
+        "summary": "Time 2026-09-21 03:58:24 UTC 2026-09-21 03:58:24 UTC at epicenter Location 8.397°S 78.865°W Depth 73.09 km (45.41 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "16dbab67c7d7ed9e2a96"
       },
       {
         "title": "Crypto is dead? Apparently not, says Y Combinator – Blockchain is still worth building",
@@ -367,6 +403,27 @@
         "id": "371309b3c23f2af507d1"
       },
       {
+        "title": "なぜSMS認証は弱いと言われるのか - Qiita",
+        "url": "https://qiita.com/ktdatascience/items/666a82fcdf3dc4af00d7",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-20T04:16:01+00:00",
+        "fetched_at": "2026-09-21T04:10:23+00:00",
+        "summary": "はじめに 海外で現地のSIMに差し替えた初日、銀行アプリにログインしようとして「SMSで確認コードを送信しました」の画面で止まりました。日本の番号のSIMは机の上。コードは日本の番号に飛んでいく。届くわけがない。結局その旅の間、銀行には一度も入れませんでした。 一方で、同じ旅の間も認証アプリの6桁は普通に出...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3caf0af9b1e6924bac50"
+      },
+      {
         "title": "文章を生成しないAI「Jev」でCosmos DBのRAG検索結果をフィルタしてみた",
         "url": "https://zenn.dev/nomhiro/articles/jev-cosmosdb-rag-filter-poc",
         "source": "Hatena Bookmark Hotentry IT",
@@ -538,6 +595,42 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "88e9233b3f49dbbf9e9d"
+    },
+    {
+      "title": "M 4.5 - 4 km W of Victor Raul, Peru",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tivb",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-21T04:09:41.040+00:00",
+      "fetched_at": "2026-09-21T04:10:23+00:00",
+      "summary": "Time 2026-09-21 03:58:24 UTC 2026-09-21 03:58:24 UTC at epicenter Location 8.397°S 78.865°W Depth 73.09 km (45.41 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "16dbab67c7d7ed9e2a96"
     },
     {
       "title": "Crypto is dead? Apparently not, says Y Combinator – Blockchain is still worth building",
@@ -746,6 +839,27 @@
       "id": "371309b3c23f2af507d1"
     },
     {
+      "title": "なぜSMS認証は弱いと言われるのか - Qiita",
+      "url": "https://qiita.com/ktdatascience/items/666a82fcdf3dc4af00d7",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-20T04:16:01+00:00",
+      "fetched_at": "2026-09-21T04:10:23+00:00",
+      "summary": "はじめに 海外で現地のSIMに差し替えた初日、銀行アプリにログインしようとして「SMSで確認コードを送信しました」の画面で止まりました。日本の番号のSIMは机の上。コードは日本の番号に飛んでいく。届くわけがない。結局その旅の間、銀行には一度も入れませんでした。 一方で、同じ旅の間も認証アプリの6桁は普通に出...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3caf0af9b1e6924bac50"
+    },
+    {
       "title": "文章を生成しないAI「Jev」でCosmos DBのRAG検索結果をフィルタしてみた",
       "url": "https://zenn.dev/nomhiro/articles/jev-cosmosdb-rag-filter-poc",
       "source": "Hatena Bookmark Hotentry IT",
@@ -789,26 +903,61 @@
   ],
   "new_findings": [
     {
-      "title": "Why Singapore SMEs should treat cybersecurity as a sales issue",
-      "url": "https://e27.co/why-singapore-smes-should-treat-cybersecurity-as-a-sales-issue-20260920/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "M 4.5 - 4 km W of Victor Raul, Peru",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tivb",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-09-21T03:00:15+00:00",
-      "fetched_at": "2026-09-21T03:26:54+00:00",
-      "summary": "Consider a small services firm preparing to win its first major corporate account. The proposal is strong. The pricing is competitive. The team has shown that it can deliver. Then the prospective customer asks a different set of questions. Where will our information be stored? Who can access it? What happens when an employee leaves? […] The post Why Singapore SMEs should treat cybersecurity as a sales issue appeared…",
+      "published_at": "2026-09-21T04:09:41.040+00:00",
+      "fetched_at": "2026-09-21T04:10:23+00:00",
+      "summary": "Time 2026-09-21 03:58:24 UTC 2026-09-21 03:58:24 UTC at epicenter Location 8.397°S 78.865°W Depth 73.09 km (45.41 mi)",
       "matched_keywords": [
-        "APAC Trend Radar",
-        "Public Health",
-        "Security"
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 19,
-      "relevance_reason": "Security (+7.5); APAC Trend Radar (+3.8); Public Health (+5.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "relevance_score": 11,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Peru (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "16dbab67c7d7ed9e2a96"
+    },
+    {
+      "title": "なぜSMS認証は弱いと言われるのか - Qiita",
+      "url": "https://qiita.com/ktdatascience/items/666a82fcdf3dc4af00d7",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-20T04:16:01+00:00",
+      "fetched_at": "2026-09-21T04:10:23+00:00",
+      "summary": "はじめに 海外で現地のSIMに差し替えた初日、銀行アプリにログインしようとして「SMSで確認コードを送信しました」の画面で止まりました。日本の番号のSIMは机の上。コードは日本の番号に飛んでいく。届くわけがない。結局その旅の間、銀行には一度も入れませんでした。 一方で、同じ旅の間も認証アプリの6桁は普通に出...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "048fc8b8e119e693630e"
+      "id": "3caf0af9b1e6924bac50"
     }
   ],
   "source_errors": [],

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-21T03:27:21+00:00_
+_Generated: 2026-09-21T04:10:54+00:00_
 
 ## Status
 - status: `normal`
-- findings: `15`
+- findings: `17`
 
 ## Top Signals
 
@@ -36,25 +36,25 @@ _Generated: 2026-09-21T03:27:21+00:00_
 - url: https://e27.co/the-ai-productivity-paradox-why-finance-must-move-beyond-automation-20260920/
 - summary: For decades, productivity in finance meant closing the books faster, reducing transaction costs and improving reporting. Artificial intelligence changes that equation, because it can do more than execute routine work. It can interpret variances, detect anomal…
 
-### 5. Crypto is dead? Apparently not, says Y Combinator – Blockchain is still worth building
+### 5. M 4.5 - 4 km W of Victor Raul, Peru
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `11`
+- published: `2026-09-21T04:09:41.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tivb
+- summary: Time 2026-09-21 03:58:24 UTC 2026-09-21 03:58:24 UTC at epicenter Location 8.397°S 78.865°W Depth 73.09 km (45.41 mi)
+
+### 6. Crypto is dead? Apparently not, says Y Combinator – Blockchain is still worth building
 - source: e27 Asia Startup and Tech Feed
 - score: `11`
 - published: `2026-09-21T01:00:51+00:00`
 - url: https://e27.co/crypto-is-dead-apparently-not-says-y-combinator-blockchain-is-still-worth-building-20260918/
 - summary: Every cycle, people say that crypto is dead. By retail, and by funding. Attention moves on to the next bubble, this time it is AI. However, when Y Combinator published its list of Biggest Startup Opportunities of 2026, crypto kept its place alongside AI, heal…
 
-### 6. M 4.9 - 26 km SE of Saimbeyli, Turkey
+### 7. M 4.9 - 26 km SE of Saimbeyli, Turkey
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-09-21T01:25:41.887+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiui
 - summary: DYFI? - III Time 2026-09-21 01:02:04 UTC 2026-09-21 01:02:04 UTC at epicenter Location 37.814°N 36.299°E Depth 10.00 km (6.21 mi)
-
-### 7. Geminiが使えるスマートウォッチ「Google Pixel Watch 5」を使ってみた
-- source: Hatena Bookmark Hotentry IT
-- score: `8`
-- published: `2026-09-20T23:01:58+00:00`
-- url: https://gigazine.net/news/20260921-google-pixel-watch-review/
-- summary: 外観レビューに続いて「Google Pixel Watch 5」を実際に使ってみました。ワークアウトや睡眠測定を行っています。 Google Pixel Watch 5 - AI が導く、もっといい自分へ https://store.google.com/jp/product/pixel_watch_5?hl=ja 初回使用時はBluetoothによるペアリングが必要。PixelスマートフォンでなくともAndroid 1...
 
 END OF DOCUMENT
