@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-21T08:01:41+00:00_
+_Generated: 2026-09-21T08:33:52+00:00_
 
 ## Status
 - status: `normal`
-- findings: `32`
+- findings: `33`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-09-21T08:01:41+00:00_
 - url: https://e27.co/itm-semiconductors-vietnam-unit-hit-by-fraud-and-widening-losses-20260921/
 - summary: A fraud case at ITM Semiconductor’s Vietnam subsidiary has exposed a deeper problem at the South Korean battery components maker: its Vietnamese operation is not only dealing with an employee embezzlement case, but also a sharp deterioration in its financial…
 
-### 4. M 5.0 - 34 km WNW of Luwuk, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
+### 4. SEA’s venture capital shifts from mega-rounds to AI and SaaS
+- source: e27 Asia Startup and Tech Feed
 - score: `15`
-- published: `2026-09-21T07:51:52.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiw4
-- summary: Time 2026-09-21 07:31:07 UTC 2026-09-21 07:31:07 UTC at epicenter Location 0.856°S 122.496°E Depth 9.86 km (6.13 mi)
+- published: `2026-09-21T08:20:51+00:00`
+- url: https://e27.co/seas-venture-capital-shifts-from-mega-rounds-to-ai-and-saas-20260921/
+- summary: Southeast Asia’s startup funding story is no longer being written by consumer super-apps or e-commerce land grabs. According to Tracxn data covering equity venture funding across eight major technology verticals from 2020 to July 9, 2026, Southeast Asian tech…
 
 ### 5. The AI productivity paradox: Why finance must move beyond automation
 - source: e27 Asia Startup and Tech Feed

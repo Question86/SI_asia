@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-21T08:01:41+00:00_
+_Generiert: 2026-09-21T08:33:52+00:00_
 
 ## Kurzlage
 
-32 neue relevante Treffer. Stärkstes Signal: „Google AI Pro(2,900円)へのAIサブスク統一でYouTube Premium LiteとGoogle Cloud費用と色々が実質無料 - 太陽がまぶしかったから“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+33 neue relevante Treffer. Stärkstes Signal: „Google AI Pro(2,900円)へのAIサブスク統一でYouTube Premium LiteとGoogle Cloud費用と色々が実質無料 - 太陽がまぶしかったから“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -45,14 +45,14 @@ _Generiert: 2026-09-21T08:01:41+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone POLO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 21/09/2026 01:41 UTC, 1.3 million in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1567198)
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 21/09/2026 01:41 UTC, 2 thousand (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1567198)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 21/09/2026 01:41 UTC, 1.3 million in 100km.
-- **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in South Of Africa 20/09/2026 20:54 UTC, No people affected in 100km.** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1567176)
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 21/09/2026 01:41 UTC, 2 thousand (in MMI&gt;=VII).
+- **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in South Of Africa 20/09/2026 20:54 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1567176)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.7M, Depth:10km) in South Of Africa 20/09/2026 20:54 UTC, No people affected in 100km.
+  - Kurz: Green earthquake (Magnitude 5.7M, Depth:10km) in South Of Africa 20/09/2026 20:54 UTC, [unknown].
 - **GDACS: Green notification for tropical cyclone ODALYS-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001324)
   - Quelle: GDACS
   - Zeit: ``
@@ -104,6 +104,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Reputationsrisiko (+8.8); recent (+1.0); watchgraph region south_korea: South Korea (+2.0); watchgraph region southeast_asia: Vietnam (+2.0)
   - Kurz: A fraud case at ITM Semiconductor’s Vietnam subsidiary has exposed a deeper problem at the South Korean battery components maker: its Vietnamese operation is not only dealing with an employee embezzlement case, but also a sharp deterioration in its financial performance. In its 2025 annual report, ITM Semiconductor said it had recovered about US$2.47 million […] The post ITM Semiconductor’s Vietnam unit hit by fraud…
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **SEA’s venture capital shifts from mega-rounds to AI and SaaS** — Score 15, observation — [Quelle](https://e27.co/seas-venture-capital-shifts-from-mega-rounds-to-ai-and-saas-20260921/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-21T08:20:51+00:00`, fetched `2026-09-21T08:33:20+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, funding, Southeast Asia, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); funding (+2.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Southeast Asia’s startup funding story is no longer being written by consumer super-apps or e-commerce land grabs. According to Tracxn data covering equity venture funding across eight major technology verticals from 2020 to July 9, 2026, Southeast Asian tech startups raised US$58.79 billion across 3,637 rounds over the period. But the shape of that capital […] The post SEA’s venture capital shifts from mega-rounds…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 5.0 - 34 km WNW of Luwuk, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiw4)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-21T07:51:52.040+00:00`, fetched `2026-09-21T07:53:41+00:00`
@@ -122,15 +131,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-21 01:41:36 UTC 2026-09-21 01:41:36 UTC at epicenter Location 8.307°S 120.579°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Ant International Launches Industry’s First Full-Stack AI-Native Solutions for Payment, Account, FX, Treasury and Growth Operations for Global Businesses** — Score 14, observation — [Quelle](https://e27.co/ant-international-launches-industrys-first-full-stack-ai-native-solutions-for-payment-account-fx-treasury-and-growth-operations-for-global-businesses-20260921/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-21T06:48:28+00:00`, fetched `2026-09-21T07:11:33+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); Security (+6.0); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: In an industry first, Ant International launched a full stack of AI-native solutions for payment, account, FX, treasury and growth operations for global businesses. Unveiled at Ant International’s annual VOYAGE executive merchant forum, the AI-native product suite is built on a 2-layered security architecture, and Ant International’s two proprietary foundation models: Antom 3-in-1 Transformer – a […] The post Ant In…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
