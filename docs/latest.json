@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T07:38:31+00:00",
-  "run_id": "2026-09-21T07:38:31+00:00",
+  "generated_at": "2026-09-21T07:54:12+00:00",
+  "run_id": "2026-09-21T07:54:12+00:00",
   "date": "2026-09-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 30
+      "configured_public_sources_only": 31
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,10 +19,10 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 30,
-    "displayed_findings": 30,
+    "today_file_total": 31,
+    "displayed_findings": 31,
     "high": 0,
-    "medium": 5,
+    "medium": 6,
     "observe": 25,
     "source_errors": 0
   },
@@ -119,6 +119,43 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "3e3b61fcb91c640460f5"
+      },
+      {
+        "title": "M 5.0 - 34 km WNW of Luwuk, Indonesia",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiw4",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-09-21T07:51:52.040+00:00",
+        "fetched_at": "2026-09-21T07:53:41+00:00",
+        "summary": "Time 2026-09-21 07:31:07 UTC 2026-09-21 07:31:07 UTC at epicenter Location 0.856°S 122.496°E Depth 9.86 km (6.13 mi)",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 15,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "8db4bb426075fd13d2d5"
       },
       {
         "title": "M 5.5 - 35 km NNE of Ruteng, Indonesia",
@@ -847,6 +884,43 @@
       "id": "3e3b61fcb91c640460f5"
     },
     {
+      "title": "M 5.0 - 34 km WNW of Luwuk, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiw4",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-21T07:51:52.040+00:00",
+      "fetched_at": "2026-09-21T07:53:41+00:00",
+      "summary": "Time 2026-09-21 07:31:07 UTC 2026-09-21 07:31:07 UTC at epicenter Location 0.856°S 122.496°E Depth 9.86 km (6.13 mi)",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "8db4bb426075fd13d2d5"
+    },
+    {
       "title": "M 5.5 - 35 km NNE of Ruteng, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiur",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -1479,25 +1553,41 @@
   ],
   "new_findings": [
     {
-      "title": "愚昧なブクマカども",
-      "url": "https://anond.hatelabo.jp/20260921134652",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "M 5.0 - 34 km WNW of Luwuk, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiw4",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "source_type": "rss",
-      "published_at": "2026-09-21T04:54:57+00:00",
-      "fetched_at": "2026-09-21T07:37:59+00:00",
-      "summary": "俺は怒り心頭だぞ、猛烈だ。 てめえだよ。呑気な顔して生きてんじゃねえぞおい。 パートナーにセーラー服を着てほしいと言われた増田の件な。 増田本人はいい。罪は無い。 ブコメがアホまみれなんでちょっと掃除させてくれや。魑魅魍魎どもが。 勘違いすんなよ。 セーラー服に欲情してるんじゃなくて、セーラー服を纏う...",
+      "published_at": "2026-09-21T07:51:52.040+00:00",
+      "fetched_at": "2026-09-21T07:53:41+00:00",
+      "summary": "Time 2026-09-21 07:31:07 UTC 2026-09-21 07:31:07 UTC at epicenter Location 0.856°S 122.496°E Depth 9.86 km (6.13 mi)",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "APAC Trend Radar",
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "910044615949958e2967"
+      "relevance_score": 15,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "8db4bb426075fd13d2d5"
     }
   ],
   "source_errors": [],

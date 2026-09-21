@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T07:38:34+00:00",
-  "today_file_total": 30,
+  "generated_at": "2026-09-21T07:54:16+00:00",
+  "today_file_total": 31,
   "current_clusters": [
     {
       "key": "domain:www.du-soleil.com",
@@ -49,6 +49,31 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "earthquake:indonesia:5.0",
+      "title": "M 5.0 - 34 km WNW of Luwuk, Indonesia",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiw4"
+      ],
+      "finding_count": 1,
+      "max_score": 15,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 20.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "title:itm-semiconductor-vietnam-unit-hit-fraud-widening-losses",
@@ -289,29 +314,6 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "url:https://anond.hatelabo.jp/20260921134652",
-      "title": "愚昧なブクマカども",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://anond.hatelabo.jp/20260921134652"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 10.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
       "key": "domain:www.heise.de",
       "title": "Warnung vor Angriffen auf Linux-Schwachstellen",
       "sources": [
@@ -450,8 +452,8 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "title:qwen3-studio",
-      "title": "【西川和久の不定期コラム】 Qwen3.8で動画解析→生成AI動画プロンプト化してみた。LM Studioも対応",
+      "key": "url:https://anond.hatelabo.jp/20260921134652",
+      "title": "愚昧なブクマカども",
       "sources": [
         "Hatena Bookmark Hotentry IT"
       ],
@@ -459,7 +461,7 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://pc.watch.impress.co.jp/docs/column/nishikawa/2142517.html"
+        "https://anond.hatelabo.jp/20260921134652"
       ],
       "finding_count": 1,
       "max_score": 5,

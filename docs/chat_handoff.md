@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-21T07:38:31+00:00_
+_Generated: 2026-09-21T07:54:12+00:00_
 
 ## Status
 - status: `normal`
-- findings: `30`
+- findings: `31`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-09-21T07:38:31+00:00_
 - url: https://e27.co/itm-semiconductors-vietnam-unit-hit-by-fraud-and-widening-losses-20260921/
 - summary: A fraud case at ITM Semiconductor’s Vietnam subsidiary has exposed a deeper problem at the South Korean battery components maker: its Vietnamese operation is not only dealing with an employee embezzlement case, but also a sharp deterioration in its financial…
 
-### 4. M 5.5 - 35 km NNE of Ruteng, Indonesia
+### 4. M 5.0 - 34 km WNW of Luwuk, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
-- published: `2026-09-21T01:57:30.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiur
-- summary: Time 2026-09-21 01:41:36 UTC 2026-09-21 01:41:36 UTC at epicenter Location 8.307°S 120.579°E Depth 10.00 km (6.21 mi)
+- published: `2026-09-21T07:51:52.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiw4
+- summary: Time 2026-09-21 07:31:07 UTC 2026-09-21 07:31:07 UTC at epicenter Location 0.856°S 122.496°E Depth 9.86 km (6.13 mi)
 
 ### 5. The AI productivity paradox: Why finance must move beyond automation
 - source: e27 Asia Startup and Tech Feed
