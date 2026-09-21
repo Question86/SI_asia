@@ -1,16 +1,18 @@
 # Economic Outcomes
 
-Generated: `2026-09-21T06:02:12+00:00`
+Generated: `2026-09-21T06:47:55+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
 | M 4.6 - 12 km SE of La Parguera, Puerto Rico | $0 | — | 0 | 0 | dormant |
 | Multiples vulnérabilités dans Postfix (09 septembre 2026) | $0 | — | 0 | 0 | dormant |
 | ＡＩで数学の難問を解く行為は「科学や数学界に有害だ」…世界の数学者２５人が非難の緊急声明 | $0 | — | 0 | 0 | dormant |
+| anthropics/financial-services | $0 | — | 0 | 0 | active |
 | Can Ethereum clear US$2,672 this week and unlock a run to US$3,000? | $0 | — | 0 | 0 | dormant |
 | 松本大臣記者会見（令和8年9月15日）動画を掲載しました | $0 | — | 0 | 0 | dormant |
 | .gitignore everything by default | $0 | — | 0 | 0 | dormant |
 | Skullcandy製ワイヤレスイヤホン「Dime 3」における不適切な認証の脆弱性 | $0 | — | 0 | 0 | dormant |
+| BuilderIO/agent-native | $0 | — | 0 | 0 | active |
 | Southeast Asia’s chip-hub ambition is colliding with its chip-smuggling problem | $0 | — | 0 | 0 | dormant |
 | GitHub - minorun365/minorun-marp-skill: Marpで登壇スライドを作るための、ストーリー・図・デザインバランスのスキル集と黒地テーマ、検査ツール | $0 | — | 0 | 0 | dormant |
 | How we use AI to turn one article into audience-specific versions | $0 | — | 0 | 0 | dormant |
@@ -27,5 +29,3 @@ Generated: `2026-09-21T06:02:12+00:00`
 | M 5.0 - 281 km SSE of Dunhuang, China | $0 | — | 0 | 0 | dormant |
 | M 5.8 - Kermadec Islands, New Zealand | $0 | — | 0 | 0 | dormant |
 | GitHub Advanced Security expands trial availability | $0 | — | 0 | 0 | dormant |
-| AWSをゲームで学べる「AWS Cloud Quest」に新バージョン「AWS Cloud Quest 2.0」登場！ AIによるバーチャル顧客と対話し、要件を聞き出して正しくソリューションに落とし込め | $0 | — | 0 | 0 | dormant |
-| New API endpoint provides privacy-safe star history data | $0 | — | 0 | 0 | dormant |
