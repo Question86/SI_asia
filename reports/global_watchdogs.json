@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T01:59:26+00:00",
+  "generated_at": "2026-09-21T02:33:04+00:00",
   "sections": {
     "global_security": [
       {
@@ -141,13 +141,13 @@
         "domain": "security",
         "severity": "watch",
         "title": "USGS earthquake M5.5 - 35 km NNE of Ruteng, Indonesia",
-        "summary": "M5.5 - 35 km NNE of Ruteng, Indonesia. PAGER alert: none. Tsunami flag: 0.",
+        "summary": "M5.5 - 35 km NNE of Ruteng, Indonesia. PAGER alert: green. Tsunami flag: 0.",
         "source": "USGS",
         "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiur",
         "published_at": "2026-09-21T01:41:36+00:00",
         "metrics": {
           "mag": 5.5,
-          "alert": "",
+          "alert": "green",
           "sig": 465.0,
           "tsunami": 0
         }

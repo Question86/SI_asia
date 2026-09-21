@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T01:59:23+00:00",
-  "run_id": "2026-09-21T01:59:23+00:00",
+  "generated_at": "2026-09-21T02:32:59+00:00",
+  "run_id": "2026-09-21T02:32:59+00:00",
   "date": "2026-09-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 10
+      "configured_public_sources_only": 13
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 3,
-    "today_file_total": 10,
-    "displayed_findings": 10,
+    "today_file_total": 13,
+    "displayed_findings": 13,
     "high": 0,
     "medium": 2,
-    "observe": 8,
+    "observe": 11,
     "source_errors": 0
   },
   "sections": {
@@ -116,6 +116,28 @@
       }
     ],
     "observe": [
+      {
+        "title": "The AI productivity paradox: Why finance must move beyond automation",
+        "url": "https://e27.co/the-ai-productivity-paradox-why-finance-must-move-beyond-automation-20260920/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-21T02:30:36+00:00",
+        "fetched_at": "2026-09-21T02:32:24+00:00",
+        "summary": "For decades, productivity in finance meant closing the books faster, reducing transaction costs and improving reporting. Artificial intelligence changes that equation, because it can do more than execute routine work. It can interpret variances, detect anomalies, generate forecasts, test scenarios and recommend actions. This creates enormous capacity, but capacity is not the same as value. […] The post The AI produc…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar",
+          "Automatisierung"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "AI/KI (+3.8); Automatisierung (+5.0); APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "88e9233b3f49dbbf9e9d"
+      },
       {
         "title": "Crypto is dead? Apparently not, says Y Combinator – Blockchain is still worth building",
         "url": "https://e27.co/crypto-is-dead-apparently-not-says-y-combinator-blockchain-is-still-worth-building-20260918/",
@@ -218,6 +240,27 @@
         "id": "1d5322cded8d5692c3f3"
       },
       {
+        "title": "Sustainability reporting is not the goal. Better business decisions are",
+        "url": "https://e27.co/sustainability-reporting-is-not-the-goal-better-business-decisions-are-20260918/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-21T02:00:11+00:00",
+        "fetched_at": "2026-09-21T02:32:24+00:00",
+        "summary": "A company can spend months collecting sustainability data, mapping risks and preparing a polished report, yet still fail to answer a fundamental business question: what should we do differently because of what we have learned? This question is becoming increasingly important as sustainability expectations spread across Southeast Asia. Formal reporting requirements are evolving, and demand […] The post Sustainability…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Southeast Asia"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5887c48b0ee5f1e8ea82"
+      },
+      {
         "title": "GitHub - fallow-rs/fallow: Codebase intelligence for TypeScript and JavaScript. Free static layer: unused code, duplication, circular deps, complexity hotspots, architecture boundaries. Optional paid runtime layer: hot-path review and cold-path deletion e",
         "url": "https://github.com/fallow-rs/fallow",
         "source": "Hatena Bookmark Hotentry IT",
@@ -280,6 +323,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "371309b3c23f2af507d1"
+      },
+      {
+        "title": "文章を生成しないAI「Jev」でCosmos DBのRAG検索結果をフィルタしてみた",
+        "url": "https://zenn.dev/nomhiro/articles/jev-cosmosdb-rag-filter-poc",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-19T08:43:11+00:00",
+        "fetched_at": "2026-09-21T02:32:24+00:00",
+        "summary": "はじめに Jevが話題ですねー この頃わたしのXのタイムラインが、Jevだけで7割くらい埋まるようになりました。TypeSafe AIが2026年9月15日に発表した「Jev」というAIモデルです。文章を一切生成せず、「Choice（選択）」「Score（段階評価）」「Noul（Yes/No確率）」の3種類の判断だけを返すという分類器のようなモデル...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "fc6ec99902b7e87c49bf"
       },
       {
         "title": "Why I prefer boring businesses in a market obsessed with the next big thing",
@@ -390,6 +454,28 @@
       "id": "2399090c5198f213dd9a"
     },
     {
+      "title": "The AI productivity paradox: Why finance must move beyond automation",
+      "url": "https://e27.co/the-ai-productivity-paradox-why-finance-must-move-beyond-automation-20260920/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-21T02:30:36+00:00",
+      "fetched_at": "2026-09-21T02:32:24+00:00",
+      "summary": "For decades, productivity in finance meant closing the books faster, reducing transaction costs and improving reporting. Artificial intelligence changes that equation, because it can do more than execute routine work. It can interpret variances, detect anomalies, generate forecasts, test scenarios and recommend actions. This creates enormous capacity, but capacity is not the same as value. […] The post The AI produc…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Automatisierung"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "AI/KI (+3.8); Automatisierung (+5.0); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "88e9233b3f49dbbf9e9d"
+    },
+    {
       "title": "Crypto is dead? Apparently not, says Y Combinator – Blockchain is still worth building",
       "url": "https://e27.co/crypto-is-dead-apparently-not-says-y-combinator-blockchain-is-still-worth-building-20260918/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -491,6 +577,27 @@
       "id": "1d5322cded8d5692c3f3"
     },
     {
+      "title": "Sustainability reporting is not the goal. Better business decisions are",
+      "url": "https://e27.co/sustainability-reporting-is-not-the-goal-better-business-decisions-are-20260918/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-21T02:00:11+00:00",
+      "fetched_at": "2026-09-21T02:32:24+00:00",
+      "summary": "A company can spend months collecting sustainability data, mapping risks and preparing a polished report, yet still fail to answer a fundamental business question: what should we do differently because of what we have learned? This question is becoming increasingly important as sustainability expectations spread across Southeast Asia. Formal reporting requirements are evolving, and demand […] The post Sustainability…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5887c48b0ee5f1e8ea82"
+    },
+    {
       "title": "GitHub - fallow-rs/fallow: Codebase intelligence for TypeScript and JavaScript. Free static layer: unused code, duplication, circular deps, complexity hotspots, architecture boundaries. Optional paid runtime layer: hot-path review and cold-path deletion e",
       "url": "https://github.com/fallow-rs/fallow",
       "source": "Hatena Bookmark Hotentry IT",
@@ -555,6 +662,27 @@
       "id": "371309b3c23f2af507d1"
     },
     {
+      "title": "文章を生成しないAI「Jev」でCosmos DBのRAG検索結果をフィルタしてみた",
+      "url": "https://zenn.dev/nomhiro/articles/jev-cosmosdb-rag-filter-poc",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-19T08:43:11+00:00",
+      "fetched_at": "2026-09-21T02:32:24+00:00",
+      "summary": "はじめに Jevが話題ですねー この頃わたしのXのタイムラインが、Jevだけで7割くらい埋まるようになりました。TypeSafe AIが2026年9月15日に発表した「Jev」というAIモデルです。文章を一切生成せず、「Choice（選択）」「Score（段階評価）」「Noul（Yes/No確率）」の3種類の判断だけを返すという分類器のようなモデル...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fc6ec99902b7e87c49bf"
+    },
+    {
       "title": "Why I prefer boring businesses in a market obsessed with the next big thing",
       "url": "https://e27.co/why-i-prefer-boring-businesses-in-a-market-obsessed-with-the-next-big-thing-20260918/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -577,50 +705,56 @@
   ],
   "new_findings": [
     {
-      "title": "M 5.5 - 35 km NNE of Ruteng, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiur",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "The AI productivity paradox: Why finance must move beyond automation",
+      "url": "https://e27.co/the-ai-productivity-paradox-why-finance-must-move-beyond-automation-20260920/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-09-21T01:57:30.040+00:00",
-      "fetched_at": "2026-09-21T01:58:53+00:00",
-      "summary": "Time 2026-09-21 01:41:36 UTC 2026-09-21 01:41:36 UTC at epicenter Location 8.307°S 120.579°E Depth 10.00 km (6.21 mi)",
+      "published_at": "2026-09-21T02:30:36+00:00",
+      "fetched_at": "2026-09-21T02:32:24+00:00",
+      "summary": "For decades, productivity in finance meant closing the books faster, reducing transaction costs and improving reporting. Artificial intelligence changes that equation, because it can do more than execute routine work. It can interpret variances, detect anomalies, generate forecasts, test scenarios and recommend actions. This creates enormous capacity, but capacity is not the same as value. […] The post The AI produc…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar",
+        "Automatisierung"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "AI/KI (+3.8); Automatisierung (+5.0); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "88e9233b3f49dbbf9e9d"
+    },
+    {
+      "title": "Sustainability reporting is not the goal. Better business decisions are",
+      "url": "https://e27.co/sustainability-reporting-is-not-the-goal-better-business-decisions-are-20260918/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-21T02:00:11+00:00",
+      "fetched_at": "2026-09-21T02:32:24+00:00",
+      "summary": "A company can spend months collecting sustainability data, mapping risks and preparing a polished report, yet still fail to answer a fundamental business question: what should we do differently because of what we have learned? This question is becoming increasingly important as sustainability expectations spread across Southeast Asia. Formal reporting requirements are evolving, and demand […] The post Sustainability…",
       "matched_keywords": [
         "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
+        "Southeast Asia"
       ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "2399090c5198f213dd9a"
+      "relevance_score": 6,
+      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5887c48b0ee5f1e8ea82"
     },
     {
-      "title": "【西川和久の不定期コラム】 Qwen3.8で動画解析→生成AI動画プロンプト化してみた。LM Studioも対応",
-      "url": "https://pc.watch.impress.co.jp/docs/column/nishikawa/2142517.html",
+      "title": "文章を生成しないAI「Jev」でCosmos DBのRAG検索結果をフィルタしてみた",
+      "url": "https://zenn.dev/nomhiro/articles/jev-cosmosdb-rag-filter-poc",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-20T21:55:14+00:00",
-      "fetched_at": "2026-09-21T01:58:53+00:00",
-      "summary": "【西川和久の不定期コラム】 Qwen3.8で動画解析→生成AI動画プロンプト化してみた。LM Studioも対応",
+      "published_at": "2026-09-19T08:43:11+00:00",
+      "fetched_at": "2026-09-21T02:32:24+00:00",
+      "summary": "はじめに Jevが話題ですねー この頃わたしのXのタイムラインが、Jevだけで7割くらい埋まるようになりました。TypeSafe AIが2026年9月15日に発表した「Jev」というAIモデルです。文章を一切生成せず、「Choice（選択）」「Score（段階評価）」「Noul（Yes/No確率）」の3種類の判断だけを返すという分類器のようなモデル...",
       "matched_keywords": [
         "Hatena",
         "hotentry"
@@ -632,28 +766,7 @@
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "9d442030b3145cfe71a4"
-    },
-    {
-      "title": "Jevを「分類器」ではなく、確率モデルの部品として見る",
-      "url": "https://zenn.dev/cybernetics/articles/71ea975d935414",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-20T21:36:04+00:00",
-      "fetched_at": "2026-09-21T01:58:53+00:00",
-      "summary": "はじめに 最近、TypeSafe AIから公開されたJevについて考えている。 Jevを最初に見たときは、「LLMよりずっと軽くて速い分類器」という理解だった。自由に文章を書くモデルではなく、与えられた状態を見て、Choice、Score、Noulのような型付きの判断を返す。 たとえば、ある問い合わせが請求なのか不具合なのか、緊急度...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "371309b3c23f2af507d1"
+      "id": "fc6ec99902b7e87c49bf"
     }
   ],
   "source_errors": [],

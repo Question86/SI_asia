@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-21T01:59:26+00:00",
+  "generated_at": "2026-09-21T02:33:04+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 10,
-    "clusters": 10,
+    "findings": 13,
+    "clusters": 13,
     "cross_source_confrmed": 0,
-    "hot": 1,
+    "hot": 0,
     "early_signals": 1,
     "dominance_penalized": 2
   },
@@ -28,19 +28,57 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 30.0,
-      "hot": true,
+      "network_score": 24.5,
+      "hot": false,
       "watchgraph_modules": [
         "ai_agents_workflow"
       ],
-      "recommended_action": "HOT EARLY: kleines oder breites Anfangssignal sichern, Gegenquellen pruefen, Verlauf beobachten.",
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 25.1,
-      "ranking_score": 30.0,
+      "ranking_score": 24.5,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-21T01:03:04+00:00"
+    },
+    {
+      "key": "title:productivity-paradox-why-finance-must-move-beyond-automation",
+      "title": "The AI productivity paradox: Why finance must move beyond automation",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/the-ai-productivity-paradox-why-finance-must-move-beyond-automation-20260920/"
+      ],
+      "finding_count": 1,
+      "max_score": 13,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 22.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "raw_network_score": 18.1,
+      "ranking_score": 22.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
       "baseline_bonus": 0.0,
       "early_signal": true,
       "early_signal_bonus": 5.5,
@@ -48,7 +86,7 @@
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-09-21T01:03:04+00:00"
+      "first_seen_at": "2026-09-21T02:33:04+00:00"
     },
     {
       "key": "earthquake:indonesia:5.5",
@@ -67,22 +105,22 @@
       "max_score": 15,
       "credibility_total": 1.35,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 18.06,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 14.4,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "raw_network_score": 20.7,
-      "ranking_score": 18.06,
+      "raw_network_score": 17.7,
+      "ranking_score": 14.4,
       "initial_reach_tier": "official",
       "source_reach_score": 4.0,
       "authority_bonus_capped": 2.4,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 1.16,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -130,6 +168,44 @@
       "first_seen_at": "2026-09-21T01:03:04+00:00"
     },
     {
+      "key": "title:sustainability-reporting-not-goal-better-business-decisions-are",
+      "title": "Sustainability reporting is not the goal. Better business decisions are",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/sustainability-reporting-is-not-the-goal-better-business-decisions-are-20260918/"
+      ],
+      "finding_count": 1,
+      "max_score": 6,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 11.1,
+      "ranking_score": 10.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-21T02:33:04+00:00"
+    },
+    {
       "key": "domain:store.google.com",
       "title": "Geminiが使えるスマートウォッチ「Google Pixel Watch 5」を使ってみた",
       "sources": [
@@ -168,8 +244,8 @@
       "first_seen_at": "2026-09-21T01:03:04+00:00"
     },
     {
-      "key": "title:qwen3-studio",
-      "title": "【西川和久の不定期コラム】 Qwen3.8で動画解析→生成AI動画プロンプト化してみた。LM Studioも対応",
+      "key": "title:jev-cosmos-rag",
+      "title": "文章を生成しないAI「Jev」でCosmos DBのRAG検索結果をフィルタしてみた",
       "sources": [
         "Hatena Bookmark Hotentry IT"
       ],
@@ -177,7 +253,7 @@
         "tier3_specialist"
       ],
       "urls": [
-        "https://pc.watch.impress.co.jp/docs/column/nishikawa/2142517.html"
+        "https://zenn.dev/nomhiro/articles/jev-cosmosdb-rag-filter-poc"
       ],
       "finding_count": 1,
       "max_score": 5,
@@ -203,45 +279,7 @@
       "dominant_emitter": false,
       "dominance_penalty": 0.0,
       "dominance_reason": "",
-      "first_seen_at": "2026-09-21T01:59:26+00:00"
-    },
-    {
-      "key": "title:jev",
-      "title": "Jevを「分類器」ではなく、確率モデルの部品として見る",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://zenn.dev/cybernetics/articles/71ea975d935414"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 9.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 10.1,
-      "ranking_score": 9.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-09-19T14:18:56+00:00"
+      "first_seen_at": "2026-09-21T02:33:04+00:00"
     },
     {
       "key": "domain:www.nikkei.com",
@@ -361,6 +399,82 @@
       "first_seen_at": "2026-09-21T01:03:04+00:00"
     },
     {
+      "key": "title:qwen3-studio",
+      "title": "【西川和久の不定期コラム】 Qwen3.8で動画解析→生成AI動画プロンプト化してみた。LM Studioも対応",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://pc.watch.impress.co.jp/docs/column/nishikawa/2142517.html"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 6.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 7.1,
+      "ranking_score": 6.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-21T01:59:26+00:00"
+    },
+    {
+      "key": "title:jev",
+      "title": "Jevを「分類器」ではなく、確率モデルの部品として見る",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://zenn.dev/cybernetics/articles/71ea975d935414"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 6.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 7.1,
+      "ranking_score": 6.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-19T14:18:56+00:00"
+    },
+    {
       "key": "title:why-prefer-boring-businesses-market-obsessed-next-big",
       "title": "Why I prefer boring businesses in a market obsessed with the next big thing",
       "sources": [
@@ -401,7 +515,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-21T01:59:27Z",
+    "generated_at": "2026-09-21T02:33:04Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
