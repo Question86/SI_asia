@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-09-21T00:09:21+00:00",
-  "candidate_count": 891,
+  "generated_at": "2026-09-21T01:03:25+00:00",
+  "candidate_count": 894,
   "candidates": [
     {
       "amount_native": 1755400000000.0,
@@ -10733,6 +10733,42 @@
       "source_url": "https://e27.co/sbi-joins-dtcpays-us25m-round-to-bridge-japan-sea-stablecoin-corridors-20260918/"
     },
     {
+      "candidate_id": "cand_09a6e753e248d3530361",
+      "event_id": "evt_4451c6063a55e9bb5e90",
+      "source_url": "https://e27.co/crypto-is-dead-apparently-not-says-y-combinator-blockchain-is-still-worth-building-20260918/",
+      "observed_at": "2026-09-21T01:03:23+00:00",
+      "currency": "USD",
+      "amount_native": 50000000.0,
+      "amount_usd": 50000000.0,
+      "conversion_status": "not_required",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_4451c6063a55e9bb5e90:unclassified",
+      "attribution_probability": null,
+      "snippet": "data Defi E-Commerce Hardware Retail Artificial Intelligence Cryptocurrency Education Healthtech Software As A Service View all Startups --> POSTS STARTUPS Tech Innovators secured $50 million in funding from Venture Capitalist Alpha, paving the way for groundbreaking advancements in artificial intelligence. Discover the power of AI in transforming your daily tasks! Wit",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "secondary_or_unknown",
+      "candidate_confidence": 0.55,
+      "review_status": "pending"
+    },
+    {
+      "candidate_id": "cand_c8a478c8606e06bfd147",
+      "event_id": "evt_4451c6063a55e9bb5e90",
+      "source_url": "https://e27.co/crypto-is-dead-apparently-not-says-y-combinator-blockchain-is-still-worth-building-20260918/",
+      "observed_at": "2026-09-21T01:03:23+00:00",
+      "currency": "USD",
+      "amount_native": 50000000.0,
+      "amount_usd": 50000000.0,
+      "conversion_status": "not_required",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_4451c6063a55e9bb5e90:unclassified",
+      "attribution_probability": null,
+      "snippet": "cial intelligence. Discover the power of AI in transforming your daily tasks! With intelligent algorithms, we enhance productivity and streamline workflows. AI Innovations Secures $50 Million in Funding from Visionary Investor Experience the future with AI-driven solutions that simplify complex processes and boost efficiency in your work environment. View all Posts Xam",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "secondary_or_unknown",
+      "candidate_confidence": 0.55,
+      "review_status": "pending"
+    },
+    {
       "amount_native": 44000000.0,
       "amount_usd": 44000000.0,
       "attribution_probability": null,
@@ -17034,6 +17070,24 @@
       "snippet": "ていた認証情報の変更が必要です。出力が空であることを確認するのがゴールです。 集計 6: 転送量の多い送信元 zcat -f $LOGS | awk '$9 ~ /^2/ {b[$1]+=$10} END {for (i in b) printf \"%15.0f %s\\n\", b[i], i}' \\ | sort -rn | head -20 応答サイズ( $10 )を IP ごとに合計します。1 件ずつは目立たなくても、合計が突出している相手はコンテンツの大量取得やファイル持ち出しの可能性があります(Apache の %b は 0 バイトのとき - ですが、awk の加算では 0 扱いになるので影響ありません)。 集計 7: User-Agent の偏り zcat -f $LOGS | awk -F '\"' '{p",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://qiita.com/jiis-sasaki/items/7affa2e2ef22ebf93fa6"
+    },
+    {
+      "candidate_id": "cand_c4ae21e4d17b5d7c2674",
+      "event_id": "evt_3244f99284aefc15f5e8",
+      "source_url": "https://www.du-soleil.com/entry/unify-into-google-ai-pro",
+      "observed_at": "2026-09-21T01:03:22+00:00",
+      "currency": "USD",
+      "amount_native": 10.0,
+      "amount_usd": 10.0,
+      "conversion_status": "not_required",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_3244f99284aefc15f5e8:unclassified",
+      "attribution_probability": null,
+      "snippet": "プランが提供されることだ。Google Developer Program には無料の「標準」プランと「プレミアム」プランがあるのだが、Google AI Pro の契約者にはこのプレミアム特典がそのまま付帯する。 プレミアム特典には、Googleの自律型AI開発環境「Google Antigravity」へのアクセス権や新機能の上限引き上げに加え、「月額 $10 相当の生成 AI および Cloud クレジット」が含まれている。特典をまとめるとこんな感じだ。 サービス・機能 単体相当額 Google AI Pro での恩恵 クラウドストレージ（5TB） 3,000円超/月相当 5TB標準付帯（Gmail・フォト・ドライブ共有） YouTube Premium Lite 780円/月 追加料金なしで無料付帯（動画の広告",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "secondary_or_unknown",
+      "candidate_confidence": 0.35,
+      "review_status": "pending"
     },
     {
       "amount_native": 9.0,
