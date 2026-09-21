@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-09-21T15:23:24+00:00",
-  "candidate_count": 929,
+  "generated_at": "2026-09-21T15:33:31+00:00",
+  "candidate_count": 938,
   "candidates": [
     {
       "amount_native": 1755400000000.0,
@@ -17690,6 +17690,24 @@
       "source_url": "https://qiita.com/jiis-sasaki/items/7affa2e2ef22ebf93fa6"
     },
     {
+      "candidate_id": "cand_b2c13ac2b090baf8f5a0",
+      "event_id": "evt_3a98bc68602bfb679e39",
+      "source_url": "https://dev.classmethod.jp/articles/jev-guide-with-examples/",
+      "observed_at": "2026-09-21T15:33:24+00:00",
+      "currency": "USD",
+      "amount_native": 12.0,
+      "amount_usd": 12.0,
+      "conversion_status": "not_required",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_3a98bc68602bfb679e39:unclassified",
+      "attribution_probability": null,
+      "snippet": "0（無料）です。出力側にコストがかかりません。 主要な LLM の料金と比べてみると差が分かりやすいです。 モデル インプット (per 1M tokens) アウトプット (per 1M tokens) Jev $0.042 $0 Claude Sonnet 5 $2 $10 Claude Haiku 4.5 $1 $5 GPT-5.6 Terra $2 $12 GPT-5.6 Luna $0.20 $1.20 Claude Sonnet 5 のインプットと比べて約50分の1、アウトプットに至ってはゼロです。分類やスコアリングといった判定タスクを LLM に投げていた場合、Jev に置き換えるだけで API コストが数十分の一になる計算です。 もちろん Jev はテキスト生成ができないので、「判定結果を自然言語で説明",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "secondary_or_unknown",
+      "candidate_confidence": 0.35,
+      "review_status": "pending"
+    },
+    {
       "amount_native": 11.0,
       "amount_usd": 11.0,
       "attribution_probability": null,
@@ -17814,6 +17832,24 @@
       "snippet": "プランが提供されることだ。Google Developer Program には無料の「標準」プランと「プレミアム」プランがあるのだが、Google AI Pro の契約者にはこのプレミアム特典がそのまま付帯する。 プレミアム特典には、Googleの自律型AI開発環境「Google Antigravity」へのアクセス権や新機能の上限引き上げに加え、「月額 $10 相当の生成 AI および Cloud クレジット」が含まれている。特典をまとめるとこんな感じだ。 サービス・機能 単体相当額 Google AI Pro での恩恵 クラウドストレージ（5TB） 3,000円超/月相当 5TB標準付帯（Gmail・フォト・ドライブ共有） YouTube Premium Lite 780円/月 追加料金なしで無料付帯（動画の広告",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://www.du-soleil.com/entry/unify-into-google-ai-pro"
+    },
+    {
+      "candidate_id": "cand_c844b060689979193c53",
+      "event_id": "evt_3a98bc68602bfb679e39",
+      "source_url": "https://dev.classmethod.jp/articles/jev-guide-with-examples/",
+      "observed_at": "2026-09-21T15:33:24+00:00",
+      "currency": "USD",
+      "amount_native": 10.0,
+      "amount_usd": 10.0,
+      "conversion_status": "not_required",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_3a98bc68602bfb679e39:unclassified",
+      "attribution_probability": null,
+      "snippet": "は、インプットトークンが100万トークンあたり$0.042で、 アウトプットトークンは$0（無料）です。出力側にコストがかかりません。 主要な LLM の料金と比べてみると差が分かりやすいです。 モデル インプット (per 1M tokens) アウトプット (per 1M tokens) Jev $0.042 $0 Claude Sonnet 5 $2 $10 Claude Haiku 4.5 $1 $5 GPT-5.6 Terra $2 $12 GPT-5.6 Luna $0.20 $1.20 Claude Sonnet 5 のインプットと比べて約50分の1、アウトプットに至ってはゼロです。分類やスコアリングといった判定タスクを LLM に投げていた場合、Jev に置き換えるだけで API コストが数十分の一にな",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "secondary_or_unknown",
+      "candidate_confidence": 0.35,
+      "review_status": "pending"
     },
     {
       "amount_native": 9.0,
@@ -18341,6 +18377,24 @@
       "source_url": "https://zenn.dev/mizchi/articles/jev-lint-intro"
     },
     {
+      "candidate_id": "cand_04476a8bd4254fb1ba49",
+      "event_id": "evt_3a98bc68602bfb679e39",
+      "source_url": "https://dev.classmethod.jp/articles/jev-guide-with-examples/",
+      "observed_at": "2026-09-21T15:33:24+00:00",
+      "currency": "USD",
+      "amount_native": 5.0,
+      "amount_usd": 5.0,
+      "conversion_status": "not_required",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_3a98bc68602bfb679e39:unclassified",
+      "attribution_probability": null,
+      "snippet": "0.042で、 アウトプットトークンは$0（無料）です。出力側にコストがかかりません。 主要な LLM の料金と比べてみると差が分かりやすいです。 モデル インプット (per 1M tokens) アウトプット (per 1M tokens) Jev $0.042 $0 Claude Sonnet 5 $2 $10 Claude Haiku 4.5 $1 $5 GPT-5.6 Terra $2 $12 GPT-5.6 Luna $0.20 $1.20 Claude Sonnet 5 のインプットと比べて約50分の1、アウトプットに至ってはゼロです。分類やスコアリングといった判定タスクを LLM に投げていた場合、Jev に置き換えるだけで API コストが数十分の一になる計算です。 もちろん Jev はテキスト生成",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "secondary_or_unknown",
+      "candidate_confidence": 0.35,
+      "review_status": "pending"
+    },
+    {
       "amount_native": 4.0,
       "amount_usd": 4.0,
       "attribution_probability": null,
@@ -18692,6 +18746,42 @@
       "source_url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/"
     },
     {
+      "candidate_id": "cand_75217ad12605882882c9",
+      "event_id": "evt_3a98bc68602bfb679e39",
+      "source_url": "https://dev.classmethod.jp/articles/jev-guide-with-examples/",
+      "observed_at": "2026-09-21T15:33:24+00:00",
+      "currency": "USD",
+      "amount_native": 2.0,
+      "amount_usd": 2.0,
+      "conversion_status": "not_required",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_3a98bc68602bfb679e39:unclassified",
+      "attribution_probability": null,
+      "snippet": "料金は、インプットトークンが100万トークンあたり$0.042で、 アウトプットトークンは$0（無料）です。出力側にコストがかかりません。 主要な LLM の料金と比べてみると差が分かりやすいです。 モデル インプット (per 1M tokens) アウトプット (per 1M tokens) Jev $0.042 $0 Claude Sonnet 5 $2 $10 Claude Haiku 4.5 $1 $5 GPT-5.6 Terra $2 $12 GPT-5.6 Luna $0.20 $1.20 Claude Sonnet 5 のインプットと比べて約50分の1、アウトプットに至ってはゼロです。分類やスコアリングといった判定タスクを LLM に投げていた場合、Jev に置き換えるだけで API コストが数十",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "secondary_or_unknown",
+      "candidate_confidence": 0.35,
+      "review_status": "pending"
+    },
+    {
+      "candidate_id": "cand_68bad56e27d51c58e0d4",
+      "event_id": "evt_3a98bc68602bfb679e39",
+      "source_url": "https://dev.classmethod.jp/articles/jev-guide-with-examples/",
+      "observed_at": "2026-09-21T15:33:24+00:00",
+      "currency": "USD",
+      "amount_native": 2.0,
+      "amount_usd": 2.0,
+      "conversion_status": "not_required",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_3a98bc68602bfb679e39:unclassified",
+      "attribution_probability": null,
+      "snippet": "ンは$0（無料）です。出力側にコストがかかりません。 主要な LLM の料金と比べてみると差が分かりやすいです。 モデル インプット (per 1M tokens) アウトプット (per 1M tokens) Jev $0.042 $0 Claude Sonnet 5 $2 $10 Claude Haiku 4.5 $1 $5 GPT-5.6 Terra $2 $12 GPT-5.6 Luna $0.20 $1.20 Claude Sonnet 5 のインプットと比べて約50分の1、アウトプットに至ってはゼロです。分類やスコアリングといった判定タスクを LLM に投げていた場合、Jev に置き換えるだけで API コストが数十分の一になる計算です。 もちろん Jev はテキスト生成ができないので、「判定結果を自然",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "secondary_or_unknown",
+      "candidate_confidence": 0.35,
+      "review_status": "pending"
+    },
+    {
       "amount_native": 1.5,
       "amount_usd": 1.5,
       "attribution_probability": null,
@@ -18711,6 +18801,24 @@
       "snippet": "s. In one intrusion, they exfiltrated roughly 26 gigabytes of data from one victim and sought payment in extortion attempts (or from selling the data on darkweb forums) of between $1.5 and 2.5 million.\\\"}],\\\"markDefs\\\":[],\\\"style\\\":\\\"normal\\\"},{\\\"_key\\\":\\\"d23fa4c4559d\\\",\\\"_type\\\":\\\"block\\\",\\\"children\\\":[{\\\"_key\\\":\\\"279b0397756a\\\",\\\"_type\\\":\\\"span\\\",\\\"marks\\\":[],\\",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://www.anthropic.com/threat-intelligence-report-september-2026"
+    },
+    {
+      "candidate_id": "cand_2191c1f62c942572a41a",
+      "event_id": "evt_3a98bc68602bfb679e39",
+      "source_url": "https://dev.classmethod.jp/articles/jev-guide-with-examples/",
+      "observed_at": "2026-09-21T15:33:24+00:00",
+      "currency": "USD",
+      "amount_native": 1.2,
+      "amount_usd": 1.2,
+      "conversion_status": "not_required",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_3a98bc68602bfb679e39:unclassified",
+      "attribution_probability": null,
+      "snippet": "主要な LLM の料金と比べてみると差が分かりやすいです。 モデル インプット (per 1M tokens) アウトプット (per 1M tokens) Jev $0.042 $0 Claude Sonnet 5 $2 $10 Claude Haiku 4.5 $1 $5 GPT-5.6 Terra $2 $12 GPT-5.6 Luna $0.20 $1.20 Claude Sonnet 5 のインプットと比べて約50分の1、アウトプットに至ってはゼロです。分類やスコアリングといった判定タスクを LLM に投げていた場合、Jev に置き換えるだけで API コストが数十分の一になる計算です。 もちろん Jev はテキスト生成ができないので、「判定結果を自然言語で説明してほしい」みたいな用途には使えません。ただ、結果",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "secondary_or_unknown",
+      "candidate_confidence": 0.35,
+      "review_status": "pending"
     },
     {
       "amount_native": 1.0,
@@ -18944,6 +19052,24 @@
       "source_url": "https://www.docswell.com/s/3402128/KVJYJ3-2026-09-15-202358"
     },
     {
+      "candidate_id": "cand_8ffb27f6518091455be0",
+      "event_id": "evt_3a98bc68602bfb679e39",
+      "source_url": "https://dev.classmethod.jp/articles/jev-guide-with-examples/",
+      "observed_at": "2026-09-21T15:33:24+00:00",
+      "currency": "USD",
+      "amount_native": 1.0,
+      "amount_usd": 1.0,
+      "conversion_status": "not_required",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_3a98bc68602bfb679e39:unclassified",
+      "attribution_probability": null,
+      "snippet": "たり$0.042で、 アウトプットトークンは$0（無料）です。出力側にコストがかかりません。 主要な LLM の料金と比べてみると差が分かりやすいです。 モデル インプット (per 1M tokens) アウトプット (per 1M tokens) Jev $0.042 $0 Claude Sonnet 5 $2 $10 Claude Haiku 4.5 $1 $5 GPT-5.6 Terra $2 $12 GPT-5.6 Luna $0.20 $1.20 Claude Sonnet 5 のインプットと比べて約50分の1、アウトプットに至ってはゼロです。分類やスコアリングといった判定タスクを LLM に投げていた場合、Jev に置き換えるだけで API コストが数十分の一になる計算です。 もちろん Jev はテキ",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "secondary_or_unknown",
+      "candidate_confidence": 0.35,
+      "review_status": "pending"
+    },
+    {
       "amount_native": 0.2,
       "amount_usd": 0.2,
       "attribution_probability": null,
@@ -18984,6 +19110,24 @@
       "snippet": "ったら、 石炭の消費は減らずに増えた 安くなると、割に合わなかった使い方が増える TypeSafe は、知能も同じ道をたどると見ている 13 何が嬉しいの？ 発表ブログの比較表から 学習のさせ方 返ってくるもの 生成のしかた 速さ 料金 自信 これまでの LLM 人の好みに合わせる（RLHF） 文字列。パースが要る 1トークンずつ順番に 3〜329秒 入力 $0.2〜10、出力は約5倍 聞いても過大 Jev 較正された判断（RLCD） 型の決まった値と確率 1回の呼び出しで同時に 0.07〜0.5秒 入力 $0.042、出力 $0 常に確信度を返す 14 出力トークンは無料。計測するまでもない安さ 入力は 100万トークンで $0.042。10億トークンでも $42 出力の欄は「FREE（too cheap to me",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://speakerdeck.com/minorun365/konwadai-no-ai-jev-tte-nani-uchuu-saisoku-de-manabu-kai"
+    },
+    {
+      "candidate_id": "cand_14fbc2026efed151fbb9",
+      "event_id": "evt_3a98bc68602bfb679e39",
+      "source_url": "https://dev.classmethod.jp/articles/jev-guide-with-examples/",
+      "observed_at": "2026-09-21T15:33:24+00:00",
+      "currency": "USD",
+      "amount_native": 0.2,
+      "amount_usd": 0.2,
+      "conversion_status": "not_required",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_3a98bc68602bfb679e39:unclassified",
+      "attribution_probability": null,
+      "snippet": "かりません。 主要な LLM の料金と比べてみると差が分かりやすいです。 モデル インプット (per 1M tokens) アウトプット (per 1M tokens) Jev $0.042 $0 Claude Sonnet 5 $2 $10 Claude Haiku 4.5 $1 $5 GPT-5.6 Terra $2 $12 GPT-5.6 Luna $0.20 $1.20 Claude Sonnet 5 のインプットと比べて約50分の1、アウトプットに至ってはゼロです。分類やスコアリングといった判定タスクを LLM に投げていた場合、Jev に置き換えるだけで API コストが数十分の一になる計算です。 もちろん Jev はテキスト生成ができないので、「判定結果を自然言語で説明してほしい」みたいな用途には使えませ",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "secondary_or_unknown",
+      "candidate_confidence": 0.35,
+      "review_status": "pending"
     },
     {
       "amount_native": 0.055,
@@ -19047,6 +19191,24 @@
       "snippet": "合わせる（RLHF） 文字列。パースが要る 1トークンずつ順番に 3〜329秒 入力 $0.2〜10、出力は約5倍 聞いても過大 Jev 較正された判断（RLCD） 型の決まった値と確率 1回の呼び出しで同時に 0.07〜0.5秒 入力 $0.042、出力 $0 常に確信度を返す 14 出力トークンは無料。計測するまでもない安さ 入力は 100万トークンで $0.042。10億トークンでも $42 出力の欄は「FREE（too cheap to meter）」 15 つまり、すごく雑に言うと 「賢い if 文」 LLMは、1トークンずつ順番に書いている 1つ書くごとに、モデル全体を1回動かす 問い合わせ⽂ ＋「JSONで答えて」 { \"dep art ment \": … 全部書き終わるまで待ってから、JSON にパースして",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://speakerdeck.com/minorun365/konwadai-no-ai-jev-tte-nani-uchuu-saisoku-de-manabu-kai"
+    },
+    {
+      "candidate_id": "cand_87c987bd937f9b2936aa",
+      "event_id": "evt_3a98bc68602bfb679e39",
+      "source_url": "https://dev.classmethod.jp/articles/jev-guide-with-examples/",
+      "observed_at": "2026-09-21T15:33:24+00:00",
+      "currency": "USD",
+      "amount_native": 0.042,
+      "amount_usd": 0.042,
+      "conversion_status": "not_required",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_3a98bc68602bfb679e39:unclassified",
+      "attribution_probability": null,
+      "snippet": "の速さです。 料金が桁違いに安い Jev の API 料金は、インプットトークンが100万トークンあたり$0.042で、 アウトプットトークンは$0（無料）です。出力側にコストがかかりません。 主要な LLM の料金と比べてみると差が分かりやすいです。 モデル インプット (per 1M tokens) アウトプット (per 1M tokens) Jev $0.042 $0 Claude Sonnet 5 $2 $10 Claude Haiku 4.5 $1 $5 GPT-5.6 Terra $2 $12 GPT-5.6 Luna $0.20 $1.20 Claude Sonnet 5 のインプットと比べて約50分の1、アウトプットに至ってはゼロです。分類やスコアリングといった判定タスクを LLM に投げていた場合、Je",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "secondary_or_unknown",
+      "candidate_confidence": 0.35,
+      "review_status": "pending"
     },
     {
       "amount_native": 0.0002,
