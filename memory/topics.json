@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-21T09:55:14+00:00",
+  "generated_at": "2026-09-21T10:06:15+00:00",
   "topics": {
     "ai": [
       {
@@ -84,11 +84,39 @@
         "url": "https://e27.co/why-singapore-smes-should-treat-cybersecurity-as-a-sales-issue-20260920/"
       },
       {
+        "title": "[NEU] [mittel] Red Hat Enterprise Linux (abrt): Mehrere Schwachstellen ermöglichen Manipulation von Dateien",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-21T10:01:31+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3470"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [kritisch] D-LINK Router DIR-822A: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-21T09:56:32+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3468"
+      },
+      {
         "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (perl-Net-DNS): Schwachstelle ermöglicht Denial of Service",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-21T08:46:31+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3447"
+      },
+      {
+        "title": "[NEU] [mittel] IBM i: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-21T10:01:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3471"
+      },
+      {
+        "title": "[NEU] [hoch] IBM MQ: Schwachstelle ermöglicht Codeausführung, Denial of Service, und potenziell Privilegieneskalation",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-21T10:01:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3469"
       },
       {
         "title": "[UPDATE] [mittel] QEMU: Schwachstelle ermöglicht Codeausführung",
@@ -117,27 +145,6 @@
         "published_at": "2026-09-21T08:41:31+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2136"
-      },
-      {
-        "title": "Ant International Launches Industry’s First Full-Stack AI-Native Solutions for Payment, Account, FX, Treasury and Growth Operations for Global Businesses",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-21T06:48:28+00:00",
-        "relevance_score": 14,
-        "url": "https://e27.co/ant-international-launches-industrys-first-full-stack-ai-native-solutions-for-payment-account-fx-treasury-and-growth-operations-for-global-businesses-20260921/"
-      },
-      {
-        "title": "Werbeblocker Pi-hole: Update stopft Codeschmuggel-Lücken",
-        "source": "heise Security Alerts",
-        "published_at": "2026-09-21T09:30:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Werbeblocker-Pi-hole-Update-stopft-Codeschmuggel-Luecken-11459820.html"
-      },
-      {
-        "title": "Warnung vor Angriffen auf Linux-Schwachstellen",
-        "source": "heise Security Alerts",
-        "published_at": "2026-09-21T06:16:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Linux-Schwachstellen-11459555.html"
       }
     ],
     "economy": [
@@ -177,6 +184,13 @@
         "url": "https://github.com/anthropics/financial-services"
       },
       {
+        "title": "Eurosystem brings central bank money to tokenised finance",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-09-21T10:00:00+00:00",
+        "relevance_score": 9,
+        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921~e754847a7b.en.html"
+      },
+      {
         "title": "Shaping the next decade of finance - technology, trust and innovation",
         "source": "BIS Central Bankers Speeches",
         "published_at": "2026-09-21T00:00:00+00:00",
@@ -203,13 +217,6 @@
         "published_at": "2026-09-21T00:00:00+00:00",
         "relevance_score": 6,
         "url": "https://www.bis.org/speeches/20260921-what-money"
-      },
-      {
-        "title": "Why I prefer boring businesses in a market obsessed with the next big thing",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-21T01:30:32+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/why-i-prefer-boring-businesses-in-a-market-obsessed-with-the-next-big-thing-20260918/"
       }
     ],
     "github": [
@@ -270,6 +277,78 @@
         "url": "https://github.com/BuilderIO/agent-native"
       }
     ],
+    "geopolitics": [
+      {
+        "title": "[NEU] [mittel] Red Hat Enterprise Linux (abrt): Mehrere Schwachstellen ermöglichen Manipulation von Dateien",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-21T10:01:31+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3470"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [kritisch] D-LINK Router DIR-822A: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-21T09:56:32+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3468"
+      },
+      {
+        "title": "[NEU] [mittel] IBM i: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-21T10:01:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3471"
+      },
+      {
+        "title": "[NEU] [hoch] IBM MQ: Schwachstelle ermöglicht Codeausführung, Denial of Service, und potenziell Privilegieneskalation",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-21T10:01:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3469"
+      },
+      {
+        "title": "Economic activity, prices, and monetary policy in Japan",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-09-21T00:00:00+00:00",
+        "relevance_score": 13,
+        "url": "https://www.bis.org/speeches/20260921-economic-activity-prices-and-monetary-policy-japan"
+      },
+      {
+        "title": "Crypto is dead? Apparently not, says Y Combinator – Blockchain is still worth building",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-21T01:00:51+00:00",
+        "relevance_score": 11,
+        "url": "https://e27.co/crypto-is-dead-apparently-not-says-y-combinator-blockchain-is-still-worth-building-20260918/"
+      },
+      {
+        "title": "Eurosystem brings central bank money to tokenised finance",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-09-21T10:00:00+00:00",
+        "relevance_score": 9,
+        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921~e754847a7b.en.html"
+      },
+      {
+        "title": "ECB to invest part of own funds in tokenised securities, with settlement via Pontes",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-09-21T10:00:00+00:00",
+        "relevance_score": 9,
+        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921_1~5a011ecbea.en.html"
+      },
+      {
+        "title": "SEA logistics tech funding hits five-year high, but it’s still a third of the 2021 peak",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-21T09:53:06+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/sea-logistics-tech-funding-hits-five-year-high-but-its-still-a-third-of-the-2021-peak-20260921/"
+      },
+      {
+        "title": "National Bank of Ukraine press briefing - monetary policy decisions",
+        "source": "BIS Central Bankers Speeches",
+        "published_at": "2026-09-18T00:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.bis.org/speeches/20260921-national-bank-ukraine-press-briefing-monetary-policy-decisions"
+      }
+    ],
     "general": [
       {
         "title": "M 5.0 - 34 km WNW of Luwuk, Indonesia",
@@ -326,64 +405,6 @@
         "published_at": "2026-09-20T04:16:01+00:00",
         "relevance_score": 5,
         "url": "https://qiita.com/ktdatascience/items/666a82fcdf3dc4af00d7"
-      }
-    ],
-    "geopolitics": [
-      {
-        "title": "Economic activity, prices, and monetary policy in Japan",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-09-21T00:00:00+00:00",
-        "relevance_score": 13,
-        "url": "https://www.bis.org/speeches/20260921-economic-activity-prices-and-monetary-policy-japan"
-      },
-      {
-        "title": "Crypto is dead? Apparently not, says Y Combinator – Blockchain is still worth building",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-21T01:00:51+00:00",
-        "relevance_score": 11,
-        "url": "https://e27.co/crypto-is-dead-apparently-not-says-y-combinator-blockchain-is-still-worth-building-20260918/"
-      },
-      {
-        "title": "SEA logistics tech funding hits five-year high, but it’s still a third of the 2021 peak",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-21T09:53:06+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/sea-logistics-tech-funding-hits-five-year-high-but-its-still-a-third-of-the-2021-peak-20260921/"
-      },
-      {
-        "title": "National Bank of Ukraine press briefing - monetary policy decisions",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-09-18T00:00:00+00:00",
-        "relevance_score": 8,
-        "url": "https://www.bis.org/speeches/20260921-national-bank-ukraine-press-briefing-monetary-policy-decisions"
-      },
-      {
-        "title": "Warnung vor Angriffen auf Linux-Schwachstellen",
-        "source": "heise Security Alerts",
-        "published_at": "2026-09-21T06:16:00.000+00:00",
-        "relevance_score": 7,
-        "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-Linux-Schwachstellen-11459555.html"
-      },
-      {
-        "title": "What is money?",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-09-21T00:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://www.bis.org/speeches/20260921-what-money"
-      },
-      {
-        "title": "Can Ethereum clear US$2,672 this week and unlock a run to US$3,000?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-21T04:57:59+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/can-ethereum-clear-us2672-this-week-and-unlock-a-run-to-us3000-20260921/"
-      },
-      {
-        "title": "Why I prefer boring businesses in a market obsessed with the next big thing",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-21T01:30:32+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/why-i-prefer-boring-businesses-in-a-market-obsessed-with-the-next-big-thing-20260918/"
       }
     ]
   }
