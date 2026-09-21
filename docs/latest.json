@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T20:11:33+00:00",
-  "run_id": "2026-09-21T20:11:33+00:00",
+  "generated_at": "2026-09-21T20:26:20+00:00",
+  "run_id": "2026-09-21T20:26:20+00:00",
   "date": "2026-09-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 84,
     "displayed_findings": 84,
     "high": 0,
@@ -4201,29 +4201,7 @@
       "id": "b13af2f1f952131a97ba"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
-      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-09-21T12:00:00+00:00",
-      "fetched_at": "2026-09-21T20:11:02+00:00",
-      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
-      "matched_keywords": [
-        "AI/KI",
-        "OpenAI"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "OpenAI (+7.5); AI/KI (+3.8); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c301b5a937cd78d473e8"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
