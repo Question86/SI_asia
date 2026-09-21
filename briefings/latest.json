@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-21T16:46:30+00:00",
-  "run_id": "2026-09-21T16:46:30+00:00",
+  "generated_at": "2026-09-21T16:54:43+00:00",
+  "run_id": "2026-09-21T16:54:43+00:00",
   "date": "2026-09-21",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 78
+      "configured_public_sources_only": 79
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 78,
-    "displayed_findings": 78,
+    "new_relevant_findings": 1,
+    "today_file_total": 79,
+    "displayed_findings": 79,
     "high": 0,
     "medium": 32,
-    "observe": 46,
-    "source_errors": 1
+    "observe": 47,
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -1034,6 +1034,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "b260860c8761848bc44d"
+      },
+      {
+        "title": "Grok 4.7 is now available in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-09-21T14:54:12+00:00",
+        "fetched_at": "2026-09-21T16:54:05+00:00",
+        "summary": "Grok 4.7, xAI’s latest reasoning model, is now rolling out in GitHub Copilot. Building on Grok 4.6, it is designed for agentic coding and complex, multistep workflows. This model is… The post Grok 4.7 is now available in GitHub Copilot appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "AI Agents",
+          "Copilot",
+          "GitHub"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "AI Agents (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "50d69f75161760b17b1f"
       },
       {
         "title": "M 4.7 - 76 km W of Ollagüe, Chile",
@@ -2977,6 +2999,28 @@
       "id": "b260860c8761848bc44d"
     },
     {
+      "title": "Grok 4.7 is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-09-21T14:54:12+00:00",
+      "fetched_at": "2026-09-21T16:54:05+00:00",
+      "summary": "Grok 4.7, xAI’s latest reasoning model, is now rolling out in GitHub Copilot. Building on Grok 4.6, it is designed for agentic coding and complex, multistep workflows. This model is… The post Grok 4.7 is now available in GitHub Copilot appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "AI Agents",
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "AI Agents (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "50d69f75161760b17b1f"
+    },
+    {
       "title": "M 4.7 - 76 km W of Ollagüe, Chile",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tixg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -3911,15 +3955,31 @@
       "id": "b13af2f1f952131a97ba"
     }
   ],
-  "new_findings": [],
-  "source_errors": [
+  "new_findings": [
     {
-      "source_id": "e27_asia_startups_feed",
-      "source_name": "e27 Asia Startup and Tech Feed",
+      "title": "Grok 4.7 is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
+      "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='e27.co', port=443): Read timed out."
+      "published_at": "2026-09-21T14:54:12+00:00",
+      "fetched_at": "2026-09-21T16:54:05+00:00",
+      "summary": "Grok 4.7, xAI’s latest reasoning model, is now rolling out in GitHub Copilot. Building on Grok 4.6, it is designed for agentic coding and complex, multistep workflows. This model is… The post Grok 4.7 is now available in GitHub Copilot appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "AI Agents",
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "AI Agents (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "50d69f75161760b17b1f"
     }
   ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,

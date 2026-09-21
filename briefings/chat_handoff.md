@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-21T16:46:30+00:00_
+_Generated: 2026-09-21T16:54:43+00:00_
 
 ## Status
-- status: `warning`
-- findings: `78`
+- status: `normal`
+- findings: `79`
 
 ## Top Signals
 
