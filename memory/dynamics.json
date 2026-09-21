@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-21T04:54:59Z",
+  "generated_at": "2026-09-21T05:15:29Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 38,
     "bands": {
       "krass": 2,
       "strong": 6,
-      "watch": 11,
-      "quiet": 19
+      "watch": 10,
+      "quiet": 20
     },
     "bands_after_gate_recheck": {
       "strong": 8,
-      "watch": 11,
-      "quiet": 19
+      "watch": 10,
+      "quiet": 20
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://e27.co/why-singapore-smes-should-treat-cybersecurity-as-a-sales-issue-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T03:00:15+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security",
         "macro"
@@ -49,7 +49,7 @@
       "url": "https://e27.co/the-ai-productivity-paradox-why-finance-must-move-beyond-automation-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T02:33:04+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -76,7 +76,7 @@
       "url": "https://www.du-soleil.com/entry/unify-into-google-ai-pro",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-21T01:03:04+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -103,7 +103,7 @@
       "url": "https://e27.co/why-singapore-smes-should-treat-cybersecurity-as-a-sales-issue-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T03:27:24+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -129,7 +129,7 @@
       "url": "https://www.du-soleil.com/entry/unify-into-google-ai-pro",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-20T09:58:00+00:00",
-      "age_days": 0.79,
+      "age_days": 0.8,
       "topics": [
         "ai",
         "macro"
@@ -156,7 +156,7 @@
       "url": "https://e27.co/itm-semiconductors-vietnam-unit-hit-by-fraud-and-widening-losses-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T04:32:33+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "general"
       ],
@@ -166,12 +166,12 @@
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 2,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +1",
+        "momentum delta +2",
         "krass gate: single-source non-official/non-identity signal capped"
       ],
       "summary": ""
@@ -181,7 +181,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiur",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-21T01:57:30.040+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -206,7 +206,7 @@
       "url": "https://e27.co/the-ai-productivity-paradox-why-finance-must-move-beyond-automation-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T02:30:36+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "macro"
@@ -233,7 +233,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiur",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-31T08:30:56+00:00",
-      "age_days": 20.85,
+      "age_days": 20.86,
       "topics": [
         "general"
       ],
@@ -254,11 +254,35 @@
       "summary": ""
     },
     {
+      "title": "M 4.5 - 4 km W of Victor Raul, Peru",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tivb",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-21T04:10:56+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 18.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Geminiが使えるスマートウォッチ「Google Pixel Watch 5」を使ってみた",
       "url": "https://gigazine.net/news/20260921-google-pixel-watch-review/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-21T01:03:04+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -278,35 +302,11 @@
       "summary": ""
     },
     {
-      "title": "M 4.5 - 4 km W of Victor Raul, Peru",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tivb",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-21T04:10:56+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 16.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2"
-      ],
-      "summary": ""
-    },
-    {
       "title": "01F Group backs DANA as Indonesia’s digital payments race enters its next phase",
       "url": "https://e27.co/01f-group-backs-dana-as-indonesias-digital-payments-race-enters-its-next-phase-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T02:50:56+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -330,7 +330,7 @@
       "url": "https://e27.co/crypto-is-dead-apparently-not-says-y-combinator-blockchain-is-still-worth-building-20260918/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T01:03:04+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -357,7 +357,7 @@
       "url": "https://zenn.dev/cybernetics/articles/71ea975d935414",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T14:18:56+00:00",
-      "age_days": 1.61,
+      "age_days": 1.62,
       "topics": [
         "general"
       ],
@@ -381,7 +381,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tivb",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-21T04:09:41.040+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -401,35 +401,11 @@
       "summary": "Time 2026-09-21 03:58:24 UTC 2026-09-21 03:58:24 UTC at epicenter Location 8.397°S 78.865°W Depth 73.09 km (45.41 mi)"
     },
     {
-      "title": "M 4.7 - 156 km NNW of Hicks Bay, New Zealand",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tivi",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-21T04:49:43+00:00",
-      "age_days": 0.0,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 13.4,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Why I prefer boring businesses in a market obsessed with the next big thing",
       "url": "https://e27.co/why-i-prefer-boring-businesses-in-a-market-obsessed-with-the-next-big-thing-20260918/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T01:38:24+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "macro"
       ],
@@ -453,7 +429,7 @@
       "url": "https://github.com/fallow-rs/fallow",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-21T01:03:04+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -480,7 +456,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tivi",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-21T04:44:02.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.02,
       "topics": [
         "disaster"
       ],
@@ -500,11 +476,35 @@
       "summary": "Time 2026-09-21 04:28:40 UTC 2026-09-21 04:28:40 UTC at epicenter Location 36.246°S 177.798°E Depth 213.01 km (132.36 mi)"
     },
     {
+      "title": "M 4.7 - 156 km NNW of Hicks Bay, New Zealand",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tivi",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-21T04:49:43+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 11.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "ITM Semiconductor’s Vietnam unit hit by fraud and widening losses",
       "url": "https://e27.co/itm-semiconductors-vietnam-unit-hit-by-fraud-and-widening-losses-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T04:26:25+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
@@ -529,7 +529,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiui",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-21T01:25:41.887+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai",
         "disaster"
@@ -557,7 +557,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiui",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-21T01:38:24+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai"
       ],
@@ -583,7 +583,7 @@
       "url": "https://e27.co/sustainability-reporting-is-not-the-goal-better-business-decisions-are-20260918/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T02:33:04+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -609,7 +609,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/column/nishikawa/2142517.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-21T01:59:26+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -635,7 +635,7 @@
       "url": "https://qiita.com/ktdatascience/items/666a82fcdf3dc4af00d7",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 94.12,
+      "age_days": 94.14,
       "topics": [
         "general"
       ],
@@ -660,7 +660,7 @@
       "url": "https://zenn.dev/nomhiro/articles/jev-cosmosdb-rag-filter-poc",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-21T02:33:04+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -686,7 +686,7 @@
       "url": "https://e27.co/crypto-is-dead-apparently-not-says-y-combinator-blockchain-is-still-worth-building-20260918/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T01:00:51+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -712,7 +712,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOUC148W70U6A710C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T02:10:07+00:00",
-      "age_days": 94.11,
+      "age_days": 94.13,
       "topics": [
         "ai"
       ],
@@ -740,7 +740,7 @@
       "url": "https://zenn.dev/cybernetics/articles/71ea975d935414",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-20T21:36:04+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "ai",
         "security"
@@ -765,7 +765,7 @@
       "url": "https://qiita.com/ktdatascience/items/666a82fcdf3dc4af00d7",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-20T04:16:01+00:00",
-      "age_days": 1.03,
+      "age_days": 1.04,
       "topics": [
         "general"
       ],
@@ -789,7 +789,7 @@
       "url": "https://www.nikkei.com/article/DGXZQOUC148W70U6A710C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-20T20:44:59+00:00",
-      "age_days": 0.34,
+      "age_days": 0.35,
       "topics": [
         "ai"
       ],
@@ -815,7 +815,7 @@
       "url": "https://e27.co/why-i-prefer-boring-businesses-in-a-market-obsessed-with-the-next-big-thing-20260918/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T01:30:32+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "macro"
       ],
@@ -839,7 +839,7 @@
       "url": "https://gigazine.net/news/20260921-google-pixel-watch-review/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-20T23:01:58+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -864,7 +864,7 @@
       "url": "https://e27.co/01f-group-backs-dana-as-indonesias-digital-payments-race-enters-its-next-phase-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T02:35:35+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -889,7 +889,7 @@
       "url": "https://e27.co/sustainability-reporting-is-not-the-goal-better-business-decisions-are-20260918/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T02:00:11+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -914,7 +914,7 @@
       "url": "https://github.com/fallow-rs/fallow",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-04-22T23:31:43+00:00",
-      "age_days": 151.22,
+      "age_days": 151.24,
       "topics": [
         "ai"
       ],
@@ -941,7 +941,7 @@
       "url": "https://pc.watch.impress.co.jp/docs/column/nishikawa/2142517.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-20T21:55:14+00:00",
-      "age_days": 0.29,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -966,7 +966,7 @@
       "url": "https://zenn.dev/nomhiro/articles/jev-cosmosdb-rag-filter-poc",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-19T08:43:11+00:00",
-      "age_days": 1.84,
+      "age_days": 1.86,
       "topics": [
         "ai"
       ],

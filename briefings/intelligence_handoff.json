@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-21T04:54:59Z",
+  "generated_at": "2026-09-21T05:15:29Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Why Singapore SMEs should treat cybersecurity as a sales issue” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://e27.co/why-singapore-smes-should-treat-cybersecurity-as-a-sales-issue-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T03:00:15+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "security",
         "macro"
@@ -41,7 +41,7 @@
       "url": "https://e27.co/the-ai-productivity-paradox-why-finance-must-move-beyond-automation-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T02:33:04+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -68,7 +68,7 @@
       "url": "https://www.du-soleil.com/entry/unify-into-google-ai-pro",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-21T01:03:04+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "ai"
       ],
@@ -95,7 +95,7 @@
       "url": "https://e27.co/why-singapore-smes-should-treat-cybersecurity-as-a-sales-issue-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T03:27:24+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "security"
       ],
@@ -121,7 +121,7 @@
       "url": "https://www.du-soleil.com/entry/unify-into-google-ai-pro",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-20T09:58:00+00:00",
-      "age_days": 0.79,
+      "age_days": 0.8,
       "topics": [
         "ai",
         "macro"
@@ -148,7 +148,7 @@
       "url": "https://e27.co/itm-semiconductors-vietnam-unit-hit-by-fraud-and-widening-losses-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T04:32:33+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "general"
       ],
@@ -158,12 +158,12 @@
       "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 2,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +1",
+        "momentum delta +2",
         "krass gate: single-source non-official/non-identity signal capped"
       ],
       "summary": ""
@@ -173,7 +173,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiur",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-21T01:57:30.040+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "disaster"
       ],
@@ -198,7 +198,7 @@
       "url": "https://e27.co/the-ai-productivity-paradox-why-finance-must-move-beyond-automation-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T02:30:36+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "ai",
         "macro"
@@ -225,7 +225,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiur",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-08-31T08:30:56+00:00",
-      "age_days": 20.85,
+      "age_days": 20.86,
       "topics": [
         "general"
       ],
@@ -246,11 +246,35 @@
       "summary": ""
     },
     {
+      "title": "M 4.5 - 4 km W of Victor Raul, Peru",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tivb",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-21T04:10:56+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 18.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Geminiが使えるスマートウォッチ「Google Pixel Watch 5」を使ってみた",
       "url": "https://gigazine.net/news/20260921-google-pixel-watch-review/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-21T01:03:04+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -270,35 +294,11 @@
       "summary": ""
     },
     {
-      "title": "M 4.5 - 4 km W of Victor Raul, Peru",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tivb",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-21T04:10:56+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 16.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2"
-      ],
-      "summary": ""
-    },
-    {
       "title": "01F Group backs DANA as Indonesia’s digital payments race enters its next phase",
       "url": "https://e27.co/01f-group-backs-dana-as-indonesias-digital-payments-race-enters-its-next-phase-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-21T02:50:56+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
