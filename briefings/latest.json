@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T22:32:27+00:00",
-  "run_id": "2026-09-21T22:32:27+00:00",
+  "generated_at": "2026-09-21T22:42:19+00:00",
+  "run_id": "2026-09-21T22:42:19+00:00",
   "date": "2026-09-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 88,
     "displayed_findings": 88,
     "high": 0,
@@ -4397,29 +4397,7 @@
       "id": "b13af2f1f952131a97ba"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Windows 11 Homeでローカルアカウントを作成する新たな「抜け道」が発見される",
-      "url": "https://garumax.com/windows-11-home-local-account-new-workaround",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-21T06:47:02+00:00",
-      "fetched_at": "2026-09-21T22:31:56+00:00",
-      "summary": "Windows 11 Homeでローカルアカウントを作成する新たな「抜け道」が発見される 投稿日:2026年09月21日 Microsoft ハウツー・紹介・レポート 執筆者 : かのあゆ ※ 当メディアのリンクにはアフィリエイト広告が含まれています Windows 11 Homeは2023年以降、PCを購入した際やOSをクリーンインストールした後に実行されるOO...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6c58f8248a9a26273dd3"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
