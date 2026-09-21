@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T07:12:05+00:00",
-  "run_id": "2026-09-21T07:12:05+00:00",
+  "generated_at": "2026-09-21T07:38:31+00:00",
+  "run_id": "2026-09-21T07:38:31+00:00",
   "date": "2026-09-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 29
+      "configured_public_sources_only": 30
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 29,
-    "displayed_findings": 29,
+    "today_file_total": 30,
+    "displayed_findings": 30,
     "high": 0,
     "medium": 5,
-    "observe": 24,
+    "observe": 25,
     "source_errors": 0
   },
   "sections": {
@@ -500,6 +500,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "0d84d5b43526740c6f5a"
+      },
+      {
+        "title": "愚昧なブクマカども",
+        "url": "https://anond.hatelabo.jp/20260921134652",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-21T04:54:57+00:00",
+        "fetched_at": "2026-09-21T07:37:59+00:00",
+        "summary": "俺は怒り心頭だぞ、猛烈だ。 てめえだよ。呑気な顔して生きてんじゃねえぞおい。 パートナーにセーラー服を着てほしいと言われた増田の件な。 増田本人はいい。罪は無い。 ブコメがアホまみれなんでちょっと掃除させてくれや。魑魅魍魎どもが。 勘違いすんなよ。 セーラー服に欲情してるんじゃなくて、セーラー服を纏う...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "910044615949958e2967"
       },
       {
         "title": "【西川和久の不定期コラム】 Qwen3.8で動画解析→生成AI動画プロンプト化してみた。LM Studioも対応",
@@ -1205,6 +1226,27 @@
       "id": "0d84d5b43526740c6f5a"
     },
     {
+      "title": "愚昧なブクマカども",
+      "url": "https://anond.hatelabo.jp/20260921134652",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-21T04:54:57+00:00",
+      "fetched_at": "2026-09-21T07:37:59+00:00",
+      "summary": "俺は怒り心頭だぞ、猛烈だ。 てめえだよ。呑気な顔して生きてんじゃねえぞおい。 パートナーにセーラー服を着てほしいと言われた増田の件な。 増田本人はいい。罪は無い。 ブコメがアホまみれなんでちょっと掃除させてくれや。魑魅魍魎どもが。 勘違いすんなよ。 セーラー服に欲情してるんじゃなくて、セーラー服を纏う...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "910044615949958e2967"
+    },
+    {
       "title": "【西川和久の不定期コラム】 Qwen3.8で動画解析→生成AI動画プロンプト化してみた。LM Studioも対応",
       "url": "https://pc.watch.impress.co.jp/docs/column/nishikawa/2142517.html",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1437,26 +1479,25 @@
   ],
   "new_findings": [
     {
-      "title": "Ant International Launches Industry’s First Full-Stack AI-Native Solutions for Payment, Account, FX, Treasury and Growth Operations for Global Businesses",
-      "url": "https://e27.co/ant-international-launches-industrys-first-full-stack-ai-native-solutions-for-payment-account-fx-treasury-and-growth-operations-for-global-businesses-20260921/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "愚昧なブクマカども",
+      "url": "https://anond.hatelabo.jp/20260921134652",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-21T06:48:28+00:00",
-      "fetched_at": "2026-09-21T07:11:33+00:00",
-      "summary": "In an industry first, Ant International launched a full stack of AI-native solutions for payment, account, FX, treasury and growth operations for global businesses. Unveiled at Ant International’s annual VOYAGE executive merchant forum, the AI-native product suite is built on a 2-layered security architecture, and Ant International’s two proprietary foundation models: Antom 3-in-1 Transformer – a […] The post Ant In…",
+      "published_at": "2026-09-21T04:54:57+00:00",
+      "fetched_at": "2026-09-21T07:37:59+00:00",
+      "summary": "俺は怒り心頭だぞ、猛烈だ。 てめえだよ。呑気な顔して生きてんじゃねえぞおい。 パートナーにセーラー服を着てほしいと言われた増田の件な。 増田本人はいい。罪は無い。 ブコメがアホまみれなんでちょっと掃除させてくれや。魑魅魍魎どもが。 勘違いすんなよ。 セーラー服に欲情してるんじゃなくて、セーラー服を纏う...",
       "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "Security"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "AI/KI (+3.8); Security (+6.0); APAC Trend Radar (+3.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "feeb98984e4195a2dbb8"
+      "id": "910044615949958e2967"
     }
   ],
   "source_errors": [],
