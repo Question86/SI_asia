@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-21T13:59:10+00:00_
+_Generiert: 2026-09-21T14:23:37+00:00_
 
 ## Kurzlage
 
-74 neue relevante Treffer. Stärkstes Signal: „Google AI Pro(2,900円)へのAIサブスク統一でYouTube Premium LiteとGoogle Cloud費用と色々が実質無料 - 太陽がまぶしかったから“ aus Hatena Bookmark Hotentry IT (Score 23, observation). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+74 neue relevante Treffer. Stärkstes Signal: „Google AI Pro(2,900円)へのAIサブスク統一でYouTube Premium LiteとGoogle Cloud費用と色々が実質無料 - 太陽がまぶしかったから“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -33,10 +33,10 @@ _Generiert: 2026-09-21T13:59:10+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Thailand
-- **GDACS: Green earthquake (Magnitude 6.4M, Depth:104.329km) in Papua New Guinea 20/09/2026 09:17 UTC, 50 thousand in MMI V.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1567112)
+- **GDACS: Green earthquake (Magnitude 6.4M, Depth:104.329km) in Papua New Guinea 20/09/2026 09:17 UTC, 90 thousand in MMI V.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1567112)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 6.4M, Depth:104.329km) in Papua New Guinea 20/09/2026 09:17 UTC, 50 thousand in MMI V.
+  - Kurz: Green earthquake (Magnitude 6.4M, Depth:104.329km) in Papua New Guinea 20/09/2026 09:17 UTC, 90 thousand in MMI V.
 - **GDACS: Green notification for tropical cyclone POLO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001325)
   - Quelle: GDACS
   - Zeit: ``
@@ -342,7 +342,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `e27_asia_startups_feed` (rss): HTTPSConnectionPool(host='e27.co', port=443): Read timed out. (read timeout=8)
