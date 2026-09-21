@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-21T12:47:46+00:00_
+_Generiert: 2026-09-21T12:57:04+00:00_
 
 ## Kurzlage
 
-67 neue relevante Treffer. Stärkstes Signal: „Google AI Pro(2,900円)へのAIサブスク統一でYouTube Premium LiteとGoogle Cloud費用と色々が実質無料 - 太陽がまぶしかったから“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+68 neue relevante Treffer. Stärkstes Signal: „Google AI Pro(2,900円)へのAIサブスク統一でYouTube Premium LiteとGoogle Cloud費用と色々が実質無料 - 太陽がまぶしかったから“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -265,6 +265,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: インタビューに応じた杉山知之氏＝東京都千代田区急速に社会へ浸透する生成人工知能（AI）の技術は、コンテンツクリエーターにどう影響していくのか。30年以上にわたりデジタルクリエーターを育成してきたデジタルハリウッド大学の杉山知之前学長（72）に「生成AIによりクリエーターは不要になるのか。デジタルハリウッ...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **iPhoneに搭載されたApple製AIとチャットする方法、無料アプリで「Apple Foundation Models」のローカル処理能力を試せる** — Score 8, observation — [Quelle](https://gigazine.net/news/20260921-locally-ai-apple-foundation-models/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-21T10:24:27+00:00`, fetched `2026-09-21T12:56:36+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 2026年9月に登場したiOS 27やmacOS 27にはApple製AIモデル「Apple Foundation Models」のアップデート版が含まれており、各種アプリでAI機能をオフライン実行できるようになっています。このApple Foundation Modelsとチャットできる機能がAI実行アプリ「Locally AI」に追加されたので、テキストでのチャット機能や画像...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **SEA logistics tech funding hits five-year high, but it’s still a third of the 2021 peak** — Score 8, observation — [Quelle](https://e27.co/sea-logistics-tech-funding-hits-five-year-high-but-its-still-a-third-of-the-2021-peak-20260921/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-21T09:53:06+00:00`, fetched `2026-09-21T09:54:44+00:00`
@@ -291,15 +300,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 外観レビューに続いて「Google Pixel Watch 5」を実際に使ってみました。ワークアウトや睡眠測定を行っています。 Google Pixel Watch 5 - AI が導く、もっといい自分へ https://store.google.com/jp/product/pixel_watch_5?hl=ja 初回使用時はBluetoothによるペアリングが必要。PixelスマートフォンでなくともAndroid 1...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Unberechtigte Zugriffe auf SolarWinds Access Rights Manager möglich** — Score 7, observation — [Quelle](https://www.heise.de/news/Unberechtigte-Zugriffe-auf-SolarWinds-Access-Rights-Manager-moeglich-11459978.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-09-21T10:21:00.000+00:00`, fetched `2026-09-21T10:37:02+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Ein Sicherheitspatch schließt eine Schwachstelle in SolarWinds Access Rights Manager. Bislang gibt es keine Hinweise auf Attacken.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
