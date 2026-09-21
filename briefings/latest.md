@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-21T04:32:29+00:00_
+_Generiert: 2026-09-21T04:49:40+00:00_
 
 ## Kurzlage
 
-18 neue relevante Treffer. Stärkstes Signal: „Google AI Pro(2,900円)へのAIサブスク統一でYouTube Premium LiteとGoogle Cloud費用と色々が実質無料 - 太陽がまぶしかったから“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+19 neue relevante Treffer. Stärkstes Signal: „Google AI Pro(2,900円)へのAIサブスク統一でYouTube Premium LiteとGoogle Cloud費用と色々が実質無料 - 太陽がまぶしかったから“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -139,6 +139,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); APAC Trend Radar (+3.0); funding (+2.0); recent (+1.0); watchgraph region europe: NATO (+2.0)
   - Kurz: Every cycle, people say that crypto is dead. By retail, and by funding. Attention moves on to the next bubble, this time it is AI. However, when Y Combinator published its list of Biggest Startup Opportunities of 2026, crypto kept its place alongside AI, healthcare, defence, enterprise software, and climate technology. What surprised me was […] The post Crypto is dead? Apparently not, says Y Combinator – Blockchain…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.7 - 156 km NNW of Hicks Bay, New Zealand** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tivi)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-21T04:44:02.040+00:00`, fetched `2026-09-21T04:49:12+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-21 04:28:40 UTC 2026-09-21 04:28:40 UTC at epicenter Location 36.246°S 177.798°E Depth 213.01 km (132.36 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.9 - 26 km SE of Saimbeyli, Turkey** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiui)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-21T01:25:41.887+00:00`, fetched `2026-09-21T01:37:55+00:00`
