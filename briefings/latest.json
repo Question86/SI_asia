@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T17:47:43+00:00",
-  "run_id": "2026-09-21T17:47:43+00:00",
+  "generated_at": "2026-09-21T17:55:02+00:00",
+  "run_id": "2026-09-21T17:55:02+00:00",
   "date": "2026-09-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 81
+      "configured_public_sources_only": 82
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 81,
-    "displayed_findings": 81,
+    "new_relevant_findings": 1,
+    "today_file_total": 82,
+    "displayed_findings": 82,
     "high": 0,
-    "medium": 32,
+    "medium": 33,
     "observe": 49,
     "source_errors": 0
   },
@@ -238,6 +238,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "8bc6ae41db2baed04832"
+      },
+      {
+        "title": "Advisory Group on Mathematics and Artificial Intelligence",
+        "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-09-21T12:00:00+00:00",
+        "fetched_at": "2026-09-21T17:54:32+00:00",
+        "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+        "matched_keywords": [
+          "AI/KI",
+          "Content-Chance",
+          "OpenAI"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); Content-Chance (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "3df2e3c6a71ac3e123e5"
       },
       {
         "title": "[UPDATE] [mittel] GNU Emacs und Red Hat Enterprise Linux: Schwachstelle ermöglicht Codeausführung",
@@ -2249,6 +2271,28 @@
       "id": "8bc6ae41db2baed04832"
     },
     {
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-21T12:00:00+00:00",
+      "fetched_at": "2026-09-21T17:54:32+00:00",
+      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "matched_keywords": [
+        "AI/KI",
+        "Content-Chance",
+        "OpenAI"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); Content-Chance (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3df2e3c6a71ac3e123e5"
+    },
+    {
       "title": "[UPDATE] [mittel] GNU Emacs und Red Hat Enterprise Linux: Schwachstelle ermöglicht Codeausführung",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2024-3558",
       "source": "BSI CERT-Bund Security Advisories",
@@ -4043,7 +4087,30 @@
       "id": "b13af2f1f952131a97ba"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Advisory Group on Mathematics and Artificial Intelligence",
+      "url": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-21T12:00:00+00:00",
+      "fetched_at": "2026-09-21T17:54:32+00:00",
+      "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "matched_keywords": [
+        "AI/KI",
+        "Content-Chance",
+        "OpenAI"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); Content-Chance (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "3df2e3c6a71ac3e123e5"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
