@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-21T18:45:50+00:00_
+_Generiert: 2026-09-21T18:55:10+00:00_
 
 ## Kurzlage
 
@@ -29,8 +29,38 @@ _Generiert: 2026-09-21T18:45:50+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-16`
   - Kurz: Known exploited vulnerability. Added 2026-09-16. Due 2026-09-19. Cisco Identity Services Engine Incorrect Use of Privileged APIs Vulnerability
-
-- Sensor-Hinweis: GDACS failed: HTTPSConnectionPool(host='www.gdacs.org', port=443): Max retries exceeded with url: /xml/rss.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gdacs.org', port=443) at 0x7fce6a4dd510>, 'Connection to www.gdacs.org timed out. (connect timeout=8)'))
+- **GDACS: Green flood alert in Thailand** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104169)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Thailand
+- **GDACS: Green earthquake (Magnitude 6.4M, Depth:104.329km) in Papua New Guinea 20/09/2026 09:17 UTC, 90 thousand in MMI V.** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1567112)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 6.4M, Depth:104.329km) in Papua New Guinea 20/09/2026 09:17 UTC, 90 thousand in MMI V.
+- **GDACS: Green notification for tropical cyclone POLO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001325)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green notification for tropical cyclone POLO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 21/09/2026 01:41 UTC, 2 thousand (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1567198)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 21/09/2026 01:41 UTC, 2 thousand (in MMI&gt;=VII).
+- **GDACS: Volcanic eruption is on going for Chikurachki in Russia** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000149)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Volcanic eruption is on going for Chikurachki in Russia
+- **GDACS: Green earthquake (Magnitude 5.7M, Depth:10km) in South Of Africa 20/09/2026 20:54 UTC, [unknown].** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1567176)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green earthquake (Magnitude 5.7M, Depth:10km) in South Of Africa 20/09/2026 20:54 UTC, [unknown].
+- **GDACS: Green notification for tropical cyclone ODALYS-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001324)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green notification for tropical cyclone ODALYS-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
+- **GDACS: Green notification for tropical cyclone FAY-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001323)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green notification for tropical cyclone FAY-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 
 ## Wirtschaft global
 
