@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-09-21T04:49:43+00:00_
+_Generiert: 2026-09-21T04:58:23+00:00_
 
 ## ITM Semiconductor’s Vietnam unit hit by fraud and widening losses
 
