@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-21T10:25:39+00:00_
+_Generiert: 2026-09-21T10:37:36+00:00_
 
 ## Kurzlage
 
-55 neue relevante Treffer. Stärkstes Signal: „Google AI Pro(2,900円)へのAIサブスク統一でYouTube Premium LiteとGoogle Cloud費用と色々が実質無料 - 太陽がまぶしかったから“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+56 neue relevante Treffer. Stärkstes Signal: „Google AI Pro(2,900円)へのAIサブスク統一でYouTube Premium LiteとGoogle Cloud費用と色々が実質無料 - 太陽がまぶしかったから“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -222,14 +222,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 外観レビューに続いて「Google Pixel Watch 5」を実際に使ってみました。ワークアウトや睡眠測定を行っています。 Google Pixel Watch 5 - AI が導く、もっといい自分へ https://store.google.com/jp/product/pixel_watch_5?hl=ja 初回使用時はBluetoothによるペアリングが必要。PixelスマートフォンでなくともAndroid 1...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Werbeblocker Pi-hole: Update stopft Codeschmuggel-Lücken** — Score 7, observation — [Quelle](https://www.heise.de/news/Werbeblocker-Pi-hole-Update-stopft-Codeschmuggel-Luecken-11459820.html)
+- **Unberechtigte Zugriffe auf SolarWinds Access Rights Manager möglich** — Score 7, observation — [Quelle](https://www.heise.de/news/Unberechtigte-Zugriffe-auf-SolarWinds-Access-Rights-Manager-moeglich-11459978.html)
   - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-09-21T09:30:00.000+00:00`, fetched `2026-09-21T09:46:16+00:00`
+  - Zeit: published `2026-09-21T10:21:00.000+00:00`, fetched `2026-09-21T10:37:02+00:00`
   - Treffer: Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Ein Update für den DNS-basierten Werbeblocker Pi-hole schließt teils hochriskante Codeschmuggel-Lücken.
+  - Kurz: Ein Sicherheitspatch schließt eine Schwachstelle in SolarWinds Access Rights Manager. Bislang gibt es keine Hinweise auf Attacken.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

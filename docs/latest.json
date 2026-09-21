@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T10:25:39+00:00",
-  "run_id": "2026-09-21T10:25:39+00:00",
+  "generated_at": "2026-09-21T10:37:36+00:00",
+  "run_id": "2026-09-21T10:37:36+00:00",
   "date": "2026-09-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 55
+      "configured_public_sources_only": 56
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 55,
-    "displayed_findings": 55,
+    "new_relevant_findings": 1,
+    "today_file_total": 56,
+    "displayed_findings": 56,
     "high": 0,
     "medium": 18,
-    "observe": 37,
+    "observe": 38,
     "source_errors": 0
   },
   "sections": {
@@ -881,6 +881,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "c7e4482761b79c1c0e23"
+      },
+      {
+        "title": "Unberechtigte Zugriffe auf SolarWinds Access Rights Manager möglich",
+        "url": "https://www.heise.de/news/Unberechtigte-Zugriffe-auf-SolarWinds-Access-Rights-Manager-moeglich-11459978.html",
+        "source": "heise Security Alerts",
+        "source_type": "rss",
+        "published_at": "2026-09-21T10:21:00.000+00:00",
+        "fetched_at": "2026-09-21T10:37:02+00:00",
+        "summary": "Ein Sicherheitspatch schließt eine Schwachstelle in SolarWinds Access Rights Manager. Bislang gibt es keine Hinweise auf Attacken.",
+        "matched_keywords": [
+          "Security"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "Security (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "07e8bc6d5a7c4fb345e1"
       },
       {
         "title": "Werbeblocker Pi-hole: Update stopft Codeschmuggel-Lücken",
@@ -2193,6 +2213,26 @@
       "id": "c7e4482761b79c1c0e23"
     },
     {
+      "title": "Unberechtigte Zugriffe auf SolarWinds Access Rights Manager möglich",
+      "url": "https://www.heise.de/news/Unberechtigte-Zugriffe-auf-SolarWinds-Access-Rights-Manager-moeglich-11459978.html",
+      "source": "heise Security Alerts",
+      "source_type": "rss",
+      "published_at": "2026-09-21T10:21:00.000+00:00",
+      "fetched_at": "2026-09-21T10:37:02+00:00",
+      "summary": "Ein Sicherheitspatch schließt eine Schwachstelle in SolarWinds Access Rights Manager. Bislang gibt es keine Hinweise auf Attacken.",
+      "matched_keywords": [
+        "Security"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "07e8bc6d5a7c4fb345e1"
+    },
+    {
       "title": "Werbeblocker Pi-hole: Update stopft Codeschmuggel-Lücken",
       "url": "https://www.heise.de/news/Werbeblocker-Pi-hole-Update-stopft-Codeschmuggel-Luecken-11459820.html",
       "source": "heise Security Alerts",
@@ -2651,73 +2691,24 @@
   ],
   "new_findings": [
     {
-      "title": "[NEU] [hoch] WordPress: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3472",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "Unberechtigte Zugriffe auf SolarWinds Access Rights Manager möglich",
+      "url": "https://www.heise.de/news/Unberechtigte-Zugriffe-auf-SolarWinds-Access-Rights-Manager-moeglich-11459978.html",
+      "source": "heise Security Alerts",
       "source_type": "rss",
-      "published_at": "2026-09-21T10:06:31+00:00",
-      "fetched_at": "2026-09-21T10:25:09+00:00",
-      "summary": "Ein Angreifer kann mehrere Schwachstellen in WordPress ausnutzen, um beliebigen Programmcode auszuführen, Sicherheitsmaßnahmen zu umgehen, Cross-Site-Scripting-Angriffe durchzuführen oder Daten zu manipulieren und offenzulegen.",
+      "published_at": "2026-09-21T10:21:00.000+00:00",
+      "fetched_at": "2026-09-21T10:37:02+00:00",
+      "summary": "Ein Sicherheitspatch schließt eine Schwachstelle in SolarWinds Access Rights Manager. Bislang gibt es keine Hinweise auf Attacken.",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security",
-        "Webentwicklung"
-      ],
-      "relevance_score": 17,
-      "relevance_reason": "Security (+6.0); Webentwicklung (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8bc6ae41db2baed04832"
-    },
-    {
-      "title": "[UPDATE] [mittel] GNU libc: Schwachstelle ermöglicht nicht spezifizierten Angriff",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3063",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-21T10:16:31+00:00",
-      "fetched_at": "2026-09-21T10:25:09+00:00",
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in GNU libc ausnutzen, um einen nicht näher spezifizierten Angriff durchzuführen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
         "Security"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "relevance_score": 7,
+      "relevance_reason": "Security (+6.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "a671a92e1fa04f82fac8"
-    },
-    {
-      "title": "生成AIで「デザイナー不要論」に、僕はこう答える 杉山知之デジハリ大前学長・回答全文 AI×人間",
-      "url": "https://www.sankei.com/article/20260920-HN3RTI4KZBBHPPRNBLZ3KPNZOQ/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-20T12:20:36+00:00",
-      "fetched_at": "2026-09-21T10:25:09+00:00",
-      "summary": "インタビューに応じた杉山知之氏＝東京都千代田区急速に社会へ浸透する生成人工知能（AI）の技術は、コンテンツクリエーターにどう影響していくのか。30年以上にわたりデジタルクリエーターを育成してきたデジタルハリウッド大学の杉山知之前学長（72）に「生成AIによりクリエーターは不要になるのか。デジタルハリウッ...",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "445b2a2b2f19231b089e"
+      "id": "07e8bc6d5a7c4fb345e1"
     }
   ],
   "source_errors": [],
