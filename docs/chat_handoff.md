@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-21T04:10:54+00:00_
+_Generated: 2026-09-21T04:32:29+00:00_
 
 ## Status
 - status: `normal`
-- findings: `17`
+- findings: `18`
 
 ## Top Signals
 
@@ -22,35 +22,42 @@ _Generated: 2026-09-21T04:10:54+00:00_
 - url: https://e27.co/why-singapore-smes-should-treat-cybersecurity-as-a-sales-issue-20260920/
 - summary: Consider a small services firm preparing to win its first major corporate account. The proposal is strong. The pricing is competitive. The team has shown that it can deliver. Then the prospective customer asks a different set of questions. Where will our info…
 
-### 3. M 5.5 - 35 km NNE of Ruteng, Indonesia
+### 3. ITM Semiconductor’s Vietnam unit hit by fraud and widening losses
+- source: e27 Asia Startup and Tech Feed
+- score: `18`
+- published: `2026-09-21T04:26:25+00:00`
+- url: https://e27.co/itm-semiconductors-vietnam-unit-hit-by-fraud-and-widening-losses-20260921/
+- summary: A fraud case at ITM Semiconductor’s Vietnam subsidiary has exposed a deeper problem at the South Korean battery components maker: its Vietnamese operation is not only dealing with an employee embezzlement case, but also a sharp deterioration in its financial…
+
+### 4. M 5.5 - 35 km NNE of Ruteng, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-09-21T01:57:30.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiur
 - summary: Time 2026-09-21 01:41:36 UTC 2026-09-21 01:41:36 UTC at epicenter Location 8.307°S 120.579°E Depth 10.00 km (6.21 mi)
 
-### 4. The AI productivity paradox: Why finance must move beyond automation
+### 5. The AI productivity paradox: Why finance must move beyond automation
 - source: e27 Asia Startup and Tech Feed
 - score: `13`
 - published: `2026-09-21T02:30:36+00:00`
 - url: https://e27.co/the-ai-productivity-paradox-why-finance-must-move-beyond-automation-20260920/
 - summary: For decades, productivity in finance meant closing the books faster, reducing transaction costs and improving reporting. Artificial intelligence changes that equation, because it can do more than execute routine work. It can interpret variances, detect anomal…
 
-### 5. M 4.5 - 4 km W of Victor Raul, Peru
+### 6. M 4.5 - 4 km W of Victor Raul, Peru
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
 - published: `2026-09-21T04:09:41.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tivb
 - summary: Time 2026-09-21 03:58:24 UTC 2026-09-21 03:58:24 UTC at epicenter Location 8.397°S 78.865°W Depth 73.09 km (45.41 mi)
 
-### 6. Crypto is dead? Apparently not, says Y Combinator – Blockchain is still worth building
+### 7. Crypto is dead? Apparently not, says Y Combinator – Blockchain is still worth building
 - source: e27 Asia Startup and Tech Feed
 - score: `11`
 - published: `2026-09-21T01:00:51+00:00`
 - url: https://e27.co/crypto-is-dead-apparently-not-says-y-combinator-blockchain-is-still-worth-building-20260918/
 - summary: Every cycle, people say that crypto is dead. By retail, and by funding. Attention moves on to the next bubble, this time it is AI. However, when Y Combinator published its list of Biggest Startup Opportunities of 2026, crypto kept its place alongside AI, heal…
 
-### 7. M 4.9 - 26 km SE of Saimbeyli, Turkey
+### 8. M 4.9 - 26 km SE of Saimbeyli, Turkey
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `9`
 - published: `2026-09-21T01:25:41.887+00:00`

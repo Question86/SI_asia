@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-21T04:10:54+00:00_
+_Generiert: 2026-09-21T04:32:29+00:00_
 
 ## Kurzlage
 
-17 neue relevante Treffer. Stärkstes Signal: „Google AI Pro(2,900円)へのAIサブスク統一でYouTube Premium LiteとGoogle Cloud費用と色々が実質無料 - 太陽がまぶしかったから“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+18 neue relevante Treffer. Stärkstes Signal: „Google AI Pro(2,900円)へのAIサブスク統一でYouTube Premium LiteとGoogle Cloud費用と色々が実質無料 - 太陽がまぶしかったから“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -30,6 +30,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); APAC Trend Radar (+3.8); Public Health (+5.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: Consider a small services firm preparing to win its first major corporate account. The proposal is strong. The pricing is competitive. The team has shown that it can deliver. Then the prospective customer asks a different set of questions. Where will our information be stored? Who can access it? What happens when an employee leaves? […] The post Why Singapore SMEs should treat cybersecurity as a sales issue appeared…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **ITM Semiconductor’s Vietnam unit hit by fraud and widening losses** — Score 18, risk — [Quelle](https://e27.co/itm-semiconductors-vietnam-unit-hit-by-fraud-and-widening-losses-20260921/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-21T04:26:25+00:00`, fetched `2026-09-21T04:31:58+00:00`
+  - Treffer: APAC Trend Radar, Reputationsrisiko
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); Reputationsrisiko (+8.8); recent (+1.0); watchgraph region south_korea: South Korea (+2.0); watchgraph region southeast_asia: Vietnam (+2.0)
+  - Kurz: A fraud case at ITM Semiconductor’s Vietnam subsidiary has exposed a deeper problem at the South Korean battery components maker: its Vietnamese operation is not only dealing with an employee embezzlement case, but also a sharp deterioration in its financial performance. In its 2025 annual report, ITM Semiconductor said it had recovered about US$2.47 million […] The post ITM Semiconductor’s Vietnam unit hit by fraud…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.5 - 35 km NNE of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiur)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-21T01:57:30.040+00:00`, fetched `2026-09-21T01:58:53+00:00`
