@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-21T02:50:56+00:00",
+  "generated_at": "2026-09-21T02:58:58+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -3886,7 +3886,7 @@
     },
     "domain:www.nikkei.com": {
       "title": "国産AIへ機械に「マイナンバー」 官民でデータ収集、DMG森など100社 - 日本経済新聞",
-      "updated_at": "2026-09-21T02:50:56+00:00",
+      "updated_at": "2026-09-21T02:58:58+00:00",
       "network_scores": [
         12.1,
         12.1,
@@ -3911,7 +3911,7 @@
         12.1,
         12.1,
         12.1,
-        12.1,
+        9.1,
         9.1,
         9.1,
         9.1,
@@ -3919,10 +3919,10 @@
         9.1,
         9.1
       ],
-      "rolling_average": 11.5,
+      "rolling_average": 11.4,
       "rolling_peak": 12.1,
       "last_score": 9.1,
-      "z_hint": -2.4
+      "z_hint": -2.3
     },
     "title:economy-moving-faster-than-our-institutions": {
       "title": "The AI economy is moving faster than our institutions",
@@ -9613,7 +9613,7 @@
     },
     "earthquake:indonesia:5.5": {
       "title": "M 5.5 - 35 km NNE of Ruteng, Indonesia",
-      "updated_at": "2026-09-21T02:50:56+00:00",
+      "updated_at": "2026-09-21T02:58:58+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -9641,8 +9641,8 @@
         17.7,
         17.7,
         17.7,
-        17.7,
         20.7,
+        17.7,
         17.7,
         17.7
       ],
@@ -39475,9 +39475,8 @@
     },
     "title:jev": {
       "title": "Jevを「分類器」ではなく、確率モデルの部品として見る",
-      "updated_at": "2026-09-21T02:50:56+00:00",
+      "updated_at": "2026-09-21T02:58:58+00:00",
       "network_scores": [
-        14.1,
         14.1,
         14.1,
         14.1,
@@ -39506,12 +39505,13 @@
         14.1,
         10.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 13.5,
+      "rolling_average": 13.27,
       "rolling_peak": 14.1,
       "last_score": 7.1,
-      "z_hint": -6.4
+      "z_hint": -6.17
     },
     "domain:www.yodobashi.com": {
       "title": "ヨドバシ.com - 東プレ Topre REALFORCE RS1キーボード 左右分割式 79キー 日本語配列 ダークグレー S1UJ11 通販【全品無料配達】",
@@ -40643,95 +40643,141 @@
     },
     "domain:www.du-soleil.com": {
       "title": "Google AI Pro(2,900円)へのAIサブスク統一でYouTube Premium LiteとGoogle Cloud費用と色々が実質無料 - 太陽がまぶしかったから",
-      "updated_at": "2026-09-21T02:50:56+00:00",
+      "updated_at": "2026-09-21T02:58:58+00:00",
       "network_scores": [
         28.1,
         25.1,
         25.1,
         25.1,
+        25.1,
         25.1
       ],
-      "rolling_average": 25.7,
+      "rolling_average": 25.6,
       "rolling_peak": 28.1,
       "last_score": 25.1,
-      "z_hint": -0.6
+      "z_hint": -0.5
     },
     "title:crypto-dead-apparently-not-says-combinator-blockchain-still": {
       "title": "Crypto is dead? Apparently not, says Y Combinator – Blockchain is still worth building",
-      "updated_at": "2026-09-21T02:50:56+00:00",
+      "updated_at": "2026-09-21T02:58:58+00:00",
       "network_scores": [
         16.1,
         13.1,
         13.1,
         13.1,
+        13.1,
         13.1
       ],
-      "rolling_average": 13.7,
+      "rolling_average": 13.6,
       "rolling_peak": 16.1,
       "last_score": 13.1,
-      "z_hint": -0.6
+      "z_hint": -0.5
     },
     "domain:store.google.com": {
       "title": "Geminiが使えるスマートウォッチ「Google Pixel Watch 5」を使ってみた",
-      "updated_at": "2026-09-21T02:50:56+00:00",
+      "updated_at": "2026-09-21T02:58:58+00:00",
       "network_scores": [
         13.1,
         10.1,
         10.1,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 10.7,
+      "rolling_average": 10.6,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -0.6
+      "z_hint": -0.5
     },
     "github_repo:fallow-rs/fallow": {
       "title": "GitHub - fallow-rs/fallow: Codebase intelligence for TypeScript and JavaScript. Free static layer: unused code, duplication, circular deps, complexity hotspots, architecture boundaries. Optional paid runtime layer: hot-path review and cold-path deletion e",
-      "updated_at": "2026-09-21T02:50:56+00:00",
+      "updated_at": "2026-09-21T02:58:58+00:00",
       "network_scores": [
         11.1,
         8.1,
         8.1,
         8.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 8.7,
+      "rolling_average": 8.6,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -0.6
+      "z_hint": -0.5
     },
     "earthquake:turkey:4.9": {
       "title": "M 4.9 - 26 km SE of Saimbeyli, Turkey",
-      "updated_at": "2026-09-21T02:50:56+00:00",
+      "updated_at": "2026-09-21T02:58:58+00:00",
       "network_scores": [
         14.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 12.45,
+      "rolling_average": 12.3,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "title:why-prefer-boring-businesses-market-obsessed-next-big": {
       "title": "Why I prefer boring businesses in a market obsessed with the next big thing",
-      "updated_at": "2026-09-21T02:50:56+00:00",
+      "updated_at": "2026-09-21T02:58:58+00:00",
       "network_scores": [
         9.1,
         6.1,
         6.1,
+        6.1,
         6.1
       ],
-      "rolling_average": 6.85,
+      "rolling_average": 6.7,
       "rolling_peak": 9.1,
       "last_score": 6.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "title:qwen3-studio": {
       "title": "【西川和久の不定期コラム】 Qwen3.8で動画解析→生成AI動画プロンプト化してみた。LM Studioも対応",
-      "updated_at": "2026-09-21T02:50:56+00:00",
+      "updated_at": "2026-09-21T02:58:58+00:00",
+      "network_scores": [
+        10.1,
+        7.1,
+        7.1,
+        7.1
+      ],
+      "rolling_average": 7.85,
+      "rolling_peak": 10.1,
+      "last_score": 7.1,
+      "z_hint": -0.75
+    },
+    "title:productivity-paradox-why-finance-must-move-beyond-automation": {
+      "title": "The AI productivity paradox: Why finance must move beyond automation",
+      "updated_at": "2026-09-21T02:58:58+00:00",
+      "network_scores": [
+        18.1,
+        15.1,
+        15.1
+      ],
+      "rolling_average": 16.1,
+      "rolling_peak": 18.1,
+      "last_score": 15.1,
+      "z_hint": -1.0
+    },
+    "title:sustainability-reporting-not-goal-better-business-decisions-are": {
+      "title": "Sustainability reporting is not the goal. Better business decisions are",
+      "updated_at": "2026-09-21T02:58:58+00:00",
+      "network_scores": [
+        11.1,
+        8.1,
+        8.1
+      ],
+      "rolling_average": 9.1,
+      "rolling_peak": 11.1,
+      "last_score": 8.1,
+      "z_hint": -1.0
+    },
+    "title:jev-cosmos-rag": {
+      "title": "文章を生成しないAI「Jev」でCosmos DBのRAG検索結果をフィルタしてみた",
+      "updated_at": "2026-09-21T02:58:58+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -40742,52 +40788,17 @@
       "last_score": 7.1,
       "z_hint": -1.0
     },
-    "title:productivity-paradox-why-finance-must-move-beyond-automation": {
-      "title": "The AI productivity paradox: Why finance must move beyond automation",
-      "updated_at": "2026-09-21T02:50:56+00:00",
-      "network_scores": [
-        18.1,
-        15.1
-      ],
-      "rolling_average": 16.6,
-      "rolling_peak": 18.1,
-      "last_score": 15.1,
-      "z_hint": -1.5
-    },
-    "title:sustainability-reporting-not-goal-better-business-decisions-are": {
-      "title": "Sustainability reporting is not the goal. Better business decisions are",
-      "updated_at": "2026-09-21T02:50:56+00:00",
-      "network_scores": [
-        11.1,
-        8.1
-      ],
-      "rolling_average": 9.6,
-      "rolling_peak": 11.1,
-      "last_score": 8.1,
-      "z_hint": -1.5
-    },
-    "title:jev-cosmos-rag": {
-      "title": "文章を生成しないAI「Jev」でCosmos DBのRAG検索結果をフィルタしてみた",
-      "updated_at": "2026-09-21T02:50:56+00:00",
-      "network_scores": [
-        10.1,
-        7.1
-      ],
-      "rolling_average": 8.6,
-      "rolling_peak": 10.1,
-      "last_score": 7.1,
-      "z_hint": -1.5
-    },
     "title:01f-group-backs-dana-indonesia-digital-payments-race": {
       "title": "01F Group backs DANA as Indonesia’s digital payments race enters its next phase",
-      "updated_at": "2026-09-21T02:50:56+00:00",
+      "updated_at": "2026-09-21T02:58:58+00:00",
       "network_scores": [
-        12.1
+        12.1,
+        9.1
       ],
-      "rolling_average": 12.1,
+      "rolling_average": 10.6,
       "rolling_peak": 12.1,
-      "last_score": 12.1,
-      "z_hint": 0.0
+      "last_score": 9.1,
+      "z_hint": -1.5
     }
   }
 }

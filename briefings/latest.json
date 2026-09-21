@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T02:50:53+00:00",
-  "run_id": "2026-09-21T02:50:53+00:00",
+  "generated_at": "2026-09-21T02:58:55+00:00",
+  "run_id": "2026-09-21T02:58:55+00:00",
   "date": "2026-09-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 14,
     "displayed_findings": 14,
     "high": 0,
@@ -743,28 +743,7 @@
       "id": "aa900e38111df94a36f2"
     }
   ],
-  "new_findings": [
-    {
-      "title": "01F Group backs DANA as Indonesia’s digital payments race enters its next phase",
-      "url": "https://e27.co/01f-group-backs-dana-as-indonesias-digital-payments-race-enters-its-next-phase-20260921/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-21T02:35:35+00:00",
-      "fetched_at": "2026-09-21T02:50:22+00:00",
-      "summary": "In Indonesia, the real test for digital finance is no longer whether people can pay with their phones in Jakarta malls. It is whether the same tools can work reliably for a food seller in Makassar, a small retailer in Solo, or a family-run business in a Tier 3 city that still relies heavily on […] The post 01F Group backs DANA as Indonesia’s digital payments race enters its next phase appeared first on e27 .",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "bf420a76d373d38988c8"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
