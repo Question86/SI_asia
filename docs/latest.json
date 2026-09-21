@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T13:30:40+00:00",
-  "run_id": "2026-09-21T13:30:40+00:00",
+  "generated_at": "2026-09-21T13:43:00+00:00",
+  "run_id": "2026-09-21T13:43:00+00:00",
   "date": "2026-09-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 72
+      "configured_public_sources_only": 73
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 72,
-    "displayed_findings": 72,
+    "new_relevant_findings": 1,
+    "today_file_total": 73,
+    "displayed_findings": 73,
     "high": 0,
     "medium": 28,
-    "observe": 44,
+    "observe": 45,
     "source_errors": 0
   },
   "sections": {
@@ -891,6 +891,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "b364fcce7a89753bea28"
+      },
+      {
+        "title": "Announcing 20260083 (MRO,liquidity providing), for 7 days deadline 09:30",
+        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260083.en.html",
+        "source": "ECB Open Market Operations and Communication",
+        "source_type": "rss",
+        "published_at": "2026-09-21T14:40:20+00:00",
+        "fetched_at": "2026-09-21T13:42:23+00:00",
+        "summary": "Announcing 20260083 (MRO,liquidity providing), for 7 days deadline 09:30",
+        "matched_keywords": [
+          "liquidity",
+          "Macro/Policy",
+          "open market operations"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b260860c8761848bc44d"
       },
       {
         "title": "M 4.7 - 76 km W of Ollagüe, Chile",
@@ -2670,6 +2692,28 @@
       "id": "b364fcce7a89753bea28"
     },
     {
+      "title": "Announcing 20260083 (MRO,liquidity providing), for 7 days deadline 09:30",
+      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260083.en.html",
+      "source": "ECB Open Market Operations and Communication",
+      "source_type": "rss",
+      "published_at": "2026-09-21T14:40:20+00:00",
+      "fetched_at": "2026-09-21T13:42:23+00:00",
+      "summary": "Announcing 20260083 (MRO,liquidity providing), for 7 days deadline 09:30",
+      "matched_keywords": [
+        "liquidity",
+        "Macro/Policy",
+        "open market operations"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b260860c8761848bc44d"
+    },
+    {
       "title": "M 4.7 - 76 km W of Ollagüe, Chile",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tixg",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -3585,123 +3629,26 @@
   ],
   "new_findings": [
     {
-      "title": "How V7 gives AI agents institutional memory",
-      "url": "https://openai.com/index/v7",
-      "source": "OpenAI News RSS",
+      "title": "Announcing 20260083 (MRO,liquidity providing), for 7 days deadline 09:30",
+      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260083.en.html",
+      "source": "ECB Open Market Operations and Communication",
       "source_type": "rss",
-      "published_at": "2026-09-21T00:00:00+00:00",
-      "fetched_at": "2026-09-21T13:30:05+00:00",
-      "summary": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+      "published_at": "2026-09-21T14:40:20+00:00",
+      "fetched_at": "2026-09-21T13:42:23+00:00",
+      "summary": "Announcing 20260083 (MRO,liquidity providing), for 7 days deadline 09:30",
       "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "OpenAI",
-        "Watchgraph:ai_agents_workflow"
+        "liquidity",
+        "Macro/Policy",
+        "open market operations"
       ],
-      "relevance_score": 20,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.8); AI Agents (+6.2); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: AI agents"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "b8979d7b08e12561cd1f"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits Cisco (15 septembre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1175/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-09-15T00:00:00+00:00",
-      "fetched_at": "2026-09-21T13:30:05+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Cisco. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une injection SQL (SQLi). Cisco indique que la vulnérabilité CVE-2026-76461 est...",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "Security",
-        "sécurité",
-        "vulnérabilité"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "56778f1022b04197d7d7"
-    },
-    {
-      "title": "Multiples vulnérabilités dans Microsoft Edge (15 septembre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1173/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-09-15T00:00:00+00:00",
-      "fetched_at": "2026-09-21T13:30:05+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans Microsoft Edge. Elles permettent à un attaquant de provoquer une élévation de privilèges et un problème de sécurité non spécifié par l'éditeur.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "Microsoft",
-        "sécurité",
-        "vulnérabilité",
-        "éditeur"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); éditeur (+2.0); Microsoft (+2.5)",
+      "relevance_score": 12,
+      "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "b364fcce7a89753bea28"
-    },
-    {
-      "title": "Vulnérabilité dans Microsoft Windows (15 septembre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1174/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-09-15T00:00:00+00:00",
-      "fetched_at": "2026-09-21T13:30:05+00:00",
-      "summary": "Une vulnérabilité a été découverte dans Microsoft Windows. Elle permet à un attaquant de provoquer une élévation de privilèges.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "Microsoft",
-        "sécurité",
-        "vulnérabilité"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5); Microsoft (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f5c4f826cbb9fac7d3ae"
+      "id": "b260860c8761848bc44d"
     }
   ],
   "source_errors": [],
