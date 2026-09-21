@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-21T15:33:32+00:00",
+  "generated_at": "2026-09-21T15:43:19+00:00",
   "events": [
     {
       "event_id": "evt_010865faf79d8c1f952b",
@@ -1463,7 +1463,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_2e3fa6b1cf3469d2d7df",
@@ -1809,12 +1809,12 @@
     {
       "event_id": "evt_3a98bc68602bfb679e39",
       "title": "判断特化型AI「Jev」を簡単な具体例でわかりやすく解説！実際に試してみた | DevelopersIO",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -7766,7 +7766,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_dfcc8d1302695dc8f41f",
