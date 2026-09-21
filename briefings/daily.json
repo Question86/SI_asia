@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T12:29:44+00:00",
-  "today_file_total": 66,
+  "generated_at": "2026-09-21T12:47:48+00:00",
+  "today_file_total": 67,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -229,8 +229,8 @@
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
-      "key": "earthquake:chile:5.2",
-      "title": "M 5.2 - 167 km WNW of Mejillones, Chile",
+      "key": "earthquake:chile:4.7",
+      "title": "M 4.7 - 76 km W of Ollagüe, Chile",
       "sources": [
         "USGS M4.5+ Earthquakes Past Hour"
       ],
@@ -238,7 +238,7 @@
         "tier1_official"
       ],
       "urls": [
-        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tixc"
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tixg"
       ],
       "finding_count": 1,
       "max_score": 11,
@@ -298,6 +298,31 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen."
+    },
+    {
+      "key": "earthquake:chile:5.2",
+      "title": "M 5.2 - 167 km WNW of Mejillones, Chile",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tixc"
+      ],
+      "finding_count": 1,
+      "max_score": 11,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 13.7,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
       "key": "earthquake:m 4.5 - 4 km w of victor raul, peru:4.5",
@@ -468,29 +493,6 @@
         "earthquakes_tsunami"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "domain:www.sankei.com",
-      "title": "生成AIで「デザイナー不要論」に、僕はこう答える 杉山知之デジハリ大前学長・回答全文 AI×人間",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.sankei.com/article/20260920-HN3RTI4KZBBHPPRNBLZ3KPNZOQ/"
-      ],
-      "finding_count": 1,
-      "max_score": 9,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 11.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     }
   ]
 }

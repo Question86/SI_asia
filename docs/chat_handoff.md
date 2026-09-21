@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-21T12:29:39+00:00_
+_Generated: 2026-09-21T12:47:46+00:00_
 
 ## Status
 - status: `normal`
-- findings: `66`
+- findings: `67`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-09-21T12:29:39+00:00_
 - url: https://www.bis.org/speeches/20260921-building-financial-system-future-trusted-connected-and-resilient
 - summary: Special address by Mr Chia Der Jiun, Managing Director of the Monetary Authority of Singapore, at the Global Fintech Festival 2026, Mumbai, 11 September 2026.
 
-### 8. M 5.2 - 167 km WNW of Mejillones, Chile
+### 8. M 4.7 - 76 km W of Ollagüe, Chile
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `11`
-- published: `2026-09-21T12:27:44.858+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tixc
-- summary: DYFI? - I Time 2026-09-21 11:48:28 UTC 2026-09-21 11:48:28 UTC at epicenter Location 22.364°S 71.868°W Depth 10.00 km (6.21 mi)
+- published: `2026-09-21T12:34:20.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tixg
+- summary: Time 2026-09-21 12:17:05 UTC 2026-09-21 12:17:05 UTC at epicenter Location 21.264°S 68.989°W Depth 121.18 km (75.30 mi)
 
 END OF DOCUMENT
