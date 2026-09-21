@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-21T09:29:37+00:00_
+_Generiert: 2026-09-21T09:46:45+00:00_
 
 ## Kurzlage
 
-38 neue relevante Treffer. Stärkstes Signal: „Google AI Pro(2,900円)へのAIサブスク統一でYouTube Premium LiteとGoogle Cloud費用と色々が実質無料 - 太陽がまぶしかったから“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+44 neue relevante Treffer. Stärkstes Signal: „Google AI Pro(2,900円)へのAIサブスク統一でYouTube Premium LiteとGoogle Cloud費用と色々が実質無料 - 太陽がまぶしかったから“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 ## Priorität Hoch
 
@@ -105,6 +105,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Automatisierung (+5.0); APAC Trend Radar (+3.0); recent (+1.0)
   - Kurz: For decades, productivity in finance meant closing the books faster, reducing transaction costs and improving reporting. Artificial intelligence changes that equation, because it can do more than execute routine work. It can interpret variances, detect anomalies, generate forecasts, test scenarios and recommend actions. This creates enormous capacity, but capacity is not the same as value. […] The post The AI produc…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Economic activity, prices, and monetary policy in Japan** — Score 13, observation — [Quelle](https://www.bis.org/speeches/20260921-economic-activity-prices-and-monetary-policy-japan)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-09-21T00:00:00+00:00`, fetched `2026-09-21T09:46:16+00:00`
+  - Treffer: APAC Trend Radar, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan, Bank of Japan (+2.0)
+  - Kurz: Speech by Mr Kazuyuki Masu, Member of the Policy Board of the Bank of Japan, at a meeting with local leaders, Fukui, 10 September 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Building the financial system of the future - trusted, connected and resilient** — Score 13, observation — [Quelle](https://www.bis.org/speeches/20260921-building-financial-system-future-trusted-connected-and-resilient)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-09-21T00:00:00+00:00`, fetched `2026-09-21T09:46:16+00:00`
+  - Treffer: APAC Trend Radar, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region india: Mumbai (+2.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: Special address by Mr Chia Der Jiun, Managing Director of the Monetary Authority of Singapore, at the Global Fintech Festival 2026, Mumbai, 11 September 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.5 - 4 km W of Victor Raul, Peru** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tivb)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-21T04:09:41.040+00:00`, fetched `2026-09-21T04:10:23+00:00`
@@ -150,6 +168,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - III Time 2026-09-21 01:02:04 UTC 2026-09-21 01:02:04 UTC at epicenter Location 37.814°N 36.299°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Shaping the next decade of finance - technology, trust and innovation** — Score 8, observation — [Quelle](https://www.bis.org/speeches/20260921-shaping-next-decade-finance-technology-trust-and-innovation)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-09-21T00:00:00+00:00`, fetched `2026-09-21T09:46:16+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region india: India, Mumbai, Reserve Bank of India (+2.0)
+  - Kurz: Keynote address by Mr Sanjay Malhotra, Governor of the Reserve Bank of India, at the Global Fintech Festival 2026, Mumbai, 10 September 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Geminiが使えるスマートウォッチ「Google Pixel Watch 5」を使ってみた** — Score 8, observation — [Quelle](https://gigazine.net/news/20260921-google-pixel-watch-review/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-20T23:01:58+00:00`, fetched `2026-09-21T01:02:24+00:00`
@@ -158,6 +185,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 外観レビューに続いて「Google Pixel Watch 5」を実際に使ってみました。ワークアウトや睡眠測定を行っています。 Google Pixel Watch 5 - AI が導く、もっといい自分へ https://store.google.com/jp/product/pixel_watch_5?hl=ja 初回使用時はBluetoothによるペアリングが必要。PixelスマートフォンでなくともAndroid 1...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Werbeblocker Pi-hole: Update stopft Codeschmuggel-Lücken** — Score 7, observation — [Quelle](https://www.heise.de/news/Werbeblocker-Pi-hole-Update-stopft-Codeschmuggel-Luecken-11459820.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-09-21T09:30:00.000+00:00`, fetched `2026-09-21T09:46:16+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Ein Update für den DNS-basierten Werbeblocker Pi-hole schließt teils hochriskante Codeschmuggel-Lücken.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Warnung vor Angriffen auf Linux-Schwachstellen** — Score 7, observation — [Quelle](https://www.heise.de/news/Warnung-vor-Angriffen-auf-Linux-Schwachstellen-11459555.html)
   - Quelle: heise Security Alerts / `rss`
@@ -194,24 +230,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.5)
   - Kurz: You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **paperless-ngx/paperless-ngx** — Score 5, observation — [Quelle](https://github.com/paperless-ngx/paperless-ngx)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-09-21T06:46:47+00:00`
-  - Treffer: APAC Trend Radar, GitHub Trending
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: A community-supported supercharged document management system: scan, index and archive all your documents http://docs.paperless-ngx.com/ Paperless-ngx Paperless-ngx is a document management system that transforms your physical documents into a searchable online archive so you can keep, well, less paper . Paperless-ngx is the official successor to the original Paperless & Paperless-ng projects and is designed to dist…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **BuilderIO/agent-native** — Score 4, observation — [Quelle](https://github.com/BuilderIO/agent-native)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-09-21T06:46:47+00:00`
-  - Treffer: AI Agents, APAC Trend Radar, GitHub Trending
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph demote template (x0.45)
-  - Kurz: A framework for building agentic apps https://www.agent-native.com Agent-Native Agent-Native is an open-source TypeScript framework for building agents that pair autonomous work with a purpose-built UI. Define each capability once as an action : the agent uses it as a tool, and the UI calls it from code. Quick start npx --yes @agent-native/core@latest create my-agent --standalone --template chat Follow the getting s…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
