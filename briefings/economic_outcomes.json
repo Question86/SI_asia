@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-21T10:55:28+00:00",
+  "generated_at": "2026-09-21T11:03:09+00:00",
   "events": [
     {
       "event_id": "evt_010865faf79d8c1f952b",
@@ -958,6 +958,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_1dc9bdd21755f73fe1e3",
+      "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_1e765f4afacb8eac2f3a",
@@ -8129,7 +8140,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_e8a2aaae093dc8097c27",
