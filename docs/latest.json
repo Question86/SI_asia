@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-21T15:42:42+00:00",
-  "run_id": "2026-09-21T15:42:42+00:00",
+  "generated_at": "2026-09-21T15:58:42+00:00",
+  "run_id": "2026-09-21T15:58:42+00:00",
   "date": "2026-09-21",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 76
+      "configured_public_sources_only": 77
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 76,
-    "displayed_findings": 76,
+    "today_file_total": 77,
+    "displayed_findings": 77,
     "high": 0,
     "medium": 31,
-    "observe": 45,
+    "observe": 46,
     "source_errors": 0
   },
   "sections": {
@@ -1638,6 +1638,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "0dae4d2d46898e4e74a5"
+      },
+      {
+        "title": "自転車交通違反の“反則金”の裏に警察の苦しい懐事情… 警察官僚の悲願だった“反則金化”とカネの行方（女性自身） - Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/articles/c3af48e96bb9fd049a1c6e68ab222c8ae126237b",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-21T07:02:50+00:00",
+        "fetched_at": "2026-09-21T15:58:11+00:00",
+        "summary": "9月21日から30日までの期間、恒例の秋の全国交通安全運動が行われるが、「令和8年秋の全国交通安全運動推進要綱」では運動重点項目が3つあり、そのうち2つを占めるのが自転車に関すること。 【写真あり】安全運転が求められる自転車 《広く国民に対して交通ルールについて分かりやすく周知し、その理解・遵守の徹底と乗...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "eebf076e02e95ec90334"
       },
       {
         "title": "エンジニアと育児の両立の難しさ",
@@ -3523,6 +3544,27 @@
       "id": "0dae4d2d46898e4e74a5"
     },
     {
+      "title": "自転車交通違反の“反則金”の裏に警察の苦しい懐事情… 警察官僚の悲願だった“反則金化”とカネの行方（女性自身） - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/c3af48e96bb9fd049a1c6e68ab222c8ae126237b",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-21T07:02:50+00:00",
+      "fetched_at": "2026-09-21T15:58:11+00:00",
+      "summary": "9月21日から30日までの期間、恒例の秋の全国交通安全運動が行われるが、「令和8年秋の全国交通安全運動推進要綱」では運動重点項目が3つあり、そのうち2つを占めるのが自転車に関すること。 【写真あり】安全運転が求められる自転車 《広く国民に対して交通ルールについて分かりやすく周知し、その理解・遵守の徹底と乗...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "eebf076e02e95ec90334"
+    },
+    {
       "title": "エンジニアと育児の両立の難しさ",
       "url": "https://tech-blog-v2-opal.vercel.app/article/balancing-engineering-and-parenting",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3797,27 +3839,25 @@
   ],
   "new_findings": [
     {
-      "title": "Claude Codeの Agent view とセッション間通信は使ったほうがいい - じゃあ、おうちで学べる",
-      "url": "https://syu-m-5151.hatenablog.com/entry/2026/09/21/104258",
+      "title": "自転車交通違反の“反則金”の裏に警察の苦しい懐事情… 警察官僚の悲願だった“反則金化”とカネの行方（女性自身） - Yahoo!ニュース",
+      "url": "https://news.yahoo.co.jp/articles/c3af48e96bb9fd049a1c6e68ab222c8ae126237b",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-21T04:11:16+00:00",
-      "fetched_at": "2026-09-21T15:42:11+00:00",
-      "summary": "はじめに AIを使って仕事が楽になった、という人は定期的に現れます。どこかの偉そうな人から、エージェントに任せれば人は楽になる、と言われる。けれど、複数のエージェントを起動すると、減っているのは考える時間です。 セッションごとの入力待ちに答え、別worktreeの差分を読み、終わった変更を同じ状態で動かす。...",
+      "published_at": "2026-09-21T07:02:50+00:00",
+      "fetched_at": "2026-09-21T15:58:11+00:00",
+      "summary": "9月21日から30日までの期間、恒例の秋の全国交通安全運動が行われるが、「令和8年秋の全国交通安全運動推進要綱」では運動重点項目が3つあり、そのうち2つを占めるのが自転車に関すること。 【写真あり】安全運転が求められる自転車 《広く国民に対して交通ルールについて分かりやすく周知し、その理解・遵守の徹底と乗...",
       "matched_keywords": [
-        "agent",
-        "AI Agents",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 14,
-      "relevance_reason": "AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); agent (+2.5); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "49fea398d012c576d526"
+      "id": "eebf076e02e95ec90334"
     }
   ],
   "source_errors": [],
