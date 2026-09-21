@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-21T01:59:45+00:00",
+  "generated_at": "2026-09-21T02:33:20+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -775,7 +775,7 @@
       "p90_usd": 11920000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-31T08:30:56+00:00",
-      "last_seen_at": "2026-09-21T01:59:26+00:00",
+      "last_seen_at": "2026-09-21T02:33:04+00:00",
       "status": "active"
     },
     {
@@ -2424,7 +2424,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-21T01:38:24+00:00",
-      "last_seen_at": "2026-09-21T01:59:26+00:00",
+      "last_seen_at": "2026-09-21T02:33:04+00:00",
       "status": "active"
     },
     {
@@ -4889,7 +4889,7 @@
       "p90_usd": 1224000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-21T01:03:04+00:00",
-      "last_seen_at": "2026-09-21T01:59:26+00:00",
+      "last_seen_at": "2026-09-21T02:33:04+00:00",
       "status": "active"
     },
     {
@@ -5382,7 +5382,7 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-21T01:59:26+00:00",
+      "last_seen_at": "2026-09-21T02:33:04+00:00",
       "status": "active"
     },
     {
@@ -6729,6 +6729,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_34b91275bcc248ef70c0",
+      "title": "The AI productivity paradox: Why finance must move beyond automation",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 114400.0,
+      "p50_usd": 11440000.0,
+      "p90_usd": 1144000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-21T02:33:04+00:00",
+      "last_seen_at": "2026-09-21T02:33:04+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_2a7631f0e872d9aad503",
       "title": "Should cybersecurity be nationalised?",
       "event_classes": [
@@ -7048,7 +7065,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-19T14:18:56+00:00",
-      "last_seen_at": "2026-09-21T01:59:26+00:00",
+      "last_seen_at": "2026-09-21T02:33:04+00:00",
       "status": "active"
     },
     {
@@ -7388,7 +7405,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-21T01:03:04+00:00",
-      "last_seen_at": "2026-09-21T01:59:26+00:00",
+      "last_seen_at": "2026-09-21T02:33:04+00:00",
       "status": "active"
     },
     {
@@ -9973,7 +9990,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-21T01:03:04+00:00",
-      "last_seen_at": "2026-09-21T01:59:26+00:00",
+      "last_seen_at": "2026-09-21T02:33:04+00:00",
       "status": "active"
     },
     {
@@ -10908,7 +10925,7 @@
       "p90_usd": 1088000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-21T01:03:04+00:00",
-      "last_seen_at": "2026-09-21T01:59:26+00:00",
+      "last_seen_at": "2026-09-21T02:33:04+00:00",
       "status": "active"
     },
     {
@@ -11114,6 +11131,23 @@
       "first_seen_at": "2026-08-31T06:23:43+00:00",
       "last_seen_at": "2026-08-31T06:23:43+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_687b0cca79f19654cb3d",
+      "title": "Sustainability reporting is not the goal. Better business decisions are",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "infrastructure"
+      ],
+      "p10_usd": 108800.0,
+      "p50_usd": 10880000.0,
+      "p90_usd": 1088000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-21T02:33:04+00:00",
+      "last_seen_at": "2026-09-21T02:33:04+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_0177d8625bc83d6c8e11",
@@ -11641,6 +11675,23 @@
       "first_seen_at": "2026-08-30T02:56:46+00:00",
       "last_seen_at": "2026-08-30T16:18:40+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_4a699c718693575ed31b",
+      "title": "【西川和久の不定期コラム】 Qwen3.8で動画解析→生成AI動画プロンプト化してみた。LM Studioも対応",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-21T01:59:26+00:00",
+      "last_seen_at": "2026-09-21T02:33:04+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_4aa6b52906289fbe13d6",
@@ -13122,8 +13173,8 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_4a699c718693575ed31b",
-      "title": "【西川和久の不定期コラム】 Qwen3.8で動画解析→生成AI動画プロンプト化してみた。LM Studioも対応",
+      "event_id": "evt_d1dd6ab38f39b1788fb2",
+      "title": "文章を生成しないAI「Jev」でCosmos DBのRAG検索結果をフィルタしてみた",
       "event_classes": [
         "unknown"
       ],
@@ -13134,8 +13185,8 @@
       "p50_usd": 10800000.0,
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
-      "first_seen_at": "2026-09-21T01:59:26+00:00",
-      "last_seen_at": "2026-09-21T01:59:26+00:00",
+      "first_seen_at": "2026-09-21T02:33:04+00:00",
+      "last_seen_at": "2026-09-21T02:33:04+00:00",
       "status": "active"
     },
     {
@@ -13339,7 +13390,7 @@
       "p90_usd": 1072000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-21T01:38:24+00:00",
-      "last_seen_at": "2026-09-21T01:59:26+00:00",
+      "last_seen_at": "2026-09-21T02:33:04+00:00",
       "status": "active"
     },
     {
