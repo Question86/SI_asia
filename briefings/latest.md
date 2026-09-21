@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-21T08:59:21+00:00_
+_Generiert: 2026-09-21T09:29:37+00:00_
 
 ## Kurzlage
 
@@ -37,10 +37,6 @@ _Generiert: 2026-09-21T08:59:21+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.4M, Depth:104.329km) in Papua New Guinea 20/09/2026 09:17 UTC, 50 thousand in MMI V.
-- **USGS earthquake M6.4 - 49 km NNE of Kainantu, Papua New Guinea** — medium — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tiqc)
-  - Quelle: USGS
-  - Zeit: `2026-09-20T09:17:35+00:00`
-  - Kurz: M6.4 - 49 km NNE of Kainantu, Papua New Guinea. PAGER alert: green. Tsunami flag: 0.
 - **GDACS: Green notification for tropical cyclone POLO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001325)
   - Quelle: GDACS
   - Zeit: ``
