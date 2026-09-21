@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-21T09:46:45+00:00_
+_Generiert: 2026-09-21T09:55:14+00:00_
 
 ## Kurzlage
 
-44 neue relevante Treffer. Stärkstes Signal: „Google AI Pro(2,900円)へのAIサブスク統一でYouTube Premium LiteとGoogle Cloud費用と色々が実質無料 - 太陽がまぶしかったから“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
+45 neue relevante Treffer. Stärkstes Signal: „Google AI Pro(2,900円)へのAIサブスク統一でYouTube Premium LiteとGoogle Cloud費用と色々が実質無料 - 太陽がまぶしかったから“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -229,6 +229,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - III Time 2026-09-21 01:02:04 UTC 2026-09-21 01:02:04 UTC at epicenter Location 37.814°N 36.299°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **SEA logistics tech funding hits five-year high, but it’s still a third of the 2021 peak** — Score 8, observation — [Quelle](https://e27.co/sea-logistics-tech-funding-hits-five-year-high-but-its-still-a-third-of-the-2021-peak-20260921/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-21T09:53:06+00:00`, fetched `2026-09-21T09:54:44+00:00`
+  - Treffer: APAC Trend Radar, funding, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.0); funding (+2.5); recent (+1.0)
+  - Kurz: Southeast Asia’s logistics tech sector wants credit for bouncing back. A new report from data intelligence platform Tracxn shows the region’s warehousing, freight and last-mile players pulling in US$339 million so far in 2026, the strongest annual haul since 2021. Read past the headline, though, and the recovery looks a lot less triumphant: that figure […] The post SEA logistics tech funding hits five-year high, but…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Shaping the next decade of finance - technology, trust and innovation** — Score 8, observation — [Quelle](https://www.bis.org/speeches/20260921-shaping-next-decade-finance-technology-trust-and-innovation)
   - Quelle: BIS Central Bankers Speeches / `rss`
   - Zeit: published `2026-09-21T00:00:00+00:00`, fetched `2026-09-21T09:46:16+00:00`
@@ -264,15 +273,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Die US-amerikanische IT-Sicherheitsbehörde CISA warnt vor beobachteten Angriffen auf Linux-Lücken. Updates stehen bereit.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **01F Group backs DANA as Indonesia’s digital payments race enters its next phase** — Score 7, observation — [Quelle](https://e27.co/01f-group-backs-dana-as-indonesias-digital-payments-race-enters-its-next-phase-20260921/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-21T02:35:35+00:00`, fetched `2026-09-21T02:50:22+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0)
-  - Kurz: In Indonesia, the real test for digital finance is no longer whether people can pay with their phones in Jakarta malls. It is whether the same tools can work reliably for a food seller in Makassar, a small retailer in Solo, or a family-run business in a Tier 3 city that still relies heavily on […] The post 01F Group backs DANA as Indonesia’s digital payments race enters its next phase appeared first on e27 .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **国産AIへ機械に「マイナンバー」 官民でデータ収集、DMG森など100社 - 日本経済新聞** — Score 7, observation — [Quelle](https://www.nikkei.com/article/DGXZQOUC148W70U6A710C2000000/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
