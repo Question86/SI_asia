@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-22T13:58:18+00:00",
-  "run_id": "2026-09-22T13:58:18+00:00",
+  "generated_at": "2026-09-22T14:19:55+00:00",
+  "run_id": "2026-09-22T14:19:55+00:00",
   "date": "2026-09-22",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 49
+      "configured_public_sources_only": 50
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 49,
-    "displayed_findings": 49,
+    "today_file_total": 50,
+    "displayed_findings": 50,
     "high": 0,
     "medium": 18,
-    "observe": 31,
+    "observe": 32,
     "source_errors": 0
   },
   "sections": {
@@ -1036,6 +1036,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "8a019faefdfa00cd74e2"
+      },
+      {
+        "title": "The Spanish Survey of Household Finances (EFF) - more than 20 years of research experience and the way forward",
+        "url": "https://www.bis.org/speeches/20260922-spanish-survey-household-finances-eff-more-20-years-research-experience-and-way-forward",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-09-22T00:00:00+00:00",
+        "fetched_at": "2026-09-22T14:19:16+00:00",
+        "summary": "Remarks by Mr José Luis Escrivá, Governor of the Bank of Spain, at the conference “The Spanish Survey of Household Finances (EFF): more than 20 years of research experience and the way forward”, organised by the Bank of Spain and the Center for Monetary and Financial Studies (CEMFI), Madrid, 4 September 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "opportunity",
+        "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "2da473ef64466dac905f"
       },
       {
         "title": "ホームページに還ろう",
@@ -2254,6 +2274,26 @@
       "id": "8a019faefdfa00cd74e2"
     },
     {
+      "title": "The Spanish Survey of Household Finances (EFF) - more than 20 years of research experience and the way forward",
+      "url": "https://www.bis.org/speeches/20260922-spanish-survey-household-finances-eff-more-20-years-research-experience-and-way-forward",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-22T00:00:00+00:00",
+      "fetched_at": "2026-09-22T14:19:16+00:00",
+      "summary": "Remarks by Mr José Luis Escrivá, Governor of the Bank of Spain, at the conference “The Spanish Survey of Household Finances (EFF): more than 20 years of research experience and the way forward”, organised by the Bank of Spain and the Center for Monetary and Financial Studies (CEMFI), Madrid, 4 September 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "2da473ef64466dac905f"
+    },
+    {
       "title": "ホームページに還ろう",
       "url": "https://kitasenjudesign.com/zine/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2463,25 +2503,24 @@
   ],
   "new_findings": [
     {
-      "title": "「AIは意識を持ち得ない」――世界的SF作家から届いたアンソロピックへの“メッセージ”",
-      "url": "https://que.dailyshincho.jp/node/20880/",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "The Spanish Survey of Household Finances (EFF) - more than 20 years of research experience and the way forward",
+      "url": "https://www.bis.org/speeches/20260922-spanish-survey-household-finances-eff-more-20-years-research-experience-and-way-forward",
+      "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
-      "published_at": "2026-09-21T14:16:47+00:00",
-      "fetched_at": "2026-09-22T13:57:44+00:00",
-      "summary": "ちょうど10年前、『メッセージ』という映画が公開された。監督はいまでは『デューン 砂の惑星』などの作品で知られるドゥニ・ヴィルヌーヴ。世界各地に謎の宇宙船が現れ、ヘプタポッドと呼ばれる地球外生命体と言語学者が交信を試みるストーリーは多くの観客を魅了したが、原作となったのが、アメリカのSF作家、テッド・...",
+      "published_at": "2026-09-22T00:00:00+00:00",
+      "fetched_at": "2026-09-22T14:19:16+00:00",
+      "summary": "Remarks by Mr José Luis Escrivá, Governor of the Bank of Spain, at the conference “The Spanish Survey of Household Finances (EFF): more than 20 years of research experience and the way forward”, organised by the Bank of Spain and the Center for Monetary and Financial Studies (CEMFI), Madrid, 4 September 2026.",
       "matched_keywords": [
-        "Hatena",
-        "hotentry"
+        "Macro/Policy"
       ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "opportunity",
+      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "bd1202cfe3c9f3ebebf1"
+      "id": "2da473ef64466dac905f"
     }
   ],
   "source_errors": [],
