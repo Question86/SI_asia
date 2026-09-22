@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-09-22T06:57:57+00:00`
+Generated: `2026-09-22T07:19:20+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -14,6 +14,7 @@ Generated: `2026-09-22T06:57:57+00:00`
 | Warsh, In Our Time | conflict | $113.60M | $11.36B | $1.14T | 0.31 |
 | Schools and universities face rising ransomware costs as attackers target identities | exploit, conflict | $113.60M | $11.36B | $1.14T | 0.31 |
 | Netanyahu got an explicit warning before Oct. 7. He didn't brief security chiefs | conflict | $113.60M | $11.36B | $1.14T | 0.31 |
+| Singapore’s MetaOptics eyes US expansion with potential US$10M warrant facility | conflict | $113.60M | $11.36B | $1.14T | 0.31 |
 | Multiple trusted publishing configurations for npm | conflict | $112.80M | $11.28B | $1.13T | 0.31 |
 | Stage-only npm tokens for safer automation | conflict | $112.80M | $11.28B | $1.13T | 0.31 |
 | Multiples vulnérabilités dans les produits VMware (07 septembre 2026) | conflict | $112.00M | $11.20B | $1.12T | 0.31 |
@@ -30,7 +31,6 @@ Generated: `2026-09-22T06:57:57+00:00`
 | Workflow execution protections in GitHub Actions generally available | regulation | $11.76M | $1.18B | $117.60B | 0.31 |
 | When a slot opens, let the AI agent act – within limits | regulation | $11.76M | $1.18B | $117.60B | 0.31 |
 | コンテック製SolarView Compactにおける複数の脆弱性 | vulnerability, regulation | $11.52M | $1.15B | $115.20B | 0.31 |
-| チームの人数が減っても仕事を回す ── AIとGitHub Actionsによる開発ワークフロー改善 - ZOZO TECH BLOG | regulation | $11.44M | $1.14B | $114.40B | 0.31 |
 
 ## Interpretation
 
