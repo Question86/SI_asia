@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-22T15:40:42Z",
+  "generated_at": "2026-09-22T15:49:32Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "extreme": 1,
+      "extreme": 2,
       "krass": 8,
       "strong": 26,
-      "watch": 5
+      "watch": 4
     },
     "bands_after_gate_recheck": {
       "krass": 3,
-      "strong": 32,
-      "watch": 5
+      "strong": 33,
+      "watch": 4
     }
   },
   "top_dynamics": [
@@ -49,7 +49,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3505",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-22T12:12:02+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -74,7 +74,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3298",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-22T10:49:06+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -99,7 +99,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3507",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-22T12:12:03+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai",
         "security"
@@ -124,7 +124,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2712",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-22T10:48:22+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "security"
       ],
@@ -172,7 +172,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1712",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-22T07:41:31+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -221,7 +221,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj3s",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-22T06:30:53.040+00:00",
-      "age_days": 0.38,
+      "age_days": 0.39,
       "topics": [
         "disaster"
       ],
@@ -271,7 +271,7 @@
       "url": "https://konifar-zatsu.hatenadiary.jp/entry/2026/09/22/112134",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-22T02:43:17+00:00",
-      "age_days": 0.54,
+      "age_days": 0.55,
       "topics": [
         "ai"
       ],
@@ -296,7 +296,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3481",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-22T10:21:49+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "security"
       ],
@@ -317,10 +317,38 @@
     },
     {
       "title": "Version 1.0: F5 BIG-IP APM: Aktive Ausnutzug einer Zero-Day Schwachstelle",
+      "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-289024-1032_bits.html",
+      "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+      "published_at": "2026-09-22T15:35:00+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: zero-day, active, exploitation",
+        "security high-signal: zero-day, active, exploitation, aktive",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "official security but no high-signal phrase: capped at strong"
+      ],
+      "summary": "Version 1.0: F5 BIG-IP APM: Aktive Ausnutzug einer Zero-Day Schwachstelle"
+    },
+    {
+      "title": "Version 1.0: F5 BIG-IP APM: Aktive Ausnutzug einer Zero-Day Schwachstelle",
       "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-289024-1032.html",
       "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
       "published_at": "2026-09-22T15:35:00+00:00",
-      "age_days": 0.0,
+      "age_days": 0.01,
       "topics": [
         "security"
       ],
@@ -348,7 +376,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3506",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-22T12:12:02+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -374,7 +402,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3504",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-22T12:12:02+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -400,7 +428,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2099",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-22T12:12:00+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "security"
       ],
@@ -450,7 +478,7 @@
       "url": "https://e27.co/supercell-backs-hyperbond-studio-as-call-me-sensei-bets-on-ai-romance-for-language-learning-20260922/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T05:00:40+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "ai"
       ],
@@ -473,10 +501,10 @@
     },
     {
       "title": "Version 1.0: F5 BIG-IP APM: Aktive Ausnutzug einer Zero-Day Schwachstelle",
-      "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-289024-1032.html",
+      "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-289024-1032_bits.html",
       "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
       "published_at": "2026-09-02T15:24:15+00:00",
-      "age_days": 20.01,
+      "age_days": 20.02,
       "topics": [
         "security"
       ],
@@ -487,12 +515,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.97,
+      "baseline_z_hint": 4.9,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 0.97",
+        "baseline z_hint 4.90",
         "high terms: zero-day, aktive, rce",
         "security high-signal: zero-day, aktive, rce",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
@@ -504,7 +532,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2099",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 25.06,
+      "age_days": 25.07,
       "topics": [
         "security"
       ],
@@ -515,12 +543,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 6.94,
+      "baseline_z_hint": 6.28,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 6.94",
+        "baseline z_hint 6.28",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -1.4 for 25.1d old signal",
@@ -533,7 +561,7 @@
       "url": "https://e27.co/supercell-backs-hyperbond-studio-as-call-me-sensei-bets-on-ai-romance-for-language-learning-20260922/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T05:22:15+00:00",
-      "age_days": 0.43,
+      "age_days": 0.44,
       "topics": [
         "ai"
       ],
@@ -560,7 +588,7 @@
       "url": "https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-09-22T10:21:49+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -636,7 +664,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj4y",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-22T11:06:19.040+00:00",
-      "age_days": 0.19,
+      "age_days": 0.2,
       "topics": [
         "disaster"
       ],
@@ -661,7 +689,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj4v",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-22T10:48:32.040+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "disaster"
       ],
@@ -686,7 +714,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj37",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-22T04:04:43.040+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "disaster"
       ],
@@ -711,7 +739,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj4y",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T20:54:37+00:00",
-      "age_days": 9.78,
+      "age_days": 9.79,
       "topics": [
         "general"
       ],
@@ -735,7 +763,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj37",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T05:30:29+00:00",
-      "age_days": 10.42,
+      "age_days": 10.43,
       "topics": [
         "general"
       ],
@@ -759,7 +787,7 @@
       "url": "https://e27.co/the-compliance-paradox-more-checks-more-fraud-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T01:14:13+00:00",
-      "age_days": 0.6,
+      "age_days": 0.61,
       "topics": [
         "general"
       ],
@@ -783,7 +811,7 @@
       "url": "https://e27.co/startups-should-learn-to-leave-bad-markets-faster-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T04:09:14+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "macro"
       ],
@@ -809,7 +837,7 @@
       "url": "https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-09-22T09:21:03+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -833,7 +861,7 @@
       "url": "https://e27.co/your-price-problem-is-a-positioning-problem-wearing-a-discount-request-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T03:13:15+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "general"
       ],
@@ -923,7 +951,7 @@
       "why": [
         "momentum delta +3",
         "AXI0M/User-Yps identity hit",
-        "aging penalty -8.0 for 96.0d old signal",
+        "aging penalty -8.0 for 96.1d old signal",
         "identity recheck: no AXI0M/User-Yps phrase hit"
       ],
       "summary": ""
@@ -957,7 +985,7 @@
       "url": "https://e27.co/bitcoins-us87000-spike-real-breakout-or-a-us900-million-short-squeeze-20260922/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T04:09:14+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "general"
       ],
@@ -1003,31 +1031,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "あの名コンビの声が“公認AI”で6カ国語に！ 麻布台ヒルズ「まんが日本昔ばなし展」で体験するAI音声の最前線：古田雄介のデステック探訪（1/2 ページ） 10月25日まで麻布台ヒルズで実施している「まんが日本昔ばなし展」では、市原悦子さんと常田富士男さんの声そのままに6カ国語で「かぐやひめ」が楽しめる。背景にはNT..."
-    },
-    {
-      "title": "M 4.9 - Volcano Islands, Japan region",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj3s",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-06-19T20:12:42+00:00",
-      "age_days": 94.81,
-      "topics": [
-        "disaster"
-      ],
-      "dynamics_score": 17.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "aging penalty -8.0 for 94.8d old signal"
-      ],
-      "summary": ""
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Cisco Secure Firewall Management Center: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
