@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-22T19:48:07+00:00_
+_Generiert: 2026-09-22T19:55:12+00:00_
 
 ## Kurzlage
 
@@ -9,26 +9,26 @@ _Generiert: 2026-09-22T19:48:07+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-93952 Arista VeloCloud Orchestrator** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-09-22`
+  - Kurz: Known exploited vulnerability. Added 2026-09-22. Due 2026-09-25. Arista VeloCloud Orchestrator Improper Input Validation Vulnerability
+- **CISA KEV: CVE-2026-94127 F5 BIG-IP APM** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-09-22`
+  - Kurz: Known exploited vulnerability. Added 2026-09-22. Due 2026-09-25. F5 BIG-IP APM Heap-based Buffer Overflow Vulnerability
+- **CISA KEV: CVE-2026-93616 Check Point Multiple Products** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-09-22`
+  - Kurz: Known exploited vulnerability. Added 2026-09-22. Due 2026-09-25. Check Point Multiple Products Path Traversal Vulnerability
+- **CISA KEV: CVE-2026-85102 Check Point Multiple Products** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-09-22`
+  - Kurz: Known exploited vulnerability. Added 2026-09-22. Due 2026-09-25. Check Point Multiple Products Improper Certificate Validation Vulnerability
 - **CISA KEV: CVE-2026-7273 Zyxel GS1900 Series Switches** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-09-21`
   - Kurz: Known exploited vulnerability. Added 2026-09-21. Due 2026-09-24. Zyxel GS1900 Series Switches Stack-Based Buffer Overflow Vulnerability
-- **CISA KEV: CVE-2025-39964 Linux Kernel** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-18`
-  - Kurz: Known exploited vulnerability. Added 2026-09-18. Due 2026-09-21. Linux Kernel Race Condition Vulnerability
-- **CISA KEV: CVE-2026-53266 Linux Kernel** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-18`
-  - Kurz: Known exploited vulnerability. Added 2026-09-18. Due 2026-09-21. Linux Kernel Out-of-Bounds Write Vulnerability
-- **CISA KEV: CVE-2025-39682 Linux Kernel** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-18`
-  - Kurz: Known exploited vulnerability. Added 2026-09-18. Due 2026-09-21. Linux Kernel Improper Check for Unusual or Exceptional Conditions Vulnerability
-- **CISA KEV: CVE-2026-58704 Google Pixel** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-16`
-  - Kurz: Known exploited vulnerability. Added 2026-09-16. Due 2026-09-19. Google Pixel Improper Authorization Vulnerability
 - **GDACS: Green flood alert in Thailand** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104169)
   - Quelle: GDACS
   - Zeit: ``
