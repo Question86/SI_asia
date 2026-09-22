@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-09-22T20:58:51+00:00_
+_Generiert: 2026-09-22T21:17:31+00:00_
 
 ## Version 1.0: F5 BIG-IP APM: Aktive Ausnutzug einer Zero-Day Schwachstelle
 
