@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-22T03:13:11+00:00_
+_Generated: 2026-09-22T03:32:57+00:00_
 
 ## Status
-- status: `warning`
-- findings: `9`
+- status: `normal`
+- findings: `10`
 
 ## Top Signals
 
@@ -29,11 +29,11 @@ _Generated: 2026-09-22T03:13:11+00:00_
 - url: https://e27.co/vietnams-returning-engineers-are-high-quality-talent-keeping-them-is-the-real-problem-20260920/
 - summary: Every few months, another story circulates about Vietnamese-origin engineers leaving Silicon Valley, Tokyo, or Seoul to come home. The framing is almost always the same: here is an underused pool of senior talent, and here is why your company should go get so…
 
-### 4. AI lets outsiders build but the connected still have an advantage
+### 4. Why Asia’s Physical AI boom will be decided at the camera, not the model
 - source: e27 Asia Startup and Tech Feed
 - score: `8`
-- published: `2026-09-22T02:30:12+00:00`
-- url: https://e27.co/ai-lets-outsiders-build-but-the-connected-still-have-an-advantage-20260920/
-- summary: The next useful software product may come from someone your hiring process would reject. A paramedic. A teacher. A shop owner with no software credentials, but years of experience with a problem that nobody has bothered to fix. AI coding platforms give more o…
+- published: `2026-09-22T03:30:16+00:00`
+- url: https://e27.co/why-asias-physical-ai-boom-will-be-decided-at-the-camera-not-the-model-20260921/
+- summary: Robotics and rehabilitation are undergoing a profound transformation that the industry’s own measurement infrastructure has largely failed to keep pace with. For four decades the recording of movement in three dimensions has been organised around a building i…
 
 END OF DOCUMENT

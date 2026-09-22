@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-22T03:13:11+00:00_
+_Generiert: 2026-09-22T03:32:57+00:00_
 
 ## Kurzlage
 
-9 neue relevante Treffer. Stärkstes Signal: „The compliance paradox: More checks, more fraud“ aus e27 Asia Startup and Tech Feed (Score 13, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+10 neue relevante Treffer. Stärkstes Signal: „The compliance paradox: More checks, more fraud“ aus e27 Asia Startup and Tech Feed (Score 13, risk).
 
 ## Priorität Hoch
 
@@ -87,7 +87,3 @@ Keine neuen mittleren Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `japan_digital_agency_news` (rss): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
