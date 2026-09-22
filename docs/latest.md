@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-22T11:57:19+00:00_
+_Generiert: 2026-09-22T12:21:57+00:00_
 
 ## Kurzlage
 
-39 neue relevante Treffer. Stärkstes Signal: „M 4.9 - Volcano Islands, Japan region“ aus USGS M4.5+ Earthquakes Past Hour (Score 18, risk).
+48 neue relevante Treffer. Stärkstes Signal: „M 4.9 - Volcano Islands, Japan region“ aus USGS M4.5+ Earthquakes Past Hour (Score 18, risk).
 
 ## Priorität Hoch
 
@@ -30,6 +30,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami, volcano_aviation (+6.0)
   - Kurz: Time 2026-09-22 05:18:24 UTC 2026-09-22 05:18:24 UTC at epicenter Location 23.133°N 142.437°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [mittel] libssh2: Mehrere Schwachstellen** — Score 17, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2099)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-09-22T12:12:00+00:00`, fetched `2026-09-22T12:21:27+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Webentwicklung (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in libssh2 ausnutzen, um Dateien zu manipulieren, Speicherbeschädigungen zu verursachen, einen Denial-of-Service-Zustand auszulösen oder andere, nicht näher spezifizierte Auswirkungen zu erzielen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [mittel] Red Hat Enterprise Linux (golang.org/x/text): Schwachstelle ermöglicht Denial of Service** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3481)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-09-22T10:01:31+00:00`, fetched `2026-09-22T10:21:14+00:00`
@@ -66,15 +75,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-22 10:46:22 UTC 2026-09-22 10:46:22 UTC at epicenter Location 29.037°N 128.894°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [hoch] Joplin: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3298)
-  - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-09-22T10:49:06+00:00`, fetched `2026-09-22T10:59:34+00:00`
-  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Joplin ausnutzen, um Benutzerkonten zu übernehmen, erweiterte Berechtigungen zu erlangen, Sicherheitsmaßnahmen zu umgehen, beliebigen Code auszuführen, Daten offenzulegen oder zu manipulieren oder Cross-Site-Scripting-Angriffe durchzuführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -114,6 +114,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); founder (+2.0); recent (+1.0)
   - Kurz: Ask most founders why a deal stalled and they’ll say the same thing: “they wanted a better price.” It’s the most comfortable explanation in the room, because it points outward — at the market, at the competitor who undercut you, at a buyer who’s “just being cheap.” A common counter-argument is worth taking seriously: a […] The post Your price problem is a positioning problem wearing a discount request appeared first…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.7 - 7 km WNW of La Gomera, Guatemala** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj58)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-22T12:19:06.640+00:00`, fetched `2026-09-22T12:21:27+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: DYFI? - II Time 2026-09-22 11:43:45 UTC 2026-09-22 11:43:45 UTC at epicenter Location 14.113°N 91.117°W Depth 88.79 km (55.17 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Jevはどこで使うべきか？ LLM・機械学習・ルールベースとの使い分け - Qiita** — Score 9, observation — [Quelle](https://qiita.com/Isaka-code/items/8944ef8b521517f92da0)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-21T03:47:18+00:00`, fetched `2026-09-22T07:18:27+00:00`
@@ -149,6 +158,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 「思考は外注できるが理解は外注できない」という AI の関わり方を端的に表したﾂｲｯﾄがある。 you can outsource your thinking but you cannot outsource your understanding you can outsource your thinking but you cannot outsource your understanding— kache (@yacineMTB) 2026年2月4日 Andrej Karpathy 氏も "ble...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans Google Pixel (16 septembre 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1176/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-09-16T00:00:00+00:00`, fetched `2026-09-22T12:21:27+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Google Pixel. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, une élévation de privilèges et une atteinte à la confidentialité des données. Google indique que la vulnérabilité...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Multiples vulnérabilités dans Apache Zookeeper (16 septembre 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1177/)
+  - Quelle: CERT-FR Avis de sécurité / `rss`
+  - Zeit: published `2026-09-16T00:00:00+00:00`, fetched `2026-09-22T12:21:27+00:00`
+  - Treffer: avis, CERT-FR, sécurité, vulnérabilité
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
+  - Kurz: De multiples vulnérabilités ont été découvertes dans Apache Zookeeper. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **America is in the wrong AI race with China** — Score 7, observation — [Quelle](https://restofworld.org/2026/america-china-ai-race-trust/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
   - Quelle: Rest of World Global Tech Feed / `rss`
