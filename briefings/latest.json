@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-22T15:04:46+00:00",
-  "run_id": "2026-09-22T15:04:46+00:00",
+  "generated_at": "2026-09-22T15:22:46+00:00",
+  "run_id": "2026-09-22T15:22:46+00:00",
   "date": "2026-09-22",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 57
+      "configured_public_sources_only": 58
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 57,
-    "displayed_findings": 57,
+    "today_file_total": 58,
+    "displayed_findings": 58,
     "high": 0,
     "medium": 18,
-    "observe": 39,
+    "observe": 40,
     "source_errors": 0
   },
   "sections": {
@@ -1263,6 +1263,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "19c672e872cbbaf9171f"
+      },
+      {
+        "title": "JevでAIエージェントのハーネスはどう変わるのか｜npaka",
+        "url": "https://note.com/npaka/n/ne4547ea3c6f5",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-22T01:51:11+00:00",
+        "fetched_at": "2026-09-22T15:22:13+00:00",
+        "summary": "Jevの登場によって、AIエージェントを支えるハーネスの設計がどう変わるのかについてまとめました。 1. はじめに2026年、AIエージェントの設計に新しい選択肢が登場しました。 その一つが、TypeSafe AIの「Jev」です。 Jevは、文章やコードを長く生成するLLMではなく、ソフトウェアの中で発生する判断を高速に処理するた...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "1f4e975e28da06e61f83"
       },
       {
         "title": "「Linuxデスクトップ元年」到来か。Debianが使えるGooglebook OS発表 - すまほん!!",
@@ -2646,6 +2667,27 @@
       "id": "19c672e872cbbaf9171f"
     },
     {
+      "title": "JevでAIエージェントのハーネスはどう変わるのか｜npaka",
+      "url": "https://note.com/npaka/n/ne4547ea3c6f5",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-22T01:51:11+00:00",
+      "fetched_at": "2026-09-22T15:22:13+00:00",
+      "summary": "Jevの登場によって、AIエージェントを支えるハーネスの設計がどう変わるのかについてまとめました。 1. はじめに2026年、AIエージェントの設計に新しい選択肢が登場しました。 その一つが、TypeSafe AIの「Jev」です。 Jevは、文章やコードを長く生成するLLMではなく、ソフトウェアの中で発生する判断を高速に処理するた...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "1f4e975e28da06e61f83"
+    },
+    {
       "title": "「Linuxデスクトップ元年」到来か。Debianが使えるGooglebook OS発表 - すまほん!!",
       "url": "https://smhn.info/202609-googlebook-os-debian-linux-environment-launch",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2793,26 +2835,25 @@
   ],
   "new_findings": [
     {
-      "title": "マキタの18Vバッテリーにも対応済み、リチウムイオンバッテリーの診断と修理をブラウザから無料で実行できる「Open Battery Information」",
-      "url": "https://gigazine.net/news/20260922-open-battery-information/",
+      "title": "JevでAIエージェントのハーネスはどう変わるのか｜npaka",
+      "url": "https://note.com/npaka/n/ne4547ea3c6f5",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-22T11:06:19+00:00",
-      "fetched_at": "2026-09-22T15:04:15+00:00",
-      "summary": "Open Battery Information(OBI)はバッテリー管理システム(BMS)によってロックされたリチウムイオンバッテリーの診断と修理を支援するために設計されたオープンソースプロジェクトです。 Open Battery Information https://openbatteryinformation.github.io/ mnh-jansson/open-battery-information https://github.com/m...",
+      "published_at": "2026-09-22T01:51:11+00:00",
+      "fetched_at": "2026-09-22T15:22:13+00:00",
+      "summary": "Jevの登場によって、AIエージェントを支えるハーネスの設計がどう変わるのかについてまとめました。 1. はじめに2026年、AIエージェントの設計に新しい選択肢が登場しました。 その一つが、TypeSafe AIの「Jev」です。 Jevは、文章やコードを長く生成するLLMではなく、ソフトウェアの中で発生する判断を高速に処理するた...",
       "matched_keywords": [
-        "GitHub",
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 7,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "59c662dfdad521a4e026"
+      "id": "1f4e975e28da06e61f83"
     }
   ],
   "source_errors": [],
