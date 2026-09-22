@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-22T05:59:52+00:00_
+_Generiert: 2026-09-22T06:35:45+00:00_
 
 ## Kurzlage
 
-19 neue relevante Treffer. Stärkstes Signal: „M 5.0 - Volcano Islands, Japan region“ aus USGS M4.5+ Earthquakes Past Hour (Score 18, risk).
+20 neue relevante Treffer. Stärkstes Signal: „M 4.9 - Volcano Islands, Japan region“ aus USGS M4.5+ Earthquakes Past Hour (Score 18, risk).
 
 ## Priorität Hoch
 
@@ -12,6 +12,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **M 4.9 - Volcano Islands, Japan region** — Score 18, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj3s)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-22T06:30:53.040+00:00`, fetched `2026-09-22T06:35:14+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami, Watchgraph:volcano_aviation
+  - Watchgraph: earthquakes_tsunami, volcano_aviation
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW, DIS, CMCSA
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region japan: Japan (+2.0); watchgraph modules earthquakes_tsunami, volcano_aviation (+6.0)
+  - Kurz: Time 2026-09-22 06:11:10 UTC 2026-09-22 06:11:10 UTC at epicenter Location 23.003°N 142.340°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 5.0 - Volcano Islands, Japan region** — Score 18, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj3k)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-22T05:38:04.040+00:00`, fetched `2026-09-22T05:44:16+00:00`
