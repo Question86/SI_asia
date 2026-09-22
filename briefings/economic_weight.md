@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-09-22T07:19:20+00:00`
+Generated: `2026-09-22T07:35:41+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -11,10 +11,10 @@ Generated: `2026-09-22T07:19:20+00:00`
 | GitHub - tamaratran/fast-jev-compaction: Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and result is scored in one fast request, stale ones are dropped or truncated, everything kept stays verbatim. | regulation, conflict | $120.00M | $12.00B | $1.20T | 0.31 |
 | anomalyco/opencode | conflict | $115.20M | $11.52B | $1.15T | 0.31 |
 | npm extends recovery-code security holds to all accounts | conflict | $115.20M | $11.52B | $1.15T | 0.31 |
+| Singapore’s MetaOptics eyes US expansion with potential US$10M warrant facility | conflict | $113.60M | $11.36B | $1.14T | 0.31 |
 | Warsh, In Our Time | conflict | $113.60M | $11.36B | $1.14T | 0.31 |
 | Schools and universities face rising ransomware costs as attackers target identities | exploit, conflict | $113.60M | $11.36B | $1.14T | 0.31 |
 | Netanyahu got an explicit warning before Oct. 7. He didn't brief security chiefs | conflict | $113.60M | $11.36B | $1.14T | 0.31 |
-| Singapore’s MetaOptics eyes US expansion with potential US$10M warrant facility | conflict | $113.60M | $11.36B | $1.14T | 0.31 |
 | Multiple trusted publishing configurations for npm | conflict | $112.80M | $11.28B | $1.13T | 0.31 |
 | Stage-only npm tokens for safer automation | conflict | $112.80M | $11.28B | $1.13T | 0.31 |
 | Multiples vulnérabilités dans les produits VMware (07 septembre 2026) | conflict | $112.00M | $11.20B | $1.12T | 0.31 |

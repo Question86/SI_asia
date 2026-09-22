@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-22T07:19:20+00:00",
+  "generated_at": "2026-09-22T07:35:41+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -92,6 +92,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_2db2808e96a762f85938",
+      "title": "Singapore’s MetaOptics eyes US expansion with potential US$10M warrant facility",
+      "event_classes": [
+        "conflict"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 113600000.0,
+      "p50_usd": 11360000000.0,
+      "p90_usd": 1136000000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-22T07:19:03+00:00",
+      "last_seen_at": "2026-09-22T07:35:25+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_624a2e3ce3ccd3efe095",
       "title": "Warsh, In Our Time",
       "event_classes": [
@@ -142,23 +159,6 @@
       "first_seen_at": "2026-09-08T22:30:02+00:00",
       "last_seen_at": "2026-09-08T23:55:02+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_2db2808e96a762f85938",
-      "title": "Singapore’s MetaOptics eyes US expansion with potential US$10M warrant facility",
-      "event_classes": [
-        "conflict"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 113600000.0,
-      "p50_usd": 11360000000.0,
-      "p90_usd": 1136000000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-22T07:19:03+00:00",
-      "last_seen_at": "2026-09-22T07:19:03+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_1c81e98065054e6db7b2",
@@ -877,7 +877,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-06T05:39:36+00:00",
-      "last_seen_at": "2026-09-22T07:19:03+00:00",
+      "last_seen_at": "2026-09-22T07:35:25+00:00",
       "status": "active"
     },
     {
@@ -894,7 +894,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-12T05:30:29+00:00",
-      "last_seen_at": "2026-09-22T07:19:03+00:00",
+      "last_seen_at": "2026-09-22T07:35:25+00:00",
       "status": "active"
     },
     {
@@ -966,6 +966,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_ab8bebe9851784271f9a",
+      "title": "M 4.6 - 19 km ENE of Nailong, Philippines",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1160000.0,
+      "p50_usd": 116000000.0,
+      "p90_usd": 11600000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-22T07:19:03+00:00",
+      "last_seen_at": "2026-09-22T07:35:25+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_b034f8b6f477227b6204",
       "title": "M 4.8 - 57 km N of Ende, Indonesia",
       "event_classes": [
@@ -996,7 +1013,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-16T15:31:24+00:00",
-      "last_seen_at": "2026-09-22T07:19:03+00:00",
+      "last_seen_at": "2026-09-22T07:35:25+00:00",
       "status": "active"
     },
     {
@@ -1151,23 +1168,6 @@
       "first_seen_at": "2026-09-01T13:58:29+00:00",
       "last_seen_at": "2026-09-01T23:56:16+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_ab8bebe9851784271f9a",
-      "title": "M 4.6 - 19 km ENE of Nailong, Philippines",
-      "event_classes": [
-        "natural_disaster"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 1160000.0,
-      "p50_usd": 116000000.0,
-      "p90_usd": 11600000000.0,
-      "confidence": 0.328,
-      "first_seen_at": "2026-09-22T07:19:03+00:00",
-      "last_seen_at": "2026-09-22T07:19:03+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_010865faf79d8c1f952b",
@@ -6861,7 +6861,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-22T01:14:13+00:00",
-      "last_seen_at": "2026-09-22T07:19:03+00:00",
+      "last_seen_at": "2026-09-22T07:35:25+00:00",
       "status": "active"
     },
     {
@@ -8102,7 +8102,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-22T02:01:34+00:00",
-      "last_seen_at": "2026-09-22T07:19:03+00:00",
+      "last_seen_at": "2026-09-22T07:35:25+00:00",
       "status": "active"
     },
     {
@@ -8204,7 +8204,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-22T03:13:15+00:00",
-      "last_seen_at": "2026-09-22T07:19:03+00:00",
+      "last_seen_at": "2026-09-22T07:35:25+00:00",
       "status": "active"
     },
     {
@@ -8510,7 +8510,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-22T05:22:15+00:00",
-      "last_seen_at": "2026-09-22T07:19:03+00:00",
+      "last_seen_at": "2026-09-22T07:35:25+00:00",
       "status": "active"
     },
     {
@@ -9241,7 +9241,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T18:20:05+00:00",
-      "last_seen_at": "2026-09-22T07:19:03+00:00",
+      "last_seen_at": "2026-09-22T07:35:25+00:00",
       "status": "active"
     },
     {
@@ -9531,7 +9531,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-22T04:09:14+00:00",
-      "last_seen_at": "2026-09-22T07:19:03+00:00",
+      "last_seen_at": "2026-09-22T07:35:25+00:00",
       "status": "active"
     },
     {
@@ -9769,7 +9769,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-22T05:33:48+00:00",
-      "last_seen_at": "2026-09-22T07:19:03+00:00",
+      "last_seen_at": "2026-09-22T07:35:25+00:00",
       "status": "active"
     },
     {
@@ -10126,7 +10126,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-22T02:30:48+00:00",
-      "last_seen_at": "2026-09-22T07:19:03+00:00",
+      "last_seen_at": "2026-09-22T07:35:25+00:00",
       "status": "active"
     },
     {
@@ -10211,7 +10211,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-22T03:33:01+00:00",
-      "last_seen_at": "2026-09-22T07:19:03+00:00",
+      "last_seen_at": "2026-09-22T07:35:25+00:00",
       "status": "active"
     },
     {
@@ -10279,7 +10279,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-22T01:38:06+00:00",
-      "last_seen_at": "2026-09-22T07:19:03+00:00",
+      "last_seen_at": "2026-09-22T07:35:25+00:00",
       "status": "active"
     },
     {
@@ -11673,7 +11673,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-22T04:09:14+00:00",
-      "last_seen_at": "2026-09-22T07:19:03+00:00",
+      "last_seen_at": "2026-09-22T07:35:25+00:00",
       "status": "active"
     },
     {
@@ -12183,7 +12183,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T12:58:27+00:00",
-      "last_seen_at": "2026-09-22T07:19:03+00:00",
+      "last_seen_at": "2026-09-22T07:35:25+00:00",
       "status": "active"
     },
     {
@@ -13560,7 +13560,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-22T04:09:14+00:00",
-      "last_seen_at": "2026-09-22T07:19:03+00:00",
+      "last_seen_at": "2026-09-22T07:35:25+00:00",
       "status": "active"
     },
     {
@@ -13577,7 +13577,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-22T01:14:13+00:00",
-      "last_seen_at": "2026-09-22T07:19:03+00:00",
+      "last_seen_at": "2026-09-22T07:35:25+00:00",
       "status": "active"
     },
     {
@@ -13934,7 +13934,7 @@
       "p90_usd": 1072000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-22T04:09:14+00:00",
-      "last_seen_at": "2026-09-22T07:19:03+00:00",
+      "last_seen_at": "2026-09-22T07:35:25+00:00",
       "status": "active"
     },
     {
