@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-22T18:55:23+00:00",
+  "generated_at": "2026-09-22T19:04:35+00:00",
   "events": [
     {
       "event_id": "evt_00999a707b633ec75a8c",
@@ -111,6 +111,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_03c35d005070efd2a4d6",
+      "title": "OpenAI’s GPT-6 Sol and GPT-6 Luna now available",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_041ecbedea41eee2b644",
@@ -8492,7 +8503,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_e89764ff1a32f1cba3d3",
