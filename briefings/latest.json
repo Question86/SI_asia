@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-22T03:32:57+00:00",
-  "run_id": "2026-09-22T03:32:57+00:00",
+  "generated_at": "2026-09-22T03:47:59+00:00",
+  "run_id": "2026-09-22T03:47:59+00:00",
   "date": "2026-09-22",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 10,
     "displayed_findings": 10,
     "high": 0,
@@ -452,29 +452,7 @@
       "id": "ddb70832220fd11ba6b2"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Why Asia’s Physical AI boom will be decided at the camera, not the model",
-      "url": "https://e27.co/why-asias-physical-ai-boom-will-be-decided-at-the-camera-not-the-model-20260921/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-22T03:30:16+00:00",
-      "fetched_at": "2026-09-22T03:32:22+00:00",
-      "summary": "Robotics and rehabilitation are undergoing a profound transformation that the industry’s own measurement infrastructure has largely failed to keep pace with. For four decades the recording of movement in three dimensions has been organised around a building in a studio. From a wired ring of cameras, a morning of calibration, and a purchase order that […] The post Why Asia’s Physical AI boom will be decided at the ca…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0dede193a31c62c23165"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
