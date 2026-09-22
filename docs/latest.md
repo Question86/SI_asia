@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-22T11:19:29+00:00_
+_Generiert: 2026-09-22T11:30:35+00:00_
 
 ## Kurzlage
 
-37 neue relevante Treffer. Stärkstes Signal: „M 4.9 - Volcano Islands, Japan region“ aus USGS M4.5+ Earthquakes Past Hour (Score 18, risk).
+39 neue relevante Treffer. Stärkstes Signal: „M 4.9 - Volcano Islands, Japan region“ aus USGS M4.5+ Earthquakes Past Hour (Score 18, risk).
 
 ## Priorität Hoch
 
@@ -141,6 +141,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 日本各地のオンライン古書店に対して、今年8月ごろから書籍の大量注文が相次いでいることがわかった。古書店を取材すると「1日100冊売れる」「売上が5倍になった日もある」と話しており、業界内では「生成AI（人工知能）の学習データを集める目的ではないか」という見方が広がっている。さらに追跡取材を続けると、日本...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **思考の外注割合を増やし、理解は外注しない - Konifar's ZATSU** — Score 8, observation — [Quelle](https://konifar-zatsu.hatenadiary.jp/entry/2026/09/22/112134)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-22T02:43:17+00:00`, fetched `2026-09-22T11:30:03+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: 「思考は外注できるが理解は外注できない」という AI の関わり方を端的に表したﾂｲｯﾄがある。 you can outsource your thinking but you cannot outsource your understanding you can outsource your thinking but you cannot outsource your understanding— kache (@yacineMTB) 2026年2月4日 Andrej Karpathy 氏も "ble...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **America is in the wrong AI race with China** — Score 7, observation — [Quelle](https://restofworld.org/2026/america-china-ai-race-trust/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
   - Quelle: Rest of World Global Tech Feed / `rss`
   - Zeit: published `2026-09-22T10:00:00+00:00`, fetched `2026-09-22T10:21:14+00:00`
@@ -149,15 +158,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); recent (+1.0); watchgraph region china_credible_only: China (+2.0)
   - Kurz: The U.S. is framing its rivalry with China as one of technical superiority, failing to recognize that public trust and robust consumer protections are necessary for long-term dominance.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **tanteki — 業務のための文書をもっと端的に** — Score 7, observation — [Quelle](https://iwasa-kosui.github.io/tanteki/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-21T23:10:19+00:00`, fetched `2026-09-22T07:54:34+00:00`
-  - Treffer: GitHub, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
-  - Kurz: 日本語の業務・技術文書のための Skill 業務のための文書を もっと端的に PRD、ADR、Design Doc、Runbook。 文書の種類ごとに、書くべき情報と書くべきではない情報が違います。 tanteki はその文書が本質的に述べたいことを見定めて、必要な情報だけを記述します。 ファイル取込 Design Doc1. 概要ファイル取込処理を非...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Refreshed repository pull requests page generally available** — Score 3, observation — [Quelle](https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available)
   - Quelle: GitHub Changelog Atom / `rss`
