@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-22T02:30:45+00:00",
-  "run_id": "2026-09-22T02:30:45+00:00",
+  "generated_at": "2026-09-22T02:48:03+00:00",
+  "run_id": "2026-09-22T02:48:03+00:00",
   "date": "2026-09-22",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 8,
     "displayed_findings": 8,
     "high": 0,
@@ -366,49 +366,7 @@
       "id": "ddb70832220fd11ba6b2"
     }
   ],
-  "new_findings": [
-    {
-      "title": "AI lets outsiders build but the connected still have an advantage",
-      "url": "https://e27.co/ai-lets-outsiders-build-but-the-connected-still-have-an-advantage-20260920/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-22T02:30:12+00:00",
-      "fetched_at": "2026-09-22T02:30:17+00:00",
-      "summary": "The next useful software product may come from someone your hiring process would reject. A paramedic. A teacher. A shop owner with no software credentials, but years of experience with a problem that nobody has bothered to fix. AI coding platforms give more of these people a way to build an answer. Whether anyone takes […] The post AI lets outsiders build but the connected still have an advantage appeared first on e…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a1e4c0616515d578d9c9"
-    },
-    {
-      "title": "Refreshed repository pull requests page generally available",
-      "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-09-22T01:25:53+00:00",
-      "fetched_at": "2026-09-22T02:30:17+00:00",
-      "summary": "The new repository pull requests page is now generally available to all GitHub users. Highlights The new page makes it easier to find and act on pull requests in a… The post Refreshed repository pull requests page generally available appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "GitHub"
-      ],
-      "relevance_score": 3,
-      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ddb70832220fd11ba6b2"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
