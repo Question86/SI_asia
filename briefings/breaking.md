@@ -1,10 +1,10 @@
 # Senna Breaking
 
-_Generiert: 2026-09-22T18:30:43+00:00_
+_Generiert: 2026-09-22T18:46:15+00:00_
 
 ## Version 1.0: F5 BIG-IP APM: Aktive Ausnutzug einer Zero-Day Schwachstelle
 
-- Ranking Score: `35.87`
+- Ranking Score: `35.84`
 - Raw Network Score: `34.2`
 - Max Monitor Score: `30`
 - Reichweite: `specialist` / `2.5`

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-22T18:30:39+00:00_
+_Generiert: 2026-09-22T18:46:12+00:00_
 
 ## Kurzlage
 
-64 neue relevante Treffer. Stärkstes Signal: „Version 1.0: F5 BIG-IP APM: Aktive Ausnutzug einer Zero-Day Schwachstelle“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 30, risk).
+65 neue relevante Treffer. Stärkstes Signal: „Version 1.0: F5 BIG-IP APM: Aktive Ausnutzug einer Zero-Day Schwachstelle“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 30, risk).
 
 ## Priorität Hoch
 
@@ -140,6 +140,15 @@ _Generiert: 2026-09-22T18:30:39+00:00_
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); safety (+2.0); recent (+1.0)
   - Kurz: OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Gleich noch ein Sicherheitsupdate für WordPress** — Score 11, observation — [Quelle](https://www.heise.de/news/Gleich-noch-ein-Sicherheitsupdate-fuer-WordPress-11462385.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-09-22T18:29:00.000+00:00`, fetched `2026-09-22T18:45:46+00:00`
+  - Treffer: Security, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Webentwicklung (+3.8); recent (+1.0)
+  - Kurz: Angreifer können WordPress dazu bringen, nicht vorgesehene .php-Dateien aufzurufen. Das kann zur Ausführung von Code führen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Claude Opus 5.5 is now available in GitHub Copilot** — Score 11, observation — [Quelle](https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-09-22T17:10:23+00:00`, fetched `2026-09-22T18:08:02+00:00`
@@ -220,15 +229,6 @@ _Generiert: 2026-09-22T18:30:39+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); banking (+2.5); recent (+1.0)
   - Kurz: Speech by Mr Emmanuel Moulin, Governor of the Bank of France, at Eurofi, Dublin, 18 September 2026.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The future of euro cash - trusted today, designed for tomorrow** — Score 8, observation — [Quelle](https://www.bis.org/speeches/20260922-future-euro-cash-trusted-today-designed-tomorrow)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-09-22T00:00:00+00:00`, fetched `2026-09-22T14:45:56+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: Brussels (+2.0)
-  - Kurz: Keynote speech by Mr Piero Cipollone, Member of the Executive Board of the European Central Bank, at the House of the Euro, Brussels, 14 September 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
