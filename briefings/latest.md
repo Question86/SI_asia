@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-22T01:54:13+00:00_
+_Generiert: 2026-09-22T02:01:31+00:00_
 
 ## Kurzlage
 
-5 neue relevante Treffer. Stärkstes Signal: „The compliance paradox: More checks, more fraud“ aus e27 Asia Startup and Tech Feed (Score 13, risk).
+6 neue relevante Treffer. Stärkstes Signal: „The compliance paradox: More checks, more fraud“ aus e27 Asia Startup and Tech Feed (Score 13, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -86,6 +86,15 @@ Keine neuen mittleren Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Reputationsrisiko (+8.8); recent (+1.0)
   - Kurz: The teller does not sound accusatory. The tone is worse than that. It is procedural. A man in his thirties slides his phone across the counter and points to the screen, a transfer that never arrived, a balance that will not move. The teller looks past the story and into the system. The account is […] The post The compliance paradox: More checks, more fraud appeared first on e27 .
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Vietnam’s returning engineers are high-quality talent. Keeping them is the real problem** — Score 11, observation — [Quelle](https://e27.co/vietnams-returning-engineers-are-high-quality-talent-keeping-them-is-the-real-problem-20260920/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-22T02:00:36+00:00`, fetched `2026-09-22T02:00:53+00:00`
+  - Treffer: APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region usa: Silicon Valley (+2.0); watchgraph region japan: Tokyo (+2.0); watchgraph region south_korea: Seoul (+2.0)
+  - Kurz: Every few months, another story circulates about Vietnamese-origin engineers leaving Silicon Valley, Tokyo, or Seoul to come home. The framing is almost always the same: here is an underused pool of senior talent, and here is why your company should go get some. That framing skips the harder question. Attracting a returning engineer is the […] The post Vietnam’s returning engineers are high-quality talent. Keeping t…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Why AI literacy is becoming a business necessity, not a competitive advantage** — Score 8, observation — [Quelle](https://e27.co/why-ai-literacy-is-becoming-a-business-necessity-not-a-competitive-advantage-20260920/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-22T01:30:31+00:00`, fetched `2026-09-22T01:37:30+00:00`
