@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-22T07:55:03+00:00_
+_Generated: 2026-09-22T08:05:23+00:00_
 
 ## Status
 - status: `normal`
-- findings: `26`
+- findings: `27`
 
 ## Top Signals
 
@@ -50,18 +50,18 @@ _Generated: 2026-09-22T07:55:03+00:00_
 - url: https://e27.co/singapores-metaoptics-eyes-us-expansion-with-potential-us10m-warrant-facility-20260922/
 - summary: Singapore-listed MetaOptics has secured a potential financing line of up to US$10 million from Los Angeles-based White Lion Capital, giving the semiconductor optics company additional room to fund its United States expansion as it tries to take metalens techn…
 
-### 7. Your price problem is a positioning problem wearing a discount request
+### 7. Sicherheitsupdates: Click2Shell-Lücke zum Kompromittieren von WordPress-Websites
+- source: heise Security Alerts
+- score: `11`
+- published: `2026-09-22T07:52:00.000+00:00`
+- url: https://www.heise.de/news/Sicherheitsupdates-Click2Shell-Luecke-zum-Kompromittieren-von-WordPress-Websites-11460973.html
+- summary: Aufgrund mehrerer Sicherheitslücken raten die WordPress-Entwickler zu einem zügigen Update. Bislang gibt es keine Hinweise auf Attacken.
+
+### 8. Your price problem is a positioning problem wearing a discount request
 - source: e27 Asia Startup and Tech Feed
 - score: `11`
 - published: `2026-09-22T03:00:14+00:00`
 - url: https://e27.co/your-price-problem-is-a-positioning-problem-wearing-a-discount-request-20260920/
 - summary: Ask most founders why a deal stalled and they’ll say the same thing: “they wanted a better price.” It’s the most comfortable explanation in the room, because it points outward — at the market, at the competitor who undercut you, at a buyer who’s “just being c…
-
-### 8. Vietnam’s returning engineers are high-quality talent. Keeping them is the real problem
-- source: e27 Asia Startup and Tech Feed
-- score: `11`
-- published: `2026-09-22T02:00:36+00:00`
-- url: https://e27.co/vietnams-returning-engineers-are-high-quality-talent-keeping-them-is-the-real-problem-20260920/
-- summary: Every few months, another story circulates about Vietnamese-origin engineers leaving Silicon Valley, Tokyo, or Seoul to come home. The framing is almost always the same: here is an underused pool of senior talent, and here is why your company should go get so…
 
 END OF DOCUMENT

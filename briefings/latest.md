@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-22T07:55:03+00:00_
+_Generiert: 2026-09-22T08:05:23+00:00_
 
 ## Kurzlage
 
-26 neue relevante Treffer. Stärkstes Signal: „M 4.9 - Volcano Islands, Japan region“ aus USGS M4.5+ Earthquakes Past Hour (Score 18, risk).
+27 neue relevante Treffer. Stärkstes Signal: „M 4.9 - Volcano Islands, Japan region“ aus USGS M4.5+ Earthquakes Past Hour (Score 18, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -41,6 +41,10 @@ _Generiert: 2026-09-22T07:55:03+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Japan
+- **GDACS: Green flood alert in Malaysia** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104184)
+  - Quelle: GDACS
+  - Zeit: ``
+  - Kurz: Green flood alert in Malaysia
 - **GDACS: Green notification for tropical cyclone POLO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001325)
   - Quelle: GDACS
   - Zeit: ``
@@ -142,6 +146,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
   - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region usa: United States (+2.0); watchgraph region southeast_asia: Singapore (+2.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Singapore-listed MetaOptics has secured a potential financing line of up to US$10 million from Los Angeles-based White Lion Capital, giving the semiconductor optics company additional room to fund its United States expansion as it tries to take metalens technology closer to commercial scale. The arrangement is structured through a warrant deed under which White Lion […] The post Singapore’s MetaOptics eyes US expans…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Sicherheitsupdates: Click2Shell-Lücke zum Kompromittieren von WordPress-Websites** — Score 11, observation — [Quelle](https://www.heise.de/news/Sicherheitsupdates-Click2Shell-Luecke-zum-Kompromittieren-von-WordPress-Websites-11460973.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-09-22T07:52:00.000+00:00`, fetched `2026-09-22T08:04:51+00:00`
+  - Treffer: Security, Webentwicklung
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Webentwicklung (+3.8); recent (+1.0)
+  - Kurz: Aufgrund mehrerer Sicherheitslücken raten die WordPress-Entwickler zu einem zügigen Update. Bislang gibt es keine Hinweise auf Attacken.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Your price problem is a positioning problem wearing a discount request** — Score 11, observation — [Quelle](https://e27.co/your-price-problem-is-a-positioning-problem-wearing-a-discount-request-20260920/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
