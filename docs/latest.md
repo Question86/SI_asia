@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-22T20:22:35+00:00_
+_Generiert: 2026-09-22T20:32:55+00:00_
 
 ## Kurzlage
 
-70 neue relevante Treffer. Stärkstes Signal: „Version 1.0: F5 BIG-IP APM: Aktive Ausnutzug einer Zero-Day Schwachstelle“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 30, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+70 neue relevante Treffer. Stärkstes Signal: „Version 1.0: F5 BIG-IP APM: Aktive Ausnutzug einer Zero-Day Schwachstelle“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 30, risk).
 
 ## Priorität Hoch
 
@@ -240,7 +240,3 @@ _Generiert: 2026-09-22T20:22:35+00:00_
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `google_trends_vietnam_hot` (rss): 500 Server Error: Internal Server Error for url: https://trends.google.com.vn/trending/rss?geo=VN
