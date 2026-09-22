@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-09-22T04:09:11+00:00",
-  "run_id": "2026-09-22T04:09:11+00:00",
+  "generated_at": "2026-09-22T04:28:25+00:00",
+  "run_id": "2026-09-22T04:28:25+00:00",
   "date": "2026-09-22",
-  "status": "normal",
+  "status": "warning",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "normal",
+    "coverage_confidence": "limited",
     "active_sensor_groups": {
       "configured_public_sources_only": 15
     },
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 5,
+    "new_relevant_findings": 0,
     "today_file_total": 15,
     "displayed_findings": 15,
     "high": 0,
     "medium": 1,
     "observe": 14,
-    "source_errors": 0
+    "source_errors": 1
   },
   "sections": {
     "high": [],
@@ -693,129 +693,15 @@
       "id": "ddb70832220fd11ba6b2"
     }
   ],
-  "new_findings": [
+  "new_findings": [],
+  "source_errors": [
     {
-      "title": "M 4.7 - 54 km NNW of Ende, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj37",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_id": "bis_press_releases",
+      "source_name": "BIS Press Releases",
       "source_type": "rss",
-      "published_at": "2026-09-22T04:04:43.040+00:00",
-      "fetched_at": "2026-09-22T04:08:44+00:00",
-      "summary": "Time 2026-09-22 03:36:25 UTC 2026-09-22 03:36:25 UTC at epicenter Location 8.391°S 121.468°E Depth 10.00 km (6.21 mi)",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 15,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "517fad8f233ee503f7a0"
-    },
-    {
-      "title": "【独自】古書店で「謎の大量注文」相次ぐ……AI学習か 米国向け「日本の本 50トン」の輸出記録も（2026年9月22日掲載）｜日テレNEWS NNN",
-      "url": "https://news.ntv.co.jp/category/society/e48899c1ab1445f683929740ef2b3aa6",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-22T02:56:00+00:00",
-      "fetched_at": "2026-09-22T04:08:44+00:00",
-      "summary": "日本各地のオンライン古書店に対して、今年8月ごろから書籍の大量注文が相次いでいることがわかった。古書店を取材すると「1日100冊売れる」「売上が5倍になった日もある」と話しており、業界内では「生成AI（人工知能）の学習データを集める目的ではないか」という見方が広がっている。さらに追跡取材を続けると、日本...",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "cacf4c2c1416628bc0b5"
-    },
-    {
-      "title": "Startups should learn to leave bad markets faster",
-      "url": "https://e27.co/startups-should-learn-to-leave-bad-markets-faster-20260921/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-22T04:00:10+00:00",
-      "fetched_at": "2026-09-22T04:08:44+00:00",
-      "summary": "Startups are constantly encouraged to expand. Enter new countries, test new segments, build distribution partnerships, hire locally and capture market share before someone else does. Much less attention is given to the opposite decision: leaving a market that looked promising but is not working. That decision is often harder than entering in the first place. […] The post Startups should learn to leave bad markets fa…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "19c672e872cbbaf9171f"
-    },
-    {
-      "title": "「Linuxデスクトップ元年」到来か。Debianが使えるGooglebook OS発表 - すまほん!!",
-      "url": "https://smhn.info/202609-googlebook-os-debian-linux-environment-launch",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-21T17:11:26+00:00",
-      "fetched_at": "2026-09-22T04:08:44+00:00",
-      "summary": "Googleは9月21日、Androidの技術基盤とChromeOSのデスクトップ基盤を組み合わせた「Googlebook OS」の詳細を発表し、このOSを搭載したノートPC「Googlebook」の予約受付を開始しました。 Linuxの開発環境を備えた、新たなノートPCの選択肢となりそうです。プリインストールされたTerminalアプリから、フルのDebian GNU/L...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "bec142c2f5dc9567f809"
-    },
-    {
-      "title": "Bitcoin’s US$87,000 spike: Real breakout or a US$900 million short squeeze?",
-      "url": "https://e27.co/bitcoins-us87000-spike-real-breakout-or-a-us900-million-short-squeeze-20260922/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-22T04:00:59+00:00",
-      "fetched_at": "2026-09-22T04:08:44+00:00",
-      "summary": "Bitcoin’s surge to around US$87,000 has captured the market’s full attention, and the data tells a clear story about what powered this move. The leading cryptocurrency rallied from the mid US$70,000s to an intraday high near US$87,000, its strongest level since late January. That advance pushed its market cap toward roughly US$1.7 trillion to US$1.8 […] The post Bitcoin’s US$87,000 spike: Real breakout or a US$900 m…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f01aa0c0c98e30d302b9"
+      "error": "HTTPSConnectionPool(host='www.bis.org', port=443): Read timed out. (read timeout=8)"
     }
   ],
-  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
