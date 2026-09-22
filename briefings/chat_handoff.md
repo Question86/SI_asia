@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-22T08:05:23+00:00_
+_Generated: 2026-09-22T08:31:51+00:00_
 
 ## Status
 - status: `normal`
-- findings: `27`
+- findings: `29`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-09-22T08:05:23+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj3k
 - summary: Time 2026-09-22 05:18:24 UTC 2026-09-22 05:18:24 UTC at epicenter Location 23.133°N 142.437°E Depth 10.00 km (6.21 mi)
 
-### 3. M 4.6 - 19 km ENE of Nailong, Philippines
+### 3. [UPDATE] [hoch] Cisco Secure Firewall Management Center: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-09-22T08:06:31+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3417
+- summary: Ein Angreifer kann mehrere Schwachstellen in Cisco Secure Firewall Management Center ausnutzen, um Sicherheitsmaßnahmen zu umgehen, beliebige Befehle als Root auszuführen, Berechtigungen auf Root zu erweitern, SQL-Injection durchzuführen, Anmeldedaten für Adm…
+
+### 4. M 4.6 - 19 km ENE of Nailong, Philippines
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-09-22T07:11:17.331+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj3v
 - summary: DYFI? - V Time 2026-09-22 06:48:09 UTC 2026-09-22 06:48:09 UTC at epicenter Location 11.096°N 124.210°E Depth 10.00 km (6.21 mi)
-
-### 4. M 4.7 - 54 km NNW of Ende, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-09-22T04:04:43.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj37
-- summary: Time 2026-09-22 03:36:25 UTC 2026-09-22 03:36:25 UTC at epicenter Location 8.391°S 121.468°E Depth 10.00 km (6.21 mi)
 
 ### 5. The compliance paradox: More checks, more fraud
 - source: e27 Asia Startup and Tech Feed
