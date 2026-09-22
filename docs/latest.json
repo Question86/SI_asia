@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-22T17:30:12+00:00",
-  "run_id": "2026-09-22T17:30:12+00:00",
+  "generated_at": "2026-09-22T17:39:58+00:00",
+  "run_id": "2026-09-22T17:39:58+00:00",
   "date": "2026-09-22",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 62
+      "configured_public_sources_only": 63
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 62,
-    "displayed_findings": 62,
+    "new_relevant_findings": 1,
+    "today_file_total": 63,
+    "displayed_findings": 63,
     "high": 2,
     "medium": 18,
-    "observe": 42,
+    "observe": 43,
     "source_errors": 0
   },
   "sections": {
@@ -746,6 +746,28 @@
           "EWZ"
         ],
         "id": "4b2b014c05049de33d31"
+      },
+      {
+        "title": "Priorities and principles for effective third party assessments",
+        "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-09-22T00:00:00+00:00",
+        "fetched_at": "2026-09-22T17:39:25+00:00",
+        "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
+        "matched_keywords": [
+          "AI/KI",
+          "OpenAI",
+          "safety"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); safety (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "646bd5fa1d61ece4e342"
       },
       {
         "title": "Sicherheitsupdates: Click2Shell-Lücke zum Kompromittieren von WordPress-Websites",
@@ -2277,6 +2299,28 @@
       "id": "4b2b014c05049de33d31"
     },
     {
+      "title": "Priorities and principles for effective third party assessments",
+      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-22T00:00:00+00:00",
+      "fetched_at": "2026-09-22T17:39:25+00:00",
+      "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
+      "matched_keywords": [
+        "AI/KI",
+        "OpenAI",
+        "safety"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); safety (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "646bd5fa1d61ece4e342"
+    },
+    {
       "title": "Sicherheitsupdates: Click2Shell-Lücke zum Kompromittieren von WordPress-Websites",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Click2Shell-Luecke-zum-Kompromittieren-von-WordPress-Websites-11460973.html",
       "source": "heise Security Alerts",
@@ -3088,7 +3132,30 @@
       "id": "ddb70832220fd11ba6b2"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Priorities and principles for effective third party assessments",
+      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-22T00:00:00+00:00",
+      "fetched_at": "2026-09-22T17:39:25+00:00",
+      "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
+      "matched_keywords": [
+        "AI/KI",
+        "OpenAI",
+        "safety"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); safety (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "646bd5fa1d61ece4e342"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
