@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-22T18:54:38+00:00_
+_Generiert: 2026-09-22T19:03:41+00:00_
 
 ## Kurzlage
 
-65 neue relevante Treffer. Stärkstes Signal: „Version 1.0: F5 BIG-IP APM: Aktive Ausnutzug einer Zero-Day Schwachstelle“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 30, risk).
+66 neue relevante Treffer. Stärkstes Signal: „Version 1.0: F5 BIG-IP APM: Aktive Ausnutzug einer Zero-Day Schwachstelle“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 30, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -186,6 +186,15 @@ _Generiert: 2026-09-22T18:54:38+00:00_
   - Warum relevant: Security (+7.5); CERT-EU (+2.0); watchgraph modules cyber_active_exploitation (+3.0)
   - Kurz: On 22 September 2026, F5 published an advisory addressing a critical vulnerability affecting its BIG-IP APM product. The vendor confirmed active exploitation in the wild. CERT-EU recommends taking appropriate actions as soon as possible.
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **OpenAI’s GPT-6 Sol and GPT-6 Luna now available** — Score 12, observation — [Quelle](https://github.blog/changelog/2026-09-22-openais-gpt-6-sol-and-gpt-6-luna-now-available)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-09-22T17:00:14+00:00`, fetched `2026-09-22T19:03:11+00:00`
+  - Treffer: Copilot, GitHub, OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); GitHub (+2.0); Copilot (+2.0); recent (+1.0)
+  - Kurz: OpenAI’s GPT-6 family is expanding in GitHub Copilot with two additional models: GPT-6 Sol, and GPT-6 Luna. Joining the previously released GPT-6 Astra, these new options let you select the… The post OpenAI’s GPT-6 Sol and GPT-6 Luna now available appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Jefferson, Discount Window Modernization and Treasury Market Functioning** — Score 12, opportunity — [Quelle](https://www.federalreserve.gov/newsevents/speech/jefferson20260922a.htm)
   - Quelle: Federal Reserve Speeches and Testimony / `rss`
   - Zeit: published `2026-09-22T14:20:00+00:00`, fetched `2026-09-22T14:33:31+00:00`
@@ -293,15 +302,6 @@ _Generiert: 2026-09-22T18:54:38+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 「思考は外注できるが理解は外注できない」という AI の関わり方を端的に表したﾂｲｯﾄがある。 you can outsource your thinking but you cannot outsource your understanding you can outsource your thinking but you cannot outsource your understanding— kache (@yacineMTB) 2026年2月4日 Andrej Karpathy 氏も "ble...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The importance of being earnest - building a simpler and more competitive European banking market** — Score 8, observation — [Quelle](https://www.bis.org/speeches/20260922-importance-being-earnest-building-simpler-and-more-competitive-european-banking-market)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-09-22T00:00:00+00:00`, fetched `2026-09-22T14:45:56+00:00`
-  - Treffer: banking, Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); banking (+2.5); recent (+1.0)
-  - Kurz: Speech by Mr Emmanuel Moulin, Governor of the Bank of France, at Eurofi, Dublin, 18 September 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

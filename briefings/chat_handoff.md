@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-22T18:54:38+00:00_
+_Generated: 2026-09-22T19:03:41+00:00_
 
 ## Status
 - status: `normal`
-- findings: `65`
+- findings: `66`
 
 ## Top Signals
 
@@ -64,18 +64,18 @@ _Generated: 2026-09-22T18:54:38+00:00_
 - url: https://cert.europa.eu/publications/security-advisories/2026-013/
 - summary: On 22 September 2026, F5 published an advisory addressing a critical vulnerability affecting its BIG-IP APM product. The vendor confirmed active exploitation in the wild. CERT-EU recommends taking appropriate actions as soon as possible.
 
-### 9. Jefferson, Discount Window Modernization and Treasury Market Functioning
+### 9. OpenAI’s GPT-6 Sol and GPT-6 Luna now available
+- source: GitHub Changelog Atom
+- score: `12`
+- published: `2026-09-22T17:00:14+00:00`
+- url: https://github.blog/changelog/2026-09-22-openais-gpt-6-sol-and-gpt-6-luna-now-available
+- summary: OpenAI’s GPT-6 family is expanding in GitHub Copilot with two additional models: GPT-6 Sol, and GPT-6 Luna. Joining the previously released GPT-6 Astra, these new options let you select the… The post OpenAI’s GPT-6 Sol and GPT-6 Luna now available appeared fi…
+
+### 10. Jefferson, Discount Window Modernization and Treasury Market Functioning
 - source: Federal Reserve Speeches and Testimony
 - score: `12`
 - published: `2026-09-22T14:20:00+00:00`
 - url: https://www.federalreserve.gov/newsevents/speech/jefferson20260922a.htm
 - summary: Speech At the 2026 U.S. Treasury Market Conference, Federal Reserve Bank of New York, New York, New York
-
-### 10. Singapore’s MetaOptics eyes US expansion with potential US$10M warrant facility
-- source: e27 Asia Startup and Tech Feed
-- score: `12`
-- published: `2026-09-22T07:00:50+00:00`
-- url: https://e27.co/singapores-metaoptics-eyes-us-expansion-with-potential-us10m-warrant-facility-20260922/
-- summary: Singapore-listed MetaOptics has secured a potential financing line of up to US$10 million from Los Angeles-based White Lion Capital, giving the semiconductor optics company additional room to fund its United States expansion as it tries to take metalens techn…
 
 END OF DOCUMENT

@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-22T18:54:38+00:00",
+  "generated_at": "2026-09-22T19:03:41+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 65,
-    "displayed_findings": 65,
+    "new_relevant_findings": 1,
+    "today_file_total": 66,
+    "displayed_findings": 66,
     "high": 2,
     "medium": 18,
-    "observe": 45
+    "observe": 46
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -95,6 +95,16 @@
       "section": "observe"
     },
     {
+      "title": "OpenAI’s GPT-6 Sol and GPT-6 Luna now available",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-09-22T17:00:14+00:00",
+      "relevance_score": 12,
+      "url": "https://github.blog/changelog/2026-09-22-openais-gpt-6-sol-and-gpt-6-luna-now-available",
+      "summary": "OpenAI’s GPT-6 family is expanding in GitHub Copilot with two additional models: GPT-6 Sol, and GPT-6 Luna. Joining the previously released GPT-6 Astra, these new options let you select the… The post OpenAI’s GPT-6 Sol and GPT-6 Luna now available appeared fi…",
+      "section": "observe"
+    },
+    {
       "title": "Jefferson, Discount Window Modernization and Treasury Market Functioning",
       "source": "Federal Reserve Speeches and Testimony",
       "source_type": "rss",
@@ -102,16 +112,6 @@
       "relevance_score": 12,
       "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20260922a.htm",
       "summary": "Speech At the 2026 U.S. Treasury Market Conference, Federal Reserve Bank of New York, New York, New York",
-      "section": "observe"
-    },
-    {
-      "title": "Singapore’s MetaOptics eyes US expansion with potential US$10M warrant facility",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-22T07:00:50+00:00",
-      "relevance_score": 12,
-      "url": "https://e27.co/singapores-metaoptics-eyes-us-expansion-with-potential-us10m-warrant-facility-20260922/",
-      "summary": "Singapore-listed MetaOptics has secured a potential financing line of up to US$10 million from Los Angeles-based White Lion Capital, giving the semiconductor optics company additional room to fund its United States expansion as it tries to take metalens techn…",
       "section": "observe"
     }
   ],
