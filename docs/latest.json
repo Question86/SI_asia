@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-22T17:39:58+00:00",
-  "run_id": "2026-09-22T17:39:58+00:00",
+  "generated_at": "2026-09-22T17:48:05+00:00",
+  "run_id": "2026-09-22T17:48:05+00:00",
   "date": "2026-09-22",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 63,
     "displayed_findings": 63,
     "high": 2,
@@ -3132,30 +3132,7 @@
       "id": "ddb70832220fd11ba6b2"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Priorities and principles for effective third party assessments",
-      "url": "https://openai.com/index/priorities-principles-third-party-assessments",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-09-22T00:00:00+00:00",
-      "fetched_at": "2026-09-22T17:39:25+00:00",
-      "summary": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
-      "matched_keywords": [
-        "AI/KI",
-        "OpenAI",
-        "safety"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "OpenAI (+6.0); AI/KI (+3.0); safety (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "646bd5fa1d61ece4e342"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
