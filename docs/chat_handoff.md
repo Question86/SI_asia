@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-22T05:00:20+00:00_
+_Generated: 2026-09-22T05:22:11+00:00_
 
 ## Status
 - status: `normal`
-- findings: `15`
+- findings: `17`
 
 ## Top Signals
 
@@ -36,11 +36,11 @@ _Generated: 2026-09-22T05:00:20+00:00_
 - url: https://e27.co/vietnams-returning-engineers-are-high-quality-talent-keeping-them-is-the-real-problem-20260920/
 - summary: Every few months, another story circulates about Vietnamese-origin engineers leaving Silicon Valley, Tokyo, or Seoul to come home. The framing is almost always the same: here is an underused pool of senior talent, and here is why your company should go get so…
 
-### 5. Why Asia’s Physical AI boom will be decided at the camera, not the model
+### 5. Supercell backs Hyperbond Studio as Call Me Sensei bets on AI romance for language learning
 - source: e27 Asia Startup and Tech Feed
-- score: `8`
-- published: `2026-09-22T03:30:16+00:00`
-- url: https://e27.co/why-asias-physical-ai-boom-will-be-decided-at-the-camera-not-the-model-20260921/
-- summary: Robotics and rehabilitation are undergoing a profound transformation that the industry’s own measurement infrastructure has largely failed to keep pace with. For four decades the recording of movement in three dimensions has been organised around a building i…
+- score: `10`
+- published: `2026-09-22T05:00:40+00:00`
+- url: https://e27.co/supercell-backs-hyperbond-studio-as-call-me-sensei-bets-on-ai-romance-for-language-learning-20260922/
+- summary: For Hyperbond Studio, the question was never only whether artificial intelligence could teach a language. It was whether people would keep coming back long enough for the teaching to matter. The Singapore-based startup, best known for its AI language-learning…
 
 END OF DOCUMENT

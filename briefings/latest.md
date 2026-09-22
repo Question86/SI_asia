@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-22T05:00:20+00:00_
+_Generiert: 2026-09-22T05:22:11+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „M 4.7 - 54 km NNW of Ende, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
+17 neue relevante Treffer. Stärkstes Signal: „M 4.7 - 54 km NNW of Ende, Indonesia“ aus USGS M4.5+ Earthquakes Past Hour (Score 15, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -111,6 +111,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region usa: Silicon Valley (+2.0); watchgraph region japan: Tokyo (+2.0); watchgraph region south_korea: Seoul (+2.0)
   - Kurz: Every few months, another story circulates about Vietnamese-origin engineers leaving Silicon Valley, Tokyo, or Seoul to come home. The framing is almost always the same: here is an underused pool of senior talent, and here is why your company should go get some. That framing skips the harder question. Attracting a returning engineer is the […] The post Vietnam’s returning engineers are high-quality talent. Keeping t…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Philip R. Lane: Interview with Le Temps** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260922~5f89d300ee.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-09-22T05:00:00+00:00`, fetched `2026-09-22T05:21:40+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Philip R. Lane: Interview with Le Temps
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **【独自】古書店で「謎の大量注文」相次ぐ……AI学習か 米国向け「日本の本 50トン」の輸出記録も（2026年9月22日掲載）｜日テレNEWS NNN** — Score 8, observation — [Quelle](https://news.ntv.co.jp/category/society/e48899c1ab1445f683929740ef2b3aa6)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
