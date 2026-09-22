@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-22T07:46:49+00:00",
+  "generated_at": "2026-09-22T07:55:03+00:00",
   "topics": {
     "general": [
       {
@@ -135,6 +135,13 @@
     ],
     "security": [
       {
+        "title": "[UPDATE] [mittel] OpenBao: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-22T07:51:31+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2343"
+      },
+      {
         "title": "[UPDATE] [hoch] Veeam Backup & Replication: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-22T07:41:31+00:00",
@@ -203,6 +210,13 @@
       }
     ],
     "github": [
+      {
+        "title": "tanteki — 業務のための文書をもっと端的に",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-21T23:10:19+00:00",
+        "relevance_score": 7,
+        "url": "https://iwasa-kosui.github.io/tanteki/"
+      },
       {
         "title": "Refreshed repository pull requests page generally available",
         "source": "GitHub Changelog Atom",

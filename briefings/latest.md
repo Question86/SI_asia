@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-22T07:46:49+00:00_
+_Generiert: 2026-09-22T07:55:03+00:00_
 
 ## Kurzlage
 
-24 neue relevante Treffer. Stärkstes Signal: „M 4.9 - Volcano Islands, Japan region“ aus USGS M4.5+ Earthquakes Past Hour (Score 18, risk).
+26 neue relevante Treffer. Stärkstes Signal: „M 4.9 - Volcano Islands, Japan region“ aus USGS M4.5+ Earthquakes Past Hour (Score 18, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -104,6 +104,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Philippines (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: DYFI? - V Time 2026-09-22 06:48:09 UTC 2026-09-22 06:48:09 UTC at epicenter Location 11.096°N 124.210°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [mittel] OpenBao: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2343)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-09-22T07:51:31+00:00`, fetched `2026-09-22T07:54:34+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in OpenBao ausnutzen, um seine Privilegien zu erhöhen, Sicherheitsmaßnahmen zu umgehen oder vertrauliche Informationen offenzulegen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [hoch] Veeam Backup & Replication: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1712)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-09-22T07:41:31+00:00`, fetched `2026-09-22T07:46:19+00:00`
@@ -170,14 +179,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 日本各地のオンライン古書店に対して、今年8月ごろから書籍の大量注文が相次いでいることがわかった。古書店を取材すると「1日100冊売れる」「売上が5倍になった日もある」と話しており、業界内では「生成AI（人工知能）の学習データを集める目的ではないか」という見方が広がっている。さらに追跡取材を続けると、日本...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **「Linuxデスクトップ元年」到来か。Debianが使えるGooglebook OS発表 - すまほん!!** — Score 5, observation — [Quelle](https://smhn.info/202609-googlebook-os-debian-linux-environment-launch)
+- **tanteki — 業務のための文書をもっと端的に** — Score 7, observation — [Quelle](https://iwasa-kosui.github.io/tanteki/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-21T17:11:26+00:00`, fetched `2026-09-22T04:08:44+00:00`
-  - Treffer: Hatena, hotentry
+  - Zeit: published `2026-09-21T23:10:19+00:00`, fetched `2026-09-22T07:54:34+00:00`
+  - Treffer: GitHub, Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: Googleは9月21日、Androidの技術基盤とChromeOSのデスクトップ基盤を組み合わせた「Googlebook OS」の詳細を発表し、このOSを搭載したノートPC「Googlebook」の予約受付を開始しました。 Linuxの開発環境を備えた、新たなノートPCの選択肢となりそうです。プリインストールされたTerminalアプリから、フルのDebian GNU/L...
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
+  - Kurz: 日本語の業務・技術文書のための Skill 業務のための文書を もっと端的に PRD、ADR、Design Doc、Runbook。 文書の種類ごとに、書くべき情報と書くべきではない情報が違います。 tanteki はその文書が本質的に述べたいことを見定めて、必要な情報だけを記述します。 ファイル取込 Design Doc1. 概要ファイル取込処理を非...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Refreshed repository pull requests page generally available** — Score 3, observation — [Quelle](https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available)
   - Quelle: GitHub Changelog Atom / `rss`

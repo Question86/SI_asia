@@ -172,6 +172,29 @@
     "id": "517fad8f233ee503f7a0"
   },
   {
+    "title": "[UPDATE] [mittel] OpenBao: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2343",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-22T07:51:31+00:00",
+    "fetched_at": "2026-09-22T07:54:34+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in OpenBao ausnutzen, um seine Privilegien zu erhöhen, Sicherheitsmaßnahmen zu umgehen oder vertrauliche Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7d67bb87e9e084cae3de"
+  },
+  {
     "title": "[UPDATE] [hoch] Veeam Backup & Replication: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1712",
     "source": "BSI CERT-Bund Security Advisories",
@@ -467,6 +490,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "6d01405ff696b85fe9ce"
+  },
+  {
+    "title": "tanteki — 業務のための文書をもっと端的に",
+    "url": "https://iwasa-kosui.github.io/tanteki/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-09-21T23:10:19+00:00",
+    "fetched_at": "2026-09-22T07:54:34+00:00",
+    "summary": "日本語の業務・技術文書のための Skill 業務のための文書を もっと端的に PRD、ADR、Design Doc、Runbook。 文書の種類ごとに、書くべき情報と書くべきではない情報が違います。 tanteki はその文書が本質的に述べたいことを見定めて、必要な情報だけを記述します。 ファイル取込 Design Doc1. 概要ファイル取込処理を非...",
+    "matched_keywords": [
+      "GitHub",
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8a019faefdfa00cd74e2"
   },
   {
     "title": "Startups should learn to leave bad markets faster",

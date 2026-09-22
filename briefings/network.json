@@ -1,55 +1,15 @@
 {
-  "generated_at": "2026-09-22T07:46:51+00:00",
+  "generated_at": "2026-09-22T07:55:05+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 24,
-    "clusters": 22,
+    "findings": 26,
+    "clusters": 23,
     "cross_source_confrmed": 0,
     "hot": 0,
-    "early_signals": 1,
+    "early_signals": 0,
     "dominance_penalized": 5
   },
   "clusters": [
-    {
-      "key": "title:singapore-metaoptics-eyes-expansion-potential-10m-warrant-facility",
-      "title": "Singapore’s MetaOptics eyes US expansion with potential US$10M warrant facility",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/singapores-metaoptics-eyes-us-expansion-with-potential-us10m-warrant-facility-20260922/"
-      ],
-      "finding_count": 1,
-      "max_score": 12,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 19.0,
-      "hot": false,
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 14.1,
-      "ranking_score": 19.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": true,
-      "early_signal_bonus": 5.5,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-09-22T07:19:03+00:00"
-    },
     {
       "key": "earthquake:japan:4.9",
       "title": "M 4.9 - Volcano Islands, Japan region",
@@ -69,7 +29,7 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 18.36,
+      "network_score": 18.32,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami",
@@ -77,13 +37,13 @@
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "raw_network_score": 20.7,
-      "ranking_score": 18.36,
+      "ranking_score": 18.32,
       "initial_reach_tier": "official",
       "source_reach_score": 4.0,
       "authority_bonus_capped": 2.4,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.96,
+      "baseline_bonus": 0.92,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -111,7 +71,7 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 18.28,
+      "network_score": 18.24,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami",
@@ -119,13 +79,13 @@
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "raw_network_score": 20.7,
-      "ranking_score": 18.28,
+      "ranking_score": 18.24,
       "initial_reach_tier": "official",
       "source_reach_score": 4.0,
       "authority_bonus_capped": 2.4,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.88,
+      "baseline_bonus": 0.84,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -136,7 +96,7 @@
     },
     {
       "key": "domain:wid.cert-bund.de",
-      "title": "[UPDATE] [hoch] Veeam Backup & Replication: Mehrere Schwachstellen",
+      "title": "[UPDATE] [mittel] OpenBao: Mehrere Schwachstellen",
       "sources": [
         "BSI CERT-Bund Security Advisories"
       ],
@@ -144,11 +104,12 @@
         "tier3_specialist"
       ],
       "urls": [
+        "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2343",
         "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1712"
       ],
-      "finding_count": 1,
+      "finding_count": 2,
       "max_score": 14,
-      "credibility_total": 1.05,
+      "credibility_total": 2.1,
       "cross_source_confirmed": false,
       "momentum_delta": 1,
       "momentum_status": "increasing",
@@ -156,7 +117,7 @@
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 19.1,
+      "raw_network_score": 21.2,
       "ranking_score": 18.0,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
@@ -293,6 +254,46 @@
       "first_seen_at": "2026-09-12T05:30:29+00:00"
     },
     {
+      "key": "title:singapore-metaoptics-eyes-expansion-potential-10m-warrant-facility",
+      "title": "Singapore’s MetaOptics eyes US expansion with potential US$10M warrant facility",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/singapores-metaoptics-eyes-us-expansion-with-potential-us10m-warrant-facility-20260922/"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 13.5,
+      "hot": false,
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 14.1,
+      "ranking_score": 13.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-22T07:19:03+00:00"
+    },
+    {
       "key": "domain:qiita.com",
       "title": "Jevはどこで使うべきか？ LLM・機械学習・ルールベースとの使い分け - Qiita",
       "sources": [
@@ -312,18 +313,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 12.77,
+      "network_score": 12.66,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 15.3,
-      "ranking_score": 12.77,
+      "ranking_score": 12.66,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 2.27,
+      "baseline_bonus": 2.16,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -445,6 +446,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-22T05:22:15+00:00"
+    },
+    {
+      "key": "domain:iwasa-kosui.github.io",
+      "title": "tanteki — 業務のための文書をもっと端的に",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://iwasa-kosui.github.io/tanteki/"
+      ],
+      "finding_count": 1,
+      "max_score": 7,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 11.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 12.1,
+      "ranking_score": 11.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-22T07:55:05+00:00"
     },
     {
       "key": "title:tacniq-raises-teach-machines-language-touch",
@@ -868,7 +907,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-22T07:46:52Z",
+    "generated_at": "2026-09-22T07:55:06Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
