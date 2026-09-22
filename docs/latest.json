@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-22T15:33:07+00:00",
-  "run_id": "2026-09-22T15:33:07+00:00",
+  "generated_at": "2026-09-22T15:43:09+00:00",
+  "run_id": "2026-09-22T15:43:09+00:00",
   "date": "2026-09-22",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 59
+      "configured_public_sources_only": 60
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,15 +19,51 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 59,
-    "displayed_findings": 59,
-    "high": 1,
+    "today_file_total": 60,
+    "displayed_findings": 60,
+    "high": 2,
     "medium": 18,
     "observe": 40,
     "source_errors": 0
   },
   "sections": {
     "high": [
+      {
+        "title": "Version 1.0: F5 BIG-IP APM: Aktive Ausnutzug einer Zero-Day Schwachstelle",
+        "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-289024-1032_bits.html",
+        "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+        "source_type": "rss",
+        "published_at": "2026-09-22T15:35:00+00:00",
+        "fetched_at": "2026-09-22T15:42:42+00:00",
+        "summary": "Version 1.0: F5 BIG-IP APM: Aktive Ausnutzug einer Zero-Day Schwachstelle",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Cyber-Sicherheitswarnung",
+          "Security",
+          "Watchgraph:cyber_active_exploitation"
+        ],
+        "relevance_score": 30,
+        "relevance_reason": "Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); recent (+1.0); watchgraph high-signal zero-day (+12.0); watchgraph modules cyber_active_exploitation (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Frühwarnsignal prüfen: Quelle, Region, betroffene Märkte/Stacks, AXI0M-Relevanz, Gegencheck, dann erst Handlung. Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "cyber_active_exploitation"
+        ],
+        "watchgraph_reasons": [
+          "cyber_active_exploitation: zero-day"
+        ],
+        "market_context": [
+          "CRWD",
+          "PANW",
+          "FTNT",
+          "ZS",
+          "OKTA",
+          "NET",
+          "S"
+        ],
+        "id": "973235b61b118e8272ea"
+      },
       {
         "title": "Version 1.0: F5 BIG-IP APM: Aktive Ausnutzug einer Zero-Day Schwachstelle",
         "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-289024-1032.html",
@@ -1472,6 +1508,42 @@
   "findings": [
     {
       "title": "Version 1.0: F5 BIG-IP APM: Aktive Ausnutzug einer Zero-Day Schwachstelle",
+      "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-289024-1032_bits.html",
+      "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+      "source_type": "rss",
+      "published_at": "2026-09-22T15:35:00+00:00",
+      "fetched_at": "2026-09-22T15:42:42+00:00",
+      "summary": "Version 1.0: F5 BIG-IP APM: Aktive Ausnutzug einer Zero-Day Schwachstelle",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Cyber-Sicherheitswarnung",
+        "Security",
+        "Watchgraph:cyber_active_exploitation"
+      ],
+      "relevance_score": 30,
+      "relevance_reason": "Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); recent (+1.0); watchgraph high-signal zero-day (+12.0); watchgraph modules cyber_active_exploitation (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Frühwarnsignal prüfen: Quelle, Region, betroffene Märkte/Stacks, AXI0M-Relevanz, Gegencheck, dann erst Handlung. Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
+      "watchgraph_reasons": [
+        "cyber_active_exploitation: zero-day"
+      ],
+      "market_context": [
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS",
+        "OKTA",
+        "NET",
+        "S"
+      ],
+      "id": "973235b61b118e8272ea"
+    },
+    {
+      "title": "Version 1.0: F5 BIG-IP APM: Aktive Ausnutzug einer Zero-Day Schwachstelle",
       "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-289024-1032.html",
       "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
       "source_type": "rss",
@@ -2909,11 +2981,11 @@
   "new_findings": [
     {
       "title": "Version 1.0: F5 BIG-IP APM: Aktive Ausnutzug einer Zero-Day Schwachstelle",
-      "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-289024-1032.html",
+      "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-289024-1032_bits.html",
       "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
       "source_type": "rss",
       "published_at": "2026-09-22T15:35:00+00:00",
-      "fetched_at": "2026-09-22T15:32:37+00:00",
+      "fetched_at": "2026-09-22T15:42:42+00:00",
       "summary": "Version 1.0: F5 BIG-IP APM: Aktive Ausnutzug einer Zero-Day Schwachstelle",
       "matched_keywords": [
         "BSI",
@@ -2922,8 +2994,8 @@
         "Security",
         "Watchgraph:cyber_active_exploitation"
       ],
-      "relevance_score": 28,
-      "relevance_reason": "Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); watchgraph high-signal zero-day (+12.0); watchgraph modules cyber_active_exploitation (+3.0)",
+      "relevance_score": 30,
+      "relevance_reason": "Security (+7.5); BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); recent (+1.0); watchgraph high-signal zero-day (+12.0); watchgraph modules cyber_active_exploitation (+3.0)",
       "risk_or_opportunity": "risk",
       "recommended_action": "Frühwarnsignal prüfen: Quelle, Region, betroffene Märkte/Stacks, AXI0M-Relevanz, Gegencheck, dann erst Handlung. Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [
@@ -2941,7 +3013,7 @@
         "NET",
         "S"
       ],
-      "id": "b1e8d450150013851030"
+      "id": "973235b61b118e8272ea"
     }
   ],
   "source_errors": [],
