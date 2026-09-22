@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-22T19:03:41+00:00_
+_Generiert: 2026-09-22T19:19:22+00:00_
 
 ## Kurzlage
 
-66 neue relevante Treffer. Stärkstes Signal: „Version 1.0: F5 BIG-IP APM: Aktive Ausnutzug einer Zero-Day Schwachstelle“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 30, risk).
+68 neue relevante Treffer. Stärkstes Signal: „Version 1.0: F5 BIG-IP APM: Aktive Ausnutzug einer Zero-Day Schwachstelle“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 30, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -45,10 +45,6 @@ _Generiert: 2026-09-22T19:03:41+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green flood alert in Malaysia
-- **GDACS: Green flood alert in Uganda** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104185)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green flood alert in Uganda
 - **GDACS: Green notification for tropical cyclone POLO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001325)
   - Quelle: GDACS
   - Zeit: ``
@@ -258,6 +254,15 @@ _Generiert: 2026-09-22T19:03:41+00:00_
   - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); founder (+2.0); recent (+1.0)
   - Kurz: Ask most founders why a deal stalled and they’ll say the same thing: “they wanted a better price.” It’s the most comfortable explanation in the room, because it points outward — at the market, at the competitor who undercut you, at a buyer who’s “just being cheap.” A common counter-argument is worth taking seriously: a […] The post Your price problem is a positioning problem wearing a discount request appeared first…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Security improvements for SSH** — Score 10, observation — [Quelle](https://github.blog/changelog/2026-09-22-security-improvements-for-ssh)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-09-22T14:11:47+00:00`, fetched `2026-09-22T19:18:53+00:00`
+  - Treffer: GitHub, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+7.5); GitHub (+2.0); recent (+1.0)
+  - Kurz: We’re removing several SSH algorithms, adding a new algorithm, and requiring larger RSA SSH keys to improve security. The changes are as follows: We’re removing the ability to use RSA… The post Security improvements for SSH appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.7 - 7 km WNW of La Gomera, Guatemala** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj58)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-22T12:19:06.640+00:00`, fetched `2026-09-22T12:21:27+00:00`
@@ -276,6 +281,15 @@ _Generiert: 2026-09-22T19:03:41+00:00_
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: はじめに 2026年9月、TypeSafe AIからJevという新しいAIモデルが公開されました。 JevはLLMのように文章を生成するモデルではなく、分類・判定・スコアリングなどの意思決定に特化したモデルです。TypeSafe AIはこの種類のモデルをSystem One Modelと呼んでいます。 この記事では、以下の4種類をどう使い分けるか整理し...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Introducing GPT-6 Sol and Luna** — Score 8, observation — [Quelle](https://openai.com/index/introducing-gpt-6-sol-and-luna)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-09-22T18:00:00+00:00`, fetched `2026-09-22T19:18:53+00:00`
+  - Treffer: OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5); recent (+1.0)
+  - Kurz: Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Philip R. Lane: Interview with Le Temps** — Score 8, observation — [Quelle](https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260922~5f89d300ee.en.html)
   - Quelle: ECB Press Releases Speeches Interviews / `rss`
   - Zeit: published `2026-09-22T05:00:00+00:00`, fetched `2026-09-22T05:21:40+00:00`
@@ -284,24 +298,6 @@ _Generiert: 2026-09-22T19:03:41+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Philip R. Lane: Interview with Le Temps
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **【独自】古書店で「謎の大量注文」相次ぐ……AI学習か 米国向け「日本の本 50トン」の輸出記録も（2026年9月22日掲載）｜日テレNEWS NNN** — Score 8, observation — [Quelle](https://news.ntv.co.jp/category/society/e48899c1ab1445f683929740ef2b3aa6)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-22T02:56:00+00:00`, fetched `2026-09-22T04:08:44+00:00`
-  - Treffer: APAC Trend Radar, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 日本各地のオンライン古書店に対して、今年8月ごろから書籍の大量注文が相次いでいることがわかった。古書店を取材すると「1日100冊売れる」「売上が5倍になった日もある」と話しており、業界内では「生成AI（人工知能）の学習データを集める目的ではないか」という見方が広がっている。さらに追跡取材を続けると、日本...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **思考の外注割合を増やし、理解は外注しない - Konifar's ZATSU** — Score 8, observation — [Quelle](https://konifar-zatsu.hatenadiary.jp/entry/2026/09/22/112134)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-22T02:43:17+00:00`, fetched `2026-09-22T11:30:03+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 「思考は外注できるが理解は外注できない」という AI の関わり方を端的に表したﾂｲｯﾄがある。 you can outsource your thinking but you cannot outsource your understanding you can outsource your thinking but you cannot outsource your understanding— kache (@yacineMTB) 2026年2月4日 Andrej Karpathy 氏も "ble...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
