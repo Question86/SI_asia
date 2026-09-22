@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-22T09:58:29+00:00",
+  "generated_at": "2026-09-22T10:21:46+00:00",
   "topics": {
     "general": [
       {
@@ -63,6 +63,13 @@
     ],
     "security": [
       {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (golang.org/x/text): Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-22T10:01:31+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3481"
+      },
+      {
         "title": "[UPDATE] [hoch] Cisco Secure Firewall Management Center: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-22T08:06:31+00:00",
@@ -89,6 +96,29 @@
         "published_at": "2026-09-22T07:52:00.000+00:00",
         "relevance_score": 11,
         "url": "https://www.heise.de/news/Sicherheitsupdates-Click2Shell-Luecke-zum-Kompromittieren-von-WordPress-Websites-11460973.html"
+      }
+    ],
+    "github": [
+      {
+        "title": "Deprecation notice: All-platform CodeQL bundle",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-09-22T09:21:03+00:00",
+        "relevance_score": 16,
+        "url": "https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle"
+      },
+      {
+        "title": "tanteki — 業務のための文書をもっと端的に",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-21T23:10:19+00:00",
+        "relevance_score": 7,
+        "url": "https://iwasa-kosui.github.io/tanteki/"
+      },
+      {
+        "title": "Refreshed repository pull requests page generally available",
+        "source": "GitHub Changelog Atom",
+        "published_at": "2026-09-22T01:25:53+00:00",
+        "relevance_score": 3,
+        "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available"
       }
     ],
     "ai": [
@@ -156,11 +186,11 @@
         "url": "https://e27.co/why-ai-literacy-is-becoming-a-business-necessity-not-a-competitive-advantage-20260920/"
       },
       {
-        "title": "Bonbon Mobility raises US$500K to digitise Vietnam’s car-care market",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-22T09:13:12+00:00",
+        "title": "America is in the wrong AI race with China",
+        "source": "Rest of World Global Tech Feed",
+        "published_at": "2026-09-22T10:00:00+00:00",
         "relevance_score": 7,
-        "url": "https://e27.co/bonbon-mobility-raises-us500k-to-digitise-vietnams-car-care-market-20260922/"
+        "url": "https://restofworld.org/2026/america-china-ai-race-trust/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
       }
     ],
     "geopolitics": [
@@ -242,22 +272,6 @@
         "published_at": "2026-09-22T04:00:59+00:00",
         "relevance_score": 4,
         "url": "https://e27.co/bitcoins-us87000-spike-real-breakout-or-a-us900-million-short-squeeze-20260922/"
-      }
-    ],
-    "github": [
-      {
-        "title": "tanteki — 業務のための文書をもっと端的に",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-21T23:10:19+00:00",
-        "relevance_score": 7,
-        "url": "https://iwasa-kosui.github.io/tanteki/"
-      },
-      {
-        "title": "Refreshed repository pull requests page generally available",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-09-22T01:25:53+00:00",
-        "relevance_score": 3,
-        "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available"
       }
     ]
   }

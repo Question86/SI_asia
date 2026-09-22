@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-22T09:58:29+00:00_
+_Generated: 2026-09-22T10:21:46+00:00_
 
 ## Status
 - status: `normal`
-- findings: `30`
+- findings: `33`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-09-22T09:58:29+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj3k
 - summary: Time 2026-09-22 05:18:24 UTC 2026-09-22 05:18:24 UTC at epicenter Location 23.133°N 142.437°E Depth 10.00 km (6.21 mi)
 
-### 3. [UPDATE] [hoch] Cisco Secure Firewall Management Center: Mehrere Schwachstellen
+### 3. [UPDATE] [mittel] Red Hat Enterprise Linux (golang.org/x/text): Schwachstelle ermöglicht Denial of Service
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-09-22T08:06:31+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3417
-- summary: Ein Angreifer kann mehrere Schwachstellen in Cisco Secure Firewall Management Center ausnutzen, um Sicherheitsmaßnahmen zu umgehen, beliebige Befehle als Root auszuführen, Berechtigungen auf Root zu erweitern, SQL-Injection durchzuführen, Anmeldedaten für Adm…
+- published: `2026-09-22T10:01:31+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3481
+- summary: Ein entfernter, anonymer Angreifer kann eine Schwachstelle in Red Hat Enterprise Linux ausnutzen, um einen Denial of Service Angriff durchzuführen.
 
-### 4. M 4.6 - 19 km ENE of Nailong, Philippines
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-09-22T07:11:17.331+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj3v
-- summary: DYFI? - V Time 2026-09-22 06:48:09 UTC 2026-09-22 06:48:09 UTC at epicenter Location 11.096°N 124.210°E Depth 10.00 km (6.21 mi)
+### 4. Deprecation notice: All-platform CodeQL bundle
+- source: GitHub Changelog Atom
+- score: `16`
+- published: `2026-09-22T09:21:03+00:00`
+- url: https://github.blog/changelog/2026-09-22-deprecation-notice-all-platform-codeql-bundle
+- summary: Starting with CodeQL CLI 2.27.0, the all-platform CodeQL bundle (i.e., codeql-bundle.tar.gz and codeql-bundle.tar.zst), which includes the binaries for all supported platforms up to this release, is marked as deprecated. In… The post Deprecation notice: All-p…
 
 ### 5. The compliance paradox: More checks, more fraud
 - source: e27 Asia Startup and Tech Feed
