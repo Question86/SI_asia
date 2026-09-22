@@ -1,29 +1,85 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-22T08:19:24Z",
+  "generated_at": "2026-09-22T08:43:52Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 1,
-      "strong": 13,
-      "watch": 12,
-      "quiet": 14
-    },
-    "bands_after_gate_recheck": {
+      "krass": 2,
       "strong": 14,
       "watch": 12,
-      "quiet": 14
+      "quiet": 12
+    },
+    "bands_after_gate_recheck": {
+      "krass": 1,
+      "strong": 15,
+      "watch": 12,
+      "quiet": 12
     }
   },
   "top_dynamics": [
+    {
+      "title": "[UPDATE] [hoch] Cisco Secure Firewall Management Center: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3417",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-22T08:06:31+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security",
+        "infra"
+      ],
+      "dynamics_score": 33.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: firewall, root",
+        "security high-signal: firewall, root"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Cisco Secure Firewall Management Center ausnutzen, um Sicherheitsmaßnahmen zu umgehen, beliebige Befehle als Root auszuführen, Berechtigungen auf Root zu erweitern, SQL-Injection durchzuführen, Anmeldedaten für Administratorsitzungen zu erlangen, sensible Daten zu manipulie…"
+    },
+    {
+      "title": "[UPDATE] [hoch] Cisco Secure Firewall Management Center: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3417",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-28T14:08:37+00:00",
+      "age_days": 24.77,
+      "topics": [
+        "security",
+        "infra"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "high terms: rce, firewall",
+        "security high-signal: rce, firewall",
+        "aging penalty -1.3 for 24.8d old signal",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": ""
+    },
     {
       "title": "[UPDATE] [mittel] OpenBao: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2343",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-22T07:51:31+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -47,7 +103,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1712",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-22T07:41:31+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -71,7 +127,7 @@
       "url": "https://e27.co/singapores-metaoptics-eyes-us-expansion-with-potential-us10m-warrant-facility-20260922/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T07:19:03+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -96,7 +152,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj3s",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-22T06:30:53.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -121,7 +177,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj3k",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-22T05:38:04.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -146,7 +202,7 @@
       "url": "https://e27.co/supercell-backs-hyperbond-studio-as-call-me-sensei-bets-on-ai-romance-for-language-learning-20260922/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T05:00:40+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -172,7 +228,7 @@
       "url": "https://e27.co/supercell-backs-hyperbond-studio-as-call-me-sensei-bets-on-ai-romance-for-language-learning-20260922/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T05:22:15+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -199,7 +255,7 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Click2Shell-Luecke-zum-Kompromittieren-von-WordPress-Websites-11460973.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-22T07:52:00.000+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "security",
         "macro"
@@ -224,7 +280,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj37",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-22T04:04:43.040+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -249,7 +305,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj37",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T05:30:29+00:00",
-      "age_days": 10.12,
+      "age_days": 10.13,
       "topics": [
         "general"
       ],
@@ -273,7 +329,7 @@
       "url": "https://e27.co/the-compliance-paradox-more-checks-more-fraud-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T01:14:13+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -297,7 +353,7 @@
       "url": "https://e27.co/startups-should-learn-to-leave-bad-markets-faster-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T04:09:14+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "macro"
       ],
@@ -323,7 +379,7 @@
       "url": "https://e27.co/your-price-problem-is-a-positioning-problem-wearing-a-discount-request-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T03:13:15+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -347,7 +403,7 @@
       "url": "https://e27.co/vietnams-returning-engineers-are-high-quality-talent-keeping-them-is-the-real-problem-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T02:01:34+00:00",
-      "age_days": 0.26,
+      "age_days": 0.28,
       "topics": [
         "general"
       ],
@@ -367,53 +423,27 @@
       "summary": ""
     },
     {
-      "title": "[UPDATE] [mittel] OpenBao: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2343",
-      "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 24.76,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 19.9,
-      "raw_band": "strong",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "aging penalty -1.3 for 24.8d old signal",
-        "stale single-source cap: max watch after 14d without fresh resonance"
-      ],
-      "summary": ""
-    },
-    {
       "title": "M 4.9 - Volcano Islands, Japan region",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj3s",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-06-19T20:12:42+00:00",
-      "age_days": 94.5,
+      "age_days": 94.52,
       "topics": [
         "disaster"
       ],
-      "dynamics_score": 19.32,
+      "dynamics_score": 19.21,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 2.2,
+      "baseline_z_hint": 2.1,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 2.20",
+        "baseline z_hint 2.10",
         "aging penalty -8.0 for 94.5d old signal"
       ],
       "summary": ""
@@ -423,23 +453,23 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj3k",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-06-18T20:05:28+00:00",
-      "age_days": 95.51,
+      "age_days": 95.53,
       "topics": [
         "disaster"
       ],
-      "dynamics_score": 19.1,
+      "dynamics_score": 18.99,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 2.0,
+      "baseline_z_hint": 1.9,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 2.00",
+        "baseline z_hint 1.90",
         "aging penalty -8.0 for 95.5d old signal"
       ],
       "summary": ""
@@ -449,7 +479,7 @@
       "url": "https://e27.co/bitcoins-us87000-spike-real-breakout-or-a-us900-million-short-squeeze-20260922/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T04:09:14+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -470,37 +500,11 @@
       "summary": ""
     },
     {
-      "title": "Sicherheitsupdates: Click2Shell-Lücke zum Kompromittieren von WordPress-Websites",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Click2Shell-Luecke-zum-Kompromittieren-von-WordPress-Websites-11460973.html",
-      "source": "heise Security Alerts",
-      "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 95.03,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 17.48,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 2.71,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 2.71",
-        "aging penalty -8.0 for 95.0d old signal"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Singapore’s MetaOptics eyes US expansion with potential US$10M warrant facility",
       "url": "https://e27.co/singapores-metaoptics-eyes-us-expansion-with-potential-us10m-warrant-facility-20260922/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T07:00:50+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -524,7 +528,7 @@
       "url": "https://e27.co/startups-should-learn-to-leave-bad-markets-faster-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T04:00:10+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "ai",
         "macro"
@@ -548,11 +552,35 @@
       "summary": "Startups are constantly encouraged to expand. Enter new countries, test new segments, build distribution partnerships, hire locally and capture market share before someone else does. Much less attention is given to the opposite decision: leaving a market that looked promising but is not working. That decision is often…"
     },
     {
+      "title": "Fukuoka’s RAMEN TECH tests Japan’s startup pitch to Southeast Asia",
+      "url": "https://e27.co/fukuokas-ramen-tech-tests-japans-startup-pitch-to-southeast-asia-20260922/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-22T08:31:54+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 15.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 4.6 - 19 km ENE of Nailong, Philippines",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj3v",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-22T07:11:17.331+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "disaster"
@@ -580,7 +608,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj3v",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-22T07:19:03+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -606,7 +634,7 @@
       "url": "https://smhn.info/202609-googlebook-os-debian-linux-environment-launch",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-22T04:09:14+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -630,7 +658,7 @@
       "url": "https://forest.watch.impress.co.jp/docs/news/2142530.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-22T01:14:13+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "general"
       ],
@@ -654,7 +682,7 @@
       "url": "https://e27.co/the-compliance-paradox-more-checks-more-fraud-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T01:00:12+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "general"
       ],
@@ -674,11 +702,36 @@
       "summary": "The teller does not sound accusatory. The tone is worse than that. It is procedural. A man in his thirties slides his phone across the counter and points to the screen, a transfer that never arrived, a balance that will not move. The teller looks past the story and into the system. The account is […] The post The comp…"
     },
     {
+      "title": "Sicherheitsupdates: Click2Shell-Lücke zum Kompromittieren von WordPress-Websites",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Click2Shell-Luecke-zum-Kompromittieren-von-WordPress-Websites-11460973.html",
+      "source": "heise Security Alerts",
+      "published_at": "2026-06-19T07:39:37+00:00",
+      "age_days": 95.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "aging penalty -8.0 for 95.0d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Refreshed repository pull requests page generally available",
       "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-09-22T01:25:53+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -704,7 +757,7 @@
       "url": "https://e27.co/tacniq-ai-raises-us1-5m-to-teach-machines-the-language-of-touch-20260922/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T05:33:48+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -730,7 +783,7 @@
       "url": "https://e27.co/why-asias-physical-ai-boom-will-be-decided-at-the-camera-not-the-model-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T03:33:01+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "ai"
       ],
@@ -756,7 +809,7 @@
       "url": "https://news.ntv.co.jp/category/society/e48899c1ab1445f683929740ef2b3aa6",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-22T04:09:14+00:00",
-      "age_days": 0.17,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -782,7 +835,7 @@
       "url": "https://e27.co/ai-lets-outsiders-build-but-the-connected-still-have-an-advantage-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T02:30:48+00:00",
-      "age_days": 0.24,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -808,7 +861,7 @@
       "url": "https://e27.co/why-ai-literacy-is-becoming-a-business-necessity-not-a-competitive-advantage-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T01:38:06+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -834,7 +887,7 @@
       "url": "https://e27.co/bitcoins-us87000-spike-real-breakout-or-a-us900-million-short-squeeze-20260922/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T04:00:59+00:00",
-      "age_days": 0.18,
+      "age_days": 0.2,
       "topics": [
         "macro"
       ],
@@ -858,7 +911,7 @@
       "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260922~5f89d300ee.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-09-22T05:00:00+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "macro"
       ],
@@ -878,39 +931,11 @@
       "summary": "Philip R. Lane: Interview with Le Temps"
     },
     {
-      "title": "Jevはどこで使うべきか？ LLM・機械学習・ルールベースとの使い分け - Qiita",
-      "url": "https://qiita.com/Isaka-code/items/8944ef8b521517f92da0",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 95.26,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 7.64,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 5.13,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 5.13",
-        "single-source AI hype brake -8.0",
-        "aging penalty -8.0 for 95.3d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Philip R. Lane: Interview with Le Temps",
       "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260922~5f89d300ee.en.html",
       "source": "ECB Press Releases Speeches Interviews",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 95.74,
+      "age_days": 95.76,
       "topics": [
         "general"
       ],
@@ -926,7 +951,35 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 95.7d old signal"
+        "aging penalty -8.0 for 95.8d old signal"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Jevはどこで使うべきか？ LLM・機械学習・ルールベースとの使い分け - Qiita",
+      "url": "https://qiita.com/Isaka-code/items/8944ef8b521517f92da0",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T01:58:32+00:00",
+      "age_days": 95.28,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 7.34,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 4.86,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 4.86",
+        "single-source AI hype brake -8.0",
+        "aging penalty -8.0 for 95.3d old signal",
+        "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
     },
@@ -935,7 +988,7 @@
       "url": "https://qiita.com/Isaka-code/items/8944ef8b521517f92da0",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-21T03:47:18+00:00",
-      "age_days": 1.19,
+      "age_days": 1.21,
       "topics": [
         "ai"
       ],
@@ -957,79 +1010,31 @@
       "summary": "はじめに 2026年9月、TypeSafe AIからJevという新しいAIモデルが公開されました。 JevはLLMのように文章を生成するモデルではなく、分類・判定・スコアリングなどの意思決定に特化したモデルです。TypeSafe AIはこの種類のモデルをSystem One Modelと呼んでいます。 この記事では、以下の4種類をどう使い分けるか整理し..."
     },
     {
-      "title": "【独自】古書店で「謎の大量注文」相次ぐ……AI学習か 米国向け「日本の本 50トン」の輸出記録も（2026年9月22日掲載）｜日テレNEWS NNN",
-      "url": "https://news.ntv.co.jp/category/society/e48899c1ab1445f683929740ef2b3aa6",
+      "title": "tanteki — 業務のための文書をもっと端的に",
+      "url": "https://iwasa-kosui.github.io/tanteki/",
       "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-22T02:56:00+00:00",
-      "age_days": 0.22,
+      "published_at": "2026-09-22T07:55:05+00:00",
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 5.0,
+      "dynamics_score": 5.5,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 0,
+      "momentum_delta": 2,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "high terms: 10",
+        "momentum delta +2",
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],
-      "summary": "日本各地のオンライン古書店に対して、今年8月ごろから書籍の大量注文が相次いでいることがわかった。古書店を取材すると「1日100冊売れる」「売上が5倍になった日もある」と話しており、業界内では「生成AI（人工知能）の学習データを集める目的ではないか」という見方が広がっている。さらに追跡取材を続けると、日本..."
-    },
-    {
-      "title": "「Linuxデスクトップ元年」到来か。Debianが使えるGooglebook OS発表 - すまほん!!",
-      "url": "https://smhn.info/202609-googlebook-os-debian-linux-environment-launch",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-21T17:11:26+00:00",
-      "age_days": 0.63,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "Googleは9月21日、Androidの技術基盤とChromeOSのデスクトップ基盤を組み合わせた「Googlebook OS」の詳細を発表し、このOSを搭載したノートPC「Googlebook」の予約受付を開始しました。 Linuxの開発環境を備えた、新たなノートPCの選択肢となりそうです。プリインストールされたTerminalアプリから、フルのDebian GNU/L..."
-    },
-    {
-      "title": "「Excel」で貼り付けが“黙って”失敗する不具合、原因は9月の月例更新／一部バージョンで修正が進む",
-      "url": "https://forest.watch.impress.co.jp/docs/news/2142530.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-21T08:43:35+00:00",
-      "age_days": 0.98,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "「Excel」で貼り付けが“黙って”失敗する不具合、原因は9月の月例更新／一部バージョンで修正が進む"
+      "summary": ""
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] OpenBao: Mehrere Schwachstellen” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Cisco Secure Firewall Management Center: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
 }

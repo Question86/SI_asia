@@ -1,18 +1,38 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-22T08:19:24Z_
+_Generated: 2026-09-22T08:43:52Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] OpenBao: Mehrere Schwachstellen” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.
+Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Cisco Secure Firewall Management Center: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.
 
 ## Top Dynamics
+
+### [UPDATE] [hoch] Cisco Secure Firewall Management Center: Mehrere Schwachstellen
+
+- Band: `krass` (raw `krass`)
+- Dynamics score: `33.0`
+- Published: `2026-09-22T08:06:31+00:00` / age_days `0.03`
+- Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: high terms: firewall, root, security high-signal: firewall, root
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3417
+
+### [UPDATE] [hoch] Cisco Secure Firewall Management Center: Mehrere Schwachstellen
+
+- Band: `strong` (raw `extreme`)
+- Dynamics score: `24.9`
+- Published: `2026-08-28T14:08:37+00:00` / age_days `24.77`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: momentum delta +3, high terms: rce, firewall, security high-signal: rce, firewall, aging penalty -1.3 for 24.8d old signal, extreme gate: needs multi-source high-signal, official security, or identity relevance
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3417
 
 ### [UPDATE] [mittel] OpenBao: Mehrere Schwachstellen
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-22T07:51:31+00:00` / age_days `0.02`
+- Published: `2026-09-22T07:51:31+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory
@@ -22,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] OpenBao: Mehrere Schwa
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-22T07:41:31+00:00` / age_days `0.03`
+- Published: `2026-09-22T07:41:31+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cert-bund, bsi, security, advisory
@@ -32,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] OpenBao: Mehrere Schwa
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-22T07:19:03+00:00` / age_days `0.04`
+- Published: `2026-09-22T07:19:03+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, high terms: 10
@@ -42,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] OpenBao: Mehrere Schwa
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-22T06:30:53.040+00:00` / age_days `0.08`
+- Published: `2026-09-22T06:30:53.040+00:00` / age_days `0.09`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -52,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] OpenBao: Mehrere Schwa
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-22T05:38:04.040+00:00` / age_days `0.11`
+- Published: `2026-09-22T05:38:04.040+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -62,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] OpenBao: Mehrere Schwa
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-22T05:00:40+00:00` / age_days `0.14`
+- Published: `2026-09-22T05:00:40+00:00` / age_days `0.16`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -72,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] OpenBao: Mehrere Schwa
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-22T05:22:15+00:00` / age_days `0.12`
+- Published: `2026-09-22T05:22:15+00:00` / age_days `0.14`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -82,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] OpenBao: Mehrere Schwa
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-22T07:52:00.000+00:00` / age_days `0.02`
+- Published: `2026-09-22T07:52:00.000+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: bsi, security
@@ -92,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] OpenBao: Mehrere Schwa
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-22T04:04:43.040+00:00` / age_days `0.18`
+- Published: `2026-09-22T04:04:43.040+00:00` / age_days `0.19`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -102,30 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] OpenBao: Mehrere Schwa
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.5`
-- Published: `2026-09-12T05:30:29+00:00` / age_days `10.12`
+- Published: `2026-09-12T05:30:29+00:00` / age_days `10.13`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj37
-
-### The compliance paradox: More checks, more fraud
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `22.0`
-- Published: `2026-09-22T01:14:13+00:00` / age_days `0.3`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3
-- Quelle: https://e27.co/the-compliance-paradox-more-checks-more-fraud-20260920/
-
-### Startups should learn to leave bad markets faster
-
-- Band: `strong` (raw `strong`)
-- Dynamics score: `22.0`
-- Published: `2026-09-22T04:09:14+00:00` / age_days `0.17`
-- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit
-- Quelle: https://e27.co/startups-should-learn-to-leave-bad-markets-faster-20260921/
 
 END OF DOCUMENT

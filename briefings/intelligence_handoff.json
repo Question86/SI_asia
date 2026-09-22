@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-22T08:19:24Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [mittel] OpenBao: Mehrere Schwachstellen” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
+  "generated_at": "2026-09-22T08:43:52Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Cisco Secure Firewall Management Center: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,66 @@
   ],
   "top_dynamics": [
     {
+      "title": "[UPDATE] [hoch] Cisco Secure Firewall Management Center: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3417",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-22T08:06:31+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "security",
+        "infra"
+      ],
+      "dynamics_score": 33.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: firewall, root",
+        "security high-signal: firewall, root"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Cisco Secure Firewall Management Center ausnutzen, um Sicherheitsmaßnahmen zu umgehen, beliebige Befehle als Root auszuführen, Berechtigungen auf Root zu erweitern, SQL-Injection durchzuführen, Anmeldedaten für Administratorsitzungen zu erlangen, sensible Daten zu manipulie…"
+    },
+    {
+      "title": "[UPDATE] [hoch] Cisco Secure Firewall Management Center: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3417",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-08-28T14:08:37+00:00",
+      "age_days": 24.77,
+      "topics": [
+        "security",
+        "infra"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "high terms: rce, firewall",
+        "security high-signal: rce, firewall",
+        "aging penalty -1.3 for 24.8d old signal",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": ""
+    },
+    {
       "title": "[UPDATE] [mittel] OpenBao: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2343",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-22T07:51:31+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -39,7 +94,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1712",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-22T07:41:31+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "security"
       ],
@@ -63,7 +118,7 @@
       "url": "https://e27.co/singapores-metaoptics-eyes-us-expansion-with-potential-us10m-warrant-facility-20260922/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T07:19:03+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "general"
       ],
@@ -88,7 +143,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj3s",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-22T06:30:53.040+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "disaster"
       ],
@@ -113,7 +168,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj3k",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-22T05:38:04.040+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "disaster"
       ],
@@ -138,7 +193,7 @@
       "url": "https://e27.co/supercell-backs-hyperbond-studio-as-call-me-sensei-bets-on-ai-romance-for-language-learning-20260922/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T05:00:40+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -164,7 +219,7 @@
       "url": "https://e27.co/supercell-backs-hyperbond-studio-as-call-me-sensei-bets-on-ai-romance-for-language-learning-20260922/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T05:22:15+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -191,7 +246,7 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Click2Shell-Luecke-zum-Kompromittieren-von-WordPress-Websites-11460973.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-22T07:52:00.000+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "security",
         "macro"
@@ -216,7 +271,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj37",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-22T04:04:43.040+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "disaster"
       ],
@@ -241,7 +296,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj37",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T05:30:29+00:00",
-      "age_days": 10.12,
+      "age_days": 10.13,
       "topics": [
         "general"
       ],
@@ -259,56 +314,6 @@
         "momentum delta +3"
       ],
       "summary": ""
-    },
-    {
-      "title": "The compliance paradox: More checks, more fraud",
-      "url": "https://e27.co/the-compliance-paradox-more-checks-more-fraud-20260920/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-22T01:14:13+00:00",
-      "age_days": 0.3,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 22.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Startups should learn to leave bad markets faster",
-      "url": "https://e27.co/startups-should-learn-to-leave-bad-markets-faster-20260921/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-22T04:09:14+00:00",
-      "age_days": 0.17,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 22.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "AXI0M/User-Yps identity hit",
-        "identity recheck: no AXI0M/User-Yps phrase hit"
-      ],
-      "summary": ""
     }
   ],
   "read_order": [
@@ -320,7 +325,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "strong": 12
+      "krass": 1,
+      "strong": 11
     }
   }
 }
