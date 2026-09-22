@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-22T14:19:55+00:00_
+_Generiert: 2026-09-22T14:34:19+00:00_
 
 ## Kurzlage
 
-50 neue relevante Treffer. Stärkstes Signal: „M 4.9 - Volcano Islands, Japan region“ aus USGS M4.5+ Earthquakes Past Hour (Score 18, risk).
+53 neue relevante Treffer. Stärkstes Signal: „M 4.9 - Volcano Islands, Japan region“ aus USGS M4.5+ Earthquakes Past Hour (Score 18, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -87,6 +87,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Reputationsrisiko (+8.8); recent (+1.0)
   - Kurz: The teller does not sound accusatory. The tone is worse than that. It is procedural. A man in his thirties slides his phone across the counter and points to the screen, a transfer that never arrived, a balance that will not move. The teller looks past the story and into the system. The account is […] The post The compliance paradox: More checks, more fraud appeared first on e27 .
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Jefferson, Discount Window Modernization and Treasury Market Functioning** — Score 12, opportunity — [Quelle](https://www.federalreserve.gov/newsevents/speech/jefferson20260922a.htm)
+  - Quelle: Federal Reserve Speeches and Testimony / `rss`
+  - Zeit: published `2026-09-22T14:20:00+00:00`, fetched `2026-09-22T14:33:31+00:00`
+  - Treffer: Macro/Policy, speech, testimony
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: New York, Federal Reserve (+2.0)
+  - Kurz: Speech At the 2026 U.S. Treasury Market Conference, Federal Reserve Bank of New York, New York, New York
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Singapore’s MetaOptics eyes US expansion with potential US$10M warrant facility** — Score 12, observation — [Quelle](https://e27.co/singapores-metaoptics-eyes-us-expansion-with-potential-us10m-warrant-facility-20260922/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-22T07:00:50+00:00`, fetched `2026-09-22T07:18:27+00:00`
@@ -195,14 +204,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0)
   - Kurz: Remarks by Mr José Luis Escrivá, Governor of the Bank of Spain, at the conference “The Spanish Survey of Household Finances (EFF): more than 20 years of research experience and the way forward”, organised by the Bank of Spain and the Center for Monetary and Financial Studies (CEMFI), Madrid, 4 September 2026.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Refreshed repository pull requests page generally available** — Score 3, observation — [Quelle](https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-09-22T01:25:53+00:00`, fetched `2026-09-22T02:30:17+00:00`
-  - Treffer: GitHub
+- **Statement - base rate of the National Bank of Kazakhstan** — Score 6, observation — [Quelle](https://www.bis.org/speeches/20260922-statement-base-rate-national-bank-kazakhstan)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-09-22T00:00:00+00:00`, fetched `2026-09-22T14:33:31+00:00`
+  - Treffer: Macro/Policy
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: GitHub (+2.0); recent (+1.0)
-  - Kurz: The new repository pull requests page is now generally available to all GitHub users. Highlights The new page makes it easier to find and act on pull requests in a… The post Refreshed repository pull requests page generally available appeared first on The GitHub Blog .
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0)
+  - Kurz: Statement by Mr Timur M Suleimenov, Governor of the National Bank of Kazakhstan, on the base rate of the National Bank of Kazakhstan, Astana, 4 September 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
@@ -213,3 +222,7 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `openai_news_rss` (rss): HTTPSConnectionPool(host='openai.com', port=443): Read timed out. (read timeout=8)
