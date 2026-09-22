@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-22T08:57:34+00:00",
-  "run_id": "2026-09-22T08:57:34+00:00",
+  "generated_at": "2026-09-22T09:17:31+00:00",
+  "run_id": "2026-09-22T09:17:31+00:00",
   "date": "2026-09-22",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 29
+      "configured_public_sources_only": 30
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 29,
-    "displayed_findings": 29,
+    "new_relevant_findings": 1,
+    "today_file_total": 30,
+    "displayed_findings": 30,
     "high": 0,
     "medium": 7,
-    "observe": 22,
+    "observe": 23,
     "source_errors": 0
   },
   "sections": {
@@ -588,6 +588,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "6d01405ff696b85fe9ce"
+      },
+      {
+        "title": "Bonbon Mobility raises US$500K to digitise Vietnam’s car-care market",
+        "url": "https://e27.co/bonbon-mobility-raises-us500k-to-digitise-vietnams-car-care-market-20260922/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-22T09:13:12+00:00",
+        "fetched_at": "2026-09-22T09:17:00+00:00",
+        "summary": "Vietnam’s car-care market is large, busy and still highly fragmented. For many car owners, booking a wash, detailing job or routine maintenance service remains a matter of phone calls, word-of-mouth recommendations and uneven service standards. Bonbon Mobility wants to put a digital layer over that experience. The Ho Chi Minh City-based startup has entered a […] The post Bonbon Mobility raises US$500K to digitise Vi…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a03eed06e412621b53b6"
       },
       {
         "title": "tanteki — 業務のための文書をもっと端的に",
@@ -1317,6 +1337,26 @@
       "id": "6d01405ff696b85fe9ce"
     },
     {
+      "title": "Bonbon Mobility raises US$500K to digitise Vietnam’s car-care market",
+      "url": "https://e27.co/bonbon-mobility-raises-us500k-to-digitise-vietnams-car-care-market-20260922/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-22T09:13:12+00:00",
+      "fetched_at": "2026-09-22T09:17:00+00:00",
+      "summary": "Vietnam’s car-care market is large, busy and still highly fragmented. For many car owners, booking a wash, detailing job or routine maintenance service remains a matter of phone calls, word-of-mouth recommendations and uneven service standards. Bonbon Mobility wants to put a digital layer over that experience. The Ho Chi Minh City-based startup has entered a […] The post Bonbon Mobility raises US$500K to digitise Vi…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a03eed06e412621b53b6"
+    },
+    {
       "title": "tanteki — 業務のための文書をもっと端的に",
       "url": "https://iwasa-kosui.github.io/tanteki/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1483,7 +1523,28 @@
       "id": "ddb70832220fd11ba6b2"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Bonbon Mobility raises US$500K to digitise Vietnam’s car-care market",
+      "url": "https://e27.co/bonbon-mobility-raises-us500k-to-digitise-vietnams-car-care-market-20260922/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-22T09:13:12+00:00",
+      "fetched_at": "2026-09-22T09:17:00+00:00",
+      "summary": "Vietnam’s car-care market is large, busy and still highly fragmented. For many car owners, booking a wash, detailing job or routine maintenance service remains a matter of phone calls, word-of-mouth recommendations and uneven service standards. Bonbon Mobility wants to put a digital layer over that experience. The Ho Chi Minh City-based startup has entered a […] The post Bonbon Mobility raises US$500K to digitise Vi…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Vietnam (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a03eed06e412621b53b6"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
