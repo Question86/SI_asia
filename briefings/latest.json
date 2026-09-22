@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-22T21:53:38+00:00",
-  "run_id": "2026-09-22T21:53:38+00:00",
+  "generated_at": "2026-09-22T22:00:37+00:00",
+  "run_id": "2026-09-22T22:00:37+00:00",
   "date": "2026-09-22",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 73,
     "displayed_findings": 73,
     "high": 2,
@@ -3614,29 +3614,7 @@
       "id": "ddb70832220fd11ba6b2"
     }
   ],
-  "new_findings": [
-    {
-      "title": "コロンビアで乗ったUberのおっちゃん「日本人は人生を良くしようとしすぎ」.…幸せって問題がない状態じゃなくて、問題があっても機嫌よくいられること",
-      "url": "https://posfie.com/@Count_Down_000/p/GX0uIFx",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-21T02:22:29+00:00",
-      "fetched_at": "2026-09-22T21:53:07+00:00",
-      "summary": "旅人KAD @kad4ani コロンビアで乗ったUberのおっちゃんが「日本人は人生を良くしようとしすぎ」「こっちは渋滞する、雨降る、予定ズレる、でもコーヒー飲んで笑う」「幸せって問題がない状態じゃなくて、問題があっても機嫌よくいられること」と言っていて、ボゴタの大渋滞の中でめちゃくちゃ人生の答え出てた。￼ 2026-0...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "cf17c60934ec4729c672"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
