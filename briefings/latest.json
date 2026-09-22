@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-22T18:46:12+00:00",
-  "run_id": "2026-09-22T18:46:12+00:00",
+  "generated_at": "2026-09-22T18:54:38+00:00",
+  "run_id": "2026-09-22T18:54:38+00:00",
   "date": "2026-09-22",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 65,
     "displayed_findings": 65,
     "high": 2,
@@ -3218,29 +3218,7 @@
       "id": "ddb70832220fd11ba6b2"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Gleich noch ein Sicherheitsupdate für WordPress",
-      "url": "https://www.heise.de/news/Gleich-noch-ein-Sicherheitsupdate-fuer-WordPress-11462385.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-09-22T18:29:00.000+00:00",
-      "fetched_at": "2026-09-22T18:45:46+00:00",
-      "summary": "Angreifer können WordPress dazu bringen, nicht vorgesehene .php-Dateien aufzurufen. Das kann zur Ausführung von Code führen.",
-      "matched_keywords": [
-        "Security",
-        "Webentwicklung"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Security (+6.0); Webentwicklung (+3.8); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7e981efb7448bd10e479"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
