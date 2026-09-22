@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-22T14:46:45+00:00_
+_Generiert: 2026-09-22T14:55:08+00:00_
 
 ## Kurzlage
 
-56 neue relevante Treffer. Stärkstes Signal: „M 4.9 - Volcano Islands, Japan region“ aus USGS M4.5+ Earthquakes Past Hour (Score 18, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+56 neue relevante Treffer. Stärkstes Signal: „M 4.9 - Volcano Islands, Japan region“ aus USGS M4.5+ Earthquakes Past Hour (Score 18, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -295,7 +295,3 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
-
-## Quellenfehler
-
-- `google_trends_japan_hot` (rss): HTTPSConnectionPool(host='trends.google.co.jp', port=443): Read timed out. (read timeout=8)
