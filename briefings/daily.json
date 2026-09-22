@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T16:53:39+00:00",
+  "generated_at": "2026-09-22T17:01:22+00:00",
   "today_file_total": 62,
   "current_clusters": [
     {
@@ -283,31 +283,6 @@
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
-      "key": "domain:cert.europa.eu",
-      "title": "2026-013: Critical Vulnerability in F5 BIG-IP APM",
-      "sources": [
-        "CERT-EU Security Advisories"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://cert.europa.eu/publications/security-advisories/2026-013/"
-      ],
-      "finding_count": 1,
-      "max_score": 12,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 17.1,
-      "hot": false,
-      "watchgraph_modules": [
-        "cyber_active_exploitation"
-      ],
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
       "key": "domain:qiita.com",
       "title": "Jevはどこで使うべきか？ LLM・機械学習・ルールベースとの使い分け - Qiita",
       "sources": [
@@ -353,6 +328,31 @@
       "network_score": 15.1,
       "hot": false,
       "watchgraph_modules": [],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "domain:cert.europa.eu",
+      "title": "2026-013: Critical Vulnerability in F5 BIG-IP APM",
+      "sources": [
+        "CERT-EU Security Advisories"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://cert.europa.eu/publications/security-advisories/2026-013/"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 14.1,
+      "hot": false,
+      "watchgraph_modules": [
+        "cyber_active_exploitation"
+      ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
     },
     {
