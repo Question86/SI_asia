@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-22T10:22:11+00:00",
+  "generated_at": "2026-09-22T10:34:43+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -105,7 +105,7 @@
       "p90_usd": 1136000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-22T07:19:03+00:00",
-      "last_seen_at": "2026-09-22T10:21:49+00:00",
+      "last_seen_at": "2026-09-22T10:34:21+00:00",
       "status": "active"
     },
     {
@@ -877,7 +877,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-06T05:39:36+00:00",
-      "last_seen_at": "2026-09-22T10:21:49+00:00",
+      "last_seen_at": "2026-09-22T10:34:21+00:00",
       "status": "active"
     },
     {
@@ -894,7 +894,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-12T05:30:29+00:00",
-      "last_seen_at": "2026-09-22T10:21:49+00:00",
+      "last_seen_at": "2026-09-22T10:34:21+00:00",
       "status": "active"
     },
     {
@@ -979,7 +979,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-22T07:19:03+00:00",
-      "last_seen_at": "2026-09-22T10:21:49+00:00",
+      "last_seen_at": "2026-09-22T10:34:21+00:00",
       "status": "active"
     },
     {
@@ -1013,7 +1013,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-16T15:31:24+00:00",
-      "last_seen_at": "2026-09-22T10:21:49+00:00",
+      "last_seen_at": "2026-09-22T10:34:21+00:00",
       "status": "active"
     },
     {
@@ -4090,7 +4090,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-22T10:21:49+00:00",
+      "last_seen_at": "2026-09-22T10:34:21+00:00",
       "status": "active"
     },
     {
@@ -4126,6 +4126,23 @@
       "first_seen_at": "2026-09-02T12:41:35+00:00",
       "last_seen_at": "2026-09-02T23:55:05+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_312491f5fdccda00a0b0",
+      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (golang.org/x/text): Schwachstelle ermöglicht Denial of Service",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 292000.0,
+      "p50_usd": 29200000.0,
+      "p90_usd": 2920000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-22T10:21:49+00:00",
+      "last_seen_at": "2026-09-22T10:34:21+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_620225625978c23a2aaa",
@@ -4177,23 +4194,6 @@
       "first_seen_at": "2026-09-14T14:00:01+00:00",
       "last_seen_at": "2026-09-18T23:55:00+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_312491f5fdccda00a0b0",
-      "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (golang.org/x/text): Schwachstelle ermöglicht Denial of Service",
-      "event_classes": [
-        "vulnerability"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 292000.0,
-      "p50_usd": 29200000.0,
-      "p90_usd": 2920000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-22T10:21:49+00:00",
-      "last_seen_at": "2026-09-22T10:21:49+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_b62c535c76c48b8bb112",
@@ -5998,6 +5998,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_d144dbd4bf15ffdb1851",
+      "title": "Deprecation notice: All-platform CodeQL bundle",
+      "event_classes": [
+        "platform_change"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 116800.0,
+      "p50_usd": 11680000.0,
+      "p90_usd": 1168000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-22T10:21:49+00:00",
+      "last_seen_at": "2026-09-22T10:34:21+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_dbb98c350c86838e9878",
       "title": "Gen Z doesn’t need more AI courses, it needs the skills AI can’t replicate",
       "event_classes": [
@@ -6098,23 +6115,6 @@
       "first_seen_at": "2026-09-01T02:30:55+00:00",
       "last_seen_at": "2026-09-01T23:56:16+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_d144dbd4bf15ffdb1851",
-      "title": "Deprecation notice: All-platform CodeQL bundle",
-      "event_classes": [
-        "platform_change"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 116800.0,
-      "p50_usd": 11680000.0,
-      "p90_usd": 1168000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-22T10:21:49+00:00",
-      "last_seen_at": "2026-09-22T10:21:49+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_164cc1afee592ac2b935",
@@ -6895,7 +6895,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-22T01:14:13+00:00",
-      "last_seen_at": "2026-09-22T10:21:49+00:00",
+      "last_seen_at": "2026-09-22T10:34:21+00:00",
       "status": "active"
     },
     {
@@ -7337,7 +7337,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-22T10:21:49+00:00",
+      "last_seen_at": "2026-09-22T10:34:21+00:00",
       "status": "active"
     },
     {
@@ -8136,7 +8136,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-22T02:01:34+00:00",
-      "last_seen_at": "2026-09-22T10:21:49+00:00",
+      "last_seen_at": "2026-09-22T10:34:21+00:00",
       "status": "active"
     },
     {
@@ -8188,7 +8188,7 @@
       "confidence": 0.312,
       "first_seen_at": "2026-09-01T10:20:20+00:00",
       "last_seen_at": "2026-09-22T10:21:49+00:00",
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_d44ba16b5cae98333f94",
@@ -8238,7 +8238,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-22T03:13:15+00:00",
-      "last_seen_at": "2026-09-22T10:21:49+00:00",
+      "last_seen_at": "2026-09-22T10:34:21+00:00",
       "status": "active"
     },
     {
@@ -8544,7 +8544,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-22T05:22:15+00:00",
-      "last_seen_at": "2026-09-22T10:21:49+00:00",
+      "last_seen_at": "2026-09-22T10:34:21+00:00",
       "status": "active"
     },
     {
@@ -9275,7 +9275,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T18:20:05+00:00",
-      "last_seen_at": "2026-09-22T10:21:49+00:00",
+      "last_seen_at": "2026-09-22T10:34:21+00:00",
       "status": "active"
     },
     {
@@ -9309,7 +9309,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-22T08:31:54+00:00",
-      "last_seen_at": "2026-09-22T10:21:49+00:00",
+      "last_seen_at": "2026-09-22T10:34:21+00:00",
       "status": "active"
     },
     {
@@ -9582,7 +9582,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-22T04:09:14+00:00",
-      "last_seen_at": "2026-09-22T10:21:49+00:00",
+      "last_seen_at": "2026-09-22T10:34:21+00:00",
       "status": "active"
     },
     {
@@ -9820,7 +9820,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-22T05:33:48+00:00",
-      "last_seen_at": "2026-09-22T10:21:49+00:00",
+      "last_seen_at": "2026-09-22T10:34:21+00:00",
       "status": "active"
     },
     {
@@ -10177,8 +10177,8 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-22T02:30:48+00:00",
-      "last_seen_at": "2026-09-22T09:58:33+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-09-22T10:34:21+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_9776f41391ef5319de5a",
@@ -10262,7 +10262,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-22T03:33:01+00:00",
-      "last_seen_at": "2026-09-22T10:21:49+00:00",
+      "last_seen_at": "2026-09-22T10:34:21+00:00",
       "status": "active"
     },
     {
@@ -12268,7 +12268,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T12:58:27+00:00",
-      "last_seen_at": "2026-09-22T10:21:49+00:00",
+      "last_seen_at": "2026-09-22T10:34:21+00:00",
       "status": "active"
     },
     {
