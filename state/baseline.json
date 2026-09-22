@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-22T15:43:12+00:00",
+  "generated_at": "2026-09-22T15:51:24+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -910,9 +910,8 @@
     },
     "domain:www.bis.org": {
       "title": "The importance of being earnest - building a simpler and more competitive European banking market",
-      "updated_at": "2026-09-22T15:43:12+00:00",
+      "updated_at": "2026-09-22T15:51:24+00:00",
       "network_scores": [
-        23.5,
         23.5,
         23.5,
         23.5,
@@ -941,18 +940,18 @@
         20.6,
         20.6,
         20.6,
+        20.6,
         20.6
       ],
-      "rolling_average": 22.63,
+      "rolling_average": 22.54,
       "rolling_peak": 29.6,
       "last_score": 20.6,
-      "z_hint": -2.03
+      "z_hint": -1.94
     },
     "domain:www.federalreserve.gov": {
       "title": "Jefferson, Discount Window Modernization and Treasury Market Functioning",
-      "updated_at": "2026-09-22T15:43:12+00:00",
+      "updated_at": "2026-09-22T15:51:24+00:00",
       "network_scores": [
-        18.2,
         18.2,
         18.2,
         18.2,
@@ -981,16 +980,17 @@
         14.1,
         14.1,
         14.1,
+        14.1,
         14.1
       ],
-      "rolling_average": 17.34,
+      "rolling_average": 17.21,
       "rolling_peak": 18.2,
       "last_score": 14.1,
-      "z_hint": -3.24
+      "z_hint": -3.11
     },
     "domain:www.ecb.europa.eu": {
       "title": "Philip R. Lane: Interview with Le Temps",
-      "updated_at": "2026-09-22T15:43:12+00:00",
+      "updated_at": "2026-09-22T15:51:24+00:00",
       "network_scores": [
         10.1,
         10.1,
@@ -1559,7 +1559,7 @@
     },
     "earthquake:indonesia:4.6": {
       "title": "M 4.6 - 296 km S of Ambon, Indonesia",
-      "updated_at": "2026-09-22T15:43:12+00:00",
+      "updated_at": "2026-09-22T15:51:24+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -1569,8 +1569,8 @@
         17.7,
         17.7,
         17.7,
-        17.7,
         20.7,
+        17.7,
         17.7,
         17.7,
         17.7,
@@ -2129,7 +2129,7 @@
     },
     "earthquake:japan:5.0": {
       "title": "M 5.0 - Volcano Islands, Japan region",
-      "updated_at": "2026-09-22T15:43:12+00:00",
+      "updated_at": "2026-09-22T15:51:24+00:00",
       "network_scores": [
         20.7,
         20.7,
@@ -2686,9 +2686,8 @@
     },
     "domain:restofworld.org": {
       "title": "America is in the wrong AI race with China",
-      "updated_at": "2026-09-22T15:43:12+00:00",
+      "updated_at": "2026-09-22T15:51:24+00:00",
       "network_scores": [
-        7.1,
         7.1,
         7.1,
         7.1,
@@ -2717,12 +2716,13 @@
         9.1,
         9.1,
         9.1,
+        9.1,
         9.1
       ],
-      "rolling_average": 8.8,
+      "rolling_average": 8.87,
       "rolling_peak": 12.1,
       "last_score": 9.1,
-      "z_hint": 0.3
+      "z_hint": 0.23
     },
     "domain:trends.google.com": {
       "title": "축구중계",
@@ -3604,7 +3604,7 @@
     },
     "domain:qiita.com": {
       "title": "Jevはどこで使うべきか？ LLM・機械学習・ルールベースとの使い分け - Qiita",
-      "updated_at": "2026-09-22T15:43:12+00:00",
+      "updated_at": "2026-09-22T15:51:24+00:00",
       "network_scores": [
         15.3,
         15.3,
@@ -4263,7 +4263,7 @@
     },
     "domain:www.heise.de": {
       "title": "Sicherheitsupdates: Click2Shell-Lücke zum Kompromittieren von WordPress-Websites",
-      "updated_at": "2026-09-22T15:43:12+00:00",
+      "updated_at": "2026-09-22T15:51:24+00:00",
       "network_scores": [
         13.1,
         13.1,
@@ -5529,7 +5529,7 @@
     },
     "earthquake:japan:4.9": {
       "title": "M 4.9 - Volcano Islands, Japan region",
-      "updated_at": "2026-09-22T15:43:12+00:00",
+      "updated_at": "2026-09-22T15:51:24+00:00",
       "network_scores": [
         20.7,
         20.7,
@@ -5752,9 +5752,8 @@
     },
     "domain:wid.cert-bund.de": {
       "title": "[UPDATE] [mittel] libssh2: Mehrere Schwachstellen",
-      "updated_at": "2026-09-22T15:43:12+00:00",
+      "updated_at": "2026-09-22T15:51:24+00:00",
       "network_scores": [
-        25.3,
         22.3,
         22.3,
         22.3,
@@ -5783,12 +5782,13 @@
         38.0,
         38.0,
         38.0,
+        38.0,
         38.0
       ],
-      "rolling_average": 31.72,
+      "rolling_average": 32.14,
       "rolling_peak": 53.0,
       "last_score": 38.0,
-      "z_hint": 6.28
+      "z_hint": 5.86
     },
     "title:why-every-warehouse-singapore-will-run-safety-monitoring": {
       "title": "Why every warehouse in Singapore will run on AI safety monitoring within five years",
@@ -10133,9 +10133,8 @@
     },
     "domain:note.com": {
       "title": "JevでAIエージェントのハーネスはどう変わるのか｜npaka",
-      "updated_at": "2026-09-22T15:43:12+00:00",
+      "updated_at": "2026-09-22T15:51:24+00:00",
       "network_scores": [
-        7.1,
         7.1,
         7.1,
         7.1,
@@ -10163,6 +10162,7 @@
         9.2,
         9.2,
         10.1,
+        7.1,
         7.1,
         7.1
       ],
@@ -14243,7 +14243,7 @@
     },
     "domain:www.bsi.bund.de": {
       "title": "Version 1.0: F5 BIG-IP APM: Aktive Ausnutzug einer Zero-Day Schwachstelle",
-      "updated_at": "2026-09-22T15:43:12+00:00",
+      "updated_at": "2026-09-22T15:51:24+00:00",
       "network_scores": [
         32.1,
         32.1,
@@ -14272,14 +14272,14 @@
         32.1,
         32.1,
         32.1,
-        32.1,
         33.1,
-        37.2
+        37.2,
+        34.2
       ],
-      "rolling_average": 32.3,
+      "rolling_average": 32.37,
       "rolling_peak": 37.2,
-      "last_score": 37.2,
-      "z_hint": 4.9
+      "last_score": 34.2,
+      "z_hint": 1.83
     },
     "domain:lycorptech-jp.connpass.com": {
       "title": "ローカルLLMでどこまでコードが書けるか -LLM基礎知識 / How much code can be written on a local LLM - fundamental knowledge",
@@ -29350,7 +29350,7 @@
     },
     "earthquake:indonesia:4.7": {
       "title": "M 4.7 - 54 km NNW of Ende, Indonesia",
-      "updated_at": "2026-09-22T15:43:12+00:00",
+      "updated_at": "2026-09-22T15:51:24+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -29938,7 +29938,7 @@
     },
     "earthquake:japan:5.1": {
       "title": "M 5.1 - 88 km NNW of Uken, Japan",
-      "updated_at": "2026-09-22T15:43:12+00:00",
+      "updated_at": "2026-09-22T15:51:24+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -29950,8 +29950,8 @@
         17.7,
         17.7,
         17.7,
-        17.7,
         20.7,
+        17.7,
         17.7,
         17.7,
         17.7,
@@ -42072,7 +42072,7 @@
     },
     "title:compliance-paradox-more-checks-more-fraud": {
       "title": "The compliance paradox: More checks, more fraud",
-      "updated_at": "2026-09-22T15:43:12+00:00",
+      "updated_at": "2026-09-22T15:51:24+00:00",
       "network_scores": [
         15.1,
         15.1,
@@ -42112,7 +42112,7 @@
     },
     "title:excel": {
       "title": "「Excel」で貼り付けが“黙って”失敗する不具合、原因は9月の月例更新／一部バージョンで修正が進む",
-      "updated_at": "2026-09-22T15:43:12+00:00",
+      "updated_at": "2026-09-22T15:51:24+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -42152,7 +42152,7 @@
     },
     "title:why-literacy-becoming-business-necessity-not-competitive-advantage": {
       "title": "Why AI literacy is becoming a business necessity, not a competitive advantage",
-      "updated_at": "2026-09-22T15:43:12+00:00",
+      "updated_at": "2026-09-22T15:51:24+00:00",
       "network_scores": [
         10.1,
         10.1,
@@ -42192,7 +42192,7 @@
     },
     "title:vietnam-returning-engineers-are-high-quality-talent-keeping": {
       "title": "Vietnam’s returning engineers are high-quality talent. Keeping them is the real problem",
-      "updated_at": "2026-09-22T15:43:12+00:00",
+      "updated_at": "2026-09-22T15:51:24+00:00",
       "network_scores": [
         13.1,
         13.1,
@@ -42232,7 +42232,7 @@
     },
     "title:lets-outsiders-build-but-connected-still-have-advantage": {
       "title": "AI lets outsiders build but the connected still have an advantage",
-      "updated_at": "2026-09-22T15:43:12+00:00",
+      "updated_at": "2026-09-22T15:51:24+00:00",
       "network_scores": [
         10.1,
         10.1,
@@ -42272,7 +42272,7 @@
     },
     "title:refreshed-repository-pull-requests-page-generally-available": {
       "title": "Refreshed repository pull requests page generally available",
-      "updated_at": "2026-09-22T15:43:12+00:00",
+      "updated_at": "2026-09-22T15:51:24+00:00",
       "network_scores": [
         5.1,
         5.1,
@@ -42312,7 +42312,7 @@
     },
     "title:your-price-problem-positioning-problem-wearing-discount-request": {
       "title": "Your price problem is a positioning problem wearing a discount request",
-      "updated_at": "2026-09-22T15:43:12+00:00",
+      "updated_at": "2026-09-22T15:51:24+00:00",
       "network_scores": [
         13.1,
         13.1,
@@ -42352,7 +42352,7 @@
     },
     "title:why-asia-physical-boom-will-decided-camera-not": {
       "title": "Why Asia’s Physical AI boom will be decided at the camera, not the model",
-      "updated_at": "2026-09-22T15:43:12+00:00",
+      "updated_at": "2026-09-22T15:51:24+00:00",
       "network_scores": [
         10.1,
         10.1,
@@ -42392,7 +42392,7 @@
     },
     "title:2026-news-nnn": {
       "title": "【独自】古書店で「謎の大量注文」相次ぐ……AI学習か 米国向け「日本の本 50トン」の輸出記録も（2026年9月22日掲載）｜日テレNEWS NNN",
-      "updated_at": "2026-09-22T15:43:12+00:00",
+      "updated_at": "2026-09-22T15:51:24+00:00",
       "network_scores": [
         10.1,
         10.1,
@@ -42432,7 +42432,7 @@
     },
     "title:startups-should-learn-leave-bad-markets-faster": {
       "title": "Startups should learn to leave bad markets faster",
-      "updated_at": "2026-09-22T15:43:12+00:00",
+      "updated_at": "2026-09-22T15:51:24+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -42472,7 +42472,7 @@
     },
     "title:linux-debian-googlebook": {
       "title": "「Linuxデスクトップ元年」到来か。Debianが使えるGooglebook OS発表 - すまほん!!",
-      "updated_at": "2026-09-22T15:43:12+00:00",
+      "updated_at": "2026-09-22T15:51:24+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -42512,7 +42512,7 @@
     },
     "title:bitcoin-000-spike-real-breakout-900-million-short": {
       "title": "Bitcoin’s US$87,000 spike: Real breakout or a US$900 million short squeeze?",
-      "updated_at": "2026-09-22T15:43:12+00:00",
+      "updated_at": "2026-09-22T15:51:24+00:00",
       "network_scores": [
         6.1,
         6.1,
@@ -42552,7 +42552,7 @@
     },
     "title:supercell-backs-hyperbond-studio-call-sensei-bets-romance": {
       "title": "Supercell backs Hyperbond Studio as Call Me Sensei bets on AI romance for language learning",
-      "updated_at": "2026-09-22T15:43:12+00:00",
+      "updated_at": "2026-09-22T15:51:24+00:00",
       "network_scores": [
         12.1,
         12.1,
@@ -42592,7 +42592,7 @@
     },
     "title:tacniq-raises-teach-machines-language-touch": {
       "title": "TacnIQ.ai raises US$1.5M to teach machines the language of touch",
-      "updated_at": "2026-09-22T15:43:12+00:00",
+      "updated_at": "2026-09-22T15:51:24+00:00",
       "network_scores": [
         10.1,
         10.1,
@@ -42632,7 +42632,7 @@
     },
     "earthquake:philippines:4.6": {
       "title": "M 4.6 - 19 km ENE of Nailong, Philippines",
-      "updated_at": "2026-09-22T15:43:12+00:00",
+      "updated_at": "2026-09-22T15:51:24+00:00",
       "network_scores": [
         17.7,
         17.7,
@@ -42672,7 +42672,7 @@
     },
     "title:singapore-metaoptics-eyes-expansion-potential-10m-warrant-facility": {
       "title": "Singapore’s MetaOptics eyes US expansion with potential US$10M warrant facility",
-      "updated_at": "2026-09-22T15:43:12+00:00",
+      "updated_at": "2026-09-22T15:51:24+00:00",
       "network_scores": [
         14.1,
         14.1,
@@ -42712,7 +42712,7 @@
     },
     "domain:iwasa-kosui.github.io": {
       "title": "tanteki — 業務のための文書をもっと端的に",
-      "updated_at": "2026-09-22T15:43:12+00:00",
+      "updated_at": "2026-09-22T15:51:24+00:00",
       "network_scores": [
         9.1,
         9.1,
@@ -42752,9 +42752,9 @@
     },
     "title:fukuoka-ramen-tech-tests-japan-startup-pitch-southeast": {
       "title": "Fukuoka’s RAMEN TECH tests Japan’s startup pitch to Southeast Asia",
-      "updated_at": "2026-09-22T15:43:12+00:00",
+      "updated_at": "2026-09-22T15:51:24+00:00",
       "network_scores": [
-        14.1,
+        11.1,
         11.1,
         11.1,
         11.1,
@@ -42785,16 +42785,17 @@
         11.1,
         11.1
       ],
-      "rolling_average": 11.2,
-      "rolling_peak": 14.1,
+      "rolling_average": 11.1,
+      "rolling_peak": 11.1,
       "last_score": 11.1,
-      "z_hint": -0.1
+      "z_hint": -0.0
     },
     "title:bonbon-mobility-raises-500k-digitise-vietnam-car-care": {
       "title": "Bonbon Mobility raises US$500K to digitise Vietnam’s car-care market",
-      "updated_at": "2026-09-22T15:43:12+00:00",
+      "updated_at": "2026-09-22T15:51:24+00:00",
       "network_scores": [
         12.1,
+        9.1,
         9.1,
         9.1,
         9.1,
@@ -42829,7 +42830,7 @@
     },
     "domain:golang.org": {
       "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (golang.org/x/text): Schwachstelle ermöglicht Denial of Service",
-      "updated_at": "2026-09-22T15:43:12+00:00",
+      "updated_at": "2026-09-22T15:51:24+00:00",
       "network_scores": [
         21.1,
         18.1,
@@ -42854,16 +42855,17 @@
         18.1,
         18.1,
         18.1,
+        18.1,
         18.1
       ],
-      "rolling_average": 18.23,
+      "rolling_average": 18.22,
       "rolling_peak": 21.1,
       "last_score": 18.1,
-      "z_hint": -0.13
+      "z_hint": -0.12
     },
     "title:deprecation-notice-all-platform-codeql-bundle": {
       "title": "Deprecation notice: All-platform CodeQL bundle",
-      "updated_at": "2026-09-22T15:43:12+00:00",
+      "updated_at": "2026-09-22T15:51:24+00:00",
       "network_scores": [
         21.1,
         18.1,
@@ -42888,16 +42890,17 @@
         18.1,
         18.1,
         18.1,
+        18.1,
         18.1
       ],
-      "rolling_average": 18.23,
+      "rolling_average": 18.22,
       "rolling_peak": 21.1,
       "last_score": 18.1,
-      "z_hint": -0.13
+      "z_hint": -0.12
     },
     "title:konifar-zatsu": {
       "title": "思考の外注割合を増やし、理解は外注しない - Konifar's ZATSU",
-      "updated_at": "2026-09-22T15:43:12+00:00",
+      "updated_at": "2026-09-22T15:51:24+00:00",
       "network_scores": [
         13.1,
         10.1,
@@ -42916,16 +42919,17 @@
         10.1,
         10.1,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 10.27,
+      "rolling_average": 10.26,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -0.17
+      "z_hint": -0.16
     },
     "url:https://www.itmedia.co.jp/pcuser/articles/2609/22/news023.html": {
       "title": "あの名コンビの声が“公認AI”で6カ国語に！ 麻布台ヒルズ「まんが日本昔ばなし展」で体験するAI音声の最前線",
-      "updated_at": "2026-09-22T15:43:12+00:00",
+      "updated_at": "2026-09-22T15:51:24+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -42944,16 +42948,17 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.27,
+      "rolling_average": 7.26,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.17
+      "z_hint": -0.16
     },
     "earthquake:m 4.7 - 7 km wnw of la gomera, guatemala:4.7": {
       "title": "M 4.7 - 7 km WNW of La Gomera, Guatemala",
-      "updated_at": "2026-09-22T15:43:12+00:00",
+      "updated_at": "2026-09-22T15:51:24+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -42969,16 +42974,17 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 11.9,
+      "rolling_average": 11.89,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.2
+      "z_hint": -0.19
     },
     "title:multiples-vuln-rabilit-dans-google-pixel-septembre-2026": {
       "title": "Multiples vulnérabilités dans Google Pixel (16 septembre 2026)",
-      "updated_at": "2026-09-22T15:43:12+00:00",
+      "updated_at": "2026-09-22T15:51:24+00:00",
       "network_scores": [
         13.1,
         10.1,
@@ -42994,16 +43000,17 @@
         10.1,
         10.1,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 10.3,
+      "rolling_average": 10.29,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -0.2
+      "z_hint": -0.19
     },
     "title:multiples-vuln-rabilit-dans-apache-zookeeper-septembre-2026": {
       "title": "Multiples vulnérabilités dans Apache Zookeeper (16 septembre 2026)",
-      "updated_at": "2026-09-22T15:43:12+00:00",
+      "updated_at": "2026-09-22T15:51:24+00:00",
       "network_scores": [
         13.1,
         10.1,
@@ -43019,16 +43026,17 @@
         10.1,
         10.1,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 10.3,
+      "rolling_average": 10.29,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -0.2
+      "z_hint": -0.19
     },
     "domain:kitasenjudesign.com": {
       "title": "ホームページに還ろう",
-      "updated_at": "2026-09-22T15:43:12+00:00",
+      "updated_at": "2026-09-22T15:51:24+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -43044,16 +43052,17 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.3,
+      "rolling_average": 7.29,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.2
+      "z_hint": -0.19
     },
     "url:https://que.dailyshincho.jp/node/20880/": {
       "title": "「AIは意識を持ち得ない」――世界的SF作家から届いたアンソロピックへの“メッセージ”",
-      "updated_at": "2026-09-22T15:43:12+00:00",
+      "updated_at": "2026-09-22T15:51:24+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -43063,26 +43072,28 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.43,
+      "rolling_average": 7.4,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.33
+      "z_hint": -0.3
     },
     "domain:openbatteryinformation.github.io": {
       "title": "マキタの18Vバッテリーにも対応済み、リチウムイオンバッテリーの診断と修理をブラウザから無料で実行できる「Open Battery Information」",
-      "updated_at": "2026-09-22T15:43:12+00:00",
+      "updated_at": "2026-09-22T15:51:24+00:00",
       "network_scores": [
         12.1,
         9.1,
         9.1,
+        9.1,
         9.1
       ],
-      "rolling_average": 9.85,
+      "rolling_average": 9.7,
       "rolling_peak": 12.1,
       "last_score": 9.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     }
   }
 }

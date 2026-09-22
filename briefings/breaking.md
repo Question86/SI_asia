@@ -1,11 +1,11 @@
 # Senna Breaking
 
-_Generiert: 2026-09-22T15:43:12+00:00_
+_Generiert: 2026-09-22T15:51:24+00:00_
 
 ## Version 1.0: F5 BIG-IP APM: Aktive Ausnutzug einer Zero-Day Schwachstelle
 
-- Ranking Score: `39.96`
-- Raw Network Score: `37.2`
+- Ranking Score: `36.23`
+- Raw Network Score: `34.2`
 - Max Monitor Score: `30`
 - Reichweite: `specialist` / `2.5`
 - Early Signal: `nein`
@@ -13,7 +13,7 @@ _Generiert: 2026-09-22T15:43:12+00:00_
 - Quellen: BSI CERT-Bund Cyber-Sicherheitswarnungen
 - Klassen: tier3_specialist
 - Cross-source bestaetigt: nein
-- Momentum: increasing (+1)
+- Momentum: stable (+0)
 - Erste Quelle: https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-289024-1032_bits.html
 - Handlung: HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.
 
