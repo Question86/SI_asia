@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-22T16:45:53+00:00_
+_Generated: 2026-09-22T16:53:35+00:00_
 
 ## Status
 - status: `normal`
-- findings: `60`
+- findings: `62`
 
 ## Top Signals
 
@@ -57,25 +57,25 @@ _Generated: 2026-09-22T16:45:53+00:00_
 - url: https://e27.co/the-compliance-paradox-more-checks-more-fraud-20260920/
 - summary: The teller does not sound accusatory. The tone is worse than that. It is procedural. A man in his thirties slides his phone across the counter and points to the screen, a transfer that never arrived, a balance that will not move. The teller looks past the sto…
 
-### 8. Jefferson, Discount Window Modernization and Treasury Market Functioning
+### 8. 2026-013: Critical Vulnerability in F5 BIG-IP APM
+- source: CERT-EU Security Advisories
+- score: `12`
+- published: `2026-09-22T18:52:36+00:00`
+- url: https://cert.europa.eu/publications/security-advisories/2026-013/
+- summary: On 22 September 2026, F5 published an advisory addressing a critical vulnerability affecting its BIG-IP APM product. The vendor confirmed active exploitation in the wild. CERT-EU recommends taking appropriate actions as soon as possible.
+
+### 9. Jefferson, Discount Window Modernization and Treasury Market Functioning
 - source: Federal Reserve Speeches and Testimony
 - score: `12`
 - published: `2026-09-22T14:20:00+00:00`
 - url: https://www.federalreserve.gov/newsevents/speech/jefferson20260922a.htm
 - summary: Speech At the 2026 U.S. Treasury Market Conference, Federal Reserve Bank of New York, New York, New York
 
-### 9. Singapore’s MetaOptics eyes US expansion with potential US$10M warrant facility
+### 10. Singapore’s MetaOptics eyes US expansion with potential US$10M warrant facility
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-09-22T07:00:50+00:00`
 - url: https://e27.co/singapores-metaoptics-eyes-us-expansion-with-potential-us10m-warrant-facility-20260922/
 - summary: Singapore-listed MetaOptics has secured a potential financing line of up to US$10 million from Los Angeles-based White Lion Capital, giving the semiconductor optics company additional room to fund its United States expansion as it tries to take metalens techn…
-
-### 10. Sicherheitsupdates: Click2Shell-Lücke zum Kompromittieren von WordPress-Websites
-- source: heise Security Alerts
-- score: `11`
-- published: `2026-09-22T07:52:00.000+00:00`
-- url: https://www.heise.de/news/Sicherheitsupdates-Click2Shell-Luecke-zum-Kompromittieren-von-WordPress-Websites-11460973.html
-- summary: Aufgrund mehrerer Sicherheitslücken raten die WordPress-Entwickler zu einem zügigen Update. Bislang gibt es keine Hinweise auf Attacken.
 
 END OF DOCUMENT
