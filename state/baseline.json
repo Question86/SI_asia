@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-22T02:01:34+00:00",
+  "generated_at": "2026-09-22T02:30:48+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -3604,9 +3604,8 @@
     },
     "domain:qiita.com": {
       "title": "ローカル動作するJevっぽいものを調べてたら、なんとマルチモーダル対応もできてた！ - Qiita",
-      "updated_at": "2026-09-22T02:01:34+00:00",
+      "updated_at": "2026-09-22T02:30:48+00:00",
       "network_scores": [
-        7.1,
         7.1,
         7.1,
         7.1,
@@ -3635,12 +3634,13 @@
         6.1,
         12.2,
         9.2,
+        9.2,
         9.2
       ],
-      "rolling_average": 7.44,
+      "rolling_average": 7.51,
       "rolling_peak": 12.2,
       "last_score": 9.2,
-      "z_hint": 1.76
+      "z_hint": 1.69
     },
     "github_repo:yairm210/unciv": {
       "title": "yairm210/Unciv",
@@ -42072,54 +42072,80 @@
     },
     "title:compliance-paradox-more-checks-more-fraud": {
       "title": "The compliance paradox: More checks, more fraud",
-      "updated_at": "2026-09-22T02:01:34+00:00",
+      "updated_at": "2026-09-22T02:30:48+00:00",
       "network_scores": [
         18.1,
         15.1,
         15.1,
+        15.1,
         15.1
       ],
-      "rolling_average": 15.85,
+      "rolling_average": 15.7,
       "rolling_peak": 18.1,
       "last_score": 15.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "title:excel": {
       "title": "「Excel」で貼り付けが“黙って”失敗する不具合、原因は9月の月例更新／一部バージョンで修正が進む",
-      "updated_at": "2026-09-22T02:01:34+00:00",
+      "updated_at": "2026-09-22T02:30:48+00:00",
       "network_scores": [
         10.1,
+        7.1,
         7.1,
         7.1,
         7.1
       ],
-      "rolling_average": 7.85,
+      "rolling_average": 7.7,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "title:why-literacy-becoming-business-necessity-not-competitive-advantage": {
       "title": "Why AI literacy is becoming a business necessity, not a competitive advantage",
-      "updated_at": "2026-09-22T02:01:34+00:00",
+      "updated_at": "2026-09-22T02:30:48+00:00",
       "network_scores": [
         13.1,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 11.1,
+      "rolling_average": 10.85,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -1.0
+      "z_hint": -0.75
     },
     "title:vietnam-returning-engineers-are-high-quality-talent-keeping": {
       "title": "Vietnam’s returning engineers are high-quality talent. Keeping them is the real problem",
-      "updated_at": "2026-09-22T02:01:34+00:00",
+      "updated_at": "2026-09-22T02:30:48+00:00",
       "network_scores": [
-        16.1
+        16.1,
+        13.1
       ],
-      "rolling_average": 16.1,
+      "rolling_average": 14.6,
       "rolling_peak": 16.1,
-      "last_score": 16.1,
+      "last_score": 13.1,
+      "z_hint": -1.5
+    },
+    "title:lets-outsiders-build-but-connected-still-have-advantage": {
+      "title": "AI lets outsiders build but the connected still have an advantage",
+      "updated_at": "2026-09-22T02:30:48+00:00",
+      "network_scores": [
+        13.1
+      ],
+      "rolling_average": 13.1,
+      "rolling_peak": 13.1,
+      "last_score": 13.1,
+      "z_hint": 0.0
+    },
+    "title:refreshed-repository-pull-requests-page-generally-available": {
+      "title": "Refreshed repository pull requests page generally available",
+      "updated_at": "2026-09-22T02:30:48+00:00",
+      "network_scores": [
+        8.1
+      ],
+      "rolling_average": 8.1,
+      "rolling_peak": 8.1,
+      "last_score": 8.1,
       "z_hint": 0.0
     }
   }

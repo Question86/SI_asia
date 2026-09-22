@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-22T02:01:31+00:00",
-  "run_id": "2026-09-22T02:01:31+00:00",
+  "generated_at": "2026-09-22T02:30:45+00:00",
+  "run_id": "2026-09-22T02:30:45+00:00",
   "date": "2026-09-22",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 6
+      "configured_public_sources_only": 8
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 6,
-    "displayed_findings": 6,
+    "new_relevant_findings": 2,
+    "today_file_total": 8,
+    "displayed_findings": 8,
     "high": 0,
     "medium": 0,
-    "observe": 6,
+    "observe": 8,
     "source_errors": 0
   },
   "sections": {
@@ -70,6 +70,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "e51f40de6fbcfc60dc69"
+      },
+      {
+        "title": "AI lets outsiders build but the connected still have an advantage",
+        "url": "https://e27.co/ai-lets-outsiders-build-but-the-connected-still-have-an-advantage-20260920/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-22T02:30:12+00:00",
+        "fetched_at": "2026-09-22T02:30:17+00:00",
+        "summary": "The next useful software product may come from someone your hiring process would reject. A paramedic. A teacher. A shop owner with no software credentials, but years of experience with a problem that nobody has bothered to fix. AI coding platforms give more of these people a way to build an answer. Whether anyone takes […] The post AI lets outsiders build but the connected still have an advantage appeared first on e…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a1e4c0616515d578d9c9"
       },
       {
         "title": "Why AI literacy is becoming a business necessity, not a competitive advantage",
@@ -154,6 +175,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "bf1430c9462397586b44"
+      },
+      {
+        "title": "Refreshed repository pull requests page generally available",
+        "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-09-22T01:25:53+00:00",
+        "fetched_at": "2026-09-22T02:30:17+00:00",
+        "summary": "The new repository pull requests page is now generally available to all GitHub users. Highlights The new page makes it easier to find and act on pull requests in a… The post Refreshed repository pull requests page generally available appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "GitHub"
+        ],
+        "relevance_score": 3,
+        "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ddb70832220fd11ba6b2"
       }
     ]
   },
@@ -198,6 +239,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "e51f40de6fbcfc60dc69"
+    },
+    {
+      "title": "AI lets outsiders build but the connected still have an advantage",
+      "url": "https://e27.co/ai-lets-outsiders-build-but-the-connected-still-have-an-advantage-20260920/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-22T02:30:12+00:00",
+      "fetched_at": "2026-09-22T02:30:17+00:00",
+      "summary": "The next useful software product may come from someone your hiring process would reject. A paramedic. A teacher. A shop owner with no software credentials, but years of experience with a problem that nobody has bothered to fix. AI coding platforms give more of these people a way to build an answer. Whether anyone takes […] The post AI lets outsiders build but the connected still have an advantage appeared first on e…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a1e4c0616515d578d9c9"
     },
     {
       "title": "Why AI literacy is becoming a business necessity, not a competitive advantage",
@@ -282,28 +344,69 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "bf1430c9462397586b44"
-    }
-  ],
-  "new_findings": [
+    },
     {
-      "title": "Vietnam’s returning engineers are high-quality talent. Keeping them is the real problem",
-      "url": "https://e27.co/vietnams-returning-engineers-are-high-quality-talent-keeping-them-is-the-real-problem-20260920/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "Refreshed repository pull requests page generally available",
+      "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
+      "source": "GitHub Changelog Atom",
       "source_type": "rss",
-      "published_at": "2026-09-22T02:00:36+00:00",
-      "fetched_at": "2026-09-22T02:00:53+00:00",
-      "summary": "Every few months, another story circulates about Vietnamese-origin engineers leaving Silicon Valley, Tokyo, or Seoul to come home. The framing is almost always the same: here is an underused pool of senior talent, and here is why your company should go get some. That framing skips the harder question. Attracting a returning engineer is the […] The post Vietnam’s returning engineers are high-quality talent. Keeping t…",
+      "published_at": "2026-09-22T01:25:53+00:00",
+      "fetched_at": "2026-09-22T02:30:17+00:00",
+      "summary": "The new repository pull requests page is now generally available to all GitHub users. Highlights The new page makes it easier to find and act on pull requests in a… The post Refreshed repository pull requests page generally available appeared first on The GitHub Blog .",
       "matched_keywords": [
-        "APAC Trend Radar"
+        "GitHub"
       ],
-      "relevance_score": 11,
-      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0); watchgraph region usa: Silicon Valley (+2.0); watchgraph region japan: Tokyo (+2.0); watchgraph region south_korea: Seoul (+2.0)",
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "e51f40de6fbcfc60dc69"
+      "id": "ddb70832220fd11ba6b2"
+    }
+  ],
+  "new_findings": [
+    {
+      "title": "AI lets outsiders build but the connected still have an advantage",
+      "url": "https://e27.co/ai-lets-outsiders-build-but-the-connected-still-have-an-advantage-20260920/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-22T02:30:12+00:00",
+      "fetched_at": "2026-09-22T02:30:17+00:00",
+      "summary": "The next useful software product may come from someone your hiring process would reject. A paramedic. A teacher. A shop owner with no software credentials, but years of experience with a problem that nobody has bothered to fix. AI coding platforms give more of these people a way to build an answer. Whether anyone takes […] The post AI lets outsiders build but the connected still have an advantage appeared first on e…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a1e4c0616515d578d9c9"
+    },
+    {
+      "title": "Refreshed repository pull requests page generally available",
+      "url": "https://github.blog/changelog/2026-09-21-refreshed-repository-pull-requests-page-generally-available",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-09-22T01:25:53+00:00",
+      "fetched_at": "2026-09-22T02:30:17+00:00",
+      "summary": "The new repository pull requests page is now generally available to all GitHub users. Highlights The new page makes it easier to find and act on pull requests in a… The post Refreshed repository pull requests page generally available appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "GitHub"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "GitHub (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ddb70832220fd11ba6b2"
     }
   ],
   "source_errors": [],

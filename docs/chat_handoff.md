@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-22T02:01:31+00:00_
+_Generated: 2026-09-22T02:30:45+00:00_
 
 ## Status
 - status: `normal`
-- findings: `6`
+- findings: `8`
 
 ## Top Signals
 
@@ -22,18 +22,18 @@ _Generated: 2026-09-22T02:01:31+00:00_
 - url: https://e27.co/vietnams-returning-engineers-are-high-quality-talent-keeping-them-is-the-real-problem-20260920/
 - summary: Every few months, another story circulates about Vietnamese-origin engineers leaving Silicon Valley, Tokyo, or Seoul to come home. The framing is almost always the same: here is an underused pool of senior talent, and here is why your company should go get so…
 
-### 3. Why AI literacy is becoming a business necessity, not a competitive advantage
+### 3. AI lets outsiders build but the connected still have an advantage
+- source: e27 Asia Startup and Tech Feed
+- score: `8`
+- published: `2026-09-22T02:30:12+00:00`
+- url: https://e27.co/ai-lets-outsiders-build-but-the-connected-still-have-an-advantage-20260920/
+- summary: The next useful software product may come from someone your hiring process would reject. A paramedic. A teacher. A shop owner with no software credentials, but years of experience with a problem that nobody has bothered to fix. AI coding platforms give more o…
+
+### 4. Why AI literacy is becoming a business necessity, not a competitive advantage
 - source: e27 Asia Startup and Tech Feed
 - score: `8`
 - published: `2026-09-22T01:30:31+00:00`
 - url: https://e27.co/why-ai-literacy-is-becoming-a-business-necessity-not-a-competitive-advantage-20260920/
 - summary: A generation ago, digital literacy was considered a specialist skill. Today, the ability to use digital tools, communicate online, and work with technology is a basic expectation across most industries. Artificial intelligence is following a similar path. Wha…
-
-### 4. 「Excel」で貼り付けが“黙って”失敗する不具合、原因は9月の月例更新／一部バージョンで修正が進む
-- source: Hatena Bookmark Hotentry IT
-- score: `5`
-- published: `2026-09-21T08:43:35+00:00`
-- url: https://forest.watch.impress.co.jp/docs/news/2142530.html
-- summary: 「Excel」で貼り付けが“黙って”失敗する不具合、原因は9月の月例更新／一部バージョンで修正が進む
 
 END OF DOCUMENT
