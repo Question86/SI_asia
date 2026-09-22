@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-22T22:29:38+00:00",
-  "run_id": "2026-09-22T22:29:38+00:00",
+  "generated_at": "2026-09-22T22:40:13+00:00",
+  "run_id": "2026-09-22T22:40:13+00:00",
   "date": "2026-09-22",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 74
+      "configured_public_sources_only": 75
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 74,
-    "displayed_findings": 74,
+    "new_relevant_findings": 1,
+    "today_file_total": 75,
+    "displayed_findings": 75,
     "high": 2,
     "medium": 19,
-    "observe": 53,
+    "observe": 54,
     "source_errors": 0
   },
   "sections": {
@@ -1549,6 +1549,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "fa4bf8387642eafc0afa"
+      },
+      {
+        "title": "Faster C++ code intelligence with whole codebase indexing",
+        "url": "https://github.blog/changelog/2026-09-22-faster-c-code-intelligence-with-whole-codebase-indexing",
+        "source": "GitHub Changelog Atom",
+        "source_type": "rss",
+        "published_at": "2026-09-22T22:24:48+00:00",
+        "fetched_at": "2026-09-22T22:39:44+00:00",
+        "summary": "C++ code intelligence in GitHub Copilot CLI is now faster with support for whole codebase indexing. C++ repositories can contain millions of lines of code across deeply connected source files… The post Faster C++ code intelligence with whole codebase indexing appeared first on The GitHub Blog .",
+        "matched_keywords": [
+          "Copilot",
+          "GitHub"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "GitHub (+2.0); Copilot (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a6361d35f24715390679"
       },
       {
         "title": "AIがチェスで圧勝する理由の一端が見えてきた――「ややこしいまま耐える」時間が人間より長い - ナゾロジー",
@@ -3363,6 +3384,27 @@
       "id": "fa4bf8387642eafc0afa"
     },
     {
+      "title": "Faster C++ code intelligence with whole codebase indexing",
+      "url": "https://github.blog/changelog/2026-09-22-faster-c-code-intelligence-with-whole-codebase-indexing",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-09-22T22:24:48+00:00",
+      "fetched_at": "2026-09-22T22:39:44+00:00",
+      "summary": "C++ code intelligence in GitHub Copilot CLI is now faster with support for whole codebase indexing. C++ repositories can contain millions of lines of code across deeply connected source files… The post Faster C++ code intelligence with whole codebase indexing appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "GitHub (+2.0); Copilot (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a6361d35f24715390679"
+    },
+    {
       "title": "AIがチェスで圧勝する理由の一端が見えてきた――「ややこしいまま耐える」時間が人間より長い - ナゾロジー",
       "url": "https://nazology.kusuguru.co.jp/archives/199973",
       "source": "Hatena Bookmark Hotentry IT",
@@ -3654,7 +3696,29 @@
       "id": "ddb70832220fd11ba6b2"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Faster C++ code intelligence with whole codebase indexing",
+      "url": "https://github.blog/changelog/2026-09-22-faster-c-code-intelligence-with-whole-codebase-indexing",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-09-22T22:24:48+00:00",
+      "fetched_at": "2026-09-22T22:39:44+00:00",
+      "summary": "C++ code intelligence in GitHub Copilot CLI is now faster with support for whole codebase indexing. C++ repositories can contain millions of lines of code across deeply connected source files… The post Faster C++ code intelligence with whole codebase indexing appeared first on The GitHub Blog .",
+      "matched_keywords": [
+        "Copilot",
+        "GitHub"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "GitHub (+2.0); Copilot (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a6361d35f24715390679"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
