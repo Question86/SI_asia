@@ -1,8 +1,152 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-22T15:22:46+00:00",
+  "generated_at": "2026-09-22T15:33:07+00:00",
   "topics": {
+    "security": [
+      {
+        "title": "Version 1.0: F5 BIG-IP APM: Aktive Ausnutzug einer Zero-Day Schwachstelle",
+        "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+        "published_at": "2026-09-22T15:35:00+00:00",
+        "relevance_score": 28,
+        "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-289024-1032.html"
+      },
+      {
+        "title": "[UPDATE] [mittel] libssh2: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-22T12:12:00+00:00",
+        "relevance_score": 17,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2099"
+      },
+      {
+        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (golang.org/x/text): Schwachstelle ermöglicht Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-22T10:01:31+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3481"
+      },
+      {
+        "title": "[UPDATE] [hoch] Cisco Secure Firewall Management Center: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-22T08:06:31+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3417"
+      },
+      {
+        "title": "[NEU] [mittel] vllm: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-22T12:12:03+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3507"
+      },
+      {
+        "title": "[NEU] [mittel] drawio: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-22T12:12:02+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3506"
+      },
+      {
+        "title": "[NEU] [mittel] Webmin: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-22T12:12:02+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3504"
+      },
+      {
+        "title": "[NEU] [mittel] IBM App Connect Enterprise: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-22T12:12:02+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3505"
+      },
+      {
+        "title": "[UPDATE] [hoch] Joplin: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-22T10:49:06+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3298"
+      },
+      {
+        "title": "[UPDATE] [mittel] Netty: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-22T10:48:22+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2712"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "Version 1.0: F5 BIG-IP APM: Aktive Ausnutzug einer Zero-Day Schwachstelle",
+        "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+        "published_at": "2026-09-22T15:35:00+00:00",
+        "relevance_score": 28,
+        "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-289024-1032.html"
+      },
+      {
+        "title": "[NEU] [mittel] vllm: Mehrere Schwachstellen ermöglichen Denial of Service",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-22T12:12:03+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3507"
+      },
+      {
+        "title": "[NEU] [mittel] drawio: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-22T12:12:02+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3506"
+      },
+      {
+        "title": "[NEU] [mittel] Webmin: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-22T12:12:02+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3504"
+      },
+      {
+        "title": "[NEU] [mittel] IBM App Connect Enterprise: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-22T12:12:02+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3505"
+      },
+      {
+        "title": "Singapore’s MetaOptics eyes US expansion with potential US$10M warrant facility",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-22T07:00:50+00:00",
+        "relevance_score": 12,
+        "url": "https://e27.co/singapores-metaoptics-eyes-us-expansion-with-potential-us10m-warrant-facility-20260922/"
+      },
+      {
+        "title": "Your price problem is a positioning problem wearing a discount request",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-22T03:00:14+00:00",
+        "relevance_score": 11,
+        "url": "https://e27.co/your-price-problem-is-a-positioning-problem-wearing-a-discount-request-20260920/"
+      },
+      {
+        "title": "Fukuoka’s RAMEN TECH tests Japan’s startup pitch to Southeast Asia",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-22T08:29:35+00:00",
+        "relevance_score": 9,
+        "url": "https://e27.co/fukuokas-ramen-tech-tests-japans-startup-pitch-to-southeast-asia-20260922/"
+      },
+      {
+        "title": "Philip R. Lane: Interview with Le Temps",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-09-22T05:00:00+00:00",
+        "relevance_score": 8,
+        "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260922~5f89d300ee.en.html"
+      },
+      {
+        "title": "AI lets outsiders build but the connected still have an advantage",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-22T02:30:12+00:00",
+        "relevance_score": 8,
+        "url": "https://e27.co/ai-lets-outsiders-build-but-the-connected-still-have-an-advantage-20260920/"
+      }
+    ],
     "general": [
       {
         "title": "M 4.9 - Volcano Islands, Japan region",
@@ -73,78 +217,6 @@
         "published_at": "2026-09-22T10:10:43+00:00",
         "relevance_score": 5,
         "url": "https://kitasenjudesign.com/zine/"
-      }
-    ],
-    "security": [
-      {
-        "title": "[UPDATE] [mittel] libssh2: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-22T12:12:00+00:00",
-        "relevance_score": 17,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2099"
-      },
-      {
-        "title": "[UPDATE] [mittel] Red Hat Enterprise Linux (golang.org/x/text): Schwachstelle ermöglicht Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-22T10:01:31+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3481"
-      },
-      {
-        "title": "[UPDATE] [hoch] Cisco Secure Firewall Management Center: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-22T08:06:31+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3417"
-      },
-      {
-        "title": "[NEU] [mittel] vllm: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-22T12:12:03+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3507"
-      },
-      {
-        "title": "[NEU] [mittel] drawio: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-22T12:12:02+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3506"
-      },
-      {
-        "title": "[NEU] [mittel] Webmin: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-22T12:12:02+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3504"
-      },
-      {
-        "title": "[NEU] [mittel] IBM App Connect Enterprise: Schwachstelle ermöglicht Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-22T12:12:02+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3505"
-      },
-      {
-        "title": "[UPDATE] [hoch] Joplin: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-22T10:49:06+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3298"
-      },
-      {
-        "title": "[UPDATE] [mittel] Netty: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-22T10:48:22+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2712"
-      },
-      {
-        "title": "[UPDATE] [mittel] OpenBao: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-22T07:51:31+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-2343"
       }
     ],
     "github": [
@@ -247,78 +319,6 @@
         "published_at": "2026-09-22T02:30:12+00:00",
         "relevance_score": 8,
         "url": "https://e27.co/ai-lets-outsiders-build-but-the-connected-still-have-an-advantage-20260920/"
-      }
-    ],
-    "geopolitics": [
-      {
-        "title": "[NEU] [mittel] vllm: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-22T12:12:03+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3507"
-      },
-      {
-        "title": "[NEU] [mittel] drawio: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-22T12:12:02+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3506"
-      },
-      {
-        "title": "[NEU] [mittel] Webmin: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-22T12:12:02+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3504"
-      },
-      {
-        "title": "[NEU] [mittel] IBM App Connect Enterprise: Schwachstelle ermöglicht Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-22T12:12:02+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3505"
-      },
-      {
-        "title": "Singapore’s MetaOptics eyes US expansion with potential US$10M warrant facility",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-22T07:00:50+00:00",
-        "relevance_score": 12,
-        "url": "https://e27.co/singapores-metaoptics-eyes-us-expansion-with-potential-us10m-warrant-facility-20260922/"
-      },
-      {
-        "title": "Your price problem is a positioning problem wearing a discount request",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-22T03:00:14+00:00",
-        "relevance_score": 11,
-        "url": "https://e27.co/your-price-problem-is-a-positioning-problem-wearing-a-discount-request-20260920/"
-      },
-      {
-        "title": "Fukuoka’s RAMEN TECH tests Japan’s startup pitch to Southeast Asia",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-22T08:29:35+00:00",
-        "relevance_score": 9,
-        "url": "https://e27.co/fukuokas-ramen-tech-tests-japans-startup-pitch-to-southeast-asia-20260922/"
-      },
-      {
-        "title": "Philip R. Lane: Interview with Le Temps",
-        "source": "ECB Press Releases Speeches Interviews",
-        "published_at": "2026-09-22T05:00:00+00:00",
-        "relevance_score": 8,
-        "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260922~5f89d300ee.en.html"
-      },
-      {
-        "title": "AI lets outsiders build but the connected still have an advantage",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-22T02:30:12+00:00",
-        "relevance_score": 8,
-        "url": "https://e27.co/ai-lets-outsiders-build-but-the-connected-still-have-an-advantage-20260920/"
-      },
-      {
-        "title": "The importance of being earnest - building a simpler and more competitive European banking market",
-        "source": "BIS Central Bankers Speeches",
-        "published_at": "2026-09-22T00:00:00+00:00",
-        "relevance_score": 8,
-        "url": "https://www.bis.org/speeches/20260922-importance-being-earnest-building-simpler-and-more-competitive-european-banking-market"
       }
     ],
     "economy": [
