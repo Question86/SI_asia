@@ -1,6 +1,6 @@
 # Economic Outcomes
 
-Generated: `2026-09-22T11:20:05+00:00`
+Generated: `2026-09-22T11:31:19+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
@@ -14,6 +14,7 @@ Generated: `2026-09-22T11:20:05+00:00`
 | .gitignore everything by default | $0 | — | 0 | 0 | dormant |
 | Skullcandy製ワイヤレスイヤホン「Dime 3」における不適切な認証の脆弱性 | $0 | — | 0 | 0 | dormant |
 | BuilderIO/agent-native | $0 | — | 0 | 0 | dormant |
+| 思考の外注割合を増やし、理解は外注しない - Konifar's ZATSU | $0 | — | 0 | 0 | active |
 | Southeast Asia’s chip-hub ambition is colliding with its chip-smuggling problem | $0 | — | 0 | 0 | dormant |
 | GitHub - minorun365/minorun-marp-skill: Marpで登壇スライドを作るための、ストーリー・図・デザインバランスのスキル集と黒地テーマ、検査ツール | $0 | — | 0 | 0 | dormant |
 | How we use AI to turn one article into audience-specific versions | $0 | — | 0 | 0 | dormant |
@@ -28,4 +29,3 @@ Generated: `2026-09-22T11:20:05+00:00`
 | AIのせいでエンジニアの75％を解雇したCSSフレームワークのTailwind、Shopifyによる買収を発表。今後も安定的な開発を維持すると | $0 | — | 0 | 0 | dormant |
 | The founder-to-minister pivot isn’t the problem, ASEAN’s missing governance infrastructure is | $0 | — | 0 | 0 | dormant |
 | M 5.0 - 281 km SSE of Dunhuang, China | $0 | — | 0 | 0 | dormant |
-| M 5.8 - Kermadec Islands, New Zealand | $0 | — | 0 | 0 | dormant |

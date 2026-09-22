@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-22T11:20:05+00:00",
+  "generated_at": "2026-09-22T11:31:19+00:00",
   "events": [
     {
       "event_id": "evt_00999a707b633ec75a8c",
@@ -111,6 +111,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_041ecbedea41eee2b644",
+      "title": "思考の外注割合を増やし、理解は外注しない - Konifar's ZATSU",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_04c8c9515e6d6caa68b7",
@@ -6138,7 +6149,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_ab8bebe9851784271f9a",
