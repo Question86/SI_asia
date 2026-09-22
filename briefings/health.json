@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-09-22T14:34:19+00:00",
+  "generated_at": "2026-09-22T14:46:45+00:00",
   "status": "warning",
   "mode": "hardened_monitor",
   "frontend_schema": "sections/counts compatible",
   "coverage_confidence": "limited",
   "counts": {
     "new_relevant_findings": 3,
-    "today_file_total": 53,
-    "displayed_findings": 53,
+    "today_file_total": 56,
+    "displayed_findings": 56,
     "high": 0,
     "medium": 18,
-    "observe": 35,
+    "observe": 38,
     "source_errors": 1
   },
   "source_errors": [
     {
-      "source_id": "openai_news_rss",
-      "source_name": "OpenAI News RSS",
+      "source_id": "google_trends_japan_hot",
+      "source_name": "Google Trends Japan Hot Feed",
       "source_type": "rss",
-      "error": "HTTPSConnectionPool(host='openai.com', port=443): Read timed out. (read timeout=8)"
+      "error": "HTTPSConnectionPool(host='trends.google.co.jp', port=443): Read timed out. (read timeout=8)"
     }
   ],
   "http_fetch_metrics": "briefings/http_fetch_metrics.json"

@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-22T14:34:19+00:00_
+_Generiert: 2026-09-22T14:46:45+00:00_
 
 ## Kurzlage
 
-53 neue relevante Treffer. Stärkstes Signal: „M 4.9 - Volcano Islands, Japan region“ aus USGS M4.5+ Earthquakes Past Hour (Score 18, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
+56 neue relevante Treffer. Stärkstes Signal: „M 4.9 - Volcano Islands, Japan region“ aus USGS M4.5+ Earthquakes Past Hour (Score 18, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -168,6 +168,33 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 「思考は外注できるが理解は外注できない」という AI の関わり方を端的に表したﾂｲｯﾄがある。 you can outsource your thinking but you cannot outsource your understanding you can outsource your thinking but you cannot outsource your understanding— kache (@yacineMTB) 2026年2月4日 Andrej Karpathy 氏も "ble...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **The importance of being earnest - building a simpler and more competitive European banking market** — Score 8, observation — [Quelle](https://www.bis.org/speeches/20260922-importance-being-earnest-building-simpler-and-more-competitive-european-banking-market)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-09-22T00:00:00+00:00`, fetched `2026-09-22T14:45:56+00:00`
+  - Treffer: banking, Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); banking (+2.5); recent (+1.0)
+  - Kurz: Speech by Mr Emmanuel Moulin, Governor of the Bank of France, at Eurofi, Dublin, 18 September 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **The future of euro cash - trusted today, designed for tomorrow** — Score 8, observation — [Quelle](https://www.bis.org/speeches/20260922-future-euro-cash-trusted-today-designed-tomorrow)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-09-22T00:00:00+00:00`, fetched `2026-09-22T14:45:56+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: Brussels (+2.0)
+  - Kurz: Keynote speech by Mr Piero Cipollone, Member of the Executive Board of the European Central Bank, at the House of the Euro, Brussels, 14 September 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Opening statement - House of Representatives Standing Committee on Economics** — Score 8, observation — [Quelle](https://www.bis.org/speeches/20260922-opening-statement-house-representatives-standing-committee-economics)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-09-22T00:00:00+00:00`, fetched `2026-09-22T14:45:56+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region australia: Australia, Canberra, Reserve Bank of Australia (+2.0)
+  - Kurz: Opening statement by Ms Michele Bullock, Governor of the Reserve Bank of Australia, to the House of Representatives Standing Committee on Economics, Canberra, 18 September 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Multiples vulnérabilités dans Google Pixel (16 septembre 2026)** — Score 8, observation — [Quelle](https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1176/)
   - Quelle: CERT-FR Avis de sécurité / `rss`
   - Zeit: published `2026-09-16T00:00:00+00:00`, fetched `2026-09-22T12:21:27+00:00`
@@ -186,33 +213,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)
   - Kurz: De multiples vulnérabilités ont été découvertes dans Apache Zookeeper. Elles permettent à un attaquant de provoquer une atteinte à la confidentialité des données, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **America is in the wrong AI race with China** — Score 7, observation — [Quelle](https://restofworld.org/2026/america-china-ai-race-trust/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
-  - Quelle: Rest of World Global Tech Feed / `rss`
-  - Zeit: published `2026-09-22T10:00:00+00:00`, fetched `2026-09-22T10:21:14+00:00`
-  - Treffer: AI/KI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); recent (+1.0); watchgraph region china_credible_only: China (+2.0)
-  - Kurz: The U.S. is framing its rivalry with China as one of technical superiority, failing to recognize that public trust and robust consumer protections are necessary for long-term dominance.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **The Spanish Survey of Household Finances (EFF) - more than 20 years of research experience and the way forward** — Score 6, opportunity — [Quelle](https://www.bis.org/speeches/20260922-spanish-survey-household-finances-eff-more-20-years-research-experience-and-way-forward)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-09-22T00:00:00+00:00`, fetched `2026-09-22T14:19:16+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0)
-  - Kurz: Remarks by Mr José Luis Escrivá, Governor of the Bank of Spain, at the conference “The Spanish Survey of Household Finances (EFF): more than 20 years of research experience and the way forward”, organised by the Bank of Spain and the Center for Monetary and Financial Studies (CEMFI), Madrid, 4 September 2026.
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
-- **Statement - base rate of the National Bank of Kazakhstan** — Score 6, observation — [Quelle](https://www.bis.org/speeches/20260922-statement-base-rate-national-bank-kazakhstan)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-09-22T00:00:00+00:00`, fetched `2026-09-22T14:33:31+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0)
-  - Kurz: Statement by Mr Timur M Suleimenov, Governor of the National Bank of Kazakhstan, on the base rate of the National Bank of Kazakhstan, Astana, 4 September 2026.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
@@ -225,4 +225,4 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Quellenfehler
 
-- `openai_news_rss` (rss): HTTPSConnectionPool(host='openai.com', port=443): Read timed out. (read timeout=8)
+- `google_trends_japan_hot` (rss): HTTPSConnectionPool(host='trends.google.co.jp', port=443): Read timed out. (read timeout=8)
