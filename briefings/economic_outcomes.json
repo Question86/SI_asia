@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-22T07:55:45+00:00",
+  "generated_at": "2026-09-22T08:05:57+00:00",
   "events": [
     {
       "event_id": "evt_00999a707b633ec75a8c",
@@ -6039,7 +6039,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_a9168860075ad99c5a0d",
@@ -6264,12 +6264,12 @@
     {
       "event_id": "evt_b01010ae3b5a5885af0b",
       "title": "tanteki — 業務のための文書をもっと端的に",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -8316,7 +8316,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_e7eb9774be7e686a2b99",
