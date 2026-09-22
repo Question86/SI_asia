@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-22T20:43:23+00:00_
+_Generiert: 2026-09-22T20:51:28+00:00_
 
 ## Kurzlage
 
-70 neue relevante Treffer. Stärkstes Signal: „Version 1.0: F5 BIG-IP APM: Aktive Ausnutzug einer Zero-Day Schwachstelle“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 30, risk).
+71 neue relevante Treffer. Stärkstes Signal: „Version 1.0: F5 BIG-IP APM: Aktive Ausnutzug einer Zero-Day Schwachstelle“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 30, risk).
 
 ## Priorität Hoch
 
@@ -194,6 +194,15 @@ _Generiert: 2026-09-22T20:43:23+00:00_
   - Warum relevant: Security (+7.5); GitHub (+2.0); recent (+1.0)
   - Kurz: We’re removing several SSH algorithms, adding a new algorithm, and requiring larger RSA SSH keys to improve security. The changes are as follows: We’re removing the ability to use RSA… The post Security improvements for SSH appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.8 - 26 km NW of Houma, Tonga** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000twyf)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-22T20:46:25.040+00:00`, fetched `2026-09-22T20:51:00+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-22 20:11:50 UTC 2026-09-22 20:11:50 UTC at epicenter Location 20.984°S 175.461°W Depth 121.93 km (75.76 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.7 - 7 km WNW of La Gomera, Guatemala** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj58)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-22T12:19:06.640+00:00`, fetched `2026-09-22T12:21:27+00:00`
@@ -220,15 +229,6 @@ _Generiert: 2026-09-22T20:43:23+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+7.5)
   - Kurz: Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Introducing GPT-6 Sol and Luna** — Score 8, observation — [Quelle](https://openai.com/index/introducing-gpt-6-sol-and-luna)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-09-22T18:00:00+00:00`, fetched `2026-09-22T19:18:53+00:00`
-  - Treffer: OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+7.5); recent (+1.0)
-  - Kurz: Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
