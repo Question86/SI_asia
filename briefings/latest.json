@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-22T05:22:11+00:00",
-  "run_id": "2026-09-22T05:22:11+00:00",
+  "generated_at": "2026-09-22T05:33:44+00:00",
+  "run_id": "2026-09-22T05:33:44+00:00",
   "date": "2026-09-22",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 17
+      "configured_public_sources_only": 18
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 17,
-    "displayed_findings": 17,
+    "new_relevant_findings": 1,
+    "today_file_total": 18,
+    "displayed_findings": 18,
     "high": 0,
     "medium": 1,
-    "observe": 16,
+    "observe": 17,
     "source_errors": 0
   },
   "sections": {
@@ -151,6 +151,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "957af5616bc412ecab7a"
+      },
+      {
+        "title": "TacnIQ.ai raises US$1.5M to teach machines the language of touch",
+        "url": "https://e27.co/tacniq-ai-raises-us1-5m-to-teach-machines-the-language-of-touch-20260922/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-22T05:31:46+00:00",
+        "fetched_at": "2026-09-22T05:33:11+00:00",
+        "summary": "For all the recent progress in artificial intelligence, most machines still struggle with something humans learn as children: touch. A worker can feel when a box is slipping, when a surface is unstable, or when a repeated movement is putting strain on the body. Robots and automated systems, by contrast, often rely heavily on cameras, […] The post TacnIQ.ai raises US$1.5M to teach machines the language of touch appea…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "afcf09b283eedbaaeb66"
       },
       {
         "title": "Philip R. Lane: Interview with Le Temps",
@@ -526,6 +547,27 @@
       "id": "957af5616bc412ecab7a"
     },
     {
+      "title": "TacnIQ.ai raises US$1.5M to teach machines the language of touch",
+      "url": "https://e27.co/tacniq-ai-raises-us1-5m-to-teach-machines-the-language-of-touch-20260922/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-22T05:31:46+00:00",
+      "fetched_at": "2026-09-22T05:33:11+00:00",
+      "summary": "For all the recent progress in artificial intelligence, most machines still struggle with something humans learn as children: touch. A worker can feel when a box is slipping, when a surface is unstable, or when a repeated movement is putting strain on the body. Robots and automated systems, by contrast, often rely heavily on cameras, […] The post TacnIQ.ai raises US$1.5M to teach machines the language of touch appea…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "afcf09b283eedbaaeb66"
+    },
+    {
       "title": "Philip R. Lane: Interview with Le Temps",
       "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260922~5f89d300ee.en.html",
       "source": "ECB Press Releases Speeches Interviews",
@@ -777,45 +819,25 @@
   ],
   "new_findings": [
     {
-      "title": "Supercell backs Hyperbond Studio as Call Me Sensei bets on AI romance for language learning",
-      "url": "https://e27.co/supercell-backs-hyperbond-studio-as-call-me-sensei-bets-on-ai-romance-for-language-learning-20260922/",
+      "title": "TacnIQ.ai raises US$1.5M to teach machines the language of touch",
+      "url": "https://e27.co/tacniq-ai-raises-us1-5m-to-teach-machines-the-language-of-touch-20260922/",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-09-22T05:00:40+00:00",
-      "fetched_at": "2026-09-22T05:21:40+00:00",
-      "summary": "For Hyperbond Studio, the question was never only whether artificial intelligence could teach a language. It was whether people would keep coming back long enough for the teaching to matter. The Singapore-based startup, best known for its AI language-learning dating simulation app Call Me Sensei, has secured backing from Supercell, the Finnish gaming company behind […] The post Supercell backs Hyperbond Studio as Ca…",
+      "published_at": "2026-09-22T05:31:46+00:00",
+      "fetched_at": "2026-09-22T05:33:11+00:00",
+      "summary": "For all the recent progress in artificial intelligence, most machines still struggle with something humans learn as children: touch. A worker can feel when a box is slipping, when a surface is unstable, or when a repeated movement is putting strain on the body. Robots and automated systems, by contrast, often rely heavily on cameras, […] The post TacnIQ.ai raises US$1.5M to teach machines the language of touch appea…",
       "matched_keywords": [
         "AI/KI",
         "APAC Trend Radar"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "957af5616bc412ecab7a"
-    },
-    {
-      "title": "Philip R. Lane: Interview with Le Temps",
-      "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260922~5f89d300ee.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
-      "source_type": "rss",
-      "published_at": "2026-09-22T05:00:00+00:00",
-      "fetched_at": "2026-09-22T05:21:40+00:00",
-      "summary": "Philip R. Lane: Interview with Le Temps",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
       "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "ebb65b669ea5b26dd32f"
+      "id": "afcf09b283eedbaaeb66"
     }
   ],
   "source_errors": [],
