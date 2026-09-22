@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T22:19:11+00:00",
+  "generated_at": "2026-09-22T22:29:42+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 74,
@@ -93,47 +93,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-08-28T14:08:37+00:00"
-    },
-    {
-      "key": "domain:openai.com",
-      "title": "Priorities and principles for effective third party assessments",
-      "sources": [
-        "OpenAI News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://openai.com/index/priorities-principles-third-party-assessments",
-        "https://openai.com/index/better-prompt-caching-for-gpt-6",
-        "https://openai.com/index/introducing-gpt-6-sol-and-luna",
-        "https://openai.com/index/parallel-cuts-time-and-cost-with-astra"
-      ],
-      "finding_count": 4,
-      "max_score": 12,
-      "credibility_total": 4.2,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 17.66,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 23.4,
-      "ranking_score": 17.66,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 1.66,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-17T20:44:40+00:00"
     },
     {
       "key": "domain:golang.org",
@@ -315,20 +274,20 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 15.22,
+      "network_score": 15.19,
       "hot": false,
       "watchgraph_modules": [
         "earthquakes_tsunami"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "raw_network_score": 20.4,
-      "ranking_score": 15.22,
+      "ranking_score": 15.19,
       "initial_reach_tier": "official",
       "source_reach_score": 4.0,
       "authority_bonus_capped": 2.4,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.82,
+      "baseline_bonus": 0.79,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -499,6 +458,47 @@
       "first_seen_at": "2026-09-12T05:30:29+00:00"
     },
     {
+      "key": "domain:openai.com",
+      "title": "Priorities and principles for effective third party assessments",
+      "sources": [
+        "OpenAI News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://openai.com/index/priorities-principles-third-party-assessments",
+        "https://openai.com/index/better-prompt-caching-for-gpt-6",
+        "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+        "https://openai.com/index/parallel-cuts-time-and-cost-with-astra"
+      ],
+      "finding_count": 4,
+      "max_score": 12,
+      "credibility_total": 4.2,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 14.09,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 20.4,
+      "ranking_score": 14.09,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.59,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-17T20:44:40+00:00"
+    },
+    {
       "key": "domain:cert.europa.eu",
       "title": "2026-013: Critical Vulnerability in F5 BIG-IP APM",
       "sources": [
@@ -635,18 +635,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 12.74,
+      "network_score": 12.71,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 15.2,
-      "ranking_score": 12.74,
+      "ranking_score": 12.71,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.24,
+      "baseline_bonus": 0.21,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -2042,7 +2042,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-22T22:19:12Z",
+    "generated_at": "2026-09-22T22:29:42Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
