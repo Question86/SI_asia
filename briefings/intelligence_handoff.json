@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-22T05:51:51Z",
+  "generated_at": "2026-09-22T06:23:49Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “M 5.0 - Volcano Islands, Japan region” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj3k",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-22T05:38:04.040+00:00",
-      "age_days": 0.01,
+      "age_days": 0.03,
       "topics": [
         "disaster"
       ],
@@ -39,35 +39,8 @@
       "title": "Supercell backs Hyperbond Studio as Call Me Sensei bets on AI romance for language learning",
       "url": "https://e27.co/supercell-backs-hyperbond-studio-as-call-me-sensei-bets-on-ai-romance-for-language-learning-20260922/",
       "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-22T05:22:15+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2",
-        "high terms: rce",
-        "security high-signal: rce",
-        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Supercell backs Hyperbond Studio as Call Me Sensei bets on AI romance for language learning",
-      "url": "https://e27.co/supercell-backs-hyperbond-studio-as-call-me-sensei-bets-on-ai-romance-for-language-learning-20260922/",
-      "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T05:00:40+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -89,11 +62,38 @@
       "summary": "For Hyperbond Studio, the question was never only whether artificial intelligence could teach a language. It was whether people would keep coming back long enough for the teaching to matter. The Singapore-based startup, best known for its AI language-learning dating simulation app Call Me Sensei, has secured backing f…"
     },
     {
+      "title": "Supercell backs Hyperbond Studio as Call Me Sensei bets on AI romance for language learning",
+      "url": "https://e27.co/supercell-backs-hyperbond-studio-as-call-me-sensei-bets-on-ai-romance-for-language-learning-20260922/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-22T05:22:15+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "high terms: rce",
+        "security high-signal: rce",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 4.7 - 54 km NNW of Ende, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj37",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-22T04:04:43.040+00:00",
-      "age_days": 0.07,
+      "age_days": 0.1,
       "topics": [
         "disaster"
       ],
@@ -118,7 +118,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj37",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-12T05:30:29+00:00",
-      "age_days": 10.01,
+      "age_days": 10.04,
       "topics": [
         "general"
       ],
@@ -142,7 +142,7 @@
       "url": "https://e27.co/the-compliance-paradox-more-checks-more-fraud-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T01:14:13+00:00",
-      "age_days": 0.19,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -166,7 +166,7 @@
       "url": "https://e27.co/startups-should-learn-to-leave-bad-markets-faster-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T04:09:14+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "macro"
       ],
@@ -192,7 +192,7 @@
       "url": "https://e27.co/your-price-problem-is-a-positioning-problem-wearing-a-discount-request-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T03:13:15+00:00",
-      "age_days": 0.11,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -216,7 +216,7 @@
       "url": "https://e27.co/vietnams-returning-engineers-are-high-quality-talent-keeping-them-is-the-real-problem-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T02:01:34+00:00",
-      "age_days": 0.16,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -240,25 +240,24 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj3k",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-06-18T20:05:28+00:00",
-      "age_days": 95.41,
+      "age_days": 95.43,
       "topics": [
         "disaster"
       ],
-      "dynamics_score": 19.9,
-      "raw_band": "strong",
+      "dynamics_score": 19.87,
+      "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 5.8,
+      "baseline_z_hint": 2.7,
       "security_high_signal": false,
-      "single_source_ai_capped": true,
+      "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 5.80",
-        "aging penalty -8.0 for 95.4d old signal",
-        "stale single-source cap: max watch after 14d without fresh resonance"
+        "baseline z_hint 2.70",
+        "aging penalty -8.0 for 95.4d old signal"
       ],
       "summary": ""
     },
@@ -267,7 +266,7 @@
       "url": "https://e27.co/bitcoins-us87000-spike-real-breakout-or-a-us900-million-short-squeeze-20260922/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T04:09:14+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -292,7 +291,7 @@
       "url": "https://e27.co/startups-should-learn-to-leave-bad-markets-faster-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-22T04:00:10+00:00",
-      "age_days": 0.08,
+      "age_days": 0.1,
       "topics": [
         "ai",
         "macro"
