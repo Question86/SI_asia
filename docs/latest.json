@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-22T11:30:35+00:00",
-  "run_id": "2026-09-22T11:30:35+00:00",
+  "generated_at": "2026-09-22T11:42:15+00:00",
+  "run_id": "2026-09-22T11:42:15+00:00",
   "date": "2026-09-22",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 39,
     "displayed_findings": 39,
     "high": 0,
@@ -1981,51 +1981,7 @@
       "id": "ddb70832220fd11ba6b2"
     }
   ],
-  "new_findings": [
-    {
-      "title": "思考の外注割合を増やし、理解は外注しない - Konifar's ZATSU",
-      "url": "https://konifar-zatsu.hatenadiary.jp/entry/2026/09/22/112134",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-22T02:43:17+00:00",
-      "fetched_at": "2026-09-22T11:30:03+00:00",
-      "summary": "「思考は外注できるが理解は外注できない」という AI の関わり方を端的に表したﾂｲｯﾄがある。 you can outsource your thinking but you cannot outsource your understanding you can outsource your thinking but you cannot outsource your understanding— kache (@yacineMTB) 2026年2月4日 Andrej Karpathy 氏も \"ble...",
-      "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "ae1f4ee78bc8e5345449"
-    },
-    {
-      "title": "あの名コンビの声が“公認AI”で6カ国語に！ 麻布台ヒルズ「まんが日本昔ばなし展」で体験するAI音声の最前線",
-      "url": "https://www.itmedia.co.jp/pcuser/articles/2609/22/news023.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-22T04:40:56+00:00",
-      "fetched_at": "2026-09-22T11:30:03+00:00",
-      "summary": "あの名コンビの声が“公認AI”で6カ国語に！ 麻布台ヒルズ「まんが日本昔ばなし展」で体験するAI音声の最前線：古田雄介のデステック探訪（1/2 ページ） 10月25日まで麻布台ヒルズで実施している「まんが日本昔ばなし展」では、市原悦子さんと常田富士男さんの声そのままに6カ国語で「かぐやひめ」が楽しめる。背景にはNT...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9b0683f25ba4523cefdf"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
