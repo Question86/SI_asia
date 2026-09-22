@@ -1,9 +1,10 @@
 # Economic Outcomes
 
-Generated: `2026-09-22T03:56:27+00:00`
+Generated: `2026-09-22T04:09:48+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
+| Startups should learn to leave bad markets faster | $0 | — | 0 | 0 | active |
 | M 4.6 - 12 km SE of La Parguera, Puerto Rico | $0 | — | 0 | 0 | dormant |
 | Multiples vulnérabilités dans Postfix (09 septembre 2026) | $0 | — | 0 | 0 | dormant |
 | ＡＩで数学の難問を解く行為は「科学や数学界に有害だ」…世界の数学者２５人が非難の緊急声明 | $0 | — | 0 | 0 | dormant |
@@ -28,4 +29,3 @@ Generated: `2026-09-22T03:56:27+00:00`
 | The founder-to-minister pivot isn’t the problem, ASEAN’s missing governance infrastructure is | $0 | — | 0 | 0 | dormant |
 | M 5.0 - 281 km SSE of Dunhuang, China | $0 | — | 0 | 0 | dormant |
 | M 5.8 - Kermadec Islands, New Zealand | $0 | — | 0 | 0 | dormant |
-| GitHub Advanced Security expands trial availability | $0 | — | 0 | 0 | dormant |
