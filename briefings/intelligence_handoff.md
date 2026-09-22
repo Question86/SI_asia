@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-22T03:42:08Z_
+_Generated: 2026-09-22T03:52:07Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “The compliance paradox: More checks, mor
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.0`
-- Published: `2026-09-22T01:14:13+00:00` / age_days `0.1`
+- Published: `2026-09-22T01:14:13+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “The compliance paradox: More checks, mor
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.0`
-- Published: `2026-09-22T02:01:34+00:00` / age_days `0.07`
+- Published: `2026-09-22T02:01:34+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -31,18 +31,18 @@ Stärkste Dynamik nach Gate-Recheck: “The compliance paradox: More checks, mor
 ### Your price problem is a positioning problem wearing a discount request
 
 - Band: `watch` (raw `watch`)
-- Dynamics score: `15.0`
-- Published: `2026-09-22T03:13:15+00:00` / age_days `0.02`
+- Dynamics score: `17.5`
+- Published: `2026-09-22T03:13:15+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1
+- Warum: momentum delta +2
 - Quelle: https://e27.co/your-price-problem-is-a-positioning-problem-wearing-a-discount-request-20260920/
 
 ### 「Excel」で貼り付けが“黙って”失敗する不具合、原因は9月の月例更新／一部バージョンで修正が進む
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `14.0`
-- Published: `2026-09-22T01:14:13+00:00` / age_days `0.1`
+- Published: `2026-09-22T01:14:13+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “The compliance paradox: More checks, mor
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `13.0`
-- Published: `2026-09-22T01:00:12+00:00` / age_days `0.11`
+- Published: `2026-09-22T01:00:12+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “The compliance paradox: More checks, mor
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `11.0`
-- Published: `2026-09-22T01:25:53+00:00` / age_days `0.09`
+- Published: `2026-09-22T01:25:53+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “The compliance paradox: More checks, mor
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `9.0`
-- Published: `2026-09-22T02:30:48+00:00` / age_days `0.05`
+- Published: `2026-09-22T02:30:48+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: momentum delta +3, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
@@ -91,28 +91,18 @@ Stärkste Dynamik nach Gate-Recheck: “The compliance paradox: More checks, mor
 ### ローカル動作するJevっぽいものを調べてたら、なんとマルチモーダル対応もできてた！ - Qiita
 
 - Band: `quiet` (raw `quiet`)
-- Dynamics score: `7.55`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `95.07`
+- Dynamics score: `7.48`
+- Published: `2026-06-19T01:58:32+00:00` / age_days `95.08`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, baseline z_hint 1.41, aging penalty -8.0 for 95.1d old signal
+- Warum: momentum delta +3, baseline z_hint 1.34, aging penalty -8.0 for 95.1d old signal
 - Quelle: https://qiita.com/moritalous/items/41c9402a5dd9d80fc7a9
-
-### Why Asia’s Physical AI boom will be decided at the camera, not the model
-
-- Band: `quiet` (raw `quiet`)
-- Dynamics score: `6.5`
-- Published: `2026-09-22T03:33:01+00:00` / age_days `0.01`
-- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +1, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://e27.co/why-asias-physical-ai-boom-will-be-decided-at-the-camera-not-the-model-20260921/
 
 ### 「Excel」で貼り付けが“黙って”失敗する不具合、原因は9月の月例更新／一部バージョンで修正が進む
 
 - Band: `quiet` (raw `quiet`)
 - Dynamics score: `5.0`
-- Published: `2026-09-21T08:43:35+00:00` / age_days `0.79`
+- Published: `2026-09-21T08:43:35+00:00` / age_days `0.8`
 - Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
@@ -127,5 +117,15 @@ Stärkste Dynamik nach Gate-Recheck: “The compliance paradox: More checks, mor
 - Senna: Beobachten, nicht aufblasen.
 - Warum: no strong comparative reason
 - Quelle: https://qiita.com/moritalous/items/41c9402a5dd9d80fc7a9
+
+### Why Asia’s Physical AI boom will be decided at the camera, not the model
+
+- Band: `quiet` (raw `quiet`)
+- Dynamics score: `4.0`
+- Published: `2026-09-22T03:33:01+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik wirkt aktuell wie Hintergrundrauschen.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: momentum delta +1, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://e27.co/why-asias-physical-ai-boom-will-be-decided-at-the-camera-not-the-model-20260921/
 
 END OF DOCUMENT
