@@ -1,18 +1,28 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-22T06:23:49Z_
+_Generated: 2026-09-22T06:52:43Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “M 5.0 - Volcano Islands, Japan region” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.
+Stärkste Dynamik nach Gate-Recheck: “M 4.9 - Volcano Islands, Japan region” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.
 
 ## Top Dynamics
+
+### M 4.9 - Volcano Islands, Japan region
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `26.0`
+- Published: `2026-09-22T06:30:53.040+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: early terms: earthquake, high terms: 10
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj3s
 
 ### M 5.0 - Volcano Islands, Japan region
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-22T05:38:04.040+00:00` / age_days `0.03`
+- Published: `2026-09-22T05:38:04.040+00:00` / age_days `0.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -22,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.0 - Volcano Islands, Japan region”
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-22T05:00:40+00:00` / age_days `0.06`
+- Published: `2026-09-22T05:00:40+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -32,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.0 - Volcano Islands, Japan region”
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-22T05:22:15+00:00` / age_days `0.04`
+- Published: `2026-09-22T05:22:15+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -42,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.0 - Volcano Islands, Japan region”
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-22T04:04:43.040+00:00` / age_days `0.1`
+- Published: `2026-09-22T04:04:43.040+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -52,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.0 - Volcano Islands, Japan region”
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.5`
-- Published: `2026-09-12T05:30:29+00:00` / age_days `10.04`
+- Published: `2026-09-12T05:30:29+00:00` / age_days `10.06`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -62,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.0 - Volcano Islands, Japan region”
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.0`
-- Published: `2026-09-22T01:14:13+00:00` / age_days `0.22`
+- Published: `2026-09-22T01:14:13+00:00` / age_days `0.24`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -72,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.0 - Volcano Islands, Japan region”
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.0`
-- Published: `2026-09-22T04:09:14+00:00` / age_days `0.09`
+- Published: `2026-09-22T04:09:14+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit
@@ -82,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.0 - Volcano Islands, Japan region”
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.0`
-- Published: `2026-09-22T03:13:15+00:00` / age_days `0.13`
+- Published: `2026-09-22T03:13:15+00:00` / age_days `0.15`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -92,40 +102,30 @@ Stärkste Dynamik nach Gate-Recheck: “M 5.0 - Volcano Islands, Japan region”
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `20.0`
-- Published: `2026-09-22T02:01:34+00:00` / age_days `0.18`
+- Published: `2026-09-22T02:01:34+00:00` / age_days `0.2`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
 - Quelle: https://e27.co/vietnams-returning-engineers-are-high-quality-talent-keeping-them-is-the-real-problem-20260920/
 
+### M 4.9 - Volcano Islands, Japan region
+
+- Band: `watch` (raw `strong`)
+- Dynamics score: `19.9`
+- Published: `2026-06-19T20:12:42+00:00` / age_days `94.44`
+- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +3, baseline z_hint 5.80, aging penalty -8.0 for 94.4d old signal, stale single-source cap: max watch after 14d without fresh resonance
+- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj3s
+
 ### M 5.0 - Volcano Islands, Japan region
 
 - Band: `watch` (raw `watch`)
-- Dynamics score: `19.87`
-- Published: `2026-06-18T20:05:28+00:00` / age_days `95.43`
+- Dynamics score: `19.76`
+- Published: `2026-06-18T20:05:28+00:00` / age_days `95.45`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, baseline z_hint 2.70, aging penalty -8.0 for 95.4d old signal
+- Warum: momentum delta +3, baseline z_hint 2.60, aging penalty -8.0 for 95.4d old signal
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj3k
-
-### Bitcoin’s US$87,000 spike: Real breakout or a US$900 million short squeeze?
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `18.0`
-- Published: `2026-09-22T04:09:14+00:00` / age_days `0.09`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, high terms: breakout
-- Quelle: https://e27.co/bitcoins-us87000-spike-real-breakout-or-a-us900-million-short-squeeze-20260922/
-
-### Startups should learn to leave bad markets faster
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `16.0`
-- Published: `2026-09-22T04:00:10+00:00` / age_days `0.1`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: early terms: local, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, single-source AI cap enforced after phrase recheck
-- Quelle: https://e27.co/startups-should-learn-to-leave-bad-markets-faster-20260921/
 
 END OF DOCUMENT
