@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-22T02:56:23+00:00_
+_Generiert: 2026-09-22T03:13:11+00:00_
 
 ## Kurzlage
 
-8 neue relevante Treffer. Stärkstes Signal: „The compliance paradox: More checks, more fraud“ aus e27 Asia Startup and Tech Feed (Score 13, risk).
+9 neue relevante Treffer. Stärkstes Signal: „The compliance paradox: More checks, more fraud“ aus e27 Asia Startup and Tech Feed (Score 13, risk). 1 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 ## Priorität Hoch
 
@@ -25,6 +25,15 @@ Keine neuen mittleren Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Reputationsrisiko (+8.8); recent (+1.0)
   - Kurz: The teller does not sound accusatory. The tone is worse than that. It is procedural. A man in his thirties slides his phone across the counter and points to the screen, a transfer that never arrived, a balance that will not move. The teller looks past the story and into the system. The account is […] The post The compliance paradox: More checks, more fraud appeared first on e27 .
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Your price problem is a positioning problem wearing a discount request** — Score 11, observation — [Quelle](https://e27.co/your-price-problem-is-a-positioning-problem-wearing-a-discount-request-20260920/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-22T03:00:14+00:00`, fetched `2026-09-22T03:12:35+00:00`
+  - Treffer: APAC Trend Radar, founder, Public Health
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Public Health (+5.0); founder (+2.0); recent (+1.0)
+  - Kurz: Ask most founders why a deal stalled and they’ll say the same thing: “they wanted a better price.” It’s the most comfortable explanation in the room, because it points outward — at the market, at the competitor who undercut you, at a buyer who’s “just being cheap.” A common counter-argument is worth taking seriously: a […] The post Your price problem is a positioning problem wearing a discount request appeared first…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Vietnam’s returning engineers are high-quality talent. Keeping them is the real problem** — Score 11, observation — [Quelle](https://e27.co/vietnams-returning-engineers-are-high-quality-talent-keeping-them-is-the-real-problem-20260920/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-22T02:00:36+00:00`, fetched `2026-09-22T02:00:53+00:00`
@@ -34,15 +43,6 @@ Keine neuen mittleren Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region usa: Silicon Valley (+2.0); watchgraph region japan: Tokyo (+2.0); watchgraph region south_korea: Seoul (+2.0)
   - Kurz: Every few months, another story circulates about Vietnamese-origin engineers leaving Silicon Valley, Tokyo, or Seoul to come home. The framing is almost always the same: here is an underused pool of senior talent, and here is why your company should go get some. That framing skips the harder question. Attracting a returning engineer is the […] The post Vietnam’s returning engineers are high-quality talent. Keeping t…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AI lets outsiders build but the connected still have an advantage** — Score 8, risk — [Quelle](https://e27.co/ai-lets-outsiders-build-but-the-connected-still-have-an-advantage-20260920/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-22T02:30:12+00:00`, fetched `2026-09-22T02:30:17+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
-  - Kurz: The next useful software product may come from someone your hiring process would reject. A paramedic. A teacher. A shop owner with no software credentials, but years of experience with a problem that nobody has bothered to fix. AI coding platforms give more of these people a way to build an answer. Whether anyone takes […] The post AI lets outsiders build but the connected still have an advantage appeared first on e…
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **「Excel」で貼り付けが“黙って”失敗する不具合、原因は9月の月例更新／一部バージョンで修正が進む** — Score 5, observation — [Quelle](https://forest.watch.impress.co.jp/docs/news/2142530.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-21T08:43:35+00:00`, fetched `2026-09-22T01:13:31+00:00`
@@ -87,3 +87,7 @@ Keine neuen mittleren Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `japan_digital_agency_news` (rss): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))

@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-22T02:56:23+00:00",
-  "status": "normal",
-  "coverage_confidence": "normal",
+  "generated_at": "2026-09-22T03:13:11+00:00",
+  "status": "warning",
+  "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 8,
-    "displayed_findings": 8,
+    "new_relevant_findings": 1,
+    "today_file_total": 9,
+    "displayed_findings": 9,
     "high": 0,
     "medium": 0,
-    "observe": 8
+    "observe": 9
   },
-  "source_errors_count": 0,
+  "source_errors_count": 1,
   "top_signals": [
     {
       "title": "The compliance paradox: More checks, more fraud",
@@ -22,6 +22,16 @@
       "relevance_score": 13,
       "url": "https://e27.co/the-compliance-paradox-more-checks-more-fraud-20260920/",
       "summary": "The teller does not sound accusatory. The tone is worse than that. It is procedural. A man in his thirties slides his phone across the counter and points to the screen, a transfer that never arrived, a balance that will not move. The teller looks past the sto…",
+      "section": "observe"
+    },
+    {
+      "title": "Your price problem is a positioning problem wearing a discount request",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-22T03:00:14+00:00",
+      "relevance_score": 11,
+      "url": "https://e27.co/your-price-problem-is-a-positioning-problem-wearing-a-discount-request-20260920/",
+      "summary": "Ask most founders why a deal stalled and they’ll say the same thing: “they wanted a better price.” It’s the most comfortable explanation in the room, because it points outward — at the market, at the competitor who undercut you, at a buyer who’s “just being c…",
       "section": "observe"
     },
     {
@@ -42,16 +52,6 @@
       "relevance_score": 8,
       "url": "https://e27.co/ai-lets-outsiders-build-but-the-connected-still-have-an-advantage-20260920/",
       "summary": "The next useful software product may come from someone your hiring process would reject. A paramedic. A teacher. A shop owner with no software credentials, but years of experience with a problem that nobody has bothered to fix. AI coding platforms give more o…",
-      "section": "observe"
-    },
-    {
-      "title": "Why AI literacy is becoming a business necessity, not a competitive advantage",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-22T01:30:31+00:00",
-      "relevance_score": 8,
-      "url": "https://e27.co/why-ai-literacy-is-becoming-a-business-necessity-not-a-competitive-advantage-20260920/",
-      "summary": "A generation ago, digital literacy was considered a specialist skill. Today, the ability to use digital tools, communicate online, and work with technology is a basic expectation across most industries. Artificial intelligence is following a similar path. Wha…",
       "section": "observe"
     }
   ],
