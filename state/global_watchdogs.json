@@ -1,55 +1,7 @@
 {
-  "generated_at": "2026-09-22T19:29:38+00:00",
+  "generated_at": "2026-09-22T19:40:42+00:00",
   "sections": {
     "global_security": [
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-93952 Arista VeloCloud Orchestrator",
-        "summary": "Known exploited vulnerability. Added 2026-09-22. Due 2026-09-25. Arista VeloCloud Orchestrator Improper Input Validation Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-09-22",
-        "metrics": {
-          "cve": "CVE-2026-93952"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-94127 F5 BIG-IP APM",
-        "summary": "Known exploited vulnerability. Added 2026-09-22. Due 2026-09-25. F5 BIG-IP APM Heap-based Buffer Overflow Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-09-22",
-        "metrics": {
-          "cve": "CVE-2026-94127"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-93616 Check Point Multiple Products",
-        "summary": "Known exploited vulnerability. Added 2026-09-22. Due 2026-09-25. Check Point Multiple Products Path Traversal Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-09-22",
-        "metrics": {
-          "cve": "CVE-2026-93616"
-        }
-      },
-      {
-        "domain": "security",
-        "severity": "high",
-        "title": "CISA KEV: CVE-2026-85102 Check Point Multiple Products",
-        "summary": "Known exploited vulnerability. Added 2026-09-22. Due 2026-09-25. Check Point Multiple Products Improper Certificate Validation Vulnerability",
-        "source": "CISA KEV",
-        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
-        "published_at": "2026-09-22",
-        "metrics": {
-          "cve": "CVE-2026-85102"
-        }
-      },
       {
         "domain": "security",
         "severity": "high",
@@ -60,6 +12,54 @@
         "published_at": "2026-09-21",
         "metrics": {
           "cve": "CVE-2026-7273"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2025-39964 Linux Kernel",
+        "summary": "Known exploited vulnerability. Added 2026-09-18. Due 2026-09-21. Linux Kernel Race Condition Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-09-18",
+        "metrics": {
+          "cve": "CVE-2025-39964"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-53266 Linux Kernel",
+        "summary": "Known exploited vulnerability. Added 2026-09-18. Due 2026-09-21. Linux Kernel Out-of-Bounds Write Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-09-18",
+        "metrics": {
+          "cve": "CVE-2026-53266"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2025-39682 Linux Kernel",
+        "summary": "Known exploited vulnerability. Added 2026-09-18. Due 2026-09-21. Linux Kernel Improper Check for Unusual or Exceptional Conditions Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-09-18",
+        "metrics": {
+          "cve": "CVE-2025-39682"
+        }
+      },
+      {
+        "domain": "security",
+        "severity": "high",
+        "title": "CISA KEV: CVE-2026-58704 Google Pixel",
+        "summary": "Known exploited vulnerability. Added 2026-09-16. Due 2026-09-19. Google Pixel Improper Authorization Vulnerability",
+        "source": "CISA KEV",
+        "url": "https://www.cisa.gov/known-exploited-vulnerabilities-catalog",
+        "published_at": "2026-09-16",
+        "metrics": {
+          "cve": "CVE-2026-58704"
         }
       },
       {
