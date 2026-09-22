@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-22T00:54:38+00:00",
+  "generated_at": "2026-09-22T01:14:29+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -6950,6 +6950,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_ac3452729e6faacff79f",
+      "title": "The compliance paradox: More checks, more fraud",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "compliance"
+      ],
+      "p10_usd": 114400.0,
+      "p50_usd": 11440000.0,
+      "p90_usd": 1144000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-22T01:14:13+00:00",
+      "last_seen_at": "2026-09-22T01:14:13+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_2a7631f0e872d9aad503",
       "title": "Should cybersecurity be nationalised?",
       "event_classes": [
@@ -11979,7 +11996,7 @@
       "p90_usd": 1080000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-29T12:58:27+00:00",
-      "last_seen_at": "2026-09-22T00:54:22+00:00",
+      "last_seen_at": "2026-09-22T01:14:13+00:00",
       "status": "active"
     },
     {
@@ -13596,6 +13613,23 @@
       "first_seen_at": "2026-09-08T01:40:08+00:00",
       "last_seen_at": "2026-09-08T05:58:24+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_e930a6647c29f3858950",
+      "title": "「Excel」で貼り付けが“黙って”失敗する不具合、原因は9月の月例更新／一部バージョンで修正が進む",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-22T01:14:13+00:00",
+      "last_seen_at": "2026-09-22T01:14:13+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_017c3d08edef1ec4ff45",
