@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-22T00:54:20+00:00",
-  "run_id": "2026-09-22T00:54:20+00:00",
+  "generated_at": "2026-09-22T01:14:10+00:00",
+  "run_id": "2026-09-22T01:14:10+00:00",
   "date": "2026-09-22",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 1
+      "configured_public_sources_only": 3
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,18 +18,60 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 1,
-    "displayed_findings": 1,
+    "new_relevant_findings": 2,
+    "today_file_total": 3,
+    "displayed_findings": 3,
     "high": 0,
     "medium": 0,
-    "observe": 1,
+    "observe": 3,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [],
     "observe": [
+      {
+        "title": "The compliance paradox: More checks, more fraud",
+        "url": "https://e27.co/the-compliance-paradox-more-checks-more-fraud-20260920/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-22T01:00:12+00:00",
+        "fetched_at": "2026-09-22T01:13:31+00:00",
+        "summary": "The teller does not sound accusatory. The tone is worse than that. It is procedural. A man in his thirties slides his phone across the counter and points to the screen, a transfer that never arrived, a balance that will not move. The teller looks past the story and into the system. The account is […] The post The compliance paradox: More checks, more fraud appeared first on e27 .",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Reputationsrisiko"
+        ],
+        "relevance_score": 13,
+        "relevance_reason": "APAC Trend Radar (+3.0); Reputationsrisiko (+8.8); recent (+1.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ae6547374bc6c98b6d1e"
+      },
+      {
+        "title": "「Excel」で貼り付けが“黙って”失敗する不具合、原因は9月の月例更新／一部バージョンで修正が進む",
+        "url": "https://forest.watch.impress.co.jp/docs/news/2142530.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-21T08:43:35+00:00",
+        "fetched_at": "2026-09-22T01:13:31+00:00",
+        "summary": "「Excel」で貼り付けが“黙って”失敗する不具合、原因は9月の月例更新／一部バージョンで修正が進む",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "787b7af939d1f9ac9dc2"
+      },
       {
         "title": "macOS 27にはローカルLLMが入っている - Qiita",
         "url": "https://qiita.com/chibicco/items/ef1a9e40c4cdf15d8e21",
@@ -55,6 +97,48 @@
   },
   "findings": [
     {
+      "title": "The compliance paradox: More checks, more fraud",
+      "url": "https://e27.co/the-compliance-paradox-more-checks-more-fraud-20260920/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-22T01:00:12+00:00",
+      "fetched_at": "2026-09-22T01:13:31+00:00",
+      "summary": "The teller does not sound accusatory. The tone is worse than that. It is procedural. A man in his thirties slides his phone across the counter and points to the screen, a transfer that never arrived, a balance that will not move. The teller looks past the story and into the system. The account is […] The post The compliance paradox: More checks, more fraud appeared first on e27 .",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Reputationsrisiko"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "APAC Trend Radar (+3.0); Reputationsrisiko (+8.8); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ae6547374bc6c98b6d1e"
+    },
+    {
+      "title": "「Excel」で貼り付けが“黙って”失敗する不具合、原因は9月の月例更新／一部バージョンで修正が進む",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2142530.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-21T08:43:35+00:00",
+      "fetched_at": "2026-09-22T01:13:31+00:00",
+      "summary": "「Excel」で貼り付けが“黙って”失敗する不具合、原因は9月の月例更新／一部バージョンで修正が進む",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "787b7af939d1f9ac9dc2"
+    },
+    {
       "title": "macOS 27にはローカルLLMが入っている - Qiita",
       "url": "https://qiita.com/chibicco/items/ef1a9e40c4cdf15d8e21",
       "source": "Hatena Bookmark Hotentry IT",
@@ -78,25 +162,46 @@
   ],
   "new_findings": [
     {
-      "title": "macOS 27にはローカルLLMが入っている - Qiita",
-      "url": "https://qiita.com/chibicco/items/ef1a9e40c4cdf15d8e21",
+      "title": "The compliance paradox: More checks, more fraud",
+      "url": "https://e27.co/the-compliance-paradox-more-checks-more-fraud-20260920/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-22T01:00:12+00:00",
+      "fetched_at": "2026-09-22T01:13:31+00:00",
+      "summary": "The teller does not sound accusatory. The tone is worse than that. It is procedural. A man in his thirties slides his phone across the counter and points to the screen, a transfer that never arrived, a balance that will not move. The teller looks past the story and into the system. The account is […] The post The compliance paradox: More checks, more fraud appeared first on e27 .",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Reputationsrisiko"
+      ],
+      "relevance_score": 13,
+      "relevance_reason": "APAC Trend Radar (+3.0); Reputationsrisiko (+8.8); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ae6547374bc6c98b6d1e"
+    },
+    {
+      "title": "「Excel」で貼り付けが“黙って”失敗する不具合、原因は9月の月例更新／一部バージョンで修正が進む",
+      "url": "https://forest.watch.impress.co.jp/docs/news/2142530.html",
       "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-19T08:41:31+00:00",
-      "fetched_at": "2026-09-22T00:53:51+00:00",
-      "summary": "macOS 27にはローカルLLMが入っている macOS 27には、Appleの言語モデルをTerminalから直接使える fm コマンドが入っています。 追加のアプリをインストールする必要はなく、APIキーもいりません。対応するMacなら、Terminalを開いて次の1行を入力するだけで会話を始められます。 いわゆる「ローカルLLM」がOSに最初から...",
+      "published_at": "2026-09-21T08:43:35+00:00",
+      "fetched_at": "2026-09-22T01:13:31+00:00",
+      "summary": "「Excel」で貼り付けが“黙って”失敗する不具合、原因は9月の月例更新／一部バージョンで修正が進む",
       "matched_keywords": [
         "Hatena",
         "hotentry"
       ],
-      "relevance_score": 4,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "bf1430c9462397586b44"
+      "id": "787b7af939d1f9ac9dc2"
     }
   ],
   "source_errors": [],
