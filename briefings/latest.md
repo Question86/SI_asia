@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-22T13:50:54+00:00_
+_Generiert: 2026-09-22T13:58:18+00:00_
 
 ## Kurzlage
 
-48 neue relevante Treffer. Stärkstes Signal: „M 4.9 - Volcano Islands, Japan region“ aus USGS M4.5+ Earthquakes Past Hour (Score 18, risk).
+49 neue relevante Treffer. Stärkstes Signal: „M 4.9 - Volcano Islands, Japan region“ aus USGS M4.5+ Earthquakes Past Hour (Score 18, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -74,7 +74,7 @@ _Generiert: 2026-09-22T13:50:54+00:00_
 
 - Kein aktives Signal aus den konfigurierten globalen Sensoren.
 
-- Sensor-Hinweis: Yahoo finance failed: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v7/finance/quote?symbols=BTC-USD,ETH-USD,GC%3DF,SI%3DF,GLD,SLV,SPY,QQQ,%5EGSPC,%5EIXIC,%5EDJI,%5EVIX,DX-Y.NYB,CL%3DF,COIN,MSTR,IBIT
+- Sensor-Hinweis: Yahoo finance failed: 401 Client Error: Unauthorized for url: https://query1.finance.yahoo.com/v7/finance/quote?symbols=BTC-USD,ETH-USD,GC%3DF,SI%3DF,GLD,SLV,SPY,QQQ,%5EGSPC,%5EIXIC,%5EDJI,%5EVIX,DX-Y.NYB,CL%3DF,COIN,MSTR,IBIT
 
 <!-- SENNA_GLOBAL_WATCHDOGS:END -->
 
