@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-09-22T07:50:47Z",
+  "generated_at": "2026-09-22T08:19:24Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -28,6 +28,11 @@
       "reason": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen."
     },
     {
+      "title": "[UPDATE] [mittel] OpenBao: Mehrere Schwachstellen",
+      "band": "strong",
+      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
+    },
+    {
       "title": "[UPDATE] [hoch] Veeam Backup & Replication: Mehrere Schwachstellen",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
@@ -38,12 +43,7 @@
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     },
     {
-      "title": "M 4.9 - Volcano Islands, Japan region",
-      "band": "strong",
-      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
-    },
-    {
-      "title": "M 5.0 - Volcano Islands, Japan region",
+      "title": "Sicherheitsupdates: Click2Shell-Lücke zum Kompromittieren von WordPress-Websites",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     },
@@ -53,12 +53,12 @@
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     },
     {
-      "title": "M 4.7 - 54 km NNW of Ende, Indonesia",
+      "title": "M 4.9 - Volcano Islands, Japan region",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     },
     {
-      "title": "M 4.7 - 54 km NNW of Ende, Indonesia",
+      "title": "M 5.0 - Volcano Islands, Japan region",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     }
