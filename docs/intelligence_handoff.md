@@ -1,28 +1,28 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-22T07:40:54Z_
+_Generated: 2026-09-22T07:50:47Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “Singapore’s MetaOptics eyes US expansion with potential US$10M warrant facility” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.5.
+Stärkste Dynamik nach Gate-Recheck: “[UPDATE] [hoch] Veeam Backup & Replication: Mehrere Schwachstellen” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.
 
 ## Top Dynamics
 
-### Singapore’s MetaOptics eyes US expansion with potential US$10M warrant facility
+### [UPDATE] [hoch] Veeam Backup & Replication: Mehrere Schwachstellen
 
 - Band: `strong` (raw `strong`)
-- Dynamics score: `26.5`
-- Published: `2026-09-22T07:19:03+00:00` / age_days `0.02`
+- Dynamics score: `26.0`
+- Published: `2026-09-22T07:41:31+00:00` / age_days `0.01`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +1, high terms: 10
-- Quelle: https://e27.co/singapores-metaoptics-eyes-us-expansion-with-potential-us10m-warrant-facility-20260922/
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: security high-signal: cert-bund, bsi, security, advisory
+- Quelle: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1712
 
 ### M 4.9 - Volcano Islands, Japan region
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-22T06:30:53.040+00:00` / age_days `0.05`
+- Published: `2026-09-22T06:30:53.040+00:00` / age_days `0.06`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “Singapore’s MetaOptics eyes US expansi
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-22T05:00:40+00:00` / age_days `0.11`
+- Published: `2026-09-22T05:00:40+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -58,11 +58,21 @@ Stärkste Dynamik nach Gate-Recheck: “Singapore’s MetaOptics eyes US expansi
 - Warum: momentum delta +3, high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
 - Quelle: https://e27.co/supercell-backs-hyperbond-studio-as-call-me-sensei-bets-on-ai-romance-for-language-learning-20260922/
 
+### Singapore’s MetaOptics eyes US expansion with potential US$10M warrant facility
+
+- Band: `strong` (raw `krass`)
+- Dynamics score: `24.9`
+- Published: `2026-09-22T07:19:03+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +2, high terms: 10, krass gate: single-source non-official/non-identity signal capped
+- Quelle: https://e27.co/singapores-metaoptics-eyes-us-expansion-with-potential-us10m-warrant-facility-20260922/
+
 ### M 4.7 - 54 km NNW of Ende, Indonesia
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-22T04:04:43.040+00:00` / age_days `0.15`
+- Published: `2026-09-22T04:04:43.040+00:00` / age_days `0.16`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
@@ -72,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “Singapore’s MetaOptics eyes US expansi
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.5`
-- Published: `2026-09-12T05:30:29+00:00` / age_days `10.09`
+- Published: `2026-09-12T05:30:29+00:00` / age_days `10.1`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -82,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “Singapore’s MetaOptics eyes US expansi
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `22.0`
-- Published: `2026-09-22T01:14:13+00:00` / age_days `0.27`
+- Published: `2026-09-22T01:14:13+00:00` / age_days `0.28`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -117,15 +127,5 @@ Stärkste Dynamik nach Gate-Recheck: “Singapore’s MetaOptics eyes US expansi
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
 - Quelle: https://e27.co/vietnams-returning-engineers-are-high-quality-talent-keeping-them-is-the-real-problem-20260920/
-
-### M 4.9 - Volcano Islands, Japan region
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `19.65`
-- Published: `2026-06-19T20:12:42+00:00` / age_days `94.48`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, baseline z_hint 2.50, aging penalty -8.0 for 94.5d old signal
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us7000tj3s
 
 END OF DOCUMENT
