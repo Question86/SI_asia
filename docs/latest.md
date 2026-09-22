@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-22T17:55:37+00:00_
+_Generiert: 2026-09-22T18:08:31+00:00_
 
 ## Kurzlage
 
-63 neue relevante Treffer. Stärkstes Signal: „Version 1.0: F5 BIG-IP APM: Aktive Ausnutzug einer Zero-Day Schwachstelle“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 30, risk).
+64 neue relevante Treffer. Stärkstes Signal: „Version 1.0: F5 BIG-IP APM: Aktive Ausnutzug einer Zero-Day Schwachstelle“ aus BSI CERT-Bund Cyber-Sicherheitswarnungen (Score 30, risk).
 
 ## Priorität Hoch
 
@@ -140,6 +140,15 @@ _Generiert: 2026-09-22T17:55:37+00:00_
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); safety (+2.0); recent (+1.0)
   - Kurz: OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Claude Opus 5.5 is now available in GitHub Copilot** — Score 11, observation — [Quelle](https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-09-22T17:10:23+00:00`, fetched `2026-09-22T18:08:02+00:00`
+  - Treffer: AI Agents, Copilot, GitHub
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+5.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
+  - Kurz: Claude Opus 5.5, Anthropic’s newest Opus model, is now available in GitHub Copilot. You can use it for agentic coding, long-running agentic tasks, and knowledge work. In early testing, Opus… The post Claude Opus 5.5 is now available in GitHub Copilot appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Sicherheitsupdates: Click2Shell-Lücke zum Kompromittieren von WordPress-Websites** — Score 11, observation — [Quelle](https://www.heise.de/news/Sicherheitsupdates-Click2Shell-Luecke-zum-Kompromittieren-von-WordPress-Websites-11460973.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-09-22T07:52:00.000+00:00`, fetched `2026-09-22T08:04:51+00:00`
@@ -220,15 +229,6 @@ _Generiert: 2026-09-22T17:55:37+00:00_
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: Brussels (+2.0)
   - Kurz: Keynote speech by Mr Piero Cipollone, Member of the Executive Board of the European Central Bank, at the House of the Euro, Brussels, 14 September 2026.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Opening statement - House of Representatives Standing Committee on Economics** — Score 8, observation — [Quelle](https://www.bis.org/speeches/20260922-opening-statement-house-representatives-standing-committee-economics)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-09-22T00:00:00+00:00`, fetched `2026-09-22T14:45:56+00:00`
-  - Treffer: Macro/Policy
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region australia: Australia, Canberra, Reserve Bank of Australia (+2.0)
-  - Kurz: Opening statement by Ms Michele Bullock, Governor of the Reserve Bank of Australia, to the House of Representatives Standing Committee on Economics, Canberra, 18 September 2026.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
