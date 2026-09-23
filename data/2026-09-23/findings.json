@@ -355,6 +355,42 @@
     "id": "a7d1f61ff302c9810a40"
   },
   {
+    "title": "M 5.3 - 51 km WSW of Arauco, Argentina",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx29",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-09-23T09:41:36.040+00:00",
+    "fetched_at": "2026-09-23T09:44:32+00:00",
+    "summary": "Time 2026-09-23 09:21:14 UTC 2026-09-23 09:21:14 UTC at epicenter Location 28.730°S 67.291°W Depth 121.53 km (75.52 mi)",
+    "matched_keywords": [
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 11,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Argentina (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "6b8b1d9e9d49c8328c21"
+  },
+  {
     "title": "3cat raises US$4M Series A to take used-device retail model from Malaysia to the Philippines",
     "url": "https://e27.co/3cat-raises-us4m-series-a-to-take-used-device-retail-model-from-malaysia-to-the-philippines-20260923/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -719,6 +755,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "525fbbb44511b914be4a"
+  },
+  {
+    "title": "Mixture of Experts 基礎技術メモ",
+    "url": "https://iwashi.co/2026/09/23/mixture-of-experts-moe-memo",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-09-23T07:32:13+00:00",
+    "fetched_at": "2026-09-23T09:44:32+00:00",
+    "summary": "はじめに 最近のオープンウェイトLLMを見渡すと、DeepSeek-V4.1-Flash(552B)、Kimi K3(2.8T)、MiMo-V2.6(1T)など、トップクラスのモデルのほぼすべてがMixture of Experts（以下、MoE）を採用している。本記事ではMoEに関する基礎的な技術をメモしていく。 本記事の内容はStanfordの授業、論文、テクニカルレポートなど...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4ee0adbb5bcb5c1d028c"
   },
   {
     "title": "JCOM障害「インターネットが使えない」 サポート窓口もつながりにくく",

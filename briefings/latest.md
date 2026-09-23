@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-23T09:31:53+00:00_
+_Generiert: 2026-09-23T09:45:06+00:00_
 
 ## Kurzlage
 
-35 neue relevante Treffer. Stärkstes Signal: „Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+37 neue relevante Treffer. Stärkstes Signal: „Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -183,6 +183,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+5.0); Basel (+2.5); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: As of the end of 2025, Basel III risk-based capital and leverage ratios remained stable for large internationally active banks compared with June 2025. The average Liquidity Coverage Ratio (LCR) of Group 1 banks improved slightly, while the Net Stable Funding Ratio (NSFR) decreased slightly. The average impact of the Basel III framework on Tier 1 minimum required capital (MRC) for Group 1 banks is +2.2%.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.3 - 51 km WSW of Arauco, Argentina** — Score 11, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx29)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-23T09:41:36.040+00:00`, fetched `2026-09-23T09:44:32+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph region south_america: Argentina (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-23 09:21:14 UTC 2026-09-23 09:21:14 UTC at epicenter Location 28.730°S 67.291°W Depth 121.53 km (75.52 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **3cat raises US$4M Series A to take used-device retail model from Malaysia to the Philippines** — Score 11, observation — [Quelle](https://e27.co/3cat-raises-us4m-series-a-to-take-used-device-retail-model-from-malaysia-to-the-philippines-20260923/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-23T04:07:26+00:00`, fetched `2026-09-23T04:18:18+00:00`
@@ -263,15 +272,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); recent (+1.0)
   - Kurz: Es sind wichtige Sicherheitsupdates für verschiedene Adobe-Anwendungen erschienen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **一日の作業をMarkdownに自動記録するAmbient Contextが良さげかも | kawarimidoll.com** — Score 7, observation — [Quelle](https://kawarimidoll.com/posts/202609222/)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-22T13:23:51+00:00`, fetched `2026-09-23T02:32:11+00:00`
-  - Treffer: GitHub, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
-  - Kurz: Macでの作業をMarkdownで自動記録してAIにまとめさせるAmbient Contextの紹介です。 GitHub - dragthelake/ambient-context: A menu bar app that keeps a written record of what you worked on. 機能 Tauri製のmacOSメニューバーアプリで、フォーカス中のウィンドウのテキストを数秒おきに拾ってMarkdownに蓄積します...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
