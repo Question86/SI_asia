@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-23T21:49:12Z",
+  "generated_at": "2026-09-23T22:12:47Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [hoch] GNU Emacs: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3534",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-23T11:39:23+00:00",
-      "age_days": 0.42,
+      "age_days": 0.44,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://www.heise.de/news/Cyberangriffe-auf-F5-BIG-IP-Check-Point-Security-und-Arista-VeloCloud-11462590.html",
       "source": "heise Security Alerts",
       "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 96.59,
+      "age_days": 96.61,
       "topics": [
         "security"
       ],
@@ -67,7 +67,7 @@
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260084.en.html",
       "source": "ECB Open Market Operations and Communication, ECB Press Releases Speeches Interviews",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 97.3,
+      "age_days": 97.32,
       "topics": [
         "general"
       ],
@@ -78,13 +78,13 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 2,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.64,
+      "baseline_z_hint": 0.36,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "source breadth +2",
         "momentum delta +3",
-        "baseline z_hint 0.64",
+        "baseline z_hint 0.36",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 97.3d old signal",
@@ -97,7 +97,7 @@
       "url": "https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-09-23T02:14:54+00:00",
-      "age_days": 0.82,
+      "age_days": 0.83,
       "topics": [
         "ai"
       ],
@@ -125,7 +125,7 @@
       "url": "https://e27.co/pinterest-and-shopee-link-up-to-bring-creator-led-shopping-to-indonesia-20260922/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T02:00:57+00:00",
-      "age_days": 0.83,
+      "age_days": 0.84,
       "topics": [
         "ai"
       ],
@@ -153,7 +153,7 @@
       "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
       "source": "OpenAI News RSS",
       "published_at": "2026-09-23T12:00:00+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "ai",
         "security"
@@ -179,7 +179,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3536",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-23T11:39:23+00:00",
-      "age_days": 0.42,
+      "age_days": 0.44,
       "topics": [
         "security"
       ],
@@ -205,7 +205,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3487",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-23T10:37:11+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "security"
       ],
@@ -231,7 +231,7 @@
       "url": "https://github.com/agent-substrate/substrate",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-23T05:49:52+00:00",
-      "age_days": 0.67,
+      "age_days": 0.68,
       "topics": [
         "ai",
         "security",
@@ -259,7 +259,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3497",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-23T10:37:11+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "security",
         "macro"
@@ -285,7 +285,7 @@
       "url": "https://github.com/dream-num/univer",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-23T05:50:23+00:00",
-      "age_days": 0.67,
+      "age_days": 0.68,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "krass",
