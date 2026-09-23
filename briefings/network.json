@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T03:37:17+00:00",
+  "generated_at": "2026-09-23T03:49:53+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 14,
@@ -66,19 +66,19 @@
       "max_score": 12,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 21.5,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 19.0,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 17.1,
-      "ranking_score": 21.5,
+      "raw_network_score": 14.1,
+      "ranking_score": 19.0,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
+      "momentum_bonus": 0.0,
       "baseline_bonus": 0.0,
       "early_signal": true,
       "early_signal_bonus": 5.5,
@@ -398,44 +398,6 @@
       "first_seen_at": "2026-06-19T09:22:22+00:00"
     },
     {
-      "key": "title:build-buy-why-custom-tools-are-winning-2026",
-      "title": "Build vs buy: Why custom tools are winning in 2026",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/3-in-4-organisations-are-embracing-low-code-when-should-a-business-build-instead-of-buy-20260920/"
-      ],
-      "finding_count": 1,
-      "max_score": 4,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 8.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 9.1,
-      "ranking_score": 8.0,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-09-23T03:37:17+00:00"
-    },
-    {
       "key": "title:fast-fashion-losing-its-fit",
       "title": "Is fast fashion losing its fit?",
       "sources": [
@@ -548,11 +510,49 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-06-19T01:58:32+00:00"
+    },
+    {
+      "key": "title:build-buy-why-custom-tools-are-winning-2026",
+      "title": "Build vs buy: Why custom tools are winning in 2026",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/3-in-4-organisations-are-embracing-low-code-when-should-a-business-build-instead-of-buy-20260920/"
+      ],
+      "finding_count": 1,
+      "max_score": 4,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 5.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 6.1,
+      "ranking_score": 5.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-23T03:37:17+00:00"
     }
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-23T03:37:17Z",
+    "generated_at": "2026-09-23T03:49:54Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
