@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T07:11:33+00:00",
+  "generated_at": "2026-09-23T07:31:27+00:00",
   "events": [
     {
       "event_id": "evt_00999a707b633ec75a8c",
@@ -2321,7 +2321,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_43a66ad3fda61d859fca",
@@ -3003,7 +3003,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_54b7eba72ac81a7ece83",
@@ -3921,12 +3921,12 @@
     {
       "event_id": "evt_6bfa33bc265af81c7aa1",
       "title": "トランプ大統領、国連演説で「AI」を「Super Intelligence」に改称すると表明",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
