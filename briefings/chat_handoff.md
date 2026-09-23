@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-23T07:10:56+00:00_
+_Generated: 2026-09-23T07:30:49+00:00_
 
 ## Status
 - status: `normal`
-- findings: `28`
+- findings: `29`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-09-23T07:10:56+00:00_
 - url: https://dev.classmethod.jp/articles/aws-devops-agent-Illustration/
 - summary: AWS DevOps Agentの設定はCapability Providers、Agent Space、Web Appの3階層に分かれます。外部サービスの接続、調査スコープと3つのIAMロール、ナレッジやカスタムエージェントまで、どこで何を設定するのかを図解で整理しました。 はじめに 今回は、AWS DevOps Agentの構造を改めて正確に理解するために図解していき...
 
-### 6. Why Southeast Asia’s next healthtech winners will be built around healthcare workflows, not just AI
+### 6. Announcing 20260084 (OT,liquidity providing), for 7 days deadline 09:45
+- source: ECB Open Market Operations and Communication
+- score: `12`
+- published: `2026-09-23T08:15:17+00:00`
+- url: http://www.ecb.europa.eu/mopo/implement/omo/html/20260084.en.html
+- summary: Announcing 20260084 (OT,liquidity providing), for 7 days deadline 09:45
+
+### 7. Why Southeast Asia’s next healthtech winners will be built around healthcare workflows, not just AI
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-09-23T03:30:05+00:00`
 - url: https://e27.co/why-southeast-asias-next-healthtech-winners-will-be-built-around-healthcare-workflows-not-just-ai-20260921/
 - summary: Artificial intelligence has become one of the most exciting areas of healthcare innovation. From clinical documentation and diagnostics to patient engagement and remote monitoring, founders are finding new ways to bring AI into almost every part of the health…
 
-### 7. MSME development doesn’t need invention, only connection
+### 8. MSME development doesn’t need invention, only connection
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-09-23T02:00:53+00:00`
 - url: https://e27.co/msme-development-doesnt-need-invention-only-connection-20260920/
 - summary: Capital, training and compliance support for small businesses already exist. What is missing is a system that connects them around the same business journey. Every day, we are adopting new technology, learning new skills and starting new businesses. Yet the m…
-
-### 8. 3cat raises US$4M Series A to take used-device retail model from Malaysia to the Philippines
-- source: e27 Asia Startup and Tech Feed
-- score: `11`
-- published: `2026-09-23T04:07:26+00:00`
-- url: https://e27.co/3cat-raises-us4m-series-a-to-take-used-device-retail-model-from-malaysia-to-the-philippines-20260923/
-- summary: For many consumers in Southeast Asia, the smartphone has become both a work tool and a status symbol. It is also getting harder to afford. That tension sits at the centre of 3cat’s next phase of growth. The Singapore-incorporated, Malaysia-born retailer of pr…
 
 END OF DOCUMENT

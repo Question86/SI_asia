@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T07:10:56+00:00",
-  "run_id": "2026-09-23T07:10:56+00:00",
+  "generated_at": "2026-09-23T07:30:49+00:00",
+  "run_id": "2026-09-23T07:30:49+00:00",
   "date": "2026-09-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 28
+      "configured_public_sources_only": 29
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 28,
-    "displayed_findings": 28,
+    "today_file_total": 29,
+    "displayed_findings": 29,
     "high": 0,
     "medium": 6,
-    "observe": 22,
+    "observe": 23,
     "source_errors": 0
   },
   "sections": {
@@ -254,6 +254,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "5d9ba83919d204fcfceb"
+      },
+      {
+        "title": "Announcing 20260084 (OT,liquidity providing), for 7 days deadline 09:45",
+        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260084.en.html",
+        "source": "ECB Open Market Operations and Communication",
+        "source_type": "rss",
+        "published_at": "2026-09-23T08:15:17+00:00",
+        "fetched_at": "2026-09-23T07:30:22+00:00",
+        "summary": "Announcing 20260084 (OT,liquidity providing), for 7 days deadline 09:45",
+        "matched_keywords": [
+          "liquidity",
+          "Macro/Policy",
+          "open market operations"
+        ],
+        "relevance_score": 12,
+        "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "f039b673867d46c7b33b"
       },
       {
         "title": "Why Southeast Asia’s next healthtech winners will be built around healthcare workflows, not just AI",
@@ -963,6 +985,28 @@
       "id": "5d9ba83919d204fcfceb"
     },
     {
+      "title": "Announcing 20260084 (OT,liquidity providing), for 7 days deadline 09:45",
+      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260084.en.html",
+      "source": "ECB Open Market Operations and Communication",
+      "source_type": "rss",
+      "published_at": "2026-09-23T08:15:17+00:00",
+      "fetched_at": "2026-09-23T07:30:22+00:00",
+      "summary": "Announcing 20260084 (OT,liquidity providing), for 7 days deadline 09:45",
+      "matched_keywords": [
+        "liquidity",
+        "Macro/Policy",
+        "open market operations"
+      ],
+      "relevance_score": 12,
+      "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "f039b673867d46c7b33b"
+    },
+    {
       "title": "Why Southeast Asia’s next healthtech winners will be built around healthcare workflows, not just AI",
       "url": "https://e27.co/why-southeast-asias-next-healthtech-winners-will-be-built-around-healthcare-workflows-not-just-ai-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -1445,26 +1489,26 @@
   ],
   "new_findings": [
     {
-      "title": "トランプ大統領、国連演説で「AI」を「Super Intelligence」に改称すると表明",
-      "url": "https://www.itmedia.co.jp/news/article/2609/23/2000001676/",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Announcing 20260084 (OT,liquidity providing), for 7 days deadline 09:45",
+      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260084.en.html",
+      "source": "ECB Open Market Operations and Communication",
       "source_type": "rss",
-      "published_at": "2026-09-23T02:04:25+00:00",
-      "fetched_at": "2026-09-23T07:10:28+00:00",
-      "summary": "ドナルド・トランプ米大統領は9月22日（現地時間）、米ニューヨークの国連本部で開催中の第81回国連総会の一般討論演説で、人工知能（Artificial Intelligence）を今後「Super Intelligence」（SI）と呼ぶと表明した。米国の全ての文書でこの呼称を使い、他国にも同様の変更を求めていく考えを示した。 トランプ氏は、AI...",
+      "published_at": "2026-09-23T08:15:17+00:00",
+      "fetched_at": "2026-09-23T07:30:22+00:00",
+      "summary": "Announcing 20260084 (OT,liquidity providing), for 7 days deadline 09:45",
       "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
+        "liquidity",
+        "Macro/Policy",
+        "open market operations"
       ],
-      "relevance_score": 9,
-      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 12,
+      "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "4c4f3e9da66758460d9a"
+      "id": "f039b673867d46c7b33b"
     }
   ],
   "source_errors": [],
