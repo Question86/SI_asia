@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T01:40:06+00:00",
-  "run_id": "2026-09-23T01:40:06+00:00",
+  "generated_at": "2026-09-23T01:54:59+00:00",
+  "run_id": "2026-09-23T01:54:59+00:00",
   "date": "2026-09-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 6,
     "displayed_findings": 6,
     "high": 0,
@@ -347,53 +347,7 @@
       "id": "5a1790aa698f37033eb6"
     }
   ],
-  "new_findings": [
-    {
-      "title": "AWS DevOps Agentの全体構造と設定箇所を図解してみた | DevelopersIO",
-      "url": "https://dev.classmethod.jp/articles/aws-devops-agent-Illustration/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-22T05:17:50+00:00",
-      "fetched_at": "2026-09-23T01:39:34+00:00",
-      "summary": "AWS DevOps Agentの設定はCapability Providers、Agent Space、Web Appの3階層に分かれます。外部サービスの接続、調査スコープと3つのIAMロール、ナレッジやカスタムエージェントまで、どこで何を設定するのかを図解で整理しました。 はじめに 今回は、AWS DevOps Agentの構造を改めて正確に理解するために図解していき...",
-      "matched_keywords": [
-        "agent",
-        "developer",
-        "Hatena",
-        "hotentry",
-        "Webentwicklung"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0); developer (+2.5); agent (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5d9ba83919d204fcfceb"
-    },
-    {
-      "title": "Containerisation explains why AI investment may continue even without returns",
-      "url": "https://e27.co/containerisation-explains-why-ai-investment-may-continue-even-without-returns-20260916/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-23T01:30:49+00:00",
-      "fetched_at": "2026-09-23T01:39:34+00:00",
-      "summary": "Boston Consulting Group recently found that 94 per cent of organisations planned to keep investing in AI even if it did not deliver returns in 2026. At first glance, that sounds irrational. Companies normally invest because they expect a financial return. If the return is not appearing, investment should slow. But there is another kind […] The post Containerisation explains why AI investment may continue even withou…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "22f66c813294b08f31a9"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
