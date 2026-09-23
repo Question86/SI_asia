@@ -235,6 +235,43 @@
     "id": "9033b923531b5ee4a8e7"
   },
   {
+    "title": "M 4.6 - 106 km WNW of Ternate, Indonesia",
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx31",
+    "source": "USGS M4.5+ Earthquakes Past Hour",
+    "source_type": "rss",
+    "published_at": "2026-09-23T13:15:01.040+00:00",
+    "fetched_at": "2026-09-23T13:20:18+00:00",
+    "summary": "Time 2026-09-23 12:23:20 UTC 2026-09-23 12:23:20 UTC at epicenter Location 1.217°N 126.526°E Depth 48.46 km (30.11 mi)",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "Climate/Disaster Infrastructure",
+      "Watchgraph:earthquakes_tsunami"
+    ],
+    "relevance_score": 15,
+    "relevance_reason": "Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [
+      "earthquakes_tsunami"
+    ],
+    "watchgraph_reasons": [
+      "earthquakes_tsunami: earthquake"
+    ],
+    "market_context": [
+      "MUV2.DE",
+      "SREN.SW",
+      "RNR",
+      "WRB",
+      "CAT",
+      "VMC",
+      "MLM",
+      "HOLN.SW",
+      "HD",
+      "LOW"
+    ],
+    "id": "cfb9291b263c35ce0b92"
+  },
+  {
     "title": "M 4.5 - 63 km NE of Ruteng, Indonesia",
     "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx08",
     "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -993,6 +1030,143 @@
     "id": "22f66c813294b08f31a9"
   },
   {
+    "title": "Multiples vulnérabilités dans Oracle Weblogic (16 septembre 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1186/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-09-16T00:00:00+00:00",
+    "fetched_at": "2026-09-23T13:20:18+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Weblogic. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "cc0abfb507093b7d3d58"
+  },
+  {
+    "title": "Multiples vulnérabilités dans Oracle Virtualization (16 septembre 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1188/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-09-16T00:00:00+00:00",
+    "fetched_at": "2026-09-23T13:20:18+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Virtualization. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et une atteinte à la confidentialité des données.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "288f28a1a92f1a62781c"
+  },
+  {
+    "title": "Multiples vulnérabilités dans Oracle PeopleSoft (16 septembre 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1187/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-09-16T00:00:00+00:00",
+    "fetched_at": "2026-09-23T13:20:18+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans Oracle PeopleSoft. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à la confidentialité des données et une atteinte à l'intégrité des données.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "4f1802c4cbe126cb01df"
+  },
+  {
+    "title": "Multiples vulnérabilités dans Oracle Java SE (16 septembre 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1185/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-09-16T00:00:00+00:00",
+    "fetched_at": "2026-09-23T13:20:18+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Java SE. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "9b9e955ca19c1b11bc88"
+  },
+  {
+    "title": "Multiples vulnérabilités dans Oracle Database Server (16 septembre 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1184/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-09-16T00:00:00+00:00",
+    "fetched_at": "2026-09-23T13:20:18+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans Oracle Database Server. Elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance et un déni de service à distance.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "29ebf6a78a31e89b497b"
+  },
+  {
+    "title": "Version 1.0: Check Point - Angreifer nutzen Schwachstellen seit Sommer aus",
+    "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-289157-1032_bits.html",
+    "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
+    "source_type": "rss",
+    "published_at": "2026-09-23T13:15:00+00:00",
+    "fetched_at": "2026-09-23T13:20:18+00:00",
+    "summary": "Version 1.0: Check Point - Angreifer nutzen Schwachstellen seit Sommer aus",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Cyber-Sicherheitswarnung"
+    ],
+    "relevance_score": 7,
+    "relevance_reason": "BSI (+2.0); CERT-Bund (+2.0); Cyber-Sicherheitswarnung (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "c20813f9203ee4bd81a2"
+  },
+  {
     "title": "UniFi Gateways und Firewalls: Ubiquiti schließt DoS-Lücken",
     "url": "https://www.heise.de/news/Ubiquiti-schliesst-Denial-of-Service-Luecken-in-Firewalls-und-Gateways-11463176.html",
     "source": "heise Security Alerts",
@@ -1303,6 +1477,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "065c50cb401079300da6"
+  },
+  {
+    "title": "Developers want more efficient software. Here’s what over 1000 GitHub users told us they need.",
+    "url": "https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need/",
+    "source": "GitHub Blog Atom",
+    "source_type": "rss",
+    "published_at": "2026-09-23T13:00:00+00:00",
+    "fetched_at": "2026-09-23T13:20:18+00:00",
+    "summary": "New research from GitHub and Yale Program on Climate Change Communication finds strong demand for tools, measurement, and practical guidance that can help developers reduce wasted compute. The post Developers want more efficient software. Here’s what over 1000 GitHub users told us they need. appeared first on The GitHub Blog .",
+    "matched_keywords": [
+      "GitHub"
+    ],
+    "relevance_score": 4,
+    "relevance_reason": "GitHub (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d5326f55b90db2f2c311"
   },
   {
     "title": "Ethereum’s US$2,800 wall: Why bulls keep failing at the same level",
