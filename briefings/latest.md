@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-23T06:30:57+00:00_
+_Generiert: 2026-09-23T06:55:54+00:00_
 
 ## Kurzlage
 
-26 neue relevante Treffer. Stärkstes Signal: „Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+27 neue relevante Treffer. Stärkstes Signal: „Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -201,6 +201,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Open Source (+3.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
   - Kurz: Understand how Copilot agents perform and interact with models and tools. The GitHub Copilot app now supports OpenTelemetry (OTel) configuration through enterprise-managed settings. OTel is an open source observability framework.… The post OpenTelemetry in the GitHub Copilot app appeared first on The GitHub Blog .
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Cyberangriffe auf F5 BIG-IP, Check Point Security und Arista VeloCloud** — Score 8, observation — [Quelle](https://www.heise.de/news/Cyberangriffe-auf-F5-BIG-IP-Check-Point-Security-und-Arista-VeloCloud-11462590.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-09-23T06:36:00.000+00:00`, fetched `2026-09-23T06:55:23+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+7.5); recent (+1.0)
+  - Kurz: Aktuell laufen Angriffe auf Sicherheitslücken in F5 BIG-IP APM, Check-Point-Produkte und Arista VeloCloud Orchestrator.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **一日の作業をMarkdownに自動記録するAmbient Contextが良さげかも | kawarimidoll.com** — Score 7, observation — [Quelle](https://kawarimidoll.com/posts/202609222/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-22T13:23:51+00:00`, fetched `2026-09-23T02:32:11+00:00`
