@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T20:32:25+00:00",
+  "generated_at": "2026-09-23T20:58:17+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 79,
@@ -10,51 +10,6 @@
     "dominance_penalized": 11
   },
   "clusters": [
-    {
-      "key": "domain:openai.com",
-      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "sources": [
-        "OpenAI News RSS"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://openai.com/index/ringg",
-        "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-        "https://openai.com/index/two-years-of-openai-academy",
-        "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-        "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-        "https://openai.com/index/invideo-builds-with-gpt-6-astra"
-      ],
-      "finding_count": 6,
-      "max_score": 20,
-      "credibility_total": 6.3,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 23.51,
-      "hot": false,
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 32.6,
-      "ranking_score": 23.51,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 2.01,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-17T20:44:40+00:00"
-    },
     {
       "key": "title:meta-singapore-police-disrupt-scam-linked-assets-across",
       "title": "Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram",
@@ -134,6 +89,51 @@
       "first_seen_at": "2026-09-23T01:21:48+00:00"
     },
     {
+      "key": "domain:openai.com",
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "sources": [
+        "OpenAI News RSS"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://openai.com/index/ringg",
+        "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+        "https://openai.com/index/two-years-of-openai-academy",
+        "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+        "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+        "https://openai.com/index/invideo-builds-with-gpt-6-astra"
+      ],
+      "finding_count": 6,
+      "max_score": 20,
+      "credibility_total": 6.3,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 23.37,
+      "hot": false,
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 32.6,
+      "ranking_score": 23.37,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 1.87,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-17T20:44:40+00:00"
+    },
+    {
       "key": "domain:www.ecb.europa.eu",
       "title": "Announcing 20260084 (OT,liquidity providing), for 7 days deadline 09:45",
       "sources": [
@@ -156,18 +156,18 @@
       "cross_source_confirmed": true,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 21.04,
+      "network_score": 20.98,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 26.4,
-      "ranking_score": 21.04,
+      "ranking_score": 20.98,
       "initial_reach_tier": "institutional",
       "source_reach_score": 5.0,
       "authority_bonus_capped": 3.0,
       "breadth_bonus": 5.5,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.54,
+      "baseline_bonus": 0.48,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -2349,7 +2349,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-23T20:32:26Z",
+    "generated_at": "2026-09-23T20:58:18Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
