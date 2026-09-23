@@ -1,13 +1,13 @@
 # Economic Outcomes
 
-Generated: `2026-09-23T20:58:57+00:00`
+Generated: `2026-09-23T21:18:15+00:00`
 
 | Event | Gross attributed | Net attributed | Evidence | Buckets | Status |
 |---|---:|---:|---:|---:|---|
 | Startups should learn to leave bad markets faster | $0 | — | 0 | 0 | dormant |
 | M 4.6 - 12 km SE of La Parguera, Puerto Rico | $0 | — | 0 | 0 | dormant |
 | Multiples vulnérabilités dans Postfix (09 septembre 2026) | $0 | — | 0 | 0 | dormant |
-| AI投資1兆ドルの帳尻は？ 「生産性2.7倍が必要」と 経済学者たちは試算する | $0 | — | 0 | 0 | active |
+| AI投資1兆ドルの帳尻は？ 「生産性2.7倍が必要」と 経済学者たちは試算する | $0 | — | 0 | 0 | dormant |
 | ＡＩで数学の難問を解く行為は「科学や数学界に有害だ」…世界の数学者２５人が非難の緊急声明 | $0 | — | 0 | 0 | dormant |
 | anthropics/financial-services | $0 | — | 0 | 0 | dormant |
 | Can Ethereum clear US$2,672 this week and unlock a run to US$3,000? | $0 | — | 0 | 0 | dormant |
