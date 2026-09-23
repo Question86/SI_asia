@@ -1,15 +1,18 @@
 # Economic Evidence Review
 
-Generated: `2026-09-23T14:00:33+00:00`
+Generated: `2026-09-23T14:23:17+00:00`
 FX as of: `None`
 
-- Candidates: **1047**
+- Candidates: **1051**
 - Promoted: **0**
 
 | Candidate | Event | USD | Component | Status |
 |---|---|---:|---|---|
+| `cand_c20760eb51bd97c8caad` | `evt_624a2e3ce3ccd3efe095` | $430,000,000,000 | capital_allocation | pending |
 | `cand_9fe76ea95cae96fd5d41` | `evt_624a2e3ce3ccd3efe095` | $100,000,000,000 | unknown | pending |
 | `cand_d9f78969526855a19e91` | `evt_624a2e3ce3ccd3efe095` | $1,000,000 | unknown | pending |
+| `cand_65b78140488dade4687c` | `evt_624a2e3ce3ccd3efe095` | $3,500 | real_resource | pending |
+| `cand_1e96481ed884cdbe612d` | `evt_624a2e3ce3ccd3efe095` | $1,000 | real_resource | pending |
 | `cand_a764d7a43be24dec3ee1` | `evt_89b02835b3e32a9fb33f` | $100 | capital_allocation | pending |
 | `cand_9a4e61f478759136f49d` | `evt_89b02835b3e32a9fb33f` | $50 | capital_allocation | pending |
 | `cand_e936a3d06d83b262399b` | `evt_3cb5980444e3bd7e9296` | $6 | capital_allocation | pending |
@@ -42,9 +45,6 @@ FX as of: `None`
 | `cand_5d7f47597efd5d383162` | `evt_cc17b4bd401d2aacd3f1` | $444,000,000 | capital_allocation | pending |
 | `cand_0805ce45f5ef6d8ab94e` | `evt_cc17b4bd401d2aacd3f1` | $255,000,000 | capital_allocation | pending |
 | `cand_32c3b21fcbc219b5ad2e` | `evt_8652d6841c3b45de4589` | $2,000 | unknown | pending |
+| `cand_24c25366d14a6cbcf56b` | `evt_624a2e3ce3ccd3efe095` | $1,000 | unknown | pending |
 | `cand_c277713a3f575d58dac8` | `evt_8652d6841c3b45de4589` | $500 | unknown | pending |
 | `cand_f92f5bfaab99f4fd2ded` | `evt_8652d6841c3b45de4589` | $50 | unknown | pending |
-| `cand_2a3417ebcd9e80560342` | `evt_8652d6841c3b45de4589` | $30 | unknown | pending |
-| `cand_0917f8a7ebcdd94a6160` | `evt_8652d6841c3b45de4589` | $16 | unknown | pending |
-| `cand_e7f2c67b66c0c7c58a49` | `evt_8652d6841c3b45de4589` | $10 | unknown | pending |
-| `cand_8875327b93964621405b` | `evt_c6dc90057ec5ebdfc7d8` | $10 | unknown | pending |
