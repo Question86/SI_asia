@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T05:50:53+00:00",
+  "generated_at": "2026-09-23T05:58:44+00:00",
   "events": [
     {
       "event_id": "evt_00999a707b633ec75a8c",
@@ -588,12 +588,12 @@
     {
       "event_id": "evt_10ed597eba7618efac38",
       "title": "google/ax",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -1105,13 +1105,13 @@
     {
       "event_id": "evt_200520289fba6da95d34",
       "title": "mvt-project/mvt",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_201ef3258cfa7f10320e",
@@ -1776,12 +1776,12 @@
     {
       "event_id": "evt_331a0010822faf2fe5e3",
       "title": "agent-substrate/substrate",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -3184,12 +3184,12 @@
     {
       "event_id": "evt_5a1c1f4bdeb954eaad5a",
       "title": "dream-num/univer",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
       "status": "active"
     },
     {
@@ -3366,7 +3366,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_5e839ef2f65d6d8cf77f",
