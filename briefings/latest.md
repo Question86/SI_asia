@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-23T08:47:49+00:00_
+_Generiert: 2026-09-23T08:56:55+00:00_
 
 ## Kurzlage
 
-30 neue relevante Treffer. Stärkstes Signal: „Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+31 neue relevante Treffer. Stärkstes Signal: „Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -227,6 +227,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+7.5); recent (+1.0)
   - Kurz: Aktuell laufen Angriffe auf Sicherheitslücken in F5 BIG-IP APM, Check-Point-Produkte und Arista VeloCloud Orchestrator.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Patchday: Adobe Connect ist unter Android, macOS und Windows verwundbar** — Score 7, observation — [Quelle](https://www.heise.de/news/Patchday-Adobe-Connect-ist-unter-Android-macOS-und-Windows-verwundbar-11462802.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-09-23T08:45:00.000+00:00`, fetched `2026-09-23T08:56:24+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Es sind wichtige Sicherheitsupdates für verschiedene Adobe-Anwendungen erschienen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **一日の作業をMarkdownに自動記録するAmbient Contextが良さげかも | kawarimidoll.com** — Score 7, observation — [Quelle](https://kawarimidoll.com/posts/202609222/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
