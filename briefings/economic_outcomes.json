@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T14:56:19+00:00",
+  "generated_at": "2026-09-23T15:06:35+00:00",
   "events": [
     {
       "event_id": "evt_00999a707b633ec75a8c",
@@ -638,7 +638,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_127d6fbd65c4e335b07e",
@@ -9615,6 +9615,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_fd28464ef32989fe5518",
+      "title": "M 5.7 - 180 km NW of Hihifo, Tonga",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_fd38962374a66d0fbcfa",
