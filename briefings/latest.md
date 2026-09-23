@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-23T11:58:12+00:00_
+_Generiert: 2026-09-23T12:27:33+00:00_
 
 ## Kurzlage
 
-51 neue relevante Treffer. Stärkstes Signal: „Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+54 neue relevante Treffer. Stärkstes Signal: „Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -287,6 +287,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: ドナルド・トランプ米大統領は9月22日（現地時間）、米ニューヨークの国連本部で開催中の第81回国連総会の一般討論演説で、人工知能（Artificial Intelligence）を今後「Super Intelligence」（SI）と呼ぶと表明した。米国の全ての文書でこの呼称を使い、他国にも同様の変更を求めていく考えを示した。 トランプ氏は、AI...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **OpenAI extends cyber access to Ukraine for civilian defense** — Score 8, observation — [Quelle](https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-09-23T13:00:00+00:00`, fetched `2026-09-23T12:27:01+00:00`
+  - Treffer: OpenAI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+7.5)
+  - Kurz: OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Cyberangriffe auf F5 BIG-IP, Check Point Security und Arista VeloCloud** — Score 8, observation — [Quelle](https://www.heise.de/news/Cyberangriffe-auf-F5-BIG-IP-Check-Point-Security-und-Arista-VeloCloud-11462590.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-09-23T06:36:00.000+00:00`, fetched `2026-09-23T06:55:23+00:00`
@@ -295,15 +304,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+7.5); recent (+1.0)
   - Kurz: Aktuell laufen Angriffe auf Sicherheitslücken in F5 BIG-IP APM, Check-Point-Produkte und Arista VeloCloud Orchestrator.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **GitHub - wrr/drop: Linux sandboxing that doesn't get in your way** — Score 8, observation — [Quelle](https://github.com/wrr/drop)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-23T01:54:40+00:00`, fetched `2026-09-23T09:53:03+00:00`
-  - Treffer: GitHub, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)
-  - Kurz: You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
