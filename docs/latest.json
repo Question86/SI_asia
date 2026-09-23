@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T23:46:58+00:00",
-  "run_id": "2026-09-23T23:46:58+00:00",
+  "generated_at": "2026-09-23T23:53:54+00:00",
+  "run_id": "2026-09-23T23:53:54+00:00",
   "date": "2026-09-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 86
+      "configured_public_sources_only": 87
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 86,
-    "displayed_findings": 86,
+    "new_relevant_findings": 1,
+    "today_file_total": 87,
+    "displayed_findings": 87,
     "high": 0,
     "medium": 24,
-    "observe": 62,
+    "observe": 63,
     "source_errors": 0
   },
   "sections": {
@@ -1839,6 +1839,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "525fbbb44511b914be4a"
+      },
+      {
+        "title": "Cloudflare、Python Wrokersを正式サービスに。PythonでWebサイトの構築、データベース接続、オブジェクトストレージ操作など",
+        "url": "https://www.publickey1.jp/blog/26/cloudflarepython_wrokerspythonweb.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-23T17:41:37+00:00",
+        "fetched_at": "2026-09-23T23:53:28+00:00",
+        "summary": "Cloudflare、Python Wrokersを正式サービスに。PythonでWebサイトの構築、データベース接続、オブジェクトストレージ操作など Cloudflareは、同社のサーバレス実行基盤上でPythonを実行できる「Python Workers」が正式サービスになったことを発表しました。 JavaScriptによるサーバレス実行基盤のCloudflare Workers上で...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "27059d8d3c6e348ebfbd"
       },
       {
         "title": "まさかの「Appleが神コスパ」になっちゃった：新型M6 Mac miniレビュー | ギズモード・ジャパン",
@@ -3986,6 +4007,27 @@
       "id": "525fbbb44511b914be4a"
     },
     {
+      "title": "Cloudflare、Python Wrokersを正式サービスに。PythonでWebサイトの構築、データベース接続、オブジェクトストレージ操作など",
+      "url": "https://www.publickey1.jp/blog/26/cloudflarepython_wrokerspythonweb.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-23T17:41:37+00:00",
+      "fetched_at": "2026-09-23T23:53:28+00:00",
+      "summary": "Cloudflare、Python Wrokersを正式サービスに。PythonでWebサイトの構築、データベース接続、オブジェクトストレージ操作など Cloudflareは、同社のサーバレス実行基盤上でPythonを実行できる「Python Workers」が正式サービスになったことを発表しました。 JavaScriptによるサーバレス実行基盤のCloudflare Workers上で...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "27059d8d3c6e348ebfbd"
+    },
+    {
       "title": "まさかの「Appleが神コスパ」になっちゃった：新型M6 Mac miniレビュー | ギズモード・ジャパン",
       "url": "https://www.gizmodo.jp/article/2609-m6-mac-mini-review/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -4319,7 +4361,29 @@
       "id": "1ff44d8caf52976da618"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Cloudflare、Python Wrokersを正式サービスに。PythonでWebサイトの構築、データベース接続、オブジェクトストレージ操作など",
+      "url": "https://www.publickey1.jp/blog/26/cloudflarepython_wrokerspythonweb.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-23T17:41:37+00:00",
+      "fetched_at": "2026-09-23T23:53:28+00:00",
+      "summary": "Cloudflare、Python Wrokersを正式サービスに。PythonでWebサイトの構築、データベース接続、オブジェクトストレージ操作など Cloudflareは、同社のサーバレス実行基盤上でPythonを実行できる「Python Workers」が正式サービスになったことを発表しました。 JavaScriptによるサーバレス実行基盤のCloudflare Workers上で...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "27059d8d3c6e348ebfbd"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
