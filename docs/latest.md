@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-23T14:22:30+00:00_
+_Generiert: 2026-09-23T14:35:28+00:00_
 
 ## Kurzlage
 
-65 neue relevante Treffer. Stärkstes Signal: „Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+66 neue relevante Treffer. Stärkstes Signal: „Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 ## Priorität Hoch
 
@@ -186,6 +186,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.0); funding (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Philippines, Malaysia (+2.0)
   - Kurz: For many consumers in Southeast Asia, the smartphone has become both a work tool and a status symbol. It is also getting harder to afford. That tension sits at the centre of 3cat’s next phase of growth. The Singapore-incorporated, Malaysia-born retailer of pre-owned electronics has raised US$4 million in Series A funding to expand into […] The post 3cat raises US$4M Series A to take used-device retail model from Mal…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **AI投資1兆ドルの帳尻は？ 「生産性2.7倍が必要」と 経済学者たちは試算する** — Score 10, observation — [Quelle](https://www.technologyreview.jp/s/391065/what-must-happen-for-ais-trillion-dollar-gamble-to-pay-off/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-23T10:28:23+00:00`, fetched `2026-09-23T14:34:57+00:00`
+  - Treffer: AI/KI, Hatena, hotentry, technology
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); technology (+2.0); recent (+1.0)
+  - Kurz: What must happen for AI’s trillion-dollar gamble to pay off AI投資1兆ドルの帳尻は？ 「生産性2.7倍が必要」と 経済学者たちは試算する AIデータセンターへの投資が2027年までに1.1兆ドル近くに膨らむ一方、2026年のAI関連の総収益は1500億〜2000億ドル程度にとどまる見込みだ。投資の元を取るには生産性を2.7倍にす...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **google/ax** — Score 10, observation — [Quelle](https://github.com/google/ax)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
   - Zeit: published `unbekannt`, fetched `2026-09-23T05:49:52+00:00`
@@ -239,15 +248,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: ドナルド・トランプ米大統領は9月22日（現地時間）、米ニューヨークの国連本部で開催中の第81回国連総会の一般討論演説で、人工知能（Artificial Intelligence）を今後「Super Intelligence」（SI）と呼ぶと表明した。米国の全ての文書でこの呼称を使い、他国にも同様の変更を求めていく考えを示した。 トランプ氏は、AI...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **OpenAI extends cyber access to Ukraine for civilian defense** — Score 8, observation — [Quelle](https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-09-23T13:00:00+00:00`, fetched `2026-09-23T12:27:01+00:00`
-  - Treffer: OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+7.5)
-  - Kurz: OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
