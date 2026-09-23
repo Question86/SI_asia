@@ -1,28 +1,84 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-23T01:11:45Z",
+  "generated_at": "2026-09-23T01:36:03Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 2,
+    "dynamics": 8,
     "bands": {
-      "quiet": 2
+      "strong": 1,
+      "watch": 1,
+      "quiet": 6
     },
     "bands_after_gate_recheck": {
-      "quiet": 2
+      "strong": 1,
+      "watch": 1,
+      "quiet": 6
     }
   },
   "top_dynamics": [
     {
-      "title": "Claude Opus 5.5登場 Fable 5.1並みの性能をOpus 5より40%安価に",
-      "url": "https://www.watch.impress.co.jp/docs/news/2142619.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-23T00:08:20+00:00",
+      "title": "New features and improvements in Copilot for JetBrains",
+      "url": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
+      "source": "GitHub Changelog Atom",
+      "published_at": "2026-09-23T01:21:48+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "New features and improvements in Copilot for JetBrains",
+      "url": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
+      "source": "GitHub Changelog Atom",
+      "published_at": "2026-09-23T00:34:18+00:00",
       "age_days": 0.04,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 1.0,
+      "dynamics_score": 19.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: code",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "GitHub Copilot for JetBrains 1.18.0 brings AI-assisted tool approvals, more control over agent conversations, and shared skills and instructions for your organization. You can also review plans with the Codex… The post New features and improvements in Copilot for JetBrains appeared first on The GitHub Blog ."
+    },
+    {
+      "title": "Why Singapore, Indonesia, and Vietnam are losing the AI race they think they are winning",
+      "url": "https://e27.co/why-singapore-indonesia-and-vietnam-are-losing-the-ai-race-they-think-they-are-winning-20260916/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-23T01:21:48+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 8.5,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
@@ -40,11 +96,87 @@
       "summary": ""
     },
     {
+      "title": "JevでRAG検索の爆速化＆コスト削減は実現できるのか検証してみた - Qiita",
+      "url": "https://qiita.com/kikuziro/items/2be9091b328d8b844640",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T01:58:32+00:00",
+      "age_days": 95.98,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 8.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "aging penalty -8.0 for 96.0d old signal"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Claude Opus 5.5登場 Fable 5.1並みの性能をOpus 5より40%安価に",
+      "url": "https://www.watch.impress.co.jp/docs/news/2142619.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-23T00:08:20+00:00",
+      "age_days": 0.06,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 3.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 2,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +2",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Why Singapore, Indonesia, and Vietnam are losing the AI race they think they are winning",
+      "url": "https://e27.co/why-singapore-indonesia-and-vietnam-are-losing-the-ai-race-they-think-they-are-winning-20260916/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-23T01:00:41+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 2.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "In January 2026, Singapore’s Minister for Digital Development announced an additional SG$1 billion (US$786 million) over five years for the National AI Research and Development Plan, on top of the SG$500 million (US$393 million) already committed to high-performance compute under Budget 2024. Indonesia is pursuing 9 m…"
+    },
+    {
       "title": "Claude Opus 5.5登場 Fable 5.1並みの性能をOpus 5より40%安価に",
       "url": "https://www.watch.impress.co.jp/docs/news/2142619.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-22T18:06:19+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -63,7 +195,32 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "Claude Opus 5.5登場 Fable 5.1並みの性能をOpus 5より40%安価に"
+    },
+    {
+      "title": "JevでRAG検索の爆速化＆コスト削減は実現できるのか検証してみた - Qiita",
+      "url": "https://qiita.com/kikuziro/items/2be9091b328d8b844640",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-22T00:46:01+00:00",
+      "age_days": 1.03,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article?"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Claude Opus 5.5登場 Fable 5.1並みの性能をOpus 5より40%安価に” — Die Dynamik wirkt aktuell wie Hintergrundrauschen. Band=quiet, score=1.0."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “New features and improvements in Copilot for JetBrains” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
 }
