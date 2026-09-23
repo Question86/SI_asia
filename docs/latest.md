@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-23T10:34:21+00:00_
+_Generiert: 2026-09-23T10:45:52+00:00_
 
 ## Kurzlage
 
-41 neue relevante Treffer. Stärkstes Signal: „Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+43 neue relevante Treffer. Stärkstes Signal: „Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 ## Priorität Hoch
 
@@ -29,6 +29,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); AI Agents (+5.0); GitHub (+2.0); Copilot (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: GitHub Copilot for JetBrains 1.18.0 brings AI-assisted tool approvals, more control over agent conversations, and shared skills and instructions for your organization. You can also review plans with the Codex… The post New features and improvements in Copilot for JetBrains appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [UNGEPATCHT] [hoch] CUPS: Schwachstelle ermöglicht Privilegieneskalation** — Score 18, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3497)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-09-23T10:37:11+00:00`, fetched `2026-09-23T10:44:56+00:00`
+  - Treffer: BSI, CERT-Bund, Linux, Patch, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); Linux (+2.0); recent (+1.0)
+  - Kurz: Ein lokaler Angreifer kann eine Schwachstelle in CUPS, wie es z.B. in Red Hat Enterprise Linux und Fedora Linux verwendet wird, ausnutzen, um seine Privilegien zu erhöhen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Your startup has an AI strategy. Does it have a human strategy?** — Score 18, observation — [Quelle](https://e27.co/your-startup-has-an-ai-strategy-does-it-have-a-human-strategy-20260921/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -66,14 +75,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-23 02:02:43 UTC 2026-09-23 02:02:43 UTC at epicenter Location 8.145°S 120.808°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **[UPDATE] [hoch] Erlang/OTP: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3499)
+- **[UPDATE] [mittel] Red Hat OpenShift Builds: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3487)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-09-23T09:54:24+00:00`, fetched `2026-09-23T10:00:27+00:00`
+  - Zeit: published `2026-09-23T10:37:11+00:00`, fetched `2026-09-23T10:44:56+00:00`
   - Treffer: BSI, CERT-Bund, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Erlang/OTP ausnutzen, um einen Denial of Service Angriff durchzuführen, Sicherheitsmaßnahmen zu umgehen und Daten zu manipulieren oder offenzulegen.
+  - Kurz: Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Red Hat OpenShift Builds ausnutzen, um Sicherheitsvorkehrungen zu umgehen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **agent-substrate/substrate** — Score 14, mixed — [Quelle](https://github.com/agent-substrate/substrate)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
