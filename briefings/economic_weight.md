@@ -1,6 +1,6 @@
 # Economic Weight Shadow Report
 
-Generated: `2026-09-23T02:06:00+00:00`
+Generated: `2026-09-23T02:33:03+00:00`
 
 > Forecasts are broad priors for calibration. They do not change the live ranking.
 
@@ -22,6 +22,7 @@ Generated: `2026-09-23T02:06:00+00:00`
 | GitHub - dmtrKovalenko/bashka: Stop running unverified bash scripts to install software! curl <url> \| bashKA for static verification of bash script safty and managing installed software | conflict | $110.40M | $11.04B | $1.10T | 0.31 |
 | Forward Deployed Learner: Enabling 22-year-olds to build domain expertise and judgement in the post AI world | conflict | $110.40M | $11.04B | $1.10T | 0.31 |
 | Version 1.0: Deutsche Institutionen über TerminalFix-Kampagne kompromittiert | conflict | $109.60M | $10.96B | $1.10T | 0.31 |
+| 一日の作業をMarkdownに自動記録するAmbient Contextが良さげかも \| kawarimidoll.com | conflict | $109.60M | $10.96B | $1.10T | 0.31 |
 | CodeQL 2.26.4 improves GitHub actions security detections | regulation | $12.40M | $1.24B | $124.00B | 0.31 |
 | [MàJ] Vulnérabilité dans Fortinet FortiOS (09 février 2024) | vulnerability, exploit, regulation | $12.00M | $1.20B | $120.00B | 0.31 |
 | Gitlawb/openclaude | regulation | $12.00M | $1.20B | $120.00B | 0.31 |
@@ -30,7 +31,6 @@ Generated: `2026-09-23T02:06:00+00:00`
 | Who’s building AI for the way Southeast Asia actually speaks? | regulation | $11.84M | $1.18B | $118.40B | 0.31 |
 | Workflow execution protections in GitHub Actions generally available | regulation | $11.76M | $1.18B | $117.60B | 0.31 |
 | When a slot opens, let the AI agent act – within limits | regulation | $11.76M | $1.18B | $117.60B | 0.31 |
-| コンテック製SolarView Compactにおける複数の脆弱性 | vulnerability, regulation | $11.52M | $1.15B | $115.20B | 0.31 |
 
 ## Interpretation
 
