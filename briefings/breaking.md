@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-09-23T04:36:18+00:00_
+_Generiert: 2026-09-23T04:48:39+00:00_
 
 ## Your startup has an AI strategy. Does it have a human strategy?
 
