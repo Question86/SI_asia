@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T00:56:23+00:00",
+  "generated_at": "2026-09-23T01:21:48+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -3603,8 +3603,8 @@
       "z_hint": 0.0
     },
     "domain:qiita.com": {
-      "title": "Jevはどこで使うべきか？ LLM・機械学習・ルールベースとの使い分け - Qiita",
-      "updated_at": "2026-09-22T23:55:08+00:00",
+      "title": "JevでRAG検索の爆速化＆コスト削減は実現できるのか検証してみた - Qiita",
+      "updated_at": "2026-09-23T01:21:48+00:00",
       "network_scores": [
         15.3,
         15.3,
@@ -3635,12 +3635,12 @@
         15.3,
         15.3,
         15.3,
-        15.3
+        10.1
       ],
-      "rolling_average": 15.3,
+      "rolling_average": 15.13,
       "rolling_peak": 15.3,
-      "last_score": 15.3,
-      "z_hint": -0.0
+      "last_score": 10.1,
+      "z_hint": -5.03
     },
     "github_repo:yairm210/unciv": {
       "title": "yairm210/Unciv",
@@ -43465,15 +43465,38 @@
     },
     "title:claude-opus-fable-opus": {
       "title": "Claude Opus 5.5登場 Fable 5.1並みの性能をOpus 5より40%安価に",
-      "updated_at": "2026-09-23T00:56:23+00:00",
+      "updated_at": "2026-09-23T01:21:48+00:00",
       "network_scores": [
         10.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 8.6,
+      "rolling_average": 8.1,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -1.5
+      "z_hint": -1.0
+    },
+    "title:features-improvements-copilot-jetbrains": {
+      "title": "New features and improvements in Copilot for JetBrains",
+      "updated_at": "2026-09-23T01:21:48+00:00",
+      "network_scores": [
+        27.1
+      ],
+      "rolling_average": 27.1,
+      "rolling_peak": 27.1,
+      "last_score": 27.1,
+      "z_hint": 0.0
+    },
+    "title:why-singapore-indonesia-vietnam-are-losing-race-they": {
+      "title": "Why Singapore, Indonesia, and Vietnam are losing the AI race they think they are winning",
+      "updated_at": "2026-09-23T01:21:48+00:00",
+      "network_scores": [
+        15.1
+      ],
+      "rolling_average": 15.1,
+      "rolling_peak": 15.1,
+      "last_score": 15.1,
+      "z_hint": 0.0
     }
   }
 }
