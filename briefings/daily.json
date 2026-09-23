@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T20:58:17+00:00",
-  "today_file_total": 79,
+  "generated_at": "2026-09-23T21:17:39+00:00",
+  "today_file_total": 83,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -41,19 +41,19 @@
       ],
       "urls": [
         "https://openai.com/index/ringg",
+        "https://openai.com/index/sam-altman-un-security-council-remarks",
         "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
         "https://openai.com/index/two-years-of-openai-academy",
         "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
-        "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
-        "https://openai.com/index/invideo-builds-with-gpt-6-astra"
+        "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense"
       ],
-      "finding_count": 6,
+      "finding_count": 7,
       "max_score": 20,
-      "credibility_total": 6.3,
+      "credibility_total": 7.35,
       "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 32.6,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 37.7,
       "hot": true,
       "watchgraph_modules": [
         "ai_agents_workflow"
@@ -232,6 +232,29 @@
         "earthquakes_tsunami"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
+    },
+    {
+      "key": "title:node-longer-available-github-actions",
+      "title": "Node 20 is no longer available in GitHub Actions",
+      "sources": [
+        "GitHub Changelog Atom"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 17.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "title:claude-code-agents-claude",
@@ -467,29 +490,6 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 13.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "url:https://www.technologyreview.jp/s/391065/what-must-happen-for-ais-trillion-dollar-gamble-to-pay-off/",
-      "title": "AI投資1兆ドルの帳尻は？ 「生産性2.7倍が必要」と 経済学者たちは試算する",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.technologyreview.jp/s/391065/what-must-happen-for-ais-trillion-dollar-gamble-to-pay-off/"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 12.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."

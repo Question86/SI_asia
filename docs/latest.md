@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-23T20:58:14+00:00_
+_Generiert: 2026-09-23T21:17:34+00:00_
 
 ## Kurzlage
 
-79 neue relevante Treffer. Stärkstes Signal: „Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+83 neue relevante Treffer. Stärkstes Signal: „Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 ## Priorität Hoch
 
@@ -39,6 +39,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); AI/KI (+3.8); AI Agents (+6.2); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **Sam Altman’s remarks at the United Nations Security Council** — Score 20, observation — [Quelle](https://openai.com/index/sam-altman-un-security-council-remarks)
+  - Quelle: OpenAI News RSS / `rss`
+  - Zeit: published `2026-09-23T12:00:00+00:00`, fetched `2026-09-23T21:17:04+00:00`
+  - Treffer: AI/KI, OpenAI, safety, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); Security (+7.5); safety (+2.0); recent (+1.0)
+  - Kurz: OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[UPDATE] [UNGEPATCHT] [hoch] CUPS: Schwachstelle ermöglicht Privilegieneskalation** — Score 18, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3497)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
   - Zeit: published `2026-09-23T10:37:11+00:00`, fetched `2026-09-23T10:44:56+00:00`
@@ -74,15 +83,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
   - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat OpenShift Container Platform ausnutzen, um einen Denial of Service Angriff durchzuführen.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Two years of OpenAI Academy** — Score 16, observation — [Quelle](https://openai.com/index/two-years-of-openai-academy)
-  - Quelle: OpenAI News RSS / `rss`
-  - Zeit: published `2026-09-23T16:00:00+00:00`, fetched `2026-09-23T14:55:05+00:00`
-  - Treffer: AI Agents, AI/KI, OpenAI
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); AI Agents (+5.0)
-  - Kurz: Marking two years of OpenAI Academy and bringing AI skills to even more communities.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **[NEU] [UNGEPATCHT] [hoch] GNU Emacs: Schwachstelle ermöglicht Codeausführung** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3534)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
@@ -149,6 +149,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0); developer (+2.5); agent (+2.5); recent (+1.0)
   - Kurz: AWS DevOps Agentの設定はCapability Providers、Agent Space、Web Appの3階層に分かれます。外部サービスの接続、調査スコープと3つのIAMロール、ナレッジやカスタムエージェントまで、どこで何を設定するのかを図解で整理しました。 はじめに 今回は、AWS DevOps Agentの構造を改めて正確に理解するために図解していき...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Node 20 is no longer available in GitHub Actions** — Score 12, observation — [Quelle](https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-09-23T20:46:07+00:00`, fetched `2026-09-23T21:17:04+00:00`
+  - Treffer: Actions, GitHub, GitHub Actions
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: GitHub Actions (+6.2); GitHub (+2.5); Actions (+2.5); recent (+1.0)
+  - Kurz: This is the final notification that Node 20 is no longer available on GitHub Actions runners. Runners now use Node 24 for JavaScript actions. The temporary ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION opt-out is no… The post Node 20 is no longer available in GitHub Actions appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Barr, A Long-Term View on the Costs of Shelter** — Score 12, opportunity — [Quelle](https://www.federalreserve.gov/newsevents/speech/barr20260923a.htm)
   - Quelle: Federal Reserve Speeches and Testimony / `rss`
@@ -267,15 +276,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
   - Kurz: Almost ten million people took part in ECB survey on new euro banknotes
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **OpenTelemetry in the GitHub Copilot app** — Score 9, opportunity — [Quelle](https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app)
-  - Quelle: GitHub Changelog Atom / `rss`
-  - Zeit: published `2026-09-23T02:14:54+00:00`, fetched `2026-09-23T02:32:11+00:00`
-  - Treffer: Copilot, GitHub, Open Source
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Open Source (+3.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
-  - Kurz: Understand how Copilot agents perform and interact with models and tools. The GitHub Copilot app now supports OpenTelemetry (OTel) configuration through enterprise-managed settings. OTel is an open source observability framework.… The post OpenTelemetry in the GitHub Copilot app appeared first on The GitHub Blog .
-  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 
 ## Empfehlungen
 

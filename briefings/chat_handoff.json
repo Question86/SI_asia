@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-23T20:58:14+00:00",
+  "generated_at": "2026-09-23T21:17:34+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 79,
-    "displayed_findings": 79,
+    "new_relevant_findings": 4,
+    "today_file_total": 83,
+    "displayed_findings": 83,
     "high": 0,
-    "medium": 22,
-    "observe": 57
+    "medium": 23,
+    "observe": 60
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -45,13 +45,13 @@
       "section": "medium"
     },
     {
-      "title": "[UPDATE] [UNGEPATCHT] [hoch] CUPS: Schwachstelle ermöglicht Privilegieneskalation",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "source": "OpenAI News RSS",
       "source_type": "rss",
-      "published_at": "2026-09-23T10:37:11+00:00",
-      "relevance_score": 18,
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3497",
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in CUPS, wie es z.B. in Red Hat Enterprise Linux und Fedora Linux verwendet wird, ausnutzen, um seine Privilegien zu erhöhen.",
+      "published_at": "2026-09-23T12:00:00+00:00",
+      "relevance_score": 20,
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
       "section": "medium"
     },
     {
@@ -62,6 +62,16 @@
       "relevance_score": 13,
       "url": "https://dev.classmethod.jp/articles/aws-devops-agent-Illustration/",
       "summary": "AWS DevOps Agentの設定はCapability Providers、Agent Space、Web Appの3階層に分かれます。外部サービスの接続、調査スコープと3つのIAMロール、ナレッジやカスタムエージェントまで、どこで何を設定するのかを図解で整理しました。 はじめに 今回は、AWS DevOps Agentの構造を改めて正確に理解するために図解していき...",
+      "section": "observe"
+    },
+    {
+      "title": "Node 20 is no longer available in GitHub Actions",
+      "source": "GitHub Changelog Atom",
+      "source_type": "rss",
+      "published_at": "2026-09-23T20:46:07+00:00",
+      "relevance_score": 12,
+      "url": "https://github.blog/changelog/2026-09-23-node-20-is-no-longer-available-in-github-actions",
+      "summary": "This is the final notification that Node 20 is no longer available on GitHub Actions runners. Runners now use Node 24 for JavaScript actions. The temporary ACTIONS_ALLOW_USE_UNSECURE_NODE_VERSION opt-out is no… The post Node 20 is no longer available in GitHu…",
       "section": "observe"
     },
     {
@@ -83,16 +93,6 @@
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260084.en.html",
       "summary": "Announcing 20260084 (OT,liquidity providing), for 7 days deadline 09:45",
       "section": "observe"
-    },
-    {
-      "title": "Why Southeast Asia’s next healthtech winners will be built around healthcare workflows, not just AI",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-23T03:30:05+00:00",
-      "relevance_score": 12,
-      "url": "https://e27.co/why-southeast-asias-next-healthtech-winners-will-be-built-around-healthcare-workflows-not-just-ai-20260921/",
-      "summary": "Artificial intelligence has become one of the most exciting areas of healthcare innovation. From clinical documentation and diagnostics to patient engagement and remote monitoring, founders are finding new ways to bring AI into almost every part of the health…",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -100,147 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Announcing 20260084 (OT,liquidity providing), for 7 days deadline 09:45” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=41.32.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Announcing 20260084 (OT,liquidity providing), for 7 days deadline 09:45",
-        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260084.en.html",
-        "source": "ECB Open Market Operations and Communication, ECB Press Releases Speeches Interviews",
-        "published_at": "2026-06-18T14:33:45+00:00",
-        "age_days": 97.28,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 41.32,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 2,
-        "momentum_delta": 3,
-        "baseline_z_hint": 1.2,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "source breadth +2",
-          "momentum delta +3",
-          "baseline z_hint 1.20",
-          "high terms: rce",
-          "security high-signal: rce",
-          "aging penalty -8.0 for 97.3d old signal"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "OpenTelemetry in the GitHub Copilot app",
-        "url": "https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-09-23T02:14:54+00:00",
-        "age_days": 0.79,
-        "topics": [
-          "axiom",
-          "ai"
-        ],
-        "dynamics_score": 34.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce",
-          "security high-signal: rce",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "Understand how Copilot agents perform and interact with models and tools. The GitHub Copilot app now supports OpenTelemetry (OTel) configuration through enterprise-managed settings. OTel is an open source observability framework.… The post OpenTelemetry in the GitHub Copilot app appeared first on The GitHub Blog ."
-      },
-      {
-        "title": "Pinterest and Shopee link up to bring creator-led shopping to Indonesia",
-        "url": "https://e27.co/pinterest-and-shopee-link-up-to-bring-creator-led-shopping-to-indonesia-20260922/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-23T02:00:57+00:00",
-        "age_days": 0.8,
-        "topics": [
-          "axiom",
-          "ai"
-        ],
-        "dynamics_score": 34.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce",
-          "security high-signal: rce",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "Pinterest and Shopee are linking their creator and shopping ecosystems in Indonesia and Brazil. The partnership shows how e-commerce platforms are trying to get closer to the moment consumers first decide what they want to buy. Under the new affiliate arrangement, eligible Shopee Affiliate creators can connect their S…"
-      },
-      {
-        "title": "[NEU] [UNGEPATCHT] [hoch] GNU Emacs: Schwachstelle ermöglicht Codeausführung",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3534",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-23T11:39:23+00:00",
-        "age_days": 0.4,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein lokaler Angreifer kann eine Schwachstelle in GNU Emacs ausnutzen, um beliebigen Programmcode auszuführen."
-      },
-      {
-        "title": "[NEU] [hoch] IBM SPSS Analytic Server und SPSS Modeler: Mehrere Schwachstellen",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3536",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-23T11:39:23+00:00",
-        "age_days": 0.4,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: angriffe",
-          "security high-signal: angriffe"
-        ],
-        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in IBM SPSS Analytic Server und SPSS Modeler ausnutzen, um Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen und SQL-Injection-Angriffe durchzuführen."
-      }
-    ]
-  }
+  ]
 }
