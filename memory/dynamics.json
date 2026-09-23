@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-23T07:17:35Z",
+  "generated_at": "2026-09-23T07:41:43Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
@@ -9,13 +9,13 @@
       "extreme": 2,
       "krass": 2,
       "strong": 11,
-      "watch": 13,
-      "quiet": 12
+      "watch": 15,
+      "quiet": 10
     },
     "bands_after_gate_recheck": {
       "strong": 15,
-      "watch": 13,
-      "quiet": 12
+      "watch": 15,
+      "quiet": 10
     }
   },
   "top_dynamics": [
@@ -24,7 +24,7 @@
       "url": "https://www.heise.de/news/Cyberangriffe-auf-F5-BIG-IP-Check-Point-Security-und-Arista-VeloCloud-11462590.html",
       "source": "heise Security Alerts",
       "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 95.98,
+      "age_days": 96.0,
       "topics": [
         "security"
       ],
@@ -51,7 +51,7 @@
       "url": "https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-09-23T02:32:45+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [],
       "dynamics_score": 26.0,
       "raw_band": "strong",
@@ -75,7 +75,7 @@
       "url": "https://e27.co/pinterest-and-shopee-link-up-to-bring-creator-led-shopping-to-indonesia-20260922/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T02:05:39+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [],
       "dynamics_score": 26.0,
       "raw_band": "strong",
@@ -99,7 +99,7 @@
       "url": "https://www.heise.de/news/Cyberangriffe-auf-F5-BIG-IP-Check-Point-Security-und-Arista-VeloCloud-11462590.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-23T06:36:00.000+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -124,7 +124,7 @@
       "url": "https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-09-23T02:14:54+00:00",
-      "age_days": 0.21,
+      "age_days": 0.23,
       "topics": [
         "ai"
       ],
@@ -152,7 +152,7 @@
       "url": "https://e27.co/pinterest-and-shopee-link-up-to-bring-creator-led-shopping-to-indonesia-20260922/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T02:00:57+00:00",
-      "age_days": 0.22,
+      "age_days": 0.24,
       "topics": [
         "ai"
       ],
@@ -180,7 +180,7 @@
       "url": "https://github.com/agent-substrate/substrate",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-23T05:49:52+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "security",
@@ -208,7 +208,7 @@
       "url": "https://github.com/dream-num/univer",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-23T05:50:23+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "krass",
@@ -233,7 +233,7 @@
       "url": "https://e27.co/meta-singapore-police-disrupt-3-7m-scam-linked-assets-across-facebook-and-instagram-20260923/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T05:42:29+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -260,7 +260,7 @@
       "url": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-09-23T01:21:48+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -287,7 +287,7 @@
       "url": "https://e27.co/meta-singapore-police-disrupt-3-7m-scam-linked-assets-across-facebook-and-instagram-20260923/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T05:30:29+00:00",
-      "age_days": 0.07,
+      "age_days": 0.09,
       "topics": [
         "ai",
         "security",
@@ -314,7 +314,7 @@
       "url": "https://github.com/dream-num/univer",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-23T05:49:52+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -340,7 +340,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx08",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-23T02:23:16.040+00:00",
-      "age_days": 0.2,
+      "age_days": 0.22,
       "topics": [
         "disaster"
       ],
@@ -365,7 +365,7 @@
       "url": "https://e27.co/3-in-4-organisations-are-embracing-low-code-when-should-a-business-build-instead-of-buy-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T03:00:59+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "general"
       ],
@@ -390,7 +390,7 @@
       "url": "https://e27.co/msme-development-doesnt-need-invention-only-connection-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T02:05:39+00:00",
-      "age_days": 0.22,
+      "age_days": 0.23,
       "topics": [
         "general"
       ],
@@ -410,11 +410,38 @@
       "summary": ""
     },
     {
+      "title": "Announcing 20260084 (OT,liquidity providing), for 7 days deadline 09:45",
+      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260084.en.html",
+      "source": "ECB Open Market Operations and Communication",
+      "published_at": "2026-06-18T14:33:45+00:00",
+      "age_days": 96.71,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 19.9,
+      "raw_band": "strong",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 6.77,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 6.77",
+        "aging penalty -8.0 for 96.7d old signal",
+        "stale single-source cap: max watch after 14d without fresh resonance"
+      ],
+      "summary": ""
+    },
+    {
       "title": "M 4.5 - 63 km NE of Ruteng, Indonesia",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx08",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T07:22:32+00:00",
-      "age_days": 18.0,
+      "age_days": 18.01,
       "topics": [
         "general"
       ],
@@ -439,7 +466,7 @@
       "url": "https://e27.co/your-startup-has-an-ai-strategy-does-it-have-a-human-strategy-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T04:18:49+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "ai",
         "macro"
@@ -466,7 +493,7 @@
       "url": "https://github.com/google/ax",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-23T05:50:23+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -490,7 +517,7 @@
       "url": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-09-23T00:34:18+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "ai"
       ],
@@ -516,7 +543,7 @@
       "url": "https://e27.co/nexstrom-lands-us12m-to-bring-2d-semiconductors-to-12-inch-wafers-20260923/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T03:57:29+00:00",
-      "age_days": 0.14,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -540,7 +567,7 @@
       "url": "https://github.com/agent-substrate/substrate",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-23T05:50:23+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "ai",
         "macro"
@@ -567,7 +594,7 @@
       "url": "https://e27.co/is-fast-fashion-losing-its-fit-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T02:32:45+00:00",
-      "age_days": 0.2,
+      "age_days": 0.21,
       "topics": [
         "general"
       ],
@@ -591,7 +618,7 @@
       "url": "https://dev.classmethod.jp/articles/aws-devops-agent-Illustration/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-23T01:40:09+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -617,7 +644,7 @@
       "url": "https://e27.co/containerisation-explains-why-ai-investment-may-continue-even-without-returns-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T01:40:09+00:00",
-      "age_days": 0.23,
+      "age_days": 0.25,
       "topics": [
         "ai"
       ],
@@ -644,7 +671,7 @@
       "url": "https://github.com/mvt-project/mvt",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-23T05:50:23+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -668,7 +695,7 @@
       "url": "https://e27.co/why-southeast-asias-next-healthtech-winners-will-be-built-around-healthcare-workflows-not-just-ai-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T03:37:17+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -694,7 +721,7 @@
       "url": "https://e27.co/3-in-4-organisations-are-embracing-low-code-when-should-a-business-build-instead-of-buy-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T03:37:17+00:00",
-      "age_days": 0.15,
+      "age_days": 0.17,
       "topics": [
         "general"
       ],
@@ -718,7 +745,7 @@
       "url": "https://e27.co/3cat-raises-us4m-series-a-to-take-used-device-retail-model-from-malaysia-to-the-philippines-20260923/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T04:18:49+00:00",
-      "age_days": 0.12,
+      "age_days": 0.14,
       "topics": [
         "ai"
       ],
@@ -740,11 +767,61 @@
       "summary": ""
     },
     {
+      "title": "Announcing 20260084 (OT,liquidity providing), for 7 days deadline 09:45",
+      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260084.en.html",
+      "source": "ECB Open Market Operations and Communication",
+      "published_at": "2026-09-23T08:15:17+00:00",
+      "age_days": 0,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 12.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "Announcing 20260084 (OT,liquidity providing), for 7 days deadline 09:45"
+    },
+    {
+      "title": "Southeast Asia gains ground in Seedstars’s disability inclusion accelerator",
+      "url": "https://e27.co/southeast-asia-gains-ground-in-seedstarss-disability-inclusion-accelerator-20260923/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-23T06:31:00+00:00",
+      "age_days": 0.05,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 11.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Why Singapore, Indonesia, and Vietnam are losing the AI race they think they are winning",
       "url": "https://e27.co/why-singapore-indonesia-and-vietnam-are-losing-the-ai-race-they-think-they-are-winning-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T01:21:48+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -770,7 +847,7 @@
       "url": "https://e27.co/your-startup-has-an-ai-strategy-does-it-have-a-human-strategy-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T04:00:13+00:00",
-      "age_days": 0.14,
+      "age_days": 0.15,
       "topics": [
         "ai",
         "macro"
@@ -796,7 +873,7 @@
       "url": "https://e27.co/why-southeast-asias-next-healthtech-winners-will-be-built-around-healthcare-workflows-not-just-ai-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T03:30:05+00:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai"
       ],
@@ -818,11 +895,11 @@
       "summary": "Artificial intelligence has become one of the most exciting areas of healthcare innovation. From clinical documentation and diagnostics to patient engagement and remote monitoring, founders are finding new ways to bring AI into almost every part of the healthcare journey. But for healthtech startups in Southeast Asia,…"
     },
     {
-      "title": "Southeast Asia gains ground in Seedstars’s disability inclusion accelerator",
-      "url": "https://e27.co/southeast-asia-gains-ground-in-seedstarss-disability-inclusion-accelerator-20260923/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "M 4.7 - 30 km SE of Khorugh, Tajikistan",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx16",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-23T06:31:00+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -832,12 +909,12 @@
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +2",
+        "momentum delta +3",
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],
@@ -848,7 +925,7 @@
       "url": "https://kawarimidoll.com/posts/202609222/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T09:22:22+00:00",
-      "age_days": 95.91,
+      "age_days": 95.93,
       "topics": [
         "general"
       ],
@@ -869,37 +946,11 @@
       "summary": ""
     },
     {
-      "title": "トランプ大統領、国連演説で「AI」を「Super Intelligence」に改称すると表明",
-      "url": "https://www.itmedia.co.jp/news/article/2609/23/2000001676/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-23T07:10:59+00:00",
-      "age_days": 0.0,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 7.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "google/ax",
       "url": "https://github.com/google/ax",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-23T05:49:52+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "ai"
       ],
@@ -921,37 +972,11 @@
       "summary": "Google's open agentic orchestration runtime https://agentexecutor.io AX Warning We are still actively refining our core concepts, protocols, and specifications. We will likely to introduce major breaking changes prior to a stable release. Declare an agentic task with workspaces and gateway specifications. AX sandboxes…"
     },
     {
-      "title": "M 4.7 - 30 km SE of Khorugh, Tajikistan",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx16",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-23T06:31:00+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 6.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +2",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Claude Opus 5.5登場 Fable 5.1並みの性能をOpus 5より40%安価に",
       "url": "https://www.watch.impress.co.jp/docs/news/2142619.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-23T00:08:20+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "ai"
       ],
@@ -977,7 +1002,7 @@
       "url": "https://qiita.com/kikuziro/items/2be9091b328d8b844640",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 96.22,
+      "age_days": 96.24,
       "topics": [
         "general"
       ],
@@ -1002,7 +1027,7 @@
       "url": "https://www.anthropic.com/claude-opus-5-5",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-01T21:51:36+00:00",
-      "age_days": 21.39,
+      "age_days": 21.41,
       "topics": [
         "ai"
       ],
@@ -1020,32 +1045,6 @@
         "momentum delta +3",
         "single-source AI hype brake -8.0",
         "aging penalty -0.1 for 21.4d old signal",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Ethereum’s US$2,800 wall: Why bulls keep failing at the same level",
-      "url": "https://e27.co/ethereums-us2800-wall-why-bulls-keep-failing-at-the-same-level-20260923/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-23T04:56:56+00:00",
-      "age_days": 0.1,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 5.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
