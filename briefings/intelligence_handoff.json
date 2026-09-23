@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-23T15:43:03Z",
+  "generated_at": "2026-09-23T15:51:37Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [hoch] GNU Emacs: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3534",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-23T11:39:23+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3535",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-23T11:39:23+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -64,7 +64,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3532",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-23T11:34:27+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -99,16 +99,16 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 2,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.98,
+      "baseline_z_hint": 0.71,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "source breadth +2",
         "momentum delta +3",
-        "baseline z_hint 0.98",
+        "baseline z_hint 0.71",
         "high terms: rce",
         "security high-signal: rce",
-        "aging penalty -8.0 for 97.0d old signal",
+        "aging penalty -8.0 for 97.1d old signal",
         "extreme gate recheck: insufficient independent/current evidence"
       ],
       "summary": ""
@@ -118,7 +118,7 @@
       "url": "https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-09-23T02:14:54+00:00",
-      "age_days": 0.56,
+      "age_days": 0.57,
       "topics": [
         "ai"
       ],
@@ -146,7 +146,7 @@
       "url": "https://e27.co/pinterest-and-shopee-link-up-to-bring-creator-led-shopping-to-indonesia-20260922/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T02:00:57+00:00",
-      "age_days": 0.57,
+      "age_days": 0.58,
       "topics": [
         "ai"
       ],
@@ -174,7 +174,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3536",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-23T11:39:23+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "security"
       ],
@@ -200,7 +200,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3487",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-23T10:37:11+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "security"
       ],
@@ -226,7 +226,7 @@
       "url": "https://github.com/agent-substrate/substrate",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-23T05:49:52+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [
         "ai",
         "security",
@@ -254,7 +254,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3497",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-23T10:37:11+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "security",
         "macro"
@@ -280,7 +280,7 @@
       "url": "https://github.com/dream-num/univer",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-23T05:50:23+00:00",
-      "age_days": 0.41,
+      "age_days": 0.42,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "krass",
@@ -316,12 +316,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 1.2,
+      "baseline_z_hint": 1.06,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 1.20",
+        "baseline z_hint 1.06",
         "high terms: angriffe",
         "security high-signal: angriffe",
         "aging penalty -8.0 for 96.3d old signal",
