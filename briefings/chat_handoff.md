@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-23T16:27:28+00:00_
+_Generated: 2026-09-23T16:38:46+00:00_
 
 ## Status
 - status: `normal`
-- findings: `71`
+- findings: `73`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-09-23T16:27:28+00:00_
 - url: https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains
 - summary: GitHub Copilot for JetBrains 1.18.0 brings AI-assisted tool approvals, more control over agent conversations, and shared skills and instructions for your organization. You can also review plans with the Codex… The post New features and improvements in Copilot…
 
-### 3. [UPDATE] [UNGEPATCHT] [hoch] CUPS: Schwachstelle ermöglicht Privilegieneskalation
+### 3. Ringg’s AI agents resolve up to 65% of customer calls with OpenAI
+- source: OpenAI News RSS
+- score: `20`
+- published: `2026-09-24T12:00:00+00:00`
+- url: https://openai.com/index/ringg
+- summary: Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.
+
+### 4. [UPDATE] [UNGEPATCHT] [hoch] CUPS: Schwachstelle ermöglicht Privilegieneskalation
 - source: BSI CERT-Bund Security Advisories
 - score: `18`
 - published: `2026-09-23T10:37:11+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3497
 - summary: Ein lokaler Angreifer kann eine Schwachstelle in CUPS, wie es z.B. in Red Hat Enterprise Linux und Fedora Linux verwendet wird, ausnutzen, um seine Privilegien zu erhöhen.
-
-### 4. Your startup has an AI strategy. Does it have a human strategy?
-- source: e27 Asia Startup and Tech Feed
-- score: `18`
-- published: `2026-09-23T04:00:13+00:00`
-- url: https://e27.co/your-startup-has-an-ai-strategy-does-it-have-a-human-strategy-20260921/
-- summary: I recently presented at LEAP in Saudi Arabia, where I spent several days talking with founders, startup teams and people building businesses around emerging technology. Unsurprisingly, AI was everywhere. Much of the conversation centred on what AI could help…
 
 ### 5. AWS DevOps Agentの全体構造と設定箇所を図解してみた | DevelopersIO
 - source: Hatena Bookmark Hotentry IT

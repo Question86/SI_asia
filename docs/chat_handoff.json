@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-23T16:27:28+00:00",
+  "generated_at": "2026-09-23T16:38:46+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 71,
-    "displayed_findings": 71,
+    "new_relevant_findings": 2,
+    "today_file_total": 73,
+    "displayed_findings": 73,
     "high": 0,
-    "medium": 19,
-    "observe": 52
+    "medium": 20,
+    "observe": 53
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -35,6 +35,16 @@
       "section": "medium"
     },
     {
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-24T12:00:00+00:00",
+      "relevance_score": 20,
+      "url": "https://openai.com/index/ringg",
+      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "section": "medium"
+    },
+    {
       "title": "[UPDATE] [UNGEPATCHT] [hoch] CUPS: Schwachstelle ermöglicht Privilegieneskalation",
       "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
@@ -42,16 +52,6 @@
       "relevance_score": 18,
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3497",
       "summary": "Ein lokaler Angreifer kann eine Schwachstelle in CUPS, wie es z.B. in Red Hat Enterprise Linux und Fedora Linux verwendet wird, ausnutzen, um seine Privilegien zu erhöhen.",
-      "section": "medium"
-    },
-    {
-      "title": "Your startup has an AI strategy. Does it have a human strategy?",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-23T04:00:13+00:00",
-      "relevance_score": 18,
-      "url": "https://e27.co/your-startup-has-an-ai-strategy-does-it-have-a-human-strategy-20260921/",
-      "summary": "I recently presented at LEAP in Saudi Arabia, where I spent several days talking with founders, startup teams and people building businesses around emerging technology. Unsurprisingly, AI was everywhere. Much of the conversation centred on what AI could help…",
       "section": "medium"
     },
     {
