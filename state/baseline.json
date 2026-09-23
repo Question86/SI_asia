@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T09:14:51+00:00",
+  "generated_at": "2026-09-23T09:31:55+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -910,7 +910,7 @@
     },
     "domain:www.bis.org": {
       "title": "Basel III risk-based capital and leverage ratios are stable while liquidity indicators show limited movements for large internationally active banks, latest Basel III monitoring exercise shows",
-      "updated_at": "2026-09-23T09:14:51+00:00",
+      "updated_at": "2026-09-23T09:31:55+00:00",
       "network_scores": [
         20.6,
         20.6,
@@ -940,13 +940,13 @@
         20.6,
         20.6,
         20.6,
-        20.6,
-        17.1
+        17.1,
+        14.1
       ],
-      "rolling_average": 20.48,
+      "rolling_average": 20.27,
       "rolling_peak": 20.6,
-      "last_score": 17.1,
-      "z_hint": -3.38
+      "last_score": 14.1,
+      "z_hint": -6.17
     },
     "domain:www.federalreserve.gov": {
       "title": "Jefferson, Discount Window Modernization and Treasury Market Functioning",
@@ -990,9 +990,8 @@
     },
     "domain:www.ecb.europa.eu": {
       "title": "Announcing 20260084 (OT,liquidity providing), for 7 days deadline 09:45",
-      "updated_at": "2026-09-23T09:14:51+00:00",
+      "updated_at": "2026-09-23T09:31:55+00:00",
       "network_scores": [
-        10.1,
         10.1,
         10.1,
         10.1,
@@ -1021,12 +1020,13 @@
         14.1,
         14.1,
         14.1,
-        25.2
+        25.2,
+        22.2
       ],
-      "rolling_average": 11.64,
+      "rolling_average": 12.04,
       "rolling_peak": 25.2,
-      "last_score": 25.2,
-      "z_hint": 13.56
+      "last_score": 22.2,
+      "z_hint": 10.16
     },
     "domain:snyk.io": {
       "title": "The full Snyk AI Security Platform, free for open source maintainers",
@@ -3604,9 +3604,9 @@
     },
     "domain:qiita.com": {
       "title": "JevでRAG検索の爆速化＆コスト削減は実現できるのか検証してみた - Qiita",
-      "updated_at": "2026-09-23T09:14:51+00:00",
+      "updated_at": "2026-09-23T09:31:55+00:00",
       "network_scores": [
-        10.1,
+        7.1,
         7.1,
         7.1,
         7.1,
@@ -3637,10 +3637,10 @@
         7.1,
         7.1
       ],
-      "rolling_average": 7.2,
-      "rolling_peak": 10.1,
+      "rolling_average": 7.1,
+      "rolling_peak": 7.1,
       "last_score": 7.1,
-      "z_hint": -0.1
+      "z_hint": 0.0
     },
     "github_repo:yairm210/unciv": {
       "title": "yairm210/Unciv",
@@ -4263,9 +4263,8 @@
     },
     "domain:www.heise.de": {
       "title": "Cyberangriffe auf F5 BIG-IP, Check Point Security und Arista VeloCloud",
-      "updated_at": "2026-09-23T09:14:51+00:00",
+      "updated_at": "2026-09-23T09:31:55+00:00",
       "network_scores": [
-        15.2,
         15.2,
         15.2,
         15.2,
@@ -4294,12 +4293,13 @@
         10.1,
         10.1,
         15.2,
+        12.2,
         12.2
       ],
-      "rolling_average": 13.84,
+      "rolling_average": 13.74,
       "rolling_peak": 15.2,
       "last_score": 12.2,
-      "z_hint": -1.64
+      "z_hint": -1.54
     },
     "earthquake:m 4.9 - 169 km e of petropavlovsk-kamchatsky, russia:4.9": {
       "title": "M 4.9 - 169 km E of Petropavlovsk-Kamchatsky, Russia",
@@ -4431,7 +4431,7 @@
     },
     "domain:kawarimidoll.com": {
       "title": "一日の作業をMarkdownに自動記録するAmbient Contextが良さげかも | kawarimidoll.com",
-      "updated_at": "2026-09-23T09:14:51+00:00",
+      "updated_at": "2026-09-23T09:31:55+00:00",
       "network_scores": [
         20.1,
         12.1,
@@ -4459,12 +4459,13 @@
         9.1,
         9.1,
         9.1,
+        9.1,
         9.1
       ],
-      "rolling_average": 9.62,
+      "rolling_average": 9.6,
       "rolling_peak": 20.1,
       "last_score": 9.1,
-      "z_hint": -0.52
+      "z_hint": -0.5
     },
     "earthquake:russia 19:5.0": {
       "title": "Green earthquake (Magnitude 5.2M, Depth:10km) in Russia 19/06/2026 08:03 UTC, Few people affected in 100km.",
@@ -12488,9 +12489,8 @@
     },
     "domain:www.anthropic.com": {
       "title": "Introducing Claude Opus 5.5",
-      "updated_at": "2026-09-23T09:14:51+00:00",
+      "updated_at": "2026-09-23T09:31:55+00:00",
       "network_scores": [
-        11.1,
         11.1,
         11.1,
         11.1,
@@ -12519,12 +12519,13 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 8.53,
+      "rolling_average": 8.4,
       "rolling_peak": 11.1,
       "last_score": 7.1,
-      "z_hint": -1.43
+      "z_hint": -1.3
     },
     "domain:garumax.com": {
       "title": "Windows 11 Homeでローカルアカウントを作成する新たな「抜け道」が発見される",
@@ -19302,13 +19303,13 @@
     },
     "earthquake:indonesia:4.5": {
       "title": "M 4.5 - 63 km NE of Ruteng, Indonesia",
-      "updated_at": "2026-09-23T09:14:51+00:00",
+      "updated_at": "2026-09-23T09:31:55+00:00",
       "network_scores": [
         17.7,
         17.7,
         17.7,
-        17.7,
         20.7,
+        17.7,
         17.7,
         17.7,
         17.7,
@@ -43491,7 +43492,7 @@
     },
     "title:claude-opus-fable-opus": {
       "title": "Claude Opus 5.5登場 Fable 5.1並みの性能をOpus 5より40%安価に",
-      "updated_at": "2026-09-23T09:14:51+00:00",
+      "updated_at": "2026-09-23T09:31:55+00:00",
       "network_scores": [
         7.1,
         7.1,
@@ -43531,9 +43532,9 @@
     },
     "title:features-improvements-copilot-jetbrains": {
       "title": "New features and improvements in Copilot for JetBrains",
-      "updated_at": "2026-09-23T09:14:51+00:00",
+      "updated_at": "2026-09-23T09:31:55+00:00",
       "network_scores": [
-        27.1,
+        24.1,
         24.1,
         24.1,
         24.1,
@@ -43564,16 +43565,16 @@
         24.1,
         24.1
       ],
-      "rolling_average": 24.2,
-      "rolling_peak": 27.1,
+      "rolling_average": 24.1,
+      "rolling_peak": 24.1,
       "last_score": 24.1,
-      "z_hint": -0.1
+      "z_hint": -0.0
     },
     "title:why-singapore-indonesia-vietnam-are-losing-race-they": {
       "title": "Why Singapore, Indonesia, and Vietnam are losing the AI race they think they are winning",
-      "updated_at": "2026-09-23T09:14:51+00:00",
+      "updated_at": "2026-09-23T09:31:55+00:00",
       "network_scores": [
-        15.1,
+        12.1,
         12.1,
         12.1,
         12.1,
@@ -43604,16 +43605,17 @@
         12.1,
         12.1
       ],
-      "rolling_average": 12.2,
-      "rolling_peak": 15.1,
+      "rolling_average": 12.1,
+      "rolling_peak": 12.1,
       "last_score": 12.1,
-      "z_hint": -0.1
+      "z_hint": -0.0
     },
     "title:aws-devops-agent-developersio": {
       "title": "AWS DevOps Agentの全体構造と設定箇所を図解してみた | DevelopersIO",
-      "updated_at": "2026-09-23T09:14:51+00:00",
+      "updated_at": "2026-09-23T09:31:55+00:00",
       "network_scores": [
         18.1,
+        15.1,
         15.1,
         15.1,
         15.1,
@@ -43650,9 +43652,10 @@
     },
     "title:containerisation-explains-why-investment-may-continue-even-without": {
       "title": "Containerisation explains why AI investment may continue even without returns",
-      "updated_at": "2026-09-23T09:14:51+00:00",
+      "updated_at": "2026-09-23T09:31:55+00:00",
       "network_scores": [
         13.1,
+        10.1,
         10.1,
         10.1,
         10.1,
@@ -43689,9 +43692,10 @@
     },
     "title:msme-development-doesn-need-invention-only-connection": {
       "title": "MSME development doesn’t need invention, only connection",
-      "updated_at": "2026-09-23T09:14:51+00:00",
+      "updated_at": "2026-09-23T09:31:55+00:00",
       "network_scores": [
         17.1,
+        14.1,
         14.1,
         14.1,
         14.1,
@@ -43726,9 +43730,10 @@
     },
     "title:pinterest-shopee-link-bring-creator-led-shopping-indonesia": {
       "title": "Pinterest and Shopee link up to bring creator-led shopping to Indonesia",
-      "updated_at": "2026-09-23T09:14:51+00:00",
+      "updated_at": "2026-09-23T09:31:55+00:00",
       "network_scores": [
         14.1,
+        11.1,
         11.1,
         11.1,
         11.1,
@@ -43763,7 +43768,7 @@
     },
     "title:opentelemetry-github-copilot-app": {
       "title": "OpenTelemetry in the GitHub Copilot app",
-      "updated_at": "2026-09-23T09:14:51+00:00",
+      "updated_at": "2026-09-23T09:31:55+00:00",
       "network_scores": [
         14.1,
         11.1,
@@ -43790,16 +43795,17 @@
         11.1,
         11.1,
         11.1,
+        11.1,
         11.1
       ],
-      "rolling_average": 11.22,
+      "rolling_average": 11.21,
       "rolling_peak": 14.1,
       "last_score": 11.1,
-      "z_hint": -0.12
+      "z_hint": -0.11
     },
     "title:fast-fashion-losing-its-fit": {
       "title": "Is fast fashion losing its fit?",
-      "updated_at": "2026-09-23T09:14:51+00:00",
+      "updated_at": "2026-09-23T09:31:55+00:00",
       "network_scores": [
         11.1,
         8.1,
@@ -43826,18 +43832,20 @@
         8.1,
         8.1,
         8.1,
+        8.1,
         8.1
       ],
-      "rolling_average": 8.22,
+      "rolling_average": 8.21,
       "rolling_peak": 11.1,
       "last_score": 8.1,
-      "z_hint": -0.12
+      "z_hint": -0.11
     },
     "title:why-southeast-asia-next-healthtech-winners-will-built": {
       "title": "Why Southeast Asia’s next healthtech winners will be built around healthcare workflows, not just AI",
-      "updated_at": "2026-09-23T09:14:51+00:00",
+      "updated_at": "2026-09-23T09:31:55+00:00",
       "network_scores": [
         17.1,
+        14.1,
         14.1,
         14.1,
         14.1,
@@ -43868,7 +43876,7 @@
     },
     "title:build-buy-why-custom-tools-are-winning-2026": {
       "title": "Build vs buy: Why custom tools are winning in 2026",
-      "updated_at": "2026-09-23T09:14:51+00:00",
+      "updated_at": "2026-09-23T09:31:55+00:00",
       "network_scores": [
         9.1,
         6.1,
@@ -43892,18 +43900,20 @@
         6.1,
         6.1,
         6.1,
+        6.1,
         6.1
       ],
-      "rolling_average": 6.23,
+      "rolling_average": 6.22,
       "rolling_peak": 9.1,
       "last_score": 6.1,
-      "z_hint": -0.13
+      "z_hint": -0.12
     },
     "title:nexstrom-lands-12m-bring-semiconductors-inch-wafers": {
       "title": "Nexstrom lands US$12M to bring 2D semiconductors to 12-inch wafers",
-      "updated_at": "2026-09-23T09:14:51+00:00",
+      "updated_at": "2026-09-23T09:31:55+00:00",
       "network_scores": [
         13.1,
+        10.1,
         10.1,
         10.1,
         10.1,
@@ -43932,7 +43942,7 @@
     },
     "title:your-startup-has-strategy-does-have-human-strategy": {
       "title": "Your startup has an AI strategy. Does it have a human strategy?",
-      "updated_at": "2026-09-23T09:14:51+00:00",
+      "updated_at": "2026-09-23T09:31:55+00:00",
       "network_scores": [
         23.1,
         20.1,
@@ -43953,18 +43963,20 @@
         20.1,
         20.1,
         20.1,
+        20.1,
         20.1
       ],
-      "rolling_average": 20.25,
+      "rolling_average": 20.24,
       "rolling_peak": 23.1,
       "last_score": 20.1,
-      "z_hint": -0.15
+      "z_hint": -0.14
     },
     "title:3cat-raises-series-take-used-device-retail-model": {
       "title": "3cat raises US$4M Series A to take used-device retail model from Malaysia to the Philippines",
-      "updated_at": "2026-09-23T09:14:51+00:00",
+      "updated_at": "2026-09-23T09:31:55+00:00",
       "network_scores": [
         16.1,
+        13.1,
         13.1,
         13.1,
         13.1,
@@ -43985,14 +43997,14 @@
         13.1,
         13.1
       ],
-      "rolling_average": 13.25,
+      "rolling_average": 13.24,
       "rolling_peak": 16.1,
       "last_score": 13.1,
-      "z_hint": -0.15
+      "z_hint": -0.14
     },
     "title:ethereum-800-wall-why-bulls-keep-failing-same": {
       "title": "Ethereum’s US$2,800 wall: Why bulls keep failing at the same level",
-      "updated_at": "2026-09-23T09:14:51+00:00",
+      "updated_at": "2026-09-23T09:31:55+00:00",
       "network_scores": [
         9.1,
         6.1,
@@ -44010,16 +44022,17 @@
         6.1,
         6.1,
         6.1,
+        6.1,
         6.1
       ],
-      "rolling_average": 6.28,
+      "rolling_average": 6.27,
       "rolling_peak": 9.1,
       "last_score": 6.1,
-      "z_hint": -0.18
+      "z_hint": -0.17
     },
     "title:meta-singapore-police-disrupt-scam-linked-assets-across": {
       "title": "Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram",
-      "updated_at": "2026-09-23T09:14:51+00:00",
+      "updated_at": "2026-09-23T09:31:55+00:00",
       "network_scores": [
         27.1,
         24.1,
@@ -44034,16 +44047,17 @@
         24.1,
         24.1,
         24.1,
+        24.1,
         24.1
       ],
-      "rolling_average": 24.31,
+      "rolling_average": 24.3,
       "rolling_peak": 27.1,
       "last_score": 24.1,
-      "z_hint": -0.21
+      "z_hint": -0.2
     },
     "github_repo:dream-num/univer": {
       "title": "dream-num/univer",
-      "updated_at": "2026-09-23T09:14:51+00:00",
+      "updated_at": "2026-09-23T09:31:55+00:00",
       "network_scores": [
         21.1,
         18.1,
@@ -44057,16 +44071,17 @@
         18.1,
         18.1,
         18.1,
+        18.1,
         18.1
       ],
-      "rolling_average": 18.33,
+      "rolling_average": 18.31,
       "rolling_peak": 21.1,
       "last_score": 18.1,
-      "z_hint": -0.23
+      "z_hint": -0.21
     },
     "github_repo:agent-substrate/substrate": {
       "title": "agent-substrate/substrate",
-      "updated_at": "2026-09-23T09:14:51+00:00",
+      "updated_at": "2026-09-23T09:31:55+00:00",
       "network_scores": [
         19.1,
         16.1,
@@ -44080,16 +44095,17 @@
         16.1,
         16.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 16.33,
+      "rolling_average": 16.31,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -0.23
+      "z_hint": -0.21
     },
     "github_repo:google/ax": {
       "title": "google/ax",
-      "updated_at": "2026-09-23T09:14:51+00:00",
+      "updated_at": "2026-09-23T09:31:55+00:00",
       "network_scores": [
         15.1,
         12.1,
@@ -44103,16 +44119,17 @@
         12.1,
         12.1,
         12.1,
+        12.1,
         12.1
       ],
-      "rolling_average": 12.33,
+      "rolling_average": 12.31,
       "rolling_peak": 15.1,
       "last_score": 12.1,
-      "z_hint": -0.23
+      "z_hint": -0.21
     },
     "github_repo:mvt-project/mvt": {
       "title": "mvt-project/mvt",
-      "updated_at": "2026-09-23T09:14:51+00:00",
+      "updated_at": "2026-09-23T09:31:55+00:00",
       "network_scores": [
         10.1,
         7.1,
@@ -44126,16 +44143,17 @@
         7.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.33,
+      "rolling_average": 7.31,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.23
+      "z_hint": -0.21
     },
     "title:southeast-asia-gains-ground-seedstars-disability-inclusion-accelerator": {
       "title": "Southeast Asia gains ground in Seedstars’s disability inclusion accelerator",
-      "updated_at": "2026-09-23T09:14:51+00:00",
+      "updated_at": "2026-09-23T09:31:55+00:00",
       "network_scores": [
         15.1,
         12.1,
@@ -44147,16 +44165,17 @@
         12.1,
         12.1,
         12.1,
+        12.1,
         12.1
       ],
-      "rolling_average": 12.37,
+      "rolling_average": 12.35,
       "rolling_peak": 15.1,
       "last_score": 12.1,
-      "z_hint": -0.27
+      "z_hint": -0.25
     },
     "earthquake:m 4.7 - 30 km se of khorugh, tajikistan:4.7": {
       "title": "M 4.7 - 30 km SE of Khorugh, Tajikistan",
-      "updated_at": "2026-09-23T09:14:51+00:00",
+      "updated_at": "2026-09-23T09:31:55+00:00",
       "network_scores": [
         14.7,
         11.7,
@@ -44168,16 +44187,17 @@
         11.7,
         11.7,
         11.7,
+        11.7,
         11.7
       ],
-      "rolling_average": 11.97,
+      "rolling_average": 11.95,
       "rolling_peak": 14.7,
       "last_score": 11.7,
-      "z_hint": -0.27
+      "z_hint": -0.25
     },
     "title:super-intelligence": {
       "title": "トランプ大統領、国連演説で「AI」を「Super Intelligence」に改称すると表明",
-      "updated_at": "2026-09-23T09:14:51+00:00",
+      "updated_at": "2026-09-23T09:31:55+00:00",
       "network_scores": [
         14.1,
         11.1,
@@ -44187,48 +44207,52 @@
         11.1,
         11.1,
         11.1,
+        11.1,
         11.1
       ],
-      "rolling_average": 11.43,
+      "rolling_average": 11.4,
       "rolling_peak": 14.1,
       "last_score": 11.1,
-      "z_hint": -0.33
+      "z_hint": -0.3
     },
     "domain:engineer-ninaritai.com": {
       "title": "そのlsは、GNU製ですか。2026年、UbuntuがコマンドをRust製に置き換え終えるまでに起きたこと - インフラ学習サイト「InfraAcademy」",
-      "updated_at": "2026-09-23T09:14:51+00:00",
+      "updated_at": "2026-09-23T09:31:55+00:00",
       "network_scores": [
         10.1,
         7.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 7.85,
+      "rolling_average": 7.7,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "earthquake:m 4.9 - scotia sea:4.9": {
       "title": "M 4.9 - Scotia Sea",
-      "updated_at": "2026-09-23T09:14:51+00:00",
+      "updated_at": "2026-09-23T09:31:55+00:00",
       "network_scores": [
-        14.7
+        14.7,
+        11.7
       ],
-      "rolling_average": 14.7,
+      "rolling_average": 13.2,
       "rolling_peak": 14.7,
-      "last_score": 14.7,
-      "z_hint": 0.0
+      "last_score": 11.7,
+      "z_hint": -1.5
     },
     "title:jcom": {
       "title": "JCOM障害「インターネットが使えない」 サポート窓口もつながりにくく",
-      "updated_at": "2026-09-23T09:14:51+00:00",
+      "updated_at": "2026-09-23T09:31:55+00:00",
       "network_scores": [
-        10.1
+        10.1,
+        7.1
       ],
-      "rolling_average": 10.1,
+      "rolling_average": 8.6,
       "rolling_peak": 10.1,
-      "last_score": 10.1,
-      "z_hint": 0.0
+      "last_score": 7.1,
+      "z_hint": -1.5
     }
   }
 }
