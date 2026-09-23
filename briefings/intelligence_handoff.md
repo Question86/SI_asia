@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-23T04:41:27Z_
+_Generated: 2026-09-23T04:51:58Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “OpenTelemetry in the GitHub Copilot app�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-23T02:32:45+00:00` / age_days `0.09`
+- Published: `2026-09-23T02:32:45+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “OpenTelemetry in the GitHub Copilot app�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-23T02:05:39+00:00` / age_days `0.11`
+- Published: `2026-09-23T02:05:39+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “OpenTelemetry in the GitHub Copilot app�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-23T02:14:54+00:00` / age_days `0.1`
+- Published: `2026-09-23T02:14:54+00:00` / age_days `0.11`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “OpenTelemetry in the GitHub Copilot app�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-23T02:00:57+00:00` / age_days `0.11`
+- Published: `2026-09-23T02:00:57+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “OpenTelemetry in the GitHub Copilot app�
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-23T01:21:48+00:00` / age_days `0.14`
+- Published: `2026-09-23T01:21:48+00:00` / age_days `0.15`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: momentum delta +3, high terms: rce, security high-signal: rce, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -68,11 +68,21 @@ Stärkste Dynamik nach Gate-Recheck: “OpenTelemetry in the GitHub Copilot app�
 - Warum: early terms: earthquake, high terms: 10
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx08
 
+### Your startup has an AI strategy. Does it have a human strategy?
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `22.0`
+- Published: `2026-09-23T04:18:49+00:00` / age_days `0.02`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
+- Warum: momentum delta +2, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
+- Quelle: https://e27.co/your-startup-has-an-ai-strategy-does-it-have-a-human-strategy-20260921/
+
 ### Build vs buy: Why custom tools are winning in 2026
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-09-23T03:00:59+00:00` / age_days `0.07`
+- Published: `2026-09-23T03:00:59+00:00` / age_days `0.08`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, code, security high-signal: rce, code
@@ -82,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “OpenTelemetry in the GitHub Copilot app�
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-09-23T02:05:39+00:00` / age_days `0.11`
+- Published: `2026-09-23T02:05:39+00:00` / age_days `0.12`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -92,40 +102,30 @@ Stärkste Dynamik nach Gate-Recheck: “OpenTelemetry in the GitHub Copilot app�
 
 - Band: `watch` (raw `strong`)
 - Dynamics score: `19.9`
-- Published: `2026-09-05T07:22:32+00:00` / age_days `17.89`
+- Published: `2026-09-05T07:22:32+00:00` / age_days `17.9`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, stale single-source cap: max watch after 14d without fresh resonance
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx08
 
-### Your startup has an AI strategy. Does it have a human strategy?
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `19.5`
-- Published: `2026-09-23T04:18:49+00:00` / age_days `0.02`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +1, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
-- Quelle: https://e27.co/your-startup-has-an-ai-strategy-does-it-have-a-human-strategy-20260921/
-
 ### New features and improvements in Copilot for JetBrains
 
 - Band: `watch` (raw `watch`)
 - Dynamics score: `19.0`
-- Published: `2026-09-23T00:34:18+00:00` / age_days `0.17`
+- Published: `2026-09-23T00:34:18+00:00` / age_days `0.18`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
 - Warum: high terms: code, single-source AI hype brake -8.0, single-source AI cap enforced after phrase recheck
 - Quelle: https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains
 
-### Is fast fashion losing its fit?
+### Nexstrom lands US$12M to bring 2D semiconductors to 12-inch wafers
 
 - Band: `watch` (raw `watch`)
-- Dynamics score: `15.0`
-- Published: `2026-09-23T02:32:45+00:00` / age_days `0.09`
+- Dynamics score: `17.0`
+- Published: `2026-09-23T03:57:29+00:00` / age_days `0.04`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
-- Quelle: https://e27.co/is-fast-fashion-losing-its-fit-20260920/
+- Quelle: https://e27.co/nexstrom-lands-us12m-to-bring-2d-semiconductors-to-12-inch-wafers-20260923/
 
 END OF DOCUMENT
