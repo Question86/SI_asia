@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T10:45:52+00:00",
-  "run_id": "2026-09-23T10:45:52+00:00",
+  "generated_at": "2026-09-23T11:00:59+00:00",
+  "run_id": "2026-09-23T11:00:59+00:00",
   "date": "2026-09-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 43
+      "configured_public_sources_only": 44
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 43,
-    "displayed_findings": 43,
+    "new_relevant_findings": 1,
+    "today_file_total": 44,
+    "displayed_findings": 44,
     "high": 0,
     "medium": 10,
-    "observe": 33,
+    "observe": 34,
     "source_errors": 0
   },
   "sections": {
@@ -945,6 +945,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "4ee0adbb5bcb5c1d028c"
+      },
+      {
+        "title": "ITエンジニアが本気で婚活したら7年かかった｜いぐぞー ✈️ 旅するプログラマー",
+        "url": "https://note.com/igz0/n/n758e57fddaa8",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-23T06:07:45+00:00",
+        "fetched_at": "2026-09-23T11:00:31+00:00",
+        "summary": "「なんか違うかも」 妻と付き合い始めて1か月ほど経ったころ、僕はそんなことを考えていた。 妻は優しく、温和で裏表がなく、一緒にいると自然に笑える人だった。 趣味にも共通点があり、こちらの不得意なところにも理解があったので、少なくとも「嫌なところがあるから迷っている」という状態ではなかった。 それなのに...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "e85d11edb78e1bc13183"
       },
       {
         "title": "JCOM障害「インターネットが使えない」 サポート窓口もつながりにくく",
@@ -2031,6 +2052,27 @@
       "id": "4ee0adbb5bcb5c1d028c"
     },
     {
+      "title": "ITエンジニアが本気で婚活したら7年かかった｜いぐぞー ✈️ 旅するプログラマー",
+      "url": "https://note.com/igz0/n/n758e57fddaa8",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-23T06:07:45+00:00",
+      "fetched_at": "2026-09-23T11:00:31+00:00",
+      "summary": "「なんか違うかも」 妻と付き合い始めて1か月ほど経ったころ、僕はそんなことを考えていた。 妻は優しく、温和で裏表がなく、一緒にいると自然に笑える人だった。 趣味にも共通点があり、こちらの不得意なところにも理解があったので、少なくとも「嫌なところがあるから迷っている」という状態ではなかった。 それなのに...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "e85d11edb78e1bc13183"
+    },
+    {
       "title": "JCOM障害「インターネットが使えない」 サポート窓口もつながりにくく",
       "url": "https://www.itmedia.co.jp/news/article/2609/23/2000001678/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -2199,52 +2241,25 @@
   ],
   "new_findings": [
     {
-      "title": "[UPDATE] [UNGEPATCHT] [hoch] CUPS: Schwachstelle ermöglicht Privilegieneskalation",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3497",
-      "source": "BSI CERT-Bund Security Advisories",
+      "title": "ITエンジニアが本気で婚活したら7年かかった｜いぐぞー ✈️ 旅するプログラマー",
+      "url": "https://note.com/igz0/n/n758e57fddaa8",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-23T10:37:11+00:00",
-      "fetched_at": "2026-09-23T10:44:56+00:00",
-      "summary": "Ein lokaler Angreifer kann eine Schwachstelle in CUPS, wie es z.B. in Red Hat Enterprise Linux und Fedora Linux verwendet wird, ausnutzen, um seine Privilegien zu erhöhen.",
+      "published_at": "2026-09-23T06:07:45+00:00",
+      "fetched_at": "2026-09-23T11:00:31+00:00",
+      "summary": "「なんか違うかも」 妻と付き合い始めて1か月ほど経ったころ、僕はそんなことを考えていた。 妻は優しく、温和で裏表がなく、一緒にいると自然に笑える人だった。 趣味にも共通点があり、こちらの不得意なところにも理解があったので、少なくとも「嫌なところがあるから迷っている」という状態ではなかった。 それなのに...",
       "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Linux",
-        "Patch",
-        "Schwachstelle",
-        "Security"
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 18,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); Linux (+2.0); recent (+1.0)",
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "5134c3bbfb0ce6cb505c"
-    },
-    {
-      "title": "[UPDATE] [mittel] Red Hat OpenShift Builds: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3487",
-      "source": "BSI CERT-Bund Security Advisories",
-      "source_type": "rss",
-      "published_at": "2026-09-23T10:37:11+00:00",
-      "fetched_at": "2026-09-23T10:44:56+00:00",
-      "summary": "Ein entfernter, authentisierter Angreifer kann eine Schwachstelle in Red Hat OpenShift Builds ausnutzen, um Sicherheitsvorkehrungen zu umgehen.",
-      "matched_keywords": [
-        "BSI",
-        "CERT-Bund",
-        "Schwachstelle",
-        "Security"
-      ],
-      "relevance_score": 14,
-      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a7b49bc46e1bc11ec226"
+      "id": "e85d11edb78e1bc13183"
     }
   ],
   "source_errors": [],
