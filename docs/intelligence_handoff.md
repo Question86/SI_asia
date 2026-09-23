@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-23T13:42:26Z_
+_Generated: 2026-09-23T13:51:10Z_
 
 ## Lageurteil
 
@@ -42,10 +42,10 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [hoch] GNU Emacs: Sch
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-06-18T14:33:45+00:00` / age_days `96.96`
+- Published: `2026-06-18T14:33:45+00:00` / age_days `96.97`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: source breadth +2, momentum delta +3, baseline z_hint 4.11, high terms: rce, security high-signal: rce, aging penalty -8.0 for 97.0d old signal, extreme gate recheck: insufficient independent/current evidence
+- Warum: source breadth +2, momentum delta +3, baseline z_hint 3.71, high terms: rce, security high-signal: rce, aging penalty -8.0 for 97.0d old signal, extreme gate recheck: insufficient independent/current evidence
 - Quelle: http://www.ecb.europa.eu/mopo/implement/omo/html/20260084.en.html
 
 ### OpenTelemetry in the GitHub Copilot app
@@ -122,10 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [hoch] GNU Emacs: Sch
 
 - Band: `watch` (raw `krass`)
 - Dynamics score: `19.9`
-- Published: `2026-06-19T07:39:37+00:00` / age_days `96.25`
+- Published: `2026-06-19T07:39:37+00:00` / age_days `96.26`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: momentum delta +3, baseline z_hint 1.68, high terms: angriffe, security high-signal: angriffe, aging penalty -8.0 for 96.3d old signal, stale single-source cap after 30d: no current exploitation phrase
+- Warum: momentum delta +3, baseline z_hint 1.71, high terms: angriffe, security high-signal: angriffe, aging penalty -8.0 for 96.3d old signal, stale single-source cap after 30d: no current exploitation phrase
 - Quelle: https://www.heise.de/news/Cyberangriffe-auf-F5-BIG-IP-Check-Point-Security-und-Arista-VeloCloud-11462590.html
 
 END OF DOCUMENT
