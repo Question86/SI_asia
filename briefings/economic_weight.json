@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T15:06:15+00:00",
+  "generated_at": "2026-09-23T15:25:12+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -122,7 +122,7 @@
       "p90_usd": 1136000000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-23T15:05:58+00:00",
+      "last_seen_at": "2026-09-23T15:24:51+00:00",
       "status": "active"
     },
     {
@@ -860,7 +860,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-08-30T11:56:17+00:00",
-      "last_seen_at": "2026-09-23T15:05:58+00:00",
+      "last_seen_at": "2026-09-23T15:24:51+00:00",
       "status": "active"
     },
     {
@@ -1132,7 +1132,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-05T07:22:32+00:00",
-      "last_seen_at": "2026-09-23T15:05:58+00:00",
+      "last_seen_at": "2026-09-23T15:24:51+00:00",
       "status": "active"
     },
     {
@@ -2271,7 +2271,7 @@
       "p90_usd": 11280000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-23T09:45:11+00:00",
-      "last_seen_at": "2026-09-23T15:05:58+00:00",
+      "last_seen_at": "2026-09-23T15:24:51+00:00",
       "status": "active"
     },
     {
@@ -4179,6 +4179,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_fd28464ef32989fe5518",
+      "title": "M 5.7 - 180 km NW of Hihifo, Tonga",
+      "event_classes": [
+        "natural_disaster"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 1112000.0,
+      "p50_usd": 111200000.0,
+      "p90_usd": 11120000000.0,
+      "confidence": 0.328,
+      "first_seen_at": "2026-09-23T15:05:58+00:00",
+      "last_seen_at": "2026-09-23T15:05:58+00:00",
+      "status": "dormant"
+    },
+    {
       "event_id": "evt_ffdc6e7c9aa410c0d39e",
       "title": "M 5.4 - southern East Pacific Rise",
       "event_classes": [
@@ -4196,8 +4213,8 @@
       "status": "dormant"
     },
     {
-      "event_id": "evt_fd28464ef32989fe5518",
-      "title": "M 5.7 - 180 km NW of Hihifo, Tonga",
+      "event_id": "evt_405fde3f50ed6296fe9b",
+      "title": "M 4.6 - south of the Fiji Islands",
       "event_classes": [
         "natural_disaster"
       ],
@@ -4208,8 +4225,8 @@
       "p50_usd": 111200000.0,
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
-      "first_seen_at": "2026-09-23T15:05:58+00:00",
-      "last_seen_at": "2026-09-23T15:05:58+00:00",
+      "first_seen_at": "2026-09-23T15:24:51+00:00",
+      "last_seen_at": "2026-09-23T15:24:51+00:00",
       "status": "active"
     },
     {
@@ -4226,7 +4243,7 @@
       "p90_usd": 3320000000.0,
       "confidence": 0.51,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-23T15:05:58+00:00",
+      "last_seen_at": "2026-09-23T15:24:51+00:00",
       "status": "active"
     },
     {
@@ -5025,7 +5042,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-23T04:18:49+00:00",
-      "last_seen_at": "2026-09-23T15:05:58+00:00",
+      "last_seen_at": "2026-09-23T15:24:51+00:00",
       "status": "active"
     },
     {
@@ -5144,7 +5161,7 @@
       "p90_usd": 1504000000.0,
       "confidence": 0.77,
       "first_seen_at": "2026-08-29T07:47:53+00:00",
-      "last_seen_at": "2026-09-23T15:05:58+00:00",
+      "last_seen_at": "2026-09-23T15:24:51+00:00",
       "status": "active"
     },
     {
@@ -5314,7 +5331,7 @@
       "p90_usd": 1216000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-23T05:42:29+00:00",
-      "last_seen_at": "2026-09-23T15:05:58+00:00",
+      "last_seen_at": "2026-09-23T15:24:51+00:00",
       "status": "active"
     },
     {
@@ -5331,7 +5348,7 @@
       "p90_usd": 1216000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-23T01:21:48+00:00",
-      "last_seen_at": "2026-09-23T15:05:58+00:00",
+      "last_seen_at": "2026-09-23T15:24:51+00:00",
       "status": "active"
     },
     {
@@ -5671,7 +5688,7 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-23T04:18:49+00:00",
-      "last_seen_at": "2026-09-23T15:05:58+00:00",
+      "last_seen_at": "2026-09-23T15:24:51+00:00",
       "status": "active"
     },
     {
@@ -6045,7 +6062,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-23T05:50:23+00:00",
-      "last_seen_at": "2026-09-23T15:05:58+00:00",
+      "last_seen_at": "2026-09-23T15:24:51+00:00",
       "status": "active"
     },
     {
@@ -6113,7 +6130,7 @@
       "p90_usd": 1168000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-23T15:05:58+00:00",
+      "last_seen_at": "2026-09-23T15:24:51+00:00",
       "status": "active"
     },
     {
@@ -6640,7 +6657,7 @@
       "p90_usd": 1152000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-23T05:50:23+00:00",
-      "last_seen_at": "2026-09-23T15:05:58+00:00",
+      "last_seen_at": "2026-09-23T15:24:51+00:00",
       "status": "active"
     },
     {
@@ -7082,7 +7099,7 @@
       "p90_usd": 1144000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-23T01:40:09+00:00",
-      "last_seen_at": "2026-09-23T15:05:58+00:00",
+      "last_seen_at": "2026-09-23T15:24:51+00:00",
       "status": "active"
     },
     {
@@ -7422,7 +7439,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-23T03:37:17+00:00",
-      "last_seen_at": "2026-09-23T15:05:58+00:00",
+      "last_seen_at": "2026-09-23T15:24:51+00:00",
       "status": "active"
     },
     {
@@ -7609,7 +7626,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-23T02:05:39+00:00",
-      "last_seen_at": "2026-09-23T15:05:58+00:00",
+      "last_seen_at": "2026-09-23T15:24:51+00:00",
       "status": "active"
     },
     {
@@ -7643,7 +7660,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-23T15:05:58+00:00",
+      "last_seen_at": "2026-09-23T15:24:51+00:00",
       "status": "active"
     },
     {
@@ -8646,7 +8663,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-23T14:35:32+00:00",
-      "last_seen_at": "2026-09-23T15:05:58+00:00",
+      "last_seen_at": "2026-09-23T15:24:51+00:00",
       "status": "active"
     },
     {
@@ -9683,7 +9700,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T18:20:05+00:00",
-      "last_seen_at": "2026-09-23T15:05:58+00:00",
+      "last_seen_at": "2026-09-23T15:24:51+00:00",
       "status": "active"
     },
     {
