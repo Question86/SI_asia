@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-23T14:15:13Z",
+  "generated_at": "2026-09-23T14:31:58Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 3,
       "krass": 7,
-      "strong": 22,
-      "watch": 8
+      "strong": 24,
+      "watch": 6
     },
     "bands_after_gate_recheck": {
       "krass": 1,
-      "strong": 30,
-      "watch": 9
+      "strong": 32,
+      "watch": 7
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3534",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-23T11:39:23+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -48,7 +48,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3535",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-23T11:39:23+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -72,7 +72,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3532",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-23T11:34:27+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -96,7 +96,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3533",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-23T11:34:27+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -120,7 +120,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3531",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-23T11:34:26+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -144,7 +144,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3499",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-23T09:54:24+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "security"
       ],
@@ -168,7 +168,7 @@
       "url": "https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-09-23T02:32:45+00:00",
-      "age_days": 0.49,
+      "age_days": 0.5,
       "topics": [],
       "dynamics_score": 26.0,
       "raw_band": "strong",
@@ -192,7 +192,7 @@
       "url": "https://e27.co/pinterest-and-shopee-link-up-to-bring-creator-led-shopping-to-indonesia-20260922/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T02:05:39+00:00",
-      "age_days": 0.51,
+      "age_days": 0.52,
       "topics": [],
       "dynamics_score": 26.0,
       "raw_band": "strong",
@@ -216,7 +216,7 @@
       "url": "https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need/",
       "source": "GitHub Blog Atom",
       "published_at": "2026-09-23T13:20:49+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [],
       "dynamics_score": 26.0,
       "raw_band": "strong",
@@ -237,11 +237,37 @@
       "summary": ""
     },
     {
+      "title": "Barr, A Long-Term View on the Costs of Shelter",
+      "url": "https://www.federalreserve.gov/newsevents/speech/barr20260923a.htm",
+      "source": "Federal Reserve Speeches and Testimony",
+      "published_at": "2026-06-18T14:33:45+00:00",
+      "age_days": 97.0,
+      "topics": [],
+      "dynamics_score": 25.19,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 2.9,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 2.90",
+        "AXI0M/User-Yps identity hit",
+        "aging penalty -8.0 for 97.0d old signal",
+        "identity recheck: no AXI0M/User-Yps phrase hit"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Cyberangriffe auf F5 BIG-IP, Check Point Security und Arista VeloCloud",
       "url": "https://www.heise.de/news/Cyberangriffe-auf-F5-BIG-IP-Check-Point-Security-und-Arista-VeloCloud-11462590.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-23T06:36:00.000+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -266,7 +292,7 @@
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260084.en.html",
       "source": "ECB Open Market Operations and Communication, ECB Press Releases Speeches Interviews",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 96.99,
+      "age_days": 97.0,
       "topics": [
         "general"
       ],
@@ -277,13 +303,13 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 2,
       "momentum_delta": 3,
-      "baseline_z_hint": 3.3,
+      "baseline_z_hint": 2.9,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "source breadth +2",
         "momentum delta +3",
-        "baseline z_hint 3.30",
+        "baseline z_hint 2.90",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 97.0d old signal",
@@ -296,7 +322,7 @@
       "url": "https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-09-23T02:14:54+00:00",
-      "age_days": 0.5,
+      "age_days": 0.51,
       "topics": [
         "ai"
       ],
@@ -324,7 +350,7 @@
       "url": "https://e27.co/pinterest-and-shopee-link-up-to-bring-creator-led-shopping-to-indonesia-20260922/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T02:00:57+00:00",
-      "age_days": 0.51,
+      "age_days": 0.52,
       "topics": [
         "ai"
       ],
@@ -352,7 +378,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3536",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-23T11:39:23+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "security"
       ],
@@ -378,7 +404,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3487",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-23T10:37:11+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "security"
       ],
@@ -404,7 +430,7 @@
       "url": "https://github.com/agent-substrate/substrate",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-23T05:49:52+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "ai",
         "security",
@@ -432,7 +458,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3497",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-23T10:37:11+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "security",
         "macro"
@@ -458,7 +484,7 @@
       "url": "https://github.com/dream-num/univer",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-23T05:50:23+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "krass",
@@ -483,7 +509,7 @@
       "url": "https://e27.co/meta-singapore-police-disrupt-3-7m-scam-linked-assets-across-facebook-and-instagram-20260923/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T05:42:29+00:00",
-      "age_days": 0.36,
+      "age_days": 0.37,
       "topics": [
         "general"
       ],
@@ -510,7 +536,7 @@
       "url": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-09-23T01:21:48+00:00",
-      "age_days": 0.54,
+      "age_days": 0.55,
       "topics": [
         "ai"
       ],
@@ -537,7 +563,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3497",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 26.0,
+      "age_days": 26.02,
       "topics": [
         "security"
       ],
@@ -548,12 +574,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 2.96,
+      "baseline_z_hint": 2.93,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 2.96",
+        "baseline z_hint 2.93",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -1.8 for 26.0d old signal",
@@ -566,7 +592,7 @@
       "url": "https://e27.co/meta-singapore-police-disrupt-3-7m-scam-linked-assets-across-facebook-and-instagram-20260923/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T05:30:29+00:00",
-      "age_days": 0.36,
+      "age_days": 0.38,
       "topics": [
         "ai",
         "security",
@@ -593,7 +619,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3498",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-23T09:54:23+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai",
         "security"
@@ -620,7 +646,7 @@
       "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-289157-1032_bits.html",
       "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
       "published_at": "2026-09-23T13:15:00+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -645,7 +671,7 @@
       "url": "https://www.heise.de/news/Ubiquiti-schliesst-Denial-of-Service-Luecken-in-Firewalls-und-Gateways-11463176.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-23T11:53:00.000+00:00",
-      "age_days": 0.1,
+      "age_days": 0.11,
       "topics": [
         "security",
         "infra"
@@ -671,7 +697,7 @@
       "url": "https://restofworld.org/2026/china-rejects-dario-amodei-anthropic-ai-slowdown-trump-xi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-09-23T10:00:00+00:00",
-      "age_days": 0.18,
+      "age_days": 0.19,
       "topics": [
         "ai"
       ],
@@ -696,7 +722,7 @@
       "url": "https://github.com/dream-num/univer",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-23T05:49:52+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "ai"
       ],
@@ -722,7 +748,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx31",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-23T13:15:01.040+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "disaster"
       ],
@@ -747,7 +773,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx08",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-23T02:23:16.040+00:00",
-      "age_days": 0.49,
+      "age_days": 0.51,
       "topics": [
         "disaster"
       ],
@@ -772,7 +798,7 @@
       "url": "https://e27.co/3-in-4-organisations-are-embracing-low-code-when-should-a-business-build-instead-of-buy-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T03:00:59+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "general"
       ],
@@ -797,7 +823,7 @@
       "url": "https://e27.co/msme-development-doesnt-need-invention-only-connection-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T02:05:39+00:00",
-      "age_days": 0.51,
+      "age_days": 0.52,
       "topics": [
         "general"
       ],
@@ -817,11 +843,36 @@
       "summary": ""
     },
     {
+      "title": "Barr, A Long-Term View on the Costs of Shelter",
+      "url": "https://www.federalreserve.gov/newsevents/speech/barr20260923a.htm",
+      "source": "Federal Reserve Speeches and Testimony",
+      "published_at": "2026-09-23T14:05:00+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "macro"
+      ],
+      "dynamics_score": 20.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit"
+      ],
+      "summary": "Speech At “Housing Affordability 2026: A Community Development Summit,” hosted by the Federal Reserve Bank of Chicago, Chicago, Illinois"
+    },
+    {
       "title": "Cyberangriffe auf F5 BIG-IP, Check Point Security und Arista VeloCloud",
       "url": "https://www.heise.de/news/Cyberangriffe-auf-F5-BIG-IP-Check-Point-Security-und-Arista-VeloCloud-11462590.html",
       "source": "heise Security Alerts",
       "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 96.27,
+      "age_days": 96.29,
       "topics": [
         "security"
       ],
@@ -832,12 +883,12 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 1.74,
+      "baseline_z_hint": 1.77,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 1.74",
+        "baseline z_hint 1.77",
         "high terms: angriffe",
         "security high-signal: angriffe",
         "aging penalty -8.0 for 96.3d old signal",
@@ -850,7 +901,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx08",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T07:22:32+00:00",
-      "age_days": 18.29,
+      "age_days": 18.3,
       "topics": [
         "general"
       ],
@@ -875,7 +926,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx31",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 96.99,
+      "age_days": 97.0,
       "topics": [
         "general"
       ],
@@ -901,7 +952,7 @@
       "url": "https://www.heise.de/news/Patchday-Adobe-Connect-ist-unter-Android-macOS-und-Windows-verwundbar-11462802.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-23T08:45:00.000+00:00",
-      "age_days": 0.23,
+      "age_days": 0.24,
       "topics": [
         "security"
       ],
@@ -925,7 +976,7 @@
       "url": "https://e27.co/your-startup-has-an-ai-strategy-does-it-have-a-human-strategy-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T04:18:49+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "ai",
         "macro"
@@ -952,7 +1003,7 @@
       "url": "https://github.com/google/ax",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-23T05:50:23+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "general"
       ],
@@ -976,7 +1027,7 @@
       "url": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-09-23T00:34:18+00:00",
-      "age_days": 0.57,
+      "age_days": 0.58,
       "topics": [
         "ai"
       ],
@@ -996,54 +1047,6 @@
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": "GitHub Copilot for JetBrains 1.18.0 brings AI-assisted tool approvals, more control over agent conversations, and shared skills and instructions for your organization. You can also review plans with the Codex… The post New features and improvements in Copilot for JetBrains appeared first on The GitHub Blog ."
-    },
-    {
-      "title": "M 5.3 - 51 km WSW of Arauco, Argentina",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx29",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-09-23T09:45:11+00:00",
-      "age_days": 0.19,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 18.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Nexstrom lands US$12M to bring 2D semiconductors to 12-inch wafers",
-      "url": "https://e27.co/nexstrom-lands-us12m-to-bring-2d-semiconductors-to-12-inch-wafers-20260923/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-23T03:57:29+00:00",
-      "age_days": 0.43,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 17.0,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [hoch] GNU Emacs: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0."
