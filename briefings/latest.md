@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-23T02:05:35+00:00_
+_Generiert: 2026-09-23T02:32:41+00:00_
 
 ## Kurzlage
 
-8 neue relevante Treffer. Stärkstes Signal: „New features and improvements in Copilot for JetBrains“ aus GitHub Changelog Atom (Score 22, observation).
+12 neue relevante Treffer. Stärkstes Signal: „New features and improvements in Copilot for JetBrains“ aus GitHub Changelog Atom (Score 22, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -90,6 +90,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); AI Agents (+5.0); GitHub (+2.0); Copilot (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: GitHub Copilot for JetBrains 1.18.0 brings AI-assisted tool approvals, more control over agent conversations, and shared skills and instructions for your organization. You can also review plans with the Codex… The post New features and improvements in Copilot for JetBrains appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.5 - 63 km NE of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx08)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-23T02:23:16.040+00:00`, fetched `2026-09-23T02:32:11+00:00`
+  - Treffer: APAC Trend Radar, Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-23 02:02:43 UTC 2026-09-23 02:02:43 UTC at epicenter Location 8.145°S 120.808°E Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
@@ -120,6 +129,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore, Indonesia, Vietnam (+2.0)
   - Kurz: In January 2026, Singapore’s Minister for Digital Development announced an additional SG$1 billion (US$786 million) over five years for the National AI Research and Development Plan, on top of the SG$500 million (US$393 million) already committed to high-performance compute under Budget 2024. Indonesia is pursuing 9 million skilled digital workers by 2035. Vietnam has elevated […] The post Why Singapore, Indonesia,…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **OpenTelemetry in the GitHub Copilot app** — Score 9, opportunity — [Quelle](https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app)
+  - Quelle: GitHub Changelog Atom / `rss`
+  - Zeit: published `2026-09-23T02:14:54+00:00`, fetched `2026-09-23T02:32:11+00:00`
+  - Treffer: Copilot, GitHub, Open Source
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Open Source (+3.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
+  - Kurz: Understand how Copilot agents perform and interact with models and tools. The GitHub Copilot app now supports OpenTelemetry (OTel) configuration through enterprise-managed settings. OTel is an open source observability framework.… The post OpenTelemetry in the GitHub Copilot app appeared first on The GitHub Blog .
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Pinterest and Shopee link up to bring creator-led shopping to Indonesia** — Score 9, opportunity — [Quelle](https://e27.co/pinterest-and-shopee-link-up-to-bring-creator-led-shopping-to-indonesia-20260922/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-23T02:00:57+00:00`, fetched `2026-09-23T02:05:03+00:00`
@@ -129,6 +147,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); recent (+1.0); watchgraph region south_america: Brazil (+2.0); watchgraph region southeast_asia: Indonesia (+2.0)
   - Kurz: Pinterest and Shopee are linking their creator and shopping ecosystems in Indonesia and Brazil. The partnership shows how e-commerce platforms are trying to get closer to the moment consumers first decide what they want to buy. Under the new affiliate arrangement, eligible Shopee Affiliate creators can connect their Shopee accounts to Pinterest and recommend Shopee […] The post Pinterest and Shopee link up to bring…
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **一日の作業をMarkdownに自動記録するAmbient Contextが良さげかも | kawarimidoll.com** — Score 7, observation — [Quelle](https://kawarimidoll.com/posts/202609222/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-22T13:23:51+00:00`, fetched `2026-09-23T02:32:11+00:00`
+  - Treffer: GitHub, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
+  - Kurz: Macでの作業をMarkdownで自動記録してAIにまとめさせるAmbient Contextの紹介です。 GitHub - dragthelake/ambient-context: A menu bar app that keeps a written record of what you worked on. 機能 Tauri製のmacOSメニューバーアプリで、フォーカス中のウィンドウのテキストを数秒おきに拾ってMarkdownに蓄積します...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Claude Opus 5.5登場 Fable 5.1並みの性能をOpus 5より40%安価に** — Score 5, observation — [Quelle](https://www.watch.impress.co.jp/docs/news/2142619.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-22T18:06:19+00:00`, fetched `2026-09-23T00:07:43+00:00`
@@ -138,19 +165,11 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Claude Opus 5.5登場 Fable 5.1並みの性能をOpus 5より40%安価に
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **JevでRAG検索の爆速化＆コスト削減は実現できるのか検証してみた - Qiita** — Score 5, observation — [Quelle](https://qiita.com/kikuziro/items/2be9091b328d8b844640)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-22T00:46:01+00:00`, fetched `2026-09-23T01:21:13+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article?
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Erinnerungskandidaten
 
