@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-23T09:53:34+00:00",
+  "generated_at": "2026-09-23T10:00:56+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 38,
-    "displayed_findings": 38,
+    "new_relevant_findings": 3,
+    "today_file_total": 41,
+    "displayed_findings": 41,
     "high": 0,
-    "medium": 6,
-    "observe": 32
+    "medium": 8,
+    "observe": 33
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -45,13 +45,13 @@
       "section": "medium"
     },
     {
-      "title": "dream-num/univer",
-      "source": "GitHub Trending RSS All Languages Daily",
+      "title": "[UPDATE] [mittel] Red Hat OpenShift Container Platform (opentelemetry-go, qs.stringify): Mehrere Schwachstellen ermöglichen Denial of Service",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": null,
-      "relevance_score": 16,
-      "url": "https://github.com/dream-num/univer",
-      "summary": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. https://docs.univer.ai The Office Harness for AI Agents Spreadsheets · Documents · Presentations · Bases · Boards · PDFs (coming soon) High-perfo…",
+      "published_at": "2026-09-23T09:54:23+00:00",
+      "relevance_score": 17,
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3498",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat OpenShift Container Platform ausnutzen, um einen Denial of Service Angriff durchzuführen.",
       "section": "medium"
     },
     {

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T09:53:34+00:00",
-  "run_id": "2026-09-23T09:53:34+00:00",
+  "generated_at": "2026-09-23T10:00:56+00:00",
+  "run_id": "2026-09-23T10:00:56+00:00",
   "date": "2026-09-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 38
+      "configured_public_sources_only": 41
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 38,
-    "displayed_findings": 38,
+    "new_relevant_findings": 3,
+    "today_file_total": 41,
+    "displayed_findings": 41,
     "high": 0,
-    "medium": 6,
-    "observe": 32,
+    "medium": 8,
+    "observe": 33,
     "source_errors": 0
   },
   "sections": {
@@ -123,6 +123,30 @@
         "id": "e5da691ae988026c1cc9"
       },
       {
+        "title": "[UPDATE] [mittel] Red Hat OpenShift Container Platform (opentelemetry-go, qs.stringify): Mehrere Schwachstellen ermöglichen Denial of Service",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3498",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-23T09:54:23+00:00",
+        "fetched_at": "2026-09-23T10:00:27+00:00",
+        "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat OpenShift Container Platform ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 17,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c89523b6fa537aa9be7e"
+      },
+      {
         "title": "dream-num/univer",
         "url": "https://github.com/dream-num/univer",
         "source": "GitHub Trending RSS All Languages Daily",
@@ -205,6 +229,29 @@
           "LOW"
         ],
         "id": "6a3b25ef1598f51a5849"
+      },
+      {
+        "title": "[UPDATE] [hoch] Erlang/OTP: Mehrere Schwachstellen",
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3499",
+        "source": "BSI CERT-Bund Security Advisories",
+        "source_type": "rss",
+        "published_at": "2026-09-23T09:54:24+00:00",
+        "fetched_at": "2026-09-23T10:00:27+00:00",
+        "summary": "Ein Angreifer kann mehrere Schwachstellen in Erlang/OTP ausnutzen, um einen Denial of Service Angriff durchzuführen, Sicherheitsmaßnahmen zu umgehen und Daten zu manipulieren oder offenzulegen.",
+        "matched_keywords": [
+          "BSI",
+          "CERT-Bund",
+          "Schwachstelle",
+          "Security"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "31fb04ba67fb4b41f2b2"
       },
       {
         "title": "agent-substrate/substrate",
@@ -749,6 +796,26 @@
         "id": "22f66c813294b08f31a9"
       },
       {
+        "title": "Dario Amodei wants to slow AI. China isn’t taking orders",
+        "url": "https://restofworld.org/2026/china-rejects-dario-amodei-anthropic-ai-slowdown-trump-xi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+        "source": "Rest of World Global Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-23T10:00:00+00:00",
+        "fetched_at": "2026-09-23T10:00:27+00:00",
+        "summary": "Chinese officials and engineers see an attempt to preserve the U.S. lead; “Why do you always get to define the game — and change the rules?”",
+        "matched_keywords": [
+          "AI/KI"
+        ],
+        "relevance_score": 7,
+        "relevance_reason": "AI/KI (+3.8); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "cf16fdf0973da058db2c"
+      },
+      {
         "title": "Patchday: Adobe Connect ist unter Android, macOS und Windows verwundbar",
         "url": "https://www.heise.de/news/Patchday-Adobe-Connect-ist-unter-Android-macOS-und-Windows-verwundbar-11462802.html",
         "source": "heise Security Alerts",
@@ -1094,6 +1161,30 @@
       "id": "e5da691ae988026c1cc9"
     },
     {
+      "title": "[UPDATE] [mittel] Red Hat OpenShift Container Platform (opentelemetry-go, qs.stringify): Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3498",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-23T09:54:23+00:00",
+      "fetched_at": "2026-09-23T10:00:27+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat OpenShift Container Platform ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 17,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c89523b6fa537aa9be7e"
+    },
+    {
       "title": "dream-num/univer",
       "url": "https://github.com/dream-num/univer",
       "source": "GitHub Trending RSS All Languages Daily",
@@ -1176,6 +1267,29 @@
         "LOW"
       ],
       "id": "6a3b25ef1598f51a5849"
+    },
+    {
+      "title": "[UPDATE] [hoch] Erlang/OTP: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3499",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-23T09:54:24+00:00",
+      "fetched_at": "2026-09-23T10:00:27+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Erlang/OTP ausnutzen, um einen Denial of Service Angriff durchzuführen, Sicherheitsmaßnahmen zu umgehen und Daten zu manipulieren oder offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "31fb04ba67fb4b41f2b2"
     },
     {
       "title": "agent-substrate/substrate",
@@ -1718,6 +1832,26 @@
       "id": "22f66c813294b08f31a9"
     },
     {
+      "title": "Dario Amodei wants to slow AI. China isn’t taking orders",
+      "url": "https://restofworld.org/2026/china-rejects-dario-amodei-anthropic-ai-slowdown-trump-xi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-23T10:00:00+00:00",
+      "fetched_at": "2026-09-23T10:00:27+00:00",
+      "summary": "Chinese officials and engineers see an attempt to preserve the U.S. lead; “Why do you always get to define the game — and change the rules?”",
+      "matched_keywords": [
+        "AI/KI"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "AI/KI (+3.8); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cf16fdf0973da058db2c"
+    },
+    {
       "title": "Patchday: Adobe Connect ist unter Android, macOS und Windows verwundbar",
       "url": "https://www.heise.de/news/Patchday-Adobe-Connect-ist-unter-Android-macOS-und-Windows-verwundbar-11462802.html",
       "source": "heise Security Alerts",
@@ -1969,26 +2103,71 @@
   ],
   "new_findings": [
     {
-      "title": "GitHub - wrr/drop: Linux sandboxing that doesn't get in your way",
-      "url": "https://github.com/wrr/drop",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "[UPDATE] [mittel] Red Hat OpenShift Container Platform (opentelemetry-go, qs.stringify): Mehrere Schwachstellen ermöglichen Denial of Service",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3498",
+      "source": "BSI CERT-Bund Security Advisories",
       "source_type": "rss",
-      "published_at": "2026-09-23T01:54:40+00:00",
-      "fetched_at": "2026-09-23T09:53:03+00:00",
-      "summary": "You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert",
+      "published_at": "2026-09-23T09:54:23+00:00",
+      "fetched_at": "2026-09-23T10:00:27+00:00",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Red Hat OpenShift Container Platform ausnutzen, um einen Denial of Service Angriff durchzuführen.",
       "matched_keywords": [
-        "GitHub",
-        "Hatena",
-        "hotentry"
+        "APAC Trend Radar",
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)",
+      "relevance_score": 17,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.8); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "e4c61385d52565066eca"
+      "id": "c89523b6fa537aa9be7e"
+    },
+    {
+      "title": "[UPDATE] [hoch] Erlang/OTP: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3499",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-23T09:54:24+00:00",
+      "fetched_at": "2026-09-23T10:00:27+00:00",
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Erlang/OTP ausnutzen, um einen Denial of Service Angriff durchzuführen, Sicherheitsmaßnahmen zu umgehen und Daten zu manipulieren oder offenzulegen.",
+      "matched_keywords": [
+        "BSI",
+        "CERT-Bund",
+        "Schwachstelle",
+        "Security"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "31fb04ba67fb4b41f2b2"
+    },
+    {
+      "title": "Dario Amodei wants to slow AI. China isn’t taking orders",
+      "url": "https://restofworld.org/2026/china-rejects-dario-amodei-anthropic-ai-slowdown-trump-xi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+      "source": "Rest of World Global Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-23T10:00:00+00:00",
+      "fetched_at": "2026-09-23T10:00:27+00:00",
+      "summary": "Chinese officials and engineers see an attempt to preserve the U.S. lead; “Why do you always get to define the game — and change the rules?”",
+      "matched_keywords": [
+        "AI/KI"
+      ],
+      "relevance_score": 7,
+      "relevance_reason": "AI/KI (+3.8); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "cf16fdf0973da058db2c"
     }
   ],
   "source_errors": [],
