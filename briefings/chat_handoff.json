@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-23T01:21:44+00:00",
+  "generated_at": "2026-09-23T01:40:06+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 3,
-    "today_file_total": 4,
-    "displayed_findings": 4,
+    "new_relevant_findings": 2,
+    "today_file_total": 6,
+    "displayed_findings": 6,
     "high": 0,
     "medium": 1,
-    "observe": 3
+    "observe": 5
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -25,6 +25,16 @@
       "section": "medium"
     },
     {
+      "title": "AWS DevOps Agentの全体構造と設定箇所を図解してみた | DevelopersIO",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-22T05:17:50+00:00",
+      "relevance_score": 13,
+      "url": "https://dev.classmethod.jp/articles/aws-devops-agent-Illustration/",
+      "summary": "AWS DevOps Agentの設定はCapability Providers、Agent Space、Web Appの3階層に分かれます。外部サービスの接続、調査スコープと3つのIAMロール、ナレッジやカスタムエージェントまで、どこで何を設定するのかを図解で整理しました。 はじめに 今回は、AWS DevOps Agentの構造を改めて正確に理解するために図解していき...",
+      "section": "observe"
+    },
+    {
       "title": "Why Singapore, Indonesia, and Vietnam are losing the AI race they think they are winning",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -32,6 +42,16 @@
       "relevance_score": 10,
       "url": "https://e27.co/why-singapore-indonesia-and-vietnam-are-losing-the-ai-race-they-think-they-are-winning-20260916/",
       "summary": "In January 2026, Singapore’s Minister for Digital Development announced an additional SG$1 billion (US$786 million) over five years for the National AI Research and Development Plan, on top of the SG$500 million (US$393 million) already committed to high-perf…",
+      "section": "observe"
+    },
+    {
+      "title": "Containerisation explains why AI investment may continue even without returns",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-23T01:30:49+00:00",
+      "relevance_score": 8,
+      "url": "https://e27.co/containerisation-explains-why-ai-investment-may-continue-even-without-returns-20260916/",
+      "summary": "Boston Consulting Group recently found that 94 per cent of organisations planned to keep investing in AI even if it did not deliver returns in 2026. At first glance, that sounds irrational. Companies normally invest because they expect a financial return. If…",
       "section": "observe"
     },
     {
@@ -43,16 +63,6 @@
       "url": "https://www.watch.impress.co.jp/docs/news/2142619.html",
       "summary": "Claude Opus 5.5登場 Fable 5.1並みの性能をOpus 5より40%安価に",
       "section": "observe"
-    },
-    {
-      "title": "JevでRAG検索の爆速化＆コスト削減は実現できるのか検証してみた - Qiita",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-22T00:46:01+00:00",
-      "relevance_score": 5,
-      "url": "https://qiita.com/kikuziro/items/2be9091b328d8b844640",
-      "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article?",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -60,139 +70,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “New features and improvements in Copilot for JetBrains” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "New features and improvements in Copilot for JetBrains",
-        "url": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-09-23T01:21:48+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +1",
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "New features and improvements in Copilot for JetBrains",
-        "url": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-09-23T00:34:18+00:00",
-        "age_days": 0.04,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 19.0,
-        "raw_band": "watch",
-        "dynamic_band": "watch",
-        "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "high terms: code",
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": "GitHub Copilot for JetBrains 1.18.0 brings AI-assisted tool approvals, more control over agent conversations, and shared skills and instructions for your organization. You can also review plans with the Codex… The post New features and improvements in Copilot for JetBrains appeared first on The GitHub Blog ."
-      },
-      {
-        "title": "Why Singapore, Indonesia, and Vietnam are losing the AI race they think they are winning",
-        "url": "https://e27.co/why-singapore-indonesia-and-vietnam-are-losing-the-ai-race-they-think-they-are-winning-20260916/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-23T01:21:48+00:00",
-        "age_days": 0.01,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 8.5,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 1,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +1",
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "JevでRAG検索の爆速化＆コスト削減は実現できるのか検証してみた - Qiita",
-        "url": "https://qiita.com/kikuziro/items/2be9091b328d8b844640",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-06-19T01:58:32+00:00",
-        "age_days": 95.98,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 8.5,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Beobachten, nicht aufblasen.",
-        "source_count": 1,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": false,
-        "why": [
-          "momentum delta +3",
-          "aging penalty -8.0 for 96.0d old signal"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "Claude Opus 5.5登場 Fable 5.1並みの性能をOpus 5より40%安価に",
-        "url": "https://www.watch.impress.co.jp/docs/news/2142619.html",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-23T00:08:20+00:00",
-        "age_days": 0.06,
-        "topics": [
-          "ai"
-        ],
-        "dynamics_score": 3.5,
-        "raw_band": "quiet",
-        "dynamic_band": "quiet",
-        "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-        "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-        "source_count": 1,
-        "momentum_delta": 2,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": false,
-        "single_source_ai_capped": true,
-        "why": [
-          "momentum delta +2",
-          "single-source AI hype brake -8.0"
-        ],
-        "summary": ""
-      }
-    ]
-  }
+  ]
 }

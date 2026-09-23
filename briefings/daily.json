@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T01:21:48+00:00",
-  "today_file_total": 4,
+  "generated_at": "2026-09-23T01:40:09+00:00",
+  "today_file_total": 6,
   "current_clusters": [
     {
       "key": "title:features-improvements-copilot-jetbrains",
@@ -18,14 +18,60 @@
       "max_score": 22,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 27.1,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 24.1,
       "hot": true,
       "watchgraph_modules": [
         "ai_agents_workflow"
       ],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "title:aws-devops-agent-developersio",
+      "title": "AWS DevOps Agentの全体構造と設定箇所を図解してみた | DevelopersIO",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://dev.classmethod.jp/articles/aws-devops-agent-Illustration/"
+      ],
+      "finding_count": 1,
+      "max_score": 13,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 18.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:containerisation-explains-why-investment-may-continue-even-without",
+      "title": "Containerisation explains why AI investment may continue even without returns",
+      "sources": [
+        "e27 Asia Startup and Tech Feed"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://e27.co/containerisation-explains-why-ai-investment-may-continue-even-without-returns-20260916/"
+      ],
+      "finding_count": 1,
+      "max_score": 8,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 13.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     },
     {
       "key": "title:why-singapore-indonesia-vietnam-are-losing-race-they",
@@ -43,32 +89,9 @@
       "max_score": 10,
       "credibility_total": 1.05,
       "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 15.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "domain:qiita.com",
-      "title": "JevでRAG検索の爆速化＆コスト削減は実現できるのか検証してみた - Qiita",
-      "sources": [
-        "Hatena Bookmark Hotentry IT"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://qiita.com/kikuziro/items/2be9091b328d8b844640"
-      ],
-      "finding_count": 1,
-      "max_score": 5,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 10.1,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 12.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
@@ -84,6 +107,29 @@
       ],
       "urls": [
         "https://www.watch.impress.co.jp/docs/news/2142619.html"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 7.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "domain:qiita.com",
+      "title": "JevでRAG検索の爆速化＆コスト削減は実現できるのか検証してみた - Qiita",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://qiita.com/kikuziro/items/2be9091b328d8b844640"
       ],
       "finding_count": 1,
       "max_score": 5,
