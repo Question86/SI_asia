@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T08:30:08+00:00",
-  "run_id": "2026-09-23T08:30:08+00:00",
+  "generated_at": "2026-09-23T08:47:49+00:00",
+  "run_id": "2026-09-23T08:47:49+00:00",
   "date": "2026-09-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 30,
     "displayed_findings": 30,
     "high": 0,
@@ -1529,29 +1529,7 @@
       "id": "1ff44d8caf52976da618"
     }
   ],
-  "new_findings": [
-    {
-      "title": "そのlsは、GNU製ですか。2026年、UbuntuがコマンドをRust製に置き換え終えるまでに起きたこと - インフラ学習サイト「InfraAcademy」",
-      "url": "https://engineer-ninaritai.com/ubuntu-rust-coreutils-2026/",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-23T00:37:09+00:00",
-      "fetched_at": "2026-09-23T08:29:37+00:00",
-      "summary": "中間リリースで1年ぶん実地に晒してから長期サポート版へ入れる。Canonical自身も、長期サポート版の前にできるだけ多くの実環境で試すために25.10で既定にした、と説明しています。この慎重さは、あとで触れる cp の扱いにも表れています。 そしてUbuntu 26.04 LTSは標準で5年、Ubuntu Proを付ければ10年のサポートが付...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f5372c46fe68ae3a668f"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

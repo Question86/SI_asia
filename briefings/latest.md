@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-23T08:30:08+00:00_
+_Generiert: 2026-09-23T08:47:49+00:00_
 
 ## Kurzlage
 
@@ -37,10 +37,10 @@ _Generiert: 2026-09-23T08:30:08+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 6.4M, Depth:104.329km) in Papua New Guinea 20/09/2026 09:17 UTC, 90 thousand in MMI V.
-- **GDACS: Green flood alert in Japan** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104182)
+- **GDACS: Green notification for tropical cyclone TWENTYFIVE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001327)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green flood alert in Japan
+  - Kurz: Green notification for tropical cyclone TWENTYFIVE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
 - **GDACS: Green notification for tropical cyclone ONE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (7.996 million in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001326)
   - Quelle: GDACS
   - Zeit: ``
