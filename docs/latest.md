@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-23T03:57:25+00:00_
+_Generiert: 2026-09-23T04:18:46+00:00_
 
 ## Kurzlage
 
-15 neue relevante Treffer. Stärkstes Signal: „New features and improvements in Copilot for JetBrains“ aus GitHub Changelog Atom (Score 22, observation).
+18 neue relevante Treffer. Stärkstes Signal: „New features and improvements in Copilot for JetBrains“ aus GitHub Changelog Atom (Score 22, observation).
 
 ## Priorität Hoch
 
@@ -20,6 +20,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
   - Warum relevant: OpenAI (+6.0); AI/KI (+3.0); AI Agents (+5.0); GitHub (+2.0); Copilot (+2.5); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0)
   - Kurz: GitHub Copilot for JetBrains 1.18.0 brings AI-assisted tool approvals, more control over agent conversations, and shared skills and instructions for your organization. You can also review plans with the Codex… The post New features and improvements in Copilot for JetBrains appeared first on The GitHub Blog .
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Your startup has an AI strategy. Does it have a human strategy?** — Score 18, observation — [Quelle](https://e27.co/your-startup-has-an-ai-strategy-does-it-have-a-human-strategy-20260921/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-23T04:00:13+00:00`, fetched `2026-09-23T04:18:18+00:00`
+  - Treffer: AI/KI, APAC Trend Radar, founder, Markets/Capital Structure
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); Markets/Capital Structure (+7.5); founder (+2.0); recent (+1.0)
+  - Kurz: I recently presented at LEAP in Saudi Arabia, where I spent several days talking with founders, startup teams and people building businesses around emerging technology. Unsurprisingly, AI was everywhere. Much of the conversation centred on what AI could help people do faster: research that once took hours could be summarised in minutes, first drafts could […] The post Your startup has an AI strategy. Does it have a…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.5 - 63 km NE of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx08)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
@@ -60,14 +69,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Capital, training and compliance support for small businesses already exist. What is missing is a system that connects them around the same business journey. Every day, we are adopting new technology, learning new skills and starting new businesses. Yet the more I observe this progress, the more it looks like we are collecting useful pieces […] The post MSME development doesn’t need invention, only connection appear…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Why Singapore, Indonesia, and Vietnam are losing the AI race they think they are winning** — Score 10, observation — [Quelle](https://e27.co/why-singapore-indonesia-and-vietnam-are-losing-the-ai-race-they-think-they-are-winning-20260916/)
+- **3cat raises US$4M Series A to take used-device retail model from Malaysia to the Philippines** — Score 11, observation — [Quelle](https://e27.co/3cat-raises-us4m-series-a-to-take-used-device-retail-model-from-malaysia-to-the-philippines-20260923/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-23T01:00:41+00:00`, fetched `2026-09-23T01:21:13+00:00`
-  - Treffer: AI/KI, APAC Trend Radar
+  - Zeit: published `2026-09-23T04:07:26+00:00`, fetched `2026-09-23T04:18:18+00:00`
+  - Treffer: APAC Trend Radar, funding, Southeast Asia
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Singapore, Indonesia, Vietnam (+2.0)
-  - Kurz: In January 2026, Singapore’s Minister for Digital Development announced an additional SG$1 billion (US$786 million) over five years for the National AI Research and Development Plan, on top of the SG$500 million (US$393 million) already committed to high-performance compute under Budget 2024. Indonesia is pursuing 9 million skilled digital workers by 2035. Vietnam has elevated […] The post Why Singapore, Indonesia,…
+  - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.0); funding (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Philippines, Malaysia (+2.0)
+  - Kurz: For many consumers in Southeast Asia, the smartphone has become both a work tool and a status symbol. It is also getting harder to afford. That tension sits at the centre of 3cat’s next phase of growth. The Singapore-incorporated, Malaysia-born retailer of pre-owned electronics has raised US$4 million in Series A funding to expand into […] The post 3cat raises US$4M Series A to take used-device retail model from Mal…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **OpenTelemetry in the GitHub Copilot app** — Score 9, opportunity — [Quelle](https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app)
   - Quelle: GitHub Changelog Atom / `rss`
