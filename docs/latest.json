@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T07:30:49+00:00",
-  "run_id": "2026-09-23T07:30:49+00:00",
+  "generated_at": "2026-09-23T07:46:11+00:00",
+  "run_id": "2026-09-23T07:46:11+00:00",
   "date": "2026-09-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 29,
     "displayed_findings": 29,
     "high": 0,
@@ -1487,30 +1487,7 @@
       "id": "1ff44d8caf52976da618"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Announcing 20260084 (OT,liquidity providing), for 7 days deadline 09:45",
-      "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260084.en.html",
-      "source": "ECB Open Market Operations and Communication",
-      "source_type": "rss",
-      "published_at": "2026-09-23T08:15:17+00:00",
-      "fetched_at": "2026-09-23T07:30:22+00:00",
-      "summary": "Announcing 20260084 (OT,liquidity providing), for 7 days deadline 09:45",
-      "matched_keywords": [
-        "liquidity",
-        "Macro/Policy",
-        "open market operations"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "Macro/Policy (+5.0); open market operations (+2.0); liquidity (+2.5); watchgraph region europe: ECB (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f039b673867d46c7b33b"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
