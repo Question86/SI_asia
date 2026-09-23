@@ -1,15 +1,56 @@
 {
-  "generated_at": "2026-09-23T08:56:58+00:00",
+  "generated_at": "2026-09-23T09:14:51+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 31,
-    "clusters": 30,
-    "cross_source_confrmed": 0,
-    "hot": 0,
+    "findings": 35,
+    "clusters": 33,
+    "cross_source_confrmed": 1,
+    "hot": 1,
     "early_signals": 0,
-    "dominance_penalized": 3
+    "dominance_penalized": 4
   },
   "clusters": [
+    {
+      "key": "domain:www.ecb.europa.eu",
+      "title": "Announcing 20260084 (OT,liquidity providing), for 7 days deadline 09:45",
+      "sources": [
+        "ECB Open Market Operations and Communication",
+        "ECB Press Releases Speeches Interviews"
+      ],
+      "source_classes": [
+        "central_bank",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "http://www.ecb.europa.eu/mopo/implement/omo/html/20260084.en.html",
+        "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260923~6ebddaf01e.en.html"
+      ],
+      "finding_count": 2,
+      "max_score": 12,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": true,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 28.0,
+      "hot": true,
+      "watchgraph_modules": [],
+      "recommended_action": "HOT CONFIRMED: cross-source bestaetigt. Quelle sichern, Kontext pruefen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 25.2,
+      "ranking_score": 28.0,
+      "initial_reach_tier": "institutional",
+      "source_reach_score": 5.0,
+      "authority_bonus_capped": 3.0,
+      "breadth_bonus": 5.5,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 5.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
     {
       "key": "title:meta-singapore-police-disrupt-scam-linked-assets-across",
       "title": "Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram",
@@ -243,6 +284,47 @@
       "first_seen_at": "2026-09-23T01:40:09+00:00"
     },
     {
+      "key": "domain:www.bis.org",
+      "title": "Basel III risk-based capital and leverage ratios are stable while liquidity indicators show limited movements for large internationally active banks, latest Basel III monitoring exercise shows",
+      "sources": [
+        "BIS Press Releases"
+      ],
+      "source_classes": [
+        "central_bank",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.bis.org/media-releases/20260923-basel-iii-risk-based-capital-and-leverage-ratios-are-stable-while-liquidity-indicators-show"
+      ],
+      "finding_count": 1,
+      "max_score": 12,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 14.5,
+      "hot": false,
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 17.1,
+      "ranking_score": 14.5,
+      "initial_reach_tier": "institutional",
+      "source_reach_score": 5.0,
+      "authority_bonus_capped": 3.0,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
       "key": "earthquake:indonesia:4.5",
       "title": "M 4.5 - 63 km NE of Ruteng, Indonesia",
       "sources": [
@@ -362,45 +444,6 @@
       "first_seen_at": "2026-09-23T02:05:39+00:00"
     },
     {
-      "key": "domain:www.ecb.europa.eu",
-      "title": "Announcing 20260084 (OT,liquidity providing), for 7 days deadline 09:45",
-      "sources": [
-        "ECB Open Market Operations and Communication"
-      ],
-      "source_classes": [
-        "central_bank",
-        "tier3_specialist"
-      ],
-      "urls": [
-        "http://www.ecb.europa.eu/mopo/implement/omo/html/20260084.en.html"
-      ],
-      "finding_count": 1,
-      "max_score": 12,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 13.19,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 14.1,
-      "ranking_score": 13.19,
-      "initial_reach_tier": "institutional",
-      "source_reach_score": 5.0,
-      "authority_bonus_capped": 3.0,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 1.19,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 3.0,
-      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-06-18T14:33:45+00:00"
-    },
-    {
       "key": "title:3cat-raises-series-take-used-device-retail-model",
       "title": "3cat raises US$4M Series A to take used-device retail model from Malaysia to the Philippines",
       "sources": [
@@ -437,45 +480,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-23T04:18:49+00:00"
-    },
-    {
-      "key": "domain:www.heise.de",
-      "title": "Cyberangriffe auf F5 BIG-IP, Check Point Security und Arista VeloCloud",
-      "sources": [
-        "heise Security Alerts"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.heise.de/news/Cyberangriffe-auf-F5-BIG-IP-Check-Point-Security-und-Arista-VeloCloud-11462590.html",
-        "https://www.heise.de/news/Patchday-Adobe-Connect-ist-unter-Android-macOS-und-Windows-verwundbar-11462802.html"
-      ],
-      "finding_count": 2,
-      "max_score": 8,
-      "credibility_total": 2.1,
-      "cross_source_confirmed": false,
-      "momentum_delta": 1,
-      "momentum_status": "increasing",
-      "network_score": 12.5,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 15.2,
-      "ranking_score": 12.5,
-      "initial_reach_tier": "specialist",
-      "source_reach_score": 2.5,
-      "authority_bonus_capped": 1.5,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 2.5,
-      "baseline_bonus": 0.5,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": false,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-19T07:39:37+00:00"
     },
     {
       "key": "title:southeast-asia-gains-ground-seedstars-disability-inclusion-accelerator",
@@ -592,6 +596,47 @@
       "first_seen_at": "2026-09-23T05:50:23+00:00"
     },
     {
+      "key": "earthquake:m 4.9 - scotia sea:4.9",
+      "title": "M 4.9 - Scotia Sea",
+      "sources": [
+        "USGS M4.5+ Earthquakes Past Hour"
+      ],
+      "source_classes": [
+        "emergency_official",
+        "tier1_official"
+      ],
+      "urls": [
+        "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx23"
+      ],
+      "finding_count": 1,
+      "max_score": 9,
+      "credibility_total": 1.35,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 10.9,
+      "hot": false,
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "raw_network_score": 14.7,
+      "ranking_score": 10.9,
+      "initial_reach_tier": "official",
+      "source_reach_score": 4.0,
+      "authority_bonus_capped": 2.4,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-09-23T09:14:51+00:00"
+    },
+    {
       "key": "title:opentelemetry-github-copilot-app",
       "title": "OpenTelemetry in the GitHub Copilot app",
       "sources": [
@@ -706,6 +751,45 @@
       "first_seen_at": "2026-09-23T02:05:39+00:00"
     },
     {
+      "key": "domain:www.heise.de",
+      "title": "Cyberangriffe auf F5 BIG-IP, Check Point Security und Arista VeloCloud",
+      "sources": [
+        "heise Security Alerts"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.heise.de/news/Cyberangriffe-auf-F5-BIG-IP-Check-Point-Security-und-Arista-VeloCloud-11462590.html",
+        "https://www.heise.de/news/Patchday-Adobe-Connect-ist-unter-Android-macOS-und-Windows-verwundbar-11462802.html"
+      ],
+      "finding_count": 2,
+      "max_score": 8,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 9.5,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 12.2,
+      "ranking_score": 9.5,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-06-19T07:39:37+00:00"
+    },
+    {
       "key": "title:nexstrom-lands-12m-bring-semiconductors-inch-wafers",
       "title": "Nexstrom lands US$12M to bring 2D semiconductors to 12-inch wafers",
       "sources": [
@@ -780,6 +864,44 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-23T01:40:09+00:00"
+    },
+    {
+      "key": "title:jcom",
+      "title": "JCOM障害「インターネットが使えない」 サポート窓口もつながりにくく",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.itmedia.co.jp/news/article/2609/23/2000001678/"
+      ],
+      "finding_count": 1,
+      "max_score": 5,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 9.0,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 10.1,
+      "ranking_score": 9.0,
+      "initial_reach_tier": "specialist",
+      "source_reach_score": 2.5,
+      "authority_bonus_capped": 1.5,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": false,
+      "dominance_penalty": 0.0,
+      "dominance_reason": "",
+      "first_seen_at": "2026-09-23T09:14:51+00:00"
     },
     {
       "key": "domain:kawarimidoll.com",
@@ -1167,7 +1289,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-23T08:56:59Z",
+    "generated_at": "2026-09-23T09:14:52Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

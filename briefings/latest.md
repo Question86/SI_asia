@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-23T08:56:55+00:00_
+_Generiert: 2026-09-23T09:14:47+00:00_
 
 ## Kurzlage
 
-31 neue relevante Treffer. Stärkstes Signal: „Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+35 neue relevante Treffer. Stärkstes Signal: „Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -174,6 +174,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI Agents (+5.0); APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
   - Kurz: Capital, training and compliance support for small businesses already exist. What is missing is a system that connects them around the same business journey. Every day, we are adopting new technology, learning new skills and starting new businesses. Yet the more I observe this progress, the more it looks like we are collecting useful pieces […] The post MSME development doesn’t need invention, only connection appear…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Basel III risk-based capital and leverage ratios are stable while liquidity indicators show limited movements for large internationally active banks, latest Basel III monitoring exercise shows** — Score 12, observation — [Quelle](https://www.bis.org/media-releases/20260923-basel-iii-risk-based-capital-and-leverage-ratios-are-stable-while-liquidity-indicators-show)
+  - Quelle: BIS Press Releases / `rss`
+  - Zeit: published `2026-09-23T00:00:00+00:00`, fetched `2026-09-23T09:14:18+00:00`
+  - Treffer: Basel, Macro/Policy, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: Macro/Policy (+5.0); Basel (+2.5); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: As of the end of 2025, Basel III risk-based capital and leverage ratios remained stable for large internationally active banks compared with June 2025. The average Liquidity Coverage Ratio (LCR) of Group 1 banks improved slightly, while the Net Stable Funding Ratio (NSFR) decreased slightly. The average impact of the Basel III framework on Tier 1 minimum required capital (MRC) for Group 1 banks is +2.2%.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **3cat raises US$4M Series A to take used-device retail model from Malaysia to the Philippines** — Score 11, observation — [Quelle](https://e27.co/3cat-raises-us4m-series-a-to-take-used-device-retail-model-from-malaysia-to-the-philippines-20260923/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-23T04:07:26+00:00`, fetched `2026-09-23T04:18:18+00:00`
@@ -191,6 +200,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
   - Kurz: Google's open agentic orchestration runtime https://agentexecutor.io AX Warning We are still actively refining our core concepts, protocols, and specifications. We will likely to introduce major breaking changes prior to a stable release. Declare an agentic task with workspaces and gateway specifications. AX sandboxes it, wires up its workspace, fences its network, and helps running it at scale. AX is a high-through…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 4.9 - Scotia Sea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx23)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-23T09:04:56.040+00:00`, fetched `2026-09-23T09:14:18+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-23 08:41:58 UTC 2026-09-23 08:41:58 UTC at epicenter Location 60.266°S 47.600°W Depth 10.00 km (6.21 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Almost ten million people took part in ECB survey on new euro banknotes** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260923~6ebddaf01e.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-09-23T09:00:00+00:00`, fetched `2026-09-23T09:14:18+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: Almost ten million people took part in ECB survey on new euro banknotes
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.7 - 30 km SE of Khorugh, Tajikistan** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx16)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
@@ -245,15 +272,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
   - Kurz: Macでの作業をMarkdownで自動記録してAIにまとめさせるAmbient Contextの紹介です。 GitHub - dragthelake/ambient-context: A menu bar app that keeps a written record of what you worked on. 機能 Tauri製のmacOSメニューバーアプリで、フォーカス中のウィンドウのテキストを数秒おきに拾ってMarkdownに蓄積します...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **mvt-project/mvt** — Score 5, observation — [Quelle](https://github.com/mvt-project/mvt)
-  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
-  - Zeit: published `unbekannt`, fetched `2026-09-23T05:49:52+00:00`
-  - Treffer: APAC Trend Radar, GitHub Trending
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
-  - Kurz: MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise. https://mvt.re Mobile Verification Toolkit Important We recently merged the "v3" branch. This introduced breaking changes. If you relied on mvt output in other scripts They might have broken. More details: https://github.com/mvt-project/mvt/issues/757 Mobile Verification Toolkit (MVT)…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
