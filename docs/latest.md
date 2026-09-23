@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-23T09:45:06+00:00_
+_Generiert: 2026-09-23T09:53:34+00:00_
 
 ## Kurzlage
 
-37 neue relevante Treffer. Stärkstes Signal: „Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+38 neue relevante Treffer. Stärkstes Signal: „Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 ## Priorität Hoch
 
@@ -195,14 +195,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+7.5); recent (+1.0)
   - Kurz: Aktuell laufen Angriffe auf Sicherheitslücken in F5 BIG-IP APM, Check-Point-Produkte und Arista VeloCloud Orchestrator.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Patchday: Adobe Connect ist unter Android, macOS und Windows verwundbar** — Score 7, observation — [Quelle](https://www.heise.de/news/Patchday-Adobe-Connect-ist-unter-Android-macOS-und-Windows-verwundbar-11462802.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-09-23T08:45:00.000+00:00`, fetched `2026-09-23T08:56:24+00:00`
-  - Treffer: Security
+- **GitHub - wrr/drop: Linux sandboxing that doesn't get in your way** — Score 8, observation — [Quelle](https://github.com/wrr/drop)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-23T01:54:40+00:00`, fetched `2026-09-23T09:53:03+00:00`
+  - Treffer: GitHub, Hatena, hotentry
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Es sind wichtige Sicherheitsupdates für verschiedene Adobe-Anwendungen erschienen.
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.5); recent (+1.0)
+  - Kurz: You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss alert
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
