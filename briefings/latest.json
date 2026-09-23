@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T04:18:46+00:00",
-  "run_id": "2026-09-23T04:18:46+00:00",
+  "generated_at": "2026-09-23T04:36:15+00:00",
+  "run_id": "2026-09-23T04:36:15+00:00",
   "date": "2026-09-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
+    "new_relevant_findings": 0,
     "today_file_total": 18,
     "displayed_findings": 18,
     "high": 0,
@@ -935,74 +935,7 @@
       "id": "1ff44d8caf52976da618"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Your startup has an AI strategy. Does it have a human strategy?",
-      "url": "https://e27.co/your-startup-has-an-ai-strategy-does-it-have-a-human-strategy-20260921/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-23T04:00:13+00:00",
-      "fetched_at": "2026-09-23T04:18:18+00:00",
-      "summary": "I recently presented at LEAP in Saudi Arabia, where I spent several days talking with founders, startup teams and people building businesses around emerging technology. Unsurprisingly, AI was everywhere. Much of the conversation centred on what AI could help people do faster: research that once took hours could be summarised in minutes, first drafts could […] The post Your startup has an AI strategy. Does it have a…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar",
-        "founder",
-        "Markets/Capital Structure"
-      ],
-      "relevance_score": 18,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.8); Markets/Capital Structure (+7.5); founder (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "e5da691ae988026c1cc9"
-    },
-    {
-      "title": "3cat raises US$4M Series A to take used-device retail model from Malaysia to the Philippines",
-      "url": "https://e27.co/3cat-raises-us4m-series-a-to-take-used-device-retail-model-from-malaysia-to-the-philippines-20260923/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-23T04:07:26+00:00",
-      "fetched_at": "2026-09-23T04:18:18+00:00",
-      "summary": "For many consumers in Southeast Asia, the smartphone has become both a work tool and a status symbol. It is also getting harder to afford. That tension sits at the centre of 3cat’s next phase of growth. The Singapore-incorporated, Malaysia-born retailer of pre-owned electronics has raised US$4 million in Series A funding to expand into […] The post 3cat raises US$4M Series A to take used-device retail model from Mal…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "funding",
-        "Southeast Asia"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "APAC Trend Radar (+3.8); Southeast Asia (+2.0); funding (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Philippines, Malaysia (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "9ff64baa46832fdde6a0"
-    },
-    {
-      "title": "Introducing Claude Opus 5.5",
-      "url": "https://www.anthropic.com/claude-opus-5-5",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-22T16:34:29+00:00",
-      "fetched_at": "2026-09-23T04:18:18+00:00",
-      "summary": "We’re introducing Claude Opus 5.5, the first model in our new Claude 5.5 family. It performs at the level of Claude Fable 5.1 on most work and costs 40% less to run than Opus 5. Claude Opus 5.5 is our first release since we called for pacing the frontier. It was tested before release by external ...",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "5d974aedd5d2bc32c2d5"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
