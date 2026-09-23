@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-23T05:42:25+00:00_
+_Generated: 2026-09-23T05:50:20+00:00_
 
 ## Status
 - status: `normal`
-- findings: `20`
+- findings: `24`
 
 ## Top Signals
 
@@ -29,12 +29,12 @@ _Generated: 2026-09-23T05:42:25+00:00_
 - url: https://e27.co/your-startup-has-an-ai-strategy-does-it-have-a-human-strategy-20260921/
 - summary: I recently presented at LEAP in Saudi Arabia, where I spent several days talking with founders, startup teams and people building businesses around emerging technology. Unsurprisingly, AI was everywhere. Much of the conversation centred on what AI could help…
 
-### 4. M 4.5 - 63 km NE of Ruteng, Indonesia
-- source: USGS M4.5+ Earthquakes Past Hour
-- score: `15`
-- published: `2026-09-23T02:23:16.040+00:00`
-- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx08
-- summary: Time 2026-09-23 02:02:43 UTC 2026-09-23 02:02:43 UTC at epicenter Location 8.145°S 120.808°E Depth 10.00 km (6.21 mi)
+### 4. dream-num/univer
+- source: GitHub Trending RSS All Languages Daily
+- score: `16`
+- published: `None`
+- url: https://github.com/dream-num/univer
+- summary: The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. https://docs.univer.ai The Office Harness for AI Agents Spreadsheets · Documents · Presentations · Bases · Boards · PDFs (coming soon) High-perfo…
 
 ### 5. AWS DevOps Agentの全体構造と設定箇所を図解してみた | DevelopersIO
 - source: Hatena Bookmark Hotentry IT

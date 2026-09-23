@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-23T05:42:25+00:00_
+_Generiert: 2026-09-23T05:50:20+00:00_
 
 ## Kurzlage
 
-20 neue relevante Treffer. Stärkstes Signal: „Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+24 neue relevante Treffer. Stärkstes Signal: „Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 ## Priorität Hoch
 
@@ -39,6 +39,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); Markets/Capital Structure (+7.5); founder (+2.0); recent (+1.0)
   - Kurz: I recently presented at LEAP in Saudi Arabia, where I spent several days talking with founders, startup teams and people building businesses around emerging technology. Unsurprisingly, AI was everywhere. Much of the conversation centred on what AI could help people do faster: research that once took hours could be summarised in minutes, first drafts could […] The post Your startup has an AI strategy. Does it have a…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **dream-num/univer** — Score 16, opportunity — [Quelle](https://github.com/dream-num/univer)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-09-23T05:49:52+00:00`
+  - Treffer: AI Agents, AI/KI, APAC Trend Radar, GitHub Trending, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: AI/KI (+3.0); AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0); watchgraph modules ai_agents_workflow (+3.0)
+  - Kurz: The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. https://docs.univer.ai The Office Harness for AI Agents Spreadsheets · Documents · Presentations · Bases · Boards · PDFs (coming soon) High-performance, fully customizable Office SDK Build embeddable productivity experiences with a plugin architecture, Canvas-based rendering, a formula engine, and one Fa…
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **M 4.5 - 63 km NE of Ruteng, Indonesia** — Score 15, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx08)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-23T02:23:16.040+00:00`, fetched `2026-09-23T02:32:11+00:00`
@@ -48,6 +57,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-23 02:02:43 UTC 2026-09-23 02:02:43 UTC at epicenter Location 8.145°S 120.808°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **agent-substrate/substrate** — Score 14, mixed — [Quelle](https://github.com/agent-substrate/substrate)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-09-23T05:49:52+00:00`
+  - Treffer: APAC Trend Radar, GitHub Trending, Open Source, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); Open Source (+3.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
+  - Kurz: Agent Substrate: the core system Agent Substrate NOTE: This is not an officially supported Google product. This project is not eligible for the Google Open Source Software Vulnerability Rewards Program . What is Agent Substrate? Agent Substrate is a secure-by-default agent execution runtime engineered to run millions of sandboxes with 10x higher density than standard container runtimes. Purpose-built for the era of…
+  - Handlung: Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
 
 ## Nur beobachten
 
@@ -87,6 +105,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.0); funding (+2.0); recent (+1.0); watchgraph region southeast_asia: Singapore, Philippines, Malaysia (+2.0)
   - Kurz: For many consumers in Southeast Asia, the smartphone has become both a work tool and a status symbol. It is also getting harder to afford. That tension sits at the centre of 3cat’s next phase of growth. The Singapore-incorporated, Malaysia-born retailer of pre-owned electronics has raised US$4 million in Series A funding to expand into […] The post 3cat raises US$4M Series A to take used-device retail model from Mal…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **google/ax** — Score 10, observation — [Quelle](https://github.com/google/ax)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-09-23T05:49:52+00:00`
+  - Treffer: AI Agents, APAC Trend Radar, GitHub Trending
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI Agents (+5.0); APAC Trend Radar (+3.0); GitHub Trending (+2.0)
+  - Kurz: Google's open agentic orchestration runtime https://agentexecutor.io AX Warning We are still actively refining our core concepts, protocols, and specifications. We will likely to introduce major breaking changes prior to a stable release. Declare an agentic task with workspaces and gateway specifications. AX sandboxes it, wires up its workspace, fences its network, and helps running it at scale. AX is a high-through…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **OpenTelemetry in the GitHub Copilot app** — Score 9, opportunity — [Quelle](https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-09-23T02:14:54+00:00`, fetched `2026-09-23T02:32:11+00:00`
@@ -114,11 +141,22 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Claude Opus 5.5登場 Fable 5.1並みの性能をOpus 5より40%安価に
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **mvt-project/mvt** — Score 5, observation — [Quelle](https://github.com/mvt-project/mvt)
+  - Quelle: GitHub Trending RSS All Languages Daily / `rss`
+  - Zeit: published `unbekannt`, fetched `2026-09-23T05:49:52+00:00`
+  - Treffer: APAC Trend Radar, GitHub Trending
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); GitHub Trending (+2.0)
+  - Kurz: MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise. https://mvt.re Mobile Verification Toolkit Important We recently merged the "v3" branch. This introduced breaking changes. If you relied on mvt output in other scripts They might have broken. More details: https://github.com/mvt-project/mvt/issues/757 Mobile Verification Toolkit (MVT)…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
 
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
 
 ## Erinnerungskandidaten
 

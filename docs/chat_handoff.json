@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-23T05:42:25+00:00",
+  "generated_at": "2026-09-23T05:50:20+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 20,
-    "displayed_findings": 20,
+    "new_relevant_findings": 4,
+    "today_file_total": 24,
+    "displayed_findings": 24,
     "high": 0,
-    "medium": 4,
-    "observe": 16
+    "medium": 6,
+    "observe": 18
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -45,13 +45,13 @@
       "section": "medium"
     },
     {
-      "title": "M 4.5 - 63 km NE of Ruteng, Indonesia",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "title": "dream-num/univer",
+      "source": "GitHub Trending RSS All Languages Daily",
       "source_type": "rss",
-      "published_at": "2026-09-23T02:23:16.040+00:00",
-      "relevance_score": 15,
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx08",
-      "summary": "Time 2026-09-23 02:02:43 UTC 2026-09-23 02:02:43 UTC at epicenter Location 8.145°S 120.808°E Depth 10.00 km (6.21 mi)",
+      "published_at": null,
+      "relevance_score": 16,
+      "url": "https://github.com/dream-num/univer",
+      "summary": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime. https://docs.univer.ai The Office Harness for AI Agents Spreadsheets · Documents · Presentations · Bases · Boards · PDFs (coming soon) High-perfo…",
       "section": "medium"
     },
     {
