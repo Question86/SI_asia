@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-23T13:59:40+00:00_
+_Generiert: 2026-09-23T14:22:30+00:00_
 
 ## Kurzlage
 
-64 neue relevante Treffer. Stärkstes Signal: „Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+65 neue relevante Treffer. Stärkstes Signal: „Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -188,6 +188,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Webentwicklung (+3.0); Hatena (+2.0); hotentry (+2.0); developer (+2.5); agent (+2.5); recent (+1.0)
   - Kurz: AWS DevOps Agentの設定はCapability Providers、Agent Space、Web Appの3階層に分かれます。外部サービスの接続、調査スコープと3つのIAMロール、ナレッジやカスタムエージェントまで、どこで何を設定するのかを図解で整理しました。 はじめに 今回は、AWS DevOps Agentの構造を改めて正確に理解するために図解していき...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Barr, A Long-Term View on the Costs of Shelter** — Score 12, opportunity — [Quelle](https://www.federalreserve.gov/newsevents/speech/barr20260923a.htm)
+  - Quelle: Federal Reserve Speeches and Testimony / `rss`
+  - Zeit: published `2026-09-23T14:05:00+00:00`, fetched `2026-09-23T14:21:58+00:00`
+  - Treffer: Macro/Policy, speech, testimony
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+5.0); speech (+2.0); testimony (+2.0); recent (+1.0); watchgraph region usa: Federal Reserve (+2.0)
+  - Kurz: Speech At “Housing Affordability 2026: A Community Development Summit,” hosted by the Federal Reserve Bank of Chicago, Chicago, Illinois
+  - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - **Announcing 20260084 (OT,liquidity providing), for 7 days deadline 09:45** — Score 12, observation — [Quelle](http://www.ecb.europa.eu/mopo/implement/omo/html/20260084.en.html)
   - Quelle: ECB Open Market Operations and Communication / `rss`
   - Zeit: published `2026-09-23T08:15:17+00:00`, fetched `2026-09-23T07:30:22+00:00`
@@ -304,15 +313,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: OpenAI (+7.5)
   - Kurz: OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Cyberangriffe auf F5 BIG-IP, Check Point Security und Arista VeloCloud** — Score 8, observation — [Quelle](https://www.heise.de/news/Cyberangriffe-auf-F5-BIG-IP-Check-Point-Security-und-Arista-VeloCloud-11462590.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-09-23T06:36:00.000+00:00`, fetched `2026-09-23T06:55:23+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+7.5); recent (+1.0)
-  - Kurz: Aktuell laufen Angriffe auf Sicherheitslücken in F5 BIG-IP APM, Check-Point-Produkte und Arista VeloCloud Orchestrator.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
