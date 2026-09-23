@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-23T21:13:21Z",
+  "generated_at": "2026-09-23T21:26:56Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 3,
-      "krass": 7,
+      "krass": 8,
       "strong": 27,
-      "watch": 3
+      "watch": 2
     },
     "bands_after_gate_recheck": {
       "krass": 1,
-      "strong": 36,
-      "watch": 3
+      "strong": 37,
+      "watch": 2
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3534",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-23T11:39:23+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "security"
       ],
@@ -75,7 +75,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3535",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-23T11:39:23+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "security"
       ],
@@ -99,7 +99,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3532",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-23T11:34:27+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "security"
       ],
@@ -123,7 +123,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3533",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-23T11:34:27+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "security"
       ],
@@ -147,7 +147,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3531",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-23T11:34:26+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "security"
       ],
@@ -171,7 +171,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3499",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-23T09:54:24+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "security"
       ],
@@ -195,7 +195,7 @@
       "url": "https://github.blog/changelog/2026-09-23-local-sandboxing-in-the-github-copilot-app",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-09-23T15:00:57+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [
         "general"
       ],
@@ -221,7 +221,7 @@
       "url": "https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-09-23T02:32:45+00:00",
-      "age_days": 0.78,
+      "age_days": 0.79,
       "topics": [],
       "dynamics_score": 26.0,
       "raw_band": "strong",
@@ -245,7 +245,7 @@
       "url": "https://e27.co/pinterest-and-shopee-link-up-to-bring-creator-led-shopping-to-indonesia-20260922/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T02:05:39+00:00",
-      "age_days": 0.8,
+      "age_days": 0.81,
       "topics": [],
       "dynamics_score": 26.0,
       "raw_band": "strong",
@@ -269,7 +269,7 @@
       "url": "https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need/",
       "source": "GitHub Blog Atom",
       "published_at": "2026-09-23T13:20:49+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [],
       "dynamics_score": 26.0,
       "raw_band": "strong",
@@ -294,7 +294,7 @@
       "url": "https://www.heise.de/news/Cyberangriffe-auf-F5-BIG-IP-Check-Point-Security-und-Arista-VeloCloud-11462590.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-23T06:36:00.000+00:00",
-      "age_days": 0.61,
+      "age_days": 0.62,
       "topics": [
         "security"
       ],
@@ -319,7 +319,7 @@
       "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260084.en.html",
       "source": "ECB Open Market Operations and Communication, ECB Press Releases Speeches Interviews",
       "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 97.28,
+      "age_days": 97.29,
       "topics": [
         "general"
       ],
@@ -330,13 +330,13 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 2,
       "momentum_delta": 3,
-      "baseline_z_hint": 1.2,
+      "baseline_z_hint": 1.06,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
         "source breadth +2",
         "momentum delta +3",
-        "baseline z_hint 1.20",
+        "baseline z_hint 1.06",
         "high terms: rce",
         "security high-signal: rce",
         "aging penalty -8.0 for 97.3d old signal",
@@ -349,7 +349,7 @@
       "url": "https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-09-23T02:14:54+00:00",
-      "age_days": 0.79,
+      "age_days": 0.8,
       "topics": [
         "ai"
       ],
@@ -377,7 +377,7 @@
       "url": "https://e27.co/pinterest-and-shopee-link-up-to-bring-creator-led-shopping-to-indonesia-20260922/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T02:00:57+00:00",
-      "age_days": 0.8,
+      "age_days": 0.81,
       "topics": [
         "ai"
       ],
@@ -401,11 +401,37 @@
       "summary": "Pinterest and Shopee are linking their creator and shopping ecosystems in Indonesia and Brazil. The partnership shows how e-commerce platforms are trying to get closer to the moment consumers first decide what they want to buy. Under the new affiliate arrangement, eligible Shopee Affiliate creators can connect their S…"
     },
     {
+      "title": "Sam Altman’s remarks at the United Nations Security Council",
+      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
+      "source": "OpenAI News RSS",
+      "published_at": "2026-09-23T12:00:00+00:00",
+      "age_days": 0.39,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: security",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council."
+    },
+    {
       "title": "[NEU] [hoch] IBM SPSS Analytic Server und SPSS Modeler: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3536",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-23T11:39:23+00:00",
-      "age_days": 0.4,
+      "age_days": 0.41,
       "topics": [
         "security"
       ],
@@ -431,7 +457,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3487",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-23T10:37:11+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "security"
       ],
@@ -457,7 +483,7 @@
       "url": "https://github.com/agent-substrate/substrate",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-23T05:49:52+00:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [
         "ai",
         "security",
@@ -485,7 +511,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3497",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-23T10:37:11+00:00",
-      "age_days": 0.44,
+      "age_days": 0.45,
       "topics": [
         "security",
         "macro"
@@ -511,7 +537,7 @@
       "url": "https://github.com/dream-num/univer",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-23T05:50:23+00:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "krass",
@@ -558,11 +584,40 @@
       "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1."
     },
     {
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "url": "https://openai.com/index/ringg",
+      "source": "OpenAI News RSS",
+      "published_at": "2026-06-17T20:44:40+00:00",
+      "age_days": 98.03,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 9.26,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 9.26",
+        "high terms: rce",
+        "security high-signal: rce",
+        "aging penalty -8.0 for 98.0d old signal",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram",
       "url": "https://e27.co/meta-singapore-police-disrupt-3-7m-scam-linked-assets-across-facebook-and-instagram-20260923/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T05:42:29+00:00",
-      "age_days": 0.65,
+      "age_days": 0.66,
       "topics": [
         "general"
       ],
@@ -589,7 +644,7 @@
       "url": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-09-23T01:21:48+00:00",
-      "age_days": 0.83,
+      "age_days": 0.84,
       "topics": [
         "ai"
       ],
@@ -612,40 +667,11 @@
       "summary": ""
     },
     {
-      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "url": "https://openai.com/index/ringg",
-      "source": "OpenAI News RSS",
-      "published_at": "2026-06-17T20:44:40+00:00",
-      "age_days": 98.02,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 4.67,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 4.67",
-        "high terms: rce",
-        "security high-signal: rce",
-        "aging penalty -8.0 for 98.0d old signal",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-      ],
-      "summary": ""
-    },
-    {
       "title": "[UPDATE] [UNGEPATCHT] [hoch] CUPS: Schwachstelle ermöglicht Privilegieneskalation",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3497",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 26.29,
+      "age_days": 26.3,
       "topics": [
         "security"
       ],
@@ -673,7 +699,7 @@
       "url": "https://e27.co/meta-singapore-police-disrupt-3-7m-scam-linked-assets-across-facebook-and-instagram-20260923/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T05:30:29+00:00",
-      "age_days": 0.65,
+      "age_days": 0.66,
       "topics": [
         "ai",
         "security",
@@ -700,7 +726,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3498",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-23T09:54:23+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "ai",
         "security"
@@ -727,7 +753,7 @@
       "url": "https://www.bsi.bund.de/SharedDocs/Cybersicherheitswarnungen/DE/2026/2026-289157-1032_bits.html",
       "source": "BSI CERT-Bund Cyber-Sicherheitswarnungen",
       "published_at": "2026-09-23T13:15:00+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -752,7 +778,7 @@
       "url": "https://www.heise.de/news/Ubiquiti-schliesst-Denial-of-Service-Luecken-in-Firewalls-und-Gateways-11463176.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-23T11:53:00.000+00:00",
-      "age_days": 0.39,
+      "age_days": 0.4,
       "topics": [
         "security",
         "infra"
@@ -778,7 +804,7 @@
       "url": "https://restofworld.org/2026/china-rejects-dario-amodei-anthropic-ai-slowdown-trump-xi/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-09-23T10:00:00+00:00",
-      "age_days": 0.47,
+      "age_days": 0.48,
       "topics": [
         "ai"
       ],
@@ -803,7 +829,7 @@
       "url": "https://github.com/dream-num/univer",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-23T05:49:52+00:00",
-      "age_days": 0.64,
+      "age_days": 0.65,
       "topics": [
         "ai"
       ],
@@ -829,7 +855,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx31",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-23T13:15:01.040+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "disaster"
       ],
@@ -854,7 +880,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx08",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-23T02:23:16.040+00:00",
-      "age_days": 0.78,
+      "age_days": 0.79,
       "topics": [
         "disaster"
       ],
@@ -879,7 +905,7 @@
       "url": "https://e27.co/3-in-4-organisations-are-embracing-low-code-when-should-a-business-build-instead-of-buy-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T03:00:59+00:00",
-      "age_days": 0.76,
+      "age_days": 0.77,
       "topics": [
         "general"
       ],
@@ -904,7 +930,7 @@
       "url": "https://e27.co/msme-development-doesnt-need-invention-only-connection-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T02:05:39+00:00",
-      "age_days": 0.8,
+      "age_days": 0.81,
       "topics": [
         "general"
       ],
@@ -928,7 +954,7 @@
       "url": "https://www.publickey1.jp/blog/26/claude_codeagentsmdclaudemd.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-23T18:37:56+00:00",
-      "age_days": 0.11,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -955,7 +981,7 @@
       "url": "https://www.federalreserve.gov/newsevents/speech/barr20260923a.htm",
       "source": "Federal Reserve Speeches and Testimony",
       "published_at": "2026-09-23T14:05:00+00:00",
-      "age_days": 0.3,
+      "age_days": 0.31,
       "topics": [
         "macro"
       ],
@@ -980,7 +1006,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx08",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T07:22:32+00:00",
-      "age_days": 18.58,
+      "age_days": 18.59,
       "topics": [
         "general"
       ],
@@ -1001,37 +1027,11 @@
       "summary": ""
     },
     {
-      "title": "M 4.6 - 106 km WNW of Ternate, Indonesia",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx31",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 97.28,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 19.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3",
-        "high terms: 10",
-        "aging penalty -8.0 for 97.3d old signal"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Patchday: Adobe Connect ist unter Android, macOS und Windows verwundbar",
       "url": "https://www.heise.de/news/Patchday-Adobe-Connect-ist-unter-Android-macOS-und-Windows-verwundbar-11462802.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-23T08:45:00.000+00:00",
-      "age_days": 0.52,
+      "age_days": 0.53,
       "topics": [
         "security"
       ],
