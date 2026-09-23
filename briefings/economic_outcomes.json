@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-23T08:57:30+00:00",
+  "generated_at": "2026-09-23T09:15:28+00:00",
   "events": [
     {
       "event_id": "evt_00999a707b633ec75a8c",
@@ -353,6 +353,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_08b3aa6e775564e2c7f2",
+      "title": "M 4.9 - Scotia Sea",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_08c319120d6cafe0c95c",
@@ -1881,7 +1892,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_3672aa4510527ad7ae1e",
@@ -3212,7 +3223,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "dormant"
+      "status": "active"
     },
     {
       "event_id": "evt_5aab90b0cdfb10faa840",
@@ -6545,7 +6556,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_aded2857bce4fe598bda",
