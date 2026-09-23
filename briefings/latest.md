@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-23T15:35:19+00:00_
+_Generiert: 2026-09-23T15:46:02+00:00_
 
 ## Kurzlage
 
@@ -65,16 +65,12 @@ _Generiert: 2026-09-23T15:35:19+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Volcanic eruption is on going for Chikurachki in Russia
-- **USGS earthquake M5.7 - 180 km NW of Hihifo, Tonga** — watch — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx3m)
-  - Quelle: USGS
-  - Zeit: `2026-09-23T14:41:02+00:00`
-  - Kurz: M5.7 - 180 km NW of Hihifo, Tonga. PAGER alert: green. Tsunami flag: 0.
 
 ## Wirtschaft global
 
 - Kein aktives Signal aus den konfigurierten globalen Sensoren.
 
-- Sensor-Hinweis: Yahoo finance failed: 401 Client Error: Unauthorized for url: https://query1.finance.yahoo.com/v7/finance/quote?symbols=BTC-USD,ETH-USD,GC%3DF,SI%3DF,GLD,SLV,SPY,QQQ,%5EGSPC,%5EIXIC,%5EDJI,%5EVIX,DX-Y.NYB,CL%3DF,COIN,MSTR,IBIT
+- Sensor-Hinweis: Yahoo finance failed: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v7/finance/quote?symbols=BTC-USD,ETH-USD,GC%3DF,SI%3DF,GLD,SLV,SPY,QQQ,%5EGSPC,%5EIXIC,%5EDJI,%5EVIX,DX-Y.NYB,CL%3DF,COIN,MSTR,IBIT
 
 <!-- SENNA_GLOBAL_WATCHDOGS:END -->
 

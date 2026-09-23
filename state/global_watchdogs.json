@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T15:35:22+00:00",
+  "generated_at": "2026-09-23T15:46:04+00:00",
   "sections": {
     "global_security": [
       {
@@ -151,26 +151,11 @@
         "url": "https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000149",
         "published_at": "",
         "metrics": {}
-      },
-      {
-        "domain": "security",
-        "severity": "watch",
-        "title": "USGS earthquake M5.7 - 180 km NW of Hihifo, Tonga",
-        "summary": "M5.7 - 180 km NW of Hihifo, Tonga. PAGER alert: green. Tsunami flag: 0.",
-        "source": "USGS",
-        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx3m",
-        "published_at": "2026-09-23T14:41:02+00:00",
-        "metrics": {
-          "mag": 5.7,
-          "alert": "green",
-          "sig": 500.0,
-          "tsunami": 0
-        }
       }
     ],
     "global_economy": []
   },
   "source_errors": [
-    "Yahoo finance failed: 401 Client Error: Unauthorized for url: https://query1.finance.yahoo.com/v7/finance/quote?symbols=BTC-USD,ETH-USD,GC%3DF,SI%3DF,GLD,SLV,SPY,QQQ,%5EGSPC,%5EIXIC,%5EDJI,%5EVIX,DX-Y.NYB,CL%3DF,COIN,MSTR,IBIT"
+    "Yahoo finance failed: 429 Client Error: Too Many Requests for url: https://query1.finance.yahoo.com/v7/finance/quote?symbols=BTC-USD,ETH-USD,GC%3DF,SI%3DF,GLD,SLV,SPY,QQQ,%5EGSPC,%5EIXIC,%5EDJI,%5EVIX,DX-Y.NYB,CL%3DF,COIN,MSTR,IBIT"
   ]
 }
