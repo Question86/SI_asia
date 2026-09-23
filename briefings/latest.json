@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T16:38:46+00:00",
-  "run_id": "2026-09-23T16:38:46+00:00",
+  "generated_at": "2026-09-23T16:49:41+00:00",
+  "run_id": "2026-09-23T16:49:41+00:00",
   "date": "2026-09-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 73,
     "displayed_findings": 73,
     "high": 0,
@@ -3679,75 +3679,7 @@
       "id": "1ff44d8caf52976da618"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "url": "https://openai.com/index/ringg",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-09-24T12:00:00+00:00",
-      "fetched_at": "2026-09-23T16:38:18+00:00",
-      "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-      "matched_keywords": [
-        "AI Agents",
-        "AI/KI",
-        "OpenAI",
-        "Watchgraph:ai_agents_workflow"
-      ],
-      "relevance_score": 20,
-      "relevance_reason": "OpenAI (+7.5); AI/KI (+3.8); AI Agents (+6.2); watchgraph modules ai_agents_workflow (+3.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [
-        "ai_agents_workflow"
-      ],
-      "watchgraph_reasons": [
-        "ai_agents_workflow: AI agents"
-      ],
-      "market_context": [
-        "NVDA",
-        "AMD",
-        "TSM",
-        "ASML",
-        "AVGO",
-        "MU",
-        "005930.KS",
-        "000660.KS",
-        "8035.T",
-        "MSFT",
-        "GTLB",
-        "FROG",
-        "TEAM",
-        "META",
-        "GOOGL",
-        "RDDT",
-        "SNAP",
-        "PINS"
-      ],
-      "id": "a75d8db88bab5e22a244"
-    },
-    {
-      "title": "Philip R. Lane: The Outlook for the Euro Area Economy",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260923_1~ac21bf46e3.en.pdf",
-      "source": "ECB Press Releases Speeches Interviews",
-      "source_type": "rss",
-      "published_at": "2026-09-23T16:30:00+00:00",
-      "fetched_at": "2026-09-23T16:38:18+00:00",
-      "summary": "Philip R. Lane: The Outlook for the Euro Area Economy",
-      "matched_keywords": [
-        "euro area",
-        "Macro/Policy"
-      ],
-      "relevance_score": 10,
-      "relevance_reason": "Macro/Policy (+5.0); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "41884a7d219fdd476d0d"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
