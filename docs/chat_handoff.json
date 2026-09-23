@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-23T05:29:14+00:00",
+  "generated_at": "2026-09-23T05:42:25+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 19,
-    "displayed_findings": 19,
+    "new_relevant_findings": 1,
+    "today_file_total": 20,
+    "displayed_findings": 20,
     "high": 0,
-    "medium": 3,
+    "medium": 4,
     "observe": 16
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-23T05:30:29+00:00",
+      "relevance_score": 22,
+      "url": "https://e27.co/meta-singapore-police-disrupt-3-7m-scam-linked-assets-across-facebook-and-instagram-20260923/",
+      "summary": "A scam rarely begins with a dramatic breach. More often, it starts with something ordinary: a Facebook page selling discounted skincare, an Instagram post promising easy investment gains, or a message from a group that claims to have found a way to beat the m…",
+      "section": "medium"
+    },
     {
       "title": "New features and improvements in Copilot for JetBrains",
       "source": "GitHub Changelog Atom",

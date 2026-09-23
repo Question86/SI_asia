@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-23T05:29:14+00:00_
+_Generiert: 2026-09-23T05:42:25+00:00_
 
 ## Kurzlage
 
-19 neue relevante Treffer. Stärkstes Signal: „New features and improvements in Copilot for JetBrains“ aus GitHub Changelog Atom (Score 22, observation).
+20 neue relevante Treffer. Stärkstes Signal: „Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -81,6 +81,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram** — Score 22, risk — [Quelle](https://e27.co/meta-singapore-police-disrupt-3-7m-scam-linked-assets-across-facebook-and-instagram-20260923/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-23T05:30:29+00:00`, fetched `2026-09-23T05:41:56+00:00`
+  - Treffer: APAC Trend Radar, Reputationsrisiko, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.8); Reputationsrisiko (+8.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: A scam rarely begins with a dramatic breach. More often, it starts with something ordinary: a Facebook page selling discounted skincare, an Instagram post promising easy investment gains, or a message from a group that claims to have found a way to beat the market. By the time victims realise what has happened, the people […] The post Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagr…
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **New features and improvements in Copilot for JetBrains** — Score 22, observation — [Quelle](https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains)
   - Quelle: GitHub Changelog Atom / `rss`
   - Zeit: published `2026-09-23T00:34:18+00:00`, fetched `2026-09-23T01:21:13+00:00`
@@ -177,8 +186,8 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
-- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Erinnerungskandidaten
 

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T05:29:14+00:00",
-  "run_id": "2026-09-23T05:29:14+00:00",
+  "generated_at": "2026-09-23T05:42:25+00:00",
+  "run_id": "2026-09-23T05:42:25+00:00",
   "date": "2026-09-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 19
+      "configured_public_sources_only": 20
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,17 +18,39 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 19,
-    "displayed_findings": 19,
+    "new_relevant_findings": 1,
+    "today_file_total": 20,
+    "displayed_findings": 20,
     "high": 0,
-    "medium": 3,
+    "medium": 4,
     "observe": 16,
     "source_errors": 0
   },
   "sections": {
     "high": [],
     "medium": [
+      {
+        "title": "Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram",
+        "url": "https://e27.co/meta-singapore-police-disrupt-3-7m-scam-linked-assets-across-facebook-and-instagram-20260923/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-23T05:30:29+00:00",
+        "fetched_at": "2026-09-23T05:41:56+00:00",
+        "summary": "A scam rarely begins with a dramatic breach. More often, it starts with something ordinary: a Facebook page selling discounted skincare, an Instagram post promising easy investment gains, or a message from a group that claims to have found a way to beat the market. By the time victims realise what has happened, the people […] The post Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagr…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Reputationsrisiko",
+          "Security"
+        ],
+        "relevance_score": 22,
+        "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.8); Reputationsrisiko (+8.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "fd845db048ac5c2e31ec"
+      },
       {
         "title": "New features and improvements in Copilot for JetBrains",
         "url": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
@@ -505,6 +527,28 @@
   },
   "findings": [
     {
+      "title": "Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram",
+      "url": "https://e27.co/meta-singapore-police-disrupt-3-7m-scam-linked-assets-across-facebook-and-instagram-20260923/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-23T05:30:29+00:00",
+      "fetched_at": "2026-09-23T05:41:56+00:00",
+      "summary": "A scam rarely begins with a dramatic breach. More often, it starts with something ordinary: a Facebook page selling discounted skincare, an Instagram post promising easy investment gains, or a message from a group that claims to have found a way to beat the market. By the time victims realise what has happened, the people […] The post Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagr…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Reputationsrisiko",
+        "Security"
+      ],
+      "relevance_score": 22,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.8); Reputationsrisiko (+8.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fd845db048ac5c2e31ec"
+    },
+    {
       "title": "New features and improvements in Copilot for JetBrains",
       "url": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
       "source": "GitHub Changelog Atom",
@@ -975,7 +1019,30 @@
       "id": "1ff44d8caf52976da618"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram",
+      "url": "https://e27.co/meta-singapore-police-disrupt-3-7m-scam-linked-assets-across-facebook-and-instagram-20260923/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-23T05:30:29+00:00",
+      "fetched_at": "2026-09-23T05:41:56+00:00",
+      "summary": "A scam rarely begins with a dramatic breach. More often, it starts with something ordinary: a Facebook page selling discounted skincare, an Instagram post promising easy investment gains, or a message from a group that claims to have found a way to beat the market. By the time victims realise what has happened, the people […] The post Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagr…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Reputationsrisiko",
+        "Security"
+      ],
+      "relevance_score": 22,
+      "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.8); Reputationsrisiko (+8.8); recent (+1.0); watchgraph region southeast_asia: Singapore (+2.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "fd845db048ac5c2e31ec"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
