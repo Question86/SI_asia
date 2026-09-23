@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-23T18:58:31+00:00_
+_Generiert: 2026-09-23T19:12:05+00:00_
 
 ## Kurzlage
 
-77 neue relevante Treffer. Stärkstes Signal: „Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+77 neue relevante Treffer. Stärkstes Signal: „Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram“ aus e27 Asia Startup and Tech Feed (Score 22, risk). 2 Quelle(n) hatten Abruffehler; Details stehen in latest.json.
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -61,10 +61,6 @@ _Generiert: 2026-09-23T18:58:31+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 21/09/2026 01:41 UTC, 2 thousand (in MMI&gt;=VII).
-- **GDACS: Volcanic eruption is on going for Chikurachki in Russia** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=VO&amp;eventid=1000149)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Volcanic eruption is on going for Chikurachki in Russia
 
 ## Wirtschaft global
 
@@ -356,3 +352,8 @@ Keine neuen Hochprioritäts-Treffer.
 ## Erinnerungskandidaten
 
 - Keine neuen langfristigen Erinnerungskandidaten.
+
+## Quellenfehler
+
+- `openai_news_rss` (rss): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+- `jpcert_english_alerts` (rss): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))

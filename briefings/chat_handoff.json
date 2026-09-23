@@ -1,9 +1,9 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-23T18:58:31+00:00",
-  "status": "normal",
-  "coverage_confidence": "normal",
+  "generated_at": "2026-09-23T19:12:05+00:00",
+  "status": "warning",
+  "coverage_confidence": "limited",
   "counts": {
     "new_relevant_findings": 0,
     "today_file_total": 77,
@@ -12,7 +12,7 @@
     "medium": 21,
     "observe": 56
   },
-  "source_errors_count": 0,
+  "source_errors_count": 2,
   "top_signals": [
     {
       "title": "Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram",
