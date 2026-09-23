@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-23T08:43:48Z",
+  "generated_at": "2026-09-23T08:54:33Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Cyberangriffe auf F5 BIG-IP, Check Point Security und Arista VeloCloud” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://www.heise.de/news/Cyberangriffe-auf-F5-BIG-IP-Check-Point-Security-und-Arista-VeloCloud-11462590.html",
       "source": "heise Security Alerts",
       "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 96.04,
+      "age_days": 96.05,
       "topics": [
         "security"
       ],
@@ -33,7 +33,7 @@
         "momentum delta +3",
         "high terms: angriffe",
         "security high-signal: angriffe",
-        "aging penalty -8.0 for 96.0d old signal"
+        "aging penalty -8.0 for 96.1d old signal"
       ],
       "summary": ""
     },
@@ -42,7 +42,7 @@
       "url": "https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-09-23T02:32:45+00:00",
-      "age_days": 0.26,
+      "age_days": 0.27,
       "topics": [],
       "dynamics_score": 26.0,
       "raw_band": "strong",
@@ -90,7 +90,7 @@
       "url": "https://www.heise.de/news/Cyberangriffe-auf-F5-BIG-IP-Check-Point-Security-und-Arista-VeloCloud-11462590.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-23T06:36:00.000+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "security"
       ],
@@ -115,7 +115,7 @@
       "url": "https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-09-23T02:14:54+00:00",
-      "age_days": 0.27,
+      "age_days": 0.28,
       "topics": [
         "ai"
       ],
@@ -143,7 +143,7 @@
       "url": "https://e27.co/pinterest-and-shopee-link-up-to-bring-creator-led-shopping-to-indonesia-20260922/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T02:00:57+00:00",
-      "age_days": 0.28,
+      "age_days": 0.29,
       "topics": [
         "ai"
       ],
@@ -171,7 +171,7 @@
       "url": "https://github.com/agent-substrate/substrate",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-23T05:49:52+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai",
         "security",
@@ -199,7 +199,7 @@
       "url": "https://github.com/dream-num/univer",
       "source": "GitHub Trending RSS All Languages Daily",
       "published_at": "2026-09-23T05:50:23+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [],
       "dynamics_score": 24.9,
       "raw_band": "krass",
@@ -278,7 +278,7 @@
       "url": "https://e27.co/meta-singapore-police-disrupt-3-7m-scam-linked-assets-across-facebook-and-instagram-20260923/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T05:30:29+00:00",
-      "age_days": 0.13,
+      "age_days": 0.14,
       "topics": [
         "ai",
         "security",
@@ -305,7 +305,7 @@
       "url": "https://e27.co/3-in-4-organisations-are-embracing-low-code-when-should-a-business-build-instead-of-buy-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T03:00:59+00:00",
-      "age_days": 0.24,
+      "age_days": 0.25,
       "topics": [
         "general"
       ],

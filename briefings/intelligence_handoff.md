@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-23T08:43:48Z_
+_Generated: 2026-09-23T08:54:33Z_
 
 ## Lageurteil
 
@@ -12,17 +12,17 @@ Stärkste Dynamik nach Gate-Recheck: “Cyberangriffe auf F5 BIG-IP, Check Point
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-06-19T07:39:37+00:00` / age_days `96.04`
+- Published: `2026-06-19T07:39:37+00:00` / age_days `96.05`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: momentum delta +3, high terms: angriffe, security high-signal: angriffe, aging penalty -8.0 for 96.0d old signal
+- Warum: momentum delta +3, high terms: angriffe, security high-signal: angriffe, aging penalty -8.0 for 96.1d old signal
 - Quelle: https://www.heise.de/news/Cyberangriffe-auf-F5-BIG-IP-Check-Point-Security-und-Arista-VeloCloud-11462590.html
 
 ### OpenTelemetry in the GitHub Copilot app
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-23T02:32:45+00:00` / age_days `0.26`
+- Published: `2026-09-23T02:32:45+00:00` / age_days `0.27`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “Cyberangriffe auf F5 BIG-IP, Check Point
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `25.0`
-- Published: `2026-09-23T06:36:00.000+00:00` / age_days `0.09`
+- Published: `2026-09-23T06:36:00.000+00:00` / age_days `0.1`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: angriffe, security high-signal: angriffe
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “Cyberangriffe auf F5 BIG-IP, Check Point
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-23T02:14:54+00:00` / age_days `0.27`
+- Published: `2026-09-23T02:14:54+00:00` / age_days `0.28`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “Cyberangriffe auf F5 BIG-IP, Check Point
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-23T02:00:57+00:00` / age_days `0.28`
+- Published: `2026-09-23T02:00:57+00:00` / age_days `0.29`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, security high-signal: rce, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “Cyberangriffe auf F5 BIG-IP, Check Point
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-23T05:49:52+00:00` / age_days `0.12`
+- Published: `2026-09-23T05:49:52+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, execution, 10, security high-signal: rce, execution, 10, container, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “Cyberangriffe auf F5 BIG-IP, Check Point
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-23T05:50:23+00:00` / age_days `0.12`
+- Published: `2026-09-23T05:50:23+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “Cyberangriffe auf F5 BIG-IP, Check Point
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-23T05:30:29+00:00` / age_days `0.13`
+- Published: `2026-09-23T05:30:29+00:00` / age_days `0.14`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security, extreme gate: needs multi-source high-signal, official security, or identity relevance
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “Cyberangriffe auf F5 BIG-IP, Check Point
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `21.0`
-- Published: `2026-09-23T03:00:59+00:00` / age_days `0.24`
+- Published: `2026-09-23T03:00:59+00:00` / age_days `0.25`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: rce, code, security high-signal: rce, code
