@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T22:30:34+00:00",
-  "today_file_total": 84,
+  "generated_at": "2026-09-23T22:40:33+00:00",
+  "today_file_total": 85,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -54,6 +54,31 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 34.7,
+      "hot": true,
+      "watchgraph_modules": [
+        "ai_agents_workflow"
+      ],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren."
+    },
+    {
+      "key": "domain:syu-m-5151.hatenablog.com",
+      "title": "Codexを使うなら、SkillsとPluginsを押さえておきたい - じゃあ、おうちで学べる",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://syu-m-5151.hatenablog.com/entry/2026/09/23/123604"
+      ],
+      "finding_count": 1,
+      "max_score": 23,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 28.1,
       "hot": true,
       "watchgraph_modules": [
         "ai_agents_workflow"
@@ -470,29 +495,6 @@
         "earthquakes_tsunami"
       ],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten."
-    },
-    {
-      "key": "title:3cat-raises-series-take-used-device-retail-model",
-      "title": "3cat raises US$4M Series A to take used-device retail model from Malaysia to the Philippines",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/3cat-raises-us4m-series-a-to-take-used-device-retail-model-from-malaysia-to-the-philippines-20260923/"
-      ],
-      "finding_count": 1,
-      "max_score": 11,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 13.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
     }
   ]
 }

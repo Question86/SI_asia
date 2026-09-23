@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-23T22:30:32+00:00_
+_Generiert: 2026-09-23T22:40:28+00:00_
 
 ## Kurzlage
 
-84 neue relevante Treffer. Stärkstes Signal: „Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+85 neue relevante Treffer. Stärkstes Signal: „Codexを使うなら、SkillsとPluginsを押さえておきたい - じゃあ、おうちで学べる“ aus Hatena Bookmark Hotentry IT (Score 23, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -77,6 +77,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Priorität Mittel
 
+- **Codexを使うなら、SkillsとPluginsを押さえておきたい - じゃあ、おうちで学べる** — Score 23, observation — [Quelle](https://syu-m-5151.hatenablog.com/entry/2026/09/23/123604)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-23T06:52:04+00:00`, fetched `2026-09-23T22:39:51+00:00`
+  - Treffer: agent, AI Agents, Hatena, hotentry, OpenAI, Watchgraph:ai_agents_workflow
+  - Watchgraph: ai_agents_workflow
+  - Markt-/Kontextkorb: NVDA, AMD, TSM, ASML, AVGO, MU, 005930.KS, 000660.KS, 8035.T, MSFT, GTLB, FROG
+  - Warum relevant: OpenAI (+7.5); AI Agents (+6.2); Hatena (+2.0); hotentry (+2.0); agent (+2.0); recent (+1.0); watchgraph modules ai_agents_workflow (+3.0); watchgraph high-priority gate: capped below high priority (no identity, official-source, high-signal, disaster/market confirmation gate)
+  - Kurz: はじめに 同じ仕事を頼むたびに、前の会話からうまくいった指示をコピーすることがあります。その手順を残す場所として、Claude Codeの記事ではAgent Skillsを紹介しました。続くPluginsの記事では、社内で共有するSkillをプラグインにまとめ、更新を届けるところまで管理する方針を書きました。今回は、その方針をCodex...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram** — Score 22, risk — [Quelle](https://e27.co/meta-singapore-police-disrupt-3-7m-scam-linked-assets-across-facebook-and-instagram-20260923/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-23T05:30:29+00:00`, fetched `2026-09-23T05:41:56+00:00`
@@ -344,8 +353,8 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Empfehlungen
 
-- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
 - Als gemischtes Signal behandeln: erst Risiko ausschließen, dann Chance bewerten.
 

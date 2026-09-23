@@ -1,40 +1,40 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-23T22:30:32+00:00_
+_Generated: 2026-09-23T22:40:28+00:00_
 
 ## Status
 - status: `normal`
-- findings: `84`
+- findings: `85`
 
 ## Top Signals
 
-### 1. Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram
+### 1. Codexを使うなら、SkillsとPluginsを押さえておきたい - じゃあ、おうちで学べる
+- source: Hatena Bookmark Hotentry IT
+- score: `23`
+- published: `2026-09-23T06:52:04+00:00`
+- url: https://syu-m-5151.hatenablog.com/entry/2026/09/23/123604
+- summary: はじめに 同じ仕事を頼むたびに、前の会話からうまくいった指示をコピーすることがあります。その手順を残す場所として、Claude Codeの記事ではAgent Skillsを紹介しました。続くPluginsの記事では、社内で共有するSkillをプラグインにまとめ、更新を届けるところまで管理する方針を書きました。今回は、その方針をCodex...
+
+### 2. Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram
 - source: e27 Asia Startup and Tech Feed
 - score: `22`
 - published: `2026-09-23T05:30:29+00:00`
 - url: https://e27.co/meta-singapore-police-disrupt-3-7m-scam-linked-assets-across-facebook-and-instagram-20260923/
 - summary: A scam rarely begins with a dramatic breach. More often, it starts with something ordinary: a Facebook page selling discounted skincare, an Instagram post promising easy investment gains, or a message from a group that claims to have found a way to beat the m…
 
-### 2. New features and improvements in Copilot for JetBrains
+### 3. New features and improvements in Copilot for JetBrains
 - source: GitHub Changelog Atom
 - score: `22`
 - published: `2026-09-23T00:34:18+00:00`
 - url: https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains
 - summary: GitHub Copilot for JetBrains 1.18.0 brings AI-assisted tool approvals, more control over agent conversations, and shared skills and instructions for your organization. You can also review plans with the Codex… The post New features and improvements in Copilot…
 
-### 3. Ringg’s AI agents resolve up to 65% of customer calls with OpenAI
+### 4. Ringg’s AI agents resolve up to 65% of customer calls with OpenAI
 - source: OpenAI News RSS
 - score: `20`
 - published: `2026-09-24T12:00:00+00:00`
 - url: https://openai.com/index/ringg
 - summary: Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.
-
-### 4. Sam Altman’s remarks at the United Nations Security Council
-- source: OpenAI News RSS
-- score: `20`
-- published: `2026-09-23T12:00:00+00:00`
-- url: https://openai.com/index/sam-altman-un-security-council-remarks
-- summary: OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.
 
 ### 5. AWS DevOps Agentの全体構造と設定箇所を図解してみた | DevelopersIO
 - source: Hatena Bookmark Hotentry IT

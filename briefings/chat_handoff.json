@@ -1,19 +1,29 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-23T22:30:32+00:00",
+  "generated_at": "2026-09-23T22:40:28+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 84,
-    "displayed_findings": 84,
+    "new_relevant_findings": 1,
+    "today_file_total": 85,
+    "displayed_findings": 85,
     "high": 0,
-    "medium": 23,
+    "medium": 24,
     "observe": 61
   },
   "source_errors_count": 0,
   "top_signals": [
+    {
+      "title": "Codexを使うなら、SkillsとPluginsを押さえておきたい - じゃあ、おうちで学べる",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-23T06:52:04+00:00",
+      "relevance_score": 23,
+      "url": "https://syu-m-5151.hatenablog.com/entry/2026/09/23/123604",
+      "summary": "はじめに 同じ仕事を頼むたびに、前の会話からうまくいった指示をコピーすることがあります。その手順を残す場所として、Claude Codeの記事ではAgent Skillsを紹介しました。続くPluginsの記事では、社内で共有するSkillをプラグインにまとめ、更新を届けるところまで管理する方針を書きました。今回は、その方針をCodex...",
+      "section": "medium"
+    },
     {
       "title": "Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram",
       "source": "e27 Asia Startup and Tech Feed",
@@ -42,16 +52,6 @@
       "relevance_score": 20,
       "url": "https://openai.com/index/ringg",
       "summary": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
-      "section": "medium"
-    },
-    {
-      "title": "Sam Altman’s remarks at the United Nations Security Council",
-      "source": "OpenAI News RSS",
-      "source_type": "rss",
-      "published_at": "2026-09-23T12:00:00+00:00",
-      "relevance_score": 20,
-      "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-      "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council.",
       "section": "medium"
     },
     {
@@ -100,147 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Announcing 20260084 (OT,liquidity providing), for 7 days deadline 09:45” — Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil. Band=extreme, score=40.09.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Announcing 20260084 (OT,liquidity providing), for 7 days deadline 09:45",
-        "url": "http://www.ecb.europa.eu/mopo/implement/omo/html/20260084.en.html",
-        "source": "ECB Open Market Operations and Communication, ECB Press Releases Speeches Interviews",
-        "published_at": "2026-06-18T14:33:45+00:00",
-        "age_days": 97.34,
-        "topics": [
-          "general"
-        ],
-        "dynamics_score": 40.09,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 2,
-        "momentum_delta": 3,
-        "baseline_z_hint": 0.08,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "source breadth +2",
-          "momentum delta +3",
-          "baseline z_hint 0.08",
-          "high terms: rce",
-          "security high-signal: rce",
-          "aging penalty -8.0 for 97.3d old signal"
-        ],
-        "summary": ""
-      },
-      {
-        "title": "OpenTelemetry in the GitHub Copilot app",
-        "url": "https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app",
-        "source": "GitHub Changelog Atom",
-        "published_at": "2026-09-23T02:14:54+00:00",
-        "age_days": 0.85,
-        "topics": [
-          "axiom",
-          "ai"
-        ],
-        "dynamics_score": 34.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce",
-          "security high-signal: rce",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "Understand how Copilot agents perform and interact with models and tools. The GitHub Copilot app now supports OpenTelemetry (OTel) configuration through enterprise-managed settings. OTel is an open source observability framework.… The post OpenTelemetry in the GitHub Copilot app appeared first on The GitHub Blog ."
-      },
-      {
-        "title": "Pinterest and Shopee link up to bring creator-led shopping to Indonesia",
-        "url": "https://e27.co/pinterest-and-shopee-link-up-to-bring-creator-led-shopping-to-indonesia-20260922/",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-23T02:00:57+00:00",
-        "age_days": 0.86,
-        "topics": [
-          "axiom",
-          "ai"
-        ],
-        "dynamics_score": 34.0,
-        "raw_band": "extreme",
-        "dynamic_band": "extreme",
-        "comparative_read": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: rce",
-          "security high-signal: rce",
-          "AXI0M/User-Yps identity hit"
-        ],
-        "summary": "Pinterest and Shopee are linking their creator and shopping ecosystems in Indonesia and Brazil. The partnership shows how e-commerce platforms are trying to get closer to the moment consumers first decide what they want to buy. Under the new affiliate arrangement, eligible Shopee Affiliate creators can connect their S…"
-      },
-      {
-        "title": "[NEU] [UNGEPATCHT] [hoch] GNU Emacs: Schwachstelle ermöglicht Codeausführung",
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3534",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-23T11:39:23+00:00",
-        "age_days": 0.46,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 33.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: code",
-          "security high-signal: code"
-        ],
-        "summary": "Ein lokaler Angreifer kann eine Schwachstelle in GNU Emacs ausnutzen, um beliebigen Programmcode auszuführen."
-      },
-      {
-        "title": "Sam Altman’s remarks at the United Nations Security Council",
-        "url": "https://openai.com/index/sam-altman-un-security-council-remarks",
-        "source": "OpenAI News RSS",
-        "published_at": "2026-09-23T12:00:00+00:00",
-        "age_days": 0.44,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 32.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: security"
-        ],
-        "summary": "OpenAI CEO Sam Altman discusses AI safety, human control, and international cooperation in remarks to the United Nations Security Council."
-      }
-    ]
-  }
+  ]
 }
