@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T14:47:18+00:00",
-  "run_id": "2026-09-23T14:47:18+00:00",
+  "generated_at": "2026-09-23T14:55:40+00:00",
+  "run_id": "2026-09-23T14:55:40+00:00",
   "date": "2026-09-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 66
+      "configured_public_sources_only": 67
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,11 +18,11 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 66,
-    "displayed_findings": 66,
+    "new_relevant_findings": 1,
+    "today_file_total": 67,
+    "displayed_findings": 67,
     "high": 0,
-    "medium": 18,
+    "medium": 19,
     "observe": 48,
     "source_errors": 0
   },
@@ -192,6 +192,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "c89523b6fa537aa9be7e"
+      },
+      {
+        "title": "Two years of OpenAI Academy",
+        "url": "https://openai.com/index/two-years-of-openai-academy",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-09-23T16:00:00+00:00",
+        "fetched_at": "2026-09-23T14:55:05+00:00",
+        "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+        "matched_keywords": [
+          "AI Agents",
+          "AI/KI",
+          "OpenAI"
+        ],
+        "relevance_score": 16,
+        "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); AI Agents (+5.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "dd006893ce710f1231b6"
       },
       {
         "title": "[NEU] [UNGEPATCHT] [hoch] GNU Emacs: Schwachstelle ermöglicht Codeausführung",
@@ -1819,6 +1841,28 @@
       "id": "c89523b6fa537aa9be7e"
     },
     {
+      "title": "Two years of OpenAI Academy",
+      "url": "https://openai.com/index/two-years-of-openai-academy",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-23T16:00:00+00:00",
+      "fetched_at": "2026-09-23T14:55:05+00:00",
+      "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "OpenAI"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); AI Agents (+5.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "dd006893ce710f1231b6"
+    },
+    {
       "title": "[NEU] [UNGEPATCHT] [hoch] GNU Emacs: Schwachstelle ermöglicht Codeausführung",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3534",
       "source": "BSI CERT-Bund Security Advisories",
@@ -3275,7 +3319,30 @@
       "id": "1ff44d8caf52976da618"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "Two years of OpenAI Academy",
+      "url": "https://openai.com/index/two-years-of-openai-academy",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-23T16:00:00+00:00",
+      "fetched_at": "2026-09-23T14:55:05+00:00",
+      "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+      "matched_keywords": [
+        "AI Agents",
+        "AI/KI",
+        "OpenAI"
+      ],
+      "relevance_score": 16,
+      "relevance_reason": "OpenAI (+7.5); AI/KI (+3.0); AI Agents (+5.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "dd006893ce710f1231b6"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
