@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T06:55:54+00:00",
-  "run_id": "2026-09-23T06:55:54+00:00",
+  "generated_at": "2026-09-23T07:10:56+00:00",
+  "run_id": "2026-09-23T07:10:56+00:00",
   "date": "2026-09-23",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 27
+      "configured_public_sources_only": 28
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 27,
-    "displayed_findings": 27,
+    "today_file_total": 28,
+    "displayed_findings": 28,
     "high": 0,
     "medium": 6,
-    "observe": 21,
+    "observe": 22,
     "source_errors": 0
   },
   "sections": {
@@ -464,6 +464,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "b543753201edf35ebe92"
+      },
+      {
+        "title": "トランプ大統領、国連演説で「AI」を「Super Intelligence」に改称すると表明",
+        "url": "https://www.itmedia.co.jp/news/article/2609/23/2000001676/",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-23T02:04:25+00:00",
+        "fetched_at": "2026-09-23T07:10:28+00:00",
+        "summary": "ドナルド・トランプ米大統領は9月22日（現地時間）、米ニューヨークの国連本部で開催中の第81回国連総会の一般討論演説で、人工知能（Artificial Intelligence）を今後「Super Intelligence」（SI）と呼ぶと表明した。米国の全ての文書でこの呼称を使い、他国にも同様の変更を求めていく考えを示した。 トランプ氏は、AI...",
+        "matched_keywords": [
+          "AI/KI",
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "4c4f3e9da66758460d9a"
       },
       {
         "title": "Pinterest and Shopee link up to bring creator-led shopping to Indonesia",
@@ -1151,6 +1173,28 @@
       "id": "b543753201edf35ebe92"
     },
     {
+      "title": "トランプ大統領、国連演説で「AI」を「Super Intelligence」に改称すると表明",
+      "url": "https://www.itmedia.co.jp/news/article/2609/23/2000001676/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-23T02:04:25+00:00",
+      "fetched_at": "2026-09-23T07:10:28+00:00",
+      "summary": "ドナルド・トランプ米大統領は9月22日（現地時間）、米ニューヨークの国連本部で開催中の第81回国連総会の一般討論演説で、人工知能（Artificial Intelligence）を今後「Super Intelligence」（SI）と呼ぶと表明した。米国の全ての文書でこの呼称を使い、他国にも同様の変更を求めていく考えを示した。 トランプ氏は、AI...",
+      "matched_keywords": [
+        "AI/KI",
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "4c4f3e9da66758460d9a"
+    },
+    {
       "title": "Pinterest and Shopee link up to bring creator-led shopping to Indonesia",
       "url": "https://e27.co/pinterest-and-shopee-link-up-to-bring-creator-led-shopping-to-indonesia-20260922/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -1401,24 +1445,26 @@
   ],
   "new_findings": [
     {
-      "title": "Cyberangriffe auf F5 BIG-IP, Check Point Security und Arista VeloCloud",
-      "url": "https://www.heise.de/news/Cyberangriffe-auf-F5-BIG-IP-Check-Point-Security-und-Arista-VeloCloud-11462590.html",
-      "source": "heise Security Alerts",
+      "title": "トランプ大統領、国連演説で「AI」を「Super Intelligence」に改称すると表明",
+      "url": "https://www.itmedia.co.jp/news/article/2609/23/2000001676/",
+      "source": "Hatena Bookmark Hotentry IT",
       "source_type": "rss",
-      "published_at": "2026-09-23T06:36:00.000+00:00",
-      "fetched_at": "2026-09-23T06:55:23+00:00",
-      "summary": "Aktuell laufen Angriffe auf Sicherheitslücken in F5 BIG-IP APM, Check-Point-Produkte und Arista VeloCloud Orchestrator.",
+      "published_at": "2026-09-23T02:04:25+00:00",
+      "fetched_at": "2026-09-23T07:10:28+00:00",
+      "summary": "ドナルド・トランプ米大統領は9月22日（現地時間）、米ニューヨークの国連本部で開催中の第81回国連総会の一般討論演説で、人工知能（Artificial Intelligence）を今後「Super Intelligence」（SI）と呼ぶと表明した。米国の全ての文書でこの呼称を使い、他国にも同様の変更を求めていく考えを示した。 トランプ氏は、AI...",
       "matched_keywords": [
-        "Security"
+        "AI/KI",
+        "Hatena",
+        "hotentry"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "Security (+7.5); recent (+1.0)",
+      "relevance_score": 9,
+      "relevance_reason": "AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "4fd08bb2c0342ca14b7f"
+      "id": "4c4f3e9da66758460d9a"
     }
   ],
   "source_errors": [],

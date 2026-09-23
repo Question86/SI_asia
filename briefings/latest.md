@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-23T06:55:54+00:00_
+_Generiert: 2026-09-23T07:10:56+00:00_
 
 ## Kurzlage
 
-27 neue relevante Treffer. Stärkstes Signal: „Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
+28 neue relevante Treffer. Stärkstes Signal: „Meta, Singapore Police disrupt 3.7M scam-linked assets across Facebook and Instagram“ aus e27 Asia Startup and Tech Feed (Score 22, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -201,6 +201,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Open Source (+3.0); GitHub (+2.5); Copilot (+2.5); recent (+1.0)
   - Kurz: Understand how Copilot agents perform and interact with models and tools. The GitHub Copilot app now supports OpenTelemetry (OTel) configuration through enterprise-managed settings. OTel is an open source observability framework.… The post OpenTelemetry in the GitHub Copilot app appeared first on The GitHub Blog .
   - Handlung: Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.
+- **トランプ大統領、国連演説で「AI」を「Super Intelligence」に改称すると表明** — Score 9, observation — [Quelle](https://www.itmedia.co.jp/news/article/2609/23/2000001676/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-23T02:04:25+00:00`, fetched `2026-09-23T07:10:28+00:00`
+  - Treffer: AI/KI, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: ドナルド・トランプ米大統領は9月22日（現地時間）、米ニューヨークの国連本部で開催中の第81回国連総会の一般討論演説で、人工知能（Artificial Intelligence）を今後「Super Intelligence」（SI）と呼ぶと表明した。米国の全ての文書でこの呼称を使い、他国にも同様の変更を求めていく考えを示した。 トランプ氏は、AI...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Cyberangriffe auf F5 BIG-IP, Check Point Security und Arista VeloCloud** — Score 8, observation — [Quelle](https://www.heise.de/news/Cyberangriffe-auf-F5-BIG-IP-Check-Point-Security-und-Arista-VeloCloud-11462590.html)
   - Quelle: heise Security Alerts / `rss`
   - Zeit: published `2026-09-23T06:36:00.000+00:00`, fetched `2026-09-23T06:55:23+00:00`
@@ -218,15 +227,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
   - Kurz: Macでの作業をMarkdownで自動記録してAIにまとめさせるAmbient Contextの紹介です。 GitHub - dragthelake/ambient-context: A menu bar app that keeps a written record of what you worked on. 機能 Tauri製のmacOSメニューバーアプリで、フォーカス中のウィンドウのテキストを数秒おきに拾ってMarkdownに蓄積します...
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Claude Opus 5.5登場 Fable 5.1並みの性能をOpus 5より40%安価に** — Score 5, observation — [Quelle](https://www.watch.impress.co.jp/docs/news/2142619.html)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-22T18:06:19+00:00`, fetched `2026-09-23T00:07:43+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: Claude Opus 5.5登場 Fable 5.1並みの性能をOpus 5より40%安価に
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **mvt-project/mvt** — Score 5, observation — [Quelle](https://github.com/mvt-project/mvt)
   - Quelle: GitHub Trending RSS All Languages Daily / `rss`
