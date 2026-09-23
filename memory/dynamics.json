@@ -1,29 +1,57 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-23T02:22:51Z",
+  "generated_at": "2026-09-23T02:44:14Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 16,
+    "dynamics": 24,
     "bands": {
-      "extreme": 1,
-      "strong": 3,
-      "watch": 2,
-      "quiet": 10
+      "extreme": 2,
+      "strong": 5,
+      "watch": 5,
+      "quiet": 12
     },
     "bands_after_gate_recheck": {
-      "strong": 4,
-      "watch": 2,
-      "quiet": 10
+      "strong": 7,
+      "watch": 5,
+      "quiet": 12
     }
   },
   "top_dynamics": [
+    {
+      "title": "OpenTelemetry in the GitHub Copilot app",
+      "url": "https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app",
+      "source": "GitHub Changelog Atom",
+      "published_at": "2026-09-23T02:14:54+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit",
+        "extreme gate recheck: insufficient independent/current evidence"
+      ],
+      "summary": "Understand how Copilot agents perform and interact with models and tools. The GitHub Copilot app now supports OpenTelemetry (OTel) configuration through enterprise-managed settings. OTel is an open source observability framework.… The post OpenTelemetry in the GitHub Copilot app appeared first on The GitHub Blog ."
+    },
     {
       "title": "Pinterest and Shopee link up to bring creator-led shopping to Indonesia",
       "url": "https://e27.co/pinterest-and-shopee-link-up-to-bring-creator-led-shopping-to-indonesia-20260922/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T02:00:57+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
@@ -51,7 +79,7 @@
       "url": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-09-23T01:21:48+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -74,34 +102,10 @@
       "summary": ""
     },
     {
-      "title": "MSME development doesn’t need invention, only connection",
-      "url": "https://e27.co/msme-development-doesnt-need-invention-only-connection-20260920/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-23T02:05:39+00:00",
-      "age_days": 0.01,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 24.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Pinterest and Shopee link up to bring creator-led shopping to Indonesia",
-      "url": "https://e27.co/pinterest-and-shopee-link-up-to-bring-creator-led-shopping-to-indonesia-20260922/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-23T02:05:39+00:00",
+      "title": "OpenTelemetry in the GitHub Copilot app",
+      "url": "https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app",
+      "source": "GitHub Changelog Atom",
+      "published_at": "2026-09-23T02:32:45+00:00",
       "age_days": 0.01,
       "topics": [],
       "dynamics_score": 23.5,
@@ -122,11 +126,111 @@
       "summary": ""
     },
     {
+      "title": "M 4.5 - 63 km NE of Ruteng, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx08",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-23T02:23:16.040+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "disaster"
+      ],
+      "dynamics_score": 23.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "early terms: earthquake",
+        "high terms: 10"
+      ],
+      "summary": "Time 2026-09-23 02:02:43 UTC 2026-09-23 02:02:43 UTC at epicenter Location 8.145°S 120.808°E Depth 10.00 km (6.21 mi)"
+    },
+    {
+      "title": "MSME development doesn’t need invention, only connection",
+      "url": "https://e27.co/msme-development-doesnt-need-invention-only-connection-20260920/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-23T02:05:39+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 21.5,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Pinterest and Shopee link up to bring creator-led shopping to Indonesia",
+      "url": "https://e27.co/pinterest-and-shopee-link-up-to-bring-creator-led-shopping-to-indonesia-20260922/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-23T02:05:39+00:00",
+      "age_days": 0.03,
+      "topics": [],
+      "dynamics_score": 21.0,
+      "raw_band": "strong",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1",
+        "AXI0M/User-Yps identity hit",
+        "identity recheck: no AXI0M/User-Yps phrase hit"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "M 4.5 - 63 km NE of Ruteng, Indonesia",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx08",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "published_at": "2026-09-05T07:22:32+00:00",
+      "age_days": 17.81,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 19.9,
+      "raw_band": "krass",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 2.9,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 2.90",
+        "krass gate: single-source non-official/non-identity signal capped",
+        "stale single-source cap: max watch after 14d without fresh resonance"
+      ],
+      "summary": ""
+    },
+    {
       "title": "New features and improvements in Copilot for JetBrains",
       "url": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
       "source": "GitHub Changelog Atom",
       "published_at": "2026-09-23T00:34:18+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "ai"
       ],
@@ -152,22 +256,22 @@
       "url": "https://dev.classmethod.jp/articles/aws-devops-agent-Illustration/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-23T01:40:09+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 17.0,
+      "dynamics_score": 14.0,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +2",
+        "momentum delta +3",
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],
@@ -178,25 +282,49 @@
       "url": "https://e27.co/containerisation-explains-why-ai-investment-may-continue-even-without-returns-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T01:40:09+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 11.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "dynamics_score": 14.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 2,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +2",
+        "momentum delta +3",
         "high terms: container",
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Is fast fashion losing its fit?",
+      "url": "https://e27.co/is-fast-fashion-losing-its-fit-20260920/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-23T02:32:45+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 12.5,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
       ],
       "summary": ""
     },
@@ -205,7 +333,7 @@
       "url": "https://e27.co/why-singapore-indonesia-and-vietnam-are-losing-the-ai-race-they-think-they-are-winning-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T01:21:48+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "ai"
       ],
@@ -227,11 +355,36 @@
       "summary": ""
     },
     {
+      "title": "一日の作業をMarkdownに自動記録するAmbient Contextが良さげかも | kawarimidoll.com",
+      "url": "https://kawarimidoll.com/posts/202609222/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T09:22:22+00:00",
+      "age_days": 95.72,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 10.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "aging penalty -8.0 for 95.7d old signal"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Claude Opus 5.5登場 Fable 5.1並みの性能をOpus 5より40%安価に",
       "url": "https://www.watch.impress.co.jp/docs/news/2142619.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-23T00:08:20+00:00",
-      "age_days": 0.09,
+      "age_days": 0.11,
       "topics": [
         "ai"
       ],
@@ -257,7 +410,7 @@
       "url": "https://qiita.com/kikuziro/items/2be9091b328d8b844640",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 96.02,
+      "age_days": 96.03,
       "topics": [
         "general"
       ],
@@ -282,7 +435,7 @@
       "url": "https://dev.classmethod.jp/articles/aws-devops-agent-Illustration/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-22T05:17:50+00:00",
-      "age_days": 0.88,
+      "age_days": 0.89,
       "topics": [
         "ai"
       ],
@@ -307,7 +460,7 @@
       "url": "https://e27.co/containerisation-explains-why-ai-investment-may-continue-even-without-returns-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T01:30:49+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -333,7 +486,7 @@
       "url": "https://e27.co/msme-development-doesnt-need-invention-only-connection-20260920/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T02:00:53+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "ai"
       ],
@@ -354,11 +507,37 @@
       "summary": "Capital, training and compliance support for small businesses already exist. What is missing is a system that connects them around the same business journey. Every day, we are adopting new technology, learning new skills and starting new businesses. Yet the more I observe this progress, the more it looks like we are c…"
     },
     {
+      "title": "Is fast fashion losing its fit?",
+      "url": "https://e27.co/is-fast-fashion-losing-its-fit-20260920/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-23T02:30:48+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 3.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "high terms: 10",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "In 2022, Shein was valued by private investors at around US$100 billion, making it one of the world’s most valuable fashion companies. This month, it went public in Hong Kong at a valuation of around US$27 billion — roughly 70 per cent below that 2022 peak. Its growth has also slowed: from 19 per cent […] The post Is…"
+    },
+    {
       "title": "Why Singapore, Indonesia, and Vietnam are losing the AI race they think they are winning",
       "url": "https://e27.co/why-singapore-indonesia-and-vietnam-are-losing-the-ai-race-they-think-they-are-winning-20260916/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-23T01:00:41+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -379,11 +558,36 @@
       "summary": "In January 2026, Singapore’s Minister for Digital Development announced an additional SG$1 billion (US$786 million) over five years for the National AI Research and Development Plan, on top of the SG$500 million (US$393 million) already committed to high-performance compute under Budget 2024. Indonesia is pursuing 9 m…"
     },
     {
+      "title": "一日の作業をMarkdownに自動記録するAmbient Contextが良さげかも | kawarimidoll.com",
+      "url": "https://kawarimidoll.com/posts/202609222/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-22T13:23:51+00:00",
+      "age_days": 0.56,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "Macでの作業をMarkdownで自動記録してAIにまとめさせるAmbient Contextの紹介です。 GitHub - dragthelake/ambient-context: A menu bar app that keeps a written record of what you worked on. 機能 Tauri製のmacOSメニューバーアプリで、フォーカス中のウィンドウのテキストを数秒おきに拾ってMarkdownに蓄積します..."
+    },
+    {
       "title": "Claude Opus 5.5登場 Fable 5.1並みの性能をOpus 5より40%安価に",
       "url": "https://www.watch.impress.co.jp/docs/news/2142619.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-22T18:06:19+00:00",
-      "age_days": 0.34,
+      "age_days": 0.36,
       "topics": [
         "ai"
       ],
@@ -408,7 +612,7 @@
       "url": "https://qiita.com/kikuziro/items/2be9091b328d8b844640",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-22T00:46:01+00:00",
-      "age_days": 1.07,
+      "age_days": 1.08,
       "topics": [
         "ai"
       ],
@@ -429,5 +633,5 @@
       "summary": "Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article?"
     }
   ],
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Pinterest and Shopee link up to bring creator-led shopping to Indonesia” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “OpenTelemetry in the GitHub Copilot app” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=24.9."
 }

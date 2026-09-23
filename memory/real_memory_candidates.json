@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.real_memory_candidates",
-  "generated_at": "2026-09-23T02:22:51Z",
+  "generated_at": "2026-09-23T02:44:14Z",
   "scope_note": "Repo-local memory candidates only; no private data and no claim of ChatGPT persistent memory.",
   "keep": [
     {
@@ -23,12 +23,27 @@
   ],
   "current_dynamic_memory_candidates": [
     {
+      "title": "OpenTelemetry in the GitHub Copilot app",
+      "band": "extreme",
+      "reason": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil."
+    },
+    {
       "title": "Pinterest and Shopee link up to bring creator-led shopping to Indonesia",
       "band": "extreme",
       "reason": "Die Dynamik ist verglichen mit dem normalen Speicherbild außergewöhnlich steil."
     },
     {
       "title": "New features and improvements in Copilot for JetBrains",
+      "band": "strong",
+      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
+    },
+    {
+      "title": "OpenTelemetry in the GitHub Copilot app",
+      "band": "strong",
+      "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
+    },
+    {
+      "title": "M 4.5 - 63 km NE of Ruteng, Indonesia",
       "band": "strong",
       "reason": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung."
     },
