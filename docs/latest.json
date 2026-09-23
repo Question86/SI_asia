@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-09-23T19:12:05+00:00",
-  "run_id": "2026-09-23T19:12:05+00:00",
+  "generated_at": "2026-09-23T19:33:22+00:00",
+  "run_id": "2026-09-23T19:33:22+00:00",
   "date": "2026-09-23",
-  "status": "warning",
+  "status": "normal",
   "mode": "hardened_monitor",
   "scope": "configured_public_sources_only",
   "coverage": {
-    "coverage_confidence": "limited",
+    "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 77
+      "configured_public_sources_only": 79
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,13 +18,13 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 77,
-    "displayed_findings": 77,
+    "new_relevant_findings": 2,
+    "today_file_total": 79,
+    "displayed_findings": 79,
     "high": 0,
-    "medium": 21,
-    "observe": 56,
-    "source_errors": 2
+    "medium": 22,
+    "observe": 57,
+    "source_errors": 0
   },
   "sections": {
     "high": [],
@@ -428,6 +428,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "8cef63ba4228b5e917e9"
+      },
+      {
+        "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+        "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-09-23T12:00:00+00:00",
+        "fetched_at": "2026-09-23T19:32:52+00:00",
+        "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+        "matched_keywords": [
+          "Markets/Capital Structure",
+          "OpenAI"
+        ],
+        "relevance_score": 14,
+        "relevance_reason": "OpenAI (+7.5); Markets/Capital Structure (+6.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a0495f7476b73a959218"
       },
       {
         "title": "[NEU] [mittel] FreeRDP: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
@@ -1297,6 +1318,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "8a7f19a51a8abf301cd6"
+      },
+      {
+        "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+        "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+        "source": "OpenAI News RSS",
+        "source_type": "rss",
+        "published_at": "2026-09-23T12:00:00+00:00",
+        "fetched_at": "2026-09-23T19:32:52+00:00",
+        "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+        "matched_keywords": [
+          "OpenAI"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "6da6158093a031c48fe4"
       },
       {
         "title": "Cyberangriffe auf F5 BIG-IP, Check Point Security und Arista VeloCloud",
@@ -2358,6 +2399,27 @@
       "id": "8cef63ba4228b5e917e9"
     },
     {
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-23T12:00:00+00:00",
+      "fetched_at": "2026-09-23T19:32:52+00:00",
+      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+      "matched_keywords": [
+        "Markets/Capital Structure",
+        "OpenAI"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "OpenAI (+7.5); Markets/Capital Structure (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a0495f7476b73a959218"
+    },
+    {
       "title": "[NEU] [mittel] FreeRDP: Mehrere Schwachstellen ermöglichen nicht spezifizierten Angriff",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3535",
       "source": "BSI CERT-Bund Security Advisories",
@@ -3225,6 +3287,26 @@
       "id": "8a7f19a51a8abf301cd6"
     },
     {
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "source": "OpenAI News RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-23T12:00:00+00:00",
+      "fetched_at": "2026-09-23T19:32:52+00:00",
+      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+      "matched_keywords": [
+        "OpenAI"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6da6158093a031c48fe4"
+    },
+    {
       "title": "Cyberangriffe auf F5 BIG-IP, Check Point Security und Arista VeloCloud",
       "url": "https://www.heise.de/news/Cyberangriffe-auf-F5-BIG-IP-Check-Point-Security-und-Arista-VeloCloud-11462590.html",
       "source": "heise Security Alerts",
@@ -3881,21 +3963,50 @@
       "id": "1ff44d8caf52976da618"
     }
   ],
-  "new_findings": [],
-  "source_errors": [
+  "new_findings": [
     {
-      "source_id": "openai_news_rss",
-      "source_name": "OpenAI News RSS",
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "source": "OpenAI News RSS",
       "source_type": "rss",
-      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+      "published_at": "2026-09-23T12:00:00+00:00",
+      "fetched_at": "2026-09-23T19:32:52+00:00",
+      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+      "matched_keywords": [
+        "Markets/Capital Structure",
+        "OpenAI"
+      ],
+      "relevance_score": 14,
+      "relevance_reason": "OpenAI (+7.5); Markets/Capital Structure (+6.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a0495f7476b73a959218"
     },
     {
-      "source_id": "jpcert_english_alerts",
-      "source_name": "JPCERT/CC English Alerts",
+      "title": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "source": "OpenAI News RSS",
       "source_type": "rss",
-      "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
+      "published_at": "2026-09-23T12:00:00+00:00",
+      "fetched_at": "2026-09-23T19:32:52+00:00",
+      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+      "matched_keywords": [
+        "OpenAI"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "OpenAI (+7.5); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "6da6158093a031c48fe4"
     }
   ],
+  "source_errors": [],
   "quality_gate": {
     "thresholds": {
       "high": 24,
