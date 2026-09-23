@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-23T18:20:36+00:00",
-  "today_file_total": 75,
+  "generated_at": "2026-09-23T18:37:56+00:00",
+  "today_file_total": 77,
   "current_clusters": [
     {
       "key": "domain:wid.cert-bund.de",
@@ -152,6 +152,29 @@
       "momentum_delta": 0,
       "momentum_status": "stable",
       "network_score": 20.1,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
+    },
+    {
+      "key": "title:claude-code-agents-claude",
+      "title": "Claude Codeが「AGENTS.md」に対応。CLAUDE.mdが存在しない場合、自動的に読み込み",
+      "sources": [
+        "Hatena Bookmark Hotentry IT"
+      ],
+      "source_classes": [
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.publickey1.jp/blog/26/claude_codeagentsmdclaudemd.html"
+      ],
+      "finding_count": 1,
+      "max_score": 14,
+      "credibility_total": 1.05,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 19.1,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
@@ -457,29 +480,6 @@
       ],
       "urls": [
         "https://www.technologyreview.jp/s/391065/what-must-happen-for-ais-trillion-dollar-gamble-to-pay-off/"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 12.1,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten."
-    },
-    {
-      "key": "title:southeast-asia-gains-ground-seedstars-disability-inclusion-accelerator",
-      "title": "Southeast Asia gains ground in Seedstars’s disability inclusion accelerator",
-      "sources": [
-        "e27 Asia Startup and Tech Feed"
-      ],
-      "source_classes": [
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://e27.co/southeast-asia-gains-ground-in-seedstarss-disability-inclusion-accelerator-20260923/"
       ],
       "finding_count": 1,
       "max_score": 10,
