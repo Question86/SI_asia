@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-24T03:59:00+00:00_
+_Generated: 2026-09-24T04:24:57+00:00_
 
 ## Status
 - status: `normal`
-- findings: `16`
+- findings: `20`
 
 ## Top Signals
 
@@ -29,39 +29,39 @@ _Generated: 2026-09-24T03:59:00+00:00_
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx8q
 - summary: Time 2026-09-24 03:30:26 UTC 2026-09-24 03:30:26 UTC at epicenter Location 8.330°S 119.367°E Depth 10.00 km (6.21 mi)
 
-### 4. Apache Tomcatにおける複数の脆弱性（2026年9月23日）
+### 4. 三菱電機製GX Works3およびモーション制御設定における認証回避の脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
-- published: `2026-09-24T10:30:40+09:00`
-- url: https://jvn.jp/vu/JVNVU94625787/
-- summary: The Apache Software Foundationから、Apache Tomcatの15件の脆弱性に対してアドバイザリが公開されました。
+- published: `2026-09-24T13:00:00+09:00`
+- url: https://jvn.jp/vu/JVNVU99700314/
+- summary: 三菱電機株式会社が提供するGX Works3およびモーション制御設定のブロックパスワード設定機能には、認証回避の脆弱性が存在します。
 
-### 5. AI won’t just replace jobs. It will redesign how companies work
+### 5. Why scaling across Southeast Asia means pricing in the cable you never see
+- source: e27 Asia Startup and Tech Feed
+- score: `10`
+- published: `2026-09-24T04:00:17+00:00`
+- url: https://e27.co/why-scaling-across-southeast-asia-means-pricing-in-the-cable-you-never-see-20260921/
+- summary: In the last week of August, Viettel’s network engineers were doing something most of their customers never saw. They were moving traffic in real time, pushing 800 gigabits per second onto one undersea cable, another 300 onto a second, then routing whatever wa…
+
+### 6. AI won’t just replace jobs. It will redesign how companies work
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-09-24T01:30:18+00:00`
 - url: https://e27.co/ai-wont-just-replace-jobs-it-will-redesign-how-companies-work-20260921/
 - summary: For years, one question has dominated the conversation around artificial intelligence: How many jobs will AI replace? After working with enterprises in Southeast Asia to deploy AI into real business processes, I increasingly think we are asking the wrong ques…
 
-### 6. The future of healthcare AI isn’t more data. It’s better context
+### 7. Meta、重さが「Quest 3の5分の1」の超軽量VRグラスを27年春に日本発売 Ray-Ban(Gen 3)は24日発売
+- source: Hatena Bookmark Hotentry IT
+- score: `10`
+- published: `2026-09-24T00:18:43+00:00`
+- url: https://japan.cnet.com/article/35252874/
+- summary: 「映画館の画質を100gのグラスで」——MetaがQuest 11年の集大成として発表した「Meta VR Glasses」は、マイクロOLEDディスプレイとIMAX Enhanced認証を搭載しながら、ストラップもコントローラーも持たない。Quest向けゲームはそのまま動き、2027年春に1299.99ドルで日本を含む13カ国で発売する。
+
+### 8. The future of healthcare AI isn’t more data. It’s better context
 - source: e27 Asia Startup and Tech Feed
 - score: `8`
 - published: `2026-09-24T02:00:34+00:00`
 - url: https://e27.co/the-future-of-healthcare-ai-isnt-more-data-its-better-context-20260921/
 - summary: For centuries, doctors have treated patients without having immediate access to an encyclopaedia of medical knowledge. A physician examining a patient did not need to read every medical textbook before deciding what to do. They observed symptoms, considered t…
-
-### 7. SREとは何か、AWSでどう始めるか
-- source: Hatena Bookmark Hotentry IT
-- score: `8`
-- published: `2026-09-23T13:46:19+00:00`
-- url: https://speakerdeck.com/kokitamura/sre-toha-nani-ka-aws-de-dou-hajimeru-ka
-- summary: 銀行勘定系システムにおける開発プロセス刷新×AIによる環境モダナイゼーション / Development Process Transformation and AI-Driven Environment Modernization
-
-### 8. Asian investors aren’t choosing between crypto and TradFi anymore
-- source: e27 Asia Startup and Tech Feed
-- score: `7`
-- published: `2026-09-24T03:30:43+00:00`
-- url: https://e27.co/asian-investors-arent-choosing-between-crypto-and-tradfi-anymore-20260923/
-- summary: Gold has been a store of wealth across Asia for generations, yet access through traditional financial markets still carries familiar friction. Investors often need dedicated brokerage accounts, fixed trading windows and capital separated from money held elsew…
 
 END OF DOCUMENT

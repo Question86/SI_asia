@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-24T03:59:00+00:00_
+_Generiert: 2026-09-24T04:24:57+00:00_
 
 ## Kurzlage
 
-16 neue relevante Treffer. Stärkstes Signal: „オーストラリア首相「OpenAIのAIが国民健保サイトに侵入」と公表 - 日本経済新聞“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
+20 neue relevante Treffer. Stärkstes Signal: „オーストラリア首相「OpenAIのAIが国民健保サイトに侵入」と公表 - 日本経済新聞“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -104,6 +104,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region southeast_asia: Indonesia (+2.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-24 03:30:26 UTC 2026-09-24 03:30:26 UTC at epicenter Location 8.330°S 119.367°E Depth 10.00 km (6.21 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **三菱電機製GX Works3およびモーション制御設定における認証回避の脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU99700314/)
+  - Quelle: JVN Japan Vulnerability Notes / `rss`
+  - Zeit: published `2026-09-24T13:00:00+09:00`, fetched `2026-09-24T04:24:29+00:00`
+  - Treffer: APAC Trend Radar, JVN, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 三菱電機株式会社が提供するGX Works3およびモーション制御設定のブロックパスワード設定機能には、認証回避の脆弱性が存在します。
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Apache Tomcatにおける複数の脆弱性（2026年9月23日）** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU94625787/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-09-24T10:30:40+09:00`, fetched `2026-09-24T01:39:21+00:00`
@@ -113,18 +122,18 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: The Apache Software Foundationから、Apache Tomcatの15件の脆弱性に対してアドバイザリが公開されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Imprivata製Enterprise Access ManagementにおけるRSA鍵ペアを更新できない脆弱性** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU92710088/)
-  - Quelle: JVN Japan Vulnerability Notes / `rss`
-  - Zeit: published `2026-09-24T10:30:30+09:00`, fetched `2026-09-24T01:39:21+00:00`
-  - Treffer: APAC Trend Radar, JVN, Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: CERT/CCから本件に関するアドバイザリが公表されました。
-  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 
 ## Nur beobachten
 
+- **Why scaling across Southeast Asia means pricing in the cable you never see** — Score 10, observation — [Quelle](https://e27.co/why-scaling-across-southeast-asia-means-pricing-in-the-cable-you-never-see-20260921/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-24T04:00:17+00:00`, fetched `2026-09-24T04:24:29+00:00`
+  - Treffer: APAC Trend Radar, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); financial-market signal undersea cable (+2.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: In the last week of August, Viettel’s network engineers were doing something most of their customers never saw. They were moving traffic in real time, pushing 800 gigabits per second onto one undersea cable, another 300 onto a second, then routing whatever was left over a terrestrial fibre line that runs through Laos into Singapore. […] The post Why scaling across Southeast Asia means pricing in the cable you never…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **AI won’t just replace jobs. It will redesign how companies work** — Score 10, observation — [Quelle](https://e27.co/ai-wont-just-replace-jobs-it-will-redesign-how-companies-work-20260921/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-24T01:30:18+00:00`, fetched `2026-09-24T01:39:21+00:00`
@@ -133,6 +142,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0)
   - Kurz: For years, one question has dominated the conversation around artificial intelligence: How many jobs will AI replace? After working with enterprises in Southeast Asia to deploy AI into real business processes, I increasingly think we are asking the wrong question. The more important question is: How much more can an organisation accomplish when AI becomes […] The post AI won’t just replace jobs. It will redesign how…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Meta、重さが「Quest 3の5分の1」の超軽量VRグラスを27年春に日本発売 Ray-Ban(Gen 3)は24日発売** — Score 10, observation — [Quelle](https://japan.cnet.com/article/35252874/)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-24T00:18:43+00:00`, fetched `2026-09-24T04:24:29+00:00`
+  - Treffer: APAC Trend Radar, Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
+  - Kurz: 「映画館の画質を100gのグラスで」——MetaがQuest 11年の集大成として発表した「Meta VR Glasses」は、マイクロOLEDディスプレイとIMAX Enhanced認証を搭載しながら、ストラップもコントローラーも持たない。Quest向けゲームはそのまま動き、2027年春に1299.99ドルで日本を含む13カ国で発売する。
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **The future of healthcare AI isn’t more data. It’s better context** — Score 8, observation — [Quelle](https://e27.co/the-future-of-healthcare-ai-isnt-more-data-its-better-context-20260921/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
@@ -152,15 +170,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 銀行勘定系システムにおける開発プロセス刷新×AIによる環境モダナイゼーション / Development Process Transformation and AI-Driven Environment Modernization
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Asian investors aren’t choosing between crypto and TradFi anymore** — Score 7, observation — [Quelle](https://e27.co/asian-investors-arent-choosing-between-crypto-and-tradfi-anymore-20260923/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-24T03:30:43+00:00`, fetched `2026-09-24T03:40:30+00:00`
-  - Treffer: APAC Trend Radar, Watchgraph:capitals_power_centers
-  - Watchgraph: capitals_power_centers
-  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
-  - Kurz: Gold has been a store of wealth across Asia for generations, yet access through traditional financial markets still carries familiar friction. Investors often need dedicated brokerage accounts, fixed trading windows and capital separated from money held elsewhere. What is changing is not what Asian investors want to own. It is how they access it. A […] The post Asian investors aren’t choosing between crypto and Trad…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Metaが軽量「VRグラス」来春発売。IMAX見られてPCもつながる製品を体験【西田宗千佳のRandomTracking】** — Score 5, observation — [Quelle](https://av.watch.impress.co.jp/docs/series/rt/2142663.html)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-24T00:28:37+00:00`, fetched `2026-09-24T02:23:12+00:00`
@@ -169,15 +178,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Metaが軽量「VRグラス」来春発売。IMAX見られてPCもつながる製品を体験【西田宗千佳のRandomTracking】
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **グーグルマップが遅い経路を表示してくるときに試したいこと - ねじまき日記** — Score 5, observation — [Quelle](https://nejimakinikki.hatenablog.com/entry/google-maps-ecomode-off-route)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-22T14:50:03+00:00`, fetched `2026-09-24T01:39:21+00:00`
-  - Treffer: Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: Google Mapsのエコモードをオフにする 最近、グーグルマップの経路表示が変だな、と思う方いませんか？？ 5分短縮するために1200円ぐらい高速料金かかる道を表示してきたり、 そうかと想えば、 普通なら15分でイケるところを、燃費のためかどうかしらないですけど、 18分で遠回りな道を表示するようになったり。 Reddit...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

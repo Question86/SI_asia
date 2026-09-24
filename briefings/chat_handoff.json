@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-24T03:59:00+00:00",
+  "generated_at": "2026-09-24T04:24:57+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 1,
-    "today_file_total": 16,
-    "displayed_findings": 16,
+    "new_relevant_findings": 4,
+    "today_file_total": 20,
+    "displayed_findings": 20,
     "high": 0,
-    "medium": 7,
-    "observe": 9
+    "medium": 8,
+    "observe": 12
   },
   "source_errors_count": 0,
   "top_signals": [
@@ -45,14 +45,24 @@
       "section": "medium"
     },
     {
-      "title": "Apache Tomcatにおける複数の脆弱性（2026年9月23日）",
+      "title": "三菱電機製GX Works3およびモーション制御設定における認証回避の脆弱性",
       "source": "JVN Japan Vulnerability Notes",
       "source_type": "rss",
-      "published_at": "2026-09-24T10:30:40+09:00",
+      "published_at": "2026-09-24T13:00:00+09:00",
       "relevance_score": 14,
-      "url": "https://jvn.jp/vu/JVNVU94625787/",
-      "summary": "The Apache Software Foundationから、Apache Tomcatの15件の脆弱性に対してアドバイザリが公開されました。",
+      "url": "https://jvn.jp/vu/JVNVU99700314/",
+      "summary": "三菱電機株式会社が提供するGX Works3およびモーション制御設定のブロックパスワード設定機能には、認証回避の脆弱性が存在します。",
       "section": "medium"
+    },
+    {
+      "title": "Why scaling across Southeast Asia means pricing in the cable you never see",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-24T04:00:17+00:00",
+      "relevance_score": 10,
+      "url": "https://e27.co/why-scaling-across-southeast-asia-means-pricing-in-the-cable-you-never-see-20260921/",
+      "summary": "In the last week of August, Viettel’s network engineers were doing something most of their customers never saw. They were moving traffic in real time, pushing 800 gigabits per second onto one undersea cable, another 300 onto a second, then routing whatever wa…",
+      "section": "observe"
     },
     {
       "title": "AI won’t just replace jobs. It will redesign how companies work",
@@ -65,6 +75,16 @@
       "section": "observe"
     },
     {
+      "title": "Meta、重さが「Quest 3の5分の1」の超軽量VRグラスを27年春に日本発売 Ray-Ban(Gen 3)は24日発売",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-24T00:18:43+00:00",
+      "relevance_score": 10,
+      "url": "https://japan.cnet.com/article/35252874/",
+      "summary": "「映画館の画質を100gのグラスで」——MetaがQuest 11年の集大成として発表した「Meta VR Glasses」は、マイクロOLEDディスプレイとIMAX Enhanced認証を搭載しながら、ストラップもコントローラーも持たない。Quest向けゲームはそのまま動き、2027年春に1299.99ドルで日本を含む13カ国で発売する。",
+      "section": "observe"
+    },
+    {
       "title": "The future of healthcare AI isn’t more data. It’s better context",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
@@ -73,26 +93,6 @@
       "url": "https://e27.co/the-future-of-healthcare-ai-isnt-more-data-its-better-context-20260921/",
       "summary": "For centuries, doctors have treated patients without having immediate access to an encyclopaedia of medical knowledge. A physician examining a patient did not need to read every medical textbook before deciding what to do. They observed symptoms, considered t…",
       "section": "observe"
-    },
-    {
-      "title": "SREとは何か、AWSでどう始めるか",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-23T13:46:19+00:00",
-      "relevance_score": 8,
-      "url": "https://speakerdeck.com/kokitamura/sre-toha-nani-ka-aws-de-dou-hajimeru-ka",
-      "summary": "銀行勘定系システムにおける開発プロセス刷新×AIによる環境モダナイゼーション / Development Process Transformation and AI-Driven Environment Modernization",
-      "section": "observe"
-    },
-    {
-      "title": "Asian investors aren’t choosing between crypto and TradFi anymore",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-24T03:30:43+00:00",
-      "relevance_score": 7,
-      "url": "https://e27.co/asian-investors-arent-choosing-between-crypto-and-tradfi-anymore-20260923/",
-      "summary": "Gold has been a store of wealth across Asia for generations, yet access through traditional financial markets still carries familiar friction. Investors often need dedicated brokerage accounts, fixed trading windows and capital separated from money held elsew…",
-      "section": "observe"
     }
   ],
   "next_read_order": [
@@ -100,137 +100,5 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ],
-  "intelligence_layer": {
-    "situation_read": "Stärkste Dynamik: “Imprivata製Enterprise Access ManagementにおけるRSA鍵ペアを更新できない脆弱性” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
-    "read_order": [
-      "briefings/intelligence_handoff.json",
-      "memory/dynamics.json"
-    ],
-    "top_dynamics": [
-      {
-        "title": "Imprivata製Enterprise Access ManagementにおけるRSA鍵ペアを更新できない脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU92710088/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-24T10:30:30+09:00",
-        "age_days": 0.12,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "security high-signal: 10"
-        ],
-        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-      },
-      {
-        "title": "Cinnamon AI製Kotaemonのマルチユーザーチャットハンドラにおける不適切な認可の脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU91025240/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-24T10:30:20+09:00",
-        "age_days": 0.12,
-        "topics": [
-          "ai",
-          "security"
-        ],
-        "dynamics_score": 31.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "high terms: 10",
-          "security high-signal: 10"
-        ],
-        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-      },
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月22日）",
-        "url": "https://jvn.jp/vu/JVNVU96198756/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-24T10:30:00+09:00",
-        "age_days": 0.12,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 28.0,
-        "raw_band": "krass",
-        "dynamic_band": "krass",
-        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: cisa, jvn, security, advisory"
-        ],
-        "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
-      },
-      {
-        "title": "Apache Tomcatにおける複数の脆弱性（2026年9月23日）",
-        "url": "https://jvn.jp/vu/JVNVU94625787/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-24T10:30:40+09:00",
-        "age_days": 0.12,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "The Apache Software Foundationから、Apache Tomcatの15件の脆弱性に対してアドバイザリが公開されました。"
-      },
-      {
-        "title": "ベンダによる署名済みUEFIアプリケーションにおけるセキュアブートバイパスの脆弱性",
-        "url": "https://jvn.jp/vu/JVNVU93766760/",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-24T10:30:10+09:00",
-        "age_days": 0.12,
-        "topics": [
-          "security"
-        ],
-        "dynamics_score": 26.0,
-        "raw_band": "strong",
-        "dynamic_band": "strong",
-        "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-        "source_count": 1,
-        "momentum_delta": 0,
-        "baseline_z_hint": 0.0,
-        "security_high_signal": true,
-        "single_source_ai_capped": false,
-        "why": [
-          "security high-signal: jvn, security"
-        ],
-        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
-      }
-    ]
-  }
+  ]
 }
