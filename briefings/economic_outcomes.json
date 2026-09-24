@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-24T23:45:24+00:00",
+  "generated_at": "2026-09-24T23:53:00+00:00",
   "events": [
     {
       "event_id": "evt_00999a707b633ec75a8c",
@@ -2025,6 +2025,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_36085e30f2f91b6ca31e",
+      "title": "M 5.3 - 72 km NW of Finschhafen, Papua New Guinea",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_3672aa4510527ad7ae1e",
@@ -6446,7 +6457,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a0a48f18e523a40ddacf",
