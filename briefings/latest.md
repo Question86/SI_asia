@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-24T19:59:20+00:00_
+_Generiert: 2026-09-24T20:22:03+00:00_
 
 ## Kurzlage
 
-83 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Ansible Automation Platform (automation-controller): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, opportunity).
+84 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Ansible Automation Platform (automation-controller): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -288,14 +288,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-24 11:08:24 UTC 2026-09-24 11:08:24 UTC at epicenter Location 30.234°S 177.869°W Depth 35.00 km (21.75 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
-- **Trusted innovation - shaping the future of finance** — Score 8, observation — [Quelle](https://www.bis.org/speeches/20260924-trusted-innovation-shaping-future-finance)
-  - Quelle: BIS Central Bankers Speeches / `rss`
-  - Zeit: published `2026-09-24T00:00:00+00:00`, fetched `2026-09-24T12:30:40+00:00`
-  - Treffer: Macro/Policy
+- **When chat is the wrong UI** — Score 8, observation — [Quelle](https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/)
+  - Quelle: GitHub Blog Atom / `rss`
+  - Zeit: published `2026-09-24T20:00:00+00:00`, fetched `2026-09-24T20:21:32+00:00`
+  - Treffer: AI/KI, Copilot, GitHub
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region india: India, Mumbai, Reserve Bank of India (+2.0)
-  - Kurz: Keynote address by Mr Shirish Chandra Murmu, Deputy Governor of the Reserve Bank of India, at the Global Fintech Festival 2026, Mumbai, 11 September 2026.
+  - Warum relevant: AI/KI (+3.0); GitHub (+2.0); Copilot (+2.0); recent (+1.0)
+  - Kurz: What is a developer to do when they need something more tangible than a chat box? Enter canvases. The post When chat is the wrong UI appeared first on The GitHub Blog .
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
