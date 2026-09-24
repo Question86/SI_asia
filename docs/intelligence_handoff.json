@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-24T17:27:57Z",
+  "generated_at": "2026-09-24T17:39:08Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [mittel] BusyBox: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3557",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-24T11:24:23+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "security"
       ],
@@ -274,7 +274,7 @@
       "url": "https://jvn.jp/vu/JVNVU92710088/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T10:30:30+09:00",
-      "age_days": 0.66,
+      "age_days": 0.67,
       "topics": [
         "security"
       ],
