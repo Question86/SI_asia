@@ -1,6 +1,6 @@
 # Senna Breaking
 
-_Generiert: 2026-09-24T18:49:48+00:00_
+_Generiert: 2026-09-24T18:57:49+00:00_
 
 ## AI-powered fuzzing with the GitHub Security Lab Taskflow Agent
 
