@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-24T08:16:06+00:00_
+_Generiert: 2026-09-24T08:39:23+00:00_
 
 ## Kurzlage
 
-29 neue relevante Treffer. Stärkstes Signal: „オーストラリア首相「OpenAIのAIが国民健保サイトに侵入」と公表 - 日本経済新聞“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
+31 neue relevante Treffer. Stärkstes Signal: „オーストラリア首相「OpenAIのAIが国民健保サイトに侵入」と公表 - 日本経済新聞“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -45,10 +45,10 @@ _Generiert: 2026-09-24T08:16:06+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green earthquake (Magnitude 5.7M, Depth:10km) in Tonga 23/09/2026 14:41 UTC, 1 thousand in MMI IV.
-- **GDACS: Green notification for tropical cyclone SURIGAE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 1.343 million .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001327)
+- **GDACS: Green notification for tropical cyclone SURIGAE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 1.303 million .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001327)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green notification for tropical cyclone SURIGAE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 1.343 million .
+  - Kurz: Green notification for tropical cyclone SURIGAE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 1.303 million .
 - **GDACS: Orange notification for tropical cyclone ONE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (10.248 million in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001326)
   - Quelle: GDACS
   - Zeit: ``
@@ -125,6 +125,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **SEA startup funding jumps to US$7.25B, but most founders are still waiting** — Score 12, observation — [Quelle](https://e27.co/sea-startup-funding-jumps-to-us7-25b-but-most-founders-are-still-waiting-20260924/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-24T08:34:01+00:00`, fetched `2026-09-24T08:38:56+00:00`
+  - Treffer: APAC Trend Radar, founder, funding, Southeast Asia
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.0); founder (+2.5); funding (+2.5); recent (+1.0)
+  - Kurz: Southeast Asia’s startup funding market is showing signs of life again, but the recovery is not reaching most founders. Venture-backed companies in the region raised US$7.25 billion across 217 equity deals in the first half of 2026, according to the Southeast Asia Startup Funding Report H1 2026 by Kickstart Ventures and DealStreetAsia. That is the […] The post SEA startup funding jumps to US$7.25B, but most founders…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **全景軟體｜CGServiSign - OS Command Injection** — Score 11, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-11213-28a81-1.html)
   - Quelle: TWCERT/CC TVN Vulnerability Notes RSS / `rss`
   - Zeit: published `2026-09-23T08:10:00+00:00`, fetched `2026-09-24T07:23:03+00:00`
@@ -152,15 +161,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); financial-market signal undersea cable (+2.0); watchgraph region southeast_asia: Singapore (+2.0)
   - Kurz: In the last week of August, Viettel’s network engineers were doing something most of their customers never saw. They were moving traffic in real time, pushing 800 gigabits per second onto one undersea cable, another 300 onto a second, then routing whatever was left over a terrestrial fibre line that runs through Laos into Singapore. […] The post Why scaling across Southeast Asia means pricing in the cable you never…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **AI won’t just replace jobs. It will redesign how companies work** — Score 10, observation — [Quelle](https://e27.co/ai-wont-just-replace-jobs-it-will-redesign-how-companies-work-20260921/)
-  - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-24T01:30:18+00:00`, fetched `2026-09-24T01:39:21+00:00`
-  - Treffer: AI/KI, APAC Trend Radar, Southeast Asia
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0)
-  - Kurz: For years, one question has dominated the conversation around artificial intelligence: How many jobs will AI replace? After working with enterprises in Southeast Asia to deploy AI into real business processes, I increasingly think we are asking the wrong question. The more important question is: How much more can an organisation accomplish when AI becomes […] The post AI won’t just replace jobs. It will redesign how…
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Meta、重さが「Quest 3の5分の1」の超軽量VRグラスを27年春に日本発売 Ray-Ban(Gen 3)は24日発売** — Score 10, observation — [Quelle](https://japan.cnet.com/article/35252874/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-24T00:18:43+00:00`, fetched `2026-09-24T04:24:29+00:00`
@@ -187,6 +187,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 銀行勘定系システムにおける開発プロセス刷新×AIによる環境モダナイゼーション / Development Process Transformation and AI-Driven Environment Modernization
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Sicherheitspatch gegen Schadcode repariert SolarWinds Observability Self-Hosted** — Score 7, observation — [Quelle](https://www.heise.de/news/Sicherheitspatch-gegen-Schadcode-repariert-SolarWinds-Observability-Self-Hosted-11464112.html)
+  - Quelle: heise Security Alerts / `rss`
+  - Zeit: published `2026-09-24T08:23:00.000+00:00`, fetched `2026-09-24T08:38:56+00:00`
+  - Treffer: Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); recent (+1.0)
+  - Kurz: Die Monitoring-Lösung für IT-Infrastrukturen SolarWinds Observability Self-Hosted ist unter bestimmten Voraussetzungen verwundbar.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Rails World 2026 DHHキーノートの日本語要約** — Score 7, observation — [Quelle](https://komagata.github.io/public-notes/rails-world-2026/)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`

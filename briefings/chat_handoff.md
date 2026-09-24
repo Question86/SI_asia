@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-24T08:16:06+00:00_
+_Generated: 2026-09-24T08:39:23+00:00_
 
 ## Status
 - status: `normal`
-- findings: `29`
+- findings: `31`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-09-24T08:16:06+00:00_
 - url: https://jvn.jp/vu/JVNVU99700314/
 - summary: 三菱電機株式会社が提供するGX Works3およびモーション制御設定のブロックパスワード設定機能には、認証回避の脆弱性が存在します。
 
-### 5. 全景軟體｜CGServiSign - OS Command Injection
+### 5. SEA startup funding jumps to US$7.25B, but most founders are still waiting
+- source: e27 Asia Startup and Tech Feed
+- score: `12`
+- published: `2026-09-24T08:34:01+00:00`
+- url: https://e27.co/sea-startup-funding-jumps-to-us7-25b-but-most-founders-are-still-waiting-20260924/
+- summary: Southeast Asia’s startup funding market is showing signs of life again, but the recovery is not reaching most founders. Venture-backed companies in the region raised US$7.25 billion across 217 equity deals in the first half of 2026, according to the Southeast…
+
+### 6. 全景軟體｜CGServiSign - OS Command Injection
 - source: TWCERT/CC TVN Vulnerability Notes RSS
 - score: `11`
 - published: `2026-09-23T08:10:00+00:00`
 - url: https://www.twcert.org.tw/tw/cp-132-11213-28a81-1.html
 - summary: 全景軟體｜CGServiSign - OS Command Injection
 
-### 6. Life Lab Resources grabs US$1M to turn food waste into aquaculture feed
+### 7. Life Lab Resources grabs US$1M to turn food waste into aquaculture feed
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-09-24T05:05:49+00:00`
 - url: https://e27.co/life-lab-resources-grabs-us1m-to-turn-food-waste-into-aquaculture-feed-20260924/
 - summary: Singapore’s food waste problem is often framed as a consumer habit or a logistics issue. For Life Lab Resources, it is also a feedstock problem, and one that could help ease another pressure point in Southeast Asia: rising demand for more sustainable aquacult…
 
-### 7. Why scaling across Southeast Asia means pricing in the cable you never see
+### 8. Why scaling across Southeast Asia means pricing in the cable you never see
 - source: e27 Asia Startup and Tech Feed
 - score: `10`
 - published: `2026-09-24T04:00:17+00:00`
 - url: https://e27.co/why-scaling-across-southeast-asia-means-pricing-in-the-cable-you-never-see-20260921/
 - summary: In the last week of August, Viettel’s network engineers were doing something most of their customers never saw. They were moving traffic in real time, pushing 800 gigabits per second onto one undersea cable, another 300 onto a second, then routing whatever wa…
-
-### 8. AI won’t just replace jobs. It will redesign how companies work
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-09-24T01:30:18+00:00`
-- url: https://e27.co/ai-wont-just-replace-jobs-it-will-redesign-how-companies-work-20260921/
-- summary: For years, one question has dominated the conversation around artificial intelligence: How many jobs will AI replace? After working with enterprises in Southeast Asia to deploy AI into real business processes, I increasingly think we are asking the wrong ques…
 
 END OF DOCUMENT
