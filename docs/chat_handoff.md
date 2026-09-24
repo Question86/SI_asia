@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-24T02:53:51+00:00_
+_Generated: 2026-09-24T03:01:39+00:00_
 
 ## Status
 - status: `normal`
-- findings: `13`
+- findings: `14`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-09-24T02:53:51+00:00_
 - url: https://speakerdeck.com/kokitamura/sre-toha-nani-ka-aws-de-dou-hajimeru-ka
 - summary: 銀行勘定系システムにおける開発プロセス刷新×AIによる環境モダナイゼーション / Development Process Transformation and AI-Driven Environment Modernization
 
-### 8. Metaが軽量「VRグラス」来春発売。IMAX見られてPCもつながる製品を体験【西田宗千佳のRandomTracking】
-- source: Hatena Bookmark Hotentry IT
+### 8. Startups keep scaling ops before they scale data — Here’s why it backfires
+- source: e27 Asia Startup and Tech Feed
 - score: `5`
-- published: `2026-09-24T00:28:37+00:00`
-- url: https://av.watch.impress.co.jp/docs/series/rt/2142663.html
-- summary: Metaが軽量「VRグラス」来春発売。IMAX見られてPCもつながる製品を体験【西田宗千佳のRandomTracking】
+- published: `2026-09-24T03:00:08+00:00`
+- url: https://e27.co/startups-keep-scaling-ops-before-they-scale-data-heres-why-it-backfires-20260921/
+- summary: A startup doubles its headcount. It opens a new sales channel. It ships a second product line. All of this happens while the business is still running on a spreadsheet, a half-built dashboard, or a weekly gut-check meeting. Nobody notices the gap at first, gr…
 
 END OF DOCUMENT
