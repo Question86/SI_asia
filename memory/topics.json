@@ -1,8 +1,152 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-24T11:01:10+00:00",
+  "generated_at": "2026-09-24T11:20:39+00:00",
   "topics": {
+    "security": [
+      {
+        "title": "[NEU] [hoch] Red Hat Ansible Automation Platform (automation-controller): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-24T11:04:25+00:00",
+        "relevance_score": 22,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3555"
+      },
+      {
+        "title": "[NEU] [hoch] Red Hat Enterprise Linux (FreeIPA): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-24T11:04:24+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3552"
+      },
+      {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-24T10:54:33+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3211"
+      },
+      {
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月22日）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-24T10:30:00+09:00",
+        "relevance_score": 16,
+        "url": "https://jvn.jp/vu/JVNVU96198756/"
+      },
+      {
+        "title": "三菱電機製GX Works3およびモーション制御設定における認証回避の脆弱性",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-24T13:00:00+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU99700314/"
+      },
+      {
+        "title": "[NEU] [hoch] GitLab: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-24T11:04:26+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3556"
+      },
+      {
+        "title": "[NEU] [hoch] Drupal Erweiterungen: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-24T11:04:25+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3554"
+      },
+      {
+        "title": "[NEU] [hoch] GIMP: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-24T11:04:24+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3553"
+      },
+      {
+        "title": "[NEU] [mittel] sudo: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-24T11:04:23+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3551"
+      },
+      {
+        "title": "[UPDATE] [hoch] vllm: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-24T10:45:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1974"
+      }
+    ],
+    "geopolitics": [
+      {
+        "title": "[NEU] [hoch] Red Hat Ansible Automation Platform (automation-controller): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-24T11:04:25+00:00",
+        "relevance_score": 22,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3555"
+      },
+      {
+        "title": "[NEU] [hoch] Red Hat Enterprise Linux (FreeIPA): Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-24T11:04:24+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3552"
+      },
+      {
+        "title": "[NEU] [hoch] GitLab: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-24T11:04:26+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3556"
+      },
+      {
+        "title": "[NEU] [hoch] Drupal Erweiterungen: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-24T11:04:25+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3554"
+      },
+      {
+        "title": "[NEU] [hoch] GIMP: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-24T11:04:24+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3553"
+      },
+      {
+        "title": "[NEU] [mittel] sudo: Schwachstelle ermöglicht Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-24T11:04:23+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3551"
+      },
+      {
+        "title": "Seoul tops global AI implementation as Singapore enters top tier",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-24T10:45:20+00:00",
+        "relevance_score": 14,
+        "url": "https://e27.co/seoul-tops-global-ai-implementation-as-singapore-enters-top-tier-20260924/"
+      },
+      {
+        "title": "Apache Tomcatにおける複数の脆弱性（2026年9月23日）",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-24T10:30:40+09:00",
+        "relevance_score": 14,
+        "url": "https://jvn.jp/vu/JVNVU94625787/"
+      },
+      {
+        "title": "Philip R. Lane: The outlook for the euro area economy",
+        "source": "ECB Press Releases Speeches Interviews",
+        "published_at": "2026-09-24T09:00:00+00:00",
+        "relevance_score": 10,
+        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260924~e0eceef02c.en.pdf"
+      },
+      {
+        "title": "Bitcoin’s corrective pullback or the start of a deeper drop toward US$79,600?",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-24T04:30:46+00:00",
+        "relevance_score": 4,
+        "url": "https://e27.co/bitcoins-corrective-pullback-or-the-start-of-a-deeper-drop-toward-us79600-20260924/"
+      }
+    ],
     "ai": [
       {
         "title": "オーストラリア首相「OpenAIのAIが国民健保サイトに侵入」と公表 - 日本経済新聞",
@@ -40,6 +184,13 @@
         "url": "https://e27.co/sea-startup-funding-jumps-to-us7-25b-but-most-founders-are-still-waiting-20260924/"
       },
       {
+        "title": "長年解読できなかった82文字のエニグマ暗号を「GPT-6 Astra」が解読、独自に解読プログラムも作成",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-24T06:44:51+00:00",
+        "relevance_score": 12,
+        "url": "https://gigazine.net/news/20260924-enigma-mvueh-break/"
+      },
+      {
         "title": "Life Lab Resources grabs US$1M to turn food waste into aquaculture feed",
         "source": "e27 Asia Startup and Tech Feed",
         "published_at": "2026-09-24T05:05:49+00:00",
@@ -66,85 +217,6 @@
         "published_at": "2026-09-23T13:46:19+00:00",
         "relevance_score": 8,
         "url": "https://speakerdeck.com/kokitamura/sre-toha-nani-ka-aws-de-dou-hajimeru-ka"
-      },
-      {
-        "title": "Rails World 2026 DHHキーノートの日本語要約",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-24T01:20:33+00:00",
-        "relevance_score": 7,
-        "url": "https://komagata.github.io/public-notes/rails-world-2026/"
-      }
-    ],
-    "security": [
-      {
-        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-24T10:54:33+00:00",
-        "relevance_score": 16,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3211"
-      },
-      {
-        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月22日）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-24T10:30:00+09:00",
-        "relevance_score": 16,
-        "url": "https://jvn.jp/vu/JVNVU96198756/"
-      },
-      {
-        "title": "三菱電機製GX Works3およびモーション制御設定における認証回避の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-24T13:00:00+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU99700314/"
-      },
-      {
-        "title": "[UPDATE] [hoch] vllm: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-24T10:45:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1974"
-      },
-      {
-        "title": "Apache Tomcatにおける複数の脆弱性（2026年9月23日）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-24T10:30:40+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU94625787/"
-      },
-      {
-        "title": "Imprivata製Enterprise Access ManagementにおけるRSA鍵ペアを更新できない脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-24T10:30:30+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU92710088/"
-      },
-      {
-        "title": "Cinnamon AI製Kotaemonのマルチユーザーチャットハンドラにおける不適切な認可の脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-24T10:30:20+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU91025240/"
-      },
-      {
-        "title": "ベンダによる署名済みUEFIアプリケーションにおけるセキュアブートバイパスの脆弱性",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-24T10:30:10+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU93766760/"
-      },
-      {
-        "title": "[UPDATE] [mittel] PgBouncer: Mehrere Schwachstellen ermöglichen Denial of Service",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-24T10:26:23+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3529"
-      },
-      {
-        "title": "[UPDATE] [hoch] IBM Concert: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-24T10:26:23+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3513"
       }
     ],
     "general": [
@@ -217,36 +289,6 @@
         "published_at": "2026-09-24T03:00:08+00:00",
         "relevance_score": 5,
         "url": "https://e27.co/startups-keep-scaling-ops-before-they-scale-data-heres-why-it-backfires-20260921/"
-      }
-    ],
-    "geopolitics": [
-      {
-        "title": "Seoul tops global AI implementation as Singapore enters top tier",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-24T10:45:20+00:00",
-        "relevance_score": 14,
-        "url": "https://e27.co/seoul-tops-global-ai-implementation-as-singapore-enters-top-tier-20260924/"
-      },
-      {
-        "title": "Apache Tomcatにおける複数の脆弱性（2026年9月23日）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-24T10:30:40+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU94625787/"
-      },
-      {
-        "title": "Philip R. Lane: The outlook for the euro area economy",
-        "source": "ECB Press Releases Speeches Interviews",
-        "published_at": "2026-09-24T09:00:00+00:00",
-        "relevance_score": 10,
-        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260924~e0eceef02c.en.pdf"
-      },
-      {
-        "title": "Bitcoin’s corrective pullback or the start of a deeper drop toward US$79,600?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-24T04:30:46+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/bitcoins-corrective-pullback-or-the-start-of-a-deeper-drop-toward-us79600-20260924/"
       }
     ],
     "github": [
