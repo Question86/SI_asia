@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T02:23:42+00:00",
-  "run_id": "2026-09-24T02:23:42+00:00",
+  "generated_at": "2026-09-24T02:41:18+00:00",
+  "run_id": "2026-09-24T02:41:18+00:00",
   "date": "2026-09-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 3,
+    "new_relevant_findings": 0,
     "today_file_total": 12,
     "displayed_findings": 12,
     "high": 0,
@@ -553,70 +553,7 @@
       "id": "ec0c4d44f87968ac9b42"
     }
   ],
-  "new_findings": [
-    {
-      "title": "The future of healthcare AI isn’t more data. It’s better context",
-      "url": "https://e27.co/the-future-of-healthcare-ai-isnt-more-data-its-better-context-20260921/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-24T02:00:34+00:00",
-      "fetched_at": "2026-09-24T02:23:12+00:00",
-      "summary": "For centuries, doctors have treated patients without having immediate access to an encyclopaedia of medical knowledge. A physician examining a patient did not need to read every medical textbook before deciding what to do. They observed symptoms, considered the patient’s history, recognised patterns, weighed possibilities and drew on years of experience. They did not know […] The post The future of healthcare AI isn…",
-      "matched_keywords": [
-        "AI/KI",
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "b3d45de9b62236bacc72"
-    },
-    {
-      "title": "Metaが軽量「VRグラス」来春発売。IMAX見られてPCもつながる製品を体験【西田宗千佳のRandomTracking】",
-      "url": "https://av.watch.impress.co.jp/docs/series/rt/2142663.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "source_type": "rss",
-      "published_at": "2026-09-24T00:28:37+00:00",
-      "fetched_at": "2026-09-24T02:23:12+00:00",
-      "summary": "Metaが軽量「VRグラス」来春発売。IMAX見られてPCもつながる製品を体験【西田宗千佳のRandomTracking】",
-      "matched_keywords": [
-        "Hatena",
-        "hotentry"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "78b4a9393b008f0d5972"
-    },
-    {
-      "title": "How I rebuilt my company’s meeting culture after realising we were drowning in status updates",
-      "url": "https://e27.co/how-i-rebuilt-my-companys-meeting-culture-after-realising-we-were-drowning-in-status-updates-20260921/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-24T02:00:30+00:00",
-      "fetched_at": "2026-09-24T02:23:12+00:00",
-      "summary": "Every growing company eventually builds a ritual around checking in on itself. Daily standups, weekly syncs, status calls stacked on status calls, all in the name of staying aligned. At some point, that ritual stops serving the work because the team starts doing the check-in instead of doing the actual work. Fixing it meant asking […] The post How I rebuilt my company’s meeting culture after realising we were drowni…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 4,
-      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "34b0406dc28cc6033c58"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

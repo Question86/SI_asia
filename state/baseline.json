@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-24T02:23:46+00:00",
+  "generated_at": "2026-09-24T02:41:21+00:00",
   "entities": {
     "earthquake:south sandwich islands region 17:4.0": {
       "title": "Green earthquake (Magnitude 4.9M, Depth:10km) in South Sandwich Islands Region 17/06/2026 19:48 UTC, No people affected in 100km.",
@@ -2810,7 +2810,7 @@
     },
     "title:cisa-ics-advisory-ics-medical-advisory-2026": {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月22日）",
-      "updated_at": "2026-09-24T02:23:46+00:00",
+      "updated_at": "2026-09-24T02:41:21+00:00",
       "network_scores": [
         18.1,
         18.1,
@@ -2838,8 +2838,8 @@
         18.1,
         18.1,
         18.1,
-        18.1,
         21.1,
+        18.1,
         18.1,
         18.1
       ],
@@ -3491,9 +3491,8 @@
     },
     "domain:speakerdeck.com": {
       "title": "SREとは何か、AWSでどう始めるか",
-      "updated_at": "2026-09-24T02:23:46+00:00",
+      "updated_at": "2026-09-24T02:41:21+00:00",
       "network_scores": [
-        12.2,
         12.2,
         12.2,
         12.2,
@@ -3522,12 +3521,13 @@
         10.1,
         10.1,
         10.1,
+        10.1,
         10.1
       ],
-      "rolling_average": 11.95,
+      "rolling_average": 11.88,
       "rolling_peak": 13.1,
       "last_score": 10.1,
-      "z_hint": -1.85
+      "z_hint": -1.78
     },
     "title:web-nginx-cvss": {
       "title": "Webサーバー「nginx」に3件の脆弱性、「CVSS 4.0」の基本値は最高で10点満点中「9.2」／v1.30.3/v1.31.2への更新を",
@@ -45418,128 +45418,138 @@
     },
     "title:reverse-home-bias-why-southeast-asia-digital-investors": {
       "title": "Reverse home bias: Why Southeast Asia’s digital investors may be diversifying in the wrong direction",
-      "updated_at": "2026-09-24T02:23:46+00:00",
+      "updated_at": "2026-09-24T02:41:21+00:00",
       "network_scores": [
         8.1,
         5.1,
         5.1,
+        5.1,
         5.1
       ],
-      "rolling_average": 5.85,
+      "rolling_average": 5.7,
       "rolling_peak": 8.1,
       "last_score": 5.1,
-      "z_hint": -0.75
+      "z_hint": -0.6
     },
     "title:apache-tomcat-2026": {
       "title": "Apache Tomcatにおける複数の脆弱性（2026年9月23日）",
-      "updated_at": "2026-09-24T02:23:46+00:00",
+      "updated_at": "2026-09-24T02:41:21+00:00",
       "network_scores": [
         19.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 17.1,
+      "rolling_average": 16.85,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -1.0
+      "z_hint": -0.75
     },
     "title:imprivata-enterprise-access-management-rsa": {
       "title": "Imprivata製Enterprise Access ManagementにおけるRSA鍵ペアを更新できない脆弱性",
-      "updated_at": "2026-09-24T02:23:46+00:00",
+      "updated_at": "2026-09-24T02:41:21+00:00",
       "network_scores": [
         19.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 17.1,
+      "rolling_average": 16.85,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -1.0
+      "z_hint": -0.75
     },
     "title:cinnamon-kotaemon": {
       "title": "Cinnamon AI製Kotaemonのマルチユーザーチャットハンドラにおける不適切な認可の脆弱性",
-      "updated_at": "2026-09-24T02:23:46+00:00",
+      "updated_at": "2026-09-24T02:41:21+00:00",
       "network_scores": [
         19.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 17.1,
+      "rolling_average": 16.85,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -1.0
+      "z_hint": -0.75
     },
     "title:uefi": {
       "title": "ベンダによる署名済みUEFIアプリケーションにおけるセキュアブートバイパスの脆弱性",
-      "updated_at": "2026-09-24T02:23:46+00:00",
+      "updated_at": "2026-09-24T02:41:21+00:00",
       "network_scores": [
         19.1,
         16.1,
+        16.1,
         16.1
       ],
-      "rolling_average": 17.1,
+      "rolling_average": 16.85,
       "rolling_peak": 19.1,
       "last_score": 16.1,
-      "z_hint": -1.0
+      "z_hint": -0.75
     },
     "title:won-just-replace-jobs-will-redesign-companies-work": {
       "title": "AI won’t just replace jobs. It will redesign how companies work",
-      "updated_at": "2026-09-24T02:23:46+00:00",
+      "updated_at": "2026-09-24T02:41:21+00:00",
       "network_scores": [
         15.1,
         12.1,
+        12.1,
         12.1
       ],
-      "rolling_average": 13.1,
+      "rolling_average": 12.85,
       "rolling_peak": 15.1,
       "last_score": 12.1,
-      "z_hint": -1.0
+      "z_hint": -0.75
     },
     "domain:nejimakinikki.hatenablog.com": {
       "title": "グーグルマップが遅い経路を表示してくるときに試したいこと - ねじまき日記",
-      "updated_at": "2026-09-24T02:23:46+00:00",
+      "updated_at": "2026-09-24T02:41:21+00:00",
       "network_scores": [
         10.1,
         7.1,
+        7.1,
         7.1
       ],
-      "rolling_average": 8.1,
+      "rolling_average": 7.85,
       "rolling_peak": 10.1,
       "last_score": 7.1,
-      "z_hint": -1.0
+      "z_hint": -0.75
     },
     "title:future-healthcare-isn-more-data-better-context": {
       "title": "The future of healthcare AI isn’t more data. It’s better context",
-      "updated_at": "2026-09-24T02:23:46+00:00",
+      "updated_at": "2026-09-24T02:41:21+00:00",
       "network_scores": [
-        13.1
+        13.1,
+        10.1
       ],
-      "rolling_average": 13.1,
+      "rolling_average": 11.6,
       "rolling_peak": 13.1,
-      "last_score": 13.1,
-      "z_hint": 0.0
+      "last_score": 10.1,
+      "z_hint": -1.5
     },
     "title:meta-imax-randomtracking": {
       "title": "Metaが軽量「VRグラス」来春発売。IMAX見られてPCもつながる製品を体験【西田宗千佳のRandomTracking】",
-      "updated_at": "2026-09-24T02:23:46+00:00",
+      "updated_at": "2026-09-24T02:41:21+00:00",
       "network_scores": [
-        10.1
+        10.1,
+        7.1
       ],
-      "rolling_average": 10.1,
+      "rolling_average": 8.6,
       "rolling_peak": 10.1,
-      "last_score": 10.1,
-      "z_hint": 0.0
+      "last_score": 7.1,
+      "z_hint": -1.5
     },
     "title:rebuilt-company-meeting-culture-after-realising-were-drowning": {
       "title": "How I rebuilt my company’s meeting culture after realising we were drowning in status updates",
-      "updated_at": "2026-09-24T02:23:46+00:00",
+      "updated_at": "2026-09-24T02:41:21+00:00",
       "network_scores": [
-        9.1
+        9.1,
+        6.1
       ],
-      "rolling_average": 9.1,
+      "rolling_average": 7.6,
       "rolling_peak": 9.1,
-      "last_score": 9.1,
-      "z_hint": 0.0
+      "last_score": 6.1,
+      "z_hint": -1.5
     }
   }
 }
