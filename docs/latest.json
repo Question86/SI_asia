@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T14:02:42+00:00",
-  "run_id": "2026-09-24T14:02:42+00:00",
+  "generated_at": "2026-09-24T14:24:48+00:00",
+  "run_id": "2026-09-24T14:24:48+00:00",
   "date": "2026-09-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 79
+      "configured_public_sources_only": 80
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
-    "today_file_total": 79,
-    "displayed_findings": 79,
+    "new_relevant_findings": 1,
+    "today_file_total": 80,
+    "displayed_findings": 80,
     "high": 0,
     "medium": 30,
-    "observe": 49,
+    "observe": 50,
     "source_errors": 0
   },
   "sections": {
@@ -1030,6 +1030,26 @@
           "LOW"
         ],
         "id": "0fd563e3d3dc06d26244"
+      },
+      {
+        "title": "ECB Executive Board member Isabel Schnabel to resign to take senior role at IMF",
+        "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260924~bea1dd9824.en.html",
+        "source": "ECB Press Releases Speeches Interviews",
+        "source_type": "rss",
+        "published_at": "2026-09-24T12:00:00+00:00",
+        "fetched_at": "2026-09-24T14:24:18+00:00",
+        "summary": "ECB Executive Board member Isabel Schnabel to resign to take senior role at IMF",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "a92a83603c118a1e81ef"
       },
       {
         "title": "M 4.9 - Kermadec Islands, New Zealand",
@@ -2861,6 +2881,26 @@
       "id": "0fd563e3d3dc06d26244"
     },
     {
+      "title": "ECB Executive Board member Isabel Schnabel to resign to take senior role at IMF",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260924~bea1dd9824.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
+      "source_type": "rss",
+      "published_at": "2026-09-24T12:00:00+00:00",
+      "fetched_at": "2026-09-24T14:24:18+00:00",
+      "summary": "ECB Executive Board member Isabel Schnabel to resign to take senior role at IMF",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "a92a83603c118a1e81ef"
+    },
+    {
       "title": "M 4.9 - Kermadec Islands, New Zealand",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txb3",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -3689,44 +3729,24 @@
   ],
   "new_findings": [
     {
-      "title": "Navigating uncertainty and adapting to change",
-      "url": "https://www.bis.org/speeches/20260924-navigating-uncertainty-and-adapting-change",
-      "source": "BIS Central Bankers Speeches",
+      "title": "ECB Executive Board member Isabel Schnabel to resign to take senior role at IMF",
+      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260924~bea1dd9824.en.html",
+      "source": "ECB Press Releases Speeches Interviews",
       "source_type": "rss",
-      "published_at": "2026-09-24T00:00:00+00:00",
-      "fetched_at": "2026-09-24T14:02:11+00:00",
-      "summary": "Remarks by Mr Tiff Macklem, Governor of the Bank of Canada, to Halifax Partnership, Halifax, Nova Scotia, 21 September 2026.",
+      "published_at": "2026-09-24T12:00:00+00:00",
+      "fetched_at": "2026-09-24T14:24:18+00:00",
+      "summary": "ECB Executive Board member Isabel Schnabel to resign to take senior role at IMF",
       "matched_keywords": [
         "Macro/Policy"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region canada: Canada, Bank of Canada (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "04ee3a9e89fa820271a9"
-    },
-    {
-      "title": "Advancing digital financial literacy in Finland",
-      "url": "https://www.bis.org/speeches/20260924-advancing-digital-financial-literacy-finland",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-09-24T00:00:00+00:00",
-      "fetched_at": "2026-09-24T14:02:11+00:00",
-      "summary": "Opening remarks by Mr Olli Rehn, Governor of the Bank of Finland, at the “Advancing digital financial literacy in Finland” event, Bank of Finland Museum, Helsinki, 16 September 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "relevance_score": 9,
+      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "26ee074be7528023928c"
+      "id": "a92a83603c118a1e81ef"
     }
   ],
   "source_errors": [],

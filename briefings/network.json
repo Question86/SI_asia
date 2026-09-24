@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-24T14:02:47+00:00",
+  "generated_at": "2026-09-24T14:24:51+00:00",
   "source": "briefings/latest.json",
   "counts": {
-    "findings": 79,
+    "findings": 80,
     "clusters": 49,
     "cross_source_confrmed": 0,
     "hot": 0,
     "early_signals": 0,
-    "dominance_penalized": 5
+    "dominance_penalized": 6
   },
   "clusters": [
     {
@@ -54,52 +54,6 @@
       "first_seen_at": "2026-08-28T14:08:37+00:00"
     },
     {
-      "key": "domain:www.bis.org",
-      "title": "A new age of capital - growth, sovereignty and AI",
-      "sources": [
-        "BIS Central Bankers Speeches"
-      ],
-      "source_classes": [
-        "central_bank",
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.bis.org/speeches/20260924-new-age-capital-growth-sovereignty-and-ai",
-        "https://www.bis.org/speeches/20260924-opening-address-bank-korea-centre-economic-policy-research-organisation-economic-co-operation-and-development-conference",
-        "https://www.bis.org/speeches/20260924-trusted-innovation-shaping-future-finance",
-        "https://www.bis.org/speeches/20260924-challenge-innovation",
-        "https://www.bis.org/speeches/20260924-navigating-uncertainty-and-adapting-change",
-        "https://www.bis.org/speeches/20260924-banking-regulators-supervisors-and-their-watchers"
-      ],
-      "finding_count": 10,
-      "max_score": 13,
-      "credibility_total": 10.5,
-      "cross_source_confirmed": false,
-      "momentum_delta": 2,
-      "momentum_status": "increasing",
-      "network_score": 26.0,
-      "hot": false,
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 40.0,
-      "ranking_score": 26.0,
-      "initial_reach_tier": "institutional",
-      "source_reach_score": 5.0,
-      "authority_bonus_capped": 3.0,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 5.0,
-      "baseline_bonus": 5.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 0.0,
-      "dominance_reason": "",
-      "first_seen_at": "2026-06-18T14:33:45+00:00"
-    },
-    {
       "key": "domain:www.nikkei.com",
       "title": "オーストラリア首相「OpenAIのAIが国民健保サイトに侵入」と公表 - 日本経済新聞",
       "sources": [
@@ -136,6 +90,52 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-06-19T02:10:07+00:00"
+    },
+    {
+      "key": "domain:www.bis.org",
+      "title": "A new age of capital - growth, sovereignty and AI",
+      "sources": [
+        "BIS Central Bankers Speeches"
+      ],
+      "source_classes": [
+        "central_bank",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.bis.org/speeches/20260924-new-age-capital-growth-sovereignty-and-ai",
+        "https://www.bis.org/speeches/20260924-opening-address-bank-korea-centre-economic-policy-research-organisation-economic-co-operation-and-development-conference",
+        "https://www.bis.org/speeches/20260924-trusted-innovation-shaping-future-finance",
+        "https://www.bis.org/speeches/20260924-challenge-innovation",
+        "https://www.bis.org/speeches/20260924-navigating-uncertainty-and-adapting-change",
+        "https://www.bis.org/speeches/20260924-banking-regulators-supervisors-and-their-watchers"
+      ],
+      "finding_count": 10,
+      "max_score": 13,
+      "credibility_total": 10.5,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 18.0,
+      "hot": false,
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 34.0,
+      "ranking_score": 18.0,
+      "initial_reach_tier": "institutional",
+      "source_reach_score": 5.0,
+      "authority_bonus_capped": 3.0,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 5.0,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
       "key": "title:cisa-ics-advisory-ics-medical-advisory-2026",
@@ -462,18 +462,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 14.37,
+      "network_score": 14.31,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 14.1,
-      "ranking_score": 14.37,
+      "ranking_score": 14.31,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.87,
+      "baseline_bonus": 0.81,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -521,6 +521,46 @@
       "first_seen_at": "2026-09-24T08:39:26+00:00"
     },
     {
+      "key": "domain:www.ecb.europa.eu",
+      "title": "Philip R. Lane: The outlook for the euro area economy",
+      "sources": [
+        "ECB Press Releases Speeches Interviews"
+      ],
+      "source_classes": [
+        "central_bank",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260924~e0eceef02c.en.pdf",
+        "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260924~bea1dd9824.en.html"
+      ],
+      "finding_count": 2,
+      "max_score": 10,
+      "credibility_total": 2.1,
+      "cross_source_confirmed": false,
+      "momentum_delta": 1,
+      "momentum_status": "increasing",
+      "network_score": 13.29,
+      "hot": false,
+      "watchgraph_modules": [],
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "raw_network_score": 17.2,
+      "ranking_score": 13.29,
+      "initial_reach_tier": "institutional",
+      "source_reach_score": 5.0,
+      "authority_bonus_capped": 3.0,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 2.5,
+      "baseline_bonus": 0.79,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
       "key": "domain:www.twcert.org",
       "title": "融易網路｜GPM LIGHT - Sensitive Data Exposure",
       "sources": [
@@ -539,18 +579,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 12.68,
+      "network_score": 12.66,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "raw_network_score": 15.2,
-      "ranking_score": 12.68,
+      "ranking_score": 12.66,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.18,
+      "baseline_bonus": 0.16,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -748,45 +788,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-09-24T04:39:03+00:00"
-    },
-    {
-      "key": "domain:www.ecb.europa.eu",
-      "title": "Philip R. Lane: The outlook for the euro area economy",
-      "sources": [
-        "ECB Press Releases Speeches Interviews"
-      ],
-      "source_classes": [
-        "central_bank",
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260924~e0eceef02c.en.pdf"
-      ],
-      "finding_count": 1,
-      "max_score": 10,
-      "credibility_total": 1.05,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 10.0,
-      "hot": false,
-      "watchgraph_modules": [],
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "raw_network_score": 12.1,
-      "ranking_score": 10.0,
-      "initial_reach_tier": "institutional",
-      "source_reach_score": 5.0,
-      "authority_bonus_capped": 3.0,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 0.0,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 3.0,
-      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
       "key": "title:future-healthcare-isn-more-data-better-context",
@@ -1904,7 +1905,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-24T14:02:47Z",
+    "generated_at": "2026-09-24T14:24:52Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }

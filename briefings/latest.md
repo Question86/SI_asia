@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-24T14:02:42+00:00_
+_Generiert: 2026-09-24T14:24:48+00:00_
 
 ## Kurzlage
 
-79 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Ansible Automation Platform (automation-controller): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, opportunity).
+80 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Ansible Automation Platform (automation-controller): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -256,6 +256,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
   - Kurz: Time 2026-09-24 12:29:58 UTC 2026-09-24 12:29:58 UTC at epicenter Location 5.340°S 151.492°E Depth 95.60 km (59.40 mi)
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **ECB Executive Board member Isabel Schnabel to resign to take senior role at IMF** — Score 9, observation — [Quelle](https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260924~bea1dd9824.en.html)
+  - Quelle: ECB Press Releases Speeches Interviews / `rss`
+  - Zeit: published `2026-09-24T12:00:00+00:00`, fetched `2026-09-24T14:24:18+00:00`
+  - Treffer: Macro/Policy
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)
+  - Kurz: ECB Executive Board member Isabel Schnabel to resign to take senior role at IMF
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **M 4.9 - Kermadec Islands, New Zealand** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txb3)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-24T11:42:21.040+00:00`, fetched `2026-09-24T11:43:09+00:00`
@@ -282,15 +291,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Macro/Policy (+5.0); recent (+1.0); watchgraph region india: India, Mumbai, Reserve Bank of India (+2.0)
   - Kurz: Keynote address by Mr Shirish Chandra Murmu, Deputy Governor of the Reserve Bank of India, at the Global Fintech Festival 2026, Mumbai, 11 September 2026.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **SREとは何か、AWSでどう始めるか** — Score 8, observation — [Quelle](https://speakerdeck.com/kokitamura/sre-toha-nani-ka-aws-de-dou-hajimeru-ka)
-  - Quelle: Hatena Bookmark Hotentry IT / `rss`
-  - Zeit: published `2026-09-23T13:46:19+00:00`, fetched `2026-09-24T00:53:57+00:00`
-  - Treffer: AI/KI, Hatena, hotentry
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
-  - Kurz: 銀行勘定系システムにおける開発プロセス刷新×AIによる環境モダナイゼーション / Development Process Transformation and AI-Driven Environment Modernization
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
