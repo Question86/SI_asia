@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-24T02:48:59Z",
+  "generated_at": "2026-09-24T03:16:26Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
-    "dynamics": 24,
+    "dynamics": 28,
     "bands": {
       "krass": 3,
       "strong": 5,
-      "watch": 4,
-      "quiet": 12
+      "watch": 6,
+      "quiet": 14
     },
     "bands_after_gate_recheck": {
       "strong": 8,
-      "watch": 4,
-      "quiet": 12
+      "watch": 6,
+      "quiet": 14
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/vu/JVNVU94625787/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T10:30:40+09:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://jvn.jp/vu/JVNVU93766760/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T10:30:10+09:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -71,7 +71,7 @@
       "url": "https://jvn.jp/vu/JVNVU92710088/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T10:30:30+09:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -97,7 +97,7 @@
       "url": "https://jvn.jp/vu/JVNVU91025240/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T10:30:20+09:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "ai",
         "security"
@@ -124,7 +124,7 @@
       "url": "https://jvn.jp/vu/JVNVU96198756/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T10:30:00+09:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "security"
       ],
@@ -149,7 +149,7 @@
       "url": "https://jvn.jp/vu/JVNVU94625787/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T01:39:57+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -173,7 +173,7 @@
       "url": "https://jvn.jp/vu/JVNVU92710088/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T01:39:57+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -197,7 +197,7 @@
       "url": "https://jvn.jp/vu/JVNVU93766760/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T01:39:57+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -217,11 +217,40 @@
       "summary": ""
     },
     {
+      "title": "オーストラリア首相「OpenAIのAIが国民健保サイトに侵入」と公表 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOGN2407Y0U6A920C2000000/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T02:10:07+00:00",
+      "age_days": 97.05,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 19.9,
+      "raw_band": "strong",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 9.9,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "baseline z_hint 9.90",
+        "single-source AI hype brake -8.0",
+        "aging penalty -8.0 for 97.0d old signal",
+        "stale single-source cap: max watch after 14d without fresh resonance",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月22日）",
       "url": "https://jvn.jp/vu/JVNVU96198756/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 97.04,
+      "age_days": 97.05,
       "topics": [
         "general"
       ],
@@ -237,7 +266,7 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 97.0d old signal"
+        "aging penalty -8.0 for 97.1d old signal"
       ],
       "summary": ""
     },
@@ -246,7 +275,7 @@
       "url": "https://jvn.jp/vu/JVNVU91025240/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T01:39:57+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -271,7 +300,7 @@
       "url": "https://nejimakinikki.hatenablog.com/entry/google-maps-ecomode-off-route",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-24T01:39:57+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "general"
       ],
@@ -291,11 +320,35 @@
       "summary": ""
     },
     {
+      "title": "How I rebuilt my company’s meeting culture after realising we were drowning in status updates",
+      "url": "https://e27.co/how-i-rebuilt-my-companys-meeting-culture-after-realising-we-were-drowning-in-status-updates-20260921/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-24T02:23:46+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Reverse home bias: Why Southeast Asia’s digital investors may be diversifying in the wrong direction",
       "url": "https://e27.co/reverse-home-bias-why-southeast-asias-digital-investors-may-be-diversifying-in-the-wrong-direction-20260914/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-24T01:15:44+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -315,11 +368,35 @@
       "summary": ""
     },
     {
+      "title": "Startups keep scaling ops before they scale data — Here’s why it backfires",
+      "url": "https://e27.co/startups-keep-scaling-ops-before-they-scale-data-heres-why-it-backfires-20260921/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-24T03:01:41+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 11.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1"
+      ],
+      "summary": ""
+    },
+    {
       "title": "AI won’t just replace jobs. It will redesign how companies work",
       "url": "https://e27.co/ai-wont-just-replace-jobs-it-will-redesign-how-companies-work-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-24T01:39:57+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -341,11 +418,62 @@
       "summary": ""
     },
     {
+      "title": "オーストラリア首相「OpenAIのAIが国民健保サイトに侵入」と公表 - 日本経済新聞",
+      "url": "https://www.nikkei.com/article/DGXZQOGN2407Y0U6A920C2000000/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-23T23:14:59+00:00",
+      "age_days": 0.17,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 10.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": "【シリコンバレー=伴正春、シドニー=今橋瑠璃華】オーストラリアのアルバニージー首相は23日、米オープンAIの人工知能（AI）が6月に国民健康保険のサイトに侵入して非公開のデータにアクセスしていたと公表した。豪公共放送ABCなどが報じた。豪ABCなどによると、米ニューヨークで開かれた記者会見で同氏が発言した。近く..."
+    },
+    {
+      "title": "The future of healthcare AI isn’t more data. It’s better context",
+      "url": "https://e27.co/the-future-of-healthcare-ai-isnt-more-data-its-better-context-20260921/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-24T02:23:46+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 9.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +3",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "SREとは何か、AWSでどう始めるか",
       "url": "https://speakerdeck.com/kokitamura/sre-toha-nani-ka-aws-de-dou-hajimeru-ka",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 97.04,
+      "age_days": 97.05,
       "topics": [
         "general"
       ],
@@ -361,66 +489,66 @@
       "single_source_ai_capped": false,
       "why": [
         "momentum delta +3",
-        "aging penalty -8.0 for 97.0d old signal"
+        "aging penalty -8.0 for 97.1d old signal"
       ],
       "summary": ""
     },
     {
-      "title": "How I rebuilt my company’s meeting culture after realising we were drowning in status updates",
-      "url": "https://e27.co/how-i-rebuilt-my-companys-meeting-culture-after-realising-we-were-drowning-in-status-updates-20260921/",
-      "source": "e27 Asia Startup and Tech Feed",
+      "title": "Metaが軽量「VRグラス」来春発売。IMAX見られてPCもつながる製品を体験【西田宗千佳のRandomTracking】",
+      "url": "https://av.watch.impress.co.jp/docs/series/rt/2142663.html",
+      "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-24T02:23:46+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 8.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +1"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "The future of healthcare AI isn’t more data. It’s better context",
-      "url": "https://e27.co/the-future-of-healthcare-ai-isnt-more-data-its-better-context-20260921/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-24T02:23:46+00:00",
-      "age_days": 0.02,
+      "age_days": 0.04,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 4.0,
+      "dynamics_score": 6.0,
       "raw_band": "quiet",
       "dynamic_band": "quiet",
       "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
-      "momentum_delta": 1,
+      "momentum_delta": 3,
       "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
-        "momentum delta +1",
+        "momentum delta +3",
         "single-source AI hype brake -8.0",
         "single-source AI cap enforced after phrase recheck"
       ],
       "summary": ""
     },
     {
+      "title": "Startups keep scaling ops before they scale data — Here’s why it backfires",
+      "url": "https://e27.co/startups-keep-scaling-ops-before-they-scale-data-heres-why-it-backfires-20260921/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-24T03:00:08+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 5.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "A startup doubles its headcount. It opens a new sales channel. It ships a second product line. All of this happens while the business is still running on a spreadsheet, a half-built dashboard, or a weekly gut-check meeting. Nobody notices the gap at first, growth feels like growth. Then, three months in, someone on th…"
+    },
+    {
       "title": "Reverse home bias: Why Southeast Asia’s digital investors may be diversifying in the wrong direction",
       "url": "https://e27.co/reverse-home-bias-why-southeast-asias-digital-investors-may-be-diversifying-in-the-wrong-direction-20260914/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-24T01:00:55+00:00",
-      "age_days": 0.08,
+      "age_days": 0.09,
       "topics": [
         "general"
       ],
@@ -444,7 +572,7 @@
       "url": "https://e27.co/ai-wont-just-replace-jobs-it-will-redesign-how-companies-work-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-24T01:30:18+00:00",
-      "age_days": 0.05,
+      "age_days": 0.07,
       "topics": [
         "ai"
       ],
@@ -465,37 +593,11 @@
       "summary": "For years, one question has dominated the conversation around artificial intelligence: How many jobs will AI replace? After working with enterprises in Southeast Asia to deploy AI into real business processes, I increasingly think we are asking the wrong question. The more important question is: How much more can an o…"
     },
     {
-      "title": "Metaが軽量「VRグラス」来春発売。IMAX見られてPCもつながる製品を体験【西田宗千佳のRandomTracking】",
-      "url": "https://av.watch.impress.co.jp/docs/series/rt/2142663.html",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-09-24T02:23:46+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 1.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 1,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +1",
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": ""
-    },
-    {
       "title": "The future of healthcare AI isn’t more data. It’s better context",
       "url": "https://e27.co/the-future-of-healthcare-ai-isnt-more-data-its-better-context-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-24T02:00:34+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
@@ -520,7 +622,7 @@
       "url": "https://speakerdeck.com/kokitamura/sre-toha-nani-ka-aws-de-dou-hajimeru-ka",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-23T13:46:19+00:00",
-      "age_days": 0.54,
+      "age_days": 0.56,
       "topics": [
         "ai"
       ],
@@ -545,7 +647,7 @@
       "url": "https://av.watch.impress.co.jp/docs/series/rt/2142663.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-24T00:28:37+00:00",
-      "age_days": 0.1,
+      "age_days": 0.12,
       "topics": [
         "ai"
       ],
@@ -570,7 +672,7 @@
       "url": "https://nejimakinikki.hatenablog.com/entry/google-maps-ecomode-off-route",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-22T14:50:03+00:00",
-      "age_days": 1.5,
+      "age_days": 1.52,
       "topics": [
         "ai"
       ],
@@ -595,7 +697,7 @@
       "url": "https://e27.co/how-i-rebuilt-my-companys-meeting-culture-after-realising-we-were-drowning-in-status-updates-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-24T02:00:30+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "ai"
       ],
