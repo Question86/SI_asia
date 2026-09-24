@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-24T21:56:08+00:00",
+  "generated_at": "2026-09-24T22:06:36+00:00",
   "fx_as_of": null,
   "candidate_count": 1090,
   "promoted_count": 0,
@@ -20925,20 +20925,20 @@
       "attribution_probability": null,
       "candidate_confidence": 0.35,
       "candidate_id": "cand_0100000ae65242bcaf7b",
+      "component_confidence": 0.0,
       "component_suggestion": "unknown",
       "conversion_status": "not_required",
       "currency": "USD",
       "event_id": "evt_aded2857bce4fe598bda",
       "extraction_method": "regex_context_v1",
+      "fx_as_of": null,
+      "fx_rate_to_usd": 1.0,
       "observed_at": "2026-09-24T21:56:06+00:00",
       "overlap_group_suggestion": "evt_aded2857bce4fe598bda:unknown:073087e5fb7d",
       "review_status": "pending",
       "snippet": "core の値は各レベルの確率で重み付けした期待値です。レベル番号そのものではなく、上の例なら 1.05 のような小数が返ります。 公開直後からここまで注目された理由 公開から1週間でここまで盛り上がった理由は、大きく5つに整理できます。 1. 速度と価格の桁が違う 項目 Jev（公称値） レイテンシ 70〜500ms（多くは100ms前後） 入力トークン $0.042 / 100万トークン 出力トークン 無料 対LLM比（速度） 40〜200倍速い 対LLM比（コスト） 入力単価で約5〜240倍安い。自社ワークフロー評価では最大444.6倍安い なお、この倍率は仕分けや採点といった、同社が「System Oneタスク」と呼ぶ用途での比較です。文章を書く速さの話ではありません。 出力トークンが無料なのはLLMの常識からする",
       "source_priority": "secondary_or_unknown",
-      "source_url": "https://zenn.dev/unsoluble_sugar/articles/jev-system-one-model-intro",
-      "component_confidence": 0.0,
-      "fx_rate_to_usd": 1.0,
-      "fx_as_of": null
+      "source_url": "https://zenn.dev/unsoluble_sugar/articles/jev-system-one-model-intro"
     },
     {
       "amount_native": 274000.0,
