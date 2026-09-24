@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T12:51:58+00:00",
-  "run_id": "2026-09-24T12:51:58+00:00",
+  "generated_at": "2026-09-24T13:00:49+00:00",
+  "run_id": "2026-09-24T13:00:49+00:00",
   "date": "2026-09-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 4,
+    "new_relevant_findings": 0,
     "today_file_total": 69,
     "displayed_findings": 69,
     "high": 0,
@@ -3253,128 +3253,7 @@
       "id": "ec0c4d44f87968ac9b42"
     }
   ],
-  "new_findings": [
-    {
-      "title": "A new age of capital - growth, sovereignty and AI",
-      "url": "https://www.bis.org/speeches/20260924-new-age-capital-growth-sovereignty-and-ai",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-09-24T00:00:00+00:00",
-      "fetched_at": "2026-09-24T12:51:24+00:00",
-      "summary": "Speech by Ms Christine Lagarde, President of the European Central Bank, at “Hofburg im Dialog – economy, europe, resilience”, Vienna, 14 September 2026.",
-      "matched_keywords": [
-        "AI/KI",
-        "Macro/Policy",
-        "Watchgraph:capitals_power_centers"
-      ],
-      "relevance_score": 13,
-      "relevance_reason": "AI/KI (+3.8); Macro/Policy (+5.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "watchgraph_reasons": [
-        "capitals_power_centers: capital"
-      ],
-      "market_context": [
-        "LMT",
-        "RTX",
-        "NOC",
-        "GD",
-        "RHM.DE",
-        "BA",
-        "SPY",
-        "QQQ",
-        "DAX",
-        "EWU",
-        "INDA",
-        "EWJ",
-        "EWY",
-        "EWA",
-        "EWC",
-        "EWZ"
-      ],
-      "id": "b9ca98052c72fd45e5c7"
-    },
-    {
-      "title": "M 5.2 - 139 km SW of Kokopo, Papua New Guinea",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txbm",
-      "source": "USGS M4.5+ Earthquakes Past Hour",
-      "source_type": "rss",
-      "published_at": "2026-09-24T12:44:54.040+00:00",
-      "fetched_at": "2026-09-24T12:51:24+00:00",
-      "summary": "Time 2026-09-24 12:29:58 UTC 2026-09-24 12:29:58 UTC at epicenter Location 5.340°S 151.492°E Depth 95.60 km (59.40 mi)",
-      "matched_keywords": [
-        "Climate/Disaster Infrastructure",
-        "Watchgraph:earthquakes_tsunami"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [
-        "earthquakes_tsunami"
-      ],
-      "watchgraph_reasons": [
-        "earthquakes_tsunami: earthquake"
-      ],
-      "market_context": [
-        "MUV2.DE",
-        "SREN.SW",
-        "RNR",
-        "WRB",
-        "CAT",
-        "VMC",
-        "MLM",
-        "HOLN.SW",
-        "HD",
-        "LOW"
-      ],
-      "id": "0fd563e3d3dc06d26244"
-    },
-    {
-      "title": "The challenge of innovation",
-      "url": "https://www.bis.org/speeches/20260924-challenge-innovation",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-09-24T00:00:00+00:00",
-      "fetched_at": "2026-09-24T12:51:24+00:00",
-      "summary": "Address by Mr Fabio Panetta, Governor of the Bank of Italy, at the 10th Annual Research Conference of the National Bank of Ukraine and the National Bank of Poland “Central banks response to future challenges: resilience, credibility, and innovation”, Kyiv, 21 September 2026.",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0); watchgraph region europe: Kyiv (+2.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "08fccd0581ad009105a6"
-    },
-    {
-      "title": "Banking regulators, supervisors and their watchers",
-      "url": "https://www.bis.org/speeches/20260924-banking-regulators-supervisors-and-their-watchers",
-      "source": "BIS Central Bankers Speeches",
-      "source_type": "rss",
-      "published_at": "2026-09-24T00:00:00+00:00",
-      "fetched_at": "2026-09-24T12:51:24+00:00",
-      "summary": "Keynote speech by Prof Claudia Buch, Chair of the Supervisory Board of the European Central Bank, at the Watching European Financial Market Regulation and Supervision Conference, organised by Goethe University Frankfurt, Frankfurt am Main, 15 September 2026.",
-      "matched_keywords": [
-        "banking",
-        "Macro/Policy"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "Macro/Policy (+5.0); banking (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "opportunity",
-      "recommended_action": "Als Content-, Produkt- oder Kooperationschance für AXI0M prüfen.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "469bcf4e0345e3037028"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
