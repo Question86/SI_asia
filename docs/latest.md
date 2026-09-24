@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-24T12:31:20+00:00_
+_Generiert: 2026-09-24T12:51:58+00:00_
 
 ## Kurzlage
 
-65 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Ansible Automation Platform (automation-controller): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, opportunity).
+69 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Ansible Automation Platform (automation-controller): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, opportunity).
 
 ## Priorität Hoch
 
@@ -96,6 +96,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **A new age of capital - growth, sovereignty and AI** — Score 13, observation — [Quelle](https://www.bis.org/speeches/20260924-new-age-capital-growth-sovereignty-and-ai)
+  - Quelle: BIS Central Bankers Speeches / `rss`
+  - Zeit: published `2026-09-24T00:00:00+00:00`, fetched `2026-09-24T12:51:24+00:00`
+  - Treffer: AI/KI, Macro/Policy, Watchgraph:capitals_power_centers
+  - Watchgraph: capitals_power_centers
+  - Markt-/Kontextkorb: LMT, RTX, NOC, GD, RHM.DE, BA, SPY, QQQ, DAX, EWU, INDA, EWJ
+  - Warum relevant: AI/KI (+3.8); Macro/Policy (+5.0); recent (+1.0); watchgraph modules capitals_power_centers (+3.0)
+  - Kurz: Speech by Ms Christine Lagarde, President of the European Central Bank, at “Hofburg im Dialog – economy, europe, resilience”, Vienna, 14 September 2026.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **SEA startup funding jumps to US$7.25B, but most founders are still waiting** — Score 12, observation — [Quelle](https://e27.co/sea-startup-funding-jumps-to-us7-25b-but-most-founders-are-still-waiting-20260924/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-24T08:34:01+00:00`, fetched `2026-09-24T08:38:56+00:00`
@@ -177,6 +186,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 「映画館の画質を100gのグラスで」——MetaがQuest 11年の集大成として発表した「Meta VR Glasses」は、マイクロOLEDディスプレイとIMAX Enhanced認証を搭載しながら、ストラップもコントローラーも持たない。Quest向けゲームはそのまま動き、2027年春に1299.99ドルで日本を含む13カ国で発売する。
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **M 5.2 - 139 km SW of Kokopo, Papua New Guinea** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txbm)
+  - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
+  - Zeit: published `2026-09-24T12:44:54.040+00:00`, fetched `2026-09-24T12:51:24+00:00`
+  - Treffer: Climate/Disaster Infrastructure, Watchgraph:earthquakes_tsunami
+  - Watchgraph: earthquakes_tsunami
+  - Markt-/Kontextkorb: MUV2.DE, SREN.SW, RNR, WRB, CAT, VMC, MLM, HOLN.SW, HD, LOW
+  - Warum relevant: Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)
+  - Kurz: Time 2026-09-24 12:29:58 UTC 2026-09-24 12:29:58 UTC at epicenter Location 5.340°S 151.492°E Depth 95.60 km (59.40 mi)
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **M 4.9 - Kermadec Islands, New Zealand** — Score 9, risk — [Quelle](https://earthquake.usgs.gov/earthquakes/eventpage/us6000txb3)
   - Quelle: USGS M4.5+ Earthquakes Past Hour / `rss`
   - Zeit: published `2026-09-24T11:42:21.040+00:00`, fetched `2026-09-24T11:43:09+00:00`
@@ -212,24 +230,6 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 銀行勘定系システムにおける開発プロセス刷新×AIによる環境モダナイゼーション / Development Process Transformation and AI-Driven Environment Modernization
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Sicherheitspatch gegen Schadcode repariert SolarWinds Observability Self-Hosted** — Score 7, observation — [Quelle](https://www.heise.de/news/Sicherheitspatch-gegen-Schadcode-repariert-SolarWinds-Observability-Self-Hosted-11464112.html)
-  - Quelle: heise Security Alerts / `rss`
-  - Zeit: published `2026-09-24T08:23:00.000+00:00`, fetched `2026-09-24T08:38:56+00:00`
-  - Treffer: Security
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); recent (+1.0)
-  - Kurz: Die Monitoring-Lösung für IT-Infrastrukturen SolarWinds Observability Self-Hosted ist unter bestimmten Voraussetzungen verwundbar.
-  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **大臣・副大臣・大臣政務官の交代式を行いました** — Score 6, observation — [Quelle](https://www.digital.go.jp/news/efdd742c-aa9b-4482-8842-0e172fa9b78b)
-  - Quelle: Japan Digital Agency News RSS / `rss`
-  - Zeit: published `2026-09-24T10:29:49+00:00`, fetched `2026-09-24T10:34:39+00:00`
-  - Treffer: APAC Trend Radar
-  - Watchgraph: keine
-  - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
-  - Kurz: 大臣・副大臣・大臣政務官の交代式を行いました
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

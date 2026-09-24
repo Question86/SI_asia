@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-24T12:31:20+00:00_
+_Generated: 2026-09-24T12:51:58+00:00_
 
 ## Status
 - status: `normal`
-- findings: `65`
+- findings: `69`
 
 ## Top Signals
 
@@ -36,32 +36,32 @@ _Generated: 2026-09-24T12:31:20+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3557
 - summary: Ein Angreifer kann mehrere Schwachstellen in BusyBox ausnutzen, um möglicherweise beliebigen Code auszuführen, Speicher zu beschädigen, sensible Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen oder Denial-of-Service-Zustände zu verursachen.
 
-### 5. SEA startup funding jumps to US$7.25B, but most founders are still waiting
+### 5. A new age of capital - growth, sovereignty and AI
+- source: BIS Central Bankers Speeches
+- score: `13`
+- published: `2026-09-24T00:00:00+00:00`
+- url: https://www.bis.org/speeches/20260924-new-age-capital-growth-sovereignty-and-ai
+- summary: Speech by Ms Christine Lagarde, President of the European Central Bank, at “Hofburg im Dialog – economy, europe, resilience”, Vienna, 14 September 2026.
+
+### 6. SEA startup funding jumps to US$7.25B, but most founders are still waiting
 - source: e27 Asia Startup and Tech Feed
 - score: `12`
 - published: `2026-09-24T08:34:01+00:00`
 - url: https://e27.co/sea-startup-funding-jumps-to-us7-25b-but-most-founders-are-still-waiting-20260924/
 - summary: Southeast Asia’s startup funding market is showing signs of life again, but the recovery is not reaching most founders. Venture-backed companies in the region raised US$7.25 billion across 217 equity deals in the first half of 2026, according to the Southeast…
 
-### 6. 長年解読できなかった82文字のエニグマ暗号を「GPT-6 Astra」が解読、独自に解読プログラムも作成
+### 7. 長年解読できなかった82文字のエニグマ暗号を「GPT-6 Astra」が解読、独自に解読プログラムも作成
 - source: Hatena Bookmark Hotentry IT
 - score: `12`
 - published: `2026-09-24T06:44:51+00:00`
 - url: https://gigazine.net/news/20260924-enigma-mvueh-break/
 - summary: 1941年にドイツ軍が送信し、長年にわたって解読が試みられていた82文字のエニグマ暗号「MVUEH」が、OpenAIのAIモデル「GPT-6 Astra」を使った調査によって解読されました。暗号研究サイト「Crypto Cellar Research」を運営する暗号研究者のフローデ・ワイエルード氏も結果を確認し、復元された暗号鍵と平文が正しいと判...
 
-### 7. Opening address - Bank of Korea-Centre for Economic Policy Research-Organisation for Economic Co-operation and Development Conference
+### 8. Opening address - Bank of Korea-Centre for Economic Policy Research-Organisation for Economic Co-operation and Development Conference
 - source: BIS Central Bankers Speeches
 - score: `12`
 - published: `2026-09-24T00:00:00+00:00`
 - url: https://www.bis.org/speeches/20260924-opening-address-bank-korea-centre-economic-policy-research-organisation-economic-co-operation-and-development-conference
 - summary: Speech by Mr Hyun Song Shin, Governor of the Bank of Korea, at the Bank of Korea (BOK)-Centre for Economic Policy Research (CEPR)-Organisation for Economic Co-operation and Development (OECD) Conference, Seoul, 2 September 2026.
-
-### 8. 融易網路｜GPM LIGHT - Sensitive Data Exposure
-- source: TWCERT/CC TVN Vulnerability Notes RSS
-- score: `11`
-- published: `2026-09-24T07:00:00+00:00`
-- url: https://www.twcert.org.tw/tw/cp-132-11216-9ce77-1.html
-- summary: 融易網路｜GPM LIGHT - Sensitive Data Exposure
 
 END OF DOCUMENT
