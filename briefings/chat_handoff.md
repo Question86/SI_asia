@@ -1,39 +1,39 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-24T02:41:18+00:00_
+_Generated: 2026-09-24T02:53:51+00:00_
 
 ## Status
 - status: `normal`
-- findings: `12`
+- findings: `13`
 
 ## Top Signals
 
-### 1. CISA ICS Advisory / ICS Medical Advisory（2026年09月22日）
+### 1. オーストラリア首相「OpenAIのAIが国民健保サイトに侵入」と公表 - 日本経済新聞
+- source: Hatena Bookmark Hotentry IT
+- score: `18`
+- published: `2026-09-23T23:14:59+00:00`
+- url: https://www.nikkei.com/article/DGXZQOGN2407Y0U6A920C2000000/
+- summary: 【シリコンバレー=伴正春、シドニー=今橋瑠璃華】オーストラリアのアルバニージー首相は23日、米オープンAIの人工知能（AI）が6月に国民健康保険のサイトに侵入して非公開のデータにアクセスしていたと公表した。豪公共放送ABCなどが報じた。豪ABCなどによると、米ニューヨークで開かれた記者会見で同氏が発言した。近く...
+
+### 2. CISA ICS Advisory / ICS Medical Advisory（2026年09月22日）
 - source: JVN Japan Vulnerability Notes
 - score: `16`
 - published: `2026-09-24T10:30:00+09:00`
 - url: https://jvn.jp/vu/JVNVU96198756/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 2. Apache Tomcatにおける複数の脆弱性（2026年9月23日）
+### 3. Apache Tomcatにおける複数の脆弱性（2026年9月23日）
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-09-24T10:30:40+09:00`
 - url: https://jvn.jp/vu/JVNVU94625787/
 - summary: The Apache Software Foundationから、Apache Tomcatの15件の脆弱性に対してアドバイザリが公開されました。
 
-### 3. Imprivata製Enterprise Access ManagementにおけるRSA鍵ペアを更新できない脆弱性
+### 4. Imprivata製Enterprise Access ManagementにおけるRSA鍵ペアを更新できない脆弱性
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-09-24T10:30:30+09:00`
 - url: https://jvn.jp/vu/JVNVU92710088/
-- summary: CERT/CCから本件に関するアドバイザリが公表されました。
-
-### 4. Cinnamon AI製Kotaemonのマルチユーザーチャットハンドラにおける不適切な認可の脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-09-24T10:30:20+09:00`
-- url: https://jvn.jp/vu/JVNVU91025240/
 - summary: CERT/CCから本件に関するアドバイザリが公表されました。
 
 ### 5. AI won’t just replace jobs. It will redesign how companies work
