@@ -1,18 +1,28 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-24T04:16:33Z_
+_Generated: 2026-09-24T04:41:41Z_
 
 ## Lageurteil
 
-Stärkste Dynamik nach Gate-Recheck: “Apache Tomcatにおける複数の脆弱性（2026年9月23日）” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.
+Stärkste Dynamik nach Gate-Recheck: “三菱電機製GX Works3およびモーション制御設定における認証回避の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0.
 
 ## Top Dynamics
+
+### 三菱電機製GX Works3およびモーション制御設定における認証回避の脆弱性
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `26.0`
+- Published: `2026-09-24T13:00:00+09:00` / age_days `0.03`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
+- Warum: security high-signal: jvn, security
+- Quelle: https://jvn.jp/vu/JVNVU99700314/
 
 ### Apache Tomcatにおける複数の脆弱性（2026年9月23日）
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-24T10:30:40+09:00` / age_days `0.12`
+- Published: `2026-09-24T10:30:40+09:00` / age_days `0.13`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -22,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “Apache Tomcatにおける複数の脆弱
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `26.0`
-- Published: `2026-09-24T10:30:10+09:00` / age_days `0.12`
+- Published: `2026-09-24T10:30:10+09:00` / age_days `0.13`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: jvn, security
@@ -32,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “Apache Tomcatにおける複数の脆弱
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-24T10:30:30+09:00` / age_days `0.12`
+- Published: `2026-09-24T10:30:30+09:00` / age_days `0.13`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
@@ -42,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “Apache Tomcatにおける複数の脆弱
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-24T10:30:20+09:00` / age_days `0.12`
+- Published: `2026-09-24T10:30:20+09:00` / age_days `0.13`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
@@ -52,17 +62,27 @@ Stärkste Dynamik nach Gate-Recheck: “Apache Tomcatにおける複数の脆弱
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-24T10:30:00+09:00` / age_days `0.12`
+- Published: `2026-09-24T10:30:00+09:00` / age_days `0.13`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: cisa, jvn, security, advisory, official security but no high-signal phrase: capped at strong
 - Quelle: https://jvn.jp/vu/JVNVU96198756/
 
+### 三菱電機製GX Works3およびモーション制御設定における認証回避の脆弱性
+
+- Band: `strong` (raw `strong`)
+- Dynamics score: `23.5`
+- Published: `2026-09-24T04:25:00+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
+- Senna: Beobachten, nicht aufblasen.
+- Warum: momentum delta +1
+- Quelle: https://jvn.jp/vu/JVNVU99700314/
+
 ### Apache Tomcatにおける複数の脆弱性（2026年9月23日）
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-24T01:39:57+00:00` / age_days `0.11`
+- Published: `2026-09-24T01:39:57+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -72,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “Apache Tomcatにおける複数の脆弱
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-24T01:39:57+00:00` / age_days `0.11`
+- Published: `2026-09-24T01:39:57+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -82,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “Apache Tomcatにおける複数の脆弱
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-24T01:39:57+00:00` / age_days `0.11`
+- Published: `2026-09-24T01:39:57+00:00` / age_days `0.13`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: momentum delta +3
@@ -92,40 +112,20 @@ Stärkste Dynamik nach Gate-Recheck: “Apache Tomcatにおける複数の脆弱
 
 - Band: `strong` (raw `strong`)
 - Dynamics score: `23.0`
-- Published: `2026-09-24T03:51:50.040+00:00` / age_days `0.02`
+- Published: `2026-09-24T03:51:50.040+00:00` / age_days `0.03`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
 - Warum: early terms: earthquake, high terms: 10
 - Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx8q
 
-### オーストラリア首相「OpenAIのAIが国民健保サイトに侵入」と公表 - 日本経済新聞
+### Why scaling across Southeast Asia means pricing in the cable you never see
 
-- Band: `watch` (raw `strong`)
-- Dynamics score: `19.9`
-- Published: `2026-06-19T02:10:07+00:00` / age_days `97.09`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.
-- Warum: momentum delta +3, baseline z_hint 8.43, single-source AI hype brake -8.0, aging penalty -8.0 for 97.1d old signal, stale single-source cap: max watch after 14d without fresh resonance, single-source AI cap enforced after phrase recheck
-- Quelle: https://www.nikkei.com/article/DGXZQOGN2407Y0U6A920C2000000/
-
-### M 4.5 - 31 km NNW of Komodo, Indonesia
-
-- Band: `watch` (raw `krass`)
-- Dynamics score: `19.9`
-- Published: `2026-09-05T07:22:32+00:00` / age_days `18.87`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
+- Band: `strong` (raw `strong`)
+- Dynamics score: `20.0`
+- Published: `2026-09-24T04:25:00+00:00` / age_days `0.01`
+- Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, baseline z_hint 2.90, krass gate: single-source non-official/non-identity signal capped, stale single-source cap: max watch after 14d without fresh resonance
-- Quelle: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx8q
-
-### CISA ICS Advisory / ICS Medical Advisory（2026年09月22日）
-
-- Band: `watch` (raw `watch`)
-- Dynamics score: `17.0`
-- Published: `2026-06-19T01:58:32+00:00` / age_days `97.1`
-- Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
-- Senna: Beobachten, nicht aufblasen.
-- Warum: momentum delta +3, aging penalty -8.0 for 97.1d old signal
-- Quelle: https://jvn.jp/vu/JVNVU96198756/
+- Warum: momentum delta +1
+- Quelle: https://e27.co/why-scaling-across-southeast-asia-means-pricing-in-the-cable-you-never-see-20260921/
 
 END OF DOCUMENT
