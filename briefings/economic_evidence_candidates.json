@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-09-24T13:55:33+00:00",
-  "candidate_count": 1084,
+  "generated_at": "2026-09-24T14:03:37+00:00",
+  "candidate_count": 1086,
   "candidates": [
     {
       "amount_native": 1755400000000.0,
@@ -14536,6 +14536,24 @@
       "source_url": "https://www.anthropic.com/claude-opus-5-5"
     },
     {
+      "candidate_id": "cand_1a35aeb1d7e69d6f75bc",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "source_url": "https://www.bis.org/speeches/20260924-navigating-uncertainty-and-adapting-change",
+      "observed_at": "2026-09-24T14:03:19+00:00",
+      "currency": "USD",
+      "amount_native": 40.0,
+      "amount_usd": 40.0,
+      "conversion_status": "not_required",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unclassified",
+      "attribution_probability": null,
+      "snippet": "result, fuel prices have risen more than we’d normally expect given the increase in oil prices. In fact, recent gasoline prices have been more consistent with an oil price almost US$40 higher than where it has been. Canadians see the consequences of that every time they pass a gas station. Businesses see it in elevated transportation and distribution costs. And f",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "secondary_or_unknown",
+      "candidate_confidence": 0.55,
+      "review_status": "pending"
+    },
+    {
       "amount_native": 26.0,
       "amount_usd": 26.0,
       "attribution_probability": null,
@@ -19636,6 +19654,24 @@
       "snippet": "0 .08.049z33:[\\\"$\\\",\\\"symbol\\\",null,{\\\"fill\\\":\\\"var(--_icn-c)\\\",\\\"viewBox\\\":\\\"0 0 29 29\\\",\\\"id\\\":\\\"icn-ball\\\",\\\"children\\\":[\\\"$\\\",\\\"path\\\",null,{\\\"fill\\\":\\\"var(--_icn-c)\\\",\\\"d\\\":\\\"$102\\\"}]}]\\n34:[\\\"$\\\",\\\"symbol\\\",null,{\\\"fill\\\":\\\"var(--_icn-c)\\\",\\\"viewBox\\\":\\\"0 0 16 16\\\",\\\"id\\\":\\\"icn-bell\\\",\\\"children\\\":[[\\\"$\\\",\\\"path\\\",null,{\\\"d\\\":\\\"m11.8 7.8-1.1-2.4A4.5 4.5 0",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://www.haaretz.com/israel-news/israel-security/2026-09-08/ty-article-magazine/.highlight/netanyahu-got-an-explicit-warning-before-oct-7-he-didnt-brief-security-chiefs/000001a0-7a3b-d7d5-a9fc-7eff3d0f0000"
+    },
+    {
+      "candidate_id": "cand_a9dcb7d6f9d85748b4dd",
+      "event_id": "evt_5a8609c38e0d544999d3",
+      "source_url": "https://www.bis.org/speeches/20260924-navigating-uncertainty-and-adapting-change",
+      "observed_at": "2026-09-24T14:03:19+00:00",
+      "currency": "USD",
+      "amount_native": 100.0,
+      "amount_usd": 100.0,
+      "conversion_status": "not_required",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_5a8609c38e0d544999d3:unclassified",
+      "attribution_probability": null,
+      "snippet": "inflation higher than we expected. CPI inflation has remained around 3% in recent months, largely because of these higher fuel prices. As things stand now, if oil prices stay near $100 per barrel, we would expect inflation to edge up in the coming months. The Bank has been looking through the direct impact of higher oil prices on inflation because so far, we have",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "secondary_or_unknown",
+      "candidate_confidence": 0.35,
+      "review_status": "pending"
     },
     {
       "amount_native": 74.0,
