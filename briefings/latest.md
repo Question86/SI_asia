@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-24T06:58:17+00:00_
+_Generiert: 2026-09-24T07:23:34+00:00_
 
 ## Kurzlage
 
-26 neue relevante Treffer. Stärkstes Signal: „オーストラリア首相「OpenAIのAIが国民健保サイトに侵入」と公表 - 日本経済新聞“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
+27 neue relevante Treffer. Stärkstes Signal: „オーストラリア首相「OpenAIのAIが国民健保サイトに侵入」と公表 - 日本経済新聞“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -125,6 +125,15 @@ Keine neuen Hochprioritäts-Treffer.
 
 ## Nur beobachten
 
+- **全景軟體｜CGServiSign - OS Command Injection** — Score 11, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-11213-28a81-1.html)
+  - Quelle: TWCERT/CC TVN Vulnerability Notes RSS / `rss`
+  - Zeit: published `2026-09-23T08:10:00+00:00`, fetched `2026-09-24T07:23:03+00:00`
+  - Treffer: Security, TVN, TWCERT
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)
+  - Kurz: 全景軟體｜CGServiSign - OS Command Injection
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **Life Lab Resources grabs US$1M to turn food waste into aquaculture feed** — Score 10, observation — [Quelle](https://e27.co/life-lab-resources-grabs-us1m-to-turn-food-waste-into-aquaculture-feed-20260924/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
   - Zeit: published `2026-09-24T05:05:49+00:00`, fetched `2026-09-24T05:17:27+00:00`
