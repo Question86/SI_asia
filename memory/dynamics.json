@@ -1,20 +1,20 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-24T05:14:16Z",
+  "generated_at": "2026-09-24T05:30:20Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
-      "krass": 3,
+      "krass": 5,
       "strong": 8,
-      "watch": 13,
-      "quiet": 16
+      "watch": 15,
+      "quiet": 12
     },
     "bands_after_gate_recheck": {
-      "strong": 11,
-      "watch": 13,
-      "quiet": 16
+      "strong": 13,
+      "watch": 15,
+      "quiet": 12
     }
   },
   "top_dynamics": [
@@ -23,7 +23,7 @@
       "url": "https://jvn.jp/vu/JVNVU99700314/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T13:00:00+09:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "security"
       ],
@@ -47,7 +47,7 @@
       "url": "https://jvn.jp/vu/JVNVU94625787/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T10:30:40+09:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -71,7 +71,7 @@
       "url": "https://jvn.jp/vu/JVNVU93766760/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T10:30:10+09:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -91,11 +91,38 @@
       "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
     },
     {
+      "title": "Life Lab Resources grabs US$1M to turn food waste into aquaculture feed",
+      "url": "https://e27.co/life-lab-resources-grabs-us1m-to-turn-food-waste-into-aquaculture-feed-20260924/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-24T05:18:04+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +1",
+        "high terms: rce",
+        "security high-signal: rce",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Imprivata製Enterprise Access ManagementにおけるRSA鍵ペアを更新できない脆弱性",
       "url": "https://jvn.jp/vu/JVNVU92710088/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T10:30:30+09:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -121,7 +148,7 @@
       "url": "https://jvn.jp/vu/JVNVU91025240/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T10:30:20+09:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "ai",
         "security"
@@ -148,7 +175,7 @@
       "url": "https://jvn.jp/vu/JVNVU96198756/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T10:30:00+09:00",
-      "age_days": 0.16,
+      "age_days": 0.17,
       "topics": [
         "security"
       ],
@@ -169,11 +196,37 @@
       "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
     },
     {
+      "title": "Life Lab Resources grabs US$1M to turn food waste into aquaculture feed",
+      "url": "https://e27.co/life-lab-resources-grabs-us1m-to-turn-food-waste-into-aquaculture-feed-20260924/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-24T05:05:49+00:00",
+      "age_days": 0.02,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: rce",
+        "security high-signal: rce",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "Singapore’s food waste problem is often framed as a consumer habit or a logistics issue. For Life Lab Resources, it is also a feedstock problem, and one that could help ease another pressure point in Southeast Asia: rising demand for more sustainable aquaculture feed. The Singapore-based startup has raised US$1 millio…"
+    },
+    {
       "title": "三菱電機製GX Works3およびモーション制御設定における認証回避の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU99700314/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T04:25:00+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
@@ -197,7 +250,7 @@
       "url": "https://jvn.jp/vu/JVNVU94625787/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T01:39:57+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -221,7 +274,7 @@
       "url": "https://jvn.jp/vu/JVNVU92710088/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T01:39:57+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -245,7 +298,7 @@
       "url": "https://jvn.jp/vu/JVNVU93766760/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T01:39:57+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -269,7 +322,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx8q",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-24T03:51:50.040+00:00",
-      "age_days": 0.06,
+      "age_days": 0.07,
       "topics": [
         "disaster"
       ],
@@ -294,7 +347,7 @@
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx8q",
       "source": "USGS M4.5+ Earthquakes Past Hour",
       "published_at": "2026-09-05T07:22:32+00:00",
-      "age_days": 18.91,
+      "age_days": 18.92,
       "topics": [
         "general"
       ],
@@ -319,7 +372,7 @@
       "url": "https://e27.co/why-scaling-across-southeast-asia-means-pricing-in-the-cable-you-never-see-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-24T04:25:00+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
@@ -343,26 +396,50 @@
       "url": "https://www.nikkei.com/article/DGXZQOGN2407Y0U6A920C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T02:10:07+00:00",
-      "age_days": 97.13,
+      "age_days": 97.14,
       "topics": [
         "ai"
       ],
-      "dynamics_score": 18.65,
+      "dynamics_score": 18.26,
       "raw_band": "watch",
       "dynamic_band": "watch",
       "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
       "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 6.96,
+      "baseline_z_hint": 6.6,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 6.96",
+        "baseline z_hint 6.60",
         "single-source AI hype brake -8.0",
         "aging penalty -8.0 for 97.1d old signal",
         "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "TaniHub, prison and grace: Cynthia Wihardja’s post gives a human face to VC risk",
+      "url": "https://e27.co/tanihub-prison-and-grace-cynthia-wihardjas-post-gives-a-human-face-to-vc-risk-20260924/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-24T04:39:03+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 18.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
       ],
       "summary": ""
     },
@@ -371,7 +448,7 @@
       "url": "https://jvn.jp/vu/JVNVU96198756/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 97.14,
+      "age_days": 97.15,
       "topics": [
         "general"
       ],
@@ -396,7 +473,7 @@
       "url": "https://e27.co/asian-investors-arent-choosing-between-crypto-and-tradfi-anymore-20260923/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-24T03:41:01+00:00",
-      "age_days": 0.06,
+      "age_days": 0.08,
       "topics": [
         "general"
       ],
@@ -416,35 +493,11 @@
       "summary": ""
     },
     {
-      "title": "TaniHub, prison and grace: Cynthia Wihardja’s post gives a human face to VC risk",
-      "url": "https://e27.co/tanihub-prison-and-grace-cynthia-wihardjas-post-gives-a-human-face-to-vc-risk-20260924/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-24T04:39:03+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 15.5,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2"
-      ],
-      "summary": ""
-    },
-    {
       "title": "Cinnamon AI製Kotaemonのマルチユーザーチャットハンドラにおける不適切な認可の脆弱性",
       "url": "https://jvn.jp/vu/JVNVU91025240/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T01:39:57+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -469,7 +522,7 @@
       "url": "https://japan.cnet.com/article/35252874/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-24T00:18:43+00:00",
-      "age_days": 0.21,
+      "age_days": 0.22,
       "topics": [
         "general"
       ],
@@ -493,7 +546,7 @@
       "url": "https://e27.co/startups-keep-scaling-ops-before-they-scale-data-heres-why-it-backfires-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-24T03:01:41+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -517,7 +570,7 @@
       "url": "https://nejimakinikki.hatenablog.com/entry/google-maps-ecomode-off-route",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-24T01:39:57+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "general"
       ],
@@ -537,11 +590,59 @@
       "summary": ""
     },
     {
+      "title": "Bitcoin’s corrective pullback or the start of a deeper drop toward US$79,600?",
+      "url": "https://e27.co/bitcoins-corrective-pullback-or-the-start-of-a-deeper-drop-toward-us79600-20260924/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-24T04:39:03+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Can Asia’s ETF infrastructure keep pace with its growth?",
+      "url": "https://e27.co/can-asias-etf-infrastructure-keep-pace-with-its-growth-20260923/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-24T04:39:03+00:00",
+      "age_days": 0.04,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 13.0,
+      "raw_band": "watch",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3"
+      ],
+      "summary": ""
+    },
+    {
       "title": "What building Bangladesh’s agency actually looks like from the inside – Part 1",
       "url": "https://e27.co/what-building-bangladeshs-agency-actually-looks-like-from-the-inside-part-1-20260923/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-24T04:25:00+00:00",
-      "age_days": 0.03,
+      "age_days": 0.05,
       "topics": [
         "general"
       ],
@@ -565,7 +666,7 @@
       "url": "https://e27.co/how-i-rebuilt-my-companys-meeting-culture-after-realising-we-were-drowning-in-status-updates-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-24T02:23:46+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "general"
       ],
@@ -589,7 +690,7 @@
       "url": "https://e27.co/reverse-home-bias-why-southeast-asias-digital-investors-may-be-diversifying-in-the-wrong-direction-20260914/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-24T01:15:44+00:00",
-      "age_days": 0.17,
+      "age_days": 0.18,
       "topics": [
         "general"
       ],
@@ -613,7 +714,7 @@
       "url": "https://e27.co/ai-wont-just-replace-jobs-it-will-redesign-how-companies-work-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-24T01:39:57+00:00",
-      "age_days": 0.15,
+      "age_days": 0.16,
       "topics": [
         "ai"
       ],
@@ -639,7 +740,7 @@
       "url": "https://japan.cnet.com/article/35252874/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T09:22:22+00:00",
-      "age_days": 96.83,
+      "age_days": 96.84,
       "topics": [
         "general"
       ],
@@ -660,59 +761,11 @@
       "summary": ""
     },
     {
-      "title": "Bitcoin’s corrective pullback or the start of a deeper drop toward US$79,600?",
-      "url": "https://e27.co/bitcoins-corrective-pullback-or-the-start-of-a-deeper-drop-toward-us79600-20260924/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-24T04:39:03+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "Can Asia’s ETF infrastructure keep pace with its growth?",
-      "url": "https://e27.co/can-asias-etf-infrastructure-keep-pace-with-its-growth-20260923/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-24T04:39:03+00:00",
-      "age_days": 0.02,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 10.5,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 2,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +2"
-      ],
-      "summary": ""
-    },
-    {
       "title": "オーストラリア首相「OpenAIのAIが国民健保サイトに侵入」と公表 - 日本経済新聞",
       "url": "https://www.nikkei.com/article/DGXZQOGN2407Y0U6A920C2000000/",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-23T23:14:59+00:00",
-      "age_days": 0.25,
+      "age_days": 0.26,
       "topics": [
         "ai"
       ],
@@ -737,7 +790,7 @@
       "url": "https://e27.co/why-scaling-across-southeast-asia-means-pricing-in-the-cable-you-never-see-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-24T04:00:17+00:00",
-      "age_days": 0.05,
+      "age_days": 0.06,
       "topics": [
         "macro"
       ],
@@ -761,7 +814,7 @@
       "url": "https://e27.co/the-future-of-healthcare-ai-isnt-more-data-its-better-context-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-24T02:23:46+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -787,7 +840,7 @@
       "url": "https://speakerdeck.com/kokitamura/sre-toha-nani-ka-aws-de-dou-hajimeru-ka",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 97.14,
+      "age_days": 97.15,
       "topics": [
         "general"
       ],
@@ -812,7 +865,7 @@
       "url": "https://e27.co/tanihub-prison-and-grace-cynthia-wihardjas-post-gives-a-human-face-to-vc-risk-20260924/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-24T04:29:08+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "general"
       ],
@@ -836,7 +889,7 @@
       "url": "https://e27.co/asian-investors-arent-choosing-between-crypto-and-tradfi-anymore-20260923/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-24T03:30:43+00:00",
-      "age_days": 0.07,
+      "age_days": 0.08,
       "topics": [
         "macro"
       ],
@@ -860,7 +913,7 @@
       "url": "https://av.watch.impress.co.jp/docs/series/rt/2142663.html",
       "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-24T02:23:46+00:00",
-      "age_days": 0.12,
+      "age_days": 0.13,
       "topics": [
         "ai"
       ],
@@ -882,11 +935,37 @@
       "summary": ""
     },
     {
+      "title": "Rails World 2026 DHHキーノートの日本語要約",
+      "url": "https://komagata.github.io/public-notes/rails-world-2026/",
+      "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-09-24T05:18:04+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai"
+      ],
+      "dynamics_score": 5.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "single-source AI hype brake -8.0",
+        "single-source AI cap enforced after phrase recheck"
+      ],
+      "summary": ""
+    },
+    {
       "title": "Startups keep scaling ops before they scale data — Here’s why it backfires",
       "url": "https://e27.co/startups-keep-scaling-ops-before-they-scale-data-heres-why-it-backfires-20260921/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-24T03:00:08+00:00",
-      "age_days": 0.09,
+      "age_days": 0.1,
       "topics": [
         "general"
       ],
@@ -910,7 +989,7 @@
       "url": "https://e27.co/bitcoins-corrective-pullback-or-the-start-of-a-deeper-drop-toward-us79600-20260924/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-24T04:30:46+00:00",
-      "age_days": 0.03,
+      "age_days": 0.04,
       "topics": [
         "macro"
       ],
@@ -928,79 +1007,6 @@
         "no strong comparative reason"
       ],
       "summary": "The digital asset market has fallen by 2.57 per cent to US$2.86T over the past 24 hours. Bitcoin, the largest token by market value, dropped 2.81 per cent to US$84,261.32 during the same period. The total crypto market cap declined 2.92 per cent, and Bitcoin’s move closely tracked that broader drop. The data shows a […"
-    },
-    {
-      "title": "Can Asia’s ETF infrastructure keep pace with its growth?",
-      "url": "https://e27.co/can-asias-etf-infrastructure-keep-pace-with-its-growth-20260923/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-24T04:30:02+00:00",
-      "age_days": 0.03,
-      "topics": [
-        "macro"
-      ],
-      "dynamics_score": 4.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "Asia’s ETF market has never been more dynamic. Assets are growing, new issuers are entering the market, investors are more engaged and product innovation is accelerating. For many years, the region’s ETF industry was defined by its potential. Today, that potential is becoming reality, with Asia emerging as the world’s…"
-    },
-    {
-      "title": "Reverse home bias: Why Southeast Asia’s digital investors may be diversifying in the wrong direction",
-      "url": "https://e27.co/reverse-home-bias-why-southeast-asias-digital-investors-may-be-diversifying-in-the-wrong-direction-20260914/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-24T01:00:55+00:00",
-      "age_days": 0.18,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 3.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "no strong comparative reason"
-      ],
-      "summary": "The next portfolio concentration problem may not come from investors staying too close to home, but from millions of investors becoming familiar with the same handful of global companies. For decades, one of the most persistent puzzles in investing has been home bias. Investors have traditionally tended to allocate di…"
-    },
-    {
-      "title": "AI won’t just replace jobs. It will redesign how companies work",
-      "url": "https://e27.co/ai-wont-just-replace-jobs-it-will-redesign-how-companies-work-20260921/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "published_at": "2026-09-24T01:30:18+00:00",
-      "age_days": 0.16,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 2.0,
-      "raw_band": "quiet",
-      "dynamic_band": "quiet",
-      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
-      "senna_line": "Interessant, aber Einzelquellen-AI darf nicht die Lage dominieren.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "single-source AI hype brake -8.0",
-        "single-source AI cap enforced after phrase recheck"
-      ],
-      "summary": "For years, one question has dominated the conversation around artificial intelligence: How many jobs will AI replace? After working with enterprises in Southeast Asia to deploy AI into real business processes, I increasingly think we are asking the wrong question. The more important question is: How much more can an o…"
     }
   ],
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “三菱電機製GX Works3およびモーション制御設定における認証回避の脆弱性” — Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung. Band=strong, score=26.0."

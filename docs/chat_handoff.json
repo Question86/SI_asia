@@ -100,5 +100,140 @@
     "memory/index.json",
     "briefings/health.json",
     "briefings/latest.json only if deeper inspection is needed"
-  ]
+  ],
+  "intelligence_layer": {
+    "situation_read": "Stärkste Dynamik: “Life Lab Resources grabs US$1M to turn food waste into aquaculture feed” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.5.",
+    "read_order": [
+      "briefings/intelligence_handoff.json",
+      "memory/dynamics.json"
+    ],
+    "top_dynamics": [
+      {
+        "title": "Life Lab Resources grabs US$1M to turn food waste into aquaculture feed",
+        "url": "https://e27.co/life-lab-resources-grabs-us1m-to-turn-food-waste-into-aquaculture-feed-20260924/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-24T05:18:04+00:00",
+        "age_days": 0.01,
+        "topics": [
+          "general"
+        ],
+        "dynamics_score": 33.5,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 1,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "momentum delta +1",
+          "high terms: rce",
+          "security high-signal: rce"
+        ],
+        "summary": ""
+      },
+      {
+        "title": "Imprivata製Enterprise Access ManagementにおけるRSA鍵ペアを更新できない脆弱性",
+        "url": "https://jvn.jp/vu/JVNVU92710088/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-24T10:30:30+09:00",
+        "age_days": 0.17,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 31.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: 10",
+          "security high-signal: 10"
+        ],
+        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
+      },
+      {
+        "title": "Cinnamon AI製Kotaemonのマルチユーザーチャットハンドラにおける不適切な認可の脆弱性",
+        "url": "https://jvn.jp/vu/JVNVU91025240/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-24T10:30:20+09:00",
+        "age_days": 0.17,
+        "topics": [
+          "ai",
+          "security"
+        ],
+        "dynamics_score": 31.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: 10",
+          "security high-signal: 10"
+        ],
+        "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
+      },
+      {
+        "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月22日）",
+        "url": "https://jvn.jp/vu/JVNVU96198756/",
+        "source": "JVN Japan Vulnerability Notes",
+        "published_at": "2026-09-24T10:30:00+09:00",
+        "age_days": 0.17,
+        "topics": [
+          "security"
+        ],
+        "dynamics_score": 28.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "security high-signal: cisa, jvn, security, advisory"
+        ],
+        "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
+      },
+      {
+        "title": "Life Lab Resources grabs US$1M to turn food waste into aquaculture feed",
+        "url": "https://e27.co/life-lab-resources-grabs-us1m-to-turn-food-waste-into-aquaculture-feed-20260924/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "published_at": "2026-09-24T05:05:49+00:00",
+        "age_days": 0.02,
+        "topics": [
+          "ai"
+        ],
+        "dynamics_score": 27.0,
+        "raw_band": "krass",
+        "dynamic_band": "krass",
+        "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+        "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+        "source_count": 1,
+        "momentum_delta": 0,
+        "baseline_z_hint": 0.0,
+        "security_high_signal": true,
+        "single_source_ai_capped": false,
+        "why": [
+          "high terms: rce",
+          "security high-signal: rce"
+        ],
+        "summary": "Singapore’s food waste problem is often framed as a consumer habit or a logistics issue. For Life Lab Resources, it is also a feedstock problem, and one that could help ease another pressure point in Southeast Asia: rising demand for more sustainable aquaculture feed. The Singapore-based startup has raised US$1 millio…"
+      }
+    ]
+  }
 }
