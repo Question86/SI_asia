@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T08:39:23+00:00",
-  "run_id": "2026-09-24T08:39:23+00:00",
+  "generated_at": "2026-09-24T08:52:32+00:00",
+  "run_id": "2026-09-24T08:52:32+00:00",
   "date": "2026-09-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 2,
+    "new_relevant_findings": 0,
     "today_file_total": 31,
     "displayed_findings": 31,
     "high": 0,
@@ -1463,51 +1463,7 @@
       "id": "ec0c4d44f87968ac9b42"
     }
   ],
-  "new_findings": [
-    {
-      "title": "SEA startup funding jumps to US$7.25B, but most founders are still waiting",
-      "url": "https://e27.co/sea-startup-funding-jumps-to-us7-25b-but-most-founders-are-still-waiting-20260924/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-24T08:34:01+00:00",
-      "fetched_at": "2026-09-24T08:38:56+00:00",
-      "summary": "Southeast Asia’s startup funding market is showing signs of life again, but the recovery is not reaching most founders. Venture-backed companies in the region raised US$7.25 billion across 217 equity deals in the first half of 2026, according to the Southeast Asia Startup Funding Report H1 2026 by Kickstart Ventures and DealStreetAsia. That is the […] The post SEA startup funding jumps to US$7.25B, but most founders…",
-      "matched_keywords": [
-        "APAC Trend Radar",
-        "founder",
-        "funding",
-        "Southeast Asia"
-      ],
-      "relevance_score": 12,
-      "relevance_reason": "APAC Trend Radar (+3.8); Southeast Asia (+2.0); founder (+2.5); funding (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "42c034bc1cd2f46328d9"
-    },
-    {
-      "title": "Sicherheitspatch gegen Schadcode repariert SolarWinds Observability Self-Hosted",
-      "url": "https://www.heise.de/news/Sicherheitspatch-gegen-Schadcode-repariert-SolarWinds-Observability-Self-Hosted-11464112.html",
-      "source": "heise Security Alerts",
-      "source_type": "rss",
-      "published_at": "2026-09-24T08:23:00.000+00:00",
-      "fetched_at": "2026-09-24T08:38:56+00:00",
-      "summary": "Die Monitoring-Lösung für IT-Infrastrukturen SolarWinds Observability Self-Hosted ist unter bestimmten Voraussetzungen verwundbar.",
-      "matched_keywords": [
-        "Security"
-      ],
-      "relevance_score": 7,
-      "relevance_reason": "Security (+6.0); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "c31a30744aaa93f484dc"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
