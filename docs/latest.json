@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T07:23:34+00:00",
-  "run_id": "2026-09-24T07:23:34+00:00",
+  "generated_at": "2026-09-24T07:37:08+00:00",
+  "run_id": "2026-09-24T07:37:08+00:00",
   "date": "2026-09-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 27,
     "displayed_findings": 27,
     "high": 0,
@@ -1263,30 +1263,7 @@
       "id": "ec0c4d44f87968ac9b42"
     }
   ],
-  "new_findings": [
-    {
-      "title": "全景軟體｜CGServiSign - OS Command Injection",
-      "url": "https://www.twcert.org.tw/tw/cp-132-11213-28a81-1.html",
-      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
-      "source_type": "rss",
-      "published_at": "2026-09-23T08:10:00+00:00",
-      "fetched_at": "2026-09-24T07:23:03+00:00",
-      "summary": "全景軟體｜CGServiSign - OS Command Injection",
-      "matched_keywords": [
-        "Security",
-        "TVN",
-        "TWCERT"
-      ],
-      "relevance_score": 11,
-      "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
-      "risk_or_opportunity": "risk",
-      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "6aecc4717d5a4f0b8cfb"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
