@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-24T01:12:38Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “SREとは何か、AWSでどう始めるか” — Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm. Band=watch, score=12.46.",
+  "generated_at": "2026-09-24T01:37:36Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “Reverse home bias: Why Southeast Asia’s digital investors may be diversifying in the wrong direction” — Die Dynamik wirkt aktuell wie Hintergrundrauschen. Band=quiet, score=9.5.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,28 +11,26 @@
   ],
   "top_dynamics": [
     {
-      "title": "SREとは何か、AWSでどう始めるか",
-      "url": "https://speakerdeck.com/kokitamura/sre-toha-nani-ka-aws-de-dou-hajimeru-ka",
-      "source": "Hatena Bookmark Hotentry IT",
-      "published_at": "2026-06-19T01:58:32+00:00",
-      "age_days": 96.97,
+      "title": "Reverse home bias: Why Southeast Asia’s digital investors may be diversifying in the wrong direction",
+      "url": "https://e27.co/reverse-home-bias-why-southeast-asias-digital-investors-may-be-diversifying-in-the-wrong-direction-20260914/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-24T01:15:44+00:00",
+      "age_days": 0.02,
       "topics": [
         "general"
       ],
-      "dynamics_score": 12.46,
-      "raw_band": "watch",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "dynamics_score": 9.5,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
       "senna_line": "Beobachten, nicht aufblasen.",
       "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.87,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3",
-        "baseline z_hint 0.87",
-        "aging penalty -8.0 for 97.0d old signal"
+        "momentum delta +1"
       ],
       "summary": ""
     },
@@ -40,8 +38,57 @@
       "title": "SREとは何か、AWSでどう始めるか",
       "url": "https://speakerdeck.com/kokitamura/sre-toha-nani-ka-aws-de-dou-hajimeru-ka",
       "source": "Hatena Bookmark Hotentry IT",
+      "published_at": "2026-06-19T01:58:32+00:00",
+      "age_days": 96.99,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 9.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 3,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "momentum delta +3",
+        "aging penalty -8.0 for 97.0d old signal"
+      ],
+      "summary": ""
+    },
+    {
+      "title": "Reverse home bias: Why Southeast Asia’s digital investors may be diversifying in the wrong direction",
+      "url": "https://e27.co/reverse-home-bias-why-southeast-asias-digital-investors-may-be-diversifying-in-the-wrong-direction-20260914/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "published_at": "2026-09-24T01:00:55+00:00",
+      "age_days": 0.03,
+      "topics": [
+        "general"
+      ],
+      "dynamics_score": 3.0,
+      "raw_band": "quiet",
+      "dynamic_band": "quiet",
+      "comparative_read": "Die Dynamik wirkt aktuell wie Hintergrundrauschen.",
+      "senna_line": "Beobachten, nicht aufblasen.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "no strong comparative reason"
+      ],
+      "summary": "The next portfolio concentration problem may not come from investors staying too close to home, but from millions of investors becoming familiar with the same handful of global companies. For decades, one of the most persistent puzzles in investing has been home bias. Investors have traditionally tended to allocate di…"
+    },
+    {
+      "title": "SREとは何か、AWSでどう始めるか",
+      "url": "https://speakerdeck.com/kokitamura/sre-toha-nani-ka-aws-de-dou-hajimeru-ka",
+      "source": "Hatena Bookmark Hotentry IT",
       "published_at": "2026-09-23T13:46:19+00:00",
-      "age_days": 0.48,
+      "age_days": 0.49,
       "topics": [
         "ai"
       ],
@@ -71,8 +118,7 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "watch": 1,
-      "quiet": 1
+      "quiet": 4
     }
   }
 }
