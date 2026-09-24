@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-24T20:00:04+00:00",
+  "generated_at": "2026-09-24T20:22:47+00:00",
   "events": [
     {
       "event_id": "evt_00999a707b633ec75a8c",
@@ -6435,7 +6435,7 @@
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_a0a48f18e523a40ddacf",
@@ -9219,6 +9219,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_e82982a0606271b997ae",
+      "title": "When chat is the wrong UI",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_e829cfd9fccf2b0ceb16",
