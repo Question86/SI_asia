@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-24T01:16:02+00:00",
+  "generated_at": "2026-09-24T01:40:14+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -4345,8 +4345,8 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-18T23:55:00+00:00",
-      "status": "dormant"
+      "last_seen_at": "2026-09-24T01:39:57+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_6bd9db655618cf846ffa",
@@ -5010,6 +5010,74 @@
       "first_seen_at": "2026-09-16T03:09:18+00:00",
       "last_seen_at": "2026-09-16T23:55:27+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_834b547a10d7a21d2d9c",
+      "title": "Apache Tomcatにおける複数の脆弱性（2026年9月23日）",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-24T01:39:57+00:00",
+      "last_seen_at": "2026-09-24T01:39:57+00:00",
+      "status": "active"
+    },
+    {
+      "event_id": "evt_631002a93d0146e1476d",
+      "title": "Imprivata製Enterprise Access ManagementにおけるRSA鍵ペアを更新できない脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-24T01:39:57+00:00",
+      "last_seen_at": "2026-09-24T01:39:57+00:00",
+      "status": "active"
+    },
+    {
+      "event_id": "evt_201940b7c1cad5180657",
+      "title": "Cinnamon AI製Kotaemonのマルチユーザーチャットハンドラにおける不適切な認可の脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-24T01:39:57+00:00",
+      "last_seen_at": "2026-09-24T01:39:57+00:00",
+      "status": "active"
+    },
+    {
+      "event_id": "evt_296368e1aba53a777a57",
+      "title": "ベンダによる署名済みUEFIアプリケーションにおけるセキュアブートバイパスの脆弱性",
+      "event_classes": [
+        "vulnerability"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 288000.0,
+      "p50_usd": 28800000.0,
+      "p90_usd": 2880000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-24T01:39:57+00:00",
+      "last_seen_at": "2026-09-24T01:39:57+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_2f5c3cffbb9951edd868",
@@ -8476,7 +8544,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T22:15:36+00:00",
-      "last_seen_at": "2026-09-24T01:15:44+00:00",
+      "last_seen_at": "2026-09-24T01:39:57+00:00",
       "status": "active"
     },
     {
@@ -9668,6 +9736,23 @@
       "first_seen_at": "2026-09-05T03:23:45+00:00",
       "last_seen_at": "2026-09-05T23:55:24+00:00",
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_7ec0ca385a63fbb39883",
+      "title": "AI won’t just replace jobs. It will redesign how companies work",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 112000.0,
+      "p50_usd": 11200000.0,
+      "p90_usd": 1120000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-24T01:39:57+00:00",
+      "last_seen_at": "2026-09-24T01:39:57+00:00",
+      "status": "active"
     },
     {
       "event_id": "evt_09036b8b28293de638ea",
@@ -14669,6 +14754,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_e78124043cc6ffc7df4e",
+      "title": "グーグルマップが遅い経路を表示してくるときに試したいこと - ねじまき日記",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 108000.0,
+      "p50_usd": 10800000.0,
+      "p90_usd": 1080000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-24T01:39:57+00:00",
+      "last_seen_at": "2026-09-24T01:39:57+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_017c3d08edef1ec4ff45",
       "title": "Can Ethereum clear US$2,672 this week and unlock a run to US$3,000?",
       "event_classes": [
@@ -15061,6 +15163,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_64718195d629023fb466",
+      "title": "Reverse home bias: Why Southeast Asia’s digital investors may be diversifying in the wrong direction",
+      "event_classes": [
+        "unknown"
+      ],
+      "capital_channels": [
+        "unknown"
+      ],
+      "p10_usd": 106400.0,
+      "p50_usd": 10640000.0,
+      "p90_usd": 1064000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-24T01:15:44+00:00",
+      "last_seen_at": "2026-09-24T01:39:57+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_6e1817c1c44fda6c3530",
       "title": "電動アシスト自転車のように足が前へ出る､14万円のAI外骨格を高尾山で試してわかった実力と課題",
       "event_classes": [
@@ -15110,23 +15229,6 @@
       "first_seen_at": "2026-09-22T02:30:48+00:00",
       "last_seen_at": "2026-09-22T06:57:39+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_64718195d629023fb466",
-      "title": "Reverse home bias: Why Southeast Asia’s digital investors may be diversifying in the wrong direction",
-      "event_classes": [
-        "unknown"
-      ],
-      "capital_channels": [
-        "unknown"
-      ],
-      "p10_usd": 106400.0,
-      "p50_usd": 10640000.0,
-      "p90_usd": 1064000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-24T01:15:44+00:00",
-      "last_seen_at": "2026-09-24T01:15:44+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_8446b7d5bac96b0e623c",
