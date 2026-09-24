@@ -193,6 +193,98 @@
     "id": "ca862d5de1119855dd0a"
   },
   {
+    "title": "[UPDATE] [mittel] PgBouncer: Mehrere Schwachstellen ermöglichen Denial of Service",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3529",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-24T10:26:23+00:00",
+    "fetched_at": "2026-09-24T10:34:39+00:00",
+    "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in PgBouncer ausnutzen, um einen Denial of Service Angriff durchzuführen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "af99017a7849bcec2432"
+  },
+  {
+    "title": "[UPDATE] [hoch] IBM Concert: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3513",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-24T10:26:23+00:00",
+    "fetched_at": "2026-09-24T10:34:39+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in IBM Concert ausnutzen, um Dateien zu manipulieren, um einen Denial of Service Angriff durchzuführen und um Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "71200752c920976b8d94"
+  },
+  {
+    "title": "[UPDATE] [hoch] Foxit PDF Reader und Foxit PDF Editor: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3525",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-24T10:26:23+00:00",
+    "fetched_at": "2026-09-24T10:34:39+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Foxit PDF Reader und Foxit PDF Editor ausnutzen, um beliebigen Code auszuführen, Berechtigungen zu erweitern, sensible Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen und Daten zu manipulieren.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "41761368e5fd6410d174"
+  },
+  {
+    "title": "[UPDATE] [hoch] Broadcom Brocade SANnav: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3528",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-24T10:26:23+00:00",
+    "fetched_at": "2026-09-24T10:34:39+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Broadcom Brocade SANnav ausnutzen, um Administratorrechte zu erlangen, Sicherheitsmaßnahmen zu umgehen, beliebigen Code auszuführen, Daten zu manipulieren oder vertrauliche Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "899d88762169c1ffdbf2"
+  },
+  {
     "title": "[UPDATE] [mittel] Apache Tomcat: Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3527",
     "source": "BSI CERT-Bund Security Advisories",
@@ -596,6 +688,26 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "9538ca872c7dc328eac0"
+  },
+  {
+    "title": "大臣・副大臣・大臣政務官の交代式を行いました",
+    "url": "https://www.digital.go.jp/news/efdd742c-aa9b-4482-8842-0e172fa9b78b",
+    "source": "Japan Digital Agency News RSS",
+    "source_type": "rss",
+    "published_at": "2026-09-24T10:29:49+00:00",
+    "fetched_at": "2026-09-24T10:34:39+00:00",
+    "summary": "大臣・副大臣・大臣政務官の交代式を行いました",
+    "matched_keywords": [
+      "APAC Trend Radar"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b39fe86c339cacc6b620"
   },
   {
     "title": "China is excelling in health tech. That’s good news for the world",
