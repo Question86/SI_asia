@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T20:46:11+00:00",
-  "run_id": "2026-09-24T20:46:11+00:00",
+  "generated_at": "2026-09-24T20:54:28+00:00",
+  "run_id": "2026-09-24T20:54:28+00:00",
   "date": "2026-09-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 85,
     "displayed_findings": 85,
     "high": 0,
@@ -3973,29 +3973,7 @@
       "id": "ec0c4d44f87968ac9b42"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Require proof of presence for high-impact actions",
-      "url": "https://github.blog/changelog/2026-09-24-require-proof-of-presence-for-high-impact-actions",
-      "source": "GitHub Changelog Atom",
-      "source_type": "rss",
-      "published_at": "2026-09-24T20:28:33+00:00",
-      "fetched_at": "2026-09-24T20:45:41+00:00",
-      "summary": "You can now require an interactive re-authentication or a multi-factor challenge before members take high-impact actions on GitHub Enterprise Cloud accounts. Proof of presence is an expansion of GitHub’s sudo… The post Require proof of presence for high-impact actions appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "Actions",
-        "GitHub"
-      ],
-      "relevance_score": 6,
-      "relevance_reason": "GitHub (+2.0); Actions (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0252730e5108bf5e0ddb"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
