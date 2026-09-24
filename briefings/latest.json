@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T07:37:08+00:00",
-  "run_id": "2026-09-24T07:37:08+00:00",
+  "generated_at": "2026-09-24T07:48:32+00:00",
+  "run_id": "2026-09-24T07:48:32+00:00",
   "date": "2026-09-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 27
+      "configured_public_sources_only": 28
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 27,
-    "displayed_findings": 27,
+    "new_relevant_findings": 1,
+    "today_file_total": 28,
+    "displayed_findings": 28,
     "high": 0,
     "medium": 8,
-    "observe": 19,
+    "observe": 20,
     "source_errors": 0
   },
   "sections": {
@@ -460,6 +460,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "9538ca872c7dc328eac0"
+      },
+      {
+        "title": "はてな匿名ダイアリーは本日で20周年を迎えました - はてラボ 開発者ブログ",
+        "url": "https://labo.hatenastaff.com/entry/2026/09/24/150000",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-24T06:30:19+00:00",
+        "fetched_at": "2026-09-24T07:48:04+00:00",
+        "summary": "はてな匿名ダイアリーは、2026年9月24日に20周年を迎えました。ご利用いただいている皆さまに、あらためて感謝申し上げます。 はてな匿名ダイアリーは、「名前を隠して楽しく日記。」を掲げる場所として続いてきました。 サービスを長く運営していく中で、利用のされ方や取り巻く環境も変化してきました。 これからも、...",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "56829e670da58b330ed5"
       },
       {
         "title": "「クリスタ」素材、大量非公開でユーザー混乱 人物だけでなくペンや公式素材まで セルシス「誤判定もあった」が……",
@@ -1079,6 +1100,27 @@
       "id": "9538ca872c7dc328eac0"
     },
     {
+      "title": "はてな匿名ダイアリーは本日で20周年を迎えました - はてラボ 開発者ブログ",
+      "url": "https://labo.hatenastaff.com/entry/2026/09/24/150000",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-24T06:30:19+00:00",
+      "fetched_at": "2026-09-24T07:48:04+00:00",
+      "summary": "はてな匿名ダイアリーは、2026年9月24日に20周年を迎えました。ご利用いただいている皆さまに、あらためて感謝申し上げます。 はてな匿名ダイアリーは、「名前を隠して楽しく日記。」を掲げる場所として続いてきました。 サービスを長く運営していく中で、利用のされ方や取り巻く環境も変化してきました。 これからも、...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "56829e670da58b330ed5"
+    },
+    {
       "title": "「クリスタ」素材、大量非公開でユーザー混乱 人物だけでなくペンや公式素材まで セルシス「誤判定もあった」が……",
       "url": "https://www.itmedia.co.jp/news/article/2609/24/2000001689/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1263,7 +1305,29 @@
       "id": "ec0c4d44f87968ac9b42"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "はてな匿名ダイアリーは本日で20周年を迎えました - はてラボ 開発者ブログ",
+      "url": "https://labo.hatenastaff.com/entry/2026/09/24/150000",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-24T06:30:19+00:00",
+      "fetched_at": "2026-09-24T07:48:04+00:00",
+      "summary": "はてな匿名ダイアリーは、2026年9月24日に20周年を迎えました。ご利用いただいている皆さまに、あらためて感謝申し上げます。 はてな匿名ダイアリーは、「名前を隠して楽しく日記。」を掲げる場所として続いてきました。 サービスを長く運営していく中で、利用のされ方や取り巻く環境も変化してきました。 これからも、...",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "56829e670da58b330ed5"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
