@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-24T18:41:58Z_
+_Generated: 2026-09-24T18:52:15Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [mittel] BusyBox: Meh
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `33.0`
-- Published: `2026-09-24T11:24:23+00:00` / age_days `0.3`
+- Published: `2026-09-24T11:24:23+00:00` / age_days `0.31`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [mittel] BusyBox: Meh
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-24T18:26:12+00:00` / age_days `0.01`
+- Published: `2026-09-24T18:26:12+00:00` / age_days `0.02`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -122,10 +122,10 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [mittel] BusyBox: Meh
 
 - Band: `watch` (raw `krass`)
 - Dynamics score: `19.9`
-- Published: `2026-06-18T14:33:45+00:00` / age_days `98.17`
+- Published: `2026-06-18T14:33:45+00:00` / age_days `98.18`
 - Vergleich: Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
-- Warum: momentum delta +3, baseline z_hint 3.65, high terms: rce, security high-signal: rce, aging penalty -8.0 for 98.2d old signal, stale single-source cap after 30d: no current exploitation phrase
+- Warum: momentum delta +3, baseline z_hint 2.98, high terms: rce, security high-signal: rce, aging penalty -8.0 for 98.2d old signal, stale single-source cap after 30d: no current exploitation phrase
 - Quelle: https://www.bis.org/speeches/20260924-new-age-capital-growth-sovereignty-and-ai
 
 END OF DOCUMENT
