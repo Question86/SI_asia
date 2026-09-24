@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-24T03:26:18+00:00_
+_Generated: 2026-09-24T03:40:58+00:00_
 
 ## Status
 - status: `normal`
-- findings: `14`
+- findings: `15`
 
 ## Top Signals
 
@@ -57,11 +57,11 @@ _Generated: 2026-09-24T03:26:18+00:00_
 - url: https://speakerdeck.com/kokitamura/sre-toha-nani-ka-aws-de-dou-hajimeru-ka
 - summary: 銀行勘定系システムにおける開発プロセス刷新×AIによる環境モダナイゼーション / Development Process Transformation and AI-Driven Environment Modernization
 
-### 8. Startups keep scaling ops before they scale data — Here’s why it backfires
+### 8. Asian investors aren’t choosing between crypto and TradFi anymore
 - source: e27 Asia Startup and Tech Feed
-- score: `5`
-- published: `2026-09-24T03:00:08+00:00`
-- url: https://e27.co/startups-keep-scaling-ops-before-they-scale-data-heres-why-it-backfires-20260921/
-- summary: A startup doubles its headcount. It opens a new sales channel. It ships a second product line. All of this happens while the business is still running on a spreadsheet, a half-built dashboard, or a weekly gut-check meeting. Nobody notices the gap at first, gr…
+- score: `7`
+- published: `2026-09-24T03:30:43+00:00`
+- url: https://e27.co/asian-investors-arent-choosing-between-crypto-and-tradfi-anymore-20260923/
+- summary: Gold has been a store of wealth across Asia for generations, yet access through traditional financial markets still carries familiar friction. Investors often need dedicated brokerage accounts, fixed trading windows and capital separated from money held elsew…
 
 END OF DOCUMENT
