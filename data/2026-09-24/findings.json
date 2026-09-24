@@ -1197,6 +1197,121 @@
     "id": "39727378de47b84b9d30"
   },
   {
+    "title": "Vulnérabilité dans les produits Check Point (17 septembre 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1193/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-09-17T00:00:00+00:00",
+    "fetched_at": "2026-09-24T13:33:43+00:00",
+    "summary": "Une vulnérabilité a été découverte dans les produits Check Point. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. Checkpoint recommande de rechercher, via la *SmartConsole*, le motif **\"Administrator failed to log in: Username too long\"** dans les journaux...",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d86f33adff19c3c14f49"
+  },
+  {
+    "title": "Multiples vulnérabilités dans ISC BIND (17 septembre 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1192/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-09-17T00:00:00+00:00",
+    "fetched_at": "2026-09-24T13:33:43+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans ISC BIND. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "8fdae91ab03228c1ada9"
+  },
+  {
+    "title": "Vulnérabilité dans F5 NGINX (16 septembre 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1182/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-09-16T00:00:00+00:00",
+    "fetched_at": "2026-09-24T13:33:43+00:00",
+    "summary": "Une vulnérabilité a été découverte dans F5 NGINX. Elle permet à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7897c95fd43c334f0da3"
+  },
+  {
+    "title": "Multiples vulnérabilités dans les produits Mozilla (16 septembre 2026)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1183/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2026-09-16T00:00:00+00:00",
+    "fetched_at": "2026-09-24T13:33:43+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a4a6940e41675b4228db"
+  },
+  {
+    "title": "Multiples vulnérabilités dans les produits Siemens (10 septembre 2019)",
+    "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-429/",
+    "source": "CERT-FR Avis de sécurité",
+    "source_type": "rss",
+    "published_at": "2019-09-10T00:00:00+00:00",
+    "fetched_at": "2026-09-24T13:33:43+00:00",
+    "summary": "De multiples vulnérabilités ont été découvertes dans les produits Siemens. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.",
+    "matched_keywords": [
+      "avis",
+      "CERT-FR",
+      "sécurité",
+      "vulnérabilité"
+    ],
+    "relevance_score": 8,
+    "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "af212943a9353fb041b8"
+  },
+  {
     "title": "Sicherheitspatch gegen Schadcode repariert SolarWinds Observability Self-Hosted",
     "url": "https://www.heise.de/news/Sicherheitspatch-gegen-Schadcode-repariert-SolarWinds-Observability-Self-Hosted-11464112.html",
     "source": "heise Security Alerts",
@@ -1339,6 +1454,28 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "2507dda098cd3e5615f6"
+  },
+  {
+    "title": "Vulnérabilité dans Apple Mac OS X (24 juillet 2015)",
+    "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2015-ALE-009/",
+    "source": "CERT-FR Alertes",
+    "source_type": "rss",
+    "published_at": "2015-07-24T00:00:00+00:00",
+    "fetched_at": "2026-09-24T13:33:43+00:00",
+    "summary": "Une vulnérabilité a été découverte dans Apple Mac OS X. Elle permet à un attaquant de provoquer une élévation de privilèges.",
+    "matched_keywords": [
+      "alerte",
+      "CERT-FR",
+      "vulnérabilité"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "CERT-FR (+2.0); alerte (+2.0); vulnérabilité (+2.5)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d98876eafe388d4e1016"
   },
   {
     "title": "3大、俺の中で天才ゲームプログラマ",
