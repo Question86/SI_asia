@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-24T10:46:02+00:00",
+  "generated_at": "2026-09-24T10:53:46+00:00",
   "topics": {
     "ai": [
       {
@@ -10,6 +10,13 @@
         "published_at": "2026-09-23T23:14:59+00:00",
         "relevance_score": 18,
         "url": "https://www.nikkei.com/article/DGXZQOGN2407Y0U6A920C2000000/"
+      },
+      {
+        "title": "[UPDATE] [hoch] vllm: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-24T10:45:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1974"
       },
       {
         "title": "Seoul tops global AI implementation as Singapore enters top tier",
@@ -66,13 +73,6 @@
         "published_at": "2026-09-24T01:20:33+00:00",
         "relevance_score": 7,
         "url": "https://komagata.github.io/public-notes/rails-world-2026/"
-      },
-      {
-        "title": "China is excelling in health tech. That’s good news for the world",
-        "source": "Rest of World Global Tech Feed",
-        "published_at": "2026-09-24T10:00:00+00:00",
-        "relevance_score": 6,
-        "url": "https://restofworld.org/2026/china-ai-healthcare-biotech-drugs/?utm_source=rss&utm_medium=rss&utm_campaign=feeds"
       }
     ],
     "security": [
@@ -89,6 +89,13 @@
         "published_at": "2026-09-24T13:00:00+09:00",
         "relevance_score": 14,
         "url": "https://jvn.jp/vu/JVNVU99700314/"
+      },
+      {
+        "title": "[UPDATE] [hoch] vllm: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-24T10:45:29+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1974"
       },
       {
         "title": "Apache Tomcatにおける複数の脆弱性（2026年9月23日）",
@@ -138,13 +145,6 @@
         "published_at": "2026-09-24T10:26:23+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3525"
-      },
-      {
-        "title": "[UPDATE] [hoch] Broadcom Brocade SANnav: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-24T10:26:23+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3528"
       }
     ],
     "general": [
