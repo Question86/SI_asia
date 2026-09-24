@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-24T09:24:25+00:00_
+_Generiert: 2026-09-24T09:36:11+00:00_
 
 ## Kurzlage
 
-33 neue relevante Treffer. Stärkstes Signal: „オーストラリア首相「OpenAIのAIが国民健保サイトに侵入」と公表 - 日本経済新聞“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
+34 neue relevante Treffer. Stärkstes Signal: „オーストラリア首相「OpenAIのAIが国民健保サイトに侵入」と公表 - 日本経済新聞“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
 
 ## Priorität Hoch
 
@@ -69,6 +69,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: APAC Trend Radar (+3.8); Southeast Asia (+2.0); founder (+2.5); funding (+2.5); recent (+1.0)
   - Kurz: Southeast Asia’s startup funding market is showing signs of life again, but the recovery is not reaching most founders. Venture-backed companies in the region raised US$7.25 billion across 217 equity deals in the first half of 2026, according to the Southeast Asia Startup Funding Report H1 2026 by Kickstart Ventures and DealStreetAsia. That is the […] The post SEA startup funding jumps to US$7.25B, but most founders…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **融易網路｜GPM LIGHT - Sensitive Data Exposure** — Score 11, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-11216-9ce77-1.html)
+  - Quelle: TWCERT/CC TVN Vulnerability Notes RSS / `rss`
+  - Zeit: published `2026-09-24T07:00:00+00:00`, fetched `2026-09-24T09:35:43+00:00`
+  - Treffer: Security, TVN, TWCERT
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)
+  - Kurz: 融易網路｜GPM LIGHT - Sensitive Data Exposure
+  - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
 - **全景軟體｜CGServiSign - OS Command Injection** — Score 11, risk — [Quelle](https://www.twcert.org.tw/tw/cp-132-11213-28a81-1.html)
   - Quelle: TWCERT/CC TVN Vulnerability Notes RSS / `rss`
   - Zeit: published `2026-09-23T08:10:00+00:00`, fetched `2026-09-24T07:23:03+00:00`

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T09:24:25+00:00",
-  "run_id": "2026-09-24T09:24:25+00:00",
+  "generated_at": "2026-09-24T09:36:11+00:00",
+  "run_id": "2026-09-24T09:36:11+00:00",
   "date": "2026-09-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 33
+      "configured_public_sources_only": 34
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 33,
-    "displayed_findings": 33,
+    "today_file_total": 34,
+    "displayed_findings": 34,
     "high": 0,
     "medium": 8,
-    "observe": 25,
+    "observe": 26,
     "source_errors": 0
   },
   "sections": {
@@ -246,6 +246,28 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "42c034bc1cd2f46328d9"
+      },
+      {
+        "title": "融易網路｜GPM LIGHT - Sensitive Data Exposure",
+        "url": "https://www.twcert.org.tw/tw/cp-132-11216-9ce77-1.html",
+        "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+        "source_type": "rss",
+        "published_at": "2026-09-24T07:00:00+00:00",
+        "fetched_at": "2026-09-24T09:35:43+00:00",
+        "summary": "融易網路｜GPM LIGHT - Sensitive Data Exposure",
+        "matched_keywords": [
+          "Security",
+          "TVN",
+          "TWCERT"
+        ],
+        "relevance_score": 11,
+        "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "5f422d48d0fca8796e5a"
       },
       {
         "title": "全景軟體｜CGServiSign - OS Command Injection",
@@ -1007,6 +1029,28 @@
       "id": "42c034bc1cd2f46328d9"
     },
     {
+      "title": "融易網路｜GPM LIGHT - Sensitive Data Exposure",
+      "url": "https://www.twcert.org.tw/tw/cp-132-11216-9ce77-1.html",
+      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
+      "source_type": "rss",
+      "published_at": "2026-09-24T07:00:00+00:00",
+      "fetched_at": "2026-09-24T09:35:43+00:00",
+      "summary": "融易網路｜GPM LIGHT - Sensitive Data Exposure",
+      "matched_keywords": [
+        "Security",
+        "TVN",
+        "TWCERT"
+      ],
+      "relevance_score": 11,
+      "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "5f422d48d0fca8796e5a"
+    },
+    {
       "title": "全景軟體｜CGServiSign - OS Command Injection",
       "url": "https://www.twcert.org.tw/tw/cp-132-11213-28a81-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
@@ -1549,25 +1593,26 @@
   ],
   "new_findings": [
     {
-      "title": "Philip R. Lane: The outlook for the euro area economy",
-      "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260924~e0eceef02c.en.pdf",
-      "source": "ECB Press Releases Speeches Interviews",
+      "title": "融易網路｜GPM LIGHT - Sensitive Data Exposure",
+      "url": "https://www.twcert.org.tw/tw/cp-132-11216-9ce77-1.html",
+      "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "source_type": "rss",
-      "published_at": "2026-09-24T09:00:00+00:00",
-      "fetched_at": "2026-09-24T09:23:54+00:00",
-      "summary": "Philip R. Lane: The outlook for the euro area economy",
+      "published_at": "2026-09-24T07:00:00+00:00",
+      "fetched_at": "2026-09-24T09:35:43+00:00",
+      "summary": "融易網路｜GPM LIGHT - Sensitive Data Exposure",
       "matched_keywords": [
-        "euro area",
-        "Macro/Policy"
+        "Security",
+        "TVN",
+        "TWCERT"
       ],
-      "relevance_score": 10,
-      "relevance_reason": "Macro/Policy (+5.0); euro area (+2.5); recent (+1.0); watchgraph region europe: ECB (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "relevance_score": 11,
+      "relevance_reason": "Security (+6.0); TWCERT (+2.0); TVN (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "b8200799bf8aa9f82659"
+      "id": "5f422d48d0fca8796e5a"
     }
   ],
   "source_errors": [],

@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-24T09:24:25+00:00_
+_Generated: 2026-09-24T09:36:11+00:00_
 
 ## Status
 - status: `normal`
-- findings: `33`
+- findings: `34`
 
 ## Top Signals
 
@@ -43,25 +43,25 @@ _Generated: 2026-09-24T09:24:25+00:00_
 - url: https://e27.co/sea-startup-funding-jumps-to-us7-25b-but-most-founders-are-still-waiting-20260924/
 - summary: Southeast Asia’s startup funding market is showing signs of life again, but the recovery is not reaching most founders. Venture-backed companies in the region raised US$7.25 billion across 217 equity deals in the first half of 2026, according to the Southeast…
 
-### 6. 全景軟體｜CGServiSign - OS Command Injection
+### 6. 融易網路｜GPM LIGHT - Sensitive Data Exposure
+- source: TWCERT/CC TVN Vulnerability Notes RSS
+- score: `11`
+- published: `2026-09-24T07:00:00+00:00`
+- url: https://www.twcert.org.tw/tw/cp-132-11216-9ce77-1.html
+- summary: 融易網路｜GPM LIGHT - Sensitive Data Exposure
+
+### 7. 全景軟體｜CGServiSign - OS Command Injection
 - source: TWCERT/CC TVN Vulnerability Notes RSS
 - score: `11`
 - published: `2026-09-23T08:10:00+00:00`
 - url: https://www.twcert.org.tw/tw/cp-132-11213-28a81-1.html
 - summary: 全景軟體｜CGServiSign - OS Command Injection
 
-### 7. Philip R. Lane: The outlook for the euro area economy
+### 8. Philip R. Lane: The outlook for the euro area economy
 - source: ECB Press Releases Speeches Interviews
 - score: `10`
 - published: `2026-09-24T09:00:00+00:00`
 - url: https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260924~e0eceef02c.en.pdf
 - summary: Philip R. Lane: The outlook for the euro area economy
-
-### 8. Life Lab Resources grabs US$1M to turn food waste into aquaculture feed
-- source: e27 Asia Startup and Tech Feed
-- score: `10`
-- published: `2026-09-24T05:05:49+00:00`
-- url: https://e27.co/life-lab-resources-grabs-us1m-to-turn-food-waste-into-aquaculture-feed-20260924/
-- summary: Singapore’s food waste problem is often framed as a consumer habit or a logistics issue. For Life Lab Resources, it is also a feedstock problem, and one that could help ease another pressure point in Southeast Asia: rising demand for more sustainable aquacult…
 
 END OF DOCUMENT
