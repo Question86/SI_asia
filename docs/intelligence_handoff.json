@@ -1,8 +1,8 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-24T11:28:06Z",
-  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [mittel] sudo: Schwachstelle ermöglicht Codeausführung” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=31.0.",
+  "generated_at": "2026-09-24T11:40:59Z",
+  "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [mittel] BusyBox: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
     "Treat dynamic_band as comparative motion, not factual certainty.",
@@ -11,11 +11,36 @@
   ],
   "top_dynamics": [
     {
+      "title": "[NEU] [UNGEPATCHT] [mittel] BusyBox: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3557",
+      "source": "BSI CERT-Bund Security Advisories",
+      "published_at": "2026-09-24T11:24:23+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "security"
+      ],
+      "dynamics_score": 33.0,
+      "raw_band": "krass",
+      "dynamic_band": "krass",
+      "comparative_read": "Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": true,
+      "single_source_ai_capped": false,
+      "why": [
+        "high terms: code",
+        "security high-signal: code"
+      ],
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in BusyBox ausnutzen, um möglicherweise beliebigen Code auszuführen, Speicher zu beschädigen, sensible Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen oder Denial-of-Service-Zustände zu verursachen."
+    },
+    {
       "title": "[NEU] [mittel] sudo: Schwachstelle ermöglicht Codeausführung",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3551",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-24T11:04:23+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -40,7 +65,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3525",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-24T10:26:23+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -65,7 +90,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3528",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-24T10:26:23+00:00",
-      "age_days": 0.04,
+      "age_days": 0.05,
       "topics": [
         "security"
       ],
@@ -90,7 +115,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3555",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-24T11:04:25+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -118,7 +143,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3552",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-24T11:04:24+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -144,7 +169,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3556",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-24T11:04:26+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -170,7 +195,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3554",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-24T11:04:25+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -196,7 +221,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3553",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-24T11:04:24+00:00",
-      "age_days": 0.02,
+      "age_days": 0.03,
       "topics": [
         "security"
       ],
@@ -271,11 +296,11 @@
       "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
     },
     {
-      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
-      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3211",
+      "title": "[NEU] [UNGEPATCHT] [mittel] Keycloak: Mehrere Schwachstellen",
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3558",
       "source": "BSI CERT-Bund Security Advisories",
-      "published_at": "2026-09-24T10:54:33+00:00",
-      "age_days": 0.02,
+      "published_at": "2026-09-24T11:24:23+00:00",
+      "age_days": 0.01,
       "topics": [
         "security"
       ],
@@ -293,32 +318,7 @@
         "security high-signal: cert-bund, bsi, security, advisory",
         "official security but no high-signal phrase: capped at strong"
       ],
-      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um Speicherfehler und Kernel-Abstürze beziehungsweise Denial-of-Service-Zustände auszulösen, Speicher außerhalb vorgesehener Grenzen auszulesen sowie in einzelnen Fällen weitere Sicherheitsauswirkungen zu verursachen."
-    },
-    {
-      "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月22日）",
-      "url": "https://jvn.jp/vu/JVNVU96198756/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-09-24T10:30:00+09:00",
-      "age_days": 0.42,
-      "topics": [
-        "security"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "krass",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 0,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "security high-signal: cisa, jvn, security, advisory",
-        "official security but no high-signal phrase: capped at strong"
-      ],
-      "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。"
+      "summary": "Ein Angreifer kann mehrere Schwachstellen in Keycloak ausnutzen, um Sicherheitsvorkehrungen zu umgehen und um seine Privilegien zu erhöhen."
     }
   ],
   "read_order": [
@@ -330,8 +330,8 @@
   ],
   "counts": {
     "bands_after_gate_recheck": {
-      "krass": 3,
-      "strong": 9
+      "krass": 4,
+      "strong": 8
     }
   }
 }
