@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T18:37:43+00:00",
-  "run_id": "2026-09-24T18:37:43+00:00",
+  "generated_at": "2026-09-24T18:49:44+00:00",
+  "run_id": "2026-09-24T18:49:44+00:00",
   "date": "2026-09-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 83,
     "displayed_findings": 83,
     "high": 0,
@@ -3887,31 +3887,7 @@
       "id": "ec0c4d44f87968ac9b42"
     }
   ],
-  "new_findings": [
-    {
-      "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-      "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/",
-      "source": "GitHub Blog Atom",
-      "source_type": "rss",
-      "published_at": "2026-09-24T18:26:12+00:00",
-      "fetched_at": "2026-09-24T18:37:11+00:00",
-      "summary": "In this blog post, I explain how to use the new fuzzing taskflow based on the GitHub Security Lab Taskflow Agent AI framework. The post AI-powered fuzzing with the GitHub Security Lab Taskflow Agent appeared first on The GitHub Blog .",
-      "matched_keywords": [
-        "AI/KI",
-        "Content-Chance",
-        "GitHub",
-        "Security"
-      ],
-      "relevance_score": 20,
-      "relevance_reason": "AI/KI (+3.8); Security (+7.5); Content-Chance (+5.0); GitHub (+2.5); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "f5d495823d725ce62c5c"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
