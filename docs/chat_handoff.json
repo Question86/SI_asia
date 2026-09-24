@@ -1,18 +1,18 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-24T04:24:57+00:00",
-  "status": "normal",
-  "coverage_confidence": "normal",
+  "generated_at": "2026-09-24T04:39:01+00:00",
+  "status": "warning",
+  "coverage_confidence": "limited",
   "counts": {
-    "new_relevant_findings": 4,
-    "today_file_total": 20,
-    "displayed_findings": 20,
+    "new_relevant_findings": 3,
+    "today_file_total": 23,
+    "displayed_findings": 23,
     "high": 0,
     "medium": 8,
-    "observe": 12
+    "observe": 15
   },
-  "source_errors_count": 0,
+  "source_errors_count": 3,
   "top_signals": [
     {
       "title": "オーストラリア首相「OpenAIのAIが国民健保サイトに侵入」と公表 - 日本経済新聞",
@@ -85,13 +85,13 @@
       "section": "observe"
     },
     {
-      "title": "The future of healthcare AI isn’t more data. It’s better context",
+      "title": "TaniHub, prison and grace: Cynthia Wihardja’s post gives a human face to VC risk",
       "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-09-24T02:00:34+00:00",
-      "relevance_score": 8,
-      "url": "https://e27.co/the-future-of-healthcare-ai-isnt-more-data-its-better-context-20260921/",
-      "summary": "For centuries, doctors have treated patients without having immediate access to an encyclopaedia of medical knowledge. A physician examining a patient did not need to read every medical textbook before deciding what to do. They observed symptoms, considered t…",
+      "published_at": "2026-09-24T04:29:08+00:00",
+      "relevance_score": 9,
+      "url": "https://e27.co/tanihub-prison-and-grace-cynthia-wihardjas-post-gives-a-human-face-to-vc-risk-20260924/",
+      "summary": "Cynthia Wihardja’s LinkedIn post begins not with a legal argument, but with a distinction: “There are two ways to lose your freedom. One is done to you. The other, you do to yourself.” The first, she says, is what has happened to her brother, Donald Wihardja,…",
       "section": "observe"
     }
   ],
