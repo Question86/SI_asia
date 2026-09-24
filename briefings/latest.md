@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-24T01:39:54+00:00_
+_Generiert: 2026-09-24T01:57:49+00:00_
 
 ## Kurzlage
 
@@ -49,10 +49,10 @@ _Generiert: 2026-09-24T01:39:54+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Green notification for tropical cyclone SURIGAE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).
-- **GDACS: Orange notification for tropical cyclone ONE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (10.439 million in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001326)
+- **GDACS: Orange notification for tropical cyclone ONE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (10.248 million in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001326)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Orange notification for tropical cyclone ONE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (10.439 million in Tropical Storm).
+  - Kurz: Orange notification for tropical cyclone ONE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (10.248 million in Tropical Storm).
 - **GDACS: Green notification for tropical cyclone POLO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (0 in Tropical Storm).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001325)
   - Quelle: GDACS
   - Zeit: ``
