@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-24T19:15:20+00:00_
+_Generiert: 2026-09-24T19:35:18+00:00_
 
 ## Kurzlage
 
@@ -9,6 +9,14 @@ _Generiert: 2026-09-24T19:15:20+00:00_
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
 
+- **CISA KEV: CVE-2026-5430 WSO2 Multiple Products** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-09-24`
+  - Kurz: Known exploited vulnerability. Added 2026-09-24. Due 2026-09-27. WSO2 Multiple Products Path Traversal Vulnerability 
+- **CISA KEV: CVE-2026-71362 Adobe Commerce and Magento** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - Quelle: CISA KEV
+  - Zeit: `2026-09-24`
+  - Kurz: Known exploited vulnerability. Added 2026-09-24. Due 2026-09-27. Adobe Commerce and Magento Incorrect Authorization Vulnerability 
 - **CISA KEV: CVE-2026-93952 Arista VeloCloud Orchestrator** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - Quelle: CISA KEV
   - Zeit: `2026-09-22`
@@ -21,14 +29,6 @@ _Generiert: 2026-09-24T19:15:20+00:00_
   - Quelle: CISA KEV
   - Zeit: `2026-09-22`
   - Kurz: Known exploited vulnerability. Added 2026-09-22. Due 2026-09-25. Check Point Multiple Products Path Traversal Vulnerability
-- **CISA KEV: CVE-2026-85102 Check Point Multiple Products** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-22`
-  - Kurz: Known exploited vulnerability. Added 2026-09-22. Due 2026-09-25. Check Point Multiple Products Improper Certificate Validation Vulnerability
-- **CISA KEV: CVE-2026-7273 Zyxel GS1900 Series Switches** — high — [Quelle](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
-  - Quelle: CISA KEV
-  - Zeit: `2026-09-21`
-  - Kurz: Known exploited vulnerability. Added 2026-09-21. Due 2026-09-24. Zyxel GS1900 Series Switches Stack-Based Buffer Overflow Vulnerability
 - **GDACS: Green flood alert in Thailand** — high — [Quelle](https://www.gdacs.org/report.aspx?eventtype=FL&amp;eventid=1104169)
   - Quelle: GDACS
   - Zeit: ``
