@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-24T09:54:44+00:00_
+_Generiert: 2026-09-24T10:03:11+00:00_
 
 ## Kurzlage
 
-34 neue relevante Treffer. Stärkstes Signal: „オーストラリア首相「OpenAIのAIが国民健保サイトに侵入」と公表 - 日本経済新聞“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
+38 neue relevante Treffer. Stärkstes Signal: „オーストラリア首相「OpenAIのAIが国民健保サイトに侵入」と公表 - 日本経済新聞“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
 
 ## Priorität Hoch
 
@@ -57,6 +57,24 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: The Apache Software Foundationから、Apache Tomcatの15件の脆弱性に対してアドバイザリが公開されました。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **[UPDATE] [mittel] Apache Tomcat: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3527)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-09-24T09:54:23+00:00`, fetched `2026-09-24T10:02:41+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Apache Tomcat ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um einen Denial of Service Angriff durchzuführen und um Daten zu manipulieren.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **[UPDATE] [hoch] Apache Sling: Mehrere Schwachstellen** — Score 14, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3526)
+  - Quelle: BSI CERT-Bund Security Advisories / `rss`
+  - Zeit: published `2026-09-24T09:54:23+00:00`, fetched `2026-09-24T10:02:41+00:00`
+  - Treffer: BSI, CERT-Bund, Schwachstelle, Security
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Apache Sling ausnutzen, um einen Denial of Service Angriff durchzuführen, um einen Cross-Site Scripting Angriff durchzuführen und um Sicherheitsvorkehrungen zu umgehen.
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Nur beobachten
 
@@ -158,6 +176,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); GitHub (+2.0); recent (+1.0)
   - Kurz: 写真と開発の大衆化元の配信の時刻：34:11高価で時間のかかる肖像画から、大衆向けカメラ、さらに手間も費用もほとんど意識せず撮れるスマートフォンの写真へ。制作の費用が下がると、作る人と作られるものの数が大きく増え、専門家の役割も変わる、というたとえです。 DHH自身はOpus 4.5を転換点と捉え、その後のモデル...
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **China is excelling in health tech. That’s good news for the world** — Score 6, observation — [Quelle](https://restofworld.org/2026/china-ai-healthcare-biotech-drugs/?utm_source=rss&utm_medium=rss&utm_campaign=feeds)
+  - Quelle: Rest of World Global Tech Feed / `rss`
+  - Zeit: published `2026-09-24T10:00:00+00:00`, fetched `2026-09-24T10:02:41+00:00`
+  - Treffer: AI/KI
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)
+  - Kurz: A visitor experiences an artificial intelligence health screening system at the 2026 Ningxia Elderly Care Service Expo on August 28, 2026 in Yinchuan, China.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen

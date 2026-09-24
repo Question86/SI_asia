@@ -193,6 +193,52 @@
     "id": "ca862d5de1119855dd0a"
   },
   {
+    "title": "[UPDATE] [mittel] Apache Tomcat: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3527",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-24T09:54:23+00:00",
+    "fetched_at": "2026-09-24T10:02:41+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Apache Tomcat ausnutzen, um Sicherheitsvorkehrungen zu umgehen, um einen Denial of Service Angriff durchzuführen und um Daten zu manipulieren.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d3a4437d205199047583"
+  },
+  {
+    "title": "[UPDATE] [hoch] Apache Sling: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3526",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-24T09:54:23+00:00",
+    "fetched_at": "2026-09-24T10:02:41+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Apache Sling ausnutzen, um einen Denial of Service Angriff durchzuführen, um einen Cross-Site Scripting Angriff durchzuführen und um Sicherheitsvorkehrungen zu umgehen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "882189e6ae8e25e1eda3"
+  },
+  {
     "title": "SEA startup funding jumps to US$7.25B, but most founders are still waiting",
     "url": "https://e27.co/sea-startup-funding-jumps-to-us7-25b-but-most-founders-are-still-waiting-20260924/",
     "source": "e27 Asia Startup and Tech Feed",
@@ -550,6 +596,47 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "9538ca872c7dc328eac0"
+  },
+  {
+    "title": "China is excelling in health tech. That’s good news for the world",
+    "url": "https://restofworld.org/2026/china-ai-healthcare-biotech-drugs/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+    "source": "Rest of World Global Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-09-24T10:00:00+00:00",
+    "fetched_at": "2026-09-24T10:02:41+00:00",
+    "summary": "A visitor experiences an artificial intelligence health screening system at the 2026 Ningxia Elderly Care Service Expo on August 28, 2026 in Yinchuan, China.",
+    "matched_keywords": [
+      "AI/KI"
+    ],
+    "relevance_score": 6,
+    "relevance_reason": "AI/KI (+3.0); recent (+1.0); watchgraph region china_credible_only: China (+2.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d1776c7fa9f1ca8633f6"
+  },
+  {
+    "title": "「楽天銀行から数百万が勝手に移動」「残高が0に」……楽天証券のシステム不具合、連休中に発生",
+    "url": "https://www.itmedia.co.jp/news/article/2609/24/2000001708/",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-09-24T08:33:59+00:00",
+    "fetched_at": "2026-09-24T10:02:41+00:00",
+    "summary": "「楽天銀行から、数百万が楽天証券に勝手に移動されていた」「楽天証券に振り替えられて、楽天銀行の残高が0になっていた」 楽天銀行と楽天証券の連携サービスを利用している一部のユーザーが9月22日、意図しない資金移動を相次いで報告した。楽天証券によると、一部のシステムで障害が起きたことが原因。23日未明に資金...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "b76b2c6cdd4aece66871"
   },
   {
     "title": "はてな匿名ダイアリーは本日で20周年を迎えました - はてラボ 開発者ブログ",
