@@ -1,18 +1,19 @@
 {
   "schema_version": 2,
   "doc_type": "senna.memory.dynamics",
-  "generated_at": "2026-09-24T18:18:08Z",
+  "generated_at": "2026-09-24T18:41:58Z",
   "principle": "Movement is probability, not proof. Krass/extreme requires cross-source breadth, identity relevance, or official high-signal security/incident evidence. Old single-source AI is capped.",
   "counts": {
     "dynamics": 40,
     "bands": {
       "extreme": 1,
-      "krass": 17,
-      "strong": 22
+      "krass": 19,
+      "strong": 20
     },
     "bands_after_gate_recheck": {
       "krass": 5,
-      "strong": 35
+      "strong": 34,
+      "watch": 1
     }
   },
   "top_dynamics": [
@@ -21,7 +22,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3557",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-24T11:24:23+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -46,7 +47,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3562",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-24T11:34:23+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -71,7 +72,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3551",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-24T11:04:23+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -96,7 +97,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3525",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-24T10:26:23+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -121,7 +122,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3528",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-24T10:26:23+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -146,7 +147,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3555",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-24T11:04:25+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -174,7 +175,7 @@
       "url": "https://jvn.jp/vu/JVNVU99700314/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T13:00:00+09:00",
-      "age_days": 0.6,
+      "age_days": 0.61,
       "topics": [
         "security"
       ],
@@ -198,7 +199,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3560",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-24T11:29:23+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -222,7 +223,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3559",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-24T11:29:23+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -246,7 +247,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1974",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-24T10:45:29+00:00",
-      "age_days": 0.31,
+      "age_days": 0.33,
       "topics": [
         "ai",
         "security"
@@ -271,7 +272,7 @@
       "url": "https://jvn.jp/vu/JVNVU94625787/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T10:30:40+09:00",
-      "age_days": 0.7,
+      "age_days": 0.72,
       "topics": [
         "security"
       ],
@@ -295,7 +296,7 @@
       "url": "https://jvn.jp/vu/JVNVU93766760/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T10:30:10+09:00",
-      "age_days": 0.7,
+      "age_days": 0.72,
       "topics": [
         "security"
       ],
@@ -319,7 +320,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3529",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-24T10:26:23+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -343,7 +344,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3513",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-24T10:26:23+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -367,7 +368,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3527",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-24T09:54:23+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -391,7 +392,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3526",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-24T09:54:23+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -415,7 +416,7 @@
       "url": "https://www.heise.de/news/Sicherheitspatch-gegen-Schadcode-repariert-SolarWinds-Observability-Self-Hosted-11464112.html",
       "source": "heise Security Alerts",
       "published_at": "2026-06-19T07:39:37+00:00",
-      "age_days": 97.44,
+      "age_days": 97.46,
       "topics": [
         "security"
       ],
@@ -433,7 +434,7 @@
         "momentum delta +3",
         "high terms: code",
         "security high-signal: code",
-        "aging penalty -8.0 for 97.4d old signal"
+        "aging penalty -8.0 for 97.5d old signal"
       ],
       "summary": ""
     },
@@ -442,7 +443,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3552",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-24T11:04:24+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -464,11 +465,37 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Denial-of-Service-Zustände herbeizuführen, Cross-Site-Scripting-Angriffe durchzuführen, Informationen offenzulegen, Daten zu manipulieren, Sicherheitsmaßnahmen zu umgehen und Berechtigungen zu erweitern (einschließlich des Erwerbs von…"
     },
     {
+      "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+      "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/",
+      "source": "GitHub Blog Atom",
+      "published_at": "2026-09-24T18:26:12+00:00",
+      "age_days": 0.01,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "krass",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": false,
+      "why": [
+        "security high-signal: security",
+        "krass gate recheck: needs multi-source, identity, or official high-signal phrase"
+      ],
+      "summary": "In this blog post, I explain how to use the new fuzzing taskflow based on the GitHub Security Lab Taskflow Agent AI framework. The post AI-powered fuzzing with the GitHub Security Lab Taskflow Agent appeared first on The GitHub Blog ."
+    },
+    {
       "title": "[UPDATE] [hoch] GnuTLS: Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1312",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-24T11:49:24+00:00",
-      "age_days": 0.27,
+      "age_days": 0.29,
       "topics": [
         "security"
       ],
@@ -494,7 +521,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3561",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-24T11:34:23+00:00",
-      "age_days": 0.28,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -520,7 +547,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3556",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-24T11:04:26+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -546,7 +573,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3554",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-24T11:04:25+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -572,7 +599,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3553",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-24T11:04:24+00:00",
-      "age_days": 0.3,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -598,7 +625,7 @@
       "url": "https://jvn.jp/vu/JVNVU92710088/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T10:30:30+09:00",
-      "age_days": 0.7,
+      "age_days": 0.72,
       "topics": [
         "security"
       ],
@@ -624,7 +651,7 @@
       "url": "https://jvn.jp/vu/JVNVU91025240/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T10:30:20+09:00",
-      "age_days": 0.7,
+      "age_days": 0.72,
       "topics": [
         "ai",
         "security"
@@ -651,7 +678,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3558",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-24T11:24:23+00:00",
-      "age_days": 0.29,
+      "age_days": 0.3,
       "topics": [
         "security"
       ],
@@ -676,7 +703,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3211",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-24T10:54:33+00:00",
-      "age_days": 0.31,
+      "age_days": 0.32,
       "topics": [
         "security"
       ],
@@ -701,7 +728,7 @@
       "url": "https://jvn.jp/vu/JVNVU96198756/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T10:30:00+09:00",
-      "age_days": 0.7,
+      "age_days": 0.72,
       "topics": [
         "security"
       ],
@@ -726,7 +753,7 @@
       "url": "https://e27.co/life-lab-resources-grabs-us1m-to-turn-food-waste-into-aquaculture-feed-20260924/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-24T05:05:49+00:00",
-      "age_days": 0.55,
+      "age_days": 0.57,
       "topics": [
         "ai"
       ],
@@ -748,11 +775,38 @@
       "summary": "Singapore’s food waste problem is often framed as a consumer habit or a logistics issue. For Life Lab Resources, it is also a feedstock problem, and one that could help ease another pressure point in Southeast Asia: rising demand for more sustainable aquaculture feed. The Singapore-based startup has raised US$1 millio…"
     },
     {
+      "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+      "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/",
+      "source": "GitHub Blog Atom",
+      "published_at": "2026-09-24T18:37:46+00:00",
+      "age_days": 0.0,
+      "topics": [
+        "ai",
+        "security"
+      ],
+      "dynamics_score": 24.9,
+      "raw_band": "extreme",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
+      "source_count": 1,
+      "momentum_delta": 1,
+      "baseline_z_hint": 0.0,
+      "security_high_signal": false,
+      "single_source_ai_capped": true,
+      "why": [
+        "momentum delta +1",
+        "security high-signal: security",
+        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
+      ],
+      "summary": ""
+    },
+    {
       "title": "[NEU] [hoch] Red Hat Ansible Automation Platform (automation-controller): Mehrere Schwachstellen",
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3555",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-08-28T14:08:37+00:00",
-      "age_days": 27.17,
+      "age_days": 27.19,
       "topics": [
         "security"
       ],
@@ -763,44 +817,14 @@
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.55,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": true,
       "why": [
         "momentum delta +3",
-        "baseline z_hint 0.55",
         "high terms: rce, controller",
         "security high-signal: rce, controller",
         "aging penalty -2.2 for 27.2d old signal",
-        "extreme gate: needs multi-source high-signal, official security, or identity relevance"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "A new age of capital - growth, sovereignty and AI",
-      "url": "https://www.bis.org/speeches/20260924-new-age-capital-growth-sovereignty-and-ai",
-      "source": "BIS Central Bankers Speeches",
-      "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 98.16,
-      "topics": [
-        "ai"
-      ],
-      "dynamics_score": 24.9,
-      "raw_band": "extreme",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 4.97,
-      "security_high_signal": false,
-      "single_source_ai_capped": true,
-      "why": [
-        "momentum delta +3",
-        "baseline z_hint 4.97",
-        "high terms: rce",
-        "security high-signal: rce",
-        "aging penalty -8.0 for 98.2d old signal",
         "extreme gate: needs multi-source high-signal, official security, or identity relevance"
       ],
       "summary": ""
@@ -810,7 +834,7 @@
       "url": "https://e27.co/life-lab-resources-grabs-us1m-to-turn-food-waste-into-aquaculture-feed-20260924/",
       "source": "e27 Asia Startup and Tech Feed",
       "published_at": "2026-09-24T05:18:04+00:00",
-      "age_days": 0.54,
+      "age_days": 0.56,
       "topics": [
         "general"
       ],
@@ -837,7 +861,7 @@
       "url": "https://www.heise.de/news/Sicherheitspatch-gegen-Schadcode-repariert-SolarWinds-Observability-Self-Hosted-11464112.html",
       "source": "heise Security Alerts",
       "published_at": "2026-09-24T08:23:00.000+00:00",
-      "age_days": 0.41,
+      "age_days": 0.43,
       "topics": [
         "security"
       ],
@@ -862,7 +886,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11216-9ce77-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-09-24T07:00:00+00:00",
-      "age_days": 0.47,
+      "age_days": 0.49,
       "topics": [
         "security"
       ],
@@ -886,7 +910,7 @@
       "url": "https://www.twcert.org.tw/tw/cp-132-11213-28a81-1.html",
       "source": "TWCERT/CC TVN Vulnerability Notes RSS",
       "published_at": "2026-09-23T08:10:00+00:00",
-      "age_days": 1.42,
+      "age_days": 1.44,
       "topics": [
         "security"
       ],
@@ -910,7 +934,7 @@
       "url": "https://restofworld.org/2026/china-ai-healthcare-biotech-drugs/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
       "source": "Rest of World Global Tech Feed",
       "published_at": "2026-09-24T10:00:00+00:00",
-      "age_days": 0.35,
+      "age_days": 0.36,
       "topics": [
         "ai"
       ],
@@ -935,7 +959,7 @@
       "url": "https://jvn.jp/vu/JVNVU99700314/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T04:25:00+00:00",
-      "age_days": 0.58,
+      "age_days": 0.6,
       "topics": [
         "general"
       ],
@@ -959,7 +983,7 @@
       "url": "https://jvn.jp/vu/JVNVU94625787/",
       "source": "JVN Japan Vulnerability Notes",
       "published_at": "2026-09-24T01:39:57+00:00",
-      "age_days": 0.69,
+      "age_days": 0.71,
       "topics": [
         "general"
       ],
@@ -979,50 +1003,31 @@
       "summary": ""
     },
     {
-      "title": "Imprivata製Enterprise Access ManagementにおけるRSA鍵ペアを更新できない脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU92710088/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-09-24T01:39:57+00:00",
-      "age_days": 0.69,
+      "title": "A new age of capital - growth, sovereignty and AI",
+      "url": "https://www.bis.org/speeches/20260924-new-age-capital-growth-sovereignty-and-ai",
+      "source": "BIS Central Bankers Speeches",
+      "published_at": "2026-06-18T14:33:45+00:00",
+      "age_days": 98.17,
       "topics": [
-        "general"
+        "ai"
       ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
+      "dynamics_score": 19.9,
+      "raw_band": "krass",
+      "dynamic_band": "watch",
+      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
       "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
+      "baseline_z_hint": 3.65,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3"
-      ],
-      "summary": ""
-    },
-    {
-      "title": "ベンダによる署名済みUEFIアプリケーションにおけるセキュアブートバイパスの脆弱性",
-      "url": "https://jvn.jp/vu/JVNVU93766760/",
-      "source": "JVN Japan Vulnerability Notes",
-      "published_at": "2026-09-24T01:39:57+00:00",
-      "age_days": 0.69,
-      "topics": [
-        "general"
-      ],
-      "dynamics_score": 23.0,
-      "raw_band": "strong",
-      "dynamic_band": "strong",
-      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
-      "senna_line": "Beobachten, nicht aufblasen.",
-      "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 0.0,
-      "security_high_signal": false,
-      "single_source_ai_capped": false,
-      "why": [
-        "momentum delta +3"
+        "momentum delta +3",
+        "baseline z_hint 3.65",
+        "high terms: rce",
+        "security high-signal: rce",
+        "aging penalty -8.0 for 98.2d old signal",
+        "stale single-source cap after 30d: no current exploitation phrase"
       ],
       "summary": ""
     }
