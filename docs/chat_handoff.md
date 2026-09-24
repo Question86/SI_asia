@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-24T18:20:29+00:00_
+_Generated: 2026-09-24T18:37:43+00:00_
 
 ## Status
 - status: `normal`
-- findings: `82`
+- findings: `83`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-09-24T18:20:29+00:00_
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3555
 - summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Ansible Automation Platform ausnutzen, um seine Privilegien zu erhöhen, beliebigen Code auszuführen, Sicherheitsmaßnahmen zu umgehen, Daten zu manipulieren oder offenzulegen und einen Denial-of-Service-Zust…
 
-### 2. オーストラリア首相「OpenAIのAIが国民健保サイトに侵入」と公表 - 日本経済新聞
+### 2. AI-powered fuzzing with the GitHub Security Lab Taskflow Agent
+- source: GitHub Blog Atom
+- score: `20`
+- published: `2026-09-24T18:26:12+00:00`
+- url: https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/
+- summary: In this blog post, I explain how to use the new fuzzing taskflow based on the GitHub Security Lab Taskflow Agent AI framework. The post AI-powered fuzzing with the GitHub Security Lab Taskflow Agent appeared first on The GitHub Blog .
+
+### 3. オーストラリア首相「OpenAIのAIが国民健保サイトに侵入」と公表 - 日本経済新聞
 - source: Hatena Bookmark Hotentry IT
 - score: `18`
 - published: `2026-09-23T23:14:59+00:00`
 - url: https://www.nikkei.com/article/DGXZQOGN2407Y0U6A920C2000000/
 - summary: 【シリコンバレー=伴正春、シドニー=今橋瑠璃華】オーストラリアのアルバニージー首相は23日、米オープンAIの人工知能（AI）が6月に国民健康保険のサイトに侵入して非公開のデータにアクセスしていたと公表した。豪公共放送ABCなどが報じた。豪ABCなどによると、米ニューヨークで開かれた記者会見で同氏が発言した。近く...
 
-### 3. [NEU] [UNGEPATCHT] [mittel] Keycloak: Mehrere Schwachstellen
+### 4. [NEU] [UNGEPATCHT] [mittel] Keycloak: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
 - published: `2026-09-24T11:24:23+00:00`
 - url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3558
 - summary: Ein Angreifer kann mehrere Schwachstellen in Keycloak ausnutzen, um Sicherheitsvorkehrungen zu umgehen und um seine Privilegien zu erhöhen.
-
-### 4. [NEU] [UNGEPATCHT] [mittel] BusyBox: Mehrere Schwachstellen
-- source: BSI CERT-Bund Security Advisories
-- score: `16`
-- published: `2026-09-24T11:24:23+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3557
-- summary: Ein Angreifer kann mehrere Schwachstellen in BusyBox ausnutzen, um möglicherweise beliebigen Code auszuführen, Speicher zu beschädigen, sensible Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen oder Denial-of-Service-Zustände zu verursachen.
 
 ### 5. A new age of capital - growth, sovereignty and AI
 - source: BIS Central Bankers Speeches
