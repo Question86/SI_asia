@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-24T08:39:43+00:00",
+  "generated_at": "2026-09-24T08:52:55+00:00",
   "mode": "shadow",
   "target": "deduplicated_causally_attributable_lifetime_monetary_weight_usd",
   "events": [
@@ -1183,7 +1183,7 @@
       "p90_usd": 11600000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-05T07:22:32+00:00",
-      "last_seen_at": "2026-09-24T08:39:26+00:00",
+      "last_seen_at": "2026-09-24T08:52:35+00:00",
       "status": "active"
     },
     {
@@ -3104,7 +3104,7 @@
       "p90_usd": 11120000000.0,
       "confidence": 0.328,
       "first_seen_at": "2026-09-24T08:16:10+00:00",
-      "last_seen_at": "2026-09-24T08:39:26+00:00",
+      "last_seen_at": "2026-09-24T08:52:35+00:00",
       "status": "active"
     },
     {
@@ -4396,7 +4396,7 @@
       "p90_usd": 2920000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-24T08:39:26+00:00",
+      "last_seen_at": "2026-09-24T08:52:35+00:00",
       "status": "active"
     },
     {
@@ -4532,7 +4532,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-24T04:25:00+00:00",
-      "last_seen_at": "2026-09-24T08:39:26+00:00",
+      "last_seen_at": "2026-09-24T08:52:35+00:00",
       "status": "active"
     },
     {
@@ -4549,7 +4549,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-24T01:39:57+00:00",
-      "last_seen_at": "2026-09-24T08:39:26+00:00",
+      "last_seen_at": "2026-09-24T08:52:35+00:00",
       "status": "active"
     },
     {
@@ -4583,7 +4583,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-24T01:39:57+00:00",
-      "last_seen_at": "2026-09-24T08:39:26+00:00",
+      "last_seen_at": "2026-09-24T08:52:35+00:00",
       "status": "active"
     },
     {
@@ -4736,7 +4736,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-24T01:39:57+00:00",
-      "last_seen_at": "2026-09-24T08:39:26+00:00",
+      "last_seen_at": "2026-09-24T08:52:35+00:00",
       "status": "active"
     },
     {
@@ -4821,7 +4821,7 @@
       "p90_usd": 2880000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-24T01:39:57+00:00",
-      "last_seen_at": "2026-09-24T08:39:26+00:00",
+      "last_seen_at": "2026-09-24T08:52:35+00:00",
       "status": "active"
     },
     {
@@ -5182,6 +5182,23 @@
       "status": "dormant"
     },
     {
+      "event_id": "evt_293f7f3fdaca2b7a5b7d",
+      "title": "SEA startup funding jumps to US$7.25B, but most founders are still waiting",
+      "event_classes": [
+        "funding"
+      ],
+      "capital_channels": [
+        "investment"
+      ],
+      "p10_usd": 1136000.0,
+      "p50_usd": 28400000.0,
+      "p90_usd": 1136000000.0,
+      "confidence": 0.312,
+      "first_seen_at": "2026-09-24T08:39:26+00:00",
+      "last_seen_at": "2026-09-24T08:52:35+00:00",
+      "status": "active"
+    },
+    {
       "event_id": "evt_716b92d9f99d233a8892",
       "title": "The AI wrapper reckoning has reached SEA’s funding tables",
       "event_classes": [
@@ -5197,23 +5214,6 @@
       "first_seen_at": "2026-09-04T01:50:38+00:00",
       "last_seen_at": "2026-09-04T23:57:22+00:00",
       "status": "dormant"
-    },
-    {
-      "event_id": "evt_293f7f3fdaca2b7a5b7d",
-      "title": "SEA startup funding jumps to US$7.25B, but most founders are still waiting",
-      "event_classes": [
-        "funding"
-      ],
-      "capital_channels": [
-        "investment"
-      ],
-      "p10_usd": 1136000.0,
-      "p50_usd": 28400000.0,
-      "p90_usd": 1136000000.0,
-      "confidence": 0.312,
-      "first_seen_at": "2026-09-24T08:39:26+00:00",
-      "last_seen_at": "2026-09-24T08:39:26+00:00",
-      "status": "active"
     },
     {
       "event_id": "evt_08244bc271b4aa50456f",
@@ -5246,7 +5246,7 @@
       "p90_usd": 2820000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-24T08:39:26+00:00",
+      "last_seen_at": "2026-09-24T08:52:35+00:00",
       "status": "active"
     },
     {
@@ -5960,7 +5960,7 @@
       "p90_usd": 1184000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-24T08:39:26+00:00",
+      "last_seen_at": "2026-09-24T08:52:35+00:00",
       "status": "active"
     },
     {
@@ -7864,7 +7864,7 @@
       "p90_usd": 1136000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T14:08:37+00:00",
-      "last_seen_at": "2026-09-24T08:39:26+00:00",
+      "last_seen_at": "2026-09-24T08:52:35+00:00",
       "status": "active"
     },
     {
@@ -8629,7 +8629,7 @@
       "p90_usd": 1128000000.0,
       "confidence": 0.365,
       "first_seen_at": "2026-08-28T22:15:36+00:00",
-      "last_seen_at": "2026-09-24T08:39:26+00:00",
+      "last_seen_at": "2026-09-24T08:52:35+00:00",
       "status": "active"
     },
     {
@@ -9207,7 +9207,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-24T04:25:00+00:00",
-      "last_seen_at": "2026-09-24T08:39:26+00:00",
+      "last_seen_at": "2026-09-24T08:52:35+00:00",
       "status": "active"
     },
     {
@@ -9360,7 +9360,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-24T01:39:57+00:00",
-      "last_seen_at": "2026-09-24T08:39:26+00:00",
+      "last_seen_at": "2026-09-24T08:52:35+00:00",
       "status": "active"
     },
     {
@@ -9513,7 +9513,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-03T22:54:30+00:00",
-      "last_seen_at": "2026-09-24T08:39:26+00:00",
+      "last_seen_at": "2026-09-24T08:52:35+00:00",
       "status": "active"
     },
     {
@@ -9785,7 +9785,7 @@
       "p90_usd": 1120000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-24T05:18:04+00:00",
-      "last_seen_at": "2026-09-24T08:39:26+00:00",
+      "last_seen_at": "2026-09-24T08:52:35+00:00",
       "status": "active"
     },
     {
@@ -10193,7 +10193,7 @@
       "p90_usd": 1112000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-24T04:39:03+00:00",
-      "last_seen_at": "2026-09-24T08:39:26+00:00",
+      "last_seen_at": "2026-09-24T08:52:35+00:00",
       "status": "active"
     },
     {
@@ -11367,7 +11367,7 @@
       "p90_usd": 1104000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-24T02:23:46+00:00",
-      "last_seen_at": "2026-09-24T08:39:26+00:00",
+      "last_seen_at": "2026-09-24T08:52:35+00:00",
       "status": "active"
     },
     {
@@ -11775,7 +11775,7 @@
       "p90_usd": 1096000000.0,
       "confidence": 0.312,
       "first_seen_at": "2026-09-24T03:41:01+00:00",
-      "last_seen_at": "2026-09-24T08:39:26+00:00",
+      "last_seen_at": "2026-09-24T08:52:35+00:00",
       "status": "active"
     },
     {
