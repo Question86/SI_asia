@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T17:32:11+00:00",
+  "generated_at": "2026-09-24T17:42:07+00:00",
   "source": "briefings/latest.json",
   "counts": {
     "findings": 81,
@@ -33,18 +33,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 24.7,
+      "network_score": 24.18,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
       "raw_network_score": 66.1,
-      "ranking_score": 24.7,
+      "ranking_score": 24.18,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 1.2,
+      "baseline_bonus": 0.68,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -128,52 +128,6 @@
       "dominance_penalty": 0.0,
       "dominance_reason": "",
       "first_seen_at": "2026-06-19T01:58:32+00:00"
-    },
-    {
-      "key": "domain:www.bis.org",
-      "title": "A new age of capital - growth, sovereignty and AI",
-      "sources": [
-        "BIS Central Bankers Speeches"
-      ],
-      "source_classes": [
-        "central_bank",
-        "tier3_specialist"
-      ],
-      "urls": [
-        "https://www.bis.org/speeches/20260924-new-age-capital-growth-sovereignty-and-ai",
-        "https://www.bis.org/speeches/20260924-opening-address-bank-korea-centre-economic-policy-research-organisation-economic-co-operation-and-development-conference",
-        "https://www.bis.org/speeches/20260924-trusted-innovation-shaping-future-finance",
-        "https://www.bis.org/speeches/20260924-challenge-innovation",
-        "https://www.bis.org/speeches/20260924-navigating-uncertainty-and-adapting-change",
-        "https://www.bis.org/speeches/20260924-banking-regulators-supervisors-and-their-watchers"
-      ],
-      "finding_count": 10,
-      "max_score": 13,
-      "credibility_total": 10.5,
-      "cross_source_confirmed": false,
-      "momentum_delta": 0,
-      "momentum_status": "stable",
-      "network_score": 15.52,
-      "hot": false,
-      "watchgraph_modules": [
-        "capitals_power_centers"
-      ],
-      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
-      "raw_network_score": 34.0,
-      "ranking_score": 15.52,
-      "initial_reach_tier": "institutional",
-      "source_reach_score": 5.0,
-      "authority_bonus_capped": 3.0,
-      "breadth_bonus": 0.0,
-      "momentum_bonus": 0.0,
-      "baseline_bonus": 2.52,
-      "early_signal": false,
-      "early_signal_bonus": 0.0,
-      "high_signal": false,
-      "dominant_emitter": true,
-      "dominance_penalty": 3.0,
-      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
-      "first_seen_at": "2026-06-18T14:33:45+00:00"
     },
     {
       "key": "title:works3",
@@ -404,6 +358,52 @@
       "first_seen_at": "2026-09-24T01:39:57+00:00"
     },
     {
+      "key": "domain:www.bis.org",
+      "title": "A new age of capital - growth, sovereignty and AI",
+      "sources": [
+        "BIS Central Bankers Speeches"
+      ],
+      "source_classes": [
+        "central_bank",
+        "tier3_specialist"
+      ],
+      "urls": [
+        "https://www.bis.org/speeches/20260924-new-age-capital-growth-sovereignty-and-ai",
+        "https://www.bis.org/speeches/20260924-opening-address-bank-korea-centre-economic-policy-research-organisation-economic-co-operation-and-development-conference",
+        "https://www.bis.org/speeches/20260924-trusted-innovation-shaping-future-finance",
+        "https://www.bis.org/speeches/20260924-challenge-innovation",
+        "https://www.bis.org/speeches/20260924-navigating-uncertainty-and-adapting-change",
+        "https://www.bis.org/speeches/20260924-banking-regulators-supervisors-and-their-watchers"
+      ],
+      "finding_count": 10,
+      "max_score": 13,
+      "credibility_total": 10.5,
+      "cross_source_confirmed": false,
+      "momentum_delta": 0,
+      "momentum_status": "stable",
+      "network_score": 15.26,
+      "hot": false,
+      "watchgraph_modules": [
+        "capitals_power_centers"
+      ],
+      "recommended_action": "HOT: cross-source confirmed. Quelle sichern, Kontext prüfen, bei Relevanz aktiv alarmieren.",
+      "raw_network_score": 34.0,
+      "ranking_score": 15.26,
+      "initial_reach_tier": "institutional",
+      "source_reach_score": 5.0,
+      "authority_bonus_capped": 3.0,
+      "breadth_bonus": 0.0,
+      "momentum_bonus": 0.0,
+      "baseline_bonus": 2.26,
+      "early_signal": false,
+      "early_signal_bonus": 0.0,
+      "high_signal": false,
+      "dominant_emitter": true,
+      "dominance_penalty": 3.0,
+      "dominance_reason": "large emitter without cross-source resonance or high-signal term",
+      "first_seen_at": "2026-06-18T14:33:45+00:00"
+    },
+    {
       "key": "earthquake:indonesia:4.5",
       "title": "M 4.5 - 31 km NNW of Komodo, Indonesia",
       "sources": [
@@ -462,18 +462,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 13.62,
+      "network_score": 13.57,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 14.1,
-      "ranking_score": 13.62,
+      "ranking_score": 13.57,
       "initial_reach_tier": "specialist",
       "source_reach_score": 2.5,
       "authority_bonus_capped": 1.5,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.12,
+      "baseline_bonus": 0.07,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -769,18 +769,18 @@
       "cross_source_confirmed": false,
       "momentum_delta": 0,
       "momentum_status": "stable",
-      "network_score": 10.41,
+      "network_score": 10.38,
       "hot": false,
       "watchgraph_modules": [],
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "raw_network_score": 14.2,
-      "ranking_score": 10.41,
+      "ranking_score": 10.38,
       "initial_reach_tier": "institutional",
       "source_reach_score": 5.0,
       "authority_bonus_capped": 3.0,
       "breadth_bonus": 0.0,
       "momentum_bonus": 0.0,
-      "baseline_bonus": 0.41,
+      "baseline_bonus": 0.38,
       "early_signal": false,
       "early_signal_bonus": 0.0,
       "high_signal": false,
@@ -1943,7 +1943,7 @@
   ],
   "resonance_ranking": {
     "schema_version": 1,
-    "generated_at": "2026-09-24T17:32:12Z",
+    "generated_at": "2026-09-24T17:42:07Z",
     "principle": "Authority is capped; early novelty, cross-source breadth, momentum and baseline deviation carry ranking.",
     "dominance_guard": "Large emitters keep credibility but receive no automatic dominance without resonance or high-signal terms."
   }
