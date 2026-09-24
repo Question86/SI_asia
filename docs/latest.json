@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T23:44:40+00:00",
-  "run_id": "2026-09-24T23:44:40+00:00",
+  "generated_at": "2026-09-24T23:52:14+00:00",
+  "run_id": "2026-09-24T23:52:14+00:00",
   "date": "2026-09-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 90
+      "configured_public_sources_only": 91
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 90,
-    "displayed_findings": 90,
+    "new_relevant_findings": 1,
+    "today_file_total": 91,
+    "displayed_findings": 91,
     "high": 0,
     "medium": 31,
-    "observe": 59,
+    "observe": 60,
     "source_errors": 0
   },
   "sections": {
@@ -1017,6 +1017,42 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "a535518f07b2757c719d"
+      },
+      {
+        "title": "M 5.3 - 72 km NW of Finschhafen, Papua New Guinea",
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txhp",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "source_type": "rss",
+        "published_at": "2026-09-24T23:48:55.040+00:00",
+        "fetched_at": "2026-09-24T23:51:43+00:00",
+        "summary": "Time 2026-09-24 23:30:28 UTC 2026-09-24 23:30:28 UTC at epicenter Location 6.086°S 147.394°E Depth 53.59 km (33.30 mi)",
+        "matched_keywords": [
+          "Climate/Disaster Infrastructure",
+          "Watchgraph:earthquakes_tsunami"
+        ],
+        "relevance_score": 9,
+        "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+        "risk_or_opportunity": "risk",
+        "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+        "watchgraph_modules": [
+          "earthquakes_tsunami"
+        ],
+        "watchgraph_reasons": [
+          "earthquakes_tsunami: earthquake"
+        ],
+        "market_context": [
+          "MUV2.DE",
+          "SREN.SW",
+          "RNR",
+          "WRB",
+          "CAT",
+          "VMC",
+          "MLM",
+          "HOLN.SW",
+          "HD",
+          "LOW"
+        ],
+        "id": "79b4bc394b60c3a2ace0"
       },
       {
         "title": "M 5.1 - 32 km S of Kokopo, Papua New Guinea",
@@ -3098,6 +3134,42 @@
       "id": "a535518f07b2757c719d"
     },
     {
+      "title": "M 5.3 - 72 km NW of Finschhafen, Papua New Guinea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txhp",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-24T23:48:55.040+00:00",
+      "fetched_at": "2026-09-24T23:51:43+00:00",
+      "summary": "Time 2026-09-24 23:30:28 UTC 2026-09-24 23:30:28 UTC at epicenter Location 6.086°S 147.394°E Depth 53.59 km (33.30 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "79b4bc394b60c3a2ace0"
+    },
+    {
       "title": "M 5.1 - 32 km S of Kokopo, Papua New Guinea",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txf9",
       "source": "USGS M4.5+ Earthquakes Past Hour",
@@ -4187,7 +4259,44 @@
       "id": "ec0c4d44f87968ac9b42"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "M 5.3 - 72 km NW of Finschhafen, Papua New Guinea",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txhp",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-24T23:48:55.040+00:00",
+      "fetched_at": "2026-09-24T23:51:43+00:00",
+      "summary": "Time 2026-09-24 23:30:28 UTC 2026-09-24 23:30:28 UTC at epicenter Location 6.086°S 147.394°E Depth 53.59 km (33.30 mi)",
+      "matched_keywords": [
+        "Climate/Disaster Infrastructure",
+        "Watchgraph:earthquakes_tsunami"
+      ],
+      "relevance_score": 9,
+      "relevance_reason": "Climate/Disaster Infrastructure (+5.0); recent (+1.0); watchgraph modules earthquakes_tsunami (+3.0)",
+      "risk_or_opportunity": "risk",
+      "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+      "watchgraph_modules": [
+        "earthquakes_tsunami"
+      ],
+      "watchgraph_reasons": [
+        "earthquakes_tsunami: earthquake"
+      ],
+      "market_context": [
+        "MUV2.DE",
+        "SREN.SW",
+        "RNR",
+        "WRB",
+        "CAT",
+        "VMC",
+        "MLM",
+        "HOLN.SW",
+        "HD",
+        "LOW"
+      ],
+      "id": "79b4bc394b60c3a2ace0"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
