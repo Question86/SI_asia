@@ -1,6 +1,6 @@
 # Senna Briefing
 
-_Generiert: 2026-09-24T18:57:46+00:00_
+_Generiert: 2026-09-24T19:15:20+00:00_
 
 ## Kurzlage
 
@@ -53,10 +53,6 @@ _Generiert: 2026-09-24T18:57:46+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Orange notification for tropical cyclone POLO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 23941 .
-- **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 21/09/2026 01:41 UTC, 2 thousand (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1567198)
-  - Quelle: GDACS
-  - Zeit: ``
-  - Kurz: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 21/09/2026 01:41 UTC, 2 thousand (in MMI&gt;=VII).
 
 ## Wirtschaft global
 
