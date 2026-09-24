@@ -1,11 +1,11 @@
 {
   "version": 1,
-  "generated_at": "2026-09-24T04:58:08+00:00",
+  "generated_at": "2026-09-24T05:18:32+00:00",
   "fx_as_of": null,
-  "candidate_count": 1075,
+  "candidate_count": 1078,
   "promoted_count": 0,
   "review_counts": {
-    "pending": 1075
+    "pending": 1078
   },
   "coverage_warning": null,
   "candidates": [
@@ -13204,6 +13204,48 @@
       "source_url": "https://e27.co/can-asias-etf-infrastructure-keep-pace-with-its-growth-20260923/"
     },
     {
+      "amount_native": 50000000.0,
+      "amount_usd": 50000000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.55,
+      "candidate_id": "cand_6bbea941d5fd8d597547",
+      "component_suggestion": "capital_allocation",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_e690900cfba3094b24ad",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-24T05:18:26+00:00",
+      "overlap_group_suggestion": "evt_e690900cfba3094b24ad:capital_allocation:16a051a7b684",
+      "review_status": "pending",
+      "snippet": "data Defi E-Commerce Hardware Retail Artificial Intelligence Cryptocurrency Education Healthtech Software As A Service View all Startups --> POSTS STARTUPS Tech Innovators secured $50 million in funding from Venture Capitalist Alpha, paving the way for groundbreaking advancements in artificial intelligence. Discover the power of AI in transforming your daily tasks! Wit",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://e27.co/life-lab-resources-grabs-us1m-to-turn-food-waste-into-aquaculture-feed-20260924/",
+      "component_confidence": 0.55,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
+    },
+    {
+      "amount_native": 50000000.0,
+      "amount_usd": 50000000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.55,
+      "candidate_id": "cand_7a7be0ceda18838756ac",
+      "component_suggestion": "capital_allocation",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_e690900cfba3094b24ad",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-24T05:18:26+00:00",
+      "overlap_group_suggestion": "evt_e690900cfba3094b24ad:capital_allocation:f3a8ffe32888",
+      "review_status": "pending",
+      "snippet": "cial intelligence. Discover the power of AI in transforming your daily tasks! With intelligent algorithms, we enhance productivity and streamline workflows. AI Innovations Secures $50 Million in Funding from Visionary Investor Experience the future with AI-driven solutions that simplify complex processes and boost efficiency in your work environment. View all Posts Xam",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://e27.co/life-lab-resources-grabs-us1m-to-turn-food-waste-into-aquaculture-feed-20260924/",
+      "component_confidence": 0.55,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
+    },
+    {
       "amount_native": 44000000.0,
       "amount_usd": 44000000.0,
       "attribution_probability": null,
@@ -16997,6 +17039,27 @@
       "snippet": "TacnIQ.ai raises US$1.5M to teach machines the language of touch | e27 --> Verify Your Email Address Your account contact email hasn't been verified yet. Please verify your email address Go to Edit Profil",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://e27.co/tacniq-ai-raises-us1-5m-to-teach-machines-the-language-of-touch-20260922/"
+    },
+    {
+      "amount_native": 1000000.0,
+      "amount_usd": 1000000.0,
+      "attribution_probability": null,
+      "candidate_confidence": 0.35,
+      "candidate_id": "cand_5fdfe4110e9f37feb768",
+      "component_suggestion": "unknown",
+      "conversion_status": "not_required",
+      "currency": "USD",
+      "event_id": "evt_e690900cfba3094b24ad",
+      "extraction_method": "regex_context_v1",
+      "observed_at": "2026-09-24T05:18:26+00:00",
+      "overlap_group_suggestion": "evt_e690900cfba3094b24ad:unknown:6c65b5c5dc4f",
+      "review_status": "pending",
+      "snippet": "Life Lab Resources nets US$1M to turn food waste into aquaculture feed | e27 --> Verify Your Email Address Your account contact email hasn't been verified yet. Please verify your email address Go to Edit Profi",
+      "source_priority": "secondary_or_unknown",
+      "source_url": "https://e27.co/life-lab-resources-grabs-us1m-to-turn-food-waste-into-aquaculture-feed-20260924/",
+      "component_confidence": 0.0,
+      "fx_rate_to_usd": 1.0,
+      "fx_as_of": null
     },
     {
       "amount_native": 500000.0,
