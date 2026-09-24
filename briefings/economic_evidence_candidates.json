@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-09-24T21:49:02+00:00",
-  "candidate_count": 1089,
+  "generated_at": "2026-09-24T21:56:08+00:00",
+  "candidate_count": 1090,
   "candidates": [
     {
       "amount_native": 1755400000000.0,
@@ -22375,6 +22375,24 @@
       "snippet": "で表にします。例外はありますが、一般的な手法を想定しています。 ルールベース 古典的ML Jev LLM 学習データ 不要 必要 不要 不要 推論コスト ◎ ○ ○ △ 速度 ◎ ◎ ◎ △ テキスト △ ◎ ◎ ◎ 画像など △ ○ × ○ 決定論的 Yes ほぼYes No No 自由文生成 × × × ◎ Jevの公式価格は入力100万トークンあたり $0.042 、TypeSafeが公表するレイテンシは 70〜500ms です。いずれもTypeSafe自身による公表値です。 使い分けフローチャート まとめ ざっくり整理すると以下となります。 条件 選択 ルールで書ける ルールベース 十分な教師データがある 古典的な機械学習 テキストから限定された判断をしたい Jev 自由な出力・生成が必要 LLM Jevは、 LL",
       "source_priority": "secondary_or_unknown",
       "source_url": "https://qiita.com/Isaka-code/items/8944ef8b521517f92da0"
+    },
+    {
+      "candidate_id": "cand_0100000ae65242bcaf7b",
+      "event_id": "evt_aded2857bce4fe598bda",
+      "source_url": "https://zenn.dev/unsoluble_sugar/articles/jev-system-one-model-intro",
+      "observed_at": "2026-09-24T21:56:06+00:00",
+      "currency": "USD",
+      "amount_native": 0.042,
+      "amount_usd": 0.042,
+      "conversion_status": "not_required",
+      "component_suggestion": "unknown",
+      "overlap_group_suggestion": "evt_aded2857bce4fe598bda:unclassified",
+      "attribution_probability": null,
+      "snippet": "core の値は各レベルの確率で重み付けした期待値です。レベル番号そのものではなく、上の例なら 1.05 のような小数が返ります。 公開直後からここまで注目された理由 公開から1週間でここまで盛り上がった理由は、大きく5つに整理できます。 1. 速度と価格の桁が違う 項目 Jev（公称値） レイテンシ 70〜500ms（多くは100ms前後） 入力トークン $0.042 / 100万トークン 出力トークン 無料 対LLM比（速度） 40〜200倍速い 対LLM比（コスト） 入力単価で約5〜240倍安い。自社ワークフロー評価では最大444.6倍安い なお、この倍率は仕分けや採点といった、同社が「System Oneタスク」と呼ぶ用途での比較です。文章を書く速さの話ではありません。 出力トークンが無料なのはLLMの常識からする",
+      "extraction_method": "regex_context_v1",
+      "source_priority": "secondary_or_unknown",
+      "candidate_confidence": 0.35,
+      "review_status": "pending"
     },
     {
       "amount_native": 0.0002,
