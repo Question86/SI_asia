@@ -1,7 +1,7 @@
 {
   "schema_version": 2,
   "doc_type": "senna.intelligence_handoff",
-  "generated_at": "2026-09-24T19:24:52Z",
+  "generated_at": "2026-09-24T19:50:31Z",
   "situation_read": "Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [mittel] BusyBox: Mehrere Schwachstellen” — Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen. Band=krass, score=33.0.",
   "how_to_use": [
     "Read before latest.json for Lage.",
@@ -15,7 +15,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3557",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-24T11:24:23+00:00",
-      "age_days": 0.33,
+      "age_days": 0.35,
       "topics": [
         "security"
       ],
@@ -40,7 +40,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3562",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-24T11:34:23+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -65,7 +65,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3551",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-24T11:04:23+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -90,7 +90,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3555",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-24T11:04:25+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -118,7 +118,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3552",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-24T11:04:24+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -144,7 +144,7 @@
       "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/",
       "source": "GitHub Blog Atom",
       "published_at": "2026-09-24T18:26:12+00:00",
-      "age_days": 0.04,
+      "age_days": 0.06,
       "topics": [
         "ai",
         "security"
@@ -170,7 +170,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1312",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-24T11:49:24+00:00",
-      "age_days": 0.32,
+      "age_days": 0.33,
       "topics": [
         "security"
       ],
@@ -196,7 +196,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3561",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-24T11:34:23+00:00",
-      "age_days": 0.33,
+      "age_days": 0.34,
       "topics": [
         "security"
       ],
@@ -222,7 +222,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3556",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-24T11:04:26+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -248,7 +248,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3554",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-24T11:04:25+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -274,7 +274,7 @@
       "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3553",
       "source": "BSI CERT-Bund Security Advisories",
       "published_at": "2026-09-24T11:04:24+00:00",
-      "age_days": 0.35,
+      "age_days": 0.37,
       "topics": [
         "security"
       ],
@@ -296,33 +296,30 @@
       "summary": "Ein Angreifer kann mehrere Schwachstellen in GIMP ausnutzen, um beliebigen Programmcode auszuführen, um einen Denial of Service Angriff durchzuführen, und um Informationen offenzulegen."
     },
     {
-      "title": "A new age of capital - growth, sovereignty and AI",
-      "url": "https://www.bis.org/speeches/20260924-new-age-capital-growth-sovereignty-and-ai",
-      "source": "BIS Central Bankers Speeches",
-      "published_at": "2026-06-18T14:33:45+00:00",
-      "age_days": 98.2,
+      "title": "Imprivata製Enterprise Access ManagementにおけるRSA鍵ペアを更新できない脆弱性",
+      "url": "https://jvn.jp/vu/JVNVU92710088/",
+      "source": "JVN Japan Vulnerability Notes",
+      "published_at": "2026-09-24T10:30:30+09:00",
+      "age_days": 0.76,
       "topics": [
-        "ai"
+        "security"
       ],
-      "dynamics_score": 19.9,
+      "dynamics_score": 24.9,
       "raw_band": "krass",
-      "dynamic_band": "watch",
-      "comparative_read": "Die Dynamik ist sichtbar, aber noch nicht stark genug für Alarm.",
+      "dynamic_band": "strong",
+      "comparative_read": "Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.",
       "senna_line": "Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.",
       "source_count": 1,
-      "momentum_delta": 3,
-      "baseline_z_hint": 1.66,
+      "momentum_delta": 0,
+      "baseline_z_hint": 0.0,
       "security_high_signal": false,
       "single_source_ai_capped": false,
       "why": [
-        "momentum delta +3",
-        "baseline z_hint 1.66",
-        "high terms: rce",
-        "security high-signal: rce",
-        "aging penalty -8.0 for 98.2d old signal",
-        "stale single-source cap after 30d: no current exploitation phrase"
+        "high terms: 10",
+        "security high-signal: 10",
+        "official security but no high-signal phrase: capped at strong"
       ],
-      "summary": ""
+      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。"
     }
   ],
   "read_order": [
@@ -335,8 +332,7 @@
   "counts": {
     "bands_after_gate_recheck": {
       "krass": 3,
-      "strong": 8,
-      "watch": 1
+      "strong": 9
     }
   }
 }
