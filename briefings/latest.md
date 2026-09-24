@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-24T10:35:13+00:00_
+_Generiert: 2026-09-24T10:46:02+00:00_
 
 ## Kurzlage
 
-43 neue relevante Treffer. Stärkstes Signal: „オーストラリア首相「OpenAIのAIが国民健保サイトに侵入」と公表 - 日本経済新聞“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
+44 neue relevante Treffer. Stärkstes Signal: „オーストラリア首相「OpenAIのAIが国民健保サイトに侵入」と公表 - 日本経済新聞“ aus Hatena Bookmark Hotentry IT (Score 18, observation).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -113,6 +113,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)
   - Kurz: 三菱電機株式会社が提供するGX Works3およびモーション制御設定のブロックパスワード設定機能には、認証回避の脆弱性が存在します。
   - Handlung: Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.
+- **Seoul tops global AI implementation as Singapore enters top tier** — Score 14, observation — [Quelle](https://e27.co/seoul-tops-global-ai-implementation-as-singapore-enters-top-tier-20260924/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-24T10:45:20+00:00`, fetched `2026-09-24T10:45:30+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.8); recent (+1.0); watchgraph region india: India (+2.0); watchgraph region south_korea: Seoul (+2.0); watchgraph region southeast_asia: Singapore (+2.0)
+  - Kurz: The global race to lead artificial intelligence is usually framed as a contest between countries: the US versus China, with Europe, India and a handful of others trying to carve out space. A new ranking argues that this view misses where much of the action is actually happening. The Observer’s inaugural AI Cities Index, released […] The post Seoul tops global AI implementation as Singapore enters top tier appeared f…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **Apache Tomcatにおける複数の脆弱性（2026年9月23日）** — Score 14, risk — [Quelle](https://jvn.jp/vu/JVNVU94625787/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
   - Zeit: published `2026-09-24T10:30:40+09:00`, fetched `2026-09-24T01:39:21+00:00`
