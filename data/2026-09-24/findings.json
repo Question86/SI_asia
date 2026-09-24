@@ -48,6 +48,54 @@
     "id": "f48d2912d69c7b0b0986"
   },
   {
+    "title": "[NEU] [UNGEPATCHT] [mittel] Keycloak: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3558",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-24T11:24:23+00:00",
+    "fetched_at": "2026-09-24T11:32:08+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Keycloak ausnutzen, um Sicherheitsvorkehrungen zu umgehen und um seine Privilegien zu erhöhen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Patch",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "2766e0ea7b1a5ec4b0d9"
+  },
+  {
+    "title": "[NEU] [UNGEPATCHT] [mittel] BusyBox: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3557",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-24T11:24:23+00:00",
+    "fetched_at": "2026-09-24T11:32:08+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in BusyBox ausnutzen, um möglicherweise beliebigen Code auszuführen, Speicher zu beschädigen, sensible Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen oder Denial-of-Service-Zustände zu verursachen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Patch",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "5e139ae36077cfd202e9"
+  },
+  {
     "title": "[NEU] [hoch] Red Hat Enterprise Linux (FreeIPA): Mehrere Schwachstellen",
     "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3552",
     "source": "BSI CERT-Bund Security Advisories",
@@ -176,6 +224,52 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "1a0be2baf5a4ad23eaff"
+  },
+  {
+    "title": "[NEU] [mittel] KeePassXC: Mehrere Schwachstellen ermöglichen Denial of Service und Offenlegung",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3560",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-24T11:29:23+00:00",
+    "fetched_at": "2026-09-24T11:32:08+00:00",
+    "summary": "Ein lokaler Angreifer kann mehrere Schwachstellen in KeePassXC ausnutzen, um einen Denial of Service Angriff durchzuführen oder Informationen offenzulegen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ef6e9d4f2c32642358b5"
+  },
+  {
+    "title": "[NEU] [hoch] Apache Tomcat APR/native Connector: Mehrere Schwachstellen",
+    "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3559",
+    "source": "BSI CERT-Bund Security Advisories",
+    "source_type": "rss",
+    "published_at": "2026-09-24T11:29:23+00:00",
+    "fetched_at": "2026-09-24T11:32:08+00:00",
+    "summary": "Ein Angreifer kann mehrere Schwachstellen in Apache Tomcat APR/native Connector ausnutzen, um einen Denial of Service Angriff durchzuführen und um Sicherheitsvorkehrungen zu umgehen.",
+    "matched_keywords": [
+      "BSI",
+      "CERT-Bund",
+      "Schwachstelle",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "35917822d84e54a8354a"
   },
   {
     "title": "[NEU] [hoch] GitLab: Mehrere Schwachstellen",

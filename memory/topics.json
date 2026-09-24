@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-24T11:20:39+00:00",
+  "generated_at": "2026-09-24T11:32:35+00:00",
   "topics": {
     "security": [
       {
@@ -10,6 +10,20 @@
         "published_at": "2026-09-24T11:04:25+00:00",
         "relevance_score": 22,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3555"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] Keycloak: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-24T11:24:23+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3558"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] BusyBox: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-24T11:24:23+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3557"
       },
       {
         "title": "[NEU] [hoch] Red Hat Enterprise Linux (FreeIPA): Mehrere Schwachstellen",
@@ -40,39 +54,25 @@
         "url": "https://jvn.jp/vu/JVNVU99700314/"
       },
       {
+        "title": "[NEU] [mittel] KeePassXC: Mehrere Schwachstellen ermöglichen Denial of Service und Offenlegung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-24T11:29:23+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3560"
+      },
+      {
+        "title": "[NEU] [hoch] Apache Tomcat APR/native Connector: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-24T11:29:23+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3559"
+      },
+      {
         "title": "[NEU] [hoch] GitLab: Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-24T11:04:26+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3556"
-      },
-      {
-        "title": "[NEU] [hoch] Drupal Erweiterungen: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-24T11:04:25+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3554"
-      },
-      {
-        "title": "[NEU] [hoch] GIMP: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-24T11:04:24+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3553"
-      },
-      {
-        "title": "[NEU] [mittel] sudo: Schwachstelle ermöglicht Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-24T11:04:23+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3551"
-      },
-      {
-        "title": "[UPDATE] [hoch] vllm: Schwachstelle ermöglicht Umgehen von Sicherheitsvorkehrungen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-24T10:45:29+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-1974"
       }
     ],
     "geopolitics": [
@@ -84,11 +84,39 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3555"
       },
       {
+        "title": "[NEU] [UNGEPATCHT] [mittel] Keycloak: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-24T11:24:23+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3558"
+      },
+      {
+        "title": "[NEU] [UNGEPATCHT] [mittel] BusyBox: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-24T11:24:23+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3557"
+      },
+      {
         "title": "[NEU] [hoch] Red Hat Enterprise Linux (FreeIPA): Mehrere Schwachstellen",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-24T11:04:24+00:00",
         "relevance_score": 16,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3552"
+      },
+      {
+        "title": "[NEU] [mittel] KeePassXC: Mehrere Schwachstellen ermöglichen Denial of Service und Offenlegung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-24T11:29:23+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3560"
+      },
+      {
+        "title": "[NEU] [hoch] Apache Tomcat APR/native Connector: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-24T11:29:23+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3559"
       },
       {
         "title": "[NEU] [hoch] GitLab: Mehrere Schwachstellen",
@@ -117,34 +145,6 @@
         "published_at": "2026-09-24T11:04:23+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3551"
-      },
-      {
-        "title": "Seoul tops global AI implementation as Singapore enters top tier",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-24T10:45:20+00:00",
-        "relevance_score": 14,
-        "url": "https://e27.co/seoul-tops-global-ai-implementation-as-singapore-enters-top-tier-20260924/"
-      },
-      {
-        "title": "Apache Tomcatにおける複数の脆弱性（2026年9月23日）",
-        "source": "JVN Japan Vulnerability Notes",
-        "published_at": "2026-09-24T10:30:40+09:00",
-        "relevance_score": 14,
-        "url": "https://jvn.jp/vu/JVNVU94625787/"
-      },
-      {
-        "title": "Philip R. Lane: The outlook for the euro area economy",
-        "source": "ECB Press Releases Speeches Interviews",
-        "published_at": "2026-09-24T09:00:00+00:00",
-        "relevance_score": 10,
-        "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260924~e0eceef02c.en.pdf"
-      },
-      {
-        "title": "Bitcoin’s corrective pullback or the start of a deeper drop toward US$79,600?",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-24T04:30:46+00:00",
-        "relevance_score": 4,
-        "url": "https://e27.co/bitcoins-corrective-pullback-or-the-start-of-a-deeper-drop-toward-us79600-20260924/"
       }
     ],
     "ai": [

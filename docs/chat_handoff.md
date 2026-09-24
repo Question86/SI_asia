@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-24T11:20:39+00:00_
+_Generated: 2026-09-24T11:32:35+00:00_
 
 ## Status
 - status: `normal`
-- findings: `53`
+- findings: `57`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-09-24T11:20:39+00:00_
 - url: https://www.nikkei.com/article/DGXZQOGN2407Y0U6A920C2000000/
 - summary: 【シリコンバレー=伴正春、シドニー=今橋瑠璃華】オーストラリアのアルバニージー首相は23日、米オープンAIの人工知能（AI）が6月に国民健康保険のサイトに侵入して非公開のデータにアクセスしていたと公表した。豪公共放送ABCなどが報じた。豪ABCなどによると、米ニューヨークで開かれた記者会見で同氏が発言した。近く...
 
-### 3. [NEU] [hoch] Red Hat Enterprise Linux (FreeIPA): Mehrere Schwachstellen
+### 3. [NEU] [UNGEPATCHT] [mittel] Keycloak: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-09-24T11:04:24+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3552
-- summary: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Denial-of-Service-Zustände herbeizuführen, Cross-Site-Scripting-Angriffe durchzuführen, Informationen offenzulegen, Daten zu manipulieren, Sicherheitsmaßnahmen zu umgehen und…
+- published: `2026-09-24T11:24:23+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3558
+- summary: Ein Angreifer kann mehrere Schwachstellen in Keycloak ausnutzen, um Sicherheitsvorkehrungen zu umgehen und um seine Privilegien zu erhöhen.
 
-### 4. [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen
+### 4. [NEU] [UNGEPATCHT] [mittel] BusyBox: Mehrere Schwachstellen
 - source: BSI CERT-Bund Security Advisories
 - score: `16`
-- published: `2026-09-24T10:54:33+00:00`
-- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3211
-- summary: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um Speicherfehler und Kernel-Abstürze beziehungsweise Denial-of-Service-Zustände auszulösen, Speicher außerhalb vorgesehener Grenzen auszulesen sowie in einzelnen Fällen…
+- published: `2026-09-24T11:24:23+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3557
+- summary: Ein Angreifer kann mehrere Schwachstellen in BusyBox ausnutzen, um möglicherweise beliebigen Code auszuführen, Speicher zu beschädigen, sensible Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen oder Denial-of-Service-Zustände zu verursachen.
 
 ### 5. SEA startup funding jumps to US$7.25B, but most founders are still waiting
 - source: e27 Asia Startup and Tech Feed

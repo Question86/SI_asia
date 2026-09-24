@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-24T11:20:39+00:00_
+_Generiert: 2026-09-24T11:32:35+00:00_
 
 ## Kurzlage
 
-53 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Ansible Automation Platform (automation-controller): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, opportunity).
+57 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Ansible Automation Platform (automation-controller): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -91,23 +91,23 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: OpenAI (+7.5); AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0); watchgraph region japan: Nikkei (+2.0)
   - Kurz: 【シリコンバレー=伴正春、シドニー=今橋瑠璃華】オーストラリアのアルバニージー首相は23日、米オープンAIの人工知能（AI）が6月に国民健康保険のサイトに侵入して非公開のデータにアクセスしていたと公表した。豪公共放送ABCなどが報じた。豪ABCなどによると、米ニューヨークで開かれた記者会見で同氏が発言した。近く...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[NEU] [hoch] Red Hat Enterprise Linux (FreeIPA): Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3552)
+- **[NEU] [UNGEPATCHT] [mittel] Keycloak: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3558)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-09-24T11:04:24+00:00`, fetched `2026-09-24T11:20:09+00:00`
-  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Zeit: published `2026-09-24T11:24:23+00:00`, fetched `2026-09-24T11:32:08+00:00`
+  - Treffer: BSI, CERT-Bund, Patch, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Red Hat Enterprise Linux ausnutzen, um Denial-of-Service-Zustände herbeizuführen, Cross-Site-Scripting-Angriffe durchzuführen, Informationen offenzulegen, Daten zu manipulieren, Sicherheitsmaßnahmen zu umgehen und Berechtigungen zu erweitern (einschließlich des Erwerbs von Administratorrechten).
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in Keycloak ausnutzen, um Sicherheitsvorkehrungen zu umgehen und um seine Privilegien zu erhöhen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3211)
+- **[NEU] [UNGEPATCHT] [mittel] BusyBox: Mehrere Schwachstellen** — Score 16, observation — [Quelle](https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3557)
   - Quelle: BSI CERT-Bund Security Advisories / `rss`
-  - Zeit: published `2026-09-24T10:54:33+00:00`, fetched `2026-09-24T11:00:44+00:00`
-  - Treffer: BSI, CERT-Bund, Linux, Schwachstelle, Security
+  - Zeit: published `2026-09-24T11:24:23+00:00`, fetched `2026-09-24T11:32:08+00:00`
+  - Treffer: BSI, CERT-Bund, Patch, Schwachstelle, Security
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Linux (+2.5); recent (+1.0)
-  - Kurz: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um Speicherfehler und Kernel-Abstürze beziehungsweise Denial-of-Service-Zustände auszulösen, Speicher außerhalb vorgesehener Grenzen auszulesen sowie in einzelnen Fällen weitere Sicherheitsauswirkungen zu verursachen.
+  - Warum relevant: Security (+6.0); BSI (+2.0); CERT-Bund (+2.0); Schwachstelle (+2.5); Patch (+2.5); recent (+1.0)
+  - Kurz: Ein Angreifer kann mehrere Schwachstellen in BusyBox ausnutzen, um möglicherweise beliebigen Code auszuführen, Speicher zu beschädigen, sensible Informationen offenzulegen, Sicherheitsmaßnahmen zu umgehen oder Denial-of-Service-Zustände zu verursachen.
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **CISA ICS Advisory / ICS Medical Advisory（2026年09月22日）** — Score 16, risk — [Quelle](https://jvn.jp/vu/JVNVU96198756/)
   - Quelle: JVN Japan Vulnerability Notes / `rss`
