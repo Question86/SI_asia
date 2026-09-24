@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T08:52:32+00:00",
-  "run_id": "2026-09-24T08:52:32+00:00",
+  "generated_at": "2026-09-24T09:00:21+00:00",
+  "run_id": "2026-09-24T09:00:21+00:00",
   "date": "2026-09-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 31
+      "configured_public_sources_only": 32
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 31,
-    "displayed_findings": 31,
+    "new_relevant_findings": 1,
+    "today_file_total": 32,
+    "displayed_findings": 32,
     "high": 0,
     "medium": 8,
-    "observe": 23,
+    "observe": 24,
     "source_errors": 0
   },
   "sections": {
@@ -560,6 +560,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "56829e670da58b330ed5"
+      },
+      {
+        "title": "ハーネス設計入門 〜 基礎知識の整理から実務へのステップアップ 〜",
+        "url": "https://speakerdeck.com/kinopeee/hanesu-sekkei-nyuumon-kiso-chishiki-no-seiri-kara-jitsumu-heno-suteppu-appu",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-24T05:23:52+00:00",
+        "fetched_at": "2026-09-24T08:59:49+00:00",
+        "summary": "Findy様主催のWebセミナー（2026/9/24）での登壇資料です。 https://findy.connpass.com/event/405902/",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "208b0ad5dbaf9b9e7dd4"
       },
       {
         "title": "「クリスタ」素材、大量非公開でユーザー混乱 人物だけでなくペンや公式素材まで セルシス「誤判定もあった」が……",
@@ -1279,6 +1300,27 @@
       "id": "56829e670da58b330ed5"
     },
     {
+      "title": "ハーネス設計入門 〜 基礎知識の整理から実務へのステップアップ 〜",
+      "url": "https://speakerdeck.com/kinopeee/hanesu-sekkei-nyuumon-kiso-chishiki-no-seiri-kara-jitsumu-heno-suteppu-appu",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-24T05:23:52+00:00",
+      "fetched_at": "2026-09-24T08:59:49+00:00",
+      "summary": "Findy様主催のWebセミナー（2026/9/24）での登壇資料です。 https://findy.connpass.com/event/405902/",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "208b0ad5dbaf9b9e7dd4"
+    },
+    {
       "title": "「クリスタ」素材、大量非公開でユーザー混乱 人物だけでなくペンや公式素材まで セルシス「誤判定もあった」が……",
       "url": "https://www.itmedia.co.jp/news/article/2609/24/2000001689/",
       "source": "Hatena Bookmark Hotentry IT",
@@ -1463,7 +1505,29 @@
       "id": "ec0c4d44f87968ac9b42"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "ハーネス設計入門 〜 基礎知識の整理から実務へのステップアップ 〜",
+      "url": "https://speakerdeck.com/kinopeee/hanesu-sekkei-nyuumon-kiso-chishiki-no-seiri-kara-jitsumu-heno-suteppu-appu",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-24T05:23:52+00:00",
+      "fetched_at": "2026-09-24T08:59:49+00:00",
+      "summary": "Findy様主催のWebセミナー（2026/9/24）での登壇資料です。 https://findy.connpass.com/event/405902/",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "208b0ad5dbaf9b9e7dd4"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
