@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-24T11:32:35+00:00",
+  "generated_at": "2026-09-24T11:43:42+00:00",
   "topics": {
     "security": [
       {
@@ -54,25 +54,25 @@
         "url": "https://jvn.jp/vu/JVNVU99700314/"
       },
       {
+        "title": "[NEU] [mittel] CyberPanel: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-24T11:34:23+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3561"
+      },
+      {
+        "title": "[NEU] [hoch] MLflow: Mehrere Schwachstellen ermöglichen Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-24T11:34:23+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3562"
+      },
+      {
         "title": "[NEU] [mittel] KeePassXC: Mehrere Schwachstellen ermöglichen Denial of Service und Offenlegung",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-24T11:29:23+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3560"
-      },
-      {
-        "title": "[NEU] [hoch] Apache Tomcat APR/native Connector: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-24T11:29:23+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3559"
-      },
-      {
-        "title": "[NEU] [hoch] GitLab: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-24T11:04:26+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3556"
       }
     ],
     "geopolitics": [
@@ -105,6 +105,20 @@
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3552"
       },
       {
+        "title": "[NEU] [mittel] CyberPanel: Mehrere Schwachstellen ermöglichen Offenlegung von Informationen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-24T11:34:23+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3561"
+      },
+      {
+        "title": "[NEU] [hoch] MLflow: Mehrere Schwachstellen ermöglichen Codeausführung",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-24T11:34:23+00:00",
+        "relevance_score": 14,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3562"
+      },
+      {
         "title": "[NEU] [mittel] KeePassXC: Mehrere Schwachstellen ermöglichen Denial of Service und Offenlegung",
         "source": "BSI CERT-Bund Security Advisories",
         "published_at": "2026-09-24T11:29:23+00:00",
@@ -131,20 +145,6 @@
         "published_at": "2026-09-24T11:04:25+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3554"
-      },
-      {
-        "title": "[NEU] [hoch] GIMP: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-24T11:04:24+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3553"
-      },
-      {
-        "title": "[NEU] [mittel] sudo: Schwachstelle ermöglicht Codeausführung",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-24T11:04:23+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3551"
       }
     ],
     "ai": [
@@ -242,6 +242,13 @@
         "url": "https://japan.cnet.com/article/35252874/"
       },
       {
+        "title": "M 4.9 - Kermadec Islands, New Zealand",
+        "source": "USGS M4.5+ Earthquakes Past Hour",
+        "published_at": "2026-09-24T11:42:21.040+00:00",
+        "relevance_score": 9,
+        "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000txb3"
+      },
+      {
         "title": "M 5.3 - 15 km SSW of Hilvan, Turkey",
         "source": "USGS M4.5+ Earthquakes Past Hour",
         "published_at": "2026-09-24T08:11:36.687+00:00",
@@ -263,6 +270,13 @@
         "url": "https://www.digital.go.jp/news/efdd742c-aa9b-4482-8842-0e172fa9b78b"
       },
       {
+        "title": "3大、俺の中で天才ゲームプログラマ",
+        "source": "Hatena Bookmark Hotentry IT",
+        "published_at": "2026-09-24T09:26:31+00:00",
+        "relevance_score": 5,
+        "url": "https://anond.hatelabo.jp/20260924153226"
+      },
+      {
         "title": "「楽天銀行から数百万が勝手に移動」「残高が0に」……楽天証券のシステム不具合、連休中に発生",
         "source": "Hatena Bookmark Hotentry IT",
         "published_at": "2026-09-24T08:33:59+00:00",
@@ -275,20 +289,6 @@
         "published_at": "2026-09-24T06:30:19+00:00",
         "relevance_score": 5,
         "url": "https://labo.hatenastaff.com/entry/2026/09/24/150000"
-      },
-      {
-        "title": "ハーネス設計入門 〜 基礎知識の整理から実務へのステップアップ 〜",
-        "source": "Hatena Bookmark Hotentry IT",
-        "published_at": "2026-09-24T05:23:52+00:00",
-        "relevance_score": 5,
-        "url": "https://speakerdeck.com/kinopeee/hanesu-sekkei-nyuumon-kiso-chishiki-no-seiri-kara-jitsumu-heno-suteppu-appu"
-      },
-      {
-        "title": "Startups keep scaling ops before they scale data — Here’s why it backfires",
-        "source": "e27 Asia Startup and Tech Feed",
-        "published_at": "2026-09-24T03:00:08+00:00",
-        "relevance_score": 5,
-        "url": "https://e27.co/startups-keep-scaling-ops-before-they-scale-data-heres-why-it-backfires-20260921/"
       }
     ],
     "github": [
