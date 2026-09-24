@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T14:24:48+00:00",
-  "run_id": "2026-09-24T14:24:48+00:00",
+  "generated_at": "2026-09-24T14:37:02+00:00",
+  "run_id": "2026-09-24T14:37:02+00:00",
   "date": "2026-09-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 80,
     "displayed_findings": 80,
     "high": 0,
@@ -3727,28 +3727,7 @@
       "id": "ec0c4d44f87968ac9b42"
     }
   ],
-  "new_findings": [
-    {
-      "title": "ECB Executive Board member Isabel Schnabel to resign to take senior role at IMF",
-      "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260924~bea1dd9824.en.html",
-      "source": "ECB Press Releases Speeches Interviews",
-      "source_type": "rss",
-      "published_at": "2026-09-24T12:00:00+00:00",
-      "fetched_at": "2026-09-24T14:24:18+00:00",
-      "summary": "ECB Executive Board member Isabel Schnabel to resign to take senior role at IMF",
-      "matched_keywords": [
-        "Macro/Policy"
-      ],
-      "relevance_score": 9,
-      "relevance_reason": "Macro/Policy (+6.2); recent (+1.0); watchgraph region europe: ECB (+2.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a92a83603c118a1e81ef"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
