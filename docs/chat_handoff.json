@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-24T03:51:36+00:00",
+  "generated_at": "2026-09-24T03:59:00+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 15,
-    "displayed_findings": 15,
+    "new_relevant_findings": 1,
+    "today_file_total": 16,
+    "displayed_findings": 16,
     "high": 0,
-    "medium": 6,
+    "medium": 7,
     "observe": 9
   },
   "source_errors_count": 0,
@@ -35,6 +35,16 @@
       "section": "medium"
     },
     {
+      "title": "M 4.5 - 31 km NNW of Komodo, Indonesia",
+      "source": "USGS M4.5+ Earthquakes Past Hour",
+      "source_type": "rss",
+      "published_at": "2026-09-24T03:51:50.040+00:00",
+      "relevance_score": 15,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx8q",
+      "summary": "Time 2026-09-24 03:30:26 UTC 2026-09-24 03:30:26 UTC at epicenter Location 8.330°S 119.367°E Depth 10.00 km (6.21 mi)",
+      "section": "medium"
+    },
+    {
       "title": "Apache Tomcatにおける複数の脆弱性（2026年9月23日）",
       "source": "JVN Japan Vulnerability Notes",
       "source_type": "rss",
@@ -42,16 +52,6 @@
       "relevance_score": 14,
       "url": "https://jvn.jp/vu/JVNVU94625787/",
       "summary": "The Apache Software Foundationから、Apache Tomcatの15件の脆弱性に対してアドバイザリが公開されました。",
-      "section": "medium"
-    },
-    {
-      "title": "Imprivata製Enterprise Access ManagementにおけるRSA鍵ペアを更新できない脆弱性",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-09-24T10:30:30+09:00",
-      "relevance_score": 14,
-      "url": "https://jvn.jp/vu/JVNVU92710088/",
-      "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
       "section": "medium"
     },
     {

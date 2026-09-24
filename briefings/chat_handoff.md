@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-24T03:51:36+00:00_
+_Generated: 2026-09-24T03:59:00+00:00_
 
 ## Status
 - status: `normal`
-- findings: `15`
+- findings: `16`
 
 ## Top Signals
 
@@ -22,19 +22,19 @@ _Generated: 2026-09-24T03:51:36+00:00_
 - url: https://jvn.jp/vu/JVNVU96198756/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 3. Apache Tomcatにおける複数の脆弱性（2026年9月23日）
+### 3. M 4.5 - 31 km NNW of Komodo, Indonesia
+- source: USGS M4.5+ Earthquakes Past Hour
+- score: `15`
+- published: `2026-09-24T03:51:50.040+00:00`
+- url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx8q
+- summary: Time 2026-09-24 03:30:26 UTC 2026-09-24 03:30:26 UTC at epicenter Location 8.330°S 119.367°E Depth 10.00 km (6.21 mi)
+
+### 4. Apache Tomcatにおける複数の脆弱性（2026年9月23日）
 - source: JVN Japan Vulnerability Notes
 - score: `14`
 - published: `2026-09-24T10:30:40+09:00`
 - url: https://jvn.jp/vu/JVNVU94625787/
 - summary: The Apache Software Foundationから、Apache Tomcatの15件の脆弱性に対してアドバイザリが公開されました。
-
-### 4. Imprivata製Enterprise Access ManagementにおけるRSA鍵ペアを更新できない脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-09-24T10:30:30+09:00`
-- url: https://jvn.jp/vu/JVNVU92710088/
-- summary: CERT/CCから本件に関するアドバイザリが公表されました。
 
 ### 5. AI won’t just replace jobs. It will redesign how companies work
 - source: e27 Asia Startup and Tech Feed
