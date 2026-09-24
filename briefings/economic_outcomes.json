@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-24T10:35:58+00:00",
+  "generated_at": "2026-09-24T10:46:51+00:00",
   "events": [
     {
       "event_id": "evt_00999a707b633ec75a8c",
@@ -3921,13 +3921,13 @@
     {
       "event_id": "evt_67231cb808cbb0d1c1eb",
       "title": "大臣・副大臣・大臣政務官の交代式を行いました",
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
       "gross_attributed_usd": 0,
       "last_material_delta_at": null,
       "net_attributed_usd": null,
       "stagnation_reached": false,
-      "deduplicated_buckets": 0,
-      "evidence_count": 0,
-      "status": "active"
+      "status": "dormant"
     },
     {
       "event_id": "evt_67b48014922a793721ef",
@@ -7536,6 +7536,17 @@
       "net_attributed_usd": null,
       "stagnation_reached": false,
       "status": "dormant"
+    },
+    {
+      "event_id": "evt_c0c4e633d1008ca1a89e",
+      "title": "Seoul tops global AI implementation as Singapore enters top tier",
+      "gross_attributed_usd": 0,
+      "last_material_delta_at": null,
+      "net_attributed_usd": null,
+      "stagnation_reached": false,
+      "deduplicated_buckets": 0,
+      "evidence_count": 0,
+      "status": "active"
     },
     {
       "event_id": "evt_c0dfded64dd61d6977ad",
