@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T01:57:49+00:00",
-  "run_id": "2026-09-24T01:57:49+00:00",
+  "generated_at": "2026-09-24T02:23:42+00:00",
+  "run_id": "2026-09-24T02:23:42+00:00",
   "date": "2026-09-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 9
+      "configured_public_sources_only": 12
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 0,
-    "today_file_total": 9,
-    "displayed_findings": 9,
+    "new_relevant_findings": 3,
+    "today_file_total": 12,
+    "displayed_findings": 12,
     "high": 0,
     "medium": 5,
-    "observe": 4,
+    "observe": 7,
     "source_errors": 0
   },
   "sections": {
@@ -165,6 +165,27 @@
         "id": "76601d2151cb4bd6e7e2"
       },
       {
+        "title": "The future of healthcare AI isn’t more data. It’s better context",
+        "url": "https://e27.co/the-future-of-healthcare-ai-isnt-more-data-its-better-context-20260921/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-24T02:00:34+00:00",
+        "fetched_at": "2026-09-24T02:23:12+00:00",
+        "summary": "For centuries, doctors have treated patients without having immediate access to an encyclopaedia of medical knowledge. A physician examining a patient did not need to read every medical textbook before deciding what to do. They observed symptoms, considered the patient’s history, recognised patterns, weighed possibilities and drew on years of experience. They did not know […] The post The future of healthcare AI isn…",
+        "matched_keywords": [
+          "AI/KI",
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 8,
+        "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "b3d45de9b62236bacc72"
+      },
+      {
         "title": "SREとは何か、AWSでどう始めるか",
         "url": "https://speakerdeck.com/kokitamura/sre-toha-nani-ka-aws-de-dou-hajimeru-ka",
         "source": "Hatena Bookmark Hotentry IT",
@@ -187,6 +208,27 @@
         "id": "39727378de47b84b9d30"
       },
       {
+        "title": "Metaが軽量「VRグラス」来春発売。IMAX見られてPCもつながる製品を体験【西田宗千佳のRandomTracking】",
+        "url": "https://av.watch.impress.co.jp/docs/series/rt/2142663.html",
+        "source": "Hatena Bookmark Hotentry IT",
+        "source_type": "rss",
+        "published_at": "2026-09-24T00:28:37+00:00",
+        "fetched_at": "2026-09-24T02:23:12+00:00",
+        "summary": "Metaが軽量「VRグラス」来春発売。IMAX見られてPCもつながる製品を体験【西田宗千佳のRandomTracking】",
+        "matched_keywords": [
+          "Hatena",
+          "hotentry"
+        ],
+        "relevance_score": 5,
+        "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "78b4a9393b008f0d5972"
+      },
+      {
         "title": "グーグルマップが遅い経路を表示してくるときに試したいこと - ねじまき日記",
         "url": "https://nejimakinikki.hatenablog.com/entry/google-maps-ecomode-off-route",
         "source": "Hatena Bookmark Hotentry IT",
@@ -206,6 +248,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "d45eb547d8ca6da78240"
+      },
+      {
+        "title": "How I rebuilt my company’s meeting culture after realising we were drowning in status updates",
+        "url": "https://e27.co/how-i-rebuilt-my-companys-meeting-culture-after-realising-we-were-drowning-in-status-updates-20260921/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-24T02:00:30+00:00",
+        "fetched_at": "2026-09-24T02:23:12+00:00",
+        "summary": "Every growing company eventually builds a ritual around checking in on itself. Daily standups, weekly syncs, status calls stacked on status calls, all in the name of staying aligned. At some point, that ritual stops serving the work because the team starts doing the check-in instead of doing the actual work. Fixing it meant asking […] The post How I rebuilt my company’s meeting culture after realising we were drowni…",
+        "matched_keywords": [
+          "APAC Trend Radar"
+        ],
+        "relevance_score": 4,
+        "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "34b0406dc28cc6033c58"
       },
       {
         "title": "Reverse home bias: Why Southeast Asia’s digital investors may be diversifying in the wrong direction",
@@ -365,6 +427,27 @@
       "id": "76601d2151cb4bd6e7e2"
     },
     {
+      "title": "The future of healthcare AI isn’t more data. It’s better context",
+      "url": "https://e27.co/the-future-of-healthcare-ai-isnt-more-data-its-better-context-20260921/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-24T02:00:34+00:00",
+      "fetched_at": "2026-09-24T02:23:12+00:00",
+      "summary": "For centuries, doctors have treated patients without having immediate access to an encyclopaedia of medical knowledge. A physician examining a patient did not need to read every medical textbook before deciding what to do. They observed symptoms, considered the patient’s history, recognised patterns, weighed possibilities and drew on years of experience. They did not know […] The post The future of healthcare AI isn…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b3d45de9b62236bacc72"
+    },
+    {
       "title": "SREとは何か、AWSでどう始めるか",
       "url": "https://speakerdeck.com/kokitamura/sre-toha-nani-ka-aws-de-dou-hajimeru-ka",
       "source": "Hatena Bookmark Hotentry IT",
@@ -385,6 +468,27 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "39727378de47b84b9d30"
+    },
+    {
+      "title": "Metaが軽量「VRグラス」来春発売。IMAX見られてPCもつながる製品を体験【西田宗千佳のRandomTracking】",
+      "url": "https://av.watch.impress.co.jp/docs/series/rt/2142663.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-24T00:28:37+00:00",
+      "fetched_at": "2026-09-24T02:23:12+00:00",
+      "summary": "Metaが軽量「VRグラス」来春発売。IMAX見られてPCもつながる製品を体験【西田宗千佳のRandomTracking】",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "78b4a9393b008f0d5972"
     },
     {
       "title": "グーグルマップが遅い経路を表示してくるときに試したいこと - ねじまき日記",
@@ -408,6 +512,26 @@
       "id": "d45eb547d8ca6da78240"
     },
     {
+      "title": "How I rebuilt my company’s meeting culture after realising we were drowning in status updates",
+      "url": "https://e27.co/how-i-rebuilt-my-companys-meeting-culture-after-realising-we-were-drowning-in-status-updates-20260921/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-24T02:00:30+00:00",
+      "fetched_at": "2026-09-24T02:23:12+00:00",
+      "summary": "Every growing company eventually builds a ritual around checking in on itself. Daily standups, weekly syncs, status calls stacked on status calls, all in the name of staying aligned. At some point, that ritual stops serving the work because the team starts doing the check-in instead of doing the actual work. Fixing it meant asking […] The post How I rebuilt my company’s meeting culture after realising we were drowni…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "34b0406dc28cc6033c58"
+    },
+    {
       "title": "Reverse home bias: Why Southeast Asia’s digital investors may be diversifying in the wrong direction",
       "url": "https://e27.co/reverse-home-bias-why-southeast-asias-digital-investors-may-be-diversifying-in-the-wrong-direction-20260914/",
       "source": "e27 Asia Startup and Tech Feed",
@@ -429,7 +553,70 @@
       "id": "ec0c4d44f87968ac9b42"
     }
   ],
-  "new_findings": [],
+  "new_findings": [
+    {
+      "title": "The future of healthcare AI isn’t more data. It’s better context",
+      "url": "https://e27.co/the-future-of-healthcare-ai-isnt-more-data-its-better-context-20260921/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-24T02:00:34+00:00",
+      "fetched_at": "2026-09-24T02:23:12+00:00",
+      "summary": "For centuries, doctors have treated patients without having immediate access to an encyclopaedia of medical knowledge. A physician examining a patient did not need to read every medical textbook before deciding what to do. They observed symptoms, considered the patient’s history, recognised patterns, weighed possibilities and drew on years of experience. They did not know […] The post The future of healthcare AI isn…",
+      "matched_keywords": [
+        "AI/KI",
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 8,
+      "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "b3d45de9b62236bacc72"
+    },
+    {
+      "title": "Metaが軽量「VRグラス」来春発売。IMAX見られてPCもつながる製品を体験【西田宗千佳のRandomTracking】",
+      "url": "https://av.watch.impress.co.jp/docs/series/rt/2142663.html",
+      "source": "Hatena Bookmark Hotentry IT",
+      "source_type": "rss",
+      "published_at": "2026-09-24T00:28:37+00:00",
+      "fetched_at": "2026-09-24T02:23:12+00:00",
+      "summary": "Metaが軽量「VRグラス」来春発売。IMAX見られてPCもつながる製品を体験【西田宗千佳のRandomTracking】",
+      "matched_keywords": [
+        "Hatena",
+        "hotentry"
+      ],
+      "relevance_score": 5,
+      "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "78b4a9393b008f0d5972"
+    },
+    {
+      "title": "How I rebuilt my company’s meeting culture after realising we were drowning in status updates",
+      "url": "https://e27.co/how-i-rebuilt-my-companys-meeting-culture-after-realising-we-were-drowning-in-status-updates-20260921/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-24T02:00:30+00:00",
+      "fetched_at": "2026-09-24T02:23:12+00:00",
+      "summary": "Every growing company eventually builds a ritual around checking in on itself. Daily standups, weekly syncs, status calls stacked on status calls, all in the name of staying aligned. At some point, that ritual stops serving the work because the team starts doing the check-in instead of doing the actual work. Fixing it meant asking […] The post How I rebuilt my company’s meeting culture after realising we were drowni…",
+      "matched_keywords": [
+        "APAC Trend Radar"
+      ],
+      "relevance_score": 4,
+      "relevance_reason": "APAC Trend Radar (+3.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "34b0406dc28cc6033c58"
+    }
+  ],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {

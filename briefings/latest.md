@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-24T01:57:49+00:00_
+_Generiert: 2026-09-24T02:23:42+00:00_
 
 ## Kurzlage
 
-9 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月22日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
+12 neue relevante Treffer. Stärkstes Signal: „CISA ICS Advisory / ICS Medical Advisory（2026年09月22日）“ aus JVN Japan Vulnerability Notes (Score 16, risk).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -116,6 +116,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0)
   - Kurz: For years, one question has dominated the conversation around artificial intelligence: How many jobs will AI replace? After working with enterprises in Southeast Asia to deploy AI into real business processes, I increasingly think we are asking the wrong question. The more important question is: How much more can an organisation accomplish when AI becomes […] The post AI won’t just replace jobs. It will redesign how…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **The future of healthcare AI isn’t more data. It’s better context** — Score 8, observation — [Quelle](https://e27.co/the-future-of-healthcare-ai-isnt-more-data-its-better-context-20260921/)
+  - Quelle: e27 Asia Startup and Tech Feed / `rss`
+  - Zeit: published `2026-09-24T02:00:34+00:00`, fetched `2026-09-24T02:23:12+00:00`
+  - Treffer: AI/KI, APAC Trend Radar
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: AI/KI (+3.8); APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: For centuries, doctors have treated patients without having immediate access to an encyclopaedia of medical knowledge. A physician examining a patient did not need to read every medical textbook before deciding what to do. They observed symptoms, considered the patient’s history, recognised patterns, weighed possibilities and drew on years of experience. They did not know […] The post The future of healthcare AI isn…
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **SREとは何か、AWSでどう始めるか** — Score 8, observation — [Quelle](https://speakerdeck.com/kokitamura/sre-toha-nani-ka-aws-de-dou-hajimeru-ka)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
   - Zeit: published `2026-09-23T13:46:19+00:00`, fetched `2026-09-24T00:53:57+00:00`
@@ -124,6 +133,15 @@ Keine neuen Hochprioritäts-Treffer.
   - Markt-/Kontextkorb: keiner
   - Warum relevant: AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: 銀行勘定系システムにおける開発プロセス刷新×AIによる環境モダナイゼーション / Development Process Transformation and AI-Driven Environment Modernization
+  - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
+- **Metaが軽量「VRグラス」来春発売。IMAX見られてPCもつながる製品を体験【西田宗千佳のRandomTracking】** — Score 5, observation — [Quelle](https://av.watch.impress.co.jp/docs/series/rt/2142663.html)
+  - Quelle: Hatena Bookmark Hotentry IT / `rss`
+  - Zeit: published `2026-09-24T00:28:37+00:00`, fetched `2026-09-24T02:23:12+00:00`
+  - Treffer: Hatena, hotentry
+  - Watchgraph: keine
+  - Markt-/Kontextkorb: keiner
+  - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
+  - Kurz: Metaが軽量「VRグラス」来春発売。IMAX見られてPCもつながる製品を体験【西田宗千佳のRandomTracking】
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 - **グーグルマップが遅い経路を表示してくるときに試したいこと - ねじまき日記** — Score 5, observation — [Quelle](https://nejimakinikki.hatenablog.com/entry/google-maps-ecomode-off-route)
   - Quelle: Hatena Bookmark Hotentry IT / `rss`
@@ -134,14 +152,14 @@ Keine neuen Hochprioritäts-Treffer.
   - Warum relevant: Hatena (+2.0); hotentry (+2.0); recent (+1.0)
   - Kurz: Google Mapsのエコモードをオフにする 最近、グーグルマップの経路表示が変だな、と思う方いませんか？？ 5分短縮するために1200円ぐらい高速料金かかる道を表示してきたり、 そうかと想えば、 普通なら15分でイケるところを、燃費のためかどうかしらないですけど、 18分で遠回りな道を表示するようになったり。 Reddit...
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
-- **Reverse home bias: Why Southeast Asia’s digital investors may be diversifying in the wrong direction** — Score 3, observation — [Quelle](https://e27.co/reverse-home-bias-why-southeast-asias-digital-investors-may-be-diversifying-in-the-wrong-direction-20260914/)
+- **How I rebuilt my company’s meeting culture after realising we were drowning in status updates** — Score 4, observation — [Quelle](https://e27.co/how-i-rebuilt-my-companys-meeting-culture-after-realising-we-were-drowning-in-status-updates-20260921/)
   - Quelle: e27 Asia Startup and Tech Feed / `rss`
-  - Zeit: published `2026-09-24T01:00:55+00:00`, fetched `2026-09-24T01:15:12+00:00`
-  - Treffer: APAC Trend Radar, Southeast Asia
+  - Zeit: published `2026-09-24T02:00:30+00:00`, fetched `2026-09-24T02:23:12+00:00`
+  - Treffer: APAC Trend Radar
   - Watchgraph: keine
   - Markt-/Kontextkorb: keiner
-  - Warum relevant: APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph demote portfolio (x0.45)
-  - Kurz: The next portfolio concentration problem may not come from investors staying too close to home, but from millions of investors becoming familiar with the same handful of global companies. For decades, one of the most persistent puzzles in investing has been home bias. Investors have traditionally tended to allocate disproportionately to companies and assets from […] The post Reverse home bias: Why Southeast Asia’s d…
+  - Warum relevant: APAC Trend Radar (+3.0); recent (+1.0)
+  - Kurz: Every growing company eventually builds a ritual around checking in on itself. Daily standups, weekly syncs, status calls stacked on status calls, all in the name of staying aligned. At some point, that ritual stops serving the work because the team starts doing the check-in instead of doing the actual work. Fixing it meant asking […] The post How I rebuilt my company’s meeting culture after realising we were drowni…
   - Handlung: Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.
 
 ## Empfehlungen
