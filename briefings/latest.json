@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T03:01:39+00:00",
-  "run_id": "2026-09-24T03:01:39+00:00",
+  "generated_at": "2026-09-24T03:26:18+00:00",
+  "run_id": "2026-09-24T03:26:18+00:00",
   "date": "2026-09-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -18,7 +18,7 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 1,
+    "new_relevant_findings": 0,
     "today_file_total": 14,
     "displayed_findings": 14,
     "high": 0,
@@ -639,28 +639,7 @@
       "id": "ec0c4d44f87968ac9b42"
     }
   ],
-  "new_findings": [
-    {
-      "title": "Startups keep scaling ops before they scale data — Here’s why it backfires",
-      "url": "https://e27.co/startups-keep-scaling-ops-before-they-scale-data-heres-why-it-backfires-20260921/",
-      "source": "e27 Asia Startup and Tech Feed",
-      "source_type": "rss",
-      "published_at": "2026-09-24T03:00:08+00:00",
-      "fetched_at": "2026-09-24T03:01:10+00:00",
-      "summary": "A startup doubles its headcount. It opens a new sales channel. It ships a second product line. All of this happens while the business is still running on a spreadsheet, a half-built dashboard, or a weekly gut-check meeting. Nobody notices the gap at first, growth feels like growth. Then, three months in, someone on the […] The post Startups keep scaling ops before they scale data — Here’s why it backfires appeared f…",
-      "matched_keywords": [
-        "APAC Trend Radar"
-      ],
-      "relevance_score": 5,
-      "relevance_reason": "APAC Trend Radar (+3.8); recent (+1.0)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "0e63e3df7f1bb35226bb"
-    }
-  ],
+  "new_findings": [],
   "source_errors": [],
   "quality_gate": {
     "thresholds": {
