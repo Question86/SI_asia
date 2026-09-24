@@ -1,5 +1,138 @@
 [
   {
+    "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月22日）",
+    "url": "https://jvn.jp/vu/JVNVU96198756/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-09-24T10:30:00+09:00",
+    "fetched_at": "2026-09-24T01:39:21+00:00",
+    "summary": "米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。",
+    "matched_keywords": [
+      "advisory",
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 16,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); advisory (+2.5); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "a317b43748480584f928"
+  },
+  {
+    "title": "Apache Tomcatにおける複数の脆弱性（2026年9月23日）",
+    "url": "https://jvn.jp/vu/JVNVU94625787/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-09-24T10:30:40+09:00",
+    "fetched_at": "2026-09-24T01:39:21+00:00",
+    "summary": "The Apache Software Foundationから、Apache Tomcatの15件の脆弱性に対してアドバイザリが公開されました。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "53e900fce76223caee57"
+  },
+  {
+    "title": "Imprivata製Enterprise Access ManagementにおけるRSA鍵ペアを更新できない脆弱性",
+    "url": "https://jvn.jp/vu/JVNVU92710088/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-09-24T10:30:30+09:00",
+    "fetched_at": "2026-09-24T01:39:21+00:00",
+    "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "7bda013b1c89699916fc"
+  },
+  {
+    "title": "Cinnamon AI製Kotaemonのマルチユーザーチャットハンドラにおける不適切な認可の脆弱性",
+    "url": "https://jvn.jp/vu/JVNVU91025240/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-09-24T10:30:20+09:00",
+    "fetched_at": "2026-09-24T01:39:21+00:00",
+    "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d00d843093d97d152ebf"
+  },
+  {
+    "title": "ベンダによる署名済みUEFIアプリケーションにおけるセキュアブートバイパスの脆弱性",
+    "url": "https://jvn.jp/vu/JVNVU93766760/",
+    "source": "JVN Japan Vulnerability Notes",
+    "source_type": "rss",
+    "published_at": "2026-09-24T10:30:10+09:00",
+    "fetched_at": "2026-09-24T01:39:21+00:00",
+    "summary": "CERT/CCから本件に関するアドバイザリが公表されました。",
+    "matched_keywords": [
+      "APAC Trend Radar",
+      "JVN",
+      "Security"
+    ],
+    "relevance_score": 14,
+    "relevance_reason": "Security (+6.0); APAC Trend Radar (+3.0); JVN (+2.0); recent (+1.0); watchgraph region japan: Japan (+2.0)",
+    "risk_or_opportunity": "risk",
+    "recommended_action": "Nicht reflexhaft reagieren. Quelle sichern, Kontext prüfen, Risiko dokumentieren und Gegenmaßnahme vorbereiten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "ca862d5de1119855dd0a"
+  },
+  {
+    "title": "AI won’t just replace jobs. It will redesign how companies work",
+    "url": "https://e27.co/ai-wont-just-replace-jobs-it-will-redesign-how-companies-work-20260921/",
+    "source": "e27 Asia Startup and Tech Feed",
+    "source_type": "rss",
+    "published_at": "2026-09-24T01:30:18+00:00",
+    "fetched_at": "2026-09-24T01:39:21+00:00",
+    "summary": "For years, one question has dominated the conversation around artificial intelligence: How many jobs will AI replace? After working with enterprises in Southeast Asia to deploy AI into real business processes, I increasingly think we are asking the wrong question. The more important question is: How much more can an organisation accomplish when AI becomes […] The post AI won’t just replace jobs. It will redesign how…",
+    "matched_keywords": [
+      "AI/KI",
+      "APAC Trend Radar",
+      "Southeast Asia"
+    ],
+    "relevance_score": 10,
+    "relevance_reason": "AI/KI (+3.8); APAC Trend Radar (+3.0); Southeast Asia (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "76601d2151cb4bd6e7e2"
+  },
+  {
     "title": "SREとは何か、AWSでどう始めるか",
     "url": "https://speakerdeck.com/kokitamura/sre-toha-nani-ka-aws-de-dou-hajimeru-ka",
     "source": "Hatena Bookmark Hotentry IT",
@@ -20,6 +153,27 @@
     "watchgraph_reasons": [],
     "market_context": [],
     "id": "39727378de47b84b9d30"
+  },
+  {
+    "title": "グーグルマップが遅い経路を表示してくるときに試したいこと - ねじまき日記",
+    "url": "https://nejimakinikki.hatenablog.com/entry/google-maps-ecomode-off-route",
+    "source": "Hatena Bookmark Hotentry IT",
+    "source_type": "rss",
+    "published_at": "2026-09-22T14:50:03+00:00",
+    "fetched_at": "2026-09-24T01:39:21+00:00",
+    "summary": "Google Mapsのエコモードをオフにする 最近、グーグルマップの経路表示が変だな、と思う方いませんか？？ 5分短縮するために1200円ぐらい高速料金かかる道を表示してきたり、 そうかと想えば、 普通なら15分でイケるところを、燃費のためかどうかしらないですけど、 18分で遠回りな道を表示するようになったり。 Reddit...",
+    "matched_keywords": [
+      "Hatena",
+      "hotentry"
+    ],
+    "relevance_score": 5,
+    "relevance_reason": "Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+    "risk_or_opportunity": "observation",
+    "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+    "watchgraph_modules": [],
+    "watchgraph_reasons": [],
+    "market_context": [],
+    "id": "d45eb547d8ca6da78240"
   },
   {
     "title": "Reverse home bias: Why Southeast Asia’s digital investors may be diversifying in the wrong direction",
