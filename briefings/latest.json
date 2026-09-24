@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T00:54:31+00:00",
-  "run_id": "2026-09-24T00:54:31+00:00",
+  "generated_at": "2026-09-24T01:15:40+00:00",
+  "run_id": "2026-09-24T01:15:40+00:00",
   "date": "2026-09-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 1
+      "configured_public_sources_only": 2
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -19,11 +19,11 @@
   },
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 1,
-    "displayed_findings": 1,
+    "today_file_total": 2,
+    "displayed_findings": 2,
     "high": 0,
     "medium": 0,
-    "observe": 1,
+    "observe": 2,
     "source_errors": 0
   },
   "sections": {
@@ -51,6 +51,27 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "39727378de47b84b9d30"
+      },
+      {
+        "title": "Reverse home bias: Why Southeast Asia’s digital investors may be diversifying in the wrong direction",
+        "url": "https://e27.co/reverse-home-bias-why-southeast-asias-digital-investors-may-be-diversifying-in-the-wrong-direction-20260914/",
+        "source": "e27 Asia Startup and Tech Feed",
+        "source_type": "rss",
+        "published_at": "2026-09-24T01:00:55+00:00",
+        "fetched_at": "2026-09-24T01:15:12+00:00",
+        "summary": "The next portfolio concentration problem may not come from investors staying too close to home, but from millions of investors becoming familiar with the same handful of global companies. For decades, one of the most persistent puzzles in investing has been home bias. Investors have traditionally tended to allocate disproportionately to companies and assets from […] The post Reverse home bias: Why Southeast Asia’s d…",
+        "matched_keywords": [
+          "APAC Trend Radar",
+          "Southeast Asia"
+        ],
+        "relevance_score": 3,
+        "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph demote portfolio (x0.45)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "ec0c4d44f87968ac9b42"
       }
     ]
   },
@@ -76,30 +97,50 @@
       "watchgraph_reasons": [],
       "market_context": [],
       "id": "39727378de47b84b9d30"
-    }
-  ],
-  "new_findings": [
+    },
     {
-      "title": "SREとは何か、AWSでどう始めるか",
-      "url": "https://speakerdeck.com/kokitamura/sre-toha-nani-ka-aws-de-dou-hajimeru-ka",
-      "source": "Hatena Bookmark Hotentry IT",
+      "title": "Reverse home bias: Why Southeast Asia’s digital investors may be diversifying in the wrong direction",
+      "url": "https://e27.co/reverse-home-bias-why-southeast-asias-digital-investors-may-be-diversifying-in-the-wrong-direction-20260914/",
+      "source": "e27 Asia Startup and Tech Feed",
       "source_type": "rss",
-      "published_at": "2026-09-23T13:46:19+00:00",
-      "fetched_at": "2026-09-24T00:53:57+00:00",
-      "summary": "銀行勘定系システムにおける開発プロセス刷新×AIによる環境モダナイゼーション / Development Process Transformation and AI-Driven Environment Modernization",
+      "published_at": "2026-09-24T01:00:55+00:00",
+      "fetched_at": "2026-09-24T01:15:12+00:00",
+      "summary": "The next portfolio concentration problem may not come from investors staying too close to home, but from millions of investors becoming familiar with the same handful of global companies. For decades, one of the most persistent puzzles in investing has been home bias. Investors have traditionally tended to allocate disproportionately to companies and assets from […] The post Reverse home bias: Why Southeast Asia’s d…",
       "matched_keywords": [
-        "AI/KI",
-        "Hatena",
-        "hotentry"
+        "APAC Trend Radar",
+        "Southeast Asia"
       ],
-      "relevance_score": 8,
-      "relevance_reason": "AI/KI (+3.0); Hatena (+2.0); hotentry (+2.0); recent (+1.0)",
+      "relevance_score": 3,
+      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph demote portfolio (x0.45)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "39727378de47b84b9d30"
+      "id": "ec0c4d44f87968ac9b42"
+    }
+  ],
+  "new_findings": [
+    {
+      "title": "Reverse home bias: Why Southeast Asia’s digital investors may be diversifying in the wrong direction",
+      "url": "https://e27.co/reverse-home-bias-why-southeast-asias-digital-investors-may-be-diversifying-in-the-wrong-direction-20260914/",
+      "source": "e27 Asia Startup and Tech Feed",
+      "source_type": "rss",
+      "published_at": "2026-09-24T01:00:55+00:00",
+      "fetched_at": "2026-09-24T01:15:12+00:00",
+      "summary": "The next portfolio concentration problem may not come from investors staying too close to home, but from millions of investors becoming familiar with the same handful of global companies. For decades, one of the most persistent puzzles in investing has been home bias. Investors have traditionally tended to allocate disproportionately to companies and assets from […] The post Reverse home bias: Why Southeast Asia’s d…",
+      "matched_keywords": [
+        "APAC Trend Radar",
+        "Southeast Asia"
+      ],
+      "relevance_score": 3,
+      "relevance_reason": "APAC Trend Radar (+3.0); Southeast Asia (+2.5); recent (+1.0); watchgraph demote portfolio (x0.45)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "ec0c4d44f87968ac9b42"
     }
   ],
   "source_errors": [],
