@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T13:34:16+00:00",
-  "run_id": "2026-09-24T13:34:16+00:00",
+  "generated_at": "2026-09-24T13:46:12+00:00",
+  "run_id": "2026-09-24T13:46:12+00:00",
   "date": "2026-09-24",
   "status": "normal",
   "mode": "hardened_monitor",
@@ -8,7 +8,7 @@
   "coverage": {
     "coverage_confidence": "normal",
     "active_sensor_groups": {
-      "configured_public_sources_only": 75
+      "configured_public_sources_only": 76
     },
     "principles": [
       "Normaler Hardened-Monitor ist sichtbare Hauptleitung.",
@@ -18,12 +18,12 @@
     ]
   },
   "counts": {
-    "new_relevant_findings": 6,
-    "today_file_total": 75,
-    "displayed_findings": 75,
+    "new_relevant_findings": 1,
+    "today_file_total": 76,
+    "displayed_findings": 76,
     "high": 0,
     "medium": 30,
-    "observe": 45,
+    "observe": 46,
     "source_errors": 0
   },
   "sections": {
@@ -1466,6 +1466,26 @@
         "watchgraph_reasons": [],
         "market_context": [],
         "id": "d1776c7fa9f1ca8633f6"
+      },
+      {
+        "title": "Transition and adjustment in changing times",
+        "url": "https://www.bis.org/speeches/20260924-transition-and-adjustment-changing-times",
+        "source": "BIS Central Bankers Speeches",
+        "source_type": "rss",
+        "published_at": "2026-09-24T00:00:00+00:00",
+        "fetched_at": "2026-09-24T13:45:38+00:00",
+        "summary": "Speech by Mr Erik Thedéen, Governor of the Sveriges Riksbank, at the Central Bank of Ireland, Dublin, 18 September 2026.",
+        "matched_keywords": [
+          "Macro/Policy"
+        ],
+        "relevance_score": 6,
+        "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+        "risk_or_opportunity": "observation",
+        "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+        "watchgraph_modules": [],
+        "watchgraph_reasons": [],
+        "market_context": [],
+        "id": "c669ad03b15069cb3915"
       },
       {
         "title": "Opening remarks - panel session on economics of innovation",
@@ -3217,6 +3237,26 @@
       "id": "d1776c7fa9f1ca8633f6"
     },
     {
+      "title": "Transition and adjustment in changing times",
+      "url": "https://www.bis.org/speeches/20260924-transition-and-adjustment-changing-times",
+      "source": "BIS Central Bankers Speeches",
+      "source_type": "rss",
+      "published_at": "2026-09-24T00:00:00+00:00",
+      "fetched_at": "2026-09-24T13:45:38+00:00",
+      "summary": "Speech by Mr Erik Thedéen, Governor of the Sveriges Riksbank, at the Central Bank of Ireland, Dublin, 18 September 2026.",
+      "matched_keywords": [
+        "Macro/Policy"
+      ],
+      "relevance_score": 6,
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
+      "risk_or_opportunity": "observation",
+      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
+      "watchgraph_modules": [],
+      "watchgraph_reasons": [],
+      "market_context": [],
+      "id": "c669ad03b15069cb3915"
+    },
+    {
       "title": "Opening remarks - panel session on economics of innovation",
       "url": "https://www.bis.org/speeches/20260924-opening-remarks-panel-session-economics-innovation",
       "source": "BIS Central Bankers Speeches",
@@ -3529,141 +3569,24 @@
   ],
   "new_findings": [
     {
-      "title": "Multiples vulnérabilités dans ISC BIND (17 septembre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1192/",
-      "source": "CERT-FR Avis de sécurité",
+      "title": "Transition and adjustment in changing times",
+      "url": "https://www.bis.org/speeches/20260924-transition-and-adjustment-changing-times",
+      "source": "BIS Central Bankers Speeches",
       "source_type": "rss",
-      "published_at": "2026-09-17T00:00:00+00:00",
-      "fetched_at": "2026-09-24T13:33:43+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans ISC BIND. Elles permettent à un attaquant de provoquer un déni de service à distance, une atteinte à l'intégrité des données et un contournement de la politique de sécurité.",
+      "published_at": "2026-09-24T00:00:00+00:00",
+      "fetched_at": "2026-09-24T13:45:38+00:00",
+      "summary": "Speech by Mr Erik Thedéen, Governor of the Sveriges Riksbank, at the Central Bank of Ireland, Dublin, 18 September 2026.",
       "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "8fdae91ab03228c1ada9"
-    },
-    {
-      "title": "Vulnérabilité dans les produits Check Point (17 septembre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1193/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-09-17T00:00:00+00:00",
-      "fetched_at": "2026-09-24T13:33:43+00:00",
-      "summary": "Une vulnérabilité a été découverte dans les produits Check Point. Elle permet à un attaquant de provoquer une exécution de code arbitraire à distance. Checkpoint recommande de rechercher, via la *SmartConsole*, le motif **\"Administrator failed to log in: Username too long\"** dans les journaux...",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "d86f33adff19c3c14f49"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits Mozilla (16 septembre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1183/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-09-16T00:00:00+00:00",
-      "fetched_at": "2026-09-24T13:33:43+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Mozilla. Certaines d'entre elles permettent à un attaquant de provoquer une élévation de privilèges, un déni de service à distance et une atteinte à la confidentialité des données.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "a4a6940e41675b4228db"
-    },
-    {
-      "title": "Vulnérabilité dans F5 NGINX (16 septembre 2026)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2026-AVI-1182/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2026-09-16T00:00:00+00:00",
-      "fetched_at": "2026-09-24T13:33:43+00:00",
-      "summary": "Une vulnérabilité a été découverte dans F5 NGINX. Elle permet à un attaquant de provoquer un déni de service à distance et une atteinte à l'intégrité des données.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "7897c95fd43c334f0da3"
-    },
-    {
-      "title": "Multiples vulnérabilités dans les produits Siemens (10 septembre 2019)",
-      "url": "https://www.cert.ssi.gouv.fr/avis/CERTFR-2019-AVI-429/",
-      "source": "CERT-FR Avis de sécurité",
-      "source_type": "rss",
-      "published_at": "2019-09-10T00:00:00+00:00",
-      "fetched_at": "2026-09-24T13:33:43+00:00",
-      "summary": "De multiples vulnérabilités ont été découvertes dans les produits Siemens. Certaines d'entre elles permettent à un attaquant de provoquer une exécution de code arbitraire à distance, un déni de service à distance et un contournement de la politique de sécurité.",
-      "matched_keywords": [
-        "avis",
-        "CERT-FR",
-        "sécurité",
-        "vulnérabilité"
-      ],
-      "relevance_score": 8,
-      "relevance_reason": "CERT-FR (+2.0); avis (+2.0); sécurité (+2.0); vulnérabilité (+2.5)",
-      "risk_or_opportunity": "observation",
-      "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
-      "watchgraph_modules": [],
-      "watchgraph_reasons": [],
-      "market_context": [],
-      "id": "af212943a9353fb041b8"
-    },
-    {
-      "title": "Vulnérabilité dans Apple Mac OS X (24 juillet 2015)",
-      "url": "https://www.cert.ssi.gouv.fr/alerte/CERTFR-2015-ALE-009/",
-      "source": "CERT-FR Alertes",
-      "source_type": "rss",
-      "published_at": "2015-07-24T00:00:00+00:00",
-      "fetched_at": "2026-09-24T13:33:43+00:00",
-      "summary": "Une vulnérabilité a été découverte dans Apple Mac OS X. Elle permet à un attaquant de provoquer une élévation de privilèges.",
-      "matched_keywords": [
-        "alerte",
-        "CERT-FR",
-        "vulnérabilité"
+        "Macro/Policy"
       ],
       "relevance_score": 6,
-      "relevance_reason": "CERT-FR (+2.0); alerte (+2.0); vulnérabilité (+2.5)",
+      "relevance_reason": "Macro/Policy (+5.0); recent (+1.0)",
       "risk_or_opportunity": "observation",
       "recommended_action": "Beobachten, Quelle sichern und bei Wiederholung erneut bewerten.",
       "watchgraph_modules": [],
       "watchgraph_reasons": [],
       "market_context": [],
-      "id": "d98876eafe388d4e1016"
+      "id": "c669ad03b15069cb3915"
     }
   ],
   "source_errors": [],
