@@ -1,10 +1,10 @@
 # Senna Briefing
 
-_Generiert: 2026-09-24T14:49:13+00:00_
+_Generiert: 2026-09-24T14:57:57+00:00_
 
 ## Kurzlage
 
-80 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Ansible Automation Platform (automation-controller): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, opportunity).
+81 neue relevante Treffer. Stärkstes Signal: „[NEU] [hoch] Red Hat Ansible Automation Platform (automation-controller): Mehrere Schwachstellen“ aus BSI CERT-Bund Security Advisories (Score 22, opportunity).
 
 <!-- SENNA_GLOBAL_WATCHDOGS:START -->
 ## Sicherheitslage global
@@ -49,10 +49,10 @@ _Generiert: 2026-09-24T14:49:13+00:00_
   - Quelle: GDACS
   - Zeit: ``
   - Kurz: Orange notification for tropical cyclone ONE-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 0  (10.248 million in Tropical Storm).
-- **GDACS: Green notification for tropical cyclone POLO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 2138 .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001325)
+- **GDACS: Orange notification for tropical cyclone POLO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 23941 .** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=TC&amp;eventid=1001325)
   - Quelle: GDACS
   - Zeit: ``
-  - Kurz: Green notification for tropical cyclone POLO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 2138 .
+  - Kurz: Orange notification for tropical cyclone POLO-26. Population affected by Category 1 (120 km/h) wind speeds or higher is 23941 .
 - **GDACS: Green earthquake (Magnitude 5.5M, Depth:10km) in Indonesia 21/09/2026 01:41 UTC, 2 thousand (in MMI&gt;=VII).** — medium — [Quelle](https://www.gdacs.org/report.aspx?eventtype=EQ&amp;eventid=1567198)
   - Quelle: GDACS
   - Zeit: ``
