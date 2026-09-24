@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "doc_type": "senna.memory.topics",
-  "generated_at": "2026-09-24T10:53:46+00:00",
+  "generated_at": "2026-09-24T11:01:10+00:00",
   "topics": {
     "ai": [
       {
@@ -77,6 +77,13 @@
     ],
     "security": [
       {
+        "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+        "source": "BSI CERT-Bund Security Advisories",
+        "published_at": "2026-09-24T10:54:33+00:00",
+        "relevance_score": 16,
+        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3211"
+      },
+      {
         "title": "CISA ICS Advisory / ICS Medical Advisory（2026年09月22日）",
         "source": "JVN Japan Vulnerability Notes",
         "published_at": "2026-09-24T10:30:00+09:00",
@@ -138,13 +145,6 @@
         "published_at": "2026-09-24T10:26:23+00:00",
         "relevance_score": 14,
         "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3513"
-      },
-      {
-        "title": "[UPDATE] [hoch] Foxit PDF Reader und Foxit PDF Editor: Mehrere Schwachstellen",
-        "source": "BSI CERT-Bund Security Advisories",
-        "published_at": "2026-09-24T10:26:23+00:00",
-        "relevance_score": 14,
-        "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3525"
       }
     ],
     "general": [

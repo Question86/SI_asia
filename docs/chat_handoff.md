@@ -1,10 +1,10 @@
 # Senna Chat Handoff
 
-_Generated: 2026-09-24T10:53:46+00:00_
+_Generated: 2026-09-24T11:01:10+00:00_
 
 ## Status
 - status: `normal`
-- findings: `45`
+- findings: `46`
 
 ## Top Signals
 
@@ -15,26 +15,26 @@ _Generated: 2026-09-24T10:53:46+00:00_
 - url: https://www.nikkei.com/article/DGXZQOGN2407Y0U6A920C2000000/
 - summary: 【シリコンバレー=伴正春、シドニー=今橋瑠璃華】オーストラリアのアルバニージー首相は23日、米オープンAIの人工知能（AI）が6月に国民健康保険のサイトに侵入して非公開のデータにアクセスしていたと公表した。豪公共放送ABCなどが報じた。豪ABCなどによると、米ニューヨークで開かれた記者会見で同氏が発言した。近く...
 
-### 2. CISA ICS Advisory / ICS Medical Advisory（2026年09月22日）
+### 2. [UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen
+- source: BSI CERT-Bund Security Advisories
+- score: `16`
+- published: `2026-09-24T10:54:33+00:00`
+- url: https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3211
+- summary: Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um Speicherfehler und Kernel-Abstürze beziehungsweise Denial-of-Service-Zustände auszulösen, Speicher außerhalb vorgesehener Grenzen auszulesen sowie in einzelnen Fällen…
+
+### 3. CISA ICS Advisory / ICS Medical Advisory（2026年09月22日）
 - source: JVN Japan Vulnerability Notes
 - score: `16`
 - published: `2026-09-24T10:30:00+09:00`
 - url: https://jvn.jp/vu/JVNVU96198756/
 - summary: 米国CISAがCISA ICS Advisory / ICS Medical Advisoryを公表しました。
 
-### 3. M 4.5 - 31 km NNW of Komodo, Indonesia
+### 4. M 4.5 - 31 km NNW of Komodo, Indonesia
 - source: USGS M4.5+ Earthquakes Past Hour
 - score: `15`
 - published: `2026-09-24T03:51:50.040+00:00`
 - url: https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx8q
 - summary: Time 2026-09-24 03:30:26 UTC 2026-09-24 03:30:26 UTC at epicenter Location 8.330°S 119.367°E Depth 10.00 km (6.21 mi)
-
-### 4. 三菱電機製GX Works3およびモーション制御設定における認証回避の脆弱性
-- source: JVN Japan Vulnerability Notes
-- score: `14`
-- published: `2026-09-24T13:00:00+09:00`
-- url: https://jvn.jp/vu/JVNVU99700314/
-- summary: 三菱電機株式会社が提供するGX Works3およびモーション制御設定のブロックパスワード設定機能には、認証回避の脆弱性が存在します。
 
 ### 5. SEA startup funding jumps to US$7.25B, but most founders are still waiting
 - source: e27 Asia Startup and Tech Feed

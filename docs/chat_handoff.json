@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
   "doc_type": "senna.chat_handoff",
-  "generated_at": "2026-09-24T10:53:46+00:00",
+  "generated_at": "2026-09-24T11:01:10+00:00",
   "status": "normal",
   "coverage_confidence": "normal",
   "counts": {
     "new_relevant_findings": 1,
-    "today_file_total": 45,
-    "displayed_findings": 45,
+    "today_file_total": 46,
+    "displayed_findings": 46,
     "high": 0,
-    "medium": 16,
+    "medium": 17,
     "observe": 29
   },
   "source_errors_count": 0,
@@ -22,6 +22,16 @@
       "relevance_score": 18,
       "url": "https://www.nikkei.com/article/DGXZQOGN2407Y0U6A920C2000000/",
       "summary": "【シリコンバレー=伴正春、シドニー=今橋瑠璃華】オーストラリアのアルバニージー首相は23日、米オープンAIの人工知能（AI）が6月に国民健康保険のサイトに侵入して非公開のデータにアクセスしていたと公表した。豪公共放送ABCなどが報じた。豪ABCなどによると、米ニューヨークで開かれた記者会見で同氏が発言した。近く...",
+      "section": "medium"
+    },
+    {
+      "title": "[UPDATE] [hoch] Linux Kernel: Mehrere Schwachstellen",
+      "source": "BSI CERT-Bund Security Advisories",
+      "source_type": "rss",
+      "published_at": "2026-09-24T10:54:33+00:00",
+      "relevance_score": 16,
+      "url": "https://wid.cert-bund.de/portal/wid/securityadvisory?name=WID-SEC-2026-3211",
+      "summary": "Ein entfernter, anonymer Angreifer kann mehrere Schwachstellen in Linux Kernel ausnutzen, um Speicherfehler und Kernel-Abstürze beziehungsweise Denial-of-Service-Zustände auszulösen, Speicher außerhalb vorgesehener Grenzen auszulesen sowie in einzelnen Fällen…",
       "section": "medium"
     },
     {
@@ -42,16 +52,6 @@
       "relevance_score": 15,
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tx8q",
       "summary": "Time 2026-09-24 03:30:26 UTC 2026-09-24 03:30:26 UTC at epicenter Location 8.330°S 119.367°E Depth 10.00 km (6.21 mi)",
-      "section": "medium"
-    },
-    {
-      "title": "三菱電機製GX Works3およびモーション制御設定における認証回避の脆弱性",
-      "source": "JVN Japan Vulnerability Notes",
-      "source_type": "rss",
-      "published_at": "2026-09-24T13:00:00+09:00",
-      "relevance_score": 14,
-      "url": "https://jvn.jp/vu/JVNVU99700314/",
-      "summary": "三菱電機株式会社が提供するGX Works3およびモーション制御設定のブロックパスワード設定機能には、認証回避の脆弱性が存在します。",
       "section": "medium"
     },
     {
