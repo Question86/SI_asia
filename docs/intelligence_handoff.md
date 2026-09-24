@@ -1,6 +1,6 @@
 # Senna Intelligence Handoff
 
-_Generated: 2026-09-24T22:50:40Z_
+_Generated: 2026-09-24T23:12:34Z_
 
 ## Lageurteil
 
@@ -12,7 +12,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [mittel] BusyBox: Meh
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `33.0`
-- Published: `2026-09-24T11:24:23+00:00` / age_days `0.48`
+- Published: `2026-09-24T11:24:23+00:00` / age_days `0.49`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code
@@ -22,7 +22,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [mittel] BusyBox: Meh
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `31.0`
-- Published: `2026-09-24T11:34:23+00:00` / age_days `0.47`
+- Published: `2026-09-24T11:34:23+00:00` / age_days `0.48`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code
@@ -32,7 +32,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [mittel] BusyBox: Meh
 
 - Band: `krass` (raw `krass`)
 - Dynamics score: `31.0`
-- Published: `2026-09-24T11:04:23+00:00` / age_days `0.49`
+- Published: `2026-09-24T11:04:23+00:00` / age_days `0.51`
 - Vergleich: Die Dynamik ist verglichen ziemlich krass; nicht automatisch wahrer, aber deutlich bewegter als übliches Rauschen.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code
@@ -42,7 +42,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [mittel] BusyBox: Meh
 
 - Band: `strong` (raw `extreme`)
 - Dynamics score: `24.9`
-- Published: `2026-09-24T11:04:25+00:00` / age_days `0.49`
+- Published: `2026-09-24T11:04:25+00:00` / age_days `0.51`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, controller, security high-signal: code, controller, AXI0M/User-Yps identity hit, identity recheck: no AXI0M/User-Yps phrase hit, extreme gate recheck: insufficient independent/current evidence
@@ -52,7 +52,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [mittel] BusyBox: Meh
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-24T11:04:24+00:00` / age_days `0.49`
+- Published: `2026-09-24T11:04:24+00:00` / age_days `0.51`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: angriffe, security high-signal: angriffe, official security but no high-signal phrase: capped at strong
@@ -62,7 +62,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [mittel] BusyBox: Meh
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-24T18:26:12+00:00` / age_days `0.18`
+- Published: `2026-09-24T18:26:12+00:00` / age_days `0.2`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: security high-signal: security, krass gate recheck: needs multi-source, identity, or official high-signal phrase
@@ -72,7 +72,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [mittel] BusyBox: Meh
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-24T11:49:24+00:00` / age_days `0.46`
+- Published: `2026-09-24T11:49:24+00:00` / age_days `0.47`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: angriffe, security high-signal: angriffe, official security but no high-signal phrase: capped at strong
@@ -82,7 +82,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [mittel] BusyBox: Meh
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-24T11:34:23+00:00` / age_days `0.47`
+- Published: `2026-09-24T11:34:23+00:00` / age_days `0.48`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: auth, security high-signal: auth, official security but no high-signal phrase: capped at strong
@@ -92,7 +92,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [mittel] BusyBox: Meh
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-24T11:04:26+00:00` / age_days `0.49`
+- Published: `2026-09-24T11:04:26+00:00` / age_days `0.51`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -102,7 +102,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [mittel] BusyBox: Meh
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-24T11:04:25+00:00` / age_days `0.49`
+- Published: `2026-09-24T11:04:25+00:00` / age_days `0.51`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: angriffe, code, security high-signal: angriffe, code, official security but no high-signal phrase: capped at strong
@@ -112,7 +112,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [mittel] BusyBox: Meh
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-24T11:04:24+00:00` / age_days `0.49`
+- Published: `2026-09-24T11:04:24+00:00` / age_days `0.51`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: code, security high-signal: code, official security but no high-signal phrase: capped at strong
@@ -122,7 +122,7 @@ Stärkste Dynamik nach Gate-Recheck: “[NEU] [UNGEPATCHT] [mittel] BusyBox: Meh
 
 - Band: `strong` (raw `krass`)
 - Dynamics score: `24.9`
-- Published: `2026-09-24T10:30:30+09:00` / age_days `0.89`
+- Published: `2026-09-24T10:30:30+09:00` / age_days `0.9`
 - Vergleich: Die Dynamik liegt über Normalniveau und verdient aktive Beobachtung.
 - Senna: Security zuerst. Exposure prüfen, Patchstand sichern, dann erst über Narrative reden.
 - Warum: high terms: 10, security high-signal: 10, official security but no high-signal phrase: capped at strong
